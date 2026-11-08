@@ -294,13 +294,13 @@ No resolver ninguno de estos puntos por conveniencia:
    - **Rima de saga (DISEÑO, no enunciar):** Elenna conoce por las cartas la historia de cómo se comprometieron sus padres; en el hangar de *Camino a Casa*, "Pero mi historia empezó en un aeropuerto así, ¿o no?" / "Sí." carga la noche de la salida a Stavanger (anillo e hija en el mismo viaje). Capas secundarias: Kingsley Field (Palermo, el regreso de Chiara, la llegada de Halbrook en el 50b) y el papel de canela y vainilla (el tic del nombre en el Libro II es lo primero que Chiara le escribe). Ninguna escena la explica; la rima vive en lo que trae el lector.
 3. **PENDIENTE:** momento exacto del descubrimiento del embarazo, incluido cuántos días antes de H1 lo confirma Chiara. **CANON DEL AUTOR (2026-10-13):** la confirmación ocurre fuera de página y nadie lo sabe antes que Kal; Chiara calla para que él vuelva por ella, no por el bebé. Ver [[11_Books/Book_02_Sombras_De_Poder/00_Diseno_Nombre_Y_Embarazo]].
 4. **PENDIENTE:** cuánto embarazo ha transcurrido al iniciar *Voto de Ceniza* (Libro II).
-5. **PENDIENTE:** detonante concreto que obliga a ocultarla.
-6. **PENDIENTE:** circunstancias médicas exactas del parto.
+5. **RESUELTO (DECISIÓN DEL AUTOR, 2026-11-08):** el detonante es la muerte de Trix y la orfandad de Iris; Dario cree que Kal le quitó una hija. Ver [[11_Books/Book_03_Voto_De_Ceniza/00_Diseno_Embarazo_Y_Falsa_Muerte]].
+6. **PARCIAL (DECISIÓN DEL AUTOR, 2026-11-08):** embarazo de riesgo por edad; sangrado súbito a los seis meses y reposo hasta el parto; parto en hospital; Camila y Lucía ayudan con los trámites. Mecanismo (placenta previa) DISEÑO. Ver [[11_Books/Book_03_Voto_De_Ceniza/00_Diseno_Embarazo_Y_Falsa_Muerte]].
 7. **PENDIENTE:** versión pública exacta de su supuesta muerte.
 8. **PENDIENTE:** hospital.
 9. **PENDIENTE:** mecanismo documental de Elenna Serra.
 10. **PENDIENTE:** quién crea o consigue los documentos.
-11. **PENDIENTE:** quién conoce que sigue viva y desde cuándo.
+11. **PARCIAL (DECISIÓN DEL AUTOR, 2026-11-08):** en San Aurelio sólo Kal y Chiara; fuera, Bonnie. Héctor lo sabe por Kal poco antes de la montaña. Ver [[11_Books/Book_03_Voto_De_Ceniza/00_Diseno_Embarazo_Y_Falsa_Muerte]].
 12. **PENDIENTE:** quién organiza el traslado.
 13. **PENDIENTE:** cómo llega a Italia.
 14. **PENDIENTE:** localización exacta donde vive con Bonnie.

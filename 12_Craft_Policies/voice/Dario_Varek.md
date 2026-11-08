@@ -2,12 +2,13 @@
 
 > Recalibrada 2026-10-04 ([[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Dialogo_Terceros_Parte_I]]). Vara: "La tregua es por lo que le pasó, señor Mercer. No por ella." (canonizada) y "Ésta premia a la gente que entiende su lugar" (2, protegida, rima con el 26). **El Cap. 9 está en rediseño del autor (2026-10-04):** sus escenas (hospital, alta, "Forraje") quedan como referencia provisional, no como vara.
 > **Regla de uso:** las muestras enseñan registro; no se copian literales en prosa nueva.
+> **NUEVO CAUCE (2026-11-08; [[98_Agent_Handoff/sessions/2026-11-08_claude_propagacion_parte_II]]):** en el nuevo 26 ([[11_Books/Book_01_Mascaras_De_Cristal/Part_02_Con_Peores_Personas_He_Tratado/26_Me_Encuentro_Bien]], hipódromo) Varek **tutea a Chiara sólo en las dos líneas canon** («¿Te estás acostando con él?», «Trabajas para mí. No conmigo.») y **vuelve al usted para cobrar** («Me va a deber una. A su nombre, no a nombre del Monarch… Cuando lo sepa, se la pido.»). Salieron «vas a aprender tu lugar» y «Si hay que eliminar a Kal, entonces tú vas a hacerlo» (CANON DEL AUTOR): **la rima de «su lugar» con el Cap. 2 queda sin pareja**, así que la frase del 2 sigue protegida y sola. En el nuevo 27 la llama «Chiara» con usted delante de Kal («Dígame, Chiara»); al teléfono con Kal: «Ven ahora. Sabes dónde.».
 
 ## Cadencia y sintaxis
 
 Correcto, medido, sin frases que puedan citarse en su contra. No amenaza si puede asignar valor, permiso o consecuencia. **Repite la palabra del otro** y la deja respirar hasta que se vuelve evidencia ("El corral." / "Forraje."). Habla poco; cada frase llega ya decidida.
 
-**Una sentencia por escena, como máximo.** Su riesgo es volverse máquina de aforismos sobre San Aurelio ("premia", "cobra cosas peores", "la necesita entera"). La frase de "su lugar" es la del Cap. 2 (archivo 02) y su rima del 26; no se repite en medio.
+**Una sentencia por escena, como máximo.** Su riesgo es volverse máquina de aforismos sobre San Aurelio ("premia", "cobra cosas peores", "la necesita entera"). La frase de "su lugar" es la del Cap. 2 (archivo 02) y su rima del 26; no se repite en medio. *(Nuevo cauce, 2026-11-08: la rima del 26 salió; ver nota de cabecera.)*
 
 ## Vocabulario
 
@@ -48,6 +49,7 @@ Da la mano como si cerrara un acuerdo ya decidido. Mira a la persona el tiempo e
 - "La tregua es por lo que le pasó, señor Mercer. No por ella." (9, canon)
 - "Sin que llegara a los socios. Interesante." (22)
 - "Para el Monarch." (7, la palabra del otro repetida; 2026-10-04)
+- «Señor Mercer» al contestar el teléfono de Kal; «Las armas, señor Mercer. Completas.» (36; nuevo cauce, 2026-11-08). En el 39, «Las armas, señor Mercer.» Siempre «señor Mercer», nunca «Mercer» a secas.
 
 ## Línea genérica a evitar
 

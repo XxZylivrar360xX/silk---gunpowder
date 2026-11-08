@@ -11,9 +11,10 @@ Misterios, semillas, mentiras, rituales y pagos del libro activo. Cruzar con [[1
 - **Quien ya lo sabe:** al principio nadie; despues, La Almendra como comunidad.
 - **Quien NO debe saberlo/insinuarlo todavia:** Dario, socios del Monarch, policia, prensa y Varek hasta que exista escena concreta de sospecha.
 - **ACTUALIZADO (2026-10-06, cascada del arco final; [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Caps_44-50b_Arco_Final]], § 5 de E3):** el arco 44–50b ya contiene esas escenas concretas, así que la línea de arriba vale sólo para la prosa anterior al 44. **Dario** lo ve en el 47: Chiara paga por Kal con una deuda personal, y él contesta "A él no". **Lucía** lo registra en el 44 y el 47 (H20: lo suyo excede los negocios). **Los Bravos** (48) y **Valenti/Il Consorzio** (49) saben que Chiara se mueve por Kal. **Halbrook** tiene fotos de los dos (50b). Siguen sin saberlo, o sin decirlo: los socios del Monarch, la policía como institución y la prensa. Nadie la **nombra** en voz alta todavía: la regla de líneas prohibidas sigue vigente.
-- **Primera grieta permitida (decision del autor 2026-09-09):** el testimonio de Chiara en el litigio civil del concesionario, [[11_Books/Book_01_Mascaras_De_Cristal/Part_02_Con_Peores_Personas_He_Tratado/24_Bajo_Juramento|Cap. 24]]. En contrainterrogatorio queda en **registro semipúblico** que ve a Kal "con frecuencia", que la relación es "cercana" y que tiene "razones personales" para quererlo ver ganar; más el titubeo "mi... amigo". Es siembra deliberada: ese expediente es un rastro que Varek, Tommaso o un tercero pueden recoger después. El beat "mi... amigo" NO se corta.
+- **Primera grieta permitida (decision del autor 2026-09-09):** el testimonio de Chiara en el litigio civil del concesionario, [[11_Books/Book_01_Mascaras_De_Cristal/Escenas_Eliminadas/24_Bajo_Juramento_Version_2026-11-08|Cap. 24]]. En contrainterrogatorio queda en **registro semipúblico** que ve a Kal "con frecuencia", que la relación es "cercana" y que tiene "razones personales" para quererlo ver ganar; más el titubeo "mi... amigo". Es siembra deliberada: ese expediente es un rastro que Varek, Tommaso o un tercero pueden recoger después. El beat "mi... amigo" NO se corta.
 - **Lineas o gestos prohibidos:** terceros nombrando la relacion antes de que la union invisible este sembrada como costumbre social; que alguien **complete** la sospecha del Cap. 24 en voz alta antes de la escena que el autor decida para eso.
 - **Estado:** primera grieta colocada en prosa (Cap. 24); pago pendiente.
+- **SUPERSEDIDO (nuevo cauce, CANON DEL AUTOR 2026-11-07/08):** *Bajo juramento* se retiró, y con él el testimonio y el **registro semipúblico**: ya no hay expediente que recoger. «mi… amigo» pasa al nuevo 25 ([[11_Books/Book_01_Mascaras_De_Cristal/Part_02_Con_Peores_Personas_He_Tratado/25_Libros_Abiertos]]), en la venta del Lancia entre falsos desconocidos: Marco pregunta quién la recomendó, la palabra descartada no se nombra y el cierre no vuelve a nombrar «amigo» (opción A estricta). La grieta deja de ser pública. El primero de fuera del barrio que nombra la relación es Crowe, por recado, en el nuevo 32 («a usted y a su pareja»).
 
 ---
 
@@ -118,6 +119,7 @@ Misterios, semillas, mentiras, rituales y pagos del libro activo. Cruzar con [[1
 > **DISENO (2026-08-26):** que Dario Varek haya preguntado por el pasado de Chiara en Palermo, y que Tommaso sea quien contesta, es inferencia del agente para dar material nuevo al segundo escalon. Abre dos cosas utiles: Dario investigando a su propia gente, y Tommaso como fuente unica de lo que Dario cree. Si el autor lo veta, la escena del pasillo del Capitulo 5 vuelve a terminar en "Yo si" y hay que buscar otro escalon.
 
 - **Estado:** tres escalones en prosa (registrado el 3.º el 2026-09-26, decision del autor); los siguientes pendientes de diseno.
+- **Nuevo cauce (2026-11-08, DISEÑO):** siembra del frente Tommaso–Chiara en el nuevo 21 ([[11_Books/Book_01_Mascaras_De_Cristal/Part_02_Con_Peores_Personas_He_Tratado/22b_Con_Su_Proveedor]]): Tommaso autoriza la factura, tantea la versión de Kal («¿Traían algo más?») y le dice «Es una buena versión. Se parece mucho a la de Bellandi.». En el 22 Chiara lo cobra: «Con Tommaso, todo lo que se parece es una pregunta». No es un escalón contra Chiara, porque se lo dice a Kal; cuenta para la regla de no repetir.
 
 ---
 
@@ -153,7 +155,8 @@ Misterios, semillas, mentiras, rituales y pagos del libro activo. Cruzar con [[1
 - **La frase partida (CANON DEL AUTOR):** Kal, subiendo la escalera, solo oye la primera mitad ("…agarro mis cosas y me voy"). La segunda ("Lo que no se es si contigo podria", redaccion DISENO) no se transcribe en el 24-bis: la frase completa significa lo contrario.
 - **Pagos en el Libro I:** Cap. 28 — Kal le recuerda la frase; Chiara le dice que escucho la mitad y le da la segunda. Lo que sigue callando es por que la dijo (Nadir).
 - **Prohibido en el Libro I:** que Kal se entere, que Chiara lo insinue, que Nadir lo confiese. CANON DEL AUTOR: se paga en *Sombras de Poder* (Libro II).
-- **Deuda abierta junto a esto:** el precio del falso testimonio de Tommaso (Cap. 24) queda instalado y sin cobrar; Nadir lo usa como detonante.
+- ~~**Deuda abierta junto a esto:** el precio del falso testimonio de Tommaso (Cap. 24) queda instalado y sin cobrar; Nadir lo usa como detonante.~~ **SUPERSEDIDO (CANON DEL AUTOR, 2026-11-08):** la mentira de Tommaso y su «precio abierto» salen con *Bajo juramento* (retirado). El detonante de Nadir son el robo y el libro que Kal no abrió; el «No hay *pagamos*» de Chiara se refiere al libro, que viene de su lado.
+- **Nuevo cauce (CANON DEL AUTOR, 2026-11-08):** la capa 2 (Il Gelsomino) sale del nuevo 22 y **Chiara la recuerda en el nuevo 24** ([[11_Books/Book_01_Mascaras_De_Cristal/Part_02_Con_Peores_Personas_He_Tratado/24d_Vienes_Conmigo]]) al arrancar del parador: el agua ya le llega al cuello, y por eso pide el motel. Al cierre de la Parte II, Kal sigue sin saber que Nadir habló con Chiara, y la segunda mitad de la frase no se nombra.
 - **Estado:** sembrado, sin pagar.
 
 ---
@@ -226,6 +229,7 @@ Misterios, semillas, mentiras, rituales y pagos del libro activo. Cruzar con [[1
 - **Continuidad (resuelta 2026-10-29, OC-03):** en *Al revés* (archivo 38, Cap. 46) Chiara dice «dejaron el reloj y se llevaron el teléfono».
 - **Peugeot, nueva sospecha (Cap. 30):** Collins le dice a Kal que fue «muy conveniente» que lo descartaran y que Domínguez «frena en las rotondas». Lo compra en voz alta; no lo sabe. Blake sale de la sala antes, así que la regla de arriba se cumple.
 - **Collins y Kal, ex amantes (CANON DEL AUTOR, 2026-11-07):** fueron amantes antes de la cárcel. **Lo saben:** ellos dos; el lector lo infiere en el Cap. 27 («Hacía años que no la oía sin estática»; «un coche que ya manejó»). **Chiara:** lo lee por conducta en el Cap. 40 (Kal se esconde, «Ojos azules», «Alguien de antes», el tornillo) y calla hasta Stavanger. **Prohibido en el Libro I:** que alguien lo nombre en voz alta («amante» no se dice); que Collins pruebe lo del Peugeot.
+- **Nuevo cauce (CANON DEL AUTOR, 2026-11-08):** el caballo entra en la denuncia como parte del asalto («disparo», «animal (equino)»; en el nuevo 30 Lucía lo resume: «teléfono, cartera, reloj, un caballo, nadie vio nada»). La bala queda en el tercer tablón; Kal la saca con la navaja el lunes, fuera de cuadro (siembra del nuevo 35). Kal descarta a Crowe («lo que se cobra se deja vivo para que siga pagando»): la bandera falsa funciona.
 
 ---
 
@@ -236,6 +240,7 @@ Misterios, semillas, mentiras, rituales y pagos del libro activo. Cruzar con [[1
 - **Quién NO debe saberlo todavía:** Kal (la mentira de Danny, la valet), Chiara (qué encontró Tommaso), Dario (la valet).
 - **Pago:** la mentira de Danny es candidata para F2 (PENDIENTE); la línea Tommaso → Mei-Lin corre hasta el 48 y el II; Lucía, embrión de la relación de «informante» (PENDIENTE en su ficha); la valet tiene nombre en el Cap. 43 («Kal no había preguntado más» se lee doble).
 - **Estado:** sembrado, sin pagar. Plan: [[11_Books/Book_01_Mascaras_De_Cristal/Part_02_Con_Peores_Personas_He_Tratado/00_Plan_Robo_Monarch]].
+- **Nuevo cauce (2026-11-08; manda sobre lo de arriba):** en el nuevo 20 Kal llega en la grúa **por elección** (CANON 2026-11-07). En el nuevo 21, en POV Kal único: (2) el reclutamiento de la valet sale de la prosa y queda fuera de página como DISEÑO del plan; (3) Lucía baja al patio de la comisaría y escribe *1:52* **delante de Kal** (CANON); (4) quien nota que Dario no pregunta qué había en la bolsa es Kal, no Tommaso. La línea canon de Dario se dice con Kal presente, en el piso de administración (CANON).
 
 ---
 
@@ -269,9 +274,10 @@ Misterios, semillas, mentiras, rituales y pagos del libro activo. Cruzar con [[1
 
 - **Qué es:** Valenti, en persona, en una casa de Cuesta Bonita, entrega a Chiara el pañuelo con la *C* y la bala, y le dice en español la línea de la Mesa: «Pon tu casa en orden, señora Ardizzone, o hablaremos de este Mercer tuyo» ([[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/21b_Grazie]]). Antes, Keene como «una cosa triste. Y bien hecha», sin atribución.
 - **Quién lo sabe:** Chiara, Valenti, la Mesa y el lector. **Kal no**: Chiara calla (le contesta «Voy para allá» sin mentir). Primera vez que el Consorzio deja constancia de que sabe de Kal.
-- **Quién NO debe saberlo todavía:** Kal, hasta el yate del 47, donde ve el pañuelo y la bala e insiste en ir a Palermo (CANON). Si el «Lusardi» del hombre del coche fue error o recado: no se resuelve. Quién mató a Keene: la pista apunta a la Mesa, nunca a Varek. La verdad (CANON, [[02_Characters/Raymond_Keene]]; reafirmada 2026-11-03): ordena Dario y ejecuta Volpi, prestado por la Mesa. El narrador del Libro I no la da ni la insinúa; la «diligencia» del Cap. 2 es coincidencia a cobrar en el Libro III.
+- **Quién NO debe saberlo todavía:** Kal, hasta el yate del 47 (hoy nuevo 35, *Al revés*; 2026-11-08), donde ve el pañuelo y la bala e insiste en ir a Palermo (CANON). Si el «Lusardi» del hombre del coche fue error o recado: no se resuelve. Quién mató a Keene: la pista apunta a la Mesa, nunca a Varek. La verdad (CANON, [[02_Characters/Raymond_Keene]]; reafirmada 2026-11-03): ordena Dario y ejecuta Volpi, prestado por la Mesa. El narrador del Libro I no la da ni la insinúa; la «diligencia» del Cap. 2 es coincidencia a cobrar en el Libro III.
 - **Pago:** el «Totalmente» del 32 (archivo 24d) se apoya en la bala (gesto del anular, 2026-11-01); el 36 (archivo 28: el «agua al cuello» con el pañuelo en el bolso; el lector lee protección, Kal abandono); el 47 (Kal ve el pañuelo; «Decía tu nombre»; reconocimiento mutuo: los dos protegen ocultando); el 49 (Kal reconoce a Valenti) y el 58 (cuarto encuentro); Volpi y la puesta en escena de Keene en el Libro II.
 - **Estado:** sembrado. Prosa BORRADOR pendiente de lectura.
+- **Nuevo cauce (2026-11-08):** el deber se paga en el nuevo 20: Chiara pone primero lo que iba para Italia, después el casino y después a Matteo, y no le dice a Kal qué papeles eran («Si hubiera preguntado, no se lo habría dicho.»). El pago del «agua al cuello» con el pañuelo en el bolso (archivo 28, retirado) no cabe en POV Kal: en el nuevo 27 queda la mano de ella cerrada sobre el bolso.
 
 ## El cajero de la grua dos
 
@@ -299,3 +305,36 @@ Misterios, semillas, mentiras, rituales y pagos del libro activo. Cruzar con [[1
 - **No lo sabe:** Marisol, más allá de la frase. Nada del muerto ni de Alessio.
 - **Regla:** no convertir a Marisol en confidente del matrimonio en el Libro I. Lo de Kenji sigue fuera de foco hasta el nuevo 31.
 - **Estado:** prosa DISEÑO en [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/20_El_Mirador]]. Plan: [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/00_Plan_Cap18_Lo_Pequeno_POV_Kal]].
+
+---
+
+## Nuevo cauce, Parte II: lo que cada uno calla (nuevos 22–32, 2026-11-08)
+
+Propagado en [[98_Agent_Handoff/sessions/2026-11-08_claude_propagacion_parte_II]]. Prosa BORRADOR; lo nuevo es DISEÑO salvo donde dice CANON.
+
+- **La chaqueta café y los papeles de Nadir (22, CANON):** la panadera le cuenta a Kal que un hombre «del seguro» preguntó por «su socio, el que cuenta con los dedos»: de dónde es, cuánto lleva aquí, si tiene familia. No se nombra a Crowe. **Kal no se lo dice a Nadir.**
+- **La llamada de Varek (25, CANON):** Varek le avisa a Chiara que gente de fuera preguntó por ella. **Chiara se la calla esa noche**; Kal no lo sabe.
+- **El favor de Chiara (26, CANON):** Chiara sabe que el sedán es de fuera (placas de Virginia, empresa fantasma) y que Varek no tiene a Kal; no sabe quién es. Le debe a Varek una a su nombre, no a nombre del Monarch, todavía sin precio.
+- **El loft (27):** Kal sabe del sedán de Virginia por la multa que Varek le enseñó a Chiara y por «Trabajas para mí. No conmigo.», y lo liga a su viaje sin decirlo. **No sabe del favor**, que Chiara se calla cuando él dice «Varek me tiene sin cuidado». Chiara **no** sabe de Halbrook. El pacto (Camp Alder, armas largas, silla, paraguas) se cierra delante de ella, después de «Bellandi no».
+- **Las Gemelas (28, CANON):** Kal vio a Halbrook en persona, fuera de página, y se lo cuenta. Chiara sabe ya de Halbrook, la hoja de Nadir, la versión de la carpeta sobre la corte marcial y Camp Alder; Kal sabe del favor. Los dos saben que Varek los tiene a ambos y que sabía lo del otro. **Sigue retenida** la versión de Kal sobre la corte marcial («La mía no está en ninguna carpeta»). Nadir no sabe nada al cierre del 28.
+- **El trabajo nocturno (30, CANON):** Kal trabaja de noche para Varek (arrastres pedidos a un teléfono que sólo Varek tiene; no acepta el sobre). Chiara lo nota («¿Y las noches?» / «Arrastres.»). Con Lucía no lo menciona nunca. Primera fecha del Tasador en la última hoja de la libreta de los fiados (la cuota de la ferretería, en público); el nuevo 35 la encuentra.
+- **Marisol y Vivian (31):** Chiara le oculta a Marisol el favor que le debe a Varek. Kal y Chiara saben que la vigilancia de la periferia de Vivian los expone ante Varek; Kenji sigue.
+- **La palabra (32, CANON):** **Crowe sabe que son pareja**: le llega en la ferretería a la mañana siguiente y sale del barrio por su teléfono. Es lo que cobran los intermediarios en la Parte III y en el Libro II. Varek no oyó la palabra.
+- **Prohibido en el Libro I:** que Kal se entere de que Nadir habló con Chiara (CANON; se paga en el Libro II).
+
+## Nuevo cauce, Parte III: lo que cada uno calla (nuevos 33–39, 2026-11-08)
+
+Propagado en [[98_Agent_Handoff/sessions/2026-11-08_claude_propagacion_parte_III]]. Prosa BORRADOR; lo nuevo es DISEÑO salvo donde dice CANON. **Fuera de esta sección, a propósito:** la causa de la salida de Matteo (robo e Il Consorzio, o Elio), que es una decisión PENDIENTE del autor (ver [[98_Agent_Handoff/DECISIONS]]).
+
+- **La custodia (33, CANON):** Valenti llama por la línea de Italia y le pasa a Chiara lo que guardaba Matteo para Italia («desde hoy lo guarda usted»; «Il Consorzio prefiere que esté en una sola mano. La de la casa»). El libro de las rutas sigue en la caja del Monarch y no entra al loft (34). Kal no lo sabe. Lo único que a Chiara se le escapa con Valenti: «Matteo no tuvo nada que ver.»
+- **La versión de Kal (33):** Kal sólo conoce la versión de Elio de la salida de Matteo; Chiara no le da otra. Qué intuye Chiara depende de la decisión PENDIENTE.
+- **La filtración (33–34, PENDIENTE):** Chiara repasa candidatos sin concluir (quizá Tommaso, los presos de O.R.T., quien dio la combinación) y no escribe ningún nombre. Tommaso no pregunta por Matteo en el 33 y pregunta por primera vez en el 34 («Lo que dice su carta. Que está con su hermano.» / «Puede ser.»). No concluye nada. No se resuelve en el Libro I.
+- **La tarjeta (34):** «*Auguri. La casa la recuerda en su día.*», firmada con *V.*; la atadura de T20 en papel de cumpleaños. Sólo Chiara y el lector.
+- **La sangre (34, CANON):** el lector y Chiara saben que la sangre del fregadero es de un trabajo de Varek («No es mía»); Chiara no conoce el detalle ni sabe que la Romanée-Conti sale del mismo trabajo, y nunca lo liga. Calla lo de los nudillos de la derecha («Una cerca» es de ella; los nudillos, no).
+- **La bala del corral (35, CANON):** es la que mató a Vento; Kal la sigue (armero de Cedar Flats, el chofer Rudy, el cuarto doce de la Milla) hasta un apellido que **no se dice en la prosa del 35** y que se lee en el 36 (Volpi). Lo escribe en la libreta de los fiados, debajo de las fechas del Tasador, y **no se lo cuenta a nadie**: se lo oculta a Chiara, y eso cobra «No eres la persona indicada para decirme eso». El apellido le confirma a Chiara su «Fueron ellos», que es el error que Crowe quería (bandera falsa con rastro físico; DISEÑO). El lector puede sospechar la bandera falsa; ninguno de los dos.
+- **Mei-Lin en el yate (35):** sirve para la empresa de catering del barco; Tyler le habla y ella no le da la cara. Kal lo registra sin comentarlo. Primer indicio de que necesita dinero.
+- **Palermo (36, CANON):** Kal sospecha de la Mesa por Volpi y no pregunta, para que no la anoten a ella; nadie en Palermo lo nombra. Piensa el nombre de Halbrook una vez y no lo dice; la llamada la hace un intermediario. Kal no sabe que Chiara volvió el mié 15 hasta después de la llamada de las nueve.
+- **La otra mitad (37):** Chiara sabe de la correa desde Las Gemelas y sabe de dónde viene la llamada aunque Kal no se lo dijo («No le pregunté»). Halbrook no se nombra. Bonnie oye que Chiara responde ante la Mesa («Allá también tiene jefe, entonces»).
+- **Mei-Lin en el Patio (38, CANON, opción a):** Chiara oye el nombre de Mei-Lin, que duerme en el Patio y no quiere quedarse sola, y que «lo de allá arriba se deshizo». No sabe de Boone, de los Devil Splicers ni de que Bonnie y Mei-Lin vienen de la banda del robo, y no lo liga con el Monarch. Bonnie sabe que se esconde sin saber por qué. En F1, el reproche de Chiara es «para qué», no «quién».
+- **Crowe y Halbrook (39, CANON 1A):** **Kal sabe desde aquí que Crowe recibe órdenes de la gente de Halbrook** (el mensaje dice «lo recibe S. Crowe al aterrizar»). No sabe que Crowe estuvo detrás del corral, de Boone ni del robo del Monarch, ni para qué lo quiere Halbrook; no lo conecta con la bala. Chiara no lo sabe. El lector, sí. Crowe pierde el lote, que va a Varek.
+- **Estado:** sembrado. Prosa DISEÑO pendiente de lectura.

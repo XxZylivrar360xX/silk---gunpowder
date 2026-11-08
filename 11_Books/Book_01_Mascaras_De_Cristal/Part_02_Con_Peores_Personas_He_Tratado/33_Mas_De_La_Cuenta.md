@@ -1,4 +1,14 @@
 <!--
+Renumerado 2026-11-08 (nuevo cauce, Parte II): antes Cap. 37.
+NUEVO CAUCE (Fase 4, 2026-11-08, [[98_Agent_Handoff/encargos/ENCARGO_Fase4_Parte_II]], reasignación): nuevo Cap. 31, tarjeta T17, POV Chiara único, verbo «Reescribe» según [[11_Books/Book_01_Mascaras_De_Cristal/00_Mapa_Cauce_Cap11_Camp_Alder]]. El encabezado sigue diciendo «Capítulo 37» hasta que la terminal principal renumere. Versión anterior íntegra: [[11_Books/Book_01_Mascaras_De_Cristal/Escenas_Eliminadas/33_Mas_De_La_Cuenta_Version_2026-11-08]]. Sesión: [[98_Agent_Handoff/sessions/2026-11-08_claude_fase4_cap31_lo_unico_que_es_mio]].
+Estado: BORRADOR (lo nuevo es DISEÑO del agente; espera lectura del autor).
+Sale: el domingo en el box con Vento vivo (Vento muere en el nuevo 23).
+Decisiones del autor (2026-11-08): (1) beat corto de duelo en el Monarch, antes del corredor: el caballerango sube la cabezada y la hoja del programa; el origen de Vento (North Wind Rising, la lista de venta, comprado con su dinero, «le dejé el viento», el trato) se cuenta por dentro de Chiara, en pasado; se conserva el título; (2) una línea en la coda: «Si Marisol lo encontró, Vivian también puede»; Chiara no le quita la tarea a Kenji.
+DISEÑO del agente: apertura por residuo del nuevo 30 (Kal llega pasadas las tres de un arrastre y se lava las manos de más; ella no pregunta); la bolsa de estraza motiva que Chiara mire hacia abajo desde el corredor; la cabezada en el gancho detrás de la puerta y la hoja bajo los sellos; «ni lo que ella misma le debía al dueño de esa mesa»; «Kenji sigue» / «Ya» (invierte el «Ya» de Chiara al cerrar el 30).
+Se conserva literal: el cuadro con moño, la escena de la caja (diálogo Kenji–Marisol íntegro), el cigarro, la ciabatta (pago en Stavanger), «Ladro», «Assaggia», la coda de Marisol hasta «La suficiente para preocuparme. No la suficiente para escoger por ella.» y «tú cubres su turno» (el nuevo 32 abre con «Cubro su turno»).
+Costura de apertura: con el nuevo 30 (existe). Costura PROVISIONAL: depende del nuevo 27 (Vivian menciona a «la pelirroja» en el patio de Varek; la silla). Costura PROVISIONAL: depende del nuevo 28 (Kal le cuenta lo de Marisol en las cascadas y Chiara nombra a Kenji para mirar la periferia de Vivian; los dos saben que le deben a Varek). Cierre: engancha con el nuevo 32 (existe), sin cambios.
+La metadata de abajo es histórica: sus números de capítulo son de numeraciones anteriores; la nota «Vuelta al corral» quedó superada (ver arriba).
+
 Renumerado 2026-11-01 (decisión del autor, carretera del Libro I): antes Cap. 41.
 Renumerado 2026-10-22 (decisión del autor): antes Cap. 33; numeración corrida definitiva, el archivo conserva su nombre.
 Retitulado 2026-10-21 (decisión del autor; ver [[11_Books/Book_01_Mascaras_De_Cristal/00_Propuesta_Titulos]]): antes «Más de la cuenta».
@@ -23,7 +33,7 @@ Función: CANON DEL AUTOR. Penúltimo capítulo de la Parte II (seguido por el C
 - CODA EN EL LOFT (misma tarde/noche, POV Chiara): pasta, Kal abrazándola por detrás mientras cocina, sin etiqueta nueva de relación. Chiara introduce el tema con la pregunta base del autor; se preserva casi literal el intercambio de las piernas y del "elemento en el casino". Kal reacciona primero protector, después con algo parecido al orgullo sin verbalizarlo como tal. Pregunta si Kenji la siguió; Chiara aclara que la tarea era Vivian y que la atención extra fue decisión propia de Kenji, dicha a la cara de Marisol — a Kal eso le pesa más que si se hubiera escondido. Cierra con "La suficiente para preocuparme. No la suficiente para escoger por ella." — pago de La correa / El patio ajeno / Media Baraja, sin discurso de padre, sin mencionar a Michael. Remate cómico sobre romper piernas y cubrir turnos en la caja. Sin foreshadowing de la muerte de Kenji, sin Santa Lucía.
 - RESUELTO (2026-09-20): la nota anterior sobre "trabajo concurrente" quedó saldada por la reubicación de este capítulo a la Parte II — 00_Book_Map.md, INDEX.md y 06_Relationships/Hitos.md ya están sincronizados con esta posición. Sigue pendiente, sin relación con este movimiento: anotar en [[02_Characters/Marisol_Grayson]] y [[02_Characters/Kenji_Oda]] la referencia a este capítulo como primer sembrado del acercamiento, y actualizar [[03_Factions/Red_Civil_de_Chiara]].
 
-**Vuelta al corral (2026-10-22, CANON DEL AUTOR: siembra de Vento en este capítulo, caballo de carreras del Monarch, acuerdo de no montarlo el día que no quiera salir; prosa DISEÑO del agente, pendiente de lectura):** sección final nueva, el domingo siguiente al día del capítulo. Kal pregunta "¿Quieres que vaya o que me quede?" y no le prohíbe volver; cuenta que ató a Vento al poste en el 24c; Chiara cuenta el origen (North Wind Rising, la lista de venta, "Le dejé el viento") y el trato; cierra ella sola el portón. Vive con Chiara la frase sobre Marisol sin repetirla. Paga en el Cap. 33b (muerte) y el 36 (la yegua). Plan: [[11_Books/Book_01_Mascaras_De_Cristal/00_Plan_Vento]].
+**[SUPERADO 2026-11-08 por el nuevo cauce: la sección del domingo salió con la muerte de Vento en el nuevo 23; el origen pasa al beat del caballerango. Se deja la nota como registro.]** **Vuelta al corral (2026-10-22, CANON DEL AUTOR: siembra de Vento en este capítulo, caballo de carreras del Monarch, acuerdo de no montarlo el día que no quiera salir; prosa DISEÑO del agente, pendiente de lectura):** sección final nueva, el domingo siguiente al día del capítulo. Kal pregunta "¿Quieres que vaya o que me quede?" y no le prohíbe volver; cuenta que ató a Vento al poste en el 24c; Chiara cuenta el origen (North Wind Rising, la lista de venta, "Le dejé el viento") y el trato; cierra ella sola el portón. Vive con Chiara la frase sobre Marisol sin repetirla. Paga en el Cap. 33b (muerte) y el 36 (la yegua). Plan: [[11_Books/Book_01_Mascaras_De_Cristal/00_Plan_Vento]].
 
 **Siembra del cigarro (2026-10-02, CANON DEL AUTOR; prosa DISEÑO del agente, pendiente de lectura):** al llegar al loft, antes de la salsa, Chiara fuma en la ventana de la cocina; Kal, recargado en la isla: "Sí sabes que eso es malo, ¿no?" / ella lo mira algo ofendida / "No me veas así. Lo digo porque me importas." Ella no contesta y se lo termina. Paga en el Cap. 50 (no enciende el cigarro tras el monólogo; avienta el encendedor de aluminio y deja el cigarro junto al cuadro). Sin glosa aquí.
 
@@ -35,21 +45,43 @@ Continuidad:
 **Beat del cuadro (2026-10-02, CANON DEL AUTOR: gesto cotidiano, silencioso, con moño, sin exposición; prosa DISEÑO del agente, pendiente de lectura):** abre el capítulo en el penthouse, antes del Monarch. Paga la foto que Héctor toma sin avisar en el Cap. 31; vuelve en el Cap. 50. Kal durmió en el penthouse esa noche (confirmado por el autor 2026-10-02). Ver [[11_Books/Book_01_Mascaras_De_Cristal/00_Plan_Arco_Final_Sin_Kal]].
 -->
 
-# Capítulo 37 — Lo único que es mío
+# Capítulo 31 — Lo único que es mío
 
 El cuadro estaba en la mesa cuando salió del cuarto, junto a su taza, como si siempre hubiera estado ahí. Marco de madera clara. Un moño rojo, un poco chueco. Ninguna nota.
 
 La orilla del lago, la última luz. Dos espaldas, una bolsa y una mochila, las manos juntas. Nadie en la foto sabía que había una foto.
 
-Kal se había ido temprano al taller.
+Kal había llegado pasadas las tres. Ella lo oyó lavarse las manos en el baño de visitas, el agua corriendo más de lo que tarda nadie en lavarse las manos, y después el peso de él del otro lado de la cama. No le había preguntado. A las siete ya se había ido al taller.
 
 Chiara le quitó el moño, lo dobló una vez y lo guardó en el cajón de los cubiertos. El cuadro lo dejó donde estaba.
 
 La mañana en el Monarch tenía el ritmo que a Chiara siempre le había resultado, de una manera que nunca dijo en voz alta, casi terapéutico: pequeño, ordenado, resoluble. Un proveedor de lino que había mandado la mitad del pedido equivocado. Una empleada de piso que quería cambiar su turno del jueves por el sábado y no encontraba quién se lo cubriera. Una carpeta de permisos que alguien había archivado mal tres meses atrás y que ahora, por supuesto, alguien necesitaba con urgencia.
 
-Nada de eso pedía genio. Pedía atención, y ella se la daba con gusto, porque después de las cascadas, después de Halbrook y Varek y una silla que todavía no sabía bien cómo nombrar en su cabeza, ocuparse del lino era casi un descanso.
+Nada de eso pedía genio. Pedía atención, y ella se la daba con gusto, porque después del corral y de las cascadas, después de un nombre que Kal le había dicho una sola vez y de un favor abierto que ella le debía a Varek a su nombre, ocuparse del lino era casi un descanso.
 
-Firmó la última hoja de la carpeta mal archivada y la dejó en la bandeja de salida. Se estiró un momento, con la taza de café ya fría entre las manos, y caminó hacia el corredor que llevaba a su oficina — un tramo angosto, acristalado de un lado, que corría por encima del piso de juego antes de doblar hacia las puertas de administración. Lo cruzaba varias veces al día sin mirar hacia abajo. Esa mañana miró.
+Firmó la última hoja de la carpeta mal archivada y la dejó en la bandeja de salida. Se estiró un momento, con la taza de café ya fría entre las manos, y salió al pasillo.
+
+El caballerango la esperaba junto a la puerta de servicio, con la gorra en una mano y una bolsa de papel de estraza en la otra, fuera de lugar entre la alfombra y los marcos de vidrio, como un hombre que no subía nunca y ya se había arrepentido de subir. Llevaba las botas limpias. Se las había limpiado para eso.
+
+—Hoy vaciamos el box —dijo—. Lo fuimos dejando. No supe qué hacer con esto.
+
+Le dio la bolsa. Chiara la abrió ahí mismo, de pie.
+
+La cabezada de cuero, oscura de años de sudor, con la hebilla floja que nadie había cambiado porque él no dejaba que se la cambiaran. Y una hoja de programa doblada en cuatro, amarilla en los dobleces, con cuatro agujeros de chinche en las esquinas. Cuarta carrera. North Wind Rising. Un año que ya no le importaba a nadie más que a ella.
+
+La había clavado ella misma en la puerta del box la semana que lo compró, y después se le había olvidado que estaba ahí.
+
+—Es suyo —dijo el caballerango.
+
+—Era.
+
+Él asintió, se puso la gorra antes de llegar a la escalera y no le preguntó cómo estaba. Chiara se lo agradeció más que cualquier otra cosa que le hubieran dicho esa semana.
+
+Se quedó con la hoja abierta en la mano. En sus primeras semanas en el Monarch, la administración tenía una lista de los caballos que se iban a vender al cerrar la temporada, y él era el más viejo de la lista. Lo había comprado con su dinero, no con el del casino. Le había dejado el viento; lo demás le sobraba. Y habían hecho un trato, ella y el caballo, que ya no lo galopaba: el día que él no quisiera salir, no lo volvía a montar. Que lo decidiera él.
+
+No le había tocado decidirlo.
+
+Dobló la hoja por los mismos dobleces, la metió en la bolsa con la cabezada y caminó hacia el corredor que llevaba a su oficina — un tramo angosto, acristalado de un lado, que corría por encima del piso de juego antes de doblar hacia las puertas de administración. Lo cruzaba varias veces al día sin mirar hacia abajo. Esa mañana, con la bolsa contra el pecho, miró.
 
 El piso, a esa hora, estaba casi vacío: un par de mesas cerradas, el zumbido bajo de las máquinas que nadie jugaba todavía, la luz artificial que el Monarch mantenía igual de día que de noche porque a nadie le convenía que un jugador supiera qué hora era. Y la caja, al fondo, con su ventanilla de vidrio grueso y su fila de cordones que nadie usaba a esa hora porque no había fila.
 
@@ -63,9 +95,9 @@ Marisol.
 
 Lo extraño no era que estuviera en el casino. Lo extraño era cómo estaba parada frente a la ventanilla: no del lado de quien pide algo, sino del lado de quien exige una respuesta. No hablaba fuerte — Chiara no alcanzaba a oír nada desde ahí arriba, sólo veía el gesto, la inclinación del cuerpo, la barbilla un poco alzada — pero cualquiera que hubiera pasado media vida leyendo habitaciones reconocía esa postura sin necesitar el audio. Marisol quería algo. Y Kenji, del otro lado del vidrio, tenía esa calma suya de siempre, la que Chiara le había visto sostener frente a jugadores furiosos y frente a auditores del estado, y por primera vez esa calma parecía costarle un poco más de lo habitual.
 
-Chiara se quedó un segundo mirando, con la taza fría todavía en la mano, entendiendo sólo una cosa con certeza: había algo ahí que ella no sabía.
+Chiara se quedó un segundo mirando, con la bolsa todavía contra el pecho, entendiendo sólo una cosa con certeza: había algo ahí que ella no sabía.
 
-Bajó.
+Dejó la bolsa en el piso del corredor, contra el cristal, y bajó.
 
 ***
 
@@ -105,7 +137,7 @@ Chiara no lo negó. No tenía sentido negarlo, y una de las cosas que había apr
 
 ***
 
-No le contó todo. No le contó a Halbrook, ni a Camp Alder, ni la silla que Kal tenía ahora en una mesa que Chiara prefería no nombrar en voz alta en medio de un casino. Le contó lo que le correspondía saber, sin dorarlo y sin encogerlo:
+No le contó todo. No le contó a Halbrook, ni a Camp Alder, ni la silla que Kal tenía ahora en una mesa que Chiara prefería no nombrar en voz alta en medio de un casino, ni lo que ella misma le debía al dueño de esa mesa. Le contó lo que le correspondía saber, sin dorarlo y sin encogerlo:
 
 —Kal descubrió algo hace unas semanas. Que Vivian Varek está más metida en el negocio de su padre de lo que cualquiera pensaba. Y en la misma conversación, sin buscarlo, te mencionó sin saber que eras tú. Una pelirroja de un taller, un profesor, una discusión sobre permisos. Kal te reconoció por el contexto. No fue nada más que eso.
 
@@ -224,6 +256,10 @@ Chiara no le contestó eso. Empezó a caminar hacia el corredor de administraci�
 —La otra parte es lo que estaba pasando hace diez minutos.
 
 Chiara no se giró a ver la cara que puso Marisol con eso. Subió las escaleras hacia el corredor, y desde ahí, antes de doblar hacia su oficina, alcanzó a ver, muy abajo, que Marisol seguía de pie frente a la ventanilla, con los brazos ya sin cruzar, haciendo alguna otra pregunta que Chiara no iba a escuchar y que, por primera vez en toda la mañana, no le hizo la menor falta escuchar.
+
+La bolsa seguía contra el cristal, donde la había dejado. La levantó y la llevó a la oficina. Colgó la cabezada del gancho detrás de la puerta, donde no la vería nadie que entrara, y guardó la hoja del programa en el cajón de arriba, debajo de los sellos.
+
+De todo lo que había allá abajo, era lo único que había sido suyo.
 
 ***
 
@@ -393,7 +429,19 @@ Chiara levantó una ceja.
 
 —No dije que me agrade.
 
-Chiara sonrió, sin darle la satisfacción de decir nada más sobre eso, y volvió a la pasta. Kal se quedó apoyado ahí, todavía con algo sin resolver en la cara, hasta que ella, sin levantar la vista de la olla, se lo recordó:
+Chiara sonrió, sin darle la satisfacción de decir nada más sobre eso, y volvió a la pasta. Kal se quedó apoyado ahí, todavía con algo sin resolver en la cara.
+
+—Si Marisol lo encontró —dijo—, Vivian también puede.
+
+Chiara removió la salsa. Lo había pensado en el corredor, con la bolsa a los pies, y otra vez en el Lancia, de regreso, y no le había encontrado una salida que no costara algo.
+
+—Kenji sigue —dijo.
+
+Kal no preguntó por qué. Los dos sabían a quién le debía cada uno, y qué.
+
+—Ya.
+
+Ella dejó pasar un momento y, sin levantar la vista de la olla, se lo recordó:
 
 —No respondiste.
 
@@ -420,77 +468,3 @@ Chiara no dijo nada. Sirvió la pasta en dos platos, puso uno frente a él, y de
 —Prefiero no romperle las piernas.
 
 Chiara siguió comiendo, como quien da por firmado un contrato.
-
-***
-
-El domingo se puso las botas.
-
-Estaban junto a la puerta del penthouse, donde siempre. No se las había puesto desde agosto. Kal había dormido ahí. Estaba en la cocina con el café cuando la vio sentada en el brazo del sillón, con la segunda bota a medio subir, y dejó la taza en la barra sin terminarla.
-
-Chiara esperó la pregunta. No llegó la que esperaba.
-
-—¿Quieres que vaya o que me quede?
-
-Lo pensó de verdad, con la bota en la mano.
-
-—Ven.
-
-Bajó de mañana. No lo decidió en voz alta, ni siquiera por dentro; sólo salió a una hora en que el sol todavía venía de lado sobre la pista y el foco de servicio de las caballerizas estaba apagado, inútil, un vidrio sucio sobre la puerta. Kal caminó a su lado por la tierra apisonada sin adelantarse. El corral estaba igual. La cerca de tablones, el portón, el pasador de fierro. Chiara no supo qué había esperado encontrar. Algo distinto, quizás. Una marca.
-
-No había nada. Tierra.
-
-El caballerango salió del bloque de madera limpiándose las manos en el pantalón y no le preguntó cómo estaba, cosa que Chiara le agradeció. Le dijo que lo había sacado a caminar todos los días, que comía bien, que andaba igual que siempre, ni mejor ni peor. Después se fue a hacer algo que no necesitaba hacer.
-
-Vento sacó la cabeza por encima de la reja del box antes de que ella llegara. Chiara le puso la mano en el cuello, en la base de la crin, y la bajó despacio, a favor del pelo, una vez y otra, hasta que el caballo soltó el aire por la nariz y dejó de moverse. Así estuvieron un rato. Kal se quedó dos pasos atrás, con las manos en los bolsillos de la chaqueta.
-
-Cuando lo sacó al pasillo, Vento fue derecho hacia él.
-
-Kal no se movió. Dejó que el caballo le oliera la chaqueta, el cuello, el bolsillo donde llevaba las llaves, y cuando Vento le empujó el pecho con la frente, sin fuerza, como quien confirma algo, él le puso la palma plana sobre la cara, entre los ojos.
-
-—Ya nos conocemos —dijo.
-
-—¿Desde cuándo?
-
-—Esa noche estaba en el estacionamiento. Solo, con las riendas colgando. —Kal no apartó la mano—. Lo até al primer poste que vi. No fui muy amable.
-
-Chiara miró al caballo, y después a Kal, y no dijo nada durante un momento.
-
-—No me lo habías contado.
-
-Vento le dio otro empujón en el pecho. Kal retrocedió medio paso para no perder el equilibrio y lo dejó hacer.
-
-—No te lo tomó a mal —dijo Chiara.
-
-—Ya veo.
-
-Ensilló ella. Kal no ofreció ayuda, y ella no la pidió. Desde la cerca, con los antebrazos apoyados en el tablón de arriba, la vio dar la primera vuelta a la pista al paso, y la segunda, y en la tercera Chiara se acercó a la cerca y se quedó arriba del caballo, mirándolo desde ahí.
-
-—Siempre fue tuyo —dijo Kal. No sonó del todo a pregunta.
-
-—Corría aquí. —Chiara le pasó los dedos por la crin, sin mirarlo—. North Wind Rising. Así se llamaba en el programa. Ganó poco, y hace mucho. Cuando llegué, en mis primeras semanas, la administración tenía una lista de los que se iban a vender al cerrar la temporada. Él era el más viejo de la lista. —Hizo una pausa—. Lo compré con mi dinero. No con el del casino.
-
-Kal no dijo nada. Esperó.
-
-—Es lo único de aquí abajo que es mío —dijo ella.
-
-—¿Y el nombre?
-
-—Le dejé el viento. Lo demás le sobraba.
-
-Vento sacudió la cabeza, impaciente con la conversación. Chiara lo calmó con la mano sin pensarlo.
-
-—Ya no lo galopo —dijo—. Hicimos un trato. El día que no quiera salir, no lo vuelvo a montar. Que lo decida él.
-
-—¿Y cómo vas a saber?
-
-—Porque no va a querer salir. —Lo miró por fin, con una ceja apenas levantada—. Es más honesto que casi toda la gente con la que trabajo, tesoro.
-
-Kal se quedó con eso. Asintió una vez, despacio.
-
-Dio dos vueltas más, al paso. Después desensilló, cepilló a Vento más rato del necesario y lo sacó al corral. Kal seguía en la cerca, sin moverse de su sitio.
-
-Chiara cerró el portón con las dos manos y pasó el pasador de fierro. Estaba tibio de sol. Se quedó un momento con la mano encima, más del que hacía falta para cerrar nada.
-
-Kal no se acercó a ayudarla. Esperó a que ella soltara el pasador y se diera vuelta.
-
-—Vamos —dijo Chiara.

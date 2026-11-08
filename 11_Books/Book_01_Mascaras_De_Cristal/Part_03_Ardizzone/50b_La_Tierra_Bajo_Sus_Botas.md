@@ -1,4 +1,5 @@
 <!--
+Renumerado 2026-11-08 (nuevo cauce, Parte III): antes Cap. 56.
 Renumerado 2026-11-01 (decisión del autor, carretera del Libro I): antes Cap. 60.
 Renumerado 2026-10-22 (decisión del autor): antes Cap. 50b; numeración corrida definitiva, el archivo conserva su nombre.
 Estado: BORRADOR — Parte III — Ardizzone, Cap. 50b, cierre del Libro I, *Máscaras de Cristal*. Concebido como epílogo; el autor (2026-10-02) decidió quitar la palabra "epílogo": va como Cap. 50b (archivo `50b_`, precedente `24b_`), encabezado sin número. Redactado 2026-10-02, Claude Opus 5.5, conforme a [[11_Books/Book_01_Mascaras_De_Cristal/00_Plan_Arco_Final_Sin_Kal]] (sección "Epílogo") y a la ficha [[02_Characters/Warren_Halbrook]]. Pendiente de lectura del autor.
@@ -24,7 +25,7 @@ DISEÑO del agente, pendiente de lectura:
 Sin EPUB, commit ni push.
 -->
 
-# Capítulo 56 — La tierra bajo sus botas
+# Capítulo 47 — La tierra bajo sus botas
 
 A las cinco menos diez, San Aurelio tenía otra vez todas las luces encendidas y casi nadie despierto para verlas.
 

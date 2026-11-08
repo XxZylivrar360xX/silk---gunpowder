@@ -1,4 +1,13 @@
 <!--
+Renumerado 2026-11-08 (nuevo cauce, Parte II): antes Cap. 36.
+NUEVO CAUCE (Fase 4, 2026-11-08, terminal B): nuevo Cap. 30, tarjeta T17 (*La cuota*), POV Kal único, verbo «Reescribe» según [[11_Books/Book_01_Mascaras_De_Cristal/00_Mapa_Cauce_Cap11_Camp_Alder]] y [[98_Agent_Handoff/encargos/ENCARGO_Fase4_Parte_II]]. El encabezado sigue diciendo «Capítulo 36» hasta que la terminal principal renumere. Versión anterior íntegra: [[11_Books/Book_01_Mascaras_De_Cristal/Escenas_Eliminadas/32_Linea_Directa_Version_2026-11-08]]. Sesión: [[98_Agent_Handoff/sessions/2026-11-08_claude_fase4_cap30_linea_directa]].
+Estado: BORRADOR (lo nuevo es DISEÑO del agente; espera lectura del autor).
+Vigente sobre lo de abajo: la regla «Kal NO le pregunta nunca por Dario Varek, y el capítulo tampoco lo menciona» queda superada por el nuevo cauce: tras el pacto (nuevo 27) Kal trabaja de noche para Dario; con Lucía no lo menciona nunca (siembra del DISEÑO RESERVADO «Nunca ha intentado utilizar uno para llegar al otro»).
+Decisión del autor (2026-11-08): primer trabajo para Varek en escena, mínimo: un arrastre de noche (un sedán cerrado, la cajuela sin abrir, la suspensión baja de atrás) y Chiara despierta a las tres («Un arrastre»). Costura PROVISIONAL: depende del nuevo 27 (el pacto, terminal C) y del 26 (el favor que Chiara le debe a Varek).
+Recibe del archivo 37 (retirado; [[11_Books/Book_01_Mascaras_De_Cristal/Escenas_Eliminadas/37_Cuatro_Letras_Version_2026-11-08]]): la ferretería («El Tasador me subió la cuota… por la competencia» / «Yo no cobro cuotas» / «Eso le dije. Me la subió igual»), ahora en el patio, delante de clientes, y la primera fecha en la última hoja de la libreta de los fiados (la que el nuevo 35 encuentra «debajo de las fechas del Tasador»).
+Irene (decisión de B según el encargo): la deuda del nombre cerró en el nuevo 21; «Ahora sí me debe» se queda aquí como deuda nueva (el carro oscuro que vigila a Nadir).
+DISEÑO del agente: Lucía suma «un caballo» a la denuncia; coda: «¿Y las noches?» / «Arrastres.» / «Ya.».
+Costuras: apertura con el nuevo 29 (el sillón, ya existe). Cierre: engancha con el nuevo 31 (terminal C). Costura PROVISIONAL: depende del nuevo 31.
 Renumerado 2026-11-01 (decisión del autor, carretera del Libro I): antes Cap. 40.
 Renumerado 2026-10-22 (decisión del autor): antes Cap. 32; numeración corrida definitiva, el archivo conserva su nombre.
 Mención de la denuncia del corral (2026-10-29, CANON DEL AUTOR: opción A con mención de Lucía; línea DISEÑO, sigue BORRADOR): tras «Se cayó. Eso no es lo mismo que decir que le creí», Lucía cita la denuncia que Voss le tomó a Kal en el Cap. 30 (*Oveja entre lobos*): «Está bien hecha. Es la segunda vez que me llega algo suyo así de bien hecho». La primera es el robo del Monarch. Hoy es el Cap. 39.
@@ -28,7 +37,7 @@ Regla de dialogo 05 (2026-10-28, Claude Code, encargo del autor; prosa DISENO, s
 Rocco (2026-10-22, decision del autor; prosa DISENO; sigue BORRADOR): Nadir le avienta la llave Allen en la acera; cuando Kal le quita lo de Irene, Rocco se la devuelve y Nadir no la recoge. Ficha: 02_Characters/Rocco.md.
 -->
 
-# Capítulo 36 — Línea directa
+# Capítulo 30 — Línea directa
 
 El sillón seguía cuatro centímetros fuera de su lugar.
 
@@ -80,7 +89,7 @@ La oficina de Almendra Towing era dos escritorios, un ventilador que giraba más
 
 —Se cayó el caso.
 
-—Se cayó. Eso no es lo mismo que decir que le creí. —No cambió el tono—. Tampoco le creí lo del hipódromo. Leí la denuncia que le tomó Voss: teléfono, cartera, reloj, nadie vio nada. Está bien hecha. Es la segunda vez que me llega algo suyo así de bien hecho.
+—Se cayó. Eso no es lo mismo que decir que le creí. —No cambió el tono—. Tampoco le creí lo del hipódromo. Leí la denuncia que le tomó Voss: teléfono, cartera, reloj, un caballo, nadie vio nada. Está bien hecha. Es la segunda vez que me llega algo suyo así de bien hecho.
 
 Kal no contestó nada a eso. Tomó una llave que estaba fuera de lugar sobre el escritorio y la puso en su gancho, un gesto pequeño, sin necesidad real.
 
@@ -234,6 +243,54 @@ Kal no le contestó. Nadir no volvió a preguntar.
 
 ***
 
+La llamada entró a las once y cuarenta, a un teléfono que Kal llevaba encima desde hacía una semana y que nadie más tenía.
+
+—Un servicio de grúa. —Voz de hombre, sin nombre, sin apuro—. Lote catorce del muelle de carga, detrás de la procesadora de pescado. Un sedán azul. Las llaves no están. Lo lleva a la bodega de la calle Ochenta, la de la cortina verde. Ahí le abren.
+
+—¿De parte de quién?
+
+—Usted ya sabe de parte de quién.
+
+Colgó.
+
+Kal se vistió en la oscuridad. Arriba, Chiara se dio la vuelta en la cama y no dijo nada.
+
+El sedán estaba donde le habían dicho, solo, al fondo de un lote de contenedores que olía a hielo derretido y a escamas. Lo rodeó una vez con la linterna. Las puertas cerradas. Nada en los asientos. La parte de atrás iba más baja que la de adelante, dos dedos, lo que se nota cuando uno vive de levantar coches: algo pesado en la cajuela, bien acomodado, que no se movió cuando le pegó a la defensa con la palma.
+
+No probó la cajuela. Enganchó el sedán, lo subió a la plataforma y apretó las cadenas una por una.
+
+En la calle Ochenta la cortina verde subió antes de que él tocara el claxon. Adentro había dos hombres y una lámpara. Uno le hizo señas para que bajara el coche ahí mismo, junto a la entrada; el otro no dejó de mirar la calle. Ninguno le pidió que firmara nada. Cuando el sedán tocó el piso, el de la lámpara le tendió un sobre.
+
+—Ya está pagado —dijo Kal.
+
+El hombre lo miró un momento, como quien no tiene instrucciones para eso, y se guardó el sobre.
+
+La cortina bajó detrás de la grúa.
+
+Llegó al loft a las tres y diez. Había una luz en la cocina. Chiara estaba sentada en el banco de la isla, descalza, con una taza entre las manos que ya no echaba vapor.
+
+—¿Un arrastre?
+
+—Un arrastre.
+
+Ella le miró las manos. Kal se las lavó en el fregadero aunque las traía limpias, se las secó con el trapo y lo dejó doblado en el borde. Chiara no preguntó de quién. Dejó la taza en la isla y subió primero.
+
+***
+
+A media mañana, con dos clientes esperando junto a la máquina de refrescos y Danny cantando el precio de un Tercel desde el capó, entró al patio el de la ferretería de la esquina, con la gorra en la mano.
+
+—El Tasador me subió la cuota este mes. —Le dio una vuelta a la gorra. Lo dijo en el tono de la calle, no en el de la oficina, y los dos clientes lo oyeron—. Dice que es por la competencia. Quería preguntarle si la competencia es usted.
+
+—Yo no cobro cuotas.
+
+—Eso le dije. Me la subió igual.
+
+Danny se había callado en el capó del Tercel. Uno de los clientes miró a Kal y después miró a otro lado.
+
+Kal le preguntó qué día pasaban a cobrar. Sacó del bolsillo de atrás la libreta de los fiados, la que llevaba años guardando lo que el barrio le fiaba, y anotó la fecha en la última hoja, sola, arriba de todo, donde todavía no había nada.
+
+***
+
 Le llegó por partes.
 
 Primero fue Héctor, un jueves más tarde, comentando que la llantera de Portillo había vuelto a abrir hasta la hora de siempre. Después fue Danny, que había pasado por ahí a comprar una banda y contó, sin que nadie le preguntara, que había una franja de cinta amarilla despegándose de un poste a media cuadra, y que alguien en la esquina decía que se habían llevado a "uno de los de Rafe" por el arma que llevaba.
@@ -317,6 +374,14 @@ Kal no tenía la respuesta. No fingió tenerla.
 —¿Y el Canal Seco?
 
 —Nada que no se arregle.
+
+—¿Y las noches?
+
+Kal tardó lo que tarda en dejar unas llaves en su sitio.
+
+—Arrastres.
+
+—Ya.
 
 Ella no dijo nada más. Bebió lo que quedaba en la copa, la dejó en el fregadero y se acercó a él sin prisa.
 

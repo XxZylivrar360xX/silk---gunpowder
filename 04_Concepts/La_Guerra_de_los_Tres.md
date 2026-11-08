@@ -1,6 +1,6 @@
 # La Guerra de los Tres
 
-> **AVISO DE SUPERSESIÓN (2026-09-11).** Este documento es de 2026-08-30, anterior a [[00_Biblia/00_Trilogy_Structure]] (2026-09-07), y usaba "Parte III" como nombre operativo de todo el tramo de la guerra; las etiquetas operativas del cuerpo se actualizaron a Voto de Ceniza / Guerra de los Tres. Leer **"Parte III" como el tramo de *Voto de Ceniza* (Libro II)** que va desde su apertura hasta la caída de Dario, la montaña y Santa Lucía. Dos puntos quedaban en contradicción directa con la trilogía y se corrigen abajo: (1) [[06_Relationships/Hitos#H22 — Los primeros pasos|H22]] ocurre **antes** de la caída de Dario/montaña/Santa Lucía, no después de "cerrar Parte III"; (2) la **muerte pública de Halbrook no ocurre dentro de este tramo** — Kal sólo lo sentencia aquí; la ejecución abre *Cuentas de Sangre* (Libro III). No se movió ningún hito ni se inventó contenido nuevo.
+> **AVISO DE SUPERSESIÓN (2026-09-11).** Este documento es de 2026-08-30, anterior a [[00_Biblia/00_Trilogy_Structure]] (2026-09-07), y usaba "Parte III" como nombre operativo de todo el tramo de la guerra; las etiquetas operativas del cuerpo se actualizaron a Voto de Ceniza / Guerra de los Tres. Leer **"Parte III" como el tramo de *Voto de Ceniza* (Libro II)** que va desde su apertura hasta la caída de Dario, la montaña y Santa Lucía. Dos puntos quedaban en contradicción directa con la trilogía y se corrigen abajo: (1) [[06_Relationships/Hitos#H22 — Los primeros pasos|H22]] ocurre **antes** de la caída de Dario/montaña/Santa Lucía, no después de "cerrar Parte III"; (2) la **muerte pública de Halbrook no ocurre dentro de este tramo** — Kal sólo lo sentencia aquí; la ejecución abre *Cuentas de Sangre* (Libro III). **[Superado 2026-09-28 / 2026-11-08: la ejecución cierra *Voto de Ceniza* y la guerra; ver «Arco de la guerra en tres tiempos».]** No se movió ningún hito ni se inventó contenido nuevo.
 
 > **CANON DEL AUTOR (2026-08-30). REGLA DURA DE VOTO DE CENIZA / GUERRA DE LOS TRES.** “Guerra de los Tres” es una denominación de arquitectura narrativa para el autor, los agentes y, progresivamente, el lector. **No existe públicamente.**
 
@@ -163,6 +163,14 @@ Ni Dario Varek ni Warren Halbrook conocen que sobrevivió. La guerra no se simpl
 
 La separación debe durar lo suficiente para convertirse en experiencia acumulada —fotografías escasas, crecimiento y ausencia— antes de [[06_Relationships/Hitos#H22 — Los primeros pasos|H22 — Los primeros pasos]]. **Corrección (2026-09-11):** H22 no depende del cierre de la guerra — [[00_Biblia/00_Trilogy_Structure]] lo coloca **antes** de la caída de Dario, la montaña y Santa Lucía, mientras la guerra sigue abierta. Sigue bloqueado para prosa por su propia matriz de dependencias, no por el cierre bélico.
 
+## Arco de la guerra en tres tiempos — CANON DEL AUTOR (2026-11-08)
+
+- **Inicio:** el coche bomba en la comisaría de Calle Corona, simultáneo a la muerte de Trix ([[#Regla particular — Coche bomba en Calle Corona]]). Ya plantado.
+- **Clímax:** el **arresto de Dario Varek, junto a Santa Lucía**: ahí Halbrook sacude violentamente el mundo de Kal. El arresto deja de leerse como falso clímax separado del clímax real: ambos forman el pico de la guerra.
+- **Final:** la **ejecución pública de Halbrook**, al cierre de *Voto de Ceniza* (discurso de victoria; ver [[02_Characters/Warren_Halbrook]]). Con ella termina la Guerra de los Tres.
+
+> **CANON DEL AUTOR (2026-11-08) — el día del clímax:** todo ocurre el **mismo día**. **Por la tarde**, Dario Varek es arrestado; **esa noche**, la montaña y Santa Lucía, en paralelo. El "falso final" del arresto dura unas horas, no capítulos. En la montaña se pierde a uno de los personajes con más carga emocional: **Héctor** (lo mata Halbrook; ver «Clímax real» en [[00_Biblia/00_Trilogy_Structure]]). Con esto se resuelve el PENDIENTE del orden fino arresto / Santa Lucía / montaña.
+
 ## Curva institucional de Voto de Ceniza / Guerra de los Tres
 
 1. **Inicio:** el Departamento interpreta los incidentes como violencia criminal elevada pero reconocible.
@@ -170,11 +178,11 @@ La separación debe durar lo suficiente para convertirse en experiencia acumulad
 3. **Caída de Dario:** una parte del rompecabezas se vuelve visible; hechos antes separados revelan una estructura mayor.
 4. **Después de Dario:** las instituciones creen haber cortado el centro principal de la crisis. Esto produce el falso final.
 5. **Santa Lucía + montaña:** la hipótesis vuelve a romperse. Si Dario está detenido, ¿quién acaba de hacer esto? Halbrook empieza a convertirse en una explicación para el lector y para las instituciones pertinentes.
-6. **Kal sentencia a Halbrook:** decide que debe morir. **No lo ejecuta todavía** — [[00_Biblia/00_Trilogy_Structure]] fija que la ejecución pública, por mano de Kal, es el evento que abre *Cuentas de Sangre* (Libro III), no el cierre de este tramo.
+6. **Kal sentencia a Halbrook:** decide que debe morir. No lo ejecuta en ese momento (se contiene por Elenna). **La ejecución pública de Halbrook cierra *Voto de Ceniza* y la guerra** (canon del autor 2026-09-28, ratificado 2026-11-08; ver [[#Arco de la guerra en tres tiempos — CANON DEL AUTOR (2026-11-08)]]). ~~La ejecución abre *Cuentas de Sangre*~~ quedó superado.
 
-Antes del corte a *Cuentas de Sangre* también deben haberse cobrado las muertes de Héctor y Kenji, la herida grave de Chiara, la aparición posterior de Corrado según su arco y el cierre reconocible de la arquitectura bélica dentro de *Voto de Ceniza*. La causa y posición exactas de la muerte de Héctor y el orden fino Santa Lucía/montaña permanecen pendientes.
+Antes del corte a *Cuentas de Sangre* también deben haberse cobrado las muertes de Héctor y Kenji, la herida grave de Chiara, la aparición posterior de Corrado según su arco y el cierre reconocible de la arquitectura bélica dentro de *Voto de Ceniza*. ~~La causa y posición exactas de la muerte de Héctor y el orden fino Santa Lucía/montaña permanecen pendientes.~~ **Resuelto 2026-11-08:** mismo día; arresto por la tarde, montaña y Santa Lucía de noche; Halbrook mata a Héctor en la montaña.
 
-> **PENDIENTE:** relación causal y orden fino entre el atentado de Santa Lucía y la secuencia de montaña; qué institución formula primero una hipótesis demostrable sobre Halbrook. **RESUELTO por [[00_Biblia/00_Trilogy_Structure]]:** quien dispara contra Halbrook es **Kal**, en *Cuentas de Sangre* (Libro III) — ya no es una incógnita de este tramo.
+> **PENDIENTE:** relación causal y orden fino entre el atentado de Santa Lucía y la secuencia de montaña; qué institución formula primero una hipótesis demostrable sobre Halbrook. **RESUELTO por [[00_Biblia/00_Trilogy_Structure]]:** quien dispara contra Halbrook es **Kal**, en *Cuentas de Sangre* (Libro III) — ya no es una incógnita de este tramo. **[Superado 2026-09-28: muere en su discurso de victoria al cierre de *Voto de Ceniza*; disparó Harper, Kal y Nadir la cubren. Ver [[02_Characters/Warren_Halbrook]].]**
 
 ## Regla particular — Coche bomba en Calle Corona
 

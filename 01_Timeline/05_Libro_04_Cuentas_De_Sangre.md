@@ -16,7 +16,7 @@
 - Kal y Chiara abandonan San Aurelio juntos.
 - La familia se reúne en Palermo y Elenna vuelve a vivir con ellos como hija, no como heredera.
 - El epílogo muestra a Elenna adulta en la historia de las Tres Hermanas.
-- Al final del libro, Nadir le cuenta a Chiara la verdad: Harper Walker disparó contra Halbrook; Kal y Nadir la cubrieron. Ver [[02_Characters/Warren_Halbrook]].
+- Al final del libro, Nadir le cuenta a Chiara la verdad: Harper Walker disparó contra Halbrook; Kal y Nadir la cubrieron. Ver [[02_Characters/Warren_Halbrook]]. **CANON DEL AUTOR (2026-11-08):** Tyler absorbe la muerte de Halbrook y se sacrifica para salvar a Harper; cuando el FBI llega a "había un tercero", Kal y Nadir sacan a Harper del país y Tyler se les adelanta: pone sus huellas en el rifle y en la chaqueta de ella y va a prisión. La guerra cobra a los últimos jóvenes de la banda; Kal pierde a su hija de las calles ([[02_Characters/Tyler_Brooks#El que absorbe la muerte de Halbrook — CANON DEL AUTOR (2026-11-08)]]).
 
 ## Cierre
 

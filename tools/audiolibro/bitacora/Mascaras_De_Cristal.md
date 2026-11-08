@@ -2,7 +2,7 @@
 
 Generada por `tools/audiolibro/build_audiobook.py`; no editar a mano. Tras cambiar la prosa de un capítulo, correr `--estado` para marcarlo PENDIENTE; la bandera se cierra sola cuando el script regenera ese audio.
 
-Actualizada: 2026-11-08 11:14. Al día: 29 de 50.
+Actualizada: 2026-11-08 14:33. Al día: 9 de 47.
 
 ## Pendientes
 
@@ -18,17 +18,34 @@ Actualizada: 2026-11-08 11:14. Al día: 29 de 50.
 | 17 | El día nublado | SIN AUDIO |  | 2026-11-08 11:14 |
 | 18 | Lo pequeño | SIN AUDIO |  | 2026-11-08 11:14 |
 | 19 | Grazie | SIN AUDIO |  | 2026-11-08 11:14 |
-| 23 | La cifra | PENDIENTE | cambió la prosa | 2026-11-07 19:49 |
-| 27 | Oveja entre lobos | PENDIENTE | cambió la prosa | 2026-11-07 19:49 |
-| 28 | Vienes conmigo | PENDIENTE | cambió la prosa | 2026-11-07 19:49 |
+| 20 | La cifra | SIN AUDIO |  | 2026-11-08 13:19 |
+| 21 | Con su proveedor | SIN AUDIO |  | 2026-11-08 13:19 |
+| 22 | Lo que cueste | SIN AUDIO |  | 2026-11-08 13:19 |
+| 23 | Oveja entre lobos | SIN AUDIO |  | 2026-11-08 13:19 |
+| 24 | Vienes conmigo | SIN AUDIO |  | 2026-11-08 13:19 |
+| 25 | Libros abiertos | SIN AUDIO |  | 2026-11-08 13:19 |
+| 26 | Me encuentro bien | SIN AUDIO |  | 2026-11-08 13:19 |
+| 27 | Una silla | SIN AUDIO |  | 2026-11-08 13:19 |
+| 28 | Media Baraja | SIN AUDIO |  | 2026-11-08 13:19 |
+| 29 | Vamos a casa | SIN AUDIO |  | 2026-11-08 13:19 |
+| 30 | Línea directa | SIN AUDIO |  | 2026-11-08 13:19 |
+| 31 | Lo único que es mío | SIN AUDIO |  | 2026-11-08 13:19 |
+| 32 | Mi pareja | SIN AUDIO |  | 2026-11-08 13:19 |
+| 33 | Sin fecha de regreso | SIN AUDIO |  | 2026-11-08 13:56 |
 | 34 | También las mañanas | SIN AUDIO |  | 2026-11-08 03:27 |
-| 35 | Vamos a casa | PENDIENTE | cambió la prosa | 2026-11-08 01:33 |
 | 35 | Al revés | SIN AUDIO |  | 2026-11-08 03:02 |
+| 36 | Mecánico | SIN AUDIO |  | 2026-11-08 13:57 |
 | 37 | La otra mitad | SIN AUDIO |  | 2026-11-07 23:10 |
 | 38 | Nada | SIN AUDIO |  | 2026-11-08 01:33 |
-| 39 | Mi pareja | PENDIENTE | cambió la prosa | 2026-11-08 02:23 |
 | 39 | La puerta | SIN AUDIO |  | 2026-11-08 01:33 |
-| 40 | Sin fecha de regreso | PENDIENTE | cambió la prosa | 2026-11-07 21:26 |
+| 40 | Jurisdicción | SIN AUDIO |  | 2026-11-08 13:56 |
+| 41 | Ropa limpia | SIN AUDIO |  | 2026-11-08 13:56 |
+| 42 | Llaves | SIN AUDIO |  | 2026-11-08 13:56 |
+| 43 | Intereses | SIN AUDIO |  | 2026-11-08 13:56 |
+| 44 | Su nombre | SIN AUDIO |  | 2026-11-08 13:56 |
+| 45 | Por si vuelve | SIN AUDIO |  | 2026-11-08 13:56 |
+| 46 | A oscuras | SIN AUDIO |  | 2026-11-08 13:56 |
+| 47 | La tierra bajo sus botas | SIN AUDIO |  | 2026-11-08 13:56 |
 
 ## Capítulos
 
@@ -53,40 +70,59 @@ Actualizada: 2026-11-08 11:14. Al día: 29 de 50.
 | 17 | El día nublado | SIN AUDIO | 2026-11-02 |
 | 18 | Lo pequeño | SIN AUDIO | 2026-11-01 |
 | 19 | Grazie | SIN AUDIO | 2026-11-01 |
-| 23 | La cifra | PENDIENTE | 2026-11-01 |
-| 24 | Con su proveedor | AL DIA | 2026-11-01 |
-| 25 | Bajo juramento | AL DIA | 2026-11-01 |
-| 26 | Lo que cueste | AL DIA | 2026-11-01 |
-| 27 | Oveja entre lobos | PENDIENTE | 2026-11-01 |
-| 28 | Vienes conmigo | PENDIENTE | 2026-11-01 |
-| 29 | Libros abiertos | AL DIA | 2026-11-01 |
-| 30 | Me encuentro bien | AL DIA | 2026-11-01 |
-| 31 | Lleve equipaje | AL DIA | 2026-11-01 |
-| 32 | No hace falta | AL DIA | 2026-11-01 |
-| 33 | Una silla | AL DIA | 2026-11-01 |
-| 34 | Media Baraja | AL DIA | 2026-11-01 |
+| 20 | La cifra | SIN AUDIO | 2026-11-01 |
+| 21 | Con su proveedor | SIN AUDIO | 2026-11-01 |
+| 22 | Lo que cueste | SIN AUDIO | 2026-11-01 |
+| 23 | Oveja entre lobos | SIN AUDIO | 2026-11-01 |
+| 24 | Vienes conmigo | SIN AUDIO | 2026-11-01 |
+| 25 | Libros abiertos | SIN AUDIO | 2026-11-01 |
+| 26 | Me encuentro bien | SIN AUDIO | 2026-11-01 |
+| 27 | Una silla | SIN AUDIO | 2026-11-01 |
+| 28 | Media Baraja | SIN AUDIO | 2026-11-01 |
+| 29 | Vamos a casa | SIN AUDIO | 2026-11-01 |
+| 30 | Línea directa | SIN AUDIO | 2026-11-01 |
+| 31 | Lo único que es mío | SIN AUDIO | 2026-11-01 |
+| 32 | Mi pareja | SIN AUDIO | 2026-11-01 |
+| 33 | Sin fecha de regreso | SIN AUDIO | 2026-11-01 |
 | 34 | También las mañanas | SIN AUDIO | 2026-11-01 |
-| 35 | Vamos a casa | PENDIENTE | 2026-11-01 |
 | 35 | Al revés | SIN AUDIO | 2026-11-01 |
-| 36 | Línea directa | AL DIA | 2026-11-01 |
-| 37 | Lo único que es mío | AL DIA | 2026-11-01 |
+| 36 | Mecánico | SIN AUDIO | 2026-11-01 |
 | 37 | La otra mitad | SIN AUDIO | 2026-11-01 |
-| 38 | La mano | AL DIA | 2026-11-01 |
 | 38 | Nada | SIN AUDIO | 2026-11-01 |
-| 39 | Mi pareja | PENDIENTE | 2026-11-01 |
 | 39 | La puerta | SIN AUDIO | 2026-11-01 |
-| 40 | Sin fecha de regreso | PENDIENTE | 2026-11-01 |
-| 49 | Jurisdicción | AL DIA | 2026-11-01 |
-| 50 | Ropa limpia | AL DIA | 2026-11-01 |
-| 51 | Llaves | AL DIA | 2026-11-01 |
-| 52 | Intereses | AL DIA | 2026-11-01 |
-| 53 | Su nombre | AL DIA | 2026-11-01 |
-| 54 | Por si vuelve | AL DIA | 2026-11-01 |
-| 55 | A oscuras | AL DIA | 2026-11-01 |
-| 56 | La tierra bajo sus botas | AL DIA | 2026-11-01 |
+| 40 | Jurisdicción | SIN AUDIO | 2026-11-01 |
+| 41 | Ropa limpia | SIN AUDIO | 2026-11-01 |
+| 42 | Llaves | SIN AUDIO | 2026-11-01 |
+| 43 | Intereses | SIN AUDIO | 2026-11-01 |
+| 44 | Su nombre | SIN AUDIO | 2026-11-01 |
+| 45 | Por si vuelve | SIN AUDIO | 2026-11-01 |
+| 46 | A oscuras | SIN AUDIO | 2026-11-01 |
+| 47 | La tierra bajo sus botas | SIN AUDIO | 2026-11-01 |
 
 ## Historial
 
+- 2026-11-08 13:56 · Cap. 47 (50b_La_Tierra_Bajo_Sus_Botas.md) · audio borrado
+- 2026-11-08 13:56 · Cap. 46 (50_A_Oscuras.md) · audio borrado
+- 2026-11-08 13:56 · Cap. 45 (49_Enfrente.md) · audio borrado
+- 2026-11-08 13:56 · Cap. 44 (48_Su_Nombre.md) · audio borrado
+- 2026-11-08 13:56 · Cap. 43 (47_Intereses.md) · audio borrado
+- 2026-11-08 13:56 · Cap. 42 (46_Llaves.md) · audio borrado
+- 2026-11-08 13:56 · Cap. 41 (45_Ropa_Limpia.md) · audio borrado
+- 2026-11-08 13:56 · Cap. 40 (44_Jurisdiccion.md) · audio borrado
+- 2026-11-08 13:56 · Cap. 33 (35_Sin_Fecha_De_Regreso.md) · audio borrado
+- 2026-11-08 13:19 · Cap. 32 (34_Mi_Pareja.md) · audio borrado
+- 2026-11-08 13:19 · Cap. 31 (33_Mas_De_La_Cuenta.md) · audio borrado
+- 2026-11-08 13:19 · Cap. 30 (32_Linea_Directa.md) · audio borrado
+- 2026-11-08 13:19 · Cap. 29 (31_Vamos_A_Casa.md) · audio borrado
+- 2026-11-08 13:19 · Cap. 28 (30_Media_Baraja.md) · audio borrado
+- 2026-11-08 13:19 · Cap. 27 (29_El_Patio_Ajeno.md) · audio borrado
+- 2026-11-08 13:19 · Cap. 26 (26_Me_Encuentro_Bien.md) · audio borrado
+- 2026-11-08 13:19 · Cap. 25 (25_Libros_Abiertos.md) · audio borrado
+- 2026-11-08 13:19 · Cap. 24 (24d_Vienes_Conmigo.md) · audio borrado
+- 2026-11-08 13:19 · Cap. 23 (24c_El_Corral.md) · audio borrado
+- 2026-11-08 13:19 · Cap. 22 (24b_Lo_Que_Cueste.md) · audio borrado
+- 2026-11-08 13:19 · Cap. 21 (22b_Con_Su_Proveedor.md) · audio borrado
+- 2026-11-08 13:19 · Cap. 20 (22a_La_Cifra.md) · audio borrado
 - 2026-11-08 11:14 · Cap. 19 (21b_Grazie.md) · audio borrado
 - 2026-11-08 11:14 · Cap. 18 (20_El_Mirador.md) · audio borrado
 - 2026-11-08 11:14 · Cap. 17 (18_El_Dia_Nublado.md) · audio borrado

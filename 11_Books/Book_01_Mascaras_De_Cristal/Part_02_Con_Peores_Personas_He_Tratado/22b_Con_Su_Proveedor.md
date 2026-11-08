@@ -1,23 +1,22 @@
 <!--
+Renumerado 2026-11-08 (nuevo cauce, Parte II): antes Cap. 24.
+NUEVO CAUCE (Fase 4, 2026-11-08, terminal B): nuevo Cap. 21, tarjeta T9, POV Kal único, verbo «Reescribe el POV» según [[11_Books/Book_01_Mascaras_De_Cristal/00_Mapa_Cauce_Cap11_Camp_Alder]] y [[98_Agent_Handoff/encargos/ENCARGO_Fase4_Parte_II]]. El encabezado sigue diciendo «Capítulo 24» hasta que la terminal principal renumere. Versión anterior íntegra (mixta: Kal, Tommaso, Chiara, Voss, Lucía, Dario): [[11_Books/Book_01_Mascaras_De_Cristal/Escenas_Eliminadas/22b_Con_Su_Proveedor_Version_2026-11-08]]. Sesión: [[98_Agent_Handoff/sessions/2026-11-08_claude_fase4_cap21_con_su_proveedor]].
+Estado: BORRADOR (lo nuevo es DISEÑO del agente; espera lectura del autor).
+Vigente sobre lo de abajo: la cadena es intermediarios de Halbrook → Crowe → Ferreyra y Mei-Lin → Pruitt y Lambert; Dario sale del robo ([[11_Books/Book_01_Mascaras_De_Cristal/Part_02_Con_Peores_Personas_He_Tratado/00_Plan_Robo_Monarch]]). Nada de eso está en prosa. La amenaza de Halbrook a Crowe y el asesinato de Boone por Crowe quedan fuera de página; en prosa sólo la casa vacía (CANON).
+Decisiones del autor (2026-11-08): (1) la línea canon de Dario ocurre con Kal presente: el viernes, en el piso de administración, Kal lleva la factura y Tommaso se lo dice a Dario delante de él; (2) Lucía baja en persona al patio de la comisaría, y el alto de Voss se oye por la radio del sargento.
+DISEÑO del agente en la reconstrucción: Nadir baja de la grúa antes de la comisaría; la radio deja ver que Lucía mandó a Voss a la cuesta tras la llamada de las 1:52; Lucía escribe *1:52* delante de Kal, nota la cifra que podría volver «entera» y cierra con «Eso hice.» / «Eso.» (sin la cifra de «diecisiete años»); en la bahía, Kal ve la liga roja sin saber de quién es, y Chiara le cuenta que Tommaso retiró lo de Kenji («ya trae la otra en el bolsillo»); el viernes, Danny lee lo de Boone en el periódico; Kal nota que Dario pregunta quién y cuántos, no qué había en la bolsa; Tommaso autoriza la factura, tantea («¿Traían algo más?») y la llama «una buena versión. Se parece mucho a la de Bellandi»; cierre: Kal dobla en cuatro la copia de la factura, como Nadir.
+Sale de la prosa (en la copia histórica): Tommaso recluta a la valet (DISEÑO del plan, fuera de página; ningún capítulo posterior depende de esa escena); el aviso de que la valet dejó el puesto; las escenas en POV Voss, Lucía y Tommaso.
+Irene: la deuda del nombre cierra aquí («Lo suyo queda en cero»). En el nuevo 30, «Ahora sí me debe» puede quedarse como deuda nueva (el carro que vigila a Nadir).
+Costura de apertura: con el nuevo 20 (ya existe), la llamada de los ladrones. Cierre: el nuevo 22 abre después del viernes.
 Renumerado 2026-11-01 (decisión del autor, carretera del Libro I): antes Cap. 27.
-Corte de parte 2026-10-29 (decisión del autor): este capítulo pasó a la Parte II (de `Part_01_Dos_Mundos` a `Part_02_Con_Peores_Personas_He_Tratado`); las menciones a «Parte I» de abajo son históricas.
-Estado: BORRADOR (redacción del agente 2026-10-28 con `chapter-drafting`, sobre [[11_Books/Book_01_Mascaras_De_Cristal/Part_02_Con_Peores_Personas_He_Tratado/00_Plan_Robo_Monarch]]; DISEÑO pendiente de lectura del autor).
-Sustituye, junto con el 22a, al Cap. 25 *Causalidad* (archivo 22). Numeración: Cap. 26 de 58 (renumeración aplicada 2026-10-28; *Nada caro*, archivo 23, pasó al 27). El título *Con su proveedor* es DISEÑO del agente, discutible (sale de la línea canon de Dario).
-Protagonistas: Kal Mercer, Chiara Bellandi. Apariciones: Danny Hayes, Nadir Amrani, Tommaso Lusardi, la valet nocturna (Mei-Lin, sin nombre), Irene Salcedo, Tomás Vale (sin diálogo), Travis Pruitt y Cody Lambert (los dos enmascarados), Nicholas Voss, Lucía Varek, Dario Varek. Mencionado: Roy Boone.
-Ventana temporal: del domingo del robo (11:30, después de la llamada del 22a) al viernes siguiente. Intercambio y revisión de Voss en la madrugada del martes.
-Lugares: oficina de Almendra Towing (La Almendra), remolque de la contratista en el lote de servicio del Monarch, oficina de Chiara, Canal Seco, gasolinera cerrada del camino viejo (bajo El Mirador, antes de la cuesta de Old Road Town), bahía de carga del Monarch, comisaría (oficina de Lucía), despacho de Dario.
-Función: beats 1–7 del 22b del plan. Danny lee el auto (Civic con rines de Integra pintados de dorado, bajado, dobla sin frenar: la cuesta de O.R.T., Devil Splicers) y deja que Kal crea que «el del billar» es uno de los dos; Nadir contra Chiara, de usted (la tarifa habitual es la de la grúa; «El proveedor del casino es Kal»; once viajes gratis para Irene); Kal les pregunta esta vez; Kal negocia por teléfono (salida, no cárcel; «los presos hablan»); «No lo abras»; Tommaso recluta a la valet sin mencionar el robo y retira lo de Kenji, y Chiara lo nota; Kal le paga a Irene con el nombre de la banda; intercambio: Kal recupera el libro sin abrirlo y la parte del dinero que «no existe», les deja los 82,400 declarados, un Monte Carlo con placas de un auto compactado y una perilla de calavera, y el consejo de llevarse todo; llama a Lucía como ella pidió; Voss los para por las placas (máscaras, el efectivo exacto, heroína); Lucía recibe el robo cerrado y un caso de narcóticos que no buscaba, nota la cifra al dólar y la hora de la llamada de Kal, y baja a Voss; cierre Dario–Tommaso con la línea canon.
+Protagonistas: Kal Mercer, Chiara Bellandi. Apariciones: Danny Hayes, Nadir Amrani, Irene Salcedo, Tomás Vale (sin diálogo), Travis Pruitt y Cody Lambert (sin nombre en prosa), Nicholas Voss (por radio), Lucía Varek, Tommaso Lusardi, Dario Varek. Mencionado: Roy Boone.
+Ventana temporal: del domingo del robo (después de la llamada del nuevo 20) al viernes siguiente.
+Lugares: oficina de Almendra Towing, Canal Seco, gasolinera cerrada del camino viejo, patio trasero de la comisaría central, bahía de carga del Monarch, piso de administración del Monarch.
 Línea canon del autor: «—Con su proveedor —repitió, despacio, como probando la frase—. Interesante.»
-Restricciones respetadas: la cadena Dario→Crowe→valet→ladrones no está en prosa; la valet no tiene nombre y nunca está ante Kal; Bonnie no aparece; Nadir y Chiara de usted; Kal no queda como soplón (los detenidos dicen «un tipo»); Dario no pregunta por la caja; la copia de las rutas no aparece.
-Provisional / a revisar con el autor:
-- Mecánica de la trampa (placas de un Buick compactado; Kal llama a la central por «un auto abandonado»; Lucía pone a Voss en el camino viejo por su cuenta) y cifras (tres mil por cabeza y por noche; la tarifa habitual de mil ochocientos más recargo): DISEÑO.
-- Geografía de O.R.T. (camino viejo bajo El Mirador, la cuesta, la recta de la mina): DISEÑO; no hay ficha de lugar.
-- Danny pone la perilla y no va al intercambio (podría reconocerlo alguien de los Splicers): DISEÑO, refuerza la mentira por omisión.
-- Lucía «diecisiete años» viendo regresar dinero robado: cifra provisional, ajustar a su ficha.
-Cirugía 2026-10-28 (reporte ChatGPT [[98_Agent_Handoff/ChatGPT/2026-10-28_lectura_caps25_26_robo_monarch_la_cifra_con_su_proveedor]], aprobada por el autor): «El martes. A la una de la madrugada» (O-01); Nadir y Danny cobran tres mil cada uno (O-02); el alto mira el camino antes de ceder (O-03); la barrera «se había quedado arriba» (O-04). **CANON DEL AUTOR (O-05):** Roy Boone deserta tras la detención (narcóticos encuentra su casa vacía a las seis); sin líder, los Devil Splicers se deshacen, y para el Cap. 43 «ya no existía». Pasada `editorial-surgery` el mismo día: [[98_Agent_Handoff/sessions/2026-10-28_claude_surgery_caps25_26_robo_monarch]].
+Provisional (DISEÑO, de la versión anterior): mecánica de la trampa (placas de un Buick compactado), cifras (tres mil por cabeza; mil ochocientos más recargo), geografía del camino viejo y la cuesta, Danny fuera del intercambio. CANON DEL AUTOR (O-05, 2026-10-28): la casa de Boone vacía a las seis; sin líder, los Devil Splicers se deshacen.
 -->
 
-# Capítulo 24 — Con su proveedor
+# Capítulo 21 — Con su proveedor
 
 Danny había visto el video once veces cuando Kal colgó con Chiara.
 
@@ -183,69 +182,7 @@ Kal no le preguntó por qué. Asintió una vez, sin voltear, y Chiara salió al 
 
 ***
 
-Tommaso Lusardi pidió el registro de la barrera del lote de servicio a las siete menos diez del lunes, a nombre del seguro, y el supervisor de la contratista se lo imprimió sin preguntar qué seguro.
-
-Lo leyó sentado en el remolque que la contratista usaba de oficina al fondo del lote, entre un garrafón de agua y el tablero de los ganchos de las llaves. La barrera abría y cerraba con tarjeta. La última de la noche del robo había pasado a las dos y cincuenta y uno. A las tres, cuando el lote cerraba, la barrera no había registrado nada: ni abrir ni cerrar. Se había quedado arriba. A las tres cuarenta y seis había salido un auto por ahí sin que nadie pasara tarjeta.
-
-—¿De quién es la de las dos cincuenta y uno?
-
-El supervisor buscó en una carpeta de argollas.
-
-—Del turno de noche. Una de las muchachas. ¿Quiere que la llame?
-
-—Termina a las siete —dijo Tommaso, que había leído la lista de turnos antes que el registro—. Vaya por un café, por favor.
-
-Ella entró a las siete y nueve, con el chaleco reflejante abierto y la gorra de la contratista. Era joven, veinte y pocos, con el pelo negro recogido debajo de la gorra y las uñas cortas. Colgó un juego de llaves en su gancho sin mirarlo. Al ver a un hombre de traje sentado en la silla del supervisor no se detuvo, y eso fue lo primero que Tommaso anotó.
-
-—Buenos días.
-
-—Buenos días. —Ella siguió colgando llaves—. El supervisor salió.
-
-—Lo sé.
-
-Tommaso dobló la hoja del registro en tres, despacio, con el encabezado hacia afuera, y la guardó en el bolsillo interior del saco. Ella vio la hoja. Tommaso vio que la veía.
-
-—Usted vive en el norte.
-
-—Ya no es el norte. Es O.R.T.
-
-—Me interesa saber quién vende allá arriba —dijo él—. Quién compra, quién llega, quién se va. Una vez cada dos semanas. En efectivo.
-
-Puso un sobre encima del escritorio del supervisor, junto al garrafón. No lo empujó hacia ella.
-
-—¿Por qué yo?
-
-—Porque usted ve llegar los autos.
-
-Ella se quedó quieta con la última llave en la mano. Miró el bolsillo del saco, donde estaba la hoja doblada, y después lo miró a él, a la cara, que era donde Tommaso nunca miraba a nadie.
-
-—¿Y si no sé nada?
-
-—Me lo dice, y la primera vez le pago igual.
-
-Tommaso dejó una tarjeta encima del sobre, sin nombre, con un número. Se acomodó el puño de la camisa y se puso de pie.
-
-Cuando salió del remolque, ella seguía junto al tablero de las llaves, con el sobre en la mano, sin abrirlo.
-
-***
-
-Tommaso se detuvo en la puerta de la oficina de Chiara a las cuatro de la tarde, sin tocar.
-
-—Bellandi. Lo del señor Oda queda retirado.
-
-Chiara levantó la vista del informe de la aseguradora.
-
-—No hace falta que siga respondiendo por él con su firma. —Giró el anillo de sello una vez—. Puede quedársela.
-
-Se fue antes de que ella contestara.
-
-Chiara se quedó mirando la puerta abierta. En los años que llevaba oyéndolo, primero en Italia y después aquí, Tommaso Lusardi no había retirado nunca nada. Cambiaba una cosa por otra, y cuando la cambiaba, era porque ya traía la otra en el bolsillo.
-
-Repasó con el pulgar el filo de las uñas, una por una. Volvió al informe de la aseguradora, que decía ochenta y dos mil cuatrocientos en tres páginas distintas, y no se preguntó en voz alta qué había encontrado. A él no se lo iba a preguntar nunca.
-
-***
-
-Kal cruzó el límite del Canal Seco a las siete de la tarde, en la grúa y solo. Tomás Vale lo cacheó sin una palabra junto a los toldos y lo llevó hasta la parte de atrás del puesto de comestibles.
+El lunes, Kal cruzó el límite del Canal Seco a las siete de la tarde, en la grúa y solo. Tomás Vale lo cacheó sin una palabra junto a los toldos y lo llevó hasta la parte de atrás del puesto de comestibles.
 
 Irene estaba en la misma silla plegable, con la misma libreta abierta en las piernas. No levantó la vista.
 
@@ -407,55 +344,98 @@ Colgó ella. Nadir seguía mirando la cuesta.
 
 —*Wallah* —dijo, al fin, sin voltear—. ¿Y esto también lleva tarifa habitual?
 
+
+Kal lo dejó en la esquina de la vulcanizadora, a dos cuadras del taller. Nadir no se acercaba a una comisaría ni de pasajero, y nadie en la grúa lo dijo en voz alta.
+
+—El jueves —dijo Nadir, con la puerta abierta.
+
+—El jueves.
+
 ***
 
-El oficial Voss se estacionó en la orilla de la curva de abajo del Mirador a las dos y cinco, con el motor prendido y la calefacción al máximo. La subjefa le había dado la orden por el radio y se la había repetido antes de cortar.
+La comisaría central tenía atrás un patio cercado con malla, donde dormían las patrullas que no estaban de turno y algunos autos que nadie había ido a reclamar. Kal entró por el portón de servicio a las dos y diecinueve. El sargento de guardia le hizo señas desde la caseta para que dejara la plataforma junto a la barda, debajo de la única lámpara que funcionaba, y volvió a su crucigrama.
 
-—Placas, Voss. Todas las que bajen.
+Kal bajó el Civic despacio. Le quitó las cadenas y las enrolló en el piso, como las enrollaba en cualquier patio. Después se quedó junto a la grúa con las manos en los bolsillos, porque la subjefa había dicho que se lo trajera y no le había dicho que se fuera.
 
-—Sí, subjefa.
+En la caseta, el radio del sargento hablaba solo. Un choque sin heridos en la costera. Una alarma en una farmacia del centro, falsa. Una unidad que pedía el número de una grúa municipal, y el sargento se lo dictó sin dejar de mirar el crucigrama.
 
-En veinticinco minutos no habían bajado más que dos: una camioneta de reparto de pan y un pickup con un perro en la caja que le ladró a la patrulla al pasar. Voss las corrió las dos en la terminal de la consola, de todos modos, y las dos salieron limpias.
+A las dos y treinta y dos entró una voz que Kal conocía. La había oído el domingo en el Monarch, preguntando por una lámina en el fondo de una caja.
 
-A las dos y treinta y uno bajó un Monte Carlo color vino, con el maletero tan hundido que la defensa de atrás casi besaba el pavimento. Tomó la curva rápido, abierta. Voss tecleó las placas antes de que terminara de pasar.
+—Central, unidad catorce. Detengo vehículo en el camino viejo, curva de abajo del Mirador. Monte Carlo color vino. Las placas salen dadas de baja. Dos ocupantes.
 
-La pantalla tardó un segundo. Después puso, en mayúsculas verdes: VEHÍCULO DADO DE BAJA.
+El sargento levantó la vista del crucigrama por primera vez.
 
-Voss prendió las torretas.
+Kal no se movió. Desde la gasolinera hasta esa curva había ocho kilómetros de cuesta, y una patrulla no se para ahí a las dos de la mañana porque sí. Alguien la había mandado. Él había llamado a las dos menos ocho, y en algún momento entre su llamada y ese radio, la subjefa Varek había decidido no esperar el Civic para empezar a trabajar.
 
-El Monte Carlo se detuvo en la orilla, doscientos metros más abajo, sin intentar nada. Voss avisó por radio, se bajó con la linterna en una mano y la otra en la cintura, como le habían enseñado, y se acercó por el lado del conductor.
+—Central, catorce. —La voz otra vez, más grave, como si el muchacho la empujara hacia abajo a propósito—. Solicito apoyo.
 
-Eran dos. Jóvenes, con gorras. El que manejaba tenía una cadena dorada por fuera de la sudadera y las manos en el volante, a la vista, sin que Voss se lo pidiera.
+Nadie en el patio dijo nada. El sargento dejó la pluma sobre el crucigrama.
 
-—Buenas noches. Licencia y tarjeta de circulación.
+Durante veinte minutos el radio fue diciendo el resto en pedazos, entre una alarma y otra. Dos pasamontañas. Una mochila con efectivo. Una caja de herramientas sin herramientas. Cuando dijo *paquetes con cinta café* y pidió que se avisara a narcóticos, el sargento se quitó los lentes y soltó un silbido bajo, para sí.
 
-—El auto no es nuestro. Nos lo vendieron así.
+Lucía Varek salió por la puerta trasera a las tres menos cinco.
+
+No traía uniforme. Llevaba un abrigo gris abotonado hasta arriba y una carpeta debajo del brazo, y caminó hasta el Civic sin mirar a Kal. Le dio la vuelta una vez, despacio. Se agachó junto a la rueda de adelante y miró el rin dorado debajo de la lámpara, sin tocarlo.
+
+—¿Lo tocó?
+
+—Las cadenas.
+
+—¿Adentro?
+
+—No abrí las puertas.
+
+Ella se enderezó. Abrió la carpeta sobre el cofre de la grúa y sacó una libreta de espiral. Kal vio, al revés, la página del Monarch: el nombre de Charles, el de la contratista de los valets y, más abajo, *Mercer*, con la letra del domingo.
+
+—Su llamada entró a la central a la una cincuenta y dos —dijo Lucía, y lo escribió debajo de su nombre—. Por un auto abandonado.
+
+—Me llamaron por un auto abandonado.
 
 —¿Quién?
 
-—Un tipo.
+—Un cliente. No dejó nombre.
 
-Voss pasó la luz de la linterna por el interior. En la palanca de velocidades, una calavera de metal. En el piso del asiento de atrás, debajo de una mochila escolar, asomaba algo negro, de lana, con un agujero redondo. Voss lo miró un momento antes de entender qué era.
+Lucía siguió escribiendo un momento más. Después levantó la vista y se la sostuvo, más tiempo del que hacía falta para una respuesta así.
 
-Pidió refuerzos con una voz que intentó que le saliera más grave.
+—El Monte Carlo que acaba de parar mi oficial bajaba de Old Road Town —dijo—. Bajaba, señor Mercer. Con dos personas y equipaje. Como gente que ya se iba.
 
-En el maletero había dos maletas de ropa metida a la fuerza, una caja de herramientas y una bolsa de deporte. Dentro de la caja de herramientas, en vez de herramientas, había paquetes envueltos en cinta adhesiva café, del tamaño de un ladrillo. En la mochila escolar, fajos de billetes de cincuenta.
+Kal no contestó. En la caseta, el radio pidió una segunda unidad para la curva del Mirador.
 
-El de la cadena se llamaba Travis Pruitt, veintiséis años. El otro, Cody Lambert, veinticuatro. Los dos con domicilio en Old Road Town. Ninguno de los dos volvió a decir nada más que «un tipo», ni en la orilla del camino ni en la patrulla ni en la comisaría.
+—El reporte del casino dice ochenta y dos mil cuatrocientos dólares. —Lucía pasó la hoja—. Si en esa mochila hay ochenta y dos mil cuatrocientos, voy a tener un problema con el que no contaba.
 
-Voss anotó todo en la libreta, incluida la calavera de la palanca, como si fuera a importar.
+—¿Cuál?
+
+—Que nunca he visto regresar entero un dinero robado. Siempre falta algo. Una cena, unas llantas, una deuda vieja que alguien corrió a pagar esa misma noche.
+
+—Va a haber que contarlo.
+
+—Lo van a contar dos veces. —Cerró la libreta—. Y narcóticos va a querer saber por qué una patrulla de tránsito estaba en la cuesta de O.R.T. a las dos y media de la mañana.
+
+—¿Y qué les va a decir?
+
+—Que revisó unas placas.
+
+Lo dijo sin cambiar la voz. No le preguntó qué hacía él en el camino viejo ni de quién era el auto que había bajado. Kal entendió que no se lo iba a preguntar esa noche, y que eso no quería decir que no se lo fuera a preguntar.
+
+El sargento salió de la caseta con una tablilla y un recibo de tres copias. Kal firmó la de la grúa. El sargento firmó las otras dos sin leerlas y se las dio a la subjefa.
+
+—Váyase a dormir, señor Mercer. —Lucía guardó las copias en la carpeta—. Si mañana alguien me pregunta qué hacía usted allá arriba, voy a decir que levantó un auto abandonado.
+
+—Eso hice.
+
+—Eso.
+
+Volvió a entrar por la puerta de atrás con la carpeta debajo del brazo. El Civic se quedó junto a la barda, entre dos patrullas, con los rines prendidos por la lámpara.
 
 ***
 
-Kal entró a la bahía de carga del Monarch a las cuatro y diez, con la plataforma vacía. El Civic se había quedado en el patio trasero de la comisaría central, entre dos patrullas, y un sargento de guardia le había firmado el recibo sin levantar la vista del crucigrama.
+Kal entró a la bahía de carga del Monarch a las cuatro y diez, con la plataforma vacía.
 
 Chiara bajó por el elevador de servicio. Se había cambiado de ropa, pero no se había acostado; se había quitado los aretes y tenía el saco puesto encima de los hombros, sin meter los brazos.
 
 Kal le pasó por la ventanilla la bolsa del supermercado. Después, la de lona.
 
-Ella abrió la del supermercado lo justo para ver el lomo. Matteo cerraba el libro con una liga roja cruzada en una esquina. La liga seguía en la misma esquina.
-
-Chiara no lo dijo. Cerró la bolsa.
+Ella abrió la del supermercado lo justo para ver el lomo. Había una liga roja cruzada en una esquina, y Chiara la miró un segundo más de lo que se mira una liga. Después cerró la bolsa.
 
 —¿Y esto? —Levantó apenas la de lona.
 
@@ -471,68 +451,106 @@ A ella se le escapó algo que no llegó a ser risa.
 
 —Danny vio el video.
 
-Chiara lo miró un momento por la ventanilla, con las dos bolsas contra el pecho. Arriba, en el Paseo, pasaba el camión de la basura, y el ruido llegaba a la bahía rebotando en las paredes de concreto.
+Chiara se acomodó las dos bolsas contra el pecho. Arriba, en el Paseo, pasaba el camión de la basura, y el ruido llegaba a la bahía rebotando en las paredes de concreto.
 
-—Ciao, tesoro —dijo, como se lo decía al valet de la entrada, y subió con las dos bolsas por el elevador de servicio.
+—Los pararon en la cuesta —dijo Kal—. Con el dinero contado y con lo que traían ellos. Lucía estaba en el patio cuando llegué.
 
-***
+—¿Qué te preguntó?
 
-Lucía Varek leyó el inventario de la revisión de tránsito a las ocho de la mañana, en su oficina, con la puerta cerrada y un café que no había probado.
+—La hora.
 
-Ochenta y dos mil cuatrocientos dólares en billetes de cincuenta, en una mochila escolar, contados dos veces por dos oficiales distintos. Dos pasamontañas de lana negra. Cuatro kilos y algo de heroína en una caja de herramientas. Un Monte Carlo con placas de un auto que no existía desde abril.
+Chiara asintió despacio, como quien guarda una cifra para sumarla después.
 
-Llevaba diecisiete años viendo regresar dinero robado, y nunca había regresado entero. Siempre faltaba algo: una cena, unas llantas, una deuda vieja que alguien había corrido a pagar esa misma noche. Este dinero había vuelto al dólar.
+—Tommaso retiró lo de Kenji —dijo—. Ayer, a las cuatro. Se paró en mi puerta, lo dijo y se fue.
 
-El de narcóticos la había llamado a las siete. Le dio los nombres de los dos detenidos y un tercero, Roy Boone, y lo dijo como quien dice el nombre de un río: algo que estaba ahí desde antes y que nadie había conseguido mover. A las seis habían ido por él a O.R.T. y encontraron la puerta abierta, el clóset vacío y ninguna camioneta en el patio. El de narcóticos quería saber cómo había llegado la subjefa a la cuesta de O.R.T. a las dos y media de la mañana. Lucía le dijo que una patrulla había revisado unas placas.
+—¿Así nada más?
 
-Ahora tenía un robo cerrado y un caso de narcóticos en Old Road Town que no había ido a buscar. Ninguno de los dos se lo había pedido a nadie.
+—Tommaso no retira nada, Kal. Cambia una cosa por otra. —Miró hacia el elevador, que seguía abierto, esperándola—. Y cuando la cambia, ya trae la otra en el bolsillo.
 
-Abrió la libreta de espiral en la página del Monarch. Debajo de *Mercer*, que llevaba ahí desde el domingo, escribió *1:52*, la hora en que la central había registrado su llamada. Después se quedó mirando el renglón. No escribió nada más.
+—¿Qué trae?
 
-Tocaron la puerta. Voss asomó la cabeza, recién bañado, con el uniforme planchado y los ojos de alguien que no había dormido y no lo necesitaba.
+—No sé.
 
-—Subjefa. Dicen que a las once hay conferencia. ¿Va a salir? Lo del Monarch y lo de O.R.T., todo en una noche...
+Lo dijo sin bajar la voz y sin adornarlo, y Kal no le preguntó más. Esa noche él había cargado un libro debajo del brazo durante tres horas sin abrirlo. Ella tenía derecho a no saber algo también.
 
-—Va a salir que una patrulla revisó unas placas. —Lucía cerró la libreta—. ¿Usted revisó unas placas, Voss?
-
-—Sí, subjefa.
-
-—Eso.
-
-Voss esperó un poco más en la puerta, por si había otra cosa. No la hubo. Se fue cerrando despacio, para que no sonara.
-
-Lucía tomó por fin el café. Estaba frío. Se lo tomó de todos modos, mirando por la ventana hacia el norte, donde la montaña tapaba O.R.T. y el Mirador se veía chico, como una caja de fósforos en la cresta.
+—Ciao, tesoro —dijo Chiara, como se lo decía al valet de la entrada, y subió con las dos bolsas por el elevador de servicio.
 
 ***
 
-Dario firmaba cartas cuando Tommaso entró a su despacho el viernes, y no dejó de firmarlas.
+El viernes, Danny llegó al taller con el periódico doblado en la bolsa de atrás del pantalón, y lo abrió sobre el cofre del Ford del licenciado antes de saludar a nadie.
+
+—Salimos, jefe. Bueno, no salimos. Sale «una revisión de tránsito».
+
+Era una nota de media columna, en la página de la ciudad. El robo del Monarch, resuelto. Dos detenidos en el camino viejo, de madrugada, con el dinero completo y cuatro kilos de heroína. Una conferencia de prensa a la que la subjefa en funciones no había ido. Un tercer nombre al final del último párrafo.
+
+—Roy Boone —leyó Danny, y se pasó el dorso de la mano por la nariz—. El de allá arriba. El que manda. Dice que narcóticos fue por él a las seis y encontró la puerta abierta. El clóset vacío. Ni la camioneta.
+
+—Se fue.
+
+—Eso dice. —Danny leyó el párrafo otra vez, moviendo los labios, y Kal lo vio leerlo una tercera vez antes de doblar el periódico—. En O.R.T. nadie se va así, jefe. Allá la gente se va cuando ya no tiene a quién venderle.
+
+Nadir, desde la mesa, contó algo con los dedos contra la madera. Una vez. No dijo qué.
+
+Kal esperó a que Danny dijera algo más del billar, o de la gorra, o de alguien que se pareciera. Danny guardó el periódico en el cajón de las facturas y se metió debajo del Ford.
+
+***
+
+A las cuatro de la tarde Kal subió al piso de administración del Monarch con la factura en un sobre del taller. *Recuperación de vehículo, servicio nocturno, con recargo, más gastos de personal*. El total al final de la hoja, con el sello de Almendra Towing.
+
+La recepcionista de contabilidad le pidió que esperara. Kal se quedó de pie junto al mostrador, debajo de un cuadro del casino recién inaugurado, con los autos de los años sesenta estacionados frente a la entrada.
+
+El elevador de directivos se abrió al fondo del pasillo y salió Tommaso Lusardi con una carpeta bajo el brazo. Detrás de él venía Dario Varek, con el abrigo puesto, como alguien que había subido sólo a firmar algo.
+
+Tommaso vio a Kal primero. Después vio el sobre del taller. No se detuvo hasta que Dario se detuvo.
+
+—Señor Mercer —dijo Dario.
+
+—Señor Varek.
+
+Dario se volvió hacia Tommaso, sin prisa, como si Kal se hubiera vuelto parte del mostrador.
+
+—Lo del domingo.
 
 —El robo del Monarch está cerrado —dijo Tommaso—. Dos detenidos en una revisión de tránsito en el camino viejo, de madrugada. Traían el dinero completo. Y heroína, de la de O.R.T. La aseguradora no va a tener que pagar nada.
-
-Dario terminó una firma y empezó la siguiente.
 
 —¿Quién lo resolvió?
 
 —Una patrulla de tránsito, según el reporte.
 
-Dario no levantó la vista. Esperó, con la pluma quieta sobre el papel.
+Dario no dijo nada. Esperó, con los guantes en una mano.
 
-—Bellandi —dijo Tommaso—. Con su proveedor.
+Tommaso giró el anillo de sello una vez. Miró el sobre que Kal tenía en la mano, no a Kal.
 
-Ahora sí levantó la vista.
+—Bellandi —dijo—. Con su proveedor.
+
+Ahora Dario sí miró a Kal.
 
 —Con su proveedor —repitió, despacio, como probando la frase—. Interesante.
 
-Tommaso no agregó nada.
+Kal sostuvo la mirada. La palabra era la de Nadir, el domingo, en la oficina del taller, con el índice sobre la factura de la pintura. Ahora la tenía un hombre de abrigo largo en un pasillo alfombrado, y sonaba a otra cosa.
 
-—¿Fue solo?
+—¿Fue solo, señor Mercer?
 
-—Con uno de sus muchachos, por lo que sé. Tal vez dos.
+—Con mi gente.
 
-Dario asintió una vez y volvió a las cartas.
+—¿Cuántos?
 
-En la carpeta que Tommaso llevaba bajo el brazo había una hoja que no sacó: el aviso de la contratista de valets, con fecha del miércoles, de que una de sus empleadas del turno de noche había dejado el puesto sin avisar. Tommaso no la puso sobre el escritorio. No había venido a eso.
+—Los que hacían falta.
 
-Desde el domingo en la madrugada, Dario Varek había preguntado quién llamó a quién, quién vino sin que lo llamaran, quién lo resolvió y cuántos fueron. No había preguntado ni una vez qué había en la caja.
+Dario asintió una vez. Se acomodó el abrigo sobre los hombros y volvió por el pasillo hacia el elevador, y el de seguridad que esperaba ahí le abrió la puerta antes de que llegara.
 
-Tommaso giró el anillo de sello con el pulgar, y lo dejó quieto. No preguntó nada.
+Desde el domingo, a Kal le habían preguntado cuánto, a qué hora, por qué el camino viejo y quién había llamado. Dario había preguntado quién y cuántos. No había preguntado qué había en la bolsa.
+
+Tommaso tomó el sobre de la mano de Kal sin pedirlo. Sacó la factura, leyó el total y la volvió a doblar por los mismos pliegues.
+
+—Se autoriza. —Se acomodó el puño de la camisa—. ¿Traían algo más, señor Mercer? Aparte de lo del reporte.
+
+—Lo que dice el reporte.
+
+Tommaso lo miró al anular, a la mano de Kal que ya no tenía el sobre, y dejó el anillo quieto.
+
+—Es una buena versión —dijo—. Se parece mucho a la de Bellandi.
+
+Se llevó la factura a contabilidad sin despedirse.
+
+Kal bajó por el elevador de servicio. Entre el piso de administración y la bahía de carga sacó del bolsillo la copia del taller, la que se quedaba en el archivero, y la dobló en cuatro, sin necesidad, como Nadir había doblado la de la pintura.

@@ -1,4 +1,5 @@
 <!--
+Renumerado 2026-11-08 (nuevo cauce, Parte III): antes Cap. 53.
 Renumerado 2026-11-01 (decisión del autor, carretera del Libro I): antes Cap. 57.
 Renumerado 2026-10-22 (decisión del autor): antes Cap. 48; numeración corrida definitiva, el archivo conserva su nombre.
 Estado: BORRADOR — Parte III — Ardizzone, Cap. 48 (quinto del arco final sin Kal, bloque de cierre 44–50b). Redactado 2026-10-02, Claude Opus 5.5, conforme a [[11_Books/Book_01_Mascaras_De_Cristal/00_Plan_Arco_Final_Sin_Kal]] y a las craft policies (Redaccion_De_Capitulos, voice/, staging_rules/, dialogue_rules/). Pendiente de lectura del autor.
@@ -25,7 +26,7 @@ Regla de diálogo 05 (2026-10-28, a pedido del autor; prosa DISEÑO, espera lect
 Hilo del Tasador (2026-11-01, DECISIÓN DEL AUTOR: señales desde Chiara; prosa DISEÑO, espera lectura; plan [[11_Books/Book_01_Mascaras_De_Cristal/00_Plan_Hilo_Tasador]]): tras «Todo. Menos su hombre», Rafe dice que el gordo de la Almendra anda tasando el sur desde antes de Navidad (presta, sube cuotas, ofrece trabajitos) y que el muchacho del hielo le contestó a su enviado «sin preguntarme» (conserva lo brutal de la puerta trasera). Chiara no pregunta por La Almendra. El I no nombra a Crowe aquí.
 -->
 
-# Capítulo 53 — Su nombre
+# Capítulo 44 — Su nombre
 
 El primero de enero La Esquina de Mabel no tenía turno de la mañana ni de la tarde. Tenía uno solo, largo, que empezaba a las seis con los que todavía no se habían acostado y pedían menudo, y terminaba cuando Mabel apagaba la cafetera, y a mediodía estaba en su peor hora: todas las mesas ocupadas, dos familias esperando de pie junto a la vitrina, un niño llorando por un pan que no era el que había pedido.
 

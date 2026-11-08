@@ -1,5 +1,7 @@
 # Tyler "Switch" Brooks
 
+> **NUEVO CAUCE — PARTE III (2026-11-08; [[98_Agent_Handoff/sessions/2026-11-08_claude_propagacion_parte_III]]; prosa BORRADOR, lo nuevo es DISEÑO salvo donde dice CANON):** **Nuevo 35:** encuentra al chofer de Kingsley (Rudy) en la cadena de la bala del corral; en el yate le habla a Mei-Lin en la mesa de los quesos y ella no le da la cara. No hay ficha de voz de Tyler.
+
 > **Numeración:** desde 2026-10-22 el Libro I usa numeración corrida definitiva (56 caps.); este documento cita la numeración anterior. Correspondencia en [[11_Books/Book_01_Mascaras_De_Cristal/00_Book_Map]].
 
 *Seda y Pólvora — Ficha de Personaje*
@@ -74,6 +76,22 @@ Eso lo vuelve una pieza perfecta para San Aurelio: el crimen aquí es logística
 - [[03_Factions/Los_Marcadores_de_Milla]] — circuito de carreras del norte; pendiente confirmar si Tyler pertenecía a ellos o sólo organizaba eventos que ellos usaban.
 
 ---
+
+## El que absorbe la muerte de Halbrook — CANON DEL AUTOR (2026-11-08)
+
+- **Tyler se sacrifica para salvar a [[02_Characters/Harper_Walker|Harper]]: absorbe la muerte de [[02_Characters/Warren_Halbrook|Halbrook]]** y carga con la culpa del disparo.
+- **Por qué:** durante todos esos años quiso a las chicas (Mei-Lin, Bonnie, Harper) como a sus hermanas y las cuidó en las calles. Perdió primero a [[02_Characters/Mei_Lin_Zhao|Mei-Lin]] y luego a [[02_Characters/Bonnie_Garcia|Bonnie]] (F2, *Sombras de Poder*); a Harper decide no perderla.
+- Cierra la tesis de Harper ([[02_Characters/Harper_Walker#La que no pudo salir — CANON DEL AUTOR (2026-11-08)]]): ella no pudo salir, y el que paga para que no termine de cobrarle es Tyler.
+
+**Secuencia (CANON DEL AUTOR, 2026-11-08), en *Cuentas de Sangre*:**
+1. El FBI reúne evidencia de que, en el momento del disparo, **Kal estaba en un lugar y Nadir en otro**. Conclusión: **"Había un tercero."** Tarde o temprano iban a llegar a Harper.
+2. **Kal y Nadir sacan a Harper de Estados Unidos** para salvarla.
+3. **Tyler se les adelanta:** pone sus huellas en el rifle de francotirador y en la chaqueta que ella llevaba puesta, y **va a prisión** para cubrirla. Actúa por su cuenta, antes que ellos.
+4. **Harper elige marcharse** por las heridas sentimentales del último año (no sólo por la investigación).
+5. Con eso **la guerra cobra a los últimos miembros jóvenes de la banda**: Tyler preso, Harper fuera del país. **Kal pierde aquí a su hija de las calles.**
+
+> Sigue en pie, salvo que el autor diga lo contrario: la ciudad duda entre Kal y Nadir mientras dura el misterio, y Nadir le cuenta la verdad a Chiara al final del libro. **PENDIENTE (autor):** en qué punto del libro cae el "había un tercero"; si Kal y Nadir se enteran del sacrificio de Tyler antes o después de que sea irreversible; adónde va Harper; cuánto le dan a Tyler y si vuelve en la trilogía de Elenna; qué heridas del último año pesan en la decisión de Harper.
+- **Consecuencia para la siembra:** su relación de hermano mayor con las tres chicas hay que construirla desde el Libro I (calle, carreras) y en el Libro II; también corrige la ficha anterior, donde su vínculo con Mei-Lin y Bonnie era sólo "ex corredoras rivales".
 
 ## Preguntas abiertas
 

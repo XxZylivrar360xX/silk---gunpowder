@@ -1,5 +1,7 @@
 # Garrett Cross
 
+> **NUEVO CAUCE — PARTE III (2026-11-08; [[98_Agent_Handoff/sessions/2026-11-08_claude_propagacion_parte_III]]; prosa BORRADOR, lo nuevo es DISEÑO salvo donde dice CANON):** **Nuevo 36:** por teléfono siembra el otro punto («Te van a dar un punto donde bajar. Mañana te enseño el otro.» / «Ahí voy a estar.»); recibe la fecha: «El domingo, a las dos de la mañana.». **Nuevo 39:** llega a las cuatro; Kal le da el punto de Varek («Al de Varek»); sin diálogo. No hay ficha de voz de Garrett.
+
 > **Numeración:** desde 2026-10-22 el Libro I usa numeración corrida definitiva (56 caps.); este documento cita la numeración anterior. Correspondencia en [[11_Books/Book_01_Mascaras_De_Cristal/00_Book_Map]].
 
 *Seda y Pólvora — Ficha de Personaje*
@@ -91,4 +93,4 @@ Con ayuda de Chiara, usa el casino como una zona de niebla narrativa: apuestas, 
 
 > **PENDIENTE:** cómo conoce Kal a Garrett: abogado recomendado, contador comprado, deuda antigua, favor de Chiara o pieza heredada de Varek.
 
-> **PENDIENTE:** cuál es la primera vez que Garrett le dice "no" a Kal y Kal lo obedece. *(2026-09-09, catchup manual: en [[11_Books/Book_01_Mascaras_De_Cristal/Part_02_Con_Peores_Personas_He_Tratado/24_Bajo_Juramento|Cap. 25 (archivo 24)]] Garrett le dice "No" cuando Kal mira un Lancia para Chiara recién salido del litigio del lote; Kal no compra ese día, pero ya piensa volver en dos semanas — obediencia parcial, no la resolución definitiva de este pendiente.)*
+> **PENDIENTE:** cuál es la primera vez que Garrett le dice "no" a Kal y Kal lo obedece. *(2026-09-09, catchup manual: en [[11_Books/Book_01_Mascaras_De_Cristal/Escenas_Eliminadas/24_Bajo_Juramento_Version_2026-11-08|Cap. 25 (archivo 24)]] Garrett le dice "No" cuando Kal mira un Lancia para Chiara recién salido del litigio del lote; Kal no compra ese día, pero ya piensa volver en dos semanas — obediencia parcial, no la resolución definitiva de este pendiente.)*

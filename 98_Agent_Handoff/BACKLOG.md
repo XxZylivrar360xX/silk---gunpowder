@@ -60,6 +60,20 @@ Actualizado: 2026-10-29 (diferidos desde PENDING; antes 2026-10-14). Lectura por
 
 ## Libros II y III
 
+### Pendientes del autor para *Sombras de Poder* (movidos íntegros de PENDING, 2026-11-08)
+
+- **F4, causa de la ausencia de Kal en Año Nuevo** (Anya retirada 2026-11-07; Washington, deuda de Nadir y programa de veteranos sin dueño): [[98_Agent_Handoff/sessions/2026-11-07_claude_collins_sustituye_a_anya]].
+
+Prosa en espera hasta cerrar el Libro I. Al empezar: recordar la muerte de Amanda Keegan ([[02_Characters/Natalie_Keegan]]) y revisar [[98_Agent_Handoff/BACKLOG#Libros II y III]] (incluye los cobros CANON del susurro a Varga y de «Usted es alta») antes de F2, H1 o Villa/Stavanger.
+
+- **Stavanger** ([[11_Books/Book_02_Sombras_De_Poder/Part_04_Torna_A_Casa/00_Diseno_Noche_Stavanger]]): leer la escena.
+- **F2** (nuevo, 2026-11-07: [[98_Agent_Handoff/sessions/2026-11-07_claude_f2_mei_lin_bonnie_nuevo_destino]]): rediseñar caps. 43–46; construir a Mei-Lin en los Libros I y II (vínculo con Kal: «Perdóname, jefe»); qué contesta Kal; qué operación; cómo se entera Bonnie; «Lo siento, ¿vale?»; latas; regreso y nombre de Bonnie; resguardo de Elenna en EE. UU.; qué filtra Mei-Lin y cómo se descubre.
+- **Semillas Kal–Chiara** ([[98_Agent_Handoff/sessions/2026-10-14_claude_semillas_kal_chiara_bellissima_hijos_anya]]): «Bellissima» en el 20 o en el 16; charla sobre hijos; Collins, antes Anya (Chiara calla lo de la teniente hasta Stavanger; «amante» no se dice); anuncio de Bellandi Ridge; notas de supersesión en Anya, La_Villa y Los_Tres_Dias.
+- **Voces, REL-01** ([[98_Agent_Handoff/sessions/2026-10-14_claude_voces_rel01_chiara_bonnie]]): si Bonnie pasa del *usted* al *tú* con Chiara, quién lo provoca y en qué Parte. REL-02 y siguientes esperan.
+- **Harper en los Libros II y III** (2026-11-08): construir su papel para que la ejecución de Halbrook duela (Bonnie pudo salir; ella no). Ver [[02_Characters/Harper_Walker#La que no pudo salir — CANON DEL AUTOR (2026-11-08)]].
+- **Navidad de Almendra Towing** (en pausa; [[11_Books/Book_02_Sombras_De_Poder/Part_02_Nieve_Y_Ceniza/00_Diseno_Navidad_Almendra_Towing]]): 9 preguntas abiertas. Al aprobarse, integrar en boceto, matriz, Hitos y Kal_y_Chiara.
+
+
 > **PENDIENTE:** desarrollar con el autor. Libro II conserva bloqueo general de prosa; H22 no se redacta ni encarga hasta cumplir sus prerrequisitos.
 
 - Elenna: concepción, confirmación previa a H1, reveal, sexo/nombre, calendario y nacimiento; falsa muerte médica/hospitalaria/documental, versión pública, documentos Serra, círculo del secreto, traslado/Italia, duración y reencuentros. Lista canónica detallada: [[02_Characters/Elenna_Mercer#Pendientes]].

@@ -1,4 +1,5 @@
 <!--
+Renumerado 2026-11-08 (nuevo cauce, Parte II): antes Cap. 23.
 NUEVO CAUCE (Fase 4, 2026-11-07, terminal B): nuevo Cap. 20, tarjeta T8, POV Chiara, verbo «Reusa y unifica el POV»; abre la Parte II (20–32) según [[11_Books/Book_01_Mascaras_De_Cristal/00_Mapa_Cauce_Cap11_Camp_Alder]]. El encabezado sigue diciendo «Capítulo 23» hasta que la terminal principal renumere. Versión anterior íntegra: [[11_Books/Book_01_Mascaras_De_Cristal/Escenas_Eliminadas/22a_La_Cifra_Version_2026-11-07]]. Sesión: [[98_Agent_Handoff/sessions/2026-11-07_claude_fase4_cap20_la_cifra]].
 Vigente sobre lo de abajo: la cadena es intermediarios de Halbrook → Crowe → Ferreyra y la valet → los ladrones; Dario sale del robo ([[11_Books/Book_01_Mascaras_De_Cristal/Part_02_Con_Peores_Personas_He_Tratado/00_Plan_Robo_Monarch]]). Nada de eso está en prosa. Kal ya no llega en la grúa porque Marisol tenga el Audi: el Audi volvió en el nuevo 19 y la grúa es elección (decisión del autor, 2026-11-07).
 DISEÑO del agente en la reconstrucción (espera lectura): (1) la llegada de Kal y el cuarto de monitores pasan a POV Chiara: ella lo recibe en la bahía, lo lleva con Charles y lo ve leer la curva del auto y el nombre tachado del pizarrón (Kal sigue sin verle la cara a Ferreyra); «Arriba está la policía. Usted vino por el auto.» / «Vine por el auto.». (2) Cobro del nuevo 19: Chiara ordena «primero lo que iba para Italia. Después el casino. Después Matteo»; no le habría dicho a Kal qué papeles eran; reconoce que en ese orden Tommaso tiene razón con Kenji, y aun así lo defiende. (3) Lo que nota Tommaso de Dario pasa por la mirada de Chiara.
@@ -21,7 +22,7 @@ Pasada `editorial-surgery` 2026-10-28 (3 microediciones): [[98_Agent_Handoff/ses
 Microedición 2026-10-30 (estudio OP-03, autorizada por el autor): Lucía nombra los dos contratos de Kal (el del Departamento viene de *Auster*); Matteo dice «la de Dario» para no confundir con la subjefa. [[98_Agent_Handoff/sessions/2026-10-30_claude_estudio_op03_robo_monarch]].
 -->
 
-# Capítulo 23 — La cifra
+# Capítulo 20 — La cifra
 
 Chiara vio el robo dos veces antes de sentarse.
 

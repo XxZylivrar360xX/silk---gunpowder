@@ -54,6 +54,13 @@ Orden: **25 → 26 → 27 → 28 → 31**.
 - El sedán que vigila El Patio va al 25 o al 26, en boca de Walt; Varek lo descarta como local en el 26.
 - Halbrook en persona pasa al epílogo y al Libro II.
 
+### Reasignación (2026-11-08, orden del autor)
+
+- **C hace sólo el 27** (después de un `/clear`). Sigue siendo la única dueña del archivo 28, *La correa*, y lo retira al cerrar el 27.
+- **El 28 y el 31 pasan a otras terminales.** La que haga el 28 hereda la retirada del archivo 27, *Riesgo pendiente*.
+- **El 28 depende del 27:** el pacto, la deuda de Kal con Varek y lo que Kal le calla a Chiara en el loft. Si arranca antes, marca `Costura PROVISIONAL: depende del nuevo 27`.
+- **El 26 ya está hecho.** Chiara le debe a Varek un favor abierto, «a su nombre, no a nombre del Monarch». Ella sabe que el sedán es de fuera (placas de Virginia, por una multa de uno de los policías de Varek). Detalle en [[98_Agent_Handoff/sessions/2026-11-08_claude_fase4_cap26_me_encuentro_bien]].
+
 ## Costuras entre terminales
 
 Se marcan `Costura PROVISIONAL: depende del nuevo NN` en la metadata. Ninguna terminal edita un capítulo del reparto de la otra para cerrarlas: se anotan en la nota de sesión.

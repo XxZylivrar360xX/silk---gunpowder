@@ -1,27 +1,66 @@
 <!--
-Renumerado 2026-11-01 (decisión del autor, carretera del Libro I): antes Cap. 30.
-Corte de parte 2026-10-29 (decisión del autor): este capítulo pasó a la Parte II (de `Part_01_Dos_Mundos` a `Part_02_Con_Peores_Personas_He_Tratado`); las menciones a «Parte I» de abajo son históricas.
-Renumerado 2026-10-22 (decisión del autor): antes Cap. 24b; numeración corrida definitiva, el archivo conserva su nombre. Hoy Cap. 29 (numeración de 58, 2026-10-28; fue el 28 en la de 57).
-Estado: BORRADOR (2026-10-01, Claude Code, encargo del autor; falta revisión del autor). Regla de diálogo 05 aplicada 2026-10-28 (DISEÑO, espera lectura): 98_Agent_Handoff/sessions/2026-10-28_claude_regla05_lo_que_cueste_cap28.md (nombre de sesión en la numeración de 57). Vigente: va entre el Cap. 28 (Bajo juramento, archivo 24) y el Cap. 30 (El corral, archivo 24c); el 31 es Libros abiertos (archivo 25). Historia (2026-10-01): se insertó como capítulo NUEVO entre el 24 (Bajo juramento) y el 25 (Libros abiertos) de entonces, sin renumeración (decisión del autor): el manuscrito no mostraba números, el orden lo daba el nombre de archivo ("24b" ordena entre 24 y 25) y el encabezado iba sin "Capítulo N". Superado por la numeración corrida del 2026-10-22.
-Protagonistas: Kal Mercer (POV bloques 1 y 3), Chiara Bellandi (POV bloque 2). Apariciones: Nadir Amrani, Enzo (Il Gelsomino).
-Ventana temporal: en las dos semanas que siguen al cierre del conflicto legal (Cap. 28, archivo 24), antes del Corral (Cap. 30, archivo 24c) y de la compra del Lancia (Cap. 31, archivo 25; ajustado 2026-10-04 al reubicar el Corral). Bloque 1: noche, pocos días después del tribunal. Bloque 2: días después, 4pm. Bloque 3: esa misma noche. Coda: la mañana siguiente.
-Lugares: el taller de autopartes de La Almendra; terraza de Il Gelsomino; el loft (escalera lateral al mezzanine).
-Función: CANON DEL AUTOR (beat de Nadir en tres capas, 2026-10-01).
-- Capa 1 — Kal se abre con Nadir: primero eran visitas de negocios, después quería ir a contarle el día, hasta que descubrió que sólo quería que se acabara el día para verla. Nadir: no confía en ella, pero la decisión de Kal es ley, porque es su líder y su hermano.
-- Capa 2 — Nadir a Chiara, de frente: no confía en ella; su mundo de altas esferas oscuras va a arrastrar a Kal al abismo; le pide que se aleje. DISEÑO: el detonante es Tommaso mintiendo bajo juramento a favor de Kal (Cap. 28, archivo 24) — "esa gente no regala nada"; Nadir no puede pedírselo a Kal sin desobedecer su propia palabra, así que se lo pide a ella.
-- Capa 3 — la escalera: Chiara, sin mencionar a Nadir, usa la excusa: si le llega el agua al cuello, agarra sus cosas y se va. Kal, que se quedó aunque su mejor amigo le dijo que era mala idea, lo recibe en la escalera y no dice nada. SIEMBRA del Cap. 34 No hace falta (archivo 28_La_Correa; "Cap. 28" en las notas anteriores a 2026-10-22) ("hace días, en esta misma casa… fue cuando subiste la escalera"; "lo pensé y no te dije nada"; "no estaba pensando en nada más que en mí" = mentira de Chiara que protege a Nadir).
-- CANON DEL AUTOR (2026-10-01): la frase se dice ENTERA pero Kal sólo escucha la mitad, porque va subiendo la escalera; la frase completa significa lo contrario. Primera mitad (la que oye): "Si un día me llega el agua al cuello, agarro mis cosas y me voy." Segunda mitad (no la oye; en el 24-bis no se transcribe, sólo se registra que ella dijo algo más y la tapa del arcón chirrió): "Lo que no sé es si contigo podría." — redacción DISEÑO del agente, pendiente de aprobación. Se revela en el Cap. 34 (archivo 28), con la redacción "no sabía si contigo podría".
-- Coda (DISEÑO): Kal le pide a Garrett que aparte el Lancia. Conducta en vez de glosa: se queda y sigue dando. Engancha con la apertura del Cap. 31 (archivo 25) y la residualiza ("No llamó ese día", Cap. 28, archivo 24).
-- Reporte ChatGPT 2026-10-28 ([[98_Agent_Handoff/ChatGPT/2026-10-28_lectura_cap29_lo_que_cueste_microcirugia]]): LC-04 aplicado (solo esta cabecera, historia conservada); LC-03 comprobado sin cambio. Aprobados por el autor (DISEÑO, espera lectura): LC-01, ella dice la segunda mitad cuando Kal va por los últimos escalones (alineado con el canon "va subiendo" y el "Ibas subiendo" del 34); el arcón chirría después y ya no tapa la frase. LC-02, fuera "todo es oscuro aunque esté iluminado" en Nadir. Estado conservado. Sesión: 98_Agent_Handoff/sessions/2026-10-28_claude_cap29_lo_que_cueste_cabecera.md.
-No resolver:
-- Kal NO se entera en el Libro I de que Nadir habló con Chiara. CANON DEL AUTOR (2026-10-01): se paga en Sombras de Poder (Libro II).
-- El precio del favor de Tommaso queda abierto (deuda instalada, no cobrada).
-- Registro privado en semilla (pre-H16): "Ciao, tesoro" es el saludo de Chiara para todos, Nadir incluido. Kal no se pone lírico: su confesión va dicha al motor, corta, y le cuesta.
-- MOTO DE NADIR (2026-11-01, DECISIÓN DEL AUTOR 2026-10-31, punto 6 de §Arco legal de Hoover; prosa DISEÑO pendiente de lectura): la escena de la Kawasaki (S1, con S2 dentro: Nadir dormido en el sillón, oliendo a carretera, sin decir dónde pasó la noche) sale del archivo 23 (*Nada caro*, absorbido en *Bajo juramento*) y entra aquí entre el bloque 1 y el 2, la mañana siguiente (7:10). Texto literal, sin cambios. Pierde el espejo «lo quiero por escrito» del 23; gana la rima con el título y con «Me las debes» de la noche anterior («Te sale lo que costó»). La siguen pagando el 40 (archivo 32, la cadena) y el 42. Residuo de apertura: el 24 ya no termina en «No llamó ese día» (Villani quedó en un párrafo); «llevaba una hora sin llamar a nadie» se sostiene con «Llama a quien tengas que llamar».
-Craft: voz según 12_Craft_Policies/voice (Kal, Chiara, Nadir). Nadir: darija con moderación, la pregunta de dinero como arma, el silencio como alarma, nunca "suerte". Sin tags emocionales; "dijo" por defecto.
+Renumerado 2026-11-08 (nuevo cauce, Parte II): antes Cap. 26.
+NUEVO CAUCE (Fase 4, 2026-11-08, terminal B): nuevo Cap. 22, tarjeta T11, POV Kal único, verbo «Reescribe» según [[11_Books/Book_01_Mascaras_De_Cristal/00_Mapa_Cauce_Cap11_Camp_Alder]] y [[98_Agent_Handoff/encargos/ENCARGO_Fase4_Parte_II]]. El encabezado sigue diciendo «Capítulo 26» hasta que la terminal principal renumere. Versión anterior íntegra (Kal y Chiara): [[11_Books/Book_01_Mascaras_De_Cristal/Escenas_Eliminadas/24b_Lo_Que_Cueste_Version_2026-11-08]]. Sesión: [[98_Agent_Handoff/sessions/2026-11-08_claude_fase4_cap22_lo_que_cueste]].
+Estado: BORRADOR (lo nuevo es DISEÑO del agente; espera lectura del autor).
+Absorbe del archivo 24 (*Bajo juramento*, retirado en esta sesión: [[11_Books/Book_01_Mascaras_De_Cristal/Escenas_Eliminadas/24_Bajo_Juramento_Version_2026-11-08]]) el acuerdo con Hoover (fuera de la sala, sin juicio), a Rivers, la media hoja a Krane (precedente de Rivers & Krane) y la firma en Villani Motors. La mentira de Tommaso sale.
+Decisiones del autor (2026-11-08): (1) la capa 2 de Nadir (Il Gelsomino, POV Chiara) sale de este capítulo y la recuerda Chiara en el nuevo 24; aquí la escalera se lee sin esa causa; (2) el detonante de Nadir y de «Lo que cueste, lo pagamos» deja de ser la mentira de Tommaso y pasa a ser el robo y el libro que Kal no abrió («No lo abras», nuevo 21); (3) Crowe junta lo de Nadir: la panadera le cuenta a Kal que un hombre de chaqueta café preguntó por «su socio, el que cuenta con los dedos» (de dónde es, cuánto lleva aquí, si tiene familia). No se nombra a Crowe, y Kal no se lo dice a Nadir.
+Se conserva (CANON DEL AUTOR, 2026-10-01): capa 1 (Kal se abre con Nadir: «para ir a verla»; «Lo que tú decidas, eso es. Es ley»), capa 3 (la escalera; Kal oye sólo la primera mitad: «Si un día me llega el agua al cuello, agarro mis cosas y me voy.»; la segunda se dice cuando él va por los últimos escalones y no se transcribe). Kal NO se entera en el Libro I de que Nadir habló con Chiara. La moto de Nadir, literal salvo la primera frase. Coda del Lancia.
+DISEÑO del agente: apertura por residuo de la factura doblada del 21 («La otra hoja que Kal dobló esa semana»); por qué cierra Krane sin la mentira (las carpetas de Garrett); Rivers ve la media hoja («No me lo ponga enfrente») / «Se lo pongo al lado»; Nadir: «Cuando sabes qué cargas, sabes cuánto pesa»; en el loft, Chiara cita el tanteo de Tommaso y dice que alguien va a querer algo por ese libro; «Lo cargaste porque yo te lo pedí. Tú eras lo que estaba a la mano».
+Pendiente de origen, a vigilar: la demanda de Hoover (el sobre, Rivers) ya no tiene arranque en página en los nuevos 11–21. El 05c planta el rumor de la mesa directiva; aquí se cuenta el resto en un párrafo.
+Costura de apertura: con el nuevo 21 (ya reconstruido). Cierre: el Lancia engancha con el nuevo 25 (de C, venta del Lancia). Costura PROVISIONAL: depende del nuevo 25.
+Protagonistas: Kal Mercer, Chiara Bellandi. Apariciones: Margaret Rivers, Garrett Cross, Jonathan Hoover, Giancarlo Krane, Nadir Amrani, Danny Hayes (fondo), la panadera (sin nombre). Mencionados: el hombre de la chaqueta café (de Crowe, sin nombre), Héctor Navarro.
+Ventana temporal: la semana siguiente al viernes del nuevo 21. Martes: acuerdo; jueves: Villani y taller de noche; viernes: la moto y la panadería; días después: el loft; la mañana siguiente: el Lancia.
+Lugares: tribunal civil de San Aurelio (sala de mediación, pasillo), Villani Motors, el taller de La Almendra, la panadería de la calle de Héctor, el loft.
+Craft: voz según 12_Craft_Policies/voice (Kal, Chiara, Nadir). Nadir: darija con moderación, la pregunta de dinero como arma, el silencio como alarma. Registro privado en semilla (pre-H16).
 -->
 
-# Capítulo 26 — Lo que cueste
+# Capítulo 22 — Lo que cueste
+
+La otra hoja que Kal dobló esa semana fue media página de la libreta de Garrett, el martes, en un pasillo del tribunal civil.
+
+La audiencia estaba citada para las diez. A las nueve y cuarto, Giancarlo Krane salió de la sala de mediación del tercer piso, buscó a Margaret Rivers por encima de las bancas y le pidió cinco minutos «para hablar de números en vez de principios». Los cinco minutos fueron dos horas. Kal las pasó en una banca de madera junto a la ventana, con Garrett al lado, que releía por tercera vez la caja de archivo que había traído de Villani: las transferencias, las pérdidas que el lote había declarado y las que no, los recibos del dinero que Kal había puesto cuando el terreno todavía era un baldío con una caseta.
+
+Hoover lo había borrado en papel con sinónimos. Contratista. Adelanto operativo. Participación variable. Después se había ido a sentar tres horas con la mesa directiva del Monarch, y Kal se había enterado por un rumor. Rivers no le había prometido nada. Le había dicho que los casos civiles se ganan con cosas débiles puestas en el orden correcto, y Garrett había traído el orden en una caja.
+
+Rivers salió a las once y diez con una hoja en la mano.
+
+—Su parte en efectivo, sobre el valor de hoy del terreno, no sobre lo que puso. Su inversión de vuelta. Lo retenido. Y un párrafo. —Se la dio—. Dice que usted estuvo en el acuerdo. Sin adjetivos.
+
+Kal leyó el párrafo dos veces.
+
+—¿Por qué cerró?
+
+—Porque anoche Krane leyó las carpetas del señor Cross y vio lo mismo que iba a ver el juez. —Rivers guardó la pluma en el saco—. Esto es mejor que un fallo. Un fallo se apela.
+
+Firmaron en la mesa larga de la sala de mediación. Cuando terminaron, Kal se puso de pie y le tendió la mano a Hoover.
+
+Hoover la miró como si pudiera traer un cable.
+
+—Ganó —dijo.
+
+—Recuperé. No es lo mismo. —Kal le apretó la mano con fuerza, una vez, el tiempo justo para que Hoover notara que la fuerza estaba medida—. Sin rencor, Jonathan. Aprendí más contigo que con la mitad de la gente que me cae bien.
+
+Hoover se fue sin contestar.
+
+Kal alcanzó a Krane en el pasillo, junto a los elevadores. Krane llevaba la carpeta fina bajo el brazo y el abrigo doblado sobre el otro, y esperaba el elevador como si también le hubieran cobrado la espera. Kal arrancó media hoja de la libreta que le había pedido prestada a Garrett, anotó un número y se la tendió.
+
+—¿Qué es esto?
+
+—Un teléfono. El día que te canses de defender a gente como Hoover, marca. Tengo trabajo para alguien que arma una historia falsa mejor que la verdadera.
+
+Krane no dijo que sí. Tampoco tiró el papel. Lo dobló por la mitad y se lo guardó en el bolsillo del pecho, y el elevador se abrió y se lo llevó.
+
+Rivers lo había visto todo desde la puerta de la sala, con el abrigo ya puesto.
+
+—Si un día lo contrata —dijo—, no me lo ponga enfrente.
+
+—Se lo pongo al lado.
+
+Rivers lo pensó lo que tarda en cerrarse una puerta. No le contestó.
+
+El jueves, en una oficina de Villani Motors con vista al showroom, Kal firmó una participación minoritaria con Garrett al lado, leyendo cada hoja. Cuando dejó la pluma, su nombre estaba en el papel, esta vez en el renglón que le tocaba.
+
+***
 
 El teléfono estaba bocarriba sobre el banco de trabajo, entre una caja de tornillos y el trapo de las manos, y Kal llevaba una hora sin llamar a nadie.
 
@@ -33,13 +72,13 @@ La persiana se levantó a medias con un ruido de lámina y entró Nadir agachán
 
 —No.
 
-—Ya sé que no. —Dejó la bolsa junto a la caja de tornillos, al lado del teléfono de Kal, y le dio un vistazo al teléfono de Kal como quien comprueba el precio de algo en un aparador—. Tortillas de las de la señora Ruiz. Dos de pollo, una de queso. La de queso es mía, la de pollo grande es tuya, la de pollo chica también es tuya porque te ves feo.
+—Ya sé que no. —Dejó la bolsa junto a la caja de tornillos, al lado del teléfono de Kal, y le dio un vistazo al teléfono como quien comprueba el precio de algo en un aparador—. Tortillas de las de la señora Ruiz. Dos de pollo, una de queso. La de queso es mía, la de pollo grande es tuya, la de pollo chica también es tuya porque te ves feo.
 
 Kal no salió del capó.
 
 —Gracias.
 
-—Gracias nada. Me las debes. —Se sentó en un banco con las piernas abiertas, desenvolvió la de queso y se la llevó a la boca, y con la mano libre empezó a contar con los dedos contra la madera—. Hoover. La cifra de la abogada. Tu parte en efectivo, más la inversión, más lo retenido. —Masticó—. Quitas a la abogada, que cobra como si el juez fuera ella. Quitas lo que se le debe a Garrett por los papeles. Te queda, más o menos…
+—Gracias nada. Me las debes. —Se sentó en un banco con las piernas abiertas, desenvolvió la de queso y se la llevó a la boca, y con la mano libre empezó a contar con los dedos contra la madera—. Hoover. La cifra de la abogada. Tu parte en efectivo, más la inversión, más lo retenido. —Masticó—. Quitas a la abogada, que cobra como si el juez fuera ella. Quitas lo que se le debe a Garrett por los papeles. Quitas lo de Villani. Te queda, más o menos…
 
 Dijo un número. Lo dijo bien. Siempre los decía bien.
 
@@ -49,21 +88,21 @@ Dijo un número. Lo dijo bien. Siempre los decía bien.
 
 Kal apretó una abrazadera. Probó la manguera con el pulgar. La volvió a apretar.
 
-—¿Y el italiano? —preguntó Nadir.
+—¿Y el libro? —preguntó Nadir.
 
 Ahí estaba. Kal sacó la cabeza del capó por primera vez.
 
-—¿Qué italiano?
+—¿Qué libro?
 
-—El del traje gris. El que subió a la silla y mintió delante de un juez para que tú ganaras. Ése. —Nadir se limpió la boca con el dorso de la mano—. ¿Cuánto nos va a costar?
+—El de la bolsa del supermercado. El que cargaste debajo del brazo toda la noche y no abriste. Ése. —Nadir se limpió la boca con el dorso de la mano—. ¿Cuánto nos va a costar?
 
 —No sé.
 
 —No sabes.
 
-—No sé qué gana.
+—No sé qué tiene.
 
-—*Wallah*, eso es peor. Cuando sabes qué gana un hombre, sabes cuánto le debes. Cuando no sabes, le debes lo que él diga, el día que él diga. —Volvió a contar con los dedos, ahora sin número, sólo por el gesto—. Esa gente no regala nada. Ni la hora.
+—*Wallah*, eso es peor. Cuando sabes qué cargas, sabes cuánto pesa. Cuando no sabes, pesa lo que diga el que sí sabe, el día que él diga. —Volvió a contar con los dedos, ahora sin número, sólo por el gesto—. La subjefa te apuntó la hora. El italiano del casino lee tus facturas. Y la señora no te dijo qué era. Esa gente no regala nada. Ni la hora.
 
 Kal no contestó. Se limpió las manos en el trapo, y al dejar el trapo miró el teléfono. Fue un instante. Nadir lo vio igual.
 
@@ -77,7 +116,7 @@ Kal no dijo de quién. No hacía falta, y no lo dijo justamente porque no hacía
 
 Nadir dejó la tortilla sobre el papel.
 
-—Hoy pasaste por Villani —dijo—. Garrett me contó. Que te quedaste parado delante de un coche nuevo como un niño delante de una vitrina. Uno italiano.
+—Hoy firmaste en Villani —dijo—. Garrett me contó. Que después de firmar te quedaste parado delante de un coche como un niño delante de una vitrina. Uno italiano.
 
 —Garrett habla mucho.
 
@@ -125,7 +164,7 @@ No llamó esa noche tampoco.
 
 ***
 
-La moto estaba estacionada frente al taller cuando Kal llegó, a las siete y diez, con la cortina todavía a medio subir. Una Kawasaki verde, usada pero no mucho, con el tanque recién encerado.
+La moto estaba estacionada frente al taller cuando Kal llegó a la mañana siguiente, a las siete y diez, con la cortina todavía a medio subir. Una Kawasaki verde, usada pero no mucho, con el tanque recién encerado.
 
 Kal la rodeó una vez. Se agachó junto a la rueda trasera y empujó la cadena con el pulgar. Floja.
 
@@ -191,83 +230,53 @@ Nadir sonrió por primera vez en la mañana.
 
 ***
 
-La terraza de Il Gelsomino a las cuatro era de Chiara. No lo había decidido ella; lo había decidido la costumbre, que en ese barrio era más rápida que cualquier reservación. Enzo le servía el tinto sin preguntar, la mesa del rincón quedaba libre sin que nadie la apartara, y la luz de la tarde caía pareja sobre los manteles de cuadros como si también tuviera un arreglo con el dueño.
+A media mañana Kal pasó por la casa de Héctor con el periódico y una bolsa de pan dulce, porque el médico le había prohibido a Héctor el pan dulce y Héctor había dicho que entonces se lo trajeran a escondidas.
 
-Tenía el teléfono boca abajo y una carpeta del Monarch abierta que no estaba leyendo. Llevaba días pensando en Tommaso. En el traje gris, en la silla de los testigos, en la pierna cruzada, en cómo había mentido con la precisión de un hombre que mide cada palabra porque sabe exactamente quién la va a cobrar. No era un favor. Los Lusardi no hacían favores. Hacían depósitos.
+La panadería de enfrente tenía la puerta abierta y el horno prendido desde las cinco. La panadera lo atendió ella misma, con el delantal blanco de harina hasta los codos, y escogió las conchas sin que él se las señalara.
 
-Una silla se arrastró sobre el piso de la terraza. Chiara levantó la vista.
+—Las de vainilla. Las de chocolate le caen pesadas. —Las fue metiendo en la bolsa con las pinzas—. ¿Cómo sigue?
 
-Nadir se sentó frente a ella sin pedir permiso. No se quitó la chaqueta. Puso los antebrazos sobre la mesa, uno encima del otro, como quien va a negociar algo que ya sabe cuánto vale.
+—Terco.
 
-—Ciao, *tesoro* —dijo Chiara.
+—Entonces bien.
 
-—¿Cuánto cuesta esa copa?
+Le cobró. Cuando Kal tomó la bolsa, ella no le soltó el cambio todavía.
 
-Ella miró la copa. Lo miró a él.
+—El martes vino uno a preguntar por su socio —dijo—. El que cuenta con los dedos.
 
-—No tengo idea. Enzo nunca me cobra.
+Kal dejó la bolsa sobre el mostrador.
 
-—Nadie cobra nada en este barrio cuando se trata de usted. —Nadir no sonrió—. Eso es lo que me preocupa.
+—¿Qué quería?
 
-Enzo se acercó desde la barra, con la jarra de agua y la cara de quien ya entendió que no lo iban a necesitar. Nadir le pidió un café sin mirarlo. Enzo se lo llevó sin decir nada, y no volvió a pasar cerca de esa mesa.
+—De dónde era. Cuánto llevaba aquí. Si tenía familia, y dónde. —Le puso las monedas en la mano, una por una—. Dijo que era del seguro. Traía una chaqueta café, de las buenas, y no compró nada.
 
-Chiara cerró la carpeta.
+—¿Qué le dijo?
 
-—Kal no sabe que está aquí.
+—Que yo vendo pan. —La panadera se limpió las manos en el delantal—. Aquí nadie sabe nada de nadie, señor Mercer. Para ustedes, menos.
 
-—No.
+Kal le dio las gracias. Cruzó la calle con la bolsa de pan dulce y el periódico doblado bajo el brazo, y antes de tocar en casa de Héctor miró la esquina de la vulcanizadora, donde no había nadie, y la mantuvo un rato a la vista.
 
-—Bien. —Se acomodó en la silla. No se reclinó—. Dígame.
-
-Nadir tardó un poco. No por inseguridad: por precisión. Chiara lo había visto regatear en el mercado del barrio, una vez, de lejos, y lo había visto tardar exactamente así antes del número final.
-
-—No confío en usted.
-
-—Lo sé.
-
-—No, no lo sabe. Sabe que no la quiero en la casa. Eso es otra cosa. —Movió el azucarero un centímetro, alineándolo con nada—. Yo no confío en usted. En lo que trae detrás. Usted vive allá arriba, con gente de traje que miente delante de un juez como quien pide la cuenta. Ése es su mundo. Yo lo respeto. Pero lo que se cae de allá arriba cae sobre nosotros. Sobre él.
-
-—Tommaso.
-
-—El italiano, sí. Ése. —Le llegó el café; no lo tocó—. Un hombre de su familia, o de la familia de su marido, que ya no sé cómo se cuenta eso en Italia, mintió por Kal. Kal no le pidió nada. Usted dice que tampoco. Entonces alguien lo pidió, o alguien lo va a cobrar. Y cuando lo cobre, no le va a mandar la factura a usted. Se la va a mandar a él.
-
-Chiara no contestó. Tenía la mano izquierda sobre la mesa, junto a la copa, y el pulgar le tocó el anular, el sitio donde ya no había nada. Lo retiró.
-
-—Él no va a dejar esto —siguió Nadir—. Lo conozco. Se queda. Siempre se queda. Se quedó conmigo en un sitio donde quedarse costaba dientes. Se queda con el barrio aunque el barrio no le paga. Y se va a quedar con usted hasta que su mundo lo meta en un hoyo del que no sabe salir, porque no es su hoyo y no conoce las paredes.
-
-—¿Y qué quiere que haga?
-
-—Que se aleje.
-
-Lo dijo sin bajar la voz y sin subirla. Lo dijo como un precio.
-
-—A él no se lo puedo pedir —dijo Nadir—. Él ya decidió. Lo que él decide, para mí es ley. Por eso se lo pido a usted.
-
-Chiara lo sostuvo. Lo sostuvo mucho tiempo, el suficiente para que una pareja de la mesa del otro lado terminara el postre y pidiera la cuenta.
-
-—Gracias por decírmelo a la cara —dijo.
-
-—No se lo digo por educación.
-
-Para eso Chiara no tuvo respuesta.
-
-Nadir sacó un billete del bolsillo de la chaqueta, lo dobló a lo largo y lo puso debajo de la taza del café que no había tocado. Después sacó otro y lo puso debajo de la copa de ella.
-
-—Hoy pago yo —dijo, ya de pie—. Así no le debo nada.
-
-Se fue por la puerta de enfrente. Chiara se quedó mirando el billete debajo de su copa, y no lo movió hasta que Enzo vino a levantar la mesa y se lo llevó, sin preguntar, junto con lo demás.
+A Nadir no le dijo nada. Esa tarde le ajustó la cadena de la Kawasaki en la banqueta del taller, mientras Nadir le explicaba con los dedos lo que iba a ahorrar en gasolina, y lo dejó hablar.
 
 ***
 
-Esa noche, en el loft, Chiara llegó con una botella de tinto y la carpeta del Monarch bajo el brazo, y Kal supo antes de abrirle que algo pesaba más de lo normal, porque la carpeta venía cerrada y ella nunca traía las cosas cerradas.
+Días después, en el loft, Chiara llegó con una botella de tinto y la carpeta del Monarch bajo el brazo, y Kal supo antes de abrirle que algo pesaba más de lo normal, porque la carpeta venía cerrada y ella nunca traía las cosas cerradas.
 
 No preguntó. Sacó dos copas, puso a calentar lo que había dejado Mabel, y la dejó instalarse en el banco de la isla, del lado que daba a la escalera.
 
 Hablaron de Hoover primero, porque era fácil. De la cifra. De Rivers, que había mandado un correo de tres líneas que Chiara leyó en voz alta con la voz de Rivers, y Kal se rio, y el loft se llenó por un momento del ruido que se suponía que tenía que llenarlo.
 
-Después hablaron de Tommaso, porque no había forma de no hacerlo.
+Después hablaron del libro, porque no había forma de no hacerlo.
 
-—Va a querer algo —dijo Chiara—. No sé qué. Y no sé cuándo.
+—Tommaso te preguntó si traían algo más —dijo Chiara.
+
+—Le dije lo que dice el reporte.
+
+—Ya sé. Me lo contó a su manera. —Giró la copa sobre la isla, sin levantarla—. Dice que tu versión se parece mucho a la mía.
+
+—¿Y eso es malo?
+
+—Con Tommaso, todo lo que se parece es una pregunta. —Lo miró—. Alguien va a querer algo por ese libro, Kal. No sé quién todavía. Y no sé cuándo.
 
 Kal sirvió. Dejó la botella lejos del borde.
 
@@ -281,9 +290,9 @@ Kal la miró.
 
 —No hay *pagamos*, Kal. —Lo dijo con cuidado, una palabra después de otra—. Esto viene de mi lado. De mi familia, o de lo que fue mi familia. Si se cobra, se cobra a mí.
 
-—Mintió por mí.
+—Lo cargué yo.
 
-—Mintió por algo. Tú eras lo que estaba a la mano.
+—Lo cargaste porque yo te lo pedí. Tú eras lo que estaba a la mano.
 
 Kal no discutió. Se dio vuelta a buscar en la alacena algo que no necesitaba, y después se acordó de que la manta buena estaba arriba, y empezó a subir por la escalera lateral del mezzanine, la que ella había dibujado contra el ladrillo para que no le quitara aire a la doble altura. Iba por el quinto escalón cuando ella habló otra vez, desde abajo, a su espalda.
 
@@ -297,7 +306,7 @@ La frase subió por la doble altura, que la devolvía un poco más grande de lo 
 
 Kal no se dio vuelta.
 
-Pensó, en el quinto escalón, con la mano en un barandal que ella había elegido, que él se había quedado. Que su mejor amigo le había dicho que no, en un taller cerrado, con una tortilla a medio comer, y él se había quedado igual. Y pensó que a lo mejor eso era lo que él iba a ser, en la cabeza de ella, el día que le llegara el agua: algo que se deja en una casa, como se deja un mueble.
+Pensó, en el quinto escalón, con la mano en un barandal que ella había elegido, que él se había quedado. Que su mejor amigo le había dicho que no confiaba en ella, en un taller cerrado, con una tortilla a medio comer, y él se había quedado igual. Y pensó que a lo mejor eso era lo que él iba a ser, en la cabeza de ella, el día que le llegara el agua: algo que se deja en una casa, como se deja un mueble.
 
 —Está bien —dijo, y siguió subiendo.
 

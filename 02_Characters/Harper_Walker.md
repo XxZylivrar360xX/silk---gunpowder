@@ -87,6 +87,15 @@ Su método debe ser concreto: **conoce terreno, animales, caminos secundarios y 
 
 **Harper Walker es quien dispara contra [[02_Characters/Warren_Halbrook]] durante su discurso de victoria, al cierre de *Voto de Ceniza*.** Kal y Nadir la cubren durante *Cuentas de Sangre* y dejan que la ciudad crea que fue uno de ellos. La verdad se reserva para el final del Libro IV (Nadir se lo cuenta a Chiara). Halbrook, que mató a Héctor en la montaña donde ella sobrevivió, nunca la clasificó como algo más que una pieza de Kal. **No sembrar nada de esto en *Máscaras de Cristal*.** Motivo interno exacto y quién sabía antes: PENDIENTE.
 
+### La que no pudo salir — CANON DEL AUTOR (2026-11-08)
+
+- **Harper y Mei-Lin siguen siendo personajes separados.** La fusión de las dos se estudió y se descartó; Mei-Lin queda como se diseñó el 2026-11-07 ([[02_Characters/Mei_Lin_Zhao#F2 — CANON DEL AUTOR 2026-11-07]]).
+- **Tesis del personaje:** Bonnie pudo salir (Boston, F2); **Harper no pudo salir**, y ese mundo le terminó cobrando de más: **Héctor, Kal y Halbrook**, al final. Es el espejo de Bonnie: la misma puerta, y para ella cerrada.
+- **La ejecución es un punto de no retorno para todos.** Matar a un funcionario público (alcalde electo, en su discurso de victoria) termina con el horror de la guerra, pero atrae una atención que ya no se va: abre la escalada federal (Meridian, *Cuentas de Sangre*). Tiene que doler porque el lector sabe que no hay vuelta atrás, ni para ella ni para Kal y Nadir, que la cubren.
+- **PENDIENTE (autor):** explorar el papel de Harper en *Sombras de Poder* y en *Voto de Ceniza* para que el disparo cobre. Corrige la dispersión actual de funciones (rancho, barra de Mabel, parcela, conductora). Hay que construir su vínculo con Héctor antes de la montaña y su relación de oficio con Kal ("hija de carretera").
+- **CANON DEL AUTOR (2026-11-08):** **Tyler absorbe la muerte de Halbrook** y se sacrifica para salvarla: las quiso a las tres como hermanas, ya perdió a Mei-Lin y a Bonnie. Ver [[02_Characters/Tyler_Brooks#El que absorbe la muerte de Halbrook — CANON DEL AUTOR (2026-11-08)]].
+- **Su salida (CANON DEL AUTOR, 2026-11-08):** cuando el FBI concluye que "había un tercero", Kal y Nadir la sacan de Estados Unidos; Tyler se les adelanta con sus huellas en el rifle y en la chaqueta de ella y va a prisión. Harper elige irse por las heridas del último año. **Kal pierde a su hija de las calles.** La que no pudo salir sale al final, pero ya cobrada.
+
 ---
 
 ## Preguntas abiertas

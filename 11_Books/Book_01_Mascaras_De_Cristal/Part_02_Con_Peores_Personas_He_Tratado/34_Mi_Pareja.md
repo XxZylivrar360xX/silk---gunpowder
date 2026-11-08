@@ -1,4 +1,5 @@
 <!--
+Renumerado 2026-11-08 (nuevo cauce, Parte II): antes Cap. 39.
 FASE 4 DEL NUEVO CAUCE (2026-11-07/08, terminal B, [[98_Agent_Handoff/encargos/ENCARGO_Fase4_Paralelo_Reusa]]): nuevo Cap. 32 (T19, H21, POV Kal, «Reusa»); cierra la Parte II (20–32). Estado: BORRADOR. Versión anterior íntegra: [[11_Books/Book_01_Mascaras_De_Cristal/Escenas_Eliminadas/34_Mi_Pareja_Version_2026-11-07]]. Nota: [[98_Agent_Handoff/sessions/2026-11-08_claude_fase4_cap32_mi_pareja]].
 - DECISIONES DEL AUTOR (2026-11-08): la palabra le llega a Crowe en una coda en la ferretería de la esquina, a la mañana siguiente; la llamada colgada a Varek se queda como está (Varek no oye la palabra).
 - DISEÑO del agente (coda): Kal compra el gato de patín de Danny; el ferretero le pasa el recado del «muchacho del Tasador» (felicidades «a usted y a su pareja»; «las joyas se tasan por par; si se pierde un arete, el otro ya no vale lo mismo»), sin cuota esta vez. Kal ve el auto gris con Crowe al teléfono en el asiento de atrás (rima con el primer informe del nuevo 11: «En el barrio, Crowe no hablaba por teléfono. Mandaba a alguien.»). Los intermediarios de Halbrook quedan fuera de página. Cobra «A ti por mí. A mí por ti.». H21 y el resto de la prosa intactos.
@@ -26,7 +27,7 @@ Función: CANON DEL AUTOR. Ejecuta [[06_Relationships/Hitos#H21 — Mi pareja|H2
 - Continuidad vehicular: Audi A7 de Kal (segundo auto, ver Cap. 24c — El corral). Sin Lancia en escena; Chiara se va con él desde la destilería de Walt.
 -->
 
-# Capítulo 39 — Mi pareja
+# Capítulo 32 — Mi pareja
 
 La destilería olía a maíz cocido y a madera nueva y, a esa hora de la tarde, también a pegamento. Walt había alineado sobre la mesa de trabajo las etiquetas descartadas en cuatro filas de diez, como quien cuenta fichas al final de una mala noche, y Chiara estaba de pie frente a ellas, descalza sobre el cemento, con los zapatos en una mano.
 

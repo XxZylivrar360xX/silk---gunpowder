@@ -1,4 +1,5 @@
 <!--
+Renumerado 2026-11-08 (nuevo cauce, Parte II): antes Cap. 35.
 NUEVO CAUCE, Fase 4 (2026-11-07, terminal B; [[98_Agent_Handoff/encargos/ENCARGO_Fase4_Paralelo_Reusa]]): pasa a ser el **nuevo Cap. 29** (tarjeta T16, H7, POV Chiara, «Reusa y unifica el POV»). DECISIÓN DEL AUTOR 2026-11-07: Reusa mínimo (sin poda); «Bellandi» de Harper se queda; la línea de Varek pasa a «el día anterior», sin cobrar la deuda. DISEÑO del agente, espera lectura: seis deslices al interior de Kal pasan a lo que Chiara ve o deduce (subida al vestidor, nombre de Harper, satisfacción en el coche, costillas al cargarla, «Vio que Kal también se había dado cuenta», Varek un día antes). Diálogo intacto. Versión anterior: [[11_Books/Book_01_Mascaras_De_Cristal/Escenas_Eliminadas/31_Vamos_A_Casa_Version_2026-11-07]]. Detalle: [[98_Agent_Handoff/sessions/2026-11-07_claude_fase4_cap29_vamos_a_casa]]. Costura de apertura PROVISIONAL: depende del nuevo 28 (Las Gemelas, la piedra y el nombre de Halbrook). Cementerio PROVISIONAL: depende de que el nuevo 25 conserve «Y decirle que Marisol está bien». «No era una orden / Sonó como una» es eco del archivo 28, que pasa al nuevo 26 o 27. La reunión de El Patio (coda vieja del 30) sale de página: el diálogo del coche sobre Nadir es lo único que la cuenta. Las fechas y numeraciones de abajo son anteriores al cauce.
 Renumerado 2026-11-01 (decisión del autor, carretera del Libro I): antes Cap. 39.
 Corte de parte 2026-10-29 (decisión del autor): la Parte II abre ahora en el Cap. 26 (*La cifra*); el ordinal «N-ésimo capítulo de la Parte II» de abajo es anterior a ese corte.
@@ -39,7 +40,7 @@ Reconocimiento (2026-09-29, decision del autor): Chiara ubica a Harper como la m
 **Siembra de la foto (2026-10-02, CANON DEL AUTOR; prosa DISEÑO del agente, pendiente de lectura):** al volver a la orilla, Kal y Chiara se quedan de la mano mirando la última luz; Héctor la fotografía sin avisar (sólo se ve que guarda el teléfono). Resuelto con el autor 2026-10-02: luz sobre el agua (no tras los árboles); la calavera de Kal no se ve en la foto. Paga en la apertura del Cap. 33 (el cuadro con moño) y en el Cap. 50 (monólogo; Chiara lo lleva al loft). Ver [[11_Books/Book_01_Mascaras_De_Cristal/00_Plan_Arco_Final_Sin_Kal]].
 -->
 
-# Capítulo 35 — Vamos a casa
+# Capítulo 29 — Vamos a casa
 
 La tarde en el Monarch fue una sucesión de cosas pequeñas que había que resolver antes de que se acumularan: una versión que corregir, un empleado con una pregunta de vestuario, un papelito doblado que uno de sus sussurros le hizo llegar con un nombre que todavía no significaba nada. Chiara lo fue archivando todo, cada cosa en su sitio, con la misma cabeza que esa mañana había estado sentada sobre una piedra escuchando el nombre de un general.
 

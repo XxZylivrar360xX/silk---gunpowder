@@ -1,4 +1,6 @@
 <!--
+EPUB: EXCLUDE
+RETIRADO (2026-11-08, Fase 4 del nuevo cauce, terminal B, al reconstruir el nuevo 22): *Bajo juramento* sale del Libro I (T10, CANON DEL AUTOR 2026-11-07). Su carga se reubica según la tabla del mapa: «mi… amigo» → nuevo 25 (venta del Lancia, terminal C); el acuerdo con Hoover, Rivers, la media hoja a Krane y la firma en Villani → nuevo 22 ([[11_Books/Book_01_Mascaras_De_Cristal/Part_02_Con_Peores_Personas_He_Tratado/24b_Lo_Que_Cueste]]); la mentira de Tommaso a favor de Kal **sale**. No es canon vigente.
 Renumerado 2026-11-01 (decisión del autor, carretera del Libro I): antes Cap. 29.
 FUSIÓN 2026-11-01 (DECISIÓN DEL AUTOR 2026-10-31; prosa DISEÑO pendiente de lectura; ver §Arco legal de Hoover en 98_Agent_Handoff/sessions/2026-10-31_claude_carretera_libro_i.md, puntos 1–9, y 98_Agent_Handoff/sessions/2026-11-01_claude_fusion_bajo_juramento.md).
 Estado: BORRADOR (la fusión reabre el capítulo; antes los dos archivos estaban TERMINADOS desde 2026-09-12). Numeración: sigue diciendo Cap. 29 hasta la renumeración única del autor; el archivo 23 (*Nada caro*) queda absorbido aquí y lo retira Codex en su fase B (no se movió en esta sesión).

@@ -1,4 +1,5 @@
 <!--
+Renumerado 2026-11-08 (nuevo cauce, Parte III): antes Cap. 51.
 Renumerado 2026-11-01 (decisión del autor, carretera del Libro I): antes Cap. 55.
 Renumerado 2026-10-22 (decisión del autor): antes Cap. 46; numeración corrida definitiva, el archivo conserva su nombre.
 Estado: BORRADOR — Parte III — Ardizzone, Cap. 46 (tercero del arco final sin Kal, bloque de cierre 44–50b). Redactado 2026-10-02, Claude Opus 5.5, conforme a [[11_Books/Book_01_Mascaras_De_Cristal/00_Plan_Arco_Final_Sin_Kal]] y a las craft policies (Redaccion_De_Capitulos, voice/, staging_rules/, dialogue_rules/). Pendiente de lectura del autor.
@@ -21,7 +22,7 @@ Rocco (2026-10-22, decision del autor; prosa DISENO; sigue BORRADOR): sale de la
 Hilo del Tasador (2026-11-01, DECISIÓN DEL AUTOR: el trabajo para Crowe se ve en señales desde Chiara, que lo ve y no lo interpreta; prosa DISEÑO, espera lectura; plan [[11_Books/Book_01_Mascaras_De_Cristal/00_Plan_Hilo_Tasador]]): el chico de la vulcanizadora (el de la gorra al revés del 12) sale del mostrador de Nadir al verla entrar; «Cuando alguien me pague a mí» después de «Págaselos». Las cuentas del barrio no cierran sin Kal. Siguen el 57 (Rafe) y el 59 (la grúa).
 -->
 
-# Capítulo 51 — Llaves
+# Capítulo 42 — Llaves
 
 Para llegar al Patio desde el centro había una vuelta que Chiara daba siempre sin pensarla: a la derecha en la calle del mercado, dos cuadras, y a la izquierda en la esquina de la lavandería de monedas, la que tenía el letrero con una burbuja fundida. Esa tarde siguió de largo en la calle del mercado y dio vuelta en la siguiente, una calle de casas bajas con perros detrás de las rejas, y salió a la avenida tres cuadras más abajo, por el lado del lote baldío. Tardó cuatro minutos más. No miró hacia la izquierda en ningún cruce.
 

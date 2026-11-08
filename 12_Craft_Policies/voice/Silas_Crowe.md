@@ -35,6 +35,11 @@ Sin evidencia todavía. Primera escena en el Cap. 11 (archivo 09).
 - **Arma conversacional preferida:** la disculpa que es insulto.
 - **Evasión típica:** la pose de elegancia.
 
+## Muestras de registro (con origen)
+
+- «Que le dijera que las joyas se tasan por par. Que si se pierde un arete, el otro ya no vale lo mismo.» (nuevo 32, [[11_Books/Book_01_Mascaras_De_Cristal/Part_02_Con_Peores_Personas_He_Tratado/34_Mi_Pareja]], recado por el ferretero, DISEÑO 2026-11-08). Es el recado indirecto: burla con precio adentro, sin amenaza abierta, y no le habla a Chiara. Ese día no cobra nada; felicita «a usted y a su pareja».
+- «El Tasador me subió la cuota este mes. […] Dice que es por la competencia.» (nuevo 30, [[11_Books/Book_01_Mascaras_De_Cristal/Part_02_Con_Peores_Personas_He_Tratado/32_Linea_Directa]], dicho por el ferretero en el patio, delante de clientes): Crowe tasa en público, por boca ajena.
+
 ## Línea genérica a evitar
 
 «Sabes que puedo hacerte mucho daño, Mercer.» Es amenaza genérica. Crowe diría algo más bajo y más concreto, con precio adentro.

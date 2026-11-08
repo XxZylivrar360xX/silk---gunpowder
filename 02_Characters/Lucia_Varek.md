@@ -1,5 +1,7 @@
 # Lucia Varek
 
+> **NUEVO CAUCE — PARTE II (2026-11-08; [[98_Agent_Handoff/sessions/2026-11-08_claude_propagacion_parte_II]]; prosa BORRADOR, lo nuevo es DISEÑO salvo donde dice CANON):** **21:** baja en persona al patio trasero de la comisaría; el alto de Voss se oye por la radio del sargento (CANON). Escribe *1:52* delante de Kal y adelanta que el dinero podría volver entero; para ella es un problema, porque narcóticos le va a preguntar (DISEÑO). **30:** el canal directo (convenio, Portillo, Eddie Sosa, la tarjeta), sin cambios de fondo; suma «un caballo» a la denuncia. Kal trabaja de noche para Dario y con Lucía no lo menciona nunca (siembra del DISEÑO RESERVADO «Nunca ha intentado utilizar uno para llegar al otro»).
+
 > **CANON DEL AUTOR (2026-11-07):** Lucía **no** es de los policías que le reportan a Dario. Detalle: [[11_Books/Book_01_Mascaras_De_Cristal/00_Plan_Nuevo_Cauce]].
 
 > **Numeración:** desde 2026-10-22 el Libro I usa numeración corrida definitiva (56 caps.); este documento cita la numeración anterior. Correspondencia en [[11_Books/Book_01_Mascaras_De_Cristal/00_Book_Map]].

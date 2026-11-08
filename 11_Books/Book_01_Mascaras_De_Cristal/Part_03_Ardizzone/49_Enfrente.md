@@ -1,4 +1,5 @@
 <!--
+Renumerado 2026-11-08 (nuevo cauce, Parte III): antes Cap. 54.
 Renumerado 2026-11-01 (decisión del autor, carretera del Libro I): antes Cap. 58.
 COSTURA H13 (2026-11-01, Claude Code, encargo del autor; DISEÑO, espera lectura; sigue BORRADOR): cuarto encuentro con Valenti (Nueva York, Cuesta Bonita en julio [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/21b_Grazie]], Palermo, Pacífica). Dos toques: «En julio, desde la colina, la había encontrado igual» (la ventana del penthouse) y la libreta «la misma de la colina y de Palermo». Diálogo intacto.
 Renumerado 2026-10-22 (decisión del autor): antes Cap. 49; numeración corrida definitiva, el archivo conserva su nombre.
@@ -32,7 +33,7 @@ DISEÑO del agente, pendiente de lectura:
 - No se usa "Qué lamentable" (no está sembrado en prosa; queda reservado). No se describe a Valenti más allá de lo fijado en el Cap. 40; apariencia y manía siguen PENDIENTE. No se nombra a Halbrook ni el señuelo. Sin EPUB, commit ni push.
 -->
 
-# Capítulo 54 — Por si vuelve
+# Capítulo 45 — Por si vuelve
 
 El billete estaba sobre el escritorio, doblado en dos, del lado de afuera de la carpeta de la nómina.
 

@@ -1,4 +1,6 @@
 <!--
+EPUB: EXCLUDE
+RETIRADO (2026-11-08, Fase 4 del nuevo cauce, al reconstruir el nuevo 28): *Lleve equipaje* / *Riesgo pendiente* sale del Libro I (CANON DEL AUTOR 2026-11-07: Halbrook sale de la prosa salvo el epílogo, sin hablar). Kal sí lo vio en persona, fuera de página (DECISIÓN DEL AUTOR 2026-11-08); lo cuenta él en Las Gemelas, nuevo 28 (la hoja de Nadir, «riesgo pendiente», la versión de la carpeta, «No es un castigo. Es un recordatorio», el costado en las curvas). El sedán y los mensajes a Walt y a Chiara ya están en el nuevo 26. Retrato de Halbrook: al epílogo y al Libro II. No es canon vigente.
 Renumerado 2026-11-01 (decisión del autor, carretera del Libro I): antes Cap. 35.
 Corte de parte 2026-10-29 (decisión del autor): la Parte II abre ahora en el Cap. 26 (*La cifra*); el ordinal «N-ésimo capítulo de la Parte II» de abajo es anterior a ese corte.
 Renumerado 2026-10-22 (decisión del autor): antes Cap. 27; numeración corrida definitiva, el archivo conserva su nombre.

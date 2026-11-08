@@ -195,7 +195,7 @@ Relación causal y orden fino montaña ↔ Santa Lucía: **PENDIENTE.**
 
 ## Pendientes (de [[00_Biblia/00_Trilogy_Structure]] y [[06_Relationships/Hitos]])
 
-- Detonante concreto que obliga a fingir la muerte de Elenna.
+- ~~Detonante concreto que obliga a fingir la muerte de Elenna.~~ **Embarazo, detonante (Trix e Iris), reposo, parto y quién sabe: DECISIONES DEL AUTOR 2026-11-08 en [[11_Books/Book_03_Voto_De_Ceniza/00_Diseno_Embarazo_Y_Falsa_Muerte]].**
 - Mecanismo médico / documental / logístico de Elenna Serra.
 - Duración exacta de la separación (trabajo: ~1 año, hasta los primeros pasos).
 - Momento exacto de H22 dentro del libro, más allá de sus anclas relativas.

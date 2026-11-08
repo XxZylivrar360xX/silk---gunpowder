@@ -1,8 +1,9 @@
 <!--
+Renumerado 2026-11-08 (nuevo cauce, Parte III): antes Cap. 40.
 **NUEVO CAUCE, Fase 4 (2026-11-08, terminal B, fuera de reparto por orden del autor): nuevo Cap. 33 (T20, POV Chiara, «Reescribe la causa»). Abre la Parte III (33–47). Estado: BORRADOR; lo nuevo es DISEÑO y espera lectura del autor.** Versión anterior íntegra: [[11_Books/Book_01_Mascaras_De_Cristal/Escenas_Eliminadas/35_Sin_Fecha_De_Regreso_Version_2026-11-07]]. Nota de sesión: [[98_Agent_Handoff/sessions/2026-11-08_claude_fase4_cap33_sin_fecha_de_regreso]].
 CANON DEL AUTOR (2026-11-08): Matteo se va porque Il Consorzio supo que las rutas salieron de su caja (tarjetas, 2026-11-07). Elio es la palanca: Il Consorzio supo, La Mesa activa a Volpi, Elio desaparece y Matteo se va; la carta queda literal y nada de eso se dice en prosa (Chiara sólo lo intuye). Valenti llama y le pasa a Chiara lo que guardaba Matteo («desde hoy lo guarda usted»). El libro de las rutas sigue en la caja. Cómo lo supo Il Consorzio queda fuera de página y PENDIENTE: Chiara repasa candidatos (Tommaso, los presos de O.R.T., quien dio la combinación) y no escribe ningún nombre.
 DISEÑO del agente: la carta «que se podía enseñar»; la caja con el disco en cero, la lámina un milímetro alta y la liga roja en la misma esquina («Una liga se quita y se vuelve a poner»); «Esta vez ella tampoco lo llenó»; Kal no mira el mueble de nogal; «No le dio otra versión»; Tommaso no pregunta por Matteo; «Ciao, tesoro» a Fabrizio; la llamada de Valenti por la línea de Italia («Il Consorzio se entera de los viajes», «la misma casa, con menos gente adentro», «Génova es una ciudad difícil. Toda de escaleras, y de puertas cerradas»); el cobro al revés de «primero a la cabeza»; la lista sin la palabra *caja*. Se conservan literales el Ciao, «amore mio», «Qué abrupto», la escena de Collins y el cierre de la taza.
-Costura de apertura PROVISIONAL: depende del nuevo 32 (archivo 34, coda de la ferretería) y del nuevo 20/21 (la caja, la lámina, la liga roja, «los presos hablan»). Costura de cierre PROVISIONAL: depende del nuevo 34 (T21, H16), que debe heredar a Chiara como custodia del libro.
+Costura de apertura RESUELTA EN SUSTANCIA (propagación de la Parte III, 2026-11-08): la Parte II ya está reconstruida (la ferretería y la libreta de los fiados viven en el nuevo 30, archivo 32; la caja, la lámina y la liga en los nuevos 20/21); falta la lectura cruzada del autor. Antes dependía del nuevo 32 (archivo 34, coda de la ferretería) y del nuevo 20/21 (la caja, la lámina, la liga roja, «los presos hablan»). Costura de cierre RESUELTA (propagación de la Parte III, 2026-11-08): el libro se queda en el Monarch y ella firma en el escritorio de Matteo. Dependía del nuevo 34 (T21, H16), que debe heredar a Chiara como custodia del libro.
 Ajuste 2026-11-08 (CANON DEL AUTOR, al redactar el nuevo 34): la mano de Kal pasa de «la base del cuello… el pulgar corto contra la nuca» a «la nuca… el pulgar corto contra el nacimiento del pelo», para reservar la imagen del cuello al gesto de Chiara con los caballos (Cap. 7 → Stella en el nuevo 34).
 Renumerado 2026-11-01 (decisión del autor, carretera del Libro I): antes Cap. 44.
 Renumerado 2026-10-22 (decisión del autor): antes Cap. 35; numeración corrida definitiva, el archivo conserva su nombre.
@@ -29,7 +30,7 @@ Función: CANON DEL AUTOR. Abre la Parte III — Ardizzone. Nace el ritual del *
 **Regla de diálogo 05 (2026-10-28, a pedido del autor):** 8 cortes de eco y remate; canon del *Ciao*, de «Qué abrupto» y de Anya intacto. Ver [[98_Agent_Handoff/sessions/2026-10-28_claude_regla05_sin_fecha_de_regreso_cap41]]. Sigue BORRADOR.
 -->
 
-# Capítulo 40 — Sin fecha de regreso
+# Capítulo 33 — Sin fecha de regreso
 
 La nota estaba donde Chiara la había dejado hacía diez minutos, sobre el escritorio de Matteo, y seguía sin decir más de lo que decía la primera vez que la leyó.
 

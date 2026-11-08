@@ -1,4 +1,13 @@
 <!--
+Renumerado 2026-11-08 (nuevo cauce, Parte II): antes Cap. 34.
+NUEVO CAUCE, Fase 4 (2026-11-08; [[98_Agent_Handoff/encargos/ENCARGO_Fase4_Parte_II]], reasignación): pasa a ser el **nuevo Cap. 28** (tarjeta T15, POV Chiara único, «Reescribe»). Estado: BORRADOR; lo nuevo es DISEÑO. ~4,150 → ~3,750 palabras. Versión anterior íntegra: [[11_Books/Book_01_Mascaras_De_Cristal/Escenas_Eliminadas/30_Media_Baraja_Version_2026-11-08]]. Detalle: [[98_Agent_Handoff/sessions/2026-11-08_claude_fase4_cap28_media_baraja]].
+DECISIONES DEL AUTOR (2026-11-08): (1) Kal se entera en Las Gemelas, y no en el loft, del favor que Chiara le debe a Varek: en el loft él la cortó con «Varek me tiene sin cuidado» y ella se guardó el favor. SUPERSEDIDO EN PARTE (2026-11-08, decisión del autor al propagar la Parte II; [[98_Agent_Handoff/sessions/2026-11-08_claude_propagacion_parte_II]]): esta decisión decía también que se guardaba la multa; manda el 27, en el que Chiara cuenta la multa en el loft y sólo calla el favor. Se ajustaron tres líneas (DISEÑO): «Lo de la multa —dijo Chiara—…», «¿Y qué te pidió Varek por enseñártela?» y «La multa no me la regaló…». (2) Kal vio a Halbrook en persona, fuera de página; aquí lo cuenta él.
+VIGENTE SOBRE LO DE ABAJO: sale la coda en POV Kal (la reunión de El Patio sale de página; el nuevo 29 la cuenta en el coche), así que la EXCEPCIÓN DE POV queda sin efecto. Sale el párrafo de «*Lo vas a hacer tú*» (la línea de Varek salió en el 26). Entra lo del archivo 27, retirado ([[11_Books/Book_01_Mascaras_De_Cristal/Escenas_Eliminadas/27_Riesgo_Pendiente_Version_2026-11-08]]), contado por Kal: la llamada de las tres, el coche de las seis, la oficina al noreste pasando Kingsley, la hoja de Nadir («un papel, y los papeles los mueve él»), la versión de la carpeta de la corte marcial (la de Kal no se cuenta), «riesgo pendiente», «Un recordatorio. No un castigo» y el costado en las curvas. Chiara oye aquí «Camp Alder» por primera vez.
+DISEÑO del agente (espera lectura): (a) apertura por residuo del 27: «Estás loco», las luces de freno y la bifurcación, y lo que Chiara no dijo en el loft; (b) el sedán: Chiara da las placas de Virginia y la empresa fantasma, y Kal lo pone junto a Halbrook («Gente que se renta. Contratistas»); difiere de dónde sacó la multa («Termina tú primero»); (c) después de «Bellandi no», Chiara cuenta el hipódromo y el favor «a mi nombre, no a nombre del Monarch»; los dos descubren que Varek los tiene a ambos y sabía lo del otro («Te dijo que sí porque ya te tenía»); (d) Kal dice «Eso no lo vas a pagar sola», se da cuenta, y cede: «Es tuya» (pago de «no decidas por mí»); «Ahora sí. Ya está completa»; (e) el pacto suma «lo que le debemos, se lo pagamos cada uno. Pero ya no a ciegas»; (f) eco no dicho de «Con quién ceno…» (26) en «nadie más decide con quién cenas»; (g) el cierre añade que en el barrio lo esperan cuatro hombres.
+Costura con el nuevo 27 (ya escrito; revisada 2026-11-08): en el loft Kal no cuenta a Halbrook; Chiara le cuenta la multa y que Varek se la enseñó, y se calla el favor cuando él dice «Varek me tiene sin cuidado»; las fotos de los Bravos quedan en la barra y él se las reprocha; Chiara las recoge y sigue a Kal en el Lancia; en el patio llega después de «Bellandi no» y de lo de Vivian y la pelirroja; Varek dice «Tu Chiara se mantiene limpia»; «Estás loco» en la reja; luces de freno en la recta de Lomas de San Jacinto y el norte en la bifurcación. Si el 27 cambia algo de esto, se ajusta aquí.
+Cierre: engancha con el nuevo 29 (archivo 31), que ya existe y no se tocó.
+LÍNEAS CANON intactas: «Se llama Warren Halbrook… Fue mi comandante.»; «—Si para que tú puedas ver a quien tú quieras, yo tengo que vender mi alma a un diablo… bueno, con peores personas he tratado.»; «Y no. Hoy no traigo mariposas.».
+Las fechas, numeraciones y notas de abajo son anteriores al cauce; en lo que choquen, manda este bloque.
 Renumerado 2026-11-01 (decisión del autor, carretera del Libro I): antes Cap. 38.
 Corte de parte 2026-10-29 (decisión del autor): la Parte II abre ahora en el Cap. 26 (*La cifra*); el ordinal «N-ésimo capítulo de la Parte II» de abajo es anterior a ese corte.
 Renumerado 2026-10-22 (decisión del autor): antes Cap. 30; numeración corrida definitiva, el archivo conserva su nombre.
@@ -45,9 +54,11 @@ Regla de diálogo 05 (2026-10-28, a pedido del autor; prosa DISEÑO; sigue BORRA
 Rocco (2026-10-22, decision del autor; prosa DISENO; sigue BORRADOR): en la coda, come del rin que Walt le lijo para plato, al pie de la fosa. Ficha: 02_Characters/Rocco.md.
 -->
 
-# Capítulo 34 — Media Baraja
+# Capítulo 28 — Media Baraja
 
-El camino se acabó mucho antes de que el ruido de agua empezara. Kal tomó la última curva de tierra sin asfalto y detuvo el Audi junto a un roble solo; el Lancia se detuvo detrás, el mismo cuerpo de distancia que había mantenido toda la carretera. Apagó el motor sin decir nada, como si el silencio fuera parte de la explicación. Chiara apagó el suyo un segundo después.
+El camino se acabó mucho antes de que el ruido de agua empezara. Kal tomó la última curva de tierra sin asfalto y detuvo el Audi junto a un roble solo; el Lancia se detuvo detrás, el mismo cuerpo de distancia que Chiara había mantenido toda la carretera. Él apagó el motor sin bajarse. Ella apagó el suyo un segundo después y se quedó también sentada, con las manos en el volante, mirando la nuca de él a través de dos parabrisas.
+
+*Estás loco.* Se lo había dicho junto a la reja de Varek y lo había dicho en serio. Después había visto las luces de freno parpadearle delante tres veces, en la recta de Lomas de San Jacinto, y había tomado el norte en la bifurcación sin que nadie se lo pidiera. No se arrepentía de ninguna de las dos cosas. Llevaba en el bolsillo del abrigo la medalla y, en algún lugar menos concreto, una hoja de multa que ya no tenía en la mano y una deuda que no se había escrito en ninguna parte. Ninguna de las dos había salido en el loft. Kal no la había dejado llegar hasta ahí.
 
 Bajaron, cada uno de su coche. El sonido llegó antes que la vista: un salto de agua cayendo sobre piedra, constante, lo bastante fuerte como para que Chiara tuviera que acercarse a Kal para que él la oyera y no al revés. No había cerca. No había cartel. No había nadie.
 
@@ -71,7 +82,29 @@ Chiara esperó.
 
 Chiara no lo interrumpió. Había aprendido, con este hombre en particular, que interrumpir era la forma más rápida de que dejara de hablar.
 
-—Fue él quien me sacó de la ciudad. No Varek. —Se lo dijo directo—. Me buscó porque le sirvo. Y me dio a elegir entre volver a trabajar para él o entregar a Nadir. Un papel, nada más. Tiene con qué hacer que a Nadir lo saquen del país en una semana, y lo sabe, y me lo dijo como si me estuviera haciendo el favor de explicármelo.
+—Fue él quien me sacó de la ciudad. No Varek. —Se lo dijo directo—. Me llamaron a las tres de la mañana, desde un número de otro estado. A las seis había un coche para mí en el estacionamiento sur. Llevé el mío.
+
+—¿Adónde?
+
+—Al noreste, pasando Kingsley. Cuatro horas. Un sitio que en los mapas sale como campo. —Movió apenas los dedos sobre la rodilla, como si contara postes—. Una oficina con un escritorio de metal y un calendario de llantas atrasado tres meses. Él de pie, junto a un archivero.
+
+—¿Qué quería?
+
+—Que vuelva a trabajar para él. O que entregue a Nadir. —Kal no suavizó ninguna de las dos—. Me enseñó una hoja. El nombre completo de Nadir, su país, el día que entró. Dijo que hoy es un expediente limpio y que está a un sello de dejar de serlo. Que no hay favor ni dinero que lo arregle. Que es un papel, y que los papeles los mueve él. Tiene con qué hacer que a Nadir lo saquen del país en una semana, y lo sabe, y me lo dijo como si me estuviera haciendo el favor de explicármelo.
+
+Chiara oyó el nombre de Nadir y lo dejó pasar sin tocarlo, por ahora. Había otra pregunta delante.
+
+—¿Y la corte marcial?
+
+—Él tiene una versión. Dice que es la única y que está en una carpeta. —Kal la recitó sin entonación, como se repite una dirección—. Un soldado abandonó su puesto, comprometió una operación en curso y salió cargando información que no le pertenecía.
+
+—¿Y la tuya?
+
+—La mía no está en ninguna carpeta.
+
+No dijo más. Chiara no le pidió más. Había hombres que se cerraban cuando uno empujaba, y había puertas que uno sólo veía una vez antes de que se abrieran solas o no se abrieran nunca. Ésta la vio, la anotó y no la tocó.
+
+—Dijo que no me persigue —siguió Kal—. Que perseguir es caro y hace ruido. Que soy un riesgo pendiente, y que los riesgos pendientes se administran.
 
 —¿El sedán? —preguntó Chiara.
 
@@ -79,21 +112,43 @@ Kal no fingió no saber de qué hablaba.
 
 —No lo sé con certeza. Pero ahora sé a quién le conviene saber en todo momento dónde está Nadir.
 
-No era una confirmación. Era casi peor: significaba que había pasado el día entero mirando al hombre equivocado.
+—Placas de Virginia.
 
-—No estabas viendo cosas que no existían —dijo Kal, como si le hubiera leído el pensamiento—. Estabas equivocada en a quién se lo atribuías. Y eso es mío, no tuyo.
+Kal giró la cabeza hacia ella. Fue lo primero en toda la mañana que lo movió antes de que él lo decidiera.
+
+—Lo de la multa —dijo Chiara—. Una empresa con una oficina en un parque de oficinas de Virginia y un teléfono que no contesta nadie. La luz de freno fundida, en la calle de El Patio, anteayer, a las dos y catorce de la madrugada.
+
+Kal se quedó callado el tiempo que le tomó poner eso junto a algo que ella no veía. Después asintió una vez, muy poco, hacia el agua.
+
+—Así trabaja él. Gente que se renta. Contratistas. Nadie que firme con su nombre. —Ahora sí la miró—. ¿Y qué te pidió Varek por enseñártela?
+
+—Te lo iba a contar anoche.
+
+—Chiara.
+
+—Termina tú primero. —Lo dijo sin filo—. Tú empezaste.
+
+Kal sostuvo la mirada un segundo, midiendo si eso era una evasiva o un turno. Decidió que era un turno, y lo respetó.
+
+—No estabas viendo cosas que no existían —dijo—. Estabas viendo bien. Lo que te faltaba te lo escondí yo, y eso es mío, no tuyo.
 
 —¿Y los golpes?
 
-—Un recordatorio. —Kal se llevó la mano a la ceja sin darse cuenta y la bajó al ver que ella lo notaba—. No un castigo. Así los administra: mide exactamente cuánto hace falta para que uno entienda dónde está parado, y ni un gramo más.
+—Un recordatorio. —Kal se llevó la mano a la ceja sin darse cuenta y la bajó al ver que ella lo notaba—. No un castigo. Así los administra: mide exactamente cuánto hace falta para que uno entienda dónde está parado, y ni un gramo más. Él ni siquiera estaba en el cuarto. Se fue antes. Desde el pasillo me dijo que manejara con cuidado, que me iba a doler el costado en las curvas.
+
+—¿Te dolió?
+
+—En todas.
+
+Chiara no sonrió. Casi.
 
 —¿Por qué no me lo dijiste en el loft?
 
-—Porque no vi ninguna salida que no pusiera a Nadir en la línea de fuego. —La miró, por primera vez desde que empezó a hablar—. Y porque si te lo contaba, dejaba de ser mi problema y pasaba a ser nuestro problema, y llevo toda la vida sin saber compartir eso con nadie.
+—Porque no vi ninguna salida que no pusiera a Nadir en la línea de fuego. —La miró, sostenido—. Y porque si te lo contaba, dejaba de ser mi problema y pasaba a ser nuestro problema, y llevo toda la vida sin saber compartir eso con nadie.
 
 —¿Nadir lo sabe?
 
-—Todavía no. —Algo se le tensó en la mandíbula—. Tengo que hablar con él en cuanto volvamos. Con él, con Walt, con Danny, con Héctor. No he visto a nadie desde que Halbrook me sacó de la ciudad.
+—Todavía no. —Algo se le tensó en la mandíbula—. Tengo que hablar con él en cuanto volvamos. Con él, con Walt, con Danny, con Héctor. No he visto a nadie desde que me fui.
 
 —¿Y ahora sí?
 
@@ -103,17 +158,17 @@ Chiara se quedó con eso un momento largo, escuchando el agua.
 
 ***
 
-No sintió el impulso de reclamarle nada, y eso la sorprendió un poco de sí misma. Entendía por qué lo había hecho — la lógica era tan limpia que casi dolía verla completa: un hombre sin salidas va a golpear la única puerta que conoce — y entender no era lo mismo que estar contenta.
+No sintió el impulso de reclamarle nada, y eso la sorprendió un poco de sí misma. Entendía por qué lo había hecho —la lógica era tan limpia que casi dolía verla completa: un hombre sin salidas va a golpear la única puerta que conoce— y entender no era lo mismo que estar contenta.
 
-—No me gusta —dijo, al fin—. Que decidas solo cuánto me cuentas y cuándo. Que Nadir haya sido la correa con la que te movieron y que yo me entere recién ahora, en una roca, y no en casa.
+—No me gusta —dijo, al fin—. Que decidas solo cuánto me cuentas y cuándo. Que Nadir haya sido la correa con la que te movieron y que yo me entere hasta ahora, en una roca, y no en casa.
 
 —Lo sé.
 
 Chiara esperó el resto. No hubo resto: Kal siguió mirando el agua, con la mano quieta sobre el costado.
 
-Eso, extrañamente, la calmó más que una disculpa. Un hombre que no se defendía dejaba menos espacio para pelear, y ella no tenía ganas de pelear con él esa mañana: tenía ganas de entender qué quedaba parado y qué se había caído.
+Eso, extrañamente, la calmó más que una disculpa. Un hombre que no se defendía dejaba menos espacio para pelear, y ella no tenía ganas de pelear con él esa mañana: tenía ganas de entender qué quedaba en pie y qué se había caído.
 
-Ella, esa madrugada, no se había guardado nada: le había dado hasta la línea que más le costó decir en voz alta. *Lo vas a hacer tú.* Él había salido de la casa con esa frase y una pistola en la cintura, y ahora volvía con la otra mitad de la baraja en la mano. No se lo reprochó. Sólo anotó la diferencia, y siguió adelante.
+Tampoco se le escapaba la otra cuenta. Ella también había llegado al loft con algo en la mano y se lo había vuelto a guardar cuando él dijo *Varek me tiene sin cuidado*. Se lo había guardado por orgullo, o por cansancio, o porque a las cinco de la mañana un hombre con la ceja abierta no era quien tenía que oírlo. Las tres razones eran ciertas, y ninguna le alcanzaba para reclamarle nada a él desde ahí. Lo anotó.
 
 ***
 
@@ -121,7 +176,11 @@ Ella, esa madrugada, no se había guardado nada: le había dado hasta la línea 
 
 —Una puerta a Camp Alder. Le ofrecí el cargamento como pago.
 
-—¿Y aceptó?
+—¿Camp Alder?
+
+—Una base, al noreste. Serví ahí. Halbrook quiere que entre y saque algo que no puede aparecer en ninguna lista. —Lo dijo como quien pone una pieza más sobre la piedra, sin adornarla—. Sin una puerta de adentro, no entro.
+
+—¿Y Varek aceptó?
 
 —No de entrada. Me dijo que podía comprar armas en cualquier lado, y tenía razón. Tuve que dejar que fuera él quien pusiera el precio real sobre la mesa.
 
@@ -189,7 +248,49 @@ Chiara no se movió.
 
 —Porque si te mete en el barro, dejas de escuchar lo que escuchas ahora. Le dije que estaba protegiendo un activo. —Una pausa—. Era verdad. No era toda la verdad.
 
-Chiara no preguntó cuál era la otra parte. Se le fueron los dedos al arete, lo giró una vez y lo soltó.
+Se le fueron los dedos al arete. Lo giró una vez y no lo soltó.
+
+—¿Y qué te contestó?
+
+—Que tu Chiara se mantiene limpia. —Kal arrugó la boca al repetirlo, por el *tu*—. Lo dijo muy rápido. Como si le diera lo mismo.
+
+—Le daba lo mismo.
+
+Kal esperó.
+
+—La multa no me la regaló —dijo Chiara—. Cuando subí a su oficina, encima del palco, creía que él te tenía. No te tenía. Lo que tenía era ese papel en un cajón, del coche que lleva una semana estacionándose en tu esquina, y no me dijo cómo lo consiguió. —Soltó el arete—. Me lo cobró.
+
+—¿Cuánto?
+
+—No le puso cifra. Le debo una. A mi nombre, no a nombre del Monarch. Todavía no sabe cuál. Cuando lo sepa, me la pide.
+
+Kal no dijo nada. Chiara lo vio armarlo, despacio, en la cara, sin que la cara hiciera casi nada: el patio, la silla, «Bellandi no», y un hombre con un vaso de bourbon en la mano aceptando sin discutir que la mantuviera limpia, porque desde el día anterior ya tenía, guardado en un cajón, el pagaré.
+
+—Te dijo que sí porque ya te tenía —dijo él.
+
+—Nos tiene a los dos. A ti por la silla, a mí por la multa. —Chiara lo dijo como se lee un balance—. Y cada uno de nosotros fue solo a deberle.
+
+—Y él sabía lo del otro.
+
+—Y nosotros no.
+
+El agua siguió cayendo de las dos alturas sobre la misma poza. A Chiara le pareció, por un segundo, una imagen demasiado exacta, y la apartó.
+
+—Eso no lo vas a pagar sola —dijo Kal.
+
+Lo dijo rápido, de la manera en que se cierra una puerta antes de que entre el frío, y se dio cuenta en cuanto lo dijo. Chiara lo vio darse cuenta.
+
+—Es mía —dijo ella—. La firmé yo.
+
+Kal apretó la mandíbula. Abrió la boca, la volvió a cerrar. Miró el agua.
+
+—Es tuya —dijo, al fin.
+
+Era poco. Para él no era poco.
+
+—Ahora sí —dijo Chiara—. Ya está completa.
+
+Kal no preguntó qué. Los dos sabían de qué baraja hablaba.
 
 ***
 
@@ -243,7 +344,7 @@ Chiara sintió que algo en el pecho se le aflojaba por primera vez desde que ley
 
 —Ya. —Kal no la miró, pero la comisura de la boca se le movió—. Eso es lo que me preocupa.
 
-Chiara construía redundancias para todo lo que le importaba: gente que podía hacer el trabajo sin que ella se acercara nunca al fuego. Con Kal, esta vez, se había saltado todas las capas sin darse cuenta.
+Chiara construía redundancias para todo lo que le importaba: gente que podía hacer el trabajo sin que ella se acercara nunca al fuego. Con Kal, esta vez, se había saltado todas las capas sin darse cuenta. Había subido ella misma la escalera del hipódromo. Había firmado ella.
 
 ***
 
@@ -303,7 +404,7 @@ Silencio.
 
 —Tendrías que explicarle, o mentirle, o decidir por ella sin las dos cosas. —Lo dijo como quien señala un mapa—. Ya sabes cómo termina eso.
 
-Kal se quedó con la mandíbula tensa un momento.
+Kal se quedó con la mandíbula tensa un momento. Los dos acababan de verlo terminar, hacía unos minutos, sobre esa misma piedra.
 
 —No voy a llamarla —dijo—. Todavía no. No sin saber qué le voy a decir que no sea una orden con otro nombre.
 
@@ -343,13 +444,19 @@ Kal asintió una vez. Nada más.
 
 —Mientras tanto nadie más decide con quién cenas.
 
-Chiara no contestó a eso. Contestó lo otro:
+Chiara no le dijo que el día anterior, en una oficina sobre la recta del hipódromo, ella había usado casi esas mismas palabras con el mismo hombre. Contestó lo otro:
 
 —Mientras aprendemos cómo funciona por dentro, i Sussurri puede decirnos con quién habla, a quién le debe favores, dónde le tiembla el negocio. Cosas que tú no vas a ver desde adentro porque las vas a estar viviendo, no observando.
 
 —Y El Patio puede moverte lo que i Sussurri no puede: gente, coches, un lugar donde nadie pregunta.
 
-—De acuerdo —dijo Chiara—. Alineados.
+—Y lo que le debemos, se lo pagamos cada uno —dijo Chiara—. Pero ya no a ciegas.
+
+Kal lo pensó. No le gustó del todo, y lo aceptó entero.
+
+—De acuerdo.
+
+—Alineados.
 
 Kal no repitió la palabra. Tampoco se dieron la mano.
 
@@ -387,152 +494,6 @@ Ya casi en los coches, sin voltear, como quien comenta el clima:
 
 Detrás de ella, Kal tropezó con una piedra que no estaba ahí.
 
-En la bifurcación de tierra donde el camino volvía a tener nombre, Chiara tomó la carretera de regreso hacia la ciudad, hacia el Monarch. Kal tomó la que llevaba al barrio.
+En la bifurcación de tierra donde el camino volvía a tener nombre, Chiara tomó la carretera de regreso hacia la ciudad, hacia el Monarch. Kal tomó la que llevaba al barrio, donde lo esperaban cuatro hombres y una conversación que le tocaba a él.
 
 Ninguno de los dos miró el espejo.
-
-***
-
-Los encontró en el patio de atrás del taller, donde los encontraba siempre a esa hora: Danny con medio cuerpo metido en el motor de un Civic que no era suyo, Héctor en su silla de siempre vigilando como quien vigila una máquina que podría fallarle, Walt acomodando algo en un estante que nadie le había pedido acomodar. Nadir estaba sentado en el borde de la fosa, con los pies colgando, terminándose un sándwich que casi seguro era de Danny. Al pie de la fosa, Rocco comía del rin viejo que Walt le había lijado para plato y levantaba la cabeza cada vez que el sándwich se movía.
-
-—Necesito hablar con todos —dijo Kal, y algo en cómo lo dijo hizo que Danny sacara la cabeza del motor sin que hiciera falta repetirlo.
-
-Se sentaron donde se sentaban siempre: dos en cajones, uno en la silla, Nadir en la fosa. Kal se quedó de pie, porque sentarse todavía le costaba y prefería que no se le notara delante de ellos.
-
-—¿Es por lo de anoche? —preguntó Walt, señalando con la barbilla la ceja de Kal.
-
-—Es por lo de anoche, por lo de esta mañana y por lo de ahora. —Kal no se anduvo con rodeos. No con ellos—. Un hombre me sacó de la ciudad. Se llama Warren Halbrook. Fue mi comandante, hace mucho.
-
-Nadir dejó el sándwich a un lado.
-
-—¿Y qué quería?
-
-—Que vuelva a trabajar para él. —Kal lo miró directo—. Y si no, tiene un papel que puede sacarte del país en una semana.
-
-Silencio. El taller siguió con sus ruidos de siempre —un compresor, un perro ladrando dos calles más allá— pero entre ellos cinco no hubo nada por un momento largo.
-
-—¿Mi papel? —dijo Nadir, al fin. No era pregunta. Era la manera de repetir algo para comprobar si sonaba igual de real la segunda vez.
-
-Kal le sostuvo la mirada.
-
-Nadir se puso de pie, despacio.
-
-—¿Desde cuándo lo sabes?
-
-—Desde antes de esta mañana. Puede que desde antes de lo que a mí me gustaría admitir.
-
-—¿Y me lo dices ahora?
-
-Ahí estaba. Kal lo había visto venir y no intentó esquivarlo.
-
-—Sí. Ahora. En cuanto pude ordenarlo.
-
-—Podías anoche. —No lo dijo gritando—. Podías esta mañana. Decidiste otra vez cargar tú solo con algo mío antes de decírmelo.
-
-Kal no se defendió. No dijo *era para protegerte*, ni *no había tiempo*, ni *iba a arreglarlo antes de que te enteraras*. Se quedó con eso encima el tiempo que hizo falta.
-
-—Tienes razón —fue todo lo que dijo—. Por eso lo estás escuchando de mí, ahora, y no de otra manera.
-
-Nadir lo midió un momento más, calculando si eso alcanzaba. No dijo que sí. Tampoco siguió peleando.
-
-—¿Qué sabe exactamente? —preguntó.
-
-—Tu nombre completo, tu país, tu fecha de entrada. Sabe que estás limpio en todo lo demás. —Kal se apoyó contra el capó del Civic—. No ha movido nada todavía. No te llamó, no mandó a nadie, no inició ningún trámite. Es un papel que puede activar cuando quiera, no algo que ya esté corriendo.
-
-—¿Cuánto tiempo tenemos? —preguntó Héctor, sin levantarse de la silla.
-
-—No lo sé. Semanas, calculo. Depende de cuándo esté lista la entrada.
-
-—¿Qué entrada? —preguntó Walt.
-
-Kal se lo dijo también, porque ya había decidido, en algún punto de la carretera de vuelta, que ese día no iba a guardarse nada que les correspondiera a ellos.
-
-—Camp Alder. Una base al noreste, cerrada al público. Serví ahí antes de que me la cerraran a mí también. Halbrook quiere que entre y saque un expediente.
-
-—¿Tú? ¿A una base militar? —Danny se limpió las manos con un trapo que ya no limpiaba nada, mirándolo como si acabara de anunciar que iba a pelear con un oso—. Eras sargento, Kal. Eso no te da una llave.
-
-—No me da una llave. Me da memoria de cómo se mueve el sitio, y a alguien de adentro dispuesto a mirar para otro lado si el precio es correcto. —No lo suavizó—. Y no. No es "otro trabajo". Si esto sale mal, no hablamos de una pelea de bandas ni de una carga que se pierde. Hablamos de una instalación federal.
-
-—¿Y si sale mal? —preguntó Danny. Era la pregunta incómoda y él lo sabía y la hizo de todos modos—. ¿Cómo sales?
-
-—Todavía no tengo salida. Tengo un problema, tengo con qué empezar a resolverlo, y tengo semanas para construir el resto. No tengo un plan completo. Si alguien aquí necesita que lo tenga antes de seguir escuchando, lo entiendo.
-
-Nadie se fue.
-
-—¿Qué hay para ti en esto? —preguntó Walt, con esa manera suya de ir directo al hueso sin subir la voz—. Aparte de que Nadir se quede.
-
-—Necesitaba una puerta a Camp Alder. —Kal miró a Walt, después a Héctor—. Fui a pedírsela a Varek esta mañana. Terminó ofreciéndome algo más grande: una silla en su mesa.
-
-—¿Una silla?
-
-—Mientras esté sentado ahí, la gente que reconozca como mía queda bajo su nombre. Eso no resuelve lo de Nadir. Compra presión local, nada más. Y Varek no sabe por qué me importa. No le di el nombre.
-
-Walt asintió despacio.
-
-—Entonces quedaste atado a dos hombres que no se conocen: uno te tiene agarrado por Nadir, y al otro le compraste una silla para que Nadir, sin saberlo, quede un poco más cubierto.
-
-—Eso es.
-
-—Y a cambio terminas debiéndole a los dos.
-
-Kal no le corrigió la cuenta.
-
-Héctor, que no había dicho una palabra en un rato, se quitó la gorra, se pasó la mano por el pelo cano y se la volvió a poner — un gesto que Kal conocía desde niño y que nunca significaba nada bueno.
-
-—¿Y el sedán? —preguntó Héctor.
-
-Kal lo miró.
-
-—¿Lo volvieron a ver?
-
-—Walt no fue el único. —Héctor no levantó la voz—. Nadir también lo vio. No lo dijimos porque no había nada que decir, pero ya que estamos contando todo.
-
-Nadir asintió, despacio.
-
-—Lo vi un día, parado en la esquina de la lavandería, como media hora. No se bajó nadie. No pasó nada.
-
-—No sé si es de Halbrook —dijo Kal, y era verdad—. Pero ahora sé que hay alguien a quien le conviene tenerte mirado, Nadir, y eso ya es más de lo que sabíamos ayer. Si lo vuelven a ver, quiero saberlo el mismo día. No dos tardes después.
-
-Nadie preguntó por Varek. Nadie dijo su nombre. No había ninguna razón para pensar que los dos frentes fueran el mismo, y Kal no les dio ninguna.
-
-***
-
-Se quedaron un rato así, cada uno con el peso repartido de manera distinta: Nadir con el suyo propio, recién entregado; Walt calculando qué cambiaba puertas adentro del taller ahora que Kal respondía ante Varek; Danny todavía masticando la idea de una base militar como quien mastica algo que no termina de tragar; Héctor con la vista perdida en la fosa, pensando probablemente en cosas que no iba a decir en voz alta ese día.
-
-No había nada más que resolver. No esa tarde.
-
-Fue Nadir quien lo rompió primero, como solía romperlo todo.
-
-—Bueno. —Se sacudió las manos contra el pantalón—. Si todavía no tenemos fecha para meternos en una base militar, ¿alguien tiene algo que hacer esta tarde que no termine en prisión federal?
-
-—Yo tengo turno —dijo Danny, sin mucha convicción.
-
-—Cámbialo. —Nadir ya estaba de pie—. Vamos a pescar.
-
-—¿Ahora?
-
-—¿Cuándo si no ahora? —Se encogió de hombros, con esa sonrisa que le costaba tan poco—. No podemos hacer nada con lo de Halbrook hasta que Kal tenga algo más que un problema. No podemos hacer nada con Varek hasta que él lo diga. Podemos ir al lago antes de que se ponga el sol.
-
-Danny lo pensó exactamente dos segundos.
-
-—Traigo las cañas.
-
-—Yo traigo la comida —dijo Héctor, ya levantándose de la silla con más energía de la que había mostrado en toda la reunión—. Porque si la traes tú, comemos aire.
-
-—Yo llevo hielo y algo de tomar —dijo Walt—. Y me llevo mi propia nevera, porque la última vez alguien —miró a Danny— se tomó las que traía marcadas con mi nombre.
-
-—Eso no se probó nunca.
-
-—No hizo falta probarlo.
-
-Nadir se giró hacia Kal, que todavía no había dicho nada.
-
-—¿Vienes?
-
-—Voy.
-
-—¿Y ya sabes a quién más vas a invitar? —Nadir sonrió.
-
-Kal no contestó eso. Pero en algún lugar detrás de todo lo demás que llevaba encima ese día, ya estaba pensando en una llamada que todavía no había hecho.
-
-—Al lago —fue lo único que dijo—. Antes de que se ponga el sol.

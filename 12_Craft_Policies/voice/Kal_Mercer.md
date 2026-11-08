@@ -1,6 +1,8 @@
 # Ficha de Voz - Kal Mercer
 
-> Recalibrada 2026-10-03 con los dialogos del [[11_Books/Book_01_Mascaras_De_Cristal/Part_02_Con_Peores_Personas_He_Tratado/28_La_Correa]] (dialogo reconstruido sobre la transcripcion del autor; capitulo aun BORRADOR). Lo marcado *(Cap. 32 (archivo 28))* sale de ahi.
+> Recalibrada 2026-10-03 con los dialogos del [[11_Books/Book_01_Mascaras_De_Cristal/Escenas_Eliminadas/28_La_Correa_Version_2026-11-08|28_La_Correa]] (hoy retirado) (dialogo reconstruido sobre la transcripcion del autor; capitulo aun BORRADOR). Lo marcado *(Cap. 32 (archivo 28))* sale de ahi.
+>
+> **NUEVO CAUCE (2026-11-08; [[98_Agent_Handoff/sessions/2026-11-08_claude_propagacion_parte_II]]):** el archivo 28 se retiró y la conversación del loft pasó entera al **nuevo 27** ([[11_Books/Book_01_Mascaras_De_Cristal/Part_02_Con_Peores_Personas_He_Tratado/29_El_Patio_Ajeno|Una silla]], POV Kal). Las anclas *(Cap. 32 (archivo 28))* de esta ficha se leen hoy como **nuevo 27 (archivo 29)**; las muestras siguen en la prosa salvo las que dependían de la amenaza vieja de Varek, que salieron (CANON DEL AUTOR): «soy su puta… sirvienta», «Así que recalculé», la corte marcial, «tenía que ser yo», «me dijo que me alejara de ti» y «Que yo no puedo estar aquí… apartarme». El parte de Chiara ya no pasa por el taller: Varek la recibió en el hipódromo.
 
 ## Cadencia y sintaxis
 
