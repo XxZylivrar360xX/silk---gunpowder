@@ -17,6 +17,7 @@ Es el escenario del ataque de [[06_Relationships/Hitos]], H12 — "El corral". K
 > **CANON — Vento (2026-08-29):** vivo durante toda la Parte I (aparece en el Capítulo 8 / H12). Ya en la Parte II, **~2 semanas antes del [[06_Relationships/Hitos#H16 — El cumpleaños / la mudanza oficial|cumpleaños de Chiara]], una fractura por la edad obliga a sacrificarlo.** Chiara pasa esas semanas de duelo. En el cumpleaños, Kal le regala **una yegua blanca** traída de otro estado (odisea cómica con Héctor) — animal nuevo, no reemplazo. **PENDIENTE:** nombre de la yegua.
 >
 > **CANON DEL AUTOR (2026-10-22):** Vento fue caballo de carreras del Monarch; ya viejo, la administración iba a venderlo y Chiara lo compró con su dinero en sus primeras semanas en San Aurelio. La siembra va en el Cap. 37 (archivo 33); Kal llega antes de que ella decida con la veterinaria; la muerte **no va pegada al cumpleaños** (supera el "~2 semanas" de arriba; fecha DISEÑO ~mediados de oct A2, en un Cap. 38 (archivo 33b)). No hay plan de viñedo: Bellandi Ridge no entra en el Libro I. Plan: [[11_Books/Book_01_Mascaras_De_Cristal/00_Plan_Vento]].
+> **SUPERSESIÓN — CANON DEL AUTOR (2026-11-07):** Vento ya no muere de una fractura por la edad (Cap. 38, archivo 33b). **Lo asesinan en el corral (H12), por orden de Crowe, como venganza:** tras noquear a Chiara, el atacante mata al caballo; Kal encuentra primero a Vento y se le hiela la sangre al ver a Chiara unos metros más adelante, junto al corral. Lo saben los dos. Ver [[11_Books/Book_01_Mascaras_De_Cristal/00_Plan_Nuevo_Cauce]].
 
 ---
 

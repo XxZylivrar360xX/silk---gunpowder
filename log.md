@@ -4,6 +4,7 @@ El detalle se guarda una sola vez en notas de sesión. Este archivo es navegaci�
 
 ## Sesiones recientes
 
+- 2026-11-07: [[11_Books/Book_01_Mascaras_De_Cristal/00_Plan_Nuevo_Cauce]] · DECISIÓN DEL AUTOR: un POV por capítulo (el que más arriesga); Libro I hacia ~170–190k; romance trenzado con la trama; nuevo cauce. Fuerzas: Tasador antagonista (trabaja para Halbrook), Halbrook fuera de la prosa del I salvo epílogo, Varek radiactivo, Il Consorzio atadura, muerte de Trix. Robo del Monarch sin Dario (Crowe por Halbrook); Caluca → Ferreyra; Crowe asesina a Boone; corral con bandera falsa de Volpi. Diagnóstico: [[13_Auditorias/Book_01_Mascaras_De_Cristal/Mapa_POV_Libro_I]].
 - 2026-11-06: [[98_Agent_Handoff/sessions/2026-11-06_claude_origen_nombre_elenna]] · DECISIÓN DEL AUTOR: el nombre de Elenna viene de un cuento de Marta; anticonceptivos; la noche de Stavanger se narra en la página.
 - 2026-11-05: [[98_Agent_Handoff/sessions/2026-11-05_claude_marisol_y_duelo_caps01_03]] · DECISIÓN DEL AUTOR: Walt ya sabe de Jim; Marisol abre el Cap. 1; Cap. 3 en duelo de familia.
 - 2026-11-04: [[98_Agent_Handoff/sessions/2026-11-04_claude_cap01_sabado_y_domingo]] · Cap. 1 en sábado y domingo (BORRADOR). Reporte previo: [[98_Agent_Handoff/sessions/2026-11-04_claude_regla06_caps01_03]]
@@ -49,3 +50,4 @@ El detalle se guarda una sola vez en notas de sesión. Este archivo es navegaci�
 Crear una nota breve por sesión sustantiva, con fecha, agente, cambio, fuentes y pendientes. Si afecta canon, continuidad o estructura, enlazarla aquí en una línea. Máximo 30 enlaces recientes: trasladar los más antiguos a un índice mensual en `98_Agent_Handoff/archive/` y enlazar ese índice desde el README del archivo. No copiar el relato de la sesión al brief ni a PENDING. No borrar registros.
 - 2026-11-05: Cap. 1 reescrito desde cero; malvavisco del Peugeot, casa de Michael: [[98_Agent_Handoff/sessions/2026-11-05_claude_cap01_desde_cero]]
 - 2026-11-07: quién es Chiara en *Sombras de Poder* (CANON): [[98_Agent_Handoff/sessions/2026-11-07_claude_chiara_libro_ii]]
+- 2026-11-07: tarjetas del Cap. 11 a Camp Alder (CANON): Vento asesinado en el corral por orden de Crowe; sale *Bajo juramento*; Crowe compra las armas de Camp Alder: [[11_Books/Book_01_Mascaras_De_Cristal/00_Plan_Nuevo_Cauce]]

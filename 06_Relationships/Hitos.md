@@ -510,6 +510,8 @@ La noche en que todo cambia es **la única noche del libro en que no puede condu
 
 # H12 — El atentado / El corral
 
+> **SUPERSESIÓN — CANON DEL AUTOR (2026-11-07):** Vento ya no muere de una fractura por la edad (Cap. 38, archivo 33b). **Lo asesinan en el corral (H12), por orden de Crowe, como venganza:** tras noquear a Chiara, el atacante mata al caballo; Kal encuentra primero a Vento y se le hiela la sangre al ver a Chiara unos metros más adelante, junto al corral. Lo saben los dos. Ver [[11_Books/Book_01_Mascaras_De_Cristal/00_Plan_Nuevo_Cauce]].
+
 > **RESCATE Y CORTE (2026-10-29, CANON DEL AUTOR) — manda sobre las notas de abajo que digan que Kal la carga o la lleva en el Audi.** Kal no la traslada: llama al 911, la sostiene sin moverla y se la entrega a los paramédicos; sigue a la ambulancia en el Audi. Finge el robo (cartera y reloj en su chaqueta durante la espera) y pone la denuncia en Calle Corona (Voss; Blake lo evita; Collins). H12 ocupa ahora dos capítulos: Cap. 27, *Oveja entre lobos* (archivo 24c: ataque, hospital, comisaría, tregua, alta) y Cap. 28, *Vienes conmigo* (archivo 24d: parador, loft con abrazo y temblor canon, coda). El nombre del hito no cambia. Sesión: [[98_Agent_Handoff/sessions/2026-10-29_claude_cap30_oveja_entre_lobos]].
 
 > **REUBICACIÓN (2026-10-04, CANON DEL AUTOR) — manda sobre las posiciones de abajo.** H12 ya no cae entre H9 y H14: va **justo antes de [[#H15 — La noche del jacuzzi]]**, como Cap. 27 (archivo 24c) ([[11_Books/Book_01_Mascaras_De_Cristal/Part_02_Con_Peores_Personas_He_Tratado/24c_El_Corral]]), sin renumerar. Gravedad: **conmoción con hematoma en observación**, sin craniotomía. La tregua y la vigilancia de Dario se mueven con el capítulo. Ya hubo H11: no aplica "todavía no hay primer beso"; el refugio es el loft de Kal (abrazo y temblor intactos), no la casa común. La casa común, "Tienes mi palabra" y "Lo necesario. Hasta que ya no lo sea" pasaron al nuevo Cap. 11 (archivo 09) ([[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/09_La_Balanza]]), donde el detonante de la estancia en La Almendra es el asalto del Tasador a la fiscal Rowe: el riesgo viene del mundo de Kal, y la estancia es deuda de él con ella. Las secuelas pendientes de los Caps. 11-14 quedan sin objeto; el rastro del golpe vive en la Parte II (28). Plan: [[11_Books/Book_01_Mascaras_De_Cristal/00_Plan_Reubicacion_Corral]].
@@ -2363,6 +2365,7 @@ Una **cajita más pequeña, modesta, de madera.** Dentro, **una llave del loft.*
 ---
 
 # H17 — Italia / Mesa de las Familias
+> **SUPERSESIÓN — CANON DEL AUTOR (2026-11-07):** Vento ya no muere de una fractura por la edad (Cap. 38, archivo 33b). **Lo asesinan en el corral (H12), por orden de Crowe, como venganza:** tras noquear a Chiara, el atacante mata al caballo; Kal encuentra primero a Vento y se le hiela la sangre al ver a Chiara unos metros más adelante, junto al corral. Lo saben los dos. Ver [[11_Books/Book_01_Mascaras_De_Cristal/00_Plan_Nuevo_Cauce]].
 
 > **EJECUTADO COMPLETO EN PROSA (2026-09-22):** [[11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/40_Mecanico|Cap. 45 (archivo 40) — Mecánico]] (mitad de Kal) y [[11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/41_La_Otra_Mitad|Cap. 46 (archivo 41) — La otra mitad]] (mitad de Chiara, contada a Bonnie) completan el hito. Ambos BORRADOR, pendientes de revisión del autor.
 
