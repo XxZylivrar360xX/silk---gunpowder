@@ -1,6 +1,14 @@
 # Decisiones recientes
 
-Máximo 800 palabras; conservar sólo decisiones operativas recientes y enlaces a sus fuentes. El historial íntegro anterior al corte está en [[98_Agent_Handoff/archive/2026-09-21_DECISIONS]]. Archivar entradas antiguas antes de retirarlas.
+Máximo 800 palabras; conservar sólo decisiones operativas recientes y enlaces a sus fuentes. El historial íntegro anterior al corte está en [[98_Agent_Handoff/archive/2026-09-21_DECISIONS]]; las del 2026-11-01, en [[98_Agent_Handoff/archive/2026-11-08_DECISIONS]]. Archivar entradas antiguas antes de retirarlas.
+
+## 2026-11-08 — Parte III del nuevo cauce (nuevos 33–39)
+
+**DECISIÓN DEL AUTOR (CANON):** la bala del corral es la que mató a Vento; Kal la sigue hasta un apellido que el 35 no dice (Volpi se lee en el 36) y se lo oculta a Chiara. El avión sale de Kingsley **a la una** (Palermo, sáb 11 dic, 21:30). **Calendario A:** Mesa lun 13; Kal vuela el 14; **los dos aterrizan el mié 15** por separado; F1 vie 17; Camp Alder dom 19, 02:00–02:40. Kal lee la carta el jue 25 nov (Acción de Gracias); **Mabel se queda** en el 35 (corrige la decisión que la sacaba); Dario sale del yate. La sangre del 34 es de un trabajo de Varek y la botella sale de ahí (nunca dicho). Héctor cuenta la persecución de Stella. El libro de las rutas se queda en el Monarch; Valenti le pasa a Chiara la custodia. La llamada de Palermo la hace un intermediario; Volpi, beat callado. Mei-Lin, opción (a). **1A:** desde el 39 Kal sabe que Crowe trabaja para la gente de Halbrook. Archivos 37 y 39 retirados (EXCLUDE). Fuentes: [[98_Agent_Handoff/sessions/2026-11-08_claude_fase4_parte3_corte]] y [[98_Agent_Handoff/sessions/2026-11-08_claude_propagacion_parte_III]].
+
+## 2026-11-08 — PENDIENTE: por qué se fue Matteo
+
+Dos registros CANON chocan. Nota del 33: Il Consorzio supo que las rutas salieron de la caja, la Mesa activa a Volpi, Elio desaparece y Matteo se va. Notas del 37 y `cap34_costuras`: se fue por Elio, **no por el robo**; se cobra en el Libro IV. La prosa del 34 y del 35 aguanta las dos; la del 33 no se ha revisado contra la segunda. **Lo decide el autor.** Hasta entonces no se tocan `Matteo_Bellacorte`, `Nereo_Volpi`, `Elio_Bellacorte`, `00_Plan_Robo_Monarch` (línea 47), `00_Plan_Nuevo_Cauce` (punto 7) ni la causa en `revelations/`.
 
 ## 2026-11-07 — Chiara en *Sombras de Poder*
 
@@ -21,19 +29,3 @@ Máximo 800 palabras; conservar sólo decisiones operativas recientes y enlaces 
 ## 2026-11-04 — El favor de Nadir
 
 **DECISIÓN DEL AUTOR:** la ruleta vuelve al Cap. 7 como primer encuentro con los chicos, con crupier y fuera de foco; ellos sólo ven esa sala, Kal todo el penthouse. En Gabriella's Chiara le ofrece un favor a Nadir; tras la ruptura lo cobra para que Danny monte. Kal se entera de Vento por los chicos, no por ella (Cap. 11). Supersede lo del 2026-11-03 en esos puntos. [[98_Agent_Handoff/sessions/2026-11-04_claude_favor_nadir_vento]].
-
-## 2026-11-01 — Renumeración a 56
-
-**DECISIÓN DEL AUTOR, ejecutada por Codex y verificada por Claude:** el Libro I pasa a 56 capítulos (numeración del 2026-11-01). Partes: I = 1–22 (cierra *Grazie*), II = 23–39, III = 40–56; arco sin Kal 49–56; «—Ciao, bella.» cierra el 55. Las entradas de abajo usan la numeración de 60. [[98_Agent_Handoff/sessions/2026-11-01_codex_para_claude_renumeracion_56]].
-
-## 2026-11-01 — Carretera aprobada; Walt al Libro II
-
-**DECISIÓN DEL AUTOR:** la carretera del Libro I queda aprobada. Sin tope de palabras hasta terminar el libro editorialmente. El arco de Walt (licencia, torneo, condicional, pub) pasa a *Sombras de Poder*, porque ahí le da otro peso a su clímax con el Tasador; ubicación en el II PENDIENTE. Primer punto de giro: *La balanza* (12); *Auster* (17), primera respuesta. Paso 3 hecho como auditoría: ningún puente necesita prosa nueva. [[98_Agent_Handoff/sessions/2026-11-01_claude_paso3_saldos_carretera]].
-
-## 2026-11-01 — Hilo C: el Tasador, villano del Libro I
-
-**DECISIÓN DEL AUTOR:** Crowe es el villano del I; Varek, poder neutral que no coopera gratis (la enemistad nace en el II). Crowe aparece en persona en el Cap. 12 (cancha de la casa común, desde Chiara; ruin, no insidioso) y, con Kal preso, mete mano en el sur y los muchachos aceptan su dinero. Dario sigue como artífice oculto. Walt llega en moto y ve a Crowe sin ser visto; línea A + D. El dinero de Crowe paga deudas del barrio, no a Dario. **CANON:** con Chiara, Kal siempre reconoce el error; la lluvia en Bellandi Ridge vuelve en el II como discusión (ella, la ofendida) y lleva a Villa Candelaria. Cap. 21: sospecha sin certeza. Cap. 24: saldo de la cuota. **CANON:** en el II, Kal acepta el cargamento de Crowe. Plan: [[11_Books/Book_01_Mascaras_De_Cristal/00_Plan_Hilo_Tasador]].
-
-## 2026-11-01 — Carretera: fusión del Cap. 6
-
-**DECISIÓN DEL AUTOR:** el Cap. 6 *Sin llamar a nadie* (05b) va como **coda del Cap. 5** *Cliente y proveedor* (05a), con poda ligera (~5,600 palabras el fusionado) y conservando las dos salidas con Blake. El escalón **V-1** queda aprobado y entra tras la caseta (la dirección pide el nombre del responsable de Almendra). El 05b sale con `git rm`; lo podado va a `Escenas_Eliminadas/`. Ejecutada 2026-11-01: [[98_Agent_Handoff/sessions/2026-11-01_claude_fusion_05b_coda_05a]].

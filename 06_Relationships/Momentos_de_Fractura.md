@@ -10,6 +10,8 @@ Estos momentos no contradicen la regla dura de [[06_Relationships/Kal_y_Chiara]]
 
 ## F1 - La mentira bajo la lluvia
 
+> **NUEVO CAUCE — PARTE III (2026-11-08; [[98_Agent_Handoff/sessions/2026-11-08_claude_propagacion_parte_III]]):** F1 va en el nuevo 38 ([[11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/42_Nada|Nada]], POV Chiara), el vie 17 dic en la noche (calendario A). **Chiara ya sabe de la correa** desde Las Gemelas (nuevo 28): el reproche de Palermo es «para qué», no «quién» («No hacía falta que me dijeras quién llamó; sé quién te llama así. Pero no me dijiste para qué.»). Halbrook no se nombra. Literal: «—Nada.», «—Sí. Te mentí.», «Tenía que volver. Eso no cambió.».
+
 > **Bellandi Ridge bajo la lluvia, recuperado (DECISIÓN DEL AUTOR, 2026-11-01):** el motivo («La escena», abajo) vuelve como **discusión del Libro II, no como fractura**. Esta vez la ofendida es Chiara: Kal acepta el cargamento del Tasador. No hay tres días ni separación. Ver [[11_Books/Book_01_Mascaras_De_Cristal/00_Plan_Hilo_Tasador]] §Cuarta ronda.
 
 **Función:** primera fractura seria por una mentira de Chiara, ya dentro de la Parte III — Ardizzone.

@@ -1,5 +1,7 @@
 # Il Consorzio
 
+> **NUEVO CAUCE — PARTE III (2026-11-08; [[98_Agent_Handoff/sessions/2026-11-08_claude_propagacion_parte_III]]; prosa BORRADOR):** **atadura concreta de T20 (nuevo 33, CANON):** Valenti llama por la línea de Italia del despacho y le pasa a Chiara lo que guardaba Matteo para Italia («desde hoy lo guarda usted»; «Il Consorzio se entera de los viajes»; «Il Consorzio prefiere que esté en una sola mano. La de la casa»; «Le estoy comunicando un cambio de firmas»). El libro de las rutas sigue en la caja del Monarch. **Nuevo 34:** flores y tarjeta de cumpleaños, «*Auguri. La casa la recuerda en su día.*», con inicial *V.*. **Nuevo 36:** la Mesa es el lun 13 dic; Volpi, un beat callado contra la pared. **Nuevo 37:** Chiara le explica a Bonnie que responde ante la Mesa como cabeza de la casa Ardizzone («Eso va primero»). **Fuera de este bloque:** si Il Consorzio supo que las rutas salieron de la caja y eso causa la salida de Matteo es una decisión PENDIENTE del autor; no se propaga.
+
 > **CANON DEL AUTOR (2026-11-07):** en el Libro I es **respaldo y atadura** de Chiara: le responde a Italia por las consecuencias de la muerte de su padre y como cabeza de la familia Ardizzone; el deber va primero. Funda el conflicto del trato con Varek. Detalle: [[11_Books/Book_01_Mascaras_De_Cristal/00_Plan_Nuevo_Cauce]].
 
 *Ficha de Facción — el Consorcio*

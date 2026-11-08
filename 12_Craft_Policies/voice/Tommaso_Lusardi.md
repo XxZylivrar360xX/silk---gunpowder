@@ -48,6 +48,7 @@ Mira el anular, no la cara. Gira el anillo de sello; cuando deja de girarlo, va 
 - "Ya me contó la versión. La tuya, esta vez." (12)
 - "Usted ha dicho eso. Yo no." (24)
 - Conducta: "Tommaso no le dijo que ya lo tenía anotado." (22, narración: vigila él, no pregunta)
+- Conducta: no pregunta por Matteo en el 33; en el 34 pregunta por primera vez, de pie en la puerta del despacho, sin sentarse, mirando el anular y el cajón: «Lo que dice su carta. Que está con su hermano.» (34; nuevo cauce, 2026-11-08)
 
 ## Línea genérica a evitar
 

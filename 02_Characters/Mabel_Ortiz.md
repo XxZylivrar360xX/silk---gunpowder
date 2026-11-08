@@ -1,5 +1,7 @@
 # Mabel Ortiz
 
+> **NUEVO CAUCE — PARTE III (2026-11-08; [[98_Agent_Handoff/sessions/2026-11-08_claude_propagacion_parte_III]]; prosa BORRADOR, lo nuevo es DISEÑO salvo donde dice CANON):** **Acción de Gracias A2 (nuevo 35, [[11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/38_Al_Reves|Al revés]]; DECISIÓN DEL AUTOR 2026-11-08):** La Esquina con el cartel CERRADO — THANKSGIVING y platos gratis; **los pavos los paga Kal**; Mabel no le cobra y él no pregunta qué se celebra. Línea: «Para ella. Que sepa qué se celebra.». Viene de *Cuatro letras* (archivo 37, retirado) y se rescata en el 35; corrige la decisión anterior que la sacaba.
+
 > **Numeración:** desde 2026-10-22 el Libro I usa numeración corrida definitiva (56 caps.); este documento cita la numeración anterior. Correspondencia en [[11_Books/Book_01_Mascaras_De_Cristal/00_Book_Map]].
 
 *Seda y Pólvora — Ficha de Personaje*

@@ -30,3 +30,12 @@ Del norte o del centro, de despacho: el texto deja notar que no es el de los Ard
 ## Anclas
 
 Cap. 2 (archivo 02) («Il Consorzio ha decidido algo que le interesa», «Dirigir y observar. Nada más.»); cierre de la Parte I (archivo 21b); Cap. 45 (archivo 40, Palermo); Cap. 54 (archivo 49, Hotel Pacífica).
+
+## Muestras por teléfono y por escrito (nuevo cauce, 2026-11-08)
+
+- Abre con «Buenas noches, aquí» y con la ventana del despacho; no saluda por el nombre primero (33).
+- «Il Consorzio se entera de los viajes.» / «Il Consorzio prefiere que esté en una sola mano. La de la casa.» / «la misma casa, con menos gente adentro» (33).
+- «Le estoy comunicando un cambio de firmas.»: informa, no pide (33).
+- La ciudad como juicio estético, no como amenaza: «Génova es una ciudad difícil. Toda de escaleras, y de puertas cerradas.» Si suena a amenaza, se corta en «difícil» (33).
+- Cierra con el «¿Algo más?» / «Nada más.» de *Grazie* (33).
+- Por escrito: «*Auguri. La casa la recuerda en su día.*», firmada sólo con *V.* (34).

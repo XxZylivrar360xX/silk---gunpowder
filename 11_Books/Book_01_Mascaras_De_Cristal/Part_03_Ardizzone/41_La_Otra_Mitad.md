@@ -3,8 +3,8 @@ Nuevo cauce (Fase 4, 2026-11-07, terminal C, encargo [[98_Agent_Handoff/encargos
 Estado: BORRADOR. Prosa DISEÑO pendiente de lectura del autor. Versión anterior íntegra: [[11_Books/Book_01_Mascaras_De_Cristal/Escenas_Eliminadas/41_La_Otra_Mitad_Version_2026-11-07]] (allí queda el historial de cirugías: corrección del 2026-09-22, E7 del 2026-09-27, Frente 1 del 2026-10-06, Fabrizio ocupado del 2026-10-18, Nueva York del 2026-10-22, regla 05 del 2026-10-28). Sesión: [[98_Agent_Handoff/sessions/2026-11-07_claude_fase4_cap37_la_otra_mitad]].
 Decisiones del autor para esta reescritura (2026-11-07): extensión de «Reusa», sin estación nueva; **Matteo se fue por su hermano (Elio), no por el robo del Monarch** (CANON DEL AUTOR; se cobra en el Libro IV): Chiara sólo tiene la nota.
 Cambios DISEÑO de esta versión: (1) Il Consorzio como atadura: Chiara le explica a Bonnie que todavía responde ante la Mesa por lo que dejó la muerte de su padre y como cabeza de la casa Ardizzone; el deber primero, también antes que Kal. (2) La llamada de Palermo: Chiara ya sabe de la correa desde Las Gemelas (nuevo 32), así que sabe de dónde viene la llamada aunque Kal no se lo dijo; no nombra a Halbrook ante Bonnie. (3) La nota de Elio vuelve a aparecer en el despacho y la carpeta de Génova se ata a Elio. (4) La apertura ya no fija cuántas horas antes llegó Kal.
-Costura de apertura PROVISIONAL: depende del nuevo 36 (*Mecánico*, lineal, que absorbe la vuelta de Kal del archivo 39). Ojo: en el archivo 40 Chiara dice «Me quedo un par de días más», y la versión anterior de este capítulo la hacía aterrizar el mismo día que Kal; la apertura nueva no fija el intervalo hasta que el 36 lo decida.
-Costura PROVISIONAL (Bonnie): el contacto sale de las listas de seguridad del yate; depende del nuevo 35 (POV Kal), donde Bonnie y Mei-Lin se presentan con nombre.
+Costura de apertura RESUELTA (propagación de la Parte III, 2026-11-08): el 36 fijó el calendario A (Chiara aterriza el mié 15, el mismo día que Kal); «un día de pendientes» pasó a «una mañana». PENDIENTE (prosa nueva, no aplicada): tras «no se lo pedí tampoco», una frase del tipo «Las terminé esa misma tarde» que haga visible que no se quedó el par de días. Dependía del nuevo 36 (*Mecánico*, lineal, que absorbe la vuelta de Kal del archivo 39). Ojo: en el archivo 40 Chiara dice «Me quedo un par de días más», y la versión anterior de este capítulo la hacía aterrizar el mismo día que Kal; la apertura nueva no fija el intervalo hasta que el 36 lo decida.
+Costura RESUELTA (Bonnie) (propagación de la Parte III, 2026-11-08): el 35 conserva el beat del mesero y el cruce con Chiara. el contacto sale de las listas de seguridad del yate; depende del nuevo 35 (POV Kal), donde Bonnie y Mei-Lin se presentan con nombre.
 Costura de cierre: engancha con el nuevo 38 (*Nada*, F1), que abre con el rastreo de Bonnie.
 Protagonista: Chiara Bellandi (POV único, tercera persona cercana). Kal Mercer sólo por teléfono.
 Personajes con diálogo: Chiara Bellandi, Bonnie García, Kal Mercer (por teléfono), Fabrizio Rinaldi (por teléfono), un chofer del Monarch.
@@ -16,7 +16,7 @@ Se conserva literal: el cabello corto sin explicar; «Al Monarch. Torre Norte.»
 
 # Capítulo 37 — La otra mitad
 
-El sol ya se acostaba sobre Kingsley Field cuando el jet se detuvo al final de la pista, lejos de la terminal comercial por la que Kal había vuelto. Chiara había entrado al país por Nueva York, con un día de pendientes del casino de allá antes de seguir al oeste.
+El sol ya se acostaba sobre Kingsley Field cuando el jet se detuvo al final de la pista, lejos de la terminal comercial por la que Kal había vuelto. Chiara había entrado al país por Nueva York, con una mañana de pendientes del casino de allá antes de seguir al oeste.
 
 Chiara bajó la escalerilla ella sola, sin nadie detrás que anunciara nada.
 

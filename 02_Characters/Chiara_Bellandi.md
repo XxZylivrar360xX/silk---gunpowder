@@ -1,5 +1,7 @@
 # Chiara Bellandi
 
+> **NUEVO CAUCE — PARTE III (2026-11-08; [[98_Agent_Handoff/sessions/2026-11-08_claude_propagacion_parte_III]]; prosa BORRADOR, lo nuevo es DISEÑO salvo donde dice CANON):** **custodia (nuevo 33, CANON):** Valenti le pasa lo que Matteo guardaba para Italia («desde hoy lo guarda usted»; «una sola mano. La de la casa»); el libro de las rutas sigue en la caja del Monarch y ella firma en el escritorio de Matteo. Repasa candidatos a la filtración sin concluir (PENDIENTE). La causa de la salida de Matteo sigue PENDIENTE (decisión abierta del autor). **H16 en su POV (nuevo 34):** sabe que Kal hace trabajos nocturnos para Varek y no pregunta el detalle; atribuye la sangre a Varek y no la liga con la botella; las joyas de su madre van a la caja de acero del loft. En el 35 deja la carta contra la cafetera el jue 25 y le pregunta el nombre a Bonnie en el yate. **Calendario A (36–37):** dice «Me quedo un par de días más» y aterriza el mismo mié 15 en el jet, al atardecer; sabe de dónde viene la llamada de Kal sin que él se lo diga. En el 38 oye el nombre de Mei-Lin y lo guarda; en F1 el reproche es «para qué», no «quién». No sabe del vínculo Crowe–Halbrook.
+
 > **Numeración:** desde 2026-10-22 el Libro I usa numeración corrida definitiva (56 caps.); este documento cita la numeración anterior. Correspondencia en [[11_Books/Book_01_Mascaras_De_Cristal/00_Book_Map]].
 
 *Seda y Pólvora — Ficha de Personaje*

@@ -1,5 +1,7 @@
 # Bonnie García
 
+> **NUEVO CAUCE — PARTE III (2026-11-08; [[98_Agent_Handoff/sessions/2026-11-08_claude_propagacion_parte_III]]; prosa BORRADOR, lo nuevo es DISEÑO salvo donde dice CANON):** **Nuevo 35:** se queda el beat del mesero («Por babor…») en el yate; Kal ve desde lejos que Chiara le pregunta el nombre. «Roma» sólo con Nadir y Bonnie. **Nuevo 37:** Chiara la busca por la lista de seguridad del yate y le cuenta Palermo; Bonnie le habla de usted, con frases cortas, y lee a la gente por hacia dónde mira («Allá también tiene jefe, entonces»). **Nuevo 38 (CANON, opción a):** en la llamada le dice a Chiara que Mei-Lin duerme en el Patio y que «lo de allá arriba se deshizo»; no nombra a Boone ni a la banda; le preguntó dos veces y no va a llevar a nadie hasta donde duerme. **No hay ficha de voz de Bonnie** en `12_Craft_Policies/voice/` (los rasgos de arriba salen de la prosa).
+
 > **Numeración:** desde 2026-10-22 el Libro I usa numeración corrida definitiva (56 caps.); este documento cita la numeración anterior. Correspondencia en [[11_Books/Book_01_Mascaras_De_Cristal/00_Book_Map]].
 
 > **CANON DEL AUTOR (2026-10-02):** el personaje antes llamado **Riley Bennett** se llama ahora **Bonnie García** (cambio de nombre y apellido; se evita el guiño a *The Vampire Diaries*). Renombrado global en el vault.

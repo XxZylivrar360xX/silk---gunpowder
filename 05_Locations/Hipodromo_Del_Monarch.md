@@ -1,5 +1,7 @@
 # Hipódromo del Monarch
 
+> **NUEVO CAUCE — PARTE III (2026-11-08; [[98_Agent_Handoff/sessions/2026-11-08_claude_propagacion_parte_III]]):** Stella llega a las caballerizas del Monarch en el nuevo 34 ([[11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/36_Tambien_Las_Mananas|También las mañanas]], H16, POV Chiara). **No la ponen en el box del fondo.** Héctor cuenta el traslado sentado en una paca; Chiara le pone la mano en la base de la crin (el gesto del cuello, cobrado). Sin persecución en escena.
+
 *Ficha de Lugar*
 
 **Qué es:** pista de carreras y caballerizas, propiedad de [[03_Factions/El_Casino]]. Chiara lo administra como parte del negocio, sin que sea suyo de la forma en que Bellandi Ridge sí lo es.

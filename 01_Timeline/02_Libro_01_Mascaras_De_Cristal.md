@@ -155,6 +155,8 @@ Dos procesos simultáneos:
 
 ### Apertura de Parte III — el ritual del *Ciao* y la salida de Matteo
 
+> **NUEVO CAUCE — PARTE III (2026-11-08; [[98_Agent_Handoff/sessions/2026-11-08_claude_propagacion_parte_III]]):** se ejecuta en el nuevo 33 ([[11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/35_Sin_Fecha_De_Regreso|Sin fecha de regreso]], POV Chiara). La **regla dura** (no concluir conspiración) se mantiene para Kal, que sólo conoce la versión de Elio. Se añaden la **llamada de Valenti** y la **custodia** de lo que Matteo guardaba para Italia (CANON). «Te veo ahora, amore mio» queda repartido: «Te veo ahora» lo dice Kal y «Aquí espero, amore mio» lo dice Chiara. **PENDIENTE (decisión del autor):** si Chiara intuye que la salida es el cobro por las rutas o si Matteo se fue por Elio y no por el robo; no se fija aquí.
+
 > **Escrito en prosa (2026-09-20, Claude Code):** [[11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/35_Sin_Fecha_De_Regreso|Cap. 40 (archivo 35) — Sin fecha de regreso]], `Estado: BORRADOR`, abre la Parte III.
 
 > **CANON DEL AUTOR (2026-09-20).** Chiara llama a Kal mientras él está en [[03_Factions/Almendra_Towing|Almendra Towing]] con Nadir. Es la primera llamada telefónica a dos entre Kal y Chiara desde que formalizaron en "Mi pareja" (Cap. 39 (archivo 34), que fue a tres, con Nadir en altavoz, y explícitamente no dramatizó este ritual). Aquí nace:
