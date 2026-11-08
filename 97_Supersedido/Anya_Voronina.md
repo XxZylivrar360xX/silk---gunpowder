@@ -1,3 +1,12 @@
+# Anya Voronina (retirada)
+
+- **Retirado:** 2026-11-07, el autor.
+- **Lo sustituye:** [[02_Characters/Dana_Collins]] hereda el papel de ex amante de Kal (relación física, de antes de la cárcel, cuando él no creía en el amor), la línea «Llegará el día en que llegue la persona que te haga creer», «Ojos azules» y la escena de la barra del Monarch (Cap. 40, archivo 35). Los papeles de Nadir los consiguió una fixer rusa **sin nombre y sin romance** (Caps. 3 y 25). F4 (Año Nuevo en Washington) queda **PENDIENTE de rediseño**.
+- **Por qué:** explica mejor por qué Collins conduce así en *La teniente* (Cap. 10) y da sentido al coqueteo de la comisaría (Cap. 27): eran viejos amantes. Hilo más interesante que la rusa.
+- **Texto original:** abajo, tal cual.
+
+---
+
 # Anya Voronina
 
 > **Numeración:** desde 2026-10-22 el Libro I usa numeración corrida definitiva (56 caps.); este documento cita la numeración anterior. Correspondencia en [[11_Books/Book_01_Mascaras_De_Cristal/00_Book_Map]].
