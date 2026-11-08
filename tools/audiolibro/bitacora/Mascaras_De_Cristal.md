@@ -2,7 +2,7 @@
 
 Generada por `tools/audiolibro/build_audiobook.py`; no editar a mano. Tras cambiar la prosa de un capítulo, correr `--estado` para marcarlo PENDIENTE; la bandera se cierra sola cuando el script regenera ese audio.
 
-Actualizada: 2026-11-08 03:29. Al día: 29 de 50.
+Actualizada: 2026-11-08 11:14. Al día: 29 de 50.
 
 ## Pendientes
 
@@ -13,11 +13,11 @@ Actualizada: 2026-11-08 03:29. Al día: 29 de 50.
 | 12 | Dos sillas vacías | PENDIENTE | cambió la prosa | 2026-11-07 22:48 |
 | 13 | Roma Atrii | PENDIENTE | cambió la prosa | 2026-11-07 23:10 |
 | 14 | La regla del teléfono | SIN AUDIO |  | 2026-11-08 01:33 |
-| 16 | Yo lo llevo | PENDIENTE | cambió la prosa | 2026-11-08 02:23 |
-| 18 | Le quedé debiendo | PENDIENTE | cambió la prosa | 2026-11-08 02:45 |
-| 19 | El día nublado | PENDIENTE | cambió la prosa | 2026-11-08 03:02 |
-| 20 | Lo pequeño | PENDIENTE | cambió la prosa | 2026-11-08 03:27 |
-| 22 | Grazie | PENDIENTE | cambió la prosa | 2026-11-07 23:10 |
+| 15 | Yo lo llevo | SIN AUDIO |  | 2026-11-08 11:14 |
+| 16 | Le quedé debiendo | SIN AUDIO |  | 2026-11-08 11:14 |
+| 17 | El día nublado | SIN AUDIO |  | 2026-11-08 11:14 |
+| 18 | Lo pequeño | SIN AUDIO |  | 2026-11-08 11:14 |
+| 19 | Grazie | SIN AUDIO |  | 2026-11-08 11:14 |
 | 23 | La cifra | PENDIENTE | cambió la prosa | 2026-11-07 19:49 |
 | 27 | Oveja entre lobos | PENDIENTE | cambió la prosa | 2026-11-07 19:49 |
 | 28 | Vienes conmigo | PENDIENTE | cambió la prosa | 2026-11-07 19:49 |
@@ -48,11 +48,11 @@ Actualizada: 2026-11-08 03:29. Al día: 29 de 50.
 | 12 | Dos sillas vacías | PENDIENTE | 2026-11-01 |
 | 13 | Roma Atrii | PENDIENTE | 2026-11-01 |
 | 14 | La regla del teléfono | SIN AUDIO | 2026-11-05 |
-| 16 | Yo lo llevo | PENDIENTE | 2026-11-01 |
-| 18 | Le quedé debiendo | PENDIENTE | 2026-11-01 |
-| 19 | El día nublado | PENDIENTE | 2026-11-02 |
-| 20 | Lo pequeño | PENDIENTE | 2026-11-01 |
-| 22 | Grazie | PENDIENTE | 2026-11-01 |
+| 15 | Yo lo llevo | SIN AUDIO | 2026-11-01 |
+| 16 | Le quedé debiendo | SIN AUDIO | 2026-11-01 |
+| 17 | El día nublado | SIN AUDIO | 2026-11-02 |
+| 18 | Lo pequeño | SIN AUDIO | 2026-11-01 |
+| 19 | Grazie | SIN AUDIO | 2026-11-01 |
 | 23 | La cifra | PENDIENTE | 2026-11-01 |
 | 24 | Con su proveedor | AL DIA | 2026-11-01 |
 | 25 | Bajo juramento | AL DIA | 2026-11-01 |
@@ -87,6 +87,11 @@ Actualizada: 2026-11-08 03:29. Al día: 29 de 50.
 
 ## Historial
 
+- 2026-11-08 11:14 · Cap. 19 (21b_Grazie.md) · audio borrado
+- 2026-11-08 11:14 · Cap. 18 (20_El_Mirador.md) · audio borrado
+- 2026-11-08 11:14 · Cap. 17 (18_El_Dia_Nublado.md) · audio borrado
+- 2026-11-08 11:14 · Cap. 16 (17_Cuentas_Claras.md) · audio borrado
+- 2026-11-08 11:14 · Cap. 15 (15_El_Porton.md) · audio borrado
 - 2026-11-08 03:27 · Cap. 34 (36_Tambien_Las_Mananas.md) · audio borrado
 - 2026-11-08 03:27 · Cap. 20 (20_El_Mirador.md) · audio pendiente: cambió la prosa
 - 2026-11-08 03:02 · Cap. 35 (38_Al_Reves.md) · audio borrado

@@ -11,6 +11,17 @@
 3. **CANON DEL AUTOR — La trenza:** el romance de Kal y Chiara crece dentro de los acontecimientos de la trama, no en eventos aislados. Las consecuencias de cada evento tienen que mover a la vez la relación y la historia principal. Si no, son dos libros viviendo en uno.
 4. **CANON DEL AUTOR — Pertenencia:** se evalúa qué arcos pertenecen al Libro I y cuáles no. Se acepta retirar capítulos o reconstruir desde los cimientos: un cauce nuevo que viaje de inicio a fin.
 
+## Guardas de vigilancia (CANON DEL AUTOR, 2026-11-08)
+
+El autor suscribe la revisión de ChatGPT ([[98_Agent_Handoff/ChatGPT/2026-11-08_revision_develop_nuevo_cauce_y_sombras]]). Se revisan en cada capítulo reconstruido:
+
+1. **POV de quien más puede perder**, no de quien más actúa. La regla de un POV no es camisa de fuerza: si la interioridad de Chiara es el acontecimiento, el capítulo es suyo aunque Kal tome las decisiones visibles.
+2. **Medida del éxito:** cuánto ganan Kal y Chiara como protagonistas, no cuántos capítulos salen.
+3. **Crowe no es la causa de todo:** las demás amenazas (Varek, Lucía, la calle, Il Consorzio) conservan motivos propios.
+4. **Dana Collins no es la suma de las funciones de Anya:** identidad de policía, contradicciones y motivos independientes de Kal.
+5. **Trenza:** el conflicto criminal transforma la relación, no corre a su lado.
+6. **Ningún capítulo se sella por cerrar la Fase 4.** Antes de otra cirugía estructural, lectura corrida de los nuevos 11–19 (transiciones *La balanza* → *Dos sillas vacías* → *Roma Atrii* → arco de Héctor).
+
 ## Segunda tanda: fuerzas del Libro I (CANON DEL AUTOR, 2026-11-07)
 
 Sustituye la columna de la carretera («dos pasados cobran la casa; Varek, cobrador del medio») y las filas de Varek, Il Consorzio, Halbrook y Tasador de la tabla de arcos de abajo.

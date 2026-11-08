@@ -1,0 +1,6 @@
+# 2026-11-08 — Claude: guardas de vigilancia del reporte de ChatGPT
+
+- **Fuente:** revisión de `develop` hecha por ChatGPT (commits tras `0a70efc`, hasta `a3989ed`), pegada por el autor. El autor la suscribe completa. Archivada: [[98_Agent_Handoff/ChatGPT/2026-11-08_revision_develop_nuevo_cauce_y_sombras]].
+- **Cambio (CANON DEL AUTOR):** secciones «Guardas de vigilancia» en [[11_Books/Book_01_Mascaras_De_Cristal/00_Plan_Nuevo_Cauce]] (POV de quien más puede perder; éxito medido por lo que ganan Kal y Chiara; Crowe no causa todo; Dana con identidad propia; nada se sella por cerrar la Fase 4; lectura corrida de 11–19 antes de otra cirugía) y en [[11_Books/Book_02_Sombras_De_Poder/00_Plan_Cuatro_Partes]] (agencia de Chiara; Stavanger sin mecanismo visible; Mei-Lin construida antes de F2; regla del hospital arraigada; dolor humano sobre logística en el doble golpe del III; Bonnie en Italia = historial). Eje añadido a la Brújula.
+- **No toca prosa ni canon de trama.** Ningún borrador cambia de estado.
+- **Abierto (decide el autor):** la recomendación de «no abrir más modificaciones estructurales» frente a la Fase 4 en curso (renumerar la Parte I y reconstruir lo que falta de II y III) y la memoria de «leer al final de la Fase 4». ¿Pausa la Fase 4 para una lectura corrida de 11–19, o sigue y la lectura queda como primer control al terminar la Parte I?

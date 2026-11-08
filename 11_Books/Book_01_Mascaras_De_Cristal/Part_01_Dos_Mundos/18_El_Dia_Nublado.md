@@ -1,14 +1,14 @@
 <!--
 Reconstruido 2026-11-08, Fase 4 del nuevo cauce (nuevo Cap. 17, T6, POV Kal): [[11_Books/Book_01_Mascaras_De_Cristal/00_Plan_Nuevo_Cauce]] (tercera tanda, punto 10: H4, el secreto como precio) y [[11_Books/Book_01_Mascaras_De_Cristal/00_Mapa_Cauce_Cap11_Camp_Alder]]. Plan: [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/00_Plan_Cap17_El_Dia_Nublado_POV_Kal]]. Versión anterior íntegra (TERMINADO desde 2026-11-02, con su historial de cirugías, mixta de POV): [[11_Books/Book_01_Mascaras_De_Cristal/Escenas_Eliminadas/18_El_Dia_Nublado_Version_2026-11-08]] (git `8dfc295`).
 Decisiones del autor para esta reconstrucción (2026-11-08, las cuatro en la opción recomendada): Kal entiende el precio por la barreta de Walt (Crowe no inventa, guarda) y por «unas familias que se sentaban a una misma mesa», sin nombrar a Alessio ni ligarlo a Tommaso, y decide no saber más; la misa de agosto y «la de las once» se quedan fuera (Kal no sabe nada); de los hilos del 15 y el 16 sólo entra un rastro de la chaqueta café (Chiara revisa la calle dos veces desde la terraza y Kal no pregunta), y la llave y el billar se guardan; abre con el nombre que Kal le debe a Irene.
-Estado: BORRADOR. Prosa DISEÑO pendiente de lectura del autor. Se conservan literales las líneas canon de H4 («Esto también es nuevo para mí», «Si quieres marcharte, yo lo entenderé», «Anda, hay que subir»), la conversación del miedo, la línea de Kal a Chiara dormida y el cierre. Numeración: el encabezado sigue diciendo «Capítulo 19» hasta renumerar la Parte I al cerrarla.
+Estado: BORRADOR. Prosa DISEÑO pendiente de lectura del autor. Se conservan literales las líneas canon de H4 («Esto también es nuevo para mí», «Si quieres marcharte, yo lo entenderé», «Anda, hay que subir»), la conversación del miedo, la línea de Kal a Chiara dormida y el cierre. Numeración: renumerado a «Capítulo 17» el 2026-11-08 al cerrar la Parte I (antes «Capítulo 19»).
 Protagonistas: Kal Mercer (POV), Chiara Bellandi. Apariciones: Enzo, Walt (al teléfono del taller), un dependiente de la boutique y una empleada del campo (sin nombre). Mencionados: Irene, el del billar, Héctor, Crowe (por la barreta), un rubio (Blake, sin nombre).
 Ventana temporal: de los días después del alta de Héctor (nuevo 16) a un jueves de junio; termina esa misma noche en el penthouse. Antes de H11 (El mirador).
 Lugares: Almendra Towing y la calle de servicio detrás del Monarch (apertura), terraza de Il Gelsomino, boutique de golf en el norte, campo de golf al norte de San Aurelio, carretera del norte, The Monarch / el penthouse.
 Función: ejecutar [[06_Relationships/Hitos]] (#H4 — El día nublado) en un solo POV. Kal anda cazando un nombre para Irene y en el golf no le pide a Chiara el suyo; deduce que ella mató al marido y entiende que eso es lo que alguien que guarda puede cobrarle; desde ahí la cuida no preguntando (se cobra en el «No lo abras» del 22b). Sin beso, sin etiqueta.
 -->
 
-# Capítulo 19 — El día nublado
+# Capítulo 17 — El día nublado
 
 El del billar no llamó.
 

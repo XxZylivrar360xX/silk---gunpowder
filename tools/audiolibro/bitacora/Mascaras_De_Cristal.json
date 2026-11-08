@@ -113,44 +113,44 @@
       "desde": "2026-11-08 01:33"
     },
     "15_El_Porton.md": {
-      "capitulo": 16,
+      "capitulo": 15,
       "titulo": "Yo lo llevo",
-      "estado": "PENDIENTE",
-      "motivo": "cambió la prosa",
+      "estado": "SIN AUDIO",
+      "motivo": "",
       "audio": "2026-11-01",
-      "desde": "2026-11-08 02:23"
+      "desde": "2026-11-08 11:14"
     },
     "17_Cuentas_Claras.md": {
-      "capitulo": 18,
+      "capitulo": 16,
       "titulo": "Le quedé debiendo",
-      "estado": "PENDIENTE",
-      "motivo": "cambió la prosa",
+      "estado": "SIN AUDIO",
+      "motivo": "",
       "audio": "2026-11-01",
-      "desde": "2026-11-08 02:45"
+      "desde": "2026-11-08 11:14"
     },
     "18_El_Dia_Nublado.md": {
-      "capitulo": 19,
+      "capitulo": 17,
       "titulo": "El día nublado",
-      "estado": "PENDIENTE",
-      "motivo": "cambió la prosa",
+      "estado": "SIN AUDIO",
+      "motivo": "",
       "audio": "2026-11-02",
-      "desde": "2026-11-08 03:02"
+      "desde": "2026-11-08 11:14"
     },
     "20_El_Mirador.md": {
-      "capitulo": 20,
+      "capitulo": 18,
       "titulo": "Lo pequeño",
-      "estado": "PENDIENTE",
-      "motivo": "cambió la prosa",
+      "estado": "SIN AUDIO",
+      "motivo": "",
       "audio": "2026-11-01",
-      "desde": "2026-11-08 03:27"
+      "desde": "2026-11-08 11:14"
     },
     "21b_Grazie.md": {
-      "capitulo": 22,
+      "capitulo": 19,
       "titulo": "Grazie",
-      "estado": "PENDIENTE",
-      "motivo": "cambió la prosa",
+      "estado": "SIN AUDIO",
+      "motivo": "",
       "audio": "2026-11-01",
-      "desde": "2026-11-07 23:10"
+      "desde": "2026-11-08 11:14"
     },
     "22a_La_Cifra.md": {
       "capitulo": 23,
@@ -3530,6 +3530,31 @@
     [
       "2026-11-08 03:27",
       "Cap. 34 (36_Tambien_Las_Mananas.md)",
+      "audio borrado"
+    ],
+    [
+      "2026-11-08 11:14",
+      "Cap. 15 (15_El_Porton.md)",
+      "audio borrado"
+    ],
+    [
+      "2026-11-08 11:14",
+      "Cap. 16 (17_Cuentas_Claras.md)",
+      "audio borrado"
+    ],
+    [
+      "2026-11-08 11:14",
+      "Cap. 17 (18_El_Dia_Nublado.md)",
+      "audio borrado"
+    ],
+    [
+      "2026-11-08 11:14",
+      "Cap. 18 (20_El_Mirador.md)",
+      "audio borrado"
+    ],
+    [
+      "2026-11-08 11:14",
+      "Cap. 19 (21b_Grazie.md)",
       "audio borrado"
     ]
   ]

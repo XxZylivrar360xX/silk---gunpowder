@@ -4,6 +4,8 @@ El detalle se guarda una sola vez en notas de sesión. Este archivo es navegaci�
 
 ## Sesiones recientes
 
+- 2026-11-08: Parte I del nuevo cauce cerrada (nuevos 11–19) y renumerada en encabezados, Book_Map y CHAPTER_STATUS; copia de Drive de *Roma Atrii* a Escenas_Eliminadas: [[98_Agent_Handoff/sessions/2026-11-08_claude_renumeracion_parte_I]]
+- 2026-11-08: el autor suscribe la revisión de ChatGPT; guardas de vigilancia (CANON DEL AUTOR) en el plan del nuevo cauce y en el de *Sombras de Poder*: [[98_Agent_Handoff/sessions/2026-11-08_claude_guardas_chatgpt_cauce_y_sombras]]
 - 2026-11-08: Fase 4: nuevo Cap. 18 *Lo pequeño* = *Lo pequeño* + *El primer huésped* en POV Kal (BORRADOR, DISEÑO; el archivo 21 queda como marcador); H11 desde Kal, el imán al refrigerador del loft, Marisol se abre con Chiara (CANON en la función): [[98_Agent_Handoff/sessions/2026-11-08_claude_fase4_cap18_lo_pequeno]]
 - 2026-11-08: Fase 4: nuevo Cap. 17 *El día nublado* en un solo POV, el de Kal (BORRADOR, DISEÑO); H4 con el secreto como precio: Kal decide no saber más; rastro de la chaqueta café (CANON en la función): [[98_Agent_Handoff/sessions/2026-11-08_claude_fase4_cap17_el_dia_nublado]]
 - 2026-11-08: Fase 4: nuevo Cap. 16 *Le quedé debiendo* en POV Kal (BORRADOR, DISEÑO); crece con el billar de atrás del Monarch, donde el joven de Crowe fue a confirmar la trampa; la llave del portón la tiene «la señora» (CANON en la función): [[98_Agent_Handoff/sessions/2026-11-08_claude_fase4_cap16_le_quede_debiendo]]

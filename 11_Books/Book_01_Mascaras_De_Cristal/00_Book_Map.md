@@ -9,6 +9,8 @@
 > **Partes:** I — *Dos Mundos*, Caps. 1–22 (archivos 01–21b); II — *Con peores personas he tratado*, Caps. 23–39 (22a–34); III — *Ardizzone*, Caps. 40–56 (35–50b). Arco final sin Kal: 49–56 (44–50b). «—Ciao, bella.» cierra el 55; el 56 es el desenlace. Primer punto de giro: Cap. 11, *La balanza*; primera respuesta: Cap. 14, *Auster*.
 > **Convención histórica:** los documentos recientes fechados antes del 2026-11-01 citan la numeración de 60 (2026-10-29), salvo indicación de una numeración anterior; las notas fechadas de este mapa, auditorías, sesiones y planes conservan la numeración de su época. En particular, la numeración de 56 del 2026-10-22 **no es** la numeración del 2026-11-01. La persecución con Collins (08b, 2026-10-23), el robo del Monarch (22a–22b, 2026-10-28) y *Por su cuenta* más la separación de *Vienes conmigo* (2026-10-29) produjeron las etapas intermedias de 57, 58, 59 y 60 capítulos. En las referencias operativas y las aclaraciones «hoy» de este mapa rige la numeración del 2026-11-01.
 
+> **PARTE I RENUMERADA AL NUEVO CAUCE (2026-11-08):** al cerrar la Fase 4 de la Parte I, sus filas usan ya la numeración del [[11_Books/Book_01_Mascaras_De_Cristal/00_Mapa_Cauce_Cap11_Camp_Alder]] (Caps. 1–19; los marcadores fundidos van con «—»). Las Partes II y III conservan aquí la numeración de 56 hasta que se renumeren al cerrar la suya (hay un hueco 20–22 mientras tanto). Sesión: [[98_Agent_Handoff/sessions/2026-11-08_claude_renumeracion_parte_I]].
+
 | Cap. | Archivo | Título |
 |---|---|---|
 | 1 | `01` | Un hombre de negocios intachable |
@@ -23,16 +25,16 @@
 | 10 | `08b` | La teniente |
 | 11 | `09` | La balanza |
 | 12 | `10` | Dos sillas vacías |
-| 13 | `12` | Roma Atrii (desde 2026-11-07, fusión con *Auster* en POV Chiara; BORRADOR) |
-| 14 | `13` | ~~Auster~~ (fundido en el 13 el 2026-11-07; el archivo queda como marcador `EPUB: EXCLUDE`) |
-| 15 | `14` | La regla del teléfono (desde 2026-11-07, con lo de Kal en *El sobre rojo*, POV Kal; nuevo 14; BORRADOR) |
-| 16 | `15` | Yo lo llevo (desde 2026-11-08, con el domingo y el coche de *El sobre rojo*, POV Chiara; nuevo 15; BORRADOR) |
-| 17 | `16` | ~~El sobre rojo~~ (fundido en el 14 el 2026-11-07; el coche, en el nuevo 15 desde el 2026-11-08; marcador `EPUB: EXCLUDE`) |
-| 18 | `17` | Le quedé debiendo (desde 2026-11-08, en POV Kal con el billar de atrás del Monarch; nuevo 16; BORRADOR) |
-| 19 | `18` | El día nublado (desde 2026-11-08, en un solo POV, el de Kal, con el secreto como precio; nuevo 17; BORRADOR) |
-| 20 | `20` | Lo pequeño (desde 2026-11-08, fusión con *El primer huésped* en POV Kal: H11 y la madrugada de Marisol; nuevo 18; BORRADOR) |
-| 21 | `21` | ~~El primer huésped~~ (fundido en el 20 el 2026-11-08; el archivo queda como marcador `EPUB: EXCLUDE`) |
-| 22 | `21b` | Grazie |
+| 13 | `12` | Roma Atrii (fusión con *Auster* en POV Chiara, 2026-11-07; BORRADOR) |
+| — | `13` | ~~Auster~~ (fundido en el 13; marcador `EPUB: EXCLUDE`) |
+| 14 | `14` | La regla del teléfono (con lo de Kal en *El sobre rojo*, POV Kal; BORRADOR) |
+| 15 | `15` | Yo lo llevo (con el domingo y el coche de *El sobre rojo*, POV Chiara; BORRADOR) |
+| — | `16` | ~~El sobre rojo~~ (fundido en el 14 y el 15; marcador `EPUB: EXCLUDE`) |
+| 16 | `17` | Le quedé debiendo (POV Kal, con el billar de atrás del Monarch; BORRADOR) |
+| 17 | `18` | El día nublado (un solo POV, el de Kal; BORRADOR) |
+| 18 | `20` | Lo pequeño (fusión con *El primer huésped* en POV Kal: H11 y la madrugada de Marisol; BORRADOR) |
+| — | `21` | ~~El primer huésped~~ (fundido en el 18; marcador `EPUB: EXCLUDE`) |
+| 19 | `21b` | Grazie (POV Chiara; cierra la Parte I; BORRADOR) |
 | 23 | `22a` | La cifra |
 | 24 | `22b` | Con su proveedor |
 | 25 | `24` | Bajo juramento |

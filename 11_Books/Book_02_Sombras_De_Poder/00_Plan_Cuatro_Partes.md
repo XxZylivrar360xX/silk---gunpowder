@@ -17,6 +17,18 @@
 - Chiara: `administrar → estructurar → absorber funciones → sobrevivir pérdidas → construir futuro`. Cada vez tiene más poder y menos gente alrededor; se siente, no se verbaliza pronto.
 - **Chiara, motor (CANON DEL AUTOR, 2026-11-07):** protege lo que empezó a amar (Kal y los chicos) porque percibe que todo lo que llega se va o muere, y eso alimenta su espiral de descenso. Cada uno en su frente; a veces no alcanza, y Kal lee que ella «no es feliz». Entidades de poder que funcionan juntas pero separadas. Ver [[02_Characters/Chiara_Bellandi]].
 - Cierre: **Halbrook tiene institución. Dario tiene mafia. Kal tiene calle.** Ninguno puede crecer sin invadir a los otros, y Elenna llega en el peor momento posible.
+- **Eje (2026-11-08):** Kal construye un lugar donde otros pueden pertenecer; Chiara intenta impedir que ese lugar pierda a quienes ama.
+
+## Guardas de vigilancia (CANON DEL AUTOR, 2026-11-08)
+
+El autor suscribe la revisión de ChatGPT ([[98_Agent_Handoff/ChatGPT/2026-11-08_revision_develop_nuevo_cauce_y_sombras]]). Tres hilos protegidos: **progresión emocional de Chiara, construcción de Mei-Lin antes de F2 y camino a Stavanger.**
+
+1. **Chiara no sólo sufre pérdidas:** sigue decidiendo, imponiendo condiciones, equivocándose y mandando. La tristeza convive con el mando; no lo reemplaza. La distancia con Kal no tiene culpable.
+2. **Stavanger sin mecanismo visible:** las siembras previas deben leerse como vida cotidiana, no como preparación de la noche.
+3. **Mei-Lin, querida antes de morir:** desarrollo suficiente en los Libros I y II para que F2 devaste, no sólo entristezca.
+4. **Causalidad de F2:** la regla de no ir al hospital desde una operación se arraiga antes (con casos previos); la hemorragia y los tiempos son verosímiles sin volver torpes a todos ante una emergencia.
+5. **Voto de Ceniza, doble golpe de Halbrook:** que la logística (falsos agentes, colores de bandas, maniobra política) no tape el dolor humano de Trix e Iris.
+6. **Bonnie en Italia:** las menciones antiguas son historial, no canon (vigente: Boston); se limpian en una auditoría de continuidad posterior.
 
 ## Las cuatro Partes
 

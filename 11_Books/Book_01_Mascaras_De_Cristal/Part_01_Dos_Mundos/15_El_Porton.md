@@ -7,10 +7,10 @@ Ventana temporal: el fin de semana del infarto de Héctor (H10). Marco: el domin
 Lugares: Hospital Santa Aurelia (Calle Corona), calle de la casa de Héctor en La Almendra (vulcanizadora de la esquina, panadería de enfrente), The Monarch Casino & Hotel, La Casa (loft de Kal), Puente de Piedra.
 Función: Chiara salva a Héctor y el barrio empieza a pagarle a ella lo que le pagaba a Kal: la llave, el pan, el termo. El hombre de Crowe lo ve pasar de mano en mano. Ella se lo guarda y, en el coche, le pregunta a Kal por el campamento.
 Apertura por residuo: «Voy por algo de tomar» del 14; Chiara le da el cuarto a Kal y el termo que vuelve con ella «sin decir de dónde lo había sacado» tiene dueño.
-Numeración: el encabezado sigue diciendo «Capítulo 16» hasta renumerar la Parte I al cerrarla.
+Numeración: renumerado a «Capítulo 15» el 2026-11-08 al cerrar la Parte I (antes «Capítulo 16»).
 -->
 
-# Capítulo 16 — Yo lo llevo
+# Capítulo 15 — Yo lo llevo
 
 Chiara emparejó la puerta del cuarto sin cerrarla del todo y no se quedó a escuchar.
 

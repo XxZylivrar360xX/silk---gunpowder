@@ -1,14 +1,14 @@
 <!--
 Reconstruido 2026-11-08, Fase 4 del nuevo cauce (nuevo Cap. 16, T5, POV Kal): [[11_Books/Book_01_Mascaras_De_Cristal/00_Plan_Nuevo_Cauce]] y [[11_Books/Book_01_Mascaras_De_Cristal/00_Mapa_Cauce_Cap11_Camp_Alder]]. Plan: [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/00_Plan_Cap16_Le_Quede_Debiendo_POV_Kal]]. Versión anterior íntegra (TERMINADO, con su historial de cirugías): [[11_Books/Book_01_Mascaras_De_Cristal/Escenas_Eliminadas/17_Cuentas_Claras_Version_2026-11-08]] (git `3d26627`).
 Decisiones del autor para esta reconstrucción (2026-11-08, las cinco en la opción recomendada): el capítulo crece con el billar de atrás del Monarch, y la reunión en casa de Héctor se queda; en el billar, la mano de Crowe se ve en el joven que fue el sábado a preguntar si «los dos de la Almendra» habían vuelto, pidió agua y no se la tomó (Kal no sabe leerlo; quien les pasó el rumor sigue siendo Mei-Lin, a quien Danny cubre, y se mantiene C-2); el candado del portón y «La llave la tiene la señora» salen de lado; Nadir le cobra a Kal en una línea el teléfono apagado («Pero tú te ibas al cerro con el teléfono apagado»).
-Estado: BORRADOR. Prosa DISEÑO pendiente de lectura del autor. Numeración: el encabezado sigue diciendo «Capítulo 18» hasta renumerar la Parte I al cerrarla.
+Estado: BORRADOR. Prosa DISEÑO pendiente de lectura del autor. Numeración: renumerado a «Capítulo 16» el 2026-11-08 al cerrar la Parte I (antes «Capítulo 18»).
 Protagonistas: Kal Mercer (POV), Walt Keegan, Irene Salcedo, Héctor Navarro, Nadir Amrani, Daniel Hayes. Apariciones: Tomás (hombre de Irene), el patrón de la vulcanizadora y la panadera (sin nombre), el del billar (sin nombre). Mencionados: Chiara («la señora»), el joven de Crowe (sin nombre, por boca del del billar), Crowe (el Tasador).
 Ventana temporal: del lunes después del domingo del infarto (nuevo 15) al jueves en que Héctor vuelve a su casa. Antes de H4 (El día nublado).
 Lugares: Almendra Towing (puerta del taller), Canal Seco (territorio de La Ronda del Canal), calle de la casa de Héctor (vulcanizadora, panadería, portón), casa de Héctor, billar de la calle de servicio detrás del Monarch.
 Función: Kal paga la bodega sin Héctor y queda debiéndole a Irene un nombre; ve de lado que el barrio le está pagando a Chiara; la sospecha cae por costumbre en el Tasador, pero el canal de Irene no es calle; en el billar, el lector ve la mano de Crowe y Kal se lleva un vaso de agua que no sabe leer.
 -->
 
-# Capítulo 18 — Le quedé debiendo
+# Capítulo 16 — Le quedé debiendo
 
 El lunes, a las seis y diez, Kal volvió a marcar desde el patio del taller, con el café todavía sin tocar sobre el capó de la grúa chica. *Nadir. Deja recado; si es de dinero, la cifra primero.* Colgó antes del tono. Danny ni siquiera tenía buzón: sonaba hasta cortarse.
 

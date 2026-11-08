@@ -4,7 +4,7 @@ Actualizado: 2026-11-08. Máximo 800 palabras. **Numeración vigente: 56 caps.**
 
 ## Foco y siguiente paso
 
-1. **Fase 4 del nuevo cauce (Libro I), en curso:** reconstruir por Parte, capítulo por capítulo, según [[11_Books/Book_01_Mascaras_De_Cristal/00_Mapa_Cauce_Cap11_Camp_Alder]] (APROBADO, CANON 2026-11-07). Hechos los **nuevos 11–19** (BORRADOR, DISEÑO; avance en el mapa; el 18 funde los archivos 20 y 21). **Siguiente:** renumerar la Parte I según «Siguiente» del mapa; lo que falte de las Partes II y III, en el avance del mapa. El gesto del cuello se siembra en el Cap. 7.
+1. **Fase 4 del nuevo cauce (Libro I), en curso:** reconstruir por Parte, capítulo por capítulo, según [[11_Books/Book_01_Mascaras_De_Cristal/00_Mapa_Cauce_Cap11_Camp_Alder]] (APROBADO, CANON 2026-11-07). **Parte I cerrada y renumerada** (nuevos 11–19, BORRADOR, DISEÑO; encabezados, Book_Map y CHAPTER_STATUS en 1–19: [[98_Agent_Handoff/sessions/2026-11-08_claude_renumeracion_parte_I]]). La Parte III está hecha; **la Parte II la lleva otra terminal en exclusiva** (faltan los nuevos 21–28, 30 y 31). El gesto del cuello se siembra en el Cap. 7.
 2. **Lectura del autor** de borradores y prosa DISEÑO: rutas en [[98_Agent_Handoff/PENDING]].
 3. **Libro II** (diseño; prosa bloqueada hasta cerrar el I): [[11_Books/Book_02_Sombras_De_Poder/00_Boceto_Lista_Capitulos]] (61 caps., DISEÑO), [[11_Books/Book_02_Sombras_De_Poder/00_Plan_Cuatro_Partes]], [[11_Books/Book_02_Sombras_De_Poder/00_Matriz_Temporal]]. **Directiva:** construirlo para cobrar [[11_Books/Book_02_Sombras_De_Poder/Part_04_Torna_A_Casa/00_Diseno_Noche_Stavanger]].
 
@@ -12,6 +12,7 @@ Actualizado: 2026-11-08. Máximo 800 palabras. **Numeración vigente: 56 caps.**
 
 Plan: [[11_Books/Book_01_Mascaras_De_Cristal/00_Plan_Nuevo_Cauce]]; diagnóstico: [[13_Auditorias/Book_01_Mascaras_De_Cristal/Mapa_POV_Libro_I]].
 
+- **Guardas (CANON 2026-11-08):** revisar cada capítulo contra «Guardas de vigilancia» del plan (y las del Libro II en su plan): [[98_Agent_Handoff/sessions/2026-11-08_claude_guardas_chatgpt_cauce_y_sombras]].
 - **Reglas:** un POV por capítulo, del que más arriesga ([[12_Craft_Policies/Arquitectura_De_Perspectiva]]); ~185–190k palabras, 47 caps. (Partes 1–19, 20–32, 33–47); romance trenzado con la trama.
 - **Fuerzas:** el Tasador (Crowe) es el antagonista del I y trabaja para Halbrook. Halbrook sale de la prosa salvo el epílogo, sin hablar, pero su nombre se queda. Varek es un recurso radiactivo, «confiable y accesible», con policías propios (no Lucía; exentos Nick V. y Collins). Il Consorzio es respaldo y atadura de Chiara. Trix muere en el III y deja huérfana a Iris.
 - **Tramo 11 → Camp Alder:** robo del Monarch sin Dario (Halbrook → Crowe → Ferreyra y Mei-Lin; [[11_Books/Book_01_Mascaras_De_Cristal/Part_02_Con_Peores_Personas_He_Tratado/00_Plan_Robo_Monarch]]). Crowe asesina a Boone y se cobra en el corral con bandera falsa de Volpi; ahí matan a Vento. *Bajo juramento* sale. Matteo se va por las rutas. Pacto del 09-18 sin papeles de Nadir; Kal desvía a Varek el lote de armas que iba para Crowe; Chiara le debe un favor a Varek; se conserva la línea de Héctor.
