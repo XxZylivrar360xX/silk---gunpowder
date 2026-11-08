@@ -14,6 +14,7 @@ Políticas de oficio narrativo para escribir y editar prosa en `10_Chapters/` y 
 - `editorial/` — política de edición posterior al triaje, zonas protegidas, procedimiento de microedición y registro del piloto determinista 01–10.
 - `tonal_calibration/` — guías de ambientación emocional no diegéticas para capítulos específicos (referencias de temperatura, ritmo y silencio; nunca banda sonora textual). No craft de estructura ni editorial de intervención: calibración de tono antes de escribir la escena.
 - [[12_Craft_Policies/Redaccion_De_Capitulos]] — política base para pasar de estructura a capítulo provisional.
+- [[12_Craft_Policies/Arquitectura_De_Perspectiva]] — modelo de POV del libro (CANON DEL AUTOR, 2026-11-07): un POV por capítulo, del que más arriesga.
 - [[12_Craft_Policies/CHAPTER_LIFECYCLE]] — cómo un capítulo pasa de BORRADOR a TERMINADO (y CONGELADO): estados, gates y workflow CLOSE.
 
 ## Craft vs. editorial

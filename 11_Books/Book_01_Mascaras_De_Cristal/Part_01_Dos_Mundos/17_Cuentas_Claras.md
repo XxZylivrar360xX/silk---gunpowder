@@ -1,22 +1,20 @@
 <!--
-Renumerado 2026-11-01 (decisión del autor, carretera del Libro I): antes Cap. 21.
-Renumerado 2026-10-22 (decisión del autor): antes Cap. 17; numeración corrida definitiva, el archivo conserva su nombre.
-Retitulado 2026-10-21 (decisión del autor; ver [[11_Books/Book_01_Mascaras_De_Cristal/00_Propuesta_Titulos]]): antes «Cuentas claras».
-Estado: TERMINADO. **Cirugia de dialogo de terceros 2026-10-04 (sesion S1 de 13_Auditorias/Book_01_Mascaras_De_Cristal/Plan_Cirugia_Terceros_Parte_I; nota en 98_Agent_Handoff/sessions/2026-10-04_claude_cirugia_terceros_S1.md): la prosa nueva es DISENO pendiente de lectura del autor.** Irene sin muestras de ficha ni aforismos: cotiza, se queda con la distincion error/guerra y cobra el aviso del rumor como deuda anotada (decision del autor: Kal le debe el nombre de quien planto el rumor, "a mi primero"); Walt dice conclusiones en una linea y suelta el Tasador en pedazos (Hector completa la barreta); Nadir con lineas de cuenta; Danny da el escalon 2 de consumo (excusa de mas sobre el billar, decision del autor); Hector sin "peor que un error" y tuteando a Walt; fuera "dijo, al final" y "Eso no tiene precio fijo" queda contestado por Hector. Version previa: ajuste 2026-10-04 autorizado por el autor: una linea tras "El Tasador" ancla la sospecha de Kal en Calle Corona, Cap. 9; aprobado por el autor 2026-09-12, tras CLOSE por lote con Gates A-F verdes; ver 98_Agent_Handoff/sessions/2026-09-12_claude_close_batch_c15_c17_c18_c19_c20.md). Cirugia editorial 2026-09-26 (Prioridad C, 5-ter, autorizada por el autor, sigue TERMINADO): se corta la escena de Tomas Vale en el minimarket (Walt nombra a Irene; Irene nombra a Tomas al soltar a Nadir y Danny), se compactan la negociacion (fuera las armas que no bajan), el recuento, el Tasador y la salida, se cortan el tercer "preguntate quien queria", "¿Y si es Dario?" y la ultima frase interpretativa (el capitulo cierra en el cafe). Se corrige la atribucion de la regla de Irene. Ver 13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Caps_15-17.md. La linea de Funcion de abajo describe la version previa en lo que toca a la apertura.
-Protagonistas: Kal Mercer, Walter Keegan, Irene Salcedo, Tomas Vale (sin POV), Hector Navarro, Nadir Amrani, Daniel Hayes.
-Ventana temporal: dias despues del Capitulo 16 (hospital, ahora fusionado con El sobre rojo). Hector sigue en recuperacion; para el cierre del capitulo ya esta en casa. Antes de H4 (El dia nublado).
-Lugares: un negocio dentro de La Almendra (apertura), territorio de La Ronda del Canal / Canal Seco, casa de Hector Navarro (cierre).
-Funcion: FUSIONADO (2026-09-03), a peticion del autor -- el antiguo Cap. 19 (Cuentas claras, negociacion con Irene) y el antiguo Cap. 20 (Anticiparse, reunion del barrio) se unen en un solo capitulo, porque Anticiparse por separado resultaba demasiado corto para sostenerse solo. "Cuentas claras" queda como titulo oficial; "Anticiparse" se conserva como nombre de la escena de cierre en casa de Hector, marcada con su propio encabezado interno. Resuelve el hilo sembrado en el Capitulo 15 (el robo de Nadir y Danny): abre con POV del mundo criminal en plena operacion (Tomas Vale ejecutando el golpe de advertencia de Irene), sigue con la negociacion de Kal y Walt (sin Hector) en el Canal Seco, y cierra con la reunion de todo el barrio ya en casa de Hector -- el recuento de causas y consecuencias, el dato incomodo de que el rumor era demasiado preciso para ser chisme de calle (lore de trasfondo sobre Dario Varek, nunca confirmado en prosa -- ver Dario_Varek.md), y Kal explicandole a Nadir y Danny que su enojo es por no haber sido avisado a tiempo, no por el error en si.
-Apertura por residuo: no depende directamente del cierre del Capitulo 16 (que cerro con Kal y Chiara en el auto) -- abre en un punto distinto, el mundo criminal, para dar la sensacion de que la ciudad sigue moviendose aunque Kal no este mirando.
-Cirugia 2026-10-28 (nota ChatGPT [[98_Agent_Handoff/ChatGPT/2026-10-28_lectura_cap20_le_quede_debiendo_marisol_y_liderazgo]]; DISENO pendiente de lectura; el estado se conserva): AUT-01/P-01, eco de Marisol sin nombrarla: "Que me entere por ustedes, no por una marca en una puerta" en el "Avisenme"; se comprime la explicacion operativa de Kal; fuera "y el barrio [...] ya lo sabia" (O-03). Ocho bultos (O-01, CANON DEL AUTOR 2026-10-28): la Ronda los recupero en la captura; Irene lo confirma en una linea y el trabajo gratuito es la sancion aparte. Detalle: 98_Agent_Handoff/sessions/2026-10-28_claude_surgery_cap20_le_quede_debiendo.md.
-Regla de dialogo 05 (esticomitia) 2026-10-26, a pedido del autor: ocho cortes de eco/remate; la prosa nueva es DISENO, espera lectura (98_Agent_Handoff/sessions/2026-10-26_claude_regla05_debiendo_cap20.md).
-Frente 1, narrador, Parte I (2026-10-05, SURGERY aprobada por el autor y rebasada contra la prosa posterior a los frentes 2 y 3; el estado se conserva): N17-1. Ver 13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Frente1_Narrador_Parte_I.md §4b-§6.
-Hilo del Tasador (2026-11-01, DECISIÓN DEL AUTOR; prosa DISEÑO pendiente de lectura; [[11_Books/Book_01_Mascaras_De_Cristal/00_Plan_Hilo_Tasador]]): Kal sospecha de Crowe sin certeza (fuera "No era pregunta") y registra una precisión que no es del Tasador (V-3 fundido); sin nombre. "Y de la cancha" cobra la visita del Cap. 12.
+Reconstruido 2026-11-08, Fase 4 del nuevo cauce (nuevo Cap. 16, T5, POV Kal): [[11_Books/Book_01_Mascaras_De_Cristal/00_Plan_Nuevo_Cauce]] y [[11_Books/Book_01_Mascaras_De_Cristal/00_Mapa_Cauce_Cap11_Camp_Alder]]. Plan: [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/00_Plan_Cap16_Le_Quede_Debiendo_POV_Kal]]. Versión anterior íntegra (TERMINADO, con su historial de cirugías): [[11_Books/Book_01_Mascaras_De_Cristal/Escenas_Eliminadas/17_Cuentas_Claras_Version_2026-11-08]] (git `3d26627`).
+Decisiones del autor para esta reconstrucción (2026-11-08, las cinco en la opción recomendada): el capítulo crece con el billar de atrás del Monarch, y la reunión en casa de Héctor se queda; en el billar, la mano de Crowe se ve en el joven que fue el sábado a preguntar si «los dos de la Almendra» habían vuelto, pidió agua y no se la tomó (Kal no sabe leerlo; quien les pasó el rumor sigue siendo Mei-Lin, a quien Danny cubre, y se mantiene C-2); el candado del portón y «La llave la tiene la señora» salen de lado; Nadir le cobra a Kal en una línea el teléfono apagado («Pero tú te ibas al cerro con el teléfono apagado»).
+Estado: BORRADOR. Prosa DISEÑO pendiente de lectura del autor. Numeración: el encabezado sigue diciendo «Capítulo 18» hasta renumerar la Parte I al cerrarla.
+Protagonistas: Kal Mercer (POV), Walt Keegan, Irene Salcedo, Héctor Navarro, Nadir Amrani, Daniel Hayes. Apariciones: Tomás (hombre de Irene), el patrón de la vulcanizadora y la panadera (sin nombre), el del billar (sin nombre). Mencionados: Chiara («la señora»), el joven de Crowe (sin nombre, por boca del del billar), Crowe (el Tasador).
+Ventana temporal: del lunes después del domingo del infarto (nuevo 15) al jueves en que Héctor vuelve a su casa. Antes de H4 (El día nublado).
+Lugares: Almendra Towing (puerta del taller), Canal Seco (territorio de La Ronda del Canal), calle de la casa de Héctor (vulcanizadora, panadería, portón), casa de Héctor, billar de la calle de servicio detrás del Monarch.
+Función: Kal paga la bodega sin Héctor y queda debiéndole a Irene un nombre; ve de lado que el barrio le está pagando a Chiara; la sospecha cae por costumbre en el Tasador, pero el canal de Irene no es calle; en el billar, el lector ve la mano de Crowe y Kal se lleva un vaso de agua que no sabe leer.
 -->
 
 # Capítulo 18 — Le quedé debiendo
 
-Walt se lo dijo a la mañana siguiente, en la puerta del taller, sin darle vueltas.
+El lunes, a las seis y diez, Kal volvió a marcar desde el patio del taller, con el café todavía sin tocar sobre el capó de la grúa chica. *Nadir. Deja recado; si es de dinero, la cifra primero.* Colgó antes del tono. Danny ni siquiera tenía buzón: sonaba hasta cortarse.
+
+Desde el viernes. Desde el viernes los dos sin contestar, y él en un cerro con el teléfono apagado en la guantera, contando piedras planas.
+
+Walt llegó a las siete, en la Harley, y se lo dijo en la puerta del taller, sin darle vueltas.
 
 —Golpearon el minimarket de la esquina. La gente de Irene Salcedo. Dejaron la marca de La Ronda en la puerta, bien clara, para que nadie tuviera que adivinar.
 
@@ -24,7 +22,7 @@ Walt se lo dijo a la mañana siguiente, en la puerta del taller, sin darle vuelt
 
 —Cigarros. Licor. Nada que no se pueda reponer. —Walt se cruzó de brazos—. Lo hicieron aquí. No en su canal.
 
-Kal entendió. Sacó el teléfono y marcó a Nadir. Buzón. Marcó a Danny.
+Kal entendió. Sacó el teléfono otra vez y marcó a Nadir. Buzón. Marcó a Danny.
 
 —Tampoco —dijo Walt—. Llevo desde las seis. Ahora sí sé por qué no contestan.
 
@@ -40,21 +38,23 @@ Kal quiso ir esa misma tarde. Walt lo frenó.
 
 ***
 
-Llegaron al límite del Canal Seco en la camioneta negra del taller, sin armas — Kal había sido claro con eso, contra el instinto de Walt, que prefería no sentirse desnudo—. "Si llegamos armados, esto deja de ser una negociación", le había dicho. "Se vuelve una amenaza, y las amenazas se contestan con otra amenaza."
+Llegaron al límite del Canal Seco el martes, en la camioneta negra del taller, sin armas. Kal había sido claro con eso, contra el instinto de Walt, que prefería no sentirse desnudo. «Si llegamos armados, esto deja de ser una negociación», le había dicho. «Se vuelve una amenaza, y las amenazas se contestan con otra amenaza.»
 
-La gente de Irene no pensaba igual. Dos hombres los esperaban en la entrada, con las armas a la vista — no escondidas, no apuntando a nada todavía, pero tampoco guardadas. Uno los cacheó sin pedir permiso. El otro los guio adentro sin decir una palabra.
+La gente de Irene no pensaba igual. Dos hombres los esperaban en la entrada, con las armas a la vista, no escondidas, no apuntando a nada todavía, pero tampoco guardadas. Uno los cacheó sin pedir permiso. El otro los guio adentro sin decir una palabra.
 
-El Canal Seco no se parecía a nada que Kal conociera de memoria. Calles más estrechas, toldos de lona sobre puestos que vendían de todo un poco, y un silencio particular que se sentía cada vez que un forastero cruzaba una esquina — no hostil, solo atento.
+El Canal Seco no se parecía a nada que Kal conociera de memoria. Calles más estrechas, toldos de lona sobre puestos que vendían de todo un poco, el cauce de concreto vacío a un lado, con grafiti hasta donde alcanzaba un brazo, y un silencio particular que se sentía cada vez que un forastero cruzaba una esquina: no hostil, sólo atento.
 
-Irene los esperaba en la parte de atrás de un puesto de comestibles, sentada en una silla plegable, con una libreta abierta sobre las piernas. A un lado, sentados en el suelo con la espalda contra la pared y un hombre armado sin quitarles la vista de encima, estaban Nadir y Danny.
+Irene los esperaba en la parte de atrás de un puesto de comestibles, sentada en una silla plegable, con una libreta abierta sobre las piernas. A un lado, en el suelo, con la espalda contra la pared y un hombre armado sin quitarles la vista de encima, estaban Nadir y Danny. Detrás de ellos, una puerta entreabierta dejaba ver un cuarto sin ventana, dos mantas dobladas y un balde.
 
-Kal los miró un segundo de más. Nadir bajó la vista primero. Danny ni siquiera lo intentó.
+Cuatro noches.
+
+Kal los miró un segundo de más. Nadir tenía la camisa del viernes y bajó la vista primero. Danny ni siquiera lo intentó: tenía las rodillas pegadas al pecho y se frotaba la nariz con el dorso de la mano, una vez y otra, como si le picara algo que no estaba en la nariz.
 
 —Así que usted es Kal Mercer. —Irene lo estudió de arriba abajo, sin levantarse—. He oído de usted. En la calle, como se oye todo.
 
 Kal no contestó. Irene no parecía esperar que lo hiciera; giró la cabeza hacia Walt.
 
-— Y usted es Keegan. Diez años.
+—Y usted es Keegan. Diez años.
 
 —Nueve y medio —dijo Walt—. Buena conducta.
 
@@ -66,7 +66,7 @@ Irene lo anotó, o hizo como que lo anotaba. Después pasó una hoja.
 
 —Si hubieran sabido, no estarían sentados ahí. —No levantó la vista de la hoja—. Por eso le cobro como error y no como otra cosa. Los ocho bultos ya volvieron, íntegros; los agarramos con la carga. Queda algo aparte.
 
-Kal ya sabía que esto iba a llegar. No le gustaba deberle nada a nadie — un favor pedido hoy era una cuenta abierta que alguien más cobraba mañana, en el momento menos conveniente.
+Kal ya sabía que esto iba a llegar. No le gustaba deberle nada a nadie: un favor pedido hoy era una cuenta abierta que alguien más cobraba mañana, en el momento menos conveniente.
 
 —No le voy a deber un favor —dijo—. Le propongo un negocio. Nadir y Danny le mueven mercancía, gratis. Si la policía los agarra en el camino, el Canal Seco nunca estuvo ahí. El riesgo es de ellos, no suyo.
 
@@ -82,15 +82,15 @@ Irene se quedó pensando eso más tiempo del que le había dedicado a cualquier 
 
 Nadir cerró los ojos un segundo. Danny miró el piso.
 
-Irene sonrió, apenas — la primera vez en toda la conversación.
+Irene sonrió, apenas. La primera vez en toda la conversación.
 
 —Me gusta cómo cobra usted sus propias cuentas, señor Mercer. —Escribió algo, una línea larga—. Hasta que yo diga. Si me los agarran antes, lo que falte me lo paga usted.
 
 —Hecho.
 
-—Tomás —dijo Irene, y el hombre que custodiaba a Nadir y Danny los soltó sin ceremonia. Los dos se pusieron de pie despacio, sin acercarse a Kal todavía, esperando a ver qué cara traía.
+—Tomás —dijo Irene, y el hombre que custodiaba a Nadir y Danny los soltó sin ceremonia. Los dos se pusieron de pie despacio, sin acercarse a Kal todavía. Danny tuvo que apoyar una mano en la pared.
 
-Irene ya estaba otra vez en sus cuentas, como si la conversación nunca hubiera interrumpido nada importante.
+Irene ya estaba otra vez en sus cuentas, como si la conversación no hubiera interrumpido nada importante.
 
 —Sus muchachos sabían la puerta, la hora y que el de la guardia era un tuerto que bebe —dijo, sin levantar la vista—. Eso no lo sabe un borracho de cantina. Alguien se los dio.
 
@@ -112,7 +112,7 @@ Caminaron los cuatro de vuelta a la camioneta, sin que nadie dijera nada hasta q
 
 —Un nombre. —Walt sacó las llaves—. He debido cosas peores a gente peor.
 
-Kal no dijo nada, pero algo en el pecho se le acomodó distinto — no orgullo todavía, y menos con una línea a su nombre en la libreta de Irene, pero cerca. Había resuelto algo del barrio sin Héctor parado a su lado diciéndole qué decir.
+Kal no dijo nada, pero algo en el pecho se le acomodó distinto: no orgullo todavía, y menos con una línea a su nombre en la libreta de Irene, pero cerca. Había resuelto algo del barrio sin Héctor parado a su lado diciéndole qué decir.
 
 Nadir esperó hasta que estuvieron subiendo a la camioneta para hablar.
 
@@ -120,15 +120,51 @@ Nadir esperó hasta que estuvieron subiendo a la camioneta para hablar.
 
 —Todavía no —dijo Kal, sin subir la voz—. Primero suban. Después hablamos tú, Danny y yo.
 
-Nadir asintió y se subió a la camioneta sabiendo que ésa era, por ahora, toda la conversación que iba a tener.
+Nadir asintió y se subió. No volvió a preguntar en todo el camino. Danny se durmió antes del primer semáforo, con la frente contra el vidrio, y en sueños se seguía frotando la nariz.
 
 ***
 
-Días después, ya con Héctor de vuelta en su propia casa, se reunieron todos para hacer el recuento completo.
+A Héctor le dieron de alta el jueves. Kal fue por él en la camioneta, con una almohada en el asiento que Héctor tiró atrás sin comentarla, y manejó por la Almendra a la velocidad de un cortejo, porque cada bache le sacaba al viejo un ruido de garganta que hacía como si fuera del motor.
 
-Héctor los recibió sentado en la silla verde del catálogo — la primera vez que la usaba desde que había vuelto del hospital, todavía con movimientos más lentos de los que le gustaba admitir, pero en su propia casa, que ya era más de lo que había tenido en semanas.
+El portón tenía un candado.
 
-Kal, Walt, Nadir y Danny se acomodaron donde pudieron: Walt en el sofá que crujía, Nadir y Danny de pie junto a la puerta, como si sentarse fuera pedir un perdón que todavía no habían ganado.
+No era el de Héctor. El de Héctor era uno viejo, de hierro, con la llave pegada con cinta al marco de la ventana del baño, que en el barrio sabía todo el mundo y nadie tocaba. Éste era nuevo, de latón, todavía con el brillo de la ferretería.
+
+Héctor lo miró desde el asiento.
+
+—Ése no es mío.
+
+El patrón de la vulcanizadora ya venía cruzando, limpiándose las manos en un trapo. Kal lo conocía de toda la vida, de pasarle llantas y de no pasarle nada más; era el mismo que tres semanas antes le había prohibido a su chico acercarse a la casa común mientras Chiara durmiera ahí. Nadir se lo había contado en la cocina, divertido, y Kal lo había dejado pasar.
+
+—Don Héctor. —Se quitó la gorra—. Mi chico se lo puso el viernes en la noche. Quedó abierto cuando se lo llevaron.
+
+—¿Y la llave?
+
+—La tiene la señora.
+
+Kal esperó a que dijera qué señora. El hombre lo miró como si la pregunta no hiciera falta.
+
+—La suya.
+
+En la panadería de enfrente se abrió la puerta y salió la panadera, con el delantal puesto y algo en la mano. Le dio a Kal una llave sola, sin llavero.
+
+—La dejó aquí el martes. Para cuando volviera don Héctor. —Se asomó por la ventanilla—. Bienvenido, don Héctor. Le guardé de los de nata.
+
+Kal abrió el candado. Adentro, el patio estaba barrido. La silla verde del catálogo, todavía con el plástico de la tienda en las patas, esperaba junto a la puerta de la cocina, y Kal no sabía quién la había metido ni cuándo. Ayudó a Héctor a bajar, a cruzar, a sentarse, y volvió a la panadería por el pan de nata. La panadera le cobró, le dio el cambio contado en la mano y le dijo que se fuera con cuidado.
+
+Ya en la acera, con la bolsa caliente, Kal miró la llave que todavía tenía en la otra mano. El viernes, el chico de la vulcanizadora había cerrado una casa para que no le faltara nada a Héctor, y la llave no se la habían guardado a Walt, que conocía la cuadra desde antes que él, ni a Kal. Se la habían dado a ella. La había dejado en la panadería como quien regresa algo que no es suyo, y no se lo había dicho.
+
+No sabía qué había pasado ese fin de semana en esa calle. Sabía que alguien había estado en la puerta cuando él no, y que la calle lo había notado.
+
+Le dio la llave a Héctor junto con el pan. Héctor la miró, miró la silla verde, y no preguntó nada.
+
+***
+
+Esa noche se reunieron todos para hacer el recuento completo.
+
+Héctor los recibió sentado en la silla verde, ya sin el plástico en las patas, la primera vez que la usaba, todavía con movimientos más lentos de los que le gustaba admitir, pero en su propia casa, que ya era más de lo que había tenido en una semana.
+
+Kal, Walt, Nadir y Danny se acomodaron donde pudieron: Walt en el sofá que crujía, Nadir y Danny de pie junto a la puerta, como si sentarse fuera pedir un perdón que todavía no se habían ganado.
 
 —Bueno —dijo Héctor, sin ceremonia—. Cuéntenme todo, desde el principio. Y esta vez nadie se guarda nada.
 
@@ -182,7 +218,7 @@ Lo dijo como se dice el primer nombre de una lista. Después de Calle Corona y d
 
 —Y la barreta apareció tres días después en una casa de empeños suya —dijo Héctor—. Con un guardia en el hospital.
 
-—Mis huellas estaban en el mango. —Walt se encogió de hombros—. No tuvo que inventar nada. Solo tuvo que guardarla.
+—Mis huellas estaban en el mango. —Walt se encogió de hombros—. No tuvo que inventar nada. Sólo tuvo que guardarla.
 
 Nadir habló desde la puerta.
 
@@ -198,13 +234,13 @@ Héctor cerró los ojos un segundo, el mismo gesto de siempre.
 
 ***
 
-Kal esperó a que Héctor y Walt salieran a la cocina — un pretexto de café que nadie necesitaba tomarse en serio — antes de hablar con Nadir y Danny a solas.
+Kal esperó a que Héctor y Walt salieran a la cocina, con un pretexto de café que nadie necesitaba tomarse en serio, antes de hablar con Nadir y Danny a solas.
 
 No les gritó. Llevaba días sin ganas de gritar, y de todos modos gritar nunca le había servido con nadie que valiera la pena conservar.
 
 —No estoy enojado porque hayan ido a ver la bodega —dijo—. Eso fue una mala decisión, pero las malas decisiones se toman. Todos las tomamos.
 
-Nadir levantó la vista, sin atreverse todavía a creer que fuera a salir tan fácil.
+Nadir levantó la vista, despacio, como quien espera la segunda parte.
 
 —Estoy enojado porque no me lo dijeron antes.
 
@@ -216,8 +252,66 @@ Danny no dijo nada, pero asintió despacio.
 
 —La próxima vez que se les ocurra algo así —siguió Kal—, no me pidan permiso. Avísenme. Que me entere por ustedes, no por una marca en una puerta. Aunque sepan que voy a decir que no. Prefiero decir que no a tiempo, que enterarme tarde de que ya dijeron que sí sin mí.
 
-Nadir asintió también.
+Nadir no asintió. Se quedó quieto, con las manos quietas, que en él era raro.
+
+—Te íbamos a avisar, khoya. —No lo dijo como reproche. Lo dijo como se dice una cifra—. Pero tú te ibas al cerro con el teléfono apagado, y el tuerto bebe los viernes.
+
+Kal sostuvo eso sin moverse. El teléfono apagado en la guantera. Las piedras planas. Seis a cuatro.
+
+No se defendió. No tenía con qué.
+
+—Eso también se arregla —dijo.
+
+Nadir lo miró un momento más. Después asintió.
 
 —Entendido.
 
 Kal se dio la vuelta hacia la cocina, donde Héctor seguía sentado dejando que Walt hiciera un café que él tampoco iba a terminar.
+
+***
+
+El billar estaba en una calle de servicio detrás del Monarch, entre la salida de la cocina del hotel y una pensión de ventanas tapiadas, bajo un letrero sin nombre que sólo decía POOL en neón, con la segunda O fundida. Kal fue solo, pasadas las once, cuando los valets del turno de la tarde ya habían entregado las llaves y los del turno de noche todavía no tenían a quién estacionarle nada.
+
+Adentro, la luz era verde. Salía de las lámparas bajas de las mesas y se quedaba ahí, sin subir, de modo que las caras de los que jugaban flotaban encima del paño como de enfermos. Había seis mesas. Danny tenía razón en una cosa: estaban niveladas. Kal lo vio en una bola que alguien dejó quieta en la orilla y que no se movió.
+
+El del billar era un hombre mayor, con chaleco y una tiza azul en el bolsillo de la camisa, que limpiaba vasos detrás de una barra corta sin mirarlos. Kal pidió una cerveza que no pensaba tomarse y la pagó con un billete que no esperaba de vuelta.
+
+—Un amigo mío viene aquí. Moreno, flaco, habla mucho. De la Almendra.
+
+—Aquí todos hablan mucho. —El hombre siguió con el vaso—. El de la Almendra que se ríe solo. Sí. Juega bien cuando no está nervioso.
+
+—¿Con quién habla?
+
+—Con todos. Con los valets, con los meseros de la Isla, con el que se deje. —Se encogió de hombros—. Aquí todos traen gorra y chaleco. Salen de atrás del hotel, juegan media hora y regresan a cuadrar llaves. No les pregunto el nombre. Si les pregunto el nombre, no vuelven.
+
+Kal dejó pasar eso. Miró las mesas. Nadie se parecía a nadie. Con esa luz, nadie se parecía ni a sí mismo.
+
+—¿Y desde el viernes?
+
+El hombre dejó el vaso. Lo pensó, o hizo como que lo pensaba, y miró el billete de Kal sobre la barra, que seguía ahí.
+
+—No han vuelto. Ni él ni el otro, el serio. —Agarró otro vaso—. El sábado vino uno a preguntar por ellos.
+
+—¿Quién?
+
+—No sé. No era de aquí. Flaco, joven, el pelo recién cortado. Se sentó ahí. —Señaló con la barbilla un banco al final de la barra, el que tenía vista a la puerta y a todas las mesas—. Me preguntó si los dos de la Almendra habían venido. Le dije que no. Pidió agua.
+
+—¿Agua?
+
+—Agua. No se la tomó. —El hombre levantó un hombro—. Dejó un billete de veinte abajo del vaso, por un agua, y se fue. Contento, como si eso fuera lo que venía a oír.
+
+Kal miró el banco vacío.
+
+Alguien había venido a preguntar si dos muchachos habían vuelto un día después de que dejaron de volver. No preguntó dónde estaban. No preguntó qué les había pasado. Preguntó si habían vuelto, y se fue contento cuando le dijeron que no.
+
+No era la Ronda: Irene no necesitaba preguntarle a nadie dónde estaban los suyos; los tenía sentados en el suelo de su cuarto. No era nadie del barrio: en el barrio nadie pagaba veinte por un agua.
+
+—Si vuelve —dijo Kal—, me llama.
+
+Le dejó el número del taller escrito en una servilleta. El hombre lo dobló en cuatro y se lo guardó en el chaleco, junto a la tiza, sin prometer nada.
+
+Afuera, la calle de servicio olía a grasa de cocina y a basura de hotel. Dos valets con chaleco rojo fumaban junto a la puerta de la cocina, con la gorra en la mano, y se callaron cuando él pasó. Arriba, del otro lado del edificio, el Monarch tenía todas las luces prendidas, piso por piso, hasta el último.
+
+Kal se quedó un momento junto a la camioneta, con las llaves en la mano.
+
+Le debía a Irene un nombre. Lo que tenía era un banco con vista a la puerta, un vaso de agua lleno y un billete de veinte. Nada de eso era un nombre. Todavía.

@@ -21,6 +21,7 @@ Duelo en familia (2026-11-05, DECISIONES DEL AUTOR; prosa DISENO, BORRADOR, espe
 Sin insinuacion de Dario sobre Keene (2026-11-03, DECISION DEL AUTOR): antes de "Todavia no.", fuera "en Matteo diciendo que Dario tuvo que salir, en el telefono bocabajo... con el titular de Keene". El narrador no da ni insinua la relacion; la diligencia del Cap. 2 queda como coincidencia que se cobra en el Libro III.
 Continuidad (2026-11-04, encargo del autor; DISENO, pendiente de lectura; el estado se conserva): fuera "Guardo el telefono"; al entrar a la oficina Kal lo deja bocabajo sobre el escritorio, con lo que "Kal senalo el telefono bocabajo" y el eco de Walt en el escalon quedan iguales y este ultimo mejora (Walt lo vio desde el marco). La audiencia queda con mesa, no con vidrio: "al otro lado de una mesa". Detalle: 98_Agent_Handoff/sessions/2026-11-04_claude_detalles_caps02_03.md.
 Decisiones del autor (2026-11-04; redaccion DISENO, pendiente de lectura): la perra flaca es Rocco ("y eso que no traia nada de comer", rima con el Cap. 1; fuera "cosa que no hacia por nadie"). El Monarch era la salida de Kal: "Si Matteo llamaba antes de las dos, el anticipo se devolvia". La hierba se recoge en la tarde y va en el Buick de noche, lo que acorta el trabajo y deja a Danny tiempo para el cajero (ver Cap. 4).
+Fixer rusa (2026-11-07, CANON DEL AUTOR): Anya queda retirada; la contacto rusa de Afganistán es una fixer sin nombre y sin romance. Se quita «y no siempre por trabajo».
 -->
 
 # Capítulo 3 — Los viejos días
@@ -365,7 +366,7 @@ Jim se quedó quieto. Por primera vez en toda la conversación, la calma le lleg
 
 Jim se fue caminando hacia las carpas sin decir nada más, y Kal se quedó ahí, con el reporte en el bolsillo, preguntándose si acababa de proteger a un amigo o de encubrir exactamente lo que el padre de ese amigo había pasado media vida peleando.
 
-Del otro lado de las carpas de los contratistas había una mujer con acento ruso que sabía a quién llamar. Con una llamada suya, un papel como ése podía decir otra cosa, o no haber existido nunca. Kal conocía el camino hasta su tienda mejor de lo que le convenía, y no siempre por trabajo.
+Del otro lado de las carpas de los contratistas había una mujer con acento ruso que sabía a quién llamar. Con una llamada suya, un papel como ése podía decir otra cosa, o no haber existido nunca. Kal sabía dónde estaba su tienda y lo que cobraba.
 
 Esa noche no lo tomó.
 

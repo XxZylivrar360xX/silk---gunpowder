@@ -2,6 +2,8 @@
 
 *Ficha de Facción — banda menor del sur*
 
+> **CANON DEL AUTOR (2026-11-07), Guerra de los Tres:** bando de Dario. Ver [[03_Factions/Mapa_de_Conflicto_Activo#Bandos en la Guerra de los Tres (*Voto de Ceniza*) — CANON DEL AUTOR (2026-11-07)]].
+
 **Qué es:** banda de protección, bares, cobros y músculo alrededor de Santa Brígida.  
 **Territorio:** sur de [[05_Locations/San_Aurelio]], Santa Brígida.  
 **Cabeza:** Rafael "Rafe" Dominguez.  

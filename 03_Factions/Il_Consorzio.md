@@ -1,5 +1,7 @@
 # Il Consorzio
 
+> **CANON DEL AUTOR (2026-11-07):** en el Libro I es **respaldo y atadura** de Chiara: le responde a Italia por las consecuencias de la muerte de su padre y como cabeza de la familia Ardizzone; el deber va primero. Funda el conflicto del trato con Varek. Detalle: [[11_Books/Book_01_Mascaras_De_Cristal/00_Plan_Nuevo_Cauce]].
+
 *Ficha de Facción — el Consorcio*
 
 > **CANON DEL AUTOR (2026-08-23).**

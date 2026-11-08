@@ -1,4 +1,10 @@
 <!--
+FASE 4 DEL NUEVO CAUCE (2026-11-07/08, terminal B, [[98_Agent_Handoff/encargos/ENCARGO_Fase4_Paralelo_Reusa]]): nuevo Cap. 32 (T19, H21, POV Kal, «Reusa»); cierra la Parte II (20–32). Estado: BORRADOR. Versión anterior íntegra: [[11_Books/Book_01_Mascaras_De_Cristal/Escenas_Eliminadas/34_Mi_Pareja_Version_2026-11-07]]. Nota: [[98_Agent_Handoff/sessions/2026-11-08_claude_fase4_cap32_mi_pareja]].
+- DECISIONES DEL AUTOR (2026-11-08): la palabra le llega a Crowe en una coda en la ferretería de la esquina, a la mañana siguiente; la llamada colgada a Varek se queda como está (Varek no oye la palabra).
+- DISEÑO del agente (coda): Kal compra el gato de patín de Danny; el ferretero le pasa el recado del «muchacho del Tasador» (felicidades «a usted y a su pareja»; «las joyas se tasan por par; si se pierde un arete, el otro ya no vale lo mismo»), sin cuota esta vez. Kal ve el auto gris con Crowe al teléfono en el asiento de atrás (rima con el primer informe del nuevo 11: «En el barrio, Crowe no hablaba por teléfono. Mandaba a alguien.»). Los intermediarios de Halbrook quedan fuera de página. Cobra «A ti por mí. A mí por ti.». H21 y el resto de la prosa intactos.
+- Costura de apertura PROVISIONAL: depende del nuevo 31 (Marisol, Kenji, el cine; «Cubro su turno»). «Otra tarde nublada» depende del nuevo 17. La ferretería, el muchacho y «como el mes pasado a la gorra» dependen del nuevo 30 (la subida de cuota a la ferretería pasa ahí desde el archivo 37). El cierre no engancha con el nuevo 33 (POV Chiara, Matteo).
+- La metadata de abajo es histórica: sus números de capítulo son de numeraciones anteriores.
+
 Renumerado 2026-11-01 (decisión del autor, carretera del Libro I): antes Cap. 43.
 Renumerado 2026-10-22 (decisión del autor): antes Cap. 34; numeración corrida definitiva, el archivo conserva su nombre.
 Estado: BORRADOR — cierra la Parte II (Cap. 34 de 34). Redactado 2026-09-20, Claude Code, encargo del autor. Cirugía editorial 2026-09-27 (E8 de [[98_Agent_Handoff/encargos/ENCARGO_Auditoria_Parte_II]]; registro en [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Caps_26-34_Parte_II]], § 9 parte 4). Ampliación de diálogo cómico 2026-10-04 (material del autor, ver abajo); sigue BORRADOR, pendiente de lectura del autor.
@@ -487,3 +493,59 @@ Colgó y le soltó la mano para guardar el teléfono, despacio, sin quitarle los
 Arrancó.
 
 No fueron al casino. La Almendra estaba a un par de calles. Esta vez, cuando volvieron, ninguno de los dos tuvo que preguntar adónde.
+
+---
+
+A la mañana siguiente pasó por la ferretería de la esquina antes de abrir el taller. Danny llevaba desde marzo sin su gato hidráulico, y Kal había decidido en algún punto de la noche que el de Danny ya no iba a aparecer y que lo más barato era dejar de buscarlo.
+
+La ferretería abría a las siete y a las siete y diez ya olía a café de termo y a aceite de corte. El dueño estaba detrás del mostrador, acomodando cajas de tornillos por medida en una repisa que nadie le había pedido ordenar. Lo vio entrar y dejó la caja a medias.
+
+—Buenos días, Mercer.
+
+—Buenos días. Busco un gato de patín. De dos toneladas, que sea de los buenos.
+
+—Atrás tengo uno. Se lo traigo.
+
+Fue y volvió con la caja abrazada contra la panza, y la dejó en el mostrador con más cuidado del que pedía un gato. Kal sacó la cartera. El hombre no le dijo el precio. Se limpió las manos en el mandil, aunque no las traía sucias.
+
+—Anoche, ya para cerrar, vino el muchacho del Tasador.
+
+Kal dejó la cartera abierta sobre el mostrador.
+
+—¿Le subió otra vez?
+
+—No. Esta vez no me cobró nada. —El hombre miró la caja del gato y no a él—. Me dijo que le diera las felicidades. A usted y a su pareja.
+
+Kal no se movió.
+
+—Así dijo. Pareja. —Le dio una vuelta a la tapa de la caja, como el mes pasado a la gorra—. Y que le dijera que las joyas se tasan por par. Que si se pierde un arete, el otro ya no vale lo mismo.
+
+Afuera pasó un camión de la basura y la ventana tembló en el marco. Kal hizo la cuenta sin querer hacerla: un coche detenido en un camino de grava que no salía en ningún mapa; Nadir con el altavoz, en el taller, con una radio y un compresor; Danny, que contestaba a todo volumen y que había dicho que eso lo sabía hasta el perro; Marisol, que se lo habría contado a alguien antes de colgar. Lo había dicho una sola vez, por teléfono, y antes de que cerrara la ferretería ya iba de vuelta en otra boca.
+
+Dejó de contar. No servía de nada saber por dónde había salido.
+
+—¿Cuánto es el gato?
+
+—Ciento ochenta.
+
+Pagó con dos billetes de cien y no esperó el cambio. El hombre se lo quiso poner en la mano y Kal negó con la cabeza.
+
+—Por el recado.
+
+—Yo nomás se lo paso, Mercer. Yo no...
+
+—Ya sé.
+
+Salió con la caja bajo el brazo. Del otro lado de la calle, frente a la lavandería de monedas, había un auto gris estacionado con el motor prendido. Kal lo conocía. Tenía los vidrios de atrás polarizados, pero no tanto como para no ver el bulto que llenaba el asiento y la mano gorda levantada a la altura de la oreja. Crowe hablaba por teléfono. Hablaba poco y no miraba hacia la ferretería: miraba hacia arriba, hacia nada, como quien está escuchando a alguien que manda más que él.
+
+En el barrio, Crowe no hablaba por teléfono. Mandaba a alguien.
+
+El auto arrancó antes de que Kal llegara a la orilla de la banqueta. Dobló en la esquina de la vulcanizadora, sin prisa, y la calle se quedó igual que siempre: la cortina de la barbería a medio subir, la luz roja de la cámara de la esquina, un perro dormido en la sombra de un poste.
+
+Kal metió la caja en la cajuela del Audi y se quedó un momento con la mano en la tapa.
+
+*A ti por mí. A mí por ti.*
+
+Ella lo había dicho primero, en el coche, y él le había contestado con lo de las feromonas en la alfombra.
+
+Cerró la cajuela y se fue a abrir el taller.

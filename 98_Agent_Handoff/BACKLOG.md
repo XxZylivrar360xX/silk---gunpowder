@@ -4,6 +4,9 @@ Actualizado: 2026-10-29 (diferidos desde PENDING; antes 2026-10-14). Lectura por
 
 ## Continuidad y arquitectura
 
+- **Reseña de Partes I–II (ChatGPT, OP-01 a OP-10):** vigente la [[98_Agent_Handoff/ChatGPT/2026-10-29_recalibracion_resena_partes_I_II_corte_cap25|recalibración]] (corte en 25); el informe previo queda como historial. OP-06 resuelto (corte). OP-03 estudiado: [[98_Agent_Handoff/sessions/2026-10-30_claude_estudio_op03_robo_monarch]] (P1–P2 aplicados; P3–P6 a la beta). OP-02, 04, 05 y 07 estudiados: [[98_Agent_Handoff/sessions/2026-10-30_claude_estudio_op02_op04_op05_op07]] (Mantener/Observar; Nat inactiva hasta el Libro II, CANON 2026-10-30). OP-01, 09 y 10 sólo con lector beta; OP-08 sólo por caso concreto. No editar prosa por hipótesis. (Pasado desde PENDING el 2026-11-07.)
+- **402 referencias dudosas de numeración** (2026-11-01): resolverlas al trabajar cada documento, con [[01_Timeline/09_Equivalencias_Numeracion_Libro_I]]. (Pasado desde PENDING el 2026-11-07.)
+
 > **PENDIENTE:** reconciliación integral de los Book Maps y Hitos con [[00_Biblia/00_Trilogy_Structure]], [[01_Timeline/02_Libro_01_Mascaras_De_Cristal]] y el plan de cierre de III. Usar los Book Maps para detalle; no volver a expandir fases/beats históricos. Revisar carpetas vestigiales sin borrarlas por iniciativa.
 
 - F4/Anya resuelto (2026-09-26, separados, antes del incendio). ~~Pendiente: viejo disparador de caída de Silas → Stavanger.~~ Resuelto 2026-10-14: las cartas de Dale ([[11_Books/Book_02_Sombras_De_Poder/Part_04_Torna_A_Casa/00_Diseno_Cartas_De_Dale]]). (Alias italiano resuelto 2026-10-03: Roberta Ardizzone.)
@@ -19,7 +22,7 @@ Actualizado: 2026-10-29 (diferidos desde PENDING; antes 2026-10-14). Lectura por
 
 - F2: información exacta, frecuencia, daño y descubrimiento de las filtraciones de Mei-Lin; conflicto de Bonnie. La traición por coerción/miedo está fijada; la cadena Tommaso → Varek se reabre el 2026-10-12 (Tommaso no muere): falta cómo pasa la línea a Varek.
 - H1: adversario/coalición y una intervención concreta de la infraestructura negable de La Mesa que vuelva inevitable el ataque y deje huella investigable.
-- F4/Anya: qué sabe Anya del patrón Halbrook en el programa de veteranos. F3: ejecutor material del sabotaje. Unión invisible: quién la filtra o rompe.
+- F4: rediseñar la causa de la ausencia de Kal (Anya retirada 2026-11-07). F3: ejecutor material del sabotaje. Unión invisible: quién la filtra o rompe.
 - Segundo atentado: lugar, mecanismo y consecuencias; conservar la coacción de Fabrizio y el 2x1 no planeado. Desde 2026-10-12 Fabrizio es asesinado al abrir el Libro II: decidir si esa muerte cumple la orden de Volpi y qué queda del 2x1. No adelantar prueba concluyente Volpi–Varek en Libros I–II.
 - Elio/Matteo: destino de Elio, qué descubrió, nota privada; evidencia, costo y motivo/momento del regreso de Matteo. Nombre, oficio y Génova ya fijados.
 - El Faro: equipo mínimo. Fabrizio/Tommaso: verificar confirmación de nombres/peso frente a fichas y plan recientes.

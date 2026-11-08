@@ -1,58 +1,63 @@
 <!--
-Renumerado 2026-11-01 (decisión del autor, carretera del Libro I): antes Cap. 52.
-Renumerado 2026-10-22 (decisión del autor): antes Cap. 43; numeración corrida definitiva, el archivo conserva su nombre.
-PUESTA EN ESCENA (2026-10-06, encargo del autor, [[13_Auditorias/Book_01_Mascaras_De_Cristal/Plan_Puesta_En_Escena_Libro_I]]; DISEÑO pendiente de lectura; diálogo intacto; sigue NO OPERATIVO): Camp Alder existe por los sentidos con rasgos de su ficha (seca, hangares bajos, garita). Desde el perímetro, los techos de los hangares bajo reflectores blancos y el olor a polvo y pasto seco. Adentro, concreto, estantes de metal y pasos que suenan de más. El claro es la vuelta al aire frío de la noche. En la custodia, el mismo lugar con la primera luz desde la ventanilla (alambre, tierra seca, hangares grises). Sin rutas, tiempos, posiciones ni procedimientos nuevos.
-Estado: BORRADOR — Parte III — Ardizzone, noveno capítulo (Cap. 43 del manuscrito). Redactado 2026-09-22, Claude Sonnet 5, encargo detallado del autor sobre [[11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/00_Plan_Cierre_Parte_III]]. Título — CONFIRMADO Y DEFINITIVO por el autor en el encargo (2026-09-22): "La puerta". No es provisional. **Cirugía editorial 2026-09-27 (E8 de [[98_Agent_Handoff/encargos/ENCARGO_Auditoria_Parte_III]]):** Kal sale del loft hacia El Patio (no "hacia La Almendra": el loft ya está ahí); prolepsis de narrador cortada ("en algún punto que después nadie iba a poder señalar" → "sin aviso"); dos casos del tic "no hacía falta / no necesitaba decir nada más" (Garrett, "Ahora") y la inercia "que no había nada más que discutir ahí"; "la noche anterior" dos veces en la frase de la puerta → una. La puerta (sus dos "No hacía falta"), el expediente sin abrir, Héctor jalando a Nadir y la reja, intactos. Detalle en [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Caps_35-44_Parte_III]], § 9 parte 4. Sigue BORRADOR. **Arresto reescrito 2026-10-02 (CANON DEL AUTOR en sustancia, prosa del agente, BORRADOR):** Kal se queda atrás y les revienta las llantas a las patrullas municipales (no apunta a nadie); un agente lo embiste a pie desde un punto ciego; Nadir lo ve desde la puerta y salta; Héctor lo jala de vuelta; despegan gritando "¡Kal!". Sustituye la caminata de Kal hacia el camino y la intercepción posterior. El equipo VE el arresto (lo cuenta Héctor en el 44). Ver [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Cap_44_Jurisdiccion]] C1.
-**Frente 4, Camp Alder (2026-10-05, P2 aprobada por el autor; prosa del agente, BORRADOR):** el éxito dentro de la base se muestra en vez de resumirse. La primera carga llega limpia al helicóptero; Kal decide volver por el resto porque Varek las quiere completas, y el quiebre llega en la segunda vuelta. La causa es una decisión, no técnica, y sigue siendo no operativa. Ver [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Frente_4_Camp_Alder]].
-Protagonista: Kal Mercer (POV único, tercera persona cercana). No hay salto de POV. Chiara Bellandi NO aparece físicamente en ningún momento del capítulo — ni llamada, ni mensaje, ni reconciliación.
-Personajes con diálogo: Kal Mercer, Nadir Amrani, Héctor Navarro, Danny Hayes, Dario Varek (por teléfono). Garrett Cross participa sin diálogo propio relevante (una instrucción operativa mínima).
-Ausente, sentido: Chiara Bellandi (objetos en el loft, la puerta del penthouse). Mencionado sin aparecer: Warren Halbrook (encargo ya sabido, no en escena), Lucía Varek (no en este capítulo).
-Ventana temporal: un solo día completo, D4 del bloque de cierre — la mañana siguiente a F1 (Cap. 42) hasta la madrugada siguiente. Mañana: loft. Día: El Patio, preparativos. Atardecer: la puerta del penthouse. Noche (ventana 02:00–02:40 ya fijada en el Cap. 39): Camp Alder, extracción, arresto municipal. Cierra ya en la reclamación federal y el traslado a la base.
-Lugares: loft de La Almendra (apertura); Almendra Towing / El Patio (preparativos); The Monarch, Torre Norte, hasta la puerta del penthouse (escena titular); Camp Alder y su perímetro exterior (incursión, extracción, arresto, traslado).
-Función: cierra H19 en prosa. Muestra a Kal decidiendo no cruzar una puerta que podría cambiar su capacidad de irse, y horas después decidiendo quedarse para que otros crucen la salida del helicóptero. Cierra en custodia de Camp Alder, con el rastro civil apagado, dejando a H20 (Cap. 44) los datos limpios que necesita: detención municipal primero, reclamo federal después, Kal en la base.
-
-- REGLA ESTRUCTURAL: sigue el plan de cierre de Parte III y el encargo del autor al detalle. Camp Alder se narra NO OPERATIVO: sin planos, rutas, ángulos muertos, frecuencias, códigos, procedimientos de seguridad ni especificaciones de armamento. Sin bajas (soldados, policías ni miembros del equipo). Sin gente de Dario dentro de la base. Sin héroe invencible: Kal termina arrestado.
-- **Chiara ausente:** no aparece en pantalla, no llama, no manda mensaje, no hay reconciliación ni "buenos días". Su presencia es sólo la cafetera en el loft y la puerta cerrada del penthouse.
-- **La puerta:** escena central. Kal sube hasta el nivel del penthouse, llega a la puerta física, no toca, no llama, no entra. Función obligatoria: sabe que entrar cambiaría su capacidad de irse. No es que ella lo detendría — es que él querría quedarse. No se explica el paralelo con la puerta de Camp Alder al cierre.
-- **El expediente:** objeto transaccional. Kal confirma el sello, no lo abre, no lo lee, no se pregunta por el soldado.
-- **Las armas largas:** pago a Varek (H6). Sin modelos, calibres ni cantidades.
-- **El gesto de Héctor:** jala a Nadir dentro del helicóptero. Nadir resiste físicamente, sin la línea "no te voy a dejar". Héctor no pide perdón ni discursa.
-- **Danny y Garrett salen los dos.** Garrett pilota sin momento heroico propio.
-- **Jurisdicción:** policía municipal detiene a Kal primero (por el disturbio); la base reclama jurisdicción federal y lo traslada a Camp Alder mismo (norte rural, más allá de Kingsley Field). No se revela la futura intervención de Halbrook ni el apagón.
-- Cierre: Kal bajo custodia de Camp Alder. Imagen concreta de acceso que se cierra, sin explicar el paralelo con la puerta del penthouse. Corte inmediato.
-
-> **CORRECCIÓN QUIRÚRGICA (2026-09-22, mismo agente, mismo día, encargo del autor):** estructura aprobada intacta. Se corrigió: (1) Dario ya no fija duración de ventana ("cuarenta minutos, ni uno más" retirado) ni aporta ruta/punto de entrada — sólo confirma que va a cumplir su parte de distracción; (2) se podó granularidad táctica del perímetro (garitas, radios, camionetas, sectores, lectura de "dónde deja de mirar la gente") y de los preparativos del Patio (ruta y hora exacta con Nadir/Garrett); (3) se retiró el reloj operativo "cuarenta minutos / llevamos veintidós", sustituido por tensión sin cifra (el ruido cambia de tono); (4) se resolvió la contradicción de la puerta: Kal ya no "sabe que ella abriría" — no sabe si está del otro lado, y no necesita saberlo; (5) se podó la sobreexplicación de la escena de la puerta (de tres frases sobre "el peligro está en él" a una alusión mínima vía la propia mentira a medias que le ofreció); (6) se redujo el repaso de F1 a un residuo mínimo; (7) "entre los tres" se volvió impersonal; (8) se retiró el ángulo táctico de cobertura de Kal; (9) se redujo la geografía del arresto ("a menos de un kilómetro... camino de tierra paralelo a la cerca" pasa a "un camino rural cerca del perímetro"); (10) se retiró el checklist de silencio (Halbrook/Dario/expediente/armas) por "contestó lo indispensable"; (11) se simplificó la transferencia federal (sin "enseñaron algo... firmaron un papel"); (12) se eliminaron las dos frases finales que explicaban el paralelo puerta-penthouse/reja-Camp Alder ("pensó... puerta distinta" y "ésta no la decidió él"); la última línea queda "El vehículo avanzó hacia el interior de la base, y la reja terminó de cerrarse detrás." sin glosa posterior. No se tocó: apertura del loft, equipo completo en El Patio, ausencia de Chiara, expediente sin abrir, armas sin especificar, gesto de Héctor con Nadir, salida de Danny y Garrett, decisión de Kal de quedarse, orden municipal→federal. Sigue BORRADOR. Sin EPUB, commit ni push.
-**Regla de diálogo 05 (2026-10-28, encargo del autor; DISEÑO, espera lectura):** fuera tres ecos: el «Todo listo» de Kal (señala con la barbilla; «No pregunté eso» intacto), el «Voy a estar» de Garrett (asiente) y el «Esta noche» / «Entendido» de Kal con Dario (Kal calla y Dario aprieta con las armas). «Van a estar completas», «Vayan» / «Contigo» y el resto, intactos. [[98_Agent_Handoff/sessions/2026-10-28_claude_regla05_la_puerta_cap49]].
-**Frente 1, narrador (2026-10-06, SURGERY aprobada por el autor; [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Frente1_Narrador_Parte_III]], §5):** N43-1, N43-2, N43-3. Sólo cortes y compresiones del narrador; diálogo y canon intactos. Sigue BORRADOR.
+Nuevo cauce (Fase 4, 2026-11-07, encargo del autor sobre [[98_Agent_Handoff/encargos/ENCARGO_Fase4_Paralelo_Reusa]]; verbo «Reescribe», fuera del reparto Reusa): **nuevo Cap. 39** (T25, H19, en [[11_Books/Book_01_Mascaras_De_Cristal/00_Mapa_Cauce_Cap11_Camp_Alder]]). Antes Cap. 48 (numeración de 56; antes 52 y 43). El archivo conserva su nombre. Título CONFIRMADO Y DEFINITIVO por el autor (2026-09-22): «La puerta».
+Estado: BORRADOR. Prosa DISEÑO pendiente de lectura del autor. Versión anterior íntegra: [[11_Books/Book_01_Mascaras_De_Cristal/Escenas_Eliminadas/43_La_Puerta_Version_2026-11-07]] (allí queda el historial: corrección del 2026-09-22, E8 del 2026-09-27, arresto del 2026-10-02 [CANON en sustancia], Frente 4 del 2026-10-05, puesta en escena y Frente 1 del 2026-10-06, regla 05 del 2026-10-28). Sesión: [[98_Agent_Handoff/sessions/2026-11-07_claude_fase4_cap39_la_puerta]].
+Canon que ejecuta (CANON DEL AUTOR, 2026-11-07): Crowe es el comprador de las armas largas; Halbrook manda vendérselas y Kal desvía ese mismo lote a Varek; las armas salen en el helicóptero con Héctor, Nadir y Danny (Garrett pilota); Halbrook fuera de la prosa, sólo por intermediarios; Kal no cruza la puerta del penthouse y lo detienen sin Chiara; la liberación se revela hasta *Voto de Ceniza*.
+Decisiones del autor para esta reescritura (2026-11-07): (1A) el mensaje del intermediario nombra a Crowe: Kal entiende que Crowe y Halbrook son la misma gente; (2) la orden llega en este capítulo, la mañana de la incursión; (3) Danny Hayes sigue en el equipo.
+Cambios DISEÑO de esta versión: (1) estación nueva en el loft: el mensaje sin nombre («Lo recibe S. Crowe»), que Kal borra; (2) en el Patio, Kal le da a Garrett el punto de Varek y le contesta a Nadir «Que espere»; Nadir mide el riesgo de los papeles y Kal responde con el expediente; (3) la llamada de Varek cobra doble filo («Van a estar completas»), y la segunda vuelta («Una más») es el precio del desvío; (4) al despegar, Kal sabe hacia dónde va el helicóptero y quién espera en el otro punto. Dario dice «señor Mercer» (ficha de voz; el 39 todavía dice «Mercer»). Se compactaron los preparativos repetidos.
+Se conserva literal: la escena de la puerta (mano a medio levantar, «Sé que si entro no voy a hacer lo que tengo que hacer», sus dos «No hacía falta», los labios sin sonido); el expediente sin abrir; «No pregunté eso»; «Vayan» / «Contigo»; el arresto (llantas, el agente desde la cuneta, Nadir salta, Héctor lo jala, «¡Kal!»); «Kal se lo dio. El verdadero.»; municipal → federal; la reja como última línea.
+Costura de apertura PROVISIONAL: depende del nuevo 36 (fecha de la ventana, llamada a Garrett, correa puesta por el intermediario de Palermo). Del nuevo 38 toma sólo que Kal salió del penthouse sin reconciliación y durmió en el loft. Sin fecha en el texto: ver el aviso de calendario en la sesión.
+Costura de cierre: engancha con el nuevo 40 (*Jurisdicción*, archivo 44), donde Héctor cuenta el arresto.
+Protagonista: Kal Mercer (POV único, tercera persona cercana). Chiara no aparece: sólo la cafetera y la puerta.
+Personajes con diálogo: Kal, Nadir, Héctor, Danny, Dario Varek (por teléfono), agentes municipales. Garrett sin diálogo.
+Mencionados sin aparecer: Silas Crowe (en el mensaje y en el pensamiento de Kal), los intermediarios de Halbrook (el número sin nombre). Halbrook no se nombra.
+Lugares: loft de La Almendra; El Patio; el Monarch, Torre Norte, la puerta del penthouse; Camp Alder y su perímetro; una comisaría municipal; la garita de la base.
+Función: cierra H19. Kal decide no cruzar una puerta que le quitaría la capacidad de irse y, horas después, se queda para que los suyos crucen la salida del helicóptero. El desvío hace perder a Crowe otra vez por la pareja y siembra la quema de H1.
+REGLA ESTRUCTURAL (vigente): Camp Alder NO OPERATIVO (sin planos, rutas, ángulos muertos, frecuencias, códigos, procedimientos ni especificaciones de armamento); sin bajas; sin gente de Varek dentro de la base; armas sin modelos, calibres ni cantidades; no se revela la intervención futura de Halbrook ni el apagón; el paralelo puerta/reja no se explica.
 -->
 
-# Capítulo 48 — La puerta
+# Capítulo 39 — La puerta
 
-El loft tenía la misma luz de siempre a esa hora, entrando en franjas por la persiana que nunca cerraba del todo, y aun así el silencio era distinto. Kal se quedó un momento bocarriba antes de moverse, escuchándolo como quien revisa un motor que suena raro sin saber todavía por qué.
+La cafetera estaba donde Chiara la dejaba siempre, en el mismo ángulo, con el filtro que ella compraba y él nunca había aprendido a comprar bien. Kal la miró un momento antes de tocarla, como se mira una herramienta ajena en un taller donde a uno lo dejaron entrar.
 
-No había dormido bien.
+No había dormido bien. El loft tenía la luz de siempre a esa hora, entrando en franjas por la persiana que nunca cerraba del todo, y aun así el silencio era distinto. Lo escuchó mientras llenaba el depósito, como quien revisa un motor que suena raro sin saber todavía por qué.
 
-Se levantó, se lavó la cara, y en la cocina encontró la cafetera exactamente donde Chiara la dejaba siempre, en el mismo ángulo, con el filtro que ella usaba y él nunca había aprendido a comprar bien. La llenó de agua, la puso a andar, y se quedó de pie esperando el café sin pensar en nada que pudiera nombrar después.
+El teléfono vibró sobre la barra mientras el café empezaba a caer.
 
-Se vistió rápido: la ropa que se ponía cuando el día iba a terminar tarde, botas, una chaqueta que no le importaba perder. Revisó el teléfono. Nada de Chiara. No esperaba nada de Chiara.
+Un número que no tenía guardado. El mismo tipo de número, sin nombre ni prefijo que dijera nada, que le había dado la fecha.
 
-Salió del loft antes de las ocho, dejando la taza sin lavar en el fregadero, y condujo hacia El Patio con las ventanas bajas y la radio apagada.
+*Material largo: lo recibe S. Crowe al aterrizar. Él indica el punto. Completo.*
+
+Kal lo leyó una vez. Después lo leyó otra, despacio, y en la segunda lectura la letra ya no importaba: importaba la inicial delante del apellido, como en una factura.
+
+Crowe.
+
+El hombre del mostrador. El que había ido a la cancha de la casa común de noche, con las manos en los bolsillos, a preguntarle si la mujer de la ventana era suya. El que le ponía precio a todo lo que Kal y Chiara tocaban juntos y lo cantaba en voz alta, para que se oyera.
+
+Kal no se preguntó desde cuándo. Se preguntó cuánto les había contado.
+
+Se sirvió el café. Se lo tomó de pie, junto a la barra, mirando el teléfono bocabajo como si pudiera vibrar otra vez y decir algo distinto. No vibró. Cuando terminó la taza, le dio vuelta, borró el mensaje y se quedó un segundo con el pulgar sobre la pantalla vacía.
+
+Las armas ya tenían dueño. Se las había prometido a Varek en su patio, a cambio de algo que Varek ya había empezado a pagar. Lo del número sin nombre era otra cosa: que el que tasaba a Chiara por la ventana fuera a cobrar también esto.
+
+Se vistió rápido: la ropa que se ponía cuando el día iba a terminar tarde, botas, una chaqueta que no le importaba perder. Revisó el teléfono otra vez. Nada de Chiara. No esperaba nada de Chiara.
+
+Salió antes de las ocho, dejando la taza sin lavar en el fregadero, y bajó al Patio con la radio apagada.
 
 ---
 
-El Patio ya tenía movimiento cuando llegó. Nadir estaba con Danny junto a la grúa, contando algo en voz baja que no sonaba a dinero por primera vez en mucho tiempo. Héctor estaba sentado en el capó de siempre, con una taza de algo que humeaba, mirando hacia la calle como si esperara que Kal llegara a esa hora.
+El Patio ya tenía movimiento. Nadir estaba con Danny junto a la grúa, contando algo en voz baja que no sonaba a dinero por primera vez en mucho tiempo. Héctor estaba sentado en el capó de siempre, con una taza que humeaba, mirando hacia la calle como si esperara que Kal llegara a esa hora.
 
-—Ahí está —dijo Nadir, sin levantar del todo la vista—. Pensé que ibas a quedarte dormido.
+—Ahí está —dijo Nadir, sin levantar del todo la vista—. Pensé que ibas a quedarte dormido, khoya.
 
 —No dormí.
 
-—Se te nota. —Nadir se limpió las manos en un trapo que ya no limpiaba nada—. Danny ya revisó lo que había que revisar. Garrett llega a las cuatro, dijo que antes no tiene sentido.
+—Se te nota. —Nadir se limpió las manos en un trapo que ya no limpiaba nada—. Danny ya revisó lo que había que revisar. Garrett llega a las cuatro. Dijo que antes no tiene sentido.
 
-—Bien.
+—¡Jefe! —Danny levantó los dos brazos desde la grúa, con una llave en cada mano—. Si hoy sale bien, te lavo la grúa. Por dentro. Bueno, la cabina.
 
-Danny levantó la mano sin decir más que eso, un gesto corto, y volvió a lo suyo. Kal se acercó a Héctor, que no se movió del capó.
+Kal le contestó con la barbilla, y Danny se rió solo y volvió a lo suyo. Kal se acercó a Héctor, que no se movió del capó.
 
-—¿Todo listo? —preguntó Héctor.
+—Todo listo —preguntó Héctor.
 
 Kal señaló con la barbilla la grúa, a Danny, la camioneta.
 
@@ -62,27 +67,59 @@ Kal no contestó enseguida. Se apoyó junto a él, con los brazos cruzados, mira
 
 —Estoy bien —dijo, al fin.
 
-Héctor no insistió. Le dio un trago a lo que fuera que tenía en la taza y siguió mirando la calle, y eso, viniendo de él, era casi una forma de creerle.
+Héctor no insistió. Le dio un trago a lo que tenía en la taza y siguió mirando la calle, y eso, viniendo de él, era casi una forma de creerle.
 
-El día avanzó despacio y rápido a la vez, de esa manera en que avanzan los días con una hora fija al final. Kal repasó tiempos con Nadir dos veces, no porque hiciera falta la segunda, sino porque repasarlos era lo único que podía hacer con las manos. Le dijo a Danny lo que necesitaba que llevara y Danny asintió sin preguntar por qué él y no otro. Cuando Garrett llegó, a las cuatro en punto, con los lentes puestos como siempre y una bolsa que dejó sin abrir sobre el mostrador, Kal sólo le dijo una cosa:
+El día avanzó despacio y rápido a la vez, de esa manera en que avanzan los días con una hora fija al final. Kal repasó tiempos con Nadir, y después otra vez, porque repasarlos era lo único que podía hacer con las manos. Le dijo a Danny lo que necesitaba que llevara, y Danny asintió sin preguntar por qué él y no otro.
 
-—Necesito que estés en el aire antes de que alguien tenga que pedírtelo dos veces.
+Garrett llegó a las cuatro en punto, con los lentes puestos y una bolsa que dejó sin abrir sobre el mostrador. Kal lo llevó al fondo, junto a la puerta trasera, donde el ruido del compresor tapaba lo demás.
 
-Garrett asintió una vez y volvió a su bolsa.
+—Cuando estés en el aire, no vas a donde te digan después —le dijo—. Vas a donde quedamos tú y yo. Al de Varek.
+
+Garrett lo miró por encima de los lentes un segundo. Después asintió una vez, y Kal supo que eso no iba a necesitar repetirse.
+
+—Y necesito que estés en el aire antes de que alguien tenga que pedírtelo dos veces.
+
+Garrett volvió a asentir y regresó a su bolsa.
+
+Nadir estaba en la puerta del fondo cuando Kal se dio vuelta. No había oído todo; había oído lo suficiente. Tenía el trapo quieto en la mano.
+
+—¿Al de Varek? —preguntó, bajo—. ¿Y el que viene por ellas?
+
+—Que espere.
+
+Nadir no se movió. Kal lo había visto quedarse quieto así dos o tres veces en todos los años que llevaba de conocerlo, y ninguna por negocio.
+
+—Esa gente tiene una carpeta con mi nombre, Kal. Wallah, que si les quitas algo…
+
+—Les llevo lo que pidieron.
+
+—Las armas también las pidieron.
+
+—Lo que pidieron de verdad. —Kal le sostuvo la mirada—. Lo otro era propina. Para su hombre.
+
+Nadir lo pensó. Kal casi podía verlo hacer la cuenta: lo que valía una carpeta sellada para alguien que mandaba mensajes sin nombre, lo que valían unas cajas para alguien que las iba a revender en la misma ciudad. Al final dobló el trapo en dos, que era lo más parecido que tenía a firmar algo.
+
+—Safi —dijo—. Pero si se quejan, se quejan contigo.
+
+—Conmigo.
+
+Desde el capó, Héctor los había visto hablar sin oír nada. Siguió mirando la calle.
 
 El teléfono le vibró a Kal pasadas las seis. Un número que ya tenía guardado, aunque nunca con un nombre completo.
 
 —Mercer.
 
-—Varek. —La voz de Dario era la misma de siempre, medida, sin nada que se le pudiera repetir en contra—. Esta noche. Cuando empiece el ruido, vas a saber que cumplí mi parte.
+—Varek. —La voz de Dario era la misma de siempre, medida, sin nada que se le pudiera repetir en contra—. Esta noche. Cuando empiece el ruido, va a saber que cumplí mi parte.
 
 Kal no contestó.
 
-—Las armas, Mercer.
+—Las armas, señor Mercer.
 
 —Van a estar completas.
 
-Colgó sin más, y Kal se guardó el teléfono, y por un momento se quedó de pie en medio del Patio, viendo a Nadir cargar algo en la camioneta, a Danny revisando una lista, a Héctor sentado todavía en el mismo capó, a Garrett hablando en voz baja con nadie en particular junto a su bolsa cerrada.
+Dario colgó sin más. Kal se guardó el teléfono y se quedó de pie en medio del Patio, viendo a Nadir cargar algo en la camioneta, a Danny revisando una lista, a Héctor en el mismo capó, a Garrett hablando en voz baja con nadie en particular junto a su bolsa cerrada.
+
+Completas. Para Varek, que las había comprado primero. Y a Crowe, al final de una carretera, una noche de esperar a un helicóptero que se iba a ir a otra parte.
 
 Faltaban horas para salir. Suficientes para una cosa más.
 
@@ -90,15 +127,15 @@ Faltaban horas para salir. Suficientes para una cosa más.
 
 No lo pensó como una decisión. Fue más parecido a lo que le pasaba con el volante cuando manejaba sin pensar en la ruta: un reflejo que ya sabía adónde iba antes de que él terminara de saberlo. Le dijo a Nadir que volvía en un rato, subió al Peugeot y condujo hacia el centro sin decir a dónde.
 
-Nadie preguntó. O alguien preguntó y no lo dijo en voz alta — Héctor lo miró salir del portón con la misma cara con la que había mirado la calle toda la tarde, y no se movió de su lugar.
+Héctor lo miró salir del portón con la misma cara con la que había mirado la calle toda la tarde, y no se movió de su lugar.
 
-El Monarch tenía las luces de siempre a esa hora, las que nunca cambiaban con el día, y Kal cruzó el vestíbulo sin detenerse en nada, subió al elevador de la Torre Norte y dejó que lo llevara arriba mientras miraba los números pasar sin verlos de verdad.
+El Monarch tenía las luces de siempre a esa hora, las que nunca cambiaban con el día. Kal cruzó el vestíbulo sin detenerse en nada, subió al elevador de la Torre Norte y dejó que lo llevara arriba mientras miraba los números pasar sin verlos de verdad.
 
 Salió al pasillo del último piso. Estaba vacío, como siempre. Caminó hasta la puerta del penthouse y se detuvo frente a ella con una mano a medio levantar, sin llegar a tocar la madera.
 
 Se quedó así un momento.
 
-No sabía si estaba del otro lado. No hacía falta saberlo. Le bastaba con lo que quedaba de la noche anterior — el sillón, la distancia que ella había puesto entre los dos, la mitad de verdad que él mismo le había dado — para entender lo mismo sin necesidad de comprobarlo.
+No sabía si estaba del otro lado. No hacía falta saberlo. Le bastaba con lo que quedaba de la noche anterior —el sillón, la distancia que ella había puesto entre los dos, la mitad de verdad que él mismo le había dado— para entender lo mismo sin necesidad de comprobarlo.
 
 Sé que si entro no voy a hacer lo que tengo que hacer.
 
@@ -110,7 +147,7 @@ Se quedó unos segundos más frente a la puerta. Movió los labios una vez, sin 
 
 No dejó ningún recado en recepción. No le escribió. No llamó.
 
-Bajó, cruzó el vestíbulo, subió al Peugeot y condujo de vuelta a La Almendra sin encender la radio, sin repasar lo que acababa de no hacer. Para cuando llegó al Patio, ya estaba otra vez en lo que seguía: contó las cajas con Danny, repasó lo necesario con Nadir, confirmó con Garrett.
+Bajó, cruzó el vestíbulo, subió al Peugeot y condujo de vuelta a La Almendra sin encender la radio. Para cuando llegó al Patio, ya estaba otra vez en lo que seguía: contó las cajas con Danny y le dio a Nadir la última versión de lo que nadie iba a escribir.
 
 Nadie le preguntó dónde había estado. Héctor lo miró bajar del coche un segundo más de lo normal, y no dijo nada.
 
@@ -118,25 +155,27 @@ Nadie le preguntó dónde había estado. Héctor lo miró bajar del coche un seg
 
 Salieron después de la medianoche, en dos vehículos, sin luces innecesarias, y llegaron al perímetro de Camp Alder con tiempo de sobra para esperar. Desde ahí, entre los árboles, la base era una línea de cercas y luces bajas contra un cielo sin luna. Más adentro, bajo reflectores blancos, se recortaban los techos de los hangares. El aire olía a polvo y a pasto seco.
 
-El ruido empezó del otro lado del perímetro, donde Dario había dicho que iba a empezar. No hizo falta más que eso para que la atención se moviera hacia allá.
+El ruido empezó del otro lado del perímetro, donde Dario había dicho que iba a empezar, y la atención se movió hacia allá.
 
 —Ahora —dijo Kal.
 
-Cuando llegó la ventana, entraron. Kal no llevaba en la cabeza un plano ni una ruta memorizada de un manual: llevaba lo que le quedaba de conocer un lugar como éste desde adentro, la misma calma con la que se movía en cualquier sitio que no fuera suyo. Nadir se movía cerca de él sin hacer preguntas. Héctor cubría la parte de atrás. Danny llevaba lo que había que llevar. Garrett ya no estaba con ellos: había ido hacia el punto donde tenía que estar el helicóptero, y su trabajo, a partir de ese momento, era mantener eso posible.
+Entraron. Kal no llevaba en la cabeza un plano ni una ruta memorizada de un manual: llevaba lo que le quedaba de conocer un lugar como ése desde adentro, la misma calma con la que se movía en cualquier sitio que no fuera suyo. Nadir se movía cerca de él sin hacer preguntas. Héctor cubría la parte de atrás. Danny llevaba lo que había que llevar, callado por primera vez en todo el día. Garrett ya no estaba con ellos: se había ido hacia donde tenía que estar el helicóptero, y su trabajo, a partir de ese momento, era mantener eso posible.
 
 Encontraron lo que habían ido a buscar donde tenían que encontrarlo. Adentro todo era concreto y estantes de metal, y un silencio que hacía sonar cada paso más de la cuenta.
 
-El expediente estaba sellado. Kal comprobó la etiqueta contra lo que llevaba anotado, la confirmó, y lo guardó. No lo abrió. No le dio vuelta para leer nada.
+El expediente estaba sellado. Kal comprobó la etiqueta contra lo que llevaba anotado, la confirmó y lo guardó. No lo abrió. No le dio vuelta para leer nada.
 
 Las armas pesaban más de lo que se veían. La primera carga salió como salen las cosas que se ensayaron de más: Danny y Nadir delante, Héctor detrás, Kal en medio, nadie hablando. Cruzaron hasta el claro, de vuelta al aire frío de la noche, sin que se encendiera una sola luz que no estuviera encendida antes. Garrett recibió las cajas en la puerta del helicóptero y les levantó el pulgar sin quitarse los lentes.
 
 Nadir soltó una risa corta, sin aire, y se tapó la boca con el dorso del guante.
 
-Kal miró hacia los almacenes y después al helicóptero. Varek las quería completas.
+Kal miró hacia los almacenes y después al helicóptero. Con eso ya tenía lo que Halbrook quería de verdad. Lo que había en las cajas era lo de Varek, y Varek las quería completas, y lo que no se subiera ahora se quedaba en un estante para la próxima vez que alguien le mandara a Crowe por ellas.
 
 —Una más —dijo.
 
-Volvieron. La segunda vuelta fue igual de limpia hasta la mitad.
+Nadir lo miró. No dijo nada. Volvieron.
+
+La segunda vuelta fue igual de limpia hasta la mitad.
 
 Entonces el ruido del otro lado empezó a cambiar de tono, más cerca de lo que había estado un momento antes.
 
@@ -180,15 +219,17 @@ El helicóptero se despegó con la puerta todavía abierta.
 
 Lo gritaron los dos, o uno primero y el otro encima, y el motor se lo comió a la mitad.
 
-Kal no levantó la cabeza. Dejó la mano abierta sobre la tierra, lejos del arma, mientras alguien le juntaba las muñecas en la espalda, y oyó el helicóptero subir y alejarse hasta que no fue más que un ruido decreciente sobre los árboles.
+Kal no levantó la cabeza. Dejó la mano abierta sobre la tierra, lejos del arma, mientras alguien le juntaba las muñecas en la espalda, y oyó el helicóptero subir y alejarse sobre los árboles. No hacia la carretera donde lo esperaban. Hacia el otro lado, donde Kal le había dicho a Garrett que fuera, con las cajas completas y los tres adentro.
 
-Lo levantaron entre dos. Por el camino llegaba una tercera unidad, con las luces encendidas. Lo pusieron contra el capó, con la cara vuelta hacia el metal frío, mientras alguien le revisaba los bolsillos y alguien más gritaba algo por radio sobre un sospechoso detenido cerca de Camp Alder.
+Lo levantaron entre dos. Por el camino llegaba una tercera unidad, con las luces encendidas. Lo pusieron contra el capó, con la cara vuelta hacia el metal frío, mientras alguien le revisaba los bolsillos y alguien más gritaba por radio algo sobre un sospechoso detenido cerca de Camp Alder.
 
-—¿Nombre? —preguntó uno de los agentes.
+—Nombre —preguntó uno de los agentes.
 
 Kal se lo dio. El verdadero. No tenía sentido dar otro.
 
 Contestó lo indispensable, dejó que lo esposaran, y se quedó callado el resto del trayecto hasta la comisaría más cercana, mirando por la ventanilla la carretera que se alejaba de Camp Alder en la dirección contraria a la que él hubiera querido ir.
+
+En algún tramo de esa carretera, o de otra, alguien iba a mirar el reloj una vez más antes de llamar a Crowe. Kal no supo cuál. Tampoco le importó.
 
 ---
 

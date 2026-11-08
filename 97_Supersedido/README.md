@@ -29,4 +29,5 @@ Ideas, planes y diseños que el autor retiró o que quedaron reemplazados. **No 
 - [[97_Supersedido/Beatrice_Craniotomia_En_El_Corral]]: Beatrice opera a Chiara en el Cap. 9 (retirado 2026-10-04).
 - [[97_Supersedido/Kal_Origen_Decanonizado]]: la mina, el patio en subasta y el suicidio inmediato de Dale (retirado 2026-08-23 y 2026-10-14).
 - [[97_Supersedido/F2_Ejecucion_Y_Destierro]]: ejecución de Mei-Lin, coartada y destierro de Bonnie a Italia (retirado 2026-11-07).
-- [[97_Supersedido/Fichas_Detalles_Menores]]: retiros menores de Alessio, Chiara, Elenna, Fabrizio (voz), John, Mabel, Natalie, Walt y Halbrook.
+- [[97_Supersedido/Anya_Voronina]]: Anya, la rusa ex amante de Kal y la deuda de F4; Collins hereda el papel (retirado 2026-11-07).
+- [[97_Supersedido/Fichas_Detalles_Menores]]: retiros menores de Alessio, Chiara, Elenna, Fabrizio (voz), John, Mabel, Natalie, Walt, Halbrook y Nicholas Voss (María Voss).

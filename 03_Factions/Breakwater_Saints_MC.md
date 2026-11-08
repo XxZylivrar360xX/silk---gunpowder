@@ -2,6 +2,8 @@
 
 *Ficha de Facción — banda motociclista costera*
 
+> **CANON DEL AUTOR (2026-11-07), Guerra de los Tres:** bando de Dario, que los usa para cortar el flujo de Kal en la costa (resuelve el PENDIENTE de abajo). Ver [[03_Factions/Mapa_de_Conflicto_Activo#Bandos en la Guerra de los Tres (*Voto de Ceniza*) — CANON DEL AUTOR (2026-11-07)]].
+
 **Qué es:** club motociclista y banda de seguridad de piso en la costa.  
 **Territorio:** La Isla, en la bahía de [[05_Locations/San_Aurelio]]: marinas (norte), hoteles (este) y clubes (sur), más bares, estacionamientos, muelles menores y eventos nocturnos. También tienen el piso nocturno alrededor del Monarch (Paseo Pacífica, valet, bares), pero no el casino ni Punta Dorada ([[99_Reference/location_references/mapa_san_aurelio.png|mapa definitivo]]; CANON DEL AUTOR, 2026-10-06).  
 **Cabeza:** Naomi "Nox" Ward.  

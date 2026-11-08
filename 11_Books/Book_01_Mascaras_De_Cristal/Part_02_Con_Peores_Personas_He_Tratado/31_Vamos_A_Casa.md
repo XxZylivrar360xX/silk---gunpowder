@@ -1,4 +1,5 @@
 <!--
+NUEVO CAUCE, Fase 4 (2026-11-07, terminal B; [[98_Agent_Handoff/encargos/ENCARGO_Fase4_Paralelo_Reusa]]): pasa a ser el **nuevo Cap. 29** (tarjeta T16, H7, POV Chiara, «Reusa y unifica el POV»). DECISIÓN DEL AUTOR 2026-11-07: Reusa mínimo (sin poda); «Bellandi» de Harper se queda; la línea de Varek pasa a «el día anterior», sin cobrar la deuda. DISEÑO del agente, espera lectura: seis deslices al interior de Kal pasan a lo que Chiara ve o deduce (subida al vestidor, nombre de Harper, satisfacción en el coche, costillas al cargarla, «Vio que Kal también se había dado cuenta», Varek un día antes). Diálogo intacto. Versión anterior: [[11_Books/Book_01_Mascaras_De_Cristal/Escenas_Eliminadas/31_Vamos_A_Casa_Version_2026-11-07]]. Detalle: [[98_Agent_Handoff/sessions/2026-11-07_claude_fase4_cap29_vamos_a_casa]]. Costura de apertura PROVISIONAL: depende del nuevo 28 (Las Gemelas, la piedra y el nombre de Halbrook). Cementerio PROVISIONAL: depende de que el nuevo 25 conserve «Y decirle que Marisol está bien». «No era una orden / Sonó como una» es eco del archivo 28, que pasa al nuevo 26 o 27. La reunión de El Patio (coda vieja del 30) sale de página: el diálogo del coche sobre Nadir es lo único que la cuenta. Las fechas y numeraciones de abajo son anteriores al cauce.
 Renumerado 2026-11-01 (decisión del autor, carretera del Libro I): antes Cap. 39.
 Corte de parte 2026-10-29 (decisión del autor): la Parte II abre ahora en el Cap. 26 (*La cifra*); el ordinal «N-ésimo capítulo de la Parte II» de abajo es anterior a ese corte.
 Renumerado 2026-10-22 (decisión del autor): antes Cap. 31; numeración corrida definitiva, el archivo conserva su nombre.
@@ -64,7 +65,7 @@ Colgó antes de que ella pudiera pedirle más, y Chiara se quedó mirando el tel
 
 Debía haber bajado hacía veinte minutos. No bajó.
 
-Para cuando Kal se cansó de esperar en el estacionamiento y subió al penthouse sin que nadie tuviera que abrirle, el vestidor parecía el después de un desastre bien intencionado: una blusa de seda sobre la cama, descartada; dos vestidos colgados en ganchos improvisados en la puerta del clóset, como si hubieran estado a punto de ganar y hubieran perdido en el último segundo; dos pares de sandalias en el suelo, ninguno elegido. Chiara estaba de pie frente al espejo con un short de mezclilla puesto y otra blusa colgando de la mano sin decidirse. Sabía sentarse a negociar con Dario Varek. No tenía la menor idea de qué se usaba para ir a pescar.
+Para cuando Kal subió al penthouse sin que nadie tuviera que abrirle, cansado de esperar en el estacionamiento, el vestidor parecía el después de un desastre bien intencionado: una blusa de seda sobre la cama, descartada; dos vestidos colgados en ganchos improvisados en la puerta del clóset, como si hubieran estado a punto de ganar y hubieran perdido en el último segundo; dos pares de sandalias en el suelo, ninguno elegido. Chiara estaba de pie frente al espejo con un short de mezclilla puesto y otra blusa colgando de la mano sin decidirse. Sabía sentarse a negociar con Dario Varek. No tenía la menor idea de qué se usaba para ir a pescar.
 
 Kal se detuvo en la puerta. Se aclaró la garganta.
 
@@ -172,7 +173,7 @@ El teléfono de Kal se encendió solo en la pantalla del tablero: NADIR.
 
 —Ya vamos llegando —dijo la voz de Nadir, con un motor de fondo—. Ah, y una cosa. Invitamos a Harper.
 
-Kal frunció el ceño un segundo antes de que el nombre completo le cayera encima.
+Kal frunció el ceño un segundo, y después se le vio en la cara que el nombre completo le había caído encima.
 
 —¿Harper? —Se enderezó en el asiento—. Carajo. Harper. Tenía que verme con ella hoy.
 
@@ -180,7 +181,7 @@ Kal frunció el ceño un segundo antes de que el nombre completo le cayera encim
 
 Chiara, con el sándwich a medio camino de la boca, hizo un esfuerzo genuino por no reírse y falló a medias, tapándose con la mano libre y mirando de golpe hacia la ventanilla, como si algo ahí afuera fuera muy interesante.
 
-Kal no se defendió. La miró de reojo, sin ninguna intención de darle esa satisfacción completa.
+Kal no se defendió. La miró de reojo y no le dio la satisfacción completa.
 
 —¿Ya vas en camino, hermano? —preguntó Nadir.
 
@@ -316,7 +317,7 @@ Del otro lado de la parrilla, Danny ya iba por el segundo pescado.
 
 ***
 
-Kal la sacó del grupo casi sin que ella lo notara, con la excusa de mostrarle un recodo del lago donde el agua estaba más tranquila, y cuando ya estaban lo bastante lejos como para que las voces de los demás llegaran sueltas y sin palabras, la levantó del agua sin avisar, un brazo bajo las rodillas y otro en la espalda, con el agua chorreándole de la ropa. Algo le tiró del costado al hacerlo — las costillas todavía le cobraban esa clase de cosas—. Chiara lo sintió en el brazo que la sostenía, y en la cara de él no se vio nada.
+Kal la sacó del grupo casi sin que ella lo notara, con la excusa de mostrarle un recodo del lago donde el agua estaba más tranquila, y cuando ya estaban lo bastante lejos como para que las voces de los demás llegaran sueltas y sin palabras, la levantó del agua sin avisar, un brazo bajo las rodillas y otro en la espalda, con el agua chorreándole de la ropa. Chiara sintió en el brazo que la sostenía que algo le tiraba del costado —las costillas todavía le cobraban esa clase de cosas—, y en la cara de él no se vio nada.
 
 Chiara se aferró a su cuello con las dos manos.
 
@@ -446,7 +447,7 @@ Chiara dejó el bolso sobre la mesa y caminó hasta el mueble como si estuviera 
 
 Chiara cerró los ojos un segundo.
 
-Había negociado con Dario Varek esa misma mañana. Había administrado hombres que movían millones de dólares sin pestañear. Había conseguido que arquitectos cambiaran planos enteros con una sola llamada.
+Un día antes le había sostenido la mirada a Dario Varek. Había administrado hombres que movían millones de dólares sin pestañear. Había conseguido que arquitectos cambiaran planos enteros con una sola llamada.
 
 Y ahí estaba, mojada, cansada, discutiendo con Kal Mercer por medio metro de sillón.
 
@@ -470,7 +471,7 @@ Kal agarró el otro.
 
 Ella levantó la vista hacia él.
 
-Kal también se dio cuenta.
+Vio que Kal también se había dado cuenta.
 
 Los dos aguantaron exactamente medio segundo antes de empezar a reírse.
 

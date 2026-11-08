@@ -1,65 +1,47 @@
 # Current Brief
 
-Actualizado: 2026-11-07. Máximo 800 palabras. **Numeración del 2026-11-01: 56 caps.**; equivalencias en el [[11_Books/Book_01_Mascaras_De_Cristal/00_Book_Map]]. «Archivo N» cita el prefijo del archivo. Brief anterior íntegro: [[98_Agent_Handoff/archive/2026-11-04_CURRENT_BRIEF]].
+Actualizado: 2026-11-08. Máximo 800 palabras. **Numeración vigente: 56 caps.** (2026-11-01); equivalencias en [[11_Books/Book_01_Mascaras_De_Cristal/00_Book_Map]]. El nuevo cauce la llevará a 47 al cerrar cada Parte. «Archivo N» cita el prefijo del archivo. Brief anterior íntegro: [[98_Agent_Handoff/archive/2026-11-07_CURRENT_BRIEF]].
 
 ## Foco y siguiente paso
 
-1. **Libro I, lectura del autor** de borradores y prosa DISEÑO. Rutas en [[98_Agent_Handoff/PENDING]]. Lectura en curso del Cap. 30 al 56: [[98_Agent_Handoff/sessions/2026-10-31_claude_guia_lectura_caps34_60]] (numeración de 60). CANON 2026-10-31: «recupere esto; aquí no pasó nada» va a la base, no a Kal.
-1b. **Cap. 1 reescrito desde cero (2026-11-05, DECISIÓN DEL AUTOR; BORRADOR; observaciones del autor del 2026-11-06 aplicadas, redacción DISEÑO):** [[98_Agent_Handoff/sessions/2026-11-05_claude_cap01_desde_cero]]; plan: [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/00_Plan_Cap01_Desde_Cero]]. Versión anterior en `Escenas_Eliminadas/`. Sin entregables hasta el cierre.
-2. **Cap. 3 (2026-11-05, DECISIÓN DEL AUTOR; BORRADOR; observaciones del autor del 2026-11-06 aplicadas, redacción DISEÑO):** Walt ya sabe que Jim murió; el cementerio es duelo en familia: [[98_Agent_Handoff/sessions/2026-11-05_claude_marisol_y_duelo_caps01_03]].
-3. **Carretera del Libro I, aprobada** (autor, 2026-11-01): [[13_Auditorias/Book_01_Mascaras_De_Cristal/Carretera_Libro_I]]; [[98_Agent_Handoff/sessions/2026-11-01_claude_paso3_saldos_carretera]]; renumeración: [[98_Agent_Handoff/sessions/2026-11-01_codex_para_claude_renumeracion_56]]. Primer giro en el 12; Walt al II.
-4. **Libro II, *Sombras de Poder*** (diseño activo; prosa bloqueada hasta cerrar el I): [[11_Books/Book_02_Sombras_De_Poder/00_Boceto_Lista_Capitulos]] (61 caps., DISEÑO), [[11_Books/Book_02_Sombras_De_Poder/00_Plan_Cuatro_Partes]], [[11_Books/Book_02_Sombras_De_Poder/00_Matriz_Temporal]]. Esperan al autor: F2, semillas Kal–Chiara, voces REL-01, Navidad. **Directiva:** construirlo para cobrar [[11_Books/Book_02_Sombras_De_Poder/Part_04_Torna_A_Casa/00_Diseno_Noche_Stavanger]].
+1. **Fase 4 del nuevo cauce (Libro I), en curso:** reconstruir por Parte, capítulo por capítulo, según [[11_Books/Book_01_Mascaras_De_Cristal/00_Mapa_Cauce_Cap11_Camp_Alder]] (APROBADO, CANON 2026-11-07). Hechos los **nuevos 11–19** (BORRADOR, DISEÑO; avance en el mapa; el 18 funde los archivos 20 y 21). **Siguiente:** renumerar la Parte I según «Siguiente» del mapa; lo que falte de las Partes II y III, en el avance del mapa. El gesto del cuello se siembra en el Cap. 7.
+2. **Lectura del autor** de borradores y prosa DISEÑO: rutas en [[98_Agent_Handoff/PENDING]].
+3. **Libro II** (diseño; prosa bloqueada hasta cerrar el I): [[11_Books/Book_02_Sombras_De_Poder/00_Boceto_Lista_Capitulos]] (61 caps., DISEÑO), [[11_Books/Book_02_Sombras_De_Poder/00_Plan_Cuatro_Partes]], [[11_Books/Book_02_Sombras_De_Poder/00_Matriz_Temporal]]. **Directiva:** construirlo para cobrar [[11_Books/Book_02_Sombras_De_Poder/Part_04_Torna_A_Casa/00_Diseno_Noche_Stavanger]].
+
+## Nuevo cauce del Libro I (CANON DEL AUTOR, 2026-11-07)
+
+Plan: [[11_Books/Book_01_Mascaras_De_Cristal/00_Plan_Nuevo_Cauce]]; diagnóstico: [[13_Auditorias/Book_01_Mascaras_De_Cristal/Mapa_POV_Libro_I]].
+
+- **Reglas:** un POV por capítulo, del que más arriesga ([[12_Craft_Policies/Arquitectura_De_Perspectiva]]); ~185–190k palabras, 47 caps. (Partes 1–19, 20–32, 33–47); romance trenzado con la trama.
+- **Fuerzas:** el Tasador (Crowe) es el antagonista del I y trabaja para Halbrook. Halbrook sale de la prosa salvo el epílogo, sin hablar, pero su nombre se queda. Varek es un recurso radiactivo, «confiable y accesible», con policías propios (no Lucía; exentos Nick V. y Collins). Il Consorzio es respaldo y atadura de Chiara. Trix muere en el III y deja huérfana a Iris.
+- **Tramo 11 → Camp Alder:** robo del Monarch sin Dario (Halbrook → Crowe → Ferreyra y Mei-Lin; [[11_Books/Book_01_Mascaras_De_Cristal/Part_02_Con_Peores_Personas_He_Tratado/00_Plan_Robo_Monarch]]). Crowe asesina a Boone y se cobra en el corral con bandera falsa de Volpi; ahí matan a Vento. *Bajo juramento* sale. Matteo se va por las rutas. Pacto del 09-18 sin papeles de Nadir; Kal desvía a Varek el lote de armas que iba para Crowe; Chiara le debe un favor a Varek; se conserva la línea de Héctor.
 
 ## Borradores que esperan lectura (Libro I; todos DISEÑO o BORRADOR)
 
-- **Caps. 4–9 y 11:** Cap. 4 como río ([[98_Agent_Handoff/sessions/2026-11-03_claude_cap04_rio]]); una semana y cajero ([[98_Agent_Handoff/sessions/2026-11-03_claude_cap05_una_semana_y_cajero]]); favor de Nadir ([[98_Agent_Handoff/sessions/2026-11-04_claude_favor_nadir_vento]]); La Esquina y El Relevo (comentario del archivo 04).
-- **Cap. 5:** hospital y Kyle ([[98_Agent_Handoff/sessions/2026-11-02_claude_cap05_hospital_kyle]]); coda del 05b ([[98_Agent_Handoff/sessions/2026-11-01_claude_fusion_05b_coda_05a]]).
-- **Cap. 6 *La pizza de calabaza* (05c):** apertura nueva, la invitación a cenar; Il Gelsomino sin ping-pong.
-- **Hilo C:** el Tasador, villano del I; Varek, poder neutral; Crowe en persona en el 12: [[11_Books/Book_01_Mascaras_De_Cristal/00_Plan_Hilo_Tasador]]; trabajo para Crowe: [[98_Agent_Handoff/sessions/2026-11-01_claude_trabajo_para_crowe]].
-- **Escalones de la Parte I:** [[98_Agent_Handoff/sessions/2026-11-01_claude_escalones_parte_I]]. **H13, *Grazie*** (archivo 21b): [[98_Agent_Handoff/sessions/2026-11-01_claude_h13_grazie]].
-- ***Bajo juramento*** (archivo 24): [[98_Agent_Handoff/sessions/2026-11-01_claude_fusion_bajo_juramento]].
-- **Robo del Monarch** (22a, 22b): [[11_Books/Book_01_Mascaras_De_Cristal/Part_02_Con_Peores_Personas_He_Tratado/00_Plan_Robo_Monarch]].
-- **24c y 24d:** [[98_Agent_Handoff/sessions/2026-10-29_claude_cap30_oveja_entre_lobos]].
-- **Arco de Walt** (fuera del libro; candidato al II): [[11_Books/Book_01_Mascaras_De_Cristal/Escenas_Eliminadas/00_Plan_Arco_Walt_Condicional]]. Tommaso no cobra.
-- **Acumulada:** regla 05 (`sessions/2026-10-2*_claude_regla05_*`; [[98_Agent_Handoff/sessions/2026-10-31_claude_regla05_abiertas_resueltas]]); cirugías 09–24b (`sessions/2026-10-27_*`, `2026-10-28_*`); Vento ([[11_Books/Book_01_Mascaras_De_Cristal/00_Plan_Vento]]); Rocco.
+Rutas y sesiones en [[98_Agent_Handoff/PENDING]] («Lecturas del autor»).
+
+- **Caps. 1 y 3** (DECISIÓN DEL AUTOR 2026-11-05; observaciones del 06 aplicadas); **Caps. 4–9** (río, cajero, favor de Nadir, hospital y Kyle, coda del 05b, apertura nueva del 05c); **nuevos 11–19** (Fase 4).
+- **Collins sustituye a Anya** (CANON 2026-11-07; prosa DISEÑO en los Caps. 3, 27 y 40 y en *Ya llegó*): [[98_Agent_Handoff/sessions/2026-11-07_claude_collins_sustituye_a_anya]]. Ahí también: Dana es esposa de Voss, el doble golpe de Halbrook en el III y los bandos de la guerra ([[03_Factions/Mapa_de_Conflicto_Activo]]).
+- **Hilo del Tasador** (anterior al cauce; en lo que choque, manda el cauce): [[11_Books/Book_01_Mascaras_De_Cristal/00_Plan_Hilo_Tasador]].
+- **Otros:** escalones de la Parte I, *Grazie*, robo del Monarch, 24c–24d, Walt, regla 05, Vento, Rocco.
 
 ## Estado del manuscrito (Libro I, *Máscaras de Cristal*)
 
-- **56 caps. en prosa.** Partes: I = 1–22, II = 23–39, III = 40–56. «—Ciao, bella.» cierra el 55; el 56 (Halbrook) cierra el libro ([[11_Books/Book_01_Mascaras_De_Cristal/00_Plan_Arco_Final_Sin_Kal]]). Estados: [[12_Craft_Policies/CHAPTER_STATUS]]. Leído no es sellado.
-- **Calendario (CANON):** sep A1 → 5 ene A3; la Mesa, 13 dic; Kal preso 19 dic–5 ene.
-- **San Aurelio (CANON):** Oregon, inspirada en Portland, bahía ficticia; vía costera 101. Mapa: [[99_Reference/location_references/mapa_san_aurelio.png]].
-- **Mando policial (CANON):** sin jefe en el I; Lucía, subjefa en funciones. Libros II–III: [[02_Characters/Lucia_Varek]].
-- **Exportación:** EPUB, PDF y audio al día (2026-11-06). Falta portada HD para KDP.
-- **Regla (autor, 2026-11-03):** [[12_Craft_Policies/staging_rules/06-capitulo-de-estaciones]].
-- **Nuevo cauce del Libro I (DECISIÓN DEL AUTOR, 2026-11-07):** [[11_Books/Book_01_Mascaras_De_Cristal/00_Plan_Nuevo_Cauce]]. Un POV por capítulo, del que más arriesga ([[12_Craft_Policies/Arquitectura_De_Perspectiva]]); ~170–190k palabras; romance trenzado con la trama. **Fuerzas (CANON, 2026-11-07):** el Tasador es el antagonista del I y trabaja para Halbrook; Halbrook fuera de la prosa salvo el epílogo, sin hablar; Varek, recurso radiactivo «confiable y accesible», con policías propios (no Lucía; exentos Nick V. y Collins); Il Consorzio, respaldo y atadura de Chiara; Trix funda la enemistad Varek–Kal. Resuelto: corral de Crowe con bandera falsa (nombre de Volpi); Trix muere en el III y deja huérfana a Iris; Halbrook se nombra pero no aparece hasta el epílogo. **Robo del Monarch (CANON, 2026-11-07):** Dario fuera de la cadena; intermediarios de Halbrook → Crowe → Ferreyra (antes «Caluca», renombrado en prosa 22a/24c/24d) y Mei-Lin; Chiara lo arruina, Halbrook amenaza a Crowe y se fija en ella; Crowe asesina a Boone y se cobra en el corral ([[11_Books/Book_01_Mascaras_De_Cristal/Part_02_Con_Peores_Personas_He_Tratado/00_Plan_Robo_Monarch]]). **Tarjetas Cap. 11 → Camp Alder (CANON DEL AUTOR, 2026-11-07):** nueve decisiones en el plan (tercera tanda); entre ellas, Vento asesinado en el corral por orden de Crowe, *Bajo juramento* sale, Matteo se va por las rutas y Crowe compra las armas de Camp Alder; pendientes del tramo resueltos (H4, *El primer huésped*, POV por tarjeta). Siguiente: Fase 3 del tramo (mapa viejo → nuevo). Diagnóstico: [[13_Auditorias/Book_01_Mascaras_De_Cristal/Mapa_POV_Libro_I]].
-- **Fabrizio:** última plática en el archivo 49. CANON: la coerción de Volpi pasa a Tommaso.
-- **CANON (ChatGPT, archivos 01–08b):** Chiara llega en jet desde Palermo (hangar de Kingsley); en el archivo 41 entra por Nueva York. Lunares de Chiara desde los omóplatos por el centro de la espalda.
+- **56 caps.** (I = 1–22, II = 23–39, III = 40–56). «—Ciao, bella.» cierra el 55; el 56 (Halbrook) cierra el libro ([[11_Books/Book_01_Mascaras_De_Cristal/00_Plan_Arco_Final_Sin_Kal]]). Estados: [[12_Craft_Policies/CHAPTER_STATUS]]. Leído no es sellado.
+- **CANON:** sep A1 → 5 ene A3; la Mesa, 13 dic; Kal preso del 19 dic al 5 ene. San Aurelio en Oregon, inspirada en Portland ([[99_Reference/location_references/mapa_san_aurelio.png]]). Sin jefe de policía en el I; Lucía, subjefa en funciones. «Recupere esto; aquí no pasó nada» va a la base, no a Kal. La coerción de Volpi pasa a Tommaso. Chiara llega en jet desde Palermo (hangar de Kingsley).
+- **Exportación:** EPUB, PDF y audio al día al 2026-11-06; los nuevos 11–19 están PENDIENTES en la bitácora de audio. Falta la portada HD para KDP.
 
-## Libro II: canon vigente (resumen)
+## Libro II y canon menor
 
-Detalle: [[98_Agent_Handoff/DECISIONS]].
-
-- **Arco:** 5 ene A3 → invierno A4, cuatro Partes. Cap. 1 «Hogar» (BORRADOR) cierra en «Fabrizio está muerto». Incendio ago A3; Stavanger ~25 oct A4; H1 ~6–8 dic A4; cierra con el reveal del embarazo en Villa Candelaria.
-- **Trama:** Volpi mata a Fabrizio; Tommaso se retira tras los frenos. Mei-Lin, triple agente. Boda de Mabel y Walt abre la IV. Cobro del levantón: [[11_Books/Book_02_Sombras_De_Poder/00_Diseno_Cobro_Del_Levanton]].
-- **Chiara (CANON 2026-11-07):** protege a Kal y a los chicos porque todo lo que llega se va o muere; espiral de descenso; juntos pero separados, y Kal lee que «no es feliz». [[02_Characters/Chiara_Bellandi]].
-- **F2 (CANON 2026-11-07):** sin ejecución ni destierro. Mei-Lin, descubierta y con el juicio pospuesto, muere en El Patio (puñalada en la femoral; «Perdóname, jefe.») en manos de Nadir; Bonnie se va a Boston por elección y recibe a Elenna desde ahí. Pendientes: [[98_Agent_Handoff/sessions/2026-11-07_claude_f2_mei_lin_bonnie_nuevo_destino]].
-- **Halbrook:** Harper lo mata y cierra *Voto de Ceniza*.
-
-## Canon menor vigente
-
-- **Ilustraciones:** estilo anime; [[99_Reference/character_art/anime/README]].
-- La mano por la cara es gesto sólo de Kal; Chiara juega con joyas o uñas; "dos dedos" es de Walt.
-- Tommaso llama a Chiara "Bellandi". Rowe le debe un favor a Chiara (archivo 09). Kal absorbe Eagle Eye en el II (Charles).
-- Chiara mide 1.80 m. Harper creció en un rancho. Garrett pilotó en el ejército. Penalista de Chiara: Krane. Collins, castaño cobrizo. La Almendra toma su nombre de su meseta.
+- **Libro II:** el arco, las fechas (Stavanger ~25 oct A4; H1 ~6–8 dic A4) y la trama viven en [[11_Books/Book_02_Sombras_De_Poder/00_Plan_Cuatro_Partes]] y [[11_Books/Book_02_Sombras_De_Poder/00_Matriz_Temporal]]; decisiones en [[98_Agent_Handoff/DECISIONS]]. Lo del 2026-11-07: Chiara en espiral de descenso ([[02_Characters/Chiara_Bellandi]]); F2, con Mei-Lin muerta en El Patio a manos de Nadir y Bonnie en Boston ([[98_Agent_Handoff/sessions/2026-11-07_claude_f2_mei_lin_bonnie_nuevo_destino]]).
+- **Canon menor:** ilustraciones estilo anime ([[99_Reference/character_art/anime/README]]). La mano por la cara es sólo de Kal; Chiara juega con joyas o uñas; «dos dedos» es de Walt. Tommaso le dice «Bellandi». Rowe le debe un favor a Chiara (Cap. 11). El resto (estaturas, Krane, Collins, la meseta, Eagle Eye) está en las fichas.
 
 ## Fuentes y restricciones
 
-- Fronteras: [[00_Biblia/00_Trilogy_Structure]]. Cierre de la Parte III: [[11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/00_Plan_Cierre_Parte_III]].
+- Fronteras: [[00_Biblia/00_Trilogy_Structure]]. Carretera del Libro I (2026-11-01; el cauce la sustituye en la columna): [[13_Auditorias/Book_01_Mascaras_De_Cristal/Carretera_Libro_I]]. Cierre de la Parte III: [[11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/00_Plan_Cierre_Parte_III]].
 - CANON DEL AUTOR es intocable; DISEÑO y PENDIENTE conservan su categoría. Ningún libro está SELLADO.
-- Liberación de Kal: la revelación se reserva para *Voto de Ceniza*; Kal sólo sabe luces, bolsa de tela y loft.
-- H22 con bloqueo propio. Geografía y anclaje espacial no se podan.
-- Registro: español neutro; Rafe y Mabel, barrio de California; Dana Collins, voseo suave. Glosario: [[12_Craft_Policies/voice/00_Registro_Espanol_Neutro]].
-- Ortotipografía: pregunta de tono plano sin signos y con punto ("Qué viste."); nunca "¿" suelto.
+- La liberación de Kal se revela en *Voto de Ceniza*; Kal sólo sabe luces, bolsa de tela y loft. H22 tiene bloqueo propio. Geografía y anclaje espacial no se podan.
+- Registro y ortotipografía: [[12_Craft_Policies/voice/00_Registro_Espanol_Neutro]]; pregunta de tono plano sin signos y con punto («Qué viste.»); nunca «¿» suelto.
 
 ## Relevo y archivo
 

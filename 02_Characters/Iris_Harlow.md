@@ -1,5 +1,7 @@
 # Iris Harlow
 
+> **CANON DEL AUTOR (2026-11-07):** Trix muere en *Voto de Ceniza* (Libro III) e **Iris queda huérfana de madre siendo pequeña**. Supersede «creció con Trix» y «para la época de Elenna [Trix] vive lejos de San Aurelio; Iris se quedó». Detalle: [[11_Books/Book_01_Mascaras_De_Cristal/00_Plan_Nuevo_Cauce]].
+
 > **Numeración:** desde 2026-10-22 el Libro I usa numeración corrida definitiva (56 caps.); este documento cita la numeración anterior. Correspondencia en [[11_Books/Book_01_Mascaras_De_Cristal/00_Book_Map]].
 
 *Seda y Pólvora — Ficha de Personaje*

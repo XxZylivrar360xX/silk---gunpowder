@@ -16,7 +16,6 @@ Ver también [[02_Characters/Auditoria_Reparto]] para prioridad, desarrollo esti
 - [[02_Characters/Elenna_Mercer]] — hija biológica de Kal y Chiara; públicamente fallecida al nacer, en realidad protegida en Italia como Elenna Serra durante aproximadamente su primer año.
 - [[02_Characters/Hector_Navarro]] — figura paterna de Kal y mano derecha.
 - [[02_Characters/Nadir_Amrani]] — mejor amigo de Kal; lo ayudó primero.
-- [[02_Characters/Anya_Voronina]] — contacto rusa de Washington; amor pasado de Kal en Afganistán y deuda por los papeles de Nadir.
 - [[02_Characters/Daniel_Hayes]] — Danny; amigo del barrio y dueño de Rocco.
 - [[02_Characters/Walter_Keegan]] — amigo del padre de Kal, recién salido de prisión.
 - [[02_Characters/Natalie_Keegan]] — hija menor de Walt; bombera-paramédica (Libro I: salida de Walt; Libro II: recurrente).
@@ -84,7 +83,7 @@ Ver también [[02_Characters/Auditoria_Reparto]] para prioridad, desarrollo esti
 3. **Propiedad rural del norte** — vinculada a Harper y al taller/carreras.
 4. **Banda rival desintegrada** — origen de Mei-Lin y Bonnie.
 
-Ya resueltas: el socio del casino ([[02_Characters/Matteo_Bellacorte]]), la médica de confianza de Chiara ([[02_Characters/Camila_Rivas]]), el contacto ruso ([[02_Characters/Anya_Voronina]]) y la persona que lleva las cuentas en Almendra Towing (a escala de organización: [[02_Characters/Garrett_Cross]], administrador financiero de activos, no contador del taller).
+Ya resueltas: el socio del casino ([[02_Characters/Matteo_Bellacorte]]), la médica de confianza de Chiara ([[02_Characters/Camila_Rivas]]), el contacto ruso (fixer sin nombre desde 2026-11-07; Anya retirada: [[97_Supersedido/Anya_Voronina]]) y la persona que lleva las cuentas en Almendra Towing (a escala de organización: [[02_Characters/Garrett_Cross]], administrador financiero de activos, no contador del taller).
 
 ## Orden Recomendado
 

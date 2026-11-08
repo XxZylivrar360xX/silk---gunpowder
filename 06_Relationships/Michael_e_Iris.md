@@ -1,5 +1,7 @@
 # Michael e Iris
 
+> **CANON DEL AUTOR (2026-11-07):** Trix muere en el Libro III, con Iris pequeña. Donde abajo se cuenta con Trix viva en la época de Elenna (p. ej. reaccionar a la bomba), queda supersedido. Detalle: [[11_Books/Book_01_Mascaras_De_Cristal/00_Plan_Nuevo_Cauce]].
+
 *Seda y Pólvora — Arquitectura de relación (Libros V–VII)*
 
 > **Estado:** transición acordada con el autor el 2026-10-04. Cada punto lleva su categoría: CANON DEL AUTOR, DISEÑO o PENDIENTE. Fichas: [[02_Characters/Michael_Ardizzone]] · [[02_Characters/Iris_Harlow]] · [[02_Characters/Livia_Ferraro]] · [[02_Characters/Corrado_Ardizzone]].

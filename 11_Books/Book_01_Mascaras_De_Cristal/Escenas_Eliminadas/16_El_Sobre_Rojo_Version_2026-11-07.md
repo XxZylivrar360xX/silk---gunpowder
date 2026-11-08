@@ -1,0 +1,226 @@
+<!--
+Renumerado 2026-11-01 (decisión del autor, carretera del Libro I): antes Cap. 20.
+Renumerado 2026-10-22 (decisión del autor): antes Cap. 16; numeración corrida definitiva, el archivo conserva su nombre.
+Retitulado 2026-10-21 a «Con miedo y todo» y revertido 2026-10-22 (decisión del autor): se conserva «El sobre rojo».
+Estado: TERMINADO (aprobado por el autor 2026-09-12, tras CLOSE por lote con Gates A-F verdes; ver 98_Agent_Handoff/sessions/2026-09-12_claude_close_batch_c15_c17_c18_c19_c20.md). Cirugia editorial 2026-09-26 (Prioridad C, autorizada por el autor, sigue TERMINADO): prolepsis de la cocina, saltos de POV (casino, cuarto, auto anclado en Kal), parte del infarto a Kal comprimido, contradiccion "llegaron / seguia conduciendo" al Monarch, tercera "respuesta suficiente", siembra de Matteo ("Matteo cubre el piso", hilo C; rima con el Cap. 41). Ver 13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Caps_15-17.md.
+Cirugia de dialogo de terceros 2026-10-04 (S2 del Plan_Cirugia_Terceros_Parte_I; sigue TERMINADO): visita de Chiara a Hector podada por decision del autor -- Hector solo pregunta y gruñe; salen sus aforismos ("Se equivoca acompañada...", "sostener algo con el cuerpo..."), "Usted ya siente por el...", "con usted no me sale ser el cascarrabias" y el tuteo; la ternura queda para el monologo del Cap. 24c. Chiara se va con la pregunta "¿Y el que no le ha contado a usted?" (decision del autor). Lineas de Chiara intactas salvo el ajuste minimo de enlace. "Cuatro letras" intacta. La prosa nueva es DISENO pendiente de lectura del autor. Ver 13_Auditorias/Book_01_Mascaras_De_Cristal/Plan_Cirugia_Terceros_Parte_I.md.
+Regla 05 (esticomitia de una sola voz), 2026-10-26, a pedido del autor (sigue TERMINADO; prosa nueva DISENO pendiente de lectura): ocho cortes de eco/remate. Hospital: Kal pierde el turno ("Estaba..."; Hector: "En el cerro. Ya me dijo ella", fuera la tercera vez de "telefono apagado"), fuera el eco "Ya se que no pudieron", "¿Necesita algo?" pasa a Chiara ofreciendo otro termo (Hector contesta otra cosa), fuera "Eso intento" (gruñido). Coche: "Contra mi" pasa a Kal contando las piedras que Marisol escogia; la cadena Diego (preocupa/dije/dijiste) queda en el silencio de Chiara, "como quien memoriza a un testigo" y "Es un nombre."; "Le dije que si" pasa a gesto; fuera el remate "suena exactamente a algo que haria Marisol" (risa). Intactos "Es ella" / "No es ella", "Cuatro letras", "Con miedo y todo", "Matteo cubre el piso", el buzon de Nadir, *balayage* y el iman. Ver 98_Agent_Handoff/sessions/2026-10-26_claude_regla05_sobre_rojo_cap19.md.
+Cirugia 2026-10-28 (lectura ChatGPT 2026-10-28; AUT-01 = direccion del autor; sigue TERMINADO; prosa nueva DISENO pendiente de lectura): el miedo de Kal se aterriza en el levanton del Cap. 12: "Desde Calle Corona" (camioneta, convenio, muñeca, "solo habia ido a tomarse un cafe"); Hector solo dice lo que vio (la ferula en el barrio, "Tenia su hotel. ¿Quien escogio la Almendra?") y Kal esquiva con "Alguien tiene que cuidarla de eso". Sin Crowe, sin "juntos". Fuera "la misma cara" y "Nadie dijo nada sobre eso" (POV); alubias quemadas una sola vez; "Kal asintio" (maneja Chiara). Lineas de *Cuatro letras* intactas. Ver 98_Agent_Handoff/sessions/2026-10-28_claude_surgery_cap19_sobre_rojo.md.
+Rediseño de la Parte I, V-2 (2026-11-01, DECISIÓN DEL AUTOR; prosa DISEÑO pendiente de lectura; sigue TERMINADO): en el hospital, tras «Eso es de ella. No tuyo.», Héctor nombra el reloj: «Y trabaja para Varek. Eso también lo escogió ella. Tú a ese hombre no le debas nada.» Sin «mijo» (corrección del autor: Héctor no usa mexicanismos). Rima con «¿Quién escogió la Almendra?» y siembra el pacto del Cap. 37. Varek, poder al que no conviene deberle, no villano (decisión del 2026-11-01). Toca H10. Arrastre (corrección del autor, 2026-11-01): Kal sabe que Héctor estuvo casado; «Yo tuve una mujer. / Kal levantó la vista. / —Hace mucho. Antes de que me conocieras.» pasa a «—Te acuerdas de mi mujer. / Kal asintió.» y Héctor sólo le cuenta lo que nunca le dijo a ella. Plan: [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/00_Plan_Rediseno_Parte_I]].
+Protagonistas: Kal Mercer, Chiara Bellandi, Hector Navarro.
+Arco lector 14-16 (2026-10-22, autorizado por el autor; Propuesta_Arco_Caps_14-16_Lector; sigue TERMINADO; prosa nueva DISENO pendiente de lectura): A1 -- la visita de Chiara a Hector sale de aqui y pasa al Cap. 15 (sabado); el corte cose "Matteo cubre el piso" con "Kal llego al hospital"; el capitulo queda entero en POV Kal (casino -> hospital -> coche). A3 -- fuera el primer "Kal no contesto." y el "--No." de Hector. A4 -- "La furia le llego tarde, ya en el casino"; en el hospital "con la furia bajada, no apagada, y la sintio volver entera". A5 -- "Por primera vez desde que abrio el sobre". A6 -- en el coche Kal marca a Nadir: buzon con mensaje grabado ("Nadir. Deja recado; si es de dinero, la cifra primero."; ajustado a su voz de cobro por el supervisor), en contraste con el de Kal (Cap. 14). A7 opcion B -- maneja Chiara el sedan del Monarch; al llegar, Kal se acuerda del iman en la guantera de la camioneta y no dice nada (reaparece en el Cap. 21). A8 -- alubias y el planteo de Diego comprimidos a narrador; se conservan 6-4, "como quien memoriza a un testigo", la casa y *balayage*. Telefono: "saco el telefono" (en el 14 queda sobre el asiento). Supervision 2026-10-22: fuera "segun Marisol" en las alubias (en el 14 lo de Michael lo dice Kal); Diego trae cafe "a todas las clases", como en el 14.
+Ventana temporal: continua directamente del Capitulo 15 (POV Chiara). El domingo en que Kal vuelve del campamento (casino, hospital, coche).
+Lugares: La Casa (loft de Kal), The Monarch Casino & Hotel, Hospital Santa Aurelia.
+Funcion: FUSIONADO (2026-09-03), a peticion del autor -- el antiguo Cap. 17 (El sobre rojo, POV Kal abriendo la carta) y el antiguo Cap. 18 (Cuatro letras, las dos conversaciones de Hector) se unen en un solo capitulo, porque por separado cada uno resultaba demasiado corto para sostenerse solo. "El sobre rojo" queda como titulo oficial del capitulo completo; "Cuatro letras" se conserva como nombre de la segunda mitad (la confesion de Hector), marcado con su propio encabezado interno. Ejecuta la segunda mitad de H10 completa: Kal abre la carta y enciende el telefono a la vez, la avalancha de llamadas, corre al casino, y de ahi al hospital -- la conversacion de Hector con Kal (la de Chiara paso al Cap. 15 el 2026-10-22) y el cierre en el auto, con Chiara preguntandole por el campamento.
+Apertura por residuo: arranca del cierre del Capitulo 15 -- el sobre rojo bajo la puerta del loft, dejado ahi por Chiara sin revelar su contenido.
+-->
+
+# Capítulo 17 — El sobre rojo
+
+El sobre rojo estaba en el suelo, junto a la puerta.
+
+Lo reconoció como del Monarch antes de agacharse a recogerlo — el sello dorado, el sobre grueso — y por un segundo, sin razón para pensar otra cosa, asumió que era alguna invitación de Chiara, de esas elegantes que nunca sabía si tomarse en serio o en broma.
+
+Dejó las llaves en la isla de la cocina. Se sentó en un banco. Abrió el sobre y, casi en el mismo gesto, sacó el teléfono y lo encendió.
+
+Las dos cosas pasaron casi juntas — el papel desdoblándose bajo sus dedos, la pantalla iluminándose con el logo de siempre — y durante un segundo entero no pasó nada más que eso: un hombre sentado en su cocina, tranquilo.
+
+Fue el aroma el que lo delató antes que la letra — canela, vainilla, algo que no pertenecía a ningún sobre con sello de casino. La letra, apretada e inclinada, ya no dejaba ninguna duda.
+
+> *Kal — encontré a Héctor el viernes junto al portón de su casa. Sufrió un infarto. Está estable en Santa Aurelia. Te llamé varias veces y no tuve respuesta, así que supongo que sigues en algún cerro sin señal. Dejo esto aquí porque es el único lugar donde sé, con certeza, que vas a mirar. Ve cuando puedas — él te va a necesitar más despierto que dormido. Voy a buscar un momento para llevarle flores.*
+
+El teléfono, en su otra mano, empezó a vibrar antes de que terminara de leer — no una vez, sino en cascada, los avisos entrando todos juntos al agarrar señal después de dos días apagado. Levantó la vista de la carta el tiempo justo para ver la pantalla llenarse de golpe: el taller. Walt. Un número del hospital. Walt otra vez. Y tres llamadas de Chiara, seguidas, sin nada escrito.
+
+Tenía un mensaje de voz de Walt, del día anterior, con la voz de alguien que nunca en su vida le había tenido que hablar a una máquina:
+
+—Kal. Eh... —silencio, un golpe seco contra el micrófono, como si buscara un botón que no encontraba—. No sé si esto ya está grabando o... —otro silencio, más largo, con algo de fondo que sonaba a Walt alejando el teléfono para mirarlo—. A ver. Kal, si me escuchas, es importante. Devuelve la llamada. —Un clic, un murmullo apagado, "¿ya? ¿le doy aquí?", y el buzón cortó solo.
+
+Kal no volvió a mirar la carta. La dejó a medio leer sobre la isla, agarró las llaves que acababa de soltar, y salió sin cerrar la puerta.
+
+***
+
+Pasó por el casino antes que por el hospital, y ni él habría sabido explicar bien por qué — salvo que Chiara era la que había encontrado a Héctor, la que había llamado a la ambulancia, la que llevaba el fin de semana entero sosteniendo algo que él había dejado a medio leer en una isla de cocina.
+
+Ella lo recibió antes de que llegara a preguntar nada.
+
+—Está estable —dijo, antes de que él abriera la boca—. No paré de llamarte. Llamé a Walt. Nadie sabía dónde ir a buscarte.
+
+—Ya sé. —Kal se pasó una mano por la cara—. Estaba en un cerro con el teléfono apagado.
+
+—Nadir y Danny tampoco contestan. Nadie los ha visto desde el viernes.
+
+Kal se quedó con eso un segundo, sin poder ponerle nombre todavía a lo que significaba, y lo guardó junto con todo lo demás que no tenía tiempo de resolver esa noche.
+
+La furia le llegó tarde, ya en el casino, y no tenía dónde ir. No a Chiara, que había hecho todo lo que se podía hacer. No a Walt, que había contestado el teléfono. Quedaba él — dos días en las montañas, el teléfono guardado en el fondo de una mochila porque se lo había pedido una chica de veinte años y él había querido dárselo.
+
+—Kal.
+
+Se detuvo.
+
+—Héctor está bien —repitió Chiara, más despacio—. Está vivo, está estable, y va a estar molesto contigo si llegas ahí gritando en vez de sentarte.
+
+Kal se quedó quieto un segundo.
+
+—Llévame con él —dijo, al final.
+
+—Matteo cubre el piso —dijo Chiara. Ya tenía las llaves en la mano.
+
+***
+
+Kal llegó al hospital con la furia bajada, no apagada, y la sintió volver entera cuando entró al cuarto y vio a Héctor despierto, pálido, con el mismo gesto de siempre en la cara aunque el cuerpo le hubiera fallado.
+
+—Se te ve peor a ti que a mí —dijo Héctor, antes de que Kal pudiera decir nada.
+
+—Estaba...
+
+—En el cerro. Ya me dijo ella. —Héctor no le dejó terminar—. Yo tampoco pude avisarte. Estaba ocupado cayéndome.
+
+Chiara tocó el brazo de Kal.
+
+—Voy por algo de tomar.
+
+Salió sin que nadie se lo pidiera, y Kal entendió, un segundo tarde, que le estaba dando el cuarto.
+
+***
+
+Se sentó en la silla junto a la cama. No dijo nada por un rato. Héctor tampoco.
+
+—Todo el fin de semana —dijo Kal al final—. Fuera, sin teléfono. Cuando lo encendí ya habían pasado dos días.
+
+—Te buscaron. No pudieron.
+
+—Ése es el problema. —Se quedó mirándose las manos—. Que lo hicieran todo bien y yo no estuviera.
+
+—¿Y qué ibas a hacer distinto? ¿No ir? —Héctor negó apenas, más con el cuerpo que con la cabeza—. Marisol te pidió el teléfono apagado un fin de semana, nada más. Esa niña necesitaba un padre completo esos dos días, no uno a medias con un pie metido en el barrio.
+
+—Yo no soy su padre.
+
+Héctor gruñó, apenas un sonido, sin abrir del todo los ojos, y siguió hablando como si Kal no hubiera dicho nada.
+
+—Se lo diste. Eso no es una culpa que te pertenezca, y más te vale dejar de cargarla como si lo fuera.
+
+Héctor cerró los ojos un momento, no de cansancio, sino de la manera en que uno cierra los ojos antes de decir algo que ya viene cargando hace tiempo.
+
+—Y de todos modos, eso tampoco es lo que de verdad te tiene así, Kal. Y los dos lo sabemos.
+
+Kal no contestó.
+
+—Es ella.
+
+—No es ella.
+
+—Mercer. —La voz de Héctor no subió, pero cerró la conversación como si lo hubiera hecho—. Llevas intentando mentirme desde que tenías doce años. Nunca te ha salido.
+
+Kal se pasó una mano por la cara.
+
+—Me preocupa arrastrarla a algo que no eligió. A lo que estoy construyendo. Al camino que estoy tomando para llevar la banda. Ella no se merece terminar ahí.
+
+—¿Y desde cuándo decides tú lo que se merece?
+
+—Desde Calle Corona. —Kal no levantó la vista de las manos—. La subieron a una camioneta por un convenio que firmé yo. Le doblaron la muñeca contra la puerta de un coche, y ella sólo había ido a tomarse un café.
+
+Héctor hizo un ruido con la garganta.
+
+—La vi andar por el barrio con esa férula. Tenía su hotel. ¿Quién escogió la Almendra?
+
+—Alguien tiene que cuidarla de eso.
+
+—Eso —dijo Héctor, incorporándose apenas contra la almohada— es exactamente el problema. No es tuyo decidir de qué la cuidas. Es de ella. —Lo miró directo—. Kal. Eso es de ella. No tuyo.
+
+Kal no tuvo con qué contestarle.
+
+—Y trabaja para Varek —dijo Héctor, sin cambiar de tono—. Eso también lo escogió ella. Tú a ese hombre no le debas nada.
+
+Héctor dejó que el silencio se quedara un momento antes de seguir, más bajo.
+
+—Te acuerdas de mi mujer.
+
+Kal asintió.
+
+—Se fue, y yo dejé que se fuera sin decirle lo que tenía que decirle, porque me pareció más fácil quedarme callado que quedarme con miedo. —Se quedó mirando algún punto de la sábana—. Amor son cuatro letras, Kal. Cuatro. Y yo nunca dije las cuatro completas, ni una sola vez, mientras todavía servía de algo decirlas. Envejecí enojado por eso. Enojado y solo, que es peor que envejecer enojado nada más.
+
+—Héctor...
+
+—No te estoy pidiendo que sientas lástima. Te estoy diciendo que no cometas el mismo error con otra excusa. La mía fue el miedo. La tuya está siendo la nobleza, que suena mejor pero pesa lo mismo.
+
+Kal se quedó callado, con las manos apretadas entre las rodillas.
+
+—No sé cómo se hace esto.
+
+—Nadie sabe. —Héctor cerró los ojos de verdad esta vez, agotado—. Se hace igual. Con miedo y todo.
+
+***
+
+Chiara volvió con un termo de café de verdad —no el aguado que vendía la cafetería del hospital— y lo dejó sobre la mesita, cerca de la mano de Héctor, sin decir de dónde lo había sacado.
+
+Se acercó por detrás de Kal y le puso la mano en el hombro. Kal levantó la suya y la puso encima de la de ella, sin voltear a verla, y por un momento los tres se quedaron así.
+
+Héctor fue el primero en romperlo.
+
+—Váyanse. Antes de que la enfermera venga a correrlos y me quede sin nadie a quien echarle la culpa.
+
+—Mañana le traigo otro —dijo Chiara, con la barbilla hacia el termo.
+
+—Necesito dormir, y ustedes dos parados ahí no me dejan. —Cerró los ojos, ya medio ido—. Vengan mañana. Los dos, no solo usted.
+
+Kal se levantó despacio y le apretó el hombro a Héctor antes de dejarlo dormir.
+
+—Descanse.
+
+Héctor gruñó algo que ya no llegó a ser palabra.
+
+***
+
+Bajaron juntos hasta el estacionamiento sin hablar. Ya en el asiento del copiloto, Kal marcó a Nadir. Le salió el buzón, con la voz de Nadir grabada hacía quién sabe cuánto, despreocupada: *Nadir. Deja recado; si es de dinero, la cifra primero.* Kal colgó sin dejar nada.
+
+Chiara esperó a salir del estacionamiento antes de preguntar lo único que no tenía nada que ver con Héctor.
+
+—¿Cómo estuvo el campamento?
+
+Kal la miró de reojo, como si la pregunta lo hubiera tomado por sorpresa en el mejor sentido.
+
+—Marisol me ganó tirando piedras en el arroyo. Seis a cuatro.
+
+—¿Seis a cuatro? —Chiara subió las cejas—. ¿Contra ti?
+
+—Las piedras las escogía ella. Planas, del tamaño de la palma. Las que yo juntaba las regresaba al agua sin dejarme tirarlas, porque según ella estaban mal hechas. —No sonaba ofendido. Sonaba casi orgulloso.
+
+Le contó lo de las alubias, quemadas como las quemaba Michael. Chiara guardó eso en algún lado sin comentarlo, y Kal siguió con un chico de la universidad que le llevaba café a todas las clases.
+
+—Diego —dijo.
+
+Chiara no preguntó nada. Algo se le movió en la boca, apenas, todavía contenido.
+
+—Lo dijiste como quien memoriza a un testigo.
+
+—Es un nombre.
+
+—También me preguntó por la casa —dijo, después de un rato—. La de mis papás. Quiere ir a verla.
+
+—¿Le dijiste que sí?
+
+Kal asintió.
+
+Chiara no dijo nada, pero algo en su cara cambió — algo pequeño, casi nada — y Kal no supo si fue por la casa, o por él dejando entrar a alguien a verla sin que se lo hubiera pedido dos veces.
+
+—Y aprendí una palabra que no puedo pronunciar. —Hizo una mueca al recordarlo—. Ella se rió como quince minutos seguidos.
+
+—¿Qué palabra?
+
+—Balayage.
+
+Chiara lo miró, y la sonrisa que llevaba conteniendo desde lo de Diego ya no encontró dónde esconderse.
+
+—¿Te enseñó a decir *balayage*?
+
+—Mal. Me enseñó a decirlo mal, y a sentirme orgulloso de decirlo mal.
+
+Chiara se rió, sin disimular ya nada.
+
+Para cuando llegaron al Monarch, Kal seguía hablando y Chiara ya no fingía escuchar con cortesía: escuchaba de verdad.
+
+La camioneta seguía donde Kal la había dejado, y en la guantera, envuelto en su servilleta, el imán. Kal se acordó de él y no dijo nada.
+
+Por primera vez desde que abrió el sobre, Kal no estaba pensando en Nadir, ni en Danny, ni en el peso entero del fin de semana.
+
+Estaba pensando en piedras que rebotaban seis veces contra cuatro.

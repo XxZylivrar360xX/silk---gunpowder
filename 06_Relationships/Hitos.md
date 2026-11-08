@@ -512,11 +512,13 @@ La noche en que todo cambia es **la única noche del libro en que no puede condu
 
 > **SUPERSESIÓN — CANON DEL AUTOR (2026-11-07):** Vento ya no muere de una fractura por la edad (Cap. 38, archivo 33b). **Lo asesinan en el corral (H12), por orden de Crowe, como venganza:** tras noquear a Chiara, el atacante mata al caballo; Kal encuentra primero a Vento y se le hiela la sangre al ver a Chiara unos metros más adelante, junto al corral. Lo saben los dos. Ver [[11_Books/Book_01_Mascaras_De_Cristal/00_Plan_Nuevo_Cauce]].
 
+> **AUTOR DEL ATAQUE (CANON DEL AUTOR, 2026-11-07) — manda sobre la VERDAD DEL AUTOR de abajo en cuanto a quién está detrás:** fue **Silas Crowe, con bandera falsa**. Contrata al atacante usando el nombre de Nereo Volpi; el atacante cree honestamente que lo contrató Volpi, y eso es lo que Corrado oye en el interrogatorio (la coda de *Voto de Ceniza* se conserva con esa verdad incompleta). Motivo: represalia contra Chiara por lo que le hizo perder (DISEÑO por cerrar). La restricción de escritura sigue: el atacante no se identifica en la escena. Detalle: [[11_Books/Book_01_Mascaras_De_Cristal/00_Plan_Nuevo_Cauce]].
+
 > **RESCATE Y CORTE (2026-10-29, CANON DEL AUTOR) — manda sobre las notas de abajo que digan que Kal la carga o la lleva en el Audi.** Kal no la traslada: llama al 911, la sostiene sin moverla y se la entrega a los paramédicos; sigue a la ambulancia en el Audi. Finge el robo (cartera y reloj en su chaqueta durante la espera) y pone la denuncia en Calle Corona (Voss; Blake lo evita; Collins). H12 ocupa ahora dos capítulos: Cap. 27, *Oveja entre lobos* (archivo 24c: ataque, hospital, comisaría, tregua, alta) y Cap. 28, *Vienes conmigo* (archivo 24d: parador, loft con abrazo y temblor canon, coda). El nombre del hito no cambia. Sesión: [[98_Agent_Handoff/sessions/2026-10-29_claude_cap30_oveja_entre_lobos]].
 
 > **REUBICACIÓN (2026-10-04, CANON DEL AUTOR) — manda sobre las posiciones de abajo.** H12 ya no cae entre H9 y H14: va **justo antes de [[#H15 — La noche del jacuzzi]]**, como Cap. 27 (archivo 24c) ([[11_Books/Book_01_Mascaras_De_Cristal/Part_02_Con_Peores_Personas_He_Tratado/24c_El_Corral]]), sin renumerar. Gravedad: **conmoción con hematoma en observación**, sin craniotomía. La tregua y la vigilancia de Dario se mueven con el capítulo. Ya hubo H11: no aplica "todavía no hay primer beso"; el refugio es el loft de Kal (abrazo y temblor intactos), no la casa común. La casa común, "Tienes mi palabra" y "Lo necesario. Hasta que ya no lo sea" pasaron al nuevo Cap. 11 (archivo 09) ([[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/09_La_Balanza]]), donde el detonante de la estancia en La Almendra es el asalto del Tasador a la fiscal Rowe: el riesgo viene del mundo de Kal, y la estancia es deuda de él con ella. Las secuelas pendientes de los Caps. 11-14 quedan sin objeto; el rastro del golpe vive en la Parte II (28). Plan: [[11_Books/Book_01_Mascaras_De_Cristal/00_Plan_Reubicacion_Corral]].
 
-> **INTEGRACIÓN DEL PARADOR (2026-10-04, CANON DEL AUTOR; prosa BORRADOR):** el diálogo calibrado de [[07_Ideas/Escenas_Guia/El_Parador_Del_Norte]] entra al 24c. Cambios a este hito: el sospechoso que Kal secuestra es **Caluca**, guardia de **Eagle Eye Security** (seguridad del Monarch) que acosaba a Chiara; Kal encuentra en el penthouse una **carta de Il Consorzio** que quiere "evaluar" su desempeño, con reunión el día 13 (sin firma: Chiara sigue sin dar el nombre en el parador); Kenji le consigue la lista de los hombres de Dario en el Monarch; Kal y Dario, cada uno por su lado, se reúnen en la mansión de Dario con Vivian presente; Chiara ve juntos a Kal, Dario y Trix en el alta. En el parador, Chiara: "No. Pero tampoco me arrepiento" responde ahora a "¿Me elegiste?". **Sembrados en el Cap. 22 (2026-10-04, DISEÑO pendiente de lectura):** Eagle Eye, Charles (antes "César", CANON DEL AUTOR) y el acoso de Caluca.
+> **INTEGRACIÓN DEL PARADOR (2026-10-04, CANON DEL AUTOR; prosa BORRADOR):** el diálogo calibrado de [[07_Ideas/Escenas_Guia/El_Parador_Del_Norte]] entra al 24c. Cambios a este hito: el sospechoso que Kal secuestra es **Ferreyra**, guardia de **Eagle Eye Security** (seguridad del Monarch) que acosaba a Chiara; Kal encuentra en el penthouse una **carta de Il Consorzio** que quiere "evaluar" su desempeño, con reunión el día 13 (sin firma: Chiara sigue sin dar el nombre en el parador); Kenji le consigue la lista de los hombres de Dario en el Monarch; Kal y Dario, cada uno por su lado, se reúnen en la mansión de Dario con Vivian presente; Chiara ve juntos a Kal, Dario y Trix en el alta. En el parador, Chiara: "No. Pero tampoco me arrepiento" responde ahora a "¿Me elegiste?". **Sembrados en el Cap. 22 (2026-10-04, DISEÑO pendiente de lectura):** Eagle Eye, Charles (antes "César", CANON DEL AUTOR) y el acoso de Ferreyra.
 
 > **LA REUNIÓN DEL 13 (2026-10-04, CANON DEL AUTOR):** la reunión que anuncia la carta que lee Kal es justo la razón por la que Kal y Chiara terminan yendo a Palermo después del cumpleaños ([[#H16 — El cumpleaños / la mudanza oficial|H16]] → [[#H17 — Italia / Mesa de las Familias|H17]]). **RESUELTO (2026-10-04, CANON DEL AUTOR):** "il 13" es el **13 de diciembre, fecha de la Mesa** (día 3 en Palermo, Cap. 45 (archivo 40)); la fiesta del yate del Cap. 43 (archivo 38) cae el viernes 10. La Parte II no menciona la fecha. Cap. 43 (archivo 38) conciliado (BORRADOR): Chiara ya cree desde el parador que fueron "ellos", sin prueba ("Te lo dije en el parador"), y "El 13 voy a ir a la Mesa".
 
@@ -783,6 +785,8 @@ Bajan al casino después. Ya no preguntan si suben — ni ella "¿quieres subir?
 Adentro, con las luces ámbar de la sala encendidas, bailan de pie junto al espejo del recibidor. Al terminar la canción, sin apartarse, por fin se besan. Chiara toma la iniciativa: le toma la mano y lo lleva a su cuarto.
 
 **Cierre:** la luz se apaga, vista desde fuera de la ventana del penthouse. Sólo quedan las dos siluetas recostándose en la cama.
+
+> **Nuevo cauce (2026-11-08, DECISIÓN DEL AUTOR; prosa DISEÑO):** con el capítulo en un solo POV, el de Kal, la luz se apaga desde dentro: Chiara apaga la lámpara y en el vidrio se apagan las dos siluetas que les devolvía, y queda la ciudad. La restricción de cierre visual se conserva. Los bolos, el drift y el mirador siguen igual; en el mirador, Kal no vuelve a narrar el balcón, que el lector ya vio en la memoria del nuevo 14. Plan: [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/00_Plan_Cap18_Lo_Pequeno_POV_Kal]].
 
 ## Restricciones de escritura
 
@@ -1552,7 +1556,7 @@ Antes de la noche, durante el día, ocurre la **escena de compra del auto de Chi
 - la historia de **la cicatriz que le cruza la mejilla izquierda**;
 - **lo de los niños, y que por eso cayó en prisión.**
 
-Y el resto: **fue Nadir quien lo ayudó a salir.** En agradecimiento, Kal lo ayudó a entrar a Estados Unidos, con ayuda de [[02_Characters/Anya_Voronina]], la contacto rusa que le consiguió papeles.
+Y el resto: **fue Nadir quien lo ayudó a salir.** En agradecimiento, Kal lo ayudó a entrar a Estados Unidos, con ayuda de una fixer rusa sin nombre que le consiguió papeles (2026-11-07).
 
 > **Mantener las reservas ya canon.** No inventar qué secretos exactos entregan más allá de lo listado. En particular:
 > - **Kal le cuenta lo de los niños, pero casi seguro NO que a él lo compraron.** Ver [[02_Characters/Warren_Halbrook]]. Que el lector tenga esa información y ella no es el hueco más grande que queda abierto en la pareja.
@@ -1561,7 +1565,7 @@ Y el resto: **fue Nadir quien lo ayudó a salir.** En agradecimiento, Kal lo ayu
 
 > **CONFIRMADO POR EL AUTOR (2026-09-09):** la cicatriz viene de la última noche del convoy — un vidrio del parabrisas le abrió la cara cuando sacaba a un niño por la ventanilla. No es la pelea de cantina que dice el rumor del barrio. **Ya no es diseño provisional del agente.** Ver [[11_Books/Book_01_Mascaras_De_Cristal/Part_02_Con_Peores_Personas_He_Tratado/25_Libros_Abiertos|Cap. 29 (archivo 25)]].
 
-> **RESUELTO DE DISEÑO (2026-08-23):** la contacto rusa es [[02_Characters/Anya_Voronina]]. La deuda vuelve en [[06_Relationships/Momentos_de_Fractura]], F4 — Año Nuevo en Washington.
+> Plan anterior retirado: [[97_Supersedido/Anya_Voronina]] (2026-11-07).
 
 ## Varek llega de madrugada — el contraste que dispara H5
 
@@ -1594,6 +1598,8 @@ Ver también: [[06_Relationships/Kal_y_Chiara]] · [[02_Characters/Dario_Varek]]
 *Arco de la tensión, parte 2.*
 
 > **CANON DEL AUTOR (2026-08-23).** Continúa directamente [[#H5 — San Aurelio]]. **Parte 3 por recibir.**
+
+> **NUEVO CAUCE (CANON DEL AUTOR, 2026-11-07; [[11_Books/Book_01_Mascaras_De_Cristal/00_Mapa_Cauce_Cap11_Camp_Alder]]):** manda la arquitectura del 2026-09-18 (Kal pide la puerta de Camp Alder, paga con las armas largas y Varek le ofrece la silla); Varek **no** arregla los papeles de Nadir. En H5, Chiara va a Varek sospechando de él; Varek la ayuda (el sedán no es local) y le cobra un favor abierto a nombre de ella. En Las Gemelas descubren que cada uno le debe a Varek por su lado.
 
 > **ESCRITO PARCIALMENTE (2026-09-10, Claude Code — BORRADOR, falta revisión del autor):** [[11_Books/Book_01_Mascaras_De_Cristal/Part_02_Con_Peores_Personas_He_Tratado/28_La_Correa|Cap. 32 (archivo 28) — La correa]] redacta las **secciones 1-4** desde el POV de Chiara: el regreso golpeado ("entra hablando de otra cosa"), la conversación con las dos líneas canon, Chiara ofreciéndole la salida sin cadena (y guardándose la tercera línea del taller), y Kal saliendo *"como un diablo"* a llamar a Varek (*"¿Nos podemos reunir?"*). Cierra con Chiara yendo tras él.
 
@@ -2363,11 +2369,11 @@ Una **cajita más pequeña, modesta, de madera.** Dentro, **una llave del loft.*
 > **PENDIENTE menor:** confirmar el estado de EE. UU. de donde traen la yegua.
 
 > **Continuidad — Vento:** aparece vivo en [[#H12 — El atentado / El corral]] (Cap. 27 (archivo 24c), final de la Parte I; antes Cap. 9). Muere a mediados de octubre, más de un mes antes de este hito (Cap. 38 (archivo 33b), Parte II; antes "~2 semanas", superado 2026-10-22). No hay contradicción: media todo el arco H12→H7 entre una cosa y la otra.
+> **SUPERSESIÓN — CANON DEL AUTOR (2026-11-07):** Vento ya no muere de una fractura por la edad (Cap. 38, archivo 33b). **Lo asesinan en el corral (H12), por orden de Crowe, como venganza:** tras noquear a Chiara, el atacante mata al caballo; Kal encuentra primero a Vento y se le hiela la sangre al ver a Chiara unos metros más adelante, junto al corral. Lo saben los dos. Ver [[11_Books/Book_01_Mascaras_De_Cristal/00_Plan_Nuevo_Cauce]].
 
 ---
 
 # H17 — Italia / Mesa de las Familias
-> **SUPERSESIÓN — CANON DEL AUTOR (2026-11-07):** Vento ya no muere de una fractura por la edad (Cap. 38, archivo 33b). **Lo asesinan en el corral (H12), por orden de Crowe, como venganza:** tras noquear a Chiara, el atacante mata al caballo; Kal encuentra primero a Vento y se le hiela la sangre al ver a Chiara unos metros más adelante, junto al corral. Lo saben los dos. Ver [[11_Books/Book_01_Mascaras_De_Cristal/00_Plan_Nuevo_Cauce]].
 
 > **EJECUTADO COMPLETO EN PROSA (2026-09-22):** [[11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/40_Mecanico|Cap. 45 (archivo 40) — Mecánico]] (mitad de Kal) y [[11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/41_La_Otra_Mitad|Cap. 46 (archivo 41) — La otra mitad]] (mitad de Chiara, contada a Bonnie) completan el hito. Ambos BORRADOR, pendientes de revisión del autor.
 
@@ -2410,6 +2416,8 @@ Ambos vuelven **separados físicamente y con fricción emocional** por lo sucedi
 # H19 — El asalto a Camp Alder
 
 > **CANON DEL AUTOR (2026-08-29).** **ID: H19** (asignado 2026-08-29). Usar **[[05_Locations/Camp_Alder]]** como nombre de la base.
+
+> **NUEVO CAUCE (CANON DEL AUTOR, 2026-11-07):** el comprador del mercado negro al que Halbrook destina las armas largas es **Crowe**. Kal le desvía **ese mismo lote** a Varek, como pago del pacto; las armas salen en el helicóptero con Héctor y Nadir. Crowe pierde otra vez por la pareja y Halbrook ve fallar a su activo, lo que siembra la quema de H1 en *Sombras de Poder*.
 
 > **PRECEDENTE (2026-08-29, autor):** la relación de correa que lleva a este asalto **se sienta en [[#H5 — San Aurelio]]**, cuando Halbrook convoca a Kal por primera vez en el presente de la novela y lo obliga a volver a trabajar para él bajo amenaza de reportar a Nadir a ICE. El asalto a Camp Alder es esa misma correa tirada hasta el extremo.
 >

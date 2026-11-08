@@ -23,15 +23,15 @@
 | 10 | `08b` | La teniente |
 | 11 | `09` | La balanza |
 | 12 | `10` | Dos sillas vacías |
-| 13 | `12` | Roma Atrii |
-| 14 | `13` | Auster |
-| 15 | `14` | La regla del teléfono |
-| 16 | `15` | Yo lo llevo |
-| 17 | `16` | El sobre rojo |
-| 18 | `17` | Le quedé debiendo |
-| 19 | `18` | El día nublado |
-| 20 | `20` | Lo pequeño |
-| 21 | `21` | El primer huésped |
+| 13 | `12` | Roma Atrii (desde 2026-11-07, fusión con *Auster* en POV Chiara; BORRADOR) |
+| 14 | `13` | ~~Auster~~ (fundido en el 13 el 2026-11-07; el archivo queda como marcador `EPUB: EXCLUDE`) |
+| 15 | `14` | La regla del teléfono (desde 2026-11-07, con lo de Kal en *El sobre rojo*, POV Kal; nuevo 14; BORRADOR) |
+| 16 | `15` | Yo lo llevo (desde 2026-11-08, con el domingo y el coche de *El sobre rojo*, POV Chiara; nuevo 15; BORRADOR) |
+| 17 | `16` | ~~El sobre rojo~~ (fundido en el 14 el 2026-11-07; el coche, en el nuevo 15 desde el 2026-11-08; marcador `EPUB: EXCLUDE`) |
+| 18 | `17` | Le quedé debiendo (desde 2026-11-08, en POV Kal con el billar de atrás del Monarch; nuevo 16; BORRADOR) |
+| 19 | `18` | El día nublado (desde 2026-11-08, en un solo POV, el de Kal, con el secreto como precio; nuevo 17; BORRADOR) |
+| 20 | `20` | Lo pequeño (desde 2026-11-08, fusión con *El primer huésped* en POV Kal: H11 y la madrugada de Marisol; nuevo 18; BORRADOR) |
+| 21 | `21` | ~~El primer huésped~~ (fundido en el 20 el 2026-11-08; el archivo queda como marcador `EPUB: EXCLUDE`) |
 | 22 | `21b` | Grazie |
 | 23 | `22a` | La cifra |
 | 24 | `22b` | Con su proveedor |

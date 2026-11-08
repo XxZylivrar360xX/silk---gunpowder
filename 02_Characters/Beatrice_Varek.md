@@ -1,5 +1,9 @@
 # Beatrice “Trix” Varek
 
+> **CANON DEL AUTOR (2026-11-07, segunda tanda):** su muerte es **simultánea al coche bomba de Halbrook contra la comisaría de Calle Corona**: doble golpe personal contra Varek que abre la Guerra de los Tres, con bandera falsa de las bandas simpatizantes de Kal. **Cómo muere:** atendiendo heridos en la zona de triage del atentado, en un tiroteo montado entre agentes de Halbrook vestidos de policías y otros vestidos con los colores de bandas a las que Kal protegió o armó (Kal, culpable indirecto real); Halbrook busca volver a la opinión pública contra las bandas ([[04_Concepts/La_Guerra_de_los_Tres#Regla particular — Coche bomba en Calle Corona]]).
+
+> **CANON DEL AUTOR (2026-11-07):** **Trix muere en *Voto de Ceniza* (Libro III)**, en el fuego cruzado de un enfrentamiento entre fuerzas de Halbrook y de Kal, antes de la Guerra de los Tres. Deja huérfana a Iris, todavía pequeña. Funda la enemistad de Dario con Kal y siembra la violencia que obliga a exiliar a Elenna. **Supersede** lo que la ubica viva en la época de Elenna (vivir lejos de San Aurelio, reencuentro con Chiara a través de los hijos, reacción a la bomba de Michael e Iris). Detalle: [[11_Books/Book_01_Mascaras_De_Cristal/00_Plan_Nuevo_Cauce]].
+
 > **Numeración:** desde 2026-10-22 el Libro I usa numeración corrida definitiva (56 caps.); este documento cita la numeración anterior. Correspondencia en [[11_Books/Book_01_Mascaras_De_Cristal/00_Book_Map]].
 
 *Seda y Pólvora — Ficha de personaje*

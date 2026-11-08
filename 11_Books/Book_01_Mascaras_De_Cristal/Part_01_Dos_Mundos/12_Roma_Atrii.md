@@ -1,280 +1,115 @@
 <!--
-Renumerado 2026-11-01 (decisión del autor, carretera del Libro I): antes Cap. 15.
-Renumerado 2026-10-22 (decisión del autor): antes Cap. 12; numeración corrida definitiva, el archivo conserva su nombre.
-PUESTA EN ESCENA (2026-10-06, encargo del autor, [[13_Auditorias/Book_01_Mascaras_De_Cristal/Plan_Puesta_En_Escena_Libro_I]]; DISEÑO pendiente de lectura; diálogo intacto): geometría de la franja hecha visible una vez (vidrio de la caja con Kenji a un lado, puerta batiente del pasillo de servicio al otro, piso de juego a espaldas de Kal; por eso "A espaldas de Kal, en una mesa" pasa a "En una de las mesas"); segunda interferencia del casino: un mesero con una charola obliga a Kal a dar medio paso hacia ella y no lo devuelve.
-Estado: TERMINADO.
-Rediseño de la Parte I, P-1 (2026-11-01, DECISIÓN DEL AUTOR; prosa DISEÑO pendiente de lectura; sigue TERMINADO): el asiento de la mesa tres estaba a nombre de «Invitado de la Dirección», sin nombre, y Tommaso lo apunta. Rima con el formato de alta de proveedores del Cap. 5 (V-1, solicitante: *Dirección*). Plan: [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/00_Plan_Rediseno_Parte_I]].
-Escenas eliminadas, costura (2026-10-31, DECISIÓN DEL AUTOR; DISEÑO pendiente de lectura; sigue TERMINADO): al salir el arco de Walt (Caps. 14 y 16), la parte 2 deja de anclarse en «la noche del torneo de Walt Keegan» -> «La noche del primer torneo», y «ocupada con la mesa de Walt» -> «ocupada con las mesas». Sale la sección del contrato de Keegan («¿Quién firma lo de Keegan?», siembra del 2026-10-27): dependía de la sociedad de la destilería, suspendida; su texto se conserva en [[11_Books/Book_01_Mascaras_De_Cristal/Escenas_Eliminadas/README]].
-Regla de dialogo 05 (2026-10-26, encargo del autor; DISENO pendiente de lectura; el estado se conserva): diez cortes de eco/remate en reclutamiento de Kenji, el favor y la franja del Monarch. Detalle: [[98_Agent_Handoff/sessions/2026-10-26_claude_regla05_roma_atrii_cap15]].
-Arco lector 11-13 (2026-10-22, autorizado por el autor; Propuesta_Arco_Caps_11-13_Lector; el estado se conserva; prosa nueva DISENO pendiente de lectura): P2, P6, P7 y P8c aplicados. ROMA ATRII escrito por fuera y el papel sin abrir (cuadra con el 14); la replica de Chiara 'Lo de adentro no era para que lo leyeras...' anadida al 'Si.' a '¿Lo escribiste tu?' se restauro a 'Si.' en VERIFY (orden de revelaciones, Cap. 38); VERIFY V6: 'que no leia' -> 'que no entendia'; las cuatro palabras de esa noche se escriben y rompen en la oficina del Monarch tras el torneo (no en el penthouse, donde llega Kal en el 11); 'La noche del torneo de Walt Keegan'; 'Chiara sonrio apenas'. R2 (2026-10-22): papel de cartas sale del bolso, no del cajón (coherencia con el cajón del penthouse del Cap. 13).
-Continuidad 2026-10-17 (CANON del autor: jefatura vacante en el Libro I, Clark entra en el II): l. 171 "la que va despues de Clark" -> "la que manda desde lo de Keene"; cobra la siembra del Cap. 7.
-Cirugia editorial extraordinaria (2026-09-26), autorizada por el autor sobre capitulo TERMINADO; el estado se conserva. Detalle en 13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Cap_12_Roma_Atrii.md (§11). Resumen: marca temporal en la apertura; la pieza de la gasolinera/fiscales sale del montaje (es del Cap. 13); se corta el movimiento de la alarma del Peugeot (la razon llega solo en el dialogo de Chiara con Kal); fuera "las velas que enciendo por ti" (la vela por Kal nace despues de F4); "membrete" -> "papel de los suyos"; cortes de glosa, repeticion y POV (B1-B14); recuerdo de Palermo del hilo A en la noche del penthouse (DISEÑO del agente, pendiente de lectura del autor). Lo de abajo describe el diseno previo a la cirugia.
-Dialogo Kal/Chiara (2026-10-04, direccion del autor; prosa DISENO del agente, pendiente de lectura): la confrontacion del Monarch se reescribe por descubrimiento progresivo. El error del chico se admite pronto; Kal sigue preguntando por la cadena (quien escribio, quien sabe leer, quien es el chico: "No lo se. Kenji si.") y la friccion pasa al sistema; Chiara defiende decisiones, no doctrina, y marca territorio ("Esto otro es mio"); fe como origen antiguo de la red, sin intercambio de tesis; concesiones cruzadas: ella cambia la ruta porque el nombre se dijo en voz alta en el Patio, el se guarda la pregunta de cuantos son. Se conservan la admision, el Peugeot, "red visible/invisible", iglesia, "pagar, arreglar o cobrar", ternura, *Llegarte* y "Todavia no". Salen "La mia no pide resultados..." y "Supongo que tambien es una fe". Detalle: Audit_Cap_12_Roma_Atrii.md §12.
-Narrador (2026-10-05, SURGERY autorizada por el autor; el dialogo no cambia): fuera tres acotaciones que certificaban ("la unica frase que no le dejo nada para responder", "No habia disculpa en la voz...", "ya estaba dicho, aunque ninguno..."). Detalle: 13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Narrador_Tesis_Resenas_ChatGPT.md.
-Protagonistas: Chiara Bellandi (partes 1-2), Kal Mercer (parte 3).
-Ventana temporal: parte 1 es anterior al Capitulo 11 (evento altruista, y tambien anterior/independiente de la noche de Gabriella's del Capitulo 7 y del asalto a Rowe del Capitulo 9 y del loft del 10; H12 se reubico al 24c el 2026-10-04); parte 2 ocurre la noche del primer torneo del Monarch (fuera de escena desde 2026-10-31); parte 3, semanas despues -- Kal y Chiara ya viven a caballo entre el penthouse y la casa de el.
-Lugares: salon de gala (evento altruista, sin nombre fijo), The Monarch Casino & Hotel (piso de juego y caja), Almendra Towing / El Patio.
-Funcion: ejecutar beats 12-c y 13-b — nace i Sussurri con Kenji Oda; se muestra la red en funcionamiento con multiples fuentes y tipos de informacion (calle, comercio/Mabel, elite, institucional) llegando al escritorio del penthouse; y el primer roce de valores entre Kal y Chiara por el mensajero menor. Version revisada (2026-09-02): se le da contenido real y urgencia al papel -- esa misma manana un hombre no identificado pregunto en el piso del Monarch por "un Peugeot rojo, tuneado", sembrando la primera alarma aislada del hilo que se paga en el Capitulo 13 (Auster); la reaccion de Kal se ancla, sin explicarla en bloque, a su propio origen (comprado de bebe, carrera perdida por gente que movia ninos) via el mismo tic fisico de la mandibula ya usado en el Capitulo 1; y la confrontacion se extiende para que Chiara admita honestamente, sin excusarse, por que no espero a la noche.
-Siembra 2026-10-27 (decisión del autor; prosa DISEÑO pendiente de lectura; sigue TERMINADO): sección nueva tras "Antes que Tommaso." -- el contrato de Keegan llega a compras; Tommaso le pregunta a Chiara quién lo firma ("Compras. Me excusé por escrito"; "Ya lo leí") y le deja su propia excusa fotocopiada con la fecha subrayada. Resuelve el cuestionamiento del conflicto de interés de la destilería (Cap. 14, O4 de la lectura de ChatGPT). Ver 98_Agent_Handoff/sessions/2026-10-27_claude_surgery_cap14_farol.md.
-Siembra 2026-10-27 (decisión del autor; prosa DISEÑO pendiente de lectura; sigue TERMINADO): al abrir la sección del chico en la cerca, Kal lleva semanas buscando a los del levantón del Cap. 12 (el del diente gris, el del anillo en el meñique, la camioneta gris) con Danny y Nadir, sin resultado; por eso vigila quién se para afuera del Patio. Ejecuta el punto 1 de [[11_Books/Book_02_Sombras_De_Poder/00_Diseno_Cobro_Del_Levanton]] (busca y no los encuentra; lo pausa el infarto de Héctor, Caps. 18-19; lo retoma «Después de Calle Corona» en el 20). Ver 98_Agent_Handoff/sessions/2026-10-27_claude_siembra_busqueda_levanton_cap15.md.
-Lectura ChatGPT 2026-10-27 (autorizado por el autor; sigue TERMINADO): O-06 nota de Mabel "antes de que la ciudad tuviera nombre para lo suyo con Mercer" -> "antes de lo de Mercer" (la ciudad no sabe que están juntos, Kal_y_Chiara); O-01 (segunda lectura ChatGPT, decisión del autor): Kenji no paga ni falsea el cobro; "dejar la pieza a su nombre, pendiente de que el comité la confirmara, y cargarle la falla al sistema" (tercera lectura ChatGPT: "dar por pagada" era alterar un registro; ahora cuadra con su "mañana el comité le confirma el monto correcto"; la única mentira es la falla; "salió gratis" queda literal) y l. 61 "cualquiera con buena voluntad podía ahorrarle una vergüenza a un viejo"; O-03/O-04 (propuesta de subagente, verificada): fuera la tesis "no necesitaba una sola red. Necesitaba dos...", queda conclusión de Chiara en una línea; "imposible de rastrear" pasa a creencia de ella ("por una ruta que ella creía..."); Kenji "había aceptado el favor" / Mabel "no había aceptado nada"; O-07: interior de Kal podado (fuera "en otra vida" y "exactamente"; la carrera se restauró corta por decisión del autor, ", y la que le costó la carrera": única siembra en prosa del par bebé comprado / carrera perdida antes de Halbrook, ficha de Kal l. 210); el territorio se conserva al frente (prepara "En tu patio") y la oración cierra en "cuando lo compraron de bebé". Prosa DISEÑO pendiente de lectura. Ver 98_Agent_Handoff/ChatGPT/2026-10-27_lectura_cap15_roma_atrii_observaciones_estrategias.md.
+Estado: BORRADOR. Reconstruido el 2026-11-07 en POV Chiara (Fase 4 del nuevo cauce, tercer capitulo de la Parte I; prosa DISEÑO del agente, pendiente de lectura del autor). Fusion de *Roma Atrii* (archivo 12) y *Auster* (archivo 13). Plan: [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/00_Plan_Cap13_Roma_Atrii_Auster_POV_Chiara]]. Fila del mapa: [[11_Books/Book_01_Mascaras_De_Cristal/00_Mapa_Cauce_Cap11_Camp_Alder]] (nuevo 13 = T3).
+Versiones anteriores (las dos estaban TERMINADO; su historial de decisiones vive en sus encabezados y sigue vigente salvo lo que cambian el POV y la fusion): [[11_Books/Book_01_Mascaras_De_Cristal/Escenas_Eliminadas/12_Roma_Atrii_Version_2026-11-07]] y [[11_Books/Book_01_Mascaras_De_Cristal/Escenas_Eliminadas/13_Auster_Version_2026-11-07]] (git `3d26627`).
+Decisiones del autor para esta reconstruccion (2026-11-07): el chico en la cerca llega por Kenji (vuelve a la caja sin el papel) y la confrontacion queda entera en POV Chiara; el interior de Kal (el bebe comprado, la carrera) pasa al nuevo 14; el interrogatorio de Lucia lo cuenta Kal esa noche en el penthouse (la foto: una de las dos manchas es ella); Chiara reconoce al hombre que pregunta por el Peugeot: es el joven que le abrio la puerta del auto gris a Crowe en el callejon de la casa comun (Cap. 11); la gala, el torneo y el latin en la caja entran como memoria comprimida.
+Se conservan literales: "Eso no te lo voy a decir. —Chiara no sonrio—. Todavia no."; "Sin Nadir." (K-1); "Eres realmente buena en esto." / "Lo soy cuando amenazan a mi gente." (linea del autor); "Invitado de la Direccion" (P-1); Corrado y la vela (cerrado 2026-10-27, no reintervenir); "te pago yo el cafe".
+Protagonistas: Chiara Bellandi (POV), Kal Mercer. Apariciones: Kenji Oda, Mabel Ortiz, el joven de Crowe (sin nombre), el chico del recado (fuera de escena), Tommaso Lusardi (memoria), Marta y Corrado Bellandi (memoria).
+Ventana temporal: de finales de enero a finales de febrero A2 (unas cuatro semanas).
+Lugares: The Monarch Casino & Hotel (caja y franja del pasillo de servicio), El Penthouse, La Esquina de Mabel, Almendra Towing (taller).
+Funcion: T3. Crowe planta el caso del Peugeot; Chiara lo ve venir por su red, desactiva la sospecha sobre Kal sin sacarlo del expediente y se guarda quien lo planto. Primer roce de valores por el mensajero menor; nace "lo traigo yo".
 -->
 
 # Capítulo 13 — Roma Atrii
 
-Semanas antes del torneo, la tarjeta se negó dos veces antes de que el hombre del esmoquin empezara a sudar.
+El cepillo siguió en el vaso del mezzanine toda esa semana, y la taza azul en la cubierta, sin que nadie la guardara.
 
-Chiara lo vio desde el otro lado del salón — un donante mayor, de los que llevaban el apellido en la solapa en vez del nombre, tratando de pagar una pieza de subasta silenciosa mientras dos personas detrás de él esperaban con la paciencia cara de quien también quiere ver a alguien humillarse un poco.
+Chiara pensaba en las dos cosas el jueves en la mañana cuando Kenji mandó decir desde la caja que había un problema con un cambio de fichas. No había ningún problema con un cambio de fichas. Kenji no la llamaba nunca a la caja.
 
-No llegó a tiempo.
+Bajó sin prisa. Él le deslizó por debajo del vidrio un comprobante, como quien pide una firma.
 
-Un joven del personal de eventos sí.
+—El de la chaqueta café, junto a la ruleta —dijo, contando un fajo que ya había contado—. Cambió doscientos y no ha jugado. Me preguntó quién viene a este casino en un Peugeot rojo. De los viejos, arreglado. Qué días.
 
-—Ya está resuelto, señor Aldrich. —Ni una pausa, ni una mirada al lector de tarjetas—. El sistema estuvo cobrando doble toda la noche. Le anoto el nombre y mañana el comité le confirma el monto correcto.
+—¿Qué le dijo?
 
-No era cierto. Chiara lo supo en el mismo segundo en que lo escuchó: el sistema funcionaba perfecto, lo había probado ella misma dos horas antes. Lo que el joven acababa de hacer era dejar la pieza a su nombre, pendiente de que el comité la confirmara, y cargarle la falla al sistema, tan rápido que el hombre del esmoquin ni se dio cuenta de que acababa de deberle un favor a un desconocido de veintitantos años.
+—Que yo veo fichas, no coches.
 
-Aldrich se fue satisfecho. La fila avanzó. Nadie aplaudió, porque nadie había visto nada digno de aplauso.
+Chiara firmó. No levantó la vista hasta devolver el comprobante, y entonces miró como mira una directora su piso: a todos un poco, a nadie más de la cuenta.
 
-Chiara sí.
+Era joven, flaco, con el pelo recién cortado y un vaso de agua que no tocaba. Lo había visto una sola vez, desde arriba, desde la ventana del cuarto sin dueño de la casa común, con la férula en el alféizar: bajando de un auto gris en el callejón y rodeándolo para abrirle la puerta de atrás a un hombre que salió en dos tiempos, una mano en el marco y la otra en el hombro de él. *Señor Crowe*, le habían dicho en el patio, antes de que se fuera.
 
-***
+Ahora tenía las dos manos en el vaso.
 
-Lo encontró junto a la mesa de postres, ordenando copas vacías con una eficiencia que no correspondía al sueldo de un evento de caridad.
-
-—Eso que hizo con el señor Aldrich.
-
-El joven no se sobresaltó.
-
-—¿Qué cosa?
-
-—El sistema no cobra doble. Lo probé yo hace dos horas.
-
-Él se encogió de hombros, sin culpa y sin orgullo.
-
-—No me pagan por dejar que alguien pase vergüenza delante de sus amigos. Me pagan por servir copas. Lo otro salió gratis.
-
-—¿Cómo se llama?
-
-—Kenji Oda.
-
-—¿Trabaja para la agencia del evento?
-
-—Trabajo para quien me necesite esa noche. —Apiló tres copas más, sin mirarla, sin necesitar mirarla para sostener la conversación—. Mañana soy otra persona en otro salón.
-
-Chiara lo observó un momento más. No era el gesto lo que le interesaba — cualquiera con buena voluntad podía ahorrarle una vergüenza a un viejo. Era la velocidad. La cara que no cambió. La forma en que ya tenía lista la mentira sobre el sistema antes de que Aldrich terminara de sudar.
-
-—Tengo un casino —dijo—. En la caja me falta alguien: fichas, pagos de premio. Puesto fijo.
-
-Kenji dejó de apilar copas.
-
-—¿Por qué yo?
-
-Chiara sonrió apenas.
-
-—Porque acabo de verlo resolver un problema que no era suyo, sin que nadie se lo pidiera y sin que nadie lo note nunca. Eso, en mi casino, vale más de lo que usted cree.
-
-Kenji la miró de verdad por primera vez.
-
-—¿Cuándo empiezo?
-
-Chiara le pidió el número. Kenji lo escribió en una servilleta de coctel, sin preguntar para qué, y volvió a las copas.
+No se acercó. Con un dedo le pidió a seguridad que no lo perdieran, y antes del mediodía el muchacho devolvió las fichas completas, cobró sus doscientos en efectivo y se fue sin haber jugado una sola mano.
 
 ***
 
-Lo llamó dos semanas después. La noche del primer torneo, Kenji Oda ya llevaba puesto el chaleco del Monarch como si lo hubiera usado toda la vida.
+Kenji estaba en esa caja desde antes de la camioneta.
 
-Chiara lo cruzó de lejos, ocupada con las mesas, con Fabrizio, con las luces ámbar que había elegido ella misma. No volvió a pensar en él hasta que Tommaso se le acercó por detrás, apoyado en el borde de su mesa como si llevara ahí toda la noche.
+Lo había encontrado en una gala de caridad, recogiendo copas. Un donante, Aldrich, sudaba frente al lector con la tarjeta negada dos veces, y un muchacho del personal le dijo sin una pausa que el sistema llevaba toda la noche cobrando doble, le dejó la pieza a su nombre y le cargó la falla al sistema. El sistema no cobraba doble: Chiara lo había probado dos horas antes. Junto a la mesa de postres él se encogió de hombros. «Me pagan por servir copas. Lo otro salió gratis.» Le apuntó el número en una servilleta de coctel y volvió a las copas.
 
-—Bellandi.
+Lo llamó para el primer torneo. Esa misma noche Tommaso se le apoyó en el borde de la mesa, por detrás, y le dijo bajito que un invitado de la mesa tres jugaba con Alessio en Palermo y ya le había contado la versión. «La tuya, esta vez.» La reservación estaba a nombre de la Dirección. *Invitado de la Dirección.* Sin nombre. Tommaso lo apuntó en el reverso de la lista de mesas, con la letra chica que usaba para lo que pensaba preguntar después. Una hora más tarde Chiara vio a Kenji desarmar en la caja a un jugador furioso con una calculadora y algo parecido a una broma, sin que nadie llamara a nadie, y entendió lo que se le había escapado: Tommaso tenía gente en su piso que hablaba primero con él. Ella tenía, en el mismo piso, a alguien que no hablaba con nadie.
 
-Ella no se dio vuelta enseguida.
+Esa noche, en su oficina, escribió cuatro palabras en latín en el papel de las cartas y las miró un rato. En Palermo, de niña, le había dicho a una sola compañera de quién era hija; una semana después dos hombres esperaron a esa niña a la salida del colegio, y la niña no volvió a sentarse con ella. Rompió el papel.
 
-—Un invitado de la mesa tres te reconoció —dijo Tommaso, bajito—. Dice que jugaba con Alessio en Palermo.
-
-Chiara sintió el nombre antes de oírlo completo.
-
-—Ya me contó la versión —siguió Tommaso, con la pausa exacta que usaba siempre—. La tuya, esta vez.
-
-Ella no se movió. Tommaso esperaba encontrar algo en la cara, y no había nada que encontrar.
-
-—La reservación estaba a nombre de la Dirección —añadió—. *Invitado de la Dirección.* Sin nombre.
-
-Lo apuntó en el reverso de la lista de mesas, con la letra chica que usaba para lo que pensaba preguntar después.
-
-No fue el comentario. Los comentarios los manejaba dormida. Fue la ruta.
-
-En su casa. Sobre su piso. Con su nombre.
-
-—Gracias por avisarme —dijo, y la frase salió tan lisa que Tommaso no tuvo dónde clavar la siguiente.
-
-***
-
-Buscó a Kenji sin darse cuenta de que lo estaba buscando.
-
-Lo encontró en la caja, exactamente donde debía estar: un jugador furioso golpeando el mostrador porque el conteo no le cuadraba, dos de seguridad acercándose con la lentitud que promete escándalo, y Kenji resolviéndolo con una calculadora en una mano y algo parecido a una broma en la otra, tan bajo que el jugador tuvo que inclinarse para oírlo y perdió el impulso de gritar.
-
-Nadie llamó a nadie. Nadie escribió un reporte.
-
-En menos de dos minutos el problema dejó de existir para todos menos para Chiara, que lo había visto entero.
-
-Ahí estaba la diferencia, tan simple que dolía habérsela perdido: Tommaso tenía gente en su piso que hablaba primero con él. Ella tenía, en el mismo piso, a alguien que no hablaba con nadie — hasta que le tocaba hablar con ella.
-
-No necesitaba más rumores. Lo que le faltaba era la primera llamada.
-
-No enterarse de las cosas. Enterarse antes que Tommaso.
-
-Esa noche, cuando el torneo ya había terminado, se encerró en su oficina del Monarch y sacó del bolso el papel que usaba para las cartas — el bueno, el que olía a lo que ella olía, el que nadie más en San Aurelio tenía permiso de tocar — y en vez de escribir una carta escribió cuatro palabras en una lengua que llevaba años sin usar más que en misa.
-
-Las miró un momento.
-
-En Palermo, de niña, le había dicho a una sola compañera de quién era hija. Una semana después, dos hombres esperaron a esa niña a la salida del colegio para preguntarle qué más sabía, y la niña no volvió a sentarse con ella.
-
-Después las rompió.
-
-Todavía no era el momento. Pero ya sabía que iba a necesitarlo, y sabía exactamente para quién.
-
-***
-
-Se lo propuso a Kenji un mes después, cuando ya llevaba tiempo suficiente en la caja como para que nadie se preguntara por qué Chiara pasaba cada tanto a saludarlo.
-
-—Un favor —le dijo, en voz baja, casi en italiano—. Nada que vaya a incomodarlo. Lo que oiga en su mesa: quién pregunta por quién, quién cambia más de lo que juega. Me explico: no le pido que busque nada. Le pido que no se le olvide.
-
-Kenji no preguntó para qué, ni para quién.
-
-—¿Cómo se lo hago llegar?
-
-—Yo le enseño.
-
-Fue la primera vez que Chiara le llevó un papel de los suyos, cortado en un rectángulo pequeño, y le enseñó cuatro palabras que él no sabía leer y que iba a tener que aprender a escribir de memoria.
-
-Kenji las miró.
+Un mes después se lo propuso a Kenji, casi en italiano. Lo que oyera en su mesa, quién preguntaba por quién, que no se le olvidara. Le enseñó las cuatro palabras en un rectángulo de su papel.
 
 —¿Latín?
 
 —Nadie sospecha de una lengua muerta.
 
-Kenji tomó una pluma de la caja y las copió una vez en el reverso de un comprobante, sin volver a mirar el original. Chiara le quitó el comprobante, lo rompió en cuatro y guardó el resto del papel en el bolso.
+Él las copió una vez en el reverso de un comprobante, sin volver a mirar el original, y ella rompió el comprobante en cuatro. La regla quedó dicha esa noche y no hizo falta repetirla: lo que salía de la caja a buscar a alguien, si no lo encontraba, volvía a la caja. Nunca a ella.
 
-Kenji no volvió a preguntar nada más esa noche. Guardó el papel donde nadie mira — entre las fichas que nadie cuenta dos veces — y desde entonces, cuando algo pasaba en el piso que valía la pena saber, Chiara lo sabía antes que nadie.
-
-Antes que Tommaso.
+En el penthouse, en un cajón que no era el de las cartas, ya había otros papeles que no había pedido. Un recorte de un periódico de fuera, con un viñedo al norte y un dueño cansado. Y uno sin nombre completo: la subjefa del Departamento, *la que manda desde lo de Keene*, vista dos veces en un restaurante de la costa con alguien que pagaba en efectivo y dejaba el auto a media cuadra. Chiara no sabía todavía para qué los quería. Los guardaba igual.
 
 ***
 
-Las semanas que siguieron le enseñaron algo que ningún año en Palermo le había enseñado: cuánto puede saber una mujer que nunca sale a buscar nada.
+Esperó a que la chaqueta café doblara la esquina. Después subió a la oficina y escribió.
 
-Llegaba de maneras que no seguían ningún orden. Un domingo por la mañana, todavía en bata, encontró sobre el escritorio del penthouse dos papeles distintos, cada uno con su propio peso.
+La férula llevaba una semana en un cajón y la letra le salía más lenta, pero suya, inclinada siempre hacia el mismo lado. Por dentro, cuatro líneas: el coche, la pregunta, los días. Por fuera, apretado, ROMA ATRII. Lo dobló en cuatro, lo metió en una carpeta de cierres y lo bajó ella misma.
 
-El primero llevaba el desorden feliz de Mabel, que nunca escribía nada — sólo lo decía, y dejaba que alguien más lo pusiera en papel después. Era sobre Blake. *El policía rubio, el que salía con la signora antes de lo de Mercer* — así lo describía Mabel, sin nombrarlo con respeto ni con desprecio — se había estado viendo con una recepcionista del Departamento, y la cosa se había apagado tan rápido como había empezado. Ella lo dejó. Él se lo tomó peor de lo que un hombre como Blake admitiría en voz alta. "Puede que no sea nada", cerraba la nota, en la letra de quien la había transcrito. "Puede que sea todo. Yo sólo sirvo café."
+—Para El Patio —le dijo a Kenji—. Hoy.
 
-El segundo no tenía nada que ver con barra de cafetería: un recorte de la sección de negocios de un periódico que ni siquiera circulaba en San Aurelio, con una nota manuscrita al margen — *viñedo al norte, dueño cansado, puede que venda antes del otoño*.
+Kenji no preguntó con quién lo iba a mandar, y ella no se lo preguntó a él.
 
-Guardó el del viñedo en un cajón aparte — todavía no sabía para qué lo quería, pero algo en el fondo del estómago le decía que lo iba a querer. El de Blake lo dejó un rato más de lo necesario sobre el escritorio, sin decidir todavía si era información o sólo la clase de vanidad pequeña que a veces se permitía.
+A las cuatro, Kenji pidió otra firma.
 
-Un tercero llegó esa misma semana: un rumor sobre la subjefa del Departamento — nadie decía su nombre completo, sólo "la que manda desde lo de Keene" — vista dos veces en un restaurante de la costa con alguien que nadie en la mesa reconoció, pero que pagó en efectivo y dejó el auto a media cuadra, no en la puerta. Chiara no sabía todavía qué hacer con eso. Lo guardó de todos modos. Un dato sin uso hoy era sólo un dato que todavía no había encontrado su pregunta.
+—Volvió el chico. Sin el papel. —Contaba fichas de cien—. Un güero de la grúa lo paró en la cerca de atrás, le preguntó a quién buscaba y se quedó con él. Lo mandó a su casa.
 
-Tres fuentes. Tres lenguajes. Tres personas que jamás se habían visto entre sí y que habían escrito, sin saberlo, la misma página.
+—¿Le hizo algo?
 
-Nada de esto llegaba con instrucciones. Nada llegaba en el papel bueno, ni en latín, ni con la ceremonia de i Sussurri — sólo el rumor viejo, orgánico, el que la ciudad producía sola sin que nadie lo cultivara. Kenji le daba lo que pasaba en su propio piso, cifrado, puntual, por una ruta que ella creía imposible de rastrear; había aceptado el favor. Mabel no había aceptado nada: lo suyo llegaba como llegaba lo de la calle, los comercios, la vida civil entera de San Aurelio, en el idioma en que la gente habla cuando cree que nadie más los está escuchando.
+—Le dijo que no lo volviera a hacer. Para nadie.
 
-Chiara empezaba a entender que eran dos redes, y que la segunda no había que construirla: sólo aprender a leerla.
+—¿Cuántos años tiene?
 
-***
+—Doce. Trece.
 
-Para entonces Kal llevaba semanas buscando a un hombre de cuarenta años con un diente gris del lado izquierdo. Danny había preguntado en los talleres de Las Calderas; Nadir, en las dos cantinas junto a las vías; Kal, en los corralones donde la cuota se pagaba sin recibo. Nadie lo conocía. Nadie conocía tampoco un anillo en el meñique con la piedra hacia adentro, ni una camioneta gris sin ventanas que hubiera cambiado de placas ese mes.
+Iba a preguntarle quién era. No lo preguntó: la regla era suya.
 
-Desde entonces se fijaba en quién se paraba afuera del Patio.
+Danny se lo había contado una noche en la cocina de la casa común, secando platos. Kal llevaba semanas buscando a un hombre de cuarenta años con un diente gris del lado izquierdo; Danny había preguntado en los talleres de Las Calderas, Nadir en las cantinas junto a las vías. Nadie lo conocía. Desde entonces Kal se fijaba en quién se paraba afuera del Patio. Chiara lo sabía desde hacía semanas, y esa mañana había mandado a un niño a pararse justo ahí.
 
-Un chico de doce o trece años se paseaba una tarde cerca de la cerca trasera de Almendra Towing con la clase de disimulo que sólo delata a quien nunca lo ha hecho antes.
-
-Kal lo vio antes de que el chico lo viera a él. Miraba un reloj que no traía. Se cambiaba el peso de un pie a otro. Kal lo dejó acercarse dos pasos más antes de salir de donde estaba.
-
-—¿Perdiste algo?
-
-El chico se congeló.
-
-—Tengo que entregarle algo a un hombre. Aquí. En el Patio.
-
-—¿A quién?
-
-—Roma Atrii —dijo el chico, despacio, mal, como quien repite sonidos y no palabras—. Así me dijeron que preguntara.
-
-Kal no conocía a nadie con ese nombre. Nadie en el Patio se hacía llamar así, y los años que llevaba ahí adentro le alcanzaban de sobra para saberlo.
-
-—¿Y si te digo que aquí no hay ningún Roma?
-
-El chico se encogió de hombros, ya más asustado que confundido.
-
-—A mí me dijeron el nombre. Yo sólo tengo que entregarlo. Y si no lo encuentro, se lo devuelvo a un señor en la caja del Monarch. Eso es todo lo que sé.
-
-Sacó el papel del bolsillo, doblado en cuatro, y antes de que Kal lo tuviera en la mano ya sabía de quién era. El olor llegó primero que la letra — canela, vainilla, algo que no pertenecía a ningún lugar cerca de un taller de grúas, y que ya conocía de otra parte sin haberse dado cuenta de que lo había memorizado.
-
-Por fuera, en letra cursiva apretada, inclinada siempre hacia el mismo lado, las mismas dos palabras que el chico acababa de mascullar: **ROMA ATRII.** Por el borde se transparentaban más líneas.
-
-—¿Quién te mandó?
-
-—Un señor. De la caja, en el Monarch. Me dijo que buscara a Roma Atrii, y que si no lo encontraba, se lo devolviera a él. Nada más.
-
-No un nombre. No una mujer. Sólo un hombre de la caja, puesto ahí para que la cadena se cortara antes de llegar a ella. Y no le hizo falta más — el chico no sabía nada, y decía la verdad al no saber nada.
-
-La mandíbula se le tensó un segundo — el mismo segundo de siempre, el que nadie en el Patio sabía nombrar — y se le pasó antes de que nadie hubiera podido preguntarle por qué.
-
-No era la información lo que le molestaba. Ésa se la habría dado gratis; se la había estado dando gratis, en los dos sentidos, desde antes de que ninguno de los dos le pusiera nombre a lo que estaban construyendo. Lo que le molestaba era la ruta que había elegido para mandarla: un desconocido buscado con nombre y todo dentro de su propio territorio, y para buscarlo, un crío parado en la calle equivocada, cargando algo que no entendía, para gente que tampoco lo entendería si algo salía mal — un crío que en otra ciudad podría haber sido la clase de carga que fue él cuando lo compraron de bebé, y la que le costó la carrera.
-
-—Vete a tu casa —le dijo al chico, sin dureza—. Y no vuelvas a hacer esto. Para nadie.
-
-El chico no esperó a que se lo repitiera.
-
-***
-
-Fue al casino esa misma tarde con la idea ya armada de que esto se terminaba ahí — el favor, el arreglo, lo que fuera que estuvieran construyendo sin nombre, y que llevaba semanas pareciéndose cada vez más a otra cosa.
-
-No preguntó por Chiara primero.
-
-Preguntó por el hombre de la caja.
-
-Lo encontró donde el chico había dicho que estaría — chaleco del Monarch, manos rápidas, una fila corta de jugadores esperando turno para cambiar fichas. Kal esperó a que despachara al último y se paró frente a él.
+Kal no tardó una hora. No subió a la oficina ni preguntó por ella. Lo vio desde la escalera del entrepiso cruzar el piso de juego con la ropa del taller y el papel doblado en la mano, derecho a la caja, y esperar a que Kenji despachara al último de la fila.
 
 —¿Usted mandó a un chico a buscar a alguien llamado Roma Atrii?
 
-Kenji no dejó de contar un fajo de billetes.
+Kenji no dejó de contar.
 
 —No sé de qué me habla.
 
-—Un niño. Doce, trece años. Dijo que si no encontraba a nadie, le devolvía un papel a un hombre de la caja. Usted es el único hombre en esta caja.
+—Doce, trece años. Si no encontraba a nadie, le devolvía un papel a un hombre de la caja. Usted es el único hombre en esta caja.
 
 —Trabajo mucho, señor. Veo mucha gente.
 
-No mentía con miedo. Mentía con la cara pareja, y eso, más que cualquier otra cosa, le confirmó a Kal que estaba en el lugar correcto.
-
 —Gracias, Kenji. Yo atiendo al señor Mercer.
 
-Chiara había llegado sin que ninguno de los dos la oyera acercarse — o quizás la habían oído y ninguno quiso ser el primero en voltear. Llevaba el mismo aire con el que recibía a un socio, ni un grado más cálido, y a Kenji le bastó con esa temperatura para volver a lo suyo sin hacer una sola pregunta.
+Lo dijo con la temperatura con que recibía a un socio, ni un grado más, y a Kenji le bastó para volver a lo suyo. Kal la miró a ella y después a Kenji, y Chiara supo que él había entendido lo mismo que ella acababa de decidir: Kenji no sabía nada de lo que había entre los dos, y así se iba a quedar.
 
-Kal entendió, en el mismo segundo, dos cosas: que Kenji no sabía nada de lo que había entre ellos, y que Chiara acababa de decidir, delante de él, que seguiría sin saberlo.
+Lo llevó a la franja entre la caja y el pasillo de servicio, donde el ruido de las máquinas tapaba cualquier conversación a más de un metro. De un lado, el vidrio de la caja, con Kenji detrás. Del otro, la puerta batiente. A espaldas de Kal, el piso.
 
-Lo llevó aparte, a la franja de piso entre la caja y el pasillo de servicio, donde el ruido de las máquinas tapaba cualquier conversación a menos de un metro. De un lado quedaba el vidrio de la caja, con Kenji detrás; del otro, la puerta batiente del pasillo de servicio. A espaldas de Kal, el piso de juego.
-
-Chiara no discutió. No preguntó cómo se había enterado. No defendió el método, no dijo que el chico estaba bien pagado ni que nunca lo habría puesto en peligro real. Lo miró y dijo:
+No le preguntó cómo se había enterado. No le dijo que el chico estaba bien pagado.
 
 —Tienes razón. No vuelve a pasar. Tienes mi palabra.
 
-Kal traía el resto preparado. Se quedó con el papel en la mano y sin la siguiente pregunta.
+Kal traía algo más. Se le notó en cómo se quedó con el papel en la mano y sin la siguiente pregunta.
 
 —¿Por qué no esperaste? —dijo al fin. No subió la voz, pero tampoco la bajó—. Siempre esperas a la noche.
 
-Chiara no buscó una versión más cómoda.
-
-—Porque esta mañana alguien preguntó por tu coche en mi propio piso. Un hombre que nunca había visto, que pagó en efectivo y no jugó una sola mano. No sé si es nada. No sé si es algo. Pero no iba a quedarme sentada hasta la noche con esa duda y contigo sin saberlo.
+—Porque esta mañana alguien preguntó por tu coche en mi propio piso. Un hombre que nunca había visto en este casino, que cambió doscientos y no jugó una sola mano. —Era verdad, y no era todo—. No iba a quedarme sentada hasta la noche con eso y contigo sin saberlo.
 
 —Pudiste llamarme.
 
-—Ésta no la pensé lo suficiente —dijo, sin disculparse por eso tampoco—, y el chico pagó el precio de que no la pensara. Eso no tiene defensa, y no la voy a inventar.
+—Ésta no la pensé lo suficiente, y el chico pagó el precio de que no la pensara. Eso no tiene defensa, y no la voy a inventar.
 
-Y con eso pudo haberse acabado.
-
-Kal le dio vuelta al papel entre los dedos, todavía doblado en cuatro.
+Kal le dio vuelta al papel entre los dedos, todavía doblado.
 
 —¿Lo escribiste tú?
 
@@ -290,11 +125,11 @@ Chiara negó con la cabeza.
 
 —¿Quién es?
 
-Chiara tardó un segundo más que en las otras.
+Tardó un segundo más que en las otras.
 
 —No lo sé. Kenji sí.
 
-Kal levantó la vista. A diez metros, Kenji cambiaba fichas sin voltear hacia ellos ni una vez, con el cuidado de quien sabe adónde no tiene que mirar.
+Kal levantó la vista. A diez metros, Kenji cambiaba fichas sin voltear hacia ellos ni una vez.
 
 —¿Y si lo paraban? ¿Quién respondía por él?
 
@@ -302,13 +137,13 @@ Kal levantó la vista. A diez metros, Kenji cambiaba fichas sin voltear hacia el
 
 —Yo lo paré.
 
-Chiara no contestó enseguida. En una de las mesas, algo subió de tono. Ella levantó un dedo hacia alguien de seguridad, apenas, y el problema se resolvió sin que tuviera que moverse.
+En una de las mesas algo subió de tono. Chiara levantó un dedo hacia seguridad, apenas, y se resolvió sin que ella se moviera.
 
-—Kenji sabe lo de su caja. El chico sabía una dirección y un nombre que no entendía. Si alguno cae, cae con eso y nada más. —Lo dijo al ritmo de quien cuenta piezas de algo que funciona—. Una red visible es un blanco, Kal. Una invisible es una costumbre. Nadie delata una costumbre.
+—Kenji sabe lo de su caja. El chico sabía una dirección y un nombre que no entendía. Si alguno cae, cae con eso y nada más. —Lo dijo al ritmo de quien cuenta las piezas de algo que funciona—. Una red visible es un blanco, Kal. Una invisible es una costumbre. Nadie delata una costumbre.
 
 —El chico no sabía que estaba adentro.
 
-Para eso Chiara no tenía pieza. Kal no esperó a que la buscara; miró el papel.
+Para eso no tenía pieza. Kal no esperó a que la buscara; miró el papel.
 
 —Kenji sabe lo de su caja —repitió—. ¿Y lo de las otras?
 
@@ -316,40 +151,250 @@ Para eso Chiara no tenía pieza. Kal no esperó a que la buscara; miró el papel
 
 —Dijiste *su* caja.
 
-Chiara lo sostuvo un momento. Algo en ella cambió de mano, como una ficha.
+Chiara le sostuvo la mirada. Giró el anillo una vez.
 
-—El chico ya te lo di, Kal. —Ni dura ni suave—. Esto otro es mío.
+—El chico ya te lo di, Kal. Esto otro es mío.
 
-Un mesero salió del pasillo de servicio con una charola de copas, y Kal tuvo que dar medio paso hacia ella para dejarlo pasar. No lo devolvió.
+Un mesero salió por la puerta batiente con una charola de copas, y Kal tuvo que dar medio paso hacia ella para dejarlo pasar. No lo devolvió.
 
-Kal bajó la vista al papel, a la letra inclinada siempre hacia el mismo lado, a las dos palabras que no entendía.
+Él bajó los ojos a la letra, a las dos palabras de afuera.
 
 —Suena a iglesia.
 
-—Es iglesia, un poco. —Casi sonrió—. Crecí aprendiendo que una confesión no vale nada si le llega al oído equivocado. Y creo en Dios, Kal. Creo en Dios, y en que una mentira dicha con cuidado puede proteger más gente que una verdad dicha sin él. —Lo miró de frente—. ¿Tú?
+—Es iglesia, un poco. —Casi sonrió—. Crecí aprendiendo que una confesión no vale nada si le llega al oído equivocado. Y creo en Dios, Kal. Creo en Dios, y en que una mentira dicha con cuidado puede proteger más gente que una verdad dicha sin él. ¿Tú?
 
-—En lo que puedo pagar, arreglar o cobrar. —No sonó a defensa. Sonó a inventario.
+—En lo que puedo pagar, arreglar o cobrar.
 
-Algo cerca de ternura le cruzó la cara a ella, breve, antes de que la guardara de vuelta. No le contestó. Volvió a mirar el piso, la caja, a Kenji, y otra vez a él.
+No sonó a defensa. Sonó a inventario, y a Chiara se le fue la cara a algo que tuvo que guardar enseguida. Miró el piso, la caja, a Kenji, y otra vez a él.
 
-—Preguntó ese nombre en voz alta —dijo—. En tu patio. Delante de quien estuviera. —Se pasó la uña del pulgar por el filo de otra—. Ya no mando a nadie a buscar a nadie. De ahora en más, si tengo que llegarte algo, lo traigo yo.
+—Preguntó ese nombre en voz alta. En tu patio. Delante de quien estuviera. —Se pasó la uña del pulgar por el filo de otra—. Ya no mando a nadie a buscar a nadie. De ahora en más, si tengo que llegarte algo, lo traigo yo.
 
-*Llegarte.* No *llegarle a alguien.*
+Kal no contestó. Abrió la boca para otra cosa, cuántos, quiénes, en qué pisos, ella se lo vio, y la cerró.
 
-Kal no dijo nada, y ella tampoco esperó que lo hiciera.
-
-Tuvo en la boca la otra pregunta — cuántos, quiénes, en qué pisos — y no la hizo.
-
-—¿Qué significa esto? —preguntó en cambio, sosteniendo el papel un poco más alto, señalando las dos palabras de afuera, como si eso ayudara.
+—¿Qué significa esto? —Levantó el papel un poco, señalando las palabras de afuera.
 
 —Eso no te lo voy a decir. —Chiara no sonrió—. Todavía no.
 
-No fue un no. Kal lo notó, y no supo qué hacer con eso tampoco.
+Él se guardó el papel en el bolsillo del pecho sin abrirlo y salió por donde había entrado. Chiara se quedó en la franja hasta que el mesero volvió con la charola vacía.
 
-Caminó de vuelta al taller esperando todavía sentir el peso con el que había llegado. Lo encontró, cambiado de lugar. El chico estaba resuelto. Lo demás seguía allá atrás, funcionando, en gente que no sabía que estaba adentro y que él no iba a conocer.
+***
 
-Quedó, sin lugar donde ponerlo, el nombre que el chico había repetido como una contraseña.
+La primera pieza llegó envuelta en gasolina, una semana después.
 
-*Roma Atrii.*
+—Un muchacho de la estación de la Ronda Exterior —dijo Mabel, sirviéndole sin que se lo pidiera—. Dice que dos hombres de traje se estacionan ahí cada tantas noches, pasada la medianoche, y esperan un tercer coche que llega con las luces apagadas. Uno firma los recibos del café con letra de doctor. Yo no sé de letras de doctor.
 
-No estaba seguro de querer que significara algo.
+—¿Fiscales?
+
+Mabel se limpió las manos en el delantal.
+
+—Yo no dije fiscales. Digo que nadie de traje espera a nadie en una gasolinera de la Ronda a esa hora, a menos que no quiera que lo vean esperando. El resto lo armas tú, que para eso te pago yo el café.
+
+Esa tarde Chiara lo pasó a una hoja suelta y escribió al margen, en la letra apretada que sólo ella entendía:
+
+*Ps. 26:12.*
+
+*Insurrexerunt in me testes iniqui.* Se levantaron contra mí falsos testigos.
+
+No era una traducción. Era la forma en que su cabeza, entrenada desde niña a guardar la Escritura antes de entender para qué serviría, archivaba un miedo concreto sin que nadie pudiera leerlo por encima de su hombro: alguien estaba dejando de perseguir un rumor para empezar a armar un caso.
+
+La segunda llegó con el mismo acento, un martes.
+
+—¿Sabes qué no me cuadra? Que de repente todo Las Calderas habla de Rafe Domínguez como si fuera noticia. Y Rafe Domínguez lleva siendo el mismo desde que yo era joven. —Mabel volvió a la plancha—. Anda nervioso. Mandó a dos de los suyos a comprarle un abogado que no es de por aquí.
+
+Esa noche, al margen de otra hoja:
+
+*Cant. 4:16. Auster.*
+
+*Surge, aquilo, et veni, auster.* Levántate, viento norte, y ven, viento sur.
+
+El sur. Un hombre de Los Bravos de Santa Brígida, con historial y con nombre, de los que un fiscal prefiere cerrar a abrir uno nuevo. Un candidato perfecto. Demasiado, pensó Chiara.
+
+La tercera llegó como llegaba lo que importaba: en un rectángulo con el borde deshilachado y el olor de su propio papel. Kenji se lo dio una noche en la caja, sin mirarla.
+
+—Un abogado perdió mucho en la mesa cuatro. Habló de más con el de al lado. Dijo un nombre que no era el suyo. Y que el coche ya tenía foto.
+
+Chiara se llevó el papel al penthouse y no lo abrió todavía.
+
+Lo primero que le pidieron las manos fue una vela.
+
+Recordó una conversación, de esas que los adultos creen que los niños olvidan porque no entienden todas las palabras.
+
+Había sido en una iglesia de Palermo, con olor a cera derretida y a piedra fría, la luz de las velas votivas temblando sobre el metal de su repisa. Marta le había puesto una moneda en la palma y le había enseñado a encender el fósforo sin quemarse los dedos, frente al altar de un santo cuyo nombre Chiara ya no recordaba.
+
+—¿Y si no se cumple?
+
+Marta estaba sentada en la banca, frente a ella, un rosario enredado entre los dedos —no rezándolo, sólo pasándolo, quizá sólo la costumbre de no dejar las manos quietas— y hablaba con la serenidad de quien no promete que el mundo vaya a obedecer.
+
+—No es para que se cumpla.
+
+—Entonces, ¿para qué?
+
+—Es para que tu mente esté más tranquila.
+
+Chiara había mirado hacia el fondo del pasillo central, donde Corrado esperaba de pie, las manos en los bolsillos, con la paciencia de un hombre que entra a una iglesia por acompañar y no por necesitarla.
+
+—¿Tú haces lo mismo, papá?
+
+—Yo no, tesoro mío.
+
+—¿Por qué?
+
+Corrado se había acercado a la banca y había mirado la vela.
+
+—Tu madre sabe esperar. A mí me cuesta.
+
+—¿Y si pasa algo?
+
+Se agachó frente a ella, sin prisa.
+
+—Entonces vienes a buscarme.
+
+—¿Y después?
+
+Le acomodó el cuello del abrigo.
+
+—Después ya lo arreglo yo.
+
+Le tendió la mano. Cuando Chiara se la dio, se incorporó y quedó delante de ella.
+
+—Quédate detrás de mí.
+
+La niña había obedecido. No porque creyera que su padre podía arreglarlo todo, sino porque por un instante bastaba con que él estuviera delante.
+
+Corrado no llegó a arreglar la redada que se lo llevó. Chiara no pudo ni despedirse.
+
+Esa noche no encendió una vela. Encendió la lámpara del escritorio, abrió el papel y leyó.
+
+**MICH. 7:6.**
+
+*Inimici hominis, domestici eius.* Los enemigos del hombre son los de su propia casa.
+
+Su propia casa. La fuga había salido del Monarch, de un abogado sentado en una de sus mesas con su whisky en la mano. Y la pregunta había entrado al Monarch por la misma puerta, un jueves, con una chaqueta café y un vaso de agua sin tocar.
+
+Extendió los tres papeles sobre la mesa —el de la gasolinera, el del sur, el de Kenji— y los miró como quien mira por fin una fotografía entera después de semanas de pedazos.
+
+*Testes iniqui. Auster. Domestici eius.*
+
+No era una acusación todavía. Era peor: era una dirección. Alguien en Calle Corona había decidido que el Peugeot rojo merecía un nombre y tenía dos igual de convenientes, uno porque su historial lo hacía fácil de creer y el otro porque nadie en San Aurelio sabía de él lo suficiente para dudar. Lo que los papeles no decían, y Chiara sí sabía, era quién les había llevado el segundo.
+
+Sacó también el de la costa. Una subjefa que firmaba los casos de Calle Corona y cenaba con alguien que pagaba en efectivo. Ya tenía la pregunta: el caso de Kal iba a terminar en su escritorio. Con eso se podía hacer ruido, y el ruido se iba a oír en el mismo despacho donde estaba el nombre de Kal.
+
+Lo devolvió al cajón.
+
+Pensó en Rafe Domínguez, a quien no conocía, y sintió, contra toda lógica de negocios, algo parecido a la culpa por adelantado. Después pensó en Kal, y la culpa se convirtió en otra cosa.
+
+No lo llamó. Sacó una libreta que nunca usaba para las cartas y empezó a escribir nombres de gente del norte a la que le debía favores.
+
+***
+
+Le tomó cuatro días.
+
+No inventó un culpable: un nombre inventado se cae en cuanto alguien lo busca. Encontró algo verdadero y lo puso donde hiciera más ruido. Un corredor de piezas del norte, cerca de Cedar Flats, llevaba meses pagando cargamentos enteros en efectivo, sin recibos, con un descuido que un hombre honesto nunca se permite. Chiara no lo conocía. Le bastaba con que existiera.
+
+Movió tres conversaciones, ninguna suya. Un comentario sobre piezas de motor que aparecían y desaparecían del inventario de un taller que nadie vigilaba. Una pregunta hecha por alguien que no sabía que la pregunta era de otro. Para el cuarto día el rumor caminaba solo hacia cualquier investigador que tirara del hilo del dinero en vez del hilo del coche.
+
+A Rafe no lo pudo borrar del mapa. Se quedaría con ese nombre nervioso un tiempo más, y eso, se dijo, no era gratis para nadie, tampoco para ella.
+
+Al margen de la primera hoja seguía su letra: *Ps. 26:12.* No la tachó.
+
+***
+
+Fue a buscarlo al taller. La primera vez, cayó en la cuenta, que hacía ese camino sin que él la llamara antes. Se lo había prometido en el Monarch, y llevaba tres semanas faltando a la promesa a propósito.
+
+Lo encontró debajo de un auto que no era suyo. No esperó a que saliera.
+
+—Te van a citar a declarar. Por el Peugeot.
+
+La llave, abajo, siguió girando.
+
+—Calle Corona, esta semana. Lo sé desde hace tres semanas.
+
+La llave se detuvo. Kal salió sobre el carrito y se quedó sentado ahí, con un trapo que ya no limpiaba nada.
+
+—Dijiste que me lo traías tú.
+
+—Te lo traigo entero. Hace tres semanas te habría traído miedo.
+
+Sacó una hoja doblada del bolso y no se la dio; la leyó ella.
+
+—Hay otro sospechoso: Rafe Domínguez, del sur. Si te preguntan por piezas en efectivo, Garrett las recogió en Villani Motors, cerca de Cedar Flats, hace cosa de dos meses. Si te preguntan por las noches que llegabas tarde sin que Héctor supiera dónde estabas, estabas en Kingsley Field, revisando motores para las carreras de los sábados, con Nadir.
+
+—Sin Nadir.
+
+—Es tu mejor testigo.
+
+—Sin Nadir.
+
+No dijo por qué. Chiara tachó el nombre con una sola raya y dobló la hoja.
+
+—Nada de eso es mentira completa.
+
+—Villani no se va a acordar de mí.
+
+Chiara esperó. Kal tardó un segundo en entenderlo, y dejó el trapo en el piso.
+
+—¿Y Rafe? ¿Lo pusiste tú?
+
+—No. Ya estaba. —Giró el anillo una vez—. Tampoco lo puedo sacar.
+
+—Entonces el caso se queda con él.
+
+—No. Desde el lunes hay un tercero: un corredor de piezas del norte que paga cargamentos enteros en efectivo, sin recibos. Eso es verdad; no lo inventé. Sólo hice que se oyera donde hacía falta.
+
+Kal no la miró. Miró el auto, el carrito, el trapo, y Chiara lo vio sacar una cuenta que ella no le había dado.
+
+—¿Y a él qué le pasa?
+
+—Una visita incómoda por algo que sí hizo. Por esto no.
+
+—¿A quién le debes esto?
+
+—Tres favores. Ninguno con tu nombre.
+
+—Pero con el tuyo.
+
+No contestó eso.
+
+—Chiara. —Bajo—. ¿Por qué tanto?
+
+Tenía la respuesta, y no era para un taller. Dobló la hoja.
+
+—Cuando te llamen, no lo ensayes demasiado. Lo ensayado se nota.
+
+Kal no volvió a meterse debajo del auto mientras ella estuvo ahí.
+
+***
+
+Lo citaron el jueves. Chiara pasó la tarde en el Monarch firmando cierres que podían esperar, y Kenji no le pidió ninguna firma.
+
+Kal llegó al penthouse de noche. Dejó las llaves sobre la mesa con más cuidado del que necesitaban y no se sentó.
+
+—Una subjefa —dijo—. Sin uniforme. Con una carpeta.
+
+Chiara no le preguntó cómo se llamaba. Si preguntaba, iba a tener que decirle por qué.
+
+—Dijo que de los dos el mío era el que menos le gustaba. El otro tiene historial; yo tengo un taller legal y un contrato con su propio Departamento. —Se quedó mirando el ventanal—. Le dije lo de Villani. Lo de Kingsley Field. Dijo que lo iban a confirmar.
+
+—Lo van a confirmar.
+
+—Tenían una foto. —Kal se tocó el bolsillo del pecho, como si la trajera—. El reloj del Ayuntamiento arriba. La fuente. El coche de lado. Y dos manchas negras en las ventanillas, donde van las caras.
+
+Chiara se acordó del frío de la máscara contra la mejilla, de la plaza dando vueltas alrededor de la fuente. Una de las dos manchas era ella.
+
+—¿Preguntó por la otra?
+
+—No.
+
+Villani recordaría la venta en efectivo; Chiara se había asegurado tres días antes, con una llamada que no mencionó a Kal. El circuito de Kingsley Field tenía un registro de mantenimiento a nombre de Almendra Towing, real y aburrido. Y en algún punto de la semana alguien de la Fiscalía empezaría a hacer preguntas sobre un corredor de piezas del norte. Contra Kal iba a quedar una foto sin caras, un taller con motivo para andar de noche por Kingsley Field y un dinero que ya tenía de dónde venir. El expediente seguiría abierto. Su nombre se iba a ir del centro sin que nadie pudiera decir cuándo.
+
+Kal la miraba como si la viera desde un ángulo que llevaba meses sin usar.
+
+—Eres realmente buena en esto.
+
+Chiara no bajó la vista. No sonrió, no todavía.
+
+—Lo soy cuando amenazan a mi gente.
+
+Kal se quedó con eso un momento, y después se sentó.
+
+Afuera, San Aurelio seguía a su ritmo: un hombre en el sur cargando un nombre que no le pertenecía del todo, otro en el norte a punto de recibir una visita por algo que sí había hecho, aunque no eso. Chiara se lo guardó, junto con los tres papeles que nadie iba a ver juntos, el de la costa, que todavía no había usado, y lo único que esa noche no le dijo: de qué puerta había bajado la chaqueta café.

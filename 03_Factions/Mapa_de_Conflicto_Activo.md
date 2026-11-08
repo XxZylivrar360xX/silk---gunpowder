@@ -85,6 +85,25 @@ Ahí El Patio deja de ser sólo útil y empieza a ser proveedor de la mayoría d
 
 > **CANON DEL AUTOR (2026-10-03):** el ecosistema es móvil, no dos bloques: bandas que pasan de enemigas de El Patio a neutrales, leales a Dario por miedo, neutrales o aliadas circunstanciales de Kal. **El respeto a Kal no equivale a lealtad.** Tras la tormenta de *Sombras de Poder*, las bandas que Kal sacó antes del cierre policial lo recuerdan: respeto, neutralidad u oportunidades, no alianzas automáticas. Ver [[01_Timeline/03_Libro_02_Sombras_De_Poder]] ("Incubadora 2026-10-03").
 
+## Bandos en la Guerra de los Tres (*Voto de Ceniza*) — CANON DEL AUTOR (2026-11-07)
+
+Son bandos de guerra, no lealtades eternas: vale la regla del ecosistema móvil de arriba.
+
+| Bando | Banda | Por qué |
+|---|---|---|
+| **Kal** (protegidas o armadas por El Patio) | [[03_Factions/Los_Marcadores_de_Milla]] | Norte: pilotos, rutas, Kingsley Field. |
+| **Kal** | [[03_Factions/Cuadra_Nueve]] | Nueve Puentes: los chicos que protegió. |
+| **Kal** | [[03_Factions/Los_Calderos]] | Las Calderas: pasan de enemigos a dependientes; sus talleres viven de las grúas de Kal. |
+| **Kal** | [[03_Factions/La_Ronda_del_Canal]] | Canal Seco: aliada circunstancial (Irene Salcedo). |
+| **Dario** (por miedo o por uso) | [[03_Factions/Los_Bravos_de_Santa_Brigida]] | Su herramienta de presión; enemistad con Kal. |
+| **Dario** | [[03_Factions/Breakwater_Saints_MC]] | La Isla, el piso del Monarch; Dario los usa para cortar el flujo de Kal en la costa. |
+| **Neutral** | [[03_Factions/Alamo_Salvage]] | Los Álamos: vende a quien pague; Cross River lo absorbe después. |
+
+**El doble golpe de Calle Corona** ([[04_Concepts/La_Guerra_de_los_Tres#Regla particular — Coche bomba en Calle Corona]]):
+- Los agentes de Halbrook usan **los colores de Los Calderos**. Un coche bomba hecho por gente de talleres es creíble para la ciudad, y Kal los armó.
+- **Cuadra Nueve** estaba en el triage por accidente: uno de los suyos estaba detenido en las celdas de Calle Corona (DISEÑO). Los falsos agentes les matan gente joven. Cuadra Nueve quiere sangre de policías, y para Kal es su regla rota: «Los niños no entran a este mundo».
+- **PENDIENTE:** qué les dio Kal a Los Calderos (armas, protección) y cuándo; qué hace con Cuadra Nueve; cómo reaccionan Los Calderos al ver sus colores en la bomba.
+
 ## Preguntas Abiertas
 
 > **PENDIENTE:** cuál conflicto abre el arco electoral de Russ.

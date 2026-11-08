@@ -1,5 +1,7 @@
 # Silas Crowe — *El Tasador*
 
+> **CANON DEL AUTOR (2026-11-07):** antagonista principal del Libro I. **Trabaja para Halbrook** (vínculo en presente; el de origen queda abierto): es su hombre en San Aurelio y le informa sobre Kal sin saber para qué. Pasa a ser autor del corral (H12) **con bandera falsa**: contrata al atacante con el nombre de Nereo Volpi (ver Hitos H12). **Robo del Monarch (2026-11-07):** lo organiza por encargo de los intermediarios de Halbrook; el fracaso le cuesta la amenaza de Halbrook; asesina a Roy Boone. Ver [[11_Books/Book_01_Mascaras_De_Cristal/Part_02_Con_Peores_Personas_He_Tratado/00_Plan_Robo_Monarch]]. Detalle: [[11_Books/Book_01_Mascaras_De_Cristal/00_Plan_Nuevo_Cauce]].
+
 > **Numeración:** desde 2026-10-22 el Libro I usa numeración corrida definitiva (56 caps.); este documento cita la numeración anterior. Correspondencia en [[11_Books/Book_01_Mascaras_De_Cristal/00_Book_Map]].
 
 ## Reconciliación macro — CANON DEL AUTOR 2026-09-20

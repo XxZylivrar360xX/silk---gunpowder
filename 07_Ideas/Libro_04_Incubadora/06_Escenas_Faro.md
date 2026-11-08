@@ -126,9 +126,11 @@ Nicholas:
 
 Kal respeta que Nicholas no trate a Elenna como una cosa bajo custodia.
 
+> **CANON DEL AUTOR (2026-11-07):** aquí se cobra «No soy su compañero» (Libro I, Cap. 27): Nicholas lo repite o se lo devuelve a Kal, veinte años después. Ver [[07_Ideas/Libro_04_Incubadora/01_Nicholas_Voss]].
+
 No amistad instantánea.
 
-> **CANON DEL AUTOR (2026-09-16):** Kal puede bromear que se va tranquilo sabiendo que Elenna está bien cuidada — no necesariamente por el capitán. El chiste es sobre [[07_Ideas/Libro_04_Incubadora/03_Relaciones_Elenna|Rex]], no sobre Nicholas.
+> **CANON DEL AUTOR (2026-09-16):** Kal puede bromear que se va tranquilo sabiendo que Elenna está bien cuidada — no necesariamente por el jefe (Nicholas es Jefe de Policía desde el V; 2026-11-07). El chiste es sobre [[07_Ideas/Libro_04_Incubadora/03_Relaciones_Elenna|Rex]], no sobre Nicholas.
 
 ### Despedida familiar
 
@@ -193,9 +195,11 @@ Posible cierre:
 
 Función: derecho de Elenna a no convertirse en réplica de nadie.
 
-## 5. María Voss y la promesa
+## 5. Dana Collins y la promesa
 
-María vive cerca de su hijo y visita San Aurelio ocasionalmente.
+> **CANON DEL AUTOR (2026-11-07):** la esposa es [[02_Characters/Dana_Collins]] (antes María). Vive con Adam en Argentina desde que se retiró en el IV.
+
+Dana vive cerca de su hijo y visita San Aurelio ocasionalmente.
 
 No exige que Nicholas “traiga al hijo”. La pregunta actual es si Nicholas puede dejar de usar San Aurelio como penitencia.
 
@@ -205,7 +209,7 @@ Línea núcleo:
 
 Posible cierre tardío del arco:
 
-María:
+Dana:
 
 > **“¿Vas a venir?”**
 

@@ -1,5 +1,7 @@
 # Warren Halbrook
 
+> **CANON DEL AUTOR (2026-11-07):** **sale en persona de la prosa del Libro I** salvo el epílogo (Cap. 56), donde aparece sin hablar; **su nombre sí puede decirse**; antes actúa por intermediarios militares o contratados. **Crowe trabaja para él.** Su interés por Chiara nace en el Libro I (la mujer competente que ronda al sargento Mercer). Detalle: [[11_Books/Book_01_Mascaras_De_Cristal/00_Plan_Nuevo_Cauce]].
+
 > **Numeración:** desde 2026-10-22 el Libro I usa numeración corrida definitiva (56 caps.); este documento cita la numeración anterior. Correspondencia en [[11_Books/Book_01_Mascaras_De_Cristal/00_Book_Map]].
 
 *Seda y Pólvora — Ficha de Personaje*
@@ -82,7 +84,7 @@ Ego enorme, **nunca fanfarrón.** No entra a una habitación a demostrar superio
 
 > Escucha como un hombre que ya decidió cuál de los dos comprende mejor el mundo.
 
-**Debilidad fundamental:** sólo reconoce del todo la agencia de quienes considera excepcionales. Identifica bien a Kal, a Chiara, a Dario, a Anya y, con el tiempo, a Nadir como individuos capaces de alterar estructuras; a los demás corre el riesgo de clasificarlos sólo como operador, subordinado, dependencia, pieza o consecuencia. **Esa falla cobra mucho después** (ver "Muerte"). No anticiparla ni sobreexplicarla en escenas tempranas.
+**Debilidad fundamental:** sólo reconoce del todo la agencia de quienes considera excepcionales. Identifica bien a Kal, a Chiara, a Dario y, con el tiempo, a Nadir como individuos capaces de alterar estructuras; a los demás corre el riesgo de clasificarlos sólo como operador, subordinado, dependencia, pieza o consecuencia. **Esa falla cobra mucho después** (ver "Muerte"). No anticiparla ni sobreexplicarla en escenas tempranas.
 
 ---
 

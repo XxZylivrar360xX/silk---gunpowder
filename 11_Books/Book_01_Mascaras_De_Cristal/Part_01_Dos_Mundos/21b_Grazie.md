@@ -1,6 +1,11 @@
 <!--
+NUEVO CAUCE (Fase 4, 2026-11-07, terminal B): nuevo Cap. 19, tarjeta T7, POV Chiara, verbo «Reusa»; cierra la Parte I (1–19) según [[11_Books/Book_01_Mascaras_De_Cristal/00_Mapa_Cauce_Cap11_Camp_Alder]]. El encabezado sigue diciendo «Capítulo 22» hasta que la terminal principal renumere (los Caps. 13–18 aún llevan número viejo y el audio exige número único). Versión anterior íntegra: [[11_Books/Book_01_Mascaras_De_Cristal/Escenas_Eliminadas/21b_Grazie_Version_2026-11-07]] (git `3d26627`). Sesión: [[98_Agent_Handoff/sessions/2026-11-07_claude_fase4_cap19_grazie]].
+Decisiones del autor (CANON, 2026-11-07, las tres en la opción recomendada): siembra de las rutas en términos generales (sin nombrar la caja ni a Bellacorte); extensión ~3,000–3,300; lo que dejó Corrado se nombra sin contenido (la relación exacta de Corrado con Il Consorzio sigue PENDIENTE).
+DISEÑO del agente en la reconstrucción (espera lectura): (1) Valenti abre el deber con «Cuando lo de su padre…» y cierra con «Lo que su padre dejó abierto lo sigue pagando la casa Ardizzone, signora. Y la casa es usted.»; Chiara pierde el turno y lo recuerda en su interioridad (veintitrés años, villa cerrada, nada que poner junto a su madre; sin la versión del comunicado, que se reserva al jacuzzi del archivo 25). (2) Siembra: «Lo que pasa por ese casino para Italia pasa por su casa… primero a la cabeza»; Chiara piensa en el despacho de Matteo y en que sólo dos personas saben lo que hay ahí. (3) «Nunca he dejado de pagar.» / «Nadie dice que haya dejado.» enlaza con «dirigir y observar». (4) Párrafo en el coche de ida: rima con el despacho de Nueva York del Cap. 2 (encargo de cinco palabras). (5) De regreso, Chiara hace la cuenta de lo que hay que poner en orden, con lo de Italia primero; deja fuera de la lista un nombre. (6) Cierre: escribe «Tuve que ver a», lo borra y manda «Voy para allá»: el deber va primero y se lo calla a Kal (T7).
+Costura de apertura PROVISIONAL: depende del nuevo 18 (fusión de *Lo pequeño* y *El primer huésped*, archivos 20 y 21): las cosas pequeñas (manzana de plástico, Marisol dormida en el sofá, la mano en la barandilla del mezzanine, el beso en la frente) y los mensajes «Marisol devolvió el Audi» / «Lavado». **Costura revisada (2026-11-08):** el nuevo 18 ya está redactado ([[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/00_Plan_Cap18_Lo_Pequeno_POV_Kal]]); las cosas pequeñas se sostienen, y la manzana pasa de «subido de lugar» a «pegado… a la altura de los ojos», porque ahora Chiara la pega por primera vez esa madrugada.
+Costura de cierre PROVISIONAL: el Cap. 20 (*La cifra*, archivo 22a) debe cobrar la siembra de las rutas (Chiara protege primero lo de Italia y después el casino).
 Renumerado 2026-11-01 (decisión del autor, carretera del Libro I): antes Cap. 25.
-Estado: BORRADOR — redactado 2026-11-01, Claude Code (Claude Opus 5.5), encargo del autor («vamos con H13 del nuevo capítulo de cierre de la Parte I»). Nunca TERMINADO sin el autor.
+Estado: BORRADOR (reconstruido 2026-11-07, nuevo cauce; ver arriba) — redactado 2026-11-01, Claude Code (Claude Opus 5.5), encargo del autor («vamos con H13 del nuevo capítulo de cierre de la Parte I»). Nunca TERMINADO sin el autor.
 Posición: capítulo propio después del Cap. 25 *El primer huésped* (archivo 21); cierra la Parte I (*Dos mundos*). Numeración de 60 congelada hasta armar la carretera: sin número propio por ahora (archivo 21b); el encabezado dice «Capítulo 25» sólo porque el audiolibro exige número: se corrige al renumerar. Título «Grazie»: DISEÑO, provisional.
 Hito: [[06_Relationships/Hitos#H13 — El pañuelo]] (supersesión CANON DEL AUTOR 2026-10-31). Plan: [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/00_Plan_Rediseno_Parte_I]] §Cierre de la Parte I.
 Ventana temporal (DISEÑO): una noche entre semana de julio A2, días después del sábado del 25. Sin fecha exacta en prosa.
@@ -33,7 +38,7 @@ Chiara tomó una vela del estante de abajo, de las de vidrio rojo, con la mecha 
 
 Se quedó de pie. No se arrodilló.
 
-Había venido sin saber bien qué traía, y frente a la vela lo único que encontró fueron cosas pequeñas. Una manzana de plástico que ella misma había subido de lugar en la puerta de un refrigerador. El peso de una muchacha dormida en un sofá que no era suyo, con la mejilla todavía roja. Una mano que la había buscado en la barandilla de un mezzanine sin mirarla. Un beso en la frente antes de una puerta.
+Había venido sin saber bien qué traía, y frente a la vela lo único que encontró fueron cosas pequeñas. Una manzana de plástico que ella misma había pegado en la puerta de un refrigerador, a la altura de los ojos. El peso de una muchacha dormida en un sofá que no era suyo, con la mejilla todavía roja. Una mano que la había buscado en la barandilla de un mezzanine sin mirarla. Un beso en la frente antes de una puerta.
 
 Cosas que se podían perder. Nunca había tenido tantas al mismo tiempo.
 
@@ -80,6 +85,8 @@ Subió.
 ***
 
 Nadie habló en el coche. El hombre del traje volvió a su asiento y se quedó mirando al frente, con las manos en las rodillas; el chofer manejaba como si llevara algo que se pudiera derramar.
+
+La última vez que Il Consorzio había ido a hablarle fue en Nueva York, en su propio despacho, pasada la medianoche, semanas antes de San Aurelio. Aquella vez también había escuchado más de lo que habló, y se había quedado con un encargo de cinco palabras y una ciudad que no conocía. Se había pasado las semanas siguientes leyendo de esa ciudad todo lo que encontró, porque así se preparaba ella para lo que no había elegido: aprendiéndoselo antes de que se lo enseñaran. Esta vez no tenía nada que leer. La ciudad ya la conocía. Lo que no sabía era qué parte de ella iban a pedirle.
 
 Bajaron por Calle Corona hacia el centro viejo. Pasaron frente a los juzgados, frente a la Central, con su único piso encendido, y después la calle se abrió en Plaza Corona: el Ayuntamiento al fondo, los árboles podados, las bancas vacías bajo los faroles. En una de esas bancas, a fines del verano anterior, habían encontrado a Raymond Keene sentado como si se hubiera quedado dormido.
 
@@ -133,7 +140,21 @@ Chiara lo había leído igual, aquella mañana de septiembre, frente a un plato 
 
 Dejó la copa en la mesa. El cristal tocó la madera sin ruido, y aun así algo en el salón cambió de lugar.
 
-—Il Consorzio le pidió dirigir y observar. Lo hace muy bien. Ése es el asunto. —Abrió una libreta de cuero que tenía en el brazo del sillón, la sostuvo abierta sobre la rodilla y no la miró—. A Palermo le llegan cosas. Que la signora Ardizzone observa más de lo que se le pidió. Que reúne información. Que reúne activos. Que hay quien cree que está construyendo algo suyo. —Pasó una hoja sin leerla—. Alguien en la Mesa usó la expresión «recolectando migajas de poder». Es fea. No es de Il Consorzio. Pero alguien la usó.
+—Cuando lo de su padre —dijo, como si continuara la misma frase—, usted tenía veintitrés años y una casa entera encima. Nadie en la Mesa le preguntó si la quería. Se la dejaron, con lo que había adentro y con lo que su padre dejó abierto. Es lo que se hace. —Miró el ventanal un momento, no a ella—. Lo que su padre dejó abierto lo sigue pagando la casa Ardizzone, signora. Y la casa es usted.
+
+Chiara no contestó.
+
+Tenía veintitrés años, una villa con las persianas cerradas y nada que poner junto a su madre. Nadie le había preguntado, era cierto. Le habían puesto la silla detrás y ella se había sentado, porque la otra opción era que se sentara alguien que no fuera Ardizzone, y eso no se le hacía a un muerto. Ni siquiera a él.
+
+El cuarteto llenó el silencio que ella no llenó. Valenti no tuvo prisa por recuperarlo.
+
+—Lo que pasa por ese casino para Italia —dijo después— pasa por su casa. Si algo se pierde ahí, no se le pierde al Monarch. Se le pierde a usted, y la Mesa lo va a cobrar como se cobra en casa: primero a la cabeza.
+
+Pensó en el despacho de Matteo, en lo que Matteo guardaba ahí para Italia y que no era dinero. Pensó en cuántas personas en San Aurelio sabían que estaba ahí. Le alcanzaban los dedos de una mano y le sobraban tres.
+
+—Nunca he dejado de pagar.
+
+—Nadie dice que haya dejado. —Lo dijo con la misma cortesía, sin darle a la frase ni un gramo de alivio—. Il Consorzio le pidió dirigir y observar. Lo hace muy bien. Ése es el asunto. —Abrió una libreta de cuero que tenía en el brazo del sillón, la sostuvo abierta sobre la rodilla y no la miró—. A Palermo le llegan cosas. Que la signora Ardizzone observa más de lo que se le pidió. Que reúne información. Que reúne activos. Que hay quien cree que está construyendo algo suyo. —Pasó una hoja sin leerla—. Alguien en la Mesa usó la expresión «recolectando migajas de poder». Es fea. No es de Il Consorzio. Pero alguien la usó.
 
 —Trabajo para el Monarch. Lo que hago lo hago para el Monarch.
 
@@ -197,6 +218,10 @@ Al atravesar Plaza Corona, esta vez, Chiara buscó la banca.
 
 Era la tercera desde la fuente, del lado de los juzgados. Un farol encima, una papelera al lado. Una banca como las otras.
 
+Pasada la plaza se dio cuenta de que estaba haciendo la cuenta. No la decidió; ya iba por la mitad cuando la oyó. Lo que la Mesa sabía: que reunía información, que reunía activos, que algo era suyo. Lo que la Mesa no había dicho que supiera: de dónde le llegaba la información, quién le doblaba los papeles en cuatro, qué casa pagaba ella en un barrio donde el Monarch no tenía nada que pagar. Lo que había que poner en orden primero: lo que pasaba por el casino para Italia, porque eso lo cobraban a la cabeza, y la cabeza era ella. Lo demás venía después, en ese orden, y ella lo iba a sostener en ese orden.
+
+Al final de la cuenta había un nombre. No lo puso en ningún lugar de la lista. Lo dejó afuera.
+
 El coche se detuvo frente a Santa Lucía, en el mismo lugar donde la había recogido. El hombre bajó, le abrió la puerta y se quedó junto a ella sin ofrecerle la mano.
 
 Esperó a que ella pisara la acera. Después volvió a su asiento y el sedán se fue calle arriba, a la velocidad de una persona que camina.
@@ -213,6 +238,6 @@ Y debajo, un minuto después:
 
 *Lavado.*
 
-Se quedó mirando la palabra. Después escribió *Voy para allá*, lo mandó y guardó el teléfono.
+Se quedó mirando la palabra. Escribió *Tuve que ver a* y se detuvo en la última letra. La borró, y después borró las otras, una por una, hasta que el cursor volvió a parpadear solo. Escribió *Voy para allá*, lo mandó y guardó el teléfono.
 
 En la capilla lateral, detrás del vidrio de la ventana, todavía temblaban las velas que la gente había pagado. Desde la acera no se distinguía cuál era la suya, pero ninguna se había apagado.

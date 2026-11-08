@@ -2,11 +2,33 @@
 
 Generada por `tools/audiolibro/build_audiobook.py`; no editar a mano. Tras cambiar la prosa de un capítulo, correr `--estado` para marcarlo PENDIENTE; la bandera se cierra sola cuando el script regenera ese audio.
 
-Actualizada: 2026-11-06 23:48. Al día: 56 de 56.
+Actualizada: 2026-11-08 03:29. Al día: 29 de 50.
 
 ## Pendientes
 
-Ninguno: todos los audios corresponden a la prosa actual.
+| Cap. | Título | Estado | Motivo | Desde |
+|---|---|---|---|---|
+| 3 | Los viejos días | PENDIENTE | cambió la prosa | 2026-11-07 21:26 |
+| 11 | La balanza | PENDIENTE | cambió la prosa | 2026-11-07 22:28 |
+| 12 | Dos sillas vacías | PENDIENTE | cambió la prosa | 2026-11-07 22:48 |
+| 13 | Roma Atrii | PENDIENTE | cambió la prosa | 2026-11-07 23:10 |
+| 14 | La regla del teléfono | SIN AUDIO |  | 2026-11-08 01:33 |
+| 16 | Yo lo llevo | PENDIENTE | cambió la prosa | 2026-11-08 02:23 |
+| 18 | Le quedé debiendo | PENDIENTE | cambió la prosa | 2026-11-08 02:45 |
+| 19 | El día nublado | PENDIENTE | cambió la prosa | 2026-11-08 03:02 |
+| 20 | Lo pequeño | PENDIENTE | cambió la prosa | 2026-11-08 03:27 |
+| 22 | Grazie | PENDIENTE | cambió la prosa | 2026-11-07 23:10 |
+| 23 | La cifra | PENDIENTE | cambió la prosa | 2026-11-07 19:49 |
+| 27 | Oveja entre lobos | PENDIENTE | cambió la prosa | 2026-11-07 19:49 |
+| 28 | Vienes conmigo | PENDIENTE | cambió la prosa | 2026-11-07 19:49 |
+| 34 | También las mañanas | SIN AUDIO |  | 2026-11-08 03:27 |
+| 35 | Vamos a casa | PENDIENTE | cambió la prosa | 2026-11-08 01:33 |
+| 35 | Al revés | SIN AUDIO |  | 2026-11-08 03:02 |
+| 37 | La otra mitad | SIN AUDIO |  | 2026-11-07 23:10 |
+| 38 | Nada | SIN AUDIO |  | 2026-11-08 01:33 |
+| 39 | Mi pareja | PENDIENTE | cambió la prosa | 2026-11-08 02:23 |
+| 39 | La puerta | SIN AUDIO |  | 2026-11-08 01:33 |
+| 40 | Sin fecha de regreso | PENDIENTE | cambió la prosa | 2026-11-07 21:26 |
 
 ## Capítulos
 
@@ -14,7 +36,7 @@ Ninguno: todos los audios corresponden a la prosa actual.
 |---|---|---|---|
 | 1 | Un hombre de negocios intachable | AL DIA | 2026-11-06 |
 | 2 | Demasiado listo | AL DIA | 2026-11-05 |
-| 3 | Los viejos días | AL DIA | 2026-11-05 |
+| 3 | Los viejos días | PENDIENTE | 2026-11-05 |
 | 4 | Tarifa nocturna | AL DIA | 2026-11-04 |
 | 5 | Cliente y proveedor | AL DIA | 2026-11-03 |
 | 6 | La pizza de calabaza | AL DIA | 2026-11-04 |
@@ -22,44 +44,38 @@ Ninguno: todos los audios corresponden a la prosa actual.
 | 8 | La noche del ladrillo | AL DIA | 2026-11-04 |
 | 9 | La carrera de máscaras | AL DIA | 2026-11-05 |
 | 10 | La teniente | AL DIA | 2026-11-01 |
-| 11 | La balanza | AL DIA | 2026-11-04 |
-| 12 | Dos sillas vacías | AL DIA | 2026-11-01 |
-| 13 | Roma Atrii | AL DIA | 2026-11-01 |
-| 14 | Auster | AL DIA | 2026-11-01 |
-| 15 | La regla del teléfono | AL DIA | 2026-11-05 |
-| 16 | Yo lo llevo | AL DIA | 2026-11-01 |
-| 17 | El sobre rojo | AL DIA | 2026-11-01 |
-| 18 | Le quedé debiendo | AL DIA | 2026-11-01 |
-| 19 | El día nublado | AL DIA | 2026-11-02 |
-| 20 | Lo pequeño | AL DIA | 2026-11-01 |
-| 21 | El primer huésped | AL DIA | 2026-11-03 |
-| 22 | Grazie | AL DIA | 2026-11-01 |
-| 23 | La cifra | AL DIA | 2026-11-01 |
+| 11 | La balanza | PENDIENTE | 2026-11-04 |
+| 12 | Dos sillas vacías | PENDIENTE | 2026-11-01 |
+| 13 | Roma Atrii | PENDIENTE | 2026-11-01 |
+| 14 | La regla del teléfono | SIN AUDIO | 2026-11-05 |
+| 16 | Yo lo llevo | PENDIENTE | 2026-11-01 |
+| 18 | Le quedé debiendo | PENDIENTE | 2026-11-01 |
+| 19 | El día nublado | PENDIENTE | 2026-11-02 |
+| 20 | Lo pequeño | PENDIENTE | 2026-11-01 |
+| 22 | Grazie | PENDIENTE | 2026-11-01 |
+| 23 | La cifra | PENDIENTE | 2026-11-01 |
 | 24 | Con su proveedor | AL DIA | 2026-11-01 |
 | 25 | Bajo juramento | AL DIA | 2026-11-01 |
 | 26 | Lo que cueste | AL DIA | 2026-11-01 |
-| 27 | Oveja entre lobos | AL DIA | 2026-11-01 |
-| 28 | Vienes conmigo | AL DIA | 2026-11-01 |
+| 27 | Oveja entre lobos | PENDIENTE | 2026-11-01 |
+| 28 | Vienes conmigo | PENDIENTE | 2026-11-01 |
 | 29 | Libros abiertos | AL DIA | 2026-11-01 |
 | 30 | Me encuentro bien | AL DIA | 2026-11-01 |
 | 31 | Lleve equipaje | AL DIA | 2026-11-01 |
 | 32 | No hace falta | AL DIA | 2026-11-01 |
 | 33 | Una silla | AL DIA | 2026-11-01 |
 | 34 | Media Baraja | AL DIA | 2026-11-01 |
-| 35 | Vamos a casa | AL DIA | 2026-11-01 |
+| 34 | También las mañanas | SIN AUDIO | 2026-11-01 |
+| 35 | Vamos a casa | PENDIENTE | 2026-11-01 |
+| 35 | Al revés | SIN AUDIO | 2026-11-01 |
 | 36 | Línea directa | AL DIA | 2026-11-01 |
 | 37 | Lo único que es mío | AL DIA | 2026-11-01 |
+| 37 | La otra mitad | SIN AUDIO | 2026-11-01 |
 | 38 | La mano | AL DIA | 2026-11-01 |
-| 39 | Mi pareja | AL DIA | 2026-11-01 |
-| 40 | Sin fecha de regreso | AL DIA | 2026-11-01 |
-| 41 | También las mañanas | AL DIA | 2026-11-01 |
-| 42 | Cuatro letras | AL DIA | 2026-11-01 |
-| 43 | Al revés | AL DIA | 2026-11-01 |
-| 44 | Un par de días más | AL DIA | 2026-11-05 |
-| 45 | Mecánico | AL DIA | 2026-11-01 |
-| 46 | La otra mitad | AL DIA | 2026-11-01 |
-| 47 | Nada | AL DIA | 2026-11-01 |
-| 48 | La puerta | AL DIA | 2026-11-01 |
+| 38 | Nada | SIN AUDIO | 2026-11-01 |
+| 39 | Mi pareja | PENDIENTE | 2026-11-01 |
+| 39 | La puerta | SIN AUDIO | 2026-11-01 |
+| 40 | Sin fecha de regreso | PENDIENTE | 2026-11-01 |
 | 49 | Jurisdicción | AL DIA | 2026-11-01 |
 | 50 | Ropa limpia | AL DIA | 2026-11-01 |
 | 51 | Llaves | AL DIA | 2026-11-01 |
@@ -71,6 +87,28 @@ Ninguno: todos los audios corresponden a la prosa actual.
 
 ## Historial
 
+- 2026-11-08 03:27 · Cap. 34 (36_Tambien_Las_Mananas.md) · audio borrado
+- 2026-11-08 03:27 · Cap. 20 (20_El_Mirador.md) · audio pendiente: cambió la prosa
+- 2026-11-08 03:02 · Cap. 35 (38_Al_Reves.md) · audio borrado
+- 2026-11-08 03:02 · Cap. 41 (36_Tambien_Las_Mananas.md) · audio pendiente: cambió la prosa
+- 2026-11-08 03:02 · Cap. 19 (18_El_Dia_Nublado.md) · audio pendiente: cambió la prosa
+- 2026-11-08 02:45 · Cap. 18 (17_Cuentas_Claras.md) · audio pendiente: cambió la prosa
+- 2026-11-08 02:23 · Cap. 39 (34_Mi_Pareja.md) · audio pendiente: cambió la prosa
+- 2026-11-08 02:23 · Cap. 16 (15_El_Porton.md) · audio pendiente: cambió la prosa
+- 2026-11-08 01:33 · Cap. 39 (43_La_Puerta.md) · audio borrado
+- 2026-11-08 01:33 · Cap. 38 (42_Nada.md) · audio borrado
+- 2026-11-08 01:33 · Cap. 35 (31_Vamos_A_Casa.md) · audio pendiente: cambió la prosa
+- 2026-11-08 01:33 · Cap. 14 (14_La_Regla_Del_Telefono.md) · audio borrado
+- 2026-11-07 23:10 · Cap. 37 (41_La_Otra_Mitad.md) · audio borrado
+- 2026-11-07 23:10 · Cap. 22 (21b_Grazie.md) · audio pendiente: cambió la prosa
+- 2026-11-07 23:10 · Cap. 13 (12_Roma_Atrii.md) · audio pendiente: cambió la prosa
+- 2026-11-07 22:48 · Cap. 12 (10_El_Loft_Del_Soltero.md) · audio pendiente: cambió la prosa
+- 2026-11-07 22:28 · Cap. 11 (09_La_Balanza.md) · audio pendiente: cambió la prosa
+- 2026-11-07 21:26 · Cap. 40 (35_Sin_Fecha_De_Regreso.md) · audio pendiente: cambió la prosa
+- 2026-11-07 21:26 · Cap. 3 (03_Los_Viejos_Dias.md) · audio pendiente: cambió la prosa
+- 2026-11-07 19:49 · Cap. 28 (24d_Vienes_Conmigo.md) · audio pendiente: cambió la prosa
+- 2026-11-07 19:49 · Cap. 27 (24c_El_Corral.md) · audio pendiente: cambió la prosa
+- 2026-11-07 19:49 · Cap. 23 (22a_La_Cifra.md) · audio pendiente: cambió la prosa
 - 2026-11-06 16:06 · Cap. 1 (01_Un_Hombre_De_Negocios_Intachable.md) · audio regenerado
 - 2026-11-06 09:35 · Cap. 1 (01_Un_Hombre_De_Negocios_Intachable.md) · audio pendiente: cambió la prosa
 - 2026-11-05 23:00 · Cap. 44 (39_Un_Par_De_Dias_Mas.md) · audio regenerado

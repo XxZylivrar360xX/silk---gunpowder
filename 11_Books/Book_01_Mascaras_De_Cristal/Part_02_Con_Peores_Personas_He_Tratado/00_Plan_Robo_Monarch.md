@@ -7,12 +7,25 @@ Documento de planeación, no capítulo narrativo.
 
 > **Estado:** PLAN, sin prosa todavía. Decisiones del autor del 2026-10-28 marcadas **CANON DEL AUTOR**; lo demás es **DISEÑO** del agente y se puede discutir. Sesión: [[98_Agent_Handoff/sessions/2026-10-28_claude_plan_robo_monarch]].
 
+## CANON DEL AUTOR (2026-11-07): la cadena nueva — manda sobre «La cadena» y sobre todo lo que ponga a Dario detrás del robo
+
+Parte del [[11_Books/Book_01_Mascaras_De_Cristal/00_Plan_Nuevo_Cauce]] (el Tasador, antagonista del Libro I, trabaja para Halbrook).
+
+- **Dario sale de la cadena.** Ya no encarga el robo ni se queda con copia de las rutas (supersede el CANON del 2026-10-28). Conserva «—Con su proveedor —repitió, despacio, como probando la frase—. Interesante.» y su costumbre de preguntar por gente, leída ahora como interés en La Almendra.
+- **Cadena (NUNCA en prosa; DISEÑO salvo lo marcado):** intermediarios de Halbrook (militares o contratados) → **Crowe** → **Ferreyra** (guardia de Eagle Eye; CANON: así se llama ahora el antes «Caluca») y **Mei-Lin** → Pruitt y Lambert (Devil Splicers).
+- **Lo que quieren:** las rutas de importación de Il Consorzio de la caja de Matteo.
+- **Ferreyra** le debe dinero a Crowe, ve a Matteo marcar la combinación en las cámaras y se la vende. Rondaba los pasillos por el despacho; Chiara lo leyó como acoso.
+- **Se rompe** cuando los enmascarados hallan las rutas y quieren venderlas por su cuenta (gancho del 22a). Chiara achica la cifra, llama primero a Kal y defiende a Kenji; Kal recupera el libro sin abrirlo y los entrega con la revisión de Nick V.
+- **Crowe pierde** las rutas prometidas, su heroína y su distribución del norte; además hay ruido (Lucía mirando O.R.T., Ferreyra expuesto) y lo resolvió su rival. Los intermediarios reportan «Bellandi, con su proveedor»; **Halbrook amenaza con sacar a Crowe del tablero y se fija en Chiara.**
+- **Roy Boone (CANON DEL AUTOR):** parece que huye (la casa vacía a las seis de la mañana se queda), pero **Crowe lo asesina**: limpia un cabo suelto. Mei-Lin lo intuye y por eso busca protección en el Patio.
+- **Corral (Cap. 27):** represalia de Crowe con bandera falsa (nombre de Volpi); ver [[06_Relationships/Hitos#H12 — El atentado / El corral]]. Ferreyra frente al Santa Aurelia no hizo el ataque, pero es culpable del robo.
+
 ## Qué sustituye
 
 **CANON DEL AUTOR (2026-10-28):** el Cap. 25 *Causalidad* (archivo `22`; el huésped ebrio, el auto contra la farola) queda **sustituido** por dos capítulos, archivos `22a` y `22b`. Es el primer trabajo que involucra a la banda completa y el primero que escala en complejidad hasta arriesgar la exhibición de algo. La numeración corrida pasa a **58 capítulos** (todo lo posterior sube +1). La renumeración se hace en una pasada aparte, cuando exista la prosa, para no mover el Book_Map dos veces. La prosa vieja se conserva en el archivo `22` hasta entonces; después se borra (queda en el historial de git, según [[97_Supersedido/README]]). **Aplicado 2026-10-28:** numeración de 58 en Book_Map, encabezados y `CHAPTER_STATUS`; archivo `22_Causalidad.md` retirado (último commit con la prosa: `085b3fc`).
 
 **Lo que hay que reubicar del 25 viejo:**
-- Charles, Eagle Eye y Caluca (el Cap. 27 (archivo 24c) *El corral* cobra «Kal lo conocía de oídas»): Kal tiene que oír de Caluca en el 22a o el 22b.
+- Charles, Eagle Eye y Ferreyra (el Cap. 27 (archivo 24c) *El corral* cobra «Kal lo conocía de oídas»): Kal tiene que oír de Ferreyra en el 22a o el 22b.
 - El «recargo nocturno» pasa a ser la **tarifa habitual** que Chiara le ofrece a Nadir (DISEÑO).
 - La línea de voz de Dario «Sin que llegara a los socios… Interesante» no puede sobrevivir literal, porque ahora los socios están en el cuarto. **CANON DEL AUTOR (2026-10-28):** la sustituye «—Con su proveedor —repitió, despacio, como probando la frase—. Interesante.»
 - Funciones de los beats 16 y 17: un trabajo sucio resuelto entre los dos y Dario que nota una variación. Siguen cumplidas, a mayor escala.
@@ -71,7 +84,7 @@ Documento de planeación, no capítulo narrativo.
    - **CANON DEL AUTOR:** se sospecha de un soplón y **Kenji** queda afectado. Chiara lo defiende; Kal la apoya porque confía en el juicio de ella, no a ciegas en Kenji. Roce **Kal–Tommaso** por la participación de Kal y de los muchachos en asuntos del casino.
    - DISEÑO: Tommaso propone entregar a Kenji porque un soplón interno cierra el caso rápido y nadie mira la caja. Es racional y cruel, y defender a Kenji le cuesta a Chiara: mantiene el caso abierto.
    - Kal entra como su empresa de seguridad (Cap. 5c), pretexto legal que Tommaso lee como lo que es.
-   - Charles queda expuesto: Eagle Eye no vio nada. Caluca, en un aparte de Chiara, para que Kal lo oiga.
+   - Charles queda expuesto: Eagle Eye no vio nada. Ferreyra, en un aparte de Chiara, para que Kal lo oiga.
    - Dario no pregunta por la caja.
 6. **Gancho:** llaman los ladrones. Encontraron «algo más» y quieren dinero por devolverlo.
 

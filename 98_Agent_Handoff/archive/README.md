@@ -54,6 +54,7 @@ Durante la compactación otra sesión agregó el Cap. 40. También se conservaro
 
 - [[98_Agent_Handoff/archive/2026-09_sesiones]]: enlaces retirados del registro reciente.
 - [[98_Agent_Handoff/archive/2026-10_sesiones]]: enlaces de octubre retirados del registro reciente.
+- [[98_Agent_Handoff/archive/2026-11_sesiones]]: enlaces de noviembre retirados del registro reciente (desde el 2026-11-07).
 
 ## Corte del 2026-10-03
 
@@ -103,3 +104,10 @@ Copias íntegras antes de compactar:
 - [[98_Agent_Handoff/archive/2026-11-04_CURRENT_BRIEF|Brief acumulado]].
 - [[98_Agent_Handoff/archive/2026-11-04_PENDING|Pendientes]].
 - [[98_Agent_Handoff/archive/2026-11-04_DECISIONS_retiradas|Decisiones retiradas]].
+
+## Corte del 2026-11-07
+
+Copias íntegras antes de compactar el relevo (el brief medía ~1,300 palabras; PENDING ~830). El brief remite a los planes del Libro II y a las fichas en vez de repetir su canon. La reseña de ChatGPT de las Partes I–II y las 402 referencias dudosas pasaron de PENDING a [[98_Agent_Handoff/BACKLOG]]. Los 11 enlaces más antiguos de [[log]] (2026-10-29 a 2026-10-31) pasaron a [[98_Agent_Handoff/archive/2026-10_sesiones]], y las 8 entradas sueltas al pie de log.md se integraron al registro reciente.
+
+- [[98_Agent_Handoff/archive/2026-11-07_CURRENT_BRIEF|Brief acumulado]].
+- [[98_Agent_Handoff/archive/2026-11-07_PENDING|Pendientes]].

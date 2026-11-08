@@ -27,7 +27,7 @@ fuente_canon: "[[11_Books/Book_02_Sombras_De_Poder/Part_04_Torna_A_Casa/Ya_Llego
 > 4. **La joyería con Héctor** (`HITO_Mi_Pareja_Formalizacion_Kal_Chiara.md`) sigue pendiente, sin fecha ni escritura propia; este capítulo la presupone ya ocurrida fuera de página — es la razón por la que Kal ya carga el anillo.
 > 5. **Ciudad (Stavanger) y familiar (Henrik Solberg)** siguen como propuestas de este capítulo, sin promoverse a `02_Characters/Kal_Mercer.md`.
 > 6. **La caja de madera con runas nórdicas** no se menciona, respetando su bloqueo en `SAGA_LEVEL.md`.
-> 7. **"Ya llegó"** es callback consciente a la escena ya canon de [[02_Characters/Anya_Voronina]] (el día de campo, después de Año Nuevo en Washington).
+> 7. **"Ya llegó"** es callback consciente a la escena ya canon de [[97_Supersedido/Anya_Voronina]] (el día de campo, después de Año Nuevo en Washington).
 >
 > **Protegido sin tocar:** Dale no se rehabilita; Ruth conserva su lugar emocional aparte; Héctor no se reduce; no hay clisés vikingos; no hay foreshadowing de Elenna; el anillo no se compra en Noruega; la concepción no se señala en el texto.
 >

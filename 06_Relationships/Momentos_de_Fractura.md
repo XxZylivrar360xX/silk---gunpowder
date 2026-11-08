@@ -321,9 +321,11 @@ La primera declaración de él se pierde en un cuarto de hospital. La declaraci�
 
 ## F4 - Año Nuevo en Washington
 
+> **PENDIENTE DE REDISEÑO (autor, 2026-11-07):** Anya queda retirada ([[97_Supersedido/Anya_Voronina]]); [[02_Characters/Dana_Collins]] hereda el papel de ex amante, no F4. Queda **sin causa la ausencia de Kal** (Washington, deuda de los papeles de Nadir, programa de veteranos y gancho de Halbrook). La mitad de Chiara (fiesta, penthouse, piano, los tres días) y la vuelta de Kal la noche del 2 siguen vigentes mientras el autor no diga otra cosa. No rellenar. Lo de abajo es historial donde nombre a Anya.
+
 > **CANON DEL AUTOR (2026-10-13):** F4 va ahora **después** del incendio, en la Parte II ([[11_Books/Book_02_Sombras_De_Poder/00_Plan_Cuatro_Partes]]). **El piano lo compra Chiara para el cumpleaños de Kal** (1 de enero), y lo espera en el penthouse, donde ella pasa del 31 al 2. Queda superado que fuera un regalo de Kal entregado por error y salvado del fuego. Lo demás de la noche separada sigue vigente. La incursión de la que nace la vela va después de F4 y antes del choque.
 
-**CANON DEL AUTOR — 2026-09-26 (manda sobre lo de abajo):** vuelve la noche **separada** y F4 ocurre **antes** del incendio del loft (Libro II, entre Navidad y el incendio, que llega días después). Kal viaja a Washington para pagar la deuda de los papeles de Nadir: Anya lo cita con el pretexto de un **programa de apoyo a veteranos** para readaptarse a la vida civil (patrón: muchos fueron subordinados de [[02_Characters/Warren_Halbrook]]), en realidad para pasar tiempo con él; Kal sólo la ayuda con el trabajo. Chiara va a la fiesta de fin de año del Monarch, se emborracha y termina sola en el penthouse. Kal, en el hotel, le da vueltas al collar TORNA A CASA, hace las maletas y vuelve esa misma noche **en auto**; por eso tarda y no está en su cumpleaños. Llegan distanciados desde Bellandi Ridge (ella iba a irse a Nueva York y nunca subió al avión). El 1 de enero Chiara lo pasa deprimida viendo películas; el 2 se despierta de la cruda moral y recibe el regalo de Kal: **un piano de pared**, dejado por error en el penthouse y no en el loft, y que por eso **se salva del incendio**. Kal llega la noche del 2 de enero al penthouse y la encuentra sin maquillar, con un chongo improvisado: la primera vez en la saga que a Chiara no le importa su imagen. Detalle en [[02_Characters/Anya_Voronina]]. Todo lo marcado abajo como "juntos y desplazados" o "SUPERSEDIDO: la noche separada" queda a su vez **SUPERSEDIDO**.
+**CANON DEL AUTOR — 2026-09-26 (manda sobre lo de abajo):** vuelve la noche **separada** y F4 ocurre **antes** del incendio del loft (Libro II, entre Navidad y el incendio, que llega días después). Kal viaja a Washington para pagar la deuda de los papeles de Nadir: Anya lo cita con el pretexto de un **programa de apoyo a veteranos** para readaptarse a la vida civil (patrón: muchos fueron subordinados de [[02_Characters/Warren_Halbrook]]), en realidad para pasar tiempo con él; Kal sólo la ayuda con el trabajo. Chiara va a la fiesta de fin de año del Monarch, se emborracha y termina sola en el penthouse. Kal, en el hotel, le da vueltas al collar TORNA A CASA, hace las maletas y vuelve esa misma noche **en auto**; por eso tarda y no está en su cumpleaños. Llegan distanciados desde Bellandi Ridge (ella iba a irse a Nueva York y nunca subió al avión). El 1 de enero Chiara lo pasa deprimida viendo películas; el 2 se despierta de la cruda moral y recibe el regalo de Kal: **un piano de pared**, dejado por error en el penthouse y no en el loft, y que por eso **se salva del incendio**. Kal llega la noche del 2 de enero al penthouse y la encuentra sin maquillar, con un chongo improvisado: la primera vez en la saga que a Chiara no le importa su imagen. Detalle en [[97_Supersedido/Anya_Voronina]]. Todo lo marcado abajo como "juntos y desplazados" o "SUPERSEDIDO: la noche separada" queda a su vez **SUPERSEDIDO**.
 
 **Versión anterior (SUPERSEDIDA 2026-09-26) — CANON DEL AUTOR 2026-09-20:** F4 abre **Parte V — Exilio**, después del incendio que cierra IV, antes de F3 y de Villa Candelaria. Es el cambio de año y cumpleaños de Kal, **1 de enero**. Kal y Chiara lo pasan **solos, juntos y desplazados**. Todavía tienen al otro, pero perdieron el lugar.
 
@@ -331,7 +333,7 @@ La primera declaración de él se pierde en un cuarto de hospital. La declaraci�
 
 **SUPERSEDIDO POR DECISIÓN AUTORAL 2026-09-20:** F4 antes del incendio y la noche separada (Chiara sola en el penthouse; Kal solo en Washington). El motivo vigente ya no puede ser que la abandona durante ese cambio de año.
 
-> **RESUELTO (2026-09-26):** ya no hay presencia conjunta; ver canon arriba. ~~PENDIENTE DE RECONCILIACIÓN: encaje del viaje/deuda con [[02_Characters/Anya_Voronina]] y los papeles de Nadir con la presencia conjunta de Kal y Chiara.~~ No inventar traslado, alojamiento ni una reunión nueva. La deuda y autodestrucción silenciosa de Kal permanecen como material a encajar; la apertura juntos y posterior al incendio está cerrada.
+> **RESUELTO (2026-09-26):** ya no hay presencia conjunta; ver canon arriba. ~~PENDIENTE DE RECONCILIACIÓN: encaje del viaje/deuda con [[97_Supersedido/Anya_Voronina]] y los papeles de Nadir con la presencia conjunta de Kal y Chiara.~~ No inventar traslado, alojamiento ni una reunión nueva. La deuda y autodestrucción silenciosa de Kal permanecen como material a encajar; la apertura juntos y posterior al incendio está cerrada.
 
 **Función vigente:** el primer exilio es pequeño: hogar son sólo ellos dos, desplazados antes de las pérdidas humanas de F2.
 
@@ -372,7 +374,7 @@ La petición inicial no es todavía la forma final de H1, pero ya contiene su se
 
 > **CANON DEL AUTOR (2026-09-26):** ya no hay día de campo; la escena ocurre en **Noruega**. **Resuelto (2026-09-26):** es la escena de Stavanger, la de la propuesta.
 
-Después, en Noruega, Kal recuerda algo que Anya le dijo durante la época de Afganistán:
+Después, en Noruega, Kal recuerda algo que [[02_Characters/Dana_Collins]] le dijo cuando eran amantes, antes de la cárcel (CANON DEL AUTOR, 2026-11-07; antes Anya):
 
 > **Llegará el día en que llegue la persona que te haga creer.**
 
@@ -386,11 +388,11 @@ Kal responde:
 
 Y le da un beso.
 
-La escena es bonita porque no borra la fractura. La contesta. Kal no le está diciendo que Anya no importó; le está diciendo que Anya tuvo razón.
+La escena es bonita porque no borra la fractura. La contesta. Kal no le está diciendo que Collins no importó; le está diciendo que tuvo razón.
 
 ### Restricciones
 
-- Anya no debe funcionar como rival romántica barata.
+- Collins (antes Anya) no debe funcionar como rival romántica barata.
 - Chiara no debe reaccionar con celos simples. **SUPERSEDIDO (2026-09-20):** que Kal esté ausente en ese cambio de año; ahora ambos están juntos tras perder el loft.
 - **PENDIENTE:** reencajar el costo de la deuda por Nadir sin restablecer la ausencia supersedida de Kal en Año Nuevo.
 - La vela nace del miedo y de la impotencia, no de una escena decorativa de fe.
@@ -403,7 +405,7 @@ La escena es bonita porque no borra la fractura. La contesta. Kal no le está di
 | Orden | Momento | Función |
 | --- | --- | --- |
 | 1 | **F1 - La mentira bajo la lluvia** | Primera fractura de confianza: Chiara miente sobre su investigación de la salida de Matteo |
-| 2 | **F4 - Año Nuevo en Washington** | Noche separada (Washington / Monarch), antes del incendio; deuda con Anya, piano, nacimiento de la vela (canon 2026-09-26) |
+| 2 | **F4 - Año Nuevo en Washington** | Noche separada (Washington / Monarch), antes del incendio; causa de la ausencia de Kal PENDIENTE de rediseño (2026-11-07; Anya retirada); piano, nacimiento de la vela |
 | 3 | **F3 - Los frenos** | Choque de Tommaso y Marisol en el Lancia de Chiara; Kal en el armario; vuelve golpeado de investigar y dice «Te amo» sin que ella lo oiga (reescrita 2026-10-14) |
 | 4 | **F2 - La muerte de Mei-Lin y la salida de Bonnie** | Fractura moral: el ascenso exige una pérdida irreversible |
 
@@ -426,7 +428,7 @@ Este orden permite que la relación escale de una mentira íntima resuelta pront
 - Fijar cuánto tiempo transcurre entre F2, su establecimiento estable en Italia y el nacimiento de Elenna.
 - Decidir quién ejecuta materialmente el sabotaje de los frenos.
 - Definir las secuelas físicas de Chiara después del accidente.
-- ~~Definir qué favor exacto cobra Anya en Washington.~~ **RESUELTO (2026-09-26):** programa de apoyo a veteranos; ver [[02_Characters/Anya_Voronina]].
+- ~~Definir qué favor exacto cobra Anya en Washington.~~ **RESUELTO (2026-09-26):** programa de apoyo a veteranos; ver [[97_Supersedido/Anya_Voronina]].
 - **RESUELTO:** el cumpleaños de Kal es el 1 de enero.
 - Decidir en qué momento Harper le dice a Chiara que también está preocupada por Kal.
 

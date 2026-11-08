@@ -2,6 +2,8 @@
 
 *Ficha de Facción — banda menor del sur*
 
+> **CANON DEL AUTOR (2026-11-07), Guerra de los Tres:** bando de Kal (dependientes de sus grúas; él los armó o protegió). Halbrook usa **sus colores** en el coche bomba contra Calle Corona y en el tiroteo del triage: ante la ciudad, la bomba es de Los Calderos. Ver [[04_Concepts/La_Guerra_de_los_Tres#Regla particular — Coche bomba en Calle Corona]].
+
 **Qué es:** banda de talleres, autopartes, patios de chatarra y cobros en Las Calderas.  
 **Territorio:** sur de [[05_Locations/San_Aurelio]], barrio industrial de Las Calderas.  
 **Cabeza:** Marina "Mack" Calderon.  

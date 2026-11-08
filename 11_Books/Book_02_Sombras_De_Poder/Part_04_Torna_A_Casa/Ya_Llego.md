@@ -12,6 +12,7 @@ personajes: Kal Mercer, Chiara Bellandi
 > **CANONIZACIÓN (2026-10-02, decisión del autor).** Sale de `07_Ideas/Libro_01_Incubadora/` y entra al manuscrito del Libro II. Canon: el viaje, la revelación del origen con Chiara presente, Stavanger, Ingrid (madre; murió hace once años) y Henrik Solberg (tío materno), la propuesta con la línea de Anya ("Ya llegó.") y **la concepción de Elenna en este viaje** (no se señala en el texto). La prosa sigue BORRADOR y se revisará contra el Libro II cuando exista su mapa capítulo a capítulo.
 > - **El anillo (CANON DEL AUTOR, 2026-10-02):** "la joyería con Héctor" deja de ser una compra fuera de página: es **un robo a una joyería** con Héctor, Danny y Nadir, anterior a la boda de Mabel y Walt (el anillo ya va en la billetera). Ver [[01_Timeline/03_Libro_02_Sombras_De_Poder]], "El robo de la joyería". Las menciones de "la joyería" en este borrador deben leerse así; revisar la prosa cuando se redacte ese capítulo.
 > - **CANON DEL AUTOR (2026-10-02), línea del fiordo:** Chiara: "No. Pero puedo reconocer los detalles heredados en un rostro que veo cada mañana." (sustituye "No. Pero te conozco a ti."). Se retiró el párrafo de glosa que la seguía ("No explicó más que eso, y no hacía falta. Kal entendió…"): contradecía la línea nueva.
+> - **Collins sustituye a Anya (2026-11-07, CANON DEL AUTOR):** la línea «Llegará el día…» la dijo [[02_Characters/Dana_Collins]], ex amante de Kal de antes de la cárcel; Chiara la cobra como «la del bar del casino» (Cap. 40, archivo 35, reescrito). Sale el intercambio «La de Washington» (F4 en rediseño). Anya retirada: [[97_Supersedido/Anya_Voronina]]. La nota siguiente es historial.
 > - **Anya (2026-10-02, corrección de continuidad pedida por el autor):** Chiara ya conoce a Anya (Cap. 35: la rubia del bar, "Ojos azules", el tornillo; Cap. 25: "una rusa que conseguía papeles"; F4: Washington) y el día de campo ya no existe (canon 2026-09-26). Se reescribió el pasaje de la cabaña: monólogo de Kal sobre el origen, Chiara cobra el Cap. 35, línea de Anya, "¿Y ahora qué piensas?" / "Ya llegó.", beso (CANON DEL AUTOR literal). Salieron "Conocí a una mujer en Afganistán", "¿Debería darme celos?" y "Ya me contaste esa historia. En el campo.". Puentes del agente (DISEÑO).
 > - **Sin caja (CANON DEL AUTOR, 2026-10-02):** el anillo va suelto en la billetera; Kal lo saca de ahí. Ajustadas las tres menciones de la caja y "cartera" → "billetera".
 > - **CANON DEL AUTOR (2026-10-03), la respuesta:** Chiara: "Kal Mercer, la comparto, compartí y compartiré esa vida peligrosa y divertida contigo." (sustituye "Sí."). Se retiró la réplica de Kal ("Sí —repitió él…"); la escena cierra en su mano sobre la de ella.
@@ -38,7 +39,7 @@ personajes: Kal Mercer, Chiara Bellandi
 > 4. **La joyería con Héctor — QUEDA PENDIENTE, sin tocar,** tal como decidió el autor. Sigue sin escritura propia; este capítulo la sigue presuponiendo ya ocurrida fuera de página, en algún punto anterior a Stavanger.
 > 5. **Ciudad de origen (Stavanger).** Sigue como propuesta de este capítulo únicamente — no se promovió todavía a `02_Characters/Kal_Mercer.md`, que sigue pidiendo que ese hueco quede abierto "casi hasta el final". Se promueve sólo si el autor aprueba el capítulo completo.
 > 6. **La caja de madera con runas nórdicas** sigue fuera de este capítulo, sin mencionarse, respetando su bloqueo en `SAGA_LEVEL.md`.
-> 7. **[SUPERADO 2026-10-02: no hay día de campo; "Ya llegó" se dice por primera y única vez aquí. Ver la nota de Anya arriba.]** **Reutilización de "Ya llegó"** se mantiene como callback consciente a la escena ya canon de [[02_Characters/Anya_Voronina]] (el día de campo, después de Año Nuevo en Washington) — Kal repite una frase que ya dijo una vez, ahora con peso distinto. No se tocó esa escena.
+> 7. **[SUPERADO 2026-10-02: no hay día de campo; "Ya llegó" se dice por primera y única vez aquí. Ver la nota de Anya arriba.]** **Reutilización de "Ya llegó"** se mantiene como callback consciente a la escena ya canon de [[97_Supersedido/Anya_Voronina]] (el día de campo, después de Año Nuevo en Washington) — Kal repite una frase que ya dijo una vez, ahora con peso distinto. No se tocó esa escena.
 >
 > **Lo que sí se protegió sin tocar:** Dale no se rehabilita *(matizado por CANON DEL AUTOR 2026-10-14: sus cartas desde la cárcel son un arco de redención, sin absolución)*; Ruth conserva su lugar emocional aparte; Héctor no se reduce; no hay clisés vikingos; no hay foreshadowing de Elenna; el anillo no se compra en Noruega; la concepción no se señala en el texto.
 
@@ -82,13 +83,9 @@ Hizo una pausa.
 
 Chiara no dijo nada. Lo miraba con esa quietud suya que Kal había aprendido a leer como la forma que tenía ella de no interrumpir algo que todavía no había terminado de llegar.
 
-—Anya me dijo algo una vez —siguió Kal, mirando el fuego, no a ella.
+—Dana me dijo algo una vez —siguió Kal, mirando el fuego, no a ella.
 
-—La de Washington.
-
-—La de Washington.
-
-—La rubia del bar. —Chiara no dejó la sopa—. *Ojos azules.*
+—La del bar del casino. —Chiara no dejó la sopa—. *Ojos azules.*
 
 Kal tardó un segundo.
 

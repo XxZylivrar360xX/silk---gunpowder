@@ -1,13 +1,17 @@
 <!--
+NUEVO CAUCE (Fase 4, 2026-11-07, terminal B): nuevo Cap. 20, tarjeta T8, POV Chiara, verbo «Reusa y unifica el POV»; abre la Parte II (20–32) según [[11_Books/Book_01_Mascaras_De_Cristal/00_Mapa_Cauce_Cap11_Camp_Alder]]. El encabezado sigue diciendo «Capítulo 23» hasta que la terminal principal renumere. Versión anterior íntegra: [[11_Books/Book_01_Mascaras_De_Cristal/Escenas_Eliminadas/22a_La_Cifra_Version_2026-11-07]]. Sesión: [[98_Agent_Handoff/sessions/2026-11-07_claude_fase4_cap20_la_cifra]].
+Vigente sobre lo de abajo: la cadena es intermediarios de Halbrook → Crowe → Ferreyra y la valet → los ladrones; Dario sale del robo ([[11_Books/Book_01_Mascaras_De_Cristal/Part_02_Con_Peores_Personas_He_Tratado/00_Plan_Robo_Monarch]]). Nada de eso está en prosa. Kal ya no llega en la grúa porque Marisol tenga el Audi: el Audi volvió en el nuevo 19 y la grúa es elección (decisión del autor, 2026-11-07).
+DISEÑO del agente en la reconstrucción (espera lectura): (1) la llegada de Kal y el cuarto de monitores pasan a POV Chiara: ella lo recibe en la bahía, lo lleva con Charles y lo ve leer la curva del auto y el nombre tachado del pizarrón (Kal sigue sin verle la cara a Ferreyra); «Arriba está la policía. Usted vino por el auto.» / «Vine por el auto.». (2) Cobro del nuevo 19: Chiara ordena «primero lo que iba para Italia. Después el casino. Después Matteo»; no le habría dicho a Kal qué papeles eran; reconoce que en ese orden Tommaso tiene razón con Kenji, y aun así lo defiende. (3) Lo que nota Tommaso de Dario pasa por la mirada de Chiara.
+Apertura: en frío (el robo en video), sin costura con el nuevo 19. Cierre: engancha con el nuevo 21 (*Con su proveedor*, archivo 22b, POV Kal), que ya existe.
 Renumerado 2026-11-01 (decisión del autor, carretera del Libro I): antes Cap. 26.
 Corte de parte 2026-10-29 (decisión del autor): el Cap. 26 abre la Parte II (*Con peores personas he tratado*); el archivo pasó de `Part_01_Dos_Mundos` a `Part_02_Con_Peores_Personas_He_Tratado`. Ver [[11_Books/Book_01_Mascaras_De_Cristal/00_Book_Map]].
 Estado: BORRADOR (redacción del agente 2026-10-28 con `chapter-drafting`, sobre [[11_Books/Book_01_Mascaras_De_Cristal/Part_02_Con_Peores_Personas_He_Tratado/00_Plan_Robo_Monarch]]; DISEÑO pendiente de lectura del autor).
 Sustituye, junto con el 22b, al Cap. 25 *Causalidad* (archivo 22). Numeración: Cap. 25 de 58 (renumeración aplicada 2026-10-28; el 22b es el 26; la prosa de *Causalidad* se retiró del vault y queda en git). El título *La cifra* es DISEÑO del agente, discutible.
-Protagonistas: Chiara Bellandi, Kal Mercer. Apariciones: Matteo Bellacorte, Charles (Eagle Eye), Lucía Varek, Nicholas Voss (primera aparición en el Libro I), Dario Varek, Tommaso Lusardi, Kenji Oda (sin diálogo). Mencionados: Caluca, Marisol (el Audi), los dos enmascarados (sin nombre).
+Protagonistas: Chiara Bellandi, Kal Mercer. Apariciones: Matteo Bellacorte, Charles (Eagle Eye), Lucía Varek, Nicholas Voss (primera aparición en el Libro I), Dario Varek, Tommaso Lusardi, Kenji Oda (sin diálogo). Mencionados: Ferreyra, Marisol (el Audi), los dos enmascarados (sin nombre).
 Ventana temporal: días después del Cap. 24 (*El primer huésped*); Marisol todavía tiene el Audi. De las 3:41 a media mañana.
 Lugares: The Monarch (cuarto de monitores de Eagle Eye, piso de administración, despacho de Matteo, lobby, bahía de carga, sala de juntas), costera sur.
-Función: beats 1–6 del 22a del plan. El robo en video; Chiara y Matteo deciden qué cifra existe antes de la patrulla; la primera llamada es a Kal; Lucía y Voss (Voss nota la lámina del doble fondo; Matteo miente empezando con una lista); sala de socios: Tommaso propone entregar a Kenji, Chiara lo defiende, Kal la respalda por el juicio de ella; roce Kal–Tommaso; Charles expuesto, Caluca oído por Kal; Dario sólo pregunta por gente y Tommaso lo nota. Gancho: los ladrones llaman.
-Reubicado del 25 viejo: «que sea tuyo antes de que sea del casino»; Caluca (para «Kal lo conocía de oídas» del 24c: Kal sólo ve su nombre tachado, nunca su cara).
+Función: beats 1–6 del 22a del plan. El robo en video; Chiara y Matteo deciden qué cifra existe antes de la patrulla; la primera llamada es a Kal; Lucía y Voss (Voss nota la lámina del doble fondo; Matteo miente empezando con una lista); sala de socios: Tommaso propone entregar a Kenji, Chiara lo defiende, Kal la respalda por el juicio de ella; roce Kal–Tommaso; Charles expuesto, Ferreyra oído por Kal; Dario sólo pregunta por gente y Tommaso lo nota. Gancho: los ladrones llaman.
+Reubicado del 25 viejo: «que sea tuyo antes de que sea del casino»; Ferreyra (para «Kal lo conocía de oídas» del 24c: Kal sólo ve su nombre tachado, nunca su cara).
 Restricciones respetadas: la cadena Dario→Crowe→valet→ladrones no está en prosa; la valet no aparece (sólo «los valets de la contratista cierran ese lote a las tres»); el robo arriesga el negocio, no la pareja; el registro público entre Kal y Chiara se conserva.
 Provisional / a revisar con el autor:
 - Fabrizio no está en la sala de socios: está con Paola y la niña (CANON DEL AUTOR, 2026-10-28; que llamara dos veces a Chiara es DISEÑO). Su ausencia no debe leerse como alejamiento.
@@ -83,6 +87,8 @@ Del otro lado, un cajón. Unas llaves.
 
 No preguntó qué papeles. Colgó él primero.
 
+Si hubiera preguntado, no se lo habría dicho.
+
 ***
 
 Matteo llegó a las cuatro y dos, con un abrigo de cachemira encima de la camisa del pijama y los zapatos sin calcetines. Entró hablando.
@@ -102,6 +108,8 @@ Matteo metió la mano en el hueco, como si el libro pudiera seguir ahí y fueran
 —Matteo.
 
 —Chiara, eran las... —Bajó la voz, aunque estaban solos—. Si esto llega a Palermo... Si se enteran de que salieron de mi caja, no de la de Dario, de la mía... Tengo que llamar. No. No puedo llamar a nadie. *Madonna.* Tengo que...
+
+Chiara oyó *Palermo* y la cuenta se le hizo sola, en el orden en que se la habían dejado hecha hacía poco, en una colina. Primero lo que iba para Italia. Después el casino. Después Matteo, que estaba de rodillas en el piso de su propio despacho, que en ese orden quedaba tercero y que no tenía por qué saberlo.
 
 —Escúchame.
 
@@ -147,25 +155,35 @@ Se tocó el arete izquierdo, que no se había movido, y bajó a recibirlos.
 
 ***
 
-Kal llegó en la grúa porque Marisol todavía no le devolvía el Audi.
+Kal llegó a las cuatro y treinta y cinco, por la costera sur, en la grúa.
 
-Entró por la costera sur y bajó la rampa de carga, donde el guardia de la caseta ya ni le pedía el gafete, y estacionó en la bahía, junto a los contenedores de la lavandería. Eran las cuatro y treinta y cinco. Arriba, del lado del Paseo, había dos patrullas mal estacionadas frente a la entrada principal, con las torretas encendidas y nadie adentro.
+Chiara lo vio bajar la rampa de carga desde la puerta de la bahía, adonde se había escapado de los patrulleros con la excusa de las llaves del lote de atrás. El Audi había vuelto lavado hacía unos días. Si venía en la grúa, había dejado el Audi en el patio a propósito: el Audi era para lo de los dos, y la grúa para lo que tenía que parecer trabajo. A las cuatro y media de la mañana, en la bahía de un casino con dos patrullas en la puerta, un hombre en una grúa era un proveedor al que habían llamado por un auto.
 
-Charles lo esperaba en el pasillo de servicio. Llevaba la camisa del uniforme abotonada hasta arriba y la cara de un hombre al que habían sacado de la cama para darle una mala noticia sobre su propio trabajo.
+Estacionó junto a los contenedores de la lavandería. El guardia de la caseta ya ni le pedía el gafete. Bajó, la vio y no apuró el paso.
 
-—Señor Mercer. La señora Bellandi dice que le enseñe todo.
+—Señora Bellandi.
 
-El cuarto de monitores olía a café recalentado. Charles le puso el video sin sentarse. Kal lo vio una vez entero, y después pidió nada más el pedazo del lote de atrás.
+—Señor Mercer. —Ella ya iba hacia el pasillo de servicio—. Quiero que vea el video antes de que se lo lleve la policía.
 
-Un auto oscuro, bajo, saliendo hacia la costera sur sin luces. Doce segundos en pantalla, a contraluz de la lámpara de sodio del lote. No se veían las placas. Se veía cómo tomaba la curva de la salida: abierta, sin frenar, como alguien que conocía ese lote de noche.
+Charles los esperaba en el cuarto de monitores. Llevaba la camisa del uniforme abotonada hasta arriba y la cara de un hombre al que habían sacado de la cama para darle una mala noticia sobre su propio trabajo.
+
+—Enséñele todo —dijo Chiara.
+
+El cuarto olía a café recalentado. Charles puso el video sin sentarse. Chiara se quedó junto a la puerta, con la espalda en el marco, y no miró la pantalla, que ya había visto dos veces. Miró a Kal.
+
+Él lo vio entero una vez, sin moverse. No se detuvo en el despacho ni en la caja ni en la rueda, donde se había detenido ella. Cuando terminó, pidió nada más el pedazo del lote de atrás.
+
+Un auto oscuro, bajo, saliendo hacia la costera sur sin luces. Doce segundos en pantalla, a contraluz de la lámpara de sodio del lote. No se veían las placas.
 
 —¿Otra vez?
 
-Charles lo retrocedió. Kal lo vio de nuevo y no dijo nada.
+Charles lo retrocedió. Esta vez Chiara miró la pantalla, para ver lo que él estaba mirando, y tardó en encontrarlo. No era el auto. Era la curva de la salida: el auto la tomaba abierta, sin frenar, sin un solo destello en las luces de freno, como alguien que conocía ese lote de noche. Ella había visto el video dos veces y había visto a dos hombres y una caja. Él lo había visto dos veces y había visto a alguien que ya había estado ahí.
+
+Kal no dijo nada.
 
 —No los vimos entrar —dijo Charles, por fin—. Los vimos adentro. La escalera tiene un punto ciego y nadie... Yo no sabía que la escalera tenía un punto ciego.
 
-—Alguien sí.
+—Alguien sí —dijo Kal.
 
 Charles no contestó.
 
@@ -173,21 +191,29 @@ Charles no contestó.
 
 —La policía se lleva los originales.
 
-Charles lo miró un momento. Después buscó en un cajón una memoria USB con el logotipo de una feria de seguridad de hacía dos años, la metió en la computadora y se quedó mirando la barra de copia como si pudiera apurarla.
+Charles miró a Chiara. Ella no hizo nada, ni un gesto, y eso le bastó. Buscó en un cajón una memoria USB con el logotipo de una feria de seguridad de hacía dos años, la metió en la computadora y se quedó mirando la barra de copia como si pudiera apurarla.
 
-Mientras esperaba, Kal leyó la pared. Junto a la puerta había un pizarrón blanco con los turnos de la semana, nombres a marcador azul en tres columnas. En la de la noche, uno estaba tachado con una raya gruesa, de las que se hacen apretando, y escrito otra vez en la columna del día.
+Mientras esperaban, Kal leyó la pared. Junto a la puerta, a un palmo del hombro de Chiara, había un pizarrón blanco con los turnos de la semana, nombres a marcador azul en tres columnas. Él bajó por la de la noche sin prisa y se detuvo en el único nombre tachado, una raya gruesa, de las que se hacen apretando. El mismo nombre estaba escrito otra vez en la columna del día.
+
+Chiara sabía cuál era sin mirarlo. Lo miró igual.
 
 —¿Ése?
 
 —Lo cambié de turno. —Charles no se dio vuelta—. Asunto aparte.
 
-La barra llegó al final. Charles le dio la memoria sin mirarlo, como quien entrega algo que después va a tener que explicar.
+No miró a Chiara al decirlo. Ella tampoco lo miró a él.
+
+La barra llegó al final. Charles le dio la memoria a Kal sin mirarlo, como quien entrega algo que después va a tener que explicar. Kal se la guardó en el bolsillo de la camisa y se volvió hacia Chiara como un contratista que espera la siguiente instrucción de una clienta.
+
+—Arriba está la policía —dijo ella—. Usted vino por el auto.
+
+—Vine por el auto.
 
 ***
 
-En el lobby ya había más gente de la que había a las cuatro: los dos patrulleros, un técnico con un maletín de aluminio, dos guardias de Eagle Eye parados donde no estorbaban a nadie, y Chiara, de pie junto a la recepción, con el abrigo puesto y el teléfono apagado en la mano.
+En el lobby ya había más gente de la que había a las cuatro: los dos patrulleros, un técnico con un maletín de aluminio, dos guardias de Eagle Eye parados donde no estorbaban a nadie. Chiara esperaba junto a la recepción, con el abrigo puesto y el teléfono apagado en la mano.
 
-Kal se quedó a la distancia de un proveedor. Ella no lo miró.
+Kal había subido detrás de ella por la escalera de servicio y se quedó a la distancia de un proveedor. Ella no lo miró. No le hacía falta para saber dónde estaba.
 
 Las puertas giratorias dieron media vuelta y entró la subjefa Varek.
 
@@ -297,7 +323,7 @@ Lucía siguió hacia los elevadores. Voss la alcanzó a medio pasillo, con la li
 
 La sala de juntas del piso de administración tenía una mesa para doce y nunca se usaba con más de cinco. A las siete y media había cuatro socios sentados y un hombre de pie. El quinto, Fabrizio, estaba con Paola y la niña; había llamado a Chiara dos veces antes de las siete.
 
-Kal se había quedado junto a la ventana, con la carpeta de facturas de la grúa bajo el brazo porque era lo único que tenía a mano que explicara qué hacía ahí. Chiara lo había hecho pasar con dos frases: el señor Mercer había presentado semanas atrás una propuesta de seguridad para el casino, y esta mañana el casino la iba a necesitar.
+Kal se había quedado junto a la ventana, con la carpeta de facturas de la grúa bajo el brazo, que era lo único que explicaba qué hacía ahí. Chiara lo había hecho pasar con dos frases: el señor Mercer había presentado semanas atrás una propuesta de seguridad para el casino, y esta mañana el casino la iba a necesitar.
 
 Nadie le ofreció una silla. Él no la pidió.
 
@@ -336,6 +362,8 @@ Chiara no contestó enseguida. Tommaso tampoco la apuró: dejó que la pausa se 
 —Es un muchacho que no lleva ni un año en la caja —siguió él, al fin—, que entró sin referencias, por recomendación personal, a un puesto en el que pasa todo el efectivo de este edificio. Le tengo aprecio a la recomendación. Pero si esta tarde la policía tiene a alguien de adentro, mañana nadie mira la caja. Ni lo que había en ella.
 
 Lo dijo sin cambiar el tono. Era la propuesta más razonable que se iba a oír en la mesa, y los cuatro lo sabían.
+
+Chiara la pesó en el orden de la colina, y en ese orden Tommaso tenía razón. Un culpable de adentro cerraba el caso, y un caso cerrado no mira debajo de ninguna lámina.
 
 —Si entregamos a Kenji —dijo Chiara—, el que pasó la combinación sigue adentro. Y aprende que en este edificio, cuando algo sale mal, se paga con el primero que esté a mano. —Se acomodó una pulsera—. Kenji no fue. Respondo yo por él.
 
@@ -391,9 +419,9 @@ Dario asintió una vez, como quien confirma la fecha de una factura.
 
 Dario no dijo nada más. Miró a Kal el tiempo exacto que tardaba en medir a alguien y después volvió a la hoja, sin voltearla.
 
-Tommaso lo estaba mirando a él.
+Chiara vio que Tommaso lo estaba mirando a él.
 
-No había preguntado cuánto. En ese edificio todos llevaban desde las cuatro de la mañana diciendo una cifra, y Dario no la había preguntado. Había preguntado quién llamó a quién. Tommaso no giró el anillo. Tampoco abrió la boca.
+Tardó un segundo en entender qué miraba. En ese edificio todos llevaban desde las cuatro de la mañana diciendo una cifra, y Dario no la había preguntado. Había preguntado quién llamó a quién. Tommaso no giró el anillo. Tampoco abrió la boca. Chiara tampoco, y se guardó las dos cosas: lo que Dario no había preguntado y que Tommaso lo hubiera notado.
 
 —Kenji se queda en su puesto —dijo Dario, al final, levantándose—. Mientras la signora Bellandi responda por él.
 
@@ -409,7 +437,7 @@ Kal la esperó en el pasillo de servicio, junto al elevador de carga, con la car
 
 —Charles tiene un nombre tachado en la pared.
 
-—Caluca. —Chiara miró hacia el fondo del pasillo, donde no había nadie—. Uno de sus guardias. Argentino. Llevaba semanas apareciéndoseme en los pasillos más de lo que su turno explicaba, hasta que Charles lo hizo disculparse delante de mí. Lo pasó al día. Ahora me saluda de lejos.
+—Ferreyra. —Chiara miró hacia el fondo del pasillo, donde no había nadie—. Uno de sus guardias. Argentino. Llevaba semanas apareciéndoseme en los pasillos más de lo que su turno explicaba, hasta que Charles lo hizo disculparse delante de mí. Lo pasó al día. Ahora me saluda de lejos.
 
 —¿Anoche?
 

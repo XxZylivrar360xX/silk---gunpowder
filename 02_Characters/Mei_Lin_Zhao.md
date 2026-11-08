@@ -1,5 +1,7 @@
 # Mei-Lin Zhao
 
+> **CANON DEL AUTOR (2026-11-07):** en el robo del Monarch trabaja, sin saberlo, para Crowe por encargo de los intermediarios de Halbrook (Dario sale de la cadena). Tras el fracaso es un cabo suelto: **Crowe asesina a Roy Boone** (parece que huye) y ella lo intuye; llega al Patio también buscando protección. Detalle: [[11_Books/Book_01_Mascaras_De_Cristal/Part_02_Con_Peores_Personas_He_Tratado/00_Plan_Robo_Monarch]].
+
 > **Numeración:** desde 2026-10-22 el Libro I usa numeración corrida definitiva (56 caps.); este documento cita la numeración anterior. Correspondencia en [[11_Books/Book_01_Mascaras_De_Cristal/00_Book_Map]].
 
 ## F2 — CANON DEL AUTOR 2026-11-07

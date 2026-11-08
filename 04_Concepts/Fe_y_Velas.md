@@ -49,7 +49,9 @@ La oración no necesita escribirse completa cada vez. La frase interna del ritua
 
 El ritual nace después de [[06_Relationships/Momentos_de_Fractura]], **F4 - Año Nuevo en Washington**.
 
-Kal viaja a Washington, D.C. para reunirse con [[02_Characters/Anya_Voronina]], la contacto rusa que consiguió los papeles de [[02_Characters/Nadir_Amrani]]. Lo hace por deuda, en Año Nuevo y cumpleaños suyo, justo cuando Chiara esperaba pasar con él su primer Año Nuevo juntos. (Noche separada **restaurada por el autor, 2026-09-26**: Chiara, ebria y sola en el penthouse tras la fiesta del Monarch; Kal vuelve en auto esa misma noche. Ver [[02_Characters/Anya_Voronina]].) **La primera vela nace días después (canon 2026-09-26),** cuando Kal le cuenta su primera incursión para Dario: la escolta de cocaína, el rival, el coche en la bahía.
+> **PENDIENTE (2026-11-07):** la causa del viaje se rediseña; Anya retirada ([[97_Supersedido/Anya_Voronina]]).
+
+Kal viaja a Washington, D.C. para reunirse con [[97_Supersedido/Anya_Voronina|Anya Voronina (retirada)]], la contacto rusa que consiguió los papeles de [[02_Characters/Nadir_Amrani]]. Lo hace por deuda, en Año Nuevo y cumpleaños suyo, justo cuando Chiara esperaba pasar con él su primer Año Nuevo juntos. (Noche separada **restaurada por el autor, 2026-09-26**: Chiara, ebria y sola en el penthouse tras la fiesta del Monarch; Kal vuelve en auto esa misma noche. Ver [[97_Supersedido/Anya_Voronina]].) **La primera vela nace días después (canon 2026-09-26),** cuando Kal le cuenta su primera incursión para Dario: la escolta de cocaína, el rival, el coche en la bahía.
 
 Chiara entiende la razón. Ese es el problema: la entiende y aun así le duele.
 

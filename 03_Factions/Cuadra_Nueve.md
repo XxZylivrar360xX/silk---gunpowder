@@ -2,6 +2,8 @@
 
 *Ficha de Facción — banda menor del sur*
 
+> **CANON DEL AUTOR (2026-11-07), Guerra de los Tres:** bando de Kal (los chicos que protegió). Estaban en el triage de Calle Corona por accidente (DISEÑO: uno de los suyos estaba detenido ahí); los falsos policías de Halbrook les matan gente, y Cuadra Nueve quiere sangre de policías. Ver [[04_Concepts/La_Guerra_de_los_Tres#Regla particular — Coche bomba en Calle Corona]].
+
 **Qué es:** grupo de corredores jóvenes, mensajeros y vendedores de bajo nivel en Nueve Puentes.  
 **Territorio:** sur de [[05_Locations/San_Aurelio]], conjunto de Nueve Puentes.  
 **Cabeza:** Maya Rios.  

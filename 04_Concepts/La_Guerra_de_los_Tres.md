@@ -176,6 +176,44 @@ Antes del corte a *Cuentas de Sangre* también deben haberse cobrado las muertes
 
 > **PENDIENTE:** relación causal y orden fino entre el atentado de Santa Lucía y la secuencia de montaña; qué institución formula primero una hipótesis demostrable sobre Halbrook. **RESUELTO por [[00_Biblia/00_Trilogy_Structure]]:** quien dispara contra Halbrook es **Kal**, en *Cuentas de Sangre* (Libro III) — ya no es una incógnita de este tramo.
 
+## Regla particular — Coche bomba en Calle Corona
+
+> **CANON DEL AUTOR (2026-11-07).** Un **coche bomba** explota junto a la comisaría de [[05_Locations/San_Aurelio|Calle Corona]], la sede del [[03_Factions/Departamento_de_Policia_de_San_Aurelio|Departamento]]. La explosión derrumba los cimientos del **ala este**, donde está la oficina de [[02_Characters/Lucia_Varek]]. **Lucía sobrevive; mueren cinco de sus policías.** [[02_Characters/Dana_Collins]] y [[07_Ideas/Libro_04_Incubadora/01_Nicholas_Voss|Nicholas Voss]] sobreviven. **Lo ordena Halbrook.** Consecuencia: **[[02_Characters/Renata_Clark]] renuncia por el atentado** y Lucía, sobreviviente, toma la jefatura hasta *Cuentas de Sangre*.
+
+> **CANON DEL AUTOR (2026-11-07), el doble golpe que abre la guerra:** el coche bomba es **simultáneo a la muerte de [[02_Characters/Beatrice_Varek|Trix]]**. Los dos golpes caen sobre las hijas de Dario: Lucía sobrevive y Trix muere. Es un **golpe personal contra Varek** y **la chispa de la Guerra de los Tres** (así se respeta el «antes de la guerra» de Trix). **Bandera falsa:** los agentes de Halbrook van **vestidos con los colores y distintivos de las bandas violentas de la ciudad, simpatizantes de Kal**; ante el ojo público son ellos. El atentado contra la comisaría ya le atribuye el golpe a Kal en apariencia. La muerte de Trix debe salpicar a Kal.
+
+> **CANON DEL AUTOR (2026-11-07), la muerte de Trix:** Trix, neurocirujana, está **en la zona de triage del atentado** atendiendo heridos. **Los atacantes siguen dentro**: unos, vestidos de **policías**, empiezan a disparar contra otros, vestidos con los colores de **las bandas simpatizantes de Kal**. Los dos grupos son de Halbrook: es un tiroteo montado. **Trix muere en ese fuego cruzado.** Halbrook lo orquesta todo **para obtener un resultado administrativo**: poner a la opinión pública **en contra de las bandas**, y con eso a Kal.
+> - **Lo que ve la ciudad:** las bandas de Kal ponen una bomba en la comisaría, vuelven a rematar a los heridos y matan a la hija de Varek; la policía las repele en el triage.
+> - **DISEÑO, lo que Halbrook cobra:** mano dura contra las bandas (operativos, estado de excepción o fuerza de tarea), su figura de autoridad de crisis y candidato, y la enemistad de Dario con Kal sin tener que tocarlo él.
+> - **Kal, culpable indirecto real (CANON DEL AUTOR, 2026-11-07):** los colores que usa Halbrook son los de **bandas a las que Kal protegió o armó**. La bandera es falsa, pero el vínculo existe: la ciudad no se equivoca de bandas, se equivoca de autores.
+> - **Los falsos policías (CANON DEL AUTOR, 2026-11-07):** desaparecen en el caos. [[02_Characters/Dana_Collins]] y [[07_Ideas/Libro_04_Incubadora/01_Nicholas_Voss|Voss]] los ven, les **ordenan que se detengan** y empiezan a buscarlos, pero ya no están. Dana y Voss son los únicos policías con una sospecha de primera mano: los «agentes» del triage no eran del Departamento.
+> - **La banda que estaba ahí por accidente (CANON DEL AUTOR, 2026-11-07):** miembros reales de **[[03_Factions/Cuadra_Nueve]]** están en el lugar por accidente y **terminan siendo víctimas de los falsos agentes**. Sus cuerpos son los «pandilleros abatidos» de la versión pública. La banda sabe que no puso la bomba y que «la policía» le mató a los suyos: **quiere sangre de policías por violencia excesiva y sin fundamento**. Así Halbrook consigue lo que buscaba: guerra entre la policía y las bandas.
+>   - **DISEÑO (por qué estaban ahí):** uno de los suyos estaba detenido en las celdas de Calle Corona; al correr la noticia de la bomba van a ver si sigue vivo y llegan al triage justo cuando empieza el tiroteo montado.
+> - **Lo que hacen Dana y Voss (CANON DEL AUTOR, 2026-11-07):** se lo **reportan a Lucía**. Es Lucía quien **enfrenta a Kal en la [[05_Locations/Presa_Del_Sur|Presa del Sur]]**, y **Kal le cuenta lo que sabe**.
+>   - **Qué le dice Kal (CANON DEL AUTOR, 2026-11-07):** sólo le asegura que **no fueron las bandas**. **Kal no sabe que fue Halbrook.**
+>   - **Nadie sabe quién fue (CANON DEL AUTOR, 2026-11-07):** todo parece diseñado, pero **nadie encuentra al autor, ni siquiera el lector**. Halbrook fue inteligente: **estaba en la comisaría cuando estalló el coche, pero no cerca**. Ante la ciudad es un sobreviviente más. Por qué estaba ahí: PENDIENTE. Cuándo y cómo se revela que fue él: PENDIENTE.
+>   - **El cierre de la presa (CANON DEL AUTOR, 2026-11-07):** Kal y Lucía saben que lo que viene no es bueno y que conviene **elegir bien a los aliados**. Uno se lo dice al otro y el otro se lo devuelve: ninguno sabe si puede confiar en quien tiene enfrente. DISEÑO de la forma: lo dice Lucía y Kal se lo devuelve casi igual.
+>   - **Kal y Lucía, canal de contención (CANON DEL AUTOR, 2026-11-07):** a partir de aquí, la relación entre los dos puede ser **lo que mitiga las pérdidas de sus bandos** (policía y bandas) durante la guerra. DISEÑO: Lucía acaba de perder a su hermana y no culpa a Kal; Dario sí. Esa grieta entre padre e hija carga la alianza.
+>   - **DISEÑO:** el ruido del agua en el mirador obliga a hablar de cerca y vuelve inútil cualquier micrófono; Lucía la elige por eso.
+> - **Bandos de la guerra:** [[03_Factions/Mapa_de_Conflicto_Activo#Bandos en la Guerra de los Tres (*Voto de Ceniza*) — CANON DEL AUTOR (2026-11-07)]]. Colores: Los Calderos. Víctimas por accidente: Cuadra Nueve.
+
+| Pregunta | Respuesta |
+|---|---|
+| Qué ocurrió realmente | Coche bomba contra la sede; derrumbe del ala este. |
+| Quién lo ordenó realmente | Halbrook (CANON). Nadie lo descubre en el momento, ni el lector. |
+| Quién lo ejecutó | Agentes de Halbrook con los colores y distintivos de **Los Calderos**, banda del bando de Kal (CANON 2026-11-07). |
+| Qué vio la policía | Cinco compañeros muertos, la oficina de la subjefa bajo los escombros, restos del vehículo; tiroteo en el triage con «agentes» que desaparecen en el caos; Dana y Voss les ordenan detenerse y los buscan sin encontrarlos (CANON). |
+| Qué vio un civil | La explosión; después, en el triage, «policías» repeliendo a pistoleros con colores de bandas; la hija de Varek muerta entre los heridos (CANON). |
+| Qué informó la prensa | PENDIENTE (p. ej. «Coche bomba contra la policía en Calle Corona: cinco agentes muertos»). |
+| Qué cree la ciudad | Que las bandas de Kal atacaron a la policía y a la familia Varek (CANON: en apariencia, Kal). DISEÑO: eso pide una autoridad de crisis. |
+| Qué quiere Chiara que crean | PENDIENTE. |
+| Qué puede demostrar la ley | Nada contra nadie en el III. Lucía tiene el testimonio de Dana y Voss sobre los falsos policías y la palabra de Kal de que no fueron las bandas (CANON 2026-11-07). |
+| Qué sabe el lector | Que todo parece diseñado, sin autor. No sabe que fue Halbrook, que estaba en la comisaría aunque lejos de la explosión (CANON 2026-11-07). La revelación: PENDIENTE. |
+
+- **DISEÑO (motivo):** el golpe sirve al ascenso de Halbrook: el caos que ataca al Estado vuelve valiosa su figura de autoridad de crisis y de candidato. Estar en el edificio lo pone del lado de las víctimas.
+- **RESUELTO (2026-11-07):** abre la guerra, antes de la curva institucional. **PENDIENTE:** los nombres de los cinco muertos; qué hacen Dana y Voss esa noche; cómo se entera Kal.
+- **Sin glosa:** la regla de Santa Lucía también vale aquí; la ciudad no lo lee de inmediato como obra de Halbrook.
+
 ## Regla particular — Santa Lucía
 
 El atentado no se lee inmediatamente en la opinión pública como “Halbrook atacó a Chiara”. Para la ciudad es un atentado armado en la [[05_Locations/Iglesia_Santa_Lucia]] que deja muertos y heridos, entre ellos figuras conocidas.

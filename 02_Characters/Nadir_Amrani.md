@@ -57,7 +57,7 @@ Eso los deja en una posición rarísima dentro de la novela:
 
 > **Nadir no le debe nada a Kal.**
 
-Kal después le paga esa ayuda metiéndolo a Estados Unidos con papeles conseguidos mediante [[02_Characters/Anya_Voronina]], pero esa deuda no convierte a Nadir en subordinado. Lo vuelve una de las pocas personas que pueden estar cerca de Kal sin formar parte de su contabilidad moral.
+Kal después le paga esa ayuda metiéndolo a Estados Unidos con papeles conseguidos mediante una fixer rusa sin nombre (CANON DEL AUTOR, 2026-11-07), pero esa deuda no convierte a Nadir en subordinado. Lo vuelve una de las pocas personas que pueden estar cerca de Kal sin formar parte de su contabilidad moral.
 
 **CANON DEL AUTOR (2026-08-26):** en el barrio, Nadir es querido y respetado por todos — no por lo que tiene ni por lo que negocia, sino por ser **honesto, leal, y el protector de todo el mundo en la Almendra.** Es una reputación ganada, no heredada, y es la vara con la que hay que medir cualquier escena donde desconfíe de alguien: si Nadir duda de una persona, el barrio entero tiene motivos para tomárselo en serio.
 
@@ -92,7 +92,7 @@ Lo que opera hoy:
 
 - Conoce a Kal en prisión.
 - Lo ayuda a salir.
-- Kal le consigue entrada a Estados Unidos con papeles obtenidos por [[02_Characters/Anya_Voronina]].
+- Kal le consigue entrada a Estados Unidos con papeles obtenidos por una fixer rusa sin nombre.
 - Vuelve con Kal a San Aurelio.
 - Está presente en la primera etapa del vínculo con Chiara: ve a Kal perfumado y nervioso en [[06_Relationships/Hitos]], H2-a.
 - En [[06_Relationships/Hitos]], H6, [[02_Characters/Warren_Halbrook]] amenaza a Kal con **reportar a Nadir a ICE** (extranjero en situación irregular) si no vuelve a trabajar para él. La convocatoria de Halbrook que trae esa amenaza es la "situación externa" de [[06_Relationships/Hitos#H5 — San Aurelio|H5]].
@@ -135,7 +135,6 @@ Kal lo mantiene lejos de las finanzas centrales de Almendra Towing. No porque Na
 ## Conexiones
 
 - [[02_Characters/Kal_Mercer]] — mejor amigo. Fue quien lo ayudó primero; Kal le pagó consiguiéndole papeles.
-- [[02_Characters/Anya_Voronina]] — contacto rusa que consiguió sus papeles; su favor vuelve como deuda en Año Nuevo.
 - [[02_Characters/Warren_Halbrook]] — usa su estatus migratorio como correa contra Kal. **Lectura renovada (2026-09-28, canon del autor):** Halbrook no lo usa por quién es, sino porque la lealtad de Kal es más explotable que su miedo; tarda demasiado en verlo como agente propio. En *Cuentas de Sangre* la ciudad sospecha de Nadir por la muerte de Halbrook; él lo permite para cubrir a Harper y, al final, se lo cuenta a Chiara.
 - [[02_Characters/Daniel_Hayes]] — testigo junto con él de la primera cena de Kal y Chiara.
 - [[02_Characters/Hector_Navarro]] — parte del núcleo que aparece con Kal en Gabriella's.
@@ -156,7 +155,7 @@ Kal lo mantiene lejos de las finanzas centrales de Almendra Towing. No porque Na
 
 > **SIEMBRA EN PROSA (2026-09-26, aprobada por el autor):** [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/01_Un_Hombre_De_Negocios_Intachable|Cap. 1 (archivo 01)]]. Nadir está por llenar el formato del condado para el arrastre del Ford (nombre del operador, número de licencia); Kal le quita la hoja, pone sus propios datos y no explica nada. Nadir no pregunta. Así, cuando llega la correa del 27, cae sobre una fragilidad que el lector ya vio.
 
-> **RESUELTO DE DISEÑO (2026-08-23):** la contacto rusa es [[02_Characters/Anya_Voronina]]. El costo vuelve en [[06_Relationships/Momentos_de_Fractura]], F4.
+> Plan anterior retirado: [[97_Supersedido/Anya_Voronina]]. La fixer rusa queda sin nombre; la deuda ya no es trama.
 
 ---
 

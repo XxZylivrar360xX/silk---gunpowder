@@ -10,7 +10,7 @@
 
 Nicholas Voss es coprotagonista del arco policial junto a Elenna Mercer.
 
-- Capitán con presencia fuerte dentro de la comisaría.
+- **Jefe de Policía en el Libro V** (CANON DEL AUTOR, 2026-11-07; antes «capitán»), bajo la comisionada Lucía. Hereda el cargo de Dana en el IV. Presencia fuerte dentro de la comisaría. El «Jefe Supremo» de Elenna ahora es literal.
 - **CANON DEL AUTOR (2026-09-16):** su jefa directa es la comisionada [[02_Characters/Lucia_Varek]], cabeza de todo el Departamento de San Aurelio — ver [[07_Ideas/Libro_04_Incubadora/02_Caso_Vera_y_Antagonista]]. Lucia carga su propio duelo no resuelto por la muerte de su hermana Vivian, oficialmente una sobredosis pero en realidad el primer homicidio de Ethan Cole.
 - Por falta de instructores/personal de formación, termina entrenando personalmente a Elenna en parte de su entrada práctica al Departamento.
 - Elenna lo llama, con humor, **“Jefe Supremo”**.
@@ -22,7 +22,7 @@ Nicholas Voss es coprotagonista del arco policial junto a Elenna Mercer.
 
 Nicholas arrastra desde hace unos dieciocho a veinte años el homicidio de una oficial joven cercana a él, **Vera Kessler** — compañera/colega, no recluta bajo su tutela formal (ver [[07_Ideas/Libro_04_Incubadora/02_Caso_Vera_y_Antagonista|Caso Vera y antagonista]]).
 
-> **RESUELTO (2026-09-16):** la naturaleza de su relación es de **colegas cercanos, casi hermanos de armas** — cariño platónico profundo, sin tensión romántica. El duelo de Nicholas es el de perder a alguien que confiaba en él ciegamente, sin ninguna sombra retroactiva sobre su matrimonio con María.
+> **RESUELTO (2026-09-16):** la naturaleza de su relación es de **colegas cercanos, casi hermanos de armas** — cariño platónico profundo, sin tensión romántica. El duelo de Nicholas es el de perder a alguien que confiaba en él ciegamente, sin ninguna sombra retroactiva sobre su matrimonio con Dana (antes María).
 
 > **SUPERSEDIDO (2026-10-03):** la omisión pasa a [[02_Characters/Renata_Clark]]; Keene ya estaba muerto la noche Vera. Texto anterior: el grado de corrupción de Raymond Keene en el encubrimiento de Vera fue de **omisión** — no lo ordenó, pero dejó correr la versión oficial una vez que vio los beneficios (menos exposición, menos redadas). Encaja con el patrón ya establecido de Nicholas: cosas que sospecha pero nunca puede probar del todo — Keene, Varek y ahora Vera son la misma clase de fracaso institucional.
 
@@ -44,34 +44,39 @@ Nicholas pasó años protegiendo o queriendo al responsable sin saberlo.
 - **Némesis:** [[02_Characters/Blake_Stanton]]. Comparten Departamento desde hace décadas sin ser amigos. Uno buscó una verdad incompleta; el otro sobrevivió gracias a que siguiera incompleta. La diferencia entre ambos no es que uno rompa reglas y el otro no: **Nicholas todavía puede detenerse.**
 - **Progresión de la sospecha (DISEÑO):** testimonio de Dylan (placa) → reabre la noche → aparece la vieja confrontación del padre Marsh con un policía → registros y quejas → corrupción policial histórica → necesita expedientes internos → Blake aparece cada vez más cerca del centro de esas consultas. Nunca sospecha de él desde el principio.
 - **Escalones del deterioro (DISEÑO):** retener información para verificarla → archivo por vía gris → presionar a un testigo → favor fuera de procedimiento → dejar fuera a Asuntos Internos → justificarlo por riesgo de fuga → decidir qué reglas estorban → Elenna lo confronta como policía, no como hija simbólica.
-- **Final (DISEÑO):** recuperación ética, no caída profesional: resolver el caso sin dejar que Blake le dicte qué clase de policía tiene que ser. Se conecta con María, Adam y la pregunta de volver a casa.
+- **Final (DISEÑO):** recuperación ética, no caída profesional: resolver el caso sin dejar que Blake le dicte qué clase de policía tiene que ser. Se conecta con Dana, Adam y la pregunta de volver a casa.
 - **Lucia (DISEÑO):** contrapeso con razones defendibles (exigir evidencia, limitar recursos, evitar filtraciones), no obstrucción burocrática.
 
-**PENDIENTE:** su rango en V, VI y VII; su historia con Blake (opinión de juventud, casos juntos); si recuerda la confrontación del padre Marsh; quién encuentra el primer registro; qué procedimiento lo acerca a Asuntos Internos; si oculta la investigación a Lucia; qué línea no cruza nunca; qué costo institucional paga.
+**RESUELTO (2026-11-07):** Jefe de Policía desde el V. **PENDIENTE:** si cambia en VI y VII; su historia con Blake (opinión de juventud, casos juntos); si recuerda la confrontación del padre Marsh; quién encuentra el primer registro; qué procedimiento lo acerca a Asuntos Internos; si oculta la investigación a Lucia; qué línea no cruza nunca; qué costo institucional paga.
 
 ## Familia Voss
 
-### María Voss
+### Dana Collins, su esposa
 
-**María Voss sigue siendo su esposa.** No es exesposa ni esposa fallecida.
+> **CANON DEL AUTOR (2026-11-07), cronología de la pareja:** **empiezan a salir en *Sombras de Poder*** (II), cuando él conduce la SPV bajo el mando de ella. En ***Voto de Ceniza*** (III) **terminan juntos** y ya son «la pareja de la comisaría». Lucía les recuerda que no pueden ser pareja dentro del Departamento **a menos que estén casados**. La boda y el nacimiento de Adam quedan PENDIENTES. En el III él y Dana sobreviven al **coche bomba de Halbrook contra la comisaría de Calle Corona**, en el que mueren cinco policías; en el triage, Dana y él les ordenan detenerse a los falsos policías y los buscan, pero desaparecen en el caos ([[04_Concepts/La_Guerra_de_los_Tres#Regla particular — Coche bomba en Calle Corona]]).
 
-- Sigue casada con Nicholas.
-- Vive cerca de su hijo, fuera de San Aurelio.
-- Viaja ocasionalmente a San Aurelio.
-- El matrimonio es complicado, pero no roto ni reducido a resentimiento.
-- María conoce a Nicholas fuera del uniforme y puede detectar cuándo vuelve a convertir a una persona en una responsabilidad que debe “salvar”.
+> **CANON DEL AUTOR (2026-11-07):** la esposa de Nicholas es [[02_Characters/Dana_Collins]], la teniente de la VED (sustituye a María Voss; texto anterior: [[97_Supersedido/Fichas_Detalles_Menores#Nicholas Voss]]). Conserva su apellido. Tienen casi la misma edad. En el Libro I Nicholas tiene **29** y ella **31** (cifras DISEÑO; el autor subió la de él y bajó la de ella).
+
+- Siguen casados. No es exesposa ni esposa fallecida.
+- En ***Cuentas de Sangre*** (IV) Dana **se retira** para cuidar a Adam y dedicarle tiempo, y se va con él a **Argentina**. Nicholas **se queda con el cargo** de ella y se concentra en su carrera de policía.
+- Viaja de vez en cuando a San Aurelio.
+- El matrimonio es complicado, pero no está roto ni reducido a resentimiento.
+- Dana conoce a Nicholas fuera del uniforme y nota cuándo vuelve a convertir a una persona en una responsabilidad que debe «salvar».
+- **Kal:** Dana fue amante de Kal antes de la cárcel. **Nicholas y Elenna lo descubren después**; el cuándo queda PENDIENTE, a conveniencia de la prosa de esos libros.
 
 ### El hijo
 
 > **RESUELTO (2026-09-15):** nombre **Adam Voss**; edad actual 17-19 años (generación de Elenna).
 
-> **RESUELTO (2026-09-16):** el contacto de Nicholas con Adam durante los años de separación fue **fiel pero insuficiente** — llamó y visitó con regularidad, sin lograr nunca que la relación se sintiera completa. Refuerza que su fracaso es de conexión, no de abandono, coherente con su patrón de "transformar amor en responsabilidad". María vive con Adam en la ciudad natal de la familia de ella.
+> **RESUELTO (2026-09-16):** el contacto de Nicholas con Adam durante los años de separación fue **fiel pero insuficiente** — llamó y visitó con regularidad, sin lograr nunca que la relación se sintiera completa. Refuerza que su fracaso es de conexión, no de abandono, coherente con su patrón de "transformar amor en responsabilidad". Dana vive con Adam en Argentina (CANON DEL AUTOR, 2026-11-07; antes María, en la ciudad natal de la familia de ella).
 
-Adam fue enviado fuera de San Aurelio siendo bebé, durante la Guerra de los Tres (*Voto de Ceniza*). **No es un espejo encubierto del exilio de Elenna:** no hubo identidad falsa, red de contingencia ni operación de salida. Nicholas y María, como otras familias de una ciudad en guerra, lo mandaron a vivir con la familia de María mientras duraba lo peor del conflicto — una decisión doméstica y mundana, no una escena de acción. Adam creció ahí, no en San Aurelio.
+> **AJUSTE (CANON DEL AUTOR, 2026-11-07):** Adam sale de San Aurelio con su madre cuando Dana se retira en ***Cuentas de Sangre*** (IV), no durante la Guerra de los Tres. Cuándo nace queda PENDIENTE. El texto siguiente es anterior.
+
+Adam fue enviado fuera de San Aurelio siendo bebé, durante la Guerra de los Tres (*Voto de Ceniza*). **No es un espejo encubierto del exilio de Elenna:** no hubo identidad falsa, red de contingencia ni operación de salida. Nicholas y María, como otras familias de una ciudad en guerra, lo mandaron a vivir con la familia de la madre mientras duraba lo peor del conflicto — una decisión doméstica y mundana, no una escena de acción. Adam creció ahí, no en San Aurelio.
 
 En el pasado, Nicholas prometió traerlo de vuelta a casa cuando pasara ese "periodo de riesgo" (la guerra). Con el tiempo la promesa dejó de ser viable, no porque el hijo esté desaparecido, sino porque construyó su propia vida fuera y puede no considerar San Aurelio su hogar.
 
-La promesa actual cambia de objeto. María ya no le exige “traer al hijo a casa”. La pregunta que sostiene su matrimonio es:
+La promesa actual cambia de objeto. Dana ya no le exige “traer al hijo a casa”. La pregunta que sostiene su matrimonio es:
 
 > **¿Puedes perdonarte a ti mismo lo suficiente para volver a tu verdadero hogar?**
 
@@ -88,7 +93,7 @@ Eso puede afectar:
 - Sus policías.
 - Elenna.
 
-María puede advertirle a Elenna:
+Dana puede advertirle a Elenna:
 
 > **No dejes que te convierta en una promesa.**
 
@@ -109,6 +114,11 @@ Elenna puede confrontarlo con una pregunta que resume su error histórico:
 El vínculo funciona mejor como mentoría/familia elegida que como sustitución de Kal.
 
 Kal y Nicholas deben reconocerse como dos hombres que quieren proteger a Elenna, pero con métodos y biografías distintas. No deben volverse amigos instantáneos.
+
+## «No soy su compañero» (CANON DEL AUTOR, 2026-11-07)
+
+- **Siembra, Libro I, Cap. 27 (archivo 24c):** en el mostrador de denuncias, Kal le dice «Tranquilo, compañero» y Voss, con las orejas encendidas, contesta «No soy su compañero».
+- **Cobro, veinte años después, en el aeropuerto** (despedida de Kal y Chiara, Libro VII; [[07_Ideas/Libro_04_Incubadora/06_Escenas_Faro]], escena 3): Voss lo repite o se lo devuelve a Kal. La forma exacta se elige al escribir la escena.
 
 ## Frase sembrada
 

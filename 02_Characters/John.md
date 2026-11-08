@@ -1,5 +1,7 @@
 # John
 
+> **CANON DEL AUTOR (2026-11-07):** Trix muere en el Libro III; el «Trix se fue de San Aurelio e Iris se quedó» de abajo queda supersedido (Iris crece sin madre). Detalle: [[11_Books/Book_01_Mascaras_De_Cristal/00_Plan_Nuevo_Cauce]].
+
 *Seda y Pólvora — Ficha de Personaje*
 
 > **CANON DEL AUTOR (2026-10-04).** Periodista de [[03_Factions/El_Faro|El Faro]]. Pareja de [[02_Characters/Iris_Harlow|Iris]] en el Libro VI, cuando ella se acuesta con [[02_Characters/Michael_Ardizzone|Michael]]. Iris le promete a Michael "voy a hablar con John" y **lo cumple**. Arquitectura completa: [[06_Relationships/Michael_e_Iris]].

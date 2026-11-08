@@ -1,5 +1,7 @@
 # Lucia Varek
 
+> **CANON DEL AUTOR (2026-11-07):** Lucía **no** es de los policías que le reportan a Dario. Detalle: [[11_Books/Book_01_Mascaras_De_Cristal/00_Plan_Nuevo_Cauce]].
+
 > **Numeración:** desde 2026-10-22 el Libro I usa numeración corrida definitiva (56 caps.); este documento cita la numeración anterior. Correspondencia en [[11_Books/Book_01_Mascaras_De_Cristal/00_Book_Map]].
 
 *Seda y Pólvora — Ficha de personaje*
@@ -10,7 +12,8 @@
 
 - Policía de San Aurelio. **Cargo (CANON DEL AUTOR, 2026-09-01): subjefa, segunda al mando bajo [[02_Characters/Renata_Clark]].**
 - **CANON DEL AUTOR (2026-10-17):** en el Libro I no hay jefe tras el asesinato de Keene. Lucía lleva el Departamento **en funciones**, con rango de subjefa, hasta que Clark llega en el Libro II. Siembra: Cap. 7, por boca de Blake, sin nombre.
-- **CANON DEL AUTOR (2026-10-24), mando policial de la saga:** *Sombras de Poder* (II): Lucía sube a **jefa interina** y [[02_Characters/Dana_Collins]] asciende a **subjefa**; [[02_Characters/Renata_Clark]] es nombrada jefa **al cierre del Libro II**. *Voto de Ceniza* (III): Lucía y Collins, **las dos subjefas**, bajo Clark; cuando Clark renuncia en la Guerra de los Tres, Lucía es **jefa hasta *Cuentas de Sangre*** (IV). Sesión: [[98_Agent_Handoff/sessions/2026-10-24_claude_cap04_cortejo_keene_blake]].
+- **CANON DEL AUTOR (2026-11-07), Voto de Ceniza:** sobrevive al coche bomba de Halbrook en su ala de Calle Corona; su hermana Trix muere en el triage. Collins y Voss le reportan a los falsos policías y ella **enfrenta a Kal en la Presa del Sur**; Kal sólo le asegura que no fueron las bandas; ninguno sabe quién fue. Se despiden sabiendo que hay que elegir bien a los aliados, sin saber si pueden confiar el uno en el otro. Desde ahí, la relación Kal–Lucía puede contener las pérdidas de la policía y de las bandas ([[04_Concepts/La_Guerra_de_los_Tres#Regla particular — Coche bomba en Calle Corona]]).
+- **CANON DEL AUTOR (2026-10-24), mando policial de la saga:** *Sombras de Poder* (II): Lucía sube a **jefa interina** y [[02_Characters/Dana_Collins]] asciende a **subjefa**; [[02_Characters/Renata_Clark]] es nombrada jefa **al cierre del Libro II**. *Voto de Ceniza* (III): Lucía y Collins, **las dos subjefas**, bajo Clark; cuando Clark renuncia en la Guerra de los Tres (**por el coche bomba que ordena Halbrook contra la comisaría de Calle Corona**: el ala este cae sobre la oficina de Lucía, que sobrevive, y mueren cinco policías; CANON 2026-11-07, [[04_Concepts/La_Guerra_de_los_Tres#Regla particular — Coche bomba en Calle Corona]]), Lucía es **jefa hasta *Cuentas de Sangre*** (IV). **En el IV (CANON DEL AUTOR, 2026-11-07), Collins se retira y [[07_Ideas/Libro_04_Incubadora/01_Nicholas_Voss|Nicholas Voss]] hereda su cargo; en el V, Voss es Jefe de Policía bajo Lucía, comisionada. En el III Lucía les recuerda a Collins y Voss que no pueden ser pareja dentro del Departamento a menos que estén casados.** Sesión: [[98_Agent_Handoff/sessions/2026-10-24_claude_cap04_cortejo_keene_blake]].
 - De ética rígida y métodos poco ortodoxos.
 - Se tiñe el cabello de castaño oscuro para que la ciudad no la lea como otra hija rubia de Varek.
 - Ama a Dario, pero mantiene con él una relación hermética y ha construido deliberadamente una identidad separada del apellido.

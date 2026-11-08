@@ -168,7 +168,9 @@ El collar y la caja de acero sobreviven según H8; no salvan el hogar. **El pian
 
 ### Año Nuevo / F4 — CANON DEL AUTOR (2026-09-26)
 
-**F4 ocurre entre Navidad y el incendio**; el loft arde días después. Noche **separada**: Kal en Washington pagando la deuda con [[02_Characters/Anya_Voronina]] (pretexto: programa de apoyo a veteranos, muchos exsubordinados de Halbrook; Kal sólo la ayuda con el trabajo); Chiara en la fiesta de fin de año del Monarch, ebria y sola en el penthouse. Kal vuelve esa misma noche en auto, con el collar en la mano; no llega a tiempo para su cumpleaños. Llegan distanciados desde Bellandi Ridge (Nueva York; ella nunca sube al avión). 31: Chiara baila y bebe sola. 1: películas y depresión. 2: la cruda moral y el piano en el penthouse. Kal llega la noche del 2 (21:00–23:00) y la encuentra sin glamour: la primera vez en la saga. Ver [[06_Relationships/Momentos_de_Fractura#F4 - Año Nuevo en Washington]].
+> **PENDIENTE DE REDISEÑO (autor, 2026-11-07):** Anya queda retirada ([[97_Supersedido/Anya_Voronina]]); [[02_Characters/Dana_Collins]] hereda el papel de ex amante, no F4. Queda **sin causa la ausencia de Kal** (Washington, deuda de los papeles de Nadir, programa de veteranos y gancho de Halbrook). La mitad de Chiara (fiesta, penthouse, piano, los tres días) y la vuelta de Kal la noche del 2 siguen vigentes mientras el autor no diga otra cosa. No rellenar. Lo de abajo es historial donde nombre a Anya.
+
+**F4 ocurre entre Navidad y el incendio**; el loft arde días después. Noche **separada**: Kal en Washington pagando la deuda con [[97_Supersedido/Anya_Voronina|Anya Voronina (retirada)]] (pretexto: programa de apoyo a veteranos, muchos exsubordinados de Halbrook; Kal sólo la ayuda con el trabajo); Chiara en la fiesta de fin de año del Monarch, ebria y sola en el penthouse. Kal vuelve esa misma noche en auto, con el collar en la mano; no llega a tiempo para su cumpleaños. Llegan distanciados desde Bellandi Ridge (Nueva York; ella nunca sube al avión). 31: Chiara baila y bebe sola. 1: películas y depresión. 2: la cruda moral y el piano en el penthouse. Kal llega la noche del 2 (21:00–23:00) y la encuentra sin glamour: la primera vez en la saga. Ver [[06_Relationships/Momentos_de_Fractura#F4 - Año Nuevo en Washington]].
 
 Anya sabe del patrón Halbrook y lo usa como gancho para que Kal acepte (canon 2026-09-26).
 
@@ -299,7 +301,7 @@ Viendo a Kal a lo lejos, bajo el arco de flores, con el atardecer de fondo, Chia
 
 ### Noruega / Stavanger y el anillo
 
-La propuesta ocurre en **Noruega / Stavanger**. **CANON DEL AUTOR (2026-09-26):** la escena de la línea de Anya ("Llegará el día…" / "¿Y ahora qué piensas?" / "Ya llegó.") ya no es un día de campo: ocurre en **Noruega**. Es la misma escena que la propuesta (canon 2026-09-26). **La sobrecompensación crea el espacio; la
+La propuesta ocurre en **Noruega / Stavanger**. **CANON DEL AUTOR (2026-09-26):** la escena de la línea de Collins (antes Anya; 2026-11-07) ("Llegará el día…" / "¿Y ahora qué piensas?" / "Ya llegó.") ya no es un día de campo: ocurre en **Noruega**. Es la misma escena que la propuesta (canon 2026-09-26). **La sobrecompensación crea el espacio; la
 propuesta nace de claridad, no de culpa.** Kal quiere seguir eligiendo a Chiara y construir
 futuro con ella. No propone convertirla en Mercer ni absorber su identidad.
 
@@ -307,7 +309,7 @@ futuro con ella. No propone convertirla en Mercer ni absorber su identidad.
 sale de la incubadora y entra al manuscrito del Libro II (BORRADOR; número pendiente). Canon:
 **Stavanger es la ciudad de origen de Kal**; su madre, **Ingrid**, murió hace once años; su tío
 materno, **Henrik Solberg**, guarda las cartas y la única foto de los dos. Chiara presencia la
-revelación. Propuesta con la línea de Anya. **Elenna se concibe en este viaje** (no se señala).
+revelación. Propuesta con la línea de Collins (antes Anya). **Elenna se concibe en este viaje** (no se señala).
 ~~Su viejo disparador exigía la caída previa de Silas, ahora situada en Parte III: **sigue
 PENDIENTE DE RECONCILIACIÓN**, sin adelantar esa caída ni inventar otro detonante.~~
 **Detonante (CANON DEL AUTOR, 2026-10-14):** cartas de Dale a Kal escritas desde la cárcel, con

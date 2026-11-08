@@ -21,6 +21,8 @@ El ruido del agua cayendo desde el mirador es lo bastante fuerte como para oblig
 
 ## Qué pasa aquí
 
+**CANON DEL AUTOR (2026-11-07), *Voto de Ceniza* (III):** tras el doble golpe de Calle Corona, [[02_Characters/Lucia_Varek]] cita aquí a Kal y lo enfrenta con lo que le reportaron Collins y Voss (los falsos policías del triage). Kal sólo le asegura que no fueron las bandas; los dos saben que lo que viene es malo y que hay que elegir bien a los aliados. Ver [[04_Concepts/La_Guerra_de_los_Tres#Regla particular — Coche bomba en Calle Corona]]. (La ficha era incubadora del VI; esta escena del III es anterior.)
+
 **CANON DEL AUTOR (2026-09-16):** en el mirador ocurre la confesión de amor no correspondida de Erin Reyes a Elenna Mercer, antes de que se confirme la identidad de Ethan Cole — ver escena faro 6 en [[07_Ideas/Libro_04_Incubadora/06_Escenas_Faro]] y el arco completo en [[07_Ideas/Libro_04_Incubadora/03_Relaciones_Elenna]].
 
 > **CANON DEL AUTOR (2026-09-16):** [[07_Ideas/Libro_04_Incubadora/02_Caso_Vera_y_Antagonista|Ethan Cole]] trabaja en la represa — le da conocimiento profundo de la instalación subterránea de desfogue/gestión. Esa instalación queda fijada como el escenario del **enfrentamiento** entre Ethan, Nicholas Voss y Elenna **en la captura de Ethan, dentro de *Hijos del Silencio* (Libro VI)** (reubicado por CANON DEL AUTOR 2026-10-03; antes "enfrentamiento final del Libro 5" de la duología). El mirador (confesión de Erin) y el subsuelo (captura) son el mismo lugar en dos momentos del mismo libro: arriba Elenna pierde a Erin; abajo enfrenta a Ethan. Amor dicho a cielo abierto, verdad criminal enterrada bajo la infraestructura. La escena de la presa deja de ser sólo textura emocional y se vuelve también Chéjov geográfico.

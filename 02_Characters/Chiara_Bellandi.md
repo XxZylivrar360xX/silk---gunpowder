@@ -122,9 +122,9 @@ Cada vez que Kal sale a "trabajar", ella detiene lo que estaba haciendo y encien
 
 **Regla:** la vela no lo absuelve a él ni la absuelve a ella. Sólo revela cuánto cuesta esperar.
 
-El ritual nace después del Año Nuevo en Washington: la noche en que Kal viaja por una deuda con [[02_Characters/Anya_Voronina]] y Chiara entiende, con demasiada claridad, que amarlo también significa verlo elegir obligaciones que lo destruyen. Ver [[06_Relationships/Momentos_de_Fractura]], F4.
+El ritual nace después del Año Nuevo en Washington: la noche en que Kal viaja por una deuda (causa PENDIENTE de rediseño, 2026-11-07; antes [[97_Supersedido/Anya_Voronina|Anya Voronina (retirada)]]) y Chiara entiende, con demasiada claridad, que amarlo también significa verlo elegir obligaciones que lo destruyen. Ver [[06_Relationships/Momentos_de_Fractura]], F4.
 
-> **CANON DEL AUTOR (2026-09-26):** entre el 31 de diciembre y el 2 de enero de F4 (Libro II) está **la única vez en la saga en que Chiara deja de cuidar su imagen**: un chongo improvisado, el maquillaje corrido y nada de glamour. Kal vuelve y la encuentra así. Ver [[02_Characters/Anya_Voronina]].
+> **CANON DEL AUTOR (2026-09-26):** entre el 31 de diciembre y el 2 de enero de F4 (Libro II) está **la única vez en la saga en que Chiara deja de cuidar su imagen**: un chongo improvisado, el maquillaje corrido y nada de glamour. Kal vuelve y la encuentra así. Ver [[97_Supersedido/Anya_Voronina]].
 
 ### Las cartas — CANON DEL AUTOR (2026-08-26), BASE DE ARCO RESERVADO
 
@@ -427,7 +427,7 @@ Halbrook la reconoce muy pronto como algo más que "la mujer de Kal": Kal genera
 - [[02_Characters/Nadir_Amrani]] — amigo íntimo de Kal, querido y respetado en todo el barrio por honesto, leal y protector. La relación empieza incómoda: Nadir desconfía de ella **antes de conocerla** — no por celos, sino por proteger a Kal —, y Chiara lo tolera porque sabe que forma parte de su vida. Kal intenta convencerlo de que ella no es ni importante ni descartable; Nadir no lo acepta.
 - **[[02_Characters/Andrew_Callahan]]** — agente especial supervisor federal. Entra cuando la organización de Kal escala a nivel internacional; representa una herida federal anterior aunque quizá no la haya causado personalmente.
 - **[[02_Characters/Garrett_Cross]]** — administrador financiero de El Patio. Colabora con ella en el casino para que el dinero tenga una versión pública creíble.
-- **[[02_Characters/Anya_Voronina]]** — contacto rusa de Kal y amor pasado de Afganistán. No es rival simple; es la prueba de que Chiara no fue la primera mujer que conoció a Kal, sino la primera que lo hizo creer.
+- **[[02_Characters/Dana_Collins]]** — la teniente de la VED, ex amante de Kal (CANON DEL AUTOR, 2026-11-07; sustituye a Anya). Chiara la conoce de vista y la ve buscar a Kal en el Monarch (Cap. 40). No es rival simple; es la prueba de que Chiara no fue la primera mujer que conoció a Kal, sino la primera que lo hizo creer.
 - **[[03_Factions/Cross_River_Consolidated]]** — estructura financiera que necesita de su talento para el relato: no basta mover dinero, hay que hacerlo parecer inevitable.
 - **[[03_Factions/Red_Civil_de_Chiara]]** — su red de chismes e información dirigida. No es una red formal de espías; es la ciudad civil hablando antes de convertirse en noticia o expediente.
 - **[[05_Locations/Bellandi_Ridge_Vineyards]]** — sus viñedos en el norte. Propiedad legítima, apellido materno hecho lugar y puente hacia el mundo rural de San Aurelio.

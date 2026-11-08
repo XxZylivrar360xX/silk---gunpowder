@@ -2,6 +2,8 @@
 
 *Ficha de Facción — organización menor del norte*
 
+> **CANON DEL AUTOR (2026-11-07), Guerra de los Tres:** neutral; vende a quien pague. Cross River lo absorbe después. Ver [[03_Factions/Mapa_de_Conflicto_Activo#Bandos en la Guerra de los Tres (*Voto de Ceniza*) — CANON DEL AUTOR (2026-11-07)]].
+
 **Qué es:** red de chatarra industrial, bodegas grises y refinerías muertas en Los Álamos.  
 **Territorio:** norte de [[05_Locations/San_Aurelio]], Los Álamos.  
 **Cabeza:** Morris Vale.  

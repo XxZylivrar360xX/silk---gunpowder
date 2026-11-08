@@ -2,6 +2,8 @@
 
 *Ficha de Facción — organización menor del norte*
 
+> **CANON DEL AUTOR (2026-11-07), Guerra de los Tres:** bando de Kal. Ver [[03_Factions/Mapa_de_Conflicto_Activo#Bandos en la Guerra de los Tres (*Voto de Ceniza*) — CANON DEL AUTOR (2026-11-07)]].
+
 **Qué es:** circuito de carreras, apuestas, pilotos y rutas rurales del norte.  
 **Territorio:** norte rural de [[05_Locations/San_Aurelio]], carreteras secundarias, Kingsley Field y taller ilegal del norte.  
 **Cabeza:** Evan "Ace" Monroe.  

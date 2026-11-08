@@ -296,7 +296,7 @@ Rasgos de comportamiento fijados, funcionan como termómetro emocional del repar
 - **Juega sin reservas con Kal** desde que lo conoce, pese a no tener motivo aparente para confiar en él tan rápido — reconoce a la familia antes de que se lo digan.
 - **Solo deja que Erin le acaricie la panza** — ni siquiera Elenna tiene ese privilegio. Refuerza, sin necesidad de diálogo, que Erin ocupa un lugar único y confiable en la vida de Elenna.
 - **Hospital (disparo de Elenna, apertura de *Camino a Casa*, VII):** Rex, de gran tamaño, duerme en la cama con ella. Cuando los médicos intentan sacarlo, los chantajea con ojos de canica y orejas hacia atrás — no cede fácil, y nunca duda en proteger a Elenna cuando hace falta. Ver escena faro 2 en [[07_Ideas/Libro_04_Incubadora/06_Escenas_Faro]].
-- **Aeropuerto (despedida):** Kal puede bromear que se va tranquilo sabiendo que Elenna está bien cuidada — no necesariamente por el capitán (Nicholas). El chiste es sobre Rex. Ver escena faro 3 en [[07_Ideas/Libro_04_Incubadora/06_Escenas_Faro]].
+- **Aeropuerto (despedida):** Kal puede bromear que se va tranquilo sabiendo que Elenna está bien cuidada — no necesariamente por el jefe (Nicholas, Jefe de Policía desde el V). El chiste es sobre Rex. Ver escena faro 3 en [[07_Ideas/Libro_04_Incubadora/06_Escenas_Faro]].
 
 ## Foto de Tres Hermanas
 

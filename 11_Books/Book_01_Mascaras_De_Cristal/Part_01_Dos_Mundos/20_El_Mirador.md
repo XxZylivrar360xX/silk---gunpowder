@@ -1,32 +1,20 @@
 <!--
-Renumerado 2026-11-01 (decisión del autor, carretera del Libro I): antes Cap. 24.
-Renumerado 2026-10-22 (decisión del autor): antes Cap. 20; numeración corrida definitiva, el archivo conserva su nombre.
-Retitulado 2026-10-21 (decisión del autor; ver [[11_Books/Book_01_Mascaras_De_Cristal/00_Propuesta_Titulos]]): antes «El mirador».
-PUESTA EN ESCENA (2026-10-06, encargo del autor, [[13_Auditorias/Book_01_Mascaras_De_Cristal/Plan_Puesta_En_Escena_Libro_I]]; DISEÑO pendiente de lectura): el mirador ya muestra la postal. Último apartadero sin alumbrado y grava; vista orientada con landmarks canon (Distrito Marino a la derecha sobre la costa y, desde el mapa definitivo del 2026-10-06, las torres de Punta Dorada en La Isla; Calle Corona, La Almendra y las vías, grúas del Puerto Viejo, el mar negro al oeste); se sientan en la grava fría junto al borde de piedra; el motor se enfría (tictac) y después se calla, marcando el tiempo; viento seco de arriba. Kal habla de Dale y Ruth mirando abajo, hacia las vías (antes, "el cielo"); Chiara mira arriba en las constelaciones. Supersede la nota de 2026-09-07 ("el mirador NO se tocó, el autor lo considera perfecto") por decisión del autor. Diálogo intacto.
-Cirugia de dialogo K/C (2026-10-04, autorizada por el autor sobre capitulo TERMINADO; DISEÑO pendiente de lectura): bolera reescrita (460 -> 815 palabras) + cena en la banca de la playa (~270 palabras; costumbre de contarle el dia, CANON del ritual, invertida: ella estuvo en el dia) segun [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Dialogo_Kal_Chiara_Parte_I]] §7; "Bochas y orgullo" -> "las juegan los viejos"; penthouse "Lo se. Por eso te lo dije yo primero" -> "No. Pero ibas a dejar que lo dijera yo" (rompe el molde repetido del mirador). Drift, mirador, baile, beso, "¿Seguro? / Llevo meses seguro" y cierre intactos.
-Estado previo: TERMINADO (aprobado por el autor 2026-09-12, tras CLOSE con Gates A-F verdes; ver 98_Agent_Handoff/sessions/2026-09-12_claude_close_c21_el_mirador.md). Deuda documental no bloqueante conservada: H11 (penthouse) en Hitos.md todavia describe el beso en el sofa; la prosa vigente lo sitúa de pie, tras el baile, junto al espejo del recibidor. SINCRONIZADA (verificado en housekeeping 2026-09-26: Hitos H11, seccion El penthouse, ya describe el beso de pie tras el baile junto al espejo). Cirugia editorial 2026-09-27 (Prioridad C, lote B E3, autorizada por el autor, sigue TERMINADO): un solo corte, la relativa "que habia cuidado durante meses" en el penthouse (la frase queda sola en el baile). S4 (casi-confesion, hilo A) ya existe en "la verdad de lo pequeno" y se protege sin anadir nada; 20:218 se conserva. Ver 13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Caps_08_18-24_Lote_B.md §9.
-Escenas eliminadas, costura (2026-10-31, DECISIÓN DEL AUTOR; prosa DISEÑO pendiente de lectura; sigue TERMINADO): al salir el Cap. 23 (archivo 19, *Lo que nadie estaba mirando*), el recuento del día de Kal en la banca absorbe su carga mínima: Kal ya compró las doce hectáreas del norte y Harper dejó la barra de Mabel para trabajarlas. Lo sostiene la línea de Harper en el archivo 31 («antes de que salga de la parcela»).
-Protagonistas: Kal Mercer, Chiara Bellandi.
-Ventana temporal: despues del Capitulo 18 (H4, el dia nublado) y de la compra de la parcela (antes Capitulo 19, Tierra buena; hoy en Escenas eliminadas). Reordenado el 2026-08-29: H11 pasa a ir DESPUES de H10 y H4; renumerado varias veces, la ultima el 2026-09-07 al insertar el Capitulo 19 nuevo (Tierra buena).
-Lugares: bolera de la playa, carretera del norte, El Mirador, The Monarch Casino & Hotel / El Penthouse.
-Cirugia 2026-10-28 (lectura de ChatGPT, aprobada por el autor; sigue TERMINADO, prosa nueva DISEÑO pendiente de lectura): el drift es derrape ("la cola se solto y el auto bajo la curva entera de lado"), no trompo; la rosa blanca la deja Kal ("el se habia quedado a dejarle a Ruth"), no Walt. Glosa de la seguridad protegida. Puente al Cap. 24 PENDIENTE de idea del autor. Sesion: 98_Agent_Handoff/sessions/2026-10-28_claude_surgery_cap23_lo_pequeno.md
-Cementerio en el mirador (2026-10-08, orden del autor sobre capitulo TERMINADO; el estado se conserva; prosa DISENO pendiente de lectura): dentro del resumen indirecto de Dale y Ruth, antes del recuerdo canon ("El unico recuerdo que tengo de los dos juntos"), Kal cuenta que el dia que salio Walt le dejo a Ruth una rosa blanca y que la lapida de Dale no la toco. Paga el salto del Cap. 3 ("Tardo en volver al coche").
-Funcion: ejecutar H11 — la primera vez que Kal y Chiara tienen intimidad. Bolos, el drift, el mirador (Kal rompe su regla de nunca hablar de Dale y Ruth Mercer), y el penthouse.
-Version expandida (2026-09-07), a peticion del autor: la bolera gana cuerpo real -- diálogo, apuestas tontas, risa compartida, el permiso mutuo de portarse como adolescentes sin nadie que necesite nada de ninguno de los dos. El drift y el mirador NO se tocaron -- el autor los considera ya perfectos. El penthouse se expande en tres direcciones: ambiente (la luz ambar, la ciudad de noche, el gesto de Kal quitandose la chaqueta como en su propia casa), seguridad entre ambos (verbalizada al final: "la seguridad que habian estado construyendo... ya era suficientemente fuerte como para sostener esto tambien"), y la quimica/magia de los dos en prosa por primera vez (el intercambio "¿Seguro?" / "Llevo meses seguro", la risa que rompe la ultima calma de Chiara). Se planta el vino rosado (regla nueva de Chiara: tinto siempre, blanco para cocinar, rosado = "animada") en los dos momentos donde antes decia solo "vino", ya que esta es la noche exacta a la que esa regla aplica.
-Apertura por residuo (reescrita 2026-08-29, triaje PROSA-B): abre con el residuo del Capitulo 18 (H4, el dia nublado) — lo que Chiara le conto del exmarido, lo que Kal entendio sin que ella lo dijera y no ha vuelto a tocar, y la ficcion de "somos solo buenos amigos". El Cap. 19 (Tierra buena) es lateral y no genera residuo directo aqui. Ver [[06_Relationships/Hitos]], H11 y la politica de apertura por residuo.
-Ajuste (2026-09-09, a peticion del autor): el detonador del primer beso pasa de "la risa que rompe la ultima calma" a un baile lento. Kal se levanta (lee como su tic de no saber estarse sentado), cambia Fade Into You por Come Away With Me de Norah Jones, le tiende la mano; el espejo del recibidor los agarra como eco del espejo de la boutique en el Cap. 18; baile casi inmovil ("no es para bailar"), la distancia cuidada durante meses se cierra sola, y al terminar la cancion viene el mechon, el roce en la mejilla y el primer beso. La risa de Kal se conserva pero ya no detona: ahora afloja la escena. Aplica el registro privado de la pareja -- ver [[12_Craft_Policies/Redaccion_De_Capitulos]] ("Registro privado de Kal y Chiara") y [[06_Relationships/Kal_y_Chiara]] ("El registro privado"). El intercambio "¿Seguro?" / "Llevo meses seguro" y el cierre de la luz en la ventana no se tocaron.
-Regla de dialogo 05 (2026-10-28, encargo del autor sobre capitulo TERMINADO; el estado se conserva; prosa DISENO pendiente de lectura; ver [[98_Agent_Handoff/sessions/2026-10-28_claude_regla05_lo_pequeno_cap23]]): bolera -- Chiara pierde el turno de los zapatos (gesto con la agujeta); fuera el eco "Esa si" (Kal senala el cero en la pantalla); fuera el eco "Fue suerte / Pero cuenta" (Kal no la oye, va a ver su siete); fuera "Tu me trajiste a mi / Pues por eso". Intactos: drift, mirador, elevador, "Eres lo mejor que he visto en una", "Te gane / Me ganaste", la playa, el penthouse, "No es para bailar", "¿Seguro? / Llevo meses seguro".
-Correcciones editoriales (2026-09-10, reporte Codex del 2026-09-09, secciones 1-2 + dos pendientes): errores de linea (marcador, chuza, "cuatro pinos cayeron"); sonrisa que Chiara no calcula descrita una sola vez (se abrevio el segundo inciso, dialogo canon intacto); bunker del "quinto hoyo" -> "octavo hoyo" (cotejo con Cap. 18); botella del penthouse reformulada como la comprada esa noche; intercambio inicial "Estas en otro lado" anclado en el casino. Pendiente de seguridad "verbalizada al final" RESUELTO (decision del autor): se conserva el nucleo ("la seguridad que habian estado construyendo... sostener esto tambien") y se podo la redundancia de alrededor ("llevaban meses siendo cuidadosos...", "certeza tranquila... ya habian decidido semanas atras"). Drift RESUELTO (decision del autor): manda la prosa; se sincronizo la tabla de H11 en Hitos.md al intercambio de dos replicas (Kal abre, Chiara voltea).
-Seccion 3 del reporte (poda de glosas) EJECUTADA (2026-09-10, decision del autor): bolera -- fuera "la clase de victoria pequena... valia mas que cualquier negocio cerrado", "orgullosa de algo que no tenia nada que ver con dinero ni con poder" y el remate "dejo de importarle perder" (el juego, las apuestas y las risas se conservan); penthouse -- fuera "no le hizo falta preguntar que significaba / algunas cosas no necesitaban traduccion" y "dos copas que ninguno de los dos iba a terminar"; baile -- fuera "dos personas que negociaban con criminales para vivir y no sabian que hacer con tres minutos de musica lenta" (mano, torpeza y balanceo intactos). L218: retirada "Camino hacia atras" -- queda "Le tomo la mano. Kal la siguio..." sin movimiento anadido, como pedia el reporte.
-Cierre 2026-10-28 (CANON DEL AUTOR, en sesion): Chiara dice "*Vieni.*" al tomarle la mano, antes del trayecto a la habitacion; sin glosa ni traduccion. Ver [[98_Agent_Handoff/sessions/2026-10-28_claude_surgery_cap23_lo_pequeno]].
-Hilo del Tasador (2026-11-01, DECISIÓN DEL AUTOR; prosa DISEÑO pendiente de lectura): en el recuento del día, la vulcanizadora "desde la cuota nueva cerraba a las seis y ya no fiaba" (saldo de la cuota del Cap. 13).
+Reconstruido 2026-11-08, Fase 4 del nuevo cauce (nuevo Cap. 18, T6, POV Kal): [[11_Books/Book_01_Mascaras_De_Cristal/00_Plan_Nuevo_Cauce]] y [[11_Books/Book_01_Mascaras_De_Cristal/00_Mapa_Cauce_Cap11_Camp_Alder]] (fila del 18: «Funde» *Lo pequeño* y *El primer huésped*; el 21 cierra el 20 la misma madrugada, y Kal ve que Marisol se abre con Chiara y no con él). Plan: [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/00_Plan_Cap18_Lo_Pequeno_POV_Kal]]. Versiones anteriores íntegras (TERMINADAS desde 2026-09-12, con su historial de cirugías): [[11_Books/Book_01_Mascaras_De_Cristal/Escenas_Eliminadas/20_El_Mirador_Version_2026-11-08]] y [[11_Books/Book_01_Mascaras_De_Cristal/Escenas_Eliminadas/21_El_Primer_Huesped_Version_2026-11-08]] (git `1d6d621`). El archivo 21 queda como marcador.
+Decisiones del autor para esta reconstrucción (2026-11-08, las cuatro en la opción recomendada): en el mirador Kal dice lo que el nuevo 14 no tiene (el juego de Dale, Ruth perdiéndose detrás, la rosa blanca y la lápida) y del balcón sólo queda «El único recuerdo que tengo de los dos juntos es el día que se lo llevaron», sin volver a narrarlo; la luz de H11 se apaga desde dentro (Chiara apaga la lámpara y el vidrio deja de devolver las dos siluetas), y a las tres la pantalla del teléfono enciende el cuarto; en el loft Kal va por algo frío y desde la cocina ve que Marisol le cuenta a Chiara lo que a él no, con «Yo tardé más que tú» oído por él y dejado donde ella lo puso; el imán, pasado a la guantera del Audi, sale a las tres buscando servilletas, Chiara lo pide con la palma hacia arriba y lo pega en el refrigerador del loft; coda corta del sábado que cierra en «Volvemos adentro».
+Estado: BORRADOR. Prosa DISEÑO pendiente de lectura del autor. Se conservan literales el drift, «Para eso estoy yo. Para enseñarte», «Mis padres. Dale y Ruth», «Es una familia rota. La que yo tengo», «Por no decírmelo bonito», la regla de lo pequeño, «No es para bailar», «¿Seguro?» / «Llevo meses seguro», «*Vieni.*», «Voy contigo», «Espera a que ella quiera contarlo», el pómulo, «Porque es feo» / «Por eso», «Es la única promesa que me queda de mi pasado que no quiero fallarle», «Roncabas. ¿Me equivoco, Chiara?» / «Sin duda alguna, bambina», «Papá», «Volvemos adentro». Numeración: el encabezado sigue diciendo «Capítulo 20» hasta renumerar la Parte I al cerrarla.
+Protagonistas: Kal Mercer (POV), Chiara Bellandi, Marisol Grayson. Apariciones: el muchacho de la bolera, la señora de la pista de al lado, una amiga de Marisol (sin nombre). Mencionados: Diego, Dale y Ruth Mercer, Walt, Harper, Michael.
+Ventana temporal: días después del nuevo 17 (H4) hasta un viernes por la noche; la madrugada del sábado y la mañana del sábado. Después de H4, antes de H13 (*Grazie*).
+Lugares: la bolera de la playa y el malecón, la carretera del norte, el último mirador, The Monarch / el penthouse, el club del sector sur de La Isla, La Casa (el loft de Kal).
+Función: ejecutar [[06_Relationships/Hitos]] (#H11 — El mirador) en un solo POV y cobrar el imán del nuevo 14. La primera noche se interrumpe a las tres; Kal ve que Marisol lo llama a él y se abre con Chiara, y la noche vuelve a empezar en «Volvemos adentro».
 -->
 
 # Capítulo 20 — Lo pequeño
 
 El día nublado no volvió a mencionarse entre ellos, pero tampoco se fue del todo.
 
-Kal lo notaba en los ratos raros — parado frente a una grúa, a mitad de una llamada, en la fila de la comisaría—: la tarde del campo de golf volviendo sin avisar. No la parte del final, la del hombro y la mano y quedarse dormidos en el sofá como dos que no tienen dónde más caerse; esa se la quedaba entera y sin problema. Volvía la otra parte: lo que ella le había contado entre el búnker del octavo hoyo y el aparcamiento del casino, y lo que él había entendido sin que ella lo dijera. Kal no lo había vuelto a tocar. Ni una palabra. Y no le pesaba tanto como debería, que era lo que más lo molestaba.
+Kal lo notaba en los ratos raros —parado frente a una grúa, a mitad de una llamada, en la fila de la comisaría—: la tarde del campo volviendo sin avisar. No la parte del final, la del hombro y la mano y el sofá con la lluvia; ésa se la quedaba entera y sin problema. Volvía la otra: lo que ella había contado entre el búnker del octavo hoyo y la rampa del casino, y lo que él había entendido sin que ella lo dijera. No lo había vuelto a tocar. Lo había decidido junto al lago y lo cumplía como cumplía sus reglas, sin pensarlo dos veces, y lo único que le molestaba era lo poco que le costaba.
+
+El imán tampoco lo había entregado. Lo había pasado de la guantera de la camioneta a la del Audi la tarde antes del golf, envuelto todavía en la servilleta, para tenerlo a mano. Desde entonces había subido dos veces al penthouse con la manzana a medio metro, y las dos veces la había dejado ahí.
 
 Chiara lo notó una noche en el casino, antes de que él dijera nada.
 
@@ -36,7 +24,7 @@ Chiara lo notó una noche en el casino, antes de que él dijera nada.
 
 —Estás aquí y en otro lado.
 
-No discutieron eso. Semanas de *somos sólo buenos amigos* dichas en voz alta a quien preguntara, y por debajo esto: una tarde gris que ninguno nombraba y que seguía ahí, entera, entre los dos.
+No discutieron eso. A quien preguntara, eran buenos amigos; nadie había vuelto a decir *cita*, y por debajo seguía la tarde gris, entera, entre los dos.
 
 Fue ella la que llamó dos días después, sin excusa de negocios, sin pretexto de casino.
 
@@ -56,7 +44,7 @@ El muchacho del mostrador les cambió los zapatos sin levantar la vista. Chiara 
 
 —Sin zapatos no tiras.
 
-Chiara levantó uno por la agujeta, a la altura de los ojos de Kal, como prueba de algo.
+Chiara levantó uno por el cordón, a la altura de los ojos de Kal, como prueba de algo.
 
 —Póntelos, Bellandi.
 
@@ -74,7 +62,7 @@ Chiara tiró la primera bola con la misma seriedad con la que firmaba un contrat
 
 Kal le señaló la pantalla con la barbilla: un cero amarillo, de un palmo de alto, junto al nombre de ella.
 
-Kal tiró después, sin ninguna técnica visible, y tumbó siete pinos por pura suerte de brazo. Levantó los dos puños como si acabara de ganar un campeonato.
+Tiró después, sin ninguna técnica visible, y tumbó siete pinos por pura suerte de brazo. Levantó los dos puños como si acabara de ganar un campeonato.
 
 —¡Siete! ¿Viste eso? ¿Lo viste?
 
@@ -82,7 +70,7 @@ Kal tiró después, sin ninguna técnica visible, y tumbó siete pinos por pura 
 
 Kal no la oyó. Se había ido hasta la pantalla a ver el siete escrito junto a su nombre.
 
-Ella tiró de nuevo. Canal. Otra vez, canal. Para la cuarta bola ya se estaba riendo de sí misma, algo que Kal no recordaba haberla visto hacer nunca — reírse de perder, no de ganar.
+Ella tiró de nuevo. Canal. Otra vez, canal. Para la cuarta bola ya se estaba riendo de sí misma, algo que Kal no recordaba haberle visto nunca: reírse de perder, no de ganar.
 
 —Eres malísima.
 
@@ -92,7 +80,7 @@ Kal se paró detrás de ella. Le acomodó el brazo con los dedos y, con la otra 
 
 —Apunta a la flecha, no al pino. La bola hace el resto.
 
-Chiara tiró. Cuatro pinos cayeron.
+Chiara tiró. Cayeron cuatro pinos.
 
 —¡Cuatro! —Se giró con las dos manos arriba—. ¡Cuatro, Kal!
 
@@ -148,7 +136,7 @@ Kal se quedó con la hamburguesa a medio camino.
 
 —No en todo. Cuéntamelo igual.
 
-Se lo contó igual. Un Buick con el cárter partido en la Novena antes de las ocho. La vulcanizadora de la Novena, que desde la cuota nueva cerraba a las seis y ya no fiaba. Harper, en su primera semana fuera de la barra de Mabel, caminando las doce hectáreas del norte y llamándolo a mediodía para decirle que la tierra era buena y el agua no era suya. Walt llamándolo dos veces para preguntarle cómo se mandaba una foto, y la foto, al final, del techo de la destilería. Y en la noche una mujer que le ganó en los bolos con zapatos rentados, después de tirar cinco bolas seguidas al canal.
+Se lo contó igual. Un Buick con el cárter partido en la Novena antes de las ocho. La casa de repuestos de la Novena, que desde la cuota nueva cerraba a las seis y ya no fiaba. Harper, en su primera semana fuera de la barra de Mabel, caminando las doce hectáreas del norte y llamándolo a mediodía para decirle que la tierra era buena y el agua no era suya. Walt llamándolo dos veces para preguntarle cómo se mandaba una foto, y la foto, al final, del techo de la destilería. Y en la noche una mujer que le ganó en los bolos con zapatos rentados, después de tirar cinco bolas seguidas al canal.
 
 —Tres.
 
@@ -168,6 +156,8 @@ Kal le quitó la malteada y le dio un trago largo.
 
 Compraron una botella de vino rosado de camino al auto, sin razón particular, porque la noche todavía no quería terminar y ninguno de los dos lo dijo en voz alta.
 
+***
+
 Volvían al casino por la carretera del norte, con las ventanas bajas y la ciudad apagándose despacio a los costados, cuando Chiara soltó el comentario sin pensarlo demasiado.
 
 —Eso de driftear en las curvas es cosa de jóvenes locos.
@@ -182,9 +172,9 @@ Se giró hacia ella con una mirada de incredulidad tan bien fingida que por un s
 
 —No me digas que tú...
 
-—No me digas *tú* que no —contestó ella, y ahí fue cuando entendió que había cometido un error.
+—No me digas *tú* que no —contestó ella, y Kal vio el momento exacto en que se oyó: abrió la boca para retirarlo, y él ya estaba metiendo primera.
 
-Kal no dijo nada más. Metió primera, tomó la curva siguiente a una velocidad que no correspondía, la cola se soltó y el auto bajó la curva entera de lado, sin tocar una sola vez el borde del camino. Chiara se agarró del tapete —figurativamente, porque no había nada físico de qué agarrarse, y aun así se agarró.
+No dijo nada más. Tomó la curva siguiente a una velocidad que no correspondía, la cola se soltó y el auto bajó la curva entera de lado, sin tocar una sola vez el borde del camino. Chiara se agarró del tapete, o de algo que no había, con las dos manos.
 
 Kal enderezó el auto al final de la curva como si no hubiera pasado nada.
 
@@ -194,11 +184,11 @@ Kal enderezó el auto al final de la curva como si no hubiera pasado nada.
 
 —No importa. —Y por primera vez en la noche no sonaba a broma—. Para eso estoy yo. Para enseñarte.
 
-Cambiaron de asiento. Le costó dos intentos malos y uno bueno. Al tercero, el auto giró limpio, y por un segundo, con las manos todavía compartiendo el volante, quedaron tan cerca que cualquiera de los dos podría haber cerrado la distancia.
+Cambiaron de asiento. Él, que no le soltaba el volante a nadie, se sentó a la derecha y le acomodó las manos sobre el aro. Le costó dos intentos malos y uno bueno. Al tercero, el auto giró limpio, y por un segundo, con las manos todavía compartiendo el volante, quedaron tan cerca que cualquiera de los dos podría haber cerrado la distancia.
 
 Ninguno lo hizo.
 
-Se sonrieron, nada más, y eso fue suficiente para que los dos supieran que algo acababa de correrse de lugar.
+Se sonrieron, nada más, y con eso supieron los dos que algo acababa de correrse de lugar.
 
 ***
 
@@ -216,21 +206,21 @@ Se sentaron en el suelo, sobre la grava fría, a un paso del borde bajo de piedr
 
 —Todavía las recuerdo. Eso ya es algo.
 
-Kal no dijo nada por un rato. Después, sin que ella se lo pidiera, empezó a hablar, y no era su voz de siempre.
+Kal no dijo nada por un rato. Abajo, entre la Almendra y las vías, había una calle que desde ahí no se distinguía de las otras, y él sabía cuál era sin buscarla. Después, sin que ella se lo pidiera, empezó a hablar, y no era su voz de siempre.
 
 —Mis padres. Dale y Ruth.
 
-No dijo mucho al principio. Que Dale nunca fue un padre amoroso — que nunca fingió serlo, tampoco — pero que le enseñó todo lo que sabía de sobrevivir en una calle que no perdonaba nada. Que Ruth sí lo fue. Que lo fue de verdad, hasta que el juego de Dale empezó a comérselo todo, y ella se fue perdiendo detrás de él, cubriéndolo, persiguiéndolo, hasta que no quedó mucho de la mujer que había sido — sólo la sombra, todavía moviéndose. Que el día que salió Walt, mientras los demás volvían a los coches, él se había quedado a dejarle a Ruth una rosa blanca. Que la lápida de Dale, al lado, no la tocó. Ni la grava de ese lado.
+No dijo mucho al principio. Que Dale nunca fue un padre amoroso, que nunca fingió serlo tampoco, pero que le enseñó todo lo que sabía de sobrevivir en una calle que no perdonaba nada. Que lo que Dale quería de verdad era el juego, cualquier mesa donde se pudiera perder lo de la semana, y que lo perdía. Que Ruth sí fue una madre. Que lo fue de verdad, hasta que el juego de Dale empezó a comérselo todo y ella se fue perdiendo detrás de él, cubriéndolo, persiguiéndolo, pagándole lo que debía con lo que no tenían, hasta que no quedó mucho de la mujer que había sido; sólo la sombra, todavía moviéndose. Que el día que salió Walt, mientras los demás volvían a los coches, él se había quedado a dejarle a Ruth una rosa blanca. Que la lápida de Dale, al lado, no la tocó. Ni la grava de ese lado.
 
-—El único recuerdo que tengo de los dos juntos —dijo, mirando abajo, hacia las vías, y no a ella— es el día que se lo llevaron. A él. Y ella arrastrándose detrás, en la calle, humillándose delante de todo el barrio para que no se lo llevaran.
+—El único recuerdo que tengo de los dos juntos —dijo, mirando abajo, hacia las vías, y no a ella— es el día que se lo llevaron.
 
-Chiara no dijo nada. No lo tocó todavía. Se quedó sentada a su lado, mirando lo mismo que él, dejando que el silencio hiciera lo que tenía que hacer. Detrás, el motor ya se había callado.
+No contó el resto. Lo tenía entero, la calle y los zapatos mal puestos y lo que vino después, y se lo quedó.
+
+Chiara no le dijo que lo sentía. No le buscó la mano. Se quedó sentada a su lado, mirando lo mismo que él, las vías y la cuadrícula sin nombres, con la atención con que se aprende una dirección que no se va a apuntar. Detrás, el motor ya se había callado.
 
 —Es una familia rota —dijo Kal al final, como si estuviera cerrando un expediente—. La que yo tengo.
 
-Chiara lo guardó. No como una anécdota — como algo que un día, si la vida se lo permitía, iba a devolverle en otra forma.
-
-—Gracias —dijo, sin más.
+—Gracias —dijo ella, sin más.
 
 —¿Por qué?
 
@@ -244,15 +234,15 @@ Kal la miró.
 
 ***
 
-Bajaron sin hablar mucho. En el elevador, ninguno de los dos preguntó nada — ni ella *¿quieres subir?*, ni él *¿quieres que suba?* Ya era una costumbre que no necesitaba palabras, y los dos lo registraron con la misma sonrisa leve, mirando al frente, mientras los números subían despacio y el silencio entre ellos dejaba de sentirse como espera y empezaba a sentirse como otra cosa.
+Bajaron sin hablar mucho. En el elevador, ninguno de los dos preguntó nada: ni ella *¿quieres subir?*, ni él *¿quieres que suba?* Ya era una costumbre que no necesitaba palabras, y Kal la vio registrarla en el reflejo de la puerta de acero con la misma sonrisa leve que él tenía, los dos mirando al frente mientras los números subían despacio.
 
-El penthouse los recibió oscuro, salvo por la ciudad entera encendida del otro lado del ventanal — San Aurelio de noche, toda luces y ningún ruido desde ahí arriba, como si el piso veintitantos tuviera el privilegio de ver el mundo sin tener que oírlo. Chiara no encendió las lámparas grandes. Dejó solo la de la esquina, ámbar y baja, la que usaba cuando no quería que un cuarto se sintiera como una oficina.
+El penthouse los recibió oscuro, salvo por la ciudad entera encendida del otro lado del ventanal: San Aurelio de noche, toda luces y ningún ruido desde ahí arriba. Chiara no encendió las lámparas grandes. Dejó sólo la de la esquina, ámbar y baja, la que usaba cuando no quería que un cuarto se sintiera como una oficina. Con esa luz el ventanal hacía de espejo a medias: la ciudad, y encima de la ciudad, ellos dos.
 
-Kal se quitó la chaqueta sin que se lo pidieran, con la misma naturalidad con la que un hombre se quita algo en su propia casa, y por primera vez en meses de subir y bajar a ese piso, a ninguno de los dos le pareció raro que lo hiciera.
+Kal se quitó la chaqueta sin que se lo pidieran, como se la habría quitado en su casa, y por primera vez en meses de subir y bajar a ese piso a ninguno de los dos le pareció raro.
 
-Chiara puso algo en el estéreo antes de servir — *Fade Into You*, de Mazzy Star, bajo, apenas por encima del silencio.
+Chiara puso algo en el estéreo antes de servir: *Fade Into You*, de Mazzy Star, bajo, apenas por encima del silencio.
 
-La botella que habían comprado era un Chiaretto de Bardolino, rosado de verdad — el que Chiara elegía solo para las noches que quería que fueran algo más que una cena. Sirvió dos copas y se sentó cerca de él —no pegada, pero sin la distancia de cortesía.
+La botella que habían comprado era un Chiaretto de Bardolino, rosado de verdad, el que Chiara elegía sólo para las noches que quería que fueran algo más que una cena. Sirvió dos copas y se sentó cerca de él, no pegada, pero sin la distancia de cortesía.
 
 —Tengo una regla —dijo, con la copa todavía en la mano, sin beber—. Nunca miento en lo pequeño.
 
@@ -264,33 +254,33 @@ La botella que habían comprado era un Chiaretto de Bardolino, rosado de verdad 
 
 —No. Pero ibas a dejar que lo dijera yo.
 
-Kal se rió, bajo, la clase de risa que no necesitaba salir completa para que ella la sintiera de todos modos. No dijo nada más. Se quedó un rato con la copa en la mano, mirando la ciudad del otro lado del ventanal, y cuando se levantó fue con el gesto de siempre: el del hombre que no sabe quedarse sentado cuando ya no hay nada que resolver.
+Kal se rió, bajo, una risa que no necesitaba salir completa. No dijo nada más. Se quedó un rato con la copa en la mano, mirando la ciudad, y cuando se levantó fue con el gesto de siempre: el del hombre que no sabe quedarse sentado cuando ya no hay nada que resolver.
 
 No fue hacia la ventana. Cruzó al estéreo, quitó a Mazzy Star —no por molestarla; la había oído entera— y puso otra cosa. *Come Away With Me*, de Norah Jones, al mismo volumen de casi nada. Esta vez la que no preguntó nada fue Chiara.
 
 Dejó la copa en la mesa. Se giró y le tendió la mano.
 
-El espejo largo junto a la puerta los agarró así: él de pie en mitad de la sala con el brazo estirado, ella todavía en el sillón. Chiara miró un segundo esa imagen —los dos, vistos desde fuera— antes de mirarlo a él. Después le tomó la mano y se dejó levantar.
+El espejo largo junto a la puerta los agarró así: él de pie en mitad de la sala con el brazo estirado, ella todavía en el sillón. Kal vio que ella se miraba ahí un segundo, los dos vistos desde fuera, antes de mirarlo a él. Después le tomó la mano y se dejó levantar.
 
 —No sé bailar esto —dijo.
 
 —No es para bailar.
 
-Y no lo era. Kal no la llevó a ninguna parte. Le apoyó la mano abierta entre los omóplatos, sin presión, y esperó a que ella hiciera algo con la suya; Chiara la subió despacio, del hombro al costado del cuello, y la dejó ahí. Se movían apenas —un balanceo corto, sin figura, sin cuenta de pasos—, más cerca de estarse quietos dentro de la canción que de bailarla. Los primeros compases fueron torpes; después dejó de importar. La distancia que habían cuidado durante meses se fue cerrando sola, centímetro a centímetro, sin que ninguno la empujara.
+Y no lo era. Kal no la llevó a ninguna parte. Le apoyó la mano abierta entre los omóplatos, sin presión, y esperó a que ella hiciera algo con la suya; Chiara la subió despacio, del hombro al costado del cuello, y la dejó ahí. Se movían apenas —un balanceo corto, sin figura, sin cuenta de pasos—, más cerca de estarse quietos dentro de la canción que de bailarla. Los primeros compases fueron torpes; después dejó de importar. La distancia se fue cerrando sola, centímetro a centímetro, sin que ninguno la empujara.
 
 La canción se acabó y ninguno se apartó.
 
-Kal le acomodó un mechón que se le había soltado, hacia la izquierda, y le pasó el dorso de los dedos por la mejilla, despacio, como si pidiera permiso. Chiara soltó el aire que llevaba rato sin soltar. Le salió la sonrisa que no calculaba, la misma que Kal ya había aprendido a distinguir de todas las demás.
+Kal le acomodó un mechón que se le había soltado, hacia la izquierda, y le pasó el dorso de los dedos por la mejilla, despacio, como si pidiera permiso. Chiara soltó el aire que llevaba rato sin soltar. Le salió la sonrisa que no calculaba, la que Kal ya había aprendido a distinguir de todas las demás.
 
-Se besaron —por fin, sin drift de por medio, sin curva que los salvara de tener que decidirlo. Llevaban meses aprendiéndose el uno al otro sin llamarlo así, y el beso lo notó: torpe apenas un segundo, y después no.
+Se besaron, por fin, sin drift de por medio, sin curva que los salvara de tener que decidirlo. Llevaban meses aprendiéndose el uno al otro sin llamarlo así, y el beso lo notó: torpe apenas un segundo, y después no.
 
-Chiara se apartó lo suficiente para mirarlo, buscando algo en su cara que ya sabía que iba a encontrar.
+Chiara se apartó lo suficiente para mirarlo.
 
 —¿Seguro?
 
 —Llevo meses seguro.
 
-—Yo también. —Sonrió—. Solo quería oírtelo decir.
+—Yo también. —Sonrió—. Sólo quería oírtelo decir.
 
 Le tomó la mano.
 
@@ -302,4 +292,212 @@ Lo que pasó después no necesitó testigos ni palabras que lo explicaran del to
 
 No hablaron más.
 
-Lo demás lo dijo la luz, apagándose detrás de la ventana del penthouse, vista desde la calle como cualquier otra luz de la ciudad que se apaga a esa hora sin que nadie abajo se detenga a preguntar por qué.
+Mucho después, Chiara estiró el brazo hacia la lámpara de su mesa de noche, la única que había quedado encendida, y la apagó. En la ventana se apagaron con ella las dos siluetas que el vidrio les había estado devolviendo, y quedó la ciudad sola, una luz más de las que se apagan a esa hora sin que nadie abajo se detenga a preguntar por qué.
+
+***
+
+El teléfono sonó a las tres y algo de la madrugada. La pantalla encendió lo poco que había entre la cama y la puerta: un calcetín oscuro en el suelo, doblado sobre sí mismo; más arriba, colgado de la lámpara de la mesa de noche de Chiara, un sostén negro de encaje; del lado de Kal, junto al teléfono, un ladrillo. El resto del penthouse seguía a oscuras.
+
+Kal ya tenía el aparato en la mano antes del segundo timbre, con un reflejo que no le pertenecía a un hombre recién dormido.
+
+—¿Marisol?
+
+La voz del otro lado llegó rota, entre hipo y palabras que no terminaban de armarse.
+
+—Kal... ¿puedes venir por mí?
+
+No hizo falta que dijera más. Kal conocía ese temblor, y lo puso de pie.
+
+—¿Dónde estás?
+
+Le dio el nombre de un club que Kal no conocía. Colgó antes de que él alcanzara a preguntar algo más.
+
+Buscaba el pantalón en el suelo cuando Chiara se movió.
+
+—¿Está todo bien?
+
+—Marisol llamó. Me necesita.
+
+Chiara ya se estaba sentando, apartando las sábanas.
+
+—Voy contigo.
+
+Kal ya estaba sentado en el borde de la cama, inclinado sobre las botas. Ella se levantó, le dio la espalda y estiró el brazo hacia la lámpara; el cabello se le fue hacia un hombro.
+
+Kal levantó la vista apenas. Tenía unos lunares pequeños que empezaban a la altura de los omóplatos y seguían, dispersos, por el centro de la espalda. No los conocía.
+
+Volvió a los cordones.
+
+—No hace falta.
+
+—Kal. —Lo dijo sin levantar la voz, abrochándose a ciegas—. Llevas media botella de rosado encima y estabas dormido hace treinta segundos. No vas a manejar así con ella también en el auto.
+
+Kal le pasó las llaves.
+
+***
+
+Chiara manejó los quince minutos hasta el club, en el sector sur de La Isla. Kal iba en el asiento del copiloto, con las manos apretadas sobre las rodillas, sin prestarle atención a la radio que él mismo había encendido bajo para llenar el silencio con algo que no fuera miedo. Cada semáforo en rojo se le hizo más largo que el anterior.
+
+Encontraron a Marisol sentada en el bordillo, fuera del club, con los brazos cruzados sobre las rodillas y una amiga a su lado que se despidió con un gesto de alivio en cuanto vio el Audi. Tenía el rímel corrido en un solo lado de la cara y un golpe rojo que ya empezaba a hincharse en el pómulo.
+
+Kal bajó antes de que Chiara apagara el motor.
+
+—¿Qué pasó? ¿Quién te hizo eso?
+
+—Kal.
+
+Chiara no levantó la voz. Le puso una mano en el brazo, apenas, y con eso bastó.
+
+—Espera a que ella quiera contarlo.
+
+Marisol se subió atrás, detrás de Chiara, y se hizo un ovillo contra la puerta. En el primer semáforo Kal abrió la guantera buscando servilletas para el rímel y sacó el bulto de papel sin pensar. Al desenvolverlo le quedó en la mano la manzana roja, brillando con el rojo del semáforo.
+
+Le pasó la servilleta por encima del asiento. Marisol se limpió la cara y se quedó mirando la manzana.
+
+—¿Todavía no se lo diste?
+
+Fue lo primero que dijo desde el bordillo, con la nariz tapada.
+
+—Era para Chiara —dijo Kal.
+
+—Eso ya lo sé. ¿Y por qué sigue ahí?
+
+—Porque es feo.
+
+—Por eso.
+
+Chiara no apartó los ojos del semáforo. Soltó la mano derecha del volante y la extendió hacia él con la palma hacia arriba, como frente al mostrador de la bolera. Kal le puso la manzana ahí. Ella la miró por los dos lados con la luz roja encima, la leyó, *Lake Meriwether*, y se la guardó en el bolsillo del abrigo. El semáforo cambió.
+
+Marisol no dijo nada más en el resto del camino, y Chiara no la presionó ni una sola vez. En cada semáforo en rojo, con el Audi detenido, estiraba una mano hacia atrás, sin girarse del todo, hasta que en alguno Marisol terminó por tomarla, sin que nadie lo comentara.
+
+***
+
+Marisol miró la casa un segundo de más antes de dejarse caer en el sofá —el vacío de doble altura, la escalera abierta, el mezzanine suspendido sobre la sala—, como si el espacio la hubiera distraído un instante de lo que traía encima. Era la primera vez que entraba ahí.
+
+Chiara fue directo a la cocina y encontró las tazas al segundo intento. Puso agua a calentar. Mientras esperaba, se sacó la manzana del bolsillo y la pegó en la puerta del refrigerador, a la altura de los ojos, y no la volvió a mirar. Marisol la siguió con la vista desde el sofá y no dijo nada.
+
+Kal se sentó frente a Marisol, con las manos entre las rodillas.
+
+Marisol se abrazó las piernas contra el pecho, mirando un punto fijo en la alfombra como si ahí estuviera escrito el orden correcto para contar lo que había pasado.
+
+—Marisol...
+
+—Diego tenía novia.
+
+Lo dijo de golpe, a la pared, no a ninguno de los dos en particular.
+
+—Nunca me lo dijo. Todo este tiempo, el café, las clases, todo, y nunca... —Se le quebró la voz—. Ella se enteró. Vino al club esta noche. Me agarró del pelo delante de todo el mundo, delante de gente de la universidad, me dio una bofetada y me dijo cosas que no voy a repetir, y yo no hice nada, Kal, me quedé ahí parada como una idiota mientras media pista me miraba.
+
+Kal abrió la boca. Chiara, que ya volvía con la taza, negó con la cabeza una sola vez, casi imperceptible, y él la cerró.
+
+Chiara se sentó al otro lado de Marisol y le puso la taza entre las manos.
+
+—Algo frío, Kal.
+
+No tenía hielo. Nunca tenía hielo. En el fondo del congelador encontró una bolsa de maíz congelada de quién sabe cuándo, la envolvió en un trapo y, mientras buscaba el trapo, oyó a Chiara desde el sofá.
+
+—¿Te duele mucho la cara?
+
+—Más el orgullo.
+
+Cuando volvió, Chiara le había girado la barbilla a Marisol hacia la lámpara con dos dedos, sin pedir permiso, y miraba el pómulo de cerca.
+
+—Sin anillo. Mañana va a estar morado, no abierto. —Le soltó la barbilla—. ¿Alguien grabó?
+
+Marisol tardó en entender la pregunta.
+
+—No sé. Creo que no.
+
+—Si alguien grabó, me dices. Esas cosas se bajan.
+
+Marisol no contestó, pero algo en sus hombros bajó un poco. Chiara tomó la bolsa de las manos de Kal sin mirarlo y se la acomodó a Marisol contra la cara, y Marisol subió la mano para sostenerla y empezó a hablar otra vez, más bajo. Ya no a la pared. A Chiara.
+
+Nadie le pidió que se fuera. Kal se quedó un momento de pie junto al sofá, con las manos vacías, y después volvió a la cocina como quien se acuerda de que tiene algo que hacer ahí. Lavó dos tazas que estaban limpias. Desde la isla las veía de perfil, la cabeza de Marisol cerca de la de Chiara, la bolsa de maíz cambiando de mano, y le llegaban pedazos: que Diego era simpático, que era un cobarde, que la novia daba más miedo del que nadie le habría imaginado. Que algo no le cuadraba desde hacía semanas y se lo había callado a sí misma, porque el café gratis se sentía bien.
+
+—Eso último es lo peor —dijo Marisol.
+
+—Yo tardé más que tú.
+
+Kal se quedó con la taza bajo el chorro. Sabía cuánto más. Se lo había dado en un campo de golf, entre el búnker y el lago, en frases acomodadas una por una, y ahora le daba a Marisol una sola, la más chica, para que no se sintiera la única. Cerró la llave. Lo dejó donde ella lo había puesto.
+
+Marisol no preguntó cuánto. Chiara siguió antes de que pudiera.
+
+—¿Y el café era bueno, por lo menos?
+
+—Malísimo. —A Marisol se le escapó la risa por la nariz, y se quejó del pómulo, y se volvió a reír.
+
+A las tres y algo lo había llamado a él. Lo que traía adentro se lo estaba contando a Chiara. Kal secó las dos tazas despacio.
+
+Hablaron un rato más, Chiara haciendo las preguntas pequeñas, dejando que Marisol llenara los espacios a su propio ritmo, hasta que el té se enfrió sin que nadie lo terminara y Marisol, entre una frase y la siguiente, se quedó dormida contra el brazo del sofá con la bolsa de maíz todavía en la mano.
+
+Kal se la quitó y le puso una manta encima sin despertarla.
+
+***
+
+Subieron al mezzanine sin decir nada, y se quedaron un momento apoyados en la barandilla de acero, mirando hacia abajo, hacia el bulto pequeño que era Marisol dormida en la sala.
+
+—Es la única promesa que me queda de mi pasado que no quiero fallarle —dijo Kal, en voz baja, sin apartar la vista de ella.
+
+Chiara no preguntó a quién se refería.
+
+—Te llamó a ti —dijo—. A las tres de la mañana.
+
+Kal no contestó. Siguió mirando el bulto de la manta, y al rato, sin apartar la vista, le buscó la mano sobre la barandilla.
+
+Se fueron a la cama poco después, con la casa en silencio y la luz de la ciudad entrando apenas por la ventana del mezzanine, y por primera vez en años, Kal se durmió con alguien despierta a su lado sin sentir la necesidad de quedarse alerta él también.
+
+***
+
+Lo despertó la risa.
+
+Venía de abajo, de las dos, y ya sonaba a costumbre. La cama estaba vacía del lado de Chiara y la casa olía a café de verdad, del que él no compraba. Kal bajó con el pelo aplastado de un lado. Marisol estaba en la estufa, con el pómulo morado como le habían dicho, y Chiara descalza en la isla, con una taza entre las manos.
+
+—Ese café huele demasiado bien para ser mío —dijo Kal, sirviéndose una taza sin preguntar.
+
+—No es tuyo. —Marisol no levantó la vista de la sartén—. Ese lo hice pensando en Chiara. El tuyo está allá.
+
+Señaló un vaso desechable, todavía tibio, escondido detrás del frutero.
+
+—Te compré uno en el norte. Y de paso, me disculpo: usé el Audi.
+
+Kal se quedó con la taza a medio camino de la boca.
+
+—¿Te dio tiempo de todo eso?
+
+—Claro. —Marisol se encogió de hombros, como si la pregunta no mereciera más—. Roncabas. ¿Me equivoco, Chiara?
+
+—Sin duda alguna, bambina.
+
+Kal las miró, a una y después a la otra.
+
+—Ya hacen equipo —dijo, y le dio un trago al café del vaso, que estaba exactamente como a él le gustaba aunque no fuera el bueno—. Mejor me voy a dormir.
+
+—No te vas a ningún lado —dijo Chiara, sin levantar la vista—. Siéntate.
+
+Kal se sentó.
+
+Marisol fue por la leche. Al abrir el refrigerador se encontró la manzana a la altura de los ojos; la enderezó con un dedo, que se había quedado torcida, y cerró la puerta sin decir nada.
+
+Terminaron el desayuno entre bromas menores y silencios fáciles, y cuando Marisol se levantó a lavar los platos sin que nadie se lo pidiera, Kal la dejó hacerlo.
+
+Se despidió en la puerta como hacía todo: rápido, sin dramatizar, como si un corazón roto no fuera motivo suficiente para quedarse quieta.
+
+—Voy a ver a mi papá —dijo, ya con las llaves del Audi en la mano—. Siempre que algo me pone triste, voy a ver a...
+
+—Papá —terminó Kal con ella, al mismo tiempo, sin que ninguno lo hubiera planeado.
+
+Marisol sonrió, la primera sonrisa completa de la mañana.
+
+—Y me devuelves el Audi —dijo Kal—. Lo quiero de vuelta. No es un premio porque estabas triste.
+
+Marisol no contestó nada de eso. Le mostró los dientes, la sonrisa torcida que usaba cuando sabía que no iba a obedecer del todo, e inclinó la cabeza antes de subirse y salir de reversa por el camino de entrada.
+
+Kal y Chiara se quedaron parados viéndola alejarse.
+
+—¿Siempre es así? —preguntó Chiara.
+
+—Siempre. —Kal no apartó la vista del camino ya vacío—. Llega el huracán Marisol, sacude todo, y después vuelve a su rutina como si nada. Siempre le ha gustado estar ocupada. Lo de Michael fue difícil.
+
+Chiara no dijo nada más sobre eso.
+
+—Volvemos adentro —dijo Kal, al final, y le dio un beso en la frente antes de cerrar la puerta detrás de los dos.

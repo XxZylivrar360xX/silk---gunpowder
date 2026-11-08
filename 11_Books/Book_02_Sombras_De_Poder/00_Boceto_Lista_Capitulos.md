@@ -265,6 +265,7 @@ claude --resume 9e1c0767-30b3-465e-9519-f3ec475dece3
 
 **28. La carretera** — 31 dic – 2 ene · Kal · Washington; la carretera; el penthouse
 
+- **PENDIENTE (autor, 2026-11-07):** la causa de la ausencia se rediseña; Anya retirada ([[97_Supersedido/Anya_Voronina]]). Lo que sigue es historial salvo carretera, collar y llegada.
 - **Función:** F4, la mitad de él. Paga la deuda de los papeles de Nadir: Anya lo cita con el pretexto de un programa de apoyo a veteranos (muchos fueron subordinados de Halbrook; siembra). Kal sólo la ayuda con el trabajo. En el hotel le da vueltas al collar, hace la maleta y vuelve en auto esa misma noche; por eso tarda.
 - **Llegada (canon):** la noche del 2 la encuentra sin maquillar y con un chongo improvisado: la primera vez en la saga que a Chiara no le importa su imagen. El piano responde a lo que ella descubrió en el Cap. 43 (archivo 38) del Libro I: que él toca.
 - **No hacer:** Anya como rival barata; Chiara con celos simples.
@@ -435,7 +436,7 @@ claude --resume 9e1c0767-30b3-465e-9519-f3ec475dece3
 **53a. Stavanger · 53b. Henrik · 53c. Ya llegó** — fines de oct A4 (~25; CANON 2026-10-14), Noruega, frío y luz gris · Stavanger
 
 - **Tres capítulos (DECISIÓN DEL AUTOR, 2026-11-07):** [[11_Books/Book_02_Sombras_De_Poder/Part_04_Torna_A_Casa/Stavanger]] (la llegada), [[11_Books/Book_02_Sombras_De_Poder/Part_04_Torna_A_Casa/Henrik]] (la casa, las cartas, la fotografía, el muelle y «¿Este era mi hogar?») y [[11_Books/Book_02_Sombras_De_Poder/Part_04_Torna_A_Casa/Ya_Llego]] (la cabaña). Prosa BORRADOR, sin número; manda. La letra evita renumerar el boceto; la numeración final queda PENDIENTE.
-- **Canon:** el recuerdo de Anya: «Llegará el día en que llegue la persona que te haga creer.» / «¿Y ahora qué piensas?» / «Ya llegó.», y un beso. La propuesta y el origen de Kal. La concepción de Elenna, sin señalarse.
+- **Canon:** el recuerdo de Collins (antes Anya; 2026-11-07): «Llegará el día en que llegue la persona que te haga creer.» / «¿Y ahora qué piensas?» / «Ya llegó.», y un beso. La propuesta y el origen de Kal. La concepción de Elenna, sin señalarse.
 - **La noche (DECISIÓN DEL AUTOR, 2026-11-06):** se narra en la página, tras meses de sequía: [[11_Books/Book_02_Sombras_De_Poder/Part_04_Torna_A_Casa/00_Diseno_Noche_Stavanger]].
 
 **54. Llegar tarde** — ~18–22 nov A4 · externo o Kal; nunca Chiara con interioridad · reunión de la operación contra Crowe; su oficina

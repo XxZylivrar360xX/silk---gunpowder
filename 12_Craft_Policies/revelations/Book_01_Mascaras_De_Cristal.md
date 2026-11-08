@@ -46,7 +46,7 @@ Misterios, semillas, mentiras, rituales y pagos del libro activo. Cruzar con [[1
 - **Evolución permitida:** después de [[06_Relationships/Hitos#H16 — El cumpleaños / la mudanza oficial]], se vuelve por uso la caja fuerte de ambos; puede recibir documentos, contratos, escrituras, armas, dinero de reserva, joyas de Chiara y otros objetos justificados. No hay declaración de propiedad compartida.
 - **Pago:** [[06_Relationships/Hitos#H8 — El incendio, la mentira y la villa]]. El doble fondo y la caja sobreviven ennegrecidos; el contenido queda intacto.
 - **Líneas o gestos prohibidos:** anticipar en H14 los objetos futuros de Chiara; convertir el escondite en tutorial; usar la supervivencia de la caja para suavizar la destrucción del hogar. La regla emocional es: se salva lo tasable/protegible, no la vida cotidiana.
-- **Estado:** sembrado en prosa; pago futuro fijado.
+- **Estado:** sembrado en prosa; pago futuro fijado. Desde 2026-11-07 (nuevo 12 en POV Chiara) la siembra se ve desde ella: está en el hallazgo, ve a Kal reconocer el hueco y no pregunta; la caja de acero es la única partida que paga él.
 
 ---
 
@@ -94,6 +94,14 @@ Misterios, semillas, mentiras, rituales y pagos del libro activo. Cruzar con [[1
 
 > **Primera alarma aislada (añadida 2026-09-02):** en [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/12_Roma_Atrii|Capítulo 12]], antes del caso formal, un hombre no identificado pregunta en el piso del Monarch por "un Peugeot rojo, tuneado" — paga en efectivo, no juega una sola mano, se va. Es lo que le da a Chiara la urgencia para mandar el papel con el mensajero menor en vez de esperar a la noche. **PENDIENTE:** si este hombre es el mismo caso que arma Lucía Varek semanas después (un explorador temprano) o un hilo distinto sin resolver — no confirmar sin decisión del autor. **Cirugía 2026-09-26:** el lector ya no lo ve en narración; lo sabe sólo por Chiara, en su diálogo con Kal ("alguien preguntó por tu coche en mi propio piso… pagó en efectivo y no jugó una sola mano"). Se perdieron "mesa dos" y "de los viejos, tuneado", que nadie cobraba.
 
+> **Nuevo cauce, nuevo Cap. 13 (2026-11-07; el PENDIENTE de arriba queda resuelto por el mapa, CANON DEL AUTOR):** el hombre que pregunta por el Peugeot es de Crowe: el joven que le abrió la puerta del auto gris en el callejón de la casa común (Cap. 11). **Lo sabe:** Chiara, que lo vio desde la ventana; el lector. **No lo sabe:** Kal; ella le dice «un hombre que nunca había visto en este casino» y calla de qué puerta bajó. Crowe planta así el caso (el abogado de la mesa cuatro, «el coche ya tenía foto», queda sin dueño). Prosa DISEÑO en [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/12_Roma_Atrii]], que ahora funde *Auster*; el interrogatorio de Lucía lo cuenta Kal y Chiara entiende que es la otra mancha de la foto.
+
+> **Nuevo 15 (2026-11-08, BORRADOR, DISEÑO):** la chaqueta café vuelve en la cafetería de Santa Aurelia el domingo del infarto, con un vaso de agua sin tocar, mirando a quién le da el barrio el termo para Héctor; se va por la escalera cuando Chiara lo ve. **Lo sabe:** Chiara y el lector. **No lo sabe:** Kal (ella decide no decírselo esa noche). Chiara supo ahí el nombre de la subjefa: Lucía Varek. Prosa en [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/15_El_Porton]].
+
+> **Nuevo 16 (2026-11-08, BORRADOR, DISEÑO):** el sábado después de la bodega, el joven de Crowe fue al billar de atrás del Monarch a preguntar si «los dos de la Almendra» habían vuelto; pidió agua, no se la tomó y dejó veinte debajo del vaso. Crowe confirma así que su trampa funcionó. **Lo sabe:** el lector (por el nuevo 13 y el 15). **No lo sabe:** Kal, que oye la descripción sin poder leerla (nunca vio la chaqueta café ni el vaso) y deja su número; Chiara tampoco sabe del billar. Quien les pasó el rumor sigue siendo Mei-Lin (CANON, [[11_Books/Book_01_Mascaras_De_Cristal/Part_02_Con_Peores_Personas_He_Tratado/00_Plan_Robo_Monarch]]); Danny la cubre con «lo conozco de vista». Kal también ve de lado que el barrio le dio la llave del portón a Chiara («La suya»), sin saber por qué. Prosa en [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/17_Cuentas_Claras]].
+
+> **Nuevo 17 (2026-11-08, BORRADOR, DISEÑO):** desde la esquina de Il Gelsomino, Kal ve que Chiara revisa dos veces las mesas del café de enfrente «como quien busca una cara» y que deja de hacerlo al verlo. No pregunta. **Lo sabe:** el lector, que lo lee como la chaqueta café. **No lo sabe:** Kal; Chiara sigue sin contárselo. Prosa en [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/18_El_Dia_Nublado]].
+
 ---
 
 ## La escalera de presion de Tommaso Lusardi
@@ -117,6 +125,9 @@ Misterios, semillas, mentiras, rituales y pagos del libro activo. Cruzar con [[1
 
 - **Que es:** frase en latin que Chiara usa como firma/codigo en notas escritas a mano, entregadas a traves de una cadena de intermediarios ([[02_Characters/Kenji_Oda]], mensajeros de la calle) para que nadie pueda atarlas a ella si se interceptan. Significado literal (ROMA es AMOR al reves; ATRII es "patio" en genitivo latino) no revelado todavia — ni al lector en voz de ningun personaje, ni a Kal.
 - **Se siembra en:** [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/12_Roma_Atrii]] — un chico de la calle busca a "Roma Atrii" como si fuera una persona; Kal reconoce la letra y el papel, no el significado. Se recoge en [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/14_La_Regla_Del_Telefono]] (Cap. 15, apertura: el papel sigue sin abrir sobre la repisa). En [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/15_El_Porton]] (Cap. 16, rediseñado 2026-09-03, POV Chiara) ella escribe y entrega una carta nueva bajo la puerta del loft — mismo papel de siempre (canela, vainilla, su letra), esta vez en un sobre del Monarch, no en el papel discreto de i Sussurri, sin revelar el contenido en ese capítulo. Kal la abre y la lee en [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/16_El_Sobre_Rojo]] (Cap. 17 nuevo, POV Kal) — reconoce el aroma antes que la letra.
+
+- **Nuevo cauce (2026-11-07, DECISIÓN DEL AUTOR):** el nuevo 13 va en POV Chiara; el chico vuelve a la caja sin el papel y ella lo sabe por Kenji. Kal se queda el papel sin abrirlo y oye «Eso no te lo voy a decir. Todavía no.» en la franja. El interior de Kal en la cerca pasa al nuevo 14.
+- **Nuevo 14 (2026-11-07, BORRADOR):** abre con el papel sin abrir en la repisa y con la memoria de la cerca en POV Kal (el olor, la mandíbula, el crío «que en otra ciudad podría haber sido la clase de carga que fue él cuando lo compraron de bebé, y la que le costó la carrera»). Kal sigue sin abrirlo. Única siembra en prosa del par bebé comprado y carrera perdida antes de Halbrook; rima, sin decirlo, con el niño de unos doce años de la noche del convoy.
 - **Quien ya lo sabe:** solo Chiara.
 - **Quien NO debe saberlo/insinuarlo todavia:** Kal no sabe italiano ni latin en este punto del libro, asi que el nombre no le dice nada — solo le suena raro. El lector tampoco debe saberlo todavia; ver [[02_Characters/Chiara_Bellandi]], "Las cartas", para el arco reservado del autor sobre este hilo.
 - **Lineas o gestos prohibidos:** que Chiara traduzca o explique el codigo antes de que el autor decida el momento. Que un tercero lo traduzca por casualidad o coincidencia.
@@ -214,6 +225,7 @@ Misterios, semillas, mentiras, rituales y pagos del libro activo. Cruzar con [[1
 - **Prohibido:** que Lucía o Dario la prueben en el Libro I; que Voss sospeche.
 - **Continuidad (resuelta 2026-10-29, OC-03):** en *Al revés* (archivo 38, Cap. 46) Chiara dice «dejaron el reloj y se llevaron el teléfono».
 - **Peugeot, nueva sospecha (Cap. 30):** Collins le dice a Kal que fue «muy conveniente» que lo descartaran y que Domínguez «frena en las rotondas». Lo compra en voz alta; no lo sabe. Blake sale de la sala antes, así que la regla de arriba se cumple.
+- **Collins y Kal, ex amantes (CANON DEL AUTOR, 2026-11-07):** fueron amantes antes de la cárcel. **Lo saben:** ellos dos; el lector lo infiere en el Cap. 27 («Hacía años que no la oía sin estática»; «un coche que ya manejó»). **Chiara:** lo lee por conducta en el Cap. 40 (Kal se esconde, «Ojos azules», «Alguien de antes», el tornillo) y calla hasta Stavanger. **Prohibido en el Libro I:** que alguien lo nombre en voz alta («amante» no se dice); que Collins pruebe lo del Peugeot.
 
 ---
 
@@ -279,3 +291,11 @@ Misterios, semillas, mentiras, rituales y pagos del libro activo. Cruzar con [[1
 - **Quién NO debe saberlo:** lo que hizo Jim y la promesa siguen siendo sólo de Kal; el Cap. 29 da a Chiara la muerte en sus brazos, no eso.
 - **Mentira de Kal:** «¿Fue rápido?» / «Sí». Motivo por el que nunca visitó a Walt: «No era eso» (Cap. 1) se paga en el Cap. 3.
 - **Estado:** sembrado y pagado en borrador; espera lectura. Plan: [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/00_Plan_Cap01_Marisol_Y_Cap03_Duelo]].
+
+## «Yo tardé más que tú»: el matrimonio, en una frase (nuevo 18, 2026-11-08)
+
+- **Qué es:** en la madrugada del loft, Chiara le da a Marisol una sola frase de su matrimonio para que no se sienta la única que no quiso ver. No dice cuánto tardó ni qué pasó, y Marisol no pregunta.
+- **Lo sabe:** Kal, que la oye desde la cocina y sabe «cuánto más» por el golf (H4); la deja donde ella la puso, como en el nuevo 17. El lector.
+- **No lo sabe:** Marisol, más allá de la frase. Nada del muerto ni de Alessio.
+- **Regla:** no convertir a Marisol en confidente del matrimonio en el Libro I. Lo de Kenji sigue fuera de foco hasta el nuevo 31.
+- **Estado:** prosa DISEÑO en [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/20_El_Mirador]]. Plan: [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/00_Plan_Cap18_Lo_Pequeno_POV_Kal]].

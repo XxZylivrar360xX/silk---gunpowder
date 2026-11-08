@@ -65,7 +65,7 @@ Fase 2 del tramo, en tarjetas de evento (trama / relación / por eso / POV): [Ta
 11. ***El primer huésped* (Cap. 21) se funde como cierre de *Lo pequeño* (Cap. 20)**, la misma madrugada, en POV Kal: ve que su hermana se abre con Chiara y no con él.
 12. **POV por tarjeta:** corral, dos capítulos (27 Kal, 28 Chiara). Correa, **un capítulo en POV Chiara**; sale el 31 (Halbrook en persona) y lo de Kal se sabe en Las Gemelas. Pacto, dos capítulos: el 32 se funde en el de Kal en el patio de Varek (33); Las Gemelas (34) para Chiara, sin la coda de Kal. Palermo, dos capítulos en orden: *Mecánico* (45) pasa a ser lineal y absorbe la vuelta del 44 (incluida la llamada a Garrett); *La otra mitad* (46) se queda con Chiara.
 
-Siguiente: Fase 3 de este tramo (mapa viejo → nuevo).
+Fase 3 APROBADA (CANON DEL AUTOR, 2026-11-07): [[11_Books/Book_01_Mascaras_De_Cristal/00_Mapa_Cauce_Cap11_Camp_Alder]]. El tramo pasa de 38 a 29 capítulos; el libro, a 47. Siguiente: Fase 4 por la Parte I. Choques resueltos (CANON DEL AUTOR, 2026-11-07): pacto del 09-18 sin papeles de Nadir; mismo lote de armas, desviado de Crowe a Varek; Chiara va a Varek sospechando y él le cobra un favor; se conserva la línea de Héctor.
 
 ## El diagnóstico en una línea
 

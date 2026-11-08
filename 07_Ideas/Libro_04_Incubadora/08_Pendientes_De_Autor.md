@@ -6,7 +6,7 @@
 
 > **RESUELTO (2026-09-15):** nombre **Adam Voss**; edad actual 17-19 años. Motivo del envío: mundano, con la Guerra de los Tres como telón de fondo (no un espejo dramatizado del exilio de Elenna) — ver [[07_Ideas/Libro_04_Incubadora/01_Nicholas_Voss]].
 
-> **RESUELTO (2026-09-16):** contacto de Nicholas con Adam **fiel pero insuficiente** (llamó y visitó con regularidad, sin lograr una relación completa); María vive con Adam en la ciudad natal de la familia de ella. Conocimiento de Kal/Chiara: mezcla de rumor institucional y un **encuentro directo con Chiara** — la trató en persona coordinando la respuesta a un robo en The Monarch durante la época de Varek/Halbrook. Sigue sin poder probar quién estaba por encima acomodando el tablero. Ver [[07_Ideas/Libro_04_Incubadora/01_Nicholas_Voss]] y [[07_Ideas/Libro_04_Incubadora/06_Escenas_Faro]].
+> **RESUELTO (2026-09-16):** contacto de Nicholas con Adam **fiel pero insuficiente** (llamó y visitó con regularidad, sin lograr una relación completa); Dana Collins (antes María; 2026-11-07) vive con Adam en Argentina. Conocimiento de Kal/Chiara: mezcla de rumor institucional y un **encuentro directo con Chiara** — la trató en persona coordinando la respuesta a un robo en The Monarch durante la época de Varek/Halbrook. Sigue sin poder probar quién estaba por encima acomodando el tablero. Ver [[07_Ideas/Libro_04_Incubadora/01_Nicholas_Voss]] y [[07_Ideas/Libro_04_Incubadora/06_Escenas_Faro]].
 
 ## Vera (antes "Nora")
 

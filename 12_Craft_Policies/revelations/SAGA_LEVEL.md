@@ -8,7 +8,7 @@ Misterios o verdades que cruzan todo *Seda y Polvora* o que no pertenecen a un s
 
 - **Que es:** Kal fue comprado de bebe mediante una red de trafico de ninos. Sus papeles son falsos. Su verdadero origen es Noruega.
 - **Estado al inicio:** Kal sabe que sus papeles son falsos desde los veinte; el origen noruego exacto queda reservado.
-- **Quien ya lo sabe:** Pendiente decidir si Hector, Nadir o Anya saben algo parcial. **Decision del autor (2026-09-19):** Chiara pasa a saberlo por completo, presenciando la revelacion junto a Kal, en un capitulo todavia no integrado al manuscrito — ver abajo.
+- **Quien ya lo sabe:** Pendiente decidir si Hector o Nadir saben algo parcial. **Decision del autor (2026-09-19):** Chiara pasa a saberlo por completo, presenciando la revelacion junto a Kal, en un capitulo todavia no integrado al manuscrito — ver abajo.
 - **Quien NO debe saberlo/insinuarlo todavia:** socios del Monarch; Dario; policia local. **Ya NO aplica a Chiara** (ver decision del autor, abajo) — la restriccion original la protegia "al inicio" del libro; deja de aplicar en el tramo de Villa Candelaria, antes de H1.
 - **Lineas o gestos prohibidos antes del reveal:** Kal explicando su origen en bloque; narrador usando el dato como resumen sentimental.
 - **Modo correcto de siembra:** rasgos nordicos sin explicacion, asco al azar, reglas sobre regalos/deudas, rechazo a que personas tengan precio, conducta ante redes de explotacion.
@@ -78,3 +78,12 @@ Misterios o verdades que cruzan todo *Seda y Polvora* o que no pertenecen a un s
 - **Quién NO debe saberlo/insinuarlo todavía:** nadie. La caja no vuelve a mencionarse hasta la Parte 3.
 - **Líneas o gestos prohibidos:** abrir la caja, traducir las runas, o siquiera mencionarla de pasada antes de la Parte 3. Ni Kal debe pensar en ella entre medias — el silencio narrativo es parte del efecto.
 - **Estado:** sembrado; contenido y significado pendientes de decisión del autor, reservados para la Parte 3.
+
+## Autor del doble golpe de Calle Corona (*Voto de Ceniza*; CANON DEL AUTOR, 2026-11-07)
+
+- **Qué es:** Halbrook ordena el coche bomba contra la comisaría y el tiroteo montado del triage, donde muere Trix, con bandera falsa de bandas a las que Kal protegió o armó.
+- **Quién lo sabe:** nadie en el momento, **ni el lector**. Todo parece diseñado, sin autor visible. Halbrook estaba en el edificio, lejos de la explosión: ante todos, un sobreviviente.
+- **Quién sospecha sin prueba:** Dana y Voss (los falsos policías), Lucía (por su reporte), Kal (sabe que no fueron sus bandas, no sabe quién fue).
+- **Prohibido:** que el narrador, la prensa o un personaje apunten a Halbrook antes de la revelación. Cuándo y cómo se revela: PENDIENTE.
+- Ver [[04_Concepts/La_Guerra_de_los_Tres#Regla particular — Coche bomba en Calle Corona]].
+

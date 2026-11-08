@@ -19,10 +19,10 @@
     "03_Los_Viejos_Dias.md": {
       "capitulo": 3,
       "titulo": "Los viejos días",
-      "estado": "AL DIA",
-      "motivo": "",
+      "estado": "PENDIENTE",
+      "motivo": "cambió la prosa",
       "audio": "2026-11-05",
-      "desde": "2026-11-05 23:00"
+      "desde": "2026-11-07 21:26"
     },
     "04_Tarifa_Nocturna.md": {
       "capitulo": 4,
@@ -83,106 +83,82 @@
     "09_La_Balanza.md": {
       "capitulo": 11,
       "titulo": "La balanza",
-      "estado": "AL DIA",
-      "motivo": "",
+      "estado": "PENDIENTE",
+      "motivo": "cambió la prosa",
       "audio": "2026-11-04",
-      "desde": "2026-11-04 01:13"
+      "desde": "2026-11-07 22:28"
     },
     "10_El_Loft_Del_Soltero.md": {
       "capitulo": 12,
       "titulo": "Dos sillas vacías",
-      "estado": "AL DIA",
-      "motivo": "",
+      "estado": "PENDIENTE",
+      "motivo": "cambió la prosa",
       "audio": "2026-11-01",
-      "desde": "2026-11-01 22:20"
+      "desde": "2026-11-07 22:48"
     },
     "12_Roma_Atrii.md": {
       "capitulo": 13,
       "titulo": "Roma Atrii",
-      "estado": "AL DIA",
-      "motivo": "",
+      "estado": "PENDIENTE",
+      "motivo": "cambió la prosa",
       "audio": "2026-11-01",
-      "desde": "2026-11-01 22:20"
-    },
-    "13_Auster.md": {
-      "capitulo": 14,
-      "titulo": "Auster",
-      "estado": "AL DIA",
-      "motivo": "",
-      "audio": "2026-11-01",
-      "desde": "2026-11-01 22:20"
+      "desde": "2026-11-07 23:10"
     },
     "14_La_Regla_Del_Telefono.md": {
-      "capitulo": 15,
+      "capitulo": 14,
       "titulo": "La regla del teléfono",
-      "estado": "AL DIA",
+      "estado": "SIN AUDIO",
       "motivo": "",
       "audio": "2026-11-05",
-      "desde": "2026-11-05 23:00"
+      "desde": "2026-11-08 01:33"
     },
     "15_El_Porton.md": {
       "capitulo": 16,
       "titulo": "Yo lo llevo",
-      "estado": "AL DIA",
-      "motivo": "",
+      "estado": "PENDIENTE",
+      "motivo": "cambió la prosa",
       "audio": "2026-11-01",
-      "desde": "2026-11-01 22:20"
-    },
-    "16_El_Sobre_Rojo.md": {
-      "capitulo": 17,
-      "titulo": "El sobre rojo",
-      "estado": "AL DIA",
-      "motivo": "",
-      "audio": "2026-11-01",
-      "desde": "2026-11-01 22:20"
+      "desde": "2026-11-08 02:23"
     },
     "17_Cuentas_Claras.md": {
       "capitulo": 18,
       "titulo": "Le quedé debiendo",
-      "estado": "AL DIA",
-      "motivo": "",
+      "estado": "PENDIENTE",
+      "motivo": "cambió la prosa",
       "audio": "2026-11-01",
-      "desde": "2026-11-01 22:20"
+      "desde": "2026-11-08 02:45"
     },
     "18_El_Dia_Nublado.md": {
       "capitulo": 19,
       "titulo": "El día nublado",
-      "estado": "AL DIA",
-      "motivo": "",
+      "estado": "PENDIENTE",
+      "motivo": "cambió la prosa",
       "audio": "2026-11-02",
-      "desde": "2026-11-02 00:09"
+      "desde": "2026-11-08 03:02"
     },
     "20_El_Mirador.md": {
       "capitulo": 20,
       "titulo": "Lo pequeño",
-      "estado": "AL DIA",
-      "motivo": "",
+      "estado": "PENDIENTE",
+      "motivo": "cambió la prosa",
       "audio": "2026-11-01",
-      "desde": "2026-11-01 22:20"
-    },
-    "21_El_Primer_Huesped.md": {
-      "capitulo": 21,
-      "titulo": "El primer huésped",
-      "estado": "AL DIA",
-      "motivo": "",
-      "audio": "2026-11-03",
-      "desde": "2026-11-03 22:34"
+      "desde": "2026-11-08 03:27"
     },
     "21b_Grazie.md": {
       "capitulo": 22,
       "titulo": "Grazie",
-      "estado": "AL DIA",
-      "motivo": "",
+      "estado": "PENDIENTE",
+      "motivo": "cambió la prosa",
       "audio": "2026-11-01",
-      "desde": "2026-11-01 23:00"
+      "desde": "2026-11-07 23:10"
     },
     "22a_La_Cifra.md": {
       "capitulo": 23,
       "titulo": "La cifra",
-      "estado": "AL DIA",
-      "motivo": "",
+      "estado": "PENDIENTE",
+      "motivo": "cambió la prosa",
       "audio": "2026-11-01",
-      "desde": "2026-11-01 22:20"
+      "desde": "2026-11-07 19:49"
     },
     "22b_Con_Su_Proveedor.md": {
       "capitulo": 24,
@@ -211,18 +187,18 @@
     "24c_El_Corral.md": {
       "capitulo": 27,
       "titulo": "Oveja entre lobos",
-      "estado": "AL DIA",
-      "motivo": "",
+      "estado": "PENDIENTE",
+      "motivo": "cambió la prosa",
       "audio": "2026-11-01",
-      "desde": "2026-11-01 22:26"
+      "desde": "2026-11-07 19:49"
     },
     "24d_Vienes_Conmigo.md": {
       "capitulo": 28,
       "titulo": "Vienes conmigo",
-      "estado": "AL DIA",
-      "motivo": "",
+      "estado": "PENDIENTE",
+      "motivo": "cambió la prosa",
       "audio": "2026-11-01",
-      "desde": "2026-11-01 22:56"
+      "desde": "2026-11-07 19:49"
     },
     "25_Libros_Abiertos.md": {
       "capitulo": 29,
@@ -275,10 +251,10 @@
     "31_Vamos_A_Casa.md": {
       "capitulo": 35,
       "titulo": "Vamos a casa",
-      "estado": "AL DIA",
-      "motivo": "",
+      "estado": "PENDIENTE",
+      "motivo": "cambió la prosa",
       "audio": "2026-11-01",
-      "desde": "2026-11-01 22:56"
+      "desde": "2026-11-08 01:33"
     },
     "32_Linea_Directa.md": {
       "capitulo": 36,
@@ -307,82 +283,58 @@
     "34_Mi_Pareja.md": {
       "capitulo": 39,
       "titulo": "Mi pareja",
-      "estado": "AL DIA",
-      "motivo": "",
+      "estado": "PENDIENTE",
+      "motivo": "cambió la prosa",
       "audio": "2026-11-01",
-      "desde": "2026-11-01 22:56"
+      "desde": "2026-11-08 02:23"
     },
     "35_Sin_Fecha_De_Regreso.md": {
       "capitulo": 40,
       "titulo": "Sin fecha de regreso",
-      "estado": "AL DIA",
-      "motivo": "",
+      "estado": "PENDIENTE",
+      "motivo": "cambió la prosa",
       "audio": "2026-11-01",
-      "desde": "2026-11-01 22:56"
+      "desde": "2026-11-07 21:26"
     },
     "36_Tambien_Las_Mananas.md": {
-      "capitulo": 41,
+      "capitulo": 34,
       "titulo": "También las mañanas",
-      "estado": "AL DIA",
+      "estado": "SIN AUDIO",
       "motivo": "",
       "audio": "2026-11-01",
-      "desde": "2026-11-01 22:56"
-    },
-    "37_Cuatro_Letras.md": {
-      "capitulo": 42,
-      "titulo": "Cuatro letras",
-      "estado": "AL DIA",
-      "motivo": "",
-      "audio": "2026-11-01",
-      "desde": "2026-11-01 22:56"
+      "desde": "2026-11-08 03:27"
     },
     "38_Al_Reves.md": {
-      "capitulo": 43,
+      "capitulo": 35,
       "titulo": "Al revés",
-      "estado": "AL DIA",
+      "estado": "SIN AUDIO",
       "motivo": "",
       "audio": "2026-11-01",
-      "desde": "2026-11-01 22:56"
-    },
-    "39_Un_Par_De_Dias_Mas.md": {
-      "capitulo": 44,
-      "titulo": "Un par de días más",
-      "estado": "AL DIA",
-      "motivo": "",
-      "audio": "2026-11-05",
-      "desde": "2026-11-05 23:00"
-    },
-    "40_Mecanico.md": {
-      "capitulo": 45,
-      "titulo": "Mecánico",
-      "estado": "AL DIA",
-      "motivo": "",
-      "audio": "2026-11-01",
-      "desde": "2026-11-01 22:56"
+      "desde": "2026-11-08 03:02"
     },
     "41_La_Otra_Mitad.md": {
-      "capitulo": 46,
+      "capitulo": 37,
       "titulo": "La otra mitad",
-      "estado": "AL DIA",
+      "estado": "SIN AUDIO",
       "motivo": "",
       "audio": "2026-11-01",
-      "desde": "2026-11-01 22:56"
+      "desde": "2026-11-07 23:10"
     },
     "42_Nada.md": {
-      "capitulo": 47,
+      "capitulo": 38,
       "titulo": "Nada",
-      "estado": "AL DIA",
+      "estado": "SIN AUDIO",
       "motivo": "",
       "audio": "2026-11-01",
-      "desde": "2026-11-01 22:56"
+      "desde": "2026-11-08 01:33"
     },
     "43_La_Puerta.md": {
-      "capitulo": 48,
+      "capitulo": 39,
       "titulo": "La puerta",
-      "estado": "AL DIA",
+      "estado": "SIN AUDIO",
       "motivo": "",
       "audio": "2026-11-01",
-      "desde": "2026-11-01 22:56"
+      "desde": "2026-11-08 01:33"
     },
     "44_Jurisdiccion.md": {
       "capitulo": 49,
@@ -3469,6 +3421,116 @@
       "2026-11-06 16:06",
       "Cap. 1 (01_Un_Hombre_De_Negocios_Intachable.md)",
       "audio regenerado"
+    ],
+    [
+      "2026-11-07 19:49",
+      "Cap. 23 (22a_La_Cifra.md)",
+      "audio pendiente: cambió la prosa"
+    ],
+    [
+      "2026-11-07 19:49",
+      "Cap. 27 (24c_El_Corral.md)",
+      "audio pendiente: cambió la prosa"
+    ],
+    [
+      "2026-11-07 19:49",
+      "Cap. 28 (24d_Vienes_Conmigo.md)",
+      "audio pendiente: cambió la prosa"
+    ],
+    [
+      "2026-11-07 21:26",
+      "Cap. 3 (03_Los_Viejos_Dias.md)",
+      "audio pendiente: cambió la prosa"
+    ],
+    [
+      "2026-11-07 21:26",
+      "Cap. 40 (35_Sin_Fecha_De_Regreso.md)",
+      "audio pendiente: cambió la prosa"
+    ],
+    [
+      "2026-11-07 22:28",
+      "Cap. 11 (09_La_Balanza.md)",
+      "audio pendiente: cambió la prosa"
+    ],
+    [
+      "2026-11-07 22:48",
+      "Cap. 12 (10_El_Loft_Del_Soltero.md)",
+      "audio pendiente: cambió la prosa"
+    ],
+    [
+      "2026-11-07 23:10",
+      "Cap. 13 (12_Roma_Atrii.md)",
+      "audio pendiente: cambió la prosa"
+    ],
+    [
+      "2026-11-07 23:10",
+      "Cap. 22 (21b_Grazie.md)",
+      "audio pendiente: cambió la prosa"
+    ],
+    [
+      "2026-11-07 23:10",
+      "Cap. 37 (41_La_Otra_Mitad.md)",
+      "audio borrado"
+    ],
+    [
+      "2026-11-08 01:33",
+      "Cap. 14 (14_La_Regla_Del_Telefono.md)",
+      "audio borrado"
+    ],
+    [
+      "2026-11-08 01:33",
+      "Cap. 35 (31_Vamos_A_Casa.md)",
+      "audio pendiente: cambió la prosa"
+    ],
+    [
+      "2026-11-08 01:33",
+      "Cap. 38 (42_Nada.md)",
+      "audio borrado"
+    ],
+    [
+      "2026-11-08 01:33",
+      "Cap. 39 (43_La_Puerta.md)",
+      "audio borrado"
+    ],
+    [
+      "2026-11-08 02:23",
+      "Cap. 16 (15_El_Porton.md)",
+      "audio pendiente: cambió la prosa"
+    ],
+    [
+      "2026-11-08 02:23",
+      "Cap. 39 (34_Mi_Pareja.md)",
+      "audio pendiente: cambió la prosa"
+    ],
+    [
+      "2026-11-08 02:45",
+      "Cap. 18 (17_Cuentas_Claras.md)",
+      "audio pendiente: cambió la prosa"
+    ],
+    [
+      "2026-11-08 03:02",
+      "Cap. 19 (18_El_Dia_Nublado.md)",
+      "audio pendiente: cambió la prosa"
+    ],
+    [
+      "2026-11-08 03:02",
+      "Cap. 41 (36_Tambien_Las_Mananas.md)",
+      "audio pendiente: cambió la prosa"
+    ],
+    [
+      "2026-11-08 03:02",
+      "Cap. 35 (38_Al_Reves.md)",
+      "audio borrado"
+    ],
+    [
+      "2026-11-08 03:27",
+      "Cap. 20 (20_El_Mirador.md)",
+      "audio pendiente: cambió la prosa"
+    ],
+    [
+      "2026-11-08 03:27",
+      "Cap. 34 (36_Tambien_Las_Mananas.md)",
+      "audio borrado"
     ]
   ]
 }

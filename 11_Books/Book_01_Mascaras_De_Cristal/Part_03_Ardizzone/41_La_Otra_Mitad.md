@@ -1,31 +1,22 @@
 <!--
-Renumerado 2026-11-01 (decisión del autor, carretera del Libro I): antes Cap. 50.
-Renumerado 2026-10-22 (decisión del autor): antes Cap. 41; numeración corrida definitiva, el archivo conserva su nombre.
-Estado: BORRADOR — Parte III — Ardizzone, séptimo capítulo (Cap. 41 del manuscrito). Redactado 2026-09-22, Claude Sonnet 5, encargo detallado del autor sobre [[11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/00_Plan_Cierre_Parte_III]]. Título — CONFIRMADO Y DEFINITIVO por el autor en el encargo (2026-09-22): "La otra mitad". No es provisional. **Cirugía editorial 2026-09-27 (E7 de [[98_Agent_Handoff/encargos/ENCARGO_Auditoria_Parte_III]]):** el vuelo de Kal "había llegado"; la fiesta del yate "la semana anterior" (no "semanas atrás"); Bonnie deja de ser escucha-confidente (se cortan dos silencios de escucha y la frase "las dos cosas se me quedaron pegadas"; la foto de la boda se funde al parlamento anterior); firma de Bonnie variada por posición de otros (los dos de seguridad), sin callback al yate. "¿Y él qué dijo cuando volvieron?" se conserva. Detalle en [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Caps_35-44_Parte_III]] § 9 parte 3. Sigue BORRADOR hasta lectura del autor.
-Protagonista: Chiara Bellandi (POV único, tercera persona cercana). Kal Mercer no aparece en escena: sólo su voz, por teléfono, y su ausencia sostenida a través del loft y de la llave que Chiara no usa.
-Personajes con diálogo: Chiara Bellandi, Bonnie García, Kal Mercer (por teléfono, una línea). Fabrizio Rinaldi con diálogo breve, por teléfono.
-Ausente, sentido: Matteo Bellacorte (silla vacía, funciones absorbidas). Mencionado sin aparecer: Kal Mercer en persona, Ettore, La Mesa, Valenti, Livia Rinaldi, Alessio Lusardi (todos referidos por Chiara al hablar con Bonnie, sin escena).
-Ventana temporal: atardecer del mismo D0 en que Kal aterrizó a media tarde, cerca de las tres (Cap. 39) — Chiara aterriza por separado, en avión privado, unas horas después, al atardecer — hasta la madrugada de D1, sin marcar días con encabezado.
-Lugares: Kingsley Field (apertura); The Monarch — despacho que fue de Matteo, despacho propio de Chiara (cierre, con Bonnie).
-Función: la otra mitad de Palermo, desde Chiara. Muestra lo que Kal no pudo ver en el Cap. 40: por qué declaró a Kal ajeno a la casa Ardizzone, que decidió por él, y que Kal se fue sin que ella supiera de Halbrook. En paralelo, instala la inconsistencia de mensajería de Matteo, Fabrizio ocupado (ya no frío: ver nota de ajuste), y funda la relación Chiara-Bonnie con la mentira "—Nada." como bomba para el Cap. 42.
-
-- REGLA ESTRUCTURAL: sigue el plan de cierre de Parte III al detalle. No se explica el corte de cabello, no hay escena conjunta Kal-Chiara, no se resuelve Matteo, no se revela Nereo/Volpi/Corrado/Consorcio como atacante, Fabrizio no es traidor, Bonnie todavía no es protegida.
-- **Cabello:** primera revelación al lector. Kal no lo ve hasta el Cap. 42. No se explica el motivo en ningún punto del capítulo, ni siquiera a Bonnie.
-- **Penthouse, no loft:** decisión mostrada por acción (dirección dada al chofer), nunca explicada en prosa.
-- **"Nada":** mentira funcional completa, colocada tras la pregunta de Kal sobre Matteo. No se glosa como mentira.
-- **Bonnie:** entra como elección lógica de Chiara, no coincidencia; pregunta por qué no Kal; recibe la otra mitad de Palermo comprimida a lo que responde esa pregunta, no un recuento del Cap. 40. Todavía no es protegida ni confidente recíproca.
-- Cierre literal en: "—Y no le digas nada a Kal todavía." Sin coda posterior.
-
-> **CORRECCIÓN QUIRÚRGICA (2026-09-22, Claude Sonnet 5, encargo del autor):** arquitectura aprobada intacta; se corrigió (1) metadata temporal — Kal aterriza a media tarde, no por la mañana; (2) fuga de POV en la apertura — se retiró información del Cap. 39 que Chiara no puede conocer (maleta, frase repetida); (3) descripción del cabello reducida a dato físico puro, sin interpretar el gesto; (4) Torre Norte verificada como canon existente en [[05_Locations/El_Penthouse]], se conserva; (5) cronología de la camioneta corregida — la cámara registra el día que llegó el sobre, antes de que Matteo se fuera, no esa misma noche; Bonnie lo confirma explícitamente ("¿Cuándo la grabaron?" / "Antes de que Matteo se fuera. No es de esta noche."); (6) "una mujer puso a Kal sobre la mesa" pasa a ser un movimiento institucional de la Mesa, sin atribuírselo a Livia por nombre; (7) "un hombre cerca de mi asiento deja de ser mío" pierde la lectura posesiva y pasa a "vinculado a mi asiento... se vuelve reclamable"; (8) se separó causalmente Palermo (por qué Chiara no llama a Kal) del coche de Matteo (por qué existe la investigación) — se retiró "Por eso el coche." y se insertó el corte "¿Y el coche? / Es otra cosa."; (9) se eliminó "tú no le perteneces a nadie todavía. Eres tuya." — reemplazada por la lógica de escalamiento de Chiara ("contigo esto sigue siendo un coche. Con Kal deja de serlo."), que no reclama a Bonnie y prepara la objeción de Kal en el 42; (10) el hallazgo del contacto de Bonnie pasa por listas de control de seguridad del Monarch, no por una agenda de invitados; (11) el cierre pierde el vocativo "Bonnie" para calzar con la línea literal pedida. No se tocó "—Nada.", ni la confesión de que decidió por él, ni el final con "todavía". Sin EPUB, commit ni push.
-**Frente 1, narrador (2026-10-06, SURGERY aprobada por el autor; [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Frente1_Narrador_Parte_III]], §5):** N41-1, N41-2, N41-3. Sólo cortes y compresiones del narrador; diálogo y canon intactos. Sigue BORRADOR.
-- Ajuste 2026-10-18 (orden del autor): Fabrizio ya no está bajo coerción (pasa a Tommaso); su distancia se suaviza: sólo está ocupado. La llamada de la mantelería pierde el «Señora Bellandi», la pausa y «guardó el dato»; ahora la tutea, tiene la cocina encima y ella tacha la mantelería. Prosa DISEÑO pendiente de lectura.
-- Regla de diálogo 05 (2026-10-28, encargo del autor; [[98_Agent_Handoff/sessions/2026-10-28_claude_regla05_otra_mitad_cap47]]): fuera «¿Qué cosas?», «¿Sólo encontrarla...?» / «Encontrarla...» / «Bien.» y la tercera «la ruta no debería existir»; «Supe que lo había herido» se funde a «Desde atrás de la sala». Prosa DISEÑO pendiente de lectura.
-- Ajuste 2026-10-22 (CANON DEL AUTOR): Chiara entra al país por Nueva York, donde atiende pendientes del casino de allá, y de ahí vuela a San Aurelio; así la llegada a Kingsley es doméstica y no necesita revisión de migración. Una frase añadida tras la llegada del jet.
+Nuevo cauce (Fase 4, 2026-11-07, terminal C, encargo [[98_Agent_Handoff/encargos/ENCARGO_Fase4_Paralelo_Reusa]]): **nuevo Cap. 37** (T23, segunda mitad de Palermo; verbo «Reusa y unifica el POV» en [[11_Books/Book_01_Mascaras_De_Cristal/00_Mapa_Cauce_Cap11_Camp_Alder]]). Antes Cap. 46 (numeración de 56; antes 50, 41). El archivo conserva su nombre.
+Estado: BORRADOR. Prosa DISEÑO pendiente de lectura del autor. Versión anterior íntegra: [[11_Books/Book_01_Mascaras_De_Cristal/Escenas_Eliminadas/41_La_Otra_Mitad_Version_2026-11-07]] (allí queda el historial de cirugías: corrección del 2026-09-22, E7 del 2026-09-27, Frente 1 del 2026-10-06, Fabrizio ocupado del 2026-10-18, Nueva York del 2026-10-22, regla 05 del 2026-10-28). Sesión: [[98_Agent_Handoff/sessions/2026-11-07_claude_fase4_cap37_la_otra_mitad]].
+Decisiones del autor para esta reescritura (2026-11-07): extensión de «Reusa», sin estación nueva; **Matteo se fue por su hermano (Elio), no por el robo del Monarch** (CANON DEL AUTOR; se cobra en el Libro IV): Chiara sólo tiene la nota.
+Cambios DISEÑO de esta versión: (1) Il Consorzio como atadura: Chiara le explica a Bonnie que todavía responde ante la Mesa por lo que dejó la muerte de su padre y como cabeza de la casa Ardizzone; el deber primero, también antes que Kal. (2) La llamada de Palermo: Chiara ya sabe de la correa desde Las Gemelas (nuevo 32), así que sabe de dónde viene la llamada aunque Kal no se lo dijo; no nombra a Halbrook ante Bonnie. (3) La nota de Elio vuelve a aparecer en el despacho y la carpeta de Génova se ata a Elio. (4) La apertura ya no fija cuántas horas antes llegó Kal.
+Costura de apertura PROVISIONAL: depende del nuevo 36 (*Mecánico*, lineal, que absorbe la vuelta de Kal del archivo 39). Ojo: en el archivo 40 Chiara dice «Me quedo un par de días más», y la versión anterior de este capítulo la hacía aterrizar el mismo día que Kal; la apertura nueva no fija el intervalo hasta que el 36 lo decida.
+Costura PROVISIONAL (Bonnie): el contacto sale de las listas de seguridad del yate; depende del nuevo 35 (POV Kal), donde Bonnie y Mei-Lin se presentan con nombre.
+Costura de cierre: engancha con el nuevo 38 (*Nada*, F1), que abre con el rastreo de Bonnie.
+Protagonista: Chiara Bellandi (POV único, tercera persona cercana). Kal Mercer sólo por teléfono.
+Personajes con diálogo: Chiara Bellandi, Bonnie García, Kal Mercer (por teléfono), Fabrizio Rinaldi (por teléfono), un chofer del Monarch.
+Ausentes: Matteo Bellacorte (silla vacía, funciones absorbidas). Mencionados: la Mesa, Alessio Lusardi (la foto de la boda), Elio (la nota).
+Lugares: Kingsley Field; el Monarch, Torre Norte (penthouse), despacho que fue de Matteo, despacho de Chiara.
+Función: la otra mitad de Palermo desde Chiara: por qué declaró a Kal ajeno a la casa Ardizzone (el deber primero), que decidió por él, y que lo dejó irse a cumplir una orden ajena sin preguntar. Instala la inconsistencia de mensajería de Matteo, a Bonnie como elección de Chiara y la mentira «—Nada.» como bomba para el 38.
+Se conserva literal: el cabello corto sin explicar; «Al Monarch. Torre Norte.»; «Ciao, bella.» / «Ciao.»; «—Nada.» sin glosa; la foto de la boda; «Quise protegerlo. Y decidí por él lo que era, sin preguntarle.»; «¿Y él qué dijo cuando volvieron?»; cierre literal «—Y no le digas nada a Kal todavía.», sin coda.
 -->
 
-# Capítulo 46 — La otra mitad
+# Capítulo 37 — La otra mitad
 
-El sol ya se acostaba sobre Kingsley Field cuando el jet se detuvo al final de la pista, lejos de la terminal comercial a la que el vuelo de Kal había llegado unas horas antes. Chiara había entrado al país por Nueva York, con un día de pendientes del casino de allá antes de seguir al oeste.
+El sol ya se acostaba sobre Kingsley Field cuando el jet se detuvo al final de la pista, lejos de la terminal comercial por la que Kal había vuelto. Chiara había entrado al país por Nueva York, con un día de pendientes del casino de allá antes de seguir al oeste.
 
 Chiara bajó la escalerilla ella sola, sin nadie detrás que anunciara nada.
 
@@ -51,6 +42,8 @@ La oficina que había sido de Matteo seguía teniendo su nombre en la puerta. Na
 
 Chiara se sentó en la silla que no era suya.
 
+La nota seguía en el cajón de arriba, donde ella misma la había guardado: *Elio desapareció. Tengo que volver a Génova.* Debajo, la promesa de llamar cuando supiera algo. No había llamado. Chiara cerró el cajón sin volver a leerla.
+
 Sobre el escritorio había tres carpetas que en cualquier otra semana habrían llegado directamente a manos de Matteo: una aprobación de nómina para la sala privada, pendiente desde hacía cuatro días; un contrato de mantenimiento del sistema de climatización que alguien había firmado a medias, esperando la segunda firma que nadie sabía a quién pedirle ahora; y una llamada, ya registrada dos veces en la libreta de la recepción, de un proveedor de licores preguntando a quién debía facturarle desde que "el señor Bellacorte" había dejado de contestar.
 
 Firmó la nómina. Dejó el contrato para el día siguiente. Le devolvió la llamada al proveedor ella misma.
@@ -73,7 +66,7 @@ Chiara se quedó con el teléfono todavía en la mano, mirando la puerta con el 
 
 Fue la carpeta de Génova la que no le cuadró.
 
-No por lo que decía —una serie de documentos societarios que Matteo había pedido antes de irse, relacionados con algo que su hermano llevaba entre manos allá—, sino por cómo había llegado. El sello de recepción del Monarch marcaba una fecha y una hora. El remitente, en el sobre, era una notaría de Génova. Y entre uno y otro no había ningún tramo de una empresa internacional de mensajería, ningún número de guía que cruzara un océano: sólo el sello de una compañía local, de San Aurelio, que Chiara no recordaba haber visto nunca en un sobre que decía venir de Italia.
+No por lo que decía —una serie de documentos societarios que Matteo había pedido antes de irse, con el nombre de Elio en dos de las hojas, relacionados con lo que fuera que su hermano llevaba entre manos allá—, sino por cómo había llegado. El sello de recepción del Monarch marcaba una fecha y una hora. El remitente, en el sobre, era una notaría de Génova. Y entre uno y otro no había ningún tramo de una empresa internacional de mensajería, ningún número de guía que cruzara un océano: sólo el sello de una compañía local, de San Aurelio, que Chiara no recordaba haber visto nunca en un sobre que decía venir de Italia.
 
 Pidió el registro de la recepción del Monarch. Ahí estaba: el sobre había entrado por la puerta de carga, de mano de un mensajero de **Envíos Rápidos San Aurelio**, sin que nadie en la recepción hubiera preguntado por qué un documento genovés llegaba en la camioneta de una empresa que también repartía flores y paquetería de farmacia.
 
@@ -139,7 +132,17 @@ Bonnie no dijo nada. Esperó.
 
 —Que un hombre vinculado a mi asiento deja de ser un invitado. Se vuelve reclamable. —Chiara se tocó el anular izquierdo sin darse cuenta, y lo bajó antes de que Bonnie pudiera notarlo—. Así que dije que no era parte de mi casa. Delante de todos. Para que no pudieran usarlo así. En la misma sala me pusieron delante una fotografía de mi boda. Para recordarme cómo debe verse una Ardizzone.
 
-—¿Y él lo escuchó?
+—¿Y no podía no ir? A la reunión, digo.
+
+—No. —Le salió antes de pensarlo, y Chiara se tomó un momento para darle el resto en orden—. Todavía respondo ante esa mesa por lo que dejó la muerte de mi padre. Soy la cabeza de la casa Ardizzone, aunque viva aquí y firme nóminas de un casino. Cuando Palermo llama, voy. Cuando la Mesa pregunta, contesto. Eso va primero. Antes que el Monarch, antes que yo. —Se detuvo un instante—. Antes que él también. Por eso lo dije así.
+
+Bonnie la miró como miraba el vestíbulo, buscando hacia dónde apuntaba cada cosa.
+
+—Allá también tiene jefe, entonces.
+
+Chiara no la corrigió.
+
+—¿Y él lo escuchó? —preguntó Bonnie.
 
 —Desde atrás de la sala. Sí. —Chiara tardó en seguir—. Supe que lo había herido antes de terminar la frase. Y la terminé igual.
 
@@ -151,13 +154,13 @@ Bonnie se recostó apenas en la silla.
 
 —¿Y él qué dijo cuando volvieron?
 
-—No volvimos juntos. —Chiara miró la hoja sobre el escritorio, no a Bonnie—. Esa misma noche le llamaron por algo que no me explicó. Se fue al día siguiente, sin pedirme que lo acompañara. Yo tenía cosas que todavía no había terminado, y no se lo pedí tampoco. —Levantó la vista—. Deshacer con palabras lo que esa mesa acababa de escribir sobre él. No lo conseguí del todo.
+—No volvimos juntos. —Chiara miró la hoja sobre el escritorio, no a Bonnie—. Esa misma noche lo llamaron. No me dijo quién, y no hizo falta: hay gente que lo llama a él cuando quiere algo, y él va, y yo sé desde hace tiempo por qué va. No le pregunté. Se fue al día siguiente, sin pedirme que lo acompañara. Yo tenía cosas que todavía no había terminado, y no se lo pedí tampoco. —Levantó la vista—. Quería deshacer con palabras lo que esa mesa acababa de escribir sobre él. No lo conseguí del todo.
 
 Bonnie dejó pasar un segundo.
 
 —¿Y el coche?
 
-—Es otra cosa. —Chiara tocó la hoja doblada sobre el escritorio—. Matteo se fue antes de Palermo, sin avisar. Alguien tenía que hacer su trabajo mientras tanto, y haciéndolo encontré una ruta que no debería existir. Nada más que eso, todavía.
+—Es otra cosa. —Chiara tocó la hoja doblada sobre el escritorio—. Matteo se fue antes de Palermo, sin avisar, por un asunto de su hermano. Alguien tenía que hacer su trabajo mientras tanto, y haciéndolo encontré una ruta que no debería existir. Nada más que eso, todavía.
 
 Bonnie no dijo que lo entendía. No dijo que Chiara había hecho bien, ni que Kal lo entendería, ni nada que sonara a consuelo.
 

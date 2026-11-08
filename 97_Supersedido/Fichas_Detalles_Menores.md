@@ -98,3 +98,21 @@ Sólo la frase del mandato divino regresa como recuerdo (Cap. 9; retirado el 202
 
 - Apellido: ("Chiara Ardizzone en la costa oeste"; antes "en California", cambiado por el autor 2026-10-06)
 - Muestra: "Chiara Ardizzone en la costa oeste. Ahora sí el mundo se quedó sin mapas." (2, protegida: no reusar; CANON DEL AUTOR 2026-10-06, antes "en California")
+
+## Nicholas Voss
+
+- **Retirado:** 2026-11-07, el autor.
+- **Lo sustituye:** [[02_Characters/Dana_Collins]] es su esposa; ver [[07_Ideas/Libro_04_Incubadora/01_Nicholas_Voss]].
+- **Texto original:**
+
+#### María Voss
+
+**María Voss sigue siendo su esposa.** No es exesposa ni esposa fallecida.
+
+- Sigue casada con Nicholas.
+- Vive cerca de su hijo, fuera de San Aurelio.
+- Viaja ocasionalmente a San Aurelio.
+- El matrimonio es complicado, pero no roto ni reducido a resentimiento.
+- María conoce a Nicholas fuera del uniforme y puede detectar cuándo vuelve a convertir a una persona en una responsabilidad que debe “salvar”.
+
+

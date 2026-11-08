@@ -2,6 +2,8 @@
 
 *Ficha de Facción — banda menor del sur*
 
+> **CANON DEL AUTOR (2026-11-07), Guerra de los Tres:** bando de Kal, como aliada circunstancial. Ver [[03_Factions/Mapa_de_Conflicto_Activo#Bandos en la Guerra de los Tres (*Voto de Ceniza*) — CANON DEL AUTOR (2026-11-07)]].
+
 **Qué es:** red de esquinas, bodegas pequeñas y mercado nocturno alrededor del Canal Seco.  
 **Territorio:** sur de [[05_Locations/San_Aurelio]], Canal Seco.  
 **Cabeza:** Irene Salcedo.  
