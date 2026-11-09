@@ -25,7 +25,7 @@ Chiara se incorporó antes de que él viera nada que anunciara que habían llega
 
 —Ya casi —dijo, y fue lo primero que decía en veinte minutos.
 
-La casa apareció después de una curva cerrada, no de golpe: primero el muro, después un portón de hierro ya abierto, después un patio con un pozo seco en el centro que alguien seguía barriendo aunque nadie lo usara. Piedra clara, contraventanas verde oscuro descascaradas de un modo que a Kal no le pareció descuido sino tiempo, una buganvilia que había decidido hacía años a qué lado de la fachada trepar. Olía a comida hecha esa mañana y a leña quemándose despacio en algún patio trasero, y se oía un perro en alguna parte que no ladraba en serio.
+La casa apareció después de una curva cerrada, no de golpe: primero el muro, después un portón de hierro ya abierto, después un patio con un pozo seco en el centro que alguien seguía barriendo aunque nadie lo usara, y que dos faroles de pared sacaban de la oscuridad. A esa luz: piedra clara, contraventanas verde oscuro descascaradas de un modo que a Kal no le pareció descuido sino tiempo, una buganvilia que había decidido hacía años a qué lado de la fachada trepar. Olía a comida hecha esa mañana y a leña quemándose despacio en algún patio trasero, y se oía un perro en alguna parte que no ladraba en serio.
 
 El coche no había terminado de detenerse cuando un hombre salió por la puerta principal.
 

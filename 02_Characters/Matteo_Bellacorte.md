@@ -1,5 +1,7 @@
 # Matteo Bellacorte
 
+> **NUEVO CAUCE — LA SALIDA DE MATTEO (2026-11-08; [[98_Agent_Handoff/sessions/2026-11-08_claude_matteo_y_costuras_parte_III]]):** **DECISIÓN DEL AUTOR (2026-11-08):** Matteo se fue a Italia **a investigar lo que en realidad pasó con Elio**. No lo causa el robo ni que Il Consorzio supiera de las rutas. **No se dice en el Libro I; se explica en el Libro IV.** Sustituye «Enlaza, sin causarla» (DISEÑO del plan del robo) y la versión de la nota del nuevo 33 («Il Consorzio supo que las rutas salieron de su caja»). En el Libro I: Chiara sólo tiene la carta y la nota de Elio; Kal, la versión de Elio. Lo que Matteo guardaba para Italia lo custodia Chiara desde el nuevo 33.
+
 > **Numeración:** desde 2026-10-22 el Libro I usa numeración corrida definitiva (56 caps.); este documento cita la numeración anterior. Correspondencia en [[11_Books/Book_01_Mascaras_De_Cristal/00_Book_Map]].
 
 *Seda y Polvora - Ficha de Personaje*

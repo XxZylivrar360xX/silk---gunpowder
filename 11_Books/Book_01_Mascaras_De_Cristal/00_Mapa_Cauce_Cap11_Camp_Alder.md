@@ -55,7 +55,7 @@
 
 | Nuevo | Tarjeta · POV | Viene de | Verbo | Qué cambia |
 |---|---|---|---|---|
-| 33 | T20 · Chiara | 40 *Sin fecha de regreso* (35 · 2,461) | Reescribe la causa | Matteo se va porque Il Consorzio supo que las rutas salieron de su caja. **PENDIENTE (2026-11-08):** lo contradice el CANON de la nota del 37 y de `cap34_costuras` («se fue por Elio, no por el robo; se cobra en el Libro IV»). Lo decide el autor; no se propaga ninguna de las dos. |
+| 33 | T20 · Chiara | 40 *Sin fecha de regreso* (35 · 2,461) | Reescribe la causa | Matteo se va porque Il Consorzio supo que las rutas salieron de su caja. **SUPERSEDIDO (DECISIÓN DEL AUTOR, 2026-11-08):** Matteo se fue a Italia a investigar lo que en realidad pasó con Elio; no lo causa el robo; se explica en el Libro IV. |
 | 34 | T21 · Chiara | 41 *También las mañanas* (36 · 2,501 · mixto) + 42 *Cuatro letras* (37 · 2,333 · Kal) | Funde | H16 en POV Chiara. La carta *La Notte Bellandi*, el beso de labial y «—Chiara» pasan al 35. |
 | 35 | T22 · **Kal** | 43 *Al revés* (38 · 7,587 · 69 % Chiara) | Reescribe y poda (a unas 4,500) | **Cambia de dueño.** Abre con la carta del yate. La bala del corral lleva a Volpi. Aquí se ve que El Patio crece alrededor de Kal. |
 | 36 | T23 · Kal | 45 *Mecánico* (40 · 4,865) + 44 *Un par de días más* (39 · 1,966) | Funde | Contado en orden, sin analepsis. La llamada la hace un intermediario. Incluye la llamada a Garrett. |
@@ -120,7 +120,7 @@
   - **32** *Mi pareja* (Kal, ~3,880): H21 literal y la coda de la ferretería; la palabra le llega a Crowe (CANON). Cierra la Parte II.
 - **Parte II renumerada (2026-11-08, Codex):** encabezados 20–32, el [[11_Books/Book_01_Mascaras_De_Cristal/00_Book_Map]] y el [[12_Craft_Policies/CHAPTER_STATUS]]. Reporte: [[98_Agent_Handoff/sessions/2026-11-08_codex_para_claude_renumeracion_parte_II]].
 - **Parte III redactada hasta Camp Alder (2026-11-08, BORRADOR, DISEÑO):** nuevos 33–39, todos en un solo POV. Estado y costuras: [[98_Agent_Handoff/sessions/2026-11-08_claude_fase4_parte3_corte]]; propagación: [[98_Agent_Handoff/sessions/2026-11-08_claude_propagacion_parte_III]].
-  - **33** *Sin fecha de regreso* (Chiara, ~3,330, archivo 35): Valenti le pasa a Chiara lo que guardaba Matteo para Italia; el libro de las rutas sigue en la caja; la filtración queda PENDIENTE (CANON). La causa de la salida de Matteo, PENDIENTE (ver la fila de arriba).
+  - **33** *Sin fecha de regreso* (Chiara, ~3,330, archivo 35): Valenti le pasa a Chiara lo que guardaba Matteo para Italia; el libro de las rutas sigue en la caja; la filtración queda PENDIENTE (CANON). La salida de Matteo: va a investigar lo de Elio y no se dice (DECISIÓN DEL AUTOR); el párrafo que la leía como cobro se reescribió.
   - **34** *También las mañanas* (Chiara, ~2,870, archivo 36): H16 en POV Chiara; la sangre es de un trabajo de Varek y la botella sale de ahí; la persecución la cuenta Héctor; el gesto del cuello con Stella (CANON). **Se retira el archivo 37**, *Cuatro letras* (EXCLUDE).
   - **35** *Al revés* (Kal, ~4,900, archivo 38): la bala del corral es la que mató a Vento y lleva a un apellido que no se dice; el avión sale de Kingsley a la una; Mabel y Acción de Gracias se quedan (CANON).
   - **36** *Mecánico* (Kal, ~5,880, archivo 40): calendario A; la llamada la hace un intermediario; Volpi, un beat callado en la Mesa (CANON). **Se retira el archivo 39**, *Un par de días más* (EXCLUDE).

@@ -249,7 +249,7 @@ En el televisor de la esquina pasaba un partido sin sonido. Un hombre en la barr
 
 —No. Ya no.
 
-Chiara no le preguntó qué hacía Kal a medianoche cerca de una base militar, ni por qué se había quedado atrás cuando los otros tres volvieron. Lucía tampoco lo ofreció. Por la forma en que no lo ofreció, Chiara creyó entender que la subjefa sabía tan poco como ella, y que eso le molestaba casi tanto.
+Chiara no le preguntó qué hacía Kal de madrugada cerca de una base militar, ni por qué se había quedado atrás cuando los otros tres volvieron. Lucía tampoco lo ofreció. Por la forma en que no lo ofreció, Chiara creyó entender que la subjefa sabía tan poco como ella, y que eso le molestaba casi tanto.
 
 —¿Qué puede hacer? —preguntó Chiara.
 

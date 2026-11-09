@@ -2,50 +2,11 @@
 
 Generada por `tools/audiolibro/build_audiobook.py`; no editar a mano. Tras cambiar la prosa de un capítulo, correr `--estado` para marcarlo PENDIENTE; la bandera se cierra sola cuando el script regenera ese audio.
 
-Actualizada: 2026-11-08 14:33. Al día: 9 de 47.
+Actualizada: 2026-11-08 18:14. Al día: 47 de 47.
 
 ## Pendientes
 
-| Cap. | Título | Estado | Motivo | Desde |
-|---|---|---|---|---|
-| 3 | Los viejos días | PENDIENTE | cambió la prosa | 2026-11-07 21:26 |
-| 11 | La balanza | PENDIENTE | cambió la prosa | 2026-11-07 22:28 |
-| 12 | Dos sillas vacías | PENDIENTE | cambió la prosa | 2026-11-07 22:48 |
-| 13 | Roma Atrii | PENDIENTE | cambió la prosa | 2026-11-07 23:10 |
-| 14 | La regla del teléfono | SIN AUDIO |  | 2026-11-08 01:33 |
-| 15 | Yo lo llevo | SIN AUDIO |  | 2026-11-08 11:14 |
-| 16 | Le quedé debiendo | SIN AUDIO |  | 2026-11-08 11:14 |
-| 17 | El día nublado | SIN AUDIO |  | 2026-11-08 11:14 |
-| 18 | Lo pequeño | SIN AUDIO |  | 2026-11-08 11:14 |
-| 19 | Grazie | SIN AUDIO |  | 2026-11-08 11:14 |
-| 20 | La cifra | SIN AUDIO |  | 2026-11-08 13:19 |
-| 21 | Con su proveedor | SIN AUDIO |  | 2026-11-08 13:19 |
-| 22 | Lo que cueste | SIN AUDIO |  | 2026-11-08 13:19 |
-| 23 | Oveja entre lobos | SIN AUDIO |  | 2026-11-08 13:19 |
-| 24 | Vienes conmigo | SIN AUDIO |  | 2026-11-08 13:19 |
-| 25 | Libros abiertos | SIN AUDIO |  | 2026-11-08 13:19 |
-| 26 | Me encuentro bien | SIN AUDIO |  | 2026-11-08 13:19 |
-| 27 | Una silla | SIN AUDIO |  | 2026-11-08 13:19 |
-| 28 | Media Baraja | SIN AUDIO |  | 2026-11-08 13:19 |
-| 29 | Vamos a casa | SIN AUDIO |  | 2026-11-08 13:19 |
-| 30 | Línea directa | SIN AUDIO |  | 2026-11-08 13:19 |
-| 31 | Lo único que es mío | SIN AUDIO |  | 2026-11-08 13:19 |
-| 32 | Mi pareja | SIN AUDIO |  | 2026-11-08 13:19 |
-| 33 | Sin fecha de regreso | SIN AUDIO |  | 2026-11-08 13:56 |
-| 34 | También las mañanas | SIN AUDIO |  | 2026-11-08 03:27 |
-| 35 | Al revés | SIN AUDIO |  | 2026-11-08 03:02 |
-| 36 | Mecánico | SIN AUDIO |  | 2026-11-08 13:57 |
-| 37 | La otra mitad | SIN AUDIO |  | 2026-11-07 23:10 |
-| 38 | Nada | SIN AUDIO |  | 2026-11-08 01:33 |
-| 39 | La puerta | SIN AUDIO |  | 2026-11-08 01:33 |
-| 40 | Jurisdicción | SIN AUDIO |  | 2026-11-08 13:56 |
-| 41 | Ropa limpia | SIN AUDIO |  | 2026-11-08 13:56 |
-| 42 | Llaves | SIN AUDIO |  | 2026-11-08 13:56 |
-| 43 | Intereses | SIN AUDIO |  | 2026-11-08 13:56 |
-| 44 | Su nombre | SIN AUDIO |  | 2026-11-08 13:56 |
-| 45 | Por si vuelve | SIN AUDIO |  | 2026-11-08 13:56 |
-| 46 | A oscuras | SIN AUDIO |  | 2026-11-08 13:56 |
-| 47 | La tierra bajo sus botas | SIN AUDIO |  | 2026-11-08 13:56 |
+Ninguno: todos los audios corresponden a la prosa actual.
 
 ## Capítulos
 
@@ -53,7 +14,7 @@ Actualizada: 2026-11-08 14:33. Al día: 9 de 47.
 |---|---|---|---|
 | 1 | Un hombre de negocios intachable | AL DIA | 2026-11-06 |
 | 2 | Demasiado listo | AL DIA | 2026-11-05 |
-| 3 | Los viejos días | PENDIENTE | 2026-11-05 |
+| 3 | Los viejos días | AL DIA | 2026-11-08 |
 | 4 | Tarifa nocturna | AL DIA | 2026-11-04 |
 | 5 | Cliente y proveedor | AL DIA | 2026-11-03 |
 | 6 | La pizza de calabaza | AL DIA | 2026-11-04 |
@@ -61,46 +22,84 @@ Actualizada: 2026-11-08 14:33. Al día: 9 de 47.
 | 8 | La noche del ladrillo | AL DIA | 2026-11-04 |
 | 9 | La carrera de máscaras | AL DIA | 2026-11-05 |
 | 10 | La teniente | AL DIA | 2026-11-01 |
-| 11 | La balanza | PENDIENTE | 2026-11-04 |
-| 12 | Dos sillas vacías | PENDIENTE | 2026-11-01 |
-| 13 | Roma Atrii | PENDIENTE | 2026-11-01 |
-| 14 | La regla del teléfono | SIN AUDIO | 2026-11-05 |
-| 15 | Yo lo llevo | SIN AUDIO | 2026-11-01 |
-| 16 | Le quedé debiendo | SIN AUDIO | 2026-11-01 |
-| 17 | El día nublado | SIN AUDIO | 2026-11-02 |
-| 18 | Lo pequeño | SIN AUDIO | 2026-11-01 |
-| 19 | Grazie | SIN AUDIO | 2026-11-01 |
-| 20 | La cifra | SIN AUDIO | 2026-11-01 |
-| 21 | Con su proveedor | SIN AUDIO | 2026-11-01 |
-| 22 | Lo que cueste | SIN AUDIO | 2026-11-01 |
-| 23 | Oveja entre lobos | SIN AUDIO | 2026-11-01 |
-| 24 | Vienes conmigo | SIN AUDIO | 2026-11-01 |
-| 25 | Libros abiertos | SIN AUDIO | 2026-11-01 |
-| 26 | Me encuentro bien | SIN AUDIO | 2026-11-01 |
-| 27 | Una silla | SIN AUDIO | 2026-11-01 |
-| 28 | Media Baraja | SIN AUDIO | 2026-11-01 |
-| 29 | Vamos a casa | SIN AUDIO | 2026-11-01 |
-| 30 | Línea directa | SIN AUDIO | 2026-11-01 |
-| 31 | Lo único que es mío | SIN AUDIO | 2026-11-01 |
-| 32 | Mi pareja | SIN AUDIO | 2026-11-01 |
-| 33 | Sin fecha de regreso | SIN AUDIO | 2026-11-01 |
-| 34 | También las mañanas | SIN AUDIO | 2026-11-01 |
-| 35 | Al revés | SIN AUDIO | 2026-11-01 |
-| 36 | Mecánico | SIN AUDIO | 2026-11-01 |
-| 37 | La otra mitad | SIN AUDIO | 2026-11-01 |
-| 38 | Nada | SIN AUDIO | 2026-11-01 |
-| 39 | La puerta | SIN AUDIO | 2026-11-01 |
-| 40 | Jurisdicción | SIN AUDIO | 2026-11-01 |
-| 41 | Ropa limpia | SIN AUDIO | 2026-11-01 |
-| 42 | Llaves | SIN AUDIO | 2026-11-01 |
-| 43 | Intereses | SIN AUDIO | 2026-11-01 |
-| 44 | Su nombre | SIN AUDIO | 2026-11-01 |
-| 45 | Por si vuelve | SIN AUDIO | 2026-11-01 |
-| 46 | A oscuras | SIN AUDIO | 2026-11-01 |
-| 47 | La tierra bajo sus botas | SIN AUDIO | 2026-11-01 |
+| 11 | La balanza | AL DIA | 2026-11-08 |
+| 12 | Dos sillas vacías | AL DIA | 2026-11-08 |
+| 13 | Roma Atrii | AL DIA | 2026-11-08 |
+| 14 | La regla del teléfono | AL DIA | 2026-11-08 |
+| 15 | Yo lo llevo | AL DIA | 2026-11-08 |
+| 16 | Le quedé debiendo | AL DIA | 2026-11-08 |
+| 17 | El día nublado | AL DIA | 2026-11-08 |
+| 18 | Lo pequeño | AL DIA | 2026-11-08 |
+| 19 | Grazie | AL DIA | 2026-11-08 |
+| 20 | La cifra | AL DIA | 2026-11-08 |
+| 21 | Con su proveedor | AL DIA | 2026-11-08 |
+| 22 | Lo que cueste | AL DIA | 2026-11-08 |
+| 23 | Oveja entre lobos | AL DIA | 2026-11-08 |
+| 24 | Vienes conmigo | AL DIA | 2026-11-08 |
+| 25 | Libros abiertos | AL DIA | 2026-11-08 |
+| 26 | Me encuentro bien | AL DIA | 2026-11-08 |
+| 27 | Una silla | AL DIA | 2026-11-08 |
+| 28 | Media Baraja | AL DIA | 2026-11-08 |
+| 29 | Vamos a casa | AL DIA | 2026-11-08 |
+| 30 | Línea directa | AL DIA | 2026-11-08 |
+| 31 | Lo único que es mío | AL DIA | 2026-11-08 |
+| 32 | Mi pareja | AL DIA | 2026-11-08 |
+| 33 | Sin fecha de regreso | AL DIA | 2026-11-08 |
+| 34 | También las mañanas | AL DIA | 2026-11-08 |
+| 35 | Al revés | AL DIA | 2026-11-08 |
+| 36 | Mecánico | AL DIA | 2026-11-08 |
+| 37 | La otra mitad | AL DIA | 2026-11-08 |
+| 38 | Nada | AL DIA | 2026-11-08 |
+| 39 | La puerta | AL DIA | 2026-11-08 |
+| 40 | Jurisdicción | AL DIA | 2026-11-08 |
+| 41 | Ropa limpia | AL DIA | 2026-11-08 |
+| 42 | Llaves | AL DIA | 2026-11-08 |
+| 43 | Intereses | AL DIA | 2026-11-08 |
+| 44 | Su nombre | AL DIA | 2026-11-08 |
+| 45 | Por si vuelve | AL DIA | 2026-11-08 |
+| 46 | A oscuras | AL DIA | 2026-11-08 |
+| 47 | La tierra bajo sus botas | AL DIA | 2026-11-08 |
 
 ## Historial
 
+- 2026-11-08 18:14 · Cap. 47 (50b_La_Tierra_Bajo_Sus_Botas.md) · audio generado
+- 2026-11-08 18:14 · Cap. 46 (50_A_Oscuras.md) · audio generado
+- 2026-11-08 18:14 · Cap. 45 (49_Enfrente.md) · audio generado
+- 2026-11-08 18:14 · Cap. 44 (48_Su_Nombre.md) · audio generado
+- 2026-11-08 18:14 · Cap. 43 (47_Intereses.md) · audio generado
+- 2026-11-08 18:14 · Cap. 42 (46_Llaves.md) · audio generado
+- 2026-11-08 18:14 · Cap. 41 (45_Ropa_Limpia.md) · audio generado
+- 2026-11-08 18:14 · Cap. 40 (44_Jurisdiccion.md) · audio generado
+- 2026-11-08 18:14 · Cap. 39 (43_La_Puerta.md) · audio generado
+- 2026-11-08 18:14 · Cap. 38 (42_Nada.md) · audio generado
+- 2026-11-08 18:14 · Cap. 37 (41_La_Otra_Mitad.md) · audio generado
+- 2026-11-08 18:14 · Cap. 36 (40_Mecanico.md) · audio generado
+- 2026-11-08 18:14 · Cap. 35 (38_Al_Reves.md) · audio generado
+- 2026-11-08 18:14 · Cap. 34 (36_Tambien_Las_Mananas.md) · audio generado
+- 2026-11-08 18:14 · Cap. 33 (35_Sin_Fecha_De_Regreso.md) · audio generado
+- 2026-11-08 18:14 · Cap. 32 (34_Mi_Pareja.md) · audio generado
+- 2026-11-08 18:14 · Cap. 31 (33_Mas_De_La_Cuenta.md) · audio generado
+- 2026-11-08 18:14 · Cap. 30 (32_Linea_Directa.md) · audio generado
+- 2026-11-08 18:14 · Cap. 29 (31_Vamos_A_Casa.md) · audio generado
+- 2026-11-08 18:14 · Cap. 28 (30_Media_Baraja.md) · audio generado
+- 2026-11-08 18:14 · Cap. 27 (29_El_Patio_Ajeno.md) · audio generado
+- 2026-11-08 18:14 · Cap. 26 (26_Me_Encuentro_Bien.md) · audio generado
+- 2026-11-08 18:14 · Cap. 25 (25_Libros_Abiertos.md) · audio generado
+- 2026-11-08 18:14 · Cap. 24 (24d_Vienes_Conmigo.md) · audio generado
+- 2026-11-08 18:14 · Cap. 23 (24c_El_Corral.md) · audio generado
+- 2026-11-08 18:14 · Cap. 22 (24b_Lo_Que_Cueste.md) · audio generado
+- 2026-11-08 18:14 · Cap. 21 (22b_Con_Su_Proveedor.md) · audio generado
+- 2026-11-08 18:14 · Cap. 20 (22a_La_Cifra.md) · audio generado
+- 2026-11-08 18:14 · Cap. 19 (21b_Grazie.md) · audio generado
+- 2026-11-08 18:14 · Cap. 18 (20_El_Mirador.md) · audio generado
+- 2026-11-08 18:14 · Cap. 17 (18_El_Dia_Nublado.md) · audio generado
+- 2026-11-08 18:14 · Cap. 16 (17_Cuentas_Claras.md) · audio generado
+- 2026-11-08 18:14 · Cap. 15 (15_El_Porton.md) · audio generado
+- 2026-11-08 18:14 · Cap. 14 (14_La_Regla_Del_Telefono.md) · audio generado
+- 2026-11-08 18:14 · Cap. 13 (12_Roma_Atrii.md) · audio regenerado
+- 2026-11-08 18:14 · Cap. 12 (10_El_Loft_Del_Soltero.md) · audio regenerado
+- 2026-11-08 18:14 · Cap. 11 (09_La_Balanza.md) · audio regenerado
+- 2026-11-08 18:14 · Cap. 3 (03_Los_Viejos_Dias.md) · audio regenerado
 - 2026-11-08 13:56 · Cap. 47 (50b_La_Tierra_Bajo_Sus_Botas.md) · audio borrado
 - 2026-11-08 13:56 · Cap. 46 (50_A_Oscuras.md) · audio borrado
 - 2026-11-08 13:56 · Cap. 45 (49_Enfrente.md) · audio borrado

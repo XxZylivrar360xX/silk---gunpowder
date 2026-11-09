@@ -1,4 +1,5 @@
 <!--
+SUPERSESIÓN (2026-11-08): **DECISIÓN DEL AUTOR (2026-11-08):** Matteo se fue a Italia **a investigar lo que en realidad pasó con Elio**. No lo causa el robo ni que Il Consorzio supiera de las rutas. **No se dice en el Libro I; se explica en el Libro IV.** Se reescribió el párrafo posterior a la llamada de Valenti (fuera «el cobro había ido a otro lado» y «Eso no era clemencia»); queda: «No sabía qué había pasado en Génova, y Valenti no se lo iba a decir…». La decisión de abajo «Elio es la palanca: Il Consorzio supo… Matteo se va» queda SUPERSEDIDA en lo que toca a la causa. Sesión: [[98_Agent_Handoff/sessions/2026-11-08_claude_matteo_y_costuras_parte_III]].
 Renumerado 2026-11-08 (nuevo cauce, Parte III): antes Cap. 40.
 **NUEVO CAUCE, Fase 4 (2026-11-08, terminal B, fuera de reparto por orden del autor): nuevo Cap. 33 (T20, POV Chiara, «Reescribe la causa»). Abre la Parte III (33–47). Estado: BORRADOR; lo nuevo es DISEÑO y espera lectura del autor.** Versión anterior íntegra: [[11_Books/Book_01_Mascaras_De_Cristal/Escenas_Eliminadas/35_Sin_Fecha_De_Regreso_Version_2026-11-07]]. Nota de sesión: [[98_Agent_Handoff/sessions/2026-11-08_claude_fase4_cap33_sin_fecha_de_regreso]].
 CANON DEL AUTOR (2026-11-08): Matteo se va porque Il Consorzio supo que las rutas salieron de su caja (tarjetas, 2026-11-07). Elio es la palanca: Il Consorzio supo, La Mesa activa a Volpi, Elio desaparece y Matteo se va; la carta queda literal y nada de eso se dice en prosa (Chiara sólo lo intuye). Valenti llama y le pasa a Chiara lo que guardaba Matteo («desde hoy lo guarda usted»). El libro de las rutas sigue en la caja. Cómo lo supo Il Consorzio queda fuera de página y PENDIENTE: Chiara repasa candidatos (Tommaso, los presos de O.R.T., quien dio la combinación) y no escribe ningún nombre.
@@ -294,7 +295,7 @@ Chiara se quedó con el auricular en la mano hasta que empezó a sonar el tono, 
 
 *Si algo se pierde ahí, no se le pierde al Monarch. Se le pierde a usted, y la Mesa lo va a cobrar como se cobra en casa: primero a la cabeza.*
 
-No sabía qué había pasado en Génova. Sabía en qué orden se cobraban las cosas en casa, y esta vez el orden había salido al revés: el cobro había ido a otro lado, y a la cabeza le habían dejado la caja. Eso no era clemencia. Era quitar a alguien de en medio. La próxima vez no iba a haber nadie entre la Mesa y ella.
+No sabía qué había pasado en Génova, y Valenti no se lo iba a decir. Sabía lo otro: a la cabeza le habían dejado la caja, y la próxima vez no iba a haber nadie entre la Mesa y ella.
 
 Se sentó, por fin, en la silla de Matteo.
 

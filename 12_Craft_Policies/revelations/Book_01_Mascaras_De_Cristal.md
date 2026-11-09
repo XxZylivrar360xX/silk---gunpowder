@@ -324,10 +324,10 @@ Propagado en [[98_Agent_Handoff/sessions/2026-11-08_claude_propagacion_parte_II]
 
 ## Nuevo cauce, Parte III: lo que cada uno calla (nuevos 33–39, 2026-11-08)
 
-Propagado en [[98_Agent_Handoff/sessions/2026-11-08_claude_propagacion_parte_III]]. Prosa BORRADOR; lo nuevo es DISEÑO salvo donde dice CANON. **Fuera de esta sección, a propósito:** la causa de la salida de Matteo (robo e Il Consorzio, o Elio), que es una decisión PENDIENTE del autor (ver [[98_Agent_Handoff/DECISIONS]]).
+Propagado en [[98_Agent_Handoff/sessions/2026-11-08_claude_propagacion_parte_III]]. Prosa BORRADOR; lo nuevo es DISEÑO salvo donde dice CANON. **La salida de Matteo (DECISIÓN DEL AUTOR, 2026-11-08):** se fue a Italia a investigar lo que en realidad pasó con Elio. **Nadie lo sabe en el Libro I** (ni Chiara, ni Kal, ni el lector); se explica en el Libro IV. Chiara no lo lee como cobro: no sabe qué pasó en Génova.
 
 - **La custodia (33, CANON):** Valenti llama por la línea de Italia y le pasa a Chiara lo que guardaba Matteo para Italia («desde hoy lo guarda usted»; «Il Consorzio prefiere que esté en una sola mano. La de la casa»). El libro de las rutas sigue en la caja del Monarch y no entra al loft (34). Kal no lo sabe. Lo único que a Chiara se le escapa con Valenti: «Matteo no tuvo nada que ver.»
-- **La versión de Kal (33):** Kal sólo conoce la versión de Elio de la salida de Matteo; Chiara no le da otra. Qué intuye Chiara depende de la decisión PENDIENTE.
+- **La versión de Kal (33):** Kal sólo conoce la versión de Elio de la salida de Matteo; Chiara no le da otra, porque tampoco tiene otra.
 - **La filtración (33–34, PENDIENTE):** Chiara repasa candidatos sin concluir (quizá Tommaso, los presos de O.R.T., quien dio la combinación) y no escribe ningún nombre. Tommaso no pregunta por Matteo en el 33 y pregunta por primera vez en el 34 («Lo que dice su carta. Que está con su hermano.» / «Puede ser.»). No concluye nada. No se resuelve en el Libro I.
 - **La tarjeta (34):** «*Auguri. La casa la recuerda en su día.*», firmada con *V.*; la atadura de T20 en papel de cumpleaños. Sólo Chiara y el lector.
 - **La sangre (34, CANON):** el lector y Chiara saben que la sangre del fregadero es de un trabajo de Varek («No es mía»); Chiara no conoce el detalle ni sabe que la Romanée-Conti sale del mismo trabajo, y nunca lo liga. Calla lo de los nudillos de la derecha («Una cerca» es de ella; los nudillos, no).

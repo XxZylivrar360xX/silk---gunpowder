@@ -4,6 +4,8 @@ El detalle se guarda una sola vez en notas de sesión. Este archivo es navegaci�
 
 ## Sesiones recientes
 
+- 2026-11-08: DECISIÓN DEL AUTOR: Matteo se fue a Italia a investigar lo de Elio (no por el robo; Libro IV); costuras elegidas por el autor en los nuevos 33, 36, 37, 38 y 40: [[98_Agent_Handoff/sessions/2026-11-08_claude_matteo_y_costuras_parte_III]]
+- 2026-11-08: Parte III del nuevo cauce (nuevos 33–39) propagada a Hitos, revelaciones, milestones, fichas, voz, timeline y plan de cierre; DECISIÓN DEL AUTOR: bala del corral, avión a la una, calendario A, Mabel en el 35, 1A Crowe–Halbrook; PENDIENTE: por qué se fue Matteo: [[98_Agent_Handoff/sessions/2026-11-08_claude_propagacion_parte_III]]
 - 2026-11-08: Parte II del nuevo cauce (nuevos 20–32) revisada tras la renumeración de Codex y propagada a Hitos, revelaciones, milestones, fichas y voz; DECISIÓN DEL AUTOR: la multa se cuenta en el loft (manda el 27; el 28 se ajusta): [[98_Agent_Handoff/sessions/2026-11-08_claude_propagacion_parte_II]]
 - 2026-11-08: embarazo de Chiara y falsa muerte de Elenna (decisiones del autor: riesgo por edad, detonante Trix e Iris, reposo a los seis meses, parto en hospital con Camila y Lucía, Héctor lo sabe antes de la montaña): [[98_Agent_Handoff/sessions/2026-11-08_claude_embarazo_y_falsa_muerte_elenna]]
 - 2026-11-08: Guerra de los Tres en tres tiempos (clímax en un día: arresto de Dario, montaña y Santa Lucía); Harper y Mei-Lin separadas; Tyler absorbe la muerte de Halbrook y va a prisión, Harper sale del país (CANON DEL AUTOR): [[98_Agent_Handoff/sessions/2026-11-08_claude_guerra_tres_tiempos_harper_tyler]]

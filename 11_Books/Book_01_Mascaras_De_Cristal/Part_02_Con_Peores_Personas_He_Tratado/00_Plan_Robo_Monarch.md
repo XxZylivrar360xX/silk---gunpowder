@@ -44,7 +44,7 @@ Parte del [[11_Books/Book_01_Mascaras_De_Cristal/00_Plan_Nuevo_Cauce]] (el Tasad
 **CANON DEL AUTOR:** la caja fuerte del despacho de Matteo, el robo **captado en cámaras**. Dentro, entre efectivo, están **las rutas de importación al país que usa Il Consorzio**: «lo menos valioso pero lo más peligroso».
 
 - **Para los ladrones** no valen nada. Las encuentran en el doble fondo y entienden que, si estaban escondidas, alguien pagará por ellas.
-- **Si las ve la policía**, es asunto federal. **Si Il Consorzio sabe que salieron de la caja**, Matteo queda marcado (DISEÑO: enlaza, sin causarla, con su salida del Cap. 40 (archivo 35)).
+- **Si las ve la policía**, es asunto federal. **Si Il Consorzio sabe que salieron de la caja**, Matteo queda marcado (DISEÑO: enlaza, sin causarla, con su salida del Cap. 40 (archivo 35)). **DECISIÓN DEL AUTOR (2026-11-08):** la salida no la causa el robo; Matteo se va a investigar lo que en realidad pasó con Elio y eso se explica en el Libro IV. Chiara custodia el libro de las rutas desde el nuevo 33.
 - **Quién sabe qué (DISEÑO):** solo Matteo y Chiara saben que estaban ahí. Tommaso cree que fue efectivo. Como delegado Lusardi, tendría que reportarlo a La Mesa: por eso Chiara lo esquiva. Dario lo sabe porque lo mandó.
 - **Por qué las tiene un Bellacorte (DISEÑO):** el capital lo pone Bellacorte y Matteo guarda la copia local.
 - Las cámaras impiden negar el robo; solo se puede **achicar**. Chiara decide qué cifra existe antes de que llegue la patrulla (la central de alarmas de Eagle Eye ya llamó). Ése es el reloj del 22a.

@@ -66,7 +66,7 @@ Fase 2 del tramo, en tarjetas de evento (trama / relación / por eso / POV): [Ta
 4. **Crowe les pasa a los intermediarios de Halbrook lo de los papeles de Nadir:** así nace la palanca de la correa.
 5. **Varek, aviso y cobro:** en H15 le avisa a Chiara que alguien de fuera pregunta por ella; en H5 ella va a él a pedir ayuda y él le cobra, sin amenazar.
 6. **Vento muere en el corral (H12), asesinado por orden de Crowe como venganza.** Tras noquear a Chiara, el atacante mata al caballo; Kal encuentra primero a Vento y luego a Chiara, unos metros más adelante, junto al corral. Sustituye la muerte por fractura del Cap. 38 (archivo 33b), que queda sin función y se retira o se reubica su carga («No es cuestión de dinero», el gesto del cuello).
-7. **Matteo se va a Génova porque Il Consorzio supo que las rutas salieron de su caja** (sustituye «enlaza, sin causarla» del plan del Monarch).
+7. ~~**Matteo se va a Génova porque Il Consorzio supo que las rutas salieron de su caja**~~ **SUPERSEDIDO (DECISIÓN DEL AUTOR, 2026-11-08):** Matteo se fue a Italia a investigar lo que en realidad pasó con Elio; no lo causa el robo; no se dice en el Libro I y se explica en el Libro IV.
 8. **La llamada de Palermo (Cap. 45) la hace un intermediario**, no Halbrook.
 9. **Crowe es el comprador de las armas largas de Camp Alder** (H19).
 
