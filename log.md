@@ -4,6 +4,7 @@ El detalle se guarda una sola vez en notas de sesión. Este archivo es navegaci�
 
 ## Sesiones recientes
 
+- 2026-11-08: **Fase 4 del nuevo cauce CERRADA** (los 47 capítulos reconstruidos y propagados, costuras 40–47 revisadas, exportación al día; nada se sella; sigue la lectura corrida por Parte): [[98_Agent_Handoff/sessions/2026-11-08_claude_cierre_fase4]].
 - 2026-11-08: Fase 4, terminal B: nuevo 44 *Su nombre* ajustado al cauce (sólo «había hecho sonar»; pasa las comprobaciones; sin poda) y propagado: [[98_Agent_Handoff/sessions/2026-11-08_claude_fase4_cap44_su_nombre]]
 - 2026-11-08: nuevos 45–47 ajustados al cauce (terminal C); DECISIÓN DEL AUTOR: D3 («General.»), D4, atadura de Il Consorzio, sin el sedán rojo de Crowe: [[98_Agent_Handoff/sessions/2026-11-08_claude_fase4_cap45_por_si_vuelve]], [[98_Agent_Handoff/sessions/2026-11-08_claude_fase4_cap46_a_oscuras]], [[98_Agent_Handoff/sessions/2026-11-08_claude_fase4_cap47_la_tierra_bajo_sus_botas]]
 - 2026-11-08: Fase 4, terminal B: nuevos 42 *Llaves* y 43 *Intereses* ajustados al cauce y propagados; DECISIÓN DEL AUTOR: D1 (armas sin entregar; Héctor no las soltó en la playa), D2 (una sola deuda de Chiara con Varek, que se vuelve cuenta abierta), pésame por Vento: [[98_Agent_Handoff/sessions/2026-11-08_claude_fase4_cap42_llaves]], [[98_Agent_Handoff/sessions/2026-11-08_claude_fase4_cap43_intereses]]

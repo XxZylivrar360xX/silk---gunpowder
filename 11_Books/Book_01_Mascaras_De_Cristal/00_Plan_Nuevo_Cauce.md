@@ -108,7 +108,7 @@ Un evento que sólo mueve la trama o sólo la relación no se queda solo: se fun
 | **1. Arcos** | Inventario de arcos con la prueba de pertenencia | Agente propone, autor decide |
 | **2. Tarjetas** | El libro entero, de inicio a fin, en tarjetas de evento (trama / relación / causa / dueño de POV), sin mirar los capítulos actuales | Agente redacta, autor corrige |
 | **3. Mapa viejo → nuevo** | Cada capítulo actual se marca: se reusa, se reescribe, se funde o se retira (con su carga reubicada) | Autor, capítulo por capítulo |
-| **4. Reconstrucción** | Por Parte, capítulo por capítulo, como en el Cap. 1; regla 06 y POV al cerrar cada uno | Agente redacta; autor lee |
+| **4. Reconstrucción** | Por Parte, capítulo por capítulo, como en el Cap. 1; regla 06 y POV al cerrar cada uno | Agente redacta; autor lee. **CERRADA 2026-11-08** ([[98_Agent_Handoff/sessions/2026-11-08_claude_cierre_fase4]]); sigue la lectura corrida (guarda 6) |
 
 Las líneas de diálogo CANON DEL AUTOR se trasladan intactas al capítulo nuevo que las aloje, salvo orden en contra.
 

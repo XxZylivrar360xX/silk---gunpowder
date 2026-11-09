@@ -140,4 +140,6 @@
 
 ## Siguiente
 
-**Fase 4:** se empieza por la Parte I (nuevos 11–19), capítulo por capítulo, como se hizo con el Cap. 1. Los archivos y el [[11_Books/Book_01_Mascaras_De_Cristal/00_Book_Map]] se renumeran al cerrar cada Parte, no antes. Lo que se retire va a [[11_Books/Book_01_Mascaras_De_Cristal/Escenas_Eliminadas/README]] en el momento de reconstruir el capítulo que lo absorbe.
+**Fase 4 CERRADA (2026-11-08):** [[98_Agent_Handoff/sessions/2026-11-08_claude_cierre_fase4]]. Sigue la lectura corrida del autor por Parte (guarda 6), antes de cualquier otra cirugía.
+
+*Histórico:* **Fase 4:** se empieza por la Parte I (nuevos 11–19), capítulo por capítulo, como se hizo con el Cap. 1. Los archivos y el [[11_Books/Book_01_Mascaras_De_Cristal/00_Book_Map]] se renumeran al cerrar cada Parte, no antes. Lo que se retire va a [[11_Books/Book_01_Mascaras_De_Cristal/Escenas_Eliminadas/README]] en el momento de reconstruir el capítulo que lo absorbe.
