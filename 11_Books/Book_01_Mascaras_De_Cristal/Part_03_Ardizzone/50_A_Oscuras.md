@@ -1,8 +1,13 @@
 <!--
+AJUSTA AL CAUCE (2026-11-08, terminal C de la Fase 4, [[98_Agent_Handoff/encargos/ENCARGO_Fase4_Parte_III_Cierre]]; sigue BORRADOR, prosa DISEÑO pendiente de lectura). Versión anterior íntegra: [[11_Books/Book_01_Mascaras_De_Cristal/Escenas_Eliminadas/50_A_Oscuras_Version_2026-11-08]]. Sesión: [[98_Agent_Handoff/sessions/2026-11-08_claude_fase4_cap46_a_oscuras]].
+Decisión del autor (2026-11-08): sale el sedán rojo de defensas cromadas (Crowe, archivo 09) que escoltaba a la grúa; la grúa baja al sur «como cualquier remolque», sin escolta y sin atarse a Crowe (después del 39 Kal le quitó el lote; guarda 3). Sin poda: la prosa tiene ~3,960 palabras sin metadata. Vento no entra.
+DISEÑO de esta pasada: en el monólogo, «Dario» → «Varek» («y no sé qué es» rima con «Todavía no sé cuál», nuevo 26). Línea canon, columna, línea del Lancia, cigarro, Beretta y «—Ciao, bella.» intactos.
+Costura con el nuevo 43 CERRADA (2026-11-08): la bodega del Puerto Viejo y una sola deuda con Varek (la del 26, que en el 43 se vuelve «cuenta abierta»). Costura con el nuevo 41 revisada: la grabación no cambia (terminal A); el monólogo la cita como reproche, no repite el beat de recepción. Costura PROVISIONAL: depende del nuevo 44: el nombre a Rafe, el muchacho de Rafe y el recado de Mabel. Costura con el nuevo 42 CERRADA: B conserva el chico de la vulcanizadora y «Cuando alguien me pague a mí»; Nadir no sabe que su hombre es Crowe. La grúa sigue siendo ese trabajo, ahora sin el sedán que la ataba a Crowe a la vista.
+Numeración en esta metadata: en las notas históricas de abajo, las cifras de 2026-10-02 son prefijos de archivo: «Cap. 7» = nuevo 8 (archivo 07), «Cap. 8» = nuevo 9 (archivo 08), «Cap. 31» = nuevo 29, «Cap. 33» = nuevo 31, «el 42» = nuevo 38, «Cap. 45» = nuevo 41, «Cap. 46» = nuevo 42, «el 47» = nuevo 43, «Cap. 48» = nuevo 44, «Cap. 49» y «el 49» = nuevo 45; en la viñeta del Tasador (2026-11-01), «el 56» es el eco de «como cualquier remolque» del archivo 47 (nuevo 43, según [[11_Books/Book_01_Mascaras_De_Cristal/00_Plan_Hilo_Tasador]]) y «la visita del 12» es la del archivo 09 (nuevo 11); el «Dario» de esas notas es Varek. La señal del Tasador (última viñeta) queda sin el sedán rojo.
 Renumerado 2026-11-08 (nuevo cauce, Parte III): antes Cap. 55.
 Renumerado 2026-11-01 (decisión del autor, carretera del Libro I): antes Cap. 59.
 Renumerado 2026-10-22 (decisión del autor): antes Cap. 50; numeración corrida definitiva, el archivo conserva su nombre.
-Estado: BORRADOR — Parte III — Ardizzone, Cap. 50 (séptimo y último del arco final sin Kal; capítulo 50 del bloque de cierre 44–50b). El Cap. 50b completa la Parte III y cierra el Libro I. Reescrito 2026-10-02, Claude Opus 5.5, conforme a [[11_Books/Book_01_Mascaras_De_Cristal/00_Plan_Arco_Final_Sin_Kal]] y a las craft policies (Redaccion_De_Capitulos, voice/, staging_rules/, dialogue_rules/). Base anterior: el viejo Cap. 44 (Sonnet, 2026-09-22; cirugía E8 2026-09-27); de esa versión se conservan el título, la columna del monólogo, la Beretta, la isla, la luz que vuelve y "—Ciao, bella.". Todo lo demás (Héctor, abogados, Lucía, recepción) ya vive en los Caps. 44–45 y salió de aquí. Pendiente de lectura del autor.
+Estado: BORRADOR — Parte III — Ardizzone, Cap. 46 (séptimo y último del arco final sin Kal, nuevos 40–47, archivos 44–50b). El Cap. 47 (archivo 50b) completa la Parte III y cierra el Libro I. Reescrito 2026-10-02, Claude Opus 5.5, conforme a [[11_Books/Book_01_Mascaras_De_Cristal/00_Plan_Arco_Final_Sin_Kal]] y a las craft policies (Redaccion_De_Capitulos, voice/, staging_rules/, dialogue_rules/). Base anterior: el viejo Cap. 44 (Sonnet, 2026-09-22; cirugía E8 2026-09-27); de esa versión se conservan el título, la columna del monólogo, la Beretta, la isla, la luz que vuelve y "—Ciao, bella.". Todo lo demás (Héctor, abogados, Lucía, recepción) ya vive en los Caps. 44–45 y salió de aquí. Pendiente de lectura del autor.
 Título: "A oscuras" — CONFIRMADO Y DEFINITIVO por el autor (2026-09-22).
 Protagonista: Chiara Bellandi (POV único, tercera persona cercana). Kal aparece sólo en la última imagen, con una línea.
 Personajes con diálogo: Mabel Ortiz, una gerente de piso del Monarch, el valet de noche del Monarch, Kal Mercer (una línea). Sin diálogo: un muchacho de Rafe (en la puerta de la cocina de Mabel).
@@ -91,7 +96,7 @@ La campanita sonó una vez detrás de ella.
 
 El Lancia estaba frío por dentro. Chiara lo encendió y se quedó un momento con las manos en el volante, mirando Avenida Almendra por el parabrisas: la cortina bajada de la tlapalería, el poste con el anuncio de un circo que había pasado en agosto, un perro cruzando sin prisa por la raya del centro.
 
-El perro se apartó para dejar pasar la grúa grande del Patio. Bajaba hacia el sur con un sedán amarrado en la plataforma, como cualquier remolque a esa hora, y en la cabina alguien llevaba el codo fuera de la ventanilla. A media cuadra la seguía un sedán largo y viejo, de un rojo que había sido mejor, con las defensas cromadas. Chiara los vio pasar en el parabrisas hasta que se los tragó la avenida.
+El perro se apartó para dejar pasar la grúa grande del Patio. Bajaba hacia el sur con un sedán amarrado en la plataforma, como cualquier remolque a esa hora, y en la cabina alguien llevaba el codo fuera de la ventanilla. Chiara la vio pasar en el parabrisas hasta que se la tragó la avenida.
 
 A dos cuadras, a la izquierda, estaba la calle del loft.
 
@@ -197,7 +202,7 @@ Afuera, muy abajo, pasó otra sirena. No subía hasta ahí más que como un hilo
 
 Se enderezó. Dio dos pasos hacia la ventana y volvió.
 
-—Pagué todo. Le di mi nombre a un hombre que cobraba en la acera desde niño. Le quedé a deber a Dario lo que él quiera, cuando él quiera, y no sé qué es. Me senté a tomar café con un viejo que me ofreció este edificio como quien ofrece galletas. —Señaló la ventana, el rectángulo negro donde estaba el Pacífica—. Todo lo que me pidieron, lo pagué, y lo pagué yo. No mandé a nadie. Y Tú… Tú, nada. Ni siquiera me cobras. Solo quitas.
+—Pagué todo. Le di mi nombre a un hombre que cobraba en la acera desde niño. Le quedé a deber a Varek lo que él quiera, cuando él quiera, y no sé qué es. Me senté a tomar café con un viejo que me ofreció este edificio como quien ofrece galletas. —Señaló la ventana, el rectángulo negro donde estaba el Pacífica—. Todo lo que me pidieron, lo pagué, y lo pagué yo. No mandé a nadie. Y Tú… Tú, nada. Ni siquiera me cobras. Solo quitas.
 
 Tomó el cuadro de la mesa. Lo sostuvo con las dos manos, contra el estómago.
 

@@ -113,6 +113,7 @@ Los capítulos con ropa ya bien fijada (Caps. 2, 5–6, 7, 19, 32, 35, 41, 43, 4
   - **Retirado el mismo día:** la "Navidad tardía" entre el 29 y el 31 dic (versión B2 intermedia).
 - **A → CANON DEL AUTOR (2026-10-06):** 30–35 vuelven a septiembre. Se quitó "invierno" de archivo 26:118 (Cap. 30) y archivo 31:167 (Cap. 35), y se rehízo la nota de clima del 35 y de San_Aurelio.md. El abrigo de Chiara (33–34) y el de Varek (30, 32) se quedan: capa ligera de madrugada y elección de personaje. **Firma de otoño:** el autor propone hojas cayendo; recomendación en el chat (hojas secas de sicomoro, no color), pendiente.
 - **Mecanismo de fechas en el Libro I (CONFIRMADO por el autor 2026-10-06; anotado en la metadata de 50–56 y en el plan del arco final):** se conservan los días de la semana de 52–56 y se corren exactamente una semana. Kal pasa preso unos 16 días en vez de 9. La semana extra entra en 49–51. Lo natural es en el 50 (*Su red*: la prueba de vida tarda) o en una elipsis entre el 50 y el 51. Ahí cae la Navidad.
+  - **Ajuste 2026-11-08 (Fase 4, nuevos 40–41, decisión del autor):** *Jurisdicción* (nuevo 40) ocurre el dom 19 dic y termina con Lucía pasada la medianoche; *Ropa limpia* (nuevo 41) va del lun 20 al mié 29 dic y absorbe la espera. La etiqueta MERCER aparece hasta las noches del 27 y el 28: el hueco (del 19 al 27) se queda mudo hasta *Voto de Ceniza*. [[98_Agent_Handoff/sessions/2026-11-08_claude_fase4_cap41_ropa_limpia]]
 
   | Cap. | Antes | Ahora |
   |---|---|---|

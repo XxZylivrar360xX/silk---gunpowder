@@ -81,7 +81,7 @@ Halbrook llega físicamente a San Aurelio al cierre del Libro I.
 - **La foto:** Cap. 35 (archivo 31) (Héctor, presente en el lago, la toma de pasada). **Regalo (CANON DEL AUTOR, 2026-10-01):** nada de ocasión ni de entrega: un gesto cotidiano y silencioso. El cuadro aparece una mañana en su mesa, con un moño, sin nota ni exposición. **Aplicado 2026-10-02 (prosa DISEÑO, pendiente de lectura; dudas resueltas por el autor: luz sobre el agua, sin calavera visible, Kal durmió en el penthouse antes del Cap. 37 (archivo 33)):** Cap. 35 (archivo 31), Héctor la toma sin avisar (de espaldas, de la mano, última luz; referencia visual del autor); apertura del Cap. 37 (archivo 33), el cuadro en la mesa del penthouse.
 - **Fecha del traslado y canal de Lucía:** ya existe (Cap. 36 (archivo 32), línea directa).
 - **Rafe Domínguez:** Cap. 14 (archivo 13) (sospechoso). Valorar un segundo toque en la Parte II o III.
-- **Deuda de las armas con Dario:** verificar en los Caps. 44–48 (archivos 39–43) qué se pactó y quién se quedó con las armas largas tras el helicóptero.
+- **Deuda de las armas con Dario:** ~~verificar qué se pactó y quién se quedó con las armas largas tras el helicóptero~~ **RESUELTO (DECISIÓN DEL AUTOR, 2026-11-08):** D1, las armas quedaron sin entregar (Héctor no las soltó en la playa; nuevo 42); D2, el nuevo 43 no crea una deuda nueva: Chiara pone los intereses en el favor del nuevo 26, que se vuelve «una cuenta abierta». Kal conoce el favor (nuevo 28), no que creció. Sesiones: [[98_Agent_Handoff/sessions/2026-11-08_claude_fase4_cap42_llaves]], [[98_Agent_Handoff/sessions/2026-11-08_claude_fase4_cap43_intereses]].
 
 ## La terraza sur — última plática con Fabrizio (idea del autor; DISEÑO aprobado, 2026-10-18)
 

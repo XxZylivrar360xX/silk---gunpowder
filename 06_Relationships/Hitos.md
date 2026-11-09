@@ -2438,6 +2438,8 @@ Ambos vuelven **separados físicamente y con fricción emocional** por lo sucedi
 > **CANON DEL AUTOR (2026-08-29).** **ID: H19** (asignado 2026-08-29). Usar **[[05_Locations/Camp_Alder]]** como nombre de la base.
 
 > **NUEVO CAUCE (CANON DEL AUTOR, 2026-11-07):** el comprador del mercado negro al que Halbrook destina las armas largas es **Crowe**. Kal le desvía **ese mismo lote** a Varek, como pago del pacto; las armas salen en el helicóptero con Héctor y Nadir. Crowe pierde otra vez por la pareja y Halbrook ve fallar a su activo, lo que siembra la quema de H1 en *Sombras de Poder*.
+>
+> **Después del helicóptero (DECISIÓN DEL AUTOR, 2026-11-08, D1):** las armas **no se entregaron** esa noche. El helicóptero bajó en la playa, el punto de Varek, donde esperaba su gente; la entrega dependía de Kal y Héctor no se las dio a nadie más. Se quedan escondidas y completas hasta que Chiara se las entrega a Varek en la bodega nueve (nuevo 43, archivo 47), doce días tarde. Sesiones: [[98_Agent_Handoff/sessions/2026-11-08_claude_fase4_cap42_llaves]], [[98_Agent_Handoff/sessions/2026-11-08_claude_fase4_cap43_intereses]].
 
 > **PRECEDENTE (2026-08-29, autor):** la relación de correa que lleva a este asalto **se sienta en [[#H5 — San Aurelio]]**, cuando Halbrook convoca a Kal por primera vez en el presente de la novela y lo obliga a volver a trabajar para él bajo amenaza de reportar a Nadir a ICE. El asalto a Camp Alder es esa misma correa tirada hasta el extremo.
 >

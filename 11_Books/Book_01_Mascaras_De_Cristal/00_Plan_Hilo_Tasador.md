@@ -197,6 +197,8 @@ En la prosa (BORRADOR, función CANON DEL AUTOR), el pago a Dario **son las arma
 | 53 | 48 | Rafe: «El gordo de la Almendra anda tasando el sur desde antes de Navidad. Presta, sube cuotas, ofrece trabajitos a quien se deje.» El muchacho del hielo le contestó al enviado «sin preguntarme». Chiara no pregunta por La Almendra. |
 | 55 | 50 | Al salir de La Esquina, la grúa grande baja hacia el sur con un sedán en la plataforma, «como cualquier remolque» (eco del Cap. 52 (archivo 47)), alguien con el codo en la ventanilla, y detrás el sedán rojo de defensas cromadas del Cap. 11 (archivo 09). «Héctor, que no sabía nada del sur» gana segundo sentido. |
 
+> **AJUSTE AL CAUCE (DECISIÓN DEL AUTOR, 2026-11-08; [[98_Agent_Handoff/sessions/2026-11-08_claude_fase4_cap46_a_oscuras]]):** en el nuevo 46 (archivo 50) **sale el sedán rojo** que escoltaba la grúa: la grúa baja al sur «como cualquier remolque», sin atarse a Crowe a la vista (en el 39 Kal le quitó el lote; guarda 3). El trabajo de Nadir sigue (nuevo 42, terminal B: Nadir no sabe que su hombre es Crowe). La ironía de abajo se conserva, pero en el I ya no se ve; la deuda de Chiara es la del 26 ampliada (D2), no una deuda nueva.
+
 **Ironía que carga el II:** Chiara se endeudó con Dario para que el barrio no trabajara para él, y el barrio trabaja para Crowe la noche del convoy. El dinero paga las deudas del barrio (cuarta ronda, 5). Kal vuelve esa misma madrugada a un barrio que ya tiene trato con Crowe.
 
 **Por verificar en el II:** qué llevaba la grúa (no se dice en el I) y si el Cap. 1 *Hogar* necesita una línea; que Kal se entere por Nadir; que la lluvia en Bellandi Ridge pueda citar la noche del apagón.

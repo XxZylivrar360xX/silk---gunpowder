@@ -1,5 +1,7 @@
 # Leone Valenti — *Il Consigliere*
 
+> **NUEVO CAUCE — NUEVO 45 (2026-11-08; [[98_Agent_Handoff/sessions/2026-11-08_claude_fase4_cap45_por_si_vuelve]]):** **DECISIÓN DEL AUTOR:** tras «Il Consorzio puede muchas cosas que no hace.», Valenti añade: «Y confía en que la casa Ardizzone tampoco las haga por su cuenta.» Es la atadura: Chiara ya pactó con Rafe (nuevo 44) y va al convoy contra la mesa. Valenti no dice si sabe lo de Rafe.
+
 > **CANON DEL AUTOR (2026-10-31):** Valenti entrega en persona el pañuelo y la bala (H13) en una residencia elegante de San Aurelio, al cierre de la Parte I del Libro I. Apariciones: Cap. 2 (Nueva York) → cierre de la Parte I → 49 (Palermo) → 58 (Pacífica). Plan: [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/00_Plan_Rediseno_Parte_I]]. **Escrito (2026-11-01, BORRADOR):** [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/21b_Grazie]]; ficha de voz: [[12_Craft_Policies/voice/Leone_Valenti]]. DISEÑO: habla de la casa, del pinot del valle y de Keene («Una cosa triste. Y bien hecha.»), sin atribuírselo; la línea canon la dice en español como palabras de la Mesa.
 
 > **Numeración:** desde 2026-10-22 el Libro I usa numeración corrida definitiva (56 caps.); este documento cita la numeración anterior. Correspondencia en [[11_Books/Book_01_Mascaras_De_Cristal/00_Book_Map]].

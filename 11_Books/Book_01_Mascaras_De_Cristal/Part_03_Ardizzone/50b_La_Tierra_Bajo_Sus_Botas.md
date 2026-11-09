@@ -1,11 +1,15 @@
 <!--
+AJUSTA AL CAUCE (2026-11-08, terminal C de la Fase 4, [[98_Agent_Handoff/encargos/ENCARGO_Fase4_Parte_III_Cierre]]; sigue BORRADOR). Prosa sin cambios; sólo metadata. Sesión: [[98_Agent_Handoff/sessions/2026-11-08_claude_fase4_cap47_la_tierra_bajo_sus_botas]].
+D3 (DECISIÓN DEL AUTOR, 2026-11-08, opción b): sin el retrato del archivo 27 (retirado), el lector reconoce a Halbrook por «General.» y el expediente: el nuevo 28 (archivo 30) siembra «Se llama Warren Halbrook. General. Fue mi comandante.». La descripción física (sesenta años, compacto, pelo gris acero, nariz desviada) se queda como primera vista, no como eco. No se toca el 28.
+DISEÑO de esta pasada: el fotograma se queda y «La grabación de la que salió ese cuadro ya no existía» no se explica (misterio deliberado; en el nuevo 41 Chiara la manda borrar sin copia: quién la copió queda para el II). Quedan sin efecto las notas de abajo que citan el Cap. 27 (retrato, sedán de Walt, «a medio armar» como eco); las imágenes se quedan.
+Numeración en esta metadata: en las notas de abajo, «Cap. 45» = nuevo 41, «Cap. 48» = nuevo 44, «Cap. 50» = nuevo 46; «Cap. 50b» = Cap. 47.
 Renumerado 2026-11-08 (nuevo cauce, Parte III): antes Cap. 56.
 Renumerado 2026-11-01 (decisión del autor, carretera del Libro I): antes Cap. 60.
 Renumerado 2026-10-22 (decisión del autor): antes Cap. 50b; numeración corrida definitiva, el archivo conserva su nombre.
-Estado: BORRADOR — Parte III — Ardizzone, Cap. 50b, cierre del Libro I, *Máscaras de Cristal*. Concebido como epílogo; el autor (2026-10-02) decidió quitar la palabra "epílogo": va como Cap. 50b (archivo `50b_`, precedente `24b_`), encabezado sin número. Redactado 2026-10-02, Claude Opus 5.5, conforme a [[11_Books/Book_01_Mascaras_De_Cristal/00_Plan_Arco_Final_Sin_Kal]] (sección "Epílogo") y a la ficha [[02_Characters/Warren_Halbrook]]. Pendiente de lectura del autor.
+Estado: BORRADOR — Parte III — Ardizzone, Cap. 47 (archivo 50b), cierre del Libro I, *Máscaras de Cristal*. Concebido como epílogo; el autor (2026-10-02) decidió quitar la palabra "epílogo": va como Cap. 50b (archivo `50b_`, precedente `24b_`), encabezado sin número. Redactado 2026-10-02, Claude Opus 5.5, conforme a [[11_Books/Book_01_Mascaras_De_Cristal/00_Plan_Arco_Final_Sin_Kal]] (sección "Epílogo") y a la ficha [[02_Characters/Warren_Halbrook]]. Pendiente de lectura del autor.
 Título: "La tierra bajo sus botas" — CANON DEL AUTOR (plan, 2026-10-01; confirmado 2026-10-02).
 POV: narrador, aislado y externo (CANON DEL AUTOR). No hay interioridad de Halbrook ni de nadie.
-Personajes: Warren Halbrook (sin nombrar en prosa; el lector lo reconoce por el retrato del Cap. 27), un hombre delgado de traje (una palabra de diálogo: "General.").
+Personajes: Warren Halbrook (sin nombrar en prosa; el lector lo reconoce por «General.», sembrado en el nuevo 28; D3), un hombre delgado de traje (una palabra de diálogo: "General.").
 Momento: CANON DEL AUTOR — madrugada posterior al apagón, hacia las 5 a. m., primeras luces.
 Calendario (CANON DEL AUTOR 2026-10-06, [[13_Auditorias/Book_01_Mascaras_De_Cristal/Matriz_Temporal_Libro_I]]): miércoles 5 de enero, alba.
 Encargo del autor (2026-10-02): la presencia de Halbrook debe salir del libro y acosar al lector. Cliffhanger en dos tiempos: (1) ¿cómo salió Kal?; (2) este hombre es peligroso y tiene un expediente con los protagonistas. Cierra con una sola sonrisa, del tipo "Thanos después de chasquear los dedos".

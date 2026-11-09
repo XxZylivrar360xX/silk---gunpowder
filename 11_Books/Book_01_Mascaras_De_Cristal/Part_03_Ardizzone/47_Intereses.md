@@ -1,15 +1,19 @@
 <!--
+Nuevo cauce (Fase 4, 2026-11-08, terminal B de [[98_Agent_Handoff/encargos/ENCARGO_Fase4_Parte_III_Cierre]]; verbo «Ajusta al cauce»): **nuevo Cap. 43**. Versión anterior íntegra: [[11_Books/Book_01_Mascaras_De_Cristal/Escenas_Eliminadas/47_Intereses_Version_2026-11-08]]. Sesión: [[98_Agent_Handoff/sessions/2026-11-08_claude_fase4_cap43_intereses]].
+Decisiones del autor (2026-11-08): D1, las armas quedaron sin entregar desde la noche del 19 (Héctor no se las dio en la playa a la gente de Varek, nuevo 42); D2, **una sola deuda**: Chiara pone los intereses en el favor del 26 («Me va a deber una. A su nombre»), y ese favor se vuelve «una cuenta abierta». Kal sabe del favor del 26 (nuevo 28); lo que no sabe es que creció («Kal no se entera»). Vento: una línea de Varek.
+Cambios DISEÑO: «el catorce» → «el diecinueve» (calendario A); la gente de Varek esperó en la playa; Varek trata de usted a Chiara (como en el 26) y el tú queda para «¿Ya no te duele?»; sin señales de amenaza: «¿Eso prefieres?» pasa a consejo («No se lo recomiendo») y sale «Tu firma vale lo que yo digo»; el pésame por Vento; la oferta de Chiara («Lo que ya le debo» / «Póngale encima los doce días») y «Entonces ya no es una»; con Garrett, «Le debo lo que él escoja» y «Kal no sabe de esto». Se conservan literales «Camp Alder no es San Aurelio… Ni yo», «A él no», «Una cuenta abierta. Con eso basta.», «¿Ya no te duele?», «De mí, no», «Nada no existe, señora», «Entonces es peor», «Yo cuento números, señora. Lo otro lo cuenta usted.» y la cuenta de los dedos.
+Numeración: las líneas Estado y Función ya van en la de 47 caps.; las notas fechadas conservan la de su época (en ellas, el «46» es hoy el 42; el «49», el 45; el «Cap. 50», el 46).
 Renumerado 2026-11-08 (nuevo cauce, Parte III): antes Cap. 52.
 Renumerado 2026-11-01 (decisión del autor, carretera del Libro I): antes Cap. 56.
 Renumerado 2026-10-22 (decisión del autor): antes Cap. 47; numeración corrida definitiva, el archivo conserva su nombre.
-Estado: BORRADOR — Parte III — Ardizzone, Cap. 47 (cuarto del arco final sin Kal, bloque de cierre 44–50b). Redactado 2026-10-02, Claude Opus 5.5, conforme a [[11_Books/Book_01_Mascaras_De_Cristal/00_Plan_Arco_Final_Sin_Kal]] y a las craft policies (Redaccion_De_Capitulos, voice/, staging_rules/, dialogue_rules/). Pendiente de lectura del autor.
+Estado: BORRADOR — Parte III — Ardizzone, Cap. 43 (cuarto del arco final sin Kal, bloque de cierre 40–47). Redactado 2026-10-02, Claude Opus 5.5, conforme a [[11_Books/Book_01_Mascaras_De_Cristal/00_Plan_Arco_Final_Sin_Kal]] y a las craft policies (Redaccion_De_Capitulos, voice/, staging_rules/, dialogue_rules/). Pendiente de lectura del autor.
 Título: PENDIENTE. "Intereses" es de trabajo (DISEÑO).
 Protagonista: Chiara Bellandi (POV único, tercera persona cercana). Kal no aparece.
 Personajes con diálogo: Héctor Navarro, Nadir Amrani, Danny Hayes, Garrett Cross, el hombre del Audi (sin nombre), Dario Varek, Lucía Varek (por teléfono).
 Ventana temporal: tarde y noche de D9 (viernes 31 dic) y mañana de D10 (sábado 1 ene). Sin encabezados de fecha.
 Calendario (CANON DEL AUTOR 2026-10-06: Navidad, Año Nuevo y el cumpleaños de Kal, sin Kal; confirmado por el autor, [[13_Auditorias/Book_01_Mascaras_De_Cristal/Matriz_Temporal_Libro_I]] § Decisiones): viernes 31 de diciembre (Nochevieja) y sábado 1 de enero (Año Nuevo y cumpleaños de Kal). Pasada de calendario hecha 2026-10-06 (DISEÑO, pendiente de lectura): remolque "de una noche de Año Nuevo", último turno del año en el puerto, cohete adelantado, "doce días" de Dario, confeti y "primero de enero" en la mañana, y una línea del cumpleaños (43) sin glosa.
 Lugares: El Patio (portón, capó, camioneta lavada); Terminal Road y una bodega del Puerto Viejo con oficina en alto sobre los muelles; el despacho de Chiara en el Monarch.
-Función: CANON DEL AUTOR — Chiara concreta con El Patio la entrega de las armas largas y el pago a Dario; Dario exige intereses por el retraso, pagados por el barrio con trabajos; Chiara se niega y queda a deber personalmente un favor sin nombre que Dario cobra cuando quiera (Kal no lo sabe). Llama Lucía con la fecha del traslado. Cierre: el reloj.
+Función: CANON DEL AUTOR — Chiara concreta con El Patio la entrega de las armas largas y el pago a Dario; Dario exige intereses por el retraso, pagados por el barrio con trabajos; Chiara se niega y queda a deber personalmente un favor sin nombre que Dario cobra cuando quiera (Kal no lo sabe). [Con D2, 2026-11-08: es el favor del 26, que crece hasta cuenta abierta.] Llama Lucía con la fecha del traslado. Cierre: el reloj.
 DISEÑO del agente, pendiente de lectura:
 - Apertura por residuo del 46: Nadir durmió por primera vez (en el sillón de la oficina); Chiara sigue con sus llaves. Marisol se va al monte el sábado; la conversación del 46 sigue fuera de página ("¿Qué le dijo?" / "La verdad." / "¿Toda?" / "La que había.").
 - El hombre del Audi no recoge nada: cita a Chiara esa noche en el Puerto Viejo, "con las cajas". Chiara decide que la grúa espera afuera del portón hasta que ella salga ("Si no salgo en una hora, se regresan").
@@ -178,27 +182,31 @@ Dario Varek estaba de pie junto al ventanal, de espaldas, mirando los muelles.
 
 La oficina no tenía nada que dijera que era suya: un escritorio de melamina, dos sillas, un archivero, un calendario de una agencia aduanal colgado en la pared con el mes equivocado. Él era lo único caro en el cuarto. Traje oscuro, camisa blanca sin corbata, las manos en los bolsillos. Cuando se volvió, la luz del muelle le pegó de lado, en la cicatriz.
 
-—Chiara.
+—Signora.
 
 —Señor Varek.
 
+—Lamenté lo de su caballo.
+
+Chiara no contestó. Era la primera persona que le hablaba de Vento sin bajar la voz, y lo había dicho como lo decía todo, sin nada que se le pudiera repetir en contra.
+
 El hombre del Audi bajó la escalera y cerró una puerta abajo. Dario le señaló una de las sillas. Chiara no se sentó. Dario tampoco insistió; se quedó junto al ventanal y la dejó a ella en medio del cuarto, entre el escritorio y la puerta, donde la luz de la oficina le daba de frente.
 
-—Tu grúa está afuera —dijo.
+—Su grúa está afuera —dijo.
 
 —La de Kal.
 
-—La de Mercer. Con un coche arriba. Muy discreto. —Volvió a mirar hacia la calle, donde no se veía nada desde ahí—. ¿Están completas? —No esperó a que le contestara—. Lo sé. Mercer cumple. —Lo dijo sin calor, como se dice de una máquina que no falla—. Me dijo el catorce y el catorce entró. Me dijo completas y van a estar completas. Lo único que no me dijo fue que yo iba a esperar doce días.
+—La del señor Mercer. Con un coche arriba. Muy discreto. —Volvió a mirar hacia la calle, donde no se veía nada desde ahí—. ¿Están completas? —No esperó a que le contestara—. Lo sé. Mercer cumple. —Lo dijo sin calor, como se dice de una máquina que no falla—. Me dijo el diecinueve y el diecinueve entró. Mi gente lo esperó en la playa hasta que oyó la radio. Me dijo completas y van a estar completas. Lo único que no me dijo fue que yo iba a esperar doce días.
 
 —Lo arrestaron.
 
-—Lo sé. —Dario sacó una mano del bolsillo y la apoyó en el marco del ventanal—. Sé dónde lo tienen, sé quién lo reclamó y sé a qué hora salió de la comisaría. Sé que Krane lleva su caso y que Connors no te quiso oír. —Una pausa breve—. Y antes de que lo preguntes: no.
+—Lo sé. —Dario sacó una mano del bolsillo y la apoyó en el marco del ventanal—. Sé dónde lo tienen, sé quién lo reclamó y sé a qué hora salió de la comisaría. Sé que Krane lleva su caso y que Connors no la quiso oír. —Una pausa breve—. Y antes de que lo pregunte: no.
 
 Chiara no se movió.
 
 —No se lo iba a preguntar.
 
-—Claro que sí. Por eso viniste sola. —Dario la miró y luego miró otra vez los muelles—. Camp Alder no es San Aurelio. Lo que pasa adentro de esa reja no lo arregla nadie de esta ciudad. Ni yo.
+—Claro que sí. Por eso vino sola. —Dario la miró y luego miró otra vez los muelles—. Camp Alder no es San Aurelio. Lo que pasa adentro de esa reja no lo arregla nadie de esta ciudad. Ni yo.
 
 Lo dijo sin pena y sin orgullo, como un hombre que conoce el tamaño de su casa. Abajo, en el muelle, un montacargas pitó en reversa y se calló.
 
@@ -206,17 +214,17 @@ Lo dijo sin pena y sin orgullo, como un hombre que conoce el tamaño de su casa.
 
 Dario se apartó del ventanal. Rodeó el escritorio sin prisa, pasó la mano por el borde de la melamina como si comprobara que estaba limpia y se sentó del otro lado. No le volvió a ofrecer la silla.
 
-—Hace doce días esas cajas eran mercancía —dijo—. Hoy la base las está contando. Cada noche que pasaron en tu barrio, alguien en Camp Alder estuvo haciendo una lista, y esa lista ya salió del estado. Recibirlas hoy me cuesta más que recibirlas el catorce. Recibirlas hoy es un riesgo que yo no pedí.
+—Hace doce días esas cajas eran mercancía —dijo—. Hoy la base las está contando. Cada noche que pasaron en su barrio, alguien en Camp Alder estuvo haciendo una lista, y esa lista ya salió del estado. Recibirlas hoy me cuesta más que recibirlas el diecinueve. Recibirlas hoy es un riesgo que yo no pedí.
 
 —Puede no recibirlas.
 
 Dario sonrió apenas.
 
-—Y tu grúa se regresa a La Almendra con un coche arriba y lo que hay adentro del coche, y se queda ahí, con tres hombres a los que la base va a ir a buscar tarde o temprano, esperando a que alguien toque el portón. ¿Eso prefieres?
+—Puedo. Y su grúa se regresa a La Almendra con lo que trae adentro del coche, y se queda ahí, con tres hombres a los que la base va a ir a buscar tarde o temprano. —Lo dijo como quien da el parte del clima—. No se lo recomiendo.
 
 Chiara no contestó. Dario no esperó a que contestara.
 
-—Las recibo. El acuerdo era con Mercer y el acuerdo se respeta. —Juntó las manos sobre el escritorio—. Pero el tiempo se paga.
+—Las recibo. El acuerdo era con el señor Mercer y el acuerdo se respeta. —Juntó las manos sobre el escritorio—. Pero el tiempo se paga.
 
 —¿Cuánto?
 
@@ -230,13 +238,13 @@ Chiara no contestó. Dario no esperó a que contestara.
 
 Dario no cambió de cara.
 
-—No te lo pregunté.
+—No se lo pregunté.
 
 —Ya lo sé. —Chiara dio un paso hacia el escritorio. Uno solo—. Ellos ya pagaron. Entraron por usted a ese lugar, sacaron lo que usted pidió y volvieron. No todos. Uno sigue pagando ahora, mientras hablamos. Usted sabe a qué hora lo sacaron y en qué cuarto lo tienen.
 
 Lo de la ropa doblada no se lo dijo. Era lo único de Kal que sabía ella y no él.
 
-—Eso es de Mercer —dijo él—. No mío.
+—Eso es del señor Mercer —dijo él—. No mío.
 
 —Entonces cóbreselo a él cuando salga.
 
@@ -246,7 +254,7 @@ Lo dijo rápido. Más rápido que todo lo anterior. Después se quedó callado, 
 
 Chiara le miró la cicatriz. La miró más de lo que se miraba una cicatriz en la cara de un hombre que pagaba el sueldo de uno, y Dario lo notó, y tampoco dijo nada. Abajo, en el muelle, alguien gritó un número de contenedor y otro alguien lo repitió.
 
-—Alguien paga el tiempo —dijo Dario, al fin—. Si no es él, y no es su gente, dime tú quién.
+—Alguien paga el tiempo —dijo Dario, al fin—. Si no es él, y no es su gente, dígame usted quién.
 
 —Yo.
 
@@ -254,23 +262,25 @@ Dario se recostó en la silla.
 
 Fue lo único que hizo. Se recostó, y la silla de oficina rechinó bajo el peso de un traje que costaba más que todo lo que había en el cuarto, y la miró de arriba abajo, despacio, sin disimular que la estaba midiendo. Chiara conocía esa mirada. La había usado ella sobre otros cientos de veces, en el piso del casino, en una mesa de cartas, en la puerta de un salón.
 
-—¿Tú qué? —preguntó Dario—. El casino es mío. Tu sueldo sale de mi cuenta. Tu firma vale lo que yo digo que vale en esta ciudad, y tu apellido vale lo que valía en Italia, que aquí es poco. —No lo dijo con desprecio. Lo dijo como se lee un inventario—. ¿Qué tienes tú que no sea ya mío?
+—¿Usted qué? —preguntó Dario—. El casino es mío. Su sueldo sale de mi cuenta. Su apellido vale lo que valía en Italia, que aquí es poco. —No lo dijo con desprecio. Lo dijo como se lee un inventario—. ¿Qué tiene usted que no sea ya mío?
 
 Chiara se tomó un momento.
 
 Pensó en la grúa con el motor encendido del otro lado de la reja. En Nadir con la marca del vinil en la cara. En Danny diciendo *eso no es lo que le pregunté*. En la albahaca en la lata de tomate, cada dos días, no más.
 
-—Un favor —dijo.
+—Lo que ya le debo —dijo.
 
-—Tengo muchos favores.
+—Eso ya lo tengo.
 
-—No míos.
+—Póngale encima los doce días. —Chiara no apartó la vista—. Y lo que haga falta después. A mi nombre, como la otra. El que usted elija, cuando usted lo elija, y sin que yo pregunte para qué.
 
 Dario no contestó. Esperó, como esperaba Garrett: dejando la pregunta abierta para que el otro se cansara de verla ahí.
 
-—Uno —dijo Chiara—. El que usted elija. Cuando usted lo elija. Sin nombre ahora, y sin que yo pregunte después para qué.
+—Entonces ya no es una —dijo, al fin.
 
-—¿Y si es algo que no quieres hacer?
+Chiara no lo corrigió.
+
+—¿Y si es algo que no quiere hacer?
 
 Chiara no le contestó eso. El silencio duró lo que tardó un camión en cruzar frente a la bodega, de un extremo del ventanal al otro, con su carga tapada con lona. Dario lo siguió con la vista hasta que salió del vidrio.
 
@@ -278,7 +288,7 @@ Luego se levantó, rodeó el escritorio y le tendió la mano.
 
 Chiara la miró. Era la mano de siempre, la del primer día en el Monarch, la que se daba como quien cierra un trato que ya estaba decidido antes de entrar al cuarto. Se la estrechó. Dario la sostuvo un segundo más de lo que hacía falta.
 
-—Una cuenta abierta —dijo—. Con eso basta. —Le soltó la mano y le miró la muñeca derecha—. Una es mucho, Chiara. Ya lo vas a ver. ¿Ya no te duele?
+—Una cuenta abierta —dijo—. Con eso basta. —Le soltó la mano y le miró la muñeca derecha—. Es mucho, Chiara. Ya lo va a ver. ¿Ya no te duele?
 
 Chiara no contestó. Il Consorzio nunca se había enterado de esa muñeca, y los dos sabían por quién.
 
@@ -348,7 +358,7 @@ Lo dijo sin cambiar el tono, como quien corrige una suma. Detrás de él, el por
 
 Chiara miró la columna vacía a través de la pasta gris, como si la pasta no estuviera.
 
-—Le debo uno —dijo—. Él escoge cuál. Y cuándo.
+—Le debo lo que él escoja —dijo—. Cuando lo escoja.
 
 Garrett no se movió. Después sacó la libreta del bolsillo de la camisa, la abrió por primera vez en todo el día, la miró y la volvió a cerrar sin escribir nada.
 
@@ -356,7 +366,7 @@ Garrett no se movió. Después sacó la libreta del bolsillo de la camisa, la ab
 
 —No es un número. —Guardó la libreta—. Yo cuento números, señora. Lo otro lo cuenta usted.
 
-—Kal no lo sabe.
+—Kal no sabe de esto.
 
 —Entonces tampoco por mí.
 

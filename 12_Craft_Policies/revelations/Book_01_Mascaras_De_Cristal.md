@@ -338,3 +338,20 @@ Propagado en [[98_Agent_Handoff/sessions/2026-11-08_claude_propagacion_parte_III
 - **Mei-Lin en el Patio (38, CANON, opción a):** Chiara oye el nombre de Mei-Lin, que duerme en el Patio y no quiere quedarse sola, y que «lo de allá arriba se deshizo». No sabe de Boone, de los Devil Splicers ni de que Bonnie y Mei-Lin vienen de la banda del robo, y no lo liga con el Monarch. Bonnie sabe que se esconde sin saber por qué. En F1, el reproche de Chiara es «para qué», no «quién».
 - **Crowe y Halbrook (39, CANON 1A):** **Kal sabe desde aquí que Crowe recibe órdenes de la gente de Halbrook** (el mensaje dice «lo recibe S. Crowe al aterrizar»). No sabe que Crowe estuvo detrás del corral, de Boone ni del robo del Monarch, ni para qué lo quiere Halbrook; no lo conecta con la bala. Chiara no lo sabe. El lector, sí. Crowe pierde el lote, que va a Varek.
 - **Estado:** sembrado. Prosa DISEÑO pendiente de lectura.
+
+---
+
+## Nuevo cauce, Parte III: nuevos 40–41 (2026-11-08)
+
+- **El hueco de la etiqueta (41, CANON):** Kal entra a Camp Alder el 19 dic, pero la etiqueta MERCER llega a la lavandería hasta las noches del 27 y el 28. Nadie lo explica en el I. Lo saben el lector (que puede notarlo) y nadie más. **Prohibido** explicarlo antes de *Voto de Ceniza*, junto con la liberación.
+- **Varek, el número que no cuenta (40, CANON):** Chiara no busca a Varek en la noche de los teléfonos porque «ya le debía uno». No fija D1 ni D2.
+- **La grabación (41):** no cambia; ver «La grabación borrada y el fotograma».
+- **Estado:** sembrado. Prosa BORRADOR. [[98_Agent_Handoff/sessions/2026-11-08_claude_fase4_cap40_jurisdiccion]], [[98_Agent_Handoff/sessions/2026-11-08_claude_fase4_cap41_ropa_limpia]]
+
+## Nuevo cauce, Parte III: nuevos 45–47 (2026-11-08)
+
+- **Matteo y Elio (45, DECISIÓN DEL AUTOR, D4):** en la terraza Chiara ya no piensa en la carpeta de Génova ni en la mensajería; piensa en Matteo, «que había prometido llamar y no había llamado», y en la mesa. «¿Es de Matteo?» se queda: Chiara lee el desayuno prometido dentro del marco que conoce. Nada en el 45 apunta a Elio ni a lo que Fabrizio iba a contar (el embarazo de Paola).
+- **La atadura (45, DECISIÓN DEL AUTOR):** «Y confía en que la casa Ardizzone tampoco las haga por su cuenta.» Valenti no dice si sabe lo de Rafe; el lector sabe que Chiara ya pactó.
+- **La grúa del sur (46, DECISIÓN DEL AUTOR):** sin el sedán rojo; Chiara la ve y no la interpreta, y el lector tampoco tiene a Crowe a la vista.
+- **Halbrook y el fotograma (47, DECISIÓN DEL AUTOR, D3):** el lector lo reconoce por «General.» (nuevo 28) y el expediente, sin retrato. Quién copió la grabación antes de que se borrara (nuevo 41) no se dice en el I.
+- **Estado:** sembrado. Prosa BORRADOR. [[98_Agent_Handoff/sessions/2026-11-08_claude_fase4_cap45_por_si_vuelve]], [[98_Agent_Handoff/sessions/2026-11-08_claude_fase4_cap46_a_oscuras]]

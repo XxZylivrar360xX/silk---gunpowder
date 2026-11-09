@@ -1,10 +1,15 @@
 <!--
+AJUSTA AL CAUCE (2026-11-08, terminal C de la Fase 4, [[98_Agent_Handoff/encargos/ENCARGO_Fase4_Parte_III_Cierre]]; sigue BORRADOR, prosa DISEÑO pendiente de lectura). Versión anterior íntegra: [[11_Books/Book_01_Mascaras_De_Cristal/Escenas_Eliminadas/49_Enfrente_Version_2026-11-08]]. Sesión: [[98_Agent_Handoff/sessions/2026-11-08_claude_fase4_cap45_por_si_vuelve]].
+Decisiones del autor (2026-11-08): D4 = se quita del pensamiento de Chiara la carpeta de Génova y la mensajería (atadas a Elio desde el nuevo 37); «¿Es de Matteo?» se queda. Atadura de Il Consorzio = Valenti: «Y confía en que la casa Ardizzone tampoco las haga por su cuenta.» (Chiara ya pactó con Rafe en el nuevo 44: desobedece a la mesa). Poda ligera (lobby de regreso, lista del martes, anécdota del diente). Vento no entra en el 45.
+DISEÑO de esta pasada: Varek sustituye a «Dario» en el pensamiento de Chiara («la bodega nueve… la mano de Varek… *Una cuenta abierta.*», como queda literal en el nuevo 43). «Ni de los cuatro días» → «ni de las dos semanas» (calendario A). Matteo «había prometido llamar y no había llamado» (nuevo 37).
+Costuras con el nuevo 43 CERRADAS (2026-11-08, propagación): D1 (armas sin entregar; bodega nueve del Puerto Viejo el viernes 31) y D2 (una sola deuda, la del 26, que en el 43 se vuelve «cuenta abierta»).
+Numeración en esta metadata: en las notas históricas de abajo, «Cap. 35» = nuevo 33, «Cap. 40» = nuevo 36, «del 41» = nuevo 37, «Cap. 47» y «del 47» = nuevo 43, «Cap. 48» y «del 48» = nuevo 44, «el 50» = nuevo 46; el «Dario» de esas notas es Varek.
 Renumerado 2026-11-08 (nuevo cauce, Parte III): antes Cap. 54.
 Renumerado 2026-11-01 (decisión del autor, carretera del Libro I): antes Cap. 58.
 COSTURA H13 (2026-11-01, Claude Code, encargo del autor; DISEÑO, espera lectura; sigue BORRADOR): cuarto encuentro con Valenti (Nueva York, Cuesta Bonita en julio [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/21b_Grazie]], Palermo, Pacífica). Dos toques: «En julio, desde la colina, la había encontrado igual» (la ventana del penthouse) y la libreta «la misma de la colina y de Palermo». Diálogo intacto.
 Renumerado 2026-10-22 (decisión del autor): antes Cap. 49; numeración corrida definitiva, el archivo conserva su nombre.
 Retitulado 2026-10-21 (decisión del autor; ver [[11_Books/Book_01_Mascaras_De_Cristal/00_Propuesta_Titulos]]): antes «Enfrente».
-Estado: BORRADOR — Parte III — Ardizzone, Cap. 49 (sexto del arco final sin Kal, bloque de cierre 44–50b). Redactado 2026-10-02, Claude Opus 5.5, conforme a [[11_Books/Book_01_Mascaras_De_Cristal/00_Plan_Arco_Final_Sin_Kal]] y a las craft policies (Redaccion_De_Capitulos, voice/, staging_rules/, dialogue_rules/). Pendiente de lectura del autor.
+Estado: BORRADOR — Parte III — Ardizzone, Cap. 45 (sexto del arco final sin Kal, nuevos 40–47, archivos 44–50b). Redactado 2026-10-02, Claude Opus 5.5, conforme a [[11_Books/Book_01_Mascaras_De_Cristal/00_Plan_Arco_Final_Sin_Kal]] y a las craft policies (Redaccion_De_Capitulos, voice/, staging_rules/, dialogue_rules/). Pendiente de lectura del autor.
 Regla de diálogo 05 (2026-10-28, a pedido del autor; prosa DISEÑO, espera lectura): fuera «Gracias» / «Prego», «No lo sabía» / «Nadie lo sabe», «¿Copia qué?», «No pedía», «¿Usted puede?» / «¿Cuándo?» (Valenti lo suelta solo), «El edificio tiene dueño» / «Tiene socios», «¿Quién ganó?», «¿Yo qué?», «Ya sé que no está» y «¿Así cómo?». Sesión: [[98_Agent_Handoff/sessions/2026-10-28_claude_regla05_por_si_vuelve_cap55]].
 Título: RESUELTO 2026-10-21 (decisión del autor): «Por si vuelve». "Enfrente" era título de trabajo.
 Protagonista: Chiara Bellandi (POV único, tercera persona cercana). Kal no aparece.
@@ -159,7 +164,7 @@ Chiara no contestó. Valenti la dejó no contestar. Se sirvió más café, le of
 
 —¿Pueden? —preguntó Chiara.
 
-—Il Consorzio puede muchas cosas que no hace.
+—Il Consorzio puede muchas cosas que no hace. Y confía en que la casa Ardizzone tampoco las haga por su cuenta.
 
 ---
 
@@ -171,7 +176,7 @@ Chiara esperó.
 
 —Il Consorzio considera que la casa Ardizzone lleva demasiado tiempo en San Aurelio viviendo en casa ajena. —No se volvió—. Usted llegó a dirigir y observar. Ha dirigido muy bien. Ha observado más de lo que se le pidió, pero eso, a estas alturas, la mesa lo cuenta a su favor. Il Consorzio no pide a nadie que administre un edificio que no es suyo para siempre. —Se volvió por fin—. El señor Varek ha sido un socio muy útil. Il Consorzio se lo agradece. Pero la utilidad, signora, cambia de forma con el tiempo, como todo. Y cuando cambia, alguien tiene que acomodar los papeles.
 
-Chiara pensó en la bodega nueve. En la mano de Dario, que sostuvo la suya un segundo más de lo que hacía falta. *Una cuenta abierta.* No se movió.
+Chiara pensó en la bodega nueve. En la mano de Varek, que sostuvo la suya un segundo más de lo que hacía falta. *Una cuenta abierta.* No se movió.
 
 —Los papeles tardarían unos meses —dijo Valenti—. La licencia, menos. Se haría sin anuncio, como se hacen bien estas cosas. Un día alguien preguntará desde cuándo es así, y ya nadie se va a acordar. —Volvió al sillón, pero no se sentó; apoyó la mano en el respaldo—. La casa Ardizzone tendría por fin un techo propio en esta costa. Dueña del Monarch, signora Ardizzone. Legítima, a los ojos de cualquiera que quiera mirar.
 
@@ -203,13 +208,13 @@ La reja del elevador se abrió. El botones la sostuvo.
 
 Cruzó el Paseo con el semáforo en rojo.
 
-Un taxi frenó y le tocó el claxon, y ella no volteó. Las banderas del Monarch colgaban sin viento sobre la marquesina. El valet estaba ocupado con un Mercedes de placas de Nevada y una señora que no encontraba el boleto del estacionamiento. El portero de turno le abrió la puerta de vidrio antes de que ella llegara a tocarla.
+Un taxi frenó y le tocó el claxon, y ella no volteó. Las banderas del Monarch colgaban sin viento sobre la marquesina. El portero de turno le abrió la puerta de vidrio antes de que ella llegara a tocarla.
 
 —Buenas tardes, señora Bellandi.
 
 Chiara le contestó con la cabeza.
 
-Atravesó el lobby. El ruido de las máquinas le llegó desde la sala de juego como le llegaba siempre, una lluvia de monedas que no eran monedas, campanitas, la voz grabada de una mujer felicitando a alguien. Una de las gerentes de piso la vio pasar y empezó a caminar hacia ella con una carpeta, y luego cambió de idea y se quedó donde estaba.
+Atravesó el lobby. El ruido de las máquinas le llegó desde la sala de juego como le llegaba siempre, una lluvia de monedas que no eran monedas, campanitas, la voz grabada de una mujer felicitando a alguien.
 
 En el elevador de la Torre Norte apretó el botón de su despacho, no el del penthouse.
 
@@ -271,7 +276,7 @@ Chiara no le dijo nada. Comió otro bocado. Fabrizio miró el puerto y la dejó 
 
 —Alguien tiene que firmar.
 
-—Alguien. —No discutió—. Giada perdió un diente en la escuela la semana pasada. Lo trajo envuelto en una servilleta y quería saber si el ratón de aquí paga en dólares o en euros. Paola dice que en dólares, porque vivimos aquí. Giada dice que en euros, porque el diente es italiano. Ganó Giada. Siempre gana Giada. —Se rió—. Nico quiere ser portero de hotel cuando sea grande. Por los guantes.
+—Alguien. —No discutió—. Giada perdió un diente la semana pasada y quería saber si el ratón de aquí paga en dólares o en euros. Ganó Giada: en euros, porque el diente es italiano. —Se rió—. Nico quiere ser portero de hotel cuando sea grande. Por los guantes.
 
 —Es buen oficio.
 
@@ -295,7 +300,7 @@ Ella lo miró. Él no se disculpó por la pregunta.
 
 —Mercer no está.
 
-Fabrizio no le preguntó dónde. No le preguntó nada de Camp Alder, ni del juez, ni de los cuatro días. Chiara pensó que él sabía, o que sabía lo bastante, y que esa noche había subido a otra cosa.
+Fabrizio no le preguntó dónde. No le preguntó nada de Camp Alder, ni del juez, ni de las dos semanas. Chiara pensó que él sabía, o que sabía lo bastante, y que esa noche había subido a otra cosa.
 
 —Va a volver —dijo Fabrizio.
 
@@ -313,7 +318,7 @@ El teléfono le vibró en el bolsillo del saco. Lo sacó, miró la pantalla, lo 
 
 —Cuando vuelva Mercer, desayunamos aquí. —Se enderezó—. Hay algo que quiero contarte con los dos delante.
 
-Chiara pensó en Matteo. En la carpeta de Génova, en el sello de una mensajería de San Aurelio que no tenía por qué estar en un sobre de Italia. Pensó en la mesa, que no tenía prisa.
+Chiara pensó en Matteo, que había prometido llamar y no había llamado. Pensó en la mesa, que no tenía prisa.
 
 —¿Es de Matteo?
 
@@ -329,7 +334,7 @@ Chiara se quedó en la terraza hasta terminarse lo que quedaba, frío, con los b
 
 El martes llovió en la mañana y paró a mediodía. El Paseo se quedó brillando, con charcos en las juntas de la acera que reflejaban las palmeras de cabeza.
 
-Chiara trabajó. Hizo la junta de las diez con los gerentes de piso, aprobó el menú de un banquete de bodas para el sábado, le negó un crédito a un cliente de Phoenix que ya debía dos. Contestó todo lo que le pusieron enfrente. Comió de pie en la cocina, junto a la estación de los postres, un pedazo de pan con aceite que le dio uno de los cocineros, y el cocinero no le dijo nada y ella tampoco.
+Chiara trabajó. Contestó todo lo que le pusieron enfrente. Comió de pie en la cocina, junto a la estación de los postres, un pedazo de pan con aceite que le dio uno de los cocineros, y el cocinero no le dijo nada y ella tampoco.
 
 A las cuatro y diez llamó la recepción.
 

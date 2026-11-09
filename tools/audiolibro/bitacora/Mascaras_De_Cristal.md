@@ -2,7 +2,7 @@
 
 Generada por `tools/audiolibro/build_audiobook.py`; no editar a mano. Tras cambiar la prosa de un capítulo, correr `--estado` para marcarlo PENDIENTE; la bandera se cierra sola cuando el script regenera ese audio.
 
-Actualizada: 2026-11-08 18:14. Al día: 47 de 47.
+Actualizada: 2026-11-08 20:36. Al día: 47 de 47.
 
 ## Pendientes
 
@@ -62,6 +62,20 @@ Ninguno: todos los audios corresponden a la prosa actual.
 
 ## Historial
 
+- 2026-11-08 20:36 · Cap. 46 (50_A_Oscuras.md) · audio regenerado
+- 2026-11-08 20:36 · Cap. 45 (49_Enfrente.md) · audio regenerado
+- 2026-11-08 20:36 · Cap. 44 (48_Su_Nombre.md) · audio regenerado
+- 2026-11-08 20:36 · Cap. 43 (47_Intereses.md) · audio regenerado
+- 2026-11-08 20:36 · Cap. 42 (46_Llaves.md) · audio regenerado
+- 2026-11-08 20:36 · Cap. 41 (45_Ropa_Limpia.md) · audio regenerado
+- 2026-11-08 20:36 · Cap. 40 (44_Jurisdiccion.md) · audio regenerado
+- 2026-11-08 19:41 · Cap. 44 (48_Su_Nombre.md) · audio pendiente: cambió la prosa
+- 2026-11-08 19:34 · Cap. 46 (50_A_Oscuras.md) · audio pendiente: cambió la prosa
+- 2026-11-08 19:34 · Cap. 45 (49_Enfrente.md) · audio pendiente: cambió la prosa
+- 2026-11-08 19:34 · Cap. 43 (47_Intereses.md) · audio pendiente: cambió la prosa
+- 2026-11-08 19:34 · Cap. 42 (46_Llaves.md) · audio pendiente: cambió la prosa
+- 2026-11-08 19:34 · Cap. 41 (45_Ropa_Limpia.md) · audio pendiente: cambió la prosa
+- 2026-11-08 19:34 · Cap. 40 (44_Jurisdiccion.md) · audio pendiente: cambió la prosa
 - 2026-11-08 18:14 · Cap. 47 (50b_La_Tierra_Bajo_Sus_Botas.md) · audio generado
 - 2026-11-08 18:14 · Cap. 46 (50_A_Oscuras.md) · audio generado
 - 2026-11-08 18:14 · Cap. 45 (49_Enfrente.md) · audio generado

@@ -27,6 +27,7 @@ PENDIENTE. Arranque DISEÑO: que nadie del barrio vuelva a quedarse con un defen
 
 - **Cap. 25 (archivo 24), *Bajo juramento*:** el número en media hoja de la libreta de Garrett; Krane se lo guarda. Es el precedente del bufete.
 - **Cap. 49 (archivo 44), *Jurisdicción*:** Krane, penalista de Kal; Connors: "El que perdió contra ella".
+- **Nuevo cauce (2026-11-08):** el pleito de Hoover se cierra por acuerdo en mediación en el nuevo 22 (archivo 24b; *Bajo juramento* se retiró). *Jurisdicción* es el nuevo 40. La elección de Rivers por su enemistad con Connors se queda en el 40 (decisión del autor), sin escena de origen en el cauce. [[98_Agent_Handoff/sessions/2026-11-08_claude_fase4_cap40_jurisdiccion]]
 
 ## Relación con [[03_Factions/Almendra_Towing]]
 

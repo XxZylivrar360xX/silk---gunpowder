@@ -1,20 +1,23 @@
 <!--
+AJUSTE AL CAUCE (Fase 4, 2026-11-08, terminal A; [[98_Agent_Handoff/encargos/ENCARGO_Fase4_Parte_III_Cierre]]): nuevo Cap. 40, POV Chiara, verbo «Ajusta al cauce». Versión anterior íntegra: [[11_Books/Book_01_Mascaras_De_Cristal/Escenas_Eliminadas/44_Jurisdiccion_Version_2026-11-08]]. Nota: [[98_Agent_Handoff/sessions/2026-11-08_claude_fase4_cap40_jurisdiccion]].
+Decisiones del autor (2026-11-08): (1) el capítulo es el domingo 19 dic (la recogida del 39) y la prosa lo marca con un toque (abogados citados en domingo, Rowe desde su casa); (2) una línea nombra a Dario Varek como el número que Chiara no cuenta porque ya le debe uno (costura hacia los nuevos 42–43 sin fijar D1 ni D2); (3) Vento no entra; (4) se queda la frase de Rivers elegida por su enemistad con Connors.
+DISEÑO del agente en este ajuste: el favor del ayuntamiento deja de venir de *El Faro* (que no existe en el I) y es un favor guardado del Monarch; Krane perdió contra Kal en la sala de mediación del nuevo 22, no en juicio.
 Renumerado 2026-11-08 (nuevo cauce, Parte III): antes Cap. 49.
 Renumerado 2026-11-01 (decisión del autor, carretera del Libro I): antes Cap. 53.
 Renumerado 2026-10-22 (decisión del autor): antes Cap. 44; numeración corrida definitiva, el archivo conserva su nombre.
-Estado: BORRADOR — Parte III — Ardizzone, Cap. 44 (primero del arco final sin Kal, bloque de cierre 44–50b). Redactado 2026-10-02, Claude Opus 5.5, conforme a [[11_Books/Book_01_Mascaras_De_Cristal/00_Plan_Arco_Final_Sin_Kal]]. Pendiente de lectura del autor.
+Estado: BORRADOR — Parte III — Ardizzone, nuevo Cap. 40 (primero del arco final sin Kal, nuevos 40–47, archivos 44–50b). Redactado 2026-10-02, Claude Opus 5.5, conforme a [[11_Books/Book_01_Mascaras_De_Cristal/00_Plan_Arco_Final_Sin_Kal]]. Pendiente de lectura del autor.
 Título: PENDIENTE. "Jurisdicción" es de trabajo (DISEÑO).
 Protagonista: Chiara Bellandi (POV único, tercera persona cercana). Kal no aparece.
 Personajes con diálogo: Héctor Navarro (teléfono), un abogado del Monarch (sin nombre), Giancarlo Krane (teléfono), Katherine Rowe (teléfono), Edward Connors (teléfono), Lucía Varek (en persona).
-Ventana temporal: mañana de D5 (horas después del arresto del Cap. 43) hasta la mañana de D6. Sin encabezados de fecha.
+Ventana temporal: domingo 19 dic, de la mañana (horas después del arresto del nuevo 39, recogida 02:00–02:40) a la cita con Lucía, pasada la medianoche (lunes 20). Sin encabezados de fecha.
 Lugares: penthouse de la Torre Norte; despacho que fue de Matteo en el Monarch; un local de fórmica a dos calles de la comisaría.
-Función: "Institución". Chiara agota la vía legal y política: abogados del Monarch, Krane (penalista; desde el Cap. 24 lleva asuntos comerciales de Chiara. CANON DEL AUTOR 2026-10-02: Rivers no es penalista, Krane sí; el bufete de Kal se forma después), fianza, ayuntamiento (favor de El Faro), Rowe (rima con el "favor de prensa" del Cap. 23; AJUSTE 2026-10-04 (decision del autor, arrastre de la reubicacion del Corral; BORRADOR): Chiara cobra el favor que Rowe le debe desde el Cap. 9 y Rowe lo reconoce sin poder pagarlo; sigue vivo hacia el Libro II), Connors. La municipal lo pierde por la reclamación federal. Lucía lo confirma.
-- Cronología (DISEÑO, coherente con el Cap. 43): el reclamo federal y el traslado a Camp Alder ocurren esa misma madrugada; el papel municipal tarda un día en enterarse. Chiara pasa D5 persiguiendo un expediente que ya no tiene cuerpo.
-- Arresto (CANON DEL AUTOR 2026-10-02, ver Cap. 43): el equipo lo ve desde el helicóptero (Kal revienta llantas, un agente lo embiste); en la playa la radio de Garrett confirma "un detenido"; reclamos mutuos y el puñetazo de Garrett a la puerta, contados por Héctor fuera de cuadro.
-- Héctor no le dice adónde fueron ("Eso no me toca a mí"): Chiara no sabe de la incursión ni de Halbrook; el arma de Dario y el expediente quedan para los Caps. 46–47.
-- Connors: la enemistad con Rivers, razón por la que Chiara la eligió (Cap. 23), se vuelve aquí una puerta cerrada (DISEÑO; no fija el origen de la enemistad, que sigue PENDIENTE).
+Función: "Institución". Chiara agota la vía legal y política: abogados del Monarch, Krane (penalista; desde el nuevo 22, archivo 24b, lleva asuntos comerciales de Chiara. CANON DEL AUTOR 2026-10-02: Rivers no es penalista, Krane sí; el bufete de Kal se forma después), fianza, ayuntamiento (favor guardado del Monarch), Rowe (AJUSTE 2026-10-04 (decision del autor, arrastre de la reubicacion del Corral; BORRADOR): Chiara cobra el favor que Rowe le debe desde el nuevo 12, archivo 10, «Sigo debiéndole una», y Rowe lo reconoce sin poder pagarlo; sigue vivo hacia el Libro II), Connors. La municipal lo pierde por la reclamación federal. Lucía lo confirma.
+- Cronología (DISEÑO, coherente con el nuevo 39): el reclamo federal (05:10) y el traslado a Camp Alder ocurren esa misma madrugada; el papel municipal tarda el día en llegar. Chiara pasa el domingo persiguiendo un expediente que ya no tiene cuerpo.
+- Arresto (CANON DEL AUTOR 2026-10-02, ver nuevo 39): el equipo lo ve desde el helicóptero (Kal revienta llantas, un agente lo embiste); en la playa la radio de Garrett confirma "un detenido"; reclamos mutuos y el puñetazo de Garrett a la puerta, contados por Héctor fuera de cuadro.
+- Héctor no le dice adónde fueron ("Eso no me toca a mí"): Chiara no sabe de la incursión ni de Halbrook; el arma de Dario y el expediente quedan para los nuevos 46–47 (archivos 50 y 50b).
+- Connors: la enemistad con Rivers, razón por la que Chiara la eligió (origen fuera de página en el cauce; el nuevo 22 lo deja a vigilar; se queda por decisión del autor 2026-11-08), se vuelve aquí una puerta cerrada (DISEÑO; no fija el origen de la enemistad, que sigue PENDIENTE).
 - "Ya no lo tiene la ciudad": la dice Chiara y Lucía la confirma (se conserva la decisión Q12 del 2026-09-27; el plan del arco la atribuía a Lucía — el autor decide).
-- Fuera de este capítulo: la recepción de la Torre Norte ("subió y no tocó") pasa al Cap. 45; no hay apagón, Dios, loft ni Beretta.
+- Fuera de este capítulo: la recepción de la Torre Norte ("subió y no tocó") pasa al nuevo 41 (archivo 45); no hay apagón, Dios, loft ni Beretta.
 - Sin EPUB, commit ni push.
 - Regla de diálogo 05 (2026-10-28, DISEÑO, espera lectura): cortes de eco y turnos perdidos; [[98_Agent_Handoff/sessions/2026-10-28_claude_regla05_jurisdiccion_cap50]].
 -->
@@ -71,7 +74,7 @@ No dejó ninguno.
 
 ---
 
-Para las nueve y media, los dos abogados del Monarch estaban en el despacho que había sido de Matteo, haciendo llamadas que normalmente hacían por contratos de licor y demandas de proveedores. Chiara no les explicó quién era el hombre. Los dos lo conocían de vista; ninguno preguntó.
+Para las nueve y media de ese domingo, los dos abogados del Monarch estaban en el despacho que había sido de Matteo, con ropa de fin de semana, haciendo llamadas que normalmente hacían por contratos de licor y demandas de proveedores. Chiara no les explicó quién era el hombre. Los dos lo conocían de vista; ninguno preguntó.
 
 El mayor encontró el registro antes de las once: nombre, hora de ingreso, una comisaría municipal del norte y un cargo de esos que se escriben cuando todavía no se sabe cuál va a ser el cargo. Disturbio. Daño a vehículo oficial con arma de fuego. Allanamiento en inmediaciones de una instalación federal. La instalación tenía nombre en el registro. Camp Alder.
 
@@ -83,7 +86,7 @@ El mayor encontró el registro antes de las once: nombre, hora de ingreso, una c
 
 —No hay audiencia todavía. —Dobló los lentes y los dejó sobre el registro—. Y esto no es lo nuestro. —Lo dijo sin queja, como quien informa el tamaño de una pieza—. Necesita un penalista.
 
-Chiara ya tenía uno. Giancarlo Krane había perdido contra Kal en un pasillo de juzgado, se había quedado con el número que Kal le dejó en media hoja de libreta, y desde entonces le llevaba a ella los asuntos que no quería en manos del casino.
+Chiara ya tenía uno. Giancarlo Krane había perdido contra Kal en una sala de mediación, se había quedado con el número que Kal le dejó junto a los elevadores en media hoja de libreta, y desde entonces le llevaba a ella los asuntos que no quería en manos del casino.
 
 ---
 
@@ -127,7 +130,7 @@ Chiara no se sentó. Desde el ventanal del despacho se veía el piso del casino,
 
 ---
 
-La dejaron esperando cuatro minutos en la línea. Después la voz de Katherine Rowe, cálida en el tono que se usa para las fotos.
+Katherine Rowe contestó al cuarto timbre, desde su casa. Detrás había una televisión, y alguien la bajó. La voz, de todos modos, era la cálida que se usa para las fotos.
 
 —Chiara. Qué sorpresa.
 
@@ -141,7 +144,7 @@ Chiara dejó pasar la pregunta.
 
 —Déjame ver qué tengo.
 
-La llamada volvió cuarenta minutos después. Para entonces el abogado mayor había conseguido, con dos llamadas al ayuntamiento y un favor que se debía desde *El Faro*, que un asistente del fiscal municipal confirmara el nombre del oficial que había hecho el arresto. Un nombre. Chiara lo tenía escrito en una hoja que no le servía para nada.
+La llamada volvió cuarenta minutos después. Para entonces el abogado mayor había conseguido, con dos llamadas a casas de gente del ayuntamiento y un favor que el Monarch tenía guardado desde antes de que ella llegara, que un asistente del fiscal municipal confirmara el nombre del oficial que había hecho el arresto. Un nombre. Chiara lo tenía escrito en una hoja que no le servía para nada.
 
 —Chiara. —Rowe había bajado la voz—. Si fuera mío, ya estaría hablando contigo de fianza. No es mío.
 
@@ -207,9 +210,9 @@ Llegó dos horas después, por mensajero, a nombre de Krane y con copia al Monar
 
 Chiara la leyó tres veces. Después la dejó boca abajo sobre el escritorio que había sido de Matteo.
 
-Los abogados se fueron a las ocho. El mayor se detuvo en la puerta como si fuera a decir algo y no lo dijo. A las diez Chiara había llamado a un penalista de fuera del estado que le costaba el doble por hora que los dos abogados juntos y que le explicó, con la paciencia de un hombre que cobra por minuto, lo mismo que Connors había dicho gratis. A las once un concejal que le debía su campaña le dijo que lo sentía mucho. A medianoche ya no había nadie en San Aurelio cuyo número no hubiera marcado ese día.
+Los abogados se fueron a las ocho. El mayor se detuvo en la puerta como si fuera a decir algo y no lo dijo. A las diez Chiara había llamado a un penalista de fuera del estado que le costaba el doble por hora que los dos abogados juntos y que le explicó, con la paciencia de un hombre que cobra por minuto, lo mismo que Connors había dicho gratis. A las once un concejal que le debía su campaña le dijo que lo sentía mucho. A medianoche ya no había nadie en San Aurelio cuyo número no hubiera marcado ese día. A Dario Varek sabía cómo llegarle, y no lo había contado entre los números: a Varek ya le debía uno.
 
-Excepto uno.
+Quedaba otro.
 
 Kal se lo había dicho una noche en el loft, dejando las llaves en el cuenco con más cuidado del necesario: *Lucía Varek me dejó su número directo. El de verdad, no el del Departamento.* Chiara le había preguntado entonces si eso la dejaba más tranquila o menos. Ninguno de los dos lo había sabido.
 

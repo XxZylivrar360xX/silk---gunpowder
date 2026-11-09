@@ -127,6 +127,15 @@
   - **37** *La otra mitad* (Chiara, ~2,025, archivo 41): Chiara aterriza el mismo día que Kal; Bonnie.
   - **38** *Nada* (Chiara, ~2,810, archivo 42): F1; Mei-Lin entra por la llamada de Bonnie, opción (a) (CANON).
   - **39** *La puerta* (Kal, ~2,890, archivo 43): el mensaje nombra a Crowe y Kal sabe desde aquí que trabaja para la gente de Halbrook; el lote va a Varek (CANON).
+- **Nuevos 40–47 («Ajusta al cauce», terminales A/B/C, 2026-11-08):** [[98_Agent_Handoff/encargos/ENCARGO_Fase4_Parte_III_Cierre]].
+  - **40** *Jurisdicción* (Chiara, ~2,130, archivo 44): domingo 19 dic; una línea nombra a Varek como el número que Chiara no cuenta porque «ya le debía uno» (CANON); el favor ya no viene de *El Faro*; Krane perdió en la sala de mediación del 22. [[98_Agent_Handoff/sessions/2026-11-08_claude_fase4_cap40_jurisdiccion]]
+  - **41** *Ropa limpia* (Chiara, ~4,340, archivo 45): del lun 20 al mié 29 dic; poda media (−183); eco del plato de Acción de Gracias (CANON); el hueco de la etiqueta (19 → 27) queda mudo (CANON); la grabación no cambia. [[98_Agent_Handoff/sessions/2026-11-08_claude_fase4_cap41_ropa_limpia]]
+  - **42** *Llaves* (Chiara, ~3,360, archivo 46): D1, las armas sin entregar; Héctor: «No se las di» (CANON); Chiara cree que la incursión fue para Varek. [[98_Agent_Handoff/sessions/2026-11-08_claude_fase4_cap42_llaves]]
+  - **43** *Intereses* (Chiara, ~4,020, archivo 47): D2, la deuda del 26 se vuelve «una cuenta abierta»; «el diecinueve»; Varek de usted y sin amenaza; pésame por Vento (CANON). Poda propuesta sin aplicar. [[98_Agent_Handoff/sessions/2026-11-08_claude_fase4_cap43_intereses]]
+  - **44** *Su nombre* (Chiara, ~3,380, archivo 48): pasa las comprobaciones sin cambios; sólo «había hecho sonar» (no «inventado») por el nuevo 13; sin poda. [[98_Agent_Handoff/sessions/2026-11-08_claude_fase4_cap44_su_nombre]]
+  - **45** *Por si vuelve* (Chiara, ~3,640, archivo 49): D4, sin la carpeta de Génova en la terraza; atadura de Il Consorzio («Y confía en que la casa Ardizzone tampoco las haga por su cuenta»); Varek y «una cuenta abierta»; poda ligera (CANON). [[98_Agent_Handoff/sessions/2026-11-08_claude_fase4_cap45_por_si_vuelve]]
+  - **46** *A oscuras* (Chiara, ~3,960, archivo 50): sin el sedán rojo de Crowe junto a la grúa (CANON); «a Varek» en el monólogo; sin poda. [[98_Agent_Handoff/sessions/2026-11-08_claude_fase4_cap46_a_oscuras]]
+  - **47** *La tierra bajo sus botas* (narrador, ~2,000, archivo 50b): D3, Halbrook se reconoce por «General.» (sembrado en el 28) y el expediente; prosa sin cambios (CANON). [[98_Agent_Handoff/sessions/2026-11-08_claude_fase4_cap47_la_tierra_bajo_sus_botas]]
 - **Parte III renumerada (2026-11-08, Codex):** el libro queda en 47 capítulos (Parte III = 33–47; los nuevos 40–47 son los archivos 44–50b, sólo renumerados). Reporte: [[98_Agent_Handoff/sessions/2026-11-08_codex_para_claude_renumeracion_parte_III]].
 
 ## Siguiente

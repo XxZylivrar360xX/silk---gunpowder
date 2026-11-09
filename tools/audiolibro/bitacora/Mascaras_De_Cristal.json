@@ -318,7 +318,7 @@
       "estado": "AL DIA",
       "motivo": "",
       "audio": "2026-11-08",
-      "desde": "2026-11-08 18:14"
+      "desde": "2026-11-08 20:36"
     },
     "45_Ropa_Limpia.md": {
       "capitulo": 41,
@@ -326,7 +326,7 @@
       "estado": "AL DIA",
       "motivo": "",
       "audio": "2026-11-08",
-      "desde": "2026-11-08 18:14"
+      "desde": "2026-11-08 20:36"
     },
     "46_Llaves.md": {
       "capitulo": 42,
@@ -334,7 +334,7 @@
       "estado": "AL DIA",
       "motivo": "",
       "audio": "2026-11-08",
-      "desde": "2026-11-08 18:14"
+      "desde": "2026-11-08 20:36"
     },
     "47_Intereses.md": {
       "capitulo": 43,
@@ -342,7 +342,7 @@
       "estado": "AL DIA",
       "motivo": "",
       "audio": "2026-11-08",
-      "desde": "2026-11-08 18:14"
+      "desde": "2026-11-08 20:36"
     },
     "48_Su_Nombre.md": {
       "capitulo": 44,
@@ -350,7 +350,7 @@
       "estado": "AL DIA",
       "motivo": "",
       "audio": "2026-11-08",
-      "desde": "2026-11-08 18:14"
+      "desde": "2026-11-08 20:36"
     },
     "49_Enfrente.md": {
       "capitulo": 45,
@@ -358,7 +358,7 @@
       "estado": "AL DIA",
       "motivo": "",
       "audio": "2026-11-08",
-      "desde": "2026-11-08 18:14"
+      "desde": "2026-11-08 20:36"
     },
     "50_A_Oscuras.md": {
       "capitulo": 46,
@@ -366,7 +366,7 @@
       "estado": "AL DIA",
       "motivo": "",
       "audio": "2026-11-08",
-      "desde": "2026-11-08 18:14"
+      "desde": "2026-11-08 20:36"
     },
     "50b_La_Tierra_Bajo_Sus_Botas.md": {
       "capitulo": 47,
@@ -3832,6 +3832,76 @@
       "2026-11-08 18:14",
       "Cap. 47 (50b_La_Tierra_Bajo_Sus_Botas.md)",
       "audio generado"
+    ],
+    [
+      "2026-11-08 19:34",
+      "Cap. 40 (44_Jurisdiccion.md)",
+      "audio pendiente: cambió la prosa"
+    ],
+    [
+      "2026-11-08 19:34",
+      "Cap. 41 (45_Ropa_Limpia.md)",
+      "audio pendiente: cambió la prosa"
+    ],
+    [
+      "2026-11-08 19:34",
+      "Cap. 42 (46_Llaves.md)",
+      "audio pendiente: cambió la prosa"
+    ],
+    [
+      "2026-11-08 19:34",
+      "Cap. 43 (47_Intereses.md)",
+      "audio pendiente: cambió la prosa"
+    ],
+    [
+      "2026-11-08 19:34",
+      "Cap. 45 (49_Enfrente.md)",
+      "audio pendiente: cambió la prosa"
+    ],
+    [
+      "2026-11-08 19:34",
+      "Cap. 46 (50_A_Oscuras.md)",
+      "audio pendiente: cambió la prosa"
+    ],
+    [
+      "2026-11-08 19:41",
+      "Cap. 44 (48_Su_Nombre.md)",
+      "audio pendiente: cambió la prosa"
+    ],
+    [
+      "2026-11-08 20:36",
+      "Cap. 40 (44_Jurisdiccion.md)",
+      "audio regenerado"
+    ],
+    [
+      "2026-11-08 20:36",
+      "Cap. 41 (45_Ropa_Limpia.md)",
+      "audio regenerado"
+    ],
+    [
+      "2026-11-08 20:36",
+      "Cap. 42 (46_Llaves.md)",
+      "audio regenerado"
+    ],
+    [
+      "2026-11-08 20:36",
+      "Cap. 43 (47_Intereses.md)",
+      "audio regenerado"
+    ],
+    [
+      "2026-11-08 20:36",
+      "Cap. 44 (48_Su_Nombre.md)",
+      "audio regenerado"
+    ],
+    [
+      "2026-11-08 20:36",
+      "Cap. 45 (49_Enfrente.md)",
+      "audio regenerado"
+    ],
+    [
+      "2026-11-08 20:36",
+      "Cap. 46 (50_A_Oscuras.md)",
+      "audio regenerado"
     ]
   ]
 }

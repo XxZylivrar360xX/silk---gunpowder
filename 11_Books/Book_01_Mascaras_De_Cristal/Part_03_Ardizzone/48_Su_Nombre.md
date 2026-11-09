@@ -1,8 +1,11 @@
 <!--
+Nuevo cauce (Fase 4, 2026-11-08, terminal B de [[98_Agent_Handoff/encargos/ENCARGO_Fase4_Parte_III_Cierre]]; verbo «Ajusta al cauce»): **nuevo Cap. 44**. Versión anterior íntegra: [[11_Books/Book_01_Mascaras_De_Cristal/Escenas_Eliminadas/48_Su_Nombre_Version_2026-11-08]]. Sesión: [[98_Agent_Handoff/sessions/2026-11-08_claude_fase4_cap44_su_nombre]].
+Ajuste DISEÑO (único en prosa): «el corredor de piezas del norte que había inventado» → «que había hecho sonar», porque el nuevo 13 (archivo 12) dice «Eso es verdad; no lo inventé». Comprobaciones de cauce sin cambios: Halbrook, el expediente, Varek, Il Consorzio, Matteo y Vento no aparecen; Mei-Lin sigue muda (su contacto es Tommaso, no se adelanta F2); la señal del Tasador («El gordo de la Almendra anda tasando el sur desde antes de Navidad») se queda: tras perder el lote en el 39, Crowe sale a tasar el sur, y Rafe conserva su motivo propio (el Peugeot; guarda 3).
+Numeración: las líneas Estado y Función ya van en la de 47 caps.; en las notas fechadas, «el 47» es hoy el 43, «el Cap. 50» es el 46 y «el Cap. 13» es el nuevo 13 (archivo 12, *Roma Atrii* con *Auster*).
 Renumerado 2026-11-08 (nuevo cauce, Parte III): antes Cap. 53.
 Renumerado 2026-11-01 (decisión del autor, carretera del Libro I): antes Cap. 57.
 Renumerado 2026-10-22 (decisión del autor): antes Cap. 48; numeración corrida definitiva, el archivo conserva su nombre.
-Estado: BORRADOR — Parte III — Ardizzone, Cap. 48 (quinto del arco final sin Kal, bloque de cierre 44–50b). Redactado 2026-10-02, Claude Opus 5.5, conforme a [[11_Books/Book_01_Mascaras_De_Cristal/00_Plan_Arco_Final_Sin_Kal]] y a las craft policies (Redaccion_De_Capitulos, voice/, staging_rules/, dialogue_rules/). Pendiente de lectura del autor.
+Estado: BORRADOR — Parte III — Ardizzone, Cap. 44 (quinto del arco final sin Kal, bloque de cierre 40–47). Redactado 2026-10-02, Claude Opus 5.5, conforme a [[11_Books/Book_01_Mascaras_De_Cristal/00_Plan_Arco_Final_Sin_Kal]] y a las craft policies (Redaccion_De_Capitulos, voice/, staging_rules/, dialogue_rules/). Pendiente de lectura del autor.
 Título: PENDIENTE. "Su nombre" es de trabajo (DISEÑO).
 Protagonista: Chiara Bellandi (POV único, tercera persona cercana). Kal no aparece.
 Personajes con diálogo: Mabel Ortiz, Bonnie García (por teléfono), Mei-Lin Zhao, Rafael "Rafe" Domínguez, Maribel Knox.
@@ -248,7 +251,7 @@ Chiara se tocó el anular izquierdo. Fue un segundo. Luego bajó la mano al vaso
 
 En el patio, el muchacho cambió la bolsa de hielo de mano. Se oyó el crujido del hielo, y el muchacho dijo algo entre dientes, y nadie le contestó.
 
-Chiara pensó en el corredor de piezas del norte que había inventado una tarde, con tres conversaciones que no eran suyas, para que nadie mirara ni a Kal ni a este hombre, y en lo que había sentido entonces por un tal Rafe Domínguez a quien no conocía, a quien no le iba a deber nunca nada.
+Chiara pensó en el corredor de piezas del norte que había hecho sonar una tarde, con tres conversaciones que no eran suyas, para que nadie mirara ni a Kal ni a este hombre, y en lo que había sentido entonces por un tal Rafe Domínguez a quien no conocía, a quien no le iba a deber nunca nada.
 
 Miró a Maribel. Maribel tenía la pluma levantada sobre la libreta.
 

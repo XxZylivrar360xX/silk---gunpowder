@@ -1,5 +1,7 @@
 # Nadir Amrani
 
+> **NUEVO CAUCE — NUEVO 46 (2026-11-08; [[98_Agent_Handoff/sessions/2026-11-08_claude_fase4_cap46_a_oscuras]]):** la grúa que Chiara ve bajar al sur la noche del convoy sigue siendo el trabajo que Nadir aceptó (nuevo 42), pero sin el sedán rojo: nada la ata a Crowe a la vista.
+
 > **NUEVO CAUCE — PARTE II (2026-11-08; [[98_Agent_Handoff/sessions/2026-11-08_claude_propagacion_parte_II]]; prosa BORRADOR, lo nuevo es DISEÑO salvo donde dice CANON):** **21:** baja de la grúa antes de la comisaría, sin explicación (DISEÑO). **22:** su detonante con Chiara ya no es la mentira de Tommaso: son el robo y el libro que Kal no abrió (CANON). La panadera le cuenta a Kal que un hombre de chaqueta café «del seguro» preguntó por «su socio, el que cuenta con los dedos»; **Kal no se lo dice a Nadir** (CANON). **24:** la capa 2 (Il Gelsomino) la recuerda Chiara (CANON). Al cierre del 28 Nadir no sabe nada de Halbrook ni del pacto; el 29 da por contada la reunión de El Patio. Kal sigue sin saber que Nadir habló con Chiara.
 
 > **Numeración:** desde 2026-10-22 el Libro I usa numeración corrida definitiva (56 caps.); este documento cita la numeración anterior. Correspondencia en [[11_Books/Book_01_Mascaras_De_Cristal/00_Book_Map]].

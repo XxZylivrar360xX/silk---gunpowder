@@ -1,21 +1,25 @@
 <!--
+AJUSTE AL CAUCE (Fase 4, 2026-11-08, terminal A; [[98_Agent_Handoff/encargos/ENCARGO_Fase4_Parte_III_Cierre]]): nuevo Cap. 41, POV Chiara, verbo «Ajusta al cauce». Versión anterior íntegra: [[11_Books/Book_01_Mascaras_De_Cristal/Escenas_Eliminadas/45_Ropa_Limpia_Version_2026-11-08]]. Nota: [[98_Agent_Handoff/sessions/2026-11-08_claude_fase4_cap41_ropa_limpia]].
+Decisiones del autor (2026-11-08): (1) poda media (hecha con editorial-surgery: −183 de cortes y +30 del eco; 4,492 → 4,339 de prosa. No llega a ~3,950 sin tocar geografía protegida ni beats con carga: los candidatos que quedan están en la nota); (2) una línea de eco con el plato de Acción de Gracias del nuevo 35 («La última comida de Mabel le había llegado en papel aluminio, de manos de Kal…»); (3) el hueco de la etiqueta (Kal entra el 19 y la etiqueta MERCER aparece hasta las noches del 27 y el 28) se queda mudo, sin explicarse, hasta *Voto de Ceniza*; (4) Vento no entra.
+Calendario ajustado al nuevo 40 (DISEÑO): el capítulo arranca el lunes 20 dic, horas después de Lucía, y no el miércoles 22. La hoja de salida lleva boca abajo «desde el domingo de la semana anterior». Las fechas de la prosa (24–28 dic) no cambian.
+La grabación del pasillo (19:04 del sábado 18, nuevo 39) queda sin cambios: Chiara la manda borrar y no pide copia. El fotograma que usa el expediente del 47 (terminal C) tiene que venir de una copia sacada antes del borrado; a C le toca resolverlo.
 Renumerado 2026-11-08 (nuevo cauce, Parte III): antes Cap. 50.
 Renumerado 2026-11-01 (decisión del autor, carretera del Libro I): antes Cap. 54.
 Renumerado 2026-10-22 (decisión del autor): antes Cap. 45; numeración corrida definitiva, el archivo conserva su nombre.
-Estado: BORRADOR — Parte III — Ardizzone, Cap. 45 (segundo del arco final sin Kal, bloque de cierre 44–50b). Redactado 2026-10-02, Claude Opus 5.5, conforme a [[11_Books/Book_01_Mascaras_De_Cristal/00_Plan_Arco_Final_Sin_Kal]] y a las craft policies (Redaccion_De_Capitulos, voice/, staging_rules/, dialogue_rules/). Pendiente de lectura del autor.
+Estado: BORRADOR — Parte III — Ardizzone, nuevo Cap. 41 (segundo del arco final sin Kal, nuevos 40–47, archivos 44–50b). Redactado 2026-10-02, Claude Opus 5.5, conforme a [[11_Books/Book_01_Mascaras_De_Cristal/00_Plan_Arco_Final_Sin_Kal]] y a las craft policies (Redaccion_De_Capitulos, voice/, staging_rules/, dialogue_rules/). Pendiente de lectura del autor.
 Título: PENDIENTE. "Ropa limpia" es de trabajo (DISEÑO).
 Protagonista: Chiara Bellandi (POV único, tercera persona cercana). Kal no aparece salvo en una grabación de seguridad, de espaldas y sin cara.
 Personajes con diálogo: Kenji Oda, Mabel Ortiz, el recepcionista de noche de la Torre Norte, un guardia de seguridad (sin nombre), Bonnie García, Mei-Lin Zhao, Rosaura Quintero (nueva, DISEÑO: planchadora del turno de noche, comadre de Mabel).
-Ventana temporal: madrugada de D6 (mié 22 dic, horas después de Lucía, Cap. 44) hasta el amanecer del mié 29 dic. Fechas en prosa sólo en la semana de espera (24–28 dic).
+Ventana temporal: madrugada del lun 20 dic (horas después de Lucía, nuevo 40) hasta el amanecer del mié 29 dic. Fechas en prosa sólo en la semana de espera (24–28 dic).
 Calendario (CANON DEL AUTOR 2026-10-06, [[13_Auditorias/Book_01_Mascaras_De_Cristal/Matriz_Temporal_Libro_I]]): el capítulo absorbe la semana extra de custodia, del mié 22 a ~mié 29 dic; aquí cae la Navidad sin Kal. Pasada de calendario hecha 2026-10-06 (DISEÑO, pendiente de lectura): Rosaura no ve la etiqueta la primera semana; la espera (24–28 dic) va en una sección de días contados entre la grabación y Bonnie, con el gesto diario de Mabel, el árbol del Monarch, la Nochebuena sola en el penthouse y La Esquina cerrada el 25. Las etiquetas aparecen las noches del 27 y el 28.
 Lugares: la caja del Monarch al cierre del conteo; La Esquina de Mabel; recepción y cuarto de seguridad de la Torre Norte; el despacho que fue de Matteo; el estacionamiento de una lavandería industrial en el Alder Cutoff, junto a la pista de carga de Kingsley Field.
-Función: "Su red". Chiara pasa de la vía institucional (44) a la suya: i Sussurri (Kenji), la red civil (Mabel) y Bonnie con Mei-Lin. Lo que consigue es mínimo y verificable: una prueba de vida. Cierra sabiendo que está vivo y nada más.
+Función: "Su red". Chiara pasa de la vía institucional (nuevo 40) a la suya: i Sussurri (Kenji), la red civil (Mabel) y Bonnie con Mei-Lin. Lo que consigue es mínimo y verificable: una prueba de vida. Cierra sabiendo que está vivo y nada más.
 - Prueba de vida (DISEÑO, opción "lavandería" del plan): Camp Alder subcontrata la ropa con una lavandería industrial de Kingsley; las bolsas del calabozo llevan etiqueta por apellido. Rosaura ve "MERCER" dos noches seguidas y la ropa le llega doblada en cuadro. La deducción ("si mandan ropa a lavar, alguien se la está poniendo") es de ella, no del narrador. Nada sobre su estado, trato o salida.
-- Kenji habla en voz alta en vez de escribir (ya lo hizo en el Cap. 13); el papel de Chiara lleva QUIS INTRAT CASTRA / ALDER. La información de Kenji llega como queja doméstica de contratistas (regla de la red civil).
+- Kenji habla en voz alta en vez de escribir (ya lo hizo en el nuevo 13, archivo 12); el papel de Chiara lleva QUIS INTRAT CASTRA / ALDER. La información de Kenji llega como queja doméstica de contratistas (regla de la red civil).
 - Mabel no es subordinada: pone condiciones por Rosaura (permiso de trabajo) y no acepta la promesa de Chiara ("Eso no lo decides tú").
-- Recepción (plan: "el beat sale del final y hiere a mitad del arco"): Kal subió la tarde de D4 y no tocó. DISEÑO: Chiara ve la grabación (pasillo, de espaldas, mano a medio levantar; no se le ven los labios) y manda borrarla y no pide copia: lo protege de que exista una imagen suya en su puerta la víspera de un delito federal. Con esto el beat de recepción del viejo 44 (`50_A_Oscuras.md`, l. 149–155) queda **duplicado y debe salir del 50** en su reescritura.
-- Bonnie: Chiara la había apartado en el 42 ("Se acabó tu parte"); la vuelve a llamar. Una línea del Patio ("Nadir no duerme") siembra el 46 sin abrirlo.
-- Mei-Lin: aporta horarios, cambio de turno y cámaras del lote (oficio de rutas del norte, coherente con 37 y 39). Su pregunta "¿Para qué quiere saber si está vivo, si no lo puede sacar?" es DISEÑO: legible como honestidad hoy y como sondeo en relectura; no es la siembra muda del 48 ni delata nada.
+- Recepción (plan: "el beat sale del final y hiere a mitad del arco"): Kal subió la tarde del sáb 18 (nuevo 39, en escena) y no tocó. DISEÑO: Chiara ve la grabación (pasillo, de espaldas, mano a medio levantar; no se le ven los labios) y manda borrarla y no pide copia: lo protege de que exista una imagen suya en su puerta la víspera de un delito federal. Con esto el beat de recepción del viejo 44 (`50_A_Oscuras.md`, l. 149–155) queda **duplicado y debe salir del nuevo 46 (archivo 50)** en su reescritura (terminal C).
+- Bonnie: Chiara la había apartado en el nuevo 38 (archivo 42, "Se acabó tu parte"); la vuelve a llamar. Una línea del Patio ("Nadir no duerme") siembra el nuevo 42 (archivo 46) sin abrirlo.
+- Mei-Lin: aporta horarios, cambio de turno y cámaras del lote (oficio de rutas del norte). «La vi en el yate» = *La Notte Bellandi* (nuevo 35). Su contacto sigue siendo Tommaso; no se adelanta F2. Su pregunta "¿Para qué quiere saber si está vivo, si no lo puede sacar?" es DISEÑO: legible como honestidad hoy y como sondeo en relectura; no es la siembra muda del nuevo 44 (archivo 48) ni delata nada.
 - No se nombra Halbrook, el expediente ni la incursión. Chiara evita el loft (va del Monarch a Kingsley y vuelve al Monarch).
 - Sin EPUB, commit ni push.
 - Regla de diálogo 05 (2026-10-28, DISEÑO, espera lectura): cortes de eco y turnos perdidos; [[98_Agent_Handoff/sessions/2026-10-28_claude_regla05_ropa_limpia_cap51]].
@@ -61,10 +65,6 @@ No era lo que decía siempre. Chiara no se volvió. Subió por la misma escalera
 
 El día lo pasó en el despacho que había sido de Matteo, haciendo lo que hacía cualquier otro día, porque el Monarch no sabía que Kal estaba detenido y no tenía por qué saberlo. Firmó la nómina del fin de semana. Rechazó una propuesta de un proveedor de licores con una frase que le salió más seca de lo que el proveedor merecía. Krane llamó a las once para decirle que había presentado una solicitud federal que nadie iba a contestar en semanas, y que la había presentado igual, por si un día hacía falta demostrar que se había presentado.
 
-—¿Usted cree que sirve? —preguntó Chiara.
-
-—Es lo que hay. —Krane no se disculpó—. Usted ya lo sabía antes de preguntármelo.
-
 Lucía no llamó.
 
 A la una y media de la mañana Chiara bajó otra vez al piso. El Monarch estaba en su hora más llena, la de los que ya habían perdido lo que traían y seguían jugando con lo que no traían, y el ruido le llegó antes que la luz: fichas, risas de mesa, el campanazo de una tragamonedas que pagaba poco y anunciaba mucho. En la fila de la caja había hombres con botas de trabajo y camisas de manga larga abotonadas hasta el cuello, de las que se compran por paquete. Uno llevaba todavía el gafete colgado del cinturón, con la cara hacia adentro.
@@ -77,7 +77,7 @@ Kenji las tomó y empezó a contar billetes que no hacían falta para dos fichas
 
 —Dígamelo así.
 
-—Los del norte son contratistas. Mantenimiento, cocina, transporte. Cobran cada dos semanas y vienen aquí a cambiar el cheque porque el banco de Kingsley cierra a las cuatro. —Puso un billete encima de otro—. Uno se quejaba de las camisas. Dice que desde la primavera la base ya no lava la ropa adentro. La manda a una lavandería del Alder Cutoff, junto a la pista de carga, y se la regresan con tanto almidón que le raspa el cuello.
+—Los del norte son contratistas. Mantenimiento, cocina, transporte. —Puso un billete encima de otro—. Uno se quejaba de las camisas. Dice que desde la primavera la base ya no lava la ropa adentro. La manda a una lavandería del Alder Cutoff, junto a la pista de carga, y se la regresan con tanto almidón que le raspa el cuello.
 
 —¿Y los demás?
 
@@ -89,7 +89,7 @@ Kenji le pasó los billetes por la ranura. Cincuenta, exactos.
 
 —No. Dijo que huele a almidón desde el estacionamiento. —Kenji cerró el cajón—. El que se quejaba juega blackjack en la mesa seis. Si vuelve, lo veo.
 
-Chiara guardó los billetes en el bolso sin doblarlos. Pensó en decirle algo y no encontró qué. Kenji tampoco esperaba nada: ya estaba mirando al siguiente de la fila, un hombre de gafete que tenía el cheque en la mano desde hacía rato.
+Chiara guardó los billetes en el bolso sin doblarlos. Kenji ya estaba mirando al siguiente de la fila.
 
 ---
 
@@ -127,7 +127,7 @@ El cuchillo se detuvo sobre la tabla. Mabel no lo soltó; se quedó con él en l
 
 —¿Usted podría hablarle?
 
-Mabel se limpió las manos en el delantal. Una vez, despacio, primero una, después la otra. Después miró hacia la puerta, aunque nadie estaba entrando.
+Mabel se limpió las manos en el delantal, despacio, y miró hacia la puerta, aunque nadie estaba entrando.
 
 —Rosaura tiene dos hijos y un permiso de trabajo que se le vence en marzo —dijo—. Si la corren de esa lavandería, no la corren de la lavandería. ¿Me entiendes?
 
@@ -141,6 +141,8 @@ La puso junto a la taza de Chiara.
 
 —Un sándwich de jamón. No has comido.
 
+La última comida de Mabel le había llegado en papel aluminio, de manos de Kal, un jueves de Acción de Gracias.
+
 Chiara apartó la bolsa un par de centímetros. Mabel la regresó a su lugar sin mirarla, recogió la taza vacía de un cliente y la echó al fregadero.
 
 —Le voy a hablar hoy en la tarde, antes de que entre. Ella decide. Si dice que no, es no, y no te la vas a encontrar de casualidad en ningún estacionamiento.
@@ -153,7 +155,7 @@ Chiara la miró.
 
 —Porque no. —Mabel volvió a tomar el cuchillo—. Yo no dije nada. Sólo te puse café.
 
-Chiara dejó un billete debajo de la taza. Mabel lo vio y no dijo nada. Chiara salió con la bolsa de estraza en la mano. No se la comió, pero tampoco la tiró.
+Chiara dejó un billete debajo de la taza y salió con la bolsa de estraza en la mano. No se la comió, pero tampoco la tiró.
 
 ---
 
@@ -183,9 +185,9 @@ Ya iba hacia el elevador.
 
 Chiara se detuvo. No se dio vuelta del todo; giró la cabeza lo justo para verlo, y esperó.
 
-El muchacho dudó. Lo hizo con la cara entera, como quien de pronto no sabe si lo que va a decir es un servicio o un chisme.
+El muchacho dudó.
 
-—La otra tarde, antes de que yo entrara. Mi compañero del turno de día me lo comentó, porque se le hizo raro. El señor Mercer subió, como siempre, sin anunciarse, porque a él ya no se le anuncia. Y bajó a los cinco minutos. —Se aclaró la garganta—. Seguridad dice que no llegó a tocar. Como usted no llamó para nada, pensamos que ya lo sabía.
+—La otra tarde, antes de que yo entrara. Mi compañero del turno de día me lo comentó. El señor Mercer subió, como siempre, sin anunciarse, porque a él ya no se le anuncia. Y bajó a los cinco minutos. —Se aclaró la garganta—. Seguridad dice que no llegó a tocar. Como usted no llamó para nada, pensamos que ya lo sabía.
 
 —¿Qué tarde?
 
@@ -195,7 +197,7 @@ El muchacho dudó. Lo hizo con la cara entera, como quien de pronto no sabe si l
 
 —Pasadas las siete, según el registro.
 
-Chiara no se movió del mostrador. La luz amarilla seguía donde estaba; el mármol seguía pareciendo recién lavado. El muchacho la miraba esperando que ella dijera algo que le permitiera volver a sentarse.
+Chiara no se movió del mostrador. El muchacho la miraba esperando algo que le permitiera volver a sentarse.
 
 —Quiero ver la grabación —dijo Chiara.
 
@@ -287,7 +289,7 @@ Bonnie se acomodó en la silla. Del otro lado del cristal, abajo, alguien ganó 
 
 —Nadir no duerme —dijo Bonnie—. Por si quería saberlo.
 
-Chiara no contestó a eso. Le explicó lo de la lavandería: la tapia azul, el Cutoff, la salida del turno, una mujer de Mabel que no quería ver el coche de Chiara. Bonnie escuchó sin interrumpir. Cuando Chiara terminó, Bonnie miró hacia el ventanal.
+Chiara no contestó a eso. Le explicó lo de la lavandería, y cuando terminó, Bonnie miró hacia el ventanal.
 
 —¿Mei?
 
@@ -311,7 +313,7 @@ Mei-Lin se dio vuelta entonces. Miró a Chiara desde el ventanal, con la luz del
 
 Mei-Lin no retiró la pregunta. Tampoco insistió. Esperó.
 
-Chiara tenía una pluma en la mano. La dejó sobre el escritorio, alineada con el borde de la hoja fotocopiada que seguía ahí boca abajo desde hacía una semana, con el sello y las dos palabras.
+Chiara tenía una pluma en la mano. La dejó sobre el escritorio, alineada con el borde de la hoja fotocopiada que seguía ahí boca abajo desde el domingo de la semana anterior, con el sello y las dos palabras.
 
 —A las cuatro, Bonnie —dijo—. Aquí abajo, en la salida de carga.
 
@@ -334,8 +336,6 @@ Bonnie pasó de largo, dio vuelta en un retorno, regresó con las luces apagadas
 Eran las cuatro y cincuenta.
 
 A las cuatro y cincuenta y cinco, los camiones salieron. Chiara los vio pasar uno detrás de otro por el espejo lateral, tres, cuatro, cinco, hacia el noreste, hacia el letrero verde. Contó las luces traseras hasta que la carretera se las tragó.
-
-Bonnie no dijo nada. Chiara tampoco.
 
 A las cinco y treinta y cinco se abrió una puerta lateral de la nave y salieron mujeres. Algunas con suéter encima del uniforme celeste, otras con bolsa de mandado, casi todas con el pelo recogido bajo una red que se iban quitando mientras caminaban. Se oyeron voces, una risa, un encendedor. Tres fueron hacia la tapia baja.
 
@@ -377,7 +377,7 @@ Chiara la miró.
 
 —Los del calabozo mandan todo hecho bola, con perdón. Lo meten a la bolsa como sale. —Rosaura tiró la ceniza con un golpecito del pulgar—. Ésa viene doblada. En cuadro, la camisa y el pantalón, como las sábanas del hospital. Antenoche y anoche. Mis compañeras dicen que es militar. Yo digo que alguien le enseñó.
 
-Chiara no dijo nada. Se le había cerrado algo en la garganta y no lo dejó subir. Miró el vapor de las chimeneas, que se estaba poniendo gris contra el cielo que empezaba a aclarar detrás de la nave, y esperó a que se le pasara.
+Chiara no dijo nada. Miró el vapor de las chimeneas, que se estaba poniendo gris contra el cielo que empezaba a aclarar detrás de la nave, y esperó a que se le pasara.
 
 Rosaura esperó también. Terminó el cigarro sin apuro y lo aplastó contra la tapia.
 
@@ -411,7 +411,7 @@ Estaba vivo.
 
 —¿Está bien? —preguntó Bonnie.
 
-Chiara miró el letrero. Bonnie no repitió la pregunta. Esperó con las manos en el volante hasta que fue claro que no iba a haber respuesta, y entonces giró la llave.
+Chiara miró el letrero. Bonnie no repitió la pregunta. Esperó un momento con las manos en el volante y giró la llave.
 
 —¿A dónde la llevo?
 

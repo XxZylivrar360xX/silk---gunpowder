@@ -1,21 +1,25 @@
 <!--
+Nuevo cauce (Fase 4, 2026-11-08, terminal B de [[98_Agent_Handoff/encargos/ENCARGO_Fase4_Parte_III_Cierre]]; verbo «Ajusta al cauce»): **nuevo Cap. 42**. Versión anterior íntegra: [[11_Books/Book_01_Mascaras_De_Cristal/Escenas_Eliminadas/46_Llaves_Version_2026-11-08]]. Sesión: [[98_Agent_Handoff/sessions/2026-11-08_claude_fase4_cap42_llaves]].
+D1 (DECISIÓN DEL AUTOR, 2026-11-08): las armas quedaron **sin entregar**. El helicóptero bajó en la playa, el punto de Varek; ahí esperaba gente de Varek, pero la entrega dependía de Kal y Héctor no se las dio a nadie más. Las regresaron y siguen escondidas, completas. Prosa DISEÑO: la línea de Héctor («No se las di») y el pensamiento de Chiara, que con el nombre de Varek encima cree entender para quién fue la incursión. Es la misma ironía del 26: apunta al hombre equivocado, y Halbrook y el expediente no aparecen.
+Numeración: las referencias de las líneas Ventana, Función y siguientes ya van en la de 47 caps. (2026-11-08); las notas fechadas (regla 05, Rocco, Tasador) conservan la de su época.
+Costura con el nuevo 41 RESUELTA (2026-11-08, nota de A): la ropa doblada en cuadro (Rosaura → Walt) no cambia; la etiqueta sale las noches del lun 27 y el mar 28, así que desde el jue 30 se dice «Salió el lunes en la noche. El martes también» (antes «Antenoche… Anoche», que caía en el 28 y el 29).
 Renumerado 2026-11-08 (nuevo cauce, Parte III): antes Cap. 51.
 Renumerado 2026-11-01 (decisión del autor, carretera del Libro I): antes Cap. 55.
 Renumerado 2026-10-22 (decisión del autor): antes Cap. 46; numeración corrida definitiva, el archivo conserva su nombre.
-Estado: BORRADOR — Parte III — Ardizzone, Cap. 46 (tercero del arco final sin Kal, bloque de cierre 44–50b). Redactado 2026-10-02, Claude Opus 5.5, conforme a [[11_Books/Book_01_Mascaras_De_Cristal/00_Plan_Arco_Final_Sin_Kal]] y a las craft policies (Redaccion_De_Capitulos, voice/, staging_rules/, dialogue_rules/). Pendiente de lectura del autor.
+Estado: BORRADOR — Parte III — Ardizzone, Cap. 42 (tercero del arco final sin Kal, bloque de cierre 40–47). Redactado 2026-10-02, Claude Opus 5.5, conforme a [[11_Books/Book_01_Mascaras_De_Cristal/00_Plan_Arco_Final_Sin_Kal]] y a las craft policies (Redaccion_De_Capitulos, voice/, staging_rules/, dialogue_rules/). Pendiente de lectura del autor.
 Título: PENDIENTE. "Llaves" es de trabajo (DISEÑO).
 Protagonista: Chiara Bellandi (POV único, tercera persona cercana). Kal no aparece.
 Personajes con diálogo: Héctor Navarro, Nadir Amrani, Danny Hayes, Garrett Cross, Walt Keegan, Marisol Grayson (una línea, por teléfono).
-Ventana temporal: tarde y anochecer de D8 (horas después del amanecer en el Cutoff, Cap. 45). El plan decía D8–D9; el capítulo cabe en una sola tarde. Sin encabezados de fecha.
-Calendario (CANON DEL AUTOR 2026-10-06, [[13_Auditorias/Book_01_Mascaras_De_Cristal/Matriz_Temporal_Libro_I]]): jueves 30 de diciembre. Pasada de calendario hecha 2026-10-06 (DISEÑO, pendiente de lectura): diez días de silencio, once de Nadir, Navidad en la mentira de Héctor, "fin de año" en el recuerdo del yate (y en el 38), niños sin escuela.
+Ventana temporal: tarde y anochecer de D8 (horas después del amanecer en el Cutoff, Cap. 41). El plan decía D8–D9; el capítulo cabe en una sola tarde. Sin encabezados de fecha.
+Calendario (CANON DEL AUTOR 2026-10-06, [[13_Auditorias/Book_01_Mascaras_De_Cristal/Matriz_Temporal_Libro_I]]): jueves 30 de diciembre. Pasada de calendario hecha 2026-10-06 (DISEÑO, pendiente de lectura): diez días de silencio, once de Nadir, Navidad en la mentira de Héctor, "fin de año" en el recuerdo del yate (y en el 21), niños sin escuela.
 Lugares: La Almendra (el rodeo para no pasar frente al loft); Almendra Towing / El Patio: portón, capó de Héctor, mostrador de Nadir, oficina de Garrett, la camioneta del fondo.
 Función: "Los de Kal". La gente de Kal la recibe fría y termina siguiéndola. Movimiento de poder: Nadir le entrega las llaves; Chiara cita al hombre de Dario; Héctor le pasa el teléfono para Marisol.
-- Frialdad (DISEÑO): no por F1 (nadie en el Patio sabe de la pelea ni de la puerta del penthouse, Cap. 43), sino por diez días de silencio: Héctor le preguntó en el 44 "¿Usted puede hacer algo?" y ella no volvió a llamar.
+- Frialdad (DISEÑO): no por F1 (nadie en el Patio sabe de la pelea ni de la puerta del penthouse, Cap. 39), sino por diez días de silencio: Héctor le preguntó en el 40 "¿Usted puede hacer algo?" y ella no volvió a llamar.
 - Prueba de vida: Chiara la da sin nombrar a Rosaura ni la lavandería por su nombre. Walt (diez años preso) lee la ropa doblada: "El que la dobla todavía está pensando en salir." DISEÑO: es la función de Walt en el capítulo; ninguna otra voz del Patio tiene ese saber.
-- Nadir: todas las noches desde el arresto yendo al perímetro con la camioneta lista. "Salimos cuatro, volvimos tres" (eco del 44). Chiara lo frena en su idioma, con la cuenta ("la deja en dos"). Nadir le entrega las llaves. La culpa de Nadir hacia Héctor (el jalón del helicóptero) queda en una mirada; Héctor la aguanta sin contestar.
-- Armas de Dario (siembra del 47, sin detalle): las cajas siguen "donde las dejamos"; un hombre de Dario en un Audi ha venido a preguntar dos veces; Chiara lo cita para el día siguiente. Sin modelos, cantidades ni lugar.
+- Nadir: todas las noches desde el arresto yendo al perímetro con la camioneta lista. "Salimos cuatro, volvimos tres" (eco del 40). Chiara lo frena en su idioma, con la cuenta ("la deja en dos"). Nadir le entrega las llaves. La culpa de Nadir hacia Héctor (el jalón del helicóptero) queda en una mirada; Héctor la aguanta sin contestar.
+- Armas de Dario (siembra del 43, sin detalle; D1 arriba): las cajas siguen "donde las dejamos"; un hombre de Dario en un Audi ha venido a preguntar dos veces; Chiara lo cita para el día siguiente. Sin modelos, cantidades ni lugar.
 - Loft: Chiara da un rodeo para no pasar enfrente; Héctor le ofrece la llave; ella da la instrucción de la albahaca y no sube. Sin glosa.
-- Marisol (plan: "alguien tiene que decírselo"): el campamento de fin de mes (sembrado en el 38) cae el sábado; Walt iba a cubrir las grúas. Garrett marca el riesgo (estudia derecho, va a querer un cargo y una ventanilla). Héctor ya le mintió dos veces a Marisol y no va a mentirle una tercera (Q4 de la auditoría del arco, 2026-10-03); le pasa el teléfono a Chiara. Corte antes de la conversación (DISEÑO: queda fuera de página; si el autor la quiere en escena, abre el 47 o se amplía aquí).
+- Marisol (plan: "alguien tiene que decírselo"): el campamento de fin de mes (sembrado en el 21) cae el sábado; Walt iba a cubrir las grúas. Garrett marca el riesgo (estudia derecho, va a querer un cargo y una ventanilla). Héctor ya le mintió dos veces a Marisol y no va a mentirle una tercera (Q4 de la auditoría del arco, 2026-10-03); le pasa el teléfono a Chiara. Corte antes de la conversación (DISEÑO: queda fuera de página; si el autor la quiere en escena, abre el 43 o se amplía aquí).
 - Bonnie y Mei-Lin no aparecen. No se nombra Halbrook, el expediente, el convoy ni la fecha del traslado. Sin EPUB, commit ni push.
 Regla de diálogo 05 (2026-10-28, a pedido del autor; prosa DISEÑO, espera lectura): fuera «Ahora el de él», «¿Contando qué?», «¿Y la mochila?», «¿Qué le dijiste?», «¿Completas?», «No lo sabemos» y el «Sí» a Danny. Sesión: 98_Agent_Handoff/sessions/2026-10-28_claude_regla05_llaves_cap52.md.
 Rocco (2026-10-22, decision del autor; prosa DISENO; sigue BORRADOR): sale de la casa de tablas y se pone panza arriba con Chiara, como siempre con ella; primera vez en prosa. La casa de Kal sin Kal, sin glosa. Ficha: 02_Characters/Rocco.md.
@@ -98,7 +102,7 @@ No es que se moviera mucho, sentado en el capó con el trapo al hombro. Pero ten
 
 —¿Cómo sabe? —preguntó Héctor.
 
-—Su ropa sale de la base a lavar. A una lavandería de Kingsley, con una etiqueta con su apellido. Antenoche salió. Anoche también.
+—Su ropa sale de la base a lavar. A una lavandería de Kingsley, con una etiqueta con su apellido. Salió el lunes en la noche. El martes también.
 
 —¿Quién le dijo eso?
 
@@ -209,6 +213,10 @@ Danny se levantó del suelo por fin. Se limpió las manos en los jeans, que no s
 Danny miró a Héctor. Héctor movió la barbilla una vez, hacia abajo.
 
 —Donde las dejamos —dijo Danny—. Completas. Nadie las ha tocado.
+
+—En la playa había gente esperándolas —dijo Héctor desde el capó—. Gente de él, supongo. Yo no los conocía. El que los conocía se quedó en el camino. —Dobló el trapo en dos—. No se las di.
+
+Chiara no preguntó qué había en las cajas. Con el nombre de Varek encima, entendió lo demás: con qué le había pagado Kal la silla, y por qué no se lo había dicho.
 
 Garrett había vuelto a la puerta de la oficina. Tenía los brazos cruzados y el teléfono apagado en una mano.
 
