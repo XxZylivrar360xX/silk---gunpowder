@@ -1,4 +1,5 @@
 <!--
+Lectura del autor de la Parte III (2026-11-08, [[98_Agent_Handoff/sessions/2026-11-08_claude_lectura_parte_iii]]; prosa DISEÑO, espera lectura): fuera la frase que repetía a Rosaura («Sabía que antenoche y anoche se había quitado la ropa…»); queda la lista de lo que Chiara no sabe y «Estaba vivo».
 AJUSTE AL CAUCE (Fase 4, 2026-11-08, terminal A; [[98_Agent_Handoff/encargos/ENCARGO_Fase4_Parte_III_Cierre]]): nuevo Cap. 41, POV Chiara, verbo «Ajusta al cauce». Versión anterior íntegra: [[11_Books/Book_01_Mascaras_De_Cristal/Escenas_Eliminadas/45_Ropa_Limpia_Version_2026-11-08]]. Nota: [[98_Agent_Handoff/sessions/2026-11-08_claude_fase4_cap41_ropa_limpia]].
 Decisiones del autor (2026-11-08): (1) poda media (hecha con editorial-surgery: −183 de cortes y +30 del eco; 4,492 → 4,339 de prosa. No llega a ~3,950 sin tocar geografía protegida ni beats con carga: los candidatos que quedan están en la nota); (2) una línea de eco con el plato de Acción de Gracias del nuevo 35 («La última comida de Mabel le había llegado en papel aluminio, de manos de Kal…»); (3) el hueco de la etiqueta (Kal entra el 19 y la etiqueta MERCER aparece hasta las noches del 27 y el 28) se queda mudo, sin explicarse, hasta *Voto de Ceniza*; (4) Vento no entra.
 Calendario ajustado al nuevo 40 (DISEÑO): el capítulo arranca el lunes 20 dic, horas después de Lucía, y no el miércoles 22. La hoja de salida lleva boca abajo «desde el domingo de la semana anterior». Las fechas de la prosa (24–28 dic) no cambian.
@@ -405,7 +406,7 @@ Chiara volvió al Civic y cerró la puerta. Bonnie no encendió el motor.
 
 Del otro lado del parabrisas, la nave de la lavandería seguía sacando vapor. Las mujeres de la tapia se habían ido. Una camioneta del turno de día entró al estacionamiento con las luces todavía prendidas, aunque ya no hacían falta. Al fondo del Cutoff, donde la carretera se perdía hacia el noreste, no había nada que ver: un poste, otro poste, el letrero verde de espaldas.
 
-Tenía una etiqueta de plástico con su apellido y una camisa doblada en cuadro. No sabía si comía. No sabía si alguien le había puesto las manos encima, ni si sabía que ella lo estaba buscando, ni si quería que lo buscara. Sabía que antenoche y anoche se había quitado la ropa que le daban y la había doblado antes de devolverla.
+Tenía una etiqueta de plástico con su apellido y una camisa doblada en cuadro. No sabía si comía. No sabía si alguien le había puesto las manos encima, ni si sabía que ella lo estaba buscando, ni si quería que lo buscara.
 
 Estaba vivo.
 

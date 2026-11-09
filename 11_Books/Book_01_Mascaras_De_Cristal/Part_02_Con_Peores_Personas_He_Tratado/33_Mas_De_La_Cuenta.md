@@ -1,4 +1,5 @@
 <!--
+LECTOR PARTE II (2026-11-08, [[98_Agent_Handoff/sessions/2026-11-08_claude_observaciones_lector_parte_II]]; DISEÑO, espera lectura): sólo narración: el enojo de Marisol dura junto al interés por Kenji. Diálogo canon intacto.
 Renumerado 2026-11-08 (nuevo cauce, Parte II): antes Cap. 37.
 NUEVO CAUCE (Fase 4, 2026-11-08, [[98_Agent_Handoff/encargos/ENCARGO_Fase4_Parte_II]], reasignación): nuevo Cap. 31, tarjeta T17, POV Chiara único, verbo «Reescribe» según [[11_Books/Book_01_Mascaras_De_Cristal/00_Mapa_Cauce_Cap11_Camp_Alder]]. El encabezado sigue diciendo «Capítulo 37» hasta que la terminal principal renumere. Versión anterior íntegra: [[11_Books/Book_01_Mascaras_De_Cristal/Escenas_Eliminadas/33_Mas_De_La_Cuenta_Version_2026-11-08]]. Sesión: [[98_Agent_Handoff/sessions/2026-11-08_claude_fase4_cap31_lo_unico_que_es_mio]].
 Estado: BORRADOR (lo nuevo es DISEÑO del agente; espera lectura del autor).
@@ -155,7 +156,7 @@ Chiara no dijo que no. No tenía manera honesta de decir que no.
 
 —Tienes razón —dijo—. Y lo siento por eso, aunque el objetivo nunca fuiste tú.
 
-Marisol la midió un momento, como si esperara que la frase viniera seguida de una justificación más larga, de las que la gente usa para diluir una disculpa hasta que deja de doler. No llegó ninguna. Algo en la postura de Marisol bajó un grado.
+Marisol la midió un momento, como si esperara que la frase viniera seguida de una justificación más larga, de las que la gente usa para diluir una disculpa hasta que deja de doler. No llegó ninguna. Marisol no aflojó la postura; sólo dejó de buscar con los ojos la salida.
 
 ***
 
@@ -169,13 +170,13 @@ Marisol se quedó mirándolo un momento sin decir nada, y Chiara reconoció el s
 
 —Pude —dijo Kenji—. No hubiera sido cierto.
 
-Marisol no contestó. Pero dejó de tener los brazos cruzados de la misma manera.
+Marisol no contestó. Los brazos siguieron cruzados.
 
 —¿Cómo se supone que sabías que era "más atención de la que hacía falta"? —preguntó—. ¿Tienes un manual para eso?
 
 —No. —Kenji casi sonrió, casi—. Lo supe cuando empecé a acordarme de cosas que no necesitaba recordar.
 
-Marisol lo miró como si esa respuesta la hubiera descolocado un poco más de lo que hubiera querido admitir.
+Marisol lo miró como si esa respuesta la hubiera descolocado, y como si eso también fuera culpa de él.
 
 —Eso es información que no debería estar dándote gratis.
 
@@ -229,7 +230,7 @@ Marisol soltó algo que no era del todo una risa, más bien el principio de una,
 
 Chiara los miró a los dos, uno y otro.
 
-Marisol seguía sin estar del todo tranquila. Pero ya no quería irse.
+Marisol seguía enojada; se le veía en la mandíbula, en el peso todavía echado hacia la puerta. Pero no se iba, y eso parecía molestarle más que lo otro.
 
 ***
 

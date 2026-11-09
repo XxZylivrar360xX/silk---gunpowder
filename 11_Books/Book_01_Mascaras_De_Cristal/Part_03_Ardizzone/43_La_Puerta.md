@@ -1,4 +1,5 @@
 <!--
+Lectura del autor de la Parte III (2026-11-08, [[98_Agent_Handoff/sessions/2026-11-08_claude_lectura_parte_iii]]; prosa DISEÑO, espera lectura): fallo de la segunda vuelta concretado sin volverlo operativo: el ruido de Dario alcanza para una carga y se apaga; la caja de Danny golpea un poste; un guardia con linterna y radio; se enciende la luz del galpón; las patrullas municipales son las que trajo la distracción. Respeta la REGLA ESTRUCTURAL (sin planos, rutas, procedimientos, bajas ni gente de Varek dentro).
 Nuevo cauce (Fase 4, 2026-11-07, encargo del autor sobre [[98_Agent_Handoff/encargos/ENCARGO_Fase4_Paralelo_Reusa]]; verbo «Reescribe», fuera del reparto Reusa): **nuevo Cap. 39** (T25, H19, en [[11_Books/Book_01_Mascaras_De_Cristal/00_Mapa_Cauce_Cap11_Camp_Alder]]). Antes Cap. 48 (numeración de 56; antes 52 y 43). El archivo conserva su nombre. Título CONFIRMADO Y DEFINITIVO por el autor (2026-09-22): «La puerta».
 Estado: BORRADOR. Prosa DISEÑO pendiente de lectura del autor. Versión anterior íntegra: [[11_Books/Book_01_Mascaras_De_Cristal/Escenas_Eliminadas/43_La_Puerta_Version_2026-11-07]] (allí queda el historial: corrección del 2026-09-22, E8 del 2026-09-27, arresto del 2026-10-02 [CANON en sustancia], Frente 4 del 2026-10-05, puesta en escena y Frente 1 del 2026-10-06, regla 05 del 2026-10-28). Sesión: [[98_Agent_Handoff/sessions/2026-11-07_claude_fase4_cap39_la_puerta]].
 Canon que ejecuta (CANON DEL AUTOR, 2026-11-07): Crowe es el comprador de las armas largas; Halbrook manda vendérselas y Kal desvía ese mismo lote a Varek; las armas salen en el helicóptero con Héctor, Nadir y Danny (Garrett pilota); Halbrook fuera de la prosa, sólo por intermediarios; Kal no cruza la puerta del penthouse y lo detienen sin Chiara; la liberación se revela hasta *Voto de Ceniza*.
@@ -161,7 +162,7 @@ El ruido empezó del otro lado del perímetro, donde Dario había dicho que iba 
 
 Entraron. Kal no llevaba en la cabeza un plano ni una ruta memorizada de un manual: llevaba lo que le quedaba de conocer un lugar como ése desde adentro, la misma calma con la que se movía en cualquier sitio que no fuera suyo. Nadir se movía cerca de él sin hacer preguntas. Héctor cubría la parte de atrás. Danny llevaba lo que había que llevar, callado por primera vez en todo el día. Garrett ya no estaba con ellos: se había ido hacia donde tenía que estar el helicóptero, y su trabajo, a partir de ese momento, era mantener eso posible.
 
-Encontraron lo que habían ido a buscar donde tenían que encontrarlo. Adentro todo era concreto y estantes de metal, y un silencio que hacía sonar cada paso más de la cuenta.
+Los almacenes eran galpones bajos, apartados de los hangares, sin más luz que la que llegaba de lejos. Adentro todo era concreto y estantes de metal, y un silencio que hacía sonar cada paso más de la cuenta.
 
 El expediente estaba sellado. Kal comprobó la etiqueta contra lo que llevaba anotado, la confirmó y lo guardó. No lo abrió. No le dio vuelta para leer nada.
 
@@ -177,9 +178,11 @@ Nadir lo miró. No dijo nada. Volvieron.
 
 La segunda vuelta fue igual de limpia hasta la mitad.
 
-Entonces el ruido del otro lado empezó a cambiar de tono, más cerca de lo que había estado un momento antes.
+Entonces el ruido del otro lado cambió de tono. Dejó de crecer y empezó a apagarse: menos voces, motores que daban la vuelta, una sirena que se cortó a la mitad.
 
 —Se está acabando —dijo Nadir, en voz baja.
+
+Dario había vendido ruido para una carga. La segunda iba a salir de lo que sobrara.
 
 —Alcanza —dijo Kal.
 
@@ -187,7 +190,15 @@ Alcanzaba. Hasta que dejó de alcanzar.
 
 ---
 
-La salida dejó de ser limpia sin aviso: un movimiento que no debía haber pasado por ahí, una luz que se encendió donde no tenía que encenderse, una distancia que de pronto se volvió más corta de lo calculado. Lo que importó no fue la causa. Fue que, de un momento a otro, Héctor y Nadir quedaron más cerca del ruido que del punto de recogida, y el ruido empezó a acercarse a ellos.
+Danny llevaba la última caja contra el pecho, la más pesada, y a la salida del galpón el borde le pegó en un poste de metal. No fue mucho. Un golpe seco, de los que en el Patio nadie habría oído, y en ese silencio sonó como un portazo.
+
+Del otro lado de la cerca interior, una linterna se detuvo. Después giró hacia ellos.
+
+Era un hombre solo, de los que volvían del ruido, caminando sin prisa con la radio en el hombro. Kal lo vio dudar. Lo vio llevarse la mano a la radio. Sobre la puerta del galpón se encendió una luz blanca que en la primera vuelta no se había encendido, y el pasto hasta el claro, que había sido una carrera corta a oscuras, quedó a la vista de cualquiera que mirara.
+
+Con una sola carga, a esa hora, ya habrían estado en el aire. Kal no necesitó contarlo.
+
+La voz de la radio dijo algo que se oyó hasta ahí. Por el lado del ruido empezaron a regresar faros, y Héctor y Nadir, que iban adelante, quedaron más cerca de ellos que del helicóptero.
 
 —Vayan —dijo Kal.
 
@@ -195,9 +206,9 @@ La salida dejó de ser limpia sin aviso: un movimiento que no debía haber pasad
 
 —Vayan.
 
-No hubo tiempo para discutirlo dos veces. Kal empujó a Danny hacia el punto donde Garrett ya tenía las aspas girando, y Danny corrió sin mirar atrás, con las cajas ya aseguradas, y llegó, y subió. Héctor y Nadir corrieron detrás de él.
+No hubo tiempo para discutirlo dos veces. Kal empujó a Danny hacia el punto donde Garrett ya tenía las aspas girando, y Danny corrió sin mirar atrás, con la caja apretada contra el pecho, y llegó, y subió. Héctor y Nadir corrieron detrás de él.
 
-Por el camino de tierra que bajaba hacia el claro venían luces. Dos patrullas municipales, con los faros altos y la sirena apagada, demasiado rápido para un camino así. Iban a llegar antes de que el helicóptero se despegara del suelo.
+Por el camino de tierra que bajaba hacia el claro venían luces. Dos patrullas municipales, de las que el ruido de Dario había traído hasta el perímetro, con los faros altos y la sirena apagada, demasiado rápido para un camino así. Iban a llegar antes de que el helicóptero se despegara del suelo.
 
 Kal se quedó a medio claro y les disparó a las llantas.
 

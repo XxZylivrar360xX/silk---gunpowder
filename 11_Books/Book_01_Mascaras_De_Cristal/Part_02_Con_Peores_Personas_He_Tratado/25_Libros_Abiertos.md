@@ -1,4 +1,5 @@
 <!--
+LECTOR PARTE II (2026-11-08, [[98_Agent_Handoff/sessions/2026-11-08_claude_observaciones_lector_parte_II]]; DISEÑO, espera lectura): continuidad: sale «antes de que el corazón le fallara» de la última historia de Marta (quince años; muerte a los diecinueve, como fija la ficha).
 Renumerado 2026-11-08 (nuevo cauce, Parte II): antes Cap. 29.
 NUEVO CAUCE (Fase 4, 2026-11-08, terminal C): nuevo Cap. 25, tarjeta T13, POV Chiara (único), verbo «Reescribe (cambia de dueño por completo)» según [[11_Books/Book_01_Mascaras_De_Cristal/00_Mapa_Cauce_Cap11_Camp_Alder]] y [[98_Agent_Handoff/encargos/ENCARGO_Fase4_Parte_II]]. El encabezado sigue diciendo «Capítulo 29» hasta que la terminal principal renumere. Versión anterior íntegra: [[11_Books/Book_01_Mascaras_De_Cristal/Escenas_Eliminadas/25_Libros_Abiertos_Version_2026-11-08]]. Sesión: [[98_Agent_Handoff/sessions/2026-11-08_claude_fase4_cap25_libros_abiertos]].
 Estado: BORRADOR. Lo nuevo es DISEÑO y espera la lectura del autor. Prosa: ~5,200 → ~5,630 palabras.
@@ -153,7 +154,7 @@ La pregunta le llegó por un lado que no esperaba. Había preparado la cara para
 
 Dejó pasar un segundo, con el agua moviéndose despacio contra el pecho.
 
-—La última que me contó antes de que el corazón le fallara terminó distinto. Yo tenía quince, ya grande para que me arroparan. Me arropó de todos modos y me dijo: *"Un giorno, bambina mia, capirai il prezzo di reggere il mondo sulle tue spalle. Ma non dimenticare mai: la chiave è non farlo da sola."* —Lo repitió después en español, despacio—. Algún día, mi amada niña, entenderás el precio que tiene sostener el mundo en tus hombros. Solo no olvides que la clave está en no hacerlo sola. —No la entendí entonces. Pensé que hablaba de crecer, nada más.
+—La última que me contó terminó distinto. Yo tenía quince, ya grande para que me arroparan. Me arropó de todos modos y me dijo: *"Un giorno, bambina mia, capirai il prezzo di reggere il mondo sulle tue spalle. Ma non dimenticare mai: la chiave è non farlo da sola."* —Lo repitió después en español, despacio—. Algún día, mi amada niña, entenderás el precio que tiene sostener el mundo en tus hombros. Solo no olvides que la clave está en no hacerlo sola. —No la entendí entonces. Pensé que hablaba de crecer, nada más.
 
 Kal se quedó con la mano quieta contra el borde, sin mover el agua.
 

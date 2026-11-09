@@ -9,7 +9,7 @@ Renumerado 2026-10-22 (decisión del autor): antes Cap. 46; numeración corrida 
 Estado: BORRADOR — Parte III — Ardizzone, Cap. 42 (tercero del arco final sin Kal, bloque de cierre 40–47). Redactado 2026-10-02, Claude Opus 5.5, conforme a [[11_Books/Book_01_Mascaras_De_Cristal/00_Plan_Arco_Final_Sin_Kal]] y a las craft policies (Redaccion_De_Capitulos, voice/, staging_rules/, dialogue_rules/). Pendiente de lectura del autor.
 Título: PENDIENTE. "Llaves" es de trabajo (DISEÑO).
 Protagonista: Chiara Bellandi (POV único, tercera persona cercana). Kal no aparece.
-Personajes con diálogo: Héctor Navarro, Nadir Amrani, Danny Hayes, Garrett Cross, Walt Keegan, Marisol Grayson (una línea, por teléfono).
+Personajes con diálogo: Héctor Navarro, Nadir Amrani, Danny Hayes, Garrett Cross, Walt Keegan, Marisol Grayson (por teléfono; llamada en escena desde 2026-11-08).
 Ventana temporal: tarde y anochecer de D8, jueves 30 dic (el día después del amanecer en el Cutoff, nuevo 41; corregido 2026-11-08 en la revisión de costuras, porque antes decía «horas después»). El plan decía D8–D9; el capítulo cabe en una sola tarde. Sin encabezados de fecha.
 Calendario (CANON DEL AUTOR 2026-10-06, [[13_Auditorias/Book_01_Mascaras_De_Cristal/Matriz_Temporal_Libro_I]]): jueves 30 de diciembre. Pasada de calendario hecha 2026-10-06 (DISEÑO, pendiente de lectura): diez días de silencio, once de Nadir, Navidad en la mentira de Héctor, "fin de año" en el recuerdo del yate (y en el 21), niños sin escuela.
 Lugares: La Almendra (el rodeo para no pasar frente al loft); Almendra Towing / El Patio: portón, capó de Héctor, mostrador de Nadir, oficina de Garrett, la camioneta del fondo.
@@ -19,7 +19,7 @@ Función: "Los de Kal". La gente de Kal la recibe fría y termina siguiéndola. 
 - Nadir: todas las noches desde el arresto yendo al perímetro con la camioneta lista. "Salimos cuatro, volvimos tres" (eco del 40). Chiara lo frena en su idioma, con la cuenta ("la deja en dos"). Nadir le entrega las llaves. La culpa de Nadir hacia Héctor (el jalón del helicóptero) queda en una mirada; Héctor la aguanta sin contestar.
 - Armas de Dario (siembra del 43, sin detalle; D1 arriba): las cajas siguen "donde las dejamos"; un hombre de Dario en un Audi ha venido a preguntar dos veces; Chiara lo cita para el día siguiente. Sin modelos, cantidades ni lugar.
 - Loft: Chiara da un rodeo para no pasar enfrente; Héctor le ofrece la llave; ella da la instrucción de la albahaca y no sube. Sin glosa.
-- Marisol (plan: "alguien tiene que decírselo"): el campamento de fin de mes (sembrado en el 21) cae el sábado; Walt iba a cubrir las grúas. Garrett marca el riesgo (estudia derecho, va a querer un cargo y una ventanilla). Héctor ya le mintió dos veces a Marisol y no va a mentirle una tercera (Q4 de la auditoría del arco, 2026-10-03); le pasa el teléfono a Chiara. Corte antes de la conversación (DISEÑO: queda fuera de página; si el autor la quiere en escena, abre el 43 o se amplía aquí).
+- Marisol (plan: "alguien tiene que decírselo"): el campamento de fin de mes (sembrado en el 21) cae el sábado; Walt iba a cubrir las grúas. Garrett marca el riesgo (estudia derecho, va a querer un cargo y una ventanilla). Héctor ya le mintió dos veces a Marisol y no va a mentirle una tercera (Q4 de la auditoría del arco, 2026-10-03); le pasa el teléfono a Chiara. Corte antes de la conversación (DISEÑO: queda fuera de página; si el autor la quiere en escena, abre el 43 o se amplía aquí). **Ampliado aquí (2026-11-08, lectura del autor de la Parte III):** la llamada entra en escena (DISEÑO, espera lectura): Chiara da lugar, fecha y prueba de vida sin la fuente; Marisol pide cargo y ventanilla; «Dobla su ropa»; Chiara la frena con el argumento de Garrett («Eso lo dijo Garrett» / «Se nota»); «Vete al monte, *bambina*». Héctor no la oye (Chiara está en la camioneta), así que el «No sé qué le dijo» del 43 sigue en pie.
 - Bonnie y Mei-Lin no aparecen. No se nombra Halbrook, el expediente, el convoy ni la fecha del traslado. Sin EPUB, commit ni push.
 Regla de diálogo 05 (2026-10-28, a pedido del autor; prosa DISEÑO, espera lectura): fuera «Ahora el de él», «¿Contando qué?», «¿Y la mochila?», «¿Qué le dijiste?», «¿Completas?», «No lo sabemos» y el «Sí» a Danny. Sesión: 98_Agent_Handoff/sessions/2026-10-28_claude_regla05_llaves_cap52.md.
 Rocco (2026-10-22, decision del autor; prosa DISENO; sigue BORRADOR): sale de la casa de tablas y se pone panza arriba con Chiara, como siempre con ella; primera vez en prosa. La casa de Kal sin Kal, sin glosa. Ficha: 02_Characters/Rocco.md.
@@ -325,3 +325,65 @@ Del otro lado hubo un silencio corto, con ruido de calle, de autobús, de alguie
 —¿Dónde está? —preguntó Marisol.
 
 Chiara cerró la mano libre sobre el bolsillo del saco, sobre las llaves de Nadir, y empezó por lo único que sabía de cierto.
+
+—Detenido. En Camp Alder, desde la madrugada del diecinueve.
+
+Del otro lado arrancó un autobús. Marisol no dijo nada hasta que el motor se alejó.
+
+—¿Por qué?
+
+—No lo sé.
+
+—¿Qué cargo? —La voz se le había ido para adentro—. Tiene que haber un cargo. Un número de expediente. Si es federal, tiene que haber una oficina que…
+
+—No hay nada que yo haya podido ver. Ni cargo, ni número, ni visitas. Lo he intentado.
+
+—Entonces no lo intentaste en la ventanilla correcta.
+
+Chiara dejó pasar eso. Del otro lado de la tapia se encendió otro poste.
+
+—Está vivo —dijo—. Eso sí lo sé. El lunes y el martes, seguro.
+
+—¿Cómo?
+
+—No te lo puedo decir.
+
+—Claro. —Corto, sin nada detrás—. Héctor me dijo que andaba en el norte con una grúa. Dos veces. ¿Sabes cuántas grúas tiene Kal en el norte?
+
+—Ninguna.
+
+—Ninguna.
+
+Ruido de calle, una puerta que se abría y se cerraba, y después nada. Marisol se había detenido en alguna parte.
+
+—¿Está bien? —preguntó, más bajo—. No vivo. Bien.
+
+Chiara pensó en una camisa doblada en cuadro, en Walt con la botella entre las manos.
+
+—Dobla su ropa. Como siempre.
+
+Marisol tardó en contestar.
+
+—Quiero ir a la base.
+
+—Ya sé.
+
+—Tengo derecho a preguntar. Cualquiera tiene derecho a…
+
+—Lo tienes. Y en la garita lo primero que te van a pedir es tu nombre, y lo segundo, qué eres de él. —Chiara apretó las llaves dentro del bolsillo—. Él no va a estar ahí para contestar por ti.
+
+—Eso lo dijo Garrett.
+
+—Lo dijo Garrett.
+
+—Se nota.
+
+Chiara casi sonrió. Del otro lado se oyó una respiración larga, de las que se toman antes de decidir algo que no gusta.
+
+—Vete al monte, *bambina*. Si sé algo, te lo digo.
+
+—Aunque sea feo.
+
+—Aunque sea feo.
+
+Marisol colgó sin despedirse. Chiara se quedó con el teléfono de Héctor contra la oreja un momento más, oyendo nada, la espalda contra la puerta de la camioneta lavada, hasta que el último poste de la calle de atrás terminó de encenderse.

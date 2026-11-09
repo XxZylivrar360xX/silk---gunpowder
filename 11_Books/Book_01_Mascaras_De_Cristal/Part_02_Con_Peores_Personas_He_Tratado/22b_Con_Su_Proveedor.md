@@ -1,4 +1,5 @@
 <!--
+LECTOR PARTE II (2026-11-08, [[98_Agent_Handoff/sessions/2026-11-08_claude_observaciones_lector_parte_II]]; DISEÑO, espera lectura): el diente de oro que Danny vio en el billar sostiene la certeza de Kal; siembra del sobre de Rivers (mediación del martes).
 Renumerado 2026-11-08 (nuevo cauce, Parte II): antes Cap. 24.
 NUEVO CAUCE (Fase 4, 2026-11-08, terminal B): nuevo Cap. 21, tarjeta T9, POV Kal único, verbo «Reescribe el POV» según [[11_Books/Book_01_Mascaras_De_Cristal/00_Mapa_Cauce_Cap11_Camp_Alder]] y [[98_Agent_Handoff/encargos/ENCARGO_Fase4_Parte_II]]. El encabezado sigue diciendo «Capítulo 24» hasta que la terminal principal renumere. Versión anterior íntegra (mixta: Kal, Tommaso, Chiara, Voss, Lucía, Dario): [[11_Books/Book_01_Mascaras_De_Cristal/Escenas_Eliminadas/22b_Con_Su_Proveedor_Version_2026-11-08]]. Sesión: [[98_Agent_Handoff/sessions/2026-11-08_claude_fase4_cap21_con_su_proveedor]].
 Estado: BORRADOR (lo nuevo es DISEÑO del agente; espera lectura del autor).
@@ -29,6 +30,8 @@ Estaba sentado en el archivero de la oficina del taller, con la computadora de l
 —No sé.
 
 Nadir levantó la vista de la mesa, donde llevaba una hora peleándose con la factura de un proveedor de pintura. Hizo una cuenta con los dedos contra la madera, una sola, y siguió con la factura.
+
+En la charola junto a la puerta, debajo de las órdenes de servicio, asomaba el sobre manila de Rivers con la fecha escrita a mano en la esquina: martes, diez de la mañana, mediación. Llevaba ahí desde el lunes. Kal no lo había vuelto a abrir.
 
 —Ven a ver esto, jefe —dijo Danny.
 
@@ -65,6 +68,10 @@ Danny tardó en contestar. Regresó el video al principio sin que nadie se lo pi
 —Puede ser. Yo lo vi tres veces, jefe, y siempre de lejos, con gorra. En ese billar todos se parecen. La luz es verde, como de acuario; ahí adentro te ves enfermo hasta tú.
 
 Agarró el sándwich, le dio la segunda mordida y lo volvió a dejar.
+
+—La tercera vez se fue antes que yo. Le hablaron desde la puerta y se rio con el que lo esperaba afuera. —Danny se tocó un colmillo con la uña, sin darse cuenta de que lo hacía—. Aquí. Le brilló aquí. Yo pensé que era la luz verde.
+
+Nadie dijo nada. En la pantalla, los rines seguían encendidos.
 
 —Entonces fue uno de esos dos —dijo Kal.
 

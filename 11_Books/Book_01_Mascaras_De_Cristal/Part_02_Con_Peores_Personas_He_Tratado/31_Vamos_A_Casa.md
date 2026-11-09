@@ -1,4 +1,5 @@
 <!--
+LECTOR PARTE II (2026-11-08, [[98_Agent_Handoff/sessions/2026-11-08_claude_observaciones_lector_parte_II]]; DISEÑO, espera lectura): aparte de Nadir y Kal en el lago, visto y medio oído por Chiara (Nadir reclama que lo pusieron bajo el nombre de Varek sin preguntarle); el coche lo siembra («Nadir bromea cuando todavía no decide»); las costillas impiden el tiro: Chiara se deja caer y se lo lleva. Intercambio canon del agua intacto.
 Renumerado 2026-11-08 (nuevo cauce, Parte II): antes Cap. 35.
 NUEVO CAUCE, Fase 4 (2026-11-07, terminal B; [[98_Agent_Handoff/encargos/ENCARGO_Fase4_Paralelo_Reusa]]): pasa a ser el **nuevo Cap. 29** (tarjeta T16, H7, POV Chiara, «Reusa y unifica el POV»). DECISIÓN DEL AUTOR 2026-11-07: Reusa mínimo (sin poda); «Bellandi» de Harper se queda; la línea de Varek pasa a «el día anterior», sin cobrar la deuda. DISEÑO del agente, espera lectura: seis deslices al interior de Kal pasan a lo que Chiara ve o deduce (subida al vestidor, nombre de Harper, satisfacción en el coche, costillas al cargarla, «Vio que Kal también se había dado cuenta», Varek un día antes). Diálogo intacto. Versión anterior: [[11_Books/Book_01_Mascaras_De_Cristal/Escenas_Eliminadas/31_Vamos_A_Casa_Version_2026-11-07]]. Detalle: [[98_Agent_Handoff/sessions/2026-11-07_claude_fase4_cap29_vamos_a_casa]]. Costura de apertura PROVISIONAL: depende del nuevo 28 (Las Gemelas, la piedra y el nombre de Halbrook). Cementerio PROVISIONAL: depende de que el nuevo 25 conserve «Y decirle que Marisol está bien». «No era una orden / Sonó como una» es eco del archivo 28, que pasa al nuevo 26 o 27. La reunión de El Patio (coda vieja del 30) sale de página: el diálogo del coche sobre Nadir es lo único que la cuenta. Las fechas y numeraciones de abajo son anteriores al cauce.
 Renumerado 2026-11-01 (decisión del autor, carretera del Libro I): antes Cap. 39.
@@ -100,13 +101,13 @@ Bajaron juntos. El Audi los sacó del Monarch hacia una tarde que no se parecía
 
 —¿Cómo se lo tomó Nadir? —preguntó Chiara, con el codo apoyado en el borde de la ventanilla.
 
-—Mal. Tenía razón en enojarse. —Kal no lo dulcificó—. Después empezó a bromear. Danny me preguntó cómo pienso salir de Camp Alder, y no tuve una buena respuesta.
+—Bromeó. —Kal no apartó la vista del camino—. Nadir bromea cuando todavía no decide qué hacer con algo. Danny me preguntó cómo pienso salir de Camp Alder, y no tuve una buena respuesta.
 
 —¿Y la pesca?
 
 —Idea de Nadir.
 
-Chiara sonrió, mirando pasar el paisaje. No hizo más preguntas. La mañana seria ya había terminado.
+Chiara miró pasar el paisaje. No hizo más preguntas. La mañana seria había terminado, o eso parecía.
 
 ***
 
@@ -318,7 +319,37 @@ Del otro lado de la parrilla, Danny ya iba por el segundo pescado.
 
 ***
 
-Kal la sacó del grupo casi sin que ella lo notara, con la excusa de mostrarle un recodo del lago donde el agua estaba más tranquila, y cuando ya estaban lo bastante lejos como para que las voces de los demás llegaran sueltas y sin palabras, la levantó del agua sin avisar, un brazo bajo las rodillas y otro en la espalda, con el agua chorreándole de la ropa. Chiara sintió en el brazo que la sostenía que algo le tiraba del costado —las costillas todavía le cobraban esa clase de cosas—, y en la cara de él no se vio nada.
+Nadir terminó su plato antes que nadie, lo dobló en cuatro y lo metió en la bolsa de la basura. Después fue hasta Kal, le dijo algo al oído, y los dos se alejaron por la orilla hacia los troncos que alguna crecida había dejado varados. Nadie más levantó la vista.
+
+Chiara sí. Desde la parrilla los veía chicos, de perfil contra el agua. Nadir hablaba con las manos quietas. En toda la tarde no las había tenido quietas: había contado peces con los dedos, había golpeado la tapa de la nevera para marcar cada punto, le había quitado a Danny la sal sin pedírsela. Ahora le colgaban a los lados, y eso, en él, se veía desde lejos.
+
+El viento venía del lago y le traía pedazos.
+
+—... debajo del nombre de Varek, khoya. Mi nombre debajo del suyo. Y me lo cuentas en el taller, con la silla ya puesta.
+
+Kal dijo algo que no llegó.
+
+—No. Contar no es preguntar. —Nadir levantó un dedo, uno solo, como cuando cobraba—. Tú vas, firmas, y después me dices cuánto costó. Así no se hace un negocio. Así se compra una cabra.
+
+Héctor le puso a Chiara otro pedazo de pescado en el plato. Ella lo dejó ahí.
+
+—... es mi cuenta, no la tuya. Yo sé lo que cuesta un sello. A ti nadie te saca de aquí con un sello.
+
+Kal no contestó. Desde la parrilla no se oía nada más, pero Chiara reconoció la postura, la misma de esa mañana en la piedra: la mano en el costado, la mirada en el agua, ningún argumento. Nadir esperó también. Después dijo algo corto, le dio la espalda y volvió por la arena, moviendo ya las manos otra vez.
+
+—Safi —le oyó decir al pasar, a nadie—. La próxima, que me pregunten antes de venderme.
+
+Sacó una cerveza de la nevera, la destapó contra el borde de la mesa plegable y fue a gritarle a Danny que el pescado de la garza no contaba.
+
+Kal se quedó un minuto más junto a los troncos. Cuando volvió, no miró a Chiara hasta que estuvo a su lado.
+
+—Tenía razón —dijo.
+
+No dijo más, y ella no le preguntó.
+
+***
+
+Kal la sacó del grupo casi sin que ella lo notara, con la excusa de mostrarle un recodo del lago donde el agua estaba más tranquila, y cuando ya estaban lo bastante lejos como para que las voces de los demás llegaran sueltas y sin palabras, la levantó del agua sin avisar, un brazo bajo las rodillas y otro en la espalda, con el agua chorreándole de la ropa. Chiara sintió en el brazo que la sostenía que algo le tiraba del costado, y en la cara de él no se vio nada. Todavía no.
 
 Chiara se aferró a su cuello con las dos manos.
 
@@ -338,19 +369,21 @@ Dio un paso hacia donde el agua se ponía oscura.
 
 —Ni se te ocurra —dijo ella, con menos convicción de la que hubiera querido.
 
-—No sé de qué hablas. —Y la tiró.
+—No sé de qué hablas.
 
-El agua, mucho más fría ahí que en la orilla, le cortó el aire y se le metió por la nariz, y salió a la superficie maldiciendo en italiano, con el pelo pegado a la cara, y encontró a Kal riéndose lo suficientemente cerca como para alcanzarlo con las dos manos y hundirle la cabeza antes de que pudiera defenderse. Forcejearon, torpes, sin ninguna elegancia, hasta que los dos terminaron igual de empapados y sin aire, de pie en el agua que les llegaba a la cintura, riéndose todavía.
+Echó el peso atrás para lanzarla y el costado le cobró el gesto entero. Se le cortó la risa a la mitad, sin ruido, y el brazo bajo sus rodillas cedió un dedo. Chiara lo sintió antes de que él pudiera esconderlo, y antes de que pudiera bajarla con cuidado, que era lo que iba a hacer, le apretó el cuello con las dos manos y se dejó caer hacia atrás, y se lo llevó con ella.
+
+El agua, mucho más fría ahí que en la orilla, le cortó el aire y se le metió por la nariz. Salió a la superficie maldiciendo en italiano, con el pelo pegado a la cara, y lo encontró a medio metro, tosiendo y riéndose a la vez, con una mano abierta sobre las costillas. Le hundió la cabeza de todos modos. Forcejearon, torpes, sin ninguna elegancia, ella con las manos siempre lejos de sus costillas, sin decir que las evitaba, hasta que los dos terminaron igual de empapados y sin aire, de pie en el agua que les llegaba a la cintura.
 
 —Eso —dijo ella, apartándose el pelo de la cara— fue una declaración de guerra.
 
-—Y perdiste.
+—La declaraste tú.
 
 Ella le tiró agua a la cara con la mano abierta, sin previo aviso, y él respondió igual, y por un rato no hubo ninguna conversación que valiera la pena tener por encima del ruido de las salpicaduras y de la risa de los dos.
 
 ***
 
-Nadaron hasta una formación de roca cerca de la orilla, una lengua ancha y plana que sobresalía del agua lo suficiente como para sentarse fuera del alcance de las olas chicas, con el sol ya bajando detrás de los árboles del otro lado. Se sentaron con las piernas colgando hacia el agua, hombro con hombro, y la piedra, tibia de todo el día, se oscureció debajo de ellos con lo que les escurría de la ropa.
+Nadaron hasta una formación de roca cerca de la orilla, ella delante, al paso de él, que nadaba corto y sin patear, una lengua ancha y plana que sobresalía del agua lo suficiente como para sentarse fuera del alcance de las olas chicas, con el sol ya bajando detrás de los árboles del otro lado. Se sentaron con las piernas colgando hacia el agua, hombro con hombro, y la piedra, tibia de todo el día, se oscureció debajo de ellos con lo que les escurría de la ropa.
 
 El cielo empezó a ponerse de un color que ninguno de los dos comentó. Desde ahí se veía la orilla entera, chica: las neveras, las figuras de los demás alrededor de la parrilla, el humo que a ratos les llegaba sobre el agua y a ratos se iba hacia los árboles.
 

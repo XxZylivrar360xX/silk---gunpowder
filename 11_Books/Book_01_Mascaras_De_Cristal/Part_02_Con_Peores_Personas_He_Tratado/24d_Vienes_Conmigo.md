@@ -1,4 +1,5 @@
 <!--
+LECTOR PARTE II (2026-11-08, [[98_Agent_Handoff/sessions/2026-11-08_claude_observaciones_lector_parte_II]]; DISEÑO, espera lectura): tras «Lo entiendo», narración: Chiara comprende sin absolver (los nudillos, no pregunta el nombre). Diálogo canon del parador intacto.
 Renumerado 2026-11-08 (nuevo cauce, Parte II): antes Cap. 28.
 NUEVO CAUCE (Fase 4, 2026-11-08, terminal B): nuevo Cap. 24, tarjeta T12 (segunda mitad), POV Chiara único, verbo «Reescribe» (cambia de dueño por completo) según [[11_Books/Book_01_Mascaras_De_Cristal/00_Mapa_Cauce_Cap11_Camp_Alder]] y [[98_Agent_Handoff/encargos/ENCARGO_Fase4_Parte_II]]. El encabezado sigue diciendo «Capítulo 28» hasta que la terminal principal renumere. Versión anterior íntegra (POV Kal): [[11_Books/Book_01_Mascaras_De_Cristal/Escenas_Eliminadas/24d_Vienes_Conmigo_Version_2026-11-08]]. Sesión: [[98_Agent_Handoff/sessions/2026-11-08_claude_fase4_cap24_vienes_conmigo]].
 Estado: BORRADOR (lo nuevo es DISEÑO del agente; espera lectura del autor).
@@ -273,6 +274,8 @@ Chiara no dijo nada. Pensó en el cuarto 221, en la máquina que marcaba su ritm
 —Quedamos en que cada quien buscaba por su lado. Fui a las oficinas de Eagle Eye, en el norte. Ya sabía que no eran ellos. Le rompí la boca a uno para tener algo que llevarle a Dario, y para hacer tiempo hasta que despertaras.
 
 —Lo entiendo.
+
+Lo entendía, y eso fue lo que no le gustó. Le miró la mano derecha sobre el volante: dos nudillos con la piel abierta y vuelta a cerrar, más nuevos que cualquier cosa del corral. Alguien en el norte tenía hoy la boca cosida por una cuenta que no era suya, para que Dario tuviera algo que masticar mientras ella dormía. No preguntó cómo se llamaba. Notó que no lo preguntaba y lo guardó también.
 
 —La carta la traía encima cuando me apuntó. Antes de ir al norte la escondí en otro coche. No vio nada.
 

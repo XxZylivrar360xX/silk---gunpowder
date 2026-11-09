@@ -1,4 +1,5 @@
 <!--
+LECTOR PARTE II (2026-11-08, [[98_Agent_Handoff/sessions/2026-11-08_claude_observaciones_lector_parte_II]]; DISEÑO, espera lectura): Hoover y Kal se cruzan en el pasillo del tribunal antes del acuerdo (ruptura en página).
 Renumerado 2026-11-08 (nuevo cauce, Parte II): antes Cap. 26.
 NUEVO CAUCE (Fase 4, 2026-11-08, terminal B): nuevo Cap. 22, tarjeta T11, POV Kal único, verbo «Reescribe» según [[11_Books/Book_01_Mascaras_De_Cristal/00_Mapa_Cauce_Cap11_Camp_Alder]] y [[98_Agent_Handoff/encargos/ENCARGO_Fase4_Parte_II]]. El encabezado sigue diciendo «Capítulo 26» hasta que la terminal principal renumere. Versión anterior íntegra (Kal y Chiara): [[11_Books/Book_01_Mascaras_De_Cristal/Escenas_Eliminadas/24b_Lo_Que_Cueste_Version_2026-11-08]]. Sesión: [[98_Agent_Handoff/sessions/2026-11-08_claude_fase4_cap22_lo_que_cueste]].
 Estado: BORRADOR (lo nuevo es DISEÑO del agente; espera lectura del autor).
@@ -21,6 +22,24 @@ La otra hoja que Kal dobló esa semana fue media página de la libreta de Garret
 La audiencia estaba citada para las diez. A las nueve y cuarto, Giancarlo Krane salió de la sala de mediación del tercer piso, buscó a Margaret Rivers por encima de las bancas y le pidió cinco minutos «para hablar de números en vez de principios». Los cinco minutos fueron dos horas. Kal las pasó en una banca de madera junto a la ventana, con Garrett al lado, que releía por tercera vez la caja de archivo que había traído de Villani: las transferencias, las pérdidas que el lote había declarado y las que no, los recibos del dinero que Kal había puesto cuando el terreno todavía era un baldío con una caseta.
 
 Hoover lo había borrado en papel con sinónimos. Contratista. Adelanto operativo. Participación variable. Después se había ido a sentar tres horas con la mesa directiva del Monarch, y Kal se había enterado por un rumor. Rivers no le había prometido nada. Le había dicho que los casos civiles se ganan con cosas débiles puestas en el orden correcto, y Garrett había traído el orden en una caja.
+
+A las diez y media Hoover salió de la sala a buscar agua. Vio a Kal en la banca y no fingió no verlo. Se acercó con el vaso de papel en la mano.
+
+—Esto no tenía que llegar aquí.
+
+—Tú lo trajiste aquí —dijo Kal—. Yo nada más vine.
+
+—Te ofrecí un sueldo. Mejor que el de cualquiera en ese lote.
+
+—Sobre un negocio que era mío.
+
+Hoover miró a Garrett, la caja, otra vez a Kal.
+
+—Lo que pusiste fue un baldío y una caseta. Lo que vale es lo que yo le construí encima.
+
+—Entonces que lo diga el juez.
+
+Hoover se terminó el agua, aplastó el vaso y lo tiró hacia el bote junto a la ventana. No le atinó. Lo dejó en el piso y volvió a entrar.
 
 Rivers salió a las once y diez con una hoja en la mano.
 

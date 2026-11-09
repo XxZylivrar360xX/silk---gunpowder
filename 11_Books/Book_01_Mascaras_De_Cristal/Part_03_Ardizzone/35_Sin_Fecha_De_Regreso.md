@@ -1,4 +1,5 @@
 <!--
+Lectura del autor de la Parte III (2026-11-08, [[98_Agent_Handoff/sessions/2026-11-08_claude_lectura_parte_iii]]; prosa DISEÑO, espera lectura): «sin haberlo visto nunca de día» → «a esa hora» (Chiara ya estuvo en el Patio de día en *Con su proveedor*).
 SUPERSESIÓN (2026-11-08): **DECISIÓN DEL AUTOR (2026-11-08):** Matteo se fue a Italia **a investigar lo que en realidad pasó con Elio**. No lo causa el robo ni que Il Consorzio supiera de las rutas. **No se dice en el Libro I; se explica en el Libro IV.** Se reescribió el párrafo posterior a la llamada de Valenti (fuera «el cobro había ido a otro lado» y «Eso no era clemencia»); queda: «No sabía qué había pasado en Génova, y Valenti no se lo iba a decir…». La decisión de abajo «Elio es la palanca: Il Consorzio supo… Matteo se va» queda SUPERSEDIDA en lo que toca a la causa. Sesión: [[98_Agent_Handoff/sessions/2026-11-08_claude_matteo_y_costuras_parte_III]].
 Renumerado 2026-11-08 (nuevo cauce, Parte III): antes Cap. 40.
 **NUEVO CAUCE, Fase 4 (2026-11-08, terminal B, fuera de reparto por orden del autor): nuevo Cap. 33 (T20, POV Chiara, «Reescribe la causa»). Abre la Parte III (33–47). Estado: BORRADOR; lo nuevo es DISEÑO y espera lectura del autor.** Versión anterior íntegra: [[11_Books/Book_01_Mascaras_De_Cristal/Escenas_Eliminadas/35_Sin_Fecha_De_Regreso_Version_2026-11-07]]. Nota de sesión: [[98_Agent_Handoff/sessions/2026-11-08_claude_fase4_cap33_sin_fecha_de_regreso]].
@@ -77,7 +78,7 @@ Chiara sonrió sin que él pudiera verla.
 
 —Nada. Que siga trabajando.
 
-Detrás de su voz había un compresor y algo que sonaba a llanta rodando contra concreto. Chiara cerró los ojos un segundo e imaginó el patio entero sin haberlo visto nunca de día: la grúa a medio subir, Nadir con las manos manchadas hasta la muñeca, Kal con el teléfono sostenido entre la oreja y el hombro para no soltar lo que tuviera en las manos.
+Detrás de su voz había un compresor y algo que sonaba a llanta rodando contra concreto. Chiara cerró los ojos un segundo e imaginó el patio entero a esa hora: la grúa a medio subir, Nadir con las manos manchadas hasta la muñeca, Kal con el teléfono sostenido entre la oreja y el hombro para no soltar lo que tuviera en las manos.
 
 —¿Qué haces? —preguntó él, y algo en su tono cambió, se acomodó un grado.
 

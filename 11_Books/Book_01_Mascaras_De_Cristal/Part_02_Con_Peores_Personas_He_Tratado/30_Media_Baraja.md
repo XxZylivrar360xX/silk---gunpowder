@@ -1,4 +1,5 @@
 <!--
+LECTOR PARTE II (2026-11-08, [[98_Agent_Handoff/sessions/2026-11-08_claude_observaciones_lector_parte_II]]; DISEÑO, espera lectura): la multa ya salió en el loft (27): se corrige la apertura y se quita su recapitulación; se comprime lo ya visto en el patio de Varek; Chiara pregunta el nombre del de Eagle Eye; «Alrededor» / «Ya sé» deja la contradicción a la vista.
 Renumerado 2026-11-08 (nuevo cauce, Parte II): antes Cap. 34.
 NUEVO CAUCE, Fase 4 (2026-11-08; [[98_Agent_Handoff/encargos/ENCARGO_Fase4_Parte_II]], reasignación): pasa a ser el **nuevo Cap. 28** (tarjeta T15, POV Chiara único, «Reescribe»). Estado: BORRADOR; lo nuevo es DISEÑO. ~4,150 → ~3,750 palabras. Versión anterior íntegra: [[11_Books/Book_01_Mascaras_De_Cristal/Escenas_Eliminadas/30_Media_Baraja_Version_2026-11-08]]. Detalle: [[98_Agent_Handoff/sessions/2026-11-08_claude_fase4_cap28_media_baraja]].
 DECISIONES DEL AUTOR (2026-11-08): (1) Kal se entera en Las Gemelas, y no en el loft, del favor que Chiara le debe a Varek: en el loft él la cortó con «Varek me tiene sin cuidado» y ella se guardó el favor. SUPERSEDIDO EN PARTE (2026-11-08, decisión del autor al propagar la Parte II; [[98_Agent_Handoff/sessions/2026-11-08_claude_propagacion_parte_II]]): esta decisión decía también que se guardaba la multa; manda el 27, en el que Chiara cuenta la multa en el loft y sólo calla el favor. Se ajustaron tres líneas (DISEÑO): «Lo de la multa —dijo Chiara—…», «¿Y qué te pidió Varek por enseñártela?» y «La multa no me la regaló…». (2) Kal vio a Halbrook en persona, fuera de página; aquí lo cuenta él.
@@ -58,7 +59,7 @@ Rocco (2026-10-22, decision del autor; prosa DISENO; sigue BORRADOR): en la coda
 
 El camino se acabó mucho antes de que el ruido de agua empezara. Kal tomó la última curva de tierra sin asfalto y detuvo el Audi junto a un roble solo; el Lancia se detuvo detrás, el mismo cuerpo de distancia que Chiara había mantenido toda la carretera. Él apagó el motor sin bajarse. Ella apagó el suyo un segundo después y se quedó también sentada, con las manos en el volante, mirando la nuca de él a través de dos parabrisas.
 
-*Estás loco.* Se lo había dicho junto a la reja de Varek y lo había dicho en serio. Después había visto las luces de freno parpadearle delante tres veces, en la recta de Lomas de San Jacinto, y había tomado el norte en la bifurcación sin que nadie se lo pidiera. No se arrepentía de ninguna de las dos cosas. Llevaba en el bolsillo del abrigo la medalla y, en algún lugar menos concreto, una hoja de multa que ya no tenía en la mano y una deuda que no se había escrito en ninguna parte. Ninguna de las dos había salido en el loft. Kal no la había dejado llegar hasta ahí.
+*Estás loco.* Se lo había dicho junto a la reja de Varek y lo había dicho en serio. Después había visto las luces de freno parpadearle delante tres veces, en la recta de Lomas de San Jacinto, y había tomado el norte en la bifurcación sin que nadie se lo pidiera. No se arrepentía de ninguna de las dos cosas. Llevaba en el bolsillo del abrigo la medalla y, en algún lugar menos concreto, una deuda que no se había escrito en ninguna parte. La multa había salido en el loft. La deuda no: Kal no la había dejado llegar hasta ahí.
 
 Bajaron, cada uno de su coche. El sonido llegó antes que la vista: un salto de agua cayendo sobre piedra, constante, lo bastante fuerte como para que Chiara tuviera que acercarse a Kal para que él la oyera y no al revés. No había cerca. No había cartel. No había nadie.
 
@@ -116,7 +117,7 @@ Kal no fingió no saber de qué hablaba.
 
 Kal giró la cabeza hacia ella. Fue lo primero en toda la mañana que lo movió antes de que él lo decidiera.
 
-—Lo de la multa —dijo Chiara—. Una empresa con una oficina en un parque de oficinas de Virginia y un teléfono que no contesta nadie. La luz de freno fundida, en la calle de El Patio, anteayer, a las dos y catorce de la madrugada.
+—La empresa del sedán no contesta el teléfono —dijo Chiara—. Ya lo intenté.
 
 Kal se quedó callado el tiempo que le tomó poner eso junto a algo que ella no veía. Después asintió una vez, muy poco, hacia el agua.
 
@@ -170,6 +171,20 @@ Eso, extrañamente, la calmó más que una disculpa. Un hombre que no se defend�
 
 Tampoco se le escapaba la otra cuenta. Ella también había llegado al loft con algo en la mano y se lo había vuelto a guardar cuando él dijo *Varek me tiene sin cuidado*. Se lo había guardado por orgullo, o por cansancio, o porque a las cinco de la mañana un hombre con la ceja abierta no era quien tenía que oírlo. Las tres razones eran ciertas, y ninguna le alcanzaba para reclamarle nada a él desde ahí. Lo anotó.
 
+Quedaba otra, de la noche del parador, que no tenía que ver con ella.
+
+—El de Eagle Eye —dijo—. ¿Cómo se llama?
+
+Kal tardó en entender la pregunta. Cuando la entendió, tardó más.
+
+—No sé.
+
+—Le rompiste la boca y no sabes cómo se llama.
+
+—No.
+
+Chiara asintió. No agregó nada y tampoco retiró la pregunta. La dejó ahí, sobre la piedra, entre los dos, y vio que él no encontraba dónde ponerla.
+
 ***
 
 —¿Qué fuiste a pedirle exactamente? —preguntó Chiara.
@@ -180,17 +195,9 @@ Tampoco se le escapaba la otra cuenta. Ella también había llegado al loft con 
 
 —Una base, al noreste. Serví ahí. Halbrook quiere que entre y saque algo que no puede aparecer en ninguna lista. —Lo dijo como quien pone una pieza más sobre la piedra, sin adornarla—. Sin una puerta de adentro, no entro.
 
-—¿Y Varek aceptó?
+—¿Y Varek?
 
-—No de entrada. Me dijo que podía comprar armas en cualquier lado, y tenía razón. Tuve que dejar que fuera él quien pusiera el precio real sobre la mesa.
-
-—¿Tú querías entrar?
-
-—Quería una puerta.
-
-—Kal.
-
-—Quería que él quisiera que entrara.
+—Me dijo que armas compra en cualquier lado. Al final me dio más de lo que fui a pedir. Una silla en su mesa.
 
 Chiara lo miró un momento.
 
@@ -201,14 +208,6 @@ Chiara lo miró un momento.
 —Hiciste que te la ofreciera.
 
 Kal no lo negó. No explicó el truco, y Chiara no se lo pidió. Conocía al empresario, al mecánico, al protector, al negociador. Esto era distinto: alguien capaz de construir una conversación para que otro creyera que la decisión había sido suya. Le pareció eficaz. Inteligente. Un poco inquietante, porque acababa de ver una herramienta que —en otras manos, incluso en las suyas— también podría usarse contra ella.
-
-—¿Y qué es exactamente una silla? —preguntó.
-
-—No un empleo. —Kal miró el agua caer—. Una silla en la mesa donde se reparte territorio. Puedo negociar. Mover negocios. Decidir parte de lo que pasa. Ver la estructura desde dentro.
-
-—Eso es mucho más de lo que fuiste a pedir.
-
-—Sí.
 
 —¿Y a cambio?
 
@@ -428,7 +427,11 @@ Chiara lo pensó apenas un segundo.
 
 —Ése. —Se encogió de hombros, como quien ya está construyendo algo sin haber terminado de decidirlo—. No para seguir a nadie. Para mirar alrededor. Es bueno notando cuando algo no encaja.
 
-Kal asintió una vez. Nada más.
+—Alrededor —repitió Kal.
+
+—Ya sé.
+
+Ninguno de los dos lo deshizo. Kal asintió una vez. Nada más.
 
 ***
 

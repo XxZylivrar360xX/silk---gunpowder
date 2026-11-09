@@ -4,6 +4,8 @@ El detalle se guarda una sola vez en notas de sesión. Este archivo es navegaci�
 
 ## Sesiones recientes
 
+- 2026-11-08: observaciones de un lector a la Parte II (DECISIÓN DEL AUTOR: aparte de Nadir en el lago, hospital anclado, «Lo entiendo» sin absolución); continuidad de Marta en el 25 y de la multa en el 28: [[98_Agent_Handoff/sessions/2026-11-08_claude_observaciones_lector_parte_II]]
+- 2026-11-08: lectura del autor de la Parte III atendida (Camp Alder concretado, Kal y la foto de Alessio, llamada a Marisol en escena, glosas; prosa DISEÑO): [[98_Agent_Handoff/sessions/2026-11-08_claude_lectura_parte_iii]]
 - 2026-11-08: **Fase 4 del nuevo cauce CERRADA** (los 47 capítulos reconstruidos y propagados, costuras 40–47 revisadas, exportación al día; nada se sella; sigue la lectura corrida por Parte): [[98_Agent_Handoff/sessions/2026-11-08_claude_cierre_fase4]].
 - 2026-11-08: Fase 4, terminal B: nuevo 44 *Su nombre* ajustado al cauce (sólo «había hecho sonar»; pasa las comprobaciones; sin poda) y propagado: [[98_Agent_Handoff/sessions/2026-11-08_claude_fase4_cap44_su_nombre]]
 - 2026-11-08: nuevos 45–47 ajustados al cauce (terminal C); DECISIÓN DEL AUTOR: D3 («General.»), D4, atadura de Il Consorzio, sin el sedán rojo de Crowe: [[98_Agent_Handoff/sessions/2026-11-08_claude_fase4_cap45_por_si_vuelve]], [[98_Agent_Handoff/sessions/2026-11-08_claude_fase4_cap46_a_oscuras]], [[98_Agent_Handoff/sessions/2026-11-08_claude_fase4_cap47_la_tierra_bajo_sus_botas]]

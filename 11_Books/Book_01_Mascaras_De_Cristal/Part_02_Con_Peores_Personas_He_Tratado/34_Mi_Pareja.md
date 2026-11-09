@@ -1,4 +1,5 @@
 <!--
+LECTOR PARTE II (2026-11-08, [[98_Agent_Handoff/sessions/2026-11-08_claude_observaciones_lector_parte_II]]; DISEÑO, espera lectura): se corta la recapitulación de la viuda y la piedra, y dos glosas. La viuda, Danny, Varek y H21 intactos.
 Renumerado 2026-11-08 (nuevo cauce, Parte II): antes Cap. 39.
 FASE 4 DEL NUEVO CAUCE (2026-11-07/08, terminal B, [[98_Agent_Handoff/encargos/ENCARGO_Fase4_Paralelo_Reusa]]): nuevo Cap. 32 (T19, H21, POV Kal, «Reusa»); cierra la Parte II (20–32). Estado: BORRADOR. Versión anterior íntegra: [[11_Books/Book_01_Mascaras_De_Cristal/Escenas_Eliminadas/34_Mi_Pareja_Version_2026-11-07]]. Nota: [[98_Agent_Handoff/sessions/2026-11-08_claude_fase4_cap32_mi_pareja]].
 - DECISIONES DEL AUTOR (2026-11-08): la palabra le llega a Crowe en una coda en la ferretería de la esquina, a la mañana siguiente; la llamada colgada a Varek se queda como está (Varek no oye la palabra).
@@ -203,14 +204,6 @@ El Audi siguió rodando sobre la grava. Chiara se quedó mirando el teléfono, d
 
 Kal soltó el aire por la nariz.
 
-—Era una broma. De esas que se te meten solas en la cabeza. Te casas con la viuda, la viuda se resbala, te quedas con todo. Para Danny.
-
-—Y luego yo dije lo del dinero, y tú dijiste que yo no me iba a morir, y te quedaste callado como si hubieras visto pasar a tu propio fantasma.
-
-—Tú tiraste la piedra. "Como si una no tuviera dinero."
-
-—Kal. Cada pregunta que te hago me la regresas en forma de piedra.
-
 —Y tú me llevas a donde quieres. Estás haciendo la envolvente.
 
 —¿La qué?
@@ -223,7 +216,7 @@ Kal soltó el aire por la nariz.
 
 —Por Houdini.
 
-Kal se pasó la mano por la cara. Chiara volvió a mirar por la ventana, el perfil recortado contra las naves y los postes del ferrocarril que ya empezaban a quedarse atrás, y por un momento él creyó que ahí terminaba: una broma mala, un chiste sobre Danny, algo para contarle a Héctor otro día. Relajó los hombros.
+Kal se pasó la mano por la cara. Chiara volvió a mirar por la ventana, el perfil recortado contra las naves y los postes del ferrocarril, y él relajó los hombros.
 
 No se le había pasado.
 
@@ -271,7 +264,7 @@ Alargó la última vocal más de lo que hubiera querido. Chiara sólo lo miró, 
 
 —Los sobornos cariñosos no te van a funcionar esta vez.
 
-Era mentira, y los dos lo sabían: los sobornos cariñosos casi siempre funcionaban cuando estaban solos, en el loft, lejos de cualquiera que necesitara creer que Kal Mercer no se ablandaba. Pero el camino de terracería no era el loft, y Chiara tenía esa cara de quien ya decidió que hoy no.
+Era mentira, y los dos lo sabían. Pero el camino de terracería no era el loft, y Chiara tenía esa cara de quien ya decidió que hoy no.
 
 —Ya verás —dijo él.
 

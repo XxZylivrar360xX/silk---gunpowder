@@ -2,14 +2,11 @@
 
 Generada por `tools/audiolibro/build_audiobook.py`; no editar a mano. Tras cambiar la prosa de un capítulo, correr `--estado` para marcarlo PENDIENTE; la bandera se cierra sola cuando el script regenera ese audio.
 
-Actualizada: 2026-11-08 22:00. Al día: 45 de 47.
+Actualizada: 2026-11-08 23:17. Al día: 47 de 47.
 
 ## Pendientes
 
-| Cap. | Título | Estado | Motivo | Desde |
-|---|---|---|---|---|
-| 11 | La balanza | PENDIENTE | cambió la prosa | 2026-11-08 22:00 |
-| 18 | Lo pequeño | PENDIENTE | cambió la prosa | 2026-11-08 22:00 |
+Ninguno: todos los audios corresponden a la prosa actual.
 
 ## Capítulos
 
@@ -25,14 +22,14 @@ Actualizada: 2026-11-08 22:00. Al día: 45 de 47.
 | 8 | La noche del ladrillo | AL DIA | 2026-11-04 |
 | 9 | La carrera de máscaras | AL DIA | 2026-11-05 |
 | 10 | La teniente | AL DIA | 2026-11-01 |
-| 11 | La balanza | PENDIENTE | 2026-11-08 |
+| 11 | La balanza | AL DIA | 2026-11-08 |
 | 12 | Dos sillas vacías | AL DIA | 2026-11-08 |
 | 13 | Roma Atrii | AL DIA | 2026-11-08 |
 | 14 | La regla del teléfono | AL DIA | 2026-11-08 |
 | 15 | Yo lo llevo | AL DIA | 2026-11-08 |
 | 16 | Le quedé debiendo | AL DIA | 2026-11-08 |
 | 17 | El día nublado | AL DIA | 2026-11-08 |
-| 18 | Lo pequeño | PENDIENTE | 2026-11-08 |
+| 18 | Lo pequeño | AL DIA | 2026-11-08 |
 | 19 | Grazie | AL DIA | 2026-11-08 |
 | 20 | La cifra | AL DIA | 2026-11-08 |
 | 21 | Con su proveedor | AL DIA | 2026-11-08 |
@@ -65,6 +62,40 @@ Actualizada: 2026-11-08 22:00. Al día: 45 de 47.
 
 ## Historial
 
+- 2026-11-08 23:17 · Cap. 42 (46_Llaves.md) · audio regenerado
+- 2026-11-08 23:17 · Cap. 41 (45_Ropa_Limpia.md) · audio regenerado
+- 2026-11-08 23:17 · Cap. 40 (44_Jurisdiccion.md) · audio regenerado
+- 2026-11-08 23:17 · Cap. 39 (43_La_Puerta.md) · audio regenerado
+- 2026-11-08 23:17 · Cap. 36 (40_Mecanico.md) · audio regenerado
+- 2026-11-08 23:17 · Cap. 34 (36_Tambien_Las_Mananas.md) · audio regenerado
+- 2026-11-08 23:17 · Cap. 33 (35_Sin_Fecha_De_Regreso.md) · audio regenerado
+- 2026-11-08 23:17 · Cap. 32 (34_Mi_Pareja.md) · audio regenerado
+- 2026-11-08 23:17 · Cap. 31 (33_Mas_De_La_Cuenta.md) · audio regenerado
+- 2026-11-08 23:17 · Cap. 29 (31_Vamos_A_Casa.md) · audio regenerado
+- 2026-11-08 23:17 · Cap. 28 (30_Media_Baraja.md) · audio regenerado
+- 2026-11-08 23:17 · Cap. 25 (25_Libros_Abiertos.md) · audio regenerado
+- 2026-11-08 23:17 · Cap. 24 (24d_Vienes_Conmigo.md) · audio regenerado
+- 2026-11-08 23:17 · Cap. 23 (24c_El_Corral.md) · audio regenerado
+- 2026-11-08 23:17 · Cap. 22 (24b_Lo_Que_Cueste.md) · audio regenerado
+- 2026-11-08 23:17 · Cap. 21 (22b_Con_Su_Proveedor.md) · audio regenerado
+- 2026-11-08 23:17 · Cap. 18 (20_El_Mirador.md) · audio regenerado
+- 2026-11-08 23:17 · Cap. 11 (09_La_Balanza.md) · audio regenerado
+- 2026-11-08 22:25 · Cap. 42 (46_Llaves.md) · audio pendiente: cambió la prosa
+- 2026-11-08 22:25 · Cap. 41 (45_Ropa_Limpia.md) · audio pendiente: cambió la prosa
+- 2026-11-08 22:25 · Cap. 40 (44_Jurisdiccion.md) · audio pendiente: cambió la prosa
+- 2026-11-08 22:25 · Cap. 39 (43_La_Puerta.md) · audio pendiente: cambió la prosa
+- 2026-11-08 22:25 · Cap. 36 (40_Mecanico.md) · audio pendiente: cambió la prosa
+- 2026-11-08 22:25 · Cap. 34 (36_Tambien_Las_Mananas.md) · audio pendiente: cambió la prosa
+- 2026-11-08 22:25 · Cap. 33 (35_Sin_Fecha_De_Regreso.md) · audio pendiente: cambió la prosa
+- 2026-11-08 22:25 · Cap. 32 (34_Mi_Pareja.md) · audio pendiente: cambió la prosa
+- 2026-11-08 22:25 · Cap. 31 (33_Mas_De_La_Cuenta.md) · audio pendiente: cambió la prosa
+- 2026-11-08 22:25 · Cap. 29 (31_Vamos_A_Casa.md) · audio pendiente: cambió la prosa
+- 2026-11-08 22:25 · Cap. 28 (30_Media_Baraja.md) · audio pendiente: cambió la prosa
+- 2026-11-08 22:25 · Cap. 25 (25_Libros_Abiertos.md) · audio pendiente: cambió la prosa
+- 2026-11-08 22:25 · Cap. 24 (24d_Vienes_Conmigo.md) · audio pendiente: cambió la prosa
+- 2026-11-08 22:25 · Cap. 23 (24c_El_Corral.md) · audio pendiente: cambió la prosa
+- 2026-11-08 22:25 · Cap. 22 (24b_Lo_Que_Cueste.md) · audio pendiente: cambió la prosa
+- 2026-11-08 22:25 · Cap. 21 (22b_Con_Su_Proveedor.md) · audio pendiente: cambió la prosa
 - 2026-11-08 22:00 · Cap. 18 (20_El_Mirador.md) · audio pendiente: cambió la prosa
 - 2026-11-08 22:00 · Cap. 11 (09_La_Balanza.md) · audio pendiente: cambió la prosa
 - 2026-11-08 20:36 · Cap. 46 (50_A_Oscuras.md) · audio regenerado

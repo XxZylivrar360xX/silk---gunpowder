@@ -1,4 +1,5 @@
 <!--
+Lectura del autor de la Parte III (2026-11-08, [[98_Agent_Handoff/sessions/2026-11-08_claude_lectura_parte_iii]]; prosa DISEÑO, espera lectura): Connors deja de repetir «es federal» (ya lo dijo Rowe y lo precisa Krane): su negativa es la enemistad con Margaret Rivers, pérdida causada por la estrategia de Chiara.
 AJUSTE AL CAUCE (Fase 4, 2026-11-08, terminal A; [[98_Agent_Handoff/encargos/ENCARGO_Fase4_Parte_III_Cierre]]): nuevo Cap. 40, POV Chiara, verbo «Ajusta al cauce». Versión anterior íntegra: [[11_Books/Book_01_Mascaras_De_Cristal/Escenas_Eliminadas/44_Jurisdiccion_Version_2026-11-08]]. Nota: [[98_Agent_Handoff/sessions/2026-11-08_claude_fase4_cap40_jurisdiccion]].
 Decisiones del autor (2026-11-08): (1) el capítulo es el domingo 19 dic (la recogida del 39) y la prosa lo marca con un toque (abogados citados en domingo, Rowe desde su casa); (2) una línea nombra a Dario Varek como el número que Chiara no cuenta porque ya le debe uno (costura hacia los nuevos 42–43 sin fijar D1 ni D2); (3) Vento no entra; (4) se queda la frase de Rivers elegida por su enemistad con Connors.
 DISEÑO del agente en este ajuste: el favor del ayuntamiento deja de venir de *El Faro* (que no existe en el I) y es un favor guardado del Monarch; Krane perdió contra Kal en la sala de mediación del nuevo 22, no en juicio.
@@ -176,7 +177,7 @@ Edward Connors tomó la llamada él mismo, sin secretaria de por medio.
 
 Chiara no contestó. Del otro lado una cucharita dio dos golpes contra una taza.
 
-—No importa. Aunque me lo pidiera ella de rodillas, señora Bellandi, no tendría nada que darle. —El tono no cambió, sólo el ritmo—. Cuando la base reclama, el estado no tiene asiento en esa mesa. Ni yo, ni Katherine, ni el gobernador si usted lo despierta. Es federal. Lo era desde antes de que usted se levantara.
+—No importa. Katherine ya le dijo que esto no es del estado. —El tono no cambió, sólo el ritmo—. Pero le voy a decir otra cosa, señora Bellandi, para que no pierda el tiempo la próxima vez: aunque fuera mío, a un cliente de Margaret no le firmaría ni la entrada a su casino.
 
 —Entonces dígame a quién llamo.
 

@@ -1,4 +1,5 @@
 <!--
+LECTOR PARTE II (2026-11-08, [[98_Agent_Handoff/sessions/2026-11-08_claude_observaciones_lector_parte_II]]; DISEÑO, espera lectura): el duelo de armas del cuarto 221 se ancla en el hospital (vidrio de la puerta, carrito de medicamentos, el hombre de Dario junto al elevador, la cuenta de guardias y cámaras); la enfermera entra al final. Diálogo intacto.
 Renumerado 2026-11-08 (nuevo cauce, Parte II): antes Cap. 27.
 NUEVO CAUCE (Fase 4, 2026-11-08, terminal B): nuevo Cap. 23, tarjeta T12 (primera mitad), POV Kal único, verbo «Reescribe y poda» según [[11_Books/Book_01_Mascaras_De_Cristal/00_Mapa_Cauce_Cap11_Camp_Alder]] y [[98_Agent_Handoff/encargos/ENCARGO_Fase4_Parte_II]]. El encabezado sigue diciendo «Capítulo 27» hasta que la terminal principal renumere. Versión anterior íntegra (mixta): [[11_Books/Book_01_Mascaras_De_Cristal/Escenas_Eliminadas/24c_El_Corral_Version_2026-11-08]]. Sesión: [[98_Agent_Handoff/sessions/2026-11-08_claude_fase4_cap23_oveja_entre_lobos]].
 Estado: BORRADOR (lo nuevo es DISEÑO del agente; espera lectura del autor).
@@ -352,21 +353,25 @@ Kal cerró la puerta a su espalda y no contestó.
 
 —No le creo.
 
-Fue Dario quien sacó el arma primero — despacio, casi ceremonial, como quien corrige un malentendido de protocolo más que amenaza a un hombre. Kal tuvo la suya afuera antes de que la de Dario terminara de subir.
+Fue Dario quien sacó el arma primero, despacio, casi ceremonial, pegada al costado del saco, donde el vidrio angosto de la puerta no alcanzaba a verla. Kal tuvo la suya afuera antes de que la de Dario terminara de subir, y también la mantuvo baja, contra el muslo.
 
-Se apuntaron sobre la cama de un hospital, con Chiara sedada entre los dos, sin que ninguno bajara la voz lo suficiente como para no oírse.
+Se apuntaron sobre la cama, con Chiara sedada entre los dos y el monitor contando por ella. Del pasillo llegaba el carrito de los medicamentos, rueda floja, puerta por puerta. Iba en la 214.
 
-—Si usted tuvo algo que ver con esto —dijo Kal—, no va a salir de este cuarto.
+—Si usted tuvo algo que ver con esto —dijo Kal, sin subir la voz—, no va a salir de este cuarto.
 
-—Y si fue usted quien la puso en peligro con lo que sea que esté metido, **yo** no voy a dejar que salga de esta ciudad.
+—Y si fue usted quien la puso en peligro con lo que sea que esté metido, yo no voy a dejar que salga de esta ciudad.
 
-Ninguno de los dos disparó. Ninguno de los dos bajó el arma tampoco, no de inmediato.
+La rueda se detuvo en la 218. Una enfermera dijo un nombre, alguien contestó desde una cama. Afuera, en la silla de plástico junto al elevador, el hombre de Dario había dejado de mirar su teléfono; desde la cama no se le veía la cara, sólo los zapatos, quietos.
+
+Ninguno de los dos disparó. Los dos sabían contar: un tiro en ese piso eran guardias en noventa segundos, la patrulla de la esquina en tres minutos, cámaras en cada pasillo y una mujer dormida en medio que no iba a poder decir nada a favor de nadie.
+
+La rueda volvió a moverse. 219. 220.
 
 Fue Dario quien cedió el gesto primero, aunque no la sospecha.
 
-—Una tregua, entonces. —Bajó el arma, despacio—. Usted averigua lo que pueda desde su lado. Yo desde el mío. Y nos mantenemos al tanto de sus movimientos, para que esto no vuelva a pasar.
+—Una tregua, entonces. —Guardó el arma dentro del saco con el mismo cuidado con que la había sacado—. Usted averigua lo que pueda desde su lado. Yo desde el mío. Y nos mantenemos al tanto de sus movimientos, para que esto no vuelva a pasar.
 
-Kal bajó la suya un segundo después, sin que le temblara la mano.
+Kal guardó la suya un segundo después, sin que le temblara la mano.
 
 —Trato.
 
@@ -374,7 +379,9 @@ Kal no mencionó la llamada, ni el papel doblado que llevaba en el bolsillo inte
 
 Dario lo miró un momento de más, como quien archiva algo para después.
 
-—Que se mejore pronto —dijo, mirando hacia la cama, no hacia Kal.
+La puerta se abrió y la enfermera entró con el carrito. Miró a los dos hombres de pie, uno a cada lado de la cama, y dijo que las visitas eran de una persona a la vez.
+
+—Que se mejore pronto —dijo Dario, mirando hacia la cama, no hacia Kal.
 
 Ya en la puerta, añadió:
 

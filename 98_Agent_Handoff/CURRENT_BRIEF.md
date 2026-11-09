@@ -5,6 +5,7 @@ Actualizado: 2026-11-08. Máximo 800 palabras. **Numeración vigente: 47 caps.**
 ## Foco y siguiente paso
 
 1. **Fase 4 del nuevo cauce (Libro I): CERRADA (2026-11-08):** [[98_Agent_Handoff/sessions/2026-11-08_claude_cierre_fase4]]. Los 47 capítulos están reconstruidos según [[11_Books/Book_01_Mascaras_De_Cristal/00_Mapa_Cauce_Cap11_Camp_Alder]] y propagados: Parte I = 11–19, Parte II = 20–32 y Parte III = 33–47. Los 40–47 se hicieron en tres terminales, con D1–D4 decididas ([[98_Agent_Handoff/encargos/ENCARGO_Fase4_Parte_III_Cierre]]). Costuras revisadas y EPUB, PDF y audio al día. **Guarda 6: nada queda sellado.** Sigue la lectura corrida por Parte (10–19 → 20–32 → 33–39 → 40–47 → 1–9) antes de cualquier otra cirugía.
+1b. **Lectura corrida de la Parte III atendida (2026-11-08):** [[98_Agent_Handoff/sessions/2026-11-08_claude_lectura_parte_iii]] (cambios DISEÑO en 33, 34, 36, 39, 40, 41 y 42; queda abierta la pregunta del apellido en el 35).
 2. **Lectura del autor** de borradores y prosa DISEÑO: rutas en [[98_Agent_Handoff/PENDING]].
 3. **Libro II** (diseño; prosa bloqueada hasta cerrar el I): [[11_Books/Book_02_Sombras_De_Poder/00_Boceto_Lista_Capitulos]] (61 caps., DISEÑO), [[11_Books/Book_02_Sombras_De_Poder/00_Plan_Cuatro_Partes]], [[11_Books/Book_02_Sombras_De_Poder/00_Matriz_Temporal]]. **Directiva:** construirlo para cobrar [[11_Books/Book_02_Sombras_De_Poder/Part_04_Torna_A_Casa/00_Diseno_Noche_Stavanger]].
 
@@ -18,6 +19,8 @@ Plan: [[11_Books/Book_01_Mascaras_De_Cristal/00_Plan_Nuevo_Cauce]]; diagnóstico
 - **Tramo 11 → Camp Alder:** robo del Monarch sin Dario (Halbrook → Crowe → Ferreyra y Mei-Lin; [[11_Books/Book_01_Mascaras_De_Cristal/Part_02_Con_Peores_Personas_He_Tratado/00_Plan_Robo_Monarch]]). Crowe asesina a Boone y se cobra en el corral con bandera falsa de Volpi; ahí matan a Vento. *Bajo juramento* sale. Matteo se va a investigar lo de Elio; no se dice en el I. Pacto del 09-18 sin papeles de Nadir; Kal desvía a Varek el lote de armas que iba para Crowe; Chiara le debe un favor a Varek; se conserva la línea de Héctor.
 
 ## Borradores que esperan lectura (Libro I; todos DISEÑO o BORRADOR)
+
+- **Observaciones del lector a la Parte II, aplicadas (2026-11-08, DISEÑO):** [[98_Agent_Handoff/sessions/2026-11-08_claude_observaciones_lector_parte_II]].
 
 Rutas y sesiones en [[98_Agent_Handoff/PENDING]] («Lecturas del autor»).
 

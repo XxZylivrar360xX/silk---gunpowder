@@ -1,4 +1,5 @@
 <!--
+Lectura del autor de la Parte III (2026-11-08, [[98_Agent_Handoff/sessions/2026-11-08_claude_lectura_parte_iii]]; prosa DISEÑO, espera lectura): corregido el conocimiento de Kal ante la fotografía de Alessio: ya sabe la historia por *Libros abiertos*; lo que ignora es qué quiere Livia al ponerla en la mesa.
 Nuevo cauce (Fase 4, 2026-11-08, encargo del autor con el método de [[98_Agent_Handoff/encargos/ENCARGO_Fase4_Paralelo_Reusa]]; verbo «Funde», fuera del reparto Reusa): **nuevo Cap. 36** (T23, POV Kal, en [[11_Books/Book_01_Mascaras_De_Cristal/00_Mapa_Cauce_Cap11_Camp_Alder]]). Funde *Mecánico* (este archivo, antes Cap. 45 en la numeración de 56) y *Un par de días más* (archivo 39, antes Cap. 44), que queda como marcador excluido de EPUB. El archivo conserva su nombre. Título CONFIRMADO Y DEFINITIVO por el autor (2026-09-21): «Mecánico».
 Estado: BORRADOR. Prosa DISEÑO pendiente de lectura del autor. Versiones anteriores íntegras, con su historial (cirugía E7, Frente 1, Frente 4, retrato Halbrook, costura H13, regla 05): [[11_Books/Book_01_Mascaras_De_Cristal/Escenas_Eliminadas/40_Mecanico_Version_2026-11-08]] y [[11_Books/Book_01_Mascaras_De_Cristal/Escenas_Eliminadas/39_Un_Par_De_Dias_Mas_Version_2026-11-08]]. Sesión: [[98_Agent_Handoff/sessions/2026-11-08_claude_fase4_cap36_mecanico]].
 Canon que ejecuta (CANON DEL AUTOR): contado en orden, sin analepsis; la llamada de Palermo la hace un intermediario (Halbrook fuera de la prosa; su nombre, una vez, en el pensamiento de Kal); la Mesa es el 13 dic; el pacto es el del 09-18 (Varek, «señor Mercer»); Crowe no aparece (la orden de vendérselas llega en el nuevo 39); la llamada a Garrett; el segundo beat de Mei-Lin (la ruta del norte, el camión a las seis).
@@ -219,7 +220,7 @@ Chiara no la tocó. La miró desde donde estaba, sin acercar la mano, con la mis
 
 Chiara dejó que el silencio corriera un segundo más de lo cómodo y después preguntó por el envío de Livia con la misma voz de siempre.
 
-La fotografía siguió ahí, boca arriba, entre las tazas. Kal no entendió por qué le pesaba tanto a Chiara una boda vieja y un apellido incómodo. Desde donde estaba sentado, sólo pudo entender que le pesaba.
+La fotografía siguió ahí, boca arriba, entre las tazas. Kal sabía lo que había detrás de ese vestido: las manos en los hombros, el cajón del escritorio, la noche que Chiara le había contado sin adorno. Lo que no sabía era qué quería Livia poniéndola sobre la mesa, ni qué le estaba cobrando. Desde donde estaba sentado, sólo pudo ver que Chiara no volvió a mirarla.
 
 ---
 
