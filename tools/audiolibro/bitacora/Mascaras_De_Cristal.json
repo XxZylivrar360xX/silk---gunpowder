@@ -83,10 +83,10 @@
     "09_La_Balanza.md": {
       "capitulo": 11,
       "titulo": "La balanza",
-      "estado": "AL DIA",
-      "motivo": "",
+      "estado": "PENDIENTE",
+      "motivo": "cambió la prosa",
       "audio": "2026-11-08",
-      "desde": "2026-11-08 18:14"
+      "desde": "2026-11-08 22:00"
     },
     "10_El_Loft_Del_Soltero.md": {
       "capitulo": 12,
@@ -139,10 +139,10 @@
     "20_El_Mirador.md": {
       "capitulo": 18,
       "titulo": "Lo pequeño",
-      "estado": "AL DIA",
-      "motivo": "",
+      "estado": "PENDIENTE",
+      "motivo": "cambió la prosa",
       "audio": "2026-11-08",
-      "desde": "2026-11-08 18:14"
+      "desde": "2026-11-08 22:00"
     },
     "21b_Grazie.md": {
       "capitulo": 19,
@@ -3902,6 +3902,16 @@
       "2026-11-08 20:36",
       "Cap. 46 (50_A_Oscuras.md)",
       "audio regenerado"
+    ],
+    [
+      "2026-11-08 22:00",
+      "Cap. 11 (09_La_Balanza.md)",
+      "audio pendiente: cambió la prosa"
+    ],
+    [
+      "2026-11-08 22:00",
+      "Cap. 18 (20_El_Mirador.md)",
+      "audio pendiente: cambió la prosa"
     ]
   ]
 }

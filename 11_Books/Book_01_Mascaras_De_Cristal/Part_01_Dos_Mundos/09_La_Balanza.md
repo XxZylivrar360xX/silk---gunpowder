@@ -80,7 +80,7 @@ Se le quedó la mano en el aire, a medio camino de las llaves.
 
 —¿Con Rowe?
 
-—Sí. Estoy bien, Kal.
+—Sí. Estoy bien, Kal. Las dos. Está aquí conmigo.
 
 —Voy.
 

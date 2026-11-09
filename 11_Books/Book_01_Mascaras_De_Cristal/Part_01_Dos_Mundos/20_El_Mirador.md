@@ -124,7 +124,7 @@ Chiara no lo ayudó. Le extendió la mano con la palma hacia arriba, y Kal se sa
 
 Kal se pasó la mano por la cara y no terminó la frase.
 
-Cenaron en la playa, a dos cuadras: hamburguesas de un puesto del malecón, envueltas en un papel que la grasa volvía transparente, y dos malteadas. La de Chiara era la primera de su vida; la sostuvo con las dos manos, desconfiada, hasta el segundo trago. Se sentaron en una banca de cara al agua. Hacía más frío del que ninguno había previsto y la banca era más corta de lo que hacía falta, y ninguno se cambió de lugar.
+Cenaron en la playa, a dos cuadras: hamburguesas de un puesto del malecón, envueltas en un papel que la grasa volvía transparente, y dos malteadas. Chiara sostuvo la suya con las dos manos, desconfiada, hasta el segundo trago. Se sentaron en una banca de cara al agua. Hacía más frío del que ninguno había previsto y la banca era más corta de lo que hacía falta, y ninguno se cambió de lugar.
 
 Chiara le sacaba papas del cartucho sin pedirlas. Ya no había apuesta.
 

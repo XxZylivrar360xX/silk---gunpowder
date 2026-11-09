@@ -2,11 +2,14 @@
 
 Generada por `tools/audiolibro/build_audiobook.py`; no editar a mano. Tras cambiar la prosa de un capítulo, correr `--estado` para marcarlo PENDIENTE; la bandera se cierra sola cuando el script regenera ese audio.
 
-Actualizada: 2026-11-08 20:56. Al día: 47 de 47.
+Actualizada: 2026-11-08 22:00. Al día: 45 de 47.
 
 ## Pendientes
 
-Ninguno: todos los audios corresponden a la prosa actual.
+| Cap. | Título | Estado | Motivo | Desde |
+|---|---|---|---|---|
+| 11 | La balanza | PENDIENTE | cambió la prosa | 2026-11-08 22:00 |
+| 18 | Lo pequeño | PENDIENTE | cambió la prosa | 2026-11-08 22:00 |
 
 ## Capítulos
 
@@ -22,14 +25,14 @@ Ninguno: todos los audios corresponden a la prosa actual.
 | 8 | La noche del ladrillo | AL DIA | 2026-11-04 |
 | 9 | La carrera de máscaras | AL DIA | 2026-11-05 |
 | 10 | La teniente | AL DIA | 2026-11-01 |
-| 11 | La balanza | AL DIA | 2026-11-08 |
+| 11 | La balanza | PENDIENTE | 2026-11-08 |
 | 12 | Dos sillas vacías | AL DIA | 2026-11-08 |
 | 13 | Roma Atrii | AL DIA | 2026-11-08 |
 | 14 | La regla del teléfono | AL DIA | 2026-11-08 |
 | 15 | Yo lo llevo | AL DIA | 2026-11-08 |
 | 16 | Le quedé debiendo | AL DIA | 2026-11-08 |
 | 17 | El día nublado | AL DIA | 2026-11-08 |
-| 18 | Lo pequeño | AL DIA | 2026-11-08 |
+| 18 | Lo pequeño | PENDIENTE | 2026-11-08 |
 | 19 | Grazie | AL DIA | 2026-11-08 |
 | 20 | La cifra | AL DIA | 2026-11-08 |
 | 21 | Con su proveedor | AL DIA | 2026-11-08 |
@@ -62,6 +65,8 @@ Ninguno: todos los audios corresponden a la prosa actual.
 
 ## Historial
 
+- 2026-11-08 22:00 · Cap. 18 (20_El_Mirador.md) · audio pendiente: cambió la prosa
+- 2026-11-08 22:00 · Cap. 11 (09_La_Balanza.md) · audio pendiente: cambió la prosa
 - 2026-11-08 20:36 · Cap. 46 (50_A_Oscuras.md) · audio regenerado
 - 2026-11-08 20:36 · Cap. 45 (49_Enfrente.md) · audio regenerado
 - 2026-11-08 20:36 · Cap. 44 (48_Su_Nombre.md) · audio regenerado
