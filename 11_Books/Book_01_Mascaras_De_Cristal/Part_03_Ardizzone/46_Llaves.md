@@ -10,7 +10,7 @@ Estado: BORRADOR — Parte III — Ardizzone, Cap. 42 (tercero del arco final si
 Título: PENDIENTE. "Llaves" es de trabajo (DISEÑO).
 Protagonista: Chiara Bellandi (POV único, tercera persona cercana). Kal no aparece.
 Personajes con diálogo: Héctor Navarro, Nadir Amrani, Danny Hayes, Garrett Cross, Walt Keegan, Marisol Grayson (una línea, por teléfono).
-Ventana temporal: tarde y anochecer de D8 (horas después del amanecer en el Cutoff, Cap. 41). El plan decía D8–D9; el capítulo cabe en una sola tarde. Sin encabezados de fecha.
+Ventana temporal: tarde y anochecer de D8, jueves 30 dic (el día después del amanecer en el Cutoff, nuevo 41; corregido 2026-11-08 en la revisión de costuras, porque antes decía «horas después»). El plan decía D8–D9; el capítulo cabe en una sola tarde. Sin encabezados de fecha.
 Calendario (CANON DEL AUTOR 2026-10-06, [[13_Auditorias/Book_01_Mascaras_De_Cristal/Matriz_Temporal_Libro_I]]): jueves 30 de diciembre. Pasada de calendario hecha 2026-10-06 (DISEÑO, pendiente de lectura): diez días de silencio, once de Nadir, Navidad en la mentira de Héctor, "fin de año" en el recuerdo del yate (y en el 21), niños sin escuela.
 Lugares: La Almendra (el rodeo para no pasar frente al loft); Almendra Towing / El Patio: portón, capó de Héctor, mostrador de Nadir, oficina de Garrett, la camioneta del fondo.
 Función: "Los de Kal". La gente de Kal la recibe fría y termina siguiéndola. Movimiento de poder: Nadir le entrega las llaves; Chiara cita al hombre de Dario; Héctor le pasa el teléfono para Marisol.

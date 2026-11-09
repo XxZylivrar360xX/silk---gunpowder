@@ -51,3 +51,12 @@ Halbrook, Crowe, Matteo y la incursión no aparecen. Mei-Lin sólo aporta oficio
 - 40 → 41: el 41 abre con «Puedo averiguar si lo trasladan», que es la última línea del 40. Cerrada.
 
 audio PENDIENTE: archivo 45
+
+## Revisión de costuras 40–47 (2026-11-08, después del commit a942a56)
+
+- **41 → 42 (ropa doblada):** cuadra. «Salió el lunes en la noche. El martes también.» Corregí la metadata del 42: su ventana decía «horas después del amanecer en el Cutoff» (mié 29) y es el **jue 30**, como dicen la costura y el timeline. La prosa no cambia.
+- **41 → 47 (grabación):** cuadra. El fotograma coincide con el 41 (19:04, de espaldas, chaqueta oscura, «ancho en las orillas»), y «La grabación de la que salió ese cuadro ya no existía» no explica la copia, como pide el ledger.
+- **43 → 45/46 (cuenta abierta):** cuadra. Una sola deuda, «lo que él quiera, cuando él quiera», y el 40 («ya le debía uno») la anticipa.
+- **44 → 46 (Rafe, Mabel):** cuadra. Cerré la costura PROVISIONAL en la metadata del 46.
+- **Calendario 40–46:** dom 19 · lun 20–mié 29 · jue 30 · vie 31 · sáb 1–lun 3 · lun 3–mar 4 · mar 4 de noche (el convoy de Lucía, «el martes en la noche»). Sin choques.
+- **Para la lectura (no es un defecto):** en el 46, Chiara tiene «Lucía Varek, el número directo, el de verdad». En el 40 no lo tenía; le queda de la llamada de Lucía en el 43.
