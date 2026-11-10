@@ -119,7 +119,7 @@ Copias íntegras antes de compactar el relevo (el brief medía ~1,300 palabras; 
 
 ## Corte del 2026-11-09
 
-Rotación por límites, sin cambios de estado ni de canon (el brief medía 838 palabras; PENDING 845; DECISIONS 859). Diálogo de terceros (Parte I) y la protolectura de los caps. 1–8 pasaron de PENDING a [[98_Agent_Handoff/BACKLOG]]. Las dos decisiones del 2026-11-04 salieron de DECISIONS. Los 9 enlaces más antiguos de [[log]] (2026-11-02 a 2026-11-06) pasaron a [[98_Agent_Handoff/archive/2026-11_sesiones]].
+Rotación por límites, sin cambios de estado ni de canon (el brief medía 838 palabras; PENDING 845; DECISIONS 859). Diálogo de terceros (Parte I) y la protolectura de los caps. 1–8 pasaron de PENDING a [[98_Agent_Handoff/BACKLOG]]. Las dos decisiones del 2026-11-04 salieron de DECISIONS (y, el mismo día, las del 2026-11-05 y 2026-11-06, al entrar las de la Parte II y la del cierre de tarea). Los 9 enlaces más antiguos de [[log]] (2026-11-02 a 2026-11-06) pasaron a [[98_Agent_Handoff/archive/2026-11_sesiones]].
 
 - [[98_Agent_Handoff/archive/2026-11-09_CURRENT_BRIEF|Brief acumulado]].
 - [[98_Agent_Handoff/archive/2026-11-09_PENDING|Pendientes]].

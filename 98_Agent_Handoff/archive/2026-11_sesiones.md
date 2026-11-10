@@ -2,6 +2,7 @@
 
 Entradas retiradas del registro reciente de [[log]] al pasar de 30 enlaces. Más antiguas al final.
 
+- 2026-11-07: [[11_Books/Book_01_Mascaras_De_Cristal/00_Plan_Nuevo_Cauce]] · DECISIÓN DEL AUTOR: un POV por capítulo (el que más arriesga); Libro I hacia ~170–190k; romance trenzado con la trama; nuevo cauce. Fuerzas: Tasador antagonista (trabaja para Halbrook), Halbrook fuera de la prosa del I salvo epílogo, Varek radiactivo, Il Consorzio atadura, muerte de Trix. Robo del Monarch sin Dario (Crowe por Halbrook); Caluca → Ferreyra; Crowe asesina a Boone; corral con bandera falsa de Volpi. Diagnóstico: [[13_Auditorias/Book_01_Mascaras_De_Cristal/Mapa_POV_Libro_I]].
 - 2026-11-06: [[98_Agent_Handoff/sessions/2026-11-06_claude_origen_nombre_elenna]] · DECISIÓN DEL AUTOR: el nombre de Elenna viene de un cuento de Marta; anticonceptivos; la noche de Stavanger se narra en la página.
 - 2026-11-05: Cap. 1 reescrito desde cero; malvavisco del Peugeot, casa de Michael: [[98_Agent_Handoff/sessions/2026-11-05_claude_cap01_desde_cero]]
 - 2026-11-05: [[98_Agent_Handoff/sessions/2026-11-05_claude_marisol_y_duelo_caps01_03]] · DECISIÓN DEL AUTOR: Walt ya sabe de Jim; Marisol abre el Cap. 1; Cap. 3 en duelo de familia.

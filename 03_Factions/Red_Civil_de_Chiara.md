@@ -103,6 +103,10 @@ Uso:
 
 ## I Sussurri — DISEÑO (2026-08-26)
 
+> **NUEVO CAUCE (2026-11-09, propagado de las notas del 2026-11-07/08; [[98_Agent_Handoff/sessions/2026-11-08_claude_fase4_cap31_lo_unico_que_es_mio]]):** el Cap. 31 (archivo 33, *Lo único que es mío*, POV Chiara; BORRADOR) es la **primera siembra del acercamiento Marisol/Kenji** (pendiente desde 2026-09-20). Es también la primera vez que un sussurro queda expuesto: Marisol se da cuenta de que alguien se repite alrededor de Vivian y lo encuentra «hasta la caja»; Kenji le dice en la cara que la atención de más fue decisión suya, no orden de Chiara. La escena de la caja (diálogo de Kenji y Marisol íntegro) se conserva literal de la versión anterior. La tarea viene del Cap. 28 (archivo 30, *Media baraja*), donde Chiara nombra a Kenji («Oda» / «¿El de la caja?») para mirar la periferia de Vivian.
+> - **Kenji sigue en la periferia de Vivian aunque ya se sabe que es riesgoso (DECISIÓN DEL AUTOR, 2026-11-08):** en la coda, Kal: «Si Marisol lo encontró, Vivian también puede.»; Chiara: «Kenji sigue». Kal no le quita la tarea. El «Ya.» con que él lo acepta es DISEÑO.
+> - Los dos saben que esa vigilancia los expone ante Varek («Los dos sabían a quién le debía cada uno, y qué»), y Chiara le oculta a Marisol el favor que le debe a Varek (DISEÑO, nota del 31).
+
 Toda la red descrita arriba es orgánica: la mayoría de la gente que la compone **no sabe que pertenece a algo.** Pero hay una segunda capa, más pequeña y deliberada, que empieza en un evento altruista donde Chiara construye, bajo los ojos de todos y sin que nadie lo note, su primer nodo reclutado a propósito.
 
 **I Sussurri** — italiano, *los susurros* — es el nombre privado de Chiara para esta capa, nunca un nombre público. Es la gente que recluta sabiendo exactamente para qué: registran lo que se dice discretamente a su alrededor, en salones, mesas y pisos de juego, y se lo hacen llegar a ella. **Y lo saben.** Ésa es la diferencia con Mabel y el resto de la red civil: aceptaron el trato.

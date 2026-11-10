@@ -1,6 +1,14 @@
 # Decisiones recientes
 
-Máximo 800 palabras; conservar sólo decisiones operativas recientes y enlaces a sus fuentes. El historial íntegro anterior al corte está en [[98_Agent_Handoff/archive/2026-09-21_DECISIONS]]; las del 2026-11-01, en [[98_Agent_Handoff/archive/2026-11-08_DECISIONS]]; las del 2026-11-04, en [[98_Agent_Handoff/archive/2026-11-09_DECISIONS_retiradas]]. Archivar entradas antiguas antes de retirarlas.
+Máximo 800 palabras; conservar sólo decisiones operativas recientes y enlaces a sus fuentes. El historial íntegro anterior al corte está en [[98_Agent_Handoff/archive/2026-09-21_DECISIONS]]; las del 2026-11-01, en [[98_Agent_Handoff/archive/2026-11-08_DECISIONS]]; las del 2026-11-04 al 2026-11-06, en [[98_Agent_Handoff/archive/2026-11-09_DECISIONS_retiradas]]. Archivar entradas antiguas antes de retirarlas.
+
+## 2026-11-09 — Cierre de tarea: regenerar y subir
+
+**DECISIÓN DEL AUTOR (proceso):** si una tarea cambió prosa, al terminarla se regeneran EPUB, PDF y audiolibro (incremental), aunque sean borradores, y todo se sube a `develop` (commit y push autorizados; nunca `main` ni `--force`). Supersede la regla de regenerar sólo con bloque confirmado. Protocolo: skill `regenerar-y-subir`; reglas en `CLAUDE.md` y `AGENTS.md`.
+
+## 2026-11-09 — Observaciones del lector a la Parte II (27, 25, 32, pesca)
+
+**DECISIÓN DEL AUTOR:** **27:** Kal piensa el nombre de Halbrook una vez, sin decirlo, cuando Chiara le pide buscar al general; supersede en parte los fragmentos sin nombres del 2026-11-08 (siguen sin nombre en la apertura; a Chiara se lo cuenta en el 28). **25:** se queda como está (Marta, Ruth y el convoy). **32:** verificar los cortes de la recapitulación; se restauran las cuatro réplicas (entraron con el material del autor, `9d1e782`), las glosas del narrador siguen cortadas. **Pesca (29):** gana Chiara; el grupo no lo zanja y Kal se lo dice en la roca. Prosa DISEÑO, espera lectura. Fuente: [[98_Agent_Handoff/sessions/2026-11-09_claude_propagacion_parte_II_resto]].
 
 ## 2026-11-08 — Nuevos 45–47 (D3, D4, la atadura, el sedán rojo)
 
@@ -21,11 +29,3 @@ Máximo 800 palabras; conservar sólo decisiones operativas recientes y enlaces 
 ## 2026-11-07 — Chiara en *Sombras de Poder*
 
 **CANON DEL AUTOR:** protege lo que empezó a amar (Kal y los chicos) porque percibe que todo lo que llega se va o muere; espiral de descenso. Cada uno en su frente; Kal lee que ella «no es feliz». Juntos pero separados. Fuente: [[98_Agent_Handoff/sessions/2026-11-07_claude_chiara_libro_ii]].
-
-## 2026-11-06 — Origen del nombre de Elenna
-
-**DECISIÓN DEL AUTOR:** una niña de los cuentos de Marta; Chiara practicó con ese nombre la cursiva y lo olvidó. La rima con la muerte pública nunca se cuenta textualmente. Referencia a Tolkien sin explicar. El primer tic va tras la salida de Paola. Chiara deja de impedir el embarazo sin decidirlo. Stavanger se narra en la página, tras meses de sequía; el libro se construye para cobrarla. Fuente: [[98_Agent_Handoff/sessions/2026-11-06_claude_origen_nombre_elenna]].
-
-## 2026-11-05 — Walt ya sabe de Jim; Marisol abre el Cap. 1
-
-**DECISIÓN DEL AUTOR:** supersede el canon del 2026-09-26: Walt sabe que Jim murió, por Natalie. Kal nunca lo visitó por miedo a la pregunta (defecto: proteger ocultando). Cap. 3 en duelo de familia. Marisol, primera interacción del Cap. 1, en persona. Carta: «Ojalá que mis dos hijos pudieran estar ahí.» Sesión: [[98_Agent_Handoff/sessions/2026-11-05_claude_marisol_y_duelo_caps01_03]].

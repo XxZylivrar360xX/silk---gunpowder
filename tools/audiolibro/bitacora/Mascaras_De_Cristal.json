@@ -213,8 +213,8 @@
       "titulo": "Una silla",
       "estado": "AL DIA",
       "motivo": "",
-      "audio": "2026-11-08",
-      "desde": "2026-11-08 18:14"
+      "audio": "2026-11-09",
+      "desde": "2026-11-09 23:09"
     },
     "30_Media_Baraja.md": {
       "capitulo": 28,
@@ -229,8 +229,8 @@
       "titulo": "Vamos a casa",
       "estado": "AL DIA",
       "motivo": "",
-      "audio": "2026-11-08",
-      "desde": "2026-11-08 23:17"
+      "audio": "2026-11-09",
+      "desde": "2026-11-09 23:09"
     },
     "32_Linea_Directa.md": {
       "capitulo": 30,
@@ -253,8 +253,8 @@
       "titulo": "Mi pareja",
       "estado": "AL DIA",
       "motivo": "",
-      "audio": "2026-11-08",
-      "desde": "2026-11-08 23:17"
+      "audio": "2026-11-09",
+      "desde": "2026-11-09 23:09"
     },
     "35_Sin_Fecha_De_Regreso.md": {
       "capitulo": 33,
@@ -4081,6 +4081,36 @@
     [
       "2026-11-08 23:17",
       "Cap. 42 (46_Llaves.md)",
+      "audio regenerado"
+    ],
+    [
+      "2026-11-09 22:46",
+      "Cap. 27 (29_El_Patio_Ajeno.md)",
+      "audio pendiente: cambió la prosa"
+    ],
+    [
+      "2026-11-09 22:46",
+      "Cap. 29 (31_Vamos_A_Casa.md)",
+      "audio pendiente: cambió la prosa"
+    ],
+    [
+      "2026-11-09 22:46",
+      "Cap. 32 (34_Mi_Pareja.md)",
+      "audio pendiente: cambió la prosa"
+    ],
+    [
+      "2026-11-09 23:09",
+      "Cap. 27 (29_El_Patio_Ajeno.md)",
+      "audio regenerado"
+    ],
+    [
+      "2026-11-09 23:09",
+      "Cap. 29 (31_Vamos_A_Casa.md)",
+      "audio regenerado"
+    ],
+    [
+      "2026-11-09 23:09",
+      "Cap. 32 (34_Mi_Pareja.md)",
       "audio regenerado"
     ]
   ]

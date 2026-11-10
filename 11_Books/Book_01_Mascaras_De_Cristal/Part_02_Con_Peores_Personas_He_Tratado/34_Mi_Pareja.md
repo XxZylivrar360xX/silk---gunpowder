@@ -1,5 +1,5 @@
 <!--
-LECTOR PARTE II (2026-11-08, [[98_Agent_Handoff/sessions/2026-11-08_claude_observaciones_lector_parte_II]]; DISEÑO, espera lectura): se corta la recapitulación de la viuda y la piedra, y dos glosas. La viuda, Danny, Varek y H21 intactos.
+LECTOR PARTE II (2026-11-08, [[98_Agent_Handoff/sessions/2026-11-08_claude_observaciones_lector_parte_II]]; DISEÑO, espera lectura): se corta la recapitulación de la viuda y la piedra, y dos glosas. La viuda, Danny, Varek y H21 intactos. **RESTAURADO EN PARTE (2026-11-09, verificación pedida por el autor):** las cuatro réplicas de la recapitulación («Era una broma… Para Danny», «Y luego yo dije lo del dinero…», «Tú tiraste la piedra…», «Cada pregunta… en forma de piedra») vuelven tal cual. La transcripción del 2026-10-04 no está en el vault ni en sesiones, pero esas líneas entraron en el commit del material del autor (`9d1e782`), «tirar la piedra» es giro de esa transcripción y sin ellas «Y tú me llevas a donde quieres» responde en falso; ante la duda manda CANON. Las dos glosas del narrador (líneas del agente) quedan cortadas.
 Renumerado 2026-11-08 (nuevo cauce, Parte II): antes Cap. 39.
 FASE 4 DEL NUEVO CAUCE (2026-11-07/08, terminal B, [[98_Agent_Handoff/encargos/ENCARGO_Fase4_Paralelo_Reusa]]): nuevo Cap. 32 (T19, H21, POV Kal, «Reusa»); cierra la Parte II (20–32). Estado: BORRADOR. Versión anterior íntegra: [[11_Books/Book_01_Mascaras_De_Cristal/Escenas_Eliminadas/34_Mi_Pareja_Version_2026-11-07]]. Nota: [[98_Agent_Handoff/sessions/2026-11-08_claude_fase4_cap32_mi_pareja]].
 - DECISIONES DEL AUTOR (2026-11-08): la palabra le llega a Crowe en una coda en la ferretería de la esquina, a la mañana siguiente; la llamada colgada a Varek se queda como está (Varek no oye la palabra).
@@ -203,6 +203,14 @@ El Audi siguió rodando sobre la grava. Chiara se quedó mirando el teléfono, d
 —Tú trajiste a la viuda.
 
 Kal soltó el aire por la nariz.
+
+—Era una broma. De esas que se te meten solas en la cabeza. Te casas con la viuda, la viuda se resbala, te quedas con todo. Para Danny.
+
+—Y luego yo dije lo del dinero, y tú dijiste que yo no me iba a morir, y te quedaste callado como si hubieras visto pasar a tu propio fantasma.
+
+—Tú tiraste la piedra. "Como si una no tuviera dinero."
+
+—Kal. Cada pregunta que te hago me la regresas en forma de piedra.
 
 —Y tú me llevas a donde quieres. Estás haciendo la envolvente.
 

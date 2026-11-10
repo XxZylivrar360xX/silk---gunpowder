@@ -26,7 +26,7 @@ Función: CANON DEL AUTOR. Ejecuta H7 — El lago, cierre del arco H5–H7.
 - TONO H7: después de cuatro capítulos de amenaza, revelación y negociación en el mismo día, aquí no pasa nada malo. Nadie habla de Halbrook, Camp Alder ni Varek — ya se habló esa tarde; ahora sólo viven.
 - FÍSICO DE KAL: sigue con las costillas y la ceja de la paliza del día anterior. El forcejeo en el agua y el cargarla existen igual, pero con reconocimiento mínimo del costado — no round de boxeo, y Kal lo minimiza como es su costumbre en vez de evitarlo.
 - CHIARA APRENDE A PESCAR: nunca ha ido; Kal le enseña con su propia caña, falla el primer lanzamiento, lo logra al tercero. Sigue siendo competente — sólo es terreno nuevo.
-- PESCA: marcador disputado, discusión juguetona, sin ganador incontestable — PENDING.md sigue marcando el ganador como decisión del autor.
+- PESCA: marcador disputado, discusión juguetona, sin ganador incontestable — PENDING.md sigue marcando el ganador como decisión del autor. **DECISIÓN DEL AUTOR (2026-11-09): gana Chiara.** El grupo nunca lo zanja (la discusión sigue siendo el punto; Nadir y su báscula); en la roca Kal se lo dice: «—Tú. Yo sí llevé la cuenta.» (sustituye «—Nadie. Eso ya lo sabes.», línea del agente; DISEÑO, espera lectura). Paga sin decirlo la apuesta de Nadir con Danny.
 - AGUA: Kal la carga, amenaza con tirarla — rima físicamente con H12 (el atentado) SIN que ni narrador ni personajes lo mencionen jamás. Nuevo intercambio: "Si me sueltas, me muero." / "Sí, como los gatos." / "Peor, yo araño y muerdo." / "Kal Mercer, no vayas a soltarme." — juego, no peligro real; Chiara no corre riesgo de ahogarse, la frase es coqueteo puro.
 - ATARDECER: formación de roca junto al lago, sin fijar geografía exacta. No confesionario: pueden hablar pero sin declaración de amor, trauma nuevo, exposición, planes de vida ni "qué somos". **AJUSTE (2026-09-17, a pedido explícito del autor):** después de "Gracias por traerme / Gracias por venir" hay un beso breve — el segundo del libro, sin torpeza (a diferencia del primero, en H11/el mirador) — mostrado sin glosa de narrador, que siembra sensorialmente la palabra "casa" (a Chiara "le supo... a algo parecido a estar en casa") para que rime con la última línea. No dispara declaración, no nombra la relación, no abre la pregunta "qué somos" — el silencio posterior se mantiene igual que antes.
 - ESTADO DE LA RELACIÓN EN H7: se comportan como pareja sin etiqueta. NO existen todavía: H21 ("mi pareja"), ritual del Ciao, H16 (mudanza oficial — Chiara tiene acceso informal al loft, nada más), la vela, el collar.
@@ -389,7 +389,7 @@ El cielo empezó a ponerse de un color que ninguno de los dos comentó. Desde ah
 
 —¿Quién crees que ganó la pesca? —preguntó ella, después de un rato de silencio que no pedía llenarse.
 
-—Nadie. Eso ya lo sabes.
+—Tú. Yo sí llevé la cuenta.
 
 —Nadir va a seguir discutiéndolo un mes.
 
