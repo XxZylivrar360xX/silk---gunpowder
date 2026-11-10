@@ -97,7 +97,7 @@ No son tiempos de GPS. Son tiempos de escena: trafico, hora, presion policial y 
 | The Monarch / penthouse -> Il Gelsomino | 25 min | 15-18 min | Citas, acuerdos, cenas vigiladas |
 | The Monarch -> Hipodromo | misma propiedad (a pie) | — | Vida de elite, caballerizas, H12 |
 | Hipodromo -> Hospital Santa Aurelia | 25 min | 15-17 min si Kal conduce al limite | Ataque a Chiara (H12) |
-| The Monarch -> Puerto Viejo (Terminal Road) | 30 min | 20 min | Cap. 43 (*Intereses*) |
+| The Monarch -> Puerto Viejo (Terminal Road) | 30 min | 20 min | Cap. 43 (*Una cuenta abierta*) |
 | The Monarch -> Gabriella's | 35-40 min | 25 min | Santa Brígida, costa sur |
 | Distrito Marino / Puerto Viejo -> La Isla en ferry | 20 min | No aplica | Alternativa al puente |
 | La Almendra -> Calle Corona | 5-10 min | 5 min | Cap. 9: Kal llega en siete |

@@ -8,7 +8,7 @@ Reconstrucción por git log -p del Book_Map y de los encabezados, contrastada co
 
 | Columna | Fuente y alcance |
 |---|---|
-| Prefijo 2026-09-27 | Commit 8a96fc5, antes de reubicar el Corral y ampliar el arco final. Se sigue la identidad de la escena: 09 *El corral* → archivo 24c; 44 *A oscuras* → archivo 50. No confundir con 09 *La balanza* ni 44 *Jurisdicción*, posteriores. |
+| Prefijo 2026-09-27 | Commit 8a96fc5, antes de reubicar el Corral y ampliar el arco final. Se sigue la identidad de la escena: 09 *El corral* → archivo 24c; 44 *A oscuras* → archivo 50. No confundir con 09 *La balanza* ni 44 *No puedo sacarlo*, posteriores. |
 | Prefijo | Estado inmediatamente anterior a la corrida: padre de 9060a73, contrastado con edfd17f y bf8800a. Hasta 2026-10-21 predominaba Cap. N = archivo N. Algunos archivos con letra no llevaban número en el encabezado: se indica el prefijo, no se inventa un número corrido. La segmentación 05a–05c se registró el 2026-10-22, antes de la corrida. |
 | 56, 2026-10-22 | Commit 9060a73; [[98_Agent_Handoff/sessions/2026-10-22_claude_retitulado_y_renumeracion_libro_i]]. |
 | 57, 2026-10-23 | Commit 258cebf: separación de 08b. |

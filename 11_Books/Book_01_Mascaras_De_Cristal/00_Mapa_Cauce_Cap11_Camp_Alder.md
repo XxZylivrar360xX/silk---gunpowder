@@ -105,33 +105,33 @@
 - **Nuevo 19 redactado (2026-11-07, BORRADOR, DISEÑO):** *Grazie*, POV Chiara, ~3,050 palabras, en el archivo 21b. H13; cierra la Parte I. Sesión: [[98_Agent_Handoff/sessions/2026-11-07_claude_fase4_cap19_grazie]].
 - **Parte I cerrada y renumerada (2026-11-08):** los nuevos 11–19 están redactados; encabezados, [[11_Books/Book_01_Mascaras_De_Cristal/00_Book_Map]] y [[12_Craft_Policies/CHAPTER_STATUS]] usan ya los Caps. 1–19. Sesión: [[98_Agent_Handoff/sessions/2026-11-08_claude_renumeracion_parte_I]].
 - **Parte II redactada (2026-11-08, BORRADOR, DISEÑO):** nuevos 20–32, todos en un solo POV. Las trece notas de sesión y la propagación del canon están en [[98_Agent_Handoff/sessions/2026-11-08_claude_propagacion_parte_II]].
-  - **20** *La cifra* (Chiara, ~4,270): Kal llega en la grúa por elección (CANON). El deber de H13 se paga: primero Italia, después el casino, después Matteo.
-  - **21** *Con su proveedor* (Kal, ~4,820): la línea de Dario se dice delante de Kal; Lucía baja al patio de la comisaría (CANON). La deuda con Irene cierra aquí.
+  - **20** *Algo más que dinero* (Chiara, ~4,270): Kal llega en la grúa por elección (CANON). El deber de H13 se paga: primero Italia, después el casino, después Matteo.
+  - **21** *La versión pública* (Kal, ~4,820): la línea de Dario se dice delante de Kal; Lucía baja al patio de la comisaría (CANON). La deuda con Irene cierra aquí.
   - **22** *Lo que cueste* (Kal, ~3,235): sale la capa 2 de Nadir; el detonante es el robo y el libro; aparece la chaqueta café en la panadería (CANON). Se retira el archivo 24, *Bajo juramento*.
-  - **23** *Oveja entre lobos* (Kal, ~5,280): Vento muere de un tiro en el corral y la bala queda en el tercer tablón (CANON). Se retira el 33b, *La mano*.
+  - **23** *Luces fuera* (Kal, ~5,280): Vento muere de un tiro en el corral y la bala queda en el tercer tablón (CANON). Se retira el 33b, *La mano*.
   - **24** *Vienes conmigo* (Chiara, ~4,580): el alta, Héctor medio oído, Il Gelsomino como memoria y «No es cuestión de dinero» (CANON).
   - **25** *Libros abiertos* (Chiara, ~5,630): H15 y la llamada de Varek en la página, que Chiara se calla (CANON).
   - **26** *Me encuentro bien* (Chiara, ~4,100): H5 del lado de Chiara, en el hipódromo y sin amenaza; la multa de Virginia; el favor abierto a nombre de ella (CANON).
   - **27** *Una silla* (Kal, ~6,080): H6 §1–6 y el pacto; el detonante es la multa, que Chiara cuenta en el loft (CANON). Se retira el archivo 28.
-  - **28** *Media Baraja* (Chiara, ~3,750): Kal cuenta lo de Halbrook y se revelan las dos deudas con Varek (CANON). Se retira el archivo 27.
+  - **28** *Media baraja* (Chiara, ~3,750): Kal cuenta lo de Halbrook y se revelan las dos deudas con Varek (CANON). Se retira el archivo 27.
   - **29** *Vamos a casa* (Chiara, ~4,674): H7, con cirugía de POV mínima.
   - **30** *Línea directa* (Kal, ~3,140): el primer arrastre para Varek (CANON); la cuota de la ferretería, en público; la primera fecha del Tasador.
   - **31** *Lo único que es mío* (Chiara, ~4,080): el duelo por Vento con el caballerango (CANON); Kenji sigue.
-  - **32** *Mi pareja* (Kal, ~3,880): H21 literal y la coda de la ferretería; la palabra le llega a Crowe (CANON). Cierra la Parte II.
+  - **32** *A ti por mí* (Kal, ~3,880): H21 literal y la coda de la ferretería; la palabra le llega a Crowe (CANON). Cierra la Parte II.
 - **Parte II renumerada (2026-11-08, Codex):** encabezados 20–32, el [[11_Books/Book_01_Mascaras_De_Cristal/00_Book_Map]] y el [[12_Craft_Policies/CHAPTER_STATUS]]. Reporte: [[98_Agent_Handoff/sessions/2026-11-08_codex_para_claude_renumeracion_parte_II]].
 - **Parte III redactada hasta Camp Alder (2026-11-08, BORRADOR, DISEÑO):** nuevos 33–39, todos en un solo POV. Estado y costuras: [[98_Agent_Handoff/sessions/2026-11-08_claude_fase4_parte3_corte]]; propagación: [[98_Agent_Handoff/sessions/2026-11-08_claude_propagacion_parte_III]].
-  - **33** *Sin fecha de regreso* (Chiara, ~3,330, archivo 35): Valenti le pasa a Chiara lo que guardaba Matteo para Italia; el libro de las rutas sigue en la caja; la filtración queda PENDIENTE (CANON). La salida de Matteo: va a investigar lo de Elio y no se dice (DECISIÓN DEL AUTOR); el párrafo que la leía como cobro se reescribió.
+  - **33** *Cambio de firmas* (Chiara, ~3,330, archivo 35): Valenti le pasa a Chiara lo que guardaba Matteo para Italia; el libro de las rutas sigue en la caja; la filtración queda PENDIENTE (CANON). La salida de Matteo: va a investigar lo de Elio y no se dice (DECISIÓN DEL AUTOR); el párrafo que la leía como cobro se reescribió.
   - **34** *También las mañanas* (Chiara, ~2,870, archivo 36): H16 en POV Chiara; la sangre es de un trabajo de Varek y la botella sale de ahí; la persecución la cuenta Héctor; el gesto del cuello con Stella (CANON). **Se retira el archivo 37**, *Cuatro letras* (EXCLUDE).
   - **35** *Al revés* (Kal, ~4,900, archivo 38): la bala del corral es la que mató a Vento y lleva a un apellido que no se dice; el avión sale de Kingsley a la una; Mabel y Acción de Gracias se quedan (CANON).
   - **36** *Mecánico* (Kal, ~5,880, archivo 40): calendario A; la llamada la hace un intermediario; Volpi, un beat callado en la Mesa (CANON). **Se retira el archivo 39**, *Un par de días más* (EXCLUDE).
-  - **37** *La otra mitad* (Chiara, ~2,025, archivo 41): Chiara aterriza el mismo día que Kal; Bonnie.
+  - **37** *Reclamable* (Chiara, ~2,025, archivo 41): Chiara aterriza el mismo día que Kal; Bonnie.
   - **38** *Nada* (Chiara, ~2,810, archivo 42): F1; Mei-Lin entra por la llamada de Bonnie, opción (a) (CANON).
-  - **39** *La puerta* (Kal, ~2,890, archivo 43): el mensaje nombra a Crowe y Kal sabe desde aquí que trabaja para la gente de Halbrook; el lote va a Varek (CANON).
+  - **39** *Expediente sellado* (Kal, ~2,890, archivo 43): el mensaje nombra a Crowe y Kal sabe desde aquí que trabaja para la gente de Halbrook; el lote va a Varek (CANON).
 - **Nuevos 40–47 («Ajusta al cauce», terminales A/B/C, 2026-11-08):** [[98_Agent_Handoff/encargos/ENCARGO_Fase4_Parte_III_Cierre]].
-  - **40** *Jurisdicción* (Chiara, ~2,130, archivo 44): domingo 19 dic; una línea nombra a Varek como el número que Chiara no cuenta porque «ya le debía uno» (CANON); el favor ya no viene de *El Faro*; Krane perdió en la sala de mediación del 22. [[98_Agent_Handoff/sessions/2026-11-08_claude_fase4_cap40_jurisdiccion]]
+  - **40** *No puedo sacarlo* (Chiara, ~2,130, archivo 44): domingo 19 dic; una línea nombra a Varek como el número que Chiara no cuenta porque «ya le debía uno» (CANON); el favor ya no viene de *El Faro*; Krane perdió en la sala de mediación del 22. [[98_Agent_Handoff/sessions/2026-11-08_claude_fase4_cap40_jurisdiccion]]
   - **41** *Ropa limpia* (Chiara, ~4,340, archivo 45): del lun 20 al mié 29 dic; poda media (−183); eco del plato de Acción de Gracias (CANON); el hueco de la etiqueta (19 → 27) queda mudo (CANON); la grabación no cambia. [[98_Agent_Handoff/sessions/2026-11-08_claude_fase4_cap41_ropa_limpia]]
-  - **42** *Llaves* (Chiara, ~3,360, archivo 46): D1, las armas sin entregar; Héctor: «No se las di» (CANON); Chiara cree que la incursión fue para Varek. [[98_Agent_Handoff/sessions/2026-11-08_claude_fase4_cap42_llaves]]
-  - **43** *Intereses* (Chiara, ~4,020, archivo 47): D2, la deuda del 26 se vuelve «una cuenta abierta»; «el diecinueve»; Varek de usted y sin amenaza; pésame por Vento (CANON). Poda propuesta sin aplicar. [[98_Agent_Handoff/sessions/2026-11-08_claude_fase4_cap43_intereses]]
+  - **42** *Navajas y tinta* (Chiara, ~3,360, archivo 46): D1, las armas sin entregar; Héctor: «No se las di» (CANON); Chiara cree que la incursión fue para Varek. [[98_Agent_Handoff/sessions/2026-11-08_claude_fase4_cap42_llaves]]
+  - **43** *Una cuenta abierta* (Chiara, ~4,020, archivo 47): D2, la deuda del 26 se vuelve «una cuenta abierta»; «el diecinueve»; Varek de usted y sin amenaza; pésame por Vento (CANON). Poda propuesta sin aplicar. [[98_Agent_Handoff/sessions/2026-11-08_claude_fase4_cap43_intereses]]
   - **44** *Su nombre* (Chiara, ~3,380, archivo 48): pasa las comprobaciones sin cambios; sólo «había hecho sonar» (no «inventado») por el nuevo 13; sin poda. [[98_Agent_Handoff/sessions/2026-11-08_claude_fase4_cap44_su_nombre]]
   - **45** *Por si vuelve* (Chiara, ~3,640, archivo 49): D4, sin la carpeta de Génova en la terraza; atadura de Il Consorzio («Y confía en que la casa Ardizzone tampoco las haga por su cuenta»); Varek y «una cuenta abierta»; poda ligera (CANON). [[98_Agent_Handoff/sessions/2026-11-08_claude_fase4_cap45_por_si_vuelve]]
   - **46** *A oscuras* (Chiara, ~3,960, archivo 50): sin el sedán rojo de Crowe junto a la grúa (CANON); «a Varek» en el monólogo; sin poda. [[98_Agent_Handoff/sessions/2026-11-08_claude_fase4_cap46_a_oscuras]]

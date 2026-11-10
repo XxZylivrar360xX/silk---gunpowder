@@ -56,7 +56,7 @@ Nadie la decide: no es pelea ni fractura ni reclamo. Coinciden sólo para dormir
 
 | Tramo | Intimidad |
 |---|---|
-| *Lo pequeño* (Libro I) | Verifican: «¿Seguro?» |
+| *En lo pequeño* (Libro I) | Verifican: «¿Seguro?» |
 | Partes I–II, la Villa | La más vivida; ella se abre mientras él se cierra. Suman un año sin embarazo |
 | Partes III–IV | Se seca |
 | Stavanger | La primera vez en meses; ya nadie verifica nada |
@@ -102,7 +102,7 @@ En mitad del acto. Original del autor, no reinterpretar:
 
 **Aportes de ChatGPT aprobados por el autor (2026-11-07):** «¿Qué?» / «Idiota.»; «Estoy aquí.»; el anillo sujetado con las dos manos; la madera que estalla; el hilo y «No te atrevas.»; «No le preguntó por qué.»; la mano en la cintura.
 
-**DISEÑO añadido:** los lunares y «Cuatro» / «Tres» / «Contaste mal.»; la marca de marzo; el contrato; el gesto de las cejas (canon de la ficha); la nariz helada; el suéter bajo su cabeza; el mechón a la izquierda (eco de *Lo pequeño*); la boca en el hueso de la cadera. *Retirado por el autor, 2026-11-07: «Mañana comes».*
+**DISEÑO añadido:** los lunares y «Cuatro» / «Tres» / «Contaste mal.»; la marca de marzo; el contrato; el gesto de las cejas (canon de la ficha); la nariz helada; el suéter bajo su cabeza; el mechón a la izquierda (eco de *En lo pequeño*); la boca en el hueso de la cadera. *Retirado por el autor, 2026-11-07: «Mañana comes».*
 
 **Al redactar:** Claude la escribe franca y sensual, sin llegar al nivel más gráfico; lo que el autor quiera más explícito lo escribe él.
 

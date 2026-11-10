@@ -18,13 +18,13 @@ Traje caro y carpeta fina (Cap. 22, *Lo que cueste*).
 
 La seguridad de quien gana seguido, **sin arrogancia**, y un filo de estratega que corta sin levantar la voz. Lee a la gente más rápido que a los papeles y no se encariña con la razón: la usa cuando sirve. Es la referencia que dio el autor (Harvey Specter sin lo arrogante + el filo de Annalise Keating); **es solo energía, no hay que copiar líneas, tics ni biografía.**
 
-DISEÑO (Cap. 40, *Jurisdicción*): contesta al primer timbre; pregunta antes de opinar ("¿Quién más lo sabe?"); corrige al cliente sin adornos ("No vuelva a decir eso en voz alta. Ni a mí."); humor seco sobre su propio oficio ("A mí nadie me trata bien en una comisaría"); urgencia sin drama ("Úselo hoy").
+DISEÑO (Cap. 40, *No puedo sacarlo*): contesta al primer timbre; pregunta antes de opinar ("¿Quién más lo sabe?"); corrige al cliente sin adornos ("No vuelva a decir eso en voz alta. Ni a mí."); humor seco sobre su propio oficio ("A mí nadie me trata bien en una comisaría"); urgencia sin drama ("Úselo hoy").
 
 ## Apariciones
 
 - **Cap. 22 (archivo 24b), *Bajo juramento*:** representa a Hoover; trata a Tommaso como una herramienta; ve el caso perdido antes que el juez y propone el acuerdo en el cuarto intermedio. Kal le deja un número en media hoja de la libreta de Garrett para ofrecerle trabajo; Krane no dice que sí, pero se guarda el papel.
-- **Cap. 40 (archivo 44), *Jurisdicción*:** Chiara lo llama como penalista; va a la comisaría y choca con la reclamación federal.
-- **Nuevo cauce (2026-11-08):** *Bajo juramento* salió; su origen está en el nuevo 22 (archivo 24b: acuerdo en la sala de mediación, media hoja junto a los elevadores). *Jurisdicción* es hoy el nuevo 40 y dice «perdió contra Kal en una sala de mediación». En el nuevo 41 presenta una solicitud federal que nadie va a contestar. [[98_Agent_Handoff/sessions/2026-11-08_claude_fase4_cap40_jurisdiccion]]
+- **Cap. 40 (archivo 44), *No puedo sacarlo*:** Chiara lo llama como penalista; va a la comisaría y choca con la reclamación federal.
+- **Nuevo cauce (2026-11-08):** *Bajo juramento* salió; su origen está en el nuevo 22 (archivo 24b: acuerdo en la sala de mediación, media hoja junto a los elevadores). *No puedo sacarlo* es hoy el nuevo 40 y dice «perdió contra Kal en una sala de mediación». En el nuevo 41 presenta una solicitud federal que nadie va a contestar. [[98_Agent_Handoff/sessions/2026-11-08_claude_fase4_cap40_jurisdiccion]]
 - ***Sombras de Poder* (CANON DEL AUTOR, 2026-10-02):** con [[02_Characters/Garrett_Cross|Garrett]] (contador de Chiara), clave para aislar a Dario en finanzas: limpiar la inyección de efectivo al Monarch para dejar de depender del dinero de Dario.
 
 ## Relación con Rivers

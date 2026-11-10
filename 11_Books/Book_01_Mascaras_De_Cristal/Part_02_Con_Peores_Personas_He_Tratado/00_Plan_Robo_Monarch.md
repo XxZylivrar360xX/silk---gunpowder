@@ -78,7 +78,7 @@ Parte del [[11_Books/Book_01_Mascaras_De_Cristal/00_Plan_Nuevo_Cauce]] (el Tasad
 
 ## 22a — La noche del robo
 
-> **NUEVO CAUCE — PARTE II (2026-11-09, propagado de las notas del 2026-11-07/08).** El 22a es ahora el Cap. 20 (archivo 22a), *La cifra*, en POV Chiara único; abre la Parte II (Caps. 20–32). Fuente: [[98_Agent_Handoff/sessions/2026-11-07_claude_fase4_cap20_la_cifra]].
+> **NUEVO CAUCE — PARTE II (2026-11-09, propagado de las notas del 2026-11-07/08).** El 22a es ahora el Cap. 20 (archivo 22a), *Algo más que dinero*, en POV Chiara único; abre la Parte II (Caps. 20–32). Fuente: [[98_Agent_Handoff/sessions/2026-11-07_claude_fase4_cap20_la_cifra]].
 > - **La grúa — CANON DEL AUTOR (2026-11-07):** Kal llega al Monarch en la grúa **por elección, no porque le falte el Audi**. Chiara lo lee así: el Audi es para lo de los dos y la grúa para lo que tiene que parecer trabajo (un proveedor al que llamaron por un auto). Corrige la contradicción con el Cap. 19 (archivo 21b; «Marisol devolvió el Audi»): el Audi ya volvió y Kal lo deja en el patio a propósito. Afecta al beat 3 (la llamada a Kal y su llegada).
 > - DISEÑO de la reconstrucción (no cambia los beats): la llegada de Kal y el cuarto de monitores pasan por la mirada de Chiara; lo que Tommaso nota de Dario también lo ve ella y se lo guarda. Detalle en la nota fuente.
 
@@ -99,7 +99,7 @@ Parte del [[11_Books/Book_01_Mascaras_De_Cristal/00_Plan_Nuevo_Cauce]] (el Tasad
 
 ## 22b — La cacería
 
-> **NUEVO CAUCE — PARTE II (2026-11-09, propagado de las notas del 2026-11-08).** El 22b es ahora el Cap. 21 (archivo 22b), *Con su proveedor*, en POV Kal único. Fuente: [[98_Agent_Handoff/sessions/2026-11-08_claude_fase4_cap21_con_su_proveedor]]; versión anterior: [[11_Books/Book_01_Mascaras_De_Cristal/Escenas_Eliminadas/22b_Con_Su_Proveedor_Version_2026-11-08]]. Manda sobre los beats 4 y 7 de abajo:
+> **NUEVO CAUCE — PARTE II (2026-11-09, propagado de las notas del 2026-11-08).** El 22b es ahora el Cap. 21 (archivo 22b), *La versión pública*, en POV Kal único. Fuente: [[98_Agent_Handoff/sessions/2026-11-08_claude_fase4_cap21_con_su_proveedor]]; versión anterior: [[11_Books/Book_01_Mascaras_De_Cristal/Escenas_Eliminadas/22b_Con_Su_Proveedor_Version_2026-11-08]]. Manda sobre los beats 4 y 7 de abajo:
 > - **Beat 4 (Tommaso por su lado):** el reclutamiento de la valet (Mei-Lin) **sale de la prosa** y queda fuera de página como DISEÑO del plan; también sale el aviso de que la valet dejó el puesto. Ningún capítulo posterior depende de esas escenas (grep de la nota fuente). Lo de Kenji le llega a Kal por Chiara, en la bahía (DISEÑO): «Tommaso retiró lo de Kenji» / «Y cuando la cambia, ya trae la otra en el bolsillo.»; Kal no pregunta más.
 > - **Beat 7 (cierre con Dario y Tommaso) — CANON DEL AUTOR (2026-11-08):** la línea de Dario se dice **con Kal presente**. El viernes, en el piso de administración del Monarch, Kal lleva la factura de Almendra Towing y Tommaso se lo dice a Dario delante de él («Bellandi. Con su proveedor.»). La línea canon queda literal.
 > - **Beat 7, DISEÑO:** la observación de que Dario pregunta quién y cuántos, pero no qué había en la bolsa, **ahora la hace Kal**, no Tommaso. Kal se oye llamar «proveedor», la palabra de Nadir. Tommaso autoriza la factura, tantea a Kal («¿Traían algo más, señor Mercer?») y le dice «Es una buena versión. Se parece mucho a la de Bellandi.» (siembra del frente Tommaso–Chiara). Cierre: Kal dobla en cuatro la copia de la factura, como Nadir.

@@ -13,7 +13,7 @@
 
 Resuelve el pendiente de por qué Chiara termina con auto propio — necesario para que exista algo que sabotear en F3 ("Los frenos"). Kal, ya con participación en el concesionario, le consigue algo que no está en el lote de nadie más: **un sedán Lancia, discreto, nada deportivo — lujo que no grita.**
 
-Es una compra limpia, no un favor con condiciones ni una jugada de poder. Encaja con el patrón ya establecido de Kal invirtiendo en negocios legítimos conforme el suyo prospera (ver el Audi A7, segundo auto, en el Cap. 23, *Oveja entre lobos*).
+Es una compra limpia, no un favor con condiciones ni una jugada de poder. Encaja con el patrón ya establecido de Kal invirtiendo en negocios legítimos conforme el suyo prospera (ver el Audi A7, segundo auto, en el Cap. 23, *Luces fuera*).
 
 ## La escena de compra — CANON DEL AUTOR (2026-08-29)
 

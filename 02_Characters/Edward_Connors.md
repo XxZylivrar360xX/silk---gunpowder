@@ -14,7 +14,7 @@
 
 ## Aspecto
 
-Barba y cabello blancos (canon del autor). Abrigo de lana, zapatos de piel color tabaco, la sonrisa de las fotos oficiales puesta incluso para el valet (DISEÑO, Cap. 6, *La pizza de calabaza*).
+Barba y cabello blancos (canon del autor). Abrigo de lana, zapatos de piel color tabaco, la sonrisa de las fotos oficiales puesta incluso para el valet (DISEÑO, Cap. 6, *Sólo una cena*).
 
 ## Apariciones
 
@@ -25,6 +25,6 @@ Barba y cabello blancos (canon del autor). Abrigo de lana, zapatos de piel color
 
 > **PENDIENTE:** origen de la enemistad con Rivers.
 >
-> **Nuevo cauce (2026-11-08):** *Bajo juramento* salió, así que la frase de Rivers sobre la facultad ya no está en la prosa. En el nuevo 40 (*Jurisdicción*, archivo 44) Chiara recuerda que eligió a Rivers por esa enemistad, y la frase se queda por decisión del autor. Connors tiene la llamada en domingo, sin secretaria, y cierra la puerta. [[98_Agent_Handoff/sessions/2026-11-08_claude_fase4_cap40_jurisdiccion]]
+> **Nuevo cauce (2026-11-08):** *Bajo juramento* salió, así que la frase de Rivers sobre la facultad ya no está en la prosa. En el nuevo 40 (*No puedo sacarlo*, archivo 44) Chiara recuerda que eligió a Rivers por esa enemistad, y la frase se queda por decisión del autor. Connors tiene la llamada en domingo, sin secretaria, y cierra la puerta. [[98_Agent_Handoff/sessions/2026-11-08_claude_fase4_cap40_jurisdiccion]]
 
 > **PENDIENTE:** relación con Rowe (aliado político, rival o ambas).

@@ -60,7 +60,7 @@ Michael importa menos por lo que hizo en escena que por el momento en que muere:
 
 Por ahora, su método narrativo es póstumo: deja una obligación que Kal acepta sin convertirla en negocio.
 
-### Sembrado por conducta (borrador Cap. 14 (archivo 14) — *La regla del teléfono*)
+### Sembrado por conducta (borrador Cap. 14 (archivo 14) — *Con miedo y todo*)
 
 En [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/14_La_Regla_Del_Telefono]], Michael aparece **sólo por lo que dejó**, nunca en recuerdo dramatizado ni en elegía:
 

@@ -31,7 +31,7 @@ Una ciudad que fue importante hace cuarenta años y no ha terminado de aceptarlo
 
 **Clima — CANON DEL AUTOR (2026-10-06, Oregon; ficción con licencia para jugar con el clima).** Cuatro estaciones marcadas:
 - **Primavera:** vegetación alta, cosechas y colores vivos. Se lleva las lluvias.
-- **Verano:** tanto calor que usar pantalón largo es un crimen. El calor entra de golpe en junio; un día gris de junio es una rareza (Cap. 17, *El día nublado*).
+- **Verano:** tanto calor que usar pantalón largo es un crimen. El calor entra de golpe en junio; un día gris de junio es una rareza (Cap. 17, *Día nublado*).
 - **Otoño:** hojas naranjas y amarillas que caen y el viento arrastra por las calles.
 - **Invierno:** lluvia y **temporadas de heladas**. **Regla de mundo:** el crimen usa las heladas para mover más mercancía por La Isla (marinas, costa). Se exponen las vidas al clima a cambio de más dinero.
 - Todo el año: niebla marina de madrugada que borra las calles bajas y no sube a la colina.

@@ -4,7 +4,7 @@ Estado: BORRADOR. Prosa DISEÑO pendiente de lectura del autor. Versión anterio
 Decisión del autor para esta reescritura (2026-11-07): Mei-Lin entra por la llamada de Bonnie con la opción (a): su nombre y «lo de allá arriba se deshizo», sin nombrar a Boone ni a la banda; Chiara no lo conecta con el robo del Monarch.
 Cambios DISEÑO de esta versión: (1) Mei-Lin duerme en el Patio y no quiere quedarse sola (T24: intuyó lo de Boone y busca protección; aquí no se dice): Mei-Lin no dice por qué. Es otra razón para llamar primero a Kal. (2) F1 se ajusta al nuevo 37: Chiara sabe quién llama a Kal así (la correa, desde Las Gemelas), pero él no le dijo para qué. Halbrook no se nombra.
 Costura de apertura RESUELTA (propagación de la Parte III, 2026-11-08): «Pasaron dos días» cuadra con el calendario A (jue 16 – vie 17). Aplicado (DECISIÓN DEL AUTOR, 2026-11-08): Kal supo que ella volvió por alguien del Monarch, no por ella (inciso en el mensaje del proveedor). Dependía del calendario que fije el nuevo 36 (Mesa 13 dic; Kal preso 19 dic; F1 es la víspera de Camp Alder).
-Costura de cierre: engancha con el nuevo 39 (*La puerta*, archivo 43, Camp Alder).
+Costura de cierre: engancha con el nuevo 39 (*Expediente sellado*, archivo 43, Camp Alder).
 Protagonista: Chiara Bellandi (POV único, tercera persona cercana). El rastreo de Bonnie ocurre fuera de página y llega por su llamada. Kal sólo en el penthouse, para F1.
 Personajes con diálogo: Chiara Bellandi, Bonnie García (por teléfono), Kal Mercer (en persona), la recepción del edificio.
 Mencionados: Mei-Lin Zhao, el hombre de Almendra Towing (sin identificar), quien sigue a Bonnie (sin identificar), Matteo, Fabrizio.

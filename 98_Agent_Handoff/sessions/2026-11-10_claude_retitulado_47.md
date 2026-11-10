@@ -23,3 +23,7 @@ En los archivos 44–48 la línea `Título: PENDIENTE …` de la metadata pasó 
 ## Pendiente
 
 - Aparte (no es de títulos): la prosa alterna «la Almendra» / «La Almendra» (~70 / ~30).
+
+## Propagación (2026-11-10, autor: «Adelante»)
+
+82 citas vigentes a títulos viejos actualizadas en 45 archivos (fichas, facciones, lugares, Hitos, Book_Map, mapa del cauce, planes, metadata de capítulos, INDEX). Se cambió sólo la cita anclada a su capítulo (número de 47 o archivo). Se conservan las históricas: «antes…», tachados, notas de retitulado, «se conserva el título», columnas «viejo» del mapa, encabezados de los planes de la Fase 4, reseñas y encargos fechados, `sessions/`, `archive/`, `13_Auditorias/`, `97_Supersedido/` y `Escenas_Eliminadas/`.

@@ -24,7 +24,7 @@ Objetivo no significa tema, sino lo que el lector está esperando ver resuelto.
 
 ## Contraste con capítulos que si lo resuelven
 
-- **Capítulo 6, *La pizza de calabaza*.** La mitad transcurre en la cena, y pasa por Sicilia, Walt, Afganistán, el casino y Palermo. No se siente larga porque todo es un solo acontecimiento: dos personas que empiezan a conocerse fuera de sus trabajos. Se lee como una noche completa.
+- **Capítulo 6, *Sólo una cena*.** La mitad transcurre en la cena, y pasa por Sicilia, Walt, Afganistán, el casino y Palermo. No se siente larga porque todo es un solo acontecimiento: dos personas que empiezan a conocerse fuera de sus trabajos. Se lee como una noche completa.
 - **El hospital del Capítulo 5.** Creció al darle espacio y se lee más rápido: el lector espera que aparezca la madre de Kyle, y todo lo demás ocurre dentro de esa espera.
 
 Longitud no equivale a pesadez.

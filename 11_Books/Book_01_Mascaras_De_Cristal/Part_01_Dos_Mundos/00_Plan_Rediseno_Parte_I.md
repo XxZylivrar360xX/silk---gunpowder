@@ -109,9 +109,9 @@ El canon deja PENDIENTE dónde y cómo se ve en el Libro I la coerción de Volpi
 
 | Cap. | Lo que cobra |
 |---|---|
-| Cap. 20 (archivo 22a) *La cifra* | El robo es Varek estudiando a los socios; La Almendra es «la variable nueva» (CANON, nunca en prosa). Cobra V-1, V-3 |
+| Cap. 20 (archivo 22a) *Algo más que dinero* | El robo es Varek estudiando a los socios; La Almendra es «la variable nueva» (CANON, nunca en prosa). Cobra V-1, V-3 |
 | 28–29 fusionado | «mi... amigo»: primera grieta pública de la unión invisible. Cobra U-1 |
-| Cap. 23 (archivo 24c) *Oveja entre lobos* | «¿Ella sale mucho los domingos?» (cobra P-3); Chiara: «Totalmente» (P-1, P-2); Kal piensa que vinieron por él (K-1, K-2). Tregua con Dario |
+| Cap. 23 (archivo 24c) *Luces fuera* | «¿Ella sale mucho los domingos?» (cobra P-3); Chiara: «Totalmente» (P-1, P-2); Kal piensa que vinieron por él (K-1, K-2). Tregua con Dario |
 | Cap. 26 (archivo 26) *Me encuentro bien* | Varek advierte a Chiara: algo no le cuadra. Cobra V-2 |
 | Cap. 28 (archivo 30) *Lleve equipaje* | La correa: Nadir y los papeles. Cobra K-1 |
 | Cap. 26 (archivo 26) *No hace falta* | «¿Te estás acostando con él?». El reloj llega a cero |

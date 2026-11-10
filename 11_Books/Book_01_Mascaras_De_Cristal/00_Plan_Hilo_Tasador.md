@@ -102,7 +102,7 @@ La cadena de antagonistas I–IV que propone el autor en la conversación encaja
 ### Preguntas que faltan
 
 1. **¿Chiara lo sabe?** Es la cara provisional del Patio. ¿Los muchachos aceptan a sus espaldas, con su visto bueno o contra su opinión?
-2. **Choque con el Cap. 52 *Intereses* (archivo 47, CANON DEL AUTOR):** Dario exige que el barrio pague con trabajos los intereses del retraso de las armas, y Chiara se niega para proteger a los suyos. Propuesta: el dinero de Crowe es lo que los muchachos aceptan **para pagarle a Dario** sin que el barrio trabaje para él. Así una decisión empuja a la otra. ¿Te late, o son dos frentes separados?
+2. **Choque con el Cap. 52 *Una cuenta abierta* (archivo 47, CANON DEL AUTOR):** Dario exige que el barrio pague con trabajos los intereses del retraso de las armas, y Chiara se niega para proteger a los suyos. Propuesta: el dinero de Crowe es lo que los muchachos aceptan **para pagarle a Dario** sin que el barrio trabaje para él. Así una decisión empuja a la otra. ¿Te late, o son dos frentes separados?
 3. **¿Dónde se ve?** ¿En los Caps. 51–52 (archivos 46–47, El Patio sin Kal) o en un capítulo propio?
 
 ## Tercera ronda (2026-11-01): análisis pedido por el autor (DISEÑO)
@@ -123,7 +123,7 @@ Le habla a Kal, nunca a ella. Vocabulario de mostrador: tasar, balanza, precio, 
 
 **Recomendación: en el Cap. 11 (archivo 09), pocos días después del levantón.** La disculpa irónica sólo tiene sentido con la muñeca todavía en la férula. Además, el villano principal necesita cara en el primer cuarto del libro, y cobran la aparición el Cap. 12 (archivo 10) (la cuota, «quién duerme en la casa común»), el Cap. 16 (archivo 17) (sospecha y barreta), el Cap. 18 (archivo 20) (la vulcanizadora) y el Cap. 23 (archivo 24c) (Kal descarta a Crowe en el corral porque «firmaba sus recados»: ahora lo vimos firmar). Si se retrasa a la Parte II o III, la Parte I vuelve a tener un villano fuera de escena, que es justo lo que se está corrigiendo. La segunda aparición en persona va en el arco sin Kal, con el trabajo para los muchachos.
 
-### Punto 5: choque con el Cap. 52 *Intereses* (archivo 47)
+### Punto 5: choque con el Cap. 52 *Una cuenta abierta* (archivo 47)
 
 En la prosa (BORRADOR, función CANON DEL AUTOR), el pago a Dario **son las armas** que sacaron de Camp Alder, y Dario rechaza el dinero: «No es dinero. Dinero tengo.» Lo que exige son trabajos del barrio; Chiara se niega y queda a deber un favor personal. Por eso **el dinero de Crowe no puede pagarle a Dario** sin reescribir esa escena. Opciones:
 
