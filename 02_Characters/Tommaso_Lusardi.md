@@ -6,7 +6,7 @@
 
 > **CANON DEL AUTOR (2026-11-07):** en el robo del Monarch, la valet que encuentra le da un hilo hacia Crowe, no hacia Dario (Dario sale de la cadena). Detalle: [[11_Books/Book_01_Mascaras_De_Cristal/Part_02_Con_Peores_Personas_He_Tratado/00_Plan_Robo_Monarch]].
 
-> **CANON DEL AUTOR (2026-10-31), coerción visible en el Libro I:** Tommaso le comenta a Chiara lo que quiere hacer con la misa para Alessio, y eso lleva a «¿todavía cabalgas los domingos?». Es la señal que el atacante del corral usa en el 31 («¿Ella sale mucho los domingos?»), sin dejarlo totalmente culpable. Aplicado 2026-11-01 (DISEÑO, espera lectura) en el Cap. 16 (archivo 15): misa en San Aurelio, aniversario en agosto, domingo a las once. Plan: [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/00_Plan_Rediseno_Parte_I]].
+> **CANON DEL AUTOR (2026-10-31), coerción visible en el Libro I:** Tommaso le comenta a Chiara lo que quiere hacer con la misa para Alessio, y eso lleva a «¿todavía cabalgas los domingos?». Es la señal que el atacante del corral usa en el 31 («¿Ella sale mucho los domingos?»), sin dejarlo totalmente culpable. Aplicado 2026-11-01 (DISEÑO, espera lectura) en el Cap. 15 (archivo 15): misa en San Aurelio, aniversario en agosto, domingo a las once. Plan: [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/00_Plan_Rediseno_Parte_I]].
 
 > **Numeración:** desde 2026-10-22 el Libro I usa numeración corrida definitiva (56 caps.); este documento cita la numeración anterior. Correspondencia en [[11_Books/Book_01_Mascaras_De_Cristal/00_Book_Map]].
 

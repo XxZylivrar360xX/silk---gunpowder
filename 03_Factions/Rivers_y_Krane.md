@@ -20,13 +20,13 @@ PENDIENTE. Arranque DISEÑO: que nadie del barrio vuelva a quedarse con un defen
 ## Estructura
 
 - **Margaret Rivers:** litigio civil y comercial. Le ganó a Krane el pleito de Hoover (Cap. 22, *Lo que cueste*). Se odia con [[02_Characters/Edward_Connors]] desde la facultad.
-- **Giancarlo Krane:** comercial y penal. Era el abogado de Hoover; Kal le dejó un número al cerrar el acuerdo (Cap. 25 (archivo 24)). Antes del bufete ya lleva asuntos comerciales de Chiara y, en el Cap. 49 (archivo 44), defiende a Kal como penalista.
+- **Giancarlo Krane:** comercial y penal. Era el abogado de Hoover; Kal le dejó un número al cerrar el acuerdo (Cap. 22 (archivo 24b)). Antes del bufete ya lleva asuntos comerciales de Chiara y, en el Cap. 40 (archivo 44), defiende a Kal como penalista.
 - **[[02_Characters/Marisol_Grayson]]:** discípula de Krane y una de las mejores penalistas del bufete; Kal le ofrece ser socia nominal. Se va cuando en *Voto de Ceniza* le llega la plaza de **paralegal en la fiscalía**, camino que unos veinte años después la lleva a fiscal de distrito, en la era de Elenna (CANON DEL AUTOR, 2026-10-02).
 
 ## Siembras en prosa
 
-- **Cap. 25 (archivo 24), *Bajo juramento*:** el número en media hoja de la libreta de Garrett; Krane se lo guarda. Es el precedente del bufete.
-- **Cap. 49 (archivo 44), *Jurisdicción*:** Krane, penalista de Kal; Connors: "El que perdió contra ella".
+- **Cap. 22 (archivo 24b), *Bajo juramento*:** el número en media hoja de la libreta de Garrett; Krane se lo guarda. Es el precedente del bufete.
+- **Cap. 40 (archivo 44), *Jurisdicción*:** Krane, penalista de Kal; Connors: "El que perdió contra ella".
 - **Nuevo cauce (2026-11-08):** el pleito de Hoover se cierra por acuerdo en mediación en el nuevo 22 (archivo 24b; *Bajo juramento* se retiró). *Jurisdicción* es el nuevo 40. La elección de Rivers por su enemistad con Connors se queda en el 40 (decisión del autor), sin escena de origen en el cauce. [[98_Agent_Handoff/sessions/2026-11-08_claude_fase4_cap40_jurisdiccion]]
 
 ## Relación con [[03_Factions/Almendra_Towing]]

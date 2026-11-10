@@ -1,6 +1,8 @@
 # Libro I — Máscaras de Cristal
 
 > **Numeración del 2026-11-01:** referencias operativas del Libro I actualizadas a 56 capítulos; los prefijos de archivo, lo tachado y las menciones «de entonces» conservan su significado histórico. Tabla en [[11_Books/Book_01_Mascaras_De_Cristal/00_Book_Map]].
+>
+> **Numeración de 47 (2026-11-10):** las referencias `Cap. N (archivo X)` del cuerpo pasaron a la numeración de 47 (nuevo cauce); las marcadas como históricas y los números sin archivo conservan su época. Equivalencias: [[01_Timeline/09_Equivalencias_Numeracion_Libro_I]].
 
 > **Fuente operativa:** [[11_Books/Book_01_Mascaras_De_Cristal/00_Book_Map]] (histórico en su división de cinco partes — ver nota de supersesión) · [[06_Relationships/Hitos]] · [[00_Biblia/00_Trilogy_Structure]] · [[06_Relationships/Kal_y_Chiara]] · [[06_Relationships/Momentos_de_Fractura]].
 >
@@ -22,14 +24,14 @@
 
 **Pregunta del libro:** ¿Pueden Kal y Chiara construir juntos un lugar que sea suyo? La respuesta es sí — se ponen a prueba como pareja bajo presión externa por primera vez (Halbrook, Varek, Camp Alder) y vuelven a elegirse. El libro no resuelve todavía si ese lugar puede provocar una guerra: eso pertenece a *Sombras de Poder*.
 
-El libro cierra con el reencuentro de Kal y Chiara tras Camp Alder — **"Ciao, bella"**, última línea del Cap. 55 — y con la llegada de Halbrook a San Aurelio en el Cap. 56 (archivo 50b), no con H1. ~~"Ciao, bella", Cap. 44~~ (superado 2026-10-01). Todo lo que sigue en este archivo ocurre **antes** de *Sombras de Poder* (Libro II), que a su vez precede a la Guerra de los Tres de *Voto de Ceniza* (Libro III) — ver [[00_Biblia/00_Trilogy_Structure]] y [[01_Timeline/01_Indice_Cronologico]].
+El libro cierra con el reencuentro de Kal y Chiara tras Camp Alder — **"Ciao, bella"**, última línea del Cap. 55 — y con la llegada de Halbrook a San Aurelio en el Cap. 47 (archivo 50b), no con H1. ~~"Ciao, bella", Cap. 44~~ (superado 2026-10-01). Todo lo que sigue en este archivo ocurre **antes** de *Sombras de Poder* (Libro II), que a su vez precede a la Guerra de los Tres de *Voto de Ceniza* (Libro III) — ver [[00_Biblia/00_Trilogy_Structure]] y [[01_Timeline/01_Indice_Cronologico]].
 
 ### Anclas de calendario
 
 - El Libro I abarca aproximadamente dieciséis meses: de mediados de septiembre del año 1 al **miércoles 5 de enero del año 3**. Fechas por capítulo y estaciones: [[13_Auditorias/Book_01_Mascaras_De_Cristal/Matriz_Temporal_Libro_I]].
 - En la elipsis del Cap. 12 (archivo 10) pasan la Navidad del año 1 por separado; el 1 de enero, cumpleaños de Kal, él abre el taller como cualquier otro día y no le dice a Chiara qué fecha es.
-- Los Caps. 30–35 (archivos 26–31) ocurren en septiembre del año 2.
-- Thanksgiving del año 2 cae el **25 de noviembre**, durante el Cap. 42 (archivo 37), en La Esquina de Mabel.
+- Los Caps. 26–29 (archivos 26 y 29–31) ocurren en septiembre del año 2.
+- Thanksgiving del año 2 cae el **25 de noviembre**, durante el Cap. 35 (archivo 38; antes archivo 37), en La Esquina de Mabel.
 - La Navidad del año 2, Año Nuevo y el cumpleaños de Kal (1 de enero) pasan durante su cautiverio; el detalle del arco final está en la tabla de abajo.
 
 **Brújula de las tres Partes — DISEÑO, no diálogo narrativo:**
@@ -66,7 +68,7 @@ Cuenta cómo Kal Mercer y Chiara Bellandi se conocen, se vuelven útiles el uno 
 - **H10** — el infarto de Héctor: terceros ya leen lo que Kal y Chiara evitan nombrar.
 - **H4** — el día nublado (la cita del golf; profundiza la elección, no la formaliza).
 - **H11** — el mirador: bolos, drift, el mirador (Kal habla por primera y única vez de Dale y Ruth), primer beso y primera intimidad en el penthouse.
-- *(sin ID, Cap. 21 (archivo 21))* — *El primer huésped*: la misma madrugada, Marisol llama llorando; Chiara entra en la familia de Kal. Le sigue *Grazie* (Cap. 22, archivo 21b), cierre de la Parte I.
+- *(sin ID, Cap. 18 (archivo 20; antes archivo 21))* — *El primer huésped*: la misma madrugada, Marisol llama llorando; Chiara entra en la familia de Kal. Le sigue *Grazie* (Cap. 22, archivo 21b), cierre de la Parte I.
 - ~~**H12** (Cap. 29), **H15** y la advertencia de Varek como gancho~~ — pasaron a la Parte II con el corte del 2026-10-29.
 
 ### Movimiento Kal
@@ -101,7 +103,7 @@ Nace aquí una idea que Parte III va a poner a prueba: **proteger al otro no con
 
 - *(sin ID, Caps. 23–24)* — el robo del Monarch: Chiara elige a Kal antes que a la policía y a los socios; el libro vuelve por Kal y la cifra oficial por la policía.
 - *(sin ID, Cap. 25)* — el litigio con Hoover: Rivers, Garrett y el testimonio inesperado de Tommaso; Villani Motors.
-- *(sin ID, Cap. 26 (archivo 24b))* — *Lo que cueste*: Nadir le pide a Chiara que se aleje; «si me llega el agua al cuello, me voy».
+- *(sin ID, Cap. 22 (archivo 24b))* — *Lo que cueste*: Nadir le pide a Chiara que se aleje; «si me llega el agua al cuello, me voy».
 - **H12** — el atentado / el corral (Caps. 27–28, archivos 24c–24d): ataque, rescate, tregua y vigilancia de Dario, parador, loft.
 - **H15** — la noche del jacuzzi (Cap. 29): máxima apertura deliberada. La advertencia nocturna de Varek abre el Cap. 30.
 - **H5 — San Aurelio** (Caps. 30–31): Halbrook convoca a Kal para reimponerle la correa (trabajar para él o reportar a Nadir a ICE); Kal sale de la ciudad; confrontación Varek–Chiara en el taller del norte (*"Trabajas para mí. No conmigo." / "¿Te estás acostando con él?" / "…entonces lo vas a hacer tú."*).
@@ -157,9 +159,9 @@ Dos procesos simultáneos:
 
 > **NUEVO CAUCE — PARTE III (2026-11-08; [[98_Agent_Handoff/sessions/2026-11-08_claude_propagacion_parte_III]]):** se ejecuta en el nuevo 33 ([[11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/35_Sin_Fecha_De_Regreso|Sin fecha de regreso]], POV Chiara). La **regla dura** (no concluir conspiración) se mantiene para Kal, que sólo conoce la versión de Elio. Se añaden la **llamada de Valenti** y la **custodia** de lo que Matteo guardaba para Italia (CANON). «Te veo ahora, amore mio» queda repartido: «Te veo ahora» lo dice Kal y «Aquí espero, amore mio» lo dice Chiara. **DECISIÓN DEL AUTOR (2026-11-08):** Matteo se fue a Italia **a investigar lo que en realidad pasó con Elio**. No lo causa el robo ni que Il Consorzio supiera de las rutas. **No se dice en el Libro I; se explica en el Libro IV.** Chiara no lo lee como cobro.
 
-> **Escrito en prosa (2026-09-20, Claude Code):** [[11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/35_Sin_Fecha_De_Regreso|Cap. 40 (archivo 35) — Sin fecha de regreso]], `Estado: BORRADOR`, abre la Parte III.
+> **Escrito en prosa (2026-09-20, Claude Code):** [[11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/35_Sin_Fecha_De_Regreso|Cap. 33 (archivo 35) — Sin fecha de regreso]], `Estado: BORRADOR`, abre la Parte III.
 
-> **CANON DEL AUTOR (2026-09-20).** Chiara llama a Kal mientras él está en [[03_Factions/Almendra_Towing|Almendra Towing]] con Nadir. Es la primera llamada telefónica a dos entre Kal y Chiara desde que formalizaron en "Mi pareja" (Cap. 39 (archivo 34), que fue a tres, con Nadir en altavoz, y explícitamente no dramatizó este ritual). Aquí nace:
+> **CANON DEL AUTOR (2026-09-20).** Chiara llama a Kal mientras él está en [[03_Factions/Almendra_Towing|Almendra Towing]] con Nadir. Es la primera llamada telefónica a dos entre Kal y Chiara desde que formalizaron en "Mi pareja" (Cap. 32 (archivo 34), que fue a tres, con Nadir en altavoz, y explícitamente no dramatizó este ritual). Aquí nace:
 >
 > **Kal → Chiara:** *"Ciao, bella."* — con su italiano deliberadamente malo, citando su vieja imitación burlona del *"Ciao, sono Chiara Bellandi"* de H2.
 > **Chiara → Kal:** *"Ciao, bellissimo."* — italiano impecable y deliberadamente marcado; subtexto privado: *mi acento sigue aquí.*
@@ -180,7 +182,7 @@ Chiara informa: **Matteo se fue abruptamente de San Aurelio** — su hermano **[
 
 ### H16 — El cumpleaños / la mudanza (con espejo nuevo)
 
-> **ESCRITO (2026-09-20, Claude Code, BORRADOR — reestructurado el mismo día con el arco completo dictado por el autor):** [[11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/36_Tambien_Las_Mananas|Cap. 41 (archivo 36) — También las mañanas]] (título provisional). Salto de POV puntual a Kal para el muelle de carga de Kingsley Field, la yegua escapada y la persecución (con susto cardíaco de Héctor, no infarto) que consume casi todo el día; vuelve al POV de Chiara para la llamada nocturna, la recogida en el Penthouse y la caminata con los ojos cubiertos hasta las caballerizas, con las campanas de Santa Lucía sonando al llegar.
+> **ESCRITO (2026-09-20, Claude Code, BORRADOR — reestructurado el mismo día con el arco completo dictado por el autor):** [[11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/36_Tambien_Las_Mananas|Cap. 34 (archivo 36) — También las mañanas]] (título provisional). Salto de POV puntual a Kal para el muelle de carga de Kingsley Field, la yegua escapada y la persecución (con susto cardíaco de Héctor, no infarto) que consume casi todo el día; vuelve al POV de Chiara para la llamada nocturna, la recogida en el Penthouse y la caminata con los ojos cubiertos hasta las caballerizas, con las campanas de Santa Lucía sonando al llegar.
 
 Mueve **[[06_Relationships/Hitos#H16 — El cumpleaños / la mudanza oficial|H16]]** a este punto (ya es su posición canon vigente desde 2026-09-20: sigue a la apertura de Parte III, ejecutado en el Cap. 41). Gana un espejo nuevo por el contexto: Matteo acaba de abandonar temporalmente una estructura a la que Chiara pertenecía; inmediatamente después, **Chiara consolida oficialmente el hogar que eligió con Kal** (los tres regalos: la yegua, la botella, la llave del loft). Tema: una institución empieza a perder gente mientras su vida elegida gana raíces.
 
@@ -190,7 +192,7 @@ Mueve **[[06_Relationships/Hitos#H16 — El cumpleaños / la mudanza oficial|H16
 
 ### Cap. 43 — Al revés (título provisional): la fiesta del yate, Roma Atrii, H13 y la activación de Palermo
 
-> **ESCRITO (2026-09-20, Claude Code, BORRADOR, encargo detallado del autor).** [[11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/38_Al_Reves|Cap. 43 (archivo 38)]], POV único de Chiara con salto controlado a Kal en el aeropuerto. Curva: fiesta coral en un yate de La Isla (Monarch + Patio + Departamento + Dario + Fabrizio + Tommaso + Marisol; Matteo ausente, sentido en el brindis) → Blake Stanton vuelve como invitado legítimo del capitán, Chiara cierra ("Terminé contigo por ti") y lo hace acompañar a tierra; Kal interviene sólo después ("Yo lo acompaño" / "Ella me lo contará si quiere" / "Buenas noches, Stanton") → proa: Chiara le cuenta lo de Blake → salón: **Kal toca *Träumerei* (Schumann)** — primera revelación en prosa del piano, origen PENDIENTE → **Roma Atrii pagado**: ROMA al revés = AMOR; "Atrii" = **"Mi amor del patio"**, cifrado privado de Chiara; Kal repite "Del patio" y se lo guarda → **H13 ejecutado como recuerdo dramatizado** (iglesia, dos hombres, casa neutral, "signora Lusardi" / "—Ardizzone.", acusación, negación a medias, pañuelo con "C", bala, línea canon) → pañuelo y bala mostrados físicamente; Kal recibe la bala → Chiara: "Me queda una noche antes de irme" (CANON DEL AUTOR 2026-10-04) a Palermo, "no sé si voy a regresar íntegra"; la fiesta era también despedida privada → Kal: **"Voy contigo"** (**H17 activado**) → Kingsley Field, ~4:00 a. m., llamada de Marisol con las líneas canon y la última línea "—Espera... ¿cómo que estamos?".
+> **ESCRITO (2026-09-20, Claude Code, BORRADOR, encargo detallado del autor).** [[11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/38_Al_Reves|Cap. 35 (archivo 38)]], POV único de Chiara con salto controlado a Kal en el aeropuerto. Curva: fiesta coral en un yate de La Isla (Monarch + Patio + Departamento + Dario + Fabrizio + Tommaso + Marisol; Matteo ausente, sentido en el brindis) → Blake Stanton vuelve como invitado legítimo del capitán, Chiara cierra ("Terminé contigo por ti") y lo hace acompañar a tierra; Kal interviene sólo después ("Yo lo acompaño" / "Ella me lo contará si quiere" / "Buenas noches, Stanton") → proa: Chiara le cuenta lo de Blake → salón: **Kal toca *Träumerei* (Schumann)** — primera revelación en prosa del piano, origen PENDIENTE → **Roma Atrii pagado**: ROMA al revés = AMOR; "Atrii" = **"Mi amor del patio"**, cifrado privado de Chiara; Kal repite "Del patio" y se lo guarda → **H13 ejecutado como recuerdo dramatizado** (iglesia, dos hombres, casa neutral, "signora Lusardi" / "—Ardizzone.", acusación, negación a medias, pañuelo con "C", bala, línea canon) → pañuelo y bala mostrados físicamente; Kal recibe la bala → Chiara: "Me queda una noche antes de irme" (CANON DEL AUTOR 2026-10-04) a Palermo, "no sé si voy a regresar íntegra"; la fiesta era también despedida privada → Kal: **"Voy contigo"** (**H17 activado**) → Kingsley Field, ~4:00 a. m., llamada de Marisol con las líneas canon y la última línea "—Espera... ¿cómo que estamos?".
 >
 > **Orden de Parte III (CANON DEL AUTOR, actualizado tras el Cap. 43):** H13 y Palermo preceden a la pesquisa de Matteo y a F1. F1 sigue sin ID de hito y no se resuelve antes de que Kal entre a Camp Alder. La reparación queda para el Libro II.
 
@@ -227,7 +229,7 @@ Kal pregunta a Chiara por Matteo y ella responde *"Nada"*. Al reconstruir que le
 
 > **SUPERSESIÓN (CANON DEL AUTOR 2026-10-31; escrito 2026-11-01):** H13 es ahora capítulo propio al cierre de la Parte I, en julio A2 (Cap. 22, archivo 21b), antes del corral: [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/21b_Grazie]]. Valenti en persona en Cuesta Bonita. En el 43 (archivo 38) Chiara sólo le enseña a Kal el pañuelo y la bala, meses después. Lo de abajo sobre la intercepción saliendo de misa y su posición queda superado.
 
-> **ESCRITO (2026-09-20)** como recuerdo dramatizado dentro de [[11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/38_Al_Reves|Cap. 43 (archivo 38)]] — ver sección de arriba. Pañuelo y bala mostrados físicamente a Kal; su decisión de acompañarla a Palermo queda en el mismo capítulo.
+> **ESCRITO (2026-09-20)** como recuerdo dramatizado dentro de [[11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/38_Al_Reves|Cap. 35 (archivo 38)]] — ver sección de arriba. Pañuelo y bala mostrados físicamente a Kal; su decisión de acompañarla a Palermo queda en el mismo capítulo.
 
 **[[06_Relationships/Hitos#H13 — El pañuelo|H13]]**: Il Consorzio intercepta a Chiara saliendo de la iglesia; el pañuelo con la inicial "C" y la bala envuelta; *"Pon tu casa en orden, Sra. Ardizzone, o hablaremos de este Mercer tuyo."* Chiara vuelve a ser tratada como Ardizzone. Función dentro de Parte III: mientras pierde personas de San Aurelio, una estructura antigua pretende reclamarla precisamente mediante el apellido del que huyó. No reducir Parte III a "quién te nombra" — es una presión dentro del arco mayor de aislamiento e instituciones. Ver el hilo de por qué Kal insiste en acompañarla a Palermo (su propia investigación nunca cerrada de H12).
 

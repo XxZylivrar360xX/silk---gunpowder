@@ -45,10 +45,10 @@ En *Sombras de Poder* (Libro II) Chiara tendrá un **gato negro**, y Rocco y el 
 - [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/05c_La_Pizza_De_Calabaza|Cap. 6 (archivo 05c)]]: primera descripcion; Kal le ensena la pata para la cita; lo lleva a Il Gelsomino; en la acera, Rocco se va con Chiara.
 - Cap. 6: Danny se presenta como "el del perro".
 - [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/09_La_Balanza|Cap. 11 (archivo 09)]]: el cuento de Connors y el zapato ("ya era un rottweiler"); a los pies de Danny en la casa comun.
-- [[11_Books/Book_01_Mascaras_De_Cristal/Escenas_Eliminadas/24_Bajo_Juramento_Version_2026-11-08|Cap. 25 (archivo 24)]] (siembra, DISEÑO): custodia a Garrett y las carpetas sobre la manta de Russ; Danny: "te desgarra el cuello".
-- [[11_Books/Book_01_Mascaras_De_Cristal/Part_02_Con_Peores_Personas_He_Tratado/30_Media_Baraja|Cap. 34 (archivo 30)]] (siembra, DISEÑO): come del rin de Walt en la coda de El Patio.
-- [[11_Books/Book_01_Mascaras_De_Cristal/Part_02_Con_Peores_Personas_He_Tratado/31_Vamos_A_Casa|Cap. 35 (archivo 31)]]: en el lago, Danny lo detiene para que no se meta al agua.
-- [[11_Books/Book_01_Mascaras_De_Cristal/Part_02_Con_Peores_Personas_He_Tratado/32_Linea_Directa|Cap. 36 (archivo 32)]] (siembra, DISEÑO): Nadir le avienta la llave Allen; se la devuelve y Nadir no la recoge.
-- [[11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/46_Llaves|Cap. 51 (archivo 46)]] (siembra, DISEÑO): panza arriba con Chiara en El Patio sin Kal.
+- [[11_Books/Book_01_Mascaras_De_Cristal/Escenas_Eliminadas/24_Bajo_Juramento_Version_2026-11-08|*Bajo juramento* (archivo 24, retirado)]] (siembra, DISEÑO): custodia a Garrett y las carpetas sobre la manta de Russ; Danny: "te desgarra el cuello".
+- [[11_Books/Book_01_Mascaras_De_Cristal/Part_02_Con_Peores_Personas_He_Tratado/30_Media_Baraja|Cap. 28 (archivo 30)]] (siembra, DISEÑO): come del rin de Walt en la coda de El Patio.
+- [[11_Books/Book_01_Mascaras_De_Cristal/Part_02_Con_Peores_Personas_He_Tratado/31_Vamos_A_Casa|Cap. 29 (archivo 31)]]: en el lago, Danny lo detiene para que no se meta al agua.
+- [[11_Books/Book_01_Mascaras_De_Cristal/Part_02_Con_Peores_Personas_He_Tratado/32_Linea_Directa|Cap. 30 (archivo 32)]] (siembra, DISEÑO): Nadir le avienta la llave Allen; se la devuelve y Nadir no la recoge.
+- [[11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/46_Llaves|Cap. 42 (archivo 46)]] (siembra, DISEÑO): panza arriba con Chiara en El Patio sin Kal.
 
 **Regla de escritura (DISEÑO):** el narrador no explica qué significa cada objeto (la casa, la manta, el rin, el collar). Aparecen cuando la escena pasa por ellos. Rocco nunca se vuelve un recurso para mostrar ternura: es un perro.

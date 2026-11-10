@@ -24,7 +24,7 @@ En calma: capataz, inventario, nombres, portón. Bajo presión: más breve, no m
 
 ## Orden de la ternura con Chiara — regla dura (2026-10-04, decisión del autor)
 
-Con Chiara despierta, Héctor **no confiesa**: pregunta, gruñe, acepta la silla verde y se queja. No le dice lo que ella siente ni le da consejos de vida. Lo que siente por ella lo dice **una sola vez y sin testigo**: el monólogo a Chiara dormida del Cap. 27 (archivo 24c) (canon). Antes del 24c, la ternura sólo se ve en conducta (deja que le gane una discusión, usa el catálogo). Lo de su mujer se lo dice a Kal ("Cuatro letras", 16), no a ella.
+Con Chiara despierta, Héctor **no confiesa**: pregunta, gruñe, acepta la silla verde y se queja. No le dice lo que ella siente ni le da consejos de vida. Lo que siente por ella lo dice **una sola vez y sin testigo**: el monólogo a Chiara dormida del Cap. 24 (archivo 24d; antes archivo 24c) (canon). Antes del 24c, la ternura sólo se ve en conducta (deja que le gane una discusión, usa el catálogo). Lo de su mujer se lo dice a Kal ("Cuatro letras", 16), no a ella.
 
 ## Vocabulario
 

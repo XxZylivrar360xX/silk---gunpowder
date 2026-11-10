@@ -4,7 +4,7 @@
 
 *Seda y Pólvora — Ficha de Personaje*
 
-> **Ficha creada (2026-09-18)**, a partir de canon disperso en [[02_Characters/Chiara_Bellandi]] y de las dos escenas de infancia en prosa: la tina del [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/02_Demasiado_Listo|Cap. 2 (archivo 02)]] y la noche del jacuzzi en el [[11_Books/Book_01_Mascaras_De_Cristal/Part_02_Con_Peores_Personas_He_Tratado/25_Libros_Abiertos|Cap. 29 (archivo 25)]].
+> **Ficha creada (2026-09-18)**, a partir de canon disperso en [[02_Characters/Chiara_Bellandi]] y de las dos escenas de infancia en prosa: la tina del [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/02_Demasiado_Listo|Cap. 2 (archivo 02)]] y la noche del jacuzzi en el [[11_Books/Book_01_Mascaras_De_Cristal/Part_02_Con_Peores_Personas_He_Tratado/25_Libros_Abiertos|Cap. 25 (archivo 25)]].
 
 **Nacionalidad:** italiana (Palermo, Sicilia)
 **Edad al morir:** **47 años** (canónico, fijado por el autor 2026-09-18) — Chiara tenía diecinueve años
@@ -65,7 +65,7 @@ Recuerdos de infancia en el POV de Chiara, repartidos el 2026-10-18 (orden del a
 
 ### La vela de Palermo
 
-*En [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/13_Auster|Cap. 14 (archivo 13)]], la noche de* domestici eius*, antes de que Chiara elija la lámpara en lugar de la vela (movida desde el Cap. 2 el 2026-10-18).*
+*En [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/13_Auster|Cap. 13 (archivo 12; antes archivo 13)]], la noche de* domestici eius*, antes de que Chiara elija la lámpara en lugar de la vela (movida desde el Cap. 2 el 2026-10-18).*
 
 En una iglesia de Palermo —olor a cera derretida y piedra fría, velas votivas temblando sobre metal—, Marta le pone a Chiara una moneda en la palma y le enseña a encender un fósforo sin quemarse los dedos, frente al altar de un santo cuyo nombre Chiara ya no recuerda. Con un rosario enredado entre los dedos, sin rezarlo, sólo pasándolo, responde a la pregunta de su hija sobre si el deseo se va a cumplir:
 
@@ -84,13 +84,13 @@ Corrado espera de pie al fondo del pasillo, con las manos en los bolsillos, "la 
 > *"Un giorno, bambina mia, capirai il prezzo di reggere il mondo sulle tue spalle. Ma non dimenticare mai: la chiave è non farlo da sola."*
 > Algún día, mi amada niña, entenderás el precio que tiene sostener el mundo en tus hombros. Solo no olvides que la clave está en no hacerlo sola.
 
-De niña, Chiara la leyó como una frase sobre crecer. Se la dice a Kal por primera vez en el [[11_Books/Book_01_Mascaras_De_Cristal/Part_02_Con_Peores_Personas_He_Tratado/25_Libros_Abiertos|Cap. 29 (archivo 25) (el jacuzzi)]], y es más de lo que le ha contado a nadie en San Aurelio. **Ironía que el texto no explicita:** Chiara construye poder exactamente como la frase advertía — sola. Ver [[02_Characters/Chiara_Bellandi]], "La última historia de Marta".
+De niña, Chiara la leyó como una frase sobre crecer. Se la dice a Kal por primera vez en el [[11_Books/Book_01_Mascaras_De_Cristal/Part_02_Con_Peores_Personas_He_Tratado/25_Libros_Abiertos|Cap. 25 (archivo 25) (el jacuzzi)]], y es más de lo que le ha contado a nadie en San Aurelio. **Ironía que el texto no explicita:** Chiara construye poder exactamente como la frase advertía — sola. Ver [[02_Characters/Chiara_Bellandi]], "La última historia de Marta".
 
 ### La muerte
 
 Marta muere de un fallo cardíaco cuando Chiara tiene diecinueve años — "silencioso, sin aviso previo, de los que nadie ve venir porque nadie estaba vigilando ese corazón en particular". Ese mismo año Chiara deja de firmar como Ardizzone y adopta en exclusiva **Bellandi**, el apellido de su madre. No es un rechazo a Corrado: es quedarse con la parte de la herencia que quería.
 
-El aniversario de su muerte es una fecha que Chiara carga sola en San Aurelio, sin que nadie a su alrededor la sepa: no hay tumba que visitar. **CANON DEL AUTOR (2026-09-26):** sí hay misa — ese día Chiara va sola a una parroquia donde nadie la conoce, no le pide nada a Dios y no llora; va para estar cerca de su madre, y ya ahí, de Dios (Cap. 9). Es la primera siembra de la fe de Chiara que cobra el monólogo del Cap. 44. Y no hay, tampoco, un cuerpo de Corrado que descansar junto al suyo — otra cuenta que Chiara paga sola, cada año. Ver [[11_Books/Book_01_Mascaras_De_Cristal/Part_02_Con_Peores_Personas_He_Tratado/24c_El_Corral|Cap. 27 (archivo 24c)]].
+El aniversario de su muerte es una fecha que Chiara carga sola en San Aurelio, sin que nadie a su alrededor la sepa: no hay tumba que visitar. **CANON DEL AUTOR (2026-09-26):** sí hay misa — ese día Chiara va sola a una parroquia donde nadie la conoce, no le pide nada a Dios y no llora; va para estar cerca de su madre, y ya ahí, de Dios (Cap. 9). Es la primera siembra de la fe de Chiara que cobra el monólogo del Cap. 44. Y no hay, tampoco, un cuerpo de Corrado que descansar junto al suyo — otra cuenta que Chiara paga sola, cada año. Ver [[11_Books/Book_01_Mascaras_De_Cristal/Part_02_Con_Peores_Personas_He_Tratado/24c_El_Corral|Cap. 23 (archivo 24c)]].
 
 > **CANON DEL AUTOR:** el origen cardíaco de la muerte de Marta es la razón real detrás de lo insistente que Chiara se pone con [[02_Characters/Hector_Navarro]] después de su infarto ([[06_Relationships/Hitos]], H10) — no es preocupación genérica: ya vivió perder a alguien así una vez, sin poder hacer nada. Por eso le exige que tome su medicamento y no se salte revisiones. Restricción de diseño: ella no tiene por qué explicarle esto a Héctor con detalle — se filtra en la insistencia, no en un discurso.
 

@@ -33,7 +33,7 @@ Su método afectivo es la paciencia sin exigencia: pregunta por el casino, por S
 
 Amigo de **[[02_Characters/Corrado_Ardizzone]]**, de origen previo a la redada. Cuando la familia de Chiara se derrumbó dos veces —la muerte de Marta por un fallo cardíaco, y después la caída pública de Corrado tras la redada federal— fue Ettore quien la crió en todo menos el nombre.
 
-**Presente en el momento de la caída de Corrado.** En el recuerdo que Chiara comparte con Kal en [[11_Books/Book_01_Mascaras_De_Cristal/Part_02_Con_Peores_Personas_He_Tratado/25_Libros_Abiertos|Cap. 29 (archivo 25) ("Libros abiertos")]], la última vez que vio a su padre, Corrado le dijo a ella *"Tesoro mio, no temas, yo me hago cargo de esto"* — y **le susurró a Ettore otras cosas que ella no pudo escuchar.** Es el único dato objetivo del vault que sitúa a Ettore físicamente en la escena de la redada, recibiendo del propio Corrado una comunicación que Chiara nunca oyó.
+**Presente en el momento de la caída de Corrado.** En el recuerdo que Chiara comparte con Kal en [[11_Books/Book_01_Mascaras_De_Cristal/Part_02_Con_Peores_Personas_He_Tratado/25_Libros_Abiertos|Cap. 25 (archivo 25) ("Libros abiertos")]], la última vez que vio a su padre, Corrado le dijo a ella *"Tesoro mio, no temas, yo me hago cargo de esto"* — y **le susurró a Ettore otras cosas que ella no pudo escuchar.** Es el único dato objetivo del vault que sitúa a Ettore físicamente en la escena de la redada, recibiendo del propio Corrado una comunicación que Chiara nunca oyó.
 
 > **Por qué importa, sin resolverlo:** esa frase deja abierta, sin confirmar ni negar, la posibilidad de que Ettore sepa o haya sabido más de lo que Chiara cree — incluyendo, potencialmente, que Corrado sigue vivo (ver [[02_Characters/Corrado_Ardizzone]], verdad del autor). El vault no debe resolver esto por conveniencia; es material que el autor puede cobrar más adelante.
 
@@ -66,7 +66,7 @@ No tiene un método narrativo activo: no opera, no investiga, no protege física
 
 > **PENDIENTE:** apellido, edad, oficio, apariencia física.
 > **PENDIENTE:** qué tan al tanto está de a qué se dedica realmente el Consorcio y la familia Ardizzone.
-> **RESUELTO (2026-10-04):** sabe que Corrado vive y opera por él en Palermo. **PENDIENTE:** qué le susurró en la redada (Cap. 29 (archivo 25)); si Chiara llega a saberlo y cuándo.
+> **RESUELTO (2026-10-04):** sabe que Corrado vive y opera por él en Palermo. **PENDIENTE:** qué le susurró en la redada (Cap. 25 (archivo 25)); si Chiara llega a saberlo y cuándo.
 > **PENDIENTE:** si aparece en página en algún punto de la trilogía, o si se queda deliberadamente fuera de escena como voz en las cartas.
 > **PENDIENTE:** si tiene algún papel real (no sólo supuesto) en la protección de Elenna en Italia.
 > **PENDIENTE:** qué sabe o sospecha de la muerte de Alessio Lusardi, si algo.

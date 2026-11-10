@@ -25,7 +25,7 @@ Parte del [[11_Books/Book_01_Mascaras_De_Cristal/00_Plan_Nuevo_Cauce]] (el Tasad
 **CANON DEL AUTOR (2026-10-28):** el Cap. 25 *Causalidad* (archivo `22`; el huésped ebrio, el auto contra la farola) queda **sustituido** por dos capítulos, archivos `22a` y `22b`. Es el primer trabajo que involucra a la banda completa y el primero que escala en complejidad hasta arriesgar la exhibición de algo. La numeración corrida pasa a **58 capítulos** (todo lo posterior sube +1). La renumeración se hace en una pasada aparte, cuando exista la prosa, para no mover el Book_Map dos veces. La prosa vieja se conserva en el archivo `22` hasta entonces; después se borra (queda en el historial de git, según [[97_Supersedido/README]]). **Aplicado 2026-10-28:** numeración de 58 en Book_Map, encabezados y `CHAPTER_STATUS`; archivo `22_Causalidad.md` retirado (último commit con la prosa: `085b3fc`).
 
 **Lo que hay que reubicar del 25 viejo:**
-- Charles, Eagle Eye y Ferreyra (el Cap. 27 (archivo 24c) *El corral* cobra «Kal lo conocía de oídas»): Kal tiene que oír de Ferreyra en el 22a o el 22b.
+- Charles, Eagle Eye y Ferreyra (el Cap. 23 (archivo 24c) *El corral* cobra «Kal lo conocía de oídas»): Kal tiene que oír de Ferreyra en el 22a o el 22b.
 - El «recargo nocturno» pasa a ser la **tarifa habitual** que Chiara le ofrece a Nadir (DISEÑO).
 - La línea de voz de Dario «Sin que llegara a los socios… Interesante» no puede sobrevivir literal, porque ahora los socios están en el cuarto. **CANON DEL AUTOR (2026-10-28):** la sustituye «—Con su proveedor —repitió, despacio, como probando la frase—. Interesante.»
 - Funciones de los beats 16 y 17: un trabajo sucio resuelto entre los dos y Dario que nota una variación. Siguen cumplidas, a mayor escala.
@@ -49,7 +49,7 @@ Parte del [[11_Books/Book_01_Mascaras_De_Cristal/00_Plan_Nuevo_Cauce]] (el Tasad
 **CANON DEL AUTOR:** la caja fuerte del despacho de Matteo, el robo **captado en cámaras**. Dentro, entre efectivo, están **las rutas de importación al país que usa Il Consorzio**: «lo menos valioso pero lo más peligroso».
 
 - **Para los ladrones** no valen nada. Las encuentran en el doble fondo y entienden que, si estaban escondidas, alguien pagará por ellas.
-- **Si las ve la policía**, es asunto federal. **Si Il Consorzio sabe que salieron de la caja**, Matteo queda marcado (DISEÑO: enlaza, sin causarla, con su salida del Cap. 40 (archivo 35)). **DECISIÓN DEL AUTOR (2026-11-08):** la salida no la causa el robo; Matteo se va a investigar lo que en realidad pasó con Elio y eso se explica en el Libro IV. Chiara custodia el libro de las rutas desde el nuevo 33.
+- **Si las ve la policía**, es asunto federal. **Si Il Consorzio sabe que salieron de la caja**, Matteo queda marcado (DISEÑO: enlaza, sin causarla, con su salida del Cap. 33 (archivo 35)). **DECISIÓN DEL AUTOR (2026-11-08):** la salida no la causa el robo; Matteo se va a investigar lo que en realidad pasó con Elio y eso se explica en el Libro IV. Chiara custodia el libro de las rutas desde el nuevo 33.
 - **Quién sabe qué (DISEÑO):** solo Matteo y Chiara saben que estaban ahí. Tommaso cree que fue efectivo. Como delegado Lusardi, tendría que reportarlo a La Mesa: por eso Chiara lo esquiva. Dario lo sabe porque lo mandó.
 - **Por qué las tiene un Bellacorte (DISEÑO):** el capital lo pone Bellacorte y Matteo guarda la copia local.
 - Las cámaras impiden negar el robo; solo se puede **achicar**. Chiara decide qué cifra existe antes de que llegue la patrulla (la central de alarmas de Eagle Eye ya llamó). Ése es el reloj del 22a.
@@ -59,7 +59,7 @@ Parte del [[11_Books/Book_01_Mascaras_De_Cristal/00_Plan_Nuevo_Cauce]] (el Tasad
 **CANON DEL AUTOR:** Dario organiza el robo para estudiar a los socios. La entrada de La Almendra es una variable nueva para él. **Se queda con una copia de las rutas.**
 
 **DISEÑO:**
-- Dario → [[02_Characters/Silas_Crowe|Crowe]] → la valet (Mei-Lin) → dos enmascarados de los **Devil Splicers**. Ni los ladrones ni Mei-Lin saben quién está arriba de Crowe. Es el mismo «clima» que en el Cap. 18 (archivo 17) empujó a Nadir y Danny a la bodega de Irene (ficha de Dario).
+- Dario → [[02_Characters/Silas_Crowe|Crowe]] → la valet (Mei-Lin) → dos enmascarados de los **Devil Splicers**. Ni los ladrones ni Mei-Lin saben quién está arriba de Crowe. Es el mismo «clima» que en el Cap. 16 (archivo 17) empujó a Nadir y Danny a la bodega de Irene (ficha de Dario).
 - **Motivo:** su acuerdo con Il Consorzio dice que «podrían funcionar sin el otro». Unas rutas guardadas por un Bellacorte, sin pasar por su puerto, son la prueba. Las fotografía antes del rescate y deja que el original vuelva: oficialmente no se perdió nada.
 - **Su señal en prosa** (sustituye a «responde mal cuando le roban», que no tiene base escrita): **la pregunta que no hace.** Todos preguntan qué había en la caja y cuánto; Dario pregunta solo por gente (quién llamó a quién, quién lo resolvió). **Tommaso lo nota.** Siembra el frente funcional Tommaso–Chiara contra Dario del II.
 
@@ -67,14 +67,14 @@ Parte del [[11_Books/Book_01_Mascaras_De_Cristal/00_Plan_Nuevo_Cauce]] (el Tasad
 
 **CANON DEL AUTOR:**
 - La banda del norte de Mei-Lin y Bonnie es **Los Devil Splicers**, distribuidores de heroína en **Old Road Town (O.R.T.)**, el pueblo viejo tras la montaña del norte, a 15 minutos del centro.
-- **Mei-Lin es «el del billar» del Cap. 18 (archivo 17).** Danny **mintió** al decir «lo conozco de vista» para cubrirla: ella le consigue droga.
+- **Mei-Lin es «el del billar» del Cap. 16 (archivo 17).** Danny **mintió** al decir «lo conozco de vista» para cubrirla: ella le consigue droga.
 - Aquí entra al radar de Tommaso como fuente.
 
 **DISEÑO:**
 - Mei-Lin trabaja de **valet nocturna** para la contratista del Monarch; por eso estaba en el billar de atrás. Les da a los suyos hora, turno y ángulos muertos de cámara. La combinación viene de arriba, de Dario vía Crowe; ella no sabe de dónde.
 - Bonnie no participa ni sabe nada (su canon exige que no sea cómplice consciente).
 - **La banda se deshace** por el 22b: dos detenidos, su mercancía incautada, Lucía mirando O.R.T. y el nombre en boca de Irene. Para el Cap. 35 (archivo 38; antes 43 en numeración de 60) «ya no existía». **CANON DEL AUTOR (2026-10-28):** Roy Boone deserta: tras la detención desaparece de O.R.T. (narcóticos encuentra su casa vacía a las seis de la mañana) y, sin líder, la banda se deshace. Mei-Lin y Bonnie llegan después al patio del hombre que, creen, intentó salvar a los suyos.
-- **Danny:** cuando la caída de la banda corte su suministro, el deterioro se nota. Queda abierto para F2 (PENDIENTE: «qué hecho delata la filtración»; la mentira del Cap. 18 (archivo 17) es candidata).
+- **Danny:** cuando la caída de la banda corte su suministro, el deterioro se nota. Queda abierto para F2 (PENDIENTE: «qué hecho delata la filtración»; la mentira del Cap. 16 (archivo 17) es candidata).
 
 ## 22a — La noche del robo
 
@@ -112,7 +112,7 @@ Parte del [[11_Books/Book_01_Mascaras_De_Cristal/00_Plan_Nuevo_Cauce]] (el Tasad
 > - **Sin cambio:** el auto de fuga (Monte Carlo con placas de un Buick dado de baja, la calavera en la palanca), el consejo «Llévense todo… No vuelvan», que la intención fue siempre entregarlos y que Kal no queda como soplón.
 
 1. **Nadir contra Chiara**, de usted. **CANON DEL AUTOR:** Nadir quiere un pago para los muchachos; Chiara ofrece la tarifa habitual con Kal; el choque es que el proveedor es Kal, no la banda.
-   - DISEÑO, raíz en el Cap. 18 (archivo 17): ahí Irene preguntó «¿Alguien les preguntó si querían jugarse la cárcel?» y Kal dijo «No». Nadir se niega a volver a ser una partida en la cuenta de otro. Kal negocia y esta vez les pregunta: crecimiento de liderazgo.
+   - DISEÑO, raíz en el Cap. 16 (archivo 17): ahí Irene preguntó «¿Alguien les preguntó si querían jugarse la cárcel?» y Kal dijo «No». Nadir se niega a volver a ser una partida en la cuenta de otro. Kal negocia y esta vez les pregunta: crecimiento de liderazgo.
    - Nadir tiene además un motivo personal: buscan a quien «nos pasó la cuenta a nosotros».
 2. **Danny lee el auto del video** (escape, rines, cómo dobla) y lo ubica en O.R.T.: Devil Splicers. Cuando Kal pregunta si el del billar es de ellos, Danny deja que lo crea, y Kal concluye que fue uno de los dos. Segunda mentira por omisión.
 3. **Kal, negociador.** **CANON DEL AUTOR:** Kal entra como negociador para cazar a los ladrones. DISEÑO: por teléfono les ofrece **salida, no cárcel** («el casino no los quiere presos; los presos hablan»). Lo creen porque todos saben que el Monarch no quiere policía: esa necesidad del casino es su coartada.

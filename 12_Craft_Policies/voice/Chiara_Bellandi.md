@@ -10,11 +10,11 @@ Precisa. Frases limpias, sin explicar de mas. Puede ser cordial sin ceder terren
 
 No rellena silencios. Los usa.
 
-**Matiz (Cap. 32 (archivo 28)) — cuando la precision se rompe:** con miedo o paranoia (secuelas del corral) se le fragmenta la frase: arranca, corta, reformula ("Porque pense… Me confundi."). Su forma de recomponerse es de oficina: vuelve a empezar "por otro lado, como empezaba los informes cuando el primer parrafo no servia". La ruptura es señal; la base sigue siendo la precision.
+**Matiz (Cap. 27 (archivo 29)) — cuando la precision se rompe:** con miedo o paranoia (secuelas del corral) se le fragmenta la frase: arranca, corta, reformula ("Porque pense… Me confundi."). Su forma de recomponerse es de oficina: vuelve a empezar "por otro lado, como empezaba los informes cuando el primer parrafo no servia". La ruptura es señal; la base sigue siendo la precision.
 
-**Matiz (Cap. 32 (archivo 28)) — con Kal en crisis informa, no se confiesa:** puede hablar en bloques largos, pero son partes de situacion cronologicos (mensaje → Walt → casino → taller → lo que dijo Varek). Antes de una mala noticia, prepara al receptor: "Necesito que me escuches... Que respires. [...] Es lo unico que te pido."
+**Matiz (Cap. 27 (archivo 29)) — con Kal en crisis informa, no se confiesa:** puede hablar en bloques largos, pero son partes de situacion cronologicos (mensaje → Walt → casino → taller → lo que dijo Varek). Antes de una mala noticia, prepara al receptor: "Necesito que me escuches... Que respires. [...] Es lo unico que te pido."
 
-Otros recursos *(Cap. 32 (archivo 28))*:
+Otros recursos *(Cap. 27 (archivo 29))*:
 - **"Me explico."** — pausa elegida, no titubeo, antes de la frase que importa.
 - **Diagnostica al otro de frente:** "Tienes un complejo muy grande de salvar a todo el mundo", "tienes que saber cuando hay un muro". No como reproche: "como quien nombra una cicatriz".
 - **Repeticion afirmativa:** "Claro que no. Claro que no tienes nada que ver."
@@ -25,7 +25,7 @@ Otros recursos *(Cap. 32 (archivo 28))*:
 
 Version, nombre, favor, discrecion, publico, privado, conveniente, suficiente. En italiano usa frases cortas, no decoracion permanente.
 
-*(Cap. 32 (archivo 28))* Lexico de negocio aplicado a lo intimo y a lo criminal: socios, sirvienta, negocios, aportar ("Por eso no voy a aportar mas"), recalcular ("Asi que recalcule"). Groseria exacta cuando hace el parte, nunca de adorno: "un cajon de mierda", "lo que quiso decir es que soy su puta", "toda esa mierda con los niños". Normaliza la violencia de su mundo sin dramatizarla: "esas cosas pasan, en mi mundo. Son normales."
+*(Cap. 27 (archivo 29))* Lexico de negocio aplicado a lo intimo y a lo criminal: socios, sirvienta, negocios, aportar ("Por eso no voy a aportar mas"), recalcular ("Asi que recalcule"). Groseria exacta cuando hace el parte, nunca de adorno: "un cajon de mierda", "lo que quiso decir es que soy su puta", "toda esa mierda con los niños". Normaliza la violencia de su mundo sin dramatizarla: "esas cosas pasan, en mi mundo. Son normales."
 
 El italiano tambien sale cuando cae el filtro, no solo por comodidad o furia: reza en italiano "como le salia todo lo que no pasaba primero por el calculo".
 
@@ -35,18 +35,18 @@ El italiano tambien sale cuando cae el filtro, no solo por comodidad o furia: re
 - **Presentacion:** con desconocidos se presenta con "Ciao, sono Chiara Bellandi" (Cap. 2 (archivo 02)). No es la misma regla.
 - **Excepciones:**
   - **Hector:** siempre "Hector", por lo que Hector significa para Kal.
-  - **Kal:** recibe "tesoro" como todos **hasta que se formalizan** (Cap. 39 (archivo 34)). Despues: "amore", "amore mio" y "carino" en casa, y en el ritual "Ciao, bellissimo" (Cap. 40 (archivo 35)). Nunca "Ciao, bello".
-  - **Desliz "Cielo" (CANON DEL AUTOR, 2026-10-01, Cap. 32 (archivo 28)):** antes de formalizarse, a "si yo no estoy aqui, no puedo protegerte" responde "*Cielo*, no hace falta". Se le escapa sin filtro y es unico: no es apodo establecido ni se repite antes del Cap. 34. La microedicion no debe "corregirlo" a tesoro ni convertirlo en habito.
+  - **Kal:** recibe "tesoro" como todos **hasta que se formalizan** (Cap. 32 (archivo 34)). Despues: "amore", "amore mio" y "carino" en casa, y en el ritual "Ciao, bellissimo" (Cap. 33 (archivo 35)). Nunca "Ciao, bello".
+  - **Desliz "Cielo" (CANON DEL AUTOR, 2026-10-01, Cap. 27 (archivo 29)):** antes de formalizarse, a "si yo no estoy aqui, no puedo protegerte" responde "*Cielo*, no hace falta". Se le escapa sin filtro y es unico: no es apodo establecido ni se repite antes del Cap. 34. La microedicion no debe "corregirlo" a tesoro ni convertirlo en habito.
 - **Uso dramatico:** en el Cap. 42, despues de "Nada", ella se despide de Kal con "Ciao, tesoro": vuelve a ser uno mas. Ninguno lo comenta.
-- **Excepcion del arco final (CANON DEL AUTOR, 2026-10-03):** del Caps. 48–54 (archivos 43–49) Chiara no dice "Ciao" a nadie; se calla su firma desde la despedida del 42. Vuelve en el Cap. 55 (archivo 50) con "Ciao, tesoro" al valet, y despues llega "Ciao, bella" de Kal. Es deliberado: la microedicion no debe "devolverle" el saludo en 43-49 ni quitar el del valet. Ver [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Caps_44-50b_Arco_Final]] (Q22).
+- **Excepcion del arco final (CANON DEL AUTOR, 2026-10-03):** del Caps. 39–45 (archivos 43–49) Chiara no dice "Ciao" a nadie; se calla su firma desde la despedida del 42. Vuelve en el Cap. 46 (archivo 50) con "Ciao, tesoro" al valet, y despues llega "Ciao, bella" de Kal. Es deliberado: la microedicion no debe "devolverle" el saludo en 43-49 ni quitar el del valet. Ver [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Caps_44-50b_Arco_Final]] (Q22).
 
 ## Lo que nunca dice
 
 No confiesa vulnerabilidad para informar. No explica a Alessio ni a su padre si no hay costo. No se presenta como victima: cuando nombra la degradacion ("soy su puta", "una sirvienta") lo hace como analisis de la jugada de otro, no como queja.
 
-**Matiz (Cap. 32 (archivo 28)):** si confiesa, lo hace como dato, sin adorno, y sigue antes de que el otro pueda hacer algo con eso ("Me dolia mucho la cabeza." / "Que me importas muchisimo." — "y siguio antes de que el pudiera hacer algo con eso"). Inmediatamente endurece la voz "para sostenerse". Puede confesar una inseguridad en pasado, enmarcada en lo que *no* dijo: "Pues en ese momento lo pense. Dije: no voy a ser ni un pensamiento en su cabeza. Fijate que lo pense y no te dije nada." (habla de el en tercera persona, citandose a si misma).
+**Matiz (Cap. 27 (archivo 29)):** si confiesa, lo hace como dato, sin adorno, y sigue antes de que el otro pueda hacer algo con eso ("Me dolia mucho la cabeza." / "Que me importas muchisimo." — "y siguio antes de que el pudiera hacer algo con eso"). Inmediatamente endurece la voz "para sostenerse". Puede confesar una inseguridad en pasado, enmarcada en lo que *no* dijo: "Pues en ese momento lo pense. Dije: no voy a ser ni un pensamiento en su cabeza. Fijate que lo pense y no te dije nada." (habla de el en tercera persona, citandose a si misma).
 
-**Nunca dice "quedate" (Cap. 32 (archivo 28)):** ofrece la salida sin usar su permanencia como cadena: "Tu presencia en mi vida ha sido algo maravilloso. Puedo vivir sin ella. Pero es cierto que me gusta mucho tenerla" (LINEA CANON H6 §2). No reclama exclusividad; sabe "como pesa del otro lado" una mano encima. Espejo del "No pide quedarse" de Kal.
+**Nunca dice "quedate" (Cap. 27 (archivo 29)):** ofrece la salida sin usar su permanencia como cadena: "Tu presencia en mi vida ha sido algo maravilloso. Puedo vivir sin ella. Pero es cierto que me gusta mucho tenerla" (LINEA CANON H6 §2). No reclama exclusividad; sabe "como pesa del otro lado" una mano encima. Espejo del "No pide quedarse" de Kal.
 
 **No acepta ordenes, ni de Kal:** "No me digas que puedo hacer." / "Sono como una."
 
@@ -56,7 +56,7 @@ Administra manos, bolso, cigarro, copa o telefono. Si se toca el anular izquierd
 
 **Gesto de las joyas (CANON DEL AUTOR, 2026-10-04):** cuando algo la alcanza, Chiara juega con las joyas que lleve puestas: gira un anillo, enrosca un collar, mueve las pulseras, ajusta un arete que no se mueve. Es su equivalente a la mano por la cara de Kal, que ella nunca usa. Solo con joyas que lleve en la escena. Sin joyas, juega con las uñas postizas (las repasa con el pulgar, las golpea contra algo, se revisa una): **Chiara Bellandi jamás anda sin las uñas arregladas, ni en sudadera ni en crisis** (CANON DEL AUTOR, 2026-10-04).
 
-*(Cap. 32 (archivo 28))* Sin sus objetos de administracion, las manos la delatan: se quita la capucha y "no supo que hacer con las manos despues"; se cruza de brazos dentro de mangas que le sobran. Repasa con el pulgar el filo de las uñas, una por una, antes de anunciar que se va (corregido 2026-10-04: antes se pasaba las manos por la cara). Mide la distancia por pasos ("se acerco un paso, el primero"). Mira el lugar del recuerdo en vez de a la persona (la escalera del mezzanine). Sostiene la mirada y levanta la barbilla cuando planta postura.
+*(Cap. 27 (archivo 29))* Sin sus objetos de administracion, las manos la delatan: se quita la capucha y "no supo que hacer con las manos despues"; se cruza de brazos dentro de mangas que le sobran. Repasa con el pulgar el filo de las uñas, una por una, antes de anunciar que se va (corregido 2026-10-04: antes se pasaba las manos por la cara). Mide la distancia por pasos ("se acerco un paso, el primero"). Mira el lugar del recuerdo en vez de a la persona (la escalera del mezzanine). Sostiene la mirada y levanta la barbilla cuando planta postura.
 
 ## Registro emocional (piloto 2026-10-04)
 
@@ -106,7 +106,7 @@ Administra manos, bolso, cigarro, copa o telefono. Si se toca el anular izquierd
 
 —Si querian discrecion, llegaron tarde.
 
-*(Cap. 32 (archivo 28))*
+*(*No hace falta* (archivo 28, retirado))*
 
 —No tenemos tanta confianza. Asi que no hay problema con eso.
 

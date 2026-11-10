@@ -1,6 +1,8 @@
 # Carretera del Libro I: columna y clasificación de capítulos
 
 > **Numeración del 2026-11-01:** el cuerpo y sus tablas ya usan la numeración vigente en las referencias verificadas; retiradas y fusiones se identifican por su destino. Las descripciones de diseño y los pasajes históricos explícitos se conservan; las referencias dudosas están en el reporte. Equivalencias: [[01_Timeline/09_Equivalencias_Numeracion_Libro_I]].
+>
+> **Numeración de 47 (2026-11-10):** las referencias `Cap. N (archivo X)` del cuerpo pasaron a la numeración de 47 (nuevo cauce); las marcadas como históricas y los números sin archivo conservan su época. Equivalencias: [[01_Timeline/09_Equivalencias_Numeracion_Libro_I]].
 
 > **Estado:** DISEÑO del agente (Claude Code, Opus 5.5, 2026-10-31), a pedido del autor. Pasos 1 y 2 de la propuesta de «Escenas eliminadas». **No toca prosa ni canon.** Nada sale del libro sin decisión del autor, capítulo por capítulo.
 >
@@ -92,60 +94,60 @@ Fuerzas: **C** = Il Consorzio / Volpi; **V** = Varek; **H** = Halbrook / Camp Al
 | *El farol* (escena eliminada, archivo 11) | 11 | El farol | 3,698 | — | · | **ELIMINADO** | *Escenas eliminadas* (2026-10-31); arco de Walt candidato al Libro II |
 | Cap. 13 (archivo 12) | 12 | Roma Atrii | 3,643 | — | · | PUENTE | i Sussurri y Kenji: la red de Chiara que falla en el 54 |
 | *Por su cuenta* (escena eliminada, archivo 12b) | 12b | Por su cuenta | 3,983 | — | · | **ELIMINADO** | *Escenas eliminadas* (2026-10-31); arco de Walt candidato al Libro II |
-| Cap. 14 (archivo 13) | 13 | Auster | 2,895 | — | V | PUENTE fuerte | **Primer punto de giro propuesto**; Rafe y los Bravos (57) |
-| Cap. 15 (archivo 14) | 14 | La regla del teléfono | 3,139 | — | · | PUENTE | Incomunicación que permite H10; rima del buzón con el 53 |
-| Cap. 16 (archivo 15) | 15 | Yo lo llevo | 1,797 | H10 | V | CARGA | Fusionable con el 20 |
-| Cap. 17 (archivo 16) | 16 | El sobre rojo | 1,978 | H10 | · | CARGA | Fusionable con el 19 (3,800 juntos) |
-| Cap. 18 (archivo 17) | 17 | Le quedé debiendo | 1,886 | — | · | PUENTE | Irene (el Canal Seco del 40); el Tasador |
-| Cap. 19 (archivo 18) | 18 | El día nublado | 3,814 | H4 | · | CARGA | |
+| Cap. 13 (archivo 12; antes archivo 13) | 13 | Auster | 2,895 | — | V | PUENTE fuerte | **Primer punto de giro propuesto**; Rafe y los Bravos (57) |
+| Cap. 14 (archivo 14) | 14 | La regla del teléfono | 3,139 | — | · | PUENTE | Incomunicación que permite H10; rima del buzón con el 53 |
+| Cap. 15 (archivo 15) | 15 | Yo lo llevo | 1,797 | H10 | V | CARGA | Fusionable con el 20 |
+| Caps. 14 y 15 (archivos 14 y 15; antes archivo 16) | 16 | El sobre rojo | 1,978 | H10 | · | CARGA | Fusionable con el 19 (3,800 juntos) |
+| Cap. 16 (archivo 17) | 17 | Le quedé debiendo | 1,886 | — | · | PUENTE | Irene (el Canal Seco del 40); el Tasador |
+| Cap. 17 (archivo 18) | 18 | El día nublado | 3,814 | H4 | · | CARGA | |
 | *Lo que nadie estaba mirando* (escena eliminada, archivo 19) | 19 | Lo que nadie estaba mirando | 1,847 | — | · | **ELIMINADO** | *Escenas eliminadas* (2026-10-31); la tierra, en el 24; la videollamada abre el 29 |
-| Cap. 20 (archivo 20) | 20 | Lo pequeño | 3,104 | H11 | · | CARGA | |
-| Cap. 21 (archivo 21) | 21 | El primer huésped | 1,880 | — | · | PUENTE | Marisol entra a la familia (lo cobra el 55). Misma madrugada que el 24: fusionable |
+| Cap. 18 (archivo 20) | 20 | Lo pequeño | 3,104 | H11 | · | CARGA | |
+| Cap. 18 (archivo 20; antes archivo 21) | 21 | El primer huésped | 1,880 | — | · | PUENTE | Marisol entra a la familia (lo cobra el 55). Misma madrugada que el 24: fusionable |
 
 ### Parte II — Con peores personas he tratado
 
 | Cap. | Arch. | Título | Pal. | Hito | Fuerzas | Clase | Nota |
 |---|---|---|---|---|---|---|---|
-| Cap. 23 (archivo 22a) | 22a | La cifra | 3,847 | — | V | CARGA | Chiara elige a Kal; rutas de Il Consorzio en la caja de Matteo |
-| Cap. 24 (archivo 22b) | 22b | Con su proveedor | 4,754 | — | V | PUENTE | Danny, Mei-Lin, Devil Splicers; cierra el robo |
+| Cap. 20 (archivo 22a) | 22a | La cifra | 3,847 | — | V | CARGA | Chiara elige a Kal; rutas de Il Consorzio en la caja de Matteo |
+| Cap. 21 (archivo 22b) | 22b | Con su proveedor | 4,754 | — | V | PUENTE | Danny, Mei-Lin, Devil Splicers; cierra el robo |
 | Cap. 25 *Bajo juramento* (archivo 24; fusión con el antiguo 28) | 23 | Nada caro | — | — | · | **FUSIONADO en el 29** | 2026-11-01; el archivo 23 está en *Escenas eliminadas* |
-| Cap. 25 (archivo 24) | 24 | Bajo juramento | 3,744 | — | C | PUENTE fuerte | Fusión 23+24 (2026-11-01): videollamada, «mi... amigo», la mentira de Tommaso, origen de Krane (53) |
-| Cap. 26 (archivo 24b) | 24b | Lo que cueste | 2,588 | — | · | PUENTE fuerte | Nadir: la palanca que Halbrook usa en el 35 (CANON DEL AUTOR) |
-| Cap. 27 (archivo 24c) | 24c | Oveja entre lobos | 6,391 | H12 | V | CARGA | **Punto medio** |
-| Cap. 28 (archivo 24d) | 24d | Vienes conmigo | 2,715 | H12 | V | CARGA | |
-| Cap. 29 (archivo 25) | 25 | Libros abiertos | 5,200 | H15 | C V H | CARGA | |
-| Cap. 30 (archivo 26) | 26 | Me encuentro bien | 2,305 | H5 | V | CARGA | |
-| Cap. 31 (archivo 27) | 27 | Lleve equipaje | 2,586 | H5 | V H | CARGA | |
-| Cap. 32 (archivo 28) | 28 | No hace falta | 4,392 | H5 | C V H | CARGA | |
-| Cap. 33 (archivo 29) | 29 | Una silla | 2,823 | H6 | V H | CARGA | **Segundo punto de giro** |
-| Cap. 34 (archivo 30) | 30 | Media Baraja | 4,151 | H6 | V H | CARGA | |
-| Cap. 35 (archivo 31) | 31 | Vamos a casa | 4,667 | H7 | V H | CARGA | |
-| Cap. 36 (archivo 32) | 32 | Línea directa | 2,574 | — | V | PUENTE | Lucía (53); Irene, Canal Seco |
-| Cap. 37 (archivo 33) | 33 | Lo único que es mío | 4,314 | — | V H | PUENTE | Consecuencia del pacto (CANON DEL AUTOR); siembra de Vento. Candidato a poda interna |
-| Cap. 38 (archivo 33b) | 33b | La mano | 1,575 | — | · | PUENTE | Vento: primer roce de «todos cerca de mí se van». Fusionable con el 41 |
-| Cap. 39 (archivo 34) | 34 | Mi pareja | 3,235 | H21 | V H | CARGA | |
+| *Bajo juramento* (archivo 24, retirado) | 24 | Bajo juramento | 3,744 | — | C | PUENTE fuerte | Fusión 23+24 (2026-11-01): videollamada, «mi... amigo», la mentira de Tommaso, origen de Krane (53) |
+| Cap. 22 (archivo 24b) | 24b | Lo que cueste | 2,588 | — | · | PUENTE fuerte | Nadir: la palanca que Halbrook usa en el 35 (CANON DEL AUTOR) |
+| Cap. 23 (archivo 24c) | 24c | Oveja entre lobos | 6,391 | H12 | V | CARGA | **Punto medio** |
+| Cap. 24 (archivo 24d) | 24d | Vienes conmigo | 2,715 | H12 | V | CARGA | |
+| Cap. 25 (archivo 25) | 25 | Libros abiertos | 5,200 | H15 | C V H | CARGA | |
+| Cap. 26 (archivo 26) | 26 | Me encuentro bien | 2,305 | H5 | V | CARGA | |
+| *Lleve equipaje* (archivo 27, retirado) | 27 | Lleve equipaje | 2,586 | H5 | V H | CARGA | |
+| *No hace falta* (archivo 28, retirado) | 28 | No hace falta | 4,392 | H5 | C V H | CARGA | |
+| Cap. 27 (archivo 29) | 29 | Una silla | 2,823 | H6 | V H | CARGA | **Segundo punto de giro** |
+| Cap. 28 (archivo 30) | 30 | Media Baraja | 4,151 | H6 | V H | CARGA | |
+| Cap. 29 (archivo 31) | 31 | Vamos a casa | 4,667 | H7 | V H | CARGA | |
+| Cap. 30 (archivo 32) | 32 | Línea directa | 2,574 | — | V | PUENTE | Lucía (53); Irene, Canal Seco |
+| Cap. 31 (archivo 33) | 33 | Lo único que es mío | 4,314 | — | V H | PUENTE | Consecuencia del pacto (CANON DEL AUTOR); siembra de Vento. Candidato a poda interna |
+| *La mano* (archivo 33b, retirado) | 33b | La mano | 1,575 | — | · | PUENTE | Vento: primer roce de «todos cerca de mí se van». Fusionable con el 41 |
+| Cap. 32 (archivo 34) | 34 | Mi pareja | 3,235 | H21 | V H | CARGA | |
 
 ### Parte III — Ardizzone
 
 | Cap. | Arch. | Título | Pal. | Hito | Fuerzas | Clase | Nota |
 |---|---|---|---|---|---|---|---|
-| Cap. 40 (archivo 35) | 35 | Sin fecha de regreso | 2,437 | — | V | CARGA | Nace el *Ciao*; primera silla (Matteo) |
-| Cap. 41 (archivo 36) | 36 | También las mañanas | 2,503 | H16 | · | CARGA | |
-| Cap. 42 (archivo 37) | 37 | Cuatro letras | 2,373 | — | · | PUENTE | Invitación del yate; El Patio crece. Fusionable con el 45 o el 47 |
-| Cap. 43 (archivo 38) | 38 | Al revés | 8,133 | H13 | C V | CARGA | El capítulo más largo del libro: candidato a poda interna |
-| Cap. 44 (archivo 39) | 39 | Un par de días más | 1,963 | — | V H | CARGA | Ventana de Camp Alder; promesa de Dario |
-| Cap. 45 (archivo 40) | 40 | Mecánico | 4,856 | H17 | C V H | CARGA | |
-| Cap. 46 (archivo 41) | 41 | La otra mitad | 1,834 | H17 | · | CARGA | |
-| Cap. 47 (archivo 42) | 42 | Nada | 2,704 | F1 | · | CARGA | **Todo perdido** (1/2) |
-| Cap. 48 (archivo 43) | 43 | La puerta | 2,296 | H19 | V H | CARGA | **Todo perdido** (2/2) |
-| Cap. 49 (archivo 44) | 44 | Jurisdicción | 2,078 | H20 | V H | CARGA | **Clímax** |
-| Cap. 50 (archivo 45) | 45 | Ropa limpia | 4,493 | H20 | H | CARGA | |
-| Cap. 51 (archivo 46) | 46 | Llaves | 3,247 | H20 | V H | CARGA | |
-| Cap. 52 (archivo 47) | 47 | Intereses | 3,947 | H20 | C V H | CARGA | |
-| Cap. 53 (archivo 48) | 48 | Su nombre | 3,307 | H20 | H | CARGA | |
-| Cap. 54 (archivo 49) | 49 | Enfrente | 3,731 | H20 | C V H | CARGA | |
-| Cap. 55 (archivo 50) | 50 | A oscuras | 3,907 | H20 | V | CARGA | |
-| Cap. 56 (archivo 50b) | 50b | La tierra bajo sus botas | 1,405 | — | H | CARGA | **Desenlace** |
+| Cap. 33 (archivo 35) | 35 | Sin fecha de regreso | 2,437 | — | V | CARGA | Nace el *Ciao*; primera silla (Matteo) |
+| Cap. 34 (archivo 36) | 36 | También las mañanas | 2,503 | H16 | · | CARGA | |
+| Caps. 34 y 35 (archivos 36 y 38; antes archivo 37) | 37 | Cuatro letras | 2,373 | — | · | PUENTE | Invitación del yate; El Patio crece. Fusionable con el 45 o el 47 |
+| Cap. 35 (archivo 38) | 38 | Al revés | 8,133 | H13 | C V | CARGA | El capítulo más largo del libro: candidato a poda interna |
+| Cap. 36 (archivo 40; antes archivo 39) | 39 | Un par de días más | 1,963 | — | V H | CARGA | Ventana de Camp Alder; promesa de Dario |
+| Cap. 36 (archivo 40) | 40 | Mecánico | 4,856 | H17 | C V H | CARGA | |
+| Cap. 37 (archivo 41) | 41 | La otra mitad | 1,834 | H17 | · | CARGA | |
+| Cap. 38 (archivo 42) | 42 | Nada | 2,704 | F1 | · | CARGA | **Todo perdido** (1/2) |
+| Cap. 39 (archivo 43) | 43 | La puerta | 2,296 | H19 | V H | CARGA | **Todo perdido** (2/2) |
+| Cap. 40 (archivo 44) | 44 | Jurisdicción | 2,078 | H20 | V H | CARGA | **Clímax** |
+| Cap. 41 (archivo 45) | 45 | Ropa limpia | 4,493 | H20 | H | CARGA | |
+| Cap. 42 (archivo 46) | 46 | Llaves | 3,247 | H20 | V H | CARGA | |
+| Cap. 43 (archivo 47) | 47 | Intereses | 3,947 | H20 | C V H | CARGA | |
+| Cap. 44 (archivo 48) | 48 | Su nombre | 3,307 | H20 | H | CARGA | |
+| Cap. 45 (archivo 49) | 49 | Enfrente | 3,731 | H20 | C V H | CARGA | |
+| Cap. 46 (archivo 50) | 50 | A oscuras | 3,907 | H20 | V | CARGA | |
+| Cap. 47 (archivo 50b) | 50b | La tierra bajo sus botas | 1,405 | — | H | CARGA | **Desenlace** |
 
 ### Resumen
 
@@ -202,13 +204,13 @@ Encargo original: una línea de saldo por cada PUENTE de los Caps. 3–30 (qué 
 | Cap. 10 (archivo 08b) | 08b | Collins por radio: «anotá que el rojo sigue siendo mío» (lo cobra el expediente del 17) | Ya cobra |
 | Cap. 11 (archivo 09) | 09 | El Tasador en la cancha; «Ése no se disculpa. Hace inventario.»; Nadir mira a Kal, no a ella | Ya cobra |
 | Cap. 13 (archivo 12) | 12 | P-1 («Invitado de la Dirección»); *Roma Atrii* sin significado | Ya cobra |
-| Cap. 14 (archivo 13) | 13 | K-1 («Sin Nadir.»); el papel de la costa, todavía sin usar | Ya cobra |
-| Cap. 15 (archivo 14) | 14 | Teléfono apagado por regla (abre las llamadas perdidas de H10); Marisol: «Se llama Chiara. Dilo tú también alguna vez» | Ya cobra; **el más débil** |
-| Cap. 18 (archivo 17) | 17 | Kal le debe un nombre a Irene («a mí primero»); C-2; el informante, del billar de atrás del Monarch (el valet que renuncia en el 27); «Me pregunto si alguna vez lo perdió» | Ya cobra |
-| Cap. 21 (archivo 21) | 21 | Cierre cálido; el saldo lo pone H13 *Grazie* (21b), que cierra la Parte I | Ya cobra (vía 21b) |
-| Cap. 24 (archivo 22b) | 22b | «Con su proveedor… Interesante»; Dario no preguntó qué había en la caja | Ya cobra |
-| Cap. 25 (archivo 24) | 24 | Tommaso miente bajo juramento; «Tommaso, no.»; «Lo cobro ahora y pregunto por qué después»; media hoja a Krane | Ya cobra; **línea opcional** abajo |
-| Cap. 26 (archivo 24b) | 24b | Nadir: «¿Cuánto nos va a costar?» (el italiano); la moto en abonos («Te sale lo que costó») | Ya cobra |
+| Cap. 13 (archivo 12; antes archivo 13) | 13 | K-1 («Sin Nadir.»); el papel de la costa, todavía sin usar | Ya cobra |
+| Cap. 14 (archivo 14) | 14 | Teléfono apagado por regla (abre las llamadas perdidas de H10); Marisol: «Se llama Chiara. Dilo tú también alguna vez» | Ya cobra; **el más débil** |
+| Cap. 16 (archivo 17) | 17 | Kal le debe un nombre a Irene («a mí primero»); C-2; el informante, del billar de atrás del Monarch (el valet que renuncia en el 27); «Me pregunto si alguna vez lo perdió» | Ya cobra |
+| Cap. 18 (archivo 20; antes archivo 21) | 21 | Cierre cálido; el saldo lo pone H13 *Grazie* (21b), que cierra la Parte I | Ya cobra (vía 21b) |
+| Cap. 21 (archivo 22b) | 22b | «Con su proveedor… Interesante»; Dario no preguntó qué había en la caja | Ya cobra |
+| *Bajo juramento* (archivo 24, retirado) | 24 | Tommaso miente bajo juramento; «Tommaso, no.»; «Lo cobro ahora y pregunto por qué después»; media hoja a Krane | Ya cobra; **línea opcional** abajo |
+| Cap. 22 (archivo 24b) | 24b | Nadir: «¿Cuánto nos va a costar?» (el italiano); la moto en abonos («Te sale lo que costó») | Ya cobra |
 
 **Línea opcional para el 29** (DISEÑO; el agente recomienda **no** ponerla, porque Nadir hace la pregunta en el 30 y se cobra mejor ahí). Iría al final, tras «esta vez en el renglón que le tocaba.»:
 

@@ -4,7 +4,7 @@
 
 ## Función de Volpi en Vera
 
-> **CANON DEL AUTOR (2026-10-03, lote 3):** Volpi llega por encargo de **Dario** (en el Libro I trabaja en secreto para él, aunque parezca responder a La Mesa). Llega después de la muerte de los padres y de Vera, recoge el arma, desaparece los cuerpos, extrae a Dylan y lo entrega en la mansión antes del amanecer del Cap. 33 (archivo 29). No sabe con certeza quién mató a los Marsh y **nunca nombra a Blake**. En la isla (VII) habla en fragmentos ("La casa ya estaba muerta cuando llegué", "Me enviaron para corregir una consecuencia", "Lo entregué"); su amenaza real es estar a punto de reconocer a Elenna. Escalada investigativa y reglas en [[07_Ideas/Libro_04_Incubadora/10_Reglas_Revelacion_Caso_Vera]]. *Principio:* la vieja estructura no es el villano final; es el suelo histórico sobre el que el villano sobrevivió.
+> **CANON DEL AUTOR (2026-10-03, lote 3):** Volpi llega por encargo de **Dario** (en el Libro I trabaja en secreto para él, aunque parezca responder a La Mesa). Llega después de la muerte de los padres y de Vera, recoge el arma, desaparece los cuerpos, extrae a Dylan y lo entrega en la mansión antes del amanecer del Cap. 27 (archivo 29). No sabe con certeza quién mató a los Marsh y **nunca nombra a Blake**. En la isla (VII) habla en fragmentos ("La casa ya estaba muerta cuando llegué", "Me enviaron para corregir una consecuencia", "Lo entregué"); su amenaza real es estar a punto de reconocer a Elenna. Escalada investigativa y reglas en [[07_Ideas/Libro_04_Incubadora/10_Reglas_Revelacion_Caso_Vera]]. *Principio:* la vieja estructura no es el villano final; es el suelo histórico sobre el que el villano sobrevivió.
 
 Nereo **no mata a Vera**.
 

@@ -13,7 +13,7 @@
 
 ## Historia
 
-**CANON DEL AUTOR.** Años antes de que empiece la novela, [[02_Characters/Silas_Crowe]] intentó reclutarlo a espaldas de Walt — trabajos chicos, mandados, metiéndolo despacio en su mundo. Cuando Walt se enteró, confrontó a Crowe directamente (le partió el escritorio de su oficina con una barreta), lo que meses después Crowe usaría para incriminarlo — ver [[02_Characters/Walter_Keegan]] y [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/17_Cuentas_Claras|Cap. 18 (archivo 17)]].
+**CANON DEL AUTOR.** Años antes de que empiece la novela, [[02_Characters/Silas_Crowe]] intentó reclutarlo a espaldas de Walt — trabajos chicos, mandados, metiéndolo despacio en su mundo. Cuando Walt se enteró, confrontó a Crowe directamente (le partió el escritorio de su oficina con una barreta), lo que meses después Crowe usaría para incriminarlo — ver [[02_Characters/Walter_Keegan]] y [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/17_Cuentas_Claras|Cap. 16 (archivo 17)]].
 
 Tras la condena de Walt (diez años), Jim se fue de San Aurelio en la camioneta de su padre, diciendo que la ciudad era "una cloaca de desgracias" y que ya no quedaba nada para él ahí. Kal le ofreció que el barrio estaría para él; Jim respondió que "no es suficiente". Esa decepción de Kal queda sembrada como precedente emocional de largo eco — no explicitar ese eco en prosa futura salvo que el autor lo decida.
 
@@ -21,7 +21,7 @@ Tras la condena de Walt (diez años), Jim se fue de San Aurelio en la camioneta 
 
 > **ACTUALIZADO (2026-11-05, autor):** en el Cap. 3 Kal ya no le da la noticia: Walt la sabe por Natalie. Lleva a Walt ante la tumba, por primera vez, y ahí Walt hace «¿Fue rápido?». El recuerdo privado y la promesa no cambian.
 
-> **ACTUALIZADO (2026-09-28, autor):** en el [[11_Books/Book_01_Mascaras_De_Cristal/Part_02_Con_Peores_Personas_He_Tratado/25_Libros_Abiertos|Cap. 29 (archivo 25)]] Kal le cuenta a Chiara que Jim era hijo de Walt, que coincidieron en la unidad y que murió en sus brazos; **la promesa y lo que Jim hizo siguen sin decirse** ("tampoco es mío para darlo"). Es la primera y única vez que lo cuenta. La regla de abajo queda vigente para todos los demás.
+> **ACTUALIZADO (2026-09-28, autor):** en el [[11_Books/Book_01_Mascaras_De_Cristal/Part_02_Con_Peores_Personas_He_Tratado/25_Libros_Abiertos|Cap. 25 (archivo 25)]] Kal le cuenta a Chiara que Jim era hijo de Walt, que coincidieron en la unidad y que murió en sus brazos; **la promesa y lo que Jim hizo siguen sin decirse** ("tampoco es mío para darlo"). Es la primera y única vez que lo cuenta. La regla de abajo queda vigente para todos los demás.
 
 > **Regla de continuidad:** esta escena es memoria pura para el lector, igual que el balcón de Dale/Ruth en el Capítulo 10 — Kal nunca la cuenta en voz alta a nadie dentro de la historia. No rompe la restricción de que Afganistán "no puede ser tema de conversación", que solo se levanta una vez, con Chiara, en el Cap. 20/21 (El mirador).
 

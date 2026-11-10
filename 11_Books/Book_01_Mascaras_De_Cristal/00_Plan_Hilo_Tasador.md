@@ -1,6 +1,8 @@
 # Plan — Hilo C: el Tasador como antagonista inmediato del Libro I
 
 > **Numeración del 2026-11-01:** el cuerpo ya usa la numeración vigente en las referencias verificadas; se conservan las citas archivo:línea, los pasajes históricos explícitos y las referencias dudosas registradas en el reporte. Equivalencias: [[01_Timeline/09_Equivalencias_Numeracion_Libro_I]].
+>
+> **Numeración de 47 (2026-11-10):** las referencias `Cap. N (archivo X)` del cuerpo pasaron a la numeración de 47 (nuevo cauce); las marcadas como históricas y los números sin archivo conservan su época. Equivalencias: [[01_Timeline/09_Equivalencias_Numeracion_Libro_I]].
 
 > **DISEÑO (Claude Code, 2026-11-01), con DECISIÓN DEL AUTOR del mismo día (abajo).** Prosa sin tocar. Fuente: conversación del autor con ChatGPT ([[99_Reference/autor-notes/conversacion_chatgpt_311026]], no canon), cotejada con [[02_Characters/Silas_Crowe]], [[13_Auditorias/Book_01_Mascaras_De_Cristal/Carretera_Libro_I]], [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/00_Plan_Rediseno_Parte_I]] y [[11_Books/Book_02_Sombras_De_Poder/00_Plan_Cuatro_Partes]]. Numeración de 60.
 
@@ -33,7 +35,7 @@ Con esto, la columna de la carretera no cambia: dos pasados cobran la casa y Var
 | 36 | 32 | Competencia | Portillo: «nada». «Al muchacho no le gustó la respuesta.» |
 | 42 | 37 | Competencia | La ferretería: «¿la competencia es usted?»; la libreta. |
 
-**Diagnóstico.** Los movimientos I y II están completos y son buenos. La sospecha del Cap. 18 (archivo 17) y el «Interesante» de Dario existen. Faltan dos cosas: (a) entre el Cap. 12 (archivo 10) y el Cap. 36 (archivo 32) la subida de cuotas no tiene saldo visible en nadie; (b) del Cap. 43 (archivo 38) al Cap. 56 (archivo 50b) Crowe desaparece, y el II abre con la gente de Kal moviendo cocaína de Crowe (Plan de cuatro Partes, §10–11) **sin puente en el I**. Ese hueco es de canon, no solo de ritmo.
+**Diagnóstico.** Los movimientos I y II están completos y son buenos. La sospecha del Cap. 16 (archivo 17) y el «Interesante» de Dario existen. Faltan dos cosas: (a) entre el Cap. 12 (archivo 10) y el Cap. 30 (archivo 32) la subida de cuotas no tiene saldo visible en nadie; (b) del Cap. 35 (archivo 38) al Cap. 47 (archivo 50b) Crowe desaparece, y el II abre con la gente de Kal moviendo cocaína de Crowe (Plan de cuatro Partes, §10–11) **sin puente en el I**. Ese hueco es de canon, no solo de ritmo.
 
 ## Escalones propuestos (DISEÑO)
 
@@ -109,9 +111,9 @@ La cadena de antagonistas I–IV que propone el autor en la conversación encaja
 
 ### Walt en la cancha
 
-- **Si está:** primer cara a cara Walt–Crowe en el libro y el único antes de la ejecución en el II. Walt no puede moverse: está en condicional y un golpe lo regresa a prisión, el mismo encierro que le debe a Crowe. Su quietud dobla la de Kal. En el Cap. 18 (archivo 17), la historia de la barreta ya no presenta a Crowe: explica lo que Chiara vio. **Riesgo:** la escena se vuelve Walt contra Crowe y Chiara queda de testigo de un duelo ajeno. Además, Crowe tiene que tragarse a Walt o burlarse de él, y cualquier burla sobre la familia de Walt adelanta la línea CANON de la ejecución («Ya perdiste a una esposa…»).
-- **Si no está:** la escena queda limpia, en el triángulo Crowe–Kal–Chiara más el barrio. La historia de Walt sigue entera para el Cap. 18 (archivo 17) y la ejecución del II. **Riesgo:** se pierde el único cara a cara previo; el lector llega a la ejecución sin haberlos visto juntos.
-- **Intermedia (recomendada):** Walt no está en la conversación. Llega cuando los dos autos ya salen; Crowe lo ve por la ventanilla y Walt a él. Ninguno dice nada. Chiara ve la cara de Walt y no entiende hasta el Cap. 18 (archivo 17). Así hay cara a cara sin robarle la escena a Chiara, la condicional explica la quietud y la ejecución queda sembrada sin palabras.
+- **Si está:** primer cara a cara Walt–Crowe en el libro y el único antes de la ejecución en el II. Walt no puede moverse: está en condicional y un golpe lo regresa a prisión, el mismo encierro que le debe a Crowe. Su quietud dobla la de Kal. En el Cap. 16 (archivo 17), la historia de la barreta ya no presenta a Crowe: explica lo que Chiara vio. **Riesgo:** la escena se vuelve Walt contra Crowe y Chiara queda de testigo de un duelo ajeno. Además, Crowe tiene que tragarse a Walt o burlarse de él, y cualquier burla sobre la familia de Walt adelanta la línea CANON de la ejecución («Ya perdiste a una esposa…»).
+- **Si no está:** la escena queda limpia, en el triángulo Crowe–Kal–Chiara más el barrio. La historia de Walt sigue entera para el Cap. 16 (archivo 17) y la ejecución del II. **Riesgo:** se pierde el único cara a cara previo; el lector llega a la ejecución sin haberlos visto juntos.
+- **Intermedia (recomendada):** Walt no está en la conversación. Llega cuando los dos autos ya salen; Crowe lo ve por la ventanilla y Walt a él. Ninguno dice nada. Chiara ve la cara de Walt y no entiende hasta el Cap. 16 (archivo 17). Así hay cara a cara sin robarle la escena a Chiara, la condicional explica la quietud y la ejecución queda sembrada sin palabras.
 
 ### La línea de Crowe (opciones)
 
@@ -119,14 +121,14 @@ Le habla a Kal, nunca a ella. Vocabulario de mostrador: tasar, balanza, precio, 
 
 ### Cuándo aparece
 
-**Recomendación: en el Cap. 11 (archivo 09), pocos días después del levantón.** La disculpa irónica sólo tiene sentido con la muñeca todavía en la férula. Además, el villano principal necesita cara en el primer cuarto del libro, y cobran la aparición el Cap. 12 (archivo 10) (la cuota, «quién duerme en la casa común»), el Cap. 18 (archivo 17) (sospecha y barreta), el Cap. 20 (archivo 20) (la vulcanizadora) y el Cap. 27 (archivo 24c) (Kal descarta a Crowe en el corral porque «firmaba sus recados»: ahora lo vimos firmar). Si se retrasa a la Parte II o III, la Parte I vuelve a tener un villano fuera de escena, que es justo lo que se está corrigiendo. La segunda aparición en persona va en el arco sin Kal, con el trabajo para los muchachos.
+**Recomendación: en el Cap. 11 (archivo 09), pocos días después del levantón.** La disculpa irónica sólo tiene sentido con la muñeca todavía en la férula. Además, el villano principal necesita cara en el primer cuarto del libro, y cobran la aparición el Cap. 12 (archivo 10) (la cuota, «quién duerme en la casa común»), el Cap. 16 (archivo 17) (sospecha y barreta), el Cap. 18 (archivo 20) (la vulcanizadora) y el Cap. 23 (archivo 24c) (Kal descarta a Crowe en el corral porque «firmaba sus recados»: ahora lo vimos firmar). Si se retrasa a la Parte II o III, la Parte I vuelve a tener un villano fuera de escena, que es justo lo que se está corrigiendo. La segunda aparición en persona va en el arco sin Kal, con el trabajo para los muchachos.
 
 ### Punto 5: choque con el Cap. 52 *Intereses* (archivo 47)
 
 En la prosa (BORRADOR, función CANON DEL AUTOR), el pago a Dario **son las armas** que sacaron de Camp Alder, y Dario rechaza el dinero: «No es dinero. Dinero tengo.» Lo que exige son trabajos del barrio; Chiara se niega y queda a deber un favor personal. Por eso **el dinero de Crowe no puede pagarle a Dario** sin reescribir esa escena. Opciones:
 
 - **(a) Recomendada:** el trabajo para Crowe paga lo que el barrio debe y lo que dejó de entrar sin Kal (negocios que les deben y a los que deben). Dario y Chiara siguen como están; el Patio resuelve su dinero por su cuenta y sin ella.
-- **(b)** Se reescribe el Cap. 52 (archivo 47) para que Dario acepte dinero. Se pierde «Dinero tengo» y la deuda abierta de Chiara se debilita (es el secreto del II, Cap. 9 *La primera cuota*).
+- **(b)** Se reescribe el Cap. 43 (archivo 47) para que Dario acepte dinero. Se pierde «Dinero tengo» y la deuda abierta de Chiara se debilita (es el secreto del II, Cap. 9 *La primera cuota*).
 
 ### Punto 4 y la lluvia en los viñedos (propuesta)
 
@@ -143,7 +145,7 @@ En la prosa (BORRADOR, función CANON DEL AUTOR), el pago a Dario **son las arma
 2. **La línea de Crowe: A + D combinadas.** Primero la disculpa irónica (A); después la prueba (D, «gatas finas del casino»). Desde que la llama así, Chiara lo mira con desdén, pero no se enfrasca porque sabe de quién viene. Los muchachos brincan: es una ofensa a alguien del barrio.
 3. **Nadir contesta amarrado a A + D.** Va a la última pregunta de Crowe («no sé qué hace durmiendo aquí»). Propuesta (DISEÑO): «En la casa de Kal nadie contesta eso, señor Crowe. Ya se va.» Es por Kal, y es el silencio del barrio: Crowe pregunta y nadie contesta. La unión sigue sin confirmarse.
 4. **La visita va en el Cap. 11 (archivo 09).**
-5. **El dinero del trabajo para Crowe paga las deudas del barrio, no a Dario.** El Cap. 52 (archivo 47) queda intacto («Dinero tengo»; la deuda abierta de Chiara).
+5. **El dinero del trabajo para Crowe paga las deudas del barrio, no a Dario.** El Cap. 43 (archivo 47) queda intacto («Dinero tengo»; la deuda abierta de Chiara).
 6. **La lluvia en los viñedos (Libro II) se aprueba como motivo.** Esta vez **la ofendida es Chiara**: ella es la que se molesta. La discusión recontextualiza Villa Candelaria: después del incendio, Kal reconoce que se equivocó y por eso busca la Villa.
 7. **Regla de Kal (CANON DEL AUTOR):** puede equivocarse y tener orgullo, pero **con Chiara siempre termina reconociendo que se equivocó. Sólo con ella.** Con la banda, con externos y con Dario puede no reconocerlo.
 8. **El riesgo que trae la discusión (autor):** como con ella siempre dice que sí, Kal no sabe defender su sí sin antes decirle que no. **DECISIÓN DEL AUTOR (2026-11-01; diseño del agente aprobado, «se queda»):** en la lluvia, Kal tiene que sostener una decisión contra ella por primera vez, el cargamento. No sabe hacerlo sin volverse duro, porque nunca le había dicho que no. El incendio le da la razón a ella, y Kal cumple su regla: reconoce el error, y la Villa es la forma en que lo dice.
@@ -166,7 +168,7 @@ En la prosa (BORRADOR, función CANON DEL AUTOR), el pago a Dario **son las arma
 6. **Línea D, la prueba:** «gatas finas del casino… si es tuya… si no es tuya, no sé qué hace durmiendo aquí». **Los muchachos brincan**: una silla raspa, uno avanza y otro lo agarra. Kal levanta la mano sin voltear. Chiara busca por reflejo las pulseras y encuentra la férula (las pulseras reventaron en el levantón, `09:114`; corrección del autor 2026-11-01: no la lima). Lo mira y no le contesta, porque sabe de quién viene. **La cara que Kal no le quiso dar en la grúa** («No te lo voy a dar», `09:306`) ahora la tiene.
 7. **Nadir:** «En la casa de Kal nadie contesta eso, señor Crowe. Ya se va.» Es el que menos la quiere ahí, y defiende por Kal.
 8. **Crowe se va sabiendo.** Se ríe y mide a Nadir. A Kal, una sola línea: el silencio también contesta («Ya me contestaron, muchacho», DISEÑO). El silencio del barrio que la protege es el mismo que la delata. **Así se carga la catástrofe disponible.**
-9. **Walt.** Los autos salen de reversa por el callejón y por el otro extremo llega la Harley: chaqueta de cuero, botas, casco. Walt se detiene. Crowe va en el asiento de atrás, mirando hacia la casa común, y **no lo ve**. Walt no se quita el casco hasta que los autos doblan. Chiara ve esa quietud y no la entiende (se cobra en el Cap. 18 (archivo 17), con la barreta). Walt pregunta qué quería; Kal: «Disculparse». La respuesta de Walt, una línea seca, sin contar nada de la barreta.
+9. **Walt.** Los autos salen de reversa por el callejón y por el otro extremo llega la Harley: chaqueta de cuero, botas, casco. Walt se detiene. Crowe va en el asiento de atrás, mirando hacia la casa común, y **no lo ve**. Walt no se quita el casco hasta que los autos doblan. Chiara ve esa quietud y no la entiende (se cobra en el Cap. 16 (archivo 17), con la barreta). Walt pregunta qué quería; Kal: «Disculparse». La respuesta de Walt, una línea seca, sin contar nada de la barreta.
 10. **Cierre.** Nadie vuelve al balón. Chiara se da cuenta de quién se le puso enfrente mientras Crowe hablaba: uno de los que no la quieren ahí. La respaldan por ser de Kal, no por ella. Empalma con «Los muchachos la dejaron quedarse».
 
 ### Restricciones
@@ -188,14 +190,14 @@ En la prosa (BORRADOR, función CANON DEL AUTOR), el pago a Dario **son las arma
 
 ## Quinta ronda: el trabajo para Crowe en el arco sin Kal (2026-11-01)
 
-**DECISIÓN DEL AUTOR:** (1) se ve en **señales desde Chiara**, que lo ve y no lo interpreta (misma técnica que Mei-Lin en el Cap. 53 (archivo 48)); POV único del arco intacto. (2) El trabajo es **mover algo en la grúa**: lo mismo que Chiara le negó a Dario en el Cap. 52 (archivo 47) («cuando haga falta mover algo, se mueve»). (3) Lo trae **el chico de la vulcanizadora** (el de la gorra al revés del Cap. 11 (archivo 09)) y lo acepta **Nadir**, que lleva las cuentas; Héctor no se entera. Sustituye el C-4 y cierra las preguntas de la segunda ronda (Chiara no lo sabe en el I; dónde se ve). **Aplicado (prosa DISEÑO, espera lectura):**
+**DECISIÓN DEL AUTOR:** (1) se ve en **señales desde Chiara**, que lo ve y no lo interpreta (misma técnica que Mei-Lin en el Cap. 44 (archivo 48)); POV único del arco intacto. (2) El trabajo es **mover algo en la grúa**: lo mismo que Chiara le negó a Dario en el Cap. 43 (archivo 47) («cuando haga falta mover algo, se mueve»). (3) Lo trae **el chico de la vulcanizadora** (el de la gorra al revés del Cap. 11 (archivo 09)) y lo acepta **Nadir**, que lleva las cuentas; Héctor no se entera. Sustituye el C-4 y cierra las preguntas de la segunda ronda (Chiara no lo sabe en el I; dónde se ve). **Aplicado (prosa DISEÑO, espera lectura):**
 
 | Cap. | Arch. | Señal |
 |---|---|---|
 | 51 | 46 | El chico de la vulcanizadora se aparta del mostrador de Nadir al verla entrar y sale sin mirarla. Tras «Págaselos»: «—Cuando alguien me pague a mí.» |
 | 52 | 47 | Sin tocar: el libro cerrado «como si alguien lo hubiera sorprendido leyendo algo ajeno» y «Nada no existe, señora» ganan segundo sentido. |
 | 53 | 48 | Rafe: «El gordo de la Almendra anda tasando el sur desde antes de Navidad. Presta, sube cuotas, ofrece trabajitos a quien se deje.» El muchacho del hielo le contestó al enviado «sin preguntarme». Chiara no pregunta por La Almendra. |
-| 55 | 50 | Al salir de La Esquina, la grúa grande baja hacia el sur con un sedán en la plataforma, «como cualquier remolque» (eco del Cap. 52 (archivo 47)), alguien con el codo en la ventanilla, y detrás el sedán rojo de defensas cromadas del Cap. 11 (archivo 09). «Héctor, que no sabía nada del sur» gana segundo sentido. |
+| 55 | 50 | Al salir de La Esquina, la grúa grande baja hacia el sur con un sedán en la plataforma, «como cualquier remolque» (eco del Cap. 43 (archivo 47)), alguien con el codo en la ventanilla, y detrás el sedán rojo de defensas cromadas del Cap. 11 (archivo 09). «Héctor, que no sabía nada del sur» gana segundo sentido. |
 
 > **AJUSTE AL CAUCE (DECISIÓN DEL AUTOR, 2026-11-08; [[98_Agent_Handoff/sessions/2026-11-08_claude_fase4_cap46_a_oscuras]]):** en el nuevo 46 (archivo 50) **sale el sedán rojo** que escoltaba la grúa: la grúa baja al sur «como cualquier remolque», sin atarse a Crowe a la vista (en el 39 Kal le quitó el lote; guarda 3). El trabajo de Nadir sigue (nuevo 42, terminal B: Nadir no sabe que su hombre es Crowe). La ironía de abajo se conserva, pero en el I ya no se ve; la deuda de Chiara es la del 26 ampliada (D2), no una deuda nueva.
 

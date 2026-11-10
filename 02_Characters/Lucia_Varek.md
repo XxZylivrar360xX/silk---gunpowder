@@ -28,7 +28,7 @@
 
 > **CANON DEL AUTOR (2026-10-28) — embrión:** en el robo del Monarch (Caps. 22a–22b) Kal le entrega a los ladrones como camaleón, pareciendo hacer lo contrario. DISEÑO: ella recibe el robo cerrado y un caso de heroína en O.R.T., demasiado conveniente; huele una firma que no puede probar. Va en persona porque es el casino de su padre; Voss es su chofer y le llama la atención para que no sea como Blake ([[11_Books/Book_01_Mascaras_De_Cristal/Part_02_Con_Peores_Personas_He_Tratado/00_Plan_Robo_Monarch]]).
 
-> **Denuncia del corral (2026-10-29, CANON DEL AUTOR: opción A, sin Lucía en el rescate, con mención en el Cap. 36 (archivo 32)):** Lucía no interviene en el Cap. 27 (archivo 24c) (*Oveja entre lobos*). Voss le toma a Kal la denuncia del robo fingido. En el Cap. 36 (*Línea directa*, archivo 32) ella la cita: «Está bien hecha. Es la segunda vez que me llega algo suyo así de bien hecho» (DISEÑO), con el robo del Monarch como la primera vez.
+> **Denuncia del corral (2026-10-29, CANON DEL AUTOR: opción A, sin Lucía en el rescate, con mención en el Cap. 30 (archivo 32)):** Lucía no interviene en el Cap. 23 (archivo 24c) (*Oveja entre lobos*). Voss le toma a Kal la denuncia del robo fingido. En el Cap. 36 (*Línea directa*, archivo 32) ella la cita: «Está bien hecha. Es la segunda vez que me llega algo suyo así de bien hecho» (DISEÑO), con el robo del Monarch como la primera vez.
 
 ## Función narrativa
 
@@ -42,7 +42,7 @@ Su arco debe conservar la tensión entre el vínculo familiar y la obligación i
 
 > **RESUELTO (2026-09-01):** cargo exacto de entrada (subjefa) y primera escena con Kal — [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/13_Auster|Cap. 14 (archivo 13), *Auster*]]. Lo interroga por el caso del Peugeot rojo (ver [[12_Craft_Policies/revelations/Book_01_Mascaras_De_Cristal]], "El Peugeot rojo que Blake persigue"); confirma la coartada que Chiara le preparó a Kal; el expediente sigue abierto, pero Kal sale de su centro (decisión del autor, 2026-10-27). Registra a Kal por primera vez como alguien que no encaja del todo en la versión fácil — semilla de la relación de "informante" que el autor quiere desarrollar más adelante.
 
-> **Primer encuentro con Chiara (2026-10-04, decisión del autor; prosa DISEÑO):** [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/15_El_Porton|Cap. 16 (archivo 15)]], en el hospital tras el infarto de Héctor. Va ella a propósito, sin uniforme y con carpeta, porque la casa es del círculo de Kal; "es rutina" es la mentira. Chiara registra el apellido Varek; Lucía anota "Bellandi" con más cuidado que lo demás. El Cap. 49 (archivo 44) (*Jurisdicción*) no contradice esto: la llegada "sin uniforme, con una carpeta" funciona como eco.
+> **Primer encuentro con Chiara (2026-10-04, decisión del autor; prosa DISEÑO):** [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/15_El_Porton|Cap. 15 (archivo 15)]], en el hospital tras el infarto de Héctor. Va ella a propósito, sin uniforme y con carpeta, porque la casa es del círculo de Kal; "es rutina" es la mentira. Chiara registra el apellido Varek; Lucía anota "Bellandi" con más cuidado que lo demás. El Cap. 40 (archivo 44) (*Jurisdicción*) no contradice esto: la llegada "sin uniforme, con una carpeta" funciona como eco.
 
 > **PENDIENTE:** cuándo descubre la verdad completa sobre Kal y el Patio, y cuánto sabe de la organización de su propio padre antes de investigarlo.
 

@@ -1,8 +1,8 @@
 # Ficha de Voz - Marisol Grayson
 
-> Recalibrada 2026-10-04 ([[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Dialogo_Terceros_Parte_I_Tanda_2]]). Vara: el Cap. 15 (archivo 14) (TERMINADO). Ancla secundaria: el 21 (primer encuentro con Chiara). Ficha de personaje: [[02_Characters/Marisol_Grayson]].
+> Recalibrada 2026-10-04 ([[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Dialogo_Terceros_Parte_I_Tanda_2]]). Vara: el Cap. 14 (archivo 14) (TERMINADO). Ancla secundaria: el 21 (primer encuentro con Chiara). Ficha de personaje: [[02_Characters/Marisol_Grayson]].
 > **Regla de uso:** las muestras enseñan registro; no se copian literales en prosa nueva.
-> **Energía de referencia (no canon, 2026-10-05):** [[99_Reference/voice_calibration/Marisol_Grayson]] (Mattie Ross, Veronica Mars, Ellie de la primera parte de *The Last of Us*). Se calibra la energía y no se copia nada; la vara sigue siendo el Cap. 15 (archivo 14).
+> **Energía de referencia (no canon, 2026-10-05):** [[99_Reference/voice_calibration/Marisol_Grayson]] (Mattie Ross, Veronica Mars, Ellie de la primera parte de *The Last of Us*). Se calibra la energía y no se copia nada; la vara sigue siendo el Cap. 14 (archivo 14).
 
 ## Cadencia y sintaxis
 

@@ -13,7 +13,7 @@
 > **Fuente operativa:** [[11_Books/Book_02_Sombras_De_Poder/00_Book_Map]] · [[06_Relationships/Hitos]] · [[00_Biblia/00_Trilogy_Structure]] · [[06_Relationships/Kal_y_Chiara]] · [[06_Relationships/Momentos_de_Fractura]].
 >
 > **Estado:** sin prosa. ~~El Libro I termina en el Cap. 44 ("Ciao, bella"); este libro abre en
-> el Cap. 45~~ **SUPERADO (2026-10-01, CANON DEL AUTOR):** el Libro I termina en el Cap. 56 (archivo 50b)
+> el Cap. 45~~ **SUPERADO (2026-10-01, CANON DEL AUTOR):** el Libro I termina en el Cap. 47 (archivo 50b)
 > ("Ciao, bella" es la última línea del 50; el 50b es la llegada de Halbrook, al alba del 5 de
 > enero). Este libro abre con la respuesta de Chiara; número y título del primer capítulo
 > PENDIENTES. La reconciliación sigue planeada en
@@ -42,7 +42,7 @@
 Formulación interna equivalente: **¿qué le ocurre a una pareja cuando amar al otro empieza a
 tener consecuencias territoriales?**
 
-El libro abre inmediatamente después del *"Ciao, bella"* y del Cap. 56 (archivo 50b) que cierran el Libro I, y cierra con
+El libro abre inmediatamente después del *"Ciao, bella"* y del Cap. 47 (archivo 50b) que cierran el Libro I, y cierra con
 **H1** (clímax) y el reveal del embarazo en la chimenea de Villa Candelaria. ~~y la llegada física de **Warren Halbrook** a San
 Aurelio — la misma bisagra de salida que antes cerraba el Libro I completo~~ (superado 2026-10-01/02: Halbrook llega en el 50b del Libro I). Todo lo que sigue
 en este archivo ocurre **antes** de la Guerra de los Tres, que sigue perteneciendo a *Voto de
@@ -291,7 +291,7 @@ Viendo a Kal a lo lejos, bajo el arco de flores, con el atardecer de fondo, Chia
 
 > *Sustituido (2026-09-29, autor): la primera formulación registraba el pensamiento como "Que amo."; la idea completa es la frase de Mabel completada en voz baja con "Te amo." Transcripción: "marchiras" → "marchitas", confirmado por el autor.*
 
-- **Por qué es la primera vez:** tras su matrimonio con [[02_Characters/Alessio_Lusardi|Alessio]] había decidido no volver a creer en el amor, ni enamorarse, ni casarse. A Alessio no lo amó así. *Roma Atrii* (Libro I, Cap. 43 (archivo 38)) fue cifrado, juego, algo dicho de lado; aquí se lo admite a sí misma, sin disfraz y en presente, por primera vez en su vida.
+- **Por qué es la primera vez:** tras su matrimonio con [[02_Characters/Alessio_Lusardi|Alessio]] había decidido no volver a creer en el amor, ni enamorarse, ni casarse. A Alessio no lo amó así. *Roma Atrii* (Libro I, Cap. 35 (archivo 38)) fue cifrado, juego, algo dicho de lado; aquí se lo admite a sí misma, sin disfraz y en presente, por primera vez en su vida.
 - **La ironía (canon):** Kal ya lleva el anillo guardado en la billetera. Chiara cree que Kal no quiere casarse; Kal cree que ella no quiere volver a casarse por su matrimonio anterior. Los dos quieren. Tono: divertido, no angustioso.
 - **Encaje:** el anillo en la billetera sale del robo de la joyería (ver abajo), antes de esta boda. Stavanger paga la ironía.
 
@@ -373,7 +373,7 @@ volver a Chiara, a ellos y al futuro compartido, no sólo a un edificio.
 
 ### Cierre del Libro II: reveal en la chimenea — CANON DEL AUTOR (2026-10-02)
 
-> **SUPERSEDE** la coda de la llegada de Halbrook (pasó al Cap. 56 (archivo 50b) del Libro I) y precisa la regla anterior: el reveal ocurre la misma noche de H1, **después de dormir**.
+> **SUPERSEDE** la coda de la llegada de Halbrook (pasó al Cap. 47 (archivo 50b) del Libro I) y precisa la regla anterior: el reveal ocurre la misma noche de H1, **después de dormir**.
 
 - **Dónde:** planta baja de [[05_Locations/La_Villa|Villa Candelaria]], frente a la chimenea, **sólo a la luz del fuego.** Desde la Villa se ve San Aurelio: la mitad de los rascacielos y la mitad de los suburbios del sur (CANON DEL AUTOR).
 - **Secuencia (CANON DEL AUTOR):**
@@ -396,7 +396,7 @@ volver a Chiara, a ellos y al futuro compartido, no sólo a un edificio.
 - A lo largo del Libro II, **Chiara escribe un nombre en cursiva** en su papel de canela y vainilla ([[02_Characters/Chiara_Bellandi]]), como si verlo en el papel le respondiera por qué lo escribió en primer lugar. **El texto nunca revela lo escrito.** Se repite como un tic, sin mucho foco.
 - Paga en la chimenea: Kal lee el nombre en voz alta. Chiara no lo dice.
 - **Empieza antes de que Chiara sepa que está embarazada** (DISEÑO aprobado 2026-10-02): al principio ella de verdad no sabe por qué lo escribe, así que su POV no oculta nada; cuando lo sabe, el tic sigue igual.
-- **Significado (CANON DEL AUTOR, 2026-10-02):** mezcla de dos lecturas. *Elena/Helena*, "la que resplandece": la luz en la oscuridad de la violencia de la ciudad, contraste directo con la tesis de *Sombras de Poder*. Y *Elenna*, "hacia las estrellas": guiño a [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/20_El_Mirador|Cap. 20 (archivo 20), El mirador]] ("el único lugar de la ciudad donde se ven las estrellas"; el padre de Chiara y las constelaciones, "el único mapa que nadie podía cambiarme de sitio"; Kal rompe ahí su regla y habla de Dale y Ruth: "Es una familia rota. La que yo tengo."; Chiara lo guarda "como algo que un día, si la vida se lo permitía, iba a devolverle en otra forma"). **Regla:** el significado no se dice en el Libro II; lo cumplen el fuego, la colocación del tic y, en relectura, el mirador. Nada de diccionarios ni explicaciones.
+- **Significado (CANON DEL AUTOR, 2026-10-02):** mezcla de dos lecturas. *Elena/Helena*, "la que resplandece": la luz en la oscuridad de la violencia de la ciudad, contraste directo con la tesis de *Sombras de Poder*. Y *Elenna*, "hacia las estrellas": guiño a [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/20_El_Mirador|Cap. 18 (archivo 20), El mirador]] ("el único lugar de la ciudad donde se ven las estrellas"; el padre de Chiara y las constelaciones, "el único mapa que nadie podía cambiarme de sitio"; Kal rompe ahí su regla y habla de Dale y Ruth: "Es una familia rota. La que yo tengo."; Chiara lo guarda "como algo que un día, si la vida se lo permitía, iba a devolverle en otra forma"). **Regla:** el significado no se dice en el Libro II; lo cumplen el fuego, la colocación del tic y, en relectura, el mirador. Nada de diccionarios ni explicaciones.
 - **Origen (DECISIÓN DEL AUTOR, 2026-11-06):** un cuento de Marta; Chiara lo olvidó y lo recuerda la mano. Detalle y reglas en [[11_Books/Book_02_Sombras_De_Poder/00_Diseno_Nombre_Y_Embarazo]].
 - **El tic va atado al ritual de las velas (CANON DEL AUTOR, 2026-10-02; supersede el anclaje "después de cada golpe de sombra"):** Chiara escribe el nombre cada vez que Kal sale y corre riesgos por "su trabajo", junto a la vela ([[04_Concepts/Fe_y_Velas]]). ~~Nace con el ritual, en F4: la primera vela es la primera vez que escribe el nombre.~~ **Superado (CANON DEL AUTOR, 2026-10-13):** el tic nace en la Parte I, en los momentos de tensión de Chiara (la primera vez, en su oficina tras identificar a Fabrizio), y la vela le da después su forma devota. Colocación: [[11_Books/Book_02_Sombras_De_Poder/00_Diseno_Nombre_Y_Embarazo]]. Junto a la oración, el lector lo lee como devoción.
   - **CANON DEL AUTOR (2026-10-13):** **lo quema en la vela** cada vez, salvo una: la noche de H1, antes de que Kal salga, lo escribe y no lo quema; es el papel que cae de la manta. Kal la vio escribir en enero y no pregunta en once meses, por culpa. Colocación y señales: [[11_Books/Book_02_Sombras_De_Poder/00_Diseno_Nombre_Y_Embarazo]]. La vela puede aparecer seguido; ~~la cámara sólo atrapa el papel 4–5 veces, elegidas entre las noches de mayor riesgo para Kal.~~ Hoy son nueve apariciones, contando los momentos de tensión de Chiara (2026-10-13).
@@ -415,9 +415,9 @@ volver a Chiara, a ellos y al futuro compartido, no sólo a un edificio.
 > **SUPERSEDE** la ironía dramática de H1 en primera lectura ("Chiara puede perder al padre de su hija antes de que él siquiera sepa que existe" deja de ser información del lector): **el lector descubre el embarazo al mismo tiempo que Kal, en la chimenea.** Dentro de la historia Chiara sigue sabiéndolo antes de H1; el texto lo protege. La ironía de H1 pasa a cobrar en relectura.
 
 - **Señales mínimas, sin foco (CANON DEL AUTOR):** llega tarde a reuniones; se fija más en lo que come; deja de beber y de fumar de golpe y lo justifica con que Kal le dijo que era malo. Detalles sueltos, nunca juntos en una misma página.
-  - El pretexto del cigarro ya está sembrado en el Libro I, Cap. 55 (archivo 50) ("No me veas así. Lo digo porque me importas."): la excusa es creíble porque el lector la vio nacer.
+  - El pretexto del cigarro ya está sembrado en el Libro I, Cap. 46 (archivo 50) ("No me veas así. Lo digo porque me importas."): la excusa es creíble porque el lector la vio nacer.
   - Regla (DISEÑO aprobado 2026-10-02): el vino es parte de su identidad (viñedos, catas, la botella de H16). Rechazar una copa en una ocasión marcada sería una pista demasiado visible; mejor que deje de beber donde nadie lo anota.
-- **El disfraz (DISEÑO aprobado por el autor, 2026-10-02):** Chiara quiere contarle a Kal "otra cosa", y el lector cree que el secreto es esa otra cosa. Candidato natural (DISEÑO): **la cuenta abierta con Dario** (Libro I, Cap. 52 (archivo 47); Kal no la sabe). Es un secreto real, pesado y con fecha de cobro rumbo a H1: el lector lo tiene presente y no busca otro.
+- **El disfraz (DISEÑO aprobado por el autor, 2026-10-02):** Chiara quiere contarle a Kal "otra cosa", y el lector cree que el secreto es esa otra cosa. Candidato natural (DISEÑO): **la cuenta abierta con Dario** (Libro I, Cap. 43 (archivo 47); Kal no la sabe). Es un secreto real, pesado y con fecha de cobro rumbo a H1: el lector lo tiene presente y no busca otro.
 - **Regla de POV (DISEÑO):** en los capítulos con POV de Chiara, su interioridad no miente; esquiva. Puede pensar en "lo que tiene que decirle" sin nombrarlo, y el lector lo carga a la deuda de Dario. Nada de rodeos artificiales que delaten que el narrador oculta algo; vale la misma regla que la de Harper en *Cuentas de Sangre* ([[02_Characters/Warren_Halbrook]], "Regla de POV").
 - **H1:** "Perché ti amo con tutto il mio cuore" se conserva tal cual, sola (CANON DEL AUTOR, ratificado 2026-10-02); en primera lectura suena a declaración de amor y en relectura carga a la hija.
 
@@ -428,9 +428,9 @@ doméstica. **No durante hemorragia, atención médica, baño ni pico emocional.
 
 ~~La coda se mantiene: un helicóptero aterriza en una instalación militar del área de San
 Aurelio; **Warren Halbrook llega físicamente**. Sin presentación pública ni exposición
-extensa.~~ (Superado: la coda pasó al Cap. 56 (archivo 50b) del Libro I; el libro cierra en la chimenea, ver arriba.) Fin del Libro II, antes del nacimiento de Elenna y antes de la guerra abierta.
+extensa.~~ (Superado: la coda pasó al Cap. 47 (archivo 50b) del Libro I; el libro cierra en la chimenea, ver arriba.) Fin del Libro II, antes del nacimiento de Elenna y antes de la guerra abierta.
 
-> **SUPERADO EN PARTE (2026-10-02, CANON DEL AUTOR):** Halbrook ya llegó físicamente en el Cap. 56 (archivo 50b) del Libro I; la coda del Libro II ~~queda por redefinir~~ quedó redefinida el mismo día: el reveal en la chimenea (ver "Cierre del Libro II", arriba). **Su siguiente aparición en prosa es la gala de beneficencia de Chiara, con el baile.**
+> **SUPERADO EN PARTE (2026-10-02, CANON DEL AUTOR):** Halbrook ya llegó físicamente en el Cap. 47 (archivo 50b) del Libro I; la coda del Libro II ~~queda por redefinir~~ quedó redefinida el mismo día: el reveal en la chimenea (ver "Cierre del Libro II", arriba). **Su siguiente aparición en prosa es la gala de beneficencia de Chiara, con el baile.**
 >
 > **SEMILLA CANÓNICA DEL AUTOR (2026-09-28) — el evento benéfico:** Chiara organiza o preside un evento benéfico; Halbrook aparece como nuevo benefactor. Chiara conoce primero al hombre (conversación y un baile) y después el nombre, cuando Kenji los presenta; reacción mínima. Primer duelo Chiara–Halbrook y primera entrada de Halbrook al circuito cívico (no presentarlo como campaña). Debe caer antes o después de su llegada física según decida el autor. Ver [[02_Characters/Warren_Halbrook]].
 
@@ -455,7 +455,7 @@ extensa.~~ (Superado: la coda pasó al Cap. 56 (archivo 50b) del Libro I; el lib
 - **III / TORNA A CASA:** conflicto final creciendo → Silas Crowe (mecanismo pendiente) →
   conflicto Varek → embarazo de Chiara → **H1 / `Perché ti amo con tutto il mio cuore.`** →
   regreso → recuperación mínima → reveal a Kal → familia futura / Elenna (reveal en la chimenea, fin del libro). ~~→ coda Halbrook en San
-  Aurelio~~ (pasó al Cap. 56 (archivo 50b) del Libro I).
+  Aurelio~~ (pasó al Cap. 47 (archivo 50b) del Libro I).
 
 ## Progresión de hogar — brújula de DISEÑO, no prosa
 
@@ -515,7 +515,7 @@ Fuente: migración de la incubadora de ChatGPT, validada por el autor el 2026-10
 ## Cierre del Libro II
 
 El Libro II termina exactamente donde [[00_Biblia/00_Trilogy_Structure]] lo fija: antes del
-nacimiento de Elenna, antes de la Guerra de los Tres abierta, con Halbrook ya en San Aurelio desde el cierre del Libro I (Cap. 56 (archivo 50b)).
+nacimiento de Elenna, antes de la Guerra de los Tres abierta, con Halbrook ya en San Aurelio desde el cierre del Libro I (Cap. 47 (archivo 50b)).
 *Voto de Ceniza* (Libro III) hereda esta escena tal cual — ver
 [[01_Timeline/01_Indice_Cronologico]] y [[01_Timeline/04_Libro_03_Voto_De_Ceniza]].
 

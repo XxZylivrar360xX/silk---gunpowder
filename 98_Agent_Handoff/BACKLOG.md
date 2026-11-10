@@ -5,7 +5,7 @@ Actualizado: 2026-10-29 (diferidos desde PENDING; antes 2026-10-14). Lectura por
 ## Continuidad y arquitectura
 
 - **Reseña de Partes I–II (ChatGPT, OP-01 a OP-10):** vigente la [[98_Agent_Handoff/ChatGPT/2026-10-29_recalibracion_resena_partes_I_II_corte_cap25|recalibración]] (corte en 25); el informe previo queda como historial. OP-06 resuelto (corte). OP-03 estudiado: [[98_Agent_Handoff/sessions/2026-10-30_claude_estudio_op03_robo_monarch]] (P1–P2 aplicados; P3–P6 a la beta). OP-02, 04, 05 y 07 estudiados: [[98_Agent_Handoff/sessions/2026-10-30_claude_estudio_op02_op04_op05_op07]] (Mantener/Observar; Nat inactiva hasta el Libro II, CANON 2026-10-30). OP-01, 09 y 10 sólo con lector beta; OP-08 sólo por caso concreto. No editar prosa por hipótesis. (Pasado desde PENDING el 2026-11-07.)
-- ~~**402 referencias dudosas de numeración** (2026-11-01)~~ **Resuelto 2026-11-10**: 42 corregidas a la numeración de 47; 23 ambiguas para el autor en [[98_Agent_Handoff/sessions/2026-11-10_claude_referencias_dudosas]]. Queda llevar a 47 las 917 sustituciones del 2026-11-01, que siguen en la numeración de 56.
+- ~~**402 referencias dudosas de numeración** (2026-11-01)~~ **Resuelto 2026-11-10**: 42 corregidas a la numeración de 47; 23 ambiguas para el autor en [[98_Agent_Handoff/sessions/2026-11-10_claude_referencias_dudosas]]. Las 917 sustituciones del 2026-11-01 se llevaron a 47 el mismo día (574 referencias): [[98_Agent_Handoff/sessions/2026-11-10_claude_referencias_56_a_47]].
 
 > **PENDIENTE:** reconciliación integral de los Book Maps y Hitos con [[00_Biblia/00_Trilogy_Structure]], [[01_Timeline/02_Libro_01_Mascaras_De_Cristal]] y el plan de cierre de III. Usar los Book Maps para detalle; no volver a expandir fases/beats históricos. Revisar carpetas vestigiales sin borrarlas por iniciativa.
 
@@ -94,7 +94,7 @@ Prosa en espera hasta cerrar el Libro I. Al empezar: recordar la muerte de Amand
   - Corrado/Manfred Gabe: cruzar las fechas de Jim y Manfred con la investigación del Cap. 9.
   - Mesa tres del Cap. 13 (archivo 12) = Nereo Volpi (DISEÑO del autor): pago retroactivo; no mezclarla con el hombre del Peugeot.
   - Sembrar *El Faro* antes de que Chiara lo tome; no confundirlo con *El Farol* (11).
-  - Ciclo de Elenna, Cap. 33 (archivo 29) del Libro I: reescribir el pasaje de Vivian como código sobre el niño escondido (canon lote 3). Requiere encargo.
+  - Ciclo de Elenna, Cap. 27 (archivo 29) del Libro I: reescribir el pasaje de Vivian como código sobre el niño escondido (canon lote 3). Requiere encargo.
   - Incubadora de referencia: [[98_Agent_Handoff/sessions/2026-10-03_claude_buzon_chatgpt_nueve_notas]].
 - **Cobros CANON para el Libro II, diferidos desde PENDING (2026-10-22; texto íntegro en [[98_Agent_Handoff/archive/2026-10-22_PENDING]]):**
   - Susurro a Varga (autor, 2026-10-17): en el Libro I, Cap. 4 (archivo 04), Kal le dijo a Varga «No querrá terminar como Keene en una banca, ¿verdad?»; en el Cap. 6 (archivo 05c) Chiara pregunta dos veces y Kal lo difiere («Se lo voy a decir cuando firmemos un contrato de asociación oficial»). Al llegar a la reunión de Kal con Dario, una línea muy sencilla. Cobro: al firmar la cadena hotelera (primera sociedad legítima), Chiara pregunta «¿Y ya me vas a decir?» y Kal se lo cuenta.

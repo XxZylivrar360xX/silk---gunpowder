@@ -1,6 +1,6 @@
 # Ficha de Voz - Irene Salcedo
 
-> Recalibrada 2026-10-04 ([[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Dialogo_Terceros_Parte_I_Tanda_2]]). Sin línea canon del autor. Ancla: la negociación del Cap. 18 (archivo 17). Vuelve en el Cap. 36 (archivo 32) y en *Sombras de Poder*, donde su trato con Kal es el parteaguas. Ficha de personaje: [[02_Characters/Irene_Salcedo]].
+> Recalibrada 2026-10-04 ([[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Dialogo_Terceros_Parte_I_Tanda_2]]). Sin línea canon del autor. Ancla: la negociación del Cap. 16 (archivo 17). Vuelve en el Cap. 30 (archivo 32) y en *Sombras de Poder*, donde su trato con Kal es el parteaguas. Ficha de personaje: [[02_Characters/Irene_Salcedo]].
 > **Regla de uso:** las muestras enseñan registro; no se copian literales en prosa nueva.
 
 ## Cadencia y sintaxis
@@ -11,7 +11,7 @@ Corta, directa, de comerciante que no necesita convencer a nadie de nada. No ame
 
 ## Oficio en la boca
 
-Mostrador y libreta. Todo entra en la cuenta: lo que se llevaron, lo que se devuelve, lo que se debe "aparte", el plazo. **Nada es gratis, tampoco la información** (decisión del autor, 2026-10-04): el aviso final del Cap. 18 (archivo 17) sobre el rumor plantado va anotado como deuda. Kal sale del Canal Seco debiendo algo, y eso siembra el trato del 32 y del Libro II.
+Mostrador y libreta. Todo entra en la cuenta: lo que se llevaron, lo que se devuelve, lo que se debe "aparte", el plazo. **Nada es gratis, tampoco la información** (decisión del autor, 2026-10-04): el aviso final del Cap. 16 (archivo 17) sobre el rumor plantado va anotado como deuda. Kal sale del Canal Seco debiendo algo, y eso siembra el trato del 32 y del Libro II.
 
 Lo que quiere en una escena: cobrar y que se vea que cobró. La marca de La Ronda en la puerta del minimarket es un anuncio, no venganza.
 
@@ -38,7 +38,7 @@ No gesticula de más. Cuenta con las manos (dinero, tiempo, paciencia). Abre y c
 
 ## Muestras retiradas
 
-Las tres muestras anteriores ("No vine a pelear. Vine a cobrar", "Un error no es una guerra. Pero tampoco es gratis", "Devuélvame lo mío con algo encima...") ya están gastadas en el Cap. 18 (archivo 17). No se vuelven a usar en prosa nueva.
+Las tres muestras anteriores ("No vine a pelear. Vine a cobrar", "Un error no es una guerra. Pero tampoco es gratis", "Devuélvame lo mío con algo encima...") ya están gastadas en el Cap. 16 (archivo 17). No se vuelven a usar en prosa nueva.
 
 ## Muestra de registro
 

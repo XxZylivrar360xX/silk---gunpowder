@@ -17,7 +17,7 @@
 **Estado:** vivo.
 **Entorno principal:** La Almendra / taller del barrio.
 
-> **CANON DEL AUTOR (2026-10-28):** en el Cap. 18 (archivo 17) Danny **mintió**: «el del billar» que le pasó el rumor de la bodega de Irene es **Mei-Lin**, y la cubre porque ella le consigue droga (heroína de los Devil Splicers). En el 22b lee el auto de los ladrones y vuelve a callar. DISEÑO: la caída de la banda le corta el suministro; la mentira queda como candidata para F2 ([[11_Books/Book_01_Mascaras_De_Cristal/Part_02_Con_Peores_Personas_He_Tratado/00_Plan_Robo_Monarch]]).
+> **CANON DEL AUTOR (2026-10-28):** en el Cap. 16 (archivo 17) Danny **mintió**: «el del billar» que le pasó el rumor de la bodega de Irene es **Mei-Lin**, y la cubre porque ella le consigue droga (heroína de los Devil Splicers). En el 22b lee el auto de los ladrones y vuelve a callar. DISEÑO: la caída de la banda le corta el suministro; la mentira queda como candidata para F2 ([[11_Books/Book_01_Mascaras_De_Cristal/Part_02_Con_Peores_Personas_He_Tratado/00_Plan_Robo_Monarch]]).
 
 ---
 
@@ -110,7 +110,7 @@ Lo que opera hoy:
 - Tiene a Rocco.
 - Está presente con [[02_Characters/Nadir_Amrani]] en [[06_Relationships/Hitos]], H2-a.
 - Aparece con Kal, Nadir y [[02_Characters/Hector_Navarro]] en Gabriella's durante [[06_Relationships/Hitos]], H3-b.
-- En [[06_Relationships/Hitos]], H10, intenta un robo con [[02_Characters/Nadir_Amrani]] en una tienda dentro del territorio de [[03_Factions/La_Ronda_del_Canal]] y los atrapa la gente de Irene Salcedo — quedan retenidos justo cuando Héctor sufre su infarto. **PENDIENTE (respeta el pedido del autor de no profundizar todavía):** detalle del robo y de cómo termina para ellos. **RESUELTO EN PARTE (2026-09-03):** es Danny quien trae el rumor de calle sobre la bodega de La Ronda (cosecha lista, guardián tuerto y borracho) — ver [[02_Characters/Nadir_Amrani]] y [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/15_El_Porton|Cap. 16 (archivo 15)]]. Sigue pendiente qué pasa exactamente cuando van a verlo.
+- En [[06_Relationships/Hitos]], H10, intenta un robo con [[02_Characters/Nadir_Amrani]] en una tienda dentro del territorio de [[03_Factions/La_Ronda_del_Canal]] y los atrapa la gente de Irene Salcedo — quedan retenidos justo cuando Héctor sufre su infarto. **PENDIENTE (respeta el pedido del autor de no profundizar todavía):** detalle del robo y de cómo termina para ellos. **RESUELTO EN PARTE (2026-09-03):** es Danny quien trae el rumor de calle sobre la bodega de La Ronda (cosecha lista, guardián tuerto y borracho) — ver [[02_Characters/Nadir_Amrani]] y [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/15_El_Porton|Cap. 15 (archivo 15)]]. Sigue pendiente qué pasa exactamente cuando van a verlo.
 > **CIRUGÍA EDITORIAL (2026-09-26):** la apertura del Cap. 15 con Danny trayendo el rumor se cortó de la prosa (5-ter). Su parte queda en el Cap. 17 ("Un tipo que conozco de vista… cerca del Monarch"). Ver [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Caps_15-17]].
 
 ---

@@ -3,6 +3,8 @@
 **Estado:** APLICADO 2026-10-21 (decisión del autor: candidata recomendada en cada fila; 32, 39 y 40 se mantienen). **Ajuste 2026-10-22 (autor):** 16, 18, 21 y 22 vuelven a *El sobre rojo*, *El día nublado*, *El primer huésped* y *Causalidad* (decididos en la primera ronda, ver [[01_Timeline/08_Matriz_Renombramiento_Capitulos_Libro_I]]); 28 pasa de *Te queda grande* a **No hace falta** (de "*Cielo*, no hace falta."); 33 se queda con **Lo único que es mío** (decidido). **Ajuste 2026-10-25 (autor):** el actual Cap. 12 (archivo 10) cambia de *Los muchachos comen* a **Dos sillas vacías**.
 
 > **Numeración:** desde 2026-10-22 el Libro I usa numeración corrida definitiva (56 caps.); este documento cita la numeración anterior. Correspondencia en [[11_Books/Book_01_Mascaras_De_Cristal/00_Book_Map]].
+>
+> **Numeración de 47 (2026-11-10):** las referencias `Cap. N (archivo X)` del cuerpo pasaron a la numeración de 47 (nuevo cauce); las marcadas como históricas y los números sin archivo conservan su época. Equivalencias: [[01_Timeline/09_Equivalencias_Numeracion_Libro_I]].
 
 ## Regla propuesta
 
@@ -17,23 +19,23 @@ La primera candidata de cada fila es la recomendación del agente.
 | Cap. | Título actual | Candidatas (de la prosa) | Por qué |
 |---|---|---|---|
 | Cap. 12 (archivo 10) | **Dos sillas vacías** | Los muchachos comen · El balcón se queda | Toma la imagen final de la primera cena en la casa: seis comensales, dos lugares libres. La casa ya deja espacio para otros sin que nadie lo explique. |
-| Cap. 16 (archivo 15) | El portón | **Yo lo llevo** · La puerta ya estaba abierta | Cumple la promesa de traerle ella misma lo que le llegue; y decide no usar las llaves. |
+| Cap. 15 (archivo 15) | El portón | **Yo lo llevo** · La puerta ya estaba abierta | Cumple la promesa de traerle ella misma lo que le llegue; y decide no usar las llaves. |
 | Cap. 17 (archivo 16) | El sobre rojo | **Con miedo y todo** · Seis a cuatro | Línea de Héctor: "Se hace igual. Con miedo y todo." Resume a Kal frente a Chiara. "Seis a cuatro" cierra el capítulo con Marisol. |
-| Cap. 18 (archivo 17) | Cuentas claras | **Le quedé debiendo** · Avísenme | La deuda con Irene es un nombre: siembra el Tasador. Ojo: "Un nombre" chocaría con el Cap. 53 (archivo 48) *Su nombre*. |
-| Cap. 19 (archivo 18) | El día nublado | **Nadie lo llamó cita** · Siete años · Con sus reglas | Última línea ("Nadie llamó a eso una cita"). "Siete años" es la cuenta que los dos hacen en silencio. |
+| Cap. 16 (archivo 17) | Cuentas claras | **Le quedé debiendo** · Avísenme | La deuda con Irene es un nombre: siembra el Tasador. Ojo: "Un nombre" chocaría con el Cap. 44 (archivo 48) *Su nombre*. |
+| Cap. 17 (archivo 18) | El día nublado | **Nadie lo llamó cita** · Siete años · Con sus reglas | Última línea ("Nadie llamó a eso una cita"). "Siete años" es la cuenta que los dos hacen en silencio. |
 | *Lo que nadie estaba mirando* (escena eliminada, archivo 19) | Tierra buena | **Lo que nadie estaba mirando** · Yo llevo los tomates | "Es tierra que nadie más estaba mirando. / Eso es lo que la hace buena." Método de Kal en todo el libro. |
-| Cap. 20 (archivo 20) | El mirador | **Lo pequeño** · Llevo meses seguro · Por no decírmelo bonito | "Nunca miento en lo pequeño… te digo la verdad de lo pequeño." El capítulo de la primera intimidad bajo esa regla. |
-| Cap. 21 (archivo 21) | El primer huésped | **Volvemos adentro** · Más el orgullo | Última línea: los dos ya hablan como casa. Ojo: suena cerca del Cap. 35 (archivo 31) *Vamos a casa*. |
+| Cap. 18 (archivo 20) | El mirador | **Lo pequeño** · Llevo meses seguro · Por no decírmelo bonito | "Nunca miento en lo pequeño… te digo la verdad de lo pequeño." El capítulo de la primera intimidad bajo esa regla. |
+| Cap. 21 (archivo 21) | El primer huésped | **Volvemos adentro** · Más el orgullo | Última línea: los dos ya hablan como casa. Ojo: suena cerca del Cap. 29 (archivo 31) *Vamos a casa*. |
 | 22 | Causalidad | **Como variación** · Recargo nocturno | Última línea: Tommaso ya lo tenía anotado. "Recargo nocturno" haría eco del Cap. 4 (archivo 04) *Tarifa nocturna*. |
 | Cap. 25 *Bajo juramento* (archivo 24; fusión con el antiguo 28) | La letra pequeña | **Nada caro** · Por escrito | "Tienes cara de nada caro." Cierre del capítulo, víspera de la audiencia. |
 | Cap. 31 (archivo 27) | Riesgo pendiente | **Lleve equipaje** · No parecía optativo | La llamada de Halbrook en dos palabras: una cita a la que ya se faltó. |
 | Cap. 32 (archivo 28) | La correa | **No hace falta** (2026-10-22, autor; antes aplicado: ~~Te queda grande~~) · Mi puto teléfono · Hay un muro | Lo dice de la sudadera; vale también para lo que ella intentó sola. |
-| Cap. 33 (archivo 29) | El patio ajeno | **Una silla** · Un activo · Bienvenido, Mercer | El precio que ofrece Varek: "Una silla. / ¿En qué mesa? / En la que importa." |
-| Cap. 36 (archivo 32) | Línea directa | **Ahora sí me debe** · (mantener) | El título actual ya sale de la prosa ("Con línea directa a mí"); la alternativa es la línea de Irene. |
-| Cap. 37 (archivo 33) | Más de la cuenta | **Lo único que es mío** · Manca sale · Le dejé el viento | Chiara sobre Vento, justo antes del Cap. 38 (archivo 33b) *La mano*: el título se vuelve contra el lector. "Manca sale" es la alternativa ligera. |
+| Cap. 27 (archivo 29) | El patio ajeno | **Una silla** · Un activo · Bienvenido, Mercer | El precio que ofrece Varek: "Una silla. / ¿En qué mesa? / En la que importa." |
+| Cap. 30 (archivo 32) | Línea directa | **Ahora sí me debe** · (mantener) | El título actual ya sale de la prosa ("Con línea directa a mí"); la alternativa es la línea de Irene. |
+| Cap. 31 (archivo 33) | Más de la cuenta | **Lo único que es mío** · Manca sale · Le dejé el viento | Chiara sobre Vento, justo antes del Cap. 38 (archivo 33b) *La mano*: el título se vuelve contra el lector. "Manca sale" es la alternativa ligera. |
 | Cap. 44 (archivo 39) | Un par de días más | **(mantener)** | Ya cumple la regla: Kal lo repite tres veces y cada vez se oye más a evasiva. |
-| Cap. 45 (archivo 40) | Mecánico | **(mantener)** · No se lo decía a usted | Ya cumple: es la respuesta de Kal a "¿Y usted qué es?" frente a Valenti. |
-| Cap. 54 (archivo 49) | Enfrente | **Por si vuelve** · Buenos huesos · Il Consorzio no tiene prisa | La recepción, al final: "¿Quiere dejarle algún recado? Por si vuelve." |
+| Cap. 36 (archivo 40) | Mecánico | **(mantener)** · No se lo decía a usted | Ya cumple: es la respuesta de Kal a "¿Y usted qué es?" frente a Valenti. |
+| Cap. 45 (archivo 49) | Enfrente | **Por si vuelve** · Buenos huesos · Il Consorzio no tiene prisa | La recepción, al final: "¿Quiere dejarle algún recado? Por si vuelve." |
 
 ## Fuera de esta pasada
 

@@ -83,7 +83,7 @@ En *Cuentas de Sangre*, Volpi es el opuesto filosófico de Chiara: él usa infor
 
 ## Noche Marsh–Vera (CANON DEL AUTOR, 2026-10-03, lote 3)
 
-Durante el Libro I, por encargo de Dario y fuera de escena antes del amanecer del Cap. 33 (archivo 29): llega después de la muerte de los padres y de Vera, recoge el arma, desaparece los cuerpos, extrae a Dylan y lo entrega en la mansión. No mata a nadie esa noche. En el VII (isla) habla en fragmentos y no nombra a Blake. Ver [[07_Ideas/Libro_04_Incubadora/05_Volpi_y_Corrado]].
+Durante el Libro I, por encargo de Dario y fuera de escena antes del amanecer del Cap. 27 (archivo 29): llega después de la muerte de los padres y de Vera, recoge el arma, desaparece los cuerpos, extrae a Dylan y lo entrega en la mansión. No mata a nadie esa noche. En el VII (isla) habla en fragmentos y no nombra a Blake. Ver [[07_Ideas/Libro_04_Incubadora/05_Volpi_y_Corrado]].
 
 ## Participación en *Sombras de Poder* — CANON DEL AUTOR (2026-10-12/13)
 

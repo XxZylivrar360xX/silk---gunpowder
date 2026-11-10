@@ -2,7 +2,7 @@
 
 *Ficha de Lugar*
 
-**Qué es:** el lago de pesca de El Patio, escenario de H7 ([[11_Books/Book_01_Mascaras_De_Cristal/Part_02_Con_Peores_Personas_He_Tratado/31_Vamos_A_Casa|Cap. 35 (archivo 31)]]).
+**Qué es:** el lago de pesca de El Patio, escenario de H7 ([[11_Books/Book_01_Mascaras_De_Cristal/Part_02_Con_Peores_Personas_He_Tratado/31_Vamos_A_Casa|Cap. 29 (archivo 31)]]).
 **Dónde:** [[05_Locations/San_Aurelio]], cerros del noreste, **más allá de Las Gemelas** (CANON DEL AUTOR, 2026-10-08). La carretera que lleva al desvío de tierra de las cascadas sigue cerro arriba; el lago queda al final, tras un último tramo de terreno irregular.
 **De quién es:** de nadie. Es de los muchachos por costumbre: Héctor dice que lleva cuarenta años pescando ahí.
 

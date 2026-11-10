@@ -67,7 +67,7 @@ Voz dulce; habla con cuidado (CANON DEL AUTOR). No necesita subir el tono para q
 
 - [[11_Books/Book_01_Mascaras_De_Cristal/Part_02_Con_Peores_Personas_He_Tratado/24c_El_Corral|Cap. 27, *Oveja entre lobos* (archivo 24c)]] (2026-10-29; CANON DEL AUTOR: coqueteo hostil sobre el Peugeot; prosa DISEÑO): reencuentro cara a cara con Kal (2026-11-07: ya no es la primera vez; «Hacía años que no la oía sin estática»), al final de su turno, en la comisaría de Calle Corona. Él reconoce la voz antes de verla; en la narración es «la teniente»; «Mercer. El de la grúa» y el *usted* son máscara para Voss. «Mercer. El de la grúa»; «Por eso digo las cosas por radio»; «Fue muy conveniente que lo descartaran»; lo compra («Domínguez frena en las rotondas») y los dos saben que fue demasiado limpio; se le escapa un *te*; deja de jugar al oír «Bellandi»; se despide con «Y manejá con cuidado, Mercer». No sabe que él es el conductor: lo sospecha.
 
-- [[11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/35_Sin_Fecha_De_Regreso|Cap. 40 (archivo 35)]] (2026-11-07, CANON DEL AUTOR; prosa DISEÑO): de uniforme, al terminar el turno, busca a Kal en el bar del casino («Vi tu auto en la rampa»). Kal se esconde; Chiara la reconoce. «No vengo de servicio, Ojos azules. Todavía.» Kal: «Alguien de antes».
+- [[11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/35_Sin_Fecha_De_Regreso|Cap. 33 (archivo 35)]] (2026-11-07, CANON DEL AUTOR; prosa DISEÑO): de uniforme, al terminar el turno, busca a Kal en el bar del casino («Vi tu auto en la rampa»). Kal se esconde; Chiara la reconoce. «No vengo de servicio, Ojos azules. Todavía.» Kal: «Alguien de antes».
 
 ## Conexiones
 

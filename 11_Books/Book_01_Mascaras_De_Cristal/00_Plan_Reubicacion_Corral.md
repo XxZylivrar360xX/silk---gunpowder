@@ -34,7 +34,7 @@ El ataque del Corral (Cap. 9, H12) queda a meses de la Parte II, pero la Parte I
 - **Del Corral actual se conserva para el nuevo 9:** el cierre en la casa común (el cuarto que "no gritaba de quién era", la palabra de Kal, el abrazo) y "Lo necesario. Hasta que ya no lo sea", ajustados a la deuda: aquí el que pide es Kal.
 - **Espejo de la aceptación (autor 2026-10-04: "más dramático dicho por ella"; reparto CONFIRMADO por el autor 2026-10-04):** en el 9 lo dice ella. Para ella es aceptar que puede contar con él; Kal lee que está dispuesta a ponerse en peligro por él. Malentendido real, como en el 28; la lectura de Kal se ve en lo que hace (le pide que se quede cerca), no se narra. Línea propuesta (DISEÑO): "Entonces que me vean contigo." En el 24c, el temblor corporal canon de H12 sigue igual (su mundo puede alcanzarlo a él), sin frase. Primero ella lo dice y él lo malinterpreta; después ella lo siente y no lo dice.
 
-## Corral reubicado como Cap. 27 (archivo 24c) (entre 24b y 25) — DISEÑO
+## Corral reubicado como Cap. 23 (archivo 24c) (entre 24b y 25) — DISEÑO
 
 - **Apertura:** residuo del 24b, no de la carrera de máscaras. El calendario (aniversario de Marta, homenaje de Alessio) se queda, y gana: el homenaje lo organiza Tommaso días después de mentir bajo juramento por Kal (24).
 - **Cuerpo:** casi íntegro. Llamada, Vento, hospital, "Te vas a mejorar…", guardia, el guardia de caballerizas, armas con Dario, tregua, "La tregua es por lo que le pasó, señor Mercer. No por ella.", alta, la coartada de las dos grietas, vigilancia, sedán gris, túnel este, parador.
@@ -69,7 +69,7 @@ El ataque del Corral (Cap. 9, H12) queda a meses de la Parte II, pero la Parte I
 
 ## Numeración — CANON DEL AUTOR (2026-10-04)
 
-Sin renumerar. El Corral pasa a ser el **Cap. 27 (archivo 24c)** (el archivo `09_El_Corral` se renombra a `24c_El_Corral` y se actualizan sus enlaces). El nuevo Cap. 9 toma el número 09 con título propio. Razón del autor: ni el EPUB ni el manuscrito muestran los números.
+Sin renumerar. El Corral pasa a ser el **Cap. 23 (archivo 24c)** (el archivo `09_El_Corral` se renombra a `24c_El_Corral` y se actualizan sus enlaces). El nuevo Cap. 9 toma el número 09 con título propio. Razón del autor: ni el EPUB ni el manuscrito muestran los números.
 
 ## Orden de trabajo propuesto
 

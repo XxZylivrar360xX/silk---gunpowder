@@ -20,7 +20,7 @@
 >
 > **Qué queda superado abajo:** el Hilo B (Kal ata a Vento al poste y se lo cuenta en el 33); en el Hilo C, «la fractura rompe el acuerdo» (el trato sigue, lo rompe el tiro); la decisión 3 (Kal llega antes de que Chiara decida con la veterinaria: ya no hay veterinaria ni decisión); la fila S1 y la fila T de «Dónde va cada cosa»; la fecha de mediados de octubre; la sección «La muerte — Cap. 38 (archivo 33b)»; y la «Sincronización pendiente» en lo que toca a esa fecha. Siguen en pie la decisión 1 (caballo de carreras del Monarch), la 4 (la muerte no va pegada al cumpleaños) y la 5 (sin viñedo). La línea «No había vuelto a bajar a las caballerizas desde Vento.» ya está en el Cap. 34 (archivo 36). Fuera de la Parte II: Varek le da el pésame en el Cap. 43 (archivo 47) (DECISIÓN DEL AUTOR, [[98_Agent_Handoff/DECISIONS]]).
 
-Plan de 2026-10-22 (Claude Code, encargo del autor). **Ejecutado el mismo día:** fecha y trato confirmados por el autor; prosa DISEÑO en la sección final del [[11_Books/Book_01_Mascaras_De_Cristal/Part_02_Con_Peores_Personas_He_Tratado/33_Mas_De_La_Cuenta|33]] y en el [[11_Books/Book_01_Mascaras_De_Cristal/Escenas_Eliminadas/33b_La_Mano_Version_2026-11-08|33b — La mano]] (enlace actualizado 2026-11-09: el archivo se retiró a Escenas eliminadas); sincronización hecha. El origen se ajustó a que Chiara llegó a San Aurelio al abrir la novela: compró a Vento en sus primeras semanas. Nombre de pista (DISEÑO): North Wind Rising. La coda del nombre de pista se descartó; el 33b cierra con "El domingo siguiente no bajó". Cada punto lleva su categoría. Fuentes: [[05_Locations/Hipodromo_Del_Monarch]], [[06_Relationships/Hitos#H16 — El cumpleaños / la mudanza oficial|H16]] y [[11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/36_Tambien_Las_Mananas|Cap. 41 (archivo 36)]].
+Plan de 2026-10-22 (Claude Code, encargo del autor). **Ejecutado el mismo día:** fecha y trato confirmados por el autor; prosa DISEÑO en la sección final del [[11_Books/Book_01_Mascaras_De_Cristal/Part_02_Con_Peores_Personas_He_Tratado/33_Mas_De_La_Cuenta|33]] y en el [[11_Books/Book_01_Mascaras_De_Cristal/Escenas_Eliminadas/33b_La_Mano_Version_2026-11-08|33b — La mano]] (enlace actualizado 2026-11-09: el archivo se retiró a Escenas eliminadas); sincronización hecha. El origen se ajustó a que Chiara llegó a San Aurelio al abrir la novela: compró a Vento en sus primeras semanas. Nombre de pista (DISEÑO): North Wind Rising. La coda del nombre de pista se descartó; el 33b cierra con "El domingo siguiente no bajó". Cada punto lleva su categoría. Fuentes: [[05_Locations/Hipodromo_Del_Monarch]], [[06_Relationships/Hitos#H16 — El cumpleaños / la mudanza oficial|H16]] y [[11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/36_Tambien_Las_Mananas|Cap. 34 (archivo 36)]].
 
 ## El problema
 
@@ -37,7 +37,7 @@ En prosa, Vento hoy recorre esta línea: aparece de pasada (5b, 6), sirve de esc
 | # | Decisión | Categoría |
 |---|---|---|
 | 1 | Vento fue **caballo de carreras del Monarch** | CANON DEL AUTOR |
-| 2 | La siembra va en el **Cap. 37 (archivo 33)** | CANON DEL AUTOR |
+| 2 | La siembra va en el **Cap. 31 (archivo 33)** | CANON DEL AUTOR |
 | 3 | Kal **llega antes** de que Chiara decida con la veterinaria | CANON DEL AUTOR — **SUPERSEDIDO por el nuevo cauce, ver arriba** (Vento muere en el corral; no hay veterinaria) |
 | 4 | La muerte **no va pegada al cumpleaños** | CANON DEL AUTOR; la fecha nueva es DISEÑO |
 | 5 | **Sin plan de viñedo**: Bellandi Ridge no entra en el Libro I | CANON DEL AUTOR |

@@ -15,7 +15,7 @@
 
 > **CANON DEL AUTOR (2026-10-18):** la coerción de Volpi por medio de la familia **pasa a [[02_Characters/Tommaso_Lusardi|Tommaso]]** (efecto del intercambio de lugares del 2026-10-12); Fabrizio ya no está coaccionado y su distancia del 41–42 se suavizó a ocupación.
 >
-> **CANON DEL AUTOR (2026-10-18): Paola está embarazada cuando él muere.** La hija póstuma es la futura prometida de Michael ([[02_Characters/Livia_Ferraro]], Libro VI). **Lo que iba a contarle en el desayuno era el embarazo** (CANON DEL AUTOR, 2026-10-18). En *Sombras de Poder* se entera después de identificar el cuerpo. **La escena con Paola (CANON DEL AUTOR, 2026-10-18):** tras identificar el cuerpo, Chiara llama a Paola sin decirle nada y la cita en su despacho del Monarch, para que sea privado. Paola llega alegre y Chiara se da cuenta de que ya está embarazada antes de darle la noticia, que la rompe. Lo trágico es ese orden. PENDIENTE: cómo se da cuenta Chiara (lo dice Paola, lo ve, lo adivina) y en qué capítulo cae. Da peso retroactivo a la terraza del Cap. 54 (archivo 49) («Hijos. ¿Quieres?»). Paola vuelve a Italia y se casa otra vez; la niña lleva el nombre de su abuela, Livia Rinaldi, y crece como **Livia Ferraro**, con el apellido del padrastro y sabiendo la verdad. Su abuela, Livia Rinaldi, titular de la Mesa (Cap. 45 (archivo 40)); derivado (DISEÑO, confirmar): Livia Rinaldi es la madre de Fabrizio, lo que responde en parte a «de qué capa italiana viene» (famiglia con silla en la Mesa).
+> **CANON DEL AUTOR (2026-10-18): Paola está embarazada cuando él muere.** La hija póstuma es la futura prometida de Michael ([[02_Characters/Livia_Ferraro]], Libro VI). **Lo que iba a contarle en el desayuno era el embarazo** (CANON DEL AUTOR, 2026-10-18). En *Sombras de Poder* se entera después de identificar el cuerpo. **La escena con Paola (CANON DEL AUTOR, 2026-10-18):** tras identificar el cuerpo, Chiara llama a Paola sin decirle nada y la cita en su despacho del Monarch, para que sea privado. Paola llega alegre y Chiara se da cuenta de que ya está embarazada antes de darle la noticia, que la rompe. Lo trágico es ese orden. PENDIENTE: cómo se da cuenta Chiara (lo dice Paola, lo ve, lo adivina) y en qué capítulo cae. Da peso retroactivo a la terraza del Cap. 45 (archivo 49) («Hijos. ¿Quieres?»). Paola vuelve a Italia y se casa otra vez; la niña lleva el nombre de su abuela, Livia Rinaldi, y crece como **Livia Ferraro**, con el apellido del padrastro y sabiendo la verdad. Su abuela, Livia Rinaldi, titular de la Mesa (Cap. 36 (archivo 40)); derivado (DISEÑO, confirmar): Livia Rinaldi es la madre de Fabrizio, lo que responde en parte a «de qué capa italiana viene» (famiglia con silla en la Mesa).
 >
 > **RESUELTO (CANON DEL AUTOR, 2026-10-13):** **iba a hablar.** Con Kal recién liberado y Chiara más fuerte, iba a contárselo a ella; Volpi lo silencia. **Contenido (2026-10-18):** el embarazo de Paola (ver arriba). Le abre la puerta a alguien que ya conocía ("desconocido" sólo para la ciudad).
 >
@@ -23,7 +23,7 @@
 
 ---
 
-> **CANON DEL AUTOR (2026-10-28):** falta a la junta de socios del robo del Monarch (Cap. 23 (archivo 22a), [[11_Books/Book_01_Mascaras_De_Cristal/Part_02_Con_Peores_Personas_He_Tratado/22a_La_Cifra]]) porque está con Paola y la niña; no es alejamiento. DISEÑO: llamó a Chiara dos veces antes de las siete.
+> **CANON DEL AUTOR (2026-10-28):** falta a la junta de socios del robo del Monarch (Cap. 20 (archivo 22a), [[11_Books/Book_01_Mascaras_De_Cristal/Part_02_Con_Peores_Personas_He_Tratado/22a_La_Cifra]]) porque está con Paola y la niña; no es alejamiento. DISEÑO: llamó a Chiara dos veces antes de las siete.
 
 ## Quien es
 
@@ -43,7 +43,7 @@ Su funcion es mostrar que el pasado italiano de Chiara no es un bloque unico. No
 
 - **Decisión del autor (2026-10-04):** actor más involucrado en la Parte I (hoy sólo habla en el Cap. 2); se diseña por capítulo. Ver [[12_Craft_Policies/voice/Fabrizio_Rinaldi]].
 
-> **Última plática (DISEÑO aprobado por el autor, 2026-10-18):** en la terraza sur del Monarch, al cierre del Cap. 54 (archivo 49) del Libro I. Pasado, presente y futuro; le pregunta a Chiara por hijos y desde ahí por Kal, y le promete un desayuno «con los dos delante» para contarle algo. Detalle en [[11_Books/Book_01_Mascaras_De_Cristal/00_Plan_Arco_Final_Sin_Kal]]. **Escrita (2026-10-18, prosa DISEÑO pendiente de lectura)** en [[11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/49_Enfrente]], noche de D12. DISEÑO de familia fijado ahí: esposa Paola; hijos Giada y Nico (Nico pide la luz del pasillo encendida: señal velada).
+> **Última plática (DISEÑO aprobado por el autor, 2026-10-18):** en la terraza sur del Monarch, al cierre del Cap. 45 (archivo 49) del Libro I. Pasado, presente y futuro; le pregunta a Chiara por hijos y desde ahí por Kal, y le promete un desayuno «con los dos delante» para contarle algo. Detalle en [[11_Books/Book_01_Mascaras_De_Cristal/00_Plan_Arco_Final_Sin_Kal]]. **Escrita (2026-10-18, prosa DISEÑO pendiente de lectura)** en [[11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/49_Enfrente]], noche de D12. DISEÑO de familia fijado ahí: esposa Paola; hijos Giada y Nico (Nico pide la luz del pasillo encendida: señal velada).
 
 ## Conexiones
 
@@ -53,7 +53,7 @@ Su funcion es mostrar que el pasado italiano de Chiara no es un bloque unico. No
 - [[02_Characters/Nereo_Volpi]] — lo mata al abrir el Libro II.
 - [[02_Characters/Lucia_Varek]] — llama a Chiara para identificar su cuerpo (Libro II, Cap. 1).
 - [[02_Characters/Livia_Ferraro]] — su hija póstuma, prometida de Michael (CANON 2026-10-18).
-- Livia Rinaldi (titular de la Mesa, Cap. 45 (archivo 40)) — abuela de la niña; derivado: su madre (DISEÑO, confirmar).
+- Livia Rinaldi (titular de la Mesa, Cap. 36 (archivo 40)) — abuela de la niña; derivado: su madre (DISEÑO, confirmar).
 
 ## Pendientes
 

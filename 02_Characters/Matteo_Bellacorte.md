@@ -52,7 +52,7 @@ Dentro del macroarco de *Cuentas de Sangre*, Matteo no vuelve sólo para entrega
 
 > **PENDIENTE:** destino final de Elio; texto exacto de esa nota privada; el miembro o voto de La Mesa que activa a Nereo; qué logra descubrir Matteo y en qué momento exacto vuelve en Libro III.
 
-> **Escrito en prosa (2026-09-20, Claude Code; actualizado el mismo día tras resolverse nombre/ciudad):** [[11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/35_Sin_Fecha_De_Regreso|Cap. 40 (archivo 35) — Sin fecha de regreso]], BORRADOR, dramatiza su salida abrupta (referida, no en escena — Matteo no aparece): la nota funcional que deja (ya con el núcleo canon "Elio desapareció. Tengo que volver a Génova...") y el diálogo del despacho nombran a Elio y a Génova. Su oficio y qué descubrió siguen sin mencionarse en prosa — permanecen `[PENDIENTE]`.
+> **Escrito en prosa (2026-09-20, Claude Code; actualizado el mismo día tras resolverse nombre/ciudad):** [[11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/35_Sin_Fecha_De_Regreso|Cap. 33 (archivo 35) — Sin fecha de regreso]], BORRADOR, dramatiza su salida abrupta (referida, no en escena — Matteo no aparece): la nota funcional que deja (ya con el núcleo canon "Elio desapareció. Tengo que volver a Génova...") y el diálogo del despacho nombran a Elio y a Génova. Su oficio y qué descubrió siguen sin mencionarse en prosa — permanecen `[PENDIENTE]`.
 
 ## Reglas de escritura
 

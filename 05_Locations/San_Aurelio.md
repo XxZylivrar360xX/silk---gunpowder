@@ -109,9 +109,9 @@ San Aurelio es una ciudad ficticia de Estados Unidos. Puede incorporar cultura l
 
 **La mansión de Varek** — donde Kal se le ofrece, en el patio ([[06_Relationships/Hitos]], H6). **PENDIENTE:** ficha propia.
 
-**Las Gemelas (las cascadas)** — apartado, con ruido de naturaleza y sin interrupciones. **El primer lugar del libro que no es territorio de nadie**, y donde Kal y Chiara sellan su pacto. **Aspecto (CANON DEL AUTOR, 2026-10-06):** caída alta en varios saltos dentro de una hondonada cerrada de roca oscura con musgo y helecho, poza verde, banco de piedras grandes en una orilla y luz difusa sin sol directo. Se baja a pie desde donde termina el camino de tierra. Es el verde más húmedo de la región: no se seca ni en el peor calor del verano. **Nombre y ubicación (CANON DEL AUTOR, 2026-10-06):** *Las Gemelas*, por las dos caídas altas, una frente a la otra; cerros del noreste. La carretera "al norte" del Cap. 33 (archivo 29) tuerce hacia allá. Idealización visual (no es canon de detalle): [[99_Reference/location_references/Las_Gemelas_idealizacion.webp]].
+**Las Gemelas (las cascadas)** — apartado, con ruido de naturaleza y sin interrupciones. **El primer lugar del libro que no es territorio de nadie**, y donde Kal y Chiara sellan su pacto. **Aspecto (CANON DEL AUTOR, 2026-10-06):** caída alta en varios saltos dentro de una hondonada cerrada de roca oscura con musgo y helecho, poza verde, banco de piedras grandes en una orilla y luz difusa sin sol directo. Se baja a pie desde donde termina el camino de tierra. Es el verde más húmedo de la región: no se seca ni en el peor calor del verano. **Nombre y ubicación (CANON DEL AUTOR, 2026-10-06):** *Las Gemelas*, por las dos caídas altas, una frente a la otra; cerros del noreste. La carretera "al norte" del Cap. 27 (archivo 29) tuerce hacia allá. Idealización visual (no es canon de detalle): [[99_Reference/location_references/Las_Gemelas_idealizacion.webp]].
 
-**[[05_Locations/El_Lago|El lago]]** — el lago de pesca de El Patio, **más allá de Las Gemelas** (CANON DEL AUTOR, 2026-10-08): la carretera pasa el desvío de las cascadas y sigue cerro arriba. Escenario de H7 (Cap. 35 (archivo 31)).
+**[[05_Locations/El_Lago|El lago]]** — el lago de pesca de El Patio, **más allá de Las Gemelas** (CANON DEL AUTOR, 2026-10-08): la carretera pasa el desvío de las cascadas y sigue cerro arriba. Escenario de H7 (Cap. 29 (archivo 31)).
 
 **[[05_Locations/Camp_Alder|Camp Alder]]** — complejo militar al noreste, donde los civiles no tienen acceso. La fuente del armamento largo que Kal ofrece a Varek en H6.
 
@@ -129,15 +129,15 @@ San Aurelio es una ciudad ficticia de Estados Unidos. Puede incorporar cultura l
 
 Nacieron en la prosa del arco. Los cuatro primeros tienen ficha propia desde el 2026-10-08. Registro: [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Caps_44-50b_Arco_Final]], § 5 de E2.
 
-**[[05_Locations/Hotel_Pacifica|Hotel Pacífica]]** — enfrente del Monarch, sobre el Paseo Pacífica, en la punta oeste de La Isla. Es un hotel de los años veinte, de la misma década que el hotel viejo sobre el que se construyó el Monarch: "su propio edificio del revés". Valenti ocupa la suite de esquina del piso once, que mira al Monarch (Cap. 54 (archivo 49)).
+**[[05_Locations/Hotel_Pacifica|Hotel Pacífica]]** — enfrente del Monarch, sobre el Paseo Pacífica, en la punta oeste de La Isla. Es un hotel de los años veinte, de la misma década que el hotel viejo sobre el que se construyó el Monarch: "su propio edificio del revés". Valenti ocupa la suite de esquina del piso once, que mira al Monarch (Cap. 45 (archivo 49)).
 
-**[[05_Locations/Bodega_Nueve|La bodega nueve del Puerto Viejo]]** — una de las bodegas de Terminal Road, con oficina en alto sobre los muelles. Ahí Chiara entrega las armas largas y queda debiéndole a Dario la cuenta abierta (Cap. 52 (archivo 47)). Era "la catorce" y se corrigió el 2026-10-03.
+**[[05_Locations/Bodega_Nueve|La bodega nueve del Puerto Viejo]]** — una de las bodegas de Terminal Road, con oficina en alto sobre los muelles. Ahí Chiara entrega las armas largas y queda debiéndole a Dario la cuenta abierta (Cap. 43 (archivo 47)). Era "la catorce" y se corrigió el 2026-10-03.
 
-**[[05_Locations/La_Golondrina|La Golondrina]]** — cantina de Santa Brígida, frente a la parroquia, con cuarto del fondo y patio trasero. Ahí, el domingo a las nueve de la noche, después de la última misa, Chiara contrata con Rafe Domínguez el asalto al convoy, y Maribel anota su nombre (Cap. 53 (archivo 48)).
+**[[05_Locations/La_Golondrina|La Golondrina]]** — cantina de Santa Brígida, frente a la parroquia, con cuarto del fondo y patio trasero. Ahí, el domingo a las nueve de la noche, después de la última misa, Chiara contrata con Rafe Domínguez el asalto al convoy, y Maribel anota su nombre (Cap. 44 (archivo 48)).
 
 **[[05_Locations/Puente_De_La_Cementera|El puente de la cementera]]** — puente de un carril sobre la vía de la cementera, en la carretera del condado al sureste de Camp Alder, donde todo frena. Es el punto del asalto al convoy del traslado (Caps. 48 y 50). Una foto de Chiara con Mei-Lin en el puente aparece en la carpeta del 50b.
 
-**El teatro de la calle Alameda** — de pasada, en la despedida de Valenti (Cap. 54 (archivo 49)).
+**El teatro de la calle Alameda** — de pasada, en la despedida de Valenti (Cap. 45 (archivo 49)).
 
 ---
 

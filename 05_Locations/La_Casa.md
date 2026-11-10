@@ -99,7 +99,7 @@ Y la mujer que vuelve habitable el conjunto es Chiara. Él pidió *un loft para 
 
 > **Regla de escritura: nadie lo comenta nunca.** Ni él, ni ella, ni el narrador. El lector hace la cuenta solo — y la vuelve a hacer cada vez que esa casa aparece, incluida la noche del baño en [[06_Relationships/Hitos]], H1.
 
-> **RESUELTO (CANON DEL AUTOR, 2026-10-04):** Chiara no lo sabe al empezar a diseñarla; Kal se lo dice en la discusión de presupuestos del Cap. 10, sólo el hecho ("Era de mis padres"). La historia de Dale y Ruth sigue reservada al mirador del Cap. 20 (archivo 20). Ver [[06_Relationships/Hitos]], H14.
+> **RESUELTO (CANON DEL AUTOR, 2026-10-04):** Chiara no lo sabe al empezar a diseñarla; Kal se lo dice en la discusión de presupuestos del Cap. 10, sólo el hecho ("Era de mis padres"). La historia de Dale y Ruth sigue reservada al mirador del Cap. 18 (archivo 20). Ver [[06_Relationships/Hitos]], H14.
 
 ---
 
