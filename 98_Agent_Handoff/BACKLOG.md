@@ -45,6 +45,9 @@ Actualizado: 2026-10-29 (diferidos desde PENDING; antes 2026-10-14). Lectura por
   - **Danny y la deuda con Irene (revisar al llegar al Cap. 37):** en el 20 el trato compromete a los dos; en *Línea directa* (archivo 32) Irene libera sólo a Nadir y cambia lo pendiente por un favor de Kal. Falta una resolución equivalente para Danny. No rompe el 20.
   - **Bonnie:** la numeración vieja de libros en su ficha la corrige el autor.
   - **Mantenimiento:** carpetas de uso bajo, sólo tras contrastar dependencias. Buzón ChatGPT: notas 2026-10-05 a 14, procesadas, siguen en `ChatGPT/`; archivar sólo con orden del autor.
+- **Movidos íntegros de PENDING (2026-11-09, rotación; sin resolver):**
+  - **Diálogo de terceros (Parte I).** Plan: [[13_Auditorias/Book_01_Mascaras_De_Cristal/Plan_Cirugia_Terceros_Parte_I]]. Falta consolidar S1 (Irene, Danny, Walt, La Ronda) y diseñar a Fabrizio en la Parte I. El cabo del billar y el pago a Irene quedaron resueltos en el [[11_Books/Book_01_Mascaras_De_Cristal/Part_02_Con_Peores_Personas_He_Tratado/00_Plan_Robo_Monarch|plan del robo]] (DISEÑO).
+  - **Protolectura (caps. 1–8):** preguntas en [[99_Reference/ChatGPT_puntos_atencion_caps_01_08_2026-10-19]].
 
 ## Personajes y confirmaciones menores
 

@@ -1,6 +1,6 @@
 # Pendientes activos
 
-Actualizado: 2026-11-08. Máximo 800 palabras; las decisiones de fondo van en [[98_Agent_Handoff/BACKLOG]]. Anterior íntegro: [[98_Agent_Handoff/archive/2026-11-07_PENDING]]. **Numeración:** salvo las entradas fechadas desde el 2026-11-01, los números de abajo pueden ser anteriores; tabla en [[01_Timeline/09_Equivalencias_Numeracion_Libro_I]]. `N:línea` cita archivo.
+Actualizado: 2026-11-09 (rotación). Máximo 800 palabras; las decisiones de fondo van en [[98_Agent_Handoff/BACKLOG]]. Anterior íntegro: [[98_Agent_Handoff/archive/2026-11-09_PENDING]]. **Numeración:** salvo las entradas fechadas desde el 2026-11-01, los números de abajo pueden ser anteriores; tabla en [[01_Timeline/09_Equivalencias_Numeracion_Libro_I]]. `N:línea` cita archivo.
 
 ## *Sombras de Poder* (Libro II): decide el autor
 
@@ -35,12 +35,6 @@ Plan: [[11_Books/Book_01_Mascaras_De_Cristal/00_Plan_Arco_Final_Sin_Kal]]. Todo 
 
 - Leer la terraza sur del 55 y los retoques del 47–48.
 
-## Diálogo de terceros (Parte I)
-
-Plan: [[13_Auditorias/Book_01_Mascaras_De_Cristal/Plan_Cirugia_Terceros_Parte_I]].
-
-- **Falta:** consolidar S1 (Irene, Danny, Walt, La Ronda) y diseñar a Fabrizio en la Parte I. El cabo del billar y el pago a Irene quedaron resueltos en el [[11_Books/Book_01_Mascaras_De_Cristal/Part_02_Con_Peores_Personas_He_Tratado/00_Plan_Robo_Monarch|plan del robo]] (DISEÑO).
-
 ## Decisiones que dejó la lectura del libro
 
 - **Vento:** leer el final del 38 y el 39 (DISEÑO; "North Wind Rising" incluido). [[11_Books/Book_01_Mascaras_De_Cristal/00_Plan_Vento]].
@@ -50,9 +44,7 @@ Plan: [[13_Auditorias/Book_01_Mascaras_De_Cristal/Plan_Cirugia_Terceros_Parte_I]
 - **Sin ficha de voz** (Parte III): Bonnie, Mei-Lin, Garrett, Tyler, Blake, Ettore y Livia Rinaldi.
 - **Propagación de la Parte II que falta** (fuera del encargo del 2026-11-08): `00_Plan_Vento` y `Hipodromo_Del_Monarch` (el tiro, el seguro, el entierro y el caballerango), `00_Plan_Robo_Monarch` (beats 4 y 7, la grúa), `Mapa_POV_Libro_I`, `Red_Civil_de_Chiara`, y `voice/Leone_Valenti` e `Il_Consorzio` (lo del 19).
 
-- **Protolectura (caps. 1–8):** preguntas en [[99_Reference/ChatGPT_puntos_atencion_caps_01_08_2026-10-19]].
-- **Reseña de Partes I–II (ChatGPT) y 402 referencias dudosas de numeración:** diferidas en [[98_Agent_Handoff/BACKLOG#Continuidad y arquitectura]].
 - **Gesto de manos:** revisar en cada capítulo.
 - **Portada y Nota Editorial:** portada ≥1600×2560 para KDP; título de `00_Nota_Editorial.md`, del autor.
 - **Exportación:** EPUB, PDF y audio al día (2026-11-06); regenerar según CLAUDE.md.
-- Diferidos en [[98_Agent_Handoff/BACKLOG]]: Q24, cobros del Libro I, aura, Halbrook, Corrado/Manfred, mesa tres, *El Faro*, Cap. 34, susurro a Varga y «Usted es alta».
+- Diferidos en [[98_Agent_Handoff/BACKLOG]]: reseña de Partes I–II (ChatGPT), 402 referencias dudosas, diálogo de terceros (Parte I), protolectura de los caps. 1–8, Q24, cobros del Libro I, aura, Halbrook, Corrado/Manfred, mesa tres, *El Faro*, Cap. 34, susurro a Varga y «Usted es alta».

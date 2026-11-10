@@ -54,7 +54,7 @@ Durante la compactación otra sesión agregó el Cap. 40. También se conservaro
 
 - [[98_Agent_Handoff/archive/2026-09_sesiones]]: enlaces retirados del registro reciente.
 - [[98_Agent_Handoff/archive/2026-10_sesiones]]: enlaces de octubre retirados del registro reciente.
-- [[98_Agent_Handoff/archive/2026-11_sesiones]]: enlaces de noviembre retirados del registro reciente (desde el 2026-11-07).
+- [[98_Agent_Handoff/archive/2026-11_sesiones]]: enlaces de noviembre retirados del registro reciente (desde el 2026-11-07; ampliado el 2026-11-09).
 
 ## Corte del 2026-10-03
 
@@ -111,3 +111,16 @@ Copias íntegras antes de compactar el relevo (el brief medía ~1,300 palabras; 
 
 - [[98_Agent_Handoff/archive/2026-11-07_CURRENT_BRIEF|Brief acumulado]].
 - [[98_Agent_Handoff/archive/2026-11-07_PENDING|Pendientes]].
+
+## Retiros de DECISIONS sin corte de relevo
+
+- [[98_Agent_Handoff/archive/2026-11-01_DECISIONS_retiradas|2026-11-01]]: entradas desde el 2026-10-14, retiradas por el tope de 800 palabras.
+- [[98_Agent_Handoff/archive/2026-11-08_DECISIONS|2026-11-08]]: entradas del 2026-11-01, retiradas para dejar sitio a la Parte III del nuevo cauce.
+
+## Corte del 2026-11-09
+
+Rotación por límites, sin cambios de estado ni de canon (el brief medía 838 palabras; PENDING 845; DECISIONS 859). Diálogo de terceros (Parte I) y la protolectura de los caps. 1–8 pasaron de PENDING a [[98_Agent_Handoff/BACKLOG]]. Las dos decisiones del 2026-11-04 salieron de DECISIONS. Los 9 enlaces más antiguos de [[log]] (2026-11-02 a 2026-11-06) pasaron a [[98_Agent_Handoff/archive/2026-11_sesiones]].
+
+- [[98_Agent_Handoff/archive/2026-11-09_CURRENT_BRIEF|Brief acumulado]].
+- [[98_Agent_Handoff/archive/2026-11-09_PENDING|Pendientes]].
+- [[98_Agent_Handoff/archive/2026-11-09_DECISIONS_retiradas|Decisiones retiradas]].

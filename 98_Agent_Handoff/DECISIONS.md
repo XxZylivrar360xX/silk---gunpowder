@@ -1,6 +1,6 @@
 # Decisiones recientes
 
-Máximo 800 palabras; conservar sólo decisiones operativas recientes y enlaces a sus fuentes. El historial íntegro anterior al corte está en [[98_Agent_Handoff/archive/2026-09-21_DECISIONS]]; las del 2026-11-01, en [[98_Agent_Handoff/archive/2026-11-08_DECISIONS]]. Archivar entradas antiguas antes de retirarlas.
+Máximo 800 palabras; conservar sólo decisiones operativas recientes y enlaces a sus fuentes. El historial íntegro anterior al corte está en [[98_Agent_Handoff/archive/2026-09-21_DECISIONS]]; las del 2026-11-01, en [[98_Agent_Handoff/archive/2026-11-08_DECISIONS]]; las del 2026-11-04, en [[98_Agent_Handoff/archive/2026-11-09_DECISIONS_retiradas]]. Archivar entradas antiguas antes de retirarlas.
 
 ## 2026-11-08 — Nuevos 45–47 (D3, D4, la atadura, el sedán rojo)
 
@@ -29,11 +29,3 @@ Máximo 800 palabras; conservar sólo decisiones operativas recientes y enlaces 
 ## 2026-11-05 — Walt ya sabe de Jim; Marisol abre el Cap. 1
 
 **DECISIÓN DEL AUTOR:** supersede el canon del 2026-09-26: Walt sabe que Jim murió, por Natalie. Kal nunca lo visitó por miedo a la pregunta (defecto: proteger ocultando). Cap. 3 en duelo de familia. Marisol, primera interacción del Cap. 1, en persona. Carta: «Ojalá que mis dos hijos pudieran estar ahí.» Sesión: [[98_Agent_Handoff/sessions/2026-11-05_claude_marisol_y_duelo_caps01_03]].
-
-## 2026-11-04 — Cap. 1 en sábado y domingo
-
-**DECISIÓN DEL AUTOR:** el Cap. 1 abarca sábado y domingo. De día el Kal civil; de noche roba una tienda neutra cerrada por vacaciones, Danny falla el bloqueo drogado y huye en moto, y la policía persigue al Peugeot. Chiara es la evolución de esa promesa. Comprador: el corredor de piezas del norte. Ejecutado en BORRADOR: [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/00_Plan_Cap01_Sabado_Y_Domingo]].
-
-## 2026-11-04 — El favor de Nadir
-
-**DECISIÓN DEL AUTOR:** la ruleta vuelve al Cap. 7 como primer encuentro con los chicos, con crupier y fuera de foco; ellos sólo ven esa sala, Kal todo el penthouse. En Gabriella's Chiara le ofrece un favor a Nadir; tras la ruptura lo cobra para que Danny monte. Kal se entera de Vento por los chicos, no por ella (Cap. 11). Supersede lo del 2026-11-03 en esos puntos. [[98_Agent_Handoff/sessions/2026-11-04_claude_favor_nadir_vento]].
