@@ -2,7 +2,7 @@
 
 Generada por `tools/audiolibro/build_audiobook.py`; no editar a mano. Tras cambiar la prosa de un capítulo, correr `--estado` para marcarlo PENDIENTE; la bandera se cierra sola cuando el script regenera ese audio.
 
-Actualizada: 2026-11-10 00:52. Al día: 47 de 47.
+Actualizada: 2026-11-10 02:59. Al día: 47 de 47.
 
 ## Pendientes
 
@@ -14,47 +14,47 @@ Ninguno: todos los audios corresponden a la prosa actual.
 |---|---|---|---|
 | 1 | Un hombre de negocios intachable | AL DIA | 2026-11-06 |
 | 2 | Demasiado listo | AL DIA | 2026-11-05 |
-| 3 | Los viejos días | AL DIA | 2026-11-08 |
+| 3 | Lo que no cambió | AL DIA | 2026-11-10 |
 | 4 | Tarifa nocturna | AL DIA | 2026-11-04 |
 | 5 | Cliente y proveedor | AL DIA | 2026-11-03 |
-| 6 | La pizza de calabaza | AL DIA | 2026-11-04 |
+| 6 | Sólo una cena | AL DIA | 2026-11-10 |
 | 7 | Ambos | AL DIA | 2026-11-05 |
 | 8 | La noche del ladrillo | AL DIA | 2026-11-04 |
-| 9 | La carrera de máscaras | AL DIA | 2026-11-05 |
-| 10 | La teniente | AL DIA | 2026-11-01 |
+| 9 | Mandorla | AL DIA | 2026-11-10 |
+| 10 | Una pésima idea | AL DIA | 2026-11-10 |
 | 11 | La balanza | AL DIA | 2026-11-08 |
-| 12 | Dos sillas vacías | AL DIA | 2026-11-08 |
+| 12 | La invitada | AL DIA | 2026-11-10 |
 | 13 | Roma Atrii | AL DIA | 2026-11-08 |
-| 14 | La regla del teléfono | AL DIA | 2026-11-10 |
+| 14 | Con miedo y todo | AL DIA | 2026-11-10 |
 | 15 | Yo lo llevo | AL DIA | 2026-11-08 |
-| 16 | Le quedé debiendo | AL DIA | 2026-11-08 |
-| 17 | El día nublado | AL DIA | 2026-11-08 |
-| 18 | Lo pequeño | AL DIA | 2026-11-08 |
+| 16 | Canal Seco | AL DIA | 2026-11-10 |
+| 17 | Día nublado | AL DIA | 2026-11-10 |
+| 18 | En lo pequeño | AL DIA | 2026-11-10 |
 | 19 | Grazie | AL DIA | 2026-11-08 |
-| 20 | La cifra | AL DIA | 2026-11-08 |
-| 21 | Con su proveedor | AL DIA | 2026-11-08 |
+| 20 | Algo más que dinero | AL DIA | 2026-11-10 |
+| 21 | La versión pública | AL DIA | 2026-11-10 |
 | 22 | Lo que cueste | AL DIA | 2026-11-08 |
-| 23 | Oveja entre lobos | AL DIA | 2026-11-08 |
+| 23 | Luces fuera | AL DIA | 2026-11-10 |
 | 24 | Vienes conmigo | AL DIA | 2026-11-08 |
 | 25 | Libros abiertos | AL DIA | 2026-11-08 |
 | 26 | Me encuentro bien | AL DIA | 2026-11-08 |
 | 27 | Una silla | AL DIA | 2026-11-09 |
-| 28 | Media Baraja | AL DIA | 2026-11-08 |
+| 28 | Media baraja | AL DIA | 2026-11-10 |
 | 29 | Vamos a casa | AL DIA | 2026-11-10 |
 | 30 | Línea directa | AL DIA | 2026-11-08 |
 | 31 | Lo único que es mío | AL DIA | 2026-11-08 |
-| 32 | Mi pareja | AL DIA | 2026-11-09 |
-| 33 | Sin fecha de regreso | AL DIA | 2026-11-08 |
+| 32 | A ti por mí | AL DIA | 2026-11-10 |
+| 33 | Cambio de firmas | AL DIA | 2026-11-10 |
 | 34 | También las mañanas | AL DIA | 2026-11-08 |
 | 35 | Al revés | AL DIA | 2026-11-08 |
 | 36 | Mecánico | AL DIA | 2026-11-08 |
-| 37 | La otra mitad | AL DIA | 2026-11-08 |
+| 37 | Reclamable | AL DIA | 2026-11-10 |
 | 38 | Nada | AL DIA | 2026-11-08 |
-| 39 | La puerta | AL DIA | 2026-11-08 |
-| 40 | Jurisdicción | AL DIA | 2026-11-08 |
+| 39 | Expediente sellado | AL DIA | 2026-11-10 |
+| 40 | No puedo sacarlo | AL DIA | 2026-11-10 |
 | 41 | Ropa limpia | AL DIA | 2026-11-08 |
-| 42 | Llaves | AL DIA | 2026-11-08 |
-| 43 | Intereses | AL DIA | 2026-11-08 |
+| 42 | Navajas y tinta | AL DIA | 2026-11-10 |
+| 43 | Una cuenta abierta | AL DIA | 2026-11-10 |
 | 44 | Su nombre | AL DIA | 2026-11-08 |
 | 45 | Por si vuelve | AL DIA | 2026-11-08 |
 | 46 | A oscuras | AL DIA | 2026-11-08 |
@@ -62,6 +62,46 @@ Ninguno: todos los audios corresponden a la prosa actual.
 
 ## Historial
 
+- 2026-11-10 02:59 · Cap. 43 (47_Intereses.md) · audio generado
+- 2026-11-10 02:59 · Cap. 42 (46_Llaves.md) · audio generado
+- 2026-11-10 02:59 · Cap. 40 (44_Jurisdiccion.md) · audio generado
+- 2026-11-10 02:59 · Cap. 39 (43_La_Puerta.md) · audio generado
+- 2026-11-10 02:59 · Cap. 37 (41_La_Otra_Mitad.md) · audio generado
+- 2026-11-10 02:59 · Cap. 33 (35_Sin_Fecha_De_Regreso.md) · audio generado
+- 2026-11-10 02:59 · Cap. 32 (34_Mi_Pareja.md) · audio generado
+- 2026-11-10 02:59 · Cap. 28 (30_Media_Baraja.md) · audio regenerado
+- 2026-11-10 02:59 · Cap. 23 (24c_El_Corral.md) · audio generado
+- 2026-11-10 02:59 · Cap. 21 (22b_Con_Su_Proveedor.md) · audio generado
+- 2026-11-10 02:59 · Cap. 20 (22a_La_Cifra.md) · audio generado
+- 2026-11-10 02:59 · Cap. 18 (20_El_Mirador.md) · audio generado
+- 2026-11-10 02:59 · Cap. 17 (18_El_Dia_Nublado.md) · audio generado
+- 2026-11-10 02:59 · Cap. 16 (17_Cuentas_Claras.md) · audio generado
+- 2026-11-10 02:59 · Cap. 14 (14_La_Regla_Del_Telefono.md) · audio generado
+- 2026-11-10 02:59 · Cap. 12 (10_El_Loft_Del_Soltero.md) · audio generado
+- 2026-11-10 02:59 · Cap. 10 (08b_La_Sargenta.md) · audio generado
+- 2026-11-10 02:59 · Cap. 9 (08_La_Carrera_De_Mascaras.md) · audio generado
+- 2026-11-10 02:59 · Cap. 6 (05c_La_Pizza_De_Calabaza.md) · audio generado
+- 2026-11-10 02:59 · Cap. 3 (03_Los_Viejos_Dias.md) · audio generado
+- 2026-11-10 02:27 · Cap. 43 (47_Intereses.md) · audio borrado
+- 2026-11-10 02:27 · Cap. 42 (46_Llaves.md) · audio borrado
+- 2026-11-10 02:27 · Cap. 40 (44_Jurisdiccion.md) · audio borrado
+- 2026-11-10 02:27 · Cap. 39 (43_La_Puerta.md) · audio borrado
+- 2026-11-10 02:27 · Cap. 37 (41_La_Otra_Mitad.md) · audio borrado
+- 2026-11-10 02:27 · Cap. 33 (35_Sin_Fecha_De_Regreso.md) · audio borrado
+- 2026-11-10 02:27 · Cap. 32 (34_Mi_Pareja.md) · audio borrado
+- 2026-11-10 02:27 · Cap. 28 (30_Media_Baraja.md) · audio pendiente: cambió la prosa
+- 2026-11-10 02:27 · Cap. 23 (24c_El_Corral.md) · audio borrado
+- 2026-11-10 02:27 · Cap. 21 (22b_Con_Su_Proveedor.md) · audio borrado
+- 2026-11-10 02:27 · Cap. 20 (22a_La_Cifra.md) · audio borrado
+- 2026-11-10 02:27 · Cap. 18 (20_El_Mirador.md) · audio borrado
+- 2026-11-10 02:27 · Cap. 17 (18_El_Dia_Nublado.md) · audio borrado
+- 2026-11-10 02:27 · Cap. 16 (17_Cuentas_Claras.md) · audio borrado
+- 2026-11-10 02:27 · Cap. 14 (14_La_Regla_Del_Telefono.md) · audio borrado
+- 2026-11-10 02:27 · Cap. 12 (10_El_Loft_Del_Soltero.md) · audio borrado
+- 2026-11-10 02:27 · Cap. 10 (08b_La_Sargenta.md) · audio borrado
+- 2026-11-10 02:27 · Cap. 9 (08_La_Carrera_De_Mascaras.md) · audio borrado
+- 2026-11-10 02:27 · Cap. 6 (05c_La_Pizza_De_Calabaza.md) · audio borrado
+- 2026-11-10 02:27 · Cap. 3 (03_Los_Viejos_Dias.md) · audio borrado
 - 2026-11-09 23:09 · Cap. 32 (34_Mi_Pareja.md) · audio regenerado
 - 2026-11-09 23:09 · Cap. 29 (31_Vamos_A_Casa.md) · audio regenerado
 - 2026-11-09 23:09 · Cap. 27 (29_El_Patio_Ajeno.md) · audio regenerado

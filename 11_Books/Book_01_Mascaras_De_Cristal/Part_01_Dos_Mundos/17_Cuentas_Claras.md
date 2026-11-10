@@ -8,7 +8,7 @@ Lugares: Almendra Towing (puerta del taller), Canal Seco (territorio de La Ronda
 Función: Kal paga la bodega sin Héctor y queda debiéndole a Irene un nombre; ve de lado que el barrio le está pagando a Chiara; la sospecha cae por costumbre en el Tasador, pero el canal de Irene no es calle; en el billar, el lector ve la mano de Crowe y Kal se lleva un vaso de agua que no sabe leer.
 -->
 
-# Capítulo 16 — Le quedé debiendo
+# Capítulo 16 — Canal Seco
 
 El lunes, a las seis y diez, Kal volvió a marcar desde el patio del taller, con el café todavía sin tocar sobre el capó de la grúa chica. *Nadir. Deja recado; si es de dinero, la cifra primero.* Colgó antes del tono. Danny ni siquiera tenía buzón: sonaba hasta cortarse.
 

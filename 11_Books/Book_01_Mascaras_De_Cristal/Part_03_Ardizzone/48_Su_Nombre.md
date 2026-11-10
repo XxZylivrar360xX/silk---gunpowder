@@ -6,7 +6,7 @@ Renumerado 2026-11-08 (nuevo cauce, Parte III): antes Cap. 53.
 Renumerado 2026-11-01 (decisión del autor, carretera del Libro I): antes Cap. 57.
 Renumerado 2026-10-22 (decisión del autor): antes Cap. 48; numeración corrida definitiva, el archivo conserva su nombre.
 Estado: BORRADOR — Parte III — Ardizzone, Cap. 44 (quinto del arco final sin Kal, bloque de cierre 40–47). Redactado 2026-10-02, Claude Opus 5.5, conforme a [[11_Books/Book_01_Mascaras_De_Cristal/00_Plan_Arco_Final_Sin_Kal]] y a las craft policies (Redaccion_De_Capitulos, voice/, staging_rules/, dialogue_rules/). Pendiente de lectura del autor.
-Título: PENDIENTE. "Su nombre" es de trabajo (DISEÑO).
+Título: «Su nombre» — DECISIÓN DEL AUTOR (2026-11-10, retitulado de 47): se queda.
 Protagonista: Chiara Bellandi (POV único, tercera persona cercana). Kal no aparece.
 Personajes con diálogo: Mabel Ortiz, Bonnie García (por teléfono), Mei-Lin Zhao, Rafael "Rafe" Domínguez, Maribel Knox.
 Ventana temporal: mediodía de D10 (sábado) a mañana de D12 (lunes). Sin encabezados de fecha.

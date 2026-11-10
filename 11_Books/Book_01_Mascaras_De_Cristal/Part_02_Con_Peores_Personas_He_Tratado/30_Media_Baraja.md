@@ -55,7 +55,7 @@ Regla de diálogo 05 (2026-10-28, a pedido del autor; prosa DISEÑO; sigue BORRA
 Rocco (2026-10-22, decision del autor; prosa DISENO; sigue BORRADOR): en la coda, come del rin que Walt le lijo para plato, al pie de la fosa. Ficha: 02_Characters/Rocco.md.
 -->
 
-# Capítulo 28 — Media Baraja
+# Capítulo 28 — Media baraja
 
 El camino se acabó mucho antes de que el ruido de agua empezara. Kal tomó la última curva de tierra sin asfalto y detuvo el Audi junto a un roble solo; el Lancia se detuvo detrás, el mismo cuerpo de distancia que Chiara había mantenido toda la carretera. Él apagó el motor sin bajarse. Ella apagó el suyo un segundo después y se quedó también sentada, con las manos en el volante, mirando la nuca de él a través de dos parabrisas.
 

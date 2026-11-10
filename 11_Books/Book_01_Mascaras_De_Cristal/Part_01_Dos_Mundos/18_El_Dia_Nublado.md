@@ -8,7 +8,7 @@ Lugares: Almendra Towing y la calle de servicio detrás del Monarch (apertura), 
 Función: ejecutar [[06_Relationships/Hitos]] (#H4 — El día nublado) en un solo POV. Kal anda cazando un nombre para Irene y en el golf no le pide a Chiara el suyo; deduce que ella mató al marido y entiende que eso es lo que alguien que guarda puede cobrarle; desde ahí la cuida no preguntando (se cobra en el «No lo abras» del 22b). Sin beso, sin etiqueta.
 -->
 
-# Capítulo 17 — El día nublado
+# Capítulo 17 — Día nublado
 
 El del billar no llamó.
 

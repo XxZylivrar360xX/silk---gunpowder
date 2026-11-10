@@ -7,7 +7,7 @@ Renumerado 2026-11-08 (nuevo cauce, Parte III): antes Cap. 51.
 Renumerado 2026-11-01 (decisión del autor, carretera del Libro I): antes Cap. 55.
 Renumerado 2026-10-22 (decisión del autor): antes Cap. 46; numeración corrida definitiva, el archivo conserva su nombre.
 Estado: BORRADOR — Parte III — Ardizzone, Cap. 42 (tercero del arco final sin Kal, bloque de cierre 40–47). Redactado 2026-10-02, Claude Opus 5.5, conforme a [[11_Books/Book_01_Mascaras_De_Cristal/00_Plan_Arco_Final_Sin_Kal]] y a las craft policies (Redaccion_De_Capitulos, voice/, staging_rules/, dialogue_rules/). Pendiente de lectura del autor.
-Título: PENDIENTE. "Llaves" es de trabajo (DISEÑO).
+Título: «Navajas y tinta» (los muchachos y Chiara) — DECISIÓN DEL AUTOR (2026-11-10, retitulado de 47). "Llaves" era de trabajo.
 Protagonista: Chiara Bellandi (POV único, tercera persona cercana). Kal no aparece.
 Personajes con diálogo: Héctor Navarro, Nadir Amrani, Danny Hayes, Garrett Cross, Walt Keegan, Marisol Grayson (por teléfono; llamada en escena desde 2026-11-08).
 Ventana temporal: tarde y anochecer de D8, jueves 30 dic (el día después del amanecer en el Cutoff, nuevo 41; corregido 2026-11-08 en la revisión de costuras, porque antes decía «horas después»). El plan decía D8–D9; el capítulo cabe en una sola tarde. Sin encabezados de fecha.
@@ -26,7 +26,7 @@ Rocco (2026-10-22, decision del autor; prosa DISENO; sigue BORRADOR): sale de la
 Hilo del Tasador (2026-11-01, DECISIÓN DEL AUTOR: el trabajo para Crowe se ve en señales desde Chiara, que lo ve y no lo interpreta; prosa DISEÑO, espera lectura; plan [[11_Books/Book_01_Mascaras_De_Cristal/00_Plan_Hilo_Tasador]]): el chico de la vulcanizadora (el de la gorra al revés del 12) sale del mostrador de Nadir al verla entrar; «Cuando alguien me pague a mí» después de «Págaselos». Las cuentas del barrio no cierran sin Kal. Siguen el 57 (Rafe) y el 59 (la grúa).
 -->
 
-# Capítulo 42 — Llaves
+# Capítulo 42 — Navajas y tinta
 
 Para llegar al Patio desde el centro había una vuelta que Chiara daba siempre sin pensarla: a la derecha en la calle del mercado, dos cuadras, y a la izquierda en la esquina de la lavandería de monedas, la que tenía el letrero con una burbuja fundida. Esa tarde siguió de largo en la calle del mercado y dio vuelta en la siguiente, una calle de casas bajas con perros detrás de las rejas, y salió a la avenida tres cuadras más abajo, por el lado del lote baldío. Tardó cuatro minutos más. No miró hacia la izquierda en ningún cruce.
 

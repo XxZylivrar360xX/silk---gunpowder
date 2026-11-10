@@ -8,7 +8,7 @@ Lugares: la bolera de la playa y el malecón, la carretera del norte, el último
 Función: ejecutar [[06_Relationships/Hitos]] (#H11 — El mirador) en un solo POV y cobrar el imán del nuevo 14. La primera noche se interrumpe a las tres; Kal ve que Marisol lo llama a él y se abre con Chiara, y la noche vuelve a empezar en «Volvemos adentro».
 -->
 
-# Capítulo 18 — Lo pequeño
+# Capítulo 18 — En lo pequeño
 
 El día nublado no volvió a mencionarse entre ellos, pero tampoco se fue del todo.
 

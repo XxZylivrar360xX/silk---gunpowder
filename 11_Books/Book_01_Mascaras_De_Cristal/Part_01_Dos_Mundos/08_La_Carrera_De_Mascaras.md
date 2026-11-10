@@ -13,7 +13,7 @@ Cobro del corral (2026-11-04, DISEÑO; sustituye el cobro de la ruleta del 2026-
 Mascara negra (2026-11-05, decision del autor; capitulo TERMINADO, el estado se conserva; prosa DISENO): en La Tramoya, "¿Y el malvavisco?" / "Te toca escoger". Kal deja el malvavisco para no dejar sola a Chiara.
 -->
 
-# Capítulo 9 — La carrera de máscaras
+# Capítulo 9 — Mandorla
 
 Il Gelsomino cerraba a las nueve entre semana, y para las ocho y media ya no quedaba nadie en la terraza salvo ellos dos y una silla que el mozo había subido a una mesa sin llegar a las demás.
 

@@ -24,7 +24,7 @@ Decisiones del autor (2026-11-04; redaccion DISENO, pendiente de lectura): la pe
 Fixer rusa (2026-11-07, CANON DEL AUTOR): Anya queda retirada; la contacto rusa de Afganistán es una fixer sin nombre y sin romance. Se quita «y no siempre por trabajo».
 -->
 
-# Capítulo 3 — Los viejos días
+# Capítulo 3 — Lo que no cambió
 
 El lunes, Kal despertó antes de que sonara el teléfono, con la misma incomodidad con la que se había dormido.
 

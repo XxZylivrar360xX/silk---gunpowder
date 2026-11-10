@@ -7,7 +7,7 @@ Renumerado 2026-11-08 (nuevo cauce, Parte III): antes Cap. 52.
 Renumerado 2026-11-01 (decisión del autor, carretera del Libro I): antes Cap. 56.
 Renumerado 2026-10-22 (decisión del autor): antes Cap. 47; numeración corrida definitiva, el archivo conserva su nombre.
 Estado: BORRADOR — Parte III — Ardizzone, Cap. 43 (cuarto del arco final sin Kal, bloque de cierre 40–47). Redactado 2026-10-02, Claude Opus 5.5, conforme a [[11_Books/Book_01_Mascaras_De_Cristal/00_Plan_Arco_Final_Sin_Kal]] y a las craft policies (Redaccion_De_Capitulos, voice/, staging_rules/, dialogue_rules/). Pendiente de lectura del autor.
-Título: PENDIENTE. "Intereses" es de trabajo (DISEÑO).
+Título: «Una cuenta abierta» — DECISIÓN DEL AUTOR (2026-11-10, retitulado de 47). "Intereses" era de trabajo.
 Protagonista: Chiara Bellandi (POV único, tercera persona cercana). Kal no aparece.
 Personajes con diálogo: Héctor Navarro, Nadir Amrani, Danny Hayes, Garrett Cross, el hombre del Audi (sin nombre), Dario Varek, Lucía Varek (por teléfono).
 Ventana temporal: tarde y noche de D9 (viernes 31 dic) y mañana de D10 (sábado 1 ene). Sin encabezados de fecha.
@@ -30,7 +30,7 @@ La muñeca (2026-10-22, CANON DEL AUTOR en sustancia: la cuenta abierta une el s
 Regla de diálogo 05 (2026-10-28, a pedido del autor; prosa DISEÑO, espera lectura): fuera «Lo sé» y «Entonces no sabes» (Nadir), «Yo voy con él», «Eso ya me lo dijo», «¿Para qué?» (Garrett), «Completas», «Hablemos del tiempo», «Puedo», «Por eso no tiene nombre», «Una.» y el «Ya lo sé» a Lucía. Sesión: 98_Agent_Handoff/sessions/2026-10-28_claude_regla05_intereses_cap53.md.
 -->
 
-# Capítulo 43 — Intereses
+# Capítulo 43 — Una cuenta abierta
 
 La camioneta seguía contra la tapia, con la trompa hacia el portón. Alguien le había quitado el termo del asiento del copiloto. La mochila seguía ahí.
 

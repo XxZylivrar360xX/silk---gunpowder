@@ -10,6 +10,8 @@
 
 Cada título sale de una palabra o frase que **aparece dentro del capítulo** y **pesa distinto cuando el capítulo termina**: de preferencia algo dicho por un personaje. Es el mecanismo de *Con peores personas he tratado* (Parte II), *Me encuentro bien* o *Mi pareja*. Las palabras sueltas quedan solo para los golpes fuertes (*Nada*, *Ambos*). Fuera nombres de hito y frases hechas.
 
+> **Flexibilización — DECISIÓN DEL AUTOR (2026-11-10):** que el título aparezca en la prosa ya no es obligatorio. Se prefiere que nazca del capítulo y pese distinto al terminarlo, pero un título puede nombrar la imagen, la idea o el giro aunque la frase no esté en el texto (p. ej. Cap. 12 *La invitada*). Siguen fuera las frases hechas y los títulos que explican el arco en vez de mostrarlo.
+
 **Implementación:** cambiar solo el encabezado visible `# Capítulo N — …`; los nombres de archivo se quedan para no romper enlaces.
 
 ## Candidatos por capítulo

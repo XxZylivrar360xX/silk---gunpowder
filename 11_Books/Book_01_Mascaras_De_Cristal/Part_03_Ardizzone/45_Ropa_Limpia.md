@@ -8,7 +8,7 @@ Renumerado 2026-11-08 (nuevo cauce, Parte III): antes Cap. 50.
 Renumerado 2026-11-01 (decisión del autor, carretera del Libro I): antes Cap. 54.
 Renumerado 2026-10-22 (decisión del autor): antes Cap. 45; numeración corrida definitiva, el archivo conserva su nombre.
 Estado: BORRADOR — Parte III — Ardizzone, nuevo Cap. 41 (segundo del arco final sin Kal, nuevos 40–47, archivos 44–50b). Redactado 2026-10-02, Claude Opus 5.5, conforme a [[11_Books/Book_01_Mascaras_De_Cristal/00_Plan_Arco_Final_Sin_Kal]] y a las craft policies (Redaccion_De_Capitulos, voice/, staging_rules/, dialogue_rules/). Pendiente de lectura del autor.
-Título: PENDIENTE. "Ropa limpia" es de trabajo (DISEÑO).
+Título: «Ropa limpia» — DECISIÓN DEL AUTOR (2026-11-10, retitulado de 47): se queda.
 Protagonista: Chiara Bellandi (POV único, tercera persona cercana). Kal no aparece salvo en una grabación de seguridad, de espaldas y sin cara.
 Personajes con diálogo: Kenji Oda, Mabel Ortiz, el recepcionista de noche de la Torre Norte, un guardia de seguridad (sin nombre), Bonnie García, Mei-Lin Zhao, Rosaura Quintero (nueva, DISEÑO: planchadora del turno de noche, comadre de Mabel).
 Ventana temporal: madrugada del lun 20 dic (horas después de Lucía, nuevo 40) hasta el amanecer del mié 29 dic. Fechas en prosa sólo en la semana de espera (24–28 dic).

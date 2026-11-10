@@ -13,7 +13,7 @@ Protagonistas: Kal Mercer, Chiara Bellandi. Apariciones: Ferreyra, Beatrice Vare
 Lugares: el taller de La Almendra, The Monarch (cerrado: piso de juego, cuarto de seguridad, penthouse), hipódromo del Monarch (caballerizas, corral), Hospital Santa Aurelia, comisaría de Calle Corona.
 -->
 
-# Capítulo 23 — Oveja entre lobos
+# Capítulo 23 — Luces fuera
 
 El domingo fue el teléfono el que se acordó de él.
 

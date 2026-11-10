@@ -22,7 +22,7 @@ Pasada `editorial-surgery` 2026-10-28 (3 microediciones): [[98_Agent_Handoff/ses
 Microedición 2026-10-30 (estudio OP-03, autorizada por el autor): Lucía nombra los dos contratos de Kal (el del Departamento viene de *Auster*); Matteo dice «la de Dario» para no confundir con la subjefa. [[98_Agent_Handoff/sessions/2026-10-30_claude_estudio_op03_robo_monarch]].
 -->
 
-# Capítulo 20 — La cifra
+# Capítulo 20 — Algo más que dinero
 
 Chiara vio el robo dos veces antes de sentarse.
 

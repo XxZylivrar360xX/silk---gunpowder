@@ -17,7 +17,7 @@ Línea canon del autor: «—Con su proveedor —repitió, despacio, como proban
 Provisional (DISEÑO, de la versión anterior): mecánica de la trampa (placas de un Buick compactado), cifras (tres mil por cabeza; mil ochocientos más recargo), geografía del camino viejo y la cuesta, Danny fuera del intercambio. CANON DEL AUTOR (O-05, 2026-10-28): la casa de Boone vacía a las seis; sin líder, los Devil Splicers se deshacen.
 -->
 
-# Capítulo 21 — Con su proveedor
+# Capítulo 21 — La versión pública
 
 Danny había visto el video once veces cuando Kal colgó con Chiara.
 

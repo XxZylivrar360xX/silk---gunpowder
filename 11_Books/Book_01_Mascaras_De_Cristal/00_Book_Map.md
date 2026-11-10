@@ -15,56 +15,56 @@
 |---|---|---|
 | 1 | `01` | Un hombre de negocios intachable |
 | 2 | `02` | Demasiado listo |
-| 3 | `03` | Los viejos días |
+| 3 | `03` | Lo que no cambió |
 | 4 | `04` | Tarifa nocturna |
 | 5 | `05a` | Cliente y proveedor |
-| 6 | `05c` | La pizza de calabaza |
+| 6 | `05c` | Sólo una cena |
 | 7 | `06` | Ambos |
 | 8 | `07` | La noche del ladrillo |
-| 9 | `08` | La carrera de máscaras |
-| 10 | `08b` | La teniente |
+| 9 | `08` | Mandorla |
+| 10 | `08b` | Una pésima idea |
 | 11 | `09` | La balanza |
-| 12 | `10` | Dos sillas vacías |
+| 12 | `10` | La invitada |
 | 13 | `12` | Roma Atrii (fusión con *Auster* en POV Chiara, 2026-11-07; BORRADOR) |
 | — | `13` | ~~Auster~~ (fundido en el 13; marcador `EPUB: EXCLUDE`) |
-| 14 | `14` | La regla del teléfono (con lo de Kal en *El sobre rojo*, POV Kal; BORRADOR) |
+| 14 | `14` | Con miedo y todo (con lo de Kal en *El sobre rojo*, POV Kal; BORRADOR) |
 | 15 | `15` | Yo lo llevo (con el domingo y el coche de *El sobre rojo*, POV Chiara; BORRADOR) |
 | — | `16` | ~~El sobre rojo~~ (fundido en el 14 y el 15; marcador `EPUB: EXCLUDE`) |
-| 16 | `17` | Le quedé debiendo (POV Kal, con el billar de atrás del Monarch; BORRADOR) |
-| 17 | `18` | El día nublado (un solo POV, el de Kal; BORRADOR) |
-| 18 | `20` | Lo pequeño (fusión con *El primer huésped* en POV Kal: H11 y la madrugada de Marisol; BORRADOR) |
+| 16 | `17` | Canal Seco (POV Kal, con el billar de atrás del Monarch; BORRADOR) |
+| 17 | `18` | Día nublado (un solo POV, el de Kal; BORRADOR) |
+| 18 | `20` | En lo pequeño (fusión con *El primer huésped* en POV Kal: H11 y la madrugada de Marisol; BORRADOR) |
 | — | `21` | ~~El primer huésped~~ (fundido en el 18; marcador `EPUB: EXCLUDE`) |
 | 19 | `21b` | Grazie (POV Chiara; cierra la Parte I; BORRADOR) |
-| 20 | `22a` | La cifra |
-| 21 | `22b` | Con su proveedor |
+| 20 | `22a` | Algo más que dinero |
+| 21 | `22b` | La versión pública |
 | — | `24` | [[11_Books/Book_01_Mascaras_De_Cristal/Escenas_Eliminadas/24_Bajo_Juramento_Version_2026-11-08|~~Bajo juramento~~]] (RETIRADO, nuevo cauce; `EPUB: EXCLUDE`) |
 | 22 | `24b` | Lo que cueste |
-| 23 | `24c` | Oveja entre lobos |
+| 23 | `24c` | Luces fuera |
 | 24 | `24d` | Vienes conmigo |
 | 25 | `25` | Libros abiertos |
 | 26 | `26` | Me encuentro bien |
 | — | `27` | [[11_Books/Book_01_Mascaras_De_Cristal/Escenas_Eliminadas/27_Riesgo_Pendiente_Version_2026-11-08|~~Lleve equipaje~~]] (RETIRADO, nuevo cauce; `EPUB: EXCLUDE`) |
 | — | `28` | [[11_Books/Book_01_Mascaras_De_Cristal/Escenas_Eliminadas/28_La_Correa_Version_2026-11-08|~~No hace falta~~]] (RETIRADO, nuevo cauce; `EPUB: EXCLUDE`) |
 | 27 | `29` | Una silla |
-| 28 | `30` | Media Baraja |
+| 28 | `30` | Media baraja |
 | 29 | `31` | Vamos a casa |
 | 30 | `32` | Línea directa |
 | 31 | `33` | Lo único que es mío |
 | — | `33b` | [[11_Books/Book_01_Mascaras_De_Cristal/Escenas_Eliminadas/33b_La_Mano_Version_2026-11-08|~~La mano~~]] (RETIRADO, nuevo cauce; `EPUB: EXCLUDE`) |
-| 32 | `34` | Mi pareja |
-| 33 | `35` | Sin fecha de regreso |
+| 32 | `34` | A ti por mí |
+| 33 | `35` | Cambio de firmas |
 | 34 | `36` | También las mañanas |
 | — | `37` | ~~Cuatro letras~~ (fundido en el 34 y 35; marcador `EPUB: EXCLUDE`) |
 | 35 | `38` | Al revés |
 | — | `39` | ~~Un par de días más~~ (fundido en el 36; marcador `EPUB: EXCLUDE`) |
 | 36 | `40` | Mecánico |
-| 37 | `41` | La otra mitad |
+| 37 | `41` | Reclamable |
 | 38 | `42` | Nada |
-| 39 | `43` | La puerta |
-| 40 | `44` | Jurisdicción |
+| 39 | `43` | Expediente sellado |
+| 40 | `44` | No puedo sacarlo |
 | 41 | `45` | Ropa limpia |
-| 42 | `46` | Llaves |
-| 43 | `47` | Intereses |
+| 42 | `46` | Navajas y tinta |
+| 43 | `47` | Una cuenta abierta |
 | 44 | `48` | Su nombre |
 | 45 | `49` | Por si vuelve |
 | 46 | `50` | A oscuras |

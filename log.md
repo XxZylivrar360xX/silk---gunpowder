@@ -4,6 +4,7 @@ El detalle se guarda una sola vez en notas de sesión. Este archivo es navegaci�
 
 ## Sesiones recientes
 
+- 2026-11-10: DECISIÓN DEL AUTOR: retitulado de los 47 capítulos del Libro I, Parte por Parte (20 títulos cambian; regla flexibilizada: el título ya no tiene que estar en la prosa): [[98_Agent_Handoff/sessions/2026-11-10_claude_retitulado_47]]
 - 2026-11-10: auditoría de prolepsis del Libro I, Fases 0–1 (taxonomía; detector `tools/editorial/prolepsis_audit.py`; 1 corte, P1 en el 29, aplicado por decisión del autor; 4 dudosas; los cortes de auditorías anteriores siguen aplicados); Fase 2 (cruce con revelaciones y Libro II): limpio salvo D5 en 14:22, cortada por decisión del autor; runas al día en SAGA_LEVEL; D1–D4 conservadas, auditoría cerrada: [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Prolepsis_Libro_I]]
 - 2026-11-10: las 917 referencias del 2026-11-01 llevadas de la numeración de 56 a la de 47 (574 convertidas; columna 47 en la tabla de equivalencias; afirmaciones que el nuevo cauce volvió falsas, para el autor): [[98_Agent_Handoff/sessions/2026-11-10_claude_referencias_56_a_47]]
 - 2026-11-10: las 402 referencias dudosas de numeración: 42 corregidas a 47 (`Cap. N (*Título*)`), 231 históricas conservadas, 23 ambiguas para el autor: [[98_Agent_Handoff/sessions/2026-11-10_claude_referencias_dudosas]]

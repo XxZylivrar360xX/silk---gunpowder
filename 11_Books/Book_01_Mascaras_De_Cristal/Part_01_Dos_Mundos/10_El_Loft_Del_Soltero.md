@@ -9,7 +9,7 @@ Lugares: Casa Comunitaria de La Almendra, lobby del Monarch, La Casa (obra), ace
 Funcion: H14. Chiara quiere dejar de ser carga y paga con lo unico que hoy hace bien (el diseño y las facturas); su dinero entra al barrio sin pasar por Crowe y Crowe lo tasa como competencia. Guarda tres cosas sin decirselas a Kal (la tarjeta de Dario, Blake, el sobre de Ochoa).
 -->
 
-# Capítulo 12 — Dos sillas vacías
+# Capítulo 12 — La invitada
 
 Nadir no volvió a mirarla como a un huésped después de esa tarde. La miró como a un problema que todavía no había decidido cómo nombrar.
 

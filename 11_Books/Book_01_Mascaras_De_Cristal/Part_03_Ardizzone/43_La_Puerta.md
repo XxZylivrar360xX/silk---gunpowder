@@ -16,7 +16,7 @@ Función: cierra H19. Kal decide no cruzar una puerta que le quitaría la capaci
 REGLA ESTRUCTURAL (vigente): Camp Alder NO OPERATIVO (sin planos, rutas, ángulos muertos, frecuencias, códigos, procedimientos ni especificaciones de armamento); sin bajas; sin gente de Varek dentro de la base; armas sin modelos, calibres ni cantidades; no se revela la intervención futura de Halbrook ni el apagón; el paralelo puerta/reja no se explica.
 -->
 
-# Capítulo 39 — La puerta
+# Capítulo 39 — Expediente sellado
 
 La cafetera estaba donde Chiara la dejaba siempre, en el mismo ángulo, con el filtro que ella compraba y él nunca había aprendido a comprar bien. Kal la miró un momento antes de tocarla, como se mira una herramienta ajena en un taller donde a uno lo dejaron entrar.
 

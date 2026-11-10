@@ -9,7 +9,7 @@ Historial (escrito cuando era parte del Cap. 10): Persecucion con escaner y ciru
 Reconocimiento (2026-10-24, decision del autor; DISEÑO pendiente de lectura): Chiara ya oyo a Collins en El Relevo (Cap. 4) y la vio en la cena del Cap. 5 (archivo 05a, antes 05b). En la primera entrada de la voz: "Asi se habia callado El Relevo con su brindis." (fuera "A Chiara le basto una frase"); tras "La oigo": "Chiara le habia visto la cara. No se lo dijo." Kal la conoce por la voz; Chiara, por la cara; no se lo cuenta.
 -->
 
-# Capítulo 10 — La teniente
+# Capítulo 10 — Una pésima idea
 
 Las luces aparecieron a la altura de los hangares. Una barra, y después dos, azul y rojo latiendo contra la lámina de los cobertizos antes de que se oyera nada.
 

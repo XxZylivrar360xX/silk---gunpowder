@@ -14,7 +14,7 @@ Sin los chicos (2026-11-03, DECISION DEL AUTOR; supersede H2-a en este punto; pr
 Hipodromo sembrado (2026-11-04, DECISION DEL AUTOR; prosa DISEÑO, BORRADOR en este tramo): Danny baña a Rocco en el patio antes de la cena y a Kal se le escapa que atras del casino hay hipodromo; Danny sigue fuera de la cena y de la acera. Cobra en la puerta del Cap. 8. Chiara les pone cara a los chicos en el Cap. 7 (ruleta), no en el ladrillo: supersede esa frase de la nota anterior.
 -->
 
-# Capítulo 6 — La pizza de calabaza
+# Capítulo 6 — Sólo una cena
 
 Kal la llamó el martes desde la oficina del taller, con la puerta cerrada. En el escritorio no había ninguna orden de servicio con el nombre del Monarch.
 

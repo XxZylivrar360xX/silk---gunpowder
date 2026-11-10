@@ -7,7 +7,7 @@ Renumerado 2026-11-08 (nuevo cauce, Parte III): antes Cap. 49.
 Renumerado 2026-11-01 (decisión del autor, carretera del Libro I): antes Cap. 53.
 Renumerado 2026-10-22 (decisión del autor): antes Cap. 44; numeración corrida definitiva, el archivo conserva su nombre.
 Estado: BORRADOR — Parte III — Ardizzone, nuevo Cap. 40 (primero del arco final sin Kal, nuevos 40–47, archivos 44–50b). Redactado 2026-10-02, Claude Opus 5.5, conforme a [[11_Books/Book_01_Mascaras_De_Cristal/00_Plan_Arco_Final_Sin_Kal]]. Pendiente de lectura del autor.
-Título: PENDIENTE. "Jurisdicción" es de trabajo (DISEÑO).
+Título: «No puedo sacarlo» — DECISIÓN DEL AUTOR (2026-11-10, retitulado de 47). "Jurisdicción" era de trabajo.
 Protagonista: Chiara Bellandi (POV único, tercera persona cercana). Kal no aparece.
 Personajes con diálogo: Héctor Navarro (teléfono), un abogado del Monarch (sin nombre), Giancarlo Krane (teléfono), Katherine Rowe (teléfono), Edward Connors (teléfono), Lucía Varek (en persona).
 Ventana temporal: domingo 19 dic, de la mañana (horas después del arresto del nuevo 39, recogida 02:00–02:40) a la cita con Lucía, pasada la medianoche (lunes 20). Sin encabezados de fecha.
@@ -23,7 +23,7 @@ Función: "Institución". Chiara agota la vía legal y política: abogados del M
 - Regla de diálogo 05 (2026-10-28, DISEÑO, espera lectura): cortes de eco y turnos perdidos; [[98_Agent_Handoff/sessions/2026-10-28_claude_regla05_jurisdiccion_cap50]].
 -->
 
-# Capítulo 40 — Jurisdicción
+# Capítulo 40 — No puedo sacarlo
 
 El teléfono sonó antes de las ocho.
 

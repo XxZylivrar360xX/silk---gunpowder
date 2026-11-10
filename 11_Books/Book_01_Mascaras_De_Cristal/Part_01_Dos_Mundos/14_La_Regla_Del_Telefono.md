@@ -9,7 +9,7 @@ Función: Kal se ve como padre de Marisol, se deja quitar el teléfono y, por ha
 Apertura por residuo: el papel de *Roma Atrii*, sin abrir, en la repisa (cierre del nuevo 13, «lo traigo yo»).
 -->
 
-# Capítulo 14 — La regla del teléfono
+# Capítulo 14 — Con miedo y todo
 
 El papel seguía sobre la repisa, doblado en cuatro, donde llevaba semanas sin que Kal lo tirara ni lo abriera. *Roma Atrii* por fuera, en la letra que ya se sabía de memoria sin haber querido aprenderla. Lo miró un segundo de más mientras cerraba el bolso.
 

@@ -14,7 +14,7 @@ Función: la otra mitad de Palermo desde Chiara: por qué declaró a Kal ajeno a
 Se conserva literal: el cabello corto sin explicar; «Al Monarch. Torre Norte.»; «Ciao, bella.» / «Ciao.»; «—Nada.» sin glosa; la foto de la boda; «Quise protegerlo. Y decidí por él lo que era, sin preguntarle.»; «¿Y él qué dijo cuando volvieron?»; cierre literal «—Y no le digas nada a Kal todavía.», sin coda.
 -->
 
-# Capítulo 37 — La otra mitad
+# Capítulo 37 — Reclamable
 
 El sol ya se acostaba sobre Kingsley Field cuando el jet se detuvo al final de la pista, lejos de la terminal comercial por la que Kal había vuelto. Chiara había entrado al país por Nueva York, con una mañana de pendientes del casino de allá antes de seguir al oeste.
 
