@@ -2,7 +2,7 @@
 
 Generada por `tools/audiolibro/build_audiobook.py`; no editar a mano. Tras cambiar la prosa de un capítulo, correr `--estado` para marcarlo PENDIENTE; la bandera se cierra sola cuando el script regenera ese audio.
 
-Actualizada: 2026-11-10 00:44. Al día: 47 de 47.
+Actualizada: 2026-11-10 00:52. Al día: 47 de 47.
 
 ## Pendientes
 
@@ -25,7 +25,7 @@ Ninguno: todos los audios corresponden a la prosa actual.
 | 11 | La balanza | AL DIA | 2026-11-08 |
 | 12 | Dos sillas vacías | AL DIA | 2026-11-08 |
 | 13 | Roma Atrii | AL DIA | 2026-11-08 |
-| 14 | La regla del teléfono | AL DIA | 2026-11-08 |
+| 14 | La regla del teléfono | AL DIA | 2026-11-10 |
 | 15 | Yo lo llevo | AL DIA | 2026-11-08 |
 | 16 | Le quedé debiendo | AL DIA | 2026-11-08 |
 | 17 | El día nublado | AL DIA | 2026-11-08 |

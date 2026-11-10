@@ -19,7 +19,7 @@ Se lo había traído un chico hasta la cerca de atrás del taller. Doce o trece 
 
 El olor llegó antes que la letra: canela, vainilla, algo que no pertenecía a ningún lugar cerca de un taller de grúas.
 
-La mandíbula se le tensó un segundo, el mismo segundo de siempre, el que nadie en el Patio sabía nombrar. No era lo que trajera el papel. Eso ella se lo habría dado gratis; se lo había estado dando gratis, en los dos sentidos, desde antes de que ninguno de los dos le pusiera nombre a lo que estaban construyendo. Era la ruta: un nombre preguntado en voz alta dentro de su propio territorio, y para preguntarlo, un crío parado en la calle equivocada, cargando algo que no entendía, para gente que tampoco lo entendería si algo salía mal. Un crío que en otra ciudad podría haber sido la clase de carga que fue él cuando lo compraron de bebé, y la que le costó la carrera.
+La mandíbula se le tensó un segundo, el mismo segundo de siempre, el que nadie en el Patio sabía nombrar. No era lo que trajera el papel. Eso ella se lo habría dado gratis; se lo había estado dando gratis, en los dos sentidos, desde antes de que ninguno de los dos le pusiera nombre a lo que estaban construyendo. Era la ruta: un nombre preguntado en voz alta dentro de su propio territorio, y para preguntarlo, un crío parado en la calle equivocada, cargando algo que no entendía, para gente que tampoco lo entendería si algo salía mal. Un crío que en otra ciudad podría haber sido la clase de carga que fue él cuando lo compraron de bebé.
 
 —Vete a tu casa —le había dicho—. Y no vuelvas a hacer esto. Para nadie.
 

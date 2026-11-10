@@ -13,8 +13,8 @@
 | 1 | Barrido mecánico (detector + pasada amplia de recall) y triage | **HECHA** | 2026-11-10 |
 | 1b | Verificación de cortes dictados en auditorías anteriores | **HECHA** | 2026-11-10 |
 | 2 | Cruce semántico contra el mapa de revelaciones y el Libro II | **HECHA** (§2): limpio salvo D5 | 2026-11-10 |
-| 3 | Decisiones del autor (§ Decisiones) | **P1 APROBADA**; D1–D4 sin respuesta | 2026-11-10 |
-| 4 | Cirugía de lo aprobado, regeneración y subida | **P1 APLICADA** (29:352, −2) | 2026-11-10 |
+| 3 | Decisiones del autor (§ Decisiones) | **P1 y D5 APROBADAS**; D1–D4 sin respuesta | 2026-11-10 |
+| 4 | Cirugía de lo aprobado, regeneración y subida | **P1 APLICADA** (29:352, −2); **D5 APLICADA** (14:22, −6); L1 registrada en SAGA_LEVEL | 2026-11-10 |
 
 ## 0. Taxonomía
 
@@ -111,5 +111,5 @@ Se buscaron en los 47 capítulos los 13 textos que las auditorías por lote dict
 | P1 | ¿Cortar «Todavía no.» en 29:352? | Sí. **DECISIÓN DEL AUTOR (2026-11-10): cortar. Aplicado:** «…y en la cara de él no se vio nada.» Las costillas y el gesto siguen; la escena no pierde información. |
 | D1–D4 | ¿Conservar las cuatro dudosas? | Sí, las cuatro. D2 se revisa en la Fase 2 contra lo que el libro cumple del plan. |
 | F2 | ¿Seguir con el cruce semántico (Fase 2)? | Hecha el 2026-11-10 (§2). |
-| D5 | ¿Cortar «, y la que le costó la carrera» en 14:22? | Dudosa; decide el autor (§2). |
-| L1 | ¿Actualizar la entrada de las runas en SAGA_LEVEL al nuevo cauce? | Sí (registro, no prosa). |
+| D5 | ¿Cortar «, y la que le costó la carrera» en 14:22? | **DECISIÓN DEL AUTOR (2026-11-10): cortar. Aplicado:** «…la clase de carga que fue él cuando lo compraron de bebé.» Ledger del Libro I actualizado. |
+| L1 | ¿Actualizar la entrada de las runas en SAGA_LEVEL al nuevo cauce? | **Hecho** (2026-11-10): siembra en el 14; después, silencio hasta la Parte 3. |

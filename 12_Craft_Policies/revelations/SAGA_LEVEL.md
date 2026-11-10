@@ -73,10 +73,10 @@ Misterios o verdades que cruzan todo *Seda y Polvora* o que no pertenecen a un s
 ## La caja de madera con runas nórdicas
 
 - **Qué es:** Kal encuentra, escondida en un conducto de aire de la casa de sus padres, una caja de madera con algo grabado en runas nórdicas — la única herencia real que tiene de su vida antes de ser comprado de bebé. Complementa, no reemplaza, la pulsera de hospital ya establecida en [[02_Characters/Kal_Mercer]] como "lo único que puede ser real".
-- **Se siembra en:** [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/10_El_Loft_Del_Soltero]] — no se abre en la escena. Kal la guarda en el maletero, debajo de una manta.
+- **Se siembra en:** [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/14_La_Regla_Del_Telefono]], Cap. 14, en la memoria del balcón en POV Kal (nuevo cauce, CANON del 2026-11-07; antes en el archivo 10, que ya no la tiene). No se abre: «No la había abierto. Seguía sin abrirla.» ~~Kal la guarda en el maletero, debajo de una manta~~ (versión del 10).
 - **Quién ya lo sabe:** solo Kal. Ni el lector ni Chiara ven el contenido.
-- **Quién NO debe saberlo/insinuarlo todavía:** nadie. La caja no vuelve a mencionarse hasta la Parte 3.
-- **Líneas o gestos prohibidos:** abrir la caja, traducir las runas, o siquiera mencionarla de pasada antes de la Parte 3. Ni Kal debe pensar en ella entre medias — el silencio narrativo es parte del efecto.
+- **Quién NO debe saberlo/insinuarlo todavía:** nadie. Después del Cap. 14, la caja no vuelve a mencionarse hasta la Parte 3 (verificado en los 47 caps., 2026-11-10).
+- **Líneas o gestos prohibidos:** abrir la caja, traducir las runas, o siquiera mencionarla de pasada entre el 14 y la Parte 3. Ni Kal debe pensar en ella entre medias — el silencio narrativo es parte del efecto.
 - **Estado:** sembrado; contenido y significado pendientes de decisión del autor, reservados para la Parte 3.
 
 ## Autor del doble golpe de Calle Corona (*Voto de Ceniza*; CANON DEL AUTOR, 2026-11-07)
