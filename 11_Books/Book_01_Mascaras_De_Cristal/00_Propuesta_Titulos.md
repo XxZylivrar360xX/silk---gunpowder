@@ -1,5 +1,7 @@
 # Propuesta de retitulado — *Máscaras de Cristal*
 
+> **SUPERADO EN TÍTULOS (2026-11-10):** los 47 capítulos se retitularon de nuevo, Parte por Parte, por DECISIÓN DEL AUTOR; la lista vigente está en [[98_Agent_Handoff/sessions/2026-11-10_claude_retitulado_47]] y en el [[11_Books/Book_01_Mascaras_De_Cristal/00_Book_Map]]. Este documento queda como registro de la ronda del 2026-10-21 (sigue vigente la flexibilización de la regla, abajo).
+
 **Estado:** APLICADO 2026-10-21 (decisión del autor: candidata recomendada en cada fila; 32, 39 y 40 se mantienen). **Ajuste 2026-10-22 (autor):** 16, 18, 21 y 22 vuelven a *El sobre rojo*, *El día nublado*, *El primer huésped* y *Causalidad* (decididos en la primera ronda, ver [[01_Timeline/08_Matriz_Renombramiento_Capitulos_Libro_I]]); 28 pasa de *Te queda grande* a **No hace falta** (de "*Cielo*, no hace falta."); 33 se queda con **Lo único que es mío** (decidido). **Ajuste 2026-10-25 (autor):** el actual Cap. 12 (archivo 10) cambia de *Los muchachos comen* a **Dos sillas vacías**.
 
 > **Numeración:** desde 2026-10-22 el Libro I usa numeración corrida definitiva (56 caps.); este documento cita la numeración anterior. Correspondencia en [[11_Books/Book_01_Mascaras_De_Cristal/00_Book_Map]].

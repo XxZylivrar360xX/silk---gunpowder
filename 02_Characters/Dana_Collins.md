@@ -26,7 +26,7 @@
 
 > **CANON DEL AUTOR (2026-10-24), mando policial de la saga:** *Sombras de Poder* (II): Lucía sube a **jefa interina** y [[02_Characters/Dana_Collins]] asciende a **subjefa**; [[02_Characters/Renata_Clark]] es nombrada jefa **al cierre del Libro II**. *Voto de Ceniza* (III): Lucía y Collins, **las dos subjefas**, bajo Clark; cuando Clark renuncia en la Guerra de los Tres, Lucía es **jefa hasta *Cuentas de Sangre*** (IV). **En el IV (CANON DEL AUTOR, 2026-11-07), Collins se retira y [[07_Ideas/Libro_04_Incubadora/01_Nicholas_Voss|Nicholas Voss]] hereda su cargo.** Sesión: [[98_Agent_Handoff/sessions/2026-10-24_claude_cap04_cortejo_keene_blake]].
 
-> **Escalafón (2026-10-24):** **CANON DEL AUTOR:** en el Libro I es **teniente** (antes sargenta; el Cap. 10 (archivo 08b) pasa a llamarse *La teniente*, archivo sin renombrar). **CANON DEL AUTOR (autorizado 2026-10-24):** al abrir el II, Lucía (jefa interina) la nombra **capitana**; al cierre del II, con la llegada de Clark, pasa a **segunda subjefa**. Así el salto no se come el escalafón de golpe.
+> **Escalafón (2026-10-24):** **CANON DEL AUTOR:** en el Libro I es **teniente** (antes sargenta; el Cap. 10 (archivo 08b) pasa a llamarse *La teniente*, archivo sin renombrar; superado: hoy *Una pésima idea*, DECISIÓN DEL AUTOR 2026-11-10). **CANON DEL AUTOR (autorizado 2026-10-24):** al abrir el II, Lucía (jefa interina) la nombra **capitana**; al cierre del II, con la llegada de Clark, pasa a **segunda subjefa**. Así el salto no se come el escalafón de golpe.
 
 **Alias:** ninguno fijado.
 **Estado:** viva.
