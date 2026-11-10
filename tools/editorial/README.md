@@ -73,3 +73,16 @@ Los patrones regex deben ser conservadores. Si una regla requiere sintaxis o sem
 No hay autofix. Los reportes son insumo para el autor y la sala editorial.
 
 V1.1 etiqueta además la naturaleza de la señal como `high-confidence`, `compound` o `descriptive/inventory`. Un parlamento aislado nunca es `high` sólo por longitud y un cluster corto predominantemente dialogado nunca es `high` sólo por longitud.
+
+## Barrido de prolepsis (2026-11-10)
+
+Herramienta aparte, también `audit_only`: `prolepsis_audit.py` + `checks/prolepsis.py` + `prolepsis_config.json`. Busca candidatos a PROLEPSIS DE NARRADOR y PRESAGIO GARANTIZADO (EDITORIAL_POLICY §L) sólo en narración, incisos y cursiva; el parlamento se excluye porque la prolepsis de personaje es lícita (`--incluir-dialogo` lo añade como `info`).
+
+```bash
+python tools/editorial/prolepsis_audit.py \
+  --manifest tools/editorial/libro_01_completo.json \
+  --output tools/editorial/reports/PROLEPSIS_LIBRO_01
+python -B -m unittest tools.editorial.tests.test_prolepsis
+```
+
+`libro_01_completo.json` lista los 47 capítulos vigentes con su número de capítulo (nuevo cauce, 2026-11-08). El dictamen humano vive en `13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Prolepsis_Libro_I.md`.

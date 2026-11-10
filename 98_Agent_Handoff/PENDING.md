@@ -30,4 +30,5 @@ La lista (F4, Stavanger, F2, semillas, REL-01, Harper, Navidad) pasó el 2026-11
 - **Portada y Nota Editorial:** portada ≥1600×2560 para KDP; título de `00_Nota_Editorial.md`, del autor.
 - **Exportación:** EPUB, PDF y audio al día (2026-11-09); se regeneran y suben al cerrar cada tarea con la skill `regenerar-y-subir`.
 - **Referencias de numeración (2026-11-10):** 23 dudas para el autor, ocho de ellas de contenido (la escena citada ya no ocurre así): [[98_Agent_Handoff/sessions/2026-11-10_claude_referencias_dudosas]].
+- **Auditoría de prolepsis del Libro I (2026-11-10, AUDIT):** decidir P1 (cortar «Todavía no.», 29:352) y D1–D4 (conservar); falta la Fase 2 (revelaciones y Libro II): [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Prolepsis_Libro_I]].
 - Diferidos en [[98_Agent_Handoff/BACKLOG]]: reseña de Partes I–II (ChatGPT), 917 referencias en numeración de 56, diálogo de terceros (Parte I), protolectura de los caps. 1–8, Q24, cobros del Libro I, aura, Halbrook, Corrado/Manfred, mesa tres, *El Faro*, Cap. 34, susurro a Varga y «Usted es alta».

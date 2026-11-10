@@ -1,0 +1,147 @@
+{
+  "editor_version": "prolepsis-1.0",
+  "nota": "Patrones sobre texto normalizado (minúsculas, sin tildes). Política: EDITORIAL_POLICY §L y MICROEDICION (PROLEPSIS DE NARRADOR, PRESAGIO GARANTIZADO). Una alerta es candidato, no fallo. fuerte -> medium, media -> low, debil -> info.",
+  "contextos_reportados": [
+    "narracion",
+    "inciso",
+    "cursiva"
+  ],
+  "contextos_rebajados": [
+    "cursiva"
+  ],
+  "patrones": [
+    {
+      "id": "HABRIA_DE",
+      "familia": "PROLEPSIS_NARRADOR",
+      "fuerza": "fuerte",
+      "regex": "\\b(?:habria|habrian) de (?:recordar|saber|entender|comprender|volver|lamentar|pagar|descubrir|pensar|arrepentir)\\w*\\b",
+      "mensaje": "Futuro del pasado clásico («habría de recordar»): confirma un hecho posterior a la escena."
+    },
+    {
+      "id": "NO_PODIA_SABER",
+      "familia": "PROLEPSIS_NARRADOR",
+      "fuerza": "fuerte",
+      "regex": "\\bno (?:podia|podian|tenia (?:como|manera de|forma de)|tenian (?:como|manera de|forma de)) saber(?:lo)?\\b",
+      "mensaje": "«No podía saber…»: el narrador sabe lo que el POV no sabe."
+    },
+    {
+      "id": "TODAVIA_NO_SABIA",
+      "familia": "PROLEPSIS_NARRADOR",
+      "fuerza": "fuerte",
+      "regex": "\\b(?:(?:todavia|aun) no (?:lo )?(?:sabia|sabian|sospechaba|sospechaban|imaginaba|imaginaban|adivinaba|adivinaban)|no (?:lo )?(?:sabia|sabian|sospechaba|sospechaban|imaginaba|imaginaban) (?:todavia|aun))\\b(?:,? (?:que|como|cuanto)\\b|[.,;:]|$)",
+      "mensaje": "«Todavía no sabía (que)…»: posible anuncio de algo que el texto revelará después."
+    },
+    {
+      "id": "MAS_TARDE_SUPO",
+      "familia": "PROLEPSIS_NARRADOR",
+      "fuerza": "fuerte",
+      "regex": "\\b(?:mas tarde|despues|luego|con el tiempo|con los anos|anos despues|meses despues) (?:lo )?(?:supo|sabria|entendio|entenderia|comprendio|comprenderia|descubrio|descubriria|recordaria|se entero|se enteraria|pensaria|diria)\\b",
+      "mensaje": "Saber o recuerdo situado después del presente de la escena."
+    },
+    {
+      "id": "TIEMPO_LARGO_DESPUES",
+      "familia": "PROLEPSIS_NARRADOR",
+      "fuerza": "fuerte",
+      "regex": "\\b(?:anos|meses|mucho tiempo|tiempo) (?:despues|mas tarde)\\b|\\bcon (?:los anos|el tiempo)\\b",
+      "mensaje": "Salto a un tiempo muy posterior; revisar si es transición de escena o anuncio."
+    },
+    {
+      "id": "SERIA_ULTIMA_VEZ",
+      "familia": "PROLEPSIS_NARRADOR",
+      "fuerza": "fuerte",
+      "regex": "\\b(?:seria|fue|iba a ser) (?:la|el) (?:ultima|ultimo|unica|unico) (?:vez|dia|noche|tarde|manana)\\b",
+      "mensaje": "«Sería/fue la última vez»: certifica que algo no volverá a ocurrir."
+    },
+    {
+      "id": "NI_DESPUES",
+      "familia": "PROLEPSIS_NARRADOR",
+      "fuerza": "fuerte",
+      "regex": "\\bni (?:esa noche|ese dia|esa tarde|esa manana|entonces) ni (?:despues|nunca|luego|mas tarde)\\b|,\\s*ni despues\\b|\\bni entonces ni\\b",
+      "mensaje": "«Ni esa noche ni después»: afirma algo sobre el tiempo posterior a la escena."
+    },
+    {
+      "id": "NUNCA_COND_SABER",
+      "familia": "PROLEPSIS_NARRADOR",
+      "fuerza": "fuerte",
+      "regex": "\\b(?:nunca|jamas) (?:(?:se|le|les|lo|la|los|las|me|te|nos) ){0,2}(?:sabria|sabrian|volveria|volverian|olvidaria|olvidarian|perdonaria|perdonarian|contaria|contarian|diria|dirian|regresaria|regresarian|veria|verian|entenderia|entenderian|recuperaria|recuperarian)\\b",
+      "mensaje": "«Nunca sabría/volvería…»: cierra el futuro de un personaje desde el narrador."
+    },
+    {
+      "id": "COND_RETROSPECTIVO",
+      "familia": "PROLEPSIS_NARRADOR",
+      "fuerza": "media",
+      "regex": "\\b(?:recordaria|recordarian|entenderia|entenderian|comprenderia|comprenderian|descubriria|descubririan|se enteraria|se enterarian|lamentaria|lamentarian|se arrepentiria|se arrepentirian|agradeceria|agradecerian)\\b",
+      "mensaje": "Condicional de recuerdo o comprensión futura; revisar si es hipótesis del POV o anuncio."
+    },
+    {
+      "id": "NO_VOLVIO_A",
+      "familia": "PROLEPSIS_NARRADOR",
+      "fuerza": "media",
+      "regex": "\\bno (?:volvio|volvieron|volveria|volverian) a (?:hablar|mencionar|preguntar|ver|verlo|verla|verlos|verlas|pisar|tocar|nombrar|sacar|llamar|aparecer)\\b|\\b(?:ya )?no (?:volveria|volverian|regresaria|regresarian)\\b",
+      "mensaje": "«No volvió/volvería a…»: si excede la escena, afirma el futuro."
+    },
+    {
+      "id": "COSTARIA_CAMBIARIA",
+      "familia": "PROLEPSIS_NARRADOR",
+      "fuerza": "media",
+      "regex": "\\b(?:lo que|cuanto|como) (?:le |les |nos |te |me )?(?:iba a costar(?:le|les|nos)?|costaria|costarian|cambiaria|cambiarian|pagaria|traeria)\\b|\\bcambiar(?:ia|ian) todo\\b|\\b(?:ya )?(?:lo )?(?:habia|habian) cambiado todo\\b|\\btodavia no saben que\\b",
+      "mensaje": "Anuncio del precio o el efecto futuro de un hecho presente."
+    },
+    {
+      "id": "IBA_A_SER_PRIMERA",
+      "familia": "PROLEPSIS_NARRADOR",
+      "fuerza": "media",
+      "regex": "\\b(?:iba|iban) a ser (?:la|el) (?:primera|primero|unica|unico)\\b|\\bseria (?:la|el) (?:primera|primero) de\\b",
+      "mensaje": "«Iba a ser la primera…»: cuenta ocurrencias futuras."
+    },
+    {
+      "id": "ALGUN_DIA_COND",
+      "familia": "PROLEPSIS_NARRADOR",
+      "fuerza": "media",
+      "regex": "\\balgun dia\\b[^.!?]{0,60}\\b\\w+(?:ria|rian)\\b",
+      "mensaje": "«Algún día… -ría»: revisar si es deseo del POV o certeza del narrador."
+    },
+    {
+      "id": "SIN_SABER_TODAVIA",
+      "familia": "PROLEPSIS_NARRADOR",
+      "fuerza": "media",
+      "regex": "\\bsin saber(?:lo)?,? (?:todavia|aun)\\b|\\bsin que (?:nadie|ninguno|ninguna|ella|el|ellos) (?:lo )?(?:supiera|supieran) (?:todavia|aun)\\b",
+      "mensaje": "Ignorancia del POV subrayada por un narrador que sí sabe."
+    },
+    {
+      "id": "TODAVIA_NO_CIERRE",
+      "familia": "PROLEPSIS_NARRADOR",
+      "fuerza": "debil",
+      "regex": "\\b(?:todavia|aun) no(?:\\s*[.…]|$)",
+      "mensaje": "«…todavía no.» al cierre: puede prometer que ocurrirá."
+    },
+    {
+      "id": "FUE_PRIMERA_VEZ",
+      "familia": "PROLEPSIS_NARRADOR",
+      "fuerza": "debil",
+      "regex": "\\bfue (?:la|el) (?:primera|primero) (?:vez|de)\\b",
+      "mensaje": "«Fue la primera vez»: implica una serie posterior; revisar si la serie se ve en el libro."
+    },
+    {
+      "id": "IBA_A_NECESITAR",
+      "familia": "PROLEPSIS_NARRADOR",
+      "fuerza": "debil",
+      "regex": "\\bque (?:iba|iban) a (?:necesitar|costar|perder|cambiar|terminar|deber)(?:lo|la|le|les|los|las)?\\b",
+      "mensaje": "«Que iba a necesitar/costar…»: posible saber posterior."
+    },
+    {
+      "id": "DESDE_ENTONCES",
+      "familia": "ITERATIVO",
+      "fuerza": "debil",
+      "regex": "\\b(?:desde entonces|desde esa noche|desde ese dia|a partir de (?:entonces|ese dia|esa noche)|para siempre|de ahi en adelante)\\b",
+      "mensaje": "Resumen iterativo hacia adelante; dudoso si el capítulo no cubre ese tramo."
+    },
+    {
+      "id": "PRESAGIO_CERTEZA",
+      "familia": "PRESAGIO_GARANTIZADO",
+      "fuerza": "debil",
+      "regex": "\\b(?:presintio|presintieron|presentimiento|corazonada|tuvo la certeza|tenia la certeza|lo supo antes de|algo le dijo que|supo,? sin saber como)\\b|\\bsabia,? de algun modo,? que\\b",
+      "mensaje": "Intuición: revisar si el texto la confirma con una certeza que el POV no podía tener."
+    }
+  ]
+}

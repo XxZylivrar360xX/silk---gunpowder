@@ -1,0 +1,195 @@
+{
+ "pilot": "PROLEPSIS_LIBRO_01",
+ "mode": "audit_only",
+ "numeracion": "nuevo cauce 2026-11-08 (47 caps.)",
+ "chapters": [
+  {
+   "cap": 1,
+   "path": "11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/01_Un_Hombre_De_Negocios_Intachable.md"
+  },
+  {
+   "cap": 2,
+   "path": "11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/02_Demasiado_Listo.md"
+  },
+  {
+   "cap": 3,
+   "path": "11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/03_Los_Viejos_Dias.md"
+  },
+  {
+   "cap": 4,
+   "path": "11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/04_Tarifa_Nocturna.md"
+  },
+  {
+   "cap": 5,
+   "path": "11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/05a_Cliente_Y_Proveedor.md"
+  },
+  {
+   "cap": 6,
+   "path": "11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/05c_La_Pizza_De_Calabaza.md"
+  },
+  {
+   "cap": 7,
+   "path": "11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/06_Ambos.md"
+  },
+  {
+   "cap": 8,
+   "path": "11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/07_La_Noche_Del_Ladrillo.md"
+  },
+  {
+   "cap": 9,
+   "path": "11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/08_La_Carrera_De_Mascaras.md"
+  },
+  {
+   "cap": 10,
+   "path": "11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/08b_La_Sargenta.md"
+  },
+  {
+   "cap": 11,
+   "path": "11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/09_La_Balanza.md"
+  },
+  {
+   "cap": 12,
+   "path": "11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/10_El_Loft_Del_Soltero.md"
+  },
+  {
+   "cap": 13,
+   "path": "11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/12_Roma_Atrii.md"
+  },
+  {
+   "cap": 14,
+   "path": "11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/14_La_Regla_Del_Telefono.md"
+  },
+  {
+   "cap": 15,
+   "path": "11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/15_El_Porton.md"
+  },
+  {
+   "cap": 16,
+   "path": "11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/17_Cuentas_Claras.md"
+  },
+  {
+   "cap": 17,
+   "path": "11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/18_El_Dia_Nublado.md"
+  },
+  {
+   "cap": 18,
+   "path": "11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/20_El_Mirador.md"
+  },
+  {
+   "cap": 19,
+   "path": "11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/21b_Grazie.md"
+  },
+  {
+   "cap": 20,
+   "path": "11_Books/Book_01_Mascaras_De_Cristal/Part_02_Con_Peores_Personas_He_Tratado/22a_La_Cifra.md"
+  },
+  {
+   "cap": 21,
+   "path": "11_Books/Book_01_Mascaras_De_Cristal/Part_02_Con_Peores_Personas_He_Tratado/22b_Con_Su_Proveedor.md"
+  },
+  {
+   "cap": 22,
+   "path": "11_Books/Book_01_Mascaras_De_Cristal/Part_02_Con_Peores_Personas_He_Tratado/24b_Lo_Que_Cueste.md"
+  },
+  {
+   "cap": 23,
+   "path": "11_Books/Book_01_Mascaras_De_Cristal/Part_02_Con_Peores_Personas_He_Tratado/24c_El_Corral.md"
+  },
+  {
+   "cap": 24,
+   "path": "11_Books/Book_01_Mascaras_De_Cristal/Part_02_Con_Peores_Personas_He_Tratado/24d_Vienes_Conmigo.md"
+  },
+  {
+   "cap": 25,
+   "path": "11_Books/Book_01_Mascaras_De_Cristal/Part_02_Con_Peores_Personas_He_Tratado/25_Libros_Abiertos.md"
+  },
+  {
+   "cap": 26,
+   "path": "11_Books/Book_01_Mascaras_De_Cristal/Part_02_Con_Peores_Personas_He_Tratado/26_Me_Encuentro_Bien.md"
+  },
+  {
+   "cap": 27,
+   "path": "11_Books/Book_01_Mascaras_De_Cristal/Part_02_Con_Peores_Personas_He_Tratado/29_El_Patio_Ajeno.md"
+  },
+  {
+   "cap": 28,
+   "path": "11_Books/Book_01_Mascaras_De_Cristal/Part_02_Con_Peores_Personas_He_Tratado/30_Media_Baraja.md"
+  },
+  {
+   "cap": 29,
+   "path": "11_Books/Book_01_Mascaras_De_Cristal/Part_02_Con_Peores_Personas_He_Tratado/31_Vamos_A_Casa.md"
+  },
+  {
+   "cap": 30,
+   "path": "11_Books/Book_01_Mascaras_De_Cristal/Part_02_Con_Peores_Personas_He_Tratado/32_Linea_Directa.md"
+  },
+  {
+   "cap": 31,
+   "path": "11_Books/Book_01_Mascaras_De_Cristal/Part_02_Con_Peores_Personas_He_Tratado/33_Mas_De_La_Cuenta.md"
+  },
+  {
+   "cap": 32,
+   "path": "11_Books/Book_01_Mascaras_De_Cristal/Part_02_Con_Peores_Personas_He_Tratado/34_Mi_Pareja.md"
+  },
+  {
+   "cap": 33,
+   "path": "11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/35_Sin_Fecha_De_Regreso.md"
+  },
+  {
+   "cap": 34,
+   "path": "11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/36_Tambien_Las_Mananas.md"
+  },
+  {
+   "cap": 35,
+   "path": "11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/38_Al_Reves.md"
+  },
+  {
+   "cap": 36,
+   "path": "11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/40_Mecanico.md"
+  },
+  {
+   "cap": 37,
+   "path": "11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/41_La_Otra_Mitad.md"
+  },
+  {
+   "cap": 38,
+   "path": "11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/42_Nada.md"
+  },
+  {
+   "cap": 39,
+   "path": "11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/43_La_Puerta.md"
+  },
+  {
+   "cap": 40,
+   "path": "11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/44_Jurisdiccion.md"
+  },
+  {
+   "cap": 41,
+   "path": "11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/45_Ropa_Limpia.md"
+  },
+  {
+   "cap": 42,
+   "path": "11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/46_Llaves.md"
+  },
+  {
+   "cap": 43,
+   "path": "11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/47_Intereses.md"
+  },
+  {
+   "cap": 44,
+   "path": "11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/48_Su_Nombre.md"
+  },
+  {
+   "cap": 45,
+   "path": "11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/49_Enfrente.md"
+  },
+  {
+   "cap": 46,
+   "path": "11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/50_A_Oscuras.md"
+  },
+  {
+   "cap": 47,
+   "path": "11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/50b_La_Tierra_Bajo_Sus_Botas.md"
+  }
+ ]
+}
