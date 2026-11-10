@@ -4,7 +4,7 @@ Versión: `prolepsis-1.0`. Modo `audit_only`. Contextos: narración, inciso y cu
 
 Cada fila es un **candidato**, no un fallo. `medium` = patrón fuerte en voz del narrador; `low` = patrón medio; `info` = débil o en cursiva.
 
-**Total:** 27 — medium 4, low 12, info 11.
+**Total:** 26 — medium 4, low 12, info 10.
 
 ## Por patrón
 
@@ -12,10 +12,10 @@ Cada fila es un **candidato**, no un fallo. `medium` = patrón fuerte en voz del
 |---|---|---|---|
 | DESDE_ENTONCES | ITERATIVO | debil | 6 |
 | NO_VOLVIO_A | PROLEPSIS_NARRADOR | media | 5 |
-| TODAVIA_NO_CIERRE | PROLEPSIS_NARRADOR | debil | 3 |
 | COND_RETROSPECTIVO | PROLEPSIS_NARRADOR | media | 3 |
 | SIN_SABER_TODAVIA | PROLEPSIS_NARRADOR | media | 3 |
 | NO_PODIA_SABER | PROLEPSIS_NARRADOR | fuerte | 3 |
+| TODAVIA_NO_CIERRE | PROLEPSIS_NARRADOR | debil | 2 |
 | FUE_PRIMERA_VEZ | PROLEPSIS_NARRADOR | debil | 2 |
 | SERIA_ULTIMA_VEZ | PROLEPSIS_NARRADOR | fuerte | 1 |
 | COSTARIA_CAMBIARIA | PROLEPSIS_NARRADOR | media | 1 |
@@ -104,12 +104,6 @@ Cada fila es un **candidato**, no un fallo. `medium` = patrón fuerte en voz del
 | Línea | Sev. | Patrón | Contexto | Fragmento |
 |---|---|---|---|---|
 | 184 | medium | NO_PODIA_SABER | narracion | Le contó lo que ella no podía saber, en el orden en que había pasado y sin adornarlo: la llamada desde su teléfono, la voz cordial que preguntaba por el mecánico y por sus domingos; el arma del cajón del taller; el Monarch cerrado, la silla vacía del cuarto d… |
-
-### Cap. 29 — `31_Vamos_A_Casa.md` (1)
-
-| Línea | Sev. | Patrón | Contexto | Fragmento |
-|---|---|---|---|---|
-| 352 | info | TODAVIA_NO_CIERRE | narracion | Todavía no. |
 
 ### Cap. 30 — `32_Linea_Directa.md` (1)
 

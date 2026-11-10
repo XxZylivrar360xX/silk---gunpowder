@@ -187,17 +187,6 @@
   "excerpt": "Le contó lo que ella no podía saber, en el orden en que había pasado y sin adornarlo: la llamada desde su teléfono, la voz cordial que preguntaba por el mecánico y por sus domingos; el arma del cajón del taller; el Monarch cerrado, la silla vacía del cuarto d…"
  },
  {
-  "cap": "29",
-  "file": "31_Vamos_A_Casa.md",
-  "line": 352,
-  "severity": "info",
-  "check_id": "TODAVIA_NO_CIERRE",
-  "contexto": "narracion",
-  "familia": "PROLEPSIS_NARRADOR",
-  "coincidencia": "Todavía no.",
-  "excerpt": "Todavía no."
- },
- {
   "cap": "30",
   "file": "32_Linea_Directa.md",
   "line": 242,

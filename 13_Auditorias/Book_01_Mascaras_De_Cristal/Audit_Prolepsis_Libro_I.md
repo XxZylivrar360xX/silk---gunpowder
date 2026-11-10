@@ -12,9 +12,9 @@
 | 0 | Taxonomía | **HECHA** | 2026-11-10 |
 | 1 | Barrido mecánico (detector + pasada amplia de recall) y triage | **HECHA** | 2026-11-10 |
 | 1b | Verificación de cortes dictados en auditorías anteriores | **HECHA** | 2026-11-10 |
-| 2 | Cruce semántico contra el mapa de revelaciones y el Libro II | PENDIENTE | — |
-| 3 | Decisiones del autor (§ Decisiones) | PENDIENTE | — |
-| 4 | Cirugía de lo aprobado, regeneración y subida | PENDIENTE | — |
+| 2 | Cruce semántico contra el mapa de revelaciones y el Libro II | **HECHA** (§2): limpio salvo D5 | 2026-11-10 |
+| 3 | Decisiones del autor (§ Decisiones) | **P1 APROBADA**; D1–D4 sin respuesta | 2026-11-10 |
+| 4 | Cirugía de lo aprobado, regeneración y subida | **P1 APLICADA** (29:352, −2) | 2026-11-10 |
 
 ## 0. Taxonomía
 
@@ -72,14 +72,44 @@ Las **líneas canon del autor** quedan fuera del alcance: si alguna cae en una f
 
 Se buscaron en los 47 capítulos los 13 textos que las auditorías por lote dictaron como prolepsis (Caps. 5, 9, 10 y 12 de la numeración antigua; arco final B2 y B5). Los 12 de corte siguen **aplicados**. El único que sigue en el texto es el protegido B2 del arco final («en una columna que todavía no tiene título», hoy 42:87), conforme a lo dictado.
 
-## 2. Pendiente: cruce semántico (Fase 2)
+## 2. Cruce semántico (Fase 2)
 
-El regex no atrapa la prolepsis sin marcador. Falta tomar cada revelación reservada de [[12_Craft_Policies/revelations/Book_01_Mascaras_De_Cristal]] y cada materia del Libro II (H1, embarazo, incendio, Bonnie y Mei-Lin como arco, Halbrook antes del 47) y buscar sus palabras clave en los capítulos anteriores a la revelación, por Parte. Ahí se separan la siembra muda (proteger) y la glosa que la explica (cortar).
+**Método:** se tomaron las revelaciones reservadas de [[12_Craft_Policies/revelations/Book_01_Mascaras_De_Cristal]] y de [[12_Craft_Policies/revelations/SAGA_LEVEL]], y las materias del Libro II y siguientes. Se buscaron sus palabras clave en narración, incisos y cursiva de los 47 capítulos, y se leyó cada aparición en su contexto. Grupos y resultado:
+
+| Grupo | Qué no puede adelantarse | Resultado |
+|---|---|---|
+| Incendio del loft (II) | La mentira del gas, Crowe incendiario | Limpio (5 apariciones de «quemar», ninguna del loft). |
+| Embarazo, Elenna (II–III) | Cualquier anuncio | Limpio. |
+| «Torna a casa», placa, collar (H1) | La placa antes de la escena ganada | Limpio (el único «collar» es el de raíces de Danny). |
+| Origen de Kal (saga) | Noruega, la compra, Stavanger | Ver **D5** y la nota del ledger. |
+| Halbrook | Nombre fuera de lo autorizado; el convoy como prueba | Limpio: piensa el nombre en el 27 y el 36 (DECISIÓN DEL AUTOR), lo dice en el 28, y hay recapitulaciones de Chiara y Kal en el 31, 32 y 39 (después del 28). El 47 dice «El general» sin nombre. |
+| Liberación de Kal y hueco de la etiqueta | Ligar el apagón con la liberación, explicar la etiqueta | Limpio. |
+| Matteo y Elio | Que Matteo investiga lo de Elio | Limpio: Génova y la carpeta se ven desde Chiara, sin conclusión. |
+| Grabación y fotograma | Quién la copió | Limpio: 47:96 dice sólo que «ya no existía», como pide el ledger. |
+| Mei-Lin informa | Glosa de la siembra | Limpio desde el corte de B5 (2026-10); las señales del 44 y el 46 son mudas. |
+| *Roma Atrii* | Traducir el código | Limpio. |
+| Volpi y la bandera falsa | Confirmar la bandera falsa | Limpio: 36:153 nombra a Volpi, como fija el canon, y no confirma nada más. |
+| Jim (Caps. 1–3) | Que murió, antes del 3 | Limpio: 1:154 siembra la partida, no la muerte. |
+| Trix, Iris (III) | Su muerte | Limpio. |
+| Crowe detrás del corral y del robo | Certificarlo en POV Kal | Limpio (ninguna atribución narrativa). |
+
+### D5. El crío de la cerca (14:22, archivo `14`)
+
+> «Un crío que en otra ciudad podría haber sido la clase de carga que fue él cuando lo compraron de bebé, y la que le costó la carrera.»
+
+- **Qué adelanta:** dos cosas reservadas en un solo pensamiento de Kal. (a) Que lo compraron de bebé: revelación de saga; el reveal narrativo está en *Sombras de Poder*. (b) Que lo que le costó la carrera fue «esa clase de carga», es decir, niños: el contenido de su versión de la corte marcial, que el 28 retiene («La mía no está en ninguna carpeta»).
+- **Antecedentes:** (a) está **protegida** desde [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Cap_12_Roma_Atrii]] (diseño del 2026-09-02: «cláusula dentro del pensamiento, no origen en bloque», modo de siembra que SAGA_LEVEL admite). La frase completa, con (b), quedó registrada en el ledger con el nuevo 14 (2026-11-07, BORRADOR, DISEÑO), como «única siembra en prosa del par bebé comprado y carrera perdida antes de Halbrook». Que (a) siga protegida no se rediscute aquí.
+- **El riesgo es (b):** SAGA_LEVEL prohíbe el «narrador usando el dato como resumen sentimental», y la ficha de Kal pide que la columna (lo compraron y por eso liberó el convoy) se vea «sin que él la diga jamás». Con (a) y (b) juntas, el capítulo 14 le resuelve al lector la rima con el niño de doce años de la noche del convoy, catorce capítulos antes de que el 28 la retenga.
+- **Recomendación:** **DUDOSA**, decide el autor. Si se quiere que el lector haga la rima solo, se corta «, y la que le costó la carrera» (−6) y el pensamiento termina en «cuando lo compraron de bebé». Si la siembra doble es intencional, se conserva como está.
+
+**Nota de ledger (no es prosa):** la entrada «La caja de madera con runas nórdicas» de SAGA_LEVEL sigue diciendo que se siembra en el 10 y que no se menciona antes de la Parte 3. El nuevo cauce la pasó al 14 (balcón y runas, CANON del 2026-11-07), y 14:248 la nombra («Lo único que podía venir de antes de los Mercer»). Hay que actualizar la entrada; la prosa se queda.
 
 ## Decisiones
 
 | ID | Pregunta | Recomendación |
 |---|---|---|
-| P1 | ¿Cortar «Todavía no.» en 29:352? | Sí. |
+| P1 | ¿Cortar «Todavía no.» en 29:352? | Sí. **DECISIÓN DEL AUTOR (2026-11-10): cortar. Aplicado:** «…y en la cara de él no se vio nada.» Las costillas y el gesto siguen; la escena no pierde información. |
 | D1–D4 | ¿Conservar las cuatro dudosas? | Sí, las cuatro. D2 se revisa en la Fase 2 contra lo que el libro cumple del plan. |
-| F2 | ¿Seguir con el cruce semántico (Fase 2)? | Sí, por Parte. |
+| F2 | ¿Seguir con el cruce semántico (Fase 2)? | Hecha el 2026-11-10 (§2). |
+| D5 | ¿Cortar «, y la que le costó la carrera» en 14:22? | Dudosa; decide el autor (§2). |
+| L1 | ¿Actualizar la entrada de las runas en SAGA_LEVEL al nuevo cauce? | Sí (registro, no prosa). |

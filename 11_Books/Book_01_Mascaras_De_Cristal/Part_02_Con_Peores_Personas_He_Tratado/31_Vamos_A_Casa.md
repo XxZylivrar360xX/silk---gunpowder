@@ -349,7 +349,7 @@ No dijo más, y ella no le preguntó.
 
 ***
 
-Kal la sacó del grupo casi sin que ella lo notara, con la excusa de mostrarle un recodo del lago donde el agua estaba más tranquila, y cuando ya estaban lo bastante lejos como para que las voces de los demás llegaran sueltas y sin palabras, la levantó del agua sin avisar, un brazo bajo las rodillas y otro en la espalda, con el agua chorreándole de la ropa. Chiara sintió en el brazo que la sostenía que algo le tiraba del costado, y en la cara de él no se vio nada. Todavía no.
+Kal la sacó del grupo casi sin que ella lo notara, con la excusa de mostrarle un recodo del lago donde el agua estaba más tranquila, y cuando ya estaban lo bastante lejos como para que las voces de los demás llegaran sueltas y sin palabras, la levantó del agua sin avisar, un brazo bajo las rodillas y otro en la espalda, con el agua chorreándole de la ropa. Chiara sintió en el brazo que la sostenía que algo le tiraba del costado, y en la cara de él no se vio nada.
 
 Chiara se aferró a su cuello con las dos manos.
 
