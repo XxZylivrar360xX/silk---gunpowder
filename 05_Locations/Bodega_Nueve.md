@@ -24,7 +24,7 @@ Entra quien Varek cita; el guardia ya tiene la placa. El Patio se queda afuera, 
 
 - **Cap. 52 (archivo 47), Nochevieja:** Chiara entrega las cajas. Dario pide intereses por el retraso, a pagar por el barrio con trabajos. Ella se niega y protege a los suyos, y a cambio queda "una cuenta abierta" con Dario. Él le sostiene la mano un segundo de más. Al salir, el hombre del Audi inclina la cabeza un grado.
 - **Cap. 54 (archivo 49):** Valenti habla de unos almacenes del Puerto Viejo que "alguien debería restaurar". Es ambiguo: el texto no resuelve si sabe.
-- **Cap. 50:** "Le quedé a deber a Dario lo que él quiera, cuando él quiera."
+- **Cap. 46 (*A oscuras*):** "Le quedé a deber a Dario lo que él quiera, cuando él quiera."
 
 ## Preguntas abiertas
 

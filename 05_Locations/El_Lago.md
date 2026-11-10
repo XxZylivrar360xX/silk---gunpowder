@@ -25,8 +25,8 @@ El núcleo de El Patio (Nadir, Danny, Héctor, Walt) y quien ellos inviten; en H
 
 - **H7:** la pesca sin ganador, el juego en el agua, el beso en la roca y "Vamos a casa".
 - Ahí sale a la luz el cumpleaños de Kal (1 de enero), que él no le había contado a Chiara (siembra en el [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/10_El_Loft_Del_Soltero|Cap. 12 (archivo 10)]]).
-- La foto de Héctor en la orilla, que paga en los Caps. 33 y 50.
+- La foto de Héctor en la orilla, que paga en los Caps. 31 (*Lo único que es mío*) y 46 (*A oscuras*).
 
 ## Preguntas abiertas
 
-> **PENDIENTE (autor):** nombre del lago, si lo tiene; que no sea *Lake Meriwether*, el del imán de Marisol (Caps. 14 y 21). Quién ganó la pesca ([[06_Relationships/Hitos]], H7).
+> **PENDIENTE (autor):** nombre del lago, si lo tiene; que no sea *Lake Meriwether*, el del imán de Marisol (Caps. 14 y 18). Quién ganó la pesca ([[06_Relationships/Hitos]], H7).

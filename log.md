@@ -4,6 +4,7 @@ El detalle se guarda una sola vez en notas de sesión. Este archivo es navegaci�
 
 ## Sesiones recientes
 
+- 2026-11-10: las 402 referencias dudosas de numeración: 42 corregidas a 47 (`Cap. N (*Título*)`), 231 históricas conservadas, 23 ambiguas para el autor: [[98_Agent_Handoff/sessions/2026-11-10_claude_referencias_dudosas]]
 - 2026-11-09: resto de la propagación de la Parte II (Plan_Vento, Hipódromo, Plan_Robo, Mapa POV, Valenti, Il Consorzio, Chiara, Red Civil; sin prosa); DECISIÓN DEL AUTOR: el cierre en numeración de 60 se fusiona en la lectura de los 40–47; Kal piensa «Halbrook» en el 27, el 25 se queda, se restaura la recapitulación del 32 y Chiara gana la pesca (29): [[98_Agent_Handoff/sessions/2026-11-09_claude_propagacion_parte_II_resto]]
 - 2026-11-08: observaciones de un lector a la Parte II (DECISIÓN DEL AUTOR: aparte de Nadir en el lago, hospital anclado, «Lo entiendo» sin absolución); continuidad de Marta en el 25 y de la multa en el 28: [[98_Agent_Handoff/sessions/2026-11-08_claude_observaciones_lector_parte_II]]
 - 2026-11-08: lectura del autor de la Parte III atendida (Camp Alder concretado, Kal y la foto de Alessio, llamada a Marisol en escena, glosas; prosa DISEÑO): [[98_Agent_Handoff/sessions/2026-11-08_claude_lectura_parte_iii]]
@@ -33,7 +34,6 @@ El detalle se guarda una sola vez en notas de sesión. Este archivo es navegaci�
 - 2026-11-07: tarjetas del Cap. 11 a Camp Alder (CANON): Vento asesinado en el corral por orden de Crowe; sale *Bajo juramento*; Crowe compra las armas de Camp Alder: [[11_Books/Book_01_Mascaras_De_Cristal/00_Plan_Nuevo_Cauce]]
 - 2026-11-07: F2 nuevo (CANON): Mei-Lin muere tras una operación, Bonnie a Boston; sin ejecución ni destierro: [[98_Agent_Handoff/sessions/2026-11-07_claude_f2_mei_lin_bonnie_nuevo_destino]]
 - 2026-11-07: quién es Chiara en *Sombras de Poder* (CANON): [[98_Agent_Handoff/sessions/2026-11-07_claude_chiara_libro_ii]]
-- 2026-11-07: [[98_Agent_Handoff/sessions/2026-11-07_claude_collins_sustituye_a_anya]] · CANON DEL AUTOR: Anya retirada ([[97_Supersedido/Anya_Voronina]]); Collins, ex amante de Kal (antes de la cárcel), hereda su papel; fixer rusa sin nombre; F4 PENDIENTE. Caps. 3, 27 y 40 y *Ya llegó* ajustados (DISEÑO). Dana es esposa de Voss (sustituye a María); se retira en el IV a Argentina y Voss hereda su cargo. «No soy su compañero» (Cap. 27). Coche bomba de Halbrook contra la comisaría (III); Clark renuncia; Trix muere en el triage (bandera falsa); el doble golpe abre la guerra. Bandos de la guerra: Calderos (colores), Cuadra Nueve (víctimas); tabla en [[03_Factions/Mapa_de_Conflicto_Activo]].
 
 ## Historial
 

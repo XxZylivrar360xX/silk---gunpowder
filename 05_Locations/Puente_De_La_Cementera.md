@@ -23,8 +23,8 @@ Pasa todo el que va o viene de la base o de la cementera. De noche, cuando no ha
 ## Qué pasa aquí
 
 - **Cap. 53 (archivo 48):** Mei-Lin lleva a Chiara a verlo, y una camioneta de la cementera las ve al cruzar. Esa noche, en [[05_Locations/La_Golondrina]], Rafe lo fija: "El martes. En el puente de la cementera. Usted no va."
-- **Cap. 49:** Chiara piensa en el martes como lo que habría que evitar si alguien sacara a Kal por otra vía.
-- **Cap. 50:** Rafe cumple. El recado llega por un muchacho suyo: "Que en las camionetas no venía nadie. Que nomás cajas."
+- **Cap. 45 (*Por si vuelve*):** Chiara piensa en el martes como lo que habría que evitar si alguien sacara a Kal por otra vía.
+- **Cap. 46 (*A oscuras*):** Rafe cumple. El recado llega por un muchacho suyo: "Que en las camionetas no venía nadie. Que nomás cajas."
 - **Cap. 56 (archivo 50b):** en la carpeta de Halbrook está la foto de Chiara y Mei-Lin junto al Lancia en el puente, movida y levantada en polvo, tomada desde algo que pasaba.
 
 ## Preguntas abiertas

@@ -13,11 +13,11 @@
 
 Resuelve el pendiente de por qué Chiara termina con auto propio — necesario para que exista algo que sabotear en F3 ("Los frenos"). Kal, ya con participación en el concesionario, le consigue algo que no está en el lote de nadie más: **un sedán Lancia, discreto, nada deportivo — lujo que no grita.**
 
-Es una compra limpia, no un favor con condiciones ni una jugada de poder. Encaja con el patrón ya establecido de Kal invirtiendo en negocios legítimos conforme el suyo prospera (ver el Audi A7, segundo auto, en el Capítulo 8).
+Es una compra limpia, no un favor con condiciones ni una jugada de poder. Encaja con el patrón ya establecido de Kal invirtiendo en negocios legítimos conforme el suyo prospera (ver el Audi A7, segundo auto, en el Cap. 23, *Oveja entre lobos*).
 
 ## La escena de compra — CANON DEL AUTOR (2026-08-29)
 
-**Ubicación:** Parte I, **poco antes de [[06_Relationships/Hitos#H15 — La noche del jacuzzi|La noche del jacuzzi]]** (que cerraba la Parte I hasta el 2026-10-29; hoy está en la Parte II, Cap. 33). Es una escena distinta y muy anterior a F3: el auto lleva **mucho tiempo** con Chiara antes de que le corten los frenos.
+**Ubicación:** Parte I, **poco antes de [[06_Relationships/Hitos#H15 — La noche del jacuzzi|La noche del jacuzzi]]** (que cerraba la Parte I hasta el 2026-10-29; hoy está en la Parte II, Cap. 25, *Libros abiertos*). Es una escena distinta y muy anterior a F3: el auto lleva **mucho tiempo** con Chiara antes de que le corten los frenos.
 
 - **Siembra previa:** un poco antes se planta que Kal **compra el local / entra en el concesionario nuevo** (Villani Motors). Ese negocio ya está en su cartera cuando llega la escena de compra.
 - **El juego de roles:** cuando Chiara va por el coche, **es Kal quien se lo vende** — y los dos **fingen ser desconocidos**, vendedor y clienta, un juego de roles que ejecutan a la perfección (los dos son profesionales de ser lo que la habitación necesita; aquí lo hacen **por diversión**, juntos).

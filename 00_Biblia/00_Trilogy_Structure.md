@@ -109,7 +109,7 @@ Debe desarrollar de forma suficiente:
 - la presión temprana de Il Consorzio sobre Chiara (H13, Palermo) sin convertirlo todavía en antagonista principal de volumen;
 - la salida de Matteo y el aislamiento progresivo de Chiara (~~Fabrizio se distancia~~ — superado 2026-10-18: la coerción pasa a Tommaso y Fabrizio no se aleja, muere ~~, Tommaso queda en riesgo~~; ver #54);
 - F1 — la mentira bajo la lluvia — y su reconciliación parcial;
-- H19/H20 — Camp Alder y el fracaso de los recursos de Chiara para liberar a Kal; desde 2026-10-01, H20 es el **arco final sin Kal** (Caps. 44–50b): institución, red, El Patio, Dario, los Bravos e Il Consorzio, cada puerta más cara que la anterior;
+- H19/H20 — Camp Alder y el fracaso de los recursos de Chiara para liberar a Kal; desde 2026-10-01, H20 es el **arco final sin Kal** (Caps. 40–47): institución, red, El Patio, Dario, los Bravos e Il Consorzio, cada puerta más cara que la anterior;
 - la liberación inexplicada de Kal (mecanismo reservado a *Voto de Ceniza*) y el reencuentro — **"Ciao, bella"**;
 - la llegada de Halbrook a San Aurelio (Cap. 56 (archivo 50b), *La tierra bajo sus botas*), con el nombre de Chiara ya en su radar.
 
@@ -717,7 +717,7 @@ O, en su herida más profunda:
 
 | De | Hacia | Bisagra |
 |---|---|---|
-| **Máscaras de Cristal** | **Sombras de Poder** | Reencuentro tras Camp Alder ("Ciao, bella", Cap. 50) + Halbrook en San Aurelio (Cap. 56 (archivo 50b)) + reconciliación completa + asesinato de Fabrizio a la mañana siguiente (#54; antes Tommaso) + arranque de la organización de Kal (Ren Wei) |
+| **Máscaras de Cristal** | **Sombras de Poder** | Reencuentro tras Camp Alder ("Ciao, bella", Cap. 46, *A oscuras*) + Halbrook en San Aurelio (Cap. 47, *La tierra bajo sus botas*) + reconciliación completa + asesinato de Fabrizio a la mañana siguiente (#54; antes Tommaso) + arranque de la organización de Kal (Ren Wei) |
 | **Sombras de Poder** | **Voto de Ceniza** | Primer choque abierto asociado a la presión de Dario + H1 + embarazo revelado ~~+ llegada física de Halbrook a San Aurelio~~ (pasó al cierre del Libro I) |
 | **Voto de Ceniza** | **Cuentas de Sangre** | Dario preso + montaña + Santa Lucía + Kal sentencia a Halbrook + Halbrook ejecutado en su discurso de victoria (tirador oculto) + Corrado vivo en el hospital |
 | **Cuentas de Sangre** | cierre de saga | La muerte de Halbrook (cierre del III) provoca Meridian; el tirador se revela al final (Harper); vacío de Dario activa Consorzio; Kal/Chiara vuelven reemplazable su poder y salen hacia Elenna |

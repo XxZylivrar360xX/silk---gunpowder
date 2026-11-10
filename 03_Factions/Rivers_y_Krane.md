@@ -15,11 +15,11 @@ Legalmente: litigio comercial (Rivers, Krane) y penal (solo Krane; **Rivers no e
 
 ## Su lógica decente
 
-PENDIENTE. Arranque DISEÑO: que nadie del barrio vuelva a quedarse con un defensor de oficio y el doble de casos, como le pasó a Walt (Cap. 17).
+PENDIENTE. Arranque DISEÑO: que nadie del barrio vuelva a quedarse con un defensor de oficio y el doble de casos, como le pasó a Walt (Cap. 16, *Le quedé debiendo*).
 
 ## Estructura
 
-- **Margaret Rivers:** litigio civil y comercial. Le ganó a Krane el pleito de Hoover (Caps. 23–24). Se odia con [[02_Characters/Edward_Connors]] desde la facultad.
+- **Margaret Rivers:** litigio civil y comercial. Le ganó a Krane el pleito de Hoover (Cap. 22, *Lo que cueste*). Se odia con [[02_Characters/Edward_Connors]] desde la facultad.
 - **Giancarlo Krane:** comercial y penal. Era el abogado de Hoover; Kal le dejó un número al cerrar el acuerdo (Cap. 25 (archivo 24)). Antes del bufete ya lleva asuntos comerciales de Chiara y, en el Cap. 49 (archivo 44), defiende a Kal como penalista.
 - **[[02_Characters/Marisol_Grayson]]:** discípula de Krane y una de las mejores penalistas del bufete; Kal le ofrece ser socia nominal. Se va cuando en *Voto de Ceniza* le llega la plaza de **paralegal en la fiscalía**, camino que unos veinte años después la lleva a fiscal de distrito, en la era de Elenna (CANON DEL AUTOR, 2026-10-02).
 

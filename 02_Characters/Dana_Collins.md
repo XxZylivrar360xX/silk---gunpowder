@@ -45,7 +45,7 @@ Voz dulce; habla con cuidado (CANON DEL AUTOR). No necesita subir el tono para q
 
 > **CANON DEL AUTOR (2026-10-18): competitiva.** Maneja bien; perderla le cuesta a Kal. En la radio reclama el Peugeot como suyo («El rojo es mío. Las demás, vayan por los punteros») y manda al resto de las unidades tras los primeros de la carrera. El autor tiene una idea para ella en *Voto de Ceniza* que todavía no quiere explorar: **no desarrollar ni sembrar más allá de lo escrito sin su orden.**
 
-> **DISEÑO (Cap. 8):** conoce las trampas del Peugeot rojo mejor que sus propios oficiales: sabe que lo pierden en la loma de la Milla y lo ordena antes de que pase. Lo persigue de oído y de mapa, sin cara. Asimetría con Kal: ella conoce el coche; él la conoce a ella por la voz ("La oigo").
+> **DISEÑO (Cap. 10, *La teniente*):** conoce las trampas del Peugeot rojo mejor que sus propios oficiales: sabe que lo pierden en la loma de la Milla y lo ordena antes de que pase. Lo persigue de oído y de mapa, sin cara. Asimetría con Kal: ella conoce el coche; él la conoce a ella por la voz ("La oigo").
 
 ## La VED
 

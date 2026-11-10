@@ -42,7 +42,7 @@ Lo que opera hoy:
 
 Michael importa menos por lo que hizo en escena que por el momento en que muere: Kal vuelve de una cadena de pérdidas institucionales y casi de inmediato tiene que despedirse de uno de los pocos hombres de su vida militar que todavía significaban algo bueno.
 
-**Primera vez que Kal habla de él en página:** Capítulo 6, en el penthouse. Lo cuenta sin dramatizarlo — amigo del ejército, retirado, muerto de cáncer "con la misma discreción con la que había hecho todo lo demás" — y de ahí pasa a Marisol.
+**Primera vez que Kal habla de él en página:** Capítulo 7 (*Ambos*), en el penthouse. Lo cuenta sin dramatizarlo — amigo del ejército, retirado, muerto de cáncer "con la misma discreción con la que había hecho todo lo demás" — y de ahí pasa a Marisol.
 
 **Primera presencia real (sin recuerdo):** Capítulo 12, a través de sus costumbres vivas entre Kal y Marisol (la regla del teléfono, la tienda, el cazo). Ver "Método" abajo.
 

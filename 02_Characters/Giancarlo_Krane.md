@@ -12,13 +12,13 @@
 
 ## Aspecto
 
-Traje caro y carpeta fina (Cap. 24).
+Traje caro y carpeta fina (Cap. 22, *Lo que cueste*).
 
 ## Energía (CANON DEL AUTOR, 2026-10-02)
 
 La seguridad de quien gana seguido, **sin arrogancia**, y un filo de estratega que corta sin levantar la voz. Lee a la gente más rápido que a los papeles y no se encariña con la razón: la usa cuando sirve. Es la referencia que dio el autor (Harvey Specter sin lo arrogante + el filo de Annalise Keating); **es solo energía, no hay que copiar líneas, tics ni biografía.**
 
-DISEÑO (Cap. 44): contesta al primer timbre; pregunta antes de opinar ("¿Quién más lo sabe?"); corrige al cliente sin adornos ("No vuelva a decir eso en voz alta. Ni a mí."); humor seco sobre su propio oficio ("A mí nadie me trata bien en una comisaría"); urgencia sin drama ("Úselo hoy").
+DISEÑO (Cap. 40, *Jurisdicción*): contesta al primer timbre; pregunta antes de opinar ("¿Quién más lo sabe?"); corrige al cliente sin adornos ("No vuelva a decir eso en voz alta. Ni a mí."); humor seco sobre su propio oficio ("A mí nadie me trata bien en una comisaría"); urgencia sin drama ("Úselo hoy").
 
 ## Apariciones
 

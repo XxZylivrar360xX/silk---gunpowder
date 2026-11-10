@@ -5,7 +5,7 @@ Actualizado: 2026-10-29 (diferidos desde PENDING; antes 2026-10-14). Lectura por
 ## Continuidad y arquitectura
 
 - **Reseña de Partes I–II (ChatGPT, OP-01 a OP-10):** vigente la [[98_Agent_Handoff/ChatGPT/2026-10-29_recalibracion_resena_partes_I_II_corte_cap25|recalibración]] (corte en 25); el informe previo queda como historial. OP-06 resuelto (corte). OP-03 estudiado: [[98_Agent_Handoff/sessions/2026-10-30_claude_estudio_op03_robo_monarch]] (P1–P2 aplicados; P3–P6 a la beta). OP-02, 04, 05 y 07 estudiados: [[98_Agent_Handoff/sessions/2026-10-30_claude_estudio_op02_op04_op05_op07]] (Mantener/Observar; Nat inactiva hasta el Libro II, CANON 2026-10-30). OP-01, 09 y 10 sólo con lector beta; OP-08 sólo por caso concreto. No editar prosa por hipótesis. (Pasado desde PENDING el 2026-11-07.)
-- **402 referencias dudosas de numeración** (2026-11-01): resolverlas al trabajar cada documento, con [[01_Timeline/09_Equivalencias_Numeracion_Libro_I]]. (Pasado desde PENDING el 2026-11-07.)
+- ~~**402 referencias dudosas de numeración** (2026-11-01)~~ **Resuelto 2026-11-10**: 42 corregidas a la numeración de 47; 23 ambiguas para el autor en [[98_Agent_Handoff/sessions/2026-11-10_claude_referencias_dudosas]]. Queda llevar a 47 las 917 sustituciones del 2026-11-01, que siguen en la numeración de 56.
 
 > **PENDIENTE:** reconciliación integral de los Book Maps y Hitos con [[00_Biblia/00_Trilogy_Structure]], [[01_Timeline/02_Libro_01_Mascaras_De_Cristal]] y el plan de cierre de III. Usar los Book Maps para detalle; no volver a expandir fases/beats históricos. Revisar carpetas vestigiales sin borrarlas por iniciativa.
 

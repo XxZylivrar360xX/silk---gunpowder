@@ -551,7 +551,7 @@ Sus apariciones funcionan mejor cuando cumplen una o más de estas funciones:
 
 > **RESUELTO (2026-09-26):** edad y diferencia con Jim · apariencia · madre (Amanda) · formación y estación · Estación 21, capitán (Doyle) y entrenadora (Tess Ybarra) · relación previa con Kal · silencio sobre Jim · inserción en el Cap. 3 · primera emergencia con El Patio (incendio del loft) · cómo ve a Kal.
 
-> **PENDIENTE:** que el autor revise la prosa insertada en el Cap. 3 (BORRADOR).
+> **PENDIENTE:** que el autor revise la prosa insertada en el Cap. 3 (*Los viejos días*) (BORRADOR).
 
 > **DISEÑO (2026-10-03, incubadora validada):** la inversión Walt → Kal es más fuerte porque Kal sí estuvo presente: Walt perdió una década y descubre decisiones que Natalie tomó sin él; Kal habrá protegido bien a Elenna y aun así tendrá que aceptar que eso no le concede decidir qué adulta será. En la tormenta del Libro II, Natalie puede estar en la respuesta oficial mientras Chiara y Camila sostienen la clandestina. Ver [[01_Timeline/03_Libro_02_Sombras_De_Poder]] ("Incubadora 2026-10-03").
 

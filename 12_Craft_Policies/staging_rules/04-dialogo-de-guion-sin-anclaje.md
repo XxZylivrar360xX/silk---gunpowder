@@ -16,7 +16,7 @@ Variante opuesta, igual de mala: el relleno de guion ("tomó un sorbo", "se enco
 
 - **La rueda del carrito, Capitulo 5.** A media discusion en la salida de carga, un carrito de lavanderia pasa con una rueda chillando y Kal lo sigue con la mirada. El beat ancla el lugar, cambia el tema, produce la mejor linea de la escena ("Ya lo tenía. Yo solo lo señalé") y se cobra paginas despues en un mensaje de texto ("La rueda del carrito se rompió").
 - **El cafe malo, Capitulo 5.** "Kal bebió café. Estaba malo." Dos frases antes de "No sé todavía": la pausa se vive en el cuerpo y en el vaso, no se nombra.
-- **Rocco bajo la mesa, Capitulo 5.** En Il Gelsomino, el silencio que "no fue incómodo" se sostiene con la calle: una moto pasa, el perro levanta la cabeza y vuelve a dormir. El tiempo corre sin que nadie lo diga.
+- **Rocco bajo la mesa, Capitulo 6 (*La pizza de calabaza*).** En Il Gelsomino, el silencio que "no fue incómodo" se sostiene con la calle: una moto pasa, el perro levanta la cabeza y vuelve a dormir. El tiempo corre sin que nadie lo diga.
 
 ## Por que es un problema
 

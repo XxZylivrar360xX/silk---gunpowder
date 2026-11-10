@@ -13,7 +13,7 @@ El gesto con los dedos no es el problema. El problema es el número repetido: pr
 ## Contraste con usos que sí funcionan
 
 - **Gesto de un personaje.** Si un gesto pertenece a una sola persona, la repetición la caracteriza. "Dos dedos" queda como gesto de Walt (la mejilla cerca de la cicatriz, la tierra en el Cap. 3).
-- **Eco deliberado.** Una repetición que hace rimar dos escenas a distancia, como Chiara metiendo dos dedos en la tierra de la lata en el Cap. 50, eco de Walt.
+- **Eco deliberado.** Una repetición que hace rimar dos escenas a distancia, como Chiara metiendo dos dedos en la tierra de la lata en el Cap. 46 (*A oscuras*), eco de Walt.
 - **Literal o funcional.** La cifra informa algo: teclear con dos dedos (no sabe escribir a máquina) o los dedos a la sien como secuela médica (Cap. 10).
 
 ## Por que es un problema

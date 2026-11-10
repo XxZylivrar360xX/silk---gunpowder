@@ -23,7 +23,7 @@ No es cruel *en escena* y no hace falta que lo sea. *(Nota 2026-10-03: en la cro
 ### Rasgos propios — DISEÑO (2026-10-05, dirección del autor)
 
 Para que no sea sólo el "anti-Kal" (señal de las reseñas de ChatGPT del 2026-10-05):
-- **Lee bien una sala cuando no tiene nada que defender** y regala la lectura (Cap. 4, en La Esquina de Mabel y al llegar a El Relevo). Lo pierde en cuanto hay público que impresionar. En el Cap. 7 acierta con el capitán antes de presentarle a Chiara.
+- **Lee bien una sala cuando no tiene nada que defender** y regala la lectura (Cap. 4 (*Tarifa nocturna*), en La Esquina de Mabel y al llegar a El Relevo). Lo pierde en cuanto hay público que impresionar. En el Cap. 8 (*La noche del ladrillo*) acierta con el capitán antes de presentarle a Chiara.
 - **Alguien a quien impresionar:** el capitán del Departamento (sin nombre, el mismo del yate del Cap. 43 (archivo 38)). Blake se ríe de sus chistes más fuerte que él.
 - **La placa como reflejo:** en el 4 enseña el nombre con el pulgar y responde "Soy policía". En el 7, de civil y perdiendo la discusión, la mano le va al bolsillo de la camisa donde de uniforme lleva la placa. **Dosis:** una vez por aparición como máximo, sin glosa. En la primera lectura es vanidad; después del Libro VII se lee como el hombre que cree que la placa manda. Nunca presagio.
 
@@ -77,7 +77,7 @@ Se entera en El Relevo (Volvo de la fiscal abandonado, la grúa de la Almendra, 
 
 ## Pendientes
 
-> **Cómo termina lo suyo con Chiara: ESCRITO** en [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/07_La_Noche_Del_Ladrillo|Cap. 8 (archivo 07)]] (la banqueta de Gabriella's) y **cerrado definitivamente** en el Cap. 38 con la formulación canon: ella no lo dejó por Kal, terminó con él por él.
+> **Cómo termina lo suyo con Chiara: ESCRITO** en [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/07_La_Noche_Del_Ladrillo|Cap. 8 (archivo 07)]] (la banqueta de Gabriella's) y **cerrado definitivamente** en el Cap. 35 (*Al revés*) con la formulación canon: ella no lo dejó por Kal, terminó con él por él.
 
 > **¿Vuelve? RESUELTO (2026-09-20):** vuelve una vez, en el Cap. 38, y sale acompañado a tierra. No es rival, no hay triángulo. **Cobrado (2026-10-03):** su regreso de verdad ocurre en la trilogía de Elenna, y no por Chiara. Ver abajo.
 

@@ -23,7 +23,7 @@ Huéspedes de paso, dinero viejo de fuera y gente que no quiere hospedarse en el
 
 ## Qué pasa aquí
 
-- **Cap. 47:** es "el hotel de enfrente" desde el despacho de Chiara el 1 de enero (camión de reparto, confeti mojado).
+- **Cap. 43 (*Intereses*):** es "el hotel de enfrente" desde el despacho de Chiara el 1 de enero (camión de reparto, confeti mojado).
 - **Cap. 54 (archivo 49):** Valenti, il consigliere, se niega a ayudar con Kal y le ofrece a Chiara el Monarch. Al día siguiente deja el hotel temprano: "no hay prisa". La camarera abre las cortinas de la suite vacía.
 - **Cap. 55 (archivo 50):** el apagón alcanza el letrero dorado del Pacífica, y la ventana del piso once sigue a oscuras con las cortinas abiertas. En el monólogo, Chiara señala el rectángulo negro donde está el Pacífica.
 - Función: es el Monarch visto desde fuera, "su propio edificio del revés". Ahí Chiara mira su casa como la mira la Mesa.

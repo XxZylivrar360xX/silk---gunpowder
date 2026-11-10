@@ -29,4 +29,5 @@ La lista (F4, Stavanger, F2, semillas, REL-01, Harper, Navidad) pasó el 2026-11
 - **Gesto de manos:** revisar en cada capítulo.
 - **Portada y Nota Editorial:** portada ≥1600×2560 para KDP; título de `00_Nota_Editorial.md`, del autor.
 - **Exportación:** EPUB, PDF y audio al día (2026-11-09); se regeneran y suben al cerrar cada tarea con la skill `regenerar-y-subir`.
-- Diferidos en [[98_Agent_Handoff/BACKLOG]]: reseña de Partes I–II (ChatGPT), 402 referencias dudosas, diálogo de terceros (Parte I), protolectura de los caps. 1–8, Q24, cobros del Libro I, aura, Halbrook, Corrado/Manfred, mesa tres, *El Faro*, Cap. 34, susurro a Varga y «Usted es alta».
+- **Referencias de numeración (2026-11-10):** 23 dudas para el autor, ocho de ellas de contenido (la escena citada ya no ocurre así): [[98_Agent_Handoff/sessions/2026-11-10_claude_referencias_dudosas]].
+- Diferidos en [[98_Agent_Handoff/BACKLOG]]: reseña de Partes I–II (ChatGPT), 917 referencias en numeración de 56, diálogo de terceros (Parte I), protolectura de los caps. 1–8, Q24, cobros del Libro I, aura, Halbrook, Corrado/Manfred, mesa tres, *El Faro*, Cap. 34, susurro a Varga y «Usted es alta».
