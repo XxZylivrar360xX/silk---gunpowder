@@ -34,7 +34,7 @@ La lista (F4, Stavanger, F2, semillas, REL-01, Harper, Navidad) pasó el 2026-11
 ## Continuidad, edición y exportación
 
 - **#25 de [[00_Biblia/00_Trilogy_Structure]]:** abierto hasta que el autor lo declare; la revisión integral de I–III no está hecha.
-- **Sin ficha de voz** (Parte III): Bonnie, Mei-Lin, Garrett, Tyler, Blake, Ettore y Livia Rinaldi.
+- **Fichas de voz de la Parte III creadas (2026-11-09, DISEÑO, leer):** Bonnie, Mei-Lin, Garrett, Tyler (poca evidencia), Blake, Ettore y Livia Rinaldi, en `12_Craft_Policies/voice/`.
 - **Propagación de la Parte II hecha (2026-11-09):** [[98_Agent_Handoff/sessions/2026-11-09_claude_propagacion_parte_II_resto]]. Lo mecánico, terminado. Decide el autor las dudas listadas en la nota (seguro de Vento, Principio 1 del plan, intervalo de H16, §H12, Audi del 22a, POV de 32 y 34, regla de un POV para los Caps. 1–10, tramo de Nadir en el 43, «proveedor» de Hoover).
 
 - **Gesto de manos:** revisar en cada capítulo.
