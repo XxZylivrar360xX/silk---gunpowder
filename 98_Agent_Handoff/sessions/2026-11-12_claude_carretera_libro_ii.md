@@ -26,6 +26,13 @@ Encargo del autor: avanzar con la reconciliación del Libro II, trabajando «jus
 - Lo nuevo frente al boceto: la lluvia de Bellandi Ridge como capítulo propio (T11); el arco de Walt en la primavera, con el dueño del pub que le debe al Tasador (T9); Ren vendiendo producto de Crowe en el Monarch (T5); la montaña sin señal que provoca la venta al FBI (T16–T17); el motivo de la Parte: se enteran el uno del otro por terceros.
 - **Autocrítica:** las líneas de diálogo nuevas (T12, T21) son invención y conviene que el autor las vea con sospecha. T8 (*El Faro* ayuda sin saberlo al velo de Volpi) roza la regla de no insinuar a Volpi; en la página sólo se ve la historia que ella cambia. *Hogar* tiene dos POV y queda anotado, sin tocarlo.
 
+## Tercera vuelta: el reloj
+
+- El autor se preocupó por contar dos años en un solo libro. Se le explicó que el calendario lo fuerza el canon (la primera Navidad juntos cae en dic A3 y del collar a H1 hacen falta las cuatro estaciones) y que el desbalance está en la Parte I: 21 caps. en 10 meses, frente a 17 en 3 de la Parte II.
+- **DECISIÓN DEL AUTOR:** opción 1. Se conservan los dos años y se cuentan con un reloj. Nueva §3b de la carretera: una sola elipsis larga (la primavera A3), aterrizajes en cobros, residuo y no resumen, dos relojes de deuda secretos (la cuenta de Crowe en pureza y las cuotas de Varek) y postes fijos.
+- Tarjetas de la Parte I reacomodadas: bloques *Las sillas* (7), *La cuenta* (7) y *El ruido* (6), con las elipsis A (~10 semanas) y B (~4). *Sociales* se funde en *La primera cuota* (T8: paga silencio y compra voz la misma tarde). Quedan 20 tarjetas.
+- DECISIONS: entrada nueva; «Por qué se fue Matteo» pasó íntegra al archivo del 2026-11-12.
+
 ## Pendiente
 
 Lectura del autor de las tarjetas de la Parte I; decisiones 2–14 de la carretera; tarjetas de las Partes II–IV.

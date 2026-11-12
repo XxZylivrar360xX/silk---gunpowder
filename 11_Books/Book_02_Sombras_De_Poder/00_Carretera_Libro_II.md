@@ -123,6 +123,37 @@ Son eslabones de trama, no capítulos (la Fase 2 los convierte en tarjetas). En 
 
 ---
 
+## 3b. El reloj: dos años que no se sientan como años
+
+> **DECISIÓN DEL AUTOR (2026-11-12):** el libro conserva su calendario (5 ene A3 → dic A4, CANON del 2026-10-13), pero no se cuenta mes a mes. Se cuenta en bloques densos, con pocas elipsis, cada una aterrizada en un cobro. Lo de abajo es DISEÑO del agente para cumplirlo.
+
+**Por qué no se comprime:** la primera Navidad juntos (el collar) sólo puede caer en diciembre A3, y del collar a H1 el canon pide invierno, primavera, verano, otoño e invierno. El año que «sobra» es el A3, el de la Parte I, y es ahí donde se trabaja.
+
+### Reglas
+
+1. **Una sola elipsis larga (más de seis semanas) en todo el libro:** la primavera A3. Las demás no pasan de cuatro o cinco semanas.
+2. **Cada elipsis aterriza en un cobro** (una cuota, una tasa, una señal), nunca en «pasaron los meses».
+3. **Residuo, no resumen:** lo que pasó durante el salto entra como consecuencia en la primera escena (regla del boceto: «abre por residuo del anterior, sin resumir»).
+4. **El reloj del lector es la deuda, no el calendario.** Hay dos relojes y los dos son secretos. **El de Kal:** desde T12 de la Parte I, Crowe convierte la carga perdida en «una cuenta» que se paga en pureza cada mes. **El de Chiara:** las cuotas de Varek. El lector mide el tiempo por «la tercera entrega» o «la segunda cuota», y cuenta lo que ellos no se cuentan.
+5. **Postes fijos:** el 23 de noviembre (dos veces), Navidad, Año Nuevo, el 25 de octubre (Stavanger) y la noche de H1. Entre poste y poste, la estación se escribe en el cuerpo (paleta por Parte del boceto).
+
+### Bloques y elipsis
+
+| Tramo | Bloque narrado | Elipsis siguiente | Salta | Aterriza en |
+|---|---|---|---|---|
+| **Parte I** | **1. Las sillas** (5 ene – mediados de mar A3), 7 caps. | **La primavera** (mar → fin de may) | ~10 semanas | **La primera cuota de Varek.** El residuo: *El Faro* ya es de ella en parte; la carga de Crowe ya es rutina |
+| | **2. La cuenta** (fin de may – principios de sep), 7 caps. | **La mudanza** (sep → principios de oct) | ~4 semanas | **La montaña**, que provoca la venta al FBI |
+| | **3. El ruido** (oct – principios de nov), 6 caps. | — (de la gala al 23 nov) | ~3 semanas | El cumpleaños; el Patio la acepta |
+| **Parte II** | Continua (23 nov A3 – feb A4) | Saltos de días o semanas entre los postes | — | Cada salto cae en una entrega a Crowe o en una cuota |
+| **Parte III** | Continua (feb – jun A4) | Del bastón a F2 | ~4–5 semanas | **«Lo del hermano queda saldado»** (la filtración) |
+| **Parte IV** | Boda (jul) → el costo → las bandas (sep) | Del costo a las bandas | ~4 semanas | Las bandas que van con Kal |
+| | Cartas de Dale (ago–oct) → Stavanger (~25 oct) | De Stavanger a la señal 1 | ~3 semanas | La señal 1 (~18–20 nov) |
+| | Las dos semanas del secreto → la noche | — | — | H1 |
+
+**Resultado:** de unas 100 semanas de calendario se eliden unas 30, la mitad en una sola primavera. Para el lector, el libro no es «dos años». Son **tres tramos con pulso propio** (las sillas, la cuenta, el ruido) y después **un año continuo, de invierno a invierno**, marcado por las dos deudas.
+
+---
+
 ## 4. Inventario de arcos (Fase 1, prueba de pertenencia)
 
 **Prueba:** si quito este arco, ¿la caída de Crowe, F2, Stavanger o H1 pierden algo?

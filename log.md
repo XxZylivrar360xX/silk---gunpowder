@@ -4,6 +4,7 @@ El detalle se guarda una sola vez en notas de sesión. Este archivo es navegaci�
 
 ## Sesiones recientes
 
+- 2026-11-12: DECISIÓN DEL AUTOR: el Libro II conserva sus dos años, contados con un reloj de bloques y elipsis (carretera §3b); tarjetas de la Parte I reacomodadas en tres bloques (20): [[98_Agent_Handoff/sessions/2026-11-12_claude_carretera_libro_ii]]
 - 2026-11-12: DECISIÓN DEL AUTOR: se aprueba la columna del Libro II; Fase 2, tarjetas de la Parte I (21, DISEÑO): [[98_Agent_Handoff/sessions/2026-11-12_claude_carretera_libro_ii]]
 - 2026-11-12: carretera del Libro II, Fases 0–1 (DISEÑO): columna, reconciliación con el nuevo cauce del I, cadena de 26 eslabones e inventario de arcos; 14 decisiones para el autor; sin prosa ni canon: [[98_Agent_Handoff/sessions/2026-11-12_claude_carretera_libro_ii]]
 - 2026-11-10: DECISIÓN DEL AUTOR: retitulado de los 47 capítulos del Libro I, Parte por Parte (20 títulos cambian; regla flexibilizada: el título ya no tiene que estar en la prosa): [[98_Agent_Handoff/sessions/2026-11-10_claude_retitulado_47]]

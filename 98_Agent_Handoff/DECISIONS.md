@@ -2,6 +2,10 @@
 
 Máximo 800 palabras; conservar sólo decisiones operativas recientes y enlaces a sus fuentes. El historial íntegro anterior al corte está en [[98_Agent_Handoff/archive/2026-09-21_DECISIONS]]; las del 2026-11-01, en [[98_Agent_Handoff/archive/2026-11-08_DECISIONS]]; las del 2026-11-04 al 2026-11-06, en [[98_Agent_Handoff/archive/2026-11-09_DECISIONS_retiradas]]. Archivar entradas antiguas antes de retirarlas.
 
+## 2026-11-12 — Reloj del Libro II
+
+**DECISIÓN DEL AUTOR:** el Libro II conserva su calendario (5 ene A3 → dic A4), pero se cuenta en bloques densos, con pocas elipsis aterrizadas en cobros; la única larga es la primavera A3. Reglas y tabla: [[11_Books/Book_02_Sombras_De_Poder/00_Carretera_Libro_II#3b. El reloj: dos años que no se sientan como años]].
+
 ## 2026-11-12 — Columna del Libro II
 
 **DECISIÓN DEL AUTOR:** se aprueba la columna de [[11_Books/Book_02_Sombras_De_Poder/00_Carretera_Libro_II]] (decisión 1): Crowe cobra en la calle, Kal absorbe las deudas de los suyos, Halbrook cosecha lo visible y Varek elimina en silencio con motivos propios; por dentro, cada cobro produce un secreto («estoy bien» / el papel). Las decisiones 2–14 siguen abiertas. Archivo: [[98_Agent_Handoff/archive/2026-11-12_DECISIONS]] (Chiara en *Sombras de Poder*, 2026-11-07).
@@ -25,7 +29,3 @@ Máximo 800 palabras; conservar sólo decisiones operativas recientes y enlaces 
 ## 2026-11-08 — Parte III del nuevo cauce (nuevos 33–39)
 
 **DECISIÓN DEL AUTOR (CANON):** la bala del corral es la que mató a Vento; Kal la sigue hasta un apellido que el 35 no dice (Volpi se lee en el 36) y se lo oculta a Chiara. El avión sale de Kingsley **a la una** (Palermo, sáb 11 dic, 21:30). **Calendario A:** Mesa lun 13; Kal vuela el 14; **los dos aterrizan el mié 15** por separado; F1 vie 17; Camp Alder dom 19, 02:00–02:40. Kal lee la carta el jue 25 nov (Acción de Gracias); **Mabel se queda** en el 35 (corrige la decisión que la sacaba); Dario sale del yate. La sangre del 34 es de un trabajo de Varek y la botella sale de ahí (nunca dicho). Héctor cuenta la persecución de Stella. El libro de las rutas se queda en el Monarch; Valenti le pasa a Chiara la custodia. La llamada de Palermo la hace un intermediario; Volpi, beat callado. Mei-Lin, opción (a). **1A:** desde el 39 Kal sabe que Crowe trabaja para la gente de Halbrook. Archivos 37 y 39 retirados (EXCLUDE). Fuentes: [[98_Agent_Handoff/sessions/2026-11-08_claude_fase4_parte3_corte]] y [[98_Agent_Handoff/sessions/2026-11-08_claude_propagacion_parte_III]].
-
-## 2026-11-08 — Por qué se fue Matteo
-
-**DECISIÓN DEL AUTOR (2026-11-08):** Matteo se fue a Italia **a investigar lo que en realidad pasó con Elio**. No lo causa el robo ni que Il Consorzio supiera de las rutas. **No se dice en el Libro I; se explica en el Libro IV.** Supersede la nota del 33 (rutas, Volpi). Aplicado con las costuras de la Parte III (33, 36, 37, 38 y 40), todas elegidas por el autor: [[98_Agent_Handoff/sessions/2026-11-08_claude_matteo_y_costuras_parte_III]].
