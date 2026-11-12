@@ -33,6 +33,13 @@ Encargo del autor: avanzar con la reconciliación del Libro II, trabajando «jus
 - Tarjetas de la Parte I reacomodadas: bloques *Las sillas* (7), *La cuenta* (7) y *El ruido* (6), con las elipsis A (~10 semanas) y B (~4). *Sociales* se funde en *La primera cuota* (T8: paga silencio y compra voz la misma tarde). Quedan 20 tarjetas.
 - DECISIONS: entrada nueva; «Por qué se fue Matteo» pasó íntegra al archivo del 2026-11-12.
 
+## Cuarta vuelta: tarjetas de la Parte II
+
+- Nuevo [[11_Books/Book_02_Sombras_De_Poder/Part_02_Nieve_Y_Ceniza/00_Tarjetas_Parte_II]] (DISEÑO): 17 tarjetas en cuatro bloques (las fiestas, Año Nuevo y la bahía, Lunar Pearl, el precio). La Parte es continua, sin elipsis largas.
+- Propuestas: el motivo «regalos contra cobros»; F4 causado por el programa de veteranos de la fundación de Halbrook (D6, sin Anya); la bahía aceptada como paraguas frente a Halbrook; el pago de Yun-Kai como coda de la vela tardía; el robo en cuatro capítulos con el motivo de «algo que sea suyo»; el millón no paga a Crowe porque firmaría el robo; el levantón a principios de febrero, como primer secreto que guardan juntos; los frenos con motivo propio de Varek (Q24).
+- **Choques detectados:** la Nochebuena necesita el POV de Kal para que se vea a Yun-Kai (el diseño pedía el de Chiara); al fundir *La jaula*, los tics 4 y 5 quedan en capítulos seguidos.
+- **Autocrítica:** la Parte carga mucho POV de Kal (10 de 17). Es coherente con su deterioro, pero vigila la guarda 1. El levantón en febrero aprieta un mes ya denso (levantón, choque y armario en unas tres semanas).
+
 ## Pendiente
 
-Lectura del autor de las tarjetas de la Parte I; decisiones 2–14 de la carretera; tarjetas de las Partes II–IV.
+Lectura del autor de las tarjetas de las Partes I y II; decisiones 2–14 de la carretera; tarjetas de las Partes II–IV.
