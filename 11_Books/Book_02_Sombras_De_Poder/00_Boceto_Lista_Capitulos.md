@@ -3,6 +3,8 @@
 > **DISEÑO DE TRABAJO (creado por Codex el 2026-10-13; afinado por Claude el mismo día como guía de redacción y prosa).** La numeración, los títulos, el reparto de beats, los POV y los lugares son DISEÑO y pueden moverse. Lo marcado **CANON** viene de las fuentes rectoras y no se reinterpreta; las **líneas canon** se citan textuales y sólo admiten ajustes de puntuación. Lo marcado **PENDIENTE** no se rellena al redactar: la prosa sostiene el hueco sin esconderlo.
 >
 > **Bloqueo vigente:** no hay prosa nueva de *Sombras de Poder* hasta cerrar el Libro I (salvo encargo explícito del autor). Esta guía prepara la redacción; no la autoriza.
+>
+> **REVISAR (2026-11-12):** esta guía es anterior al nuevo cauce del Libro I. La columna, la reconciliación y los eslabones que faltan están en [[11_Books/Book_02_Sombras_De_Poder/00_Carretera_Libro_II]] (DISEÑO, espera al autor). Mientras no pase la Fase 3 de esa carretera, no redactar desde las fichas de abajo.
 
 **Directiva (DECISIÓN DEL AUTOR, 2026-11-07):** el libro se construye para cobrar la noche de Stavanger, y H1 cobra después lo que esa noche promete. Siembras por capítulo: [[11_Books/Book_02_Sombras_De_Poder/Part_04_Torna_A_Casa/00_Diseno_Noche_Stavanger]].
 
