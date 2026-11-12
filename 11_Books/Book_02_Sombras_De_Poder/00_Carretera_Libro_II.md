@@ -156,7 +156,7 @@ Estimación: de 61 a unos 54–56 capítulos. No hay tope de palabras, porque la
 
 **Fase 0 (las demás dependen de ésta):**
 
-1. **La columna:** Crowe cobra, Kal absorbe, Halbrook cosecha y Varek elimina en silencio, con sus propios motivos. Por dentro, la trenza de secretos («estoy bien» / el papel). ¿Se acepta?
+1. ~~**La columna:** Crowe cobra, Kal absorbe, Halbrook cosecha y Varek elimina en silencio, con sus propios motivos. Por dentro, la trenza de secretos («estoy bien» / el papel). ¿Se acepta?~~ **APROBADA (DECISIÓN DEL AUTOR, 2026-11-12).** Las §2 y la regla de la trenza pasan a ser la columna del libro; los eslabones marcados P siguen siendo PROPUESTA hasta sus decisiones (2–14). Sigue la Fase 2: [[11_Books/Book_02_Sombras_De_Poder/Part_01_Territorio_Ajeno/00_Tarjetas_Parte_I]].
 
 **Fase 1 (eslabones nuevos):**
 

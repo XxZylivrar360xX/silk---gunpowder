@@ -19,6 +19,13 @@ Encargo del autor: avanzar con la reconciliación del Libro II, trabajando «jus
 - Lo más invasivo son las propuestas de motivo: los frenos por Q24, la operación de F2 contra Crowe y el golpe fallido contra Crowe. Ninguna toca un hecho canon, pero las tres le dan a Crowe más carga. Hay que vigilar la guarda 3 («Crowe no es la causa de todo»): la línea de Varek conserva motivos propios en la propuesta, pero el autor puede preferir que F2 no sea de Crowe.
 - La lectura del boceto es por fichas, no por prosa (no existe). Los porcentajes de las vigas son orientativos.
 
+## Segunda vuelta: columna aprobada y tarjetas de la Parte I
+
+- **DECISIÓN DEL AUTOR:** se aprueba la columna (decisión 1). Registrada en la carretera y en [[98_Agent_Handoff/DECISIONS]]. La entrada «Chiara en *Sombras de Poder*» del 2026-11-07 pasó íntegra a [[98_Agent_Handoff/archive/2026-11-12_DECISIONS]] para respetar el tope.
+- Nuevo [[11_Books/Book_02_Sombras_De_Poder/Part_01_Territorio_Ajeno/00_Tarjetas_Parte_I]] (DISEÑO): 21 tarjetas con trama, relación (secreto), por eso, saldo y POV. Supone las opciones recomendadas de D2 y D3; D5 y D11 quedan como huecos.
+- Lo nuevo frente al boceto: la lluvia de Bellandi Ridge como capítulo propio (T11); el arco de Walt en la primavera, con el dueño del pub que le debe al Tasador (T9); Ren vendiendo producto de Crowe en el Monarch (T5); la montaña sin señal que provoca la venta al FBI (T16–T17); el motivo de la Parte: se enteran el uno del otro por terceros.
+- **Autocrítica:** las líneas de diálogo nuevas (T12, T21) son invención y conviene que el autor las vea con sospecha. T8 (*El Faro* ayuda sin saberlo al velo de Volpi) roza la regla de no insinuar a Volpi; en la página sólo se ve la historia que ella cambia. *Hogar* tiene dos POV y queda anotado, sin tocarlo.
+
 ## Pendiente
 
-Las decisiones del §5 de la carretera; la 1 bloquea la Fase 2 (tarjetas por Parte).
+Lectura del autor de las tarjetas de la Parte I; decisiones 2–14 de la carretera; tarjetas de las Partes II–IV.
