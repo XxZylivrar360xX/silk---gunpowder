@@ -4,6 +4,7 @@ El detalle se guarda una sola vez en notas de sesiﾃｳn. Este archivo es navegaciﾃ
 
 ## Sesiones recientes
 
+- 2026-11-12: mapa de evoluciﾃｳn del reparto: niveles principal / secundario / apoyo / transitorio por libro, arcos I窶天II de los niveles 1 y 2 y seis contradicciones entre fichas (DISEﾃ前, sin canon): [[02_Characters/Mapa_Evolucion_Reparto]]
 - 2026-11-12: libro mayor de deudas de la saga, paso previo a las columnas del III y el IV (63 deudas; 12 sin destino, 6 cobros sin siembra, contradicciones de propagaciﾃｳn y 8 preguntas; DISEﾃ前, sin prosa ni canon): [[11_Books/00_Libro_Mayor_Deudas_Saga]]
 - 2026-11-12: Fase 2 del Libro II, tarjetas de la Parte IV (18, DISEﾃ前; golpe fallido contra el Caldero, la cuenta de Kal muere con Crowe, *La fecha* nueva); Fase 2 completa, 65 caps.: [[98_Agent_Handoff/sessions/2026-11-12_claude_carretera_libro_ii]]
 - 2026-11-12: Fase 2 del Libro II, tarjetas de la Parte III (10, DISEﾃ前; las latas delatan a Mei-Lin, el Caldero perdonado la apuﾃｱala, Chiara se entera por Bonnie): [[98_Agent_Handoff/sessions/2026-11-12_claude_carretera_libro_ii]]

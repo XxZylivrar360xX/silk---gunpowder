@@ -1,5 +1,7 @@
 # Auditoría de Reparto
 
+> **Nota (2026-11-12):** la «Distribución por fases» de abajo usa las Fases 0–V previas a la saga de siete libros. Niveles y arcos por libro vigentes (DISEÑO): [[02_Characters/Mapa_Evolucion_Reparto]].
+
 *Seda y Pólvora — prioridad, desarrollo y distribución por fases*
 
 > **DIAGNÓSTICO HONESTO (2026-08-23):** el reparto ya es grande. Puede funcionar, pero sólo si no todos son tratados como personajes principales. La novela necesita dos protagonistas, un círculo íntimo limitado, antagonistas por etapa y muchos personajes de sistema que aparezcan cuando su institución, barrio o expediente se active. Si todos reciben arco emocional completo, el libro se dispersa.

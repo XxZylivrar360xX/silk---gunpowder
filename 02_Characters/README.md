@@ -4,7 +4,7 @@ Mapa operativo de fichas de personaje para *Seda y Pólvora*.
 
 La lista distingue entre personajes con ficha, personajes nombrados sin ficha y funciones narrativas todavía sin nombre. No inventar nombres para estos últimos sin decisión del autor.
 
-Ver también [[02_Characters/Auditoria_Reparto]] para prioridad, desarrollo estimado y distribución por fases.
+Ver también [[02_Characters/Auditoria_Reparto]] para prioridad, desarrollo estimado y distribución por fases, y [[02_Characters/Mapa_Evolucion_Reparto]] (2026-11-12, DISEÑO) para los niveles principal / secundario / apoyo / transitorio por libro y el arco de cada uno en los siete libros. La agrupación de abajo es anterior y no sigue esos niveles.
 
 ## Protagonistas
 

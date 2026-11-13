@@ -36,6 +36,7 @@ Plan: [[11_Books/Book_01_Mascaras_De_Cristal/00_Plan_Nuevo_Cauce]]; diagnóstico
 - **Libro II:** el arco, las fechas (Stavanger ~25 oct A4; H1 ~6–8 dic A4) y la trama viven en [[11_Books/Book_02_Sombras_De_Poder/00_Plan_Cuatro_Partes]] y [[11_Books/Book_02_Sombras_De_Poder/00_Matriz_Temporal]]; decisiones en [[98_Agent_Handoff/DECISIONS]]. Canon del 2026-11-07: Chiara en espiral de descenso ([[02_Characters/Chiara_Bellandi]]) y F2 nuevo ([[98_Agent_Handoff/sessions/2026-11-07_claude_f2_mei_lin_bonnie_nuevo_destino]]).
 - **Libros III y IV (2026-11-12, DISEÑO):** libro mayor de deudas de la saga (63 deudas del I y el II con su cobro; 12 sin destino, 6 cobros sin siembra y 8 preguntas para el autor): [[11_Books/00_Libro_Mayor_Deudas_Saga]]. Sigue la columna del III y del IV.
 - **Libro III:** embarazo, reposo y falsa muerte de Elenna (decisiones del autor del 2026-11-08; quedan abiertas Camila/Lucía y la placenta previa): [[11_Books/Book_03_Voto_De_Ceniza/00_Diseno_Embarazo_Y_Falsa_Muerte]]. Canon menor: en las fichas.
+- **Reparto (2026-11-12, DISEÑO):** niveles por libro (principal, secundario, apoyo, transitorio) y arcos I–VII; espera decisión del autor: [[02_Characters/Mapa_Evolucion_Reparto]].
 
 ## Fuentes y restricciones
 
