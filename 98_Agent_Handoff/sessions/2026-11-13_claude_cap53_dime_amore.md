@@ -16,3 +16,7 @@
 **Verificación:** registro neutro revisado (fuera «menso», «charola», «plumón», «chamarra», «banqueta», «fierro»); sin adverbios en «-mente» en acotaciones; pregunta plana sin signos. No se regenera EPUB (el capítulo no está en `CHAPTERS`).
 
 **Sigue:** cap. 54 «De rodillas» (Kal: recuerdo de Crowe camino a la Almendra; Héctor y el chaleco; Walt presente).
+
+## Revisión (2026-11-13, nota del autor)
+
+El autor pidió cuidar el peso de la manipulación informativa de *El Faro* y las transiciones del almacén, sin tocar las dos llamadas ni el cierre bajo la lluvia. Aplicado: se compactan el párrafo de las fórmulas de nota roja y el del protocolo de Halbrook; la versión del muerto se reduce a una línea; **la versión del accidente de moto ya no se publica en *El Faro***: Chiara se la dicta a la residente por boca de Camila (se quita el correo a la mesa de noche y la franja con el motociclista). Transiciones: «una hora» al abrir el triaje; la portátil mirada «cada vez que tenía las manos libres»; la voz de Kal «no la había oído desde la Villa»; Walt llega diez minutos después de su aviso por radio y el resumen de las camionetas pasa a después de su salida.

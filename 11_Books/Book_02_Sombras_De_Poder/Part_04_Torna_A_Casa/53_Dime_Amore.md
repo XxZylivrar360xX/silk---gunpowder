@@ -10,13 +10,13 @@ localizacion: la Villa Candelaria (Lomas de San Jacinto); el almacén del sur (C
 personajes: Chiara Bellandi, Camila Rivas, Natalie Keegan; por radio y teléfono, Kal Mercer y Walt Keegan
 ---
 
-> **Estado:** BORRADOR del agente (Claude Code, 2026-11-13), segunda versión para lectura del autor. Fuera de `CHAPTERS` de `tools/build_sombras.py`: no entra al EPUB.
+> **Estado:** BORRADOR del agente (Claude Code, 2026-11-13), tercera versión para lectura del autor (2026-11-13: aligerada la manipulación de *El Faro* y pulidas las transiciones del almacén; llamadas y cierre intactos). Fuera de `CHAPTERS` de `tools/build_sombras.py`: no entra al EPUB.
 >
 > **Ajuste del autor (2026-11-12):** la primera llamada ocurre en la Villa. Chiara está sola, sin más ruido que la lluvia; despierta de una siesta, abre la portátil, ve las transmisiones volverse virales y reconoce a Kal por **la máscara de malvavisco**; por eso llama. El enfrentamiento es en el sur. Después de la llamada, **ella arma el triaje**.
 >
 > **Segundo ajuste del autor (2026-11-13), líneas de la primera llamada (CANON DEL AUTOR, redacción del agente):** Kal: «Tal vez un par de velas me sirvan ahora.» / Chiara: «Las encenderé, pero no puedo quedarme aquí sin hacer nada más. ¿En qué te ayudo?» / Kal: «Todo va a salir bien. Hemos salido de cosas peores. ¿O no, bella?» / Chiara le pide que regrese (funda el «me esperan» del 54 y la «promessa» del 55) / la cena como alivio cómico / «Pero, Kal, es en serio, no voy a quedarme aquí con los brazos cruzados.» / Kal: el cuarto de seguridad junto al escritorio principal, la cómoda, el segundo cajón, el radio de amplio espectro, canal tres / «Tengo que irme.» y cuelga sin dejarla contestar. **DISEÑO dentro del ajuste:** «Regresa, Kal. Es lo único que te pido.» / «Regreso. Y te llevo a cenar.»; Chiara enciende la caja de velas por toda la casa (prepara «todas las velas» del 55). «Un radio» se deja como lo dijo el autor en boca de Kal; la narración usa «la radio».
 >
-> **CANON citado literal:** «Dime, Amore»; la segunda llamada completa (ortografía normalizada, «Ma dai»); «Todos están fuera, vamos a casa»; la frase al cielo. **PROVISIONAL:** «Te vi… con la cabeza de malvavisco» / «Nadie le dispara a un malvavisco» (frase de Danny, cap. 1 del Libro I, ahora en boca de Kal) y las líneas de la hamburguesa doble (siembra para el 56). **DISEÑO del agente:** el video del malvavisco y sus comentarios; las llaves del almacén (una mudanzera quebrada en Canal Seco que Chiara visitó en noviembre buscando bodega para el papel de *El Faro*); la única transmisión de Chiara por el canal abierto (prepara «Estuviste en radio», 55); la cinta de colores de Nat; el muerto bajo las mantas de mudanza; la versión del motociclista para el muchacho que va a Santa Aurelia; el protocolo de Halbrook leído en la transmisión; la línea de Walt por radio; Rafe avisando en septiembre que los Bravos van con Crowe (D12, P), y el eco de Mei-Lin (Kal manda al hospital a uno con la pierna abierta, oído por Chiara).
+> **CANON citado literal:** «Dime, Amore»; la segunda llamada completa (ortografía normalizada, «Ma dai»); «Todos están fuera, vamos a casa»; la frase al cielo. **PROVISIONAL:** «Te vi… con la cabeza de malvavisco» / «Nadie le dispara a un malvavisco» (frase de Danny, cap. 1 del Libro I, ahora en boca de Kal) y las líneas de la hamburguesa doble (siembra para el 56). **DISEÑO del agente:** el video del malvavisco y sus comentarios; las llaves del almacén (una mudanzera quebrada en Canal Seco que Chiara visitó en noviembre buscando bodega para el papel de *El Faro*); la única transmisión de Chiara por el canal abierto (prepara «Estuviste en radio», 55); la cinta de colores de Nat; el muerto bajo las mantas de mudanza; la versión del accidente de moto, dictada a la residente por boca de Camila (ya no se publica en *El Faro*), para el muchacho que va a Santa Aurelia; el protocolo de Halbrook leído en la transmisión; la línea de Walt por radio; Rafe avisando en septiembre que los Bravos van con Crowe (D12, P), y el eco de Mei-Lin (Kal manda al hospital a uno con la pierna abierta, oído por Chiara).
 
 # Dime, Amore
 
@@ -36,13 +36,13 @@ La transmisión de *El Faro* ya estaba en la portada, arriba de todo, con el let
 
 En la franja de abajo corría el texto: TIROTEO EN EL SUR · ENFRENTAMIENTO ENTRE BANDAS EN LAS CALDERAS Y NUEVE PUENTES · SE REPORTA AL MENOS UN MUERTO.
 
-*Al menos un muerto.* Chiara había corregido esa fórmula en el escritorio de la redacción una docena de veces ese año. *Al menos* era honesto; *un muerto*, sin nombre, era lo que se podía publicar antes de saber de quién. La violencia del sur. Las familias del sur. El sur que se desangra. Las había escrito ella, o las había aprobado, o las había dejado pasar porque eran ciertas y servían. Ahora las leía en la pantalla, debajo de la cara mojada de una muchacha de veinticuatro años, y era así como la ciudad iba a ver esa noche. Era así como la estaba viendo ella, desde un sofá en las Lomas, con una manta en las piernas.
+*Al menos un muerto.* La fórmula la había fijado ella en la redacción ese año: *al menos* era honesto; *un muerto*, sin nombre, era lo que se podía publicar antes de saber de quién. Ahora la leía desde el otro lado, debajo de la cara mojada de una muchacha de veinticuatro años, desde un sofá en las Lomas, con una manta en las piernas.
 
 La transmisión cortó a un estudio. Un hombre de corbata leyó un comunicado de la alcaldía.
 
 —... activado el protocolo de respuesta coordinada aprobado este otoño, con base en las recomendaciones del consejo consultivo de seguridad que preside Warren Halbrook. Se pide a los residentes de Las Calderas, Canal Seco y Nueve Puentes que permanezcan en sus casas...
 
-Ella había publicado ese protocolo. Página siete, en octubre, con una foto del consejo en la escalinata del ayuntamiento. No había nada que objetarle: era sensato, estaba bien redactado, salvaba vidas en el papel. Esa noche, en la pantalla, eran tres camiones blindados y un helicóptero, y a la mañana siguiente iba a ser una cara.
+Ella había publicado ese protocolo en octubre, en la página siete, con una foto del consejo en la escalinata del ayuntamiento. En el papel era sensato. Esa noche eran tres camiones blindados y un helicóptero.
 
 Le quitó el sonido.
 
@@ -216,7 +216,7 @@ La primera camioneta llegó once minutos después, de reversa, sin luces.
 
 Los guantes no aguantaban las uñas.
 
-Chiara llevaba dos pares, uno encima del otro, y aun así el índice derecho ya había atravesado los dos. La gasa que apretaba contra el hombro del muchacho tenía una media luna más oscura justo donde el acrílico tocaba la piel.
+Chiara llevaba una hora con dos pares, uno encima del otro, y aun así el índice derecho ya había atravesado los dos. La gasa que apretaba contra el hombro del muchacho tenía una media luna más oscura justo donde el acrílico tocaba la piel.
 
 —Más fuerte —dijo Camila, sin levantar la cabeza.
 
@@ -236,7 +236,7 @@ El muchacho del hombro traía cinta amarilla. Camila le había sacado algo con u
 
 Chiara soltó. Se quedó con la gasa en la mano sin saber dónde ponerla, y Camila le señaló con la barbilla una bolsa negra junto a la mesa, sin dejar de coser.
 
-Sobre otra mesa plegable, junto a la radio, la portátil daba la transmisión de *El Faro* sin sonido. La nave de Nueve Puentes ya no salía. Salía el puente otra vez, y el helicóptero.
+La portátil estaba abierta en otra mesa plegable, junto a la radio, con la transmisión sin sonido. Cada vez que tenía las manos libres, Chiara la miraba. La nave de Nueve Puentes ya no salía; salía el puente otra vez, y el helicóptero.
 
 —Chiara.
 
@@ -258,11 +258,11 @@ Nadie dijo nada. Los dos hombres que lo habían traído se quedaron de pie junto
 
 Chiara fue al rincón y tomó una de las mantas de mudanza. Pesaba más de lo que parecía. Lo tapó con ella, la cara también, y se quedó un segundo de pie mirando la tela gris acolchada, con su costura en rombos, hecha para que una mesa de comedor llegara entera a una casa nueva.
 
-Iba a haber que decidir dónde lo encontraban. Iba a haber que darle un lugar, una hora y una versión, y una familia iba a recibir esa versión por la mañana, y la versión iba a tener que aguantar. Eso iba a ser trabajo de ella, y no de esa noche. Lo anotó en el teléfono, debajo de la hora que Natalie había escrito en la cinta, y volvió a la mesa.
+Iba a haber que decidir dónde lo encontraban y qué le decían a su familia. Eso iba a ser trabajo de ella, y no de esa noche. Lo anotó en el teléfono, debajo de la hora que Natalie había escrito en la cinta, y volvió a la mesa.
 
 ***
 
-La voz de Kal volvió a la radio un poco antes de las once.
+La voz de Kal volvió a la radio un poco antes de las once. Chiara no la había oído desde la Villa.
 
 —Ronda, por el puente de la Novena, ahora que lo abrieron. Cuadra, atrás de ellos. No corran.
 
@@ -316,11 +316,11 @@ Camila levantó la vista por primera vez en una hora. La miró dos segundos.
 
 —Llámala. Un muchacho de dieciséis, diecisiete años. Herida en la pierna. Que lo reciba ella y que no lo deje solo en la sala.
 
-Camila ya tenía el teléfono en la mano. No preguntó nada. Mientras hablaba, Chiara abrió en la portátil el correo de la mesa de noche de *El Faro* y escribió cuatro líneas: un motociclista herido en Canal Road, derrapó en la helada al intentar evitar un retén, trasladado a Santa Aurelia en vehículo particular, estado reservado. Lo mandó. A esa hora la mesa de noche era un muchacho con dos cafés encima que publicaba lo que le llegara de ella sin leerlo dos veces. La versión iba a estar en la página antes de que el muchacho de la pierna cruzara la puerta de urgencias. No iba a aguantar una pregunta seria. No necesitaba aguantar una pregunta seria; necesitaba aguantar esa noche.
+Camila ya tenía el teléfono en la mano. No preguntó nada. Cuando la residente contestó, Chiara le habló a Camila al oído, bajo, y Camila lo fue repitiendo al teléfono palabra por palabra: un accidente de moto en Canal Road, derrapó en la helada, lo llevan unos amigos en un coche particular. No iba a aguantar una pregunta seria. No necesitaba aguantar una pregunta seria; necesitaba aguantar esa noche.
 
-Veinte minutos después, la transmisión cortó a Santa Aurelia. La reportera ya no estaba en el puente: estaba frente a la entrada de urgencias, con el mismo impermeable, y detrás de ella había dos patrullas estacionadas con las luces encendidas y un sedán oscuro sin placas a la vista. En la franja de abajo, entre el tiroteo y el comunicado de la alcaldía, pasó el motociclista de Canal Road.
+Veinte minutos después, la transmisión cortó a Santa Aurelia. La reportera ya no estaba en el puente: estaba frente a la entrada de urgencias, con el mismo impermeable, y detrás de ella había dos patrullas estacionadas con las luces encendidas y un sedán oscuro sin placas a la vista.
 
-Chiara lo leyó pasar y no sintió nada que pudiera nombrar. Lo anotó en el teléfono, debajo del hombre de la manta.
+Chiara se quedó mirando las patrullas. Después anotó al muchacho en el teléfono, debajo del hombre de la manta.
 
 ***
 
@@ -338,11 +338,9 @@ Después le pegó la cinta a la muchacha en el antebrazo, le dijo que se apretar
 
 Chiara no dijo nada. Natalie no la miró. Siguieron trabajando.
 
-Las camionetas llegaron de dos en dos durante la siguiente media hora, y cada una traía menos que la anterior. Un muchacho de los Marcadores con dos dedos rotos que se negó a bajar del volante hasta que alguien le trajo otro conductor. Una mujer de la familia del segundo piso, con un niño dormido sobre el hombro y una bolsa del supermercado llena de papeles, que no estaba herida y no sabía a dónde más ir, y a la que Chiara sentó en una silla plegable con una manta de mudanza sobre las piernas y un café de la máquina que nadie había conectado hasta que Natalie la conectó. Dos de los Bravos, uno con una rozadura en el brazo y el otro sin nada, que se quedaron de pie junto a la pared con la mirada de los que esperan que en cualquier momento alguien les diga qué les debe. Nadie les dijo nada. Natalie les pegó cinta verde a los dos, al que no tenía nada también, y les dijo dónde estaba el baño.
+La camioneta de Walt llegó diez minutos después. Era la de reparto de la destilería, blanca, con el nombre de la puerta tapado con cinta de embalar, y entró de reversa hasta el andén igual que las otras, sin luces, despacio, como si hubiera hecho eso toda la vida.
 
-La camioneta de Walt fue de las últimas. Era la de reparto de la destilería, blanca, con el nombre de la puerta tapado con cinta de embalar, y entró de reversa hasta el andén igual que las otras, sin luces, despacio, como si hubiera hecho eso toda la vida.
-
-Walt se bajó por el lado del conductor y fue a abrir las puertas de atrás antes de mirar a nadie. Miró primero el almacén: el techo de lámina, las lámparas de obra, el hombre bajo la manta gris en el rincón, la mujer del niño en la silla plegable. Después miró a su hija. Sin uniforme, con la gorra, con la cinta de colores en la mano. Después a Chiara, en la mesa del fondo, y le hizo con la cabeza un gesto corto, de cliente a socia, que Chiara le devolvió.
+Walt se bajó por el lado del conductor y fue a abrir las puertas de atrás antes de mirar a nadie. Miró primero el almacén: el techo de lámina, las lámparas de obra, el hombre bajo la manta gris en el rincón, los muchachos con cinta de colores en los brazos. Después miró a su hija. Sin uniforme, con la gorra, con la cinta de colores en la mano. Después a Chiara, en la mesa del fondo, y le hizo con la cabeza un gesto corto, de cliente a socia, que Chiara le devolvió.
 
 Bajaron a los tres de Cuadra entre él y Natalie. Camila, que no lo conocía, le señaló con la barbilla, sin soltar la aguja, dónde dejar al que no caminaba. Traía un tobillo destrozado y la cara de alguien que todavía no se ha enterado. Natalie le miró los ojos y le pegó la cinta amarilla.
 
@@ -381,6 +379,8 @@ Natalie lo dijo sin levantar la voz, y se le acercó, y le apretó el antebrazo 
 —Una.
 
 Walt se subió a la camioneta y salió del andén igual que había entrado, despacio, sin luces. Natalie se quedó mirando la puerta de carga un segundo de más. Después volvió con el muchacho del tobillo.
+
+Después de Walt, las camionetas llegaron de dos en dos durante media hora, y cada una traía menos que la anterior. Un muchacho de los Marcadores con dos dedos rotos que se negó a bajar del volante hasta que alguien le trajo otro conductor. Una mujer de la familia del segundo piso, con un niño dormido sobre el hombro y una bolsa del supermercado llena de papeles, que no estaba herida y no sabía a dónde más ir, y a la que Chiara sentó en una silla plegable con una manta de mudanza sobre las piernas y un café de la máquina que nadie había conectado hasta que Natalie la conectó. Dos de los Bravos, uno con una rozadura en el brazo y el otro sin nada, que se quedaron de pie junto a la pared con la mirada de los que esperan que en cualquier momento alguien les diga qué les debe. Nadie les dijo nada. Natalie les pegó cinta verde a los dos, al que no tenía nada también, y les dijo dónde estaba el baño.
 
 En la pantalla, el helicóptero seguía barriendo Las Calderas. Se veían menos luces de patrulla en el puente y más en las calles de alrededor, en cuadrícula. El protocolo. A las once y cuarenta, la alcaldía mandó otro comunicado; Chiara no le subió el volumen.
 
