@@ -2085,6 +2085,8 @@ No pide un hospital. No pide ayuda. Nombra el destino y nada más.
 
 **Y de todos los que estaban ahí, uno solo se dio cuenta de cómo estaba: su figura paterna** — viejo amigo del barrio, su mano derecha en las operaciones. Nadie más lo vio, porque Kal no deja que lo vean. Ver la sección "El único que lo notó", abajo.
 
+> **Orden de la noche (CANON DEL AUTOR, 2026-11-12):** Crowe muere antes de «Dime, Amore»; el caos (extracciones, triaje, policía) viene después de su ejecución. 53 desde Chiara (triaje con Camila y Nat, «Dime, Amore», radio, segunda llamada de Kal de regreso), 54 desde Kal (recuerdo de Crowe camino a la Almendra; Héctor ve el chaleco), 55 desde Chiara (la Villa; llega después que Kal). Ver [[11_Books/Book_02_Sombras_De_Poder/00_Guia_Redaccion_Capitulos]], caps. 53–55. Este movimiento ocurre en la Almendra: Héctor ve el chaleco ensangrentado (piensa en Mei-Lin); Kal dice que es una rozadura y repite «tengo que llegar a casa, porque me esperan». Kal se cambia ahí para que Chiara no vea la sangre.
+
 ### 4. La piscina
 
 Llega a casa y **se mete a la piscina para lavarse la sangre**. Ella lo encuentra ahí.

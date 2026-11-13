@@ -19,7 +19,7 @@
 **CANON DEL AUTOR (2026-10-30):** después del Cap. 16 Nat no vuelve a aparecer en el Libro I. Sin señal ni mención en las Partes II y III; se activa en *Sombras de Poder*. No sembrarla por continuidad en las escenas de Walt.  
 **Estado:** viva
 
-> **CANON DEL AUTOR (2026-11-12), *Sombras de Poder*:** en la noche de la tormenta, Nat ayuda como paramédica en el triaje clandestino del almacén del sur, con Camila y Chiara. Al terminar, Chiara la lleva a su apartamento antes de ir a la Villa. Ver [[11_Books/Book_02_Sombras_De_Poder/00_Guia_Redaccion_Capitulos]], caps. 53–55. **(P):** su padre está en la operación; es su año probatorio en Bomberos, así que ayudar ahí la expone. **PENDIENTE:** no tiene escena previa en el Libro II; hay que sembrar su vínculo con Chiara antes del 53.
+> **CANON DEL AUTOR (2026-11-12), *Sombras de Poder*:** en la noche de la tormenta, Nat ayuda como paramédica en el triaje clandestino del almacén del sur, con Camila y Chiara (cap. 53, POV de Chiara); oye la voz de su padre por la radio. Al terminar, Chiara la lleva a su apartamento antes de ir a la Villa. Ver [[11_Books/Book_02_Sombras_De_Poder/00_Guia_Redaccion_Capitulos]], caps. 53–55. **(P):** su padre está en la operación; es su año probatorio en Bomberos, así que ayudar ahí la expone. **PENDIENTE:** no tiene escena previa en el Libro II; hay que sembrar su vínculo con Chiara antes del 53.
 
 ---
 

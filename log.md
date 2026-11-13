@@ -4,6 +4,7 @@ El detalle se guarda una sola vez en notas de sesión. Este archivo es navegaci�
 
 ## Sesiones recientes
 
+- 2026-11-12: CANON DEL AUTOR (Libro II, final): orden de la noche: Crowe muere antes de «Dime, Amore» (entrada in medias res); 53 desde Chiara con la segunda llamada sin la mano ensangrentada; 54 desde Kal, recuerdo de Crowe camino a la Almendra y Héctor ante el chaleco; 55 desde Chiara; listos para redactar: [[11_Books/Book_02_Sombras_De_Poder/00_Guia_Redaccion_Capitulos]]
 - 2026-11-12: CANON DEL AUTOR (Libro II, final): la llamada de Kal a Chiara de regreso de la tormenta («Estoy bien», con la mano ensangrentada; cierra el 54) y Chiara al cielo con Nat, paramédica en el triaje, a quien deja en su apartamento: por eso llega a la Villa después que Kal (abre el 55): [[11_Books/Book_02_Sombras_De_Poder/00_Guia_Redaccion_Capitulos]]
 - 2026-11-12: DECISIÓN DEL AUTOR: el golpe fallido del Libro II lo hacen Nadir y los chicos sin Kal; «Yo no voy a arriesgar a nadie para fundamentar una guerra»; el Caldero sobrevive; las bandas fijan la fecha; 56 caps.: [[11_Books/Book_02_Sombras_De_Poder/00_Guia_Redaccion_Capitulos]] · [[98_Agent_Handoff/sessions/2026-11-12_claude_carretera_libro_ii]]
 - 2026-11-12: DECISIÓN DEL AUTOR: «Lo siento, ¿vale?» en el cap. 38 del Libro II (Chiara rota en el suelo con la foto de la cena de Navidad; el código costó una vida); F2 se queda en la III y el final la cobra con ecos, sin venganza: [[11_Books/Book_02_Sombras_De_Poder/00_Guia_Redaccion_Capitulos]] · [[98_Agent_Handoff/sessions/2026-11-12_claude_carretera_libro_ii]]
