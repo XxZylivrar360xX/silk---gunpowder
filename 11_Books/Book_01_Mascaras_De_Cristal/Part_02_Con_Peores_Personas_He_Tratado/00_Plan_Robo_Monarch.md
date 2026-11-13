@@ -18,7 +18,7 @@ Parte del [[11_Books/Book_01_Mascaras_De_Cristal/00_Plan_Nuevo_Cauce]] (el Tasad
 - **Se rompe** cuando los enmascarados hallan las rutas y quieren venderlas por su cuenta (gancho del 22a). Chiara achica la cifra, llama primero a Kal y defiende a Kenji; Kal recupera el libro sin abrirlo y los entrega con la revisión de Nick V.
 - **Crowe pierde** las rutas prometidas, su heroína y su distribución del norte; además hay ruido (Lucía mirando O.R.T., Ferreyra expuesto) y lo resolvió su rival. Los intermediarios reportan «Bellandi, con su proveedor»; **Halbrook amenaza con sacar a Crowe del tablero y se fija en Chiara.**
 - **Roy Boone (CANON DEL AUTOR):** parece que huye (la casa vacía a las seis de la mañana se queda), pero **Crowe lo asesina**: limpia un cabo suelto. Mei-Lin lo intuye y por eso busca protección en el Patio.
-- **Corral (Cap. 27):** represalia de Crowe con bandera falsa (nombre de Volpi); ver [[06_Relationships/Hitos#H12 — El atentado / El corral]]. Ferreyra frente al Santa Aurelia no hizo el ataque, pero es culpable del robo.
+- **Corral (Cap. 27):** lo ordena La Mesa y lo ejecuta Volpi (DECISIÓN DEL AUTOR, 2026-11-12; antes, represalia de Crowe con bandera falsa; [[11_Books/Book_04_Cuentas_De_Sangre/00_Diseno_Complot_De_La_Mesa]]). Ferreyra frente al Santa Aurelia no hizo el ataque, pero es culpable del robo.
 
 ## Qué sustituye
 

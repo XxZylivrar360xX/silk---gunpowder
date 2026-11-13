@@ -1,5 +1,7 @@
 # Marisol Grayson
 
+> **DECISIÓN DEL AUTOR (2026-11-12), *Sombras de Poder*:** tras el choque de los frenos, ya en el hospital y todavía dopada, **ve a medias a un hombre mayor que entra a su cuarto** (es Corrado; ella no lo reconoce) y que vuelve a desaparecer. Después se lo menciona a Kal; con los frenos ya descubiertos, es gasolina para la ansiedad de él. En el IV se puede revelar quién era. Ver [[11_Books/Book_04_Cuentas_De_Sangre/00_Diseno_Complot_De_La_Mesa]].
+
 > **NUEVO CAUCE — PARTE II (2026-11-08; [[98_Agent_Handoff/sessions/2026-11-08_claude_propagacion_parte_II]]; prosa BORRADOR, lo nuevo es DISEÑO salvo donde dice CANON):** **El nuevo 31** (*Lo único que es mío*, POV Chiara) es la **primera siembra del acercamiento con Kenji** (pendiente desde 2026-09-20): la confrontación en la caja, íntegra. En el 27 Vivian menciona a «la pelirroja» en el patio de Varek y Kal la reconoce. Chiara le oculta el favor que le debe a Varek.
 
 > **Numeración:** desde 2026-10-22 el Libro I usa numeración corrida definitiva (56 caps.); este documento cita la numeración anterior. Correspondencia en [[11_Books/Book_01_Mascaras_De_Cristal/00_Book_Map]].

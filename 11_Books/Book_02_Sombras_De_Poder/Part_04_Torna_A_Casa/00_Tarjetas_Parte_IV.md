@@ -1,5 +1,7 @@
 # Tarjetas de la Parte IV — Torna a casa (Fase 2)
 
+> **DECISIÓN DEL AUTOR (2026-11-12):** cuando Kal cuestiona a Crowe por el corral, Crowe dice: **«Yo nunca toqué a la zorra del casino.»** La línea vuelve a abrir, limpia, la pregunta de quién quiere muerta a Chiara; Halbrook y Varek quedan en el tablero para el III. **PROPUESTA de lugar:** U16 (*De rodillas*), antes del tiro de Walt, que «se lleva la pista del origen». Ver [[11_Books/Book_04_Cuentas_De_Sangre/00_Diseno_Complot_De_La_Mesa]].
+
 > **Fase 3 APROBADA (DECISIÓN DEL AUTOR, 2026-11-12):** varias tarjetas de esta Parte se funden. La numeración nueva y las fusiones (R0–R10) están en [[11_Books/Book_02_Sombras_De_Poder/00_Mapa_Boceto_A_Tarjetas]], que manda en el corte de capítulos; el contenido de cada tarjeta sigue valiendo.
 >
 > **Estado:** DISEÑO del agente (Claude Code, 2026-11-12). Fase 2 de [[11_Books/Book_02_Sombras_De_Poder/00_Carretera_Libro_II]] (columna aprobada) y continuación de [[11_Books/Book_02_Sombras_De_Poder/Part_03_Exilio/00_Tarjetas_Parte_III]]. **No toca prosa, canon ni el boceto.** Mismo formato: trama, relación, por eso, saldo, POV y origen (C = canon o decisión vigente; P = propuesta del agente).

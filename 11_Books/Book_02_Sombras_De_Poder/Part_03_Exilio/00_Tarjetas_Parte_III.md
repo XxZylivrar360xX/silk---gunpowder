@@ -1,5 +1,7 @@
 # Tarjetas de la Parte III — Exilio (Fase 2)
 
+> **DECISIÓN DEL AUTOR (2026-11-12), para el bloque de los frenos:** los frenos los ordena Varek (se mantiene). **Corrado va al hospital:** Marisol, todavía dopada, ve a medias a un hombre mayor que entra a su cuarto y vuelve a desaparecer. Se lo menciona a Kal después; con los frenos ya descubiertos (T1), es gasolina para sus noches (T3). Colocación fina: por decidir (PROPUESTA: la mención cae entre T1 y T3). Chiara culpa a La Mesa de los frenos y esta vez se equivoca, el espejo del corral, donde acertó. Ver [[11_Books/Book_04_Cuentas_De_Sangre/00_Diseno_Complot_De_La_Mesa]].
+
 > **Fase 3 APROBADA (DECISIÓN DEL AUTOR, 2026-11-12):** varias tarjetas de esta Parte se funden. La numeración nueva y las fusiones (R0–R10) están en [[11_Books/Book_02_Sombras_De_Poder/00_Mapa_Boceto_A_Tarjetas]], que manda en el corte de capítulos; el contenido de cada tarjeta sigue valiendo.
 >
 > **Estado:** DISEÑO del agente (Claude Code, 2026-11-12). Fase 2 de [[11_Books/Book_02_Sombras_De_Poder/00_Carretera_Libro_II]] (columna aprobada) y continuación de [[11_Books/Book_02_Sombras_De_Poder/Part_02_Nieve_Y_Ceniza/00_Tarjetas_Parte_II]]. **No toca prosa, canon ni el boceto.** Mismo formato que las anteriores: trama, relación, por eso, saldo, POV y origen (C = canon o decisión vigente; P = propuesta del agente).

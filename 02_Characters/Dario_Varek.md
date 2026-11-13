@@ -1,5 +1,7 @@
 # Dario Varek
 
+> **DECISIÓN DEL AUTOR (2026-11-12):** Volpi no es suyo: es de La Mesa, que se lo presta. Con él, Volpi está de «vacaciones», con la correa floja (Keene, Fabrizio). **Los frenos los ordena Dario;** el corral, no: lo ordena La Mesa. Ver [[11_Books/Book_04_Cuentas_De_Sangre/00_Diseno_Complot_De_La_Mesa]].
+
 > **NUEVO CAUCE — NUEVOS 45 Y 46 (2026-11-08, terminal C; [[98_Agent_Handoff/sessions/2026-11-08_claude_fase4_cap45_por_si_vuelve]], [[98_Agent_Handoff/sessions/2026-11-08_claude_fase4_cap46_a_oscuras]]):** en el pensamiento de Chiara se llama Varek. En el 45, ante la oferta de Valenti de quitarle el Monarch, Chiara recuerda la bodega nueve, la mano y «*Una cuenta abierta.*» (una sola deuda, D2). En el 46: «Le quedé a deber a Varek lo que él quiera, cuando él quiera, y no sé qué es.»
 
 > **NUEVO CAUCE — PARTE III (2026-11-08; [[98_Agent_Handoff/sessions/2026-11-08_claude_propagacion_parte_III]]; prosa BORRADOR, lo nuevo es DISEÑO salvo donde dice CANON):** **ya no está en el yate** del nuevo 35 (DECISIÓN DEL AUTOR, se poda); sigue presente por el pacto del 34: la sangre del fregadero es de un trabajo suyo en la casa del rico del norte y la Romanée-Conti sale de ahí (CANON, nunca dicho en prosa). Nuevo 36: contesta el teléfono de Kal con «Señor Mercer» y dice «Las armas, señor Mercer. Completas.», sin respuesta; en el 39 Kal contesta «Van a estar completas.» (doble filo) y le desvía el lote de Crowe. «Señor Mercer, siempre», como pide su ficha de voz (corregido en el 39).

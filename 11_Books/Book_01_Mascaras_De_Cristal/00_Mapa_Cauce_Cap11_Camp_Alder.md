@@ -38,7 +38,7 @@
 | 21 | T9 · Kal | 24 *Con su proveedor* (22b · 4,753 · mixto) | Reescribe el POV | Unificado en Kal. Se le paga a Irene. La amenaza de Halbrook a Crowe queda fuera de página. |
 | — | T10 | 25 *Bajo juramento* (24 · 3,763) | **Retira** | Su carga está en la tabla de reubicaciones. |
 | 22 | T11 · Kal | 26 *Lo que cueste* (24b · 3,026) | Reescribe | Crowe les pasa a los intermediarios lo de los papeles de Nadir. Absorbe el acuerdo con Hoover y a Krane. |
-| 23 | T12 · Kal | 27 *Oveja entre lobos* (24c · 6,366) | Reescribe y poda | El ataque lleva la bandera falsa de Volpi. Matan a Vento; Kal encuentra primero al caballo y luego a Chiara. |
+| 23 | T12 · Kal | 27 *Oveja entre lobos* (24c · 6,366) | Reescribe y poda | El ataque es de Volpi, por orden de La Mesa (DECISIÓN DEL AUTOR, 2026-11-12; antes, bandera falsa de Crowe). Matan a Vento; Kal encuentra primero al caballo y luego a Chiara. |
 | 24 | T12 · **Chiara** | 28 *Vienes conmigo* (24d · 2,733 · 100 % Kal) | Reescribe | **Cambia de dueño por completo.** Aquí entra «No es cuestión de dinero». |
 | 25 | T13 · **Chiara** | 29 *Libros abiertos* (25 · 5,197 · 100 % Kal) | Reescribe | **Cambia de dueño por completo.** Varek le avisa que alguien de fuera pregunta por ella, sin amenazarla. Aquí entra «mi… amigo», en la venta del Lancia. |
 | 26 | T14 · Chiara | 30 *Me encuentro bien* (26 · 2,303) + lo de Chiara en 32 *No hace falta* (28: la peor noche, la sudadera) | Funde | Un solo capítulo para la correa. Chiara va a Varek sospechando de él; él la ayuda y le cobra un favor a nombre de ella. Esto sustituye el seguimiento a Dario. |

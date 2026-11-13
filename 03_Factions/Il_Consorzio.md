@@ -197,7 +197,7 @@ Valenti lleva la advertencia y la consecuencia atribuible; Nereo vuelve la conse
 > - **Cap. 25 (archivo 25, *Libros abiertos*):** le pone nombre ante Kal, con el corral como disparador: «una orden así rara vez pertenece sólo al hombre que la cumple» y la línea canon «Es la misma institución que me negó a mi padre. Il Consorzio.» (que el disparador pase de Tommaso al corral es DISEÑO, 2026-11-08: [[98_Agent_Handoff/sessions/2026-11-08_claude_fase4_cap25_libros_abiertos]]).
 > - **Cap. 35 (archivo 38, *Al revés*):** con el pañuelo sobre el piano, lo junta en voz alta: «Fueron ellos… Te lo dije en el parador», «demasiado poco para llamarlo prueba» (DISEÑO, BORRADOR).
 >
-> Es creencia de personaje. La verdad del autor sigue en [[06_Relationships/Hitos]] §H12 (CANON DEL AUTOR, 2026-11-07): el golpe y la muerte de Vento son represalia de Crowe con bandera falsa de Volpi, y la bandera falsa funciona. Por eso queda **SUPERSEDIDO** abajo que el golpe sea «su primera aparición real» y que la deducción «llega en H13». Se conserva como historial.
+> Es creencia de personaje. Y es cierta (DECISIÓN DEL AUTOR, 2026-11-12): **el corral lo ordena La Mesa**, que manda a Volpi a agredir a Chiara para sacar a Corrado de su escondite; Chiara fue enviada como anzuelo. Ver [[11_Books/Book_04_Cuentas_De_Sangre/00_Diseno_Complot_De_La_Mesa]]. Por eso queda **SUPERSEDIDO** abajo que el golpe sea «su primera aparición real» y que la deducción «llega en H13». Se conserva como historial.
 
 Su primera aparición real en la novela es un golpe sin firma: en [[06_Relationships/Hitos]], H12, alguien deja inconsciente a Chiara de un solo golpe mientras cierra un corral. No se revela quién en el momento — ni ella ni el lector lo saben todavía.
 

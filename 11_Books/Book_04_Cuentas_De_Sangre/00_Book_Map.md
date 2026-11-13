@@ -1,5 +1,7 @@
 # Book 04 — Cuentas de Sangre
 
+> **COMPLOT DE LA MESA (DECISIÓN DEL AUTOR, 2026-11-12):** el corral lo ordenó Il Consorzio para sacar a Corrado de su escondite (Chiara era el anzuelo); lo ejecutó Volpi, que siempre fue de La Mesa (con Varek sólo estuvo de «vacaciones») y es el punto de convergencia de la saga. Cobra en este libro: Corrado se lo cuenta a Kal; Matteo se lo revela a Chiara. Diseño completo: [[11_Books/Book_04_Cuentas_De_Sangre/00_Diseno_Complot_De_La_Mesa]].
+
 > **DECISIONES DEL AUTOR (2026-11-12; [[11_Books/00_Libro_Mayor_Deudas_Saga]]):** (1) **Chiara se entera por Matteo, cuando regresa, de que La Mesa la mandó a San Aurelio como anzuelo para su padre**; alrededor se arma un complot orgánico (por diseñar). (2) **Herederos de la salida:** El Patio se disuelve tras la salida de Kal y Chiara; Nadir se separa; Garrett queda al frente de la empresa de Kal; Danny, rehabilitado, termina como dueño del taller; Ren administra Villani Motors; Marisol entra a la fiscalía; Mabel y Walt, casados, viven y trabajan en La Esquina de Mabel. (3) **Los de Meridian encuentran a Danny en la terraza del edificio empresarial de Kal**, la misma donde Halbrook le reveló a Kal la salida de Camp Alder en el III; circunstancias PENDIENTES. (4) La versión del corral que trae Corrado (Volpi, frente a la bandera falsa de Crowe) se explora aparte.
 
 *Mapa narrativo operativo. Libro IV de la saga — cierre del arco principal.*

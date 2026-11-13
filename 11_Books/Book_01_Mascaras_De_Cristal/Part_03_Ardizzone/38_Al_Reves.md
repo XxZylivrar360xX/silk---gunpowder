@@ -13,6 +13,7 @@ Cameos sin diálogo: el jefe de seguridad del Monarch, Kenji Oda, Harper Walker,
 Ventana temporal: jueves 25 nov, Acción de Gracias (carta, taller y La Esquina); primera semana de diciembre (la bala); viernes 10 dic, de las ocho de la noche a la una menos algo de la madrugada del sábado (yate y Kingsley).
 Lugares: el loft; Almendra Towing / El Patio; La Esquina de Mabel; Cedar Flats; un motel de la Milla; la marina de [[05_Locations/San_Aurelio|La Isla]] (cubierta, popa, muelle, salón con piano); terminal privada de [[05_Locations/Norte_Rural_de_San_Aurelio|Kingsley Field]].
 Función: la espera del capítulo es doble («qué significa Roma» y «quién mató a Vento») y se cobra junta en el salón del piano. La bandera falsa de Crowe funciona: el apellido le confirma a Kal lo que Chiara ya creía y lo manda a Italia. Blake cierra su hilo. El Patio crece alrededor de Kal.
+SUPERSEDIDO (DECISIÓN DEL AUTOR, 2026-11-12): el corral lo ordena La Mesa y lo ejecuta Volpi; Crowe no fue. La prosa no cambia. Ver [[11_Books/Book_04_Cuentas_De_Sangre/00_Diseno_Complot_De_La_Mesa]].
 audio PENDIENTE: archivo 38.
 -->
 

@@ -1,5 +1,7 @@
 # Exploración: la verdad del corral
 
+**Retirado:** 2026-11-12, el autor (partía de la bandera falsa de Crowe, que el autor reemplazó el mismo día). **Lo sustituye:** [[11_Books/Book_04_Cuentas_De_Sangre/00_Diseno_Complot_De_La_Mesa]].
+
 > **Estado:** DISEÑO del agente (Claude Code, 2026-11-12), a pedido del autor: «esto hay que explorarlo aparte, ya me confundí» (pregunta 6, B5 de [[11_Books/00_Libro_Mayor_Deudas_Saga]]). **No toca prosa ni canon.** Lo marcado CANON se cita de [[06_Relationships/Hitos#H12 — El atentado / El corral]], [[11_Books/Book_01_Mascaras_De_Cristal/00_Plan_Nuevo_Cauce]] y las fichas de Crowe, Corrado y Volpi. Lo marcado **PROPUESTA** espera al autor.
 
 ---

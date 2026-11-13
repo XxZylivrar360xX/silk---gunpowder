@@ -39,7 +39,7 @@ Sustituye la columna de la carretera («dos pasados cobran la casa; Varek, cobra
 
 ### Choques resueltos (CANON DEL AUTOR, 2026-11-07)
 
-- **Corral: (b) bandera falsa.** Crowe contrata al atacante con el nombre de Volpi; Corrado se queda con esa verdad incompleta y la coda de *Voto de Ceniza* se conserva. Nota en [[06_Relationships/Hitos#H12 — El atentado / El corral]].
+- **Corral:** **SUPERSEDIDO (DECISIÓN DEL AUTOR, 2026-11-12):** el corral lo ordena Il Consorzio y lo ejecuta Volpi («Me contrató un hombre con un ojo de vidrio negro»); Crowe no fue. Ver [[11_Books/Book_04_Cuentas_De_Sangre/00_Diseno_Complot_De_La_Mesa]]; texto anterior en [[97_Supersedido/Corral_Bandera_Falsa_De_Crowe]].
 - **Trix muere en *Voto de Ceniza* (Libro III)** y deja huérfana a Iris, pequeña. Notas de supersesión en Beatrice_Varek, Iris_Harlow, John y Michael_e_Iris.
 - **Halbrook:** sale en persona de la prosa del Libro I (salvo el epílogo, sin hablar); **su nombre se queda**, incluida la confesión del Cap. 34.
 

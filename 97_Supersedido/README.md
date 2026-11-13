@@ -17,6 +17,8 @@ Ideas, planes y diseños que el autor retiró o que quedaron reemplazados. **No 
 
 ## Entradas
 
+- [[97_Supersedido/Corral_Bandera_Falsa_De_Crowe]]: Crowe como autor del corral con bandera falsa de Volpi (retirado 2026-11-12).
+- [[97_Supersedido/Exploracion_Verdad_Del_Corral]]: exploración del corral con la bandera falsa (retirada 2026-11-12).
 - [[97_Supersedido/Marisol_Abogada_Principal_Del_Bufete]]: Marisol como abogada principal del bufete de Kal (retirado 2026-10-02).
 - [[97_Supersedido/Tommaso_Muere_Al_Abrir_Libro_II]]: Tommaso asesinado por Volpi al abrir el Libro II; Mei-Lin absorbida por Varek (retirado 2026-10-12).
 - [[97_Supersedido/Fabrizio_Coaccionado_Y_Atentado_2x1]]: Fabrizio coaccionado por Volpi y el atentado «2x1» (retirado 2026-10-12 y 2026-10-18).

@@ -179,7 +179,7 @@ Formato: **qué es** en ese libro → **qué le cambia**. Fuente de cada línea:
 
 | Libro | Movimiento |
 |---|---|
-| I | Villano del libro. Cobra; asesina a Boone; cobra en el corral con bandera falsa de Volpi. Con Kal preso, compra a los muchachos del sur. |
+| I | Villano del libro. Cobra; asesina a Boone; no fue él quien cobró en el corral (lo niega en el II; DECISIÓN DEL AUTOR 2026-11-12). Con Kal preso, compra a los muchachos del sur. |
 | II | **Columna del libro.** Cobra en escalones (el cargamento de Tyler; el loft incendiado). Cae en la operación de la tormenta: las bandas llegan al límite y Kal aprovecha. Le revela a Kal *cómo* (Dale); Walt lo ejecuta. |
 
 ### Héctor Navarro

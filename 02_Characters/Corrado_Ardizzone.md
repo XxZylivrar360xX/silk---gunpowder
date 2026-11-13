@@ -1,5 +1,7 @@
 # Corrado Ardizzone
 
+> **DECISIÓN DEL AUTOR (2026-11-12):** (1) **El corral lo ordena La Mesa para sacarlo a él de su escondite:** Chiara es el anzuelo y el ataque, el tirón de la línea. En el interrogatorio, el atacante le dice: «Me contrató un hombre con un ojo de vidrio negro» (Volpi). (2) **Los frenos (Libro II, los ordena Varek):** Corrado sale y va al hospital; Marisol, todavía dopada, lo ve a medias, no lo reconoce, y él vuelve a desaparecer. En el IV, cuando Kal lo conoce, se puede revelar que fue él. (3) **Por qué no se revela:** ve que Chiara construyó algo nuevo y suyo; volver la atraparía en el pasado y en las cadenas de Il Consorzio. Complot: [[11_Books/Book_04_Cuentas_De_Sangre/00_Diseno_Complot_De_La_Mesa]].
+
 > **Numeración:** desde 2026-10-22 el Libro I usa numeración corrida definitiva (56 caps.); este documento cita la numeración anterior. Correspondencia en [[11_Books/Book_01_Mascaras_De_Cristal/00_Book_Map]].
 
 *Seda y Pólvora — Ficha de Personaje*
