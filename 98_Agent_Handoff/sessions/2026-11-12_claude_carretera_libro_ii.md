@@ -54,6 +54,22 @@ Encargo del autor: avanzar con la reconciliación del Libro II, trabajando «jus
 - La fila de la Parte III del reloj (§3b) se ajustó.
 - **Autocrítica:** el favor que Chiara le pide a Dario y la filtración de Mei-Lin hacen subir mucho el ruido de Varek. Las tarjetas lo atajan con dos guardas: lo filtrado no incluye el Lancia y nada se prueba en la página. Aun así, conviene que el autor mida si la suma no rebasa el «sólo ruido» del canon. La opción de «Lo siento, ¿vale?» en T9 da un sentido nuevo a una línea canon; no la reescribe.
 
+## Sexta vuelta: tarjetas de la Parte IV
+
+- Nuevo [[11_Books/Book_02_Sombras_De_Poder/Part_04_Torna_A_Casa/00_Tarjetas_Parte_IV]] (DISEÑO): 18 tarjetas en tres bloques (*El costo*, *El Tasador y las cartas*, *El último secreto*) más la noche (canon, sólo con lo que cierra cada hilo). Elipsis E (~4 semanas, aterriza en las bandas) y F (~3, aterriza en la señal 1). Motivo: dejar de esconderse.
+- Propuestas:
+  - El golpe fallido es contra el Caldero que mató a Mei-Lin, con el método de Dario. Mueren inocentes y de ahí sale «no como tú» (50 antes que 49).
+  - Walt sin condicional va armado a la tormenta.
+  - Las bandas cobran el «todavía no» de la Ronda, y los Calderos llegan al final.
+  - Rafe le avisa a Chiara que los Bravos no van.
+  - La foto de Halbrook sale en *El Faro* y termina en la chimenea.
+  - Dario le da a Chiara una respuesta falsa sobre los frenos.
+  - La cuenta de Kal no se confiesa y muere con Crowe.
+  - Las cuotas de Chiara pasan a *Voto de Ceniza*.
+  - Capítulo nuevo, *La fecha*, para la señal del cigarro. La de la comida se quita (lo permite el canon).
+- **Cuenta del libro:** 65 capítulos frente a los 54–56 que estimaba la carretera; la estimación falló. Queda para la Fase 3, con candidatos a recorte.
+- **Autocrítica:** Kal tiene 6 de los 9 POV fuera de la noche y de Stavanger. La Parte IV no lleva invitados, así que la compensación tiene que venir de Chiara (U5 podría crecer). La respuesta falsa de Dario suma otra capa velada de Varek; mide si ya sobra. Stavanger no se leyó para esta vuelta: la tarjeta pide verificar que ahí no se confiese ninguna deuda.
+
 ## Pendiente
 
-Lectura del autor de las tarjetas de las Partes I–III; decisiones 2–14 de la carretera; tarjetas de la Parte IV.
+Lectura del autor de las tarjetas de las cuatro Partes; decisiones 2–14 de la carretera; después, Fase 3 (cruzar el boceto con las tarjetas y decidir recortes).

@@ -4,6 +4,7 @@ El detalle se guarda una sola vez en notas de sesión. Este archivo es navegaci�
 
 ## Sesiones recientes
 
+- 2026-11-12: Fase 2 del Libro II, tarjetas de la Parte IV (18, DISEÑO; golpe fallido contra el Caldero, la cuenta de Kal muere con Crowe, *La fecha* nueva); Fase 2 completa, 65 caps.: [[98_Agent_Handoff/sessions/2026-11-12_claude_carretera_libro_ii]]
 - 2026-11-12: Fase 2 del Libro II, tarjetas de la Parte III (10, DISEÑO; las latas delatan a Mei-Lin, el Caldero perdonado la apuñala, Chiara se entera por Bonnie): [[98_Agent_Handoff/sessions/2026-11-12_claude_carretera_libro_ii]]
 - 2026-11-12: Fase 2 del Libro II, tarjetas de la Parte II (17, DISEÑO; F4 por el programa de veteranos de Halbrook, el levantón en febrero, la Nochebuena partida en dos): [[98_Agent_Handoff/sessions/2026-11-12_claude_carretera_libro_ii]]
 - 2026-11-12: DECISIÓN DEL AUTOR: el Libro II conserva sus dos años, contados con un reloj de bloques y elipsis (carretera §3b); tarjetas de la Parte I reacomodadas en tres bloques (20): [[98_Agent_Handoff/sessions/2026-11-12_claude_carretera_libro_ii]]

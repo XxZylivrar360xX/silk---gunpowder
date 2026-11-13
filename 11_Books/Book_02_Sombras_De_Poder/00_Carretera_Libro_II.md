@@ -181,7 +181,7 @@ Son eslabones de trama, no capítulos (la Fase 2 los convierte en tarjetas). En 
 
 **Candidatos a fundirse (sin sacar nada canon):** *Bajo supervisión* (5) en un capítulo de Kal de E3; *Sociales* (8) dentro de la primavera de Chiara (E4); *La azotea* (14) como cierre de *Quiero levantarlo* (13); *El otro Dario* (20) con *La primera cuota* (9) o con Q24. **El robo en cuatro capítulos en vez de seis** (el plan; «Deséame suerte»; Lussia + *Sin público*; boletos y el millón): en el I, un golpe de seis capítulos se lee como novela aparte. **La noche final (56–61) se queda como está:** es una sola noche y es canon.
 
-Estimación: de 61 a unos 54–56 capítulos. No hay tope de palabras, porque la extensión se decide después, como en el I.
+Estimación: de 61 a unos 54–56 capítulos. **Corrección (2026-11-12, tras la Fase 2):** las tarjetas de las cuatro Partes suman 65 ([[11_Books/Book_02_Sombras_De_Poder/Part_04_Torna_A_Casa/00_Tarjetas_Parte_IV]], «Lo que dice la cuenta del libro»); los recortes se deciden en la Fase 3. No hay tope de palabras, porque la extensión se decide después, como en el I.
 
 ---
 
