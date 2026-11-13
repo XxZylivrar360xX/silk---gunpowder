@@ -29,7 +29,7 @@ No encontré otros choques. La ficha de Kal (el collar es la única excepción a
 
 ## Mapa de escenas
 
-**POV (DISEÑO):** recomiendo **Chiara** para toda la secuencia. Ella organiza, y además conoce la regla de Kal (todo regalo lo convierte en transacción): en el exterior espera la transacción y no llega. Así la aceptación se ve sin explicar lo que él siente por dentro. El lado de Kal llega en el cap. 28, cuando le da vueltas al collar en el hotel de Washington. Si al redactar la secuencia pasa de unas 8,000 palabras, se puede partir en dos capítulos en la madrugada del 24.
+**POV (DISEÑO):** recomiendo **Chiara** para toda la secuencia. Ella organiza, y además conoce la regla de Kal (todo regalo lo convierte en transacción): en el exterior espera la transacción y no llega. Así la aceptación se ve sin explicar lo que él siente por dentro. El lado de Kal llega en el cap. 22 (boceto 28), cuando le da vueltas al collar en el hotel de Washington. Si al redactar la secuencia pasa de unas 8,000 palabras, se puede partir en dos capítulos en la madrugada del 24.
 
 > **Superado (DECISIÓN DEL AUTOR, 2026-11-12, Fase 3, R10):** la secuencia va en **un solo capítulo en POV de Kal** (nuevo 20, [[11_Books/Book_02_Sombras_De_Poder/00_Mapa_Boceto_A_Tarjetas]]). La razón: el canon pone a Yun-Kai en los ojos de Kal, y la transacción que no llega se lee desde dentro de él. La recomendación de arriba se conserva como historial.
 
@@ -45,7 +45,7 @@ No encontré otros choques. La ficha de Kal (el collar es la única excepción a
 - **Contratiempo (DISEÑO):** queda un coche en el elevador que no se puede bajar. Le cuelgan luces y se queda como árbol, o al lado del árbol. Es la imagen del taller en Navidad.
 - **El negocio sigue:** la grúa de guardia sale a mitad de la noche a un servicio y vuelve con las luces ya puestas. Así el taller sigue siendo un negocio y no un salón de fiestas.
 - **Mesas:** sillas y mesas plegables prestadas por la [[05_Locations/Casa_Comunitaria_De_La_Almendra]] (Mabel sabe quién tiene la llave), más los bancos de trabajo cubiertos con manteles. Calentadores de gas porque la nave es fría.
-- **Opción (PENDIENTE):** si el garaje del cap. 25 es el del taller, Kal cuelga luces en el sitio donde se quebró tres noches antes. Nadie lo sabe y el narrador no lo señala; sólo el lector lo reconoce.
+- **Opción (PENDIENTE):** si el garaje del cap. 19 (boceto 25) es el del taller, Kal cuelga luces en el sitio donde se quebró tres noches antes. Nadie lo sabe y el narrador no lo señala; sólo el lector lo reconoce.
 
 ### 3. Desarrollo II: la cocina (24 dic, ~09:00–18:00, la Villa)
 
@@ -77,7 +77,7 @@ No encontré otros choques. La ficha de Kal (el collar es la única excepción a
 
 ### 6. Coda: la fiesta sigue
 
-- Vuelven a entrar y la fiesta sigue viva. El collar va bajo la camisa y nadie lo nota. No usar aquí el recurso de «lo ve Nadir y calla», que ya tiene el anillo del cap. 33.
+- Vuelven a entrar y la fiesta sigue viva. El collar va bajo la camisa y nadie lo nota. No usar aquí el recurso de «lo ve Nadir y calla», que ya tiene el anillo del cap. 26 (boceto 33).
 - Después vendría la mañana del 25 en la Villa, que es territorio de la nota hermana.
 
 > **CANON DEL AUTOR (2026-11-07) — Yun-Kai en la cena.** Esa noche aparece Yun-Kai, el hermano mayor de [[02_Characters/Mei_Lin_Zhao|Mei-Lin]], a pedirle dinero para sus deudas de juego (con la gente de Varek). Ella le grita que se largue, que ya no va a pagar nada más por él: las palabras de Kal le abrieron los ojos. Abre el arco de Kal descubriendo a Mei-Lin. Matiza la fila de Mei-Lin en «Composición de la mesa»: el estallido es carácter, no presagio de F2. **Resuelto (CANON, 2026-11-07):** durante la cena, antes de medianoche y antes del collar; Yun-Kai no entra, ella sale al portón; sólo Kal lo ve y no interviene. Al volver: «¿Todo bien?» / «Todo bien, jefe.» Detalle en su ficha.
@@ -102,7 +102,7 @@ No encontré otros choques. La ficha de Kal (el collar es la única excepción a
 | **Danny** | Abraza antes de que el otro decida y hace trampa en el juego. | Rápido, se ríe solo. |
 | **Harper** | Corta verdura sin hablar, gana la mímica si se elige la B. Pregunta dos cosas prácticas. | Corta, sin relleno. |
 | **Bonnie** | Les dijo a sus padres de Boston que tenía turno y se queda con la familia elegida, sin drama. Queda cerca de Marisol en la mesa; nadie lo nota (incubación de [[06_Relationships/Bonnie_y_Marisol]]: mínimo y sin nombre). | Su ficha. |
-| **Mei-Lin** | Presente, normal y querida. Sin POV y sin ningún gesto que se lea como presagio. Su hábito del cap. 7 sigue PENDIENTE: no inventarlo aquí. | Su ficha. |
+| **Mei-Lin** | Presente, normal y querida. Sin POV y sin ningún gesto que se lea como presagio. Su hábito del cap. 5 (boceto 7) sigue PENDIENTE: no inventarlo aquí. | Su ficha. |
 | **Tyler** | La culpa del incendio y el beat del regalo igual. | Su ficha. |
 | **Ren, Garrett** | Presencia breve, con un apunte de oficio cada uno. | Sus fichas. |
 | **Marisol y Kenji** | Pareja auténtica en lo que hacen: llegan juntos y se reparten la comida sin preguntarse. Marisol le pica a Kal con hechos; Kenji es el puente con el mundo de Chiara y el amigo de ella que se ganó la invitación. | Rápida, sarcástica sin herir. |
@@ -148,7 +148,7 @@ No encontré otros choques. La ficha de Kal (el collar es la única excepción a
 2. **Juego:** ¿A (lotería y tombola, la conduce Mabel), B o C?
 3. **Tommaso:** ¿confirmas que no va?
 4. **El exterior:** ¿con la fiesta todavía sonando, como recomiendo? ¿Sale Kal y ella lo sigue, o ella lo saca?
-5. **El garaje del cap. 25:** ¿es el del taller? Eso activa el contrapunto de las luces.
+5. **El garaje del cap. 19 (boceto 25):** ¿es el del taller? Eso activa el contrapunto de las luces.
 6. **El regalo de Kal a Chiara:** ¿la noche de trabajo del 23 como favor, como recomiendo, o un objeto? Un objeto arriesga leerse como intercambio.
 7. **POV y capítulos:** ¿Chiara para toda la secuencia? ¿Uno o dos capítulos?
 8. **Clima:** ¿nieve, helada o frío seco?
@@ -156,4 +156,4 @@ No encontré otros choques. La ficha de Kal (el collar es la única excepción a
 
 ## Al aprobarse (no antes)
 
-Integrar en el boceto (cap. 26 y, si toca, partirlo y renumerar), en la matriz (fecha del garaje), en la tabla de [[06_Relationships/Hitos]], en [[06_Relationships/Kal_y_Chiara]] (cerrar el PENDIENTE de la escena de la primera Navidad) y en la ficha de Kal.
+Hecho en la Fase 3 (2026-11-12): la secuencia es el cap. 20, en un solo capítulo. Texto original: integrar en el boceto (cap. 26 y, si toca, partirlo y renumerar), en la matriz (fecha del garaje), en la tabla de [[06_Relationships/Hitos]], en [[06_Relationships/Kal_y_Chiara]] (cerrar el PENDIENTE de la escena de la primera Navidad) y en la ficha de Kal.

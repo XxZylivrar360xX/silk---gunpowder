@@ -42,7 +42,7 @@ Retcon aplicado con autorización del autor: Libro I, [[11_Books/Book_01_Mascara
 - **Dónde aparece el nombre.** Como el sobre no trae remitente, «Manfred Gabe» aparece dentro de las cartas: Dale menciona al visitante (el amigo de Walt que viene a verlo). Kal lo lee como un nombre más de la vida de su padre que no conoció. No hay nota de Manfred ni firma suya.
 - **Las fechas.** Son significativas para Dale, no para Kal, y Kal no entiende todas: el hueco es parte del cierre. Cuáles son: PENDIENTE (autor).
 
-- **Qué saben las cartas del origen.** «Lo poco que llegué a saber»: Stavanger, el nombre de Ingrid y la dirección de la carta que ella mandó a la Almendra. No saben de la red ni del papel de Crowe; eso lo suelta Crowe en la tormenta (cap. 59, CANON), cuando Kal ya estuvo en Noruega. Las cartas dicen **dónde**; Crowe, **cómo**.
+- **Qué saben las cartas del origen.** «Lo poco que llegué a saber»: Stavanger, el nombre de Ingrid y la dirección de la carta que ella mandó a la Almendra. No saben de la red ni del papel de Crowe; eso lo suelta Crowe en la tormenta (cap. 53, boceto 59; CANON), cuando Kal ya estuvo en Noruega. Las cartas dicen **dónde**; Crowe, **cómo**.
 - **Dos cartas de Dale que se contestan.** En Stavanger, Henrik le enseña a Kal la respuesta mecanografiada de Dale a Ingrid: administrativa, «cerraba una cuenta». Kal ya trae las cartas de la cárcel, donde a Dale sí le costó escribir. La prosa del borrador («buscando una línea que sonara a que a Dale le hubiera costado algo») cambia de sentido: hay que revisarla cuando se redacte (PENDIENTE de prosa, no se tocó).
 - **Voz de Dale.** Torpe, incompleta, con orgullo todavía; frases cortas, datos antes que sentimientos. Nada de vocabulario de terapia. La emoción se nota en lo que no termina de decir. La frase final es la única que nombra lo que sintió.
 - **No absolución.** Kal no perdona en voz alta. Devolver las cartas es cierre y rechazo a la vez: las leyó y no se las queda.
@@ -54,4 +54,4 @@ Retcon aplicado con autorización del autor: Libro I, [[11_Books/Book_01_Mascara
 - **Implicación a decidir:** Ingrid muere unos once años antes de Stavanger, es decir, uno o dos años después de Dale. Mientras Manfred guardaba las cartas, Ingrid seguía viva. Es un costo posible de la huella de Corrado (que en la coda o en *Cuentas de Sangre* puede pesar) o algo que hay que neutralizar.
 - Las siete fechas y si alguna carta se cita además de la frase final.
 
-Capítulo: **52b** en [[11_Books/Book_02_Sombras_De_Poder/00_Boceto_Lista_Capitulos]].
+Capítulo: **43** (numeración de 55, 2026-11-12; era el **52b** en [[11_Books/Book_02_Sombras_De_Poder/00_Boceto_Lista_Capitulos]]).

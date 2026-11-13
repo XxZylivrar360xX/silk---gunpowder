@@ -2,6 +2,10 @@
 
 Entradas retiradas del registro reciente de [[log]] al pasar de 30 enlaces. Más antiguas al final.
 
+- 2026-11-08: Guerra de los Tres en tres tiempos (clímax en un día: arresto de Dario, montaña y Santa Lucía); Harper y Mei-Lin separadas; Tyler absorbe la muerte de Halbrook y va a prisión, Harper sale del país (CANON DEL AUTOR): [[98_Agent_Handoff/sessions/2026-11-08_claude_guerra_tres_tiempos_harper_tyler]]
+- 2026-11-08: Parte I del nuevo cauce cerrada (nuevos 11–19) y renumerada en encabezados, Book_Map y CHAPTER_STATUS; copia de Drive de *Roma Atrii* a Escenas_Eliminadas: [[98_Agent_Handoff/sessions/2026-11-08_claude_renumeracion_parte_I]]
+- 2026-11-08: el autor suscribe la revisión de ChatGPT; guardas de vigilancia (CANON DEL AUTOR) en el plan del nuevo cauce y en el de *Sombras de Poder*: [[98_Agent_Handoff/sessions/2026-11-08_claude_guardas_chatgpt_cauce_y_sombras]]
+- 2026-11-08: Fase 4: nuevo Cap. 18 *Lo pequeño* = *Lo pequeño* + *El primer huésped* en POV Kal (BORRADOR, DISEÑO; el archivo 21 queda como marcador); H11 desde Kal, el imán al refrigerador del loft, Marisol se abre con Chiara (CANON en la función): [[98_Agent_Handoff/sessions/2026-11-08_claude_fase4_cap18_lo_pequeno]]
 - 2026-11-08: Fase 4: nuevo Cap. 17 *El día nublado* en un solo POV, el de Kal (BORRADOR, DISEÑO); H4 con el secreto como precio: Kal decide no saber más; rastro de la chaqueta café (CANON en la función): [[98_Agent_Handoff/sessions/2026-11-08_claude_fase4_cap17_el_dia_nublado]]
 - 2026-11-08: Fase 4: nuevo Cap. 16 *Le quedé debiendo* en POV Kal (BORRADOR, DISEÑO); crece con el billar de atrás del Monarch, donde el joven de Crowe fue a confirmar la trampa; la llave del portón la tiene «la señora» (CANON en la función): [[98_Agent_Handoff/sessions/2026-11-08_claude_fase4_cap16_le_quede_debiendo]]
 - 2026-11-08: Fase 4: nuevo Cap. 15 *Yo lo llevo* = viernes y sábado + el domingo y el coche de *El sobre rojo*, en POV Chiara (BORRADOR, DISEÑO); el barrio le paga a ella y la chaqueta café de Crowe lo ve (CANON en la función): [[98_Agent_Handoff/sessions/2026-11-08_claude_fase4_cap15_yo_lo_llevo]]

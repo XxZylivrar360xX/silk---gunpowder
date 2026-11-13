@@ -119,6 +119,8 @@ Obligaciones que deja el cierre de *Máscaras de Cristal* y que este libro tiene
 | III — Exilio | Fractura y costo del mando | **F2:** Mei-Lin (Nadir ejecuta, Kal decide) y Bonnie desterrada el mismo día; F3; Nadir agrietado; Tommaso sale o queda encaminado a salir (choque, bastón, Marisol, familia; cede el Monarch) | La primera gran mutilación de la familia elegida |
 | IV — Torna a casa | Emancipación y guerra inevitable | Doctrina propia de Kal e independencia ideológica de Dario; un golpe fallido con muertos; Crowe como martillo; Halbrook ya institucional; **Stavanger** ([[11_Books/Book_02_Sombras_De_Poder/Part_04_Torna_A_Casa/Ya_Llego]]; concepción de Elenna); **la tormenta = caída de Crowe = H1**, una sola noche de diciembre A4 (CANON 2026-10-13) | Reveal del embarazo la noche de H1, en la chimenea de Villa Candelaria, sólo a la luz del fuego (CANON 2026-10-02) |
 
+> **Nota (2026-11-12):** la fila de la Parte III describe el F2 anterior. El vigente (CANON DEL AUTOR, 2026-11-07) es que Mei-Lin muere tras una operación y Bonnie se va a Boston: [[06_Relationships/Momentos_de_Fractura#F2 - La muerte de Mei-Lin y la salida de Bonnie|F2]]. El reparto por capítulos está en «Numeración vigente», abajo.
+
 > **CANON DEL AUTOR (2026-10-13):** se retira «un año», que era protoidea. El libro va del 5 ene A3 al invierno A4 (unos dos años): incendio en agosto A3, Stavanger en octubre A4 y H1 en diciembre A4, antes de Navidad. Matriz: [[11_Books/Book_02_Sombras_De_Poder/00_Matriz_Temporal]].
 >
 > **Calendario (anterior):** el libro abre el 5 de enero del año 3; la Parte II es el invierno y la Navidad de ese año; las Partes III y IV caen en el año siguiente. El calendario fino es PENDIENTE ([[13_Auditorias/Book_01_Mascaras_De_Cristal/Matriz_Temporal_Libro_I]]).
@@ -142,6 +144,71 @@ Desarrollo completo, Parte por Parte, en [[01_Timeline/03_Libro_02_Sombras_De_Po
 ## Capítulos
 
 En prosa BORRADOR: [[11_Books/Book_02_Sombras_De_Poder/Part_01_Territorio_Ajeno/01_Hogar]] (Cap. 1, título fijado por el autor el 2026-10-10), [[11_Books/Book_02_Sombras_De_Poder/Part_04_Torna_A_Casa/Stavanger]], [[11_Books/Book_02_Sombras_De_Poder/Part_04_Torna_A_Casa/Henrik]] y [[11_Books/Book_02_Sombras_De_Poder/Part_04_Torna_A_Casa/Ya_Llego]] (tres capítulos sin número, separados el 2026-11-07; prosa pendiente de lectura del autor). Las Partes II y III todavía no tienen capítulos escritos. El plan de la reconciliación sigue documentado en [[11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/00_Plan_Cierre_Parte_III]] (sección del antiguo Cap. 45). Carpetas (renombradas el 2026-10-12): `Part_01_Territorio_Ajeno/` (Hogar), `Part_02_Nieve_Y_Ceniza/` y `Part_03_Exilio/` (vacías) y `Part_04_Torna_A_Casa/` (*Ya llegó*).
+
+### Numeración vigente: 55 capítulos (DECISIÓN DEL AUTOR, 2026-11-12)
+
+Fase 3 aprobada: [[11_Books/Book_02_Sombras_De_Poder/00_Mapa_Boceto_A_Tarjetas]]. **Partes:** I = 1–17, II = 18–31, III = 32–39, IV = 40–55. Los títulos son de trabajo (los del boceto o de las tarjetas); ningún archivo se renombra hasta que haya prosa. «Boceto N» cita la numeración de 64 del [[11_Books/Book_02_Sombras_De_Poder/00_Boceto_Lista_Capitulos]] (2026-10-13), que sigue en documentos anteriores a esta fecha. **Retirado:** el boceto 45, *El norte* (F2 viejo).
+
+| Parte | Cap. | Título de trabajo | Boceto | Tarjeta | POV |
+|---|---|---|---|---|---|
+| I | 1 | *Hogar* | 1 | T1 | Kal → Chiara (BORRADOR) |
+| I | 2 | *Con su letra* | 2 | T2 | Chiara |
+| I | 3 | *Bellandi* | 3 | T3 | Chiara |
+| I | 4 | *El barrio ajeno* | 4 + 5 | T4 + T5 | Kal |
+| I | 5 | *La Almendra* | 6 + 7 | T6 + T7 | Bonnie |
+| I | 6 | *La primera cuota* | 8 + 9 | T8 | Chiara |
+| I | 7 | *El farol* | — | T9 | Chiara |
+| I | 8 | *La lluvia* | — | T10 | Chiara |
+| I | 9 | *El error de Tyler* | 10 | T11 | Kal |
+| I | 10 | *Fuga de gas* | 11 | T12 | Chiara |
+| I | 11 | *Capacidad* | 12 + 13 + 14 | T13 | Kal |
+| I | 12 | *Queremos esta* | 15 | T14 | Kal |
+| I | 13 | *Encubierto* | 16 + 17 | T15 + T16 | Kal |
+| I | 14 | *Señor Militar* | 18 | T17 | la calle |
+| I | 15 | *Lentejuelas* | 19 | T18 | según el borrador |
+| I | 16 | *El otro Dario* | 20 | T19 | Kal y Chiara |
+| I | 17 | *El benefactor* | 21 | T20 | Chiara |
+| II | 18 | *Veintitrés de noviembre* | 22 + 23 | P1 + P2 | Chiara |
+| II | 19 | *No cargues sola* | 24 + 25 | P3 + P4 | Kal |
+| II | 20 | *El collar* | 26 | P5 + P6 | Kal |
+| II | 21 | *Año Nuevo* | 27 | P7 | Chiara |
+| II | 22 | *La carretera* | 28 | P8 | Kal |
+| II | 23 | *La vela tardía* | 29 + 30 | P9 + P10 | Kal |
+| II | 24 | *La jaula* | 31 | parte de P11 | Kal |
+| II | 25 | *Deséame suerte* | 32 | P11 | Kal → Chiara |
+| II | 26 | *Lussia* | 33 | P12 | Kal |
+| II | 27 | *Sin público* | 34 | P13 | Harper |
+| II | 28 | *El millón* | 35 + 36 | P14 | Kal; Chiara al final |
+| II | 29 | *Nadie tiene prisa* | — | P15 | Chiara |
+| II | 30 | *Calle Corona* | 37 | P16 | Marisol |
+| II | 31 | *El armario* | 38 | P17 | Kal |
+| III | 32 | *Vacío* | 39 | T1 | Kal |
+| III | 33 | *Escenarios* | 40 (+ la cama vacía del 41) | T2 | Chiara |
+| III | 34 | *El agua corriendo* | 41 | T3 | Kal |
+| III | 35 | *El bastón* | 42 | T4 + T5 | Chiara |
+| III | 36 | *Lo del hermano* | 43 | T6 + T7 | Kal |
+| III | 37 | *Perdóname, jefe* | 44 | T8 | Nadir |
+| III | 38 | *Lo que queda* | 46 | T9 | Chiara |
+| III | 39 | *Una sola frase* | 47 | T10 | Chiara |
+| IV | 40 | *Diez segundos* | 48 + 50 | U1 + U2 | Chiara |
+| IV | 41 | *No como tú* | 49 + 51 | U3 + U4 | Kal |
+| IV | 42 | *Mover la mirada* | 52 | U5 | Chiara |
+| IV | 43 | *Lo poco que llegué a saber* | 52b | U6 | Kal |
+| IV | 44 | *Stavanger* | 53a | U7 | BORRADOR |
+| IV | 45 | *Henrik* | 53b | U8 | BORRADOR |
+| IV | 46 | *Ya llegó* | 53c | U9 | BORRADOR |
+| IV | 47 | *Llegar tarde* | 54 | U10 | externo |
+| IV | 48 | *Veintitrés de noviembre* | 55 | U11 | Kal |
+| IV | 49 | *La fecha* | — | U12 | Kal |
+| IV | 50 | *Santa Lucía* | 56 | U13 | Kal |
+| IV | 51 | *Torna a casa* | 57 | U14 | externo |
+| IV | 52 | *Dime, Amore* | 58 | U15 | Kal; Chiara en el triaje |
+| IV | 53 | *De rodillas* | 59 | U16 | Kal |
+| IV | 54 | *No otra vez* | 60 | U17 | Chiara |
+| IV | 55 | *La chimenea* | 61 | U18 | DISEÑO |
+
+**Del boceto al nuevo:** 1→1 · 2→2 · 3→3 · 4–5→4 · 6–7→5 · 8–9→6 · 10→9 · 11→10 · 12–14→11 · 15→12 · 16–17→13 · 18→14 · 19→15 · 20→16 · 21→17 · 22–23→18 · 24–25→19 · 26→20 · 27→21 · 28→22 · 29–30→23 · 31→24 · 32→25 · 33→26 · 34→27 · 35–36→28 · 37→30 · 38→31 · 39→32 · 40→33 · 41→34 · 42→35 · 43→36 · 44→37 · 45→retirado · 46→38 · 47→39 · 48→40 · 49→41 · 50→40 · 51→41 · 52→42 · 52b→43 · 53a–c→44–46 · 54→47 · 55→48 · 56–61→50–55. Sin equivalente en el boceto: 7, 8, 29 y 49.
+
 
 ## Escenas en reserva
 

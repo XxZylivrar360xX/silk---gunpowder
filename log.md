@@ -4,6 +4,7 @@ El detalle se guarda una sola vez en notas de sesión. Este archivo es navegaci�
 
 ## Sesiones recientes
 
+- 2026-11-12: numeración de 55 del Libro II propagada (tabla y equivalencias en el Book_Map, columna en la matriz temporal, diseños de Stavanger, Navidad y las cartas; Mei-Lin, la graduación y F3): [[11_Books/Book_02_Sombras_De_Poder/00_Book_Map]] · [[98_Agent_Handoff/sessions/2026-11-12_claude_carretera_libro_ii]]
 - 2026-11-12: exploración de la verdad del corral (B5 del libro mayor): quién cree qué, tres lecturas encimadas (La Mesa, Varek, Crowe/Halbrook), piezas que ya existen (Rudy de Kingsley, la terraza) y cuatro opciones para el IV; DISEÑO, sin canon: [[11_Books/Book_04_Cuentas_De_Sangre/00_Exploracion_Verdad_Del_Corral]]
 - 2026-11-12: contradicciones entre fichas corregidas por orden del autor (Boston en vez de Italia, Mei-Lin, Trix, numeración de libros, README; sin canon nuevo): [[02_Characters/Mapa_Evolucion_Reparto]]
 - 2026-11-12: DECISIÓN DEL AUTOR sobre el libro mayor de deudas: terraza de Halbrook (III) y Danny (IV), tesis de Héctor en el II, fuga de gas en el voto, cocina en el II, el anzuelo por Matteo, El Patio se disuelve y herederos; propagado a los mapas III y IV y a siete fichas: [[11_Books/00_Libro_Mayor_Deudas_Saga]]
@@ -33,10 +34,6 @@ El detalle se guarda una sola vez en notas de sesión. Este archivo es navegaci�
 - 2026-11-08: Parte III del nuevo cauce (nuevos 33–39) propagada a Hitos, revelaciones, milestones, fichas, voz, timeline y plan de cierre; DECISIÓN DEL AUTOR: bala del corral, avión a la una, calendario A, Mabel en el 35, 1A Crowe–Halbrook; PENDIENTE: por qué se fue Matteo: [[98_Agent_Handoff/sessions/2026-11-08_claude_propagacion_parte_III]]
 - 2026-11-08: Parte II del nuevo cauce (nuevos 20–32) revisada tras la renumeración de Codex y propagada a Hitos, revelaciones, milestones, fichas y voz; DECISIÓN DEL AUTOR: la multa se cuenta en el loft (manda el 27; el 28 se ajusta): [[98_Agent_Handoff/sessions/2026-11-08_claude_propagacion_parte_II]]
 - 2026-11-08: embarazo de Chiara y falsa muerte de Elenna (decisiones del autor: riesgo por edad, detonante Trix e Iris, reposo a los seis meses, parto en hospital con Camila y Lucía, Héctor lo sabe antes de la montaña): [[98_Agent_Handoff/sessions/2026-11-08_claude_embarazo_y_falsa_muerte_elenna]]
-- 2026-11-08: Guerra de los Tres en tres tiempos (clímax en un día: arresto de Dario, montaña y Santa Lucía); Harper y Mei-Lin separadas; Tyler absorbe la muerte de Halbrook y va a prisión, Harper sale del país (CANON DEL AUTOR): [[98_Agent_Handoff/sessions/2026-11-08_claude_guerra_tres_tiempos_harper_tyler]]
-- 2026-11-08: Parte I del nuevo cauce cerrada (nuevos 11–19) y renumerada en encabezados, Book_Map y CHAPTER_STATUS; copia de Drive de *Roma Atrii* a Escenas_Eliminadas: [[98_Agent_Handoff/sessions/2026-11-08_claude_renumeracion_parte_I]]
-- 2026-11-08: el autor suscribe la revisión de ChatGPT; guardas de vigilancia (CANON DEL AUTOR) en el plan del nuevo cauce y en el de *Sombras de Poder*: [[98_Agent_Handoff/sessions/2026-11-08_claude_guardas_chatgpt_cauce_y_sombras]]
-- 2026-11-08: Fase 4: nuevo Cap. 18 *Lo pequeño* = *Lo pequeño* + *El primer huésped* en POV Kal (BORRADOR, DISEÑO; el archivo 21 queda como marcador); H11 desde Kal, el imán al refrigerador del loft, Marisol se abre con Chiara (CANON en la función): [[98_Agent_Handoff/sessions/2026-11-08_claude_fase4_cap18_lo_pequeno]]
 
 ## Historial
 

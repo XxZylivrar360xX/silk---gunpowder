@@ -4,19 +4,19 @@
 
 ## Directiva de escritura (DECISIÓN DEL AUTOR, 2026-11-07)
 
-***Sombras de Poder* se construye para cobrar esta escena**, y H1 cobra después lo que esta noche promete. Vale para todo capítulo que se redacte o se reescriba. La colocación de abajo es DISEÑO; los capítulos son los del boceto.
+***Sombras de Poder* se construye para cobrar esta escena**, y H1 cobra después lo que esta noche promete. Vale para todo capítulo que se redacte o se reescriba. La colocación de abajo es DISEÑO. Los números son los de la numeración de 55 (Fase 3, 2026-11-12; tabla en [[11_Books/Book_02_Sombras_De_Poder/00_Book_Map]]). Entre paréntesis, los del boceto.
 
 | Lo que cobra la noche | Dónde se siembra | Regla |
 |---|---|---|
-| Lo que se pierde con la sequía | 15, 20, 22: la intimidad más vivida, con puerta entreabierta | Se ve el antes, el después y la risa; se corta |
-| Los lunares contados | 20 o 22: Kal los cuenta y ella parece dormida | Nadie lo comenta |
-| Revisa como un contrato | 3 o 9, y una vez visto por Kal en el 20 | Sin ligarlo al cuerpo |
+| Lo que se pierde con la sequía | 12, 16, 18 (boceto 15, 20, 22): la intimidad más vivida, con puerta entreabierta | Se ve el antes, el después y la risa; se corta |
+| Los lunares contados | 16 o 18 (boceto 20 o 22): Kal los cuenta y ella parece dormida | Nadie lo comenta |
+| Revisa como un contrato | 3 o 6, y una vez visto por Kal en el 16 (boceto 3 o 9; 20) | Sin ligarlo al cuerpo |
 | El «Bellandi» entre ellos | Partes I y II | Trato privado, con broma |
-| Kal no sabe pedir | 27–28 (F4); 30 | Nunca le dice «quédate» antes de Stavanger |
-| La marca de marzo | 41 | Ella la limpia con el agua corriendo |
-| El beso «de salir de casa» | 49, 51 | Rutina; nadie la señala |
-| La sequía | 46–52: dos o tres toques mínimos | Él llega y ella duerme; nunca «hace cuánto que no» |
-| Menos de ella en las costillas | 46–47 | Se ve en lo que no come, sin diagnóstico |
+| Kal no sabe pedir | 21–22 (F4); 23 (boceto 27–28; 30) | Nunca le dice «quédate» antes de Stavanger |
+| La marca de marzo | 34 (boceto 41) | Ella la limpia con el agua corriendo |
+| El beso «de salir de casa» | 41, en sus dos tramos (boceto 49 y 51) | Rutina; nadie la señala |
+| La sequía | 38–42 (boceto 46–52): dos o tres toques mínimos | Él llega y ella duerme; nunca «hace cuánto que no» |
+| Menos de ella en las costillas | 38–39 (boceto 46–47) | Se ve en lo que no come, sin diagnóstico |
 | La risa entre ellos | Se va apagando en las Partes III y IV | Stavanger es donde vuelve; nadie dice que faltaba |
 
 **Reservado para esta noche:** ninguna otra escena se abre; nadie dice «te extrañé» ni le promete tiempo al otro antes; ninguna broma le gana a estas.
@@ -25,11 +25,11 @@
 
 | Stavanger | H1 |
 |---|---|
-| «Se nos va a apagar.» / «Nadie fue por leña.» | 60: las velas apagadas por la ventana abierta |
-| «Voy a estar. Mientras el tiempo siga pasando.» | 58–60: «Solo quiero llegar a casa, porque me esperan.»; él casi se muere |
-| «Estoy aquí.» | 60: ella lo mantiene hablando |
-| Nadie dice «te amo» | 60: «Perché ti amo con tutto il mio cuore» |
-| El fuego, la alfombra | 61: otra chimenea, el papel, «Sono incinta.»; Kal sabe de qué noche viene |
+| «Se nos va a apagar.» / «Nadie fue por leña.» | 54: las velas apagadas por la ventana abierta |
+| «Voy a estar. Mientras el tiempo siga pasando.» | 52–54: «Solo quiero llegar a casa, porque me esperan.»; él casi se muere |
+| «Estoy aquí.» | 54: ella lo mantiene hablando |
+| Nadie dice «te amo» | 54: «Perché ti amo con tutto il mio cuore» |
+| El fuego, la alfombra | 55: otra chimenea, el papel, «Sono incinta.»; Kal sabe de qué noche viene |
 
 Nada de esto se señala en prosa: ningún narrador ni personaje recuerda Stavanger en H1 para explicarlo.
 

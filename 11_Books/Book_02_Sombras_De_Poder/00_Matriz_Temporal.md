@@ -34,34 +34,36 @@ El libro dura **unos dos años: del 5 de enero del año 3 al invierno del año 4
 
 ## Matriz
 
-| Parte | Bloque | Fecha aprox. | Estación | Contenido (plan) |
-|---|---|---|---|---|
-| **I — Territorio ajeno** | Hogar | **5–6 ene A3** | invierno | Reconciliación; «Fabrizio está muerto» (§1) |
-| | Reordenamiento | ene–feb A3 | invierno, lluvia y heladas | Comisaría; funciones de Fabrizio y Matteo a Chiara; frente Tommaso–Chiara (§2–3) |
-| | Abajo | feb–mar A3 | fin de invierno | Ren, valet; Marisol; Chiara le enseña a Bonnie; las roomies (§4–7) |
-| | **La mesa se vacía** | abr–jun A3 | primavera | **Sin golpe grande (CANON DEL AUTOR, 2026-10-14):** arco de Chiara absorbiendo las consecuencias de la mesa del casino que se vacía. Dario en dos versiones y *El Faro* empiezan de fondo (§19–20) |
-| | El cargamento | **jul A3** | verano, calor extremo | Tyler pierde el cargamento de Crowe; Kal responde (§10) |
-| | El incendio | **ago A3** | verano, ola de calor | Crowe incendia el loft; la mentira de H8 (§11) |
-| | Reconstrucción | fin ago – sep A3 | fin de verano | Ren revela su capacidad; «Quiero levantarlo»; noches de calor en la azotea; búsqueda de casa y «—Queremos esta.» (§12–15) |
-| | La Villa y la ciudad | sep–oct A3 | otoño | Mudanza a Villa Candelaria; rodada de montaña con hojas; encubierto del FBI; «Señor Militar»; *El Faro*; Tommaso cede (§16–22) |
-| | **Cierre: gala** | **fin oct – principios nov A3** | otoño | «—Conocí a Warren Halbrook.» |
-| **II — Nieve y ceniza** | Fiestas | 23 nov – dic A3 | otoño → invierno | Cumpleaños de Chiara, Thanksgiving, el Patio como familia, Kal en piloto automático, Harper como pupila |
-| | Pánico | fin dic A3 | invierno | Ataque de pánico solo en el garaje |
-| | Navidad | **25 dic A3** | invierno | El collar |
-| | F4 | **31 dic A3 – 2 ene A4** | invierno | Washington; el piano espera |
-| | Incursión | **principios ene A4** | invierno | Coche a la bahía; nace la vela tardía («Dio, grazie per averlo riportato a casa.») ([[04_Concepts/Fe_y_Velas]]) |
-| | **Robo de Lunar Pearl** | **fin ene A4** | invierno, heladas | El Lussia; la vela a tiempo; señuelos de los Saints; el anillo y el millón ([[11_Books/Book_02_Sombras_De_Poder/Part_02_Nieve_Y_Ceniza/00_Diseno_Robo_Joyeria]]) |
-| | **Cierre: el choque** | **feb A4** | invierno | Lancia, Tommaso y el Audi con Marisol; el armario del hospital |
-| **III — Exilio** | Después del choque | feb–mar A4 | fin de invierno | Kal investiga de noche; vuelve golpeado y dice «Te amo» sin que Chiara lo oiga (F3, reescrita 2026-10-14); Tommaso se retira |
-| | F2 | mar–may A4 | primavera | Mei-Lin y Bonnie el mismo día. La primavera en plena flor contra la pérdida |
-| | **Cierre: la boda se planea** | may–jun A4 | primavera | Depresión de Chiara; la frase de Mabel; Chiara organiza la boda |
-| **IV — Torna a casa** | Boda de Mabel y Walt | **jul A4** | verano | Terraza del Monarch; «Te amo.»; el anillo ya en la billetera |
-| | Doctrina | jul–ago A4 | verano | Independencia ideológica de Dario; el golpe fallido con muertos |
-| | Las bandas al límite | sep A4 | principios de otoño | Las bandas, hartas de los cobros del Tasador, van con Kal; él acepta sin pedirle permiso a Dario (DISEÑO, columna de Crowe por confirmar). La operación se prepara, no estalla |
-| | Las cartas de Dale | ago–oct A4 | fin del verano, otoño | Manfred Gabe las entrega tras la boda; Kal las lee solo, habla con Chiara y las devuelve a la tumba antes del viaje (CANON DEL AUTOR, 2026-10-14) |
-| | **Stavanger** | **fin de oct A4 (~25; CANON 2026-10-14)** | otoño (en Noruega, frío y luz gris) | «Ya llegó.»; propuesta; concepción de Elenna |
-| | Embarazo | nov A4 | otoño | Síntomas a las ~4 semanas de la concepción (~18–20 nov); tres pruebas y examen médico fuera de página (~22 nov; médico de fuera del círculo); en página, el documento destruido y el tic (8-b). Su cumpleaños (23 nov) es la primera noche que lo sabe. Lo oculta unas dos semanas (CANON DEL AUTOR, 2026-10-14) |
-| | **Cierre: la tormenta = caída de Crowe = H1** | **dic A4, antes de Navidad; una sola noche** | invierno, tormenta de lluvia y helada | Kal solo en la iglesia, su vela; «Torna a casa» y la vela de Chiara; «Dime, Amore» (acorralado); triaje en el almacén del sur; extracciones; Crowe de rodillas, Walt dispara; tiro de Volpi; Kal llega caminando a la Villa; piscina helada; tras dormir, hamburguesa y chimenea; «Sono incinta.» FIN |
+> **Numeración (2026-11-12):** la columna «Caps.» usa la numeración de 55 aprobada en la Fase 3 ([[11_Books/Book_02_Sombras_De_Poder/00_Book_Map#Numeración vigente: 55 capítulos (DECISIÓN DEL AUTOR, 2026-11-12)|tabla]]). El reloj fino (bloques, elipsis A–F y relojes de deuda) está en [[11_Books/Book_02_Sombras_De_Poder/00_Carretera_Libro_II#3b. El reloj: dos años que no se sientan como años|la carretera §3b]] y en las tarjetas; en lo que choque, mandan ellas. Ajustes conocidos: el levantón cae a principios de feb A4 (29); F2 es fin de abr – principios de may A4 y ya no es «Mei-Lin y Bonnie el mismo día» (F2 nuevo, CANON 2026-11-07); el golpe fallido va antes de «no como tú» y las bandas llegan a mediados de sep (41).
+
+| Parte | Bloque | Fecha aprox. | Estación | Contenido (plan) | Caps. (55) |
+|---|---|---|---|---|---|
+| **I — Territorio ajeno** | Hogar | **5–6 ene A3** | invierno | Reconciliación; «Fabrizio está muerto» (§1) | 1 |
+| | Reordenamiento | ene–feb A3 | invierno, lluvia y heladas | Comisaría; funciones de Fabrizio y Matteo a Chiara; frente Tommaso–Chiara (§2–3) | 2–3 |
+| | Abajo | feb–mar A3 | fin de invierno | Ren, valet; Marisol; Chiara le enseña a Bonnie; las roomies (§4–7) | 4–5 |
+| | **La mesa se vacía** | abr–jun A3 | primavera | **Sin golpe grande (CANON DEL AUTOR, 2026-10-14):** arco de Chiara absorbiendo las consecuencias de la mesa del casino que se vacía. Dario en dos versiones y *El Faro* empiezan de fondo (§19–20) | elipsis A; 6–8 |
+| | El cargamento | **jul A3** | verano, calor extremo | Tyler pierde el cargamento de Crowe; Kal responde (§10) | 9 |
+| | El incendio | **ago A3** | verano, ola de calor | Crowe incendia el loft; la mentira de H8 (§11) | 10 |
+| | Reconstrucción | fin ago – sep A3 | fin de verano | Ren revela su capacidad; «Quiero levantarlo»; noches de calor en la azotea; búsqueda de casa y «—Queremos esta.» (§12–15) | 11–12 |
+| | La Villa y la ciudad | sep–oct A3 | otoño | Mudanza a Villa Candelaria; rodada de montaña con hojas; encubierto del FBI; «Señor Militar»; *El Faro*; Tommaso cede (§16–22) | elipsis B; 13–16 |
+| | **Cierre: gala** | **fin oct – principios nov A3** | otoño | «—Conocí a Warren Halbrook.» | 17 |
+| **II — Nieve y ceniza** | Fiestas | 23 nov – dic A3 | otoño → invierno | Cumpleaños de Chiara, Thanksgiving, el Patio como familia, Kal en piloto automático, Harper como pupila | 18–19 |
+| | Pánico | fin dic A3 | invierno | Ataque de pánico solo en el garaje | 19 |
+| | Navidad | **25 dic A3** | invierno | El collar | 20 |
+| | F4 | **31 dic A3 – 2 ene A4** | invierno | Washington; el piano espera | 21–22 |
+| | Incursión | **principios ene A4** | invierno | Coche a la bahía; nace la vela tardía («Dio, grazie per averlo riportato a casa.») ([[04_Concepts/Fe_y_Velas]]) | 23 |
+| | **Robo de Lunar Pearl** | **fin ene A4** | invierno, heladas | El Lussia; la vela a tiempo; señuelos de los Saints; el anillo y el millón ([[11_Books/Book_02_Sombras_De_Poder/Part_02_Nieve_Y_Ceniza/00_Diseno_Robo_Joyeria]]) | 24–28 |
+| | **Cierre: el choque** | **feb A4** | invierno | Lancia, Tommaso y el Audi con Marisol; el armario del hospital | 29–31 |
+| **III — Exilio** | Después del choque | feb–mar A4 | fin de invierno | Kal investiga de noche; vuelve golpeado y dice «Te amo» sin que Chiara lo oiga (F3, reescrita 2026-10-14); Tommaso se retira | 32–35 |
+| | F2 | mar–may A4 | primavera | Mei-Lin y Bonnie el mismo día. La primavera en plena flor contra la pérdida | elipsis C; 36–38 |
+| | **Cierre: la boda se planea** | may–jun A4 | primavera | Depresión de Chiara; la frase de Mabel; Chiara organiza la boda | elipsis D; 39 |
+| **IV — Torna a casa** | Boda de Mabel y Walt | **jul A4** | verano | Terraza del Monarch; «Te amo.»; el anillo ya en la billetera | 40 |
+| | Doctrina | jul–ago A4 | verano | Independencia ideológica de Dario; el golpe fallido con muertos | 40–41 |
+| | Las bandas al límite | sep A4 | principios de otoño | Las bandas, hartas de los cobros del Tasador, van con Kal; él acepta sin pedirle permiso a Dario (DISEÑO, columna de Crowe por confirmar). La operación se prepara, no estalla | 41 |
+| | Las cartas de Dale | ago–oct A4 | fin del verano, otoño | Manfred Gabe las entrega tras la boda; Kal las lee solo, habla con Chiara y las devuelve a la tumba antes del viaje (CANON DEL AUTOR, 2026-10-14) | 42–43 |
+| | **Stavanger** | **fin de oct A4 (~25; CANON 2026-10-14)** | otoño (en Noruega, frío y luz gris) | «Ya llegó.»; propuesta; concepción de Elenna | 44–46 |
+| | Embarazo | nov A4 | otoño | Síntomas a las ~4 semanas de la concepción (~18–20 nov); tres pruebas y examen médico fuera de página (~22 nov; médico de fuera del círculo); en página, el documento destruido y el tic (8-b). Su cumpleaños (23 nov) es la primera noche que lo sabe. Lo oculta unas dos semanas (CANON DEL AUTOR, 2026-10-14) | 47–49 |
+| | **Cierre: la tormenta = caída de Crowe = H1** | **dic A4, antes de Navidad; una sola noche** | invierno, tormenta de lluvia y helada | Kal solo en la iglesia, su vela; «Torna a casa» y la vela de Chiara; «Dime, Amore» (acorralado); triaje en el almacén del sur; extracciones; Crowe de rodillas, Walt dispara; tiro de Volpi; Kal llega caminando a la Villa; piscina helada; tras dormir, hamburguesa y chimenea; «Sono incinta.» FIN | 50–55 |
 
 ## Lo que la matriz fija
 

@@ -2,7 +2,7 @@
 
 *Hito sin número asignado todavía — ver "Hitos por recibir" en [[06_Relationships/Hitos]]. Los beats marcados CANON DEL AUTOR están fijados; la escena completa está en prosa (BORRADOR, 2026-10-13), pendiente de lectura del autor.*
 
-> **Ubicación temporal:** después de que Marisol complete sus estadías en derecho (ver [[02_Characters/Marisol_Grayson]], "Arco futuro"). Cae en *Sombras de Poder*; el tic del nombre la coloca en la Parte I ([[11_Books/Book_02_Sombras_De_Poder/00_Diseno_Nombre_Y_Embarazo]], aparición 7). Fecha: **otoño A3, antes de la gala (CANON DEL AUTOR, 2026-10-14)**; capítulo provisional 19 en [[11_Books/Book_02_Sombras_De_Poder/00_Boceto_Lista_Capitulos]].
+> **Ubicación temporal:** después de que Marisol complete sus estadías en derecho (ver [[02_Characters/Marisol_Grayson]], "Arco futuro"). Cae en *Sombras de Poder*; el tic del nombre la coloca en la Parte I ([[11_Books/Book_02_Sombras_De_Poder/00_Diseno_Nombre_Y_Embarazo]], aparición 7). Fecha: **otoño A3, antes de la gala (CANON DEL AUTOR, 2026-10-14)**; capítulo provisional 19 en [[11_Books/Book_02_Sombras_De_Poder/00_Boceto_Lista_Capitulos]]; en la numeración de 55 (2026-11-12) es el cap. 15.
 
 > **Función:** uno de los momentos de mayor orgullo en la vida de Kal. *(Corrección 2026-10-13: ya no es el primer encuentro de Marisol y Chiara en persona; ese ocurre en [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/21_El_Primer_Huesped|Cap. 18 (archivo 20; antes archivo 21), «La promesa»]], según [[02_Characters/Marisol_Grayson]].)*
 

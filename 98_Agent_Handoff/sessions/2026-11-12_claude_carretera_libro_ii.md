@@ -83,6 +83,13 @@ Encargo del autor: avanzar con la reconciliación del Libro II, trabajando «jus
 
 **DECISIÓN DEL AUTOR (misma fecha):** se aprueban las listas A y B: **55 capítulos**. R0 entra, porque la numeración lo supone. R10 contesta la pregunta 1 de la Parte II. El mapa, la carretera (decisión 14) y DECISIONS quedan marcados; las cuatro tarjetas llevan un aviso que remite al mapa, y el diseño de Navidad, una nota de superado. Para respetar el tope, «Parte III del nuevo cauce» (2026-11-08) pasó íntegra de DECISIONS a [[98_Agent_Handoff/archive/2026-11-12_DECISIONS]], ahora enlazado desde el README del archivo.
 
+## Octava vuelta: numeración propagada
+
+- [[11_Books/Book_02_Sombras_De_Poder/00_Book_Map]]: nueva sección «Numeración vigente», con los 55 caps. (Parte, título de trabajo, boceto, tarjeta y POV) y la equivalencia boceto → nuevo. Lleva además una nota de que la fila de la Parte III de «Estructura por Partes» describe el F2 viejo.
+- [[11_Books/Book_02_Sombras_De_Poder/00_Matriz_Temporal]]: columna «Caps. (55)» y una nota con los ajustes conocidos (levantón, F2 nuevo, golpe antes de «no como tú»). Los «§» de la matriz citan secciones del documento de ChatGPT de la Parte I, no capítulos, y no se tocaron.
+- Referencias convertidas, con el número del boceto entre paréntesis: el diseño de Stavanger (siembras por capítulo y la tabla de H1), el de Navidad, el de las cartas (43), la ficha de Mei-Lin (36), la graduación (15), F3 en Momentos de Fractura (30–34) y la rima del 48 en las tarjetas de la Parte II. El plan de cuatro Partes y el boceto remiten a la tabla.
+- **No se tocó:** el boceto sigue entero, porque guarda los beats y las líneas canon de cada ficha; pasa a supersedido cuando se rehaga la guía. Tampoco las tarjetas ni la carretera, que citan el boceto con su nombre, ni los buzones de ChatGPT ni las notas históricas. Fuera de `Book_02` no había más referencias a la numeración del boceto (búsqueda en fichas, hitos, línea temporal, conceptos y políticas).
+
 ## Pendiente
 
-Lectura del autor de las tarjetas; la elipsis de R9 y «Mac a Almendra»; decisiones 2–13 de la carretera. Siguiente: propagar la numeración (Book_Map, matriz, fichas), mandar el boceto a supersedido y rehacer la guía de redacción desde las tarjetas.
+Lectura del autor de las tarjetas; rehacer la guía de redacción desde las tarjetas; la elipsis de R9 y «Mac a Almendra»; decisiones 2–13 de la carretera. Siguiente: propagar la numeración (Book_Map, matriz, fichas), mandar el boceto a supersedido y rehacer la guía de redacción desde las tarjetas.

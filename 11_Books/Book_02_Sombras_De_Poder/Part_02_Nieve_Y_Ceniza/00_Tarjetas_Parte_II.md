@@ -19,7 +19,7 @@
 ## Bloque 1 · Las fiestas (23 nov – 25 dic A3) · 6 tarjetas
 
 ### P1 · Veintitrés de noviembre — 23 nov y Thanksgiving · Chiara · la Villa; la azotea
-- **Trama:** su primer cumpleaños en la Villa; el Patio la acepta como de la casa (C). Es la rima del cap. 55 (C). **P:** esa misma semana, Kal hace la cuarta entrega a Crowe y llega tarde a la azotea.
+- **Trama:** su primer cumpleaños en la Villa; el Patio la acepta como de la casa (C). Es la rima del cap. 48 (boceto 55) (C). **P:** esa misma semana, Kal hace la cuarta entrega a Crowe y llega tarde a la azotea.
 - **Relación:** ella lo ve llegar y no pregunta dónde estaba. Él dice «estoy bien» sin que nadie le haya preguntado.
 - **Por eso:** Chiara empieza a notar que se guarda cosas (C, Parte II).
 - **Saldo:** la primera vez que suena «estoy bien» en el libro.

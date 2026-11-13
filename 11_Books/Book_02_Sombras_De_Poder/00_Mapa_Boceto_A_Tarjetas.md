@@ -170,4 +170,6 @@ Con los recortes de la **lista A** (mismo POV, capítulos contiguos) el libro qu
 
 ## Siguiente
 
-El mapa ya está aprobado. Falta: se propaga la numeración (Book_Map, matriz temporal, fichas que citan capítulos del boceto), el boceto pasa a supersedido y la guía de redacción se rehace desde las tarjetas. **La prosa del Libro II sigue bloqueada** hasta cerrar el Libro I.
+**Numeración propagada (2026-11-12):** tabla y equivalencias en [[11_Books/Book_02_Sombras_De_Poder/00_Book_Map]]; columna nueva en la matriz temporal; referencias convertidas en los diseños de Stavanger, Navidad y las cartas, y en Mei-Lin, la graduación y F3. El aviso del boceto también quedó al día.
+
+Texto anterior. El mapa ya está aprobado. Falta: se propaga la numeración (Book_Map, matriz temporal, fichas que citan capítulos del boceto), el boceto pasa a supersedido y la guía de redacción se rehace desde las tarjetas. **La prosa del Libro II sigue bloqueada** hasta cerrar el Libro I.
