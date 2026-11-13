@@ -586,6 +586,7 @@ F2 se queda en la Parte III, y el final la cobra **con ecos, no de forma textual
 
 **53. Dime, Amore** — la tormenta · **Chiara** · el almacén del sur (triaje) · *(58; IV-U15)*
 
+- **Redactado (BORRADOR, 2026-11-13):** [[11_Books/Book_02_Sombras_De_Poder/Part_04_Torna_A_Casa/53_Dime_Amore]]. **Ajustes del autor (CANON, 2026-11-12/13):** la primera llamada ocurre en la Villa (Chiara sola, siesta, transmisiones virales, la máscara de malvavisco); líneas de velas, «¿O no, bella?», el «regresa», la cena y el radio del canal tres; después ella arma el triaje. Detalle en [[98_Agent_Handoff/sessions/2026-11-13_claude_cap53_dime_amore]].
 - **Entrada (CANON DEL AUTOR, 2026-11-12):** *in medias res*. Crowe ya está muerto (el lector no lo sabe; a lo sumo, un «reportan un muerto» en la transmisión, sin nombre). Todo es organizar: extracciones, triaje, el caos con la policía.
 - **Canon:** Chiara ve la tormenta por *El Faro*: reporteros, redes sociales, transmisiones en vivo; la movilización policial trae demasiada atención (alerta, SWAT, presencia sostenida: el mandato de Halbrook). El relato que construyó durante el libro es cómo ve la tormenta. Está embarazada y nadie lo sabe: cada imagen pesa doble, sin nombrarlo. Arma el triaje con Camila en el almacén del sur; **Nat ayuda como paramédica** (CANON DEL AUTOR, 2026-11-12). La radio es la prueba de vida. Hay muertos reales.
 - **«Dime, Amore» (CANON; sentido afinado 2026-11-12):** Chiara llama en medio del movimiento, con Kal acorralado; él contesta «Dime, Amore» (la única vez en la saga; no se explica después). Le habla tranquilo: que todo va a estar bien, que van a cenar. Es Kal aferrándose a ella, su punto seguro en la tormenta: su *torna a casa* antes de la palabra. Acaba de ver a Walt matar a Crowe; el lector no lo sabe hasta el 54, y entonces la llamada se relee. **PENDIENTE:** las líneas exactas más allá de «Dime, Amore».
@@ -611,7 +612,8 @@ F2 se queda en la Parte III, y el final la cobra **con ecos, no de forma textual
   - **(P):** Kal se cambia en la Almendra para que Chiara no vea la sangre (administra la habitación); se cambia lejos de Héctor, que ve el chaleco pero no la herida y puede creerse a medias lo del rozón.
   - **(P):** Héctor sabía y no se lo dijo a Chiara: deuda posible para *Voto de Ceniza*.
 - **Las cartas ya se leyeron (44):** dicen dónde; Crowe dice cómo.
-- **PENDIENTE:** motivo y mecanismo del asesinato de Amanda; si Walt está en la Almendra (y si se ve ahí la fricción) o no.
+- **Walt (CANON DEL AUTOR, 2026-11-13):** está en la Almendra; es quien conduce los autos que sacan a los heridos y por eso se cruza en el triaje del 53 con Chiara, Camila y Nat.
+- **PENDIENTE:** motivo y mecanismo del asesinato de Amanda; si en la Almendra se ve la fricción entre Kal y Walt.
 
 **55. No otra vez** — esa madrugada · Chiara · la Villa · *(60; IV-U17)*
 

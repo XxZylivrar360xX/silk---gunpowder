@@ -4,6 +4,7 @@ El detalle se guarda una sola vez en notas de sesión. Este archivo es navegaci�
 
 ## Sesiones recientes
 
+- 2026-11-13: Libro II, cap. 53 «Dime, Amore» redactado (BORRADOR); CANON DEL AUTOR: primera llamada en la Villa con la máscara de malvavisco, líneas de velas, «regresa» y radio del canal tres; Walt en la Almendra conduce los autos de los heridos: [[98_Agent_Handoff/sessions/2026-11-13_claude_cap53_dime_amore]]
 - 2026-11-12: CANON DEL AUTOR (Libro II, final): orden de la noche: Crowe muere antes de «Dime, Amore» (entrada in medias res); 53 desde Chiara con la segunda llamada sin la mano ensangrentada; 54 desde Kal, recuerdo de Crowe camino a la Almendra y Héctor ante el chaleco; 55 desde Chiara; listos para redactar: [[11_Books/Book_02_Sombras_De_Poder/00_Guia_Redaccion_Capitulos]]
 - 2026-11-12: CANON DEL AUTOR (Libro II, final): la llamada de Kal a Chiara de regreso de la tormenta («Estoy bien», con la mano ensangrentada; cierra el 54) y Chiara al cielo con Nat, paramédica en el triaje, a quien deja en su apartamento: por eso llega a la Villa después que Kal (abre el 55): [[11_Books/Book_02_Sombras_De_Poder/00_Guia_Redaccion_Capitulos]]
 - 2026-11-12: DECISIÓN DEL AUTOR: el golpe fallido del Libro II lo hacen Nadir y los chicos sin Kal; «Yo no voy a arriesgar a nadie para fundamentar una guerra»; el Caldero sobrevive; las bandas fijan la fecha; 56 caps.: [[11_Books/Book_02_Sombras_De_Poder/00_Guia_Redaccion_Capitulos]] · [[98_Agent_Handoff/sessions/2026-11-12_claude_carretera_libro_ii]]
@@ -33,7 +34,6 @@ El detalle se guarda una sola vez en notas de sesión. Este archivo es navegaci�
 - 2026-11-08: lectura del autor de la Parte III atendida (Camp Alder concretado, Kal y la foto de Alessio, llamada a Marisol en escena, glosas; prosa DISEÑO): [[98_Agent_Handoff/sessions/2026-11-08_claude_lectura_parte_iii]]
 - 2026-11-08: **Fase 4 del nuevo cauce CERRADA** (los 47 capítulos reconstruidos y propagados, costuras 40–47 revisadas, exportación al día; nada se sella; sigue la lectura corrida por Parte): [[98_Agent_Handoff/sessions/2026-11-08_claude_cierre_fase4]].
 - 2026-11-08: Fase 4, terminal B: nuevo 44 *Su nombre* ajustado al cauce (sólo «había hecho sonar»; pasa las comprobaciones; sin poda) y propagado: [[98_Agent_Handoff/sessions/2026-11-08_claude_fase4_cap44_su_nombre]]
-- 2026-11-08: nuevos 45–47 ajustados al cauce (terminal C); DECISIÓN DEL AUTOR: D3 («General.»), D4, atadura de Il Consorzio, sin el sedán rojo de Crowe: [[98_Agent_Handoff/sessions/2026-11-08_claude_fase4_cap45_por_si_vuelve]], [[98_Agent_Handoff/sessions/2026-11-08_claude_fase4_cap46_a_oscuras]], [[98_Agent_Handoff/sessions/2026-11-08_claude_fase4_cap47_la_tierra_bajo_sus_botas]]
 
 ## Historial
 
