@@ -2,9 +2,13 @@
 
 Máximo 800 palabras; conservar sólo decisiones operativas recientes y enlaces a sus fuentes. El historial íntegro anterior al corte está en [[98_Agent_Handoff/archive/2026-09-21_DECISIONS]]; las del 2026-11-01, en [[98_Agent_Handoff/archive/2026-11-08_DECISIONS]]; las del 2026-11-04 al 2026-11-06, en [[98_Agent_Handoff/archive/2026-11-09_DECISIONS_retiradas]]. Archivar entradas antiguas antes de retirarlas.
 
+## 2026-11-12 — El golpe fallido lo hacen los chicos (Libro II, 56 caps.)
+
+**DECISIÓN DEL AUTOR:** el golpe fallido no es una venganza de Kal. Nadir organiza a los chicos sin decirle y los lleva contra los Calderos para cobrar a Mei-Lin. Mueren inocentes; ningún chico muere (hay heridos); el Caldero sobrevive. Kal se entera tarde, los saca y deja la línea «Yo no voy a arriesgar a nadie para fundamentar una guerra» (siembra *Voto de Ceniza*). Nadir empieza así su separación voluntaria de la banda, a lo largo de la saga. Las bandas fijan la fecha de la tormenta sin Kal. La Parte IV queda en 17 capítulos y el libro en 56. El autor quiere vivir la tormenta desde Chiara (por diseñar). Fuente: [[11_Books/Book_02_Sombras_De_Poder/00_Guia_Redaccion_Capitulos]].
+
 ## 2026-11-12 — «Lo siento, ¿vale?» y Mei-Lin en el final
 
-**DECISIÓN DEL AUTOR:** F2 se queda en la Parte III. El final del Libro II la cobra con ecos de Kal y Chiara (recuerdos de Mei-Lin o de aquel día), no con venganza ni de forma textual. «Lo siento, ¿vale?» va en el cap. 38: Kal vuelve del entierro y encuentra a Chiara rota en el suelo de la Villa, con la foto de la cena de Navidad (todos los chicos sonriendo). Kal se disculpa porque el código de su jerarquía costó una vida, y a Chiara le costó a Mei-Lin y a Bonnie. La foto se siembra en el cap. 20. Abierto: si la regla alcanza al golpe fallido (40). Fuente: [[11_Books/Book_02_Sombras_De_Poder/00_Guia_Redaccion_Capitulos]].
+**DECISIÓN DEL AUTOR:** F2 se queda en la Parte III. El final del Libro II la cobra con ecos de Kal y Chiara (recuerdos de Mei-Lin o de aquel día), no con venganza ni de forma textual. «Lo siento, ¿vale?» va en el cap. 38: Kal vuelve del entierro y encuentra a Chiara rota en el suelo de la Villa, con la foto de la cena de Navidad (todos los chicos sonriendo). Kal se disculpa porque el código de su jerarquía costó una vida, y a Chiara le costó a Mei-Lin y a Bonnie. La foto se siembra en el cap. 20. Resuelto el golpe fallido en la entrada de arriba. Fuente: [[11_Books/Book_02_Sombras_De_Poder/00_Guia_Redaccion_Capitulos]].
 
 ## 2026-11-12 — Fase 3 del Libro II
 
@@ -25,11 +29,3 @@ Máximo 800 palabras; conservar sólo decisiones operativas recientes y enlaces 
 ## 2026-11-09 — Observaciones del lector a la Parte II (27, 25, 32, pesca)
 
 **DECISIÓN DEL AUTOR:** **27:** Kal piensa el nombre de Halbrook una vez, sin decirlo, cuando Chiara le pide buscar al general; supersede en parte los fragmentos sin nombres del 2026-11-08 (siguen sin nombre en la apertura; a Chiara se lo cuenta en el 28). **25:** se queda como está (Marta, Ruth y el convoy). **32:** verificar los cortes de la recapitulación; se restauran las cuatro réplicas (entraron con el material del autor, `9d1e782`), las glosas del narrador siguen cortadas. **Pesca (29):** gana Chiara; el grupo no lo zanja y Kal se lo dice en la roca. Prosa DISEÑO, espera lectura. Fuente: [[98_Agent_Handoff/sessions/2026-11-09_claude_propagacion_parte_II_resto]].
-
-## 2026-11-08 — Nuevos 45–47 (D3, D4, la atadura, el sedán rojo)
-
-**DECISIÓN DEL AUTOR:** D4: en el 45 sale del pensamiento de Chiara la carpeta de Génova (atada a Elio); «¿Es de Matteo?» se queda. Atadura de Il Consorzio en el 45: «Y confía en que la casa Ardizzone tampoco las haga por su cuenta.» En el 46 sale el sedán rojo de Crowe que escoltaba la grúa. Poda ligera en el 45; ninguna en el 46 (las cifras del encargo contaban la metadata). Vento no entra en el 45 ni en el 46. D3: en el 47, Halbrook se reconoce por «General.» (sembrado en el 28) y el expediente; prosa sin cambios ([[98_Agent_Handoff/sessions/2026-11-08_claude_fase4_cap47_la_tierra_bajo_sus_botas]]). Fuentes: [[98_Agent_Handoff/sessions/2026-11-08_claude_fase4_cap45_por_si_vuelve]], [[98_Agent_Handoff/sessions/2026-11-08_claude_fase4_cap46_a_oscuras]].
-
-## 2026-11-08 — Las armas y la deuda del arco sin Kal (D1, D2)
-
-**DECISIÓN DEL AUTOR (CANON):** **D1:** tras el 39 las armas quedaron **sin entregar**: en la playa esperaba gente de Varek, la entrega dependía de Kal y Héctor no se las dio; siguen completas en el Patio hasta la bodega nueve (nuevo 43), doce días tarde. **D2:** Chiara tiene **una sola** deuda con Varek: en el 43 pone los intereses en el favor del 26 y ese favor se vuelve «una cuenta abierta»; Kal sabe del favor (28), no que creció. **Vento:** una línea de pésame de Varek en el 43. Fuentes: [[98_Agent_Handoff/sessions/2026-11-08_claude_fase4_cap42_llaves]], [[98_Agent_Handoff/sessions/2026-11-08_claude_fase4_cap43_intereses]].

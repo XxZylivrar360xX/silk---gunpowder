@@ -4,6 +4,7 @@ El detalle se guarda una sola vez en notas de sesión. Este archivo es navegaci�
 
 ## Sesiones recientes
 
+- 2026-11-12: DECISIÓN DEL AUTOR: el golpe fallido del Libro II lo hacen Nadir y los chicos sin Kal; «Yo no voy a arriesgar a nadie para fundamentar una guerra»; el Caldero sobrevive; las bandas fijan la fecha; 56 caps.: [[11_Books/Book_02_Sombras_De_Poder/00_Guia_Redaccion_Capitulos]] · [[98_Agent_Handoff/sessions/2026-11-12_claude_carretera_libro_ii]]
 - 2026-11-12: DECISIÓN DEL AUTOR: «Lo siento, ¿vale?» en el cap. 38 del Libro II (Chiara rota en el suelo con la foto de la cena de Navidad; el código costó una vida); F2 se queda en la III y el final la cobra con ecos, sin venganza: [[11_Books/Book_02_Sombras_De_Poder/00_Guia_Redaccion_Capitulos]] · [[98_Agent_Handoff/sessions/2026-11-12_claude_carretera_libro_ii]]
 - 2026-11-12: DECISIÓN DEL AUTOR: el corral lo ordena Il Consorzio para sacar a Corrado y lo ejecuta Volpi («un ojo de vidrio negro»); Crowe lo niega en el II; Volpi siempre de La Mesa (Varek, «vacaciones»); frenos de Varek y Corrado en el hospital de Marisol; Corrado no vuelve para no encadenar a Chiara. Se retira la bandera falsa de Crowe (97_Supersedido). Diseño del complot: [[11_Books/Book_04_Cuentas_De_Sangre/00_Diseno_Complot_De_La_Mesa]]
 - 2026-11-12: guía de redacción del Libro II rehecha desde las tarjetas, 55 capítulos (DISEÑO; conserva las reglas, líneas canon, «no hacer» y PENDIENTE del boceto); el boceto de 64 pasa a supersedido: [[11_Books/Book_02_Sombras_De_Poder/00_Guia_Redaccion_Capitulos]] · [[98_Agent_Handoff/sessions/2026-11-12_claude_carretera_libro_ii]]
@@ -33,7 +34,6 @@ El detalle se guarda una sola vez en notas de sesión. Este archivo es navegaci�
 - 2026-11-08: nuevos 45–47 ajustados al cauce (terminal C); DECISIÓN DEL AUTOR: D3 («General.»), D4, atadura de Il Consorzio, sin el sedán rojo de Crowe: [[98_Agent_Handoff/sessions/2026-11-08_claude_fase4_cap45_por_si_vuelve]], [[98_Agent_Handoff/sessions/2026-11-08_claude_fase4_cap46_a_oscuras]], [[98_Agent_Handoff/sessions/2026-11-08_claude_fase4_cap47_la_tierra_bajo_sus_botas]]
 - 2026-11-08: Fase 4, terminal B: nuevos 42 *Llaves* y 43 *Intereses* ajustados al cauce y propagados; DECISIÓN DEL AUTOR: D1 (armas sin entregar; Héctor no las soltó en la playa), D2 (una sola deuda de Chiara con Varek, que se vuelve cuenta abierta), pésame por Vento: [[98_Agent_Handoff/sessions/2026-11-08_claude_fase4_cap42_llaves]], [[98_Agent_Handoff/sessions/2026-11-08_claude_fase4_cap43_intereses]]
 - 2026-11-08: Fase 4, terminal A: nuevos 40 *Jurisdicción* y 41 *Ropa limpia* ajustados al cauce y propagados (DECISIÓN DEL AUTOR: domingo 19 dic, línea de Varek, eco del plato de Mabel, hueco de la etiqueta mudo, poda media del 41, Vento fuera): [[98_Agent_Handoff/sessions/2026-11-08_claude_fase4_cap40_jurisdiccion]], [[98_Agent_Handoff/sessions/2026-11-08_claude_fase4_cap41_ropa_limpia]].
-- 2026-11-08: DECISIÓN DEL AUTOR: Matteo se fue a Italia a investigar lo de Elio (no por el robo; Libro IV); costuras elegidas por el autor en los nuevos 33, 36, 37, 38 y 40: [[98_Agent_Handoff/sessions/2026-11-08_claude_matteo_y_costuras_parte_III]]
 
 ## Historial
 

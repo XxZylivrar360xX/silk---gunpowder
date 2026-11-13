@@ -201,11 +201,11 @@ Estimación: de 61 a unos 54–56 capítulos. **Corrección (2026-11-12, tras la
 7. **El robo:** motivo («salir de la nómina de Dario y de la deuda con Crowe») y destino del Lussia (sólo el Tasador podría moverlo).
 8. **El levantón:** ubicación (recomendado: Parte II, tras el robo; si no, al abrir la III) y si el patrón «Kal perdona, uno de los suyos mata» (levantón y Walt) es deliberado.
 9. **La operación de F2:** un choque con la red de Crowe, consecuencia de la investigación de los frenos.
-10. **El golpe fallido:** último intento contra Crowe con el método de Dario; el 50 va antes del 49.
+10. **Resuelta de otro modo (DECISIÓN DEL AUTOR, 2026-11-12):** el golpe fallido lo hacen los chicos con Nadir, sin Kal, contra los Calderos; Kal llega tarde y responde por ellos («Yo no voy a arriesgar a nadie para fundamentar una guerra»); de ahí «no como tú». Las bandas fijan la fecha de la tormenta sin Kal. Ver [[11_Books/Book_02_Sombras_De_Poder/00_Guia_Redaccion_Capitulos]], caps. 41, 42 y 50. Texto anterior: **El golpe fallido:** último intento contra Crowe con el método de Dario; el 50 va antes del 49.
 11. **Walt:** dónde va su arco y si la condicional termina antes o después del robo (el 35 depende de eso).
 12. **Los Bravos:** el pacto de Chiara con Rafe (Libro I) frente a los Bravos del lado de Crowe y Dario en H1.
 13. **La regla de la tasa visible:** Crowe en página en cada Parte, sin más de unos cinco capítulos de ausencia.
-14. ~~**Las fusiones candidatas** del §4.~~ **Resuelta en la Fase 3 (DECISIÓN DEL AUTOR, 2026-11-12):** listas A y B de [[11_Books/Book_02_Sombras_De_Poder/00_Mapa_Boceto_A_Tarjetas]], 55 capítulos.
+14. ~~**Las fusiones candidatas** del §4.~~ **Resuelta en la Fase 3 (DECISIÓN DEL AUTOR, 2026-11-12):** listas A y B de [[11_Books/Book_02_Sombras_De_Poder/00_Mapa_Boceto_A_Tarjetas]], 55 capítulos; 56 desde que el golpe fallido se partió en dos (40 y 41).
 
 ## 6. Siguiente paso
 

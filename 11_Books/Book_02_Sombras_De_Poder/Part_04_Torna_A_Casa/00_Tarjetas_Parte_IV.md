@@ -28,6 +28,8 @@
 - **Por eso:** el golpe.
 - **Saldo:** desecha la idea de casarse con él (C). La sequía sigue: él llega y ella duerme (Stavanger, DISEÑO).
 
+> **Superado en parte (DECISIÓN DEL AUTOR, 2026-11-12):** el golpe de U2 ya no lo hace Kal. Nadir organiza a los chicos sin decírselo y los lleva contra los Calderos; mueren inocentes, ningún chico muere y el Caldero sobrevive. Kal llega tarde, dice «Yo no voy a arriesgar a nadie para fundamentar una guerra» y responde por ellos. La Parte IV pasa a 17 capítulos (40 boda y llamada; 41 *Yo respondo*; 42 *Las bandas*), y en U12 las bandas fijan la fecha sin Kal. Fichas vigentes: caps. 40–42 y 50 de [[11_Books/Book_02_Sombras_De_Poder/00_Guia_Redaccion_Capitulos]]. Las tarjetas U2–U4 y U12 quedan como historial del razonamiento.
+
 ### U2 · El costo — fin de jul · Chiara · la Villa, de noche; la redacción de *El Faro*, al amanecer — **tic 8**
 - **Trama (P, D10):** el último intento de cobrarle a Crowe con el método de Dario, que es la lección equivocada de F2: «perdonar mata». Kal va por el Caldero que apuñaló a Mei-Lin, escondido en una casa de empeño de Crowe en el sur. Sin aviso, de noche, para dar ejemplo. El Caldero cae, y con él mueren inocentes: la familia que vive arriba del local (P; perpetradores y quizá aliados, C). Técnica fuera de cuadro (C).
 - **Relación:** esta vez él avisa que sale (la regla de la Parte II). Ella enciende la vela a tiempo y escribe: tic 8, la última vez que es «sólo un nombre», sin que nada lo marque (C). Al amanecer le llega la nota: tiene que publicar a los muertos. Los publica sin el nombre de Kal.

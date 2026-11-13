@@ -145,9 +145,9 @@ Desarrollo completo, Parte por Parte, en [[01_Timeline/03_Libro_02_Sombras_De_Po
 
 En prosa BORRADOR: [[11_Books/Book_02_Sombras_De_Poder/Part_01_Territorio_Ajeno/01_Hogar]] (Cap. 1, título fijado por el autor el 2026-10-10), [[11_Books/Book_02_Sombras_De_Poder/Part_04_Torna_A_Casa/Stavanger]], [[11_Books/Book_02_Sombras_De_Poder/Part_04_Torna_A_Casa/Henrik]] y [[11_Books/Book_02_Sombras_De_Poder/Part_04_Torna_A_Casa/Ya_Llego]] (tres capítulos sin número, separados el 2026-11-07; prosa pendiente de lectura del autor). Las Partes II y III todavía no tienen capítulos escritos. El plan de la reconciliación sigue documentado en [[11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/00_Plan_Cierre_Parte_III]] (sección del antiguo Cap. 45). Carpetas (renombradas el 2026-10-12): `Part_01_Territorio_Ajeno/` (Hogar), `Part_02_Nieve_Y_Ceniza/` y `Part_03_Exilio/` (vacías) y `Part_04_Torna_A_Casa/` (*Ya llegó*).
 
-### Numeración vigente: 55 capítulos (DECISIÓN DEL AUTOR, 2026-11-12)
+### Numeración vigente: 56 capítulos (DECISIÓN DEL AUTOR, 2026-11-12)
 
-Fase 3 aprobada: [[11_Books/Book_02_Sombras_De_Poder/00_Mapa_Boceto_A_Tarjetas]]. **Partes:** I = 1–17, II = 18–31, III = 32–39, IV = 40–55. Los títulos son de trabajo (los del boceto o de las tarjetas); ningún archivo se renombra hasta que haya prosa. Guía de redacción: [[11_Books/Book_02_Sombras_De_Poder/00_Guia_Redaccion_Capitulos]]. «Boceto N» cita la numeración de 64 del boceto retirado ([[97_Supersedido/Boceto_Lista_Capitulos_64]], 2026-10-13), que sigue en documentos anteriores a esta fecha. **Retirado:** el boceto 45, *El norte* (F2 viejo).
+Fase 3 aprobada: [[11_Books/Book_02_Sombras_De_Poder/00_Mapa_Boceto_A_Tarjetas]]. **Partes:** I = 1–17, II = 18–31, III = 32–39, IV = 40–56. La Fase 3 dejó 55; el mismo día el autor partió el golpe fallido en dos capítulos (40 y 41: los chicos se mueven sin Kal), y la Parte IV pasó a 17. Los títulos son de trabajo (los del boceto o de las tarjetas); ningún archivo se renombra hasta que haya prosa. Guía de redacción: [[11_Books/Book_02_Sombras_De_Poder/00_Guia_Redaccion_Capitulos]]. «Boceto N» cita la numeración de 64 del boceto retirado ([[97_Supersedido/Boceto_Lista_Capitulos_64]], 2026-10-13), que sigue en documentos anteriores a esta fecha. **Retirado:** el boceto 45, *El norte* (F2 viejo).
 
 | Parte | Cap. | Título de trabajo | Boceto | Tarjeta | POV |
 |---|---|---|---|---|---|
@@ -190,24 +190,25 @@ Fase 3 aprobada: [[11_Books/Book_02_Sombras_De_Poder/00_Mapa_Boceto_A_Tarjetas]]
 | III | 37 | *Perdóname, jefe* | 44 | T8 | Nadir |
 | III | 38 | *Lo que queda* | 46 | T9 | Chiara |
 | III | 39 | *Una sola frase* | 47 | T10 | Chiara |
-| IV | 40 | *Diez segundos* | 48 + 50 | U1 + U2 | Chiara |
-| IV | 41 | *No como tú* | 49 + 51 | U3 + U4 | Kal |
-| IV | 42 | *Mover la mirada* | 52 | U5 | Chiara |
-| IV | 43 | *Lo poco que llegué a saber* | 52b | U6 | Kal |
-| IV | 44 | *Stavanger* | 53a | U7 | BORRADOR |
-| IV | 45 | *Henrik* | 53b | U8 | BORRADOR |
-| IV | 46 | *Ya llegó* | 53c | U9 | BORRADOR |
-| IV | 47 | *Llegar tarde* | 54 | U10 | externo |
-| IV | 48 | *Veintitrés de noviembre* | 55 | U11 | Kal |
-| IV | 49 | *La fecha* | — | U12 | Kal |
-| IV | 50 | *Santa Lucía* | 56 | U13 | Kal |
-| IV | 51 | *Torna a casa* | 57 | U14 | externo |
-| IV | 52 | *Dime, Amore* | 58 | U15 | Kal; Chiara en el triaje |
-| IV | 53 | *De rodillas* | 59 | U16 | Kal |
-| IV | 54 | *No otra vez* | 60 | U17 | Chiara |
-| IV | 55 | *La chimenea* | 61 | U18 | DISEÑO |
+| IV | 40 | *Diez segundos* | 48 (+ la llamada) | U1 + U2 | Chiara |
+| IV | 41 | *Yo respondo* | 50 + 49 | U2 + U3, rehechas | Kal |
+| IV | 42 | *Las bandas* | 51 | U4 | Kal |
+| IV | 43 | *Mover la mirada* | 52 | U5 | Chiara |
+| IV | 44 | *Lo poco que llegué a saber* | 52b | U6 | Kal |
+| IV | 45 | *Stavanger* | 53a | U7 | BORRADOR |
+| IV | 46 | *Henrik* | 53b | U8 | BORRADOR |
+| IV | 47 | *Ya llegó* | 53c | U9 | BORRADOR |
+| IV | 48 | *Llegar tarde* | 54 | U10 | externo |
+| IV | 49 | *Veintitrés de noviembre* | 55 | U11 | Kal |
+| IV | 50 | *La fecha* | — | U12 | Kal |
+| IV | 51 | *Santa Lucía* | 56 | U13 | Kal |
+| IV | 52 | *Torna a casa* | 57 | U14 | externo |
+| IV | 53 | *Dime, Amore* | 58 | U15 | Kal; Chiara en el triaje (por rediseñar desde Chiara) |
+| IV | 54 | *De rodillas* | 59 | U16 | Kal |
+| IV | 55 | *No otra vez* | 60 | U17 | Chiara |
+| IV | 56 | *La chimenea* | 61 | U18 | DISEÑO |
 
-**Del boceto al nuevo:** 1→1 · 2→2 · 3→3 · 4–5→4 · 6–7→5 · 8–9→6 · 10→9 · 11→10 · 12–14→11 · 15→12 · 16–17→13 · 18→14 · 19→15 · 20→16 · 21→17 · 22–23→18 · 24–25→19 · 26→20 · 27→21 · 28→22 · 29–30→23 · 31→24 · 32→25 · 33→26 · 34→27 · 35–36→28 · 37→30 · 38→31 · 39→32 · 40→33 · 41→34 · 42→35 · 43→36 · 44→37 · 45→retirado · 46→38 · 47→39 · 48→40 · 49→41 · 50→40 · 51→41 · 52→42 · 52b→43 · 53a–c→44–46 · 54→47 · 55→48 · 56–61→50–55. Sin equivalente en el boceto: 7, 8, 29 y 49.
+**Del boceto al nuevo:** 1→1 · 2→2 · 3→3 · 4–5→4 · 6–7→5 · 8–9→6 · 10→9 · 11→10 · 12–14→11 · 15→12 · 16–17→13 · 18→14 · 19→15 · 20→16 · 21→17 · 22–23→18 · 24–25→19 · 26→20 · 27→21 · 28→22 · 29–30→23 · 31→24 · 32→25 · 33→26 · 34→27 · 35–36→28 · 37→30 · 38→31 · 39→32 · 40→33 · 41→34 · 42→35 · 43→36 · 44→37 · 45→retirado · 46→38 · 47→39 · 48→40 · 49→41 · 50→40–41 (partido) · 51→42 · 52→43 · 52b→44 · 53a–c→45–47 · 54→48 · 55→49 · 56–61→51–56. Sin equivalente en el boceto: 7, 8, 29 y 50.
 
 
 ## Escenas en reserva

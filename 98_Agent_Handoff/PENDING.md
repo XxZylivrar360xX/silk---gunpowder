@@ -4,7 +4,7 @@ Actualizado: 2026-11-10 (limpieza de numeración vieja). Máximo 800 palabras; l
 
 ## *Sombras de Poder* (Libro II): decide el autor
 
-Lista de fondo (F4, Stavanger, F2, Navidad y otras): [[98_Agent_Handoff/BACKLOG#Libros II y III]]. Prosa en espera hasta cerrar el Libro I. **Nuevo (2026-11-12):** Fase 3 aprobada, con 55 caps. ([[11_Books/Book_02_Sombras_De_Poder/00_Mapa_Boceto_A_Tarjetas]]). Abiertos: la elipsis de R9, «Mac a Almendra», las decisiones 2–13 de la carretera y la lectura de las tarjetas. Numeración propagada y guía de 55 rehecha ([[11_Books/Book_02_Sombras_De_Poder/00_Guia_Redaccion_Capitulos]], DISEÑO, espera lectura).
+Lista de fondo (F4, Stavanger, F2, Navidad y otras): [[98_Agent_Handoff/BACKLOG#Libros II y III]]. Prosa en espera hasta cerrar el Libro I. **Nuevo (2026-11-12):** Fase 3 aprobada (hoy 56 caps.) ([[11_Books/Book_02_Sombras_De_Poder/00_Mapa_Boceto_A_Tarjetas]]). Abiertos: la elipsis de R9, «Mac a Almendra», las decisiones 2–13 de la carretera y la lectura de las tarjetas. Numeración propagada y guía de 56 rehecha ([[11_Books/Book_02_Sombras_De_Poder/00_Guia_Redaccion_Capitulos]], DISEÑO, espera lectura). Siguiente sesión: la tormenta desde Chiara (51–56) y la idea del autor sobre el Caldero que sobrevive.
 
 ## Lecturas del autor (Libro I)
 

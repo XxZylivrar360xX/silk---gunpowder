@@ -116,7 +116,7 @@ Copias íntegras antes de compactar el relevo (el brief medía ~1,300 palabras; 
 
 - [[98_Agent_Handoff/archive/2026-11-01_DECISIONS_retiradas|2026-11-01]]: entradas desde el 2026-10-14, retiradas por el tope de 800 palabras.
 - [[98_Agent_Handoff/archive/2026-11-08_DECISIONS|2026-11-08]]: entradas del 2026-11-01, retiradas para dejar sitio a la Parte III del nuevo cauce.
-- [[98_Agent_Handoff/archive/2026-11-12_DECISIONS|2026-11-12]]: «Chiara en *Sombras de Poder*», «Por qué se fue Matteo» y «Parte III del nuevo cauce», retiradas para dejar sitio a las decisiones del Libro II.
+- [[98_Agent_Handoff/archive/2026-11-12_DECISIONS|2026-11-12]]: «Chiara en *Sombras de Poder*», «Por qué se fue Matteo», «Parte III del nuevo cauce» y las más antiguas que siguieron, retiradas para dejar sitio a las decisiones del Libro II.
 
 ## Corte del 2026-11-09
 

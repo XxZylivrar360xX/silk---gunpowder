@@ -214,7 +214,7 @@ Resumen; el detalle está en la nota de Halbrook y en [[02_Characters/Warren_Hal
 11. **La filtración de Halbrook y la orden de Dario a Volpi no aparecen en página** en este libro. Si algo asoma, se lee como un dato de la red de Dario.
 12. **La línea Tommaso → Mei-Lin no se muestra.** Sólo se ve que Tommaso conoce el círculo de Kal más íntimamente que Chiara, sin explicación.
 13. **El «Te amo» de F3 se reubica:** Kal vuelve golpeado de investigar los frenos, Chiara lo cura de espaldas en el lavabo y no lo oye. F3 se reescribió en [[06_Relationships/Momentos_de_Fractura]].
-Principio del autor: proteger los secretos para que cobren en las revelaciones cuando llegue la tragedia. Guía: [[11_Books/Book_02_Sombras_De_Poder/00_Guia_Redaccion_Capitulos]] (55 capítulos, 2026-11-12; la de 64 está en [[97_Supersedido/Boceto_Lista_Capitulos_64]]).
+Principio del autor: proteger los secretos para que cobren en las revelaciones cuando llegue la tragedia. Guía: [[11_Books/Book_02_Sombras_De_Poder/00_Guia_Redaccion_Capitulos]] (56 capítulos, 2026-11-12; la de 64 está en [[97_Supersedido/Boceto_Lista_Capitulos_64]]).
 
 Sigue abierto: **coalición de H1**; extensión y desenlace de la investigación nocturna; los detalles del robo (si Chiara sabe de dónde sale el anillo y quién conoce la salida por el casino).
 

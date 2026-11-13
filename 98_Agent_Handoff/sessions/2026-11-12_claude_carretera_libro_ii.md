@@ -110,6 +110,21 @@ Encargo del autor: avanzar con la reconciliación del Libro II, trabajando «jus
 - **Choque abierto:** el golpe fallido (40, P) es una venganza por Mei-Lin. Falta que el autor diga si la regla de no vengarla lo alcanza.
 - **No se adoptó:** la capa de «la deuda pagada que ella nunca supo» (el dinero en el cuarto); el autor eligió la foto.
 
+## Undécima vuelta: el golpe fallido lo hacen los chicos
+
+- Se le mostró al autor el costo de las dos opciones para el 40 (venganza de Kal o golpe contra otro blanco). Él propuso una tercera: la banda, que ya aprendió a moverse sin Kal en el Libro I, organiza el movimiento contra los Calderos sin decírselo; Kal llega tarde y deja la línea «Yo no voy a arriesgar a nadie para fundamentar una guerra».
+- **DECISIÓN DEL AUTOR:**
+  - Lo organiza Nadir, que así empieza su separación voluntaria de la banda.
+  - No muere ningún chico (hay heridos).
+  - El Caldero sobrevive (el autor tiene una idea para él, por platicar).
+  - El libro queda en 56 capítulos.
+  - Las bandas fijan la fecha sin Kal.
+  - La tormenta se vivirá desde Chiara, desde la impotencia.
+- **Aplicado:**
+  - Guía: 40 (boda, la llamada, la vela; tic 8), 41 *Yo respondo* nuevo (Kal llega tarde, la línea, responde ante los Calderos, «no como tú» ante Dario), 42 *Las bandas* (los Calderos llegan porque Kal respondió) y de ahí al 56 renumerado. También el 50 (las bandas fijan la fecha y Kal va para que nadie se quede atrás), la nota de F2 en el 37, el reloj y las leyendas.
+  - Book_Map (tabla de 56 y equivalencias), matriz, Stavanger, cartas, tarjetas II, III y IV, carretera (D10), mapa, ficha de Nadir, INDEX, brief, PENDING y DECISIONS.
+- **Abierto:** la idea del autor sobre el Caldero; quiénes van con Nadir; la línea final de «no como tú»; el diseño de la tormenta desde Chiara, que tiene que resolver *De rodillas* (54), donde Kal necesita estar presente.
+
 ## Pendiente
 
-Lectura del autor de la guía y de las tarjetas; el choque del 40; la elipsis de R9 y «Mac a Almendra»; decisiones 2–13 de la carretera. Siguiente: propagar la numeración (Book_Map, matriz, fichas), mandar el boceto a supersedido y rehacer la guía de redacción desde las tarjetas.
+Lectura del autor de la guía y de las tarjetas; la tormenta desde Chiara; la idea del Caldero; la elipsis de R9 y «Mac a Almendra»; decisiones 2–13 de la carretera. Siguiente: propagar la numeración (Book_Map, matriz, fichas), mandar el boceto a supersedido y rehacer la guía de redacción desde las tarjetas.

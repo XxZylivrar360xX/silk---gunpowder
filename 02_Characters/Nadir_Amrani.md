@@ -16,6 +16,8 @@ Ya no ejecuta a Mei-Lin. Es de los dos únicos (con Héctor) a quienes Kal les c
 
 Es una de las primeras grietas profundas entre Nadir persona y Nadir miembro de la organización. Sigue leal, trabaja y puede justificar que era necesario; no abandona a Kal ni expresa resentimiento inmediato. Puede contribuir mucho después a su búsqueda de vida/poder fuera de esa institución, sin convertirse en causa única.
 
+> **DECISIÓN DEL AUTOR (2026-11-12; Libro II, cap. 41 de [[11_Books/Book_02_Sombras_De_Poder/00_Guia_Redaccion_Capitulos]]):** tras F2, Nadir organiza a los chicos sin decirle a Kal y los lleva contra los Calderos para cobrar a Mei-Lin. El golpe sale mal: mueren inocentes, ningún chico muere (hay heridos) y el Caldero que la apuñaló sobrevive. Kal llega tarde y responde por ellos. Es el primer paso de la **separación voluntaria de Nadir de la banda**, que se va cumpliendo a lo largo de la saga. En el 42 lo ve darle la mano a Mack Calderon y no dice nada.
+
 *Seda y Pólvora — Ficha de Personaje*
 
 > **CANON DEL AUTOR (2026-08-23).** Ficha compacta. No inventar nacionalidad, familia ni biografía fuera de lo definido.

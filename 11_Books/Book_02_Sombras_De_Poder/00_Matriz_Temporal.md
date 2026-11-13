@@ -34,9 +34,9 @@ El libro dura **unos dos años: del 5 de enero del año 3 al invierno del año 4
 
 ## Matriz
 
-> **Numeración (2026-11-12):** la columna «Caps.» usa la numeración de 55 aprobada en la Fase 3 ([[11_Books/Book_02_Sombras_De_Poder/00_Book_Map#Numeración vigente: 55 capítulos (DECISIÓN DEL AUTOR, 2026-11-12)|tabla]]). El reloj fino (bloques, elipsis A–F y relojes de deuda) está en [[11_Books/Book_02_Sombras_De_Poder/00_Carretera_Libro_II#3b. El reloj: dos años que no se sientan como años|la carretera §3b]] y en las tarjetas; en lo que choque, mandan ellas. Ajustes conocidos: el levantón cae a principios de feb A4 (29); F2 es fin de abr – principios de may A4 y ya no es «Mei-Lin y Bonnie el mismo día» (F2 nuevo, CANON 2026-11-07); el golpe fallido va antes de «no como tú» y las bandas llegan a mediados de sep (41).
+> **Numeración (2026-11-12):** la columna «Caps.» usa la numeración vigente (56; la Fase 3 dejó 55 y la Parte IV ganó un capítulo el mismo día) ([[11_Books/Book_02_Sombras_De_Poder/00_Book_Map#Numeración vigente: 56 capítulos (DECISIÓN DEL AUTOR, 2026-11-12)|tabla]]). El reloj fino (bloques, elipsis A–F y relojes de deuda) está en [[11_Books/Book_02_Sombras_De_Poder/00_Carretera_Libro_II#3b. El reloj: dos años que no se sientan como años|la carretera §3b]] y en las tarjetas; en lo que choque, mandan ellas. Ajustes conocidos: el levantón cae a principios de feb A4 (29); F2 es fin de abr – principios de may A4 y ya no es «Mei-Lin y Bonnie el mismo día» (F2 nuevo, CANON 2026-11-07); el golpe fallido lo hacen los chicos sin Kal (41, fin de jul) y las bandas llegan a mediados de sep (42).
 
-| Parte | Bloque | Fecha aprox. | Estación | Contenido (plan) | Caps. (55) |
+| Parte | Bloque | Fecha aprox. | Estación | Contenido (plan) | Caps. (56) |
 |---|---|---|---|---|---|
 | **I — Territorio ajeno** | Hogar | **5–6 ene A3** | invierno | Reconciliación; «Fabrizio está muerto» (§1) | 1 |
 | | Reordenamiento | ene–feb A3 | invierno, lluvia y heladas | Comisaría; funciones de Fabrizio y Matteo a Chiara; frente Tommaso–Chiara (§2–3) | 2–3 |
@@ -59,11 +59,11 @@ El libro dura **unos dos años: del 5 de enero del año 3 al invierno del año 4
 | | **Cierre: la boda se planea** | may–jun A4 | primavera | Depresión de Chiara; la frase de Mabel; Chiara organiza la boda | elipsis D; 39 |
 | **IV — Torna a casa** | Boda de Mabel y Walt | **jul A4** | verano | Terraza del Monarch; «Te amo.»; el anillo ya en la billetera | 40 |
 | | Doctrina | jul–ago A4 | verano | Independencia ideológica de Dario; el golpe fallido con muertos | 40–41 |
-| | Las bandas al límite | sep A4 | principios de otoño | Las bandas, hartas de los cobros del Tasador, van con Kal; él acepta sin pedirle permiso a Dario (DISEÑO, columna de Crowe por confirmar). La operación se prepara, no estalla | 41 |
-| | Las cartas de Dale | ago–oct A4 | fin del verano, otoño | Manfred Gabe las entrega tras la boda; Kal las lee solo, habla con Chiara y las devuelve a la tumba antes del viaje (CANON DEL AUTOR, 2026-10-14) | 42–43 |
-| | **Stavanger** | **fin de oct A4 (~25; CANON 2026-10-14)** | otoño (en Noruega, frío y luz gris) | «Ya llegó.»; propuesta; concepción de Elenna | 44–46 |
-| | Embarazo | nov A4 | otoño | Síntomas a las ~4 semanas de la concepción (~18–20 nov); tres pruebas y examen médico fuera de página (~22 nov; médico de fuera del círculo); en página, el documento destruido y el tic (8-b). Su cumpleaños (23 nov) es la primera noche que lo sabe. Lo oculta unas dos semanas (CANON DEL AUTOR, 2026-10-14) | 47–49 |
-| | **Cierre: la tormenta = caída de Crowe = H1** | **dic A4, antes de Navidad; una sola noche** | invierno, tormenta de lluvia y helada | Kal solo en la iglesia, su vela; «Torna a casa» y la vela de Chiara; «Dime, Amore» (acorralado); triaje en el almacén del sur; extracciones; Crowe de rodillas, Walt dispara; tiro de Volpi; Kal llega caminando a la Villa; piscina helada; tras dormir, hamburguesa y chimenea; «Sono incinta.» FIN | 50–55 |
+| | Las bandas al límite | sep A4 | principios de otoño | Las bandas, hartas de los cobros del Tasador, van con Kal; él acepta sin pedirle permiso a Dario (DISEÑO, columna de Crowe por confirmar). La operación se prepara, no estalla | 42 |
+| | Las cartas de Dale | ago–oct A4 | fin del verano, otoño | Manfred Gabe las entrega tras la boda; Kal las lee solo, habla con Chiara y las devuelve a la tumba antes del viaje (CANON DEL AUTOR, 2026-10-14) | 43–44 |
+| | **Stavanger** | **fin de oct A4 (~25; CANON 2026-10-14)** | otoño (en Noruega, frío y luz gris) | «Ya llegó.»; propuesta; concepción de Elenna | 45–47 |
+| | Embarazo | nov A4 | otoño | Síntomas a las ~4 semanas de la concepción (~18–20 nov); tres pruebas y examen médico fuera de página (~22 nov; médico de fuera del círculo); en página, el documento destruido y el tic (8-b). Su cumpleaños (23 nov) es la primera noche que lo sabe. Lo oculta unas dos semanas (CANON DEL AUTOR, 2026-10-14) | 48–50 |
+| | **Cierre: la tormenta = caída de Crowe = H1** | **dic A4, antes de Navidad; una sola noche** | invierno, tormenta de lluvia y helada | Kal solo en la iglesia, su vela; «Torna a casa» y la vela de Chiara; «Dime, Amore» (acorralado); triaje en el almacén del sur; extracciones; Crowe de rodillas, Walt dispara; tiro de Volpi; Kal llega caminando a la Villa; piscina helada; tras dormir, hamburguesa y chimenea; «Sono incinta.» FIN | 51–56 |
 
 ## Lo que la matriz fija
 

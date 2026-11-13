@@ -202,7 +202,7 @@ Chiara ayudaba a **Elliot Price**, un hombre autista vinculado al taller; se sob
 > **CANON DEL AUTOR (reescrita el 2026-10-14).** Reconcilia F3 con el choque vigente ([[11_Books/Book_02_Sombras_De_Poder/00_Plan_Cuatro_Partes]], CANON 2026-10-12): Chiara no va en el auto. **El «Te amo» se reubica en la noche en que Kal vuelve golpeado de investigar los frenos, y Chiara no lo oye.** La versión anterior (Chiara grave, paro cardíaco, «Te amo» junto a la cama) queda abajo como historial.
 
 **Función:** primera vez que Kal dice que ama a Chiara, y ella no puede oírlo.
-**Libro y Partes:** *Sombras de Poder*. Abarca la costura entre las Partes II y III: el choque y el armario cierran la II (feb A4) y el «Te amo» cae en la III (feb–mar A4), antes de F2. Capítulos provisionales 37–41 de [[11_Books/Book_02_Sombras_De_Poder/00_Boceto_Lista_Capitulos]]; en la numeración de 55 (2026-11-12), 30–34.
+**Libro y Partes:** *Sombras de Poder*. Abarca la costura entre las Partes II y III: el choque y el armario cierran la II (feb A4) y el «Te amo» cae en la III (feb–mar A4), antes de F2. Capítulos provisionales 37–41 de [[11_Books/Book_02_Sombras_De_Poder/00_Boceto_Lista_Capitulos]]; en la numeración vigente (2026-11-12), 30–34.
 **Lugares:** Calle Corona, rumbo al Puente de Piedra → [[05_Locations/Hospital_Santa_Aurelia]] → Almendra Towing → las calles del sur, de noche → Villa Candelaria.
 **Quién está detrás:** Varek lo ordena y Volpi corta los frenos, **velado**. La revelación Varek–Volpi se reserva para después; F3 no la adelanta.
 
