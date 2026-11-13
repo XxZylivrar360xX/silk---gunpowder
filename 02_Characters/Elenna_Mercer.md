@@ -17,10 +17,10 @@
 ## Datos básicos
 
 **Nombre verdadero:** Elenna Mercer  
-**Identidad documental de resguardo:** Elenna Serra  
+**Identidad documental de resguardo:** ~~Elenna Serra~~ PENDIENTE (Elenna Serra retirada por CANON DEL AUTOR 2026-11-07)  
 **Padre biológico:** [[02_Characters/Kal_Mercer|Kal Mercer]]  
 **Madre biológica:** [[02_Characters/Chiara_Bellandi|Chiara Ardizzone Bellandi]], públicamente Chiara Bellandi  
-**Nacimiento:** durante *Voto de Ceniza* (Libro II); fecha exacta pendiente  
+**Nacimiento:** durante *Voto de Ceniza* (Libro III); fecha exacta pendiente  
 **Estado público:** fallecida al nacer  
 **Estado real:** viva  
 **Lugar de resguardo:** Italia; localización exacta pendiente  
@@ -129,13 +129,13 @@ Cuando dice *Torna a casa*, Kal cree que habla de los dos y Chiara sabe que habl
 
 El embarazo no reemplaza el amor como motivo de H1. Chiara no revela la noticia durante la hemorragia, la atención médica, el baño ni el pico de la secuencia. Se la cuenta sólo después de que Kal está fuera de peligro, duerme, empieza a recuperarse y regresa cierta normalidad doméstica.
 
-El Libro I construye poder y expectativa de familia al mismo tiempo. *Voto de Ceniza* (Libro II) recibe a Chiara ya embarazada y obliga a ambos a sacrificar la posibilidad de vivir esa familia normalmente.
+El Libro I construye poder y expectativa de familia al mismo tiempo. *Voto de Ceniza* (Libro III) recibe a Chiara ya embarazada y obliga a ambos a sacrificar la posibilidad de vivir esa familia normalmente.
 
 No están fijadas la fecha de concepción, los días exactos antes de H1, el mecanismo de confirmación, el diálogo del reveal, la reacción textual de Kal, la semana de gestación ni cuánto embarazo ha transcurrido al abrir *Voto de Ceniza*.
 
 ## La falsa muerte
 
-Elenna nace durante el primer tramo importante de *Voto de Ceniza* (Libro II), cuando [[04_Concepts/La_Guerra_de_los_Tres|la Guerra de los Tres]] ya está escalando. Antes, en el **Libro I**, F2 debe haber expulsado a Bonnie de San Aurelio y Bonnie debe estar establecida en Italia. El capítulo, la semana y la distancia exacta entre esos hechos permanecen pendientes.
+Elenna nace durante el primer tramo importante de *Voto de Ceniza* (Libro III), cuando [[04_Concepts/La_Guerra_de_los_Tres|la Guerra de los Tres]] ya está escalando. Antes, en el **Libro I**, F2 debe haber expulsado a Bonnie de San Aurelio y Bonnie debe estar establecida en Italia. El capítulo, la semana y la distancia exacta entre esos hechos permanecen pendientes.
 
 Debe existir un detonante concreto que vuelva inaceptable mantener su existencia dentro del tablero, pero ese detonante todavía no ha sido decidido.
 
@@ -199,7 +199,7 @@ El álbum no convierte a Elenna en guardiana de un linaje ni vuelve solemne cada
 >
 > **NO REDACTAR TODAVÍA.**
 
-H22 ocurre dentro de *Voto de Ceniza* (Libro II), después de que la separación de Elenna sea experiencia cotidiana y **antes** de la caída de Dario, la montaña y Santa Lucía — no después del cierre de la Guerra de los Tres; [[00_Biblia/00_Trilogy_Structure]] fija ese orden. Su prosa permanece bloqueada hasta que el manuscrito haya construido embarazo/H1/reveal, relación Bonnie–Chiara, destierro de Bonnie, guerra en escalada, nacimiento, falsa muerte, Elenna Serra, separación y fotografías.
+H22 ocurre dentro de *Voto de Ceniza* (Libro III), después de que la separación de Elenna sea experiencia cotidiana y **antes** de la caída de Dario, la montaña y Santa Lucía — no después del cierre de la Guerra de los Tres; [[00_Biblia/00_Trilogy_Structure]] fija ese orden. Su prosa permanece bloqueada hasta que el manuscrito haya construido embarazo/H1/reveal, relación Bonnie–Chiara, destierro de Bonnie, guerra en escalada, nacimiento, falsa muerte, Elenna Serra, separación y fotografías.
 
 Bonnie envía un dispositivo o memoria USB. Debe conservarse este intercambio:
 
@@ -293,7 +293,7 @@ No resolver ninguno de estos puntos por conveniencia:
 2. **RESUELTO EN LUGAR (CANON DEL AUTOR, 2026-10-02):** Elenna se concibe en el viaje a Stavanger, el mismo en que Kal y Chiara se comprometen. El texto no señala la concepción (regla ya vigente en [[11_Books/Book_02_Sombras_De_Poder/Part_04_Torna_A_Casa/Ya_Llego]]). Fecha exacta: PENDIENTE.
    - **Rima de saga (DISEÑO, no enunciar):** Elenna conoce por las cartas la historia de cómo se comprometieron sus padres; en el hangar de *Camino a Casa*, "Pero mi historia empezó en un aeropuerto así, ¿o no?" / "Sí." carga la noche de la salida a Stavanger (anillo e hija en el mismo viaje). Capas secundarias: Kingsley Field (Palermo, el regreso de Chiara, la llegada de Halbrook en el 50b) y el papel de canela y vainilla (el tic del nombre en el Libro II es lo primero que Chiara le escribe). Ninguna escena la explica; la rima vive en lo que trae el lector.
 3. **PENDIENTE:** momento exacto del descubrimiento del embarazo, incluido cuántos días antes de H1 lo confirma Chiara. **CANON DEL AUTOR (2026-10-13):** la confirmación ocurre fuera de página y nadie lo sabe antes que Kal; Chiara calla para que él vuelva por ella, no por el bebé. Ver [[11_Books/Book_02_Sombras_De_Poder/00_Diseno_Nombre_Y_Embarazo]].
-4. **PENDIENTE:** cuánto embarazo ha transcurrido al iniciar *Voto de Ceniza* (Libro II).
+4. **PENDIENTE:** cuánto embarazo ha transcurrido al iniciar *Voto de Ceniza* (Libro III).
 5. **RESUELTO (DECISIÓN DEL AUTOR, 2026-11-08):** el detonante es la muerte de Trix y la orfandad de Iris; Dario cree que Kal le quitó una hija. Ver [[11_Books/Book_03_Voto_De_Ceniza/00_Diseno_Embarazo_Y_Falsa_Muerte]].
 6. **PARCIAL (DECISIÓN DEL AUTOR, 2026-11-08):** embarazo de riesgo por edad; sangrado súbito a los seis meses y reposo hasta el parto; parto en hospital; Camila y Lucía ayudan con los trámites. Mecanismo (placenta previa) DISEÑO. Ver [[11_Books/Book_03_Voto_De_Ceniza/00_Diseno_Embarazo_Y_Falsa_Muerte]].
 7. **PENDIENTE:** versión pública exacta de su supuesta muerte.
@@ -324,7 +324,7 @@ No resolver ninguno de estos puntos por conveniencia:
 29. **PENDIENTE:** sexo fetal y cuándo lo conocen, si llega a importar.
 30. **PARCIAL (CANON DEL AUTOR, 2026-10-02):** en *Sombras de Poder* Chiara escribe en cursiva, en su papel de canela y vainilla, un nombre que el texto no revela, como un tic recurrente; paga en el reveal de la chimenea de Villa Candelaria (ver [[01_Timeline/03_Libro_02_Sombras_De_Poder]], "El nombre en cursiva"). **PENDIENTE:** si empieza antes de que sepa que está embarazada y cuándo lo sabe Kal.
 31. **PENDIENTE:** calendario médico del embarazo.
-32. **PENDIENTE:** capítulo exacto de H22 dentro de *Voto de Ceniza* (Libro II), antes de la caída de Dario, la montaña y Santa Lucía.
+32. **PENDIENTE:** capítulo exacto de H22 dentro de *Voto de Ceniza* (Libro III), antes de la caída de Dario, la montaña y Santa Lucía.
 33. **PENDIENTE:** capítulo exacto del flashforward (Cap. 1) de *Voto de Ceniza* y de la costura hacia "Nueve meses antes".
 34. **PENDIENTE:** si la pista de la entrega a Bonnie es la misma infraestructura del destierro de Bonnie en F2 o una distinta, y su ubicación exacta.
 

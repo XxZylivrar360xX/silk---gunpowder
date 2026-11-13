@@ -142,7 +142,7 @@ En esa misma escena queda sembrado el resto del plan:
 
 ## Marisol y Kenji — relación fuera de foco (Libros I y II)
 
-> **CANON DEL AUTOR (2026-09-10):** Marisol y [[02_Characters/Kenji_Oda]] empiezan a salir. El noviazgo se desarrolla fuera de foco durante *Máscaras de Cristal* (Libro I) y *Voto de Ceniza* (Libro II). Kal y Chiara perciben sus hitos desde fuera, por cambios en las interacciones y por lo que ambos eligen contarles; no se abre un POV propio ni una línea de escenas íntimas de la pareja.
+> **CANON DEL AUTOR (2026-09-10):** Marisol y [[02_Characters/Kenji_Oda]] empiezan a salir. El noviazgo se desarrolla fuera de foco durante *Máscaras de Cristal* (Libro I) y *Voto de Ceniza* (Libro III). Kal y Chiara perciben sus hitos desde fuera, por cambios en las interacciones y por lo que ambos eligen contarles; no se abre un POV propio ni una línea de escenas íntimas de la pareja.
 
 - **Libro I:** sembrar el acercamiento y el inicio de la relación; momento y encuentros concretos pendientes. Marisol tiene una vida sentimental propia que no necesita contarle completa a Kal.
 - **Libro II:** hacer perceptible la continuidad del vínculo antes del atentado de Santa Lucía. La muerte de Kenji, ya canon en [[00_Biblia/00_Trilogy_Structure]], afecta directamente a Marisol y extiende las consecuencias de la operación de Halbrook sobre el conjunto de personajes.

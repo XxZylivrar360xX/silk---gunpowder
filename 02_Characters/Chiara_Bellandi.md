@@ -343,7 +343,7 @@ Cuando le toca la placa y dice *Torna a casa*, Kal entiende que habla de los dos
 
 El reveal ocurre sólo después de que Kal queda fuera de peligro, duerme, inicia recuperación y vuelve cierta normalidad doméstica. El diálogo, el mecanismo de confirmación, los días exactos y la reacción textual de Kal permanecen pendientes.
 
-Durante el resto de Parte II, el embarazo debe existir como realidad doméstica y progresión física suficiente, no como único tema de Chiara ni como colección de síntomas. En Voto de Ceniza (Libro II), la guerra recibe a Chiara ya embarazada; no produce el embarazo.
+Durante el resto de Parte II, el embarazo debe existir como realidad doméstica y progresión física suficiente, no como único tema de Chiara ni como colección de síntomas. En Voto de Ceniza (Libro III), la guerra recibe a Chiara ya embarazada; no produce el embarazo.
 
 ### El pañuelo — CANON DEL AUTOR (2026-08-27), arco reservado
 

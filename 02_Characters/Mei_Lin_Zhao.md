@@ -1,5 +1,7 @@
 # Mei-Lin Zhao
 
+> **CAMBIO DE CANON (2026-11-07):** F2 ya no es ejecución ni destierro: Mei-Lin muere tras una operación y Bonnie se va a Boston por elección; recibe a Elenna desde Boston (se retira Italia). Manda [[06_Relationships/Momentos_de_Fractura#F2 - La muerte de Mei-Lin y la salida de Bonnie|F2]]; lo que diga abajo sobre Italia, Roberta Ardizzone, la ejecución o el destierro queda superado.
+
 > **NUEVO CAUCE — PARTE III (2026-11-08; [[98_Agent_Handoff/sessions/2026-11-08_claude_propagacion_parte_III]]; prosa BORRADOR, lo nuevo es DISEÑO salvo donde dice CANON):** **la noche del yate (nuevo 35, POV Kal):** sirve charolas para **la empresa de catering que viene con el barco**, no para una contratista del Monarch (así no choca con el valet del plan del robo); Tyler le habla en la mesa de los quesos y ella no le da la cara; Kal lo registra sin comentarlo. Es el primer indicio de dinero y resuelve el «Abierto» de [[98_Agent_Handoff/sessions/2026-11-07_claude_para_libro_I_f2_mei_lin]]. Segundo beat (la ruta del norte, el camión a las seis) en el nuevo 36. **Nuevo 38 (CANON, opción a):** después del robo duerme en el Patio y no quiere quedarse sola; Bonnie lo sabe sin saber por qué (si acaso, cree que Boone huyó) y se lo cuenta a Chiara con «lo de allá arriba se deshizo», sin Boone ni la banda. Chiara no lo liga con el Monarch.
 
 > **CANON DEL AUTOR (2026-11-07):** en el robo del Monarch trabaja, sin saberlo, para Crowe por encargo de los intermediarios de Halbrook (Dario sale de la cadena). Tras el fracaso es un cabo suelto: **Crowe asesina a Roy Boone** (parece que huye) y ella lo intuye; llega al Patio también buscando protección. Detalle: [[11_Books/Book_01_Mascaras_De_Cristal/Part_02_Con_Peores_Personas_He_Tratado/00_Plan_Robo_Monarch]].
@@ -31,7 +33,7 @@ Valora a Kal, quiere a Bonnie y encuentra hogar en La Almendra, pero teme más a
 **Alias:** pendiente.
 
 > **CANON DEL AUTOR (2026-10-03):** Mei-Lin es quien le pone «Bonnie» a Roberta García. El apodo sobrevive a Mei-Lin y dura toda la saga, porque la amistad era auténtica; su muerte se debe a sus propias malas decisiones. El apodo nace en la época de la banda de corredores, antes de El Patio, fuera de foco y de la prosa: Bonnie ya llega con él. Ver [[02_Characters/Bonnie_Garcia]].
-**Estado:** viva al abrir; ejecutada en F2, Parte V, el mismo día del destierro de Bonnie.
+**Estado:** viva al abrir; muere en F2 (*Sombras de Poder*, Libro II): la apuñala un enemigo en la femoral y muere en El Patio (CANON DEL AUTOR 2026-11-07; se retiran la ejecución y el destierro de Bonnie).
 
 ---
 

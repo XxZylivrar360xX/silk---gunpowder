@@ -13,7 +13,7 @@ Ver también [[02_Characters/Auditoria_Reparto]] para prioridad, desarrollo esti
 
 ## Secundarios principales
 
-- [[02_Characters/Elenna_Mercer]] — hija biológica de Kal y Chiara; públicamente fallecida al nacer, en realidad protegida en Italia como Elenna Serra durante aproximadamente su primer año.
+- [[02_Characters/Elenna_Mercer]] — hija biológica de Kal y Chiara; públicamente fallecida al nacer, en realidad al cuidado de Bonnie, que la recibe desde Boston, durante aproximadamente su primer año (CANON DEL AUTOR 2026-11-07; Italia y «Elenna Serra» retiradas).
 - [[02_Characters/Hector_Navarro]] — figura paterna de Kal y mano derecha.
 - [[02_Characters/Nadir_Amrani]] — mejor amigo de Kal; lo ayudó primero.
 - [[02_Characters/Daniel_Hayes]] — Danny; amigo del barrio y dueño de Rocco.
@@ -24,7 +24,7 @@ Ver también [[02_Characters/Auditoria_Reparto]] para prioridad, desarrollo esti
 - [[02_Characters/Blake_Stanton]] — policía; error de identificación de Chiara.
 - [[02_Characters/Dana_Collins]] — teniente argentina, líder de la VED; persigue el Peugeot de oído.
 - [[02_Characters/Renata_Clark]] — Chief of Police; disciplina moral y choque ideológico con Kal.
-- [[02_Characters/Raymond_Keene]] — jefe de policía anterior asesinado por Varek.
+- [[02_Characters/Raymond_Keene]] — jefe de policía anterior asesinado por Varek (†, antes del Libro I; transitorio, ver [[02_Characters/Mapa_Evolucion_Reparto]]).
 - [[02_Characters/Luis_Ortega]] — Detective 1 / Homicidios; principal antagonista policial local de Kal.
 - [[02_Characters/Gloria_Chen]] — crimen organizado / vice; conoce el ecosistema de Varek.
 - [[02_Characters/Noah_Pierce]] — detective joven, compañero de Luis; ve antes que algo no encaja.
@@ -41,8 +41,8 @@ Ver también [[02_Characters/Auditoria_Reparto]] para prioridad, desarrollo esti
 - [[02_Characters/Russell_Whitaker]] — Russ; ex veterano con bastón, aspirante a alcalde y cara política de El Patio.
 - [[02_Characters/Garrett_Cross]] — administrador financiero, testaferro y cara legal de activos.
 - [[02_Characters/Matteo_Bellacorte]] — socio del Monarch; abre la puerta a Kal en H2.
-- [[02_Characters/Fabrizio_Rinaldi]] — provisional; viejo amigo italiano de Chiara dentro del grupo del Monarch.
-- [[02_Characters/Tommaso_Lusardi]] — provisional; hermano de Alessio Lusardi y presencia incómoda del pasado de Chiara.
+- [[02_Characters/Fabrizio_Rinaldi]] — provisional; viejo amigo italiano de Chiara dentro del grupo del Monarch; asesinado al abrir el Libro II (CANON DEL AUTOR 2026-10-12).
+- [[02_Characters/Tommaso_Lusardi]] — provisional; hermano de Alessio Lusardi y presencia incómoda del pasado de Chiara; sobrevive al choque del Lancia y deja San Aurelio al final del Libro II (CANON DEL AUTOR 2026-10-12).
 
 ## Antagonistas y presión externa
 

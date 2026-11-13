@@ -143,7 +143,7 @@ La guerra debe producir fenómenos que ninguno de los tres ordenó. San Aurelio 
 
 ## La guerra invade una familia en marcha — CANON DEL AUTOR (2026-08-31)
 
-Chiara entra a Voto de Ceniza (Libro II) **ya embarazada**. La Guerra de los Tres no produce el embarazo ni ocurre porque exista Elenna: invade una vida doméstica que Kal y Chiara ya habían empezado a imaginar durante Parte II.
+Chiara entra a Voto de Ceniza (Libro III) **ya embarazada**. La Guerra de los Tres no produce el embarazo ni ocurre porque exista Elenna: invade una vida doméstica que Kal y Chiara ya habían empezado a imaginar durante Parte II.
 
 La siguiente cadena es una referencia histórica supersedida en la posición de F2 por [[00_Biblia/00_Trilogy_Structure]]: Bonnie ya está establecida en Italia al abrir Voto de Ceniza. Para el orden operativo vigente, consultar [[11_Books/Book_03_Voto_De_Ceniza/00_Book_Map]] y [[06_Relationships/Hitos]].
 
@@ -157,7 +157,7 @@ La maniobra conserva las tres capas de verdad:
 |---|---|
 | San Aurelio / versión pública | La hija de Kal Mercer y Chiara Bellandi murió durante o alrededor del parto |
 | Círculo íntimo, todavía por fijar | Elenna vive; la lista y el momento de conocimiento permanecen pendientes |
-| Realidad | Vive en Italia como Elenna Serra bajo el cuidado cotidiano de Bonnie |
+| Realidad | Vive bajo el cuidado cotidiano de Bonnie, que la recibe desde Boston (CANON 2026-11-07; Italia y Elenna Serra retiradas; lugar exacto PENDIENTE) |
 
 Ni Dario Varek ni Warren Halbrook conocen que sobrevivió. La guerra no se simplifica a una operación para “salvar a la bebé”: Elenna puede cumplir su función sin estar físicamente en peligro en escena. Su poder narrativo es la vida que continúa en otro lugar mientras sus padres terminan la guerra.
 
@@ -182,7 +182,7 @@ La separación debe durar lo suficiente para convertirse en experiencia acumulad
 
 Antes del corte a *Cuentas de Sangre* también deben haberse cobrado las muertes de Héctor y Kenji, la herida grave de Chiara, la aparición posterior de Corrado según su arco y el cierre reconocible de la arquitectura bélica dentro de *Voto de Ceniza*. ~~La causa y posición exactas de la muerte de Héctor y el orden fino Santa Lucía/montaña permanecen pendientes.~~ **Resuelto 2026-11-08:** mismo día; arresto por la tarde, montaña y Santa Lucía de noche; Halbrook mata a Héctor en la montaña.
 
-> **PENDIENTE:** relación causal y orden fino entre el atentado de Santa Lucía y la secuencia de montaña; qué institución formula primero una hipótesis demostrable sobre Halbrook. **RESUELTO por [[00_Biblia/00_Trilogy_Structure]]:** quien dispara contra Halbrook es **Kal**, en *Cuentas de Sangre* (Libro III) — ya no es una incógnita de este tramo. **[Superado 2026-09-28: muere en su discurso de victoria al cierre de *Voto de Ceniza*; disparó Harper, Kal y Nadir la cubren. Ver [[02_Characters/Warren_Halbrook]].]**
+> **PENDIENTE:** relación causal y orden fino entre el atentado de Santa Lucía y la secuencia de montaña; qué institución formula primero una hipótesis demostrable sobre Halbrook. **RESUELTO por [[00_Biblia/00_Trilogy_Structure]]:** quien dispara contra Halbrook es **Kal**, en *Cuentas de Sangre* (Libro IV) — ya no es una incógnita de este tramo. **[Superado 2026-09-28: muere en su discurso de victoria al cierre de *Voto de Ceniza*; disparó Harper, Kal y Nadir la cubren. Ver [[02_Characters/Warren_Halbrook]].]**
 
 ## Regla particular — Coche bomba en Calle Corona
 

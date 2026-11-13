@@ -14,7 +14,7 @@
 **Qué es:** viejo amigo del barrio de la Almendra.
 **Nacionalidad:** estadounidense *(CANON DEL AUTOR, 2026-10-08)*.
 **Edad:** 63 *(confirmado por el autor, 2026-08-26)*.
-**Estado:** vivo al abrir; muere en *Voto de Ceniza* (Libro II), después de H1 y de H22, durante la montaña. Causa y colocación finas pendientes.
+**Estado:** vivo al abrir; muere en *Voto de Ceniza* (Libro III), después de H1 y de H22, durante la montaña. Causa y colocación finas pendientes.
 **Importancia:** tercer personaje del libro.
 
 **Apariencia — CANON DEL AUTOR (2026-09-01):** americano, tez caucásica. Pelo cano/gris, abundante y poco arreglado. Viste camisas de leñador — su prenda fija, dentro y fuera del taller.
@@ -89,7 +89,7 @@ Kal le cuenta a él y a Nadir la filtración de Mei-Lin, y a nadie más. Héctor
 
 > **PENDIENTE:** ¿llama él a Chiara la noche de H1, o decide no llamarla? Cualquiera de las dos es una escena.
 
-> **PENDIENTE (2026-08-31):** causa, posición exacta y consecuencias de su muerte durante la montaña, en *Voto de Ceniza* (Libro II), después de H22. No usarla sólo como escalón de violencia: debe cambiar una relación o estructura.
+> **PENDIENTE (2026-08-31):** causa, posición exacta y consecuencias de su muerte durante la montaña, en *Voto de Ceniza* (Libro III), después de H22. No usarla sólo como escalón de violencia: debe cambiar una relación o estructura.
 
 > **RESUELTO (2026-08-26; renumerado 2026-08-29, dos veces):** el momento existe — [[06_Relationships/Hitos]], H10, **Cap. 14 (archivo 14; antes archivo 16)** ([[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/16_El_Sobre_Rojo]]). No fue tarde: fue en el hospital, después del infarto, cuando le dice a Kal que decidir de qué protege a Chiara no es suyo — es de ella.
 

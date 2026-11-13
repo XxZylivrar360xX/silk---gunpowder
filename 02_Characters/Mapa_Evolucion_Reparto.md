@@ -210,13 +210,13 @@ Formato: **qué es** en ese libro → **qué le cambia**. Fuente de cada línea:
 
 ## 4. Contradicciones y pendientes detectados al cruzar fichas
 
-No se corrigió nada: se reporta para decidir. Los puntos 1 y 3 coinciden con las contradicciones de propagación del [[11_Books/00_Libro_Mayor_Deudas_Saga]] (mismo día), que da la lista completa de archivos afectados.
+**Corregidas el 2026-11-12 por orden del autor** (propagación de canon ya decidido; ningún canon nuevo). Los puntos 1 y 3 coinciden con las contradicciones de propagación del [[11_Books/00_Libro_Mayor_Deudas_Saga]].
 
-1. **Dónde crece Elenna.** [[02_Characters/Bonnie_Garcia]] (cuerpo, 2026-11-07) dice que Bonnie la recibe **en Boston**, y que «Italia y la cobertura Elenna Serra quedan retiradas». Siguen diciendo **Italia / Elenna Serra** el campo «Estado» de la misma ficha, [[01_Timeline/04_Libro_03_Voto_De_Ceniza]] y la línea de Elenna en [[02_Characters/README]].
-2. **Mei-Lin «ejecutada».** El campo «Estado» de [[02_Characters/Mei_Lin_Zhao]] dice «ejecutada en F2, Parte V»; el canon del 2026-11-07 dice que la apuñala un enemigo y muere en El Patio.
-3. **Numeración vieja de libros.** [[02_Characters/Hector_Navarro]] («muere en *Voto de Ceniza* (Libro II)»), [[02_Characters/Corrado_Ardizzone]] y [[02_Characters/Kenji_Oda]] llaman todavía Libro II a *Voto de Ceniza*.
-4. **Trix «vive lejos».** [[02_Characters/Beatrice_Varek]] conserva un párrafo de incubadora («no vuelve a aparecer… vive lejos») que choca con su muerte en el III (canon del 2026-11-07, anotado más arriba en la misma ficha).
-5. **README del reparto.** Lista a Fabrizio y a Tommaso como «provisionales», aunque Fabrizio ya muere al abrir el II; y mezcla niveles (Raymond Keene, muerto antes del I, aparece entre los «secundarios principales»).
+1. **Dónde crece Elenna (Boston, no Italia; CANON 2026-11-07).** Corregido en línea en las fichas de Bonnie, Elenna (cabecera) y el README, en [[01_Timeline/04_Libro_03_Voto_De_Ceniza]], [[06_Relationships/Hitos]] (prerrequisitos de H22), [[04_Concepts/La_Guerra_de_los_Tres]] (tabla de capas) y [[05_Locations/La_Villa]]; Bonnie y Mei-Lin llevan ya la nota de cambio de canon que tenían las demás fichas. **Queda:** el cuerpo de [[00_Biblia/00_Trilogy_Structure]] y de las fichas de Elenna y Bonnie (los cubre su nota de cabecera) y los mapas del [[11_Books/Book_03_Voto_De_Ceniza/00_Book_Map|III]] y del [[11_Books/Book_04_Cuentas_De_Sangre/00_Book_Map|IV]], que no se tocaron porque otra sesión los estaba editando.
+2. **Mei-Lin «ejecutada».** Corregido el campo «Estado» de [[02_Characters/Mei_Lin_Zhao]].
+3. **Numeración vieja de libros.** *Voto de Ceniza* pasa a Libro III y *Cuentas de Sangre* a Libro IV en las líneas vigentes de Héctor, Corrado, Kenji, Elenna, Chiara, Marisol, Matteo, Kal_y_Chiara, La_Guerra_de_los_Tres, La_Villa e Iglesia_Santa_Lucia. Las notas históricas («era Libro II», tachados, avisos de supersesión) se dejaron como estaban.
+4. **Trix «vive lejos».** Tachado en [[02_Characters/Beatrice_Varek]], con la nota de su muerte en el III.
+5. **README del reparto.** Keene, Fabrizio y Tommaso llevan su estado. Si sus nombres siguen siendo «provisionales» lo decide el autor; la agrupación del README no se reordenó.
 6. **Huecos de arco** (PENDIENTE DEL AUTOR, no rellenar): Chiara en el III y el IV; Nadir en el III y en V–VII; Marisol en el IV; Harper en II–III; Elio.
 
 ---

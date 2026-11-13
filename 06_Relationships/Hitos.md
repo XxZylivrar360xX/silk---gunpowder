@@ -2666,9 +2666,9 @@ Al cierre de la montaña y Santa Lucía, Kal comprende que los dos frentes perte
 Lo que sí debe existir en prosa **antes** de H22:
 
 - la Guerra de los Tres ya en escalada, no cerrada — Dario y Halbrook activos, la ciudad interpretando el choque posterior a H1;
-- el destierro de Bonnie (F2, Libro II — Sombras de Poder) y su vida ya establecida en Italia;
+- la salida de Bonnie (F2, Libro II — Sombras de Poder) y su vida ya establecida en Boston *(CANON DEL AUTOR 2026-11-07: no hay destierro ni Italia)*;
 - el embarazo, H1 con conocimiento desigual y el reveal a Kal (Libro II — Sombras de Poder);
-- el nacimiento de Elenna, la falsa muerte pública, Elenna Serra con Bonnie, y una separación ya vivida como experiencia cotidiana (fotografías escasas incluidas).
+- el nacimiento de Elenna, la falsa muerte pública, Elenna con Bonnie (recibida desde Boston; Elenna Serra retirada el 2026-11-07), y una separación ya vivida como experiencia cotidiana (fotografías escasas incluidas).
 
 Lo que ocurre **después** de H22, dentro del mismo libro (Voto de Ceniza): la caída legal de Dario (falso clímax) → la montaña y Santa Lucía —con la muerte de [[02_Characters/Hector_Navarro|Héctor Navarro]] y de [[02_Characters/Kenji_Oda|Kenji Oda]] y Chiara gravemente herida— → Kal decide que Halbrook debe morir (no lo ejecuta todavía) → Corrado revelado vivo. **H22 es la bisagra dentro de la guerra todavía abierta** que hace nacer el plan de salida antes del atentado contra Chiara.
 
@@ -2714,11 +2714,11 @@ Redactarlo antes de construir esas causas convertiría una bisagra estructural e
 | H1 con embarazo secreto | Sí | Elenna queda ligada a volver a casa |
 | Reveal a Kal | Sí | Paternidad consciente |
 | Arco Bonnie–Chiara | Sí | Justifica la confianza |
-| Destierro de Bonnie | Sí | La coloca orgánicamente en Italia |
+| Salida de Bonnie (F2) | Sí | La coloca orgánicamente en Boston (CANON 2026-11-07) |
 | Guerra de los Tres | Sí | Impide la vida familiar normal |
 | Nacimiento de Elenna | Sí | Convierte posibilidad en persona |
 | Falsa muerte | Sí | Explica la separación pública |
-| Elenna Serra | Sí | Establece su nueva vida |
+| Resguardo con Bonnie (antes Elenna Serra; retirada 2026-11-07) | Sí | Establece su nueva vida |
 | Separación prolongada | Sí | Produce pérdida acumulada |
 | Fotografías | Recomendado / necesario como contraste | El video rompe la inmovilidad |
 | Guerra de los Tres en escalada (no cerrada) | Sí | La racionalización "sólo tenemos que terminar" necesita una guerra todavía abierta |

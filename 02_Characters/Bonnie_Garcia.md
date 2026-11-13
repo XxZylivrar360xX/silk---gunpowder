@@ -1,5 +1,7 @@
 # Bonnie García
 
+> **CAMBIO DE CANON (2026-11-07):** F2 ya no es ejecución ni destierro: Mei-Lin muere tras una operación y Bonnie se va a Boston por elección; recibe a Elenna desde Boston (se retira Italia). Manda [[06_Relationships/Momentos_de_Fractura#F2 - La muerte de Mei-Lin y la salida de Bonnie|F2]]; lo que diga abajo sobre Italia, Roberta Ardizzone, la ejecución o el destierro queda superado.
+
 > **NUEVO CAUCE — PARTE III (2026-11-08; [[98_Agent_Handoff/sessions/2026-11-08_claude_propagacion_parte_III]]; prosa BORRADOR, lo nuevo es DISEÑO salvo donde dice CANON):** **Nuevo 35:** se queda el beat del mesero («Por babor…») en el yate; Kal ve desde lejos que Chiara le pregunta el nombre. «Roma» sólo con Nadir y Bonnie. **Nuevo 37:** Chiara la busca por la lista de seguridad del yate y le cuenta Palermo; Bonnie le habla de usted, con frases cortas, y lee a la gente por hacia dónde mira («Allá también tiene jefe, entonces»). **Nuevo 38 (CANON, opción a):** en la llamada le dice a Chiara que Mei-Lin duerme en el Patio y que «lo de allá arriba se deshizo»; no nombra a Boone ni a la banda; le preguntó dos veces y no va a llevar a nadie hasta donde duerme. **No hay ficha de voz de Bonnie** en `12_Craft_Policies/voice/` (los rasgos de arriba salen de la prosa).
 
 > **Numeración:** desde 2026-10-22 el Libro I usa numeración corrida definitiva (56 caps.); este documento cita la numeración anterior. Correspondencia en [[11_Books/Book_01_Mascaras_De_Cristal/00_Book_Map]].
@@ -33,7 +35,7 @@ Irse no es ganar: pierde a Mei-Lin, La Almendra, el vínculo diario con Chiara, 
 **Edad al abrir la novela:** 23.
 **Oficio:** corredora callejera; aprendiz operativa de lectura de escenarios.
 **Rol:** secundaria importante; protegida de Chiara.
-**Identidad de resguardo en Italia:** Roberta Ardizzone.
+~~**Identidad de resguardo en Italia:** Roberta Ardizzone.~~ *(Superado por CANON DEL AUTOR 2026-11-07: no hay exilio en Italia; con qué nombre vuelve ~veinte años después es PENDIENTE, ver [[06_Relationships/Momentos_de_Fractura]].)*
 **Estado:** viva; desterrada de San Aurelio en *Sombras de Poder* (Libro II, Parte III — Exilio; antes de H1) y establecida en Italia antes del nacimiento de Elenna en *Voto de Ceniza* (Libro III).
 
 > **NUMERACIÓN SUPERADA (nota 2026-10-14):** «Estado» ya está corregido; otras secciones de esta ficha usan la arquitectura anterior. Hoy F2 cae en *Sombras de Poder* (Libro II) y Elenna nace en *Voto de Ceniza* (Libro III); ver [[00_Biblia/00_Trilogy_Structure]] y [[11_Books/Book_02_Sombras_De_Poder/00_Plan_Cuatro_Partes]]. Las menciones de «Libro I/II» en las secciones de F2 e Italia se leen con esa corrección.
@@ -147,7 +149,7 @@ Ese aprendizaje la vuelve peligrosa de una forma nueva: una corredora que aprend
 ## Conexiones
 
 - [[02_Characters/Chiara_Bellandi]] — protectora e instructora. Le enseña lectura de escenarios y reconducción.
-- [[02_Characters/Elenna_Mercer]] — niña a la que cuida en Italia como Elenna Serra; vínculo propio que no desaparece cuando sus padres regresan.
+- [[02_Characters/Elenna_Mercer]] — niña a la que cuida durante su primer año, recibida desde Boston (lugar exacto PENDIENTE); vínculo propio que no desaparece cuando sus padres regresan.
 - [[02_Characters/Mei_Lin_Zhao]] — viene de la misma banda rival desintegrada.
 - [[02_Characters/Kal_Mercer]] — cabeza de la organización donde entra, pero no su eje emocional principal.
 - [[02_Characters/Tyler_Brooks]] — comparte circuito joven de carreras.

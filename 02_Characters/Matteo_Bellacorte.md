@@ -40,7 +40,7 @@ Esa noche hace que Kal llegue al casino para conocer a los socios. No sabe que a
 
 ## Salida de Libro I y regreso en Libro III
 
-> **CANON DEL AUTOR (2026-09-12):** Matteo sale abruptamente de San Aurelio en el Libro I para buscar a su hermano, desaparecido fuera de la ciudad. La ausencia lo poda de la historia sin volverlo traidor, muerto ni irrelevante; regresa en *Cuentas de Sangre* (Libro III).
+> **CANON DEL AUTOR (2026-09-12):** Matteo sale abruptamente de San Aurelio en el Libro I para buscar a su hermano, desaparecido fuera de la ciudad. La ausencia lo poda de la historia sin volverlo traidor, muerto ni irrelevante; regresa en *Cuentas de Sangre* (Libro IV).
 
 La desaparición es obra de [[02_Characters/Nereo_Volpi]], ejecutor extraoficial de La Mesa. La nota que queda detrás no busca negociar: está diseñada para obligar a Matteo a seguir la ruta del hermano y abandonar San Aurelio.
 
