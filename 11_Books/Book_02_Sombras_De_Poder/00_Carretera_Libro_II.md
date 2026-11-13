@@ -108,7 +108,7 @@ Son eslabones de trama, no capítulos (la Fase 2 los convierte en tarjetas). En 
 | E19 | **F2** (abr–may) | «Lo del hermano» le revela la filtración; Kal pospone el juicio. **P:** la operación es un choque con la red de Crowe, consecuencia de E17; la apuñala un hombre de Crowe (si es un Caldero, cierra el levantón). Muere en El Patio; Bonnie elige Boston | «Perdóname, jefe.» Una regla que protege mata | Kal concluye que no puede pelearle a Crowe con el método de Dario | C + P |
 | E20 | **Cierre: la frase de Mabel** (may–jun; ~77 %) | Se planea la boda | La depresión de Chiara; Kal sobrecompensa | La boda | C |
 
-> **Ajuste propuesto (2026-11-12, DISEÑO):** las [[11_Books/Book_02_Sombras_De_Poder/Part_03_Exilio/00_Tarjetas_Parte_III|tarjetas de la Parte III]] proponen que a Mei-Lin la apuñale el Caldero que Kal perdonó en el levantón. Así, el «por eso» de E19 pasa a ser que Kal aprende la lección equivocada («perdonar mata»), y eso lo lleva al golpe fallido de E22. Espera al autor.
+> **Ajuste propuesto (2026-11-12, DISEÑO):** las [[11_Books/Book_02_Sombras_De_Poder/Part_03_Exilio/00_Tarjetas_Parte_III|tarjetas de la Parte III]] proponen que a Mei-Lin la apuñale el Caldero que Kal perdonó en el levantón. Así, el «por eso» de E19 pasa a ser que Kal aprende la lección equivocada («perdonar mata»), y eso lo lleva al golpe fallido de E22. Espera al autor. **Superado (DISEÑO, 2026-11-12):** la apuñala un Caldero joven y sin nombre, distinto del perdonado; vuelve en *Voto de Ceniza* ([[11_Books/Book_03_Voto_De_Ceniza/00_Diseno_El_Caldero_En_La_Oficina]]).
 
 ### Parte IV — Torna a casa (jul–dic A4)
 

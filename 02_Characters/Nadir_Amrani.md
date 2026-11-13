@@ -18,6 +18,8 @@ Es una de las primeras grietas profundas entre Nadir persona y Nadir miembro de 
 
 > **DECISIÓN DEL AUTOR (2026-11-12; Libro II, cap. 41 de [[11_Books/Book_02_Sombras_De_Poder/00_Guia_Redaccion_Capitulos]]):** tras F2, Nadir organiza a los chicos sin decirle a Kal y los lleva contra los Calderos para cobrar a Mei-Lin. El golpe sale mal: mueren inocentes, ningún chico muere (hay heridos) y el Caldero que la apuñaló sobrevive. Kal llega tarde y responde por ellos. Es el primer paso de la **separación voluntaria de Nadir de la banda**, que se va cumpliendo a lo largo de la saga. En el 42 lo ve darle la mano a Mack Calderon y no dice nada.
 
+> **DISEÑO (2026-11-12) con DECISIÓN DEL AUTOR sobre el cobro:** Nadir es el único que le vio la cara al Caldero de la navaja de flamas verdes. En *Voto de Ceniza*, Kal y Chiara invierten en ese hombre y no se lo dicen. **Nadir se entera en el Libro IV, solo y sin confesión**, cuando ya no quiere seguir en ese mundo; en el III es la mano derecha de Kal y no puede saberlo. Combustible de su separación, no causa única: [[11_Books/Book_03_Voto_De_Ceniza/00_Diseno_El_Caldero_En_La_Oficina]].
+
 *Seda y Pólvora — Ficha de Personaje*
 
 > **CANON DEL AUTOR (2026-08-23).** Ficha compacta. No inventar nacionalidad, familia ni biografía fuera de lo definido.

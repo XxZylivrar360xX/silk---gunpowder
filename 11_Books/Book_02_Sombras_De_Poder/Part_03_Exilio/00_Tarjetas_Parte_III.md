@@ -117,7 +117,7 @@
 ## Para el autor
 
 1. **El hecho que delata a Mei-Lin (P):** Dario menciona las latas y la frase de Yun-Kai cae. Así la escena canon de las latas gana un cobro nuevo, el que perdió con el F2 nuevo.
-2. **Quién la apuñala (P):** el Caldero que Kal perdonó en el levantón. Con eso F2 enseña la lección equivocada («perdonar mata»), que la IV corrige con el golpe fallido. **Cambia el «por eso» de E19 en la carretera.** Alternativa: un Caldero sin nombre, y E19 se queda como está.
+2. **Quién la apuñala (P):** el Caldero que Kal perdonó en el levantón. Con eso F2 enseña la lección equivocada («perdonar mata»), que la IV corrige con el golpe fallido. **Cambia el «por eso» de E19 en la carretera.** Alternativa: un Caldero sin nombre, y E19 se queda como está. **Resuelto como DISEÑO (2026-11-12, el autor pidió registrarlo):** gana la alternativa, un Caldero joven y sin nombre, con una navaja retráctil de flamas verdes que vuelve en *Voto de Ceniza*: [[11_Books/Book_03_Voto_De_Ceniza/00_Diseno_El_Caldero_En_La_Oficina]].
 3. **Chiara se entera por Bonnie (P)** de la filtración y de que Kal la calló. Mei-Lin le pagaba al mismo hombre que ella.
 4. **Chiara le pide un favor a Dario sobre su propio sabotaje (T2, P).** Es la ironía más fuerte de la Parte y también la más delicada para la guarda de Varek–Volpi: en la página nada la señala.
 5. **Primera plana (T4, P):** Halbrook entra a una comisión con el marco que eligió Chiara.
