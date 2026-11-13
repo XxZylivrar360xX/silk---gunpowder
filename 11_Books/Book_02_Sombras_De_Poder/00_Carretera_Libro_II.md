@@ -108,6 +108,8 @@ Son eslabones de trama, no capítulos (la Fase 2 los convierte en tarjetas). En 
 | E19 | **F2** (abr–may) | «Lo del hermano» le revela la filtración; Kal pospone el juicio. **P:** la operación es un choque con la red de Crowe, consecuencia de E17; la apuñala un hombre de Crowe (si es un Caldero, cierra el levantón). Muere en El Patio; Bonnie elige Boston | «Perdóname, jefe.» Una regla que protege mata | Kal concluye que no puede pelearle a Crowe con el método de Dario | C + P |
 | E20 | **Cierre: la frase de Mabel** (may–jun; ~77 %) | Se planea la boda | La depresión de Chiara; Kal sobrecompensa | La boda | C |
 
+> **Ajuste propuesto (2026-11-12, DISEÑO):** las [[11_Books/Book_02_Sombras_De_Poder/Part_03_Exilio/00_Tarjetas_Parte_III|tarjetas de la Parte III]] proponen que a Mei-Lin la apuñale el Caldero que Kal perdonó en el levantón. Así, el «por eso» de E19 pasa a ser que Kal aprende la lección equivocada («perdonar mata»), y eso lo lleva al golpe fallido de E22. Espera al autor.
+
 ### Parte IV — Torna a casa (jul–dic A4)
 
 | # | Eslabón | Trama | Relación (secreto) | Por eso | Origen |
@@ -145,7 +147,7 @@ Son eslabones de trama, no capítulos (la Fase 2 los convierte en tarjetas). En 
 | | **2. La cuenta** (fin de may – principios de sep), 7 caps. | **La mudanza** (sep → principios de oct) | ~4 semanas | **La montaña**, que provoca la venta al FBI |
 | | **3. El ruido** (oct – principios de nov), 6 caps. | — (de la gala al 23 nov) | ~3 semanas | El cumpleaños; el Patio la acepta |
 | **Parte II** | Continua (23 nov A3 – feb A4) | Saltos de días o semanas entre los postes | — | Cada salto cae en una entrega a Crowe o en una cuota |
-| **Parte III** | Continua (feb – jun A4) | Del bastón a F2 | ~4–5 semanas | **«Lo del hermano queda saldado»** (la filtración) |
+| **Parte III** | Continua (feb – jun A4) | Del bastón a las latas (ajuste de las tarjetas de la III) | ~4–5 semanas | La guerra con Crowe hecha rutina; **«Lo del hermano queda saldado»** cae un capítulo después (la filtración) |
 | **Parte IV** | Boda (jul) → el costo → las bandas (sep) | Del costo a las bandas | ~4 semanas | Las bandas que van con Kal |
 | | Cartas de Dale (ago–oct) → Stavanger (~25 oct) | De Stavanger a la señal 1 | ~3 semanas | La señal 1 (~18–20 nov) |
 | | Las dos semanas del secreto → la noche | — | — | H1 |

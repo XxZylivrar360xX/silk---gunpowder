@@ -40,6 +40,20 @@ Encargo del autor: avanzar con la reconciliación del Libro II, trabajando «jus
 - **Choques detectados:** la Nochebuena necesita el POV de Kal para que se vea a Yun-Kai (el diseño pedía el de Chiara); al fundir *La jaula*, los tics 4 y 5 quedan en capítulos seguidos.
 - **Autocrítica:** la Parte carga mucho POV de Kal (10 de 17). Es coherente con su deterioro, pero vigila la guarda 1. El levantón en febrero aprieta un mes ya denso (levantón, choque y armario en unas tres semanas).
 
+## Quinta vuelta: tarjetas de la Parte III
+
+- Nuevo [[11_Books/Book_02_Sombras_De_Poder/Part_03_Exilio/00_Tarjetas_Parte_III]] (DISEÑO): 10 tarjetas en dos bloques (*Los frenos* y *La línea*), con la elipsis C (~4–5 semanas, del bastón a las latas) y la D (~3, hasta junio). Motivo: reglas que protegen y matan.
+- Propuestas:
+  - El reloj de Crowe se detiene (Kal no paga la séptima entrega) y se vuelve guerra.
+  - En *Escenarios*, cada uno calla la deuda que le tapa un sospechoso, y Chiara le pide un favor a Dario sobre su propio sabotaje.
+  - En *Primera plana*, Chiara se entera por su periódico de la guerra de Kal y Halbrook entra a una comisión con el marco que ella eligió.
+  - Las latas, con Mei-Lin presente, son lo que la delata: Dario las menciona y la frase de Yun-Kai cae. Es el cobro nuevo de una escena canon que había perdido el suyo.
+  - El Caldero perdonado en el levantón apuñala a Mei-Lin, y F2 enseña la lección equivocada («perdonar mata»). Eso ajusta E19: nota en la carretera.
+  - Nadir es el POV de F2.
+  - Chiara se entera por Bonnie de la filtración y de que Kal la calló; Mei-Lin le pagaba al mismo hombre que ella.
+- La fila de la Parte III del reloj (§3b) se ajustó.
+- **Autocrítica:** el favor que Chiara le pide a Dario y la filtración de Mei-Lin hacen subir mucho el ruido de Varek. Las tarjetas lo atajan con dos guardas: lo filtrado no incluye el Lancia y nada se prueba en la página. Aun así, conviene que el autor mida si la suma no rebasa el «sólo ruido» del canon. La opción de «Lo siento, ¿vale?» en T9 da un sentido nuevo a una línea canon; no la reescribe.
+
 ## Pendiente
 
-Lectura del autor de las tarjetas de las Partes I y II; decisiones 2–14 de la carretera; tarjetas de las Partes II–IV.
+Lectura del autor de las tarjetas de las Partes I–III; decisiones 2–14 de la carretera; tarjetas de la Parte IV.
