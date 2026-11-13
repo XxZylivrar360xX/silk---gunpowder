@@ -147,7 +147,7 @@ En prosa BORRADOR: [[11_Books/Book_02_Sombras_De_Poder/Part_01_Territorio_Ajeno/
 
 ### Numeración vigente: 55 capítulos (DECISIÓN DEL AUTOR, 2026-11-12)
 
-Fase 3 aprobada: [[11_Books/Book_02_Sombras_De_Poder/00_Mapa_Boceto_A_Tarjetas]]. **Partes:** I = 1–17, II = 18–31, III = 32–39, IV = 40–55. Los títulos son de trabajo (los del boceto o de las tarjetas); ningún archivo se renombra hasta que haya prosa. «Boceto N» cita la numeración de 64 del [[11_Books/Book_02_Sombras_De_Poder/00_Boceto_Lista_Capitulos]] (2026-10-13), que sigue en documentos anteriores a esta fecha. **Retirado:** el boceto 45, *El norte* (F2 viejo).
+Fase 3 aprobada: [[11_Books/Book_02_Sombras_De_Poder/00_Mapa_Boceto_A_Tarjetas]]. **Partes:** I = 1–17, II = 18–31, III = 32–39, IV = 40–55. Los títulos son de trabajo (los del boceto o de las tarjetas); ningún archivo se renombra hasta que haya prosa. Guía de redacción: [[11_Books/Book_02_Sombras_De_Poder/00_Guia_Redaccion_Capitulos]]. «Boceto N» cita la numeración de 64 del boceto retirado ([[97_Supersedido/Boceto_Lista_Capitulos_64]], 2026-10-13), que sigue en documentos anteriores a esta fecha. **Retirado:** el boceto 45, *El norte* (F2 viejo).
 
 | Parte | Cap. | Título de trabajo | Boceto | Tarjeta | POV |
 |---|---|---|---|---|---|

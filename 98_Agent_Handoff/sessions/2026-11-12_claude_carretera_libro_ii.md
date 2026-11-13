@@ -90,6 +90,14 @@ Encargo del autor: avanzar con la reconciliación del Libro II, trabajando «jus
 - Referencias convertidas, con el número del boceto entre paréntesis: el diseño de Stavanger (siembras por capítulo y la tabla de H1), el de Navidad, el de las cartas (43), la ficha de Mei-Lin (36), la graduación (15), F3 en Momentos de Fractura (30–34) y la rima del 48 en las tarjetas de la Parte II. El plan de cuatro Partes y el boceto remiten a la tabla.
 - **No se tocó:** el boceto sigue entero, porque guarda los beats y las líneas canon de cada ficha; pasa a supersedido cuando se rehaga la guía. Tampoco las tarjetas ni la carretera, que citan el boceto con su nombre, ni los buzones de ChatGPT ni las notas históricas. Fuera de `Book_02` no había más referencias a la numeración del boceto (búsqueda en fichas, hitos, línea temporal, conceptos y políticas).
 
+## Novena vuelta: guía de redacción de 55
+
+- Nueva [[11_Books/Book_02_Sombras_De_Poder/00_Guia_Redaccion_Capitulos]] (DISEÑO). Lleva las reglas del boceto sin cambios (foco, brújula, técnica fuera de cuadro, paleta, lo que el lector no puede saber, velas, registro, Halbrook, ortotipografía) y suma la columna, el reloj con sus elipsis A–F, el tono de Varek y D3. También tiene la distribución con los motivos de cada Parte, el mapa de tics y señales, la tabla de POV ajenos con números nuevos y 55 fichas.
+- **Cada ficha** junta los beats, las líneas canon, los «no hacer» y los PENDIENTE del boceto con la trama, la relación, el saldo y las propuestas (P) de las tarjetas, y cita su número del boceto y su tarjeta.
+- **Verificación:** las 55 fichas están, y todas las citas «…» del boceto están en la guía, salvo una nota del F2 retirado («no es todavía Villa Candelaria»).
+- **Las líneas canon del boceto 45** («Lo siento, ¿vale?», el beso en la frente, «en el suelo, destrozados») quedan como PENDIENTE en el 38.
+- **El boceto** pasó con `git mv` a [[97_Supersedido/Boceto_Lista_Capitulos_64]], con cabecera según el protocolo. En su ruta vieja queda una página de una línea para que no se rompan los enlaces de las notas anteriores. Remiten ya a la guía el plan de cuatro Partes, el Book_Map, las tarjetas III y IV, INDEX, el brief y PENDING.
+
 ## Pendiente
 
-Lectura del autor de las tarjetas; rehacer la guía de redacción desde las tarjetas; la elipsis de R9 y «Mac a Almendra»; decisiones 2–13 de la carretera. Siguiente: propagar la numeración (Book_Map, matriz, fichas), mandar el boceto a supersedido y rehacer la guía de redacción desde las tarjetas.
+Lectura del autor de la guía y de las tarjetas; la elipsis de R9 y «Mac a Almendra»; decisiones 2–13 de la carretera. Siguiente: propagar la numeración (Book_Map, matriz, fichas), mandar el boceto a supersedido y rehacer la guía de redacción desde las tarjetas.

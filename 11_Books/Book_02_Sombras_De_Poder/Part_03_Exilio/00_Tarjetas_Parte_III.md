@@ -87,7 +87,7 @@
 > **Elipsis D · ~3 semanas (mayo → junio).** Salto corto. **Aterriza en la cuota de junio, que Chiara paga tarde por primera vez** (P): el reloj de ella también se descompone. El residuo: la casa vacía de La Almendra ya tiene otro inquilino.
 
 ### T10 · Una sola frase — junio · Chiara · la cocina de Mabel (DISEÑO) — **cierre de la Parte**
-- **Trama:** la depresión de Chiara; Mabel le dice la frase y le encarga planear su boda con Walt para sacarla de ahí. Planear es trabajo de recuperación (C; línea canon de Mabel en [[11_Books/Book_02_Sombras_De_Poder/00_Boceto_Lista_Capitulos]], cap. 47, no reescribir). **P:** Walt está en la cocina, y lo que se dice de su condicional va según D11.
+- **Trama:** la depresión de Chiara; Mabel le dice la frase y le encarga planear su boda con Walt para sacarla de ahí. Planear es trabajo de recuperación (C; línea canon de Mabel en [[11_Books/Book_02_Sombras_De_Poder/00_Guia_Redaccion_Capitulos]], cap. 39 (boceto 47), no reescribir). **P:** Walt está en la cocina, y lo que se dice de su condicional va según D11.
 - **Relación:** Kal construye tiempo y memorias (C); ella acepta un trabajo que no le cobra nada. El motivo de la Parte II vuelve, y esta vez el regalo lo da Mabel.
 - **Por eso:** la boda (Parte IV).
 - **Saldo:** **FIN DE LA PARTE III.** Queda abierta la guerra con Crowe, Halbrook está en su comisión y la cuenta de Varek sigue viva. La cuota de junio está pagada, tarde.

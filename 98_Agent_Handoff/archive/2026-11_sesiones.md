@@ -2,6 +2,7 @@
 
 Entradas retiradas del registro reciente de [[log]] al pasar de 30 enlaces. Más antiguas al final.
 
+- 2026-11-08: embarazo de Chiara y falsa muerte de Elenna (decisiones del autor: riesgo por edad, detonante Trix e Iris, reposo a los seis meses, parto en hospital con Camila y Lucía, Héctor lo sabe antes de la montaña): [[98_Agent_Handoff/sessions/2026-11-08_claude_embarazo_y_falsa_muerte_elenna]]
 - 2026-11-08: Guerra de los Tres en tres tiempos (clímax en un día: arresto de Dario, montaña y Santa Lucía); Harper y Mei-Lin separadas; Tyler absorbe la muerte de Halbrook y va a prisión, Harper sale del país (CANON DEL AUTOR): [[98_Agent_Handoff/sessions/2026-11-08_claude_guerra_tres_tiempos_harper_tyler]]
 - 2026-11-08: Parte I del nuevo cauce cerrada (nuevos 11–19) y renumerada en encabezados, Book_Map y CHAPTER_STATUS; copia de Drive de *Roma Atrii* a Escenas_Eliminadas: [[98_Agent_Handoff/sessions/2026-11-08_claude_renumeracion_parte_I]]
 - 2026-11-08: el autor suscribe la revisión de ChatGPT; guardas de vigilancia (CANON DEL AUTOR) en el plan del nuevo cauce y en el de *Sombras de Poder*: [[98_Agent_Handoff/sessions/2026-11-08_claude_guardas_chatgpt_cauce_y_sombras]]
