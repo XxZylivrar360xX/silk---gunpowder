@@ -307,10 +307,6 @@ Ya eran dos. Chiara no preguntó más.
 
 —Una lámina con muy buena puntería. —Los abrió—. El chaleco pesaba más que una italiana que conozco.
 
-—Ya me lo dijiste.
-
-—Es que es verdad.
-
 Ella le sonrió. Le sonrió con toda la cara, y él le sostuvo la mirada un momento, y la sonrisa de ella le hizo algo en la cara a él, lo trajo un poco más cerca.
 
 Después volvió a irse.
@@ -351,7 +347,19 @@ Afuera llovía. Adentro, la casa estaba en silencio salvo por la lluvia y por la
 
 —Que me voy a comer yo.
 
-Él sonrió. Le salió torcida, de un lado.
+Él sonrió. Le salió torcida, de un lado. Después frunció la frente, como si buscara algo en una habitación que no era ésa.
+
+—¿Ya cerraste?
+
+—¿Qué?
+
+—La caja. Del Monarch. —Movió los ojos hacia la ventana, hacia la lluvia—. Ya es tarde. Te llevo.
+
+Chiara tardó un segundo en entender dónde estaba él.
+
+—Ya cerré —dijo.
+
+—Bien.
 
 Y entonces la miró de otra manera. Chiara lo notó antes de saber qué era. Él la miraba como si la estuviera viendo desde lejos.
 
@@ -362,6 +370,8 @@ Chiara no dijo nada. Apretó.
 Él tardó en volver a hablar. Tardó tanto que ella iba a decir su nombre.
 
 —Me gusta cuando brillan.
+
+Después dijo algo del portón, algo de Héctor y de una cadena, a pedazos, que no se entendió.
 
 —Kal. No te duermas.
 
@@ -431,7 +441,21 @@ En el techo de la sala, de un extremo al otro, pasó la luz de unos faros que do
 
 ***
 
-Camila trabajó en el baño del dormitorio porque ahí estaba la mejor luz de la casa y el suelo se podía lavar.
+Camila entró sin tocar, con las dos maletas de lona, y no saludó. Se arrodilló junto a él, le miró los ojos con una linterna, le apretó una uña hasta que se puso blanca y contó cuánto tardaba en volver el color. Levantó la toalla. La volvió a bajar.
+
+—Esto es de quirófano —dijo.
+
+—No —dijo Kal, sin abrir los ojos.
+
+—No te lo estoy preguntando a ti. —Camila miró a Chiara—. Te lo digo a ti, para que lo hayas oído: lo correcto es un hospital. Lo que yo puedo hacer aquí es lo que se hace donde no hay hospital.
+
+Chiara miró a Kal. Pensó en las patrullas de la entrada de urgencias, en el sedán sin placas, en un hombre esposado a una cama con un policía en la puerta y una pregunta detrás de otra. Pensó en un quirófano.
+
+—Aquí —dijo.
+
+Camila no discutió. Abrió la primera maleta.
+
+Trabajó en el baño del dormitorio porque ahí estaba la mejor luz de la casa y el suelo se podía lavar.
 
 Chiara sostuvo lo que le dijeron que sostuviera. Pasó lo que le dijeron que pasara. Cortó con unas tijeras lo que quedaba del pantalón de Kal y no pensó en nada mientras lo hacía. No miró la herida más de lo necesario. Miró las manos de Camila, que no se apuraban y no se detenían, y el reloj barato en la muñeca de Camila, y la bolsa de suero que Camila colgó del toallero con un gancho de alambre, y la gota que caía, una, y otra, y otra, en la cámara de plástico.
 
@@ -439,13 +463,19 @@ Lo que Camila traía para el dolor no alcanzó. Camila lo dijo antes de empezar,
 
 En algún momento, Camila dijo que ya.
 
-No dijo que estaba bien. Dijo que ya, que lo que se podía hacer en una casa estaba hecho. Que la bala había entrado y salido, y que eso era lo bueno. Que lo que hubiera tocado por dentro no lo podía saber ahí, con una lámpara y un toallero. Que había perdido mucha sangre, más de la que ella podía reponer con lo que traía en una maleta. Que tenía que estar quieto. Que se quedaba hasta que se acabara la segunda bolsa de suero y volvía a primera hora con lo que le faltaba.
+No dijo que estaba bien. Dijo que ya, que lo que se podía hacer en una casa estaba hecho. Que la bala había entrado y salido, y que eso era lo bueno. Que lo que hubiera tocado por dentro no lo podía saber ahí, con una lámpara y un toallero. Que había perdido mucha sangre, más de la que ella podía reponer con lo que traía en una maleta. Que tenía que estar quieto. Que ella no se iba: iba a estar en la cocina, y cada hora iba a entrar a verlo. Que a primera hora tenía que conseguir lo que le faltaba, y que todavía no sabía de dónde.
 
 Después lo dijo mirando a Chiara, no a él:
 
 —Si le sube la fiebre, si se le pone duro el vientre, si se confunde, si no orina, se va al hospital. Con patrullas o sin patrullas. Ahí no negocio.
 
-Lo dijo en la puerta del baño, quitándose los guantes. Después salió, y Chiara la oyó en la cocina abrir la llave del agua y dejarla correr mucho rato.
+—Se confundió una vez —dijo Chiara—. Antes de que llegaras. Creyó que era otra noche.
+
+Camila se quedó un momento con un guante a medio quitar.
+
+—Entonces ya vamos una. —Terminó de quitárselo—. Y aunque no pase nada de lo otro, esto no está resuelto. Está aguantando. No es lo mismo.
+
+Lo dijo en la puerta del baño. Después salió, y Chiara la oyó en la cocina abrir la llave del agua y dejarla correr mucho rato.
 
 Se quedaron solos.
 
@@ -490,6 +520,8 @@ Después se durmió. Esta vez de verdad.
 Chiara se sentó en el borde de la cama. Le puso el dorso de la mano en la frente, como le había dicho Camila. Estaba tibia. Sólo tibia.
 
 No se cambió. No se secó el pelo. Se quedó ahí sentada en la ropa mojada, en el dormitorio a oscuras, con la luz del pasillo entrando por la puerta entreabierta, mirándolo dormir. El pecho de él subía y bajaba.
+
+A la hora entró Camila sin hacer ruido. Le tomó el pulso con dos dedos, mirando el reloj barato. Levantó la sábana para ver el vendaje y le puso la mano en el vientre, despacio, apretando apenas. Kal no se despertó. Camila bajó la sábana y salió sin decir nada, y Chiara no supo si eso era bueno.
 
 Después de un rato se levantó. Fue al pasillo, tomó la vela del aparador, la de esa tarde, y volvió con ella al dormitorio. La puso en la mesa de noche. La encendió.
 

@@ -1,0 +1,243 @@
+---
+title: "La chimenea"
+type: capitulo
+estado: BORRADOR
+libro: Sombras de Poder (Libro II), Parte IV — Torna a casa
+capitulo: 56 (último del libro)
+pov: Kal Mercer, único
+ventana_temporal: el día y la noche después de la tormenta (~7–8 dic A4)
+localizacion: la Villa Candelaria (el dormitorio; la sala, a la luz del fuego)
+personajes: Kal Mercer, Chiara Bellandi, Héctor Navarro; Camila Rivas (de paso)
+---
+
+> **Estado:** BORRADOR del agente (Claude Code, 2026-11-13), segunda versión para lectura del autor (2026-11-13: revisión editorial de un subagente aplicada). Fuera de `CHAPTERS` de `tools/build_sombras.py`: no entra al EPUB.
+>
+> **CANON citado literal:** «¿Quién es Elenna?» / «Antes era sólo un nombre.» / «Sono incinta.» (fin del libro). **CANON (hechos):** tras dormir; la normalidad doméstica (hamburguesa doble) y después la chimenea; el papel cae de la manta; el lector descubre el embarazo con Kal, en la chimenea; el significado del nombre no se dice en este libro; Héctor pasó mientras Kal dormía, habló con Chiara y decidió volver (2026-11-13); **Halbrook anuncia su candidatura y Kal lo lee en el teléfono al despertar (DECISIÓN DEL AUTOR, 2026-11-13; «senador», según la ruta de su ficha)**. **PENDIENTE (no se rellena):** la reacción de Kal a «Sono incinta»: el libro termina en la línea.
+>
+> **DISEÑO del agente:** POV de Kal (el lector descubre con él); la alerta de *El Faro* y la frase de Halbrook («Yo voy a responder»), que suena a la doctrina de Kal; la fiebre de las cuatro y las bolsas que trajo Camila a las seis; «esto no está resuelto» sigue en pie; Walt no llama y Mabel manda las hamburguesas (la huella de Walt); la página de sociedad con el apretón de manos, que sale del cesto de periódicos para prender el fuego y Kal echa a la chimenea (P del 43); la foto de la cena de Navidad en la repisa (eco de Mei-Lin, sin comentario); el papel pasa del abrigo al bolsillo del cárdigan de Chiara y cae al acomodar la manta.
+
+# La chimenea
+
+Lo despertó el dolor, y después la luz.
+
+La luz era gris, de mediodía nublado, y entraba por la orilla de la cortina en una franja delgada que le cruzaba la cama a la altura de las rodillas. El dolor estaba donde lo había dejado. No había crecido mientras dormía; tampoco se había ido. Se había quedado ahí, quieto, en el costado derecho, como un perro grande echado encima, esperando a que él se moviera para recordarle que existía.
+
+Kal no se movió.
+
+Miró el techo. Miró la lámpara de pie junto a la cabecera, con una bolsa de plástico colgada del brazo y un tubo delgado que bajaba hasta el dorso de su mano izquierda, sujeto con cinta. La de anoche era transparente. Ésta era de un rojo casi negro. No quiso pensar de dónde la había sacado Camila.
+
+En la mesa de noche había un plato con una vela consumida hasta abajo. Quedaba un charco de cera blanca, frío, con la mecha negra doblada en el centro.
+
+En el sillón del rincón, con las piernas recogidas y un cárdigan encima, dormía Chiara. Tenía la cara vuelta hacia él. Se había cambiado en algún momento: pantalón de algodón, calcetines, el pelo recogido como se lo recogía para dormir cuando no pensaba dormir. Tenía una mano colgando por fuera del brazo del sillón, abierta.
+
+Kal se quedó mirándola un rato.
+
+Después buscó el teléfono con la mano libre. Estaba en la mesa de noche, junto a la vela, conectado a un cargador que no recordaba haber conectado.
+
+Tres llamadas perdidas de Héctor, de anoche, una detrás de otra, a la una y diez, a la una y veinte, a la una y media. Un mensaje de Nadir, de las siete: *Todos bien. Los de Cuadra también. Danny no se calla.* Un video de Danny que no abrió: la miniatura era una cabeza blanca de malvavisco con unos lentes oscuros pegados encima y unas letras amarillas que decían EL HÉROE QUE SAN AURELIO NO MERECE.
+
+Y una alerta de *El Faro*, de las nueve y cuarto.
+
+*ÚLTIMA HORA · Warren Halbrook anuncia su candidatura al Senado.*
+
+La abrió.
+
+Había una foto. Halbrook en la escalinata del ayuntamiento, a las ocho de la mañana, con el pelo gris acero cortado corto y un abrigo oscuro sin una arruga, y detrás de él, un poco desenfocados, la subjefa en funciones, dos concejales y un hombre de la cámara de comercio que Kal conocía de vista. Al fondo, por encima del techo del ayuntamiento, todavía se veía una columna de humo gris que subía del sur.
+
+La nota era corta. La había escrito la reportera de policiales, la que no adjetivaba. Decía que el general retirado y presidente del consejo consultivo de seguridad había convocado a la prensa a primera hora, a menos de diez horas de lo que la nota llamaba *la noche más violenta en la historia reciente de la ciudad*. Que no había leído un discurso. Que había hablado tres minutos. Que había terminado así:
+
+*Anoche esta ciudad vio lo que pasa cuando nadie responde por lo que ocurre bajo su mando. Yo voy a responder.*
+
+Kal lo leyó dos veces.
+
+Después dejó el teléfono bocabajo sobre el pecho, encima de la placa, y miró el techo otra vez.
+
+Crowe había trabajado para la gente de ese hombre. Kal lo sabía desde hacía casi dos años, desde un mensaje sin remitente que había borrado, y no se lo había dicho a nadie. Crowe estaba muerto desde anoche, en el piso de concreto de una bodega llena de anillos, y con él lo que sabía de dónde venía Kal. Y a las ocho de la mañana ese hombre estaba en una escalinata, diciendo que él iba a responder.
+
+No pensó más que eso. No le alcanzaba el cuerpo para pensar más que eso.
+
+—Estás despierto.
+
+Chiara lo miraba desde el sillón. No se había movido; sólo había abierto los ojos.
+
+—Hola.
+
+—Hola.
+
+Ella se levantó, despacio, como se levanta alguien que lleva horas en una postura que no era para dormir, y fue hasta la cama, y antes de decir otra cosa le puso el dorso de la mano en la frente. La dejó ahí un momento. Kal la vio hacer una cuenta que no dijo.
+
+—¿Cuánto? —preguntó él.
+
+—Menos que a las cuatro.
+
+—¿Qué pasó a las cuatro?
+
+—Fiebre. —Le quitó la mano de la frente y le acomodó el pelo hacia atrás con los dedos—. Camila entró, te revisó, me dijo que si a las seis seguía igual nos íbamos al hospital aunque tuviera que cargarte ella. A las cinco y media bajó.
+
+—No me acuerdo.
+
+—Ya sé. Estuviste hablando con alguien que no estaba. —No le dijo con quién—. Camila se fue a las seis y volvió a las siete y media con eso. —Señaló la bolsa con la barbilla—. No le pregunté de dónde.
+
+—Yo tampoco le voy a preguntar.
+
+—Mejor. —Chiara se sentó en el borde de la cama, con cuidado de no moverla—. Dijo que vuelve en la tarde. Dijo que todavía no está resuelto. Que no te levantes. Que si te levantas y se te abre, ella no vuelve a coser a un hombre que no la obedece.
+
+—No dijo eso.
+
+—Dijo algo muy parecido. Yo lo traduje.
+
+Kal sonrió. Le dolió sonreír, un poco. Menos que reírse.
+
+—Héctor vino —dijo ella.
+
+Kal la miró.
+
+—Anoche. A las dos, más o menos. Tú ya estabas dormido. —Se miró las manos—. Dijo que le debías un mensaje y que no se lo mandaste. —Lo miró de reojo—. Entró, te vio dormir desde la puerta, no quiso que te despertara. Se tomó un café con Camila en la cocina. Estuvo hablando conmigo un rato.
+
+—Qué te dijo.
+
+—Que eres un idiota.
+
+—¿Nada más?
+
+Chiara tardó en contestar.
+
+—Que viene más tarde. Que te lo diga él mismo cuando estés despierto.
+
+Kal asintió contra la almohada. Miró la ventana, la franja gris.
+
+—Vino solo.
+
+—Solo.
+
+Él no dijo nada. Chiara esperó, y se quedaron así un momento, ella sentada en el borde de la cama y él mirando la ventana, con la bolsa goteando despacio en el tubo.
+
+—Walt no ha llamado —dijo ella al fin, sin preguntar.
+
+—No.
+
+—Mabel sí. Dos veces. Dijo que en la tarde manda algo con Héctor.
+
+—Mabel siempre manda algo.
+
+Chiara asintió. Le puso la mano en el antebrazo, encima de la cinta del suero, sin apretar. No preguntó qué había pasado con Walt. Kal no se lo dijo.
+
+—Viste las noticias —dijo ella.
+
+Kal levantó el teléfono de su pecho y se lo dio, con la alerta abierta. Ella la leyó. Leyó la foto, el humo, los tres minutos, la última frase. Kal la vio leerla. Ella no cambió la cara.
+
+—Página uno —dijo—. No había forma de que no fuera página uno. —Le devolvió el teléfono—. Lo escribió bien.
+
+Chiara se quedó mirando la ventana, igual que él.
+
+—Yo voy a responder —repitió, en voz baja, como quien prueba el sabor de algo.
+
+Kal no le contestó. Cerró los ojos. El perro grande se acomodó en el costado.
+
+***
+
+Volvió a dormirse, y volvió a despertarse, y en algún momento de la tarde Camila entró, le cambió la bolsa, le levantó la sábana, le apretó el vientre con la punta de los dedos mientras le miraba la cara, le tomó la temperatura y no dijo cuánto. Le dijo que si quería sentarse un rato junto al fuego en la noche, una hora, en el sofá, sin agacharse y sin hacerse el valiente, podía. Le dijo que podía comer algo, poco, si no le dolía más al tragar. Le dijo que no era un premio. Le dijo que no había cambiado nada de lo que dijo anoche. Se fue a dormir al cuarto de huéspedes con la puerta abierta.
+
+Héctor llegó a las seis con una bolsa de papel de estraza manchada de grasa que olía a la cocina de Mabel desde el pasillo.
+
+No entró al dormitorio. Kal lo oyó en la cocina hablar con Chiara en voz baja, el *usted* de siempre, la voz de alguien que no está regañando todavía porque está guardando el regaño para después. Lo oyó dejar la bolsa en la barra. Lo oyó preguntar algo que no alcanzó a entender, y a Chiara contestar algo corto. Después oyó los pasos de Héctor en el pasillo, y lo vio aparecer en la puerta del dormitorio, con la gorra en la mano.
+
+Se quedó en la puerta. Lo miró. Le miró la bolsa del suero, el tubo, la mano. Le miró la cara.
+
+—Cuarenta minutos —dijo.
+
+—Ya sé.
+
+—Te di cuarenta minutos.
+
+—Ya sé, Héctor.
+
+Héctor asintió. Se puso la gorra.
+
+—Mañana hablamos —dijo—. Cuando puedas estar de pie para oírlo.
+
+Y se fue.
+
+***
+
+La hamburguesa venía doble. Chiara se la había encargado a Mabel. Venía envuelta en papel encerado, con las papas en una bolsa aparte, todavía tibias, y un recado de Mabel escrito con marcador en la bolsa, *para el malvavisco*, con un corazón torcido.
+
+Kal comió la mitad de una mitad. Más no le entró. Comía sentado en la cama, con dos almohadas en la espalda y la bandeja sobre las piernas, despacio, porque cada vez que tragaba algo el costado se acordaba de él. Chiara comía en el sillón, con los pies sobre la cama.
+
+Le robaba las papas.
+
+Lo hacía sin mirarlo, como siempre, estirando la mano hasta la bandeja mientras hablaba de otra cosa, de la reportera de policiales, de lo que había dicho la subjefa en la radio, de que la ciudad había amanecido con los semáforos del sur apagados. Kal la dejó hacerlo. La vio robarle una, y otra, y otra. No dijo nada hasta que quedaban tres.
+
+—Siempre lo haces.
+
+Chiara se quedó con la papa a medio camino.
+
+—Yo no hago eso.
+
+—Siempre.
+
+Ella lo miró. Se comió la papa. Le sostuvo la mirada mientras se la comía.
+
+—Me debías una cena —dijo—. Te la estoy cobrando.
+
+***
+
+La chimenea la prendió ella.
+
+Kal la miró hacerlo desde el sofá, adonde había llegado caminando, con Chiara de un lado y la lámpara de pie del otro, rodando, con su bolsa de suero colgada como un farol. Se había sentado sin agacharse, como le habían dicho. Tenía la manta encima, la misma de anoche. La habían lavado; olía a jabón y, debajo del jabón, a otra cosa.
+
+Chiara se arrodilló frente al hogar con la caja de fósforos. Puso los troncos como los ponía él, porque él le había enseñado, dos abajo, uno cruzado, las ramas delgadas en medio. Después sacó del cesto de los periódicos viejos un puñado de hojas para prender.
+
+La de arriba era una página de sociedad de *El Faro*, de octubre. Kal la reconoció antes de que ella la arrugara. Una foto de un acto de fundación, en un salón con banderas: un hombre compacto, de pelo gris acero, estrechándole la mano a otro hombre más joven, de traje oscuro, con una cicatriz en la mejilla. Debajo, el pie de foto: *Empresario de La Almendra saluda al nuevo consultor de seguridad pública.*
+
+—Dámela —dijo Kal.
+
+Chiara se volvió. Lo miró. Miró la hoja en su mano. Se la pasó sin decir nada.
+
+Kal la sostuvo un momento sobre las rodillas. Se miró a sí mismo, sonriendo en una foto, con la mano de ese hombre en la mano. Después la dobló en dos, y en cuatro, y se inclinó hacia el hogar, despacio, lo que hacía falta, y la puso debajo de los troncos, entre las ramas delgadas.
+
+Chiara encendió un fósforo y lo acercó.
+
+La hoja prendió primero por una esquina y se fue con las ramas delgadas en una llama alta y amarilla que subió por la chimenea y después bajó y se quedó en los troncos.
+
+Ninguno de los dos dijo nada.
+
+Chiara volvió al sofá. Se sentó junto a él, del lado izquierdo, del lado que no dolía, y se metió debajo de la manta con él, y la acomodó sobre los dos.
+
+El fuego hacía el ruido que hacen los fuegos. Olía a leña de roble y a algo más dulce, de la corteza, que a Kal le recordó una cabaña, otra chimenea, una noche de octubre con el mar del otro lado de la ventana. No lo dijo.
+
+En la repisa, a la luz del fuego, estaba la foto de la cena de Navidad del año pasado, en su marco. La luz le pasaba por encima y la dejaba y le volvía a pasar.
+
+Afuera ya no llovía. Por primera vez en tres días no llovía, y la casa estaba en silencio, y en el silencio se oía el fuego y la respiración de los dos, y nada más. Ningún teléfono. Ninguna radio. Las velas del pasillo, apagadas desde anoche, seguían en su lugar con las mechas negras. Nadie las había quitado.
+
+Chiara apoyó la cabeza en su hombro, en el bueno. Kal sintió el peso. Lo dejó estar.
+
+Se quedaron así un rato largo.
+
+Después ella se movió para acomodarle la manta, que se le había ido del lado del suero, y al estirar el brazo se le abrió el cárdigan, y algo cayó de entre los pliegues de la manta y del cárdigan a la alfombra, a los pies del sofá, sin ruido.
+
+Un papel doblado en dos.
+
+Cayó abierto. Kal lo vio antes que ella.
+
+Era de un papel color crema, grueso, con la orilla irregular. Lo había visto una vez, en enero, de lejos, en las manos de ella, junto a una vela.
+
+En el centro, con tinta azul, en una letra inclinada que no le conocía, había una palabra.
+
+Kal se inclinó. El costado le dijo que no. Lo levantó de todos modos, con la mano libre, y lo sostuvo a la luz del fuego. Olía a canela y a vainilla.
+
+Chiara lo vio en su mano y no se movió.
+
+Kal leyó la palabra. La leyó otra vez. La leyó en voz alta, despacio, como leía las palabras que ella le enseñaba, sin saber dónde iba el acento.
+
+—¿Quién es Elenna?
+
+Chiara no contestó enseguida. Miró el papel en la mano de él. Miró el fuego. Lo miró a él, a la cara, con la luz del fuego en los ojos.
+
+—Antes era sólo un nombre.
+
+Kal esperó. El fuego se movió. Afuera, lejos, ladró un perro y dejó de ladrar.
+
+Chiara le tomó la mano, la del papel, con las dos suyas. Lo miró.
+
+—Sono incinta.

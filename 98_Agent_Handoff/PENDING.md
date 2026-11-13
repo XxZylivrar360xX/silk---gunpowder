@@ -4,7 +4,7 @@ Actualizado: 2026-11-12 (rotado por límite: medía 841 palabras). Máximo 800 p
 
 ## *Sombras de Poder* (Libro II): decide el autor
 
-Lista de fondo: [[98_Agent_Handoff/BACKLOG#Libros II y III]]. Prosa en espera hasta cerrar el Libro I, salvo los caps. 53–55 (orden del autor, 2026-11-12; ver brief). Abiertos: leer tarjetas y guía de 56 ([[11_Books/Book_02_Sombras_De_Poder/00_Guia_Redaccion_Capitulos]], DISEÑO); decisiones 2–13 de la carretera; elipsis de R9; «Mac a Almendra»; sembrar a Nat antes del 53; leer los caps. 53–55 (notas del 2026-11-13: dudas de cada uno).
+Lista de fondo: [[98_Agent_Handoff/BACKLOG#Libros II y III]]. Prosa en espera hasta cerrar el Libro I, salvo los caps. 53–55 (orden del autor, 2026-11-12; ver brief). Abiertos: leer tarjetas y guía de 56 ([[11_Books/Book_02_Sombras_De_Poder/00_Guia_Redaccion_Capitulos]], DISEÑO); decisiones 2–13 de la carretera; elipsis de R9; «Mac a Almendra»; sembrar a Nat antes del 53; leer los caps. 53–56 (notas del 2026-11-13: dudas de cada uno).
 
 ## Lecturas del autor (Libro I)
 

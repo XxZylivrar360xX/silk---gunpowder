@@ -4,6 +4,7 @@ El detalle se guarda una sola vez en notas de sesión. Este archivo es navegaci�
 
 ## Sesiones recientes
 
+- 2026-11-13: Libro II, cap. 56 «La chimenea» redactado (BORRADOR; final del libro en «Sono incinta.»); DECISIÓN DEL AUTOR: Kal lee al despertar que Halbrook anunció su candidatura al Senado; 55 con riesgo médico explícito: [[98_Agent_Handoff/sessions/2026-11-13_claude_cap56_la_chimenea]]
 - 2026-11-13: Libro II, cap. 55 «No otra vez» redactado (BORRADOR; H1 desde Chiara: piscina, vigilia con el relato de Kal, baño y cama; revisión editorial de subagente aplicada): [[98_Agent_Handoff/sessions/2026-11-13_claude_cap55_no_otra_vez]]
 - 2026-11-13: Libro II, cap. 54 «De rodillas» redactado (BORRADOR; POV Kal: la nave de Crowe en recuerdo, Walt, Héctor y el chaleco, Kal de rodillas en el baño del taller): [[98_Agent_Handoff/sessions/2026-11-13_claude_cap54_de_rodillas]]
 - 2026-11-13: Libro II, cap. 53 «Dime, Amore» redactado (BORRADOR); CANON DEL AUTOR: primera llamada en la Villa con la máscara de malvavisco, líneas de velas, «regresa» y radio del canal tres; Walt en la Almendra conduce los autos de los heridos: [[98_Agent_Handoff/sessions/2026-11-13_claude_cap53_dime_amore]]
@@ -33,7 +34,6 @@ El detalle se guarda una sola vez en notas de sesión. Este archivo es navegaci�
 - 2026-11-10: las 402 referencias dudosas de numeración: 42 corregidas a 47 (`Cap. N (*Título*)`), 231 históricas conservadas, 23 ambiguas para el autor: [[98_Agent_Handoff/sessions/2026-11-10_claude_referencias_dudosas]]
 - 2026-11-09: resto de la propagación de la Parte II (Plan_Vento, Hipódromo, Plan_Robo, Mapa POV, Valenti, Il Consorzio, Chiara, Red Civil; sin prosa); DECISIÓN DEL AUTOR: el cierre en numeración de 60 se fusiona en la lectura de los 40–47; Kal piensa «Halbrook» en el 27, el 25 se queda, se restaura la recapitulación del 32 y Chiara gana la pesca (29): [[98_Agent_Handoff/sessions/2026-11-09_claude_propagacion_parte_II_resto]]
 - 2026-11-08: observaciones de un lector a la Parte II (DECISIÓN DEL AUTOR: aparte de Nadir en el lago, hospital anclado, «Lo entiendo» sin absolución); continuidad de Marta en el 25 y de la multa en el 28: [[98_Agent_Handoff/sessions/2026-11-08_claude_observaciones_lector_parte_II]]
-- 2026-11-08: lectura del autor de la Parte III atendida (Camp Alder concretado, Kal y la foto de Alessio, llamada a Marisol en escena, glosas; prosa DISEÑO): [[98_Agent_Handoff/sessions/2026-11-08_claude_lectura_parte_iii]]
 
 ## Historial
 

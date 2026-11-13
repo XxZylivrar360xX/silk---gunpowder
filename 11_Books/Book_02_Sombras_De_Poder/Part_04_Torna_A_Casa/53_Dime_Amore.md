@@ -32,7 +32,7 @@ El teléfono estaba bocabajo sobre la alfombra. Tres mensajes de la mesa de noch
 
 Alcanzó la portátil de la mesa de centro y la abrió sobre las rodillas.
 
-La transmisión de *El Faro* ya estaba en la portada, arriba de todo, con el letrero rojo de EN VIVO. La reportera era la que Chiara había contratado en septiembre para la nota roja, porque escribía corto y no adjetivaba. Estaba en Canal Road, a la entrada de Nueve Puentes, con el impermeable de la empresa y el pelo pegado a la cara, y detrás de ella la ciudad era rojo y azul. Patrullas atravesadas en el puente. Un camión blindado negro con letras blancas. La luz de un helicóptero barriendo los techos de lámina del otro lado del canal, como un dedo que busca algo en una lista.
+La transmisión de *El Faro* ya estaba en la portada, arriba de todo, con el letrero rojo de EN VIVO. La reportera era la que Chiara había contratado en septiembre para policiales, porque escribía corto y no adjetivaba. Estaba en Canal Road, a la entrada de Nueve Puentes, con el impermeable de la empresa y el pelo pegado a la cara, y detrás de ella la ciudad era rojo y azul. Patrullas atravesadas en el puente. Un camión blindado negro con letras blancas. La luz de un helicóptero barriendo los techos de lámina del otro lado del canal, como un dedo que busca algo en una lista.
 
 En la franja de abajo corría el texto: TIROTEO EN EL SUR · ENFRENTAMIENTO ENTRE BANDAS EN LAS CALDERAS Y NUEVE PUENTES · SE REPORTA AL MENOS UN MUERTO.
 
