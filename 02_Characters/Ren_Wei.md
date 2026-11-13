@@ -1,5 +1,7 @@
 # Ren Wei
 
+> **DECISIÓN DEL AUTOR (2026-11-12), *Cuentas de Sangre*:** tras la salida de Kal y Chiara y la disolución de El Patio, **Ren pasa a administrar [[03_Factions/Villani_Motors]]**. Ver [[11_Books/00_Libro_Mayor_Deudas_Saga]], E11.
+
 *Seda y Pólvora — Ficha de Personaje*
 
 > **CANON DEL AUTOR (2026-08-23).** Rediseñado para San Aurelio. Último miembro en integrarse a la organización; consolida a Kal en el mercado como proveedor por calidad y pureza.

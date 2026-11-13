@@ -1,5 +1,7 @@
 # Daniel "Danny" Hayes
 
+> **DECISIÓN DEL AUTOR (2026-11-12), *Cuentas de Sangre*:** los de Meridian lo encuentran en la terraza del edificio empresarial de Kal (circunstancias PENDIENTES). Tras rehabilitarse, termina como **dueño del taller** cuando El Patio se disuelve. Ver [[11_Books/00_Libro_Mayor_Deudas_Saga]], E11.
+
 > **Numeración:** desde 2026-10-22 el Libro I usa numeración corrida definitiva (56 caps.); este documento cita la numeración anterior. Correspondencia en [[11_Books/Book_01_Mascaras_De_Cristal/00_Book_Map]].
 
 *Seda y Pólvora — Ficha de Personaje*

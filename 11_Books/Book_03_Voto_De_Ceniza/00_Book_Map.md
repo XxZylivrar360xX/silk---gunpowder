@@ -1,5 +1,7 @@
 # Book 03 — Voto de Ceniza
 
+> **DECISIONES DEL AUTOR (2026-11-12; [[11_Books/00_Libro_Mayor_Deudas_Saga]]):** (1) **Halbrook le cuenta a Kal que fue él quien lo sacó de Camp Alder**, de noche, en la terraza del edificio empresarial de Kal (torre de oficinas «tipo WTC»), con la ciudad de fondo; momento exacto PENDIENTE (propuesta: antes de Santa Lucía). (2) **La mentira de la fuga de gas (H8) se cobra en el voto:** antes de decidir lo de Elenna, los dos se dicen la verdad del incendio. (3) La tesis de Héctor («no sostenerlo con el cuerpo») se siembra en el Libro II, después del ataque de pánico de Kal.
+
 > **CAMBIO DE CANON (2026-11-07):** F2 ya no es ejecución ni destierro: Mei-Lin muere tras una operación y Bonnie se va a Boston por elección; recibe a Elenna desde Boston (se retira Italia). Manda [[06_Relationships/Momentos_de_Fractura#F2 - La muerte de Mei-Lin y la salida de Bonnie|F2]]; lo que diga abajo sobre Italia, Roberta Ardizzone o el destierro queda superado.
 
 

@@ -1,5 +1,7 @@
 # Héctor Navarro
 
+> **DECISIÓN DEL AUTOR (2026-11-12), *Sombras de Poder*:** Héctor dice por primera vez su tesis («no sostenerlo con el cuerpo; construirlo para poder dejar de sostenerlo») después del ataque de pánico de Kal en *Nieve y ceniza*, de pasada y sin que nadie la subraye. La cobra *Cuentas de Sangre*. Ver [[11_Books/00_Libro_Mayor_Deudas_Saga]], E1.
+
 > **NUEVO CAUCE — PARTE III (2026-11-08; [[98_Agent_Handoff/sessions/2026-11-08_claude_propagacion_parte_III]]; prosa BORRADOR, lo nuevo es DISEÑO salvo donde dice CANON):** **Nuevo 34 (H16, POV Chiara; CANON):** la persecución de Stella **la cuenta él**, sentado en una paca de las caballerizas, seco, como un parte (avión, montacargas, Kingsley Field, cuatro horas, el viñedo; «Me senté una vez»), y le habla de usted a Chiara. **Sin secuela médica.** Se retiran el muelle, la persecución en escena y la llamada matinal de Kal. Su línea de H18 va literal en el nuevo 36. Queda fuera del chiste de «Roma» en el 35.
 
 > **Numeración:** desde 2026-10-22 el Libro I usa numeración corrida definitiva (56 caps.); este documento cita la numeración anterior. Correspondencia en [[11_Books/Book_01_Mascaras_De_Cristal/00_Book_Map]].

@@ -1,5 +1,7 @@
 # Garrett Cross
 
+> **DECISIÓN DEL AUTOR (2026-11-12), *Cuentas de Sangre*:** tras la salida de Kal y Chiara y la disolución de El Patio, **Garrett queda al frente de la empresa de Kal** (cuál: PENDIENTE). Ver [[11_Books/00_Libro_Mayor_Deudas_Saga]], E11.
+
 > **NUEVO CAUCE — PARTE III (2026-11-08; [[98_Agent_Handoff/sessions/2026-11-08_claude_propagacion_parte_III]]; prosa BORRADOR, lo nuevo es DISEÑO salvo donde dice CANON):** **Nuevo 36:** por teléfono siembra el otro punto («Te van a dar un punto donde bajar. Mañana te enseño el otro.» / «Ahí voy a estar.»); recibe la fecha: «El domingo, a las dos de la mañana.». **Nuevo 39:** llega a las cuatro; Kal le da el punto de Varek («Al de Varek»); sin diálogo. No hay ficha de voz de Garrett.
 
 > **Numeración:** desde 2026-10-22 el Libro I usa numeración corrida definitiva (56 caps.); este documento cita la numeración anterior. Correspondencia en [[11_Books/Book_01_Mascaras_De_Cristal/00_Book_Map]].
