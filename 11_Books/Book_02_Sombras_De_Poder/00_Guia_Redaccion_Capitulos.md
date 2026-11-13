@@ -285,6 +285,7 @@ Calendario de dos años (5 ene A3 → dic A4), contado en bloques densos. Las el
 - **Función:** primera Navidad juntos. La placa de oro dice *Torna a casa*, en italiano, y es la promesa de que ella siempre lo esperará al volver de las «misiones».
 - **Beats:** Chiara pide ayuda a los mecánicos el 23; decoran de madrugada; el 24 cocina casi todo el día (C). El coche en el elevador convertido en árbol, la grúa de guardia que sale y vuelve, los tamales de Mabel (DISEÑO). El regalo de Kal es la noche de trabajo: un favor, no un objeto (DISEÑO). Tyler la esquiva todo el día, después del fuego que causó su error. En la cena, el juego, el abrazo de medianoche y el mismo detalle para todos, Tyler recibe lo mismo que los demás, y esa igualdad es su absolución. Kal sale al patio porque el calor le aprieta, a días del garaje, y ve a Yun-Kai en el portón y a Mei-Lin gritándole que se largue. Al volver: «¿Todo bien?» / «Todo bien, jefe.» (C, segundo tiempo). Después Chiara sale con la caja y le da el collar a solas, afuera.
 - **Relación:** Kal espera el precio del regalo, porque todo en su mundo es transacción (Crowe, Dario), y **el precio no llega**. Se escribe sin explicarlo. El collar le alivia la carga a largo plazo; no lo cura.
+- **La foto (DECISIÓN DEL AUTOR, 2026-11-12):** en la cena se toman una foto con todos los chicos de la banda, sonriendo y felices, como si pudieran con el mundo. Es la que Chiara sostiene en el suelo en el 38 y la que vuelve en el final. **Regla:** aquí pasa de largo, en una línea (el flash, todos apretados, alguien que sale a medias); nadie la mira después y no pesa como presagio. Quién la toma y dónde queda guardada: PENDIENTE (DISEÑO posible: Chiara la imprime y la pone en la Villa).
 - **Saldo:** el collar bajo la camisa; nadie lo nota.
 - **No hacer:** explicar el peso futuro de la placa o su función. Mei-Lin: presente, normal y querida, sin ningún gesto que se lea como presagio.
 - **Medida:** si pasa de unas 8,000 palabras, se revisa (el diseño preveía partirlo en la madrugada del 24).
@@ -437,12 +438,16 @@ Calendario de dos años (5 ene A3 → dic A4), contado en bloques densos. Las el
 - **Saldo:** el juicio pospuesto nunca se dicta (DISEÑO). El forro, después del entierro; nadie dice nada (C). **Por eso (P):** Kal aprende la lección equivocada, que perdonar mata, y eso lo lleva al golpe fallido (40).
 - **PENDIENTE:** qué contesta Kal a «Perdóname, jefe». El POV de Nadir no lo resuelve ni lo esquiva.
 
-**38. Lo que queda** — mayo A4 · Chiara · la Villa; La Almendra, con una casa vacía · *(46; III-T9)*
+**38. Lo que queda** — mayo A4 · **Kal** (DISEÑO; antes Chiara) · el entierro; la Villa · *(46; III-T9)*
 
-- **Beats:** esa noche Chiara ve llegar a Kal entero, y a Mei-Lin no (DISEÑO). **(P):** Nadir se lo cuenta a Bonnie, porque no puede cargarlo solo y ella fue la que sostuvo la mano; Bonnie se lo cuenta a Chiara antes de irse. Bonnie se va a Boston por elección, con la puerta que Chiara y Marisol le abrieron (C). Nadir sigue leal y trabajando, con una grieta entre la persona y la organización. El Patio queda mutilado. Chiara tiene más poder y menos gente: se siente y no se dice. Kal empieza a sobrecompensar construyendo tiempo y memorias. La propuesta, después, nace de claridad, no de culpa.
-- **Relación:** **Chiara se entera por terceros** de que Mei-Lin filtraba y de que Kal lo calló. Se entera también de a quién le pagaba Mei-Lin, y por qué: es su propia deuda con otro nombre (P).
-- **PENDIENTE (líneas canon del boceto 45, retirado):** si aquí caen «Lo siento, ¿vale?» / «No te martirices. Hiciste lo que debías hacer.», el beso en la frente que no arregla nada y «esa noche terminan en el suelo, destrozados». Opción (P), sin reescribir: él se disculpa por haberlo callado; ella lo absuelve mientras calla su propia cuenta con el mismo hombre. La línea cambia de sentido sin cambiar una palabra.
+- **La escena (DECISIÓN DEL AUTOR, 2026-11-12):** Kal vuelve a la Villa después de sepultar a una de los suyos, aun después de la traición. Encuentra a Chiara completamente rota en el suelo, llorando, con la foto que se tomaron en la cena de Navidad (sembrada en el 20): todos los chicos de la banda sonriendo y felices, como si pudieran con el mundo. Ahí cae: «—Lo siento, ¿vale?» / «—No te martirices. Hiciste lo que debías hacer.» Después él le da un beso en la frente. No arregla nada. Terminan los dos en el suelo, destrozados.
+- **De qué se disculpa (DECISIÓN DEL AUTOR):** el código de su propia jerarquía criminal costó una vida. No sólo le costó a él: a Chiara le costó a Mei-Lin y a Bonnie. Lo que pide perdón es la regla, no un acto.
+- **Lo que no se dice:** el narrador no explica el «lo siento» ni la absolución. Nadie dice el nombre de la regla (no ir al hospital desde una operación); está en la foto y en el suelo.
+- **Antes de la escena:** Bonnie ya eligió Boston, con la puerta que Chiara y Marisol le abrieron (C); el orden fino entre su salida y el entierro queda abierto. **(P):** Nadir se lo cuenta a Bonnie, porque no puede cargarlo solo y ella fue la que sostuvo la mano, y Bonnie se lo cuenta a Chiara antes de irse. Así Chiara sabe de la filtración y de que Kal la calló, y sabe a quién le pagaba Mei-Lin: su propia deuda con otro nombre. Eso queda debajo de su «Hiciste lo que debías hacer», sin decirse.
+- **Lo que deja:** Nadir sigue leal y trabajando, con una grieta entre la persona y la organización. El Patio queda mutilado. Chiara tiene más poder y menos gente: se siente y no se dice. Kal empieza a sobrecompensar construyendo tiempo y memorias. La propuesta, después, nace de claridad, no de culpa.
+- **POV (DISEÑO):** Kal, porque la escena es su llegada y lo que encuentra; la alternativa es Chiara oyéndolo entrar. Con Kal, la Parte III queda en Kal 4, Chiara 3 y Nadir 1.
 - **Saldo:** la cuota de mayo a Varek, pagada por una mujer que acaba de ver adónde lleva pagarle. «Todo lo que llega se va o muere» se siente y no se dice.
+- **Ecos en el final:** la foto y este suelo vuelven en la noche de H1, sólo como recuerdo de Kal y de Chiara (ver la Parte IV, «Mei-Lin en el final»).
 
 > **Elipsis D (mayo → junio, ~3 semanas).** **Aterriza en la cuota de junio, que Chiara paga tarde por primera vez** (P): su reloj también se descompone. Residuo: la casa vacía de La Almendra ya tiene otro inquilino.
 
@@ -459,6 +464,18 @@ Calendario de dos años (5 ene A3 → dic A4), contado en bloques densos. Las el
 
 *Kal deja de ser la cara de Dario en la calle: primero en lo ideológico y después en lo territorial. Regla de Kal: resultados con el menor costo humano posible. Va a fallar. Crowe es el martillo; Dario y Halbrook, las estructuras. **Relojes (P):** la cuenta de Kal con Crowe no se confiesa en este libro y muere con su acreedor; las cuotas de Chiara a Varek siguen hasta el final como disfraz del embarazo y pasan a *Voto de Ceniza*. **Fuentes:** el final en [[11_Books/Book_02_Sombras_De_Poder/00_Plan_Cuatro_Partes]] (CANON DEL AUTOR), [[11_Books/Book_02_Sombras_De_Poder/Part_04_Torna_A_Casa/00_Diseno_Cartas_De_Dale]], [[11_Books/Book_02_Sombras_De_Poder/Part_04_Torna_A_Casa/00_Diseno_Noche_Stavanger]] y [[06_Relationships/Hitos]] (H1).*
 
+### Mei-Lin en el final (DECISIÓN DEL AUTOR, 2026-11-12)
+
+F2 se queda en la Parte III, y el final la cobra **con ecos, no de forma textual ni con venganza**: eso ensuciaría su muerte. Los ecos son recuerdos de Kal y de Chiara, en su propia cabeza y sin otras perspectivas: cosas concretas de Mei-Lin o de aquel día.
+
+**Reglas (DISEÑO):** uno por capítulo como máximo; nadie lo explica ni lo comenta; en la vigilia, sin nombrarla (C); ningún eco cierra un capítulo. **Candidatos (DISEÑO, para que el autor elija):**
+
+| Cap. | De quién | Eco |
+|---|---|---|
+| 52 | Kal | En la tormenta cae alguien con una herida en la pierna. Kal aprieta el torniquete y manda que lo lleven al hospital, aunque estén vigilados: rompe por otro la regla que mató a Mei-Lin, sin decirlo. Es la regla nueva de «no como tú» puesta a prueba. |
+| 54 | Chiara | Kal herido y sin hospital. Chiara sabe cómo termina eso, por lo que le contó Bonnie (la mano, el torniquete que no aguanta). «—No otra vez.» carga también ese día, sin cambiar una palabra. El suelo de la Villa es el mismo del 38. |
+| 55 | los dos | La foto de la cena de Navidad, a la luz del fuego. La de Halbrook se quema (P) y ésta se queda. Nadie la mira ni la comenta. |
+
 ### Bloque 1 · El costo (jul – fin de jul A4)
 
 **40. Diez segundos** — jul A4, calor → fin de jul · Chiara · terraza del Monarch; la Villa, de noche; la redacción de *El Faro*, al amanecer · *(48 + 50; IV-U1 + IV-U2)* — **tic 8**
@@ -469,7 +486,7 @@ Calendario de dos años (5 ene A3 → dic A4), contado en bloques densos. Las el
 - **Relación:** mientras ella imagina el altar, él trae dos cosas guardadas: el anillo y el plan. Esta vez avisa que sale (la regla del 23).
 - **Tic 8:** la vela, a tiempo. Es la última vez que es «sólo» eso, y nada lo marca.
 - **Saldo:** al amanecer le llega la nota y publica a los muertos sin el nombre de Kal. El Caldero está pagado y los muertos no. Ella edita la portada que mejor le sirve a Halbrook: «la violencia del sur alcanza a familias». La sequía sigue: él llega y ella duerme.
-- **PENDIENTE:** el golpe, si el autor no acepta D10.
+- **PENDIENTE:** el golpe, si el autor no acepta D10. **Choque por revisar (2026-11-12):** tal como está, el golpe es Kal yendo por el Caldero que mató a Mei-Lin, es decir, una venganza por ella. El autor decidió que el final no cobre su muerte con venganza; falta decidir si esa regla alcanza también a este capítulo. Si alcanza, el golpe necesita otro blanco (otra presa de Crowe, con el método de Dario) y la lección equivocada de F2 se cuenta de otro modo.
 
 > **Elipsis E (fin de jul → mediados de sep, ~6 semanas; R9).** **Aterriza en las bandas (41).** Residuo: dos cobros más de Crowe en el sur, los dos en la portada de *El Faro*; Manfred ya entregó el sobre en el taller y Kal no lo ha abierto. **Abierto:** si el autor quiere «no como tú» inmediato, el 41 lleva la elipsis por dentro.
 
@@ -552,6 +569,7 @@ Calendario de dos años (5 ene A3 → dic A4), contado en bloques densos. Las el
 **52. Dime, Amore** — la tormenta · Kal; Chiara en el triaje · el frente sur; el almacén del sur · *(58; IV-U15)*
 
 - **Canon:** las bandas contra Crowe (las que él cobró durante dos años). Chiara lo ve por *El Faro* (el relato que construyó durante el libro es cómo ve la tormenta) y llama en medio del movimiento, con Kal acorralado: «Dime, Amore» (la única vez en la saga). Arma el triaje con Camila en el almacén del sur; la radio es la prueba de vida. Kal saca a los suyos, a rivales y a civiles antes del cierre policial. Hay muertos reales. La escalada policial (alerta, SWAT, presencia sostenida) le da a Halbrook el mandato.
+- **Eco de Mei-Lin (DISEÑO):** ver «Mei-Lin en el final», al abrir la Parte IV.
 
 **53. De rodillas** — el final de la operación · Kal · DISEÑO · *(59; IV-U16)*
 
@@ -565,12 +583,14 @@ Calendario de dos años (5 ene A3 → dic A4), contado en bloques densos. Las el
 
 - **Canon:** Chiara llega primero y ve que todas las velas se apagaron por una ventana abierta; el papel sigue en su bolsillo. El agua está muy oscura. Kal trae el collar puesto, y nadie lo señala. «—Me encuentro bien.» / «—No otra vez.»: la última mentira de él, rechazada. Los hospitales están vigilados, así que llama a Camila, que no sabe del embarazo. Vigilia: «—Cuéntamelo de principio a fin.» / «—Estuviste en radio.» / «—Lo estuve, pero quiero escucharte.». Delirio al dormirse, con pausas: «—Tus ojos brillan.» / «—Me gusta cuando brillan.» / «—Deberías sonreír más, bella, cuando lo haces yo...» / «—No te preocupes tanto por todo.». En ese eco de Corrado se le quiebra la voz; hasta ahí fue de acero. Baño: «—¿Por qué siempre te preocupas tanto? Lo ves, estoy bien.» / «—Perché ti amo con tutto il mio cuore.». Él no responde a la declaración. Cama: «—Volevo solo tornare a casa per mantenere la mia promessa, amore.», con el italiano machucado.
 - **La vigilia** carga a Mei-Lin, Bonnie, Fabrizio y Tommaso sin nombrarlos.
+- **Eco de Mei-Lin (DISEÑO):** ver «Mei-Lin en el final», al abrir la Parte IV.
 - **No hacer:** que ella revele el embarazo; ni «no puedes morirte ahora; ni siquiera sabes» como diálogo o pensamiento.
 
 **55. La chimenea** — tras dormir · DISEÑO · la Villa, sólo a la luz del fuego · *(61; IV-U18)*
 
 - **Canon:** la normalidad doméstica (hamburguesa doble) y después la chimenea. El papel cae de la manta: «¿Quién es Elenna?» / «Antes era sólo un nombre.» / «Sono incinta.»: el último secreto de ella, dicho. **FIN.**
 - **(P):** antes de la manta, Kal echa al fuego la foto con Halbrook (42).
+- **Eco de Mei-Lin (DISEÑO):** ver «Mei-Lin en el final», al abrir la Parte IV.
 - **Reacción de Kal (DISEÑO fijado):** `shock → procesamiento → emoción difícil de verbalizar → seguridad → médicos → casa → trabajo → dinero → futuro`, en conducta y no en discurso. Su herida es saber lo que pasa cuando un padre desaparece de una casa.
 - **PENDIENTE:** el diálogo y la reacción textual. El significado del nombre no se dice en este libro.
 
@@ -586,8 +606,8 @@ Calendario de dos años (5 ene A3 → dic A4), contado en bloques densos. Las el
 
 - **2026-10-14:** no hay golpe en la Parte I (la primavera es de Chiara y la mesa que se vacía); graduación en otoño A3, antes de la gala; filtración del final, nada en página; la línea Tommaso → Mei-Lin no se muestra; H1 corregido en [[06_Relationships/Hitos]] (dos semanas de secreto, examen hacia el 22 nov fuera de página, médico de fuera del círculo, calla por lo que pasa alrededor y, la última noche, para que vuelva por ella); los secretos se protegen para que cobren en las revelaciones; F3 con Kal golpeado y Chiara que no lo oye (34).
 - **2026-11-07:** F2 nuevo ([[97_Supersedido/F2_Ejecucion_Y_Destierro]] guarda lo retirado); Collins sustituye a Anya; Stavanger en tres capítulos.
-- **2026-11-12:** la columna, el reloj y la Fase 3 (55 capítulos, con la Nochebuena en POV de Kal, la junta en POV de Bonnie y la montaña en POV de Kal).
+- **2026-11-12:** la columna, el reloj y la Fase 3 (55 capítulos, con la Nochebuena en POV de Kal, la junta en POV de Bonnie y la montaña en POV de Kal). F2 se queda en la Parte III; «Lo siento, ¿vale?» va en el 38, con Chiara rota en el suelo y la foto de la cena de Navidad; el final cobra a Mei-Lin con ecos de Kal y Chiara, sin venganza.
 
 ## Pendientes heredados que no bloquean el orden
 
-Mecanismo legal del Monarch; estructura italiana y respuesta de Chiara a Il Consorzio (D5); mecanismo del incendio y amenaza de Crowe; cobro de la mentira de H8; extensión de la investigación nocturna; qué filtra Mei-Lin con exactitud; qué contesta Kal a «Perdóname, jefe»; «Lo siento, ¿vale?» en el 38; el hábito de Mei-Lin (5); la elipsis de R9; la línea final de «no como tú»; coalición de H1; motivo y mecanismo del asesinato de Amanda; de dónde le sale el nombre a Chiara; las decisiones 2–13 de la carretera.
+Mecanismo legal del Monarch; estructura italiana y respuesta de Chiara a Il Consorzio (D5); mecanismo del incendio y amenaza de Crowe; cobro de la mentira de H8; extensión de la investigación nocturna; qué filtra Mei-Lin con exactitud; qué contesta Kal a «Perdóname, jefe»; quién toma la foto de la cena (20) y dónde queda; qué ecos de Mei-Lin se quedan en el final; si la regla de no vengarla alcanza al golpe fallido (40); el hábito de Mei-Lin (5); la elipsis de R9; la línea final de «no como tú»; coalición de H1; motivo y mecanismo del asesinato de Amanda; de dónde le sale el nombre a Chiara; las decisiones 2–13 de la carretera.

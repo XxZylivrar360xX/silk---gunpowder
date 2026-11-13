@@ -110,8 +110,8 @@ Con los recortes de la **lista A** (mismo POV, capítulos contiguos) el libro qu
 | La siembra de Tommaso (conoce el círculo de Kal), una vez por Parte | 20, «I, II y en el 42» | I: nuevo 16. **II: nuevo 21** (la fiesta del Monarch; las tarjetas no la tenían). III: nuevo 35. |
 | La coartada de Bonnie, su confesión y la ejecución de Mei-Lin | 43–45 | **Salen** (F2 nuevo, CANON 2026-11-07). Al retirar el boceto pasan a [[97_Supersedido/README|97_Supersedido]]. |
 | Roberta Ardizzone y la salida a Italia | 45 | **Sale** con el F2 nuevo. Bonnie se va a Boston (nuevo 38). |
-| «Lo siento, ¿vale?» / «No te martirices. Hiciste lo que debías hacer.» y el beso en la frente | 45 | Nuevo 38, **PENDIENTE del autor** (la opción de III-T9: la línea cambia de sentido sin cambiar una palabra). |
-| «Esa noche terminan en el suelo, destrozados» | 45 | Nuevo 38, si se conserva la línea anterior. Si no, sale. |
+| «Lo siento, ¿vale?» / «No te martirices. Hiciste lo que debías hacer.» y el beso en la frente | 45 | Nuevo 38. **DECISIÓN DEL AUTOR (2026-11-12):** Kal se disculpa con Chiara, rota en el suelo de la Villa con la foto de la cena de Navidad, porque el código de su jerarquía costó una vida. |
+| «Esa noche terminan en el suelo, destrozados» | 45 | Nuevo 38: terminan los dos en el suelo (DECISIÓN DEL AUTOR, 2026-11-12). |
 | «Mac a Almendra» (CANON 2026-09-30; ubicación PENDIENTE) | escenas en reserva | **Candidato (P): nuevo 29, el levantón**, que es la primera operación que hacen juntos. El chiste por radio antes de la emboscada y la ejecución después: el contraste es el riesgo. También siembra la radio abierta de H1 («Todos están fuera, vamos a casa. Sólo Chiara lo entiende»). Si el contraste no sirve, sigue en reserva. |
 | Rafe y los Bravos (deuda sin capítulo) | escenas en reserva | Nuevo 41 (dicen que no) y 49 (el rumor sale de ellos, fuera de página). |
 | La línea errante `claude --resume …` | encabezado del boceto, línea 28 | Sale: es un error evidente, no contenido. |

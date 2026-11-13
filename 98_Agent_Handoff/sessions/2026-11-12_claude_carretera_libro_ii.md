@@ -98,6 +98,18 @@ Encargo del autor: avanzar con la reconciliación del Libro II, trabajando «jus
 - **Las líneas canon del boceto 45** («Lo siento, ¿vale?», el beso en la frente, «en el suelo, destrozados») quedan como PENDIENTE en el 38.
 - **El boceto** pasó con `git mv` a [[97_Supersedido/Boceto_Lista_Capitulos_64]], con cabecera según el protocolo. En su ruta vieja queda una página de una línea para que no se rompan los enlaces de las notas anteriores. Remiten ya a la guía el plan de cuatro Partes, el Book_Map, las tarjetas III y IV, INDEX, el brief y PENDING.
 
+## Décima vuelta: «Lo siento, ¿vale?» y Mei-Lin en el final
+
+- El autor preguntó si F2 podía pasar a la noche final. Se le recomendó que no, por cuatro razones: F2 le enseña al lector lo que vale la herida de Kal sin hospital; el duelo necesita un después; Stavanger es «futuro elegido después de la pérdida»; y se caería la cadena depresión → Mabel → boda.
+- **DECISIÓN DEL AUTOR:**
+  - F2 se queda en la III.
+  - El final la cobra con ecos de Kal y Chiara, sin venganza ni de forma textual.
+  - «Lo siento, ¿vale?» va en el 38: Kal vuelve del entierro y encuentra a Chiara rota en el suelo de la Villa, con la foto de la cena de Navidad. Se disculpa porque el código costó una vida, y a ella le costó a Mei-Lin y a Bonnie.
+- **Aplicado en la guía:** la ficha del 38, ahora en POV Kal (DISEÑO); la foto sembrada en el 20 (en una línea, sin presagio); la sección «Mei-Lin en el final», con tres ecos candidatos (DISEÑO: el torniquete del 52, «No otra vez» en el 54 y la foto junto al fuego en el 55); un aviso en el 40.
+- **Propagado:** Momentos de Fractura (F2), la tarjeta III-T9, el mapa de la Fase 3, el diseño de Navidad y DECISIONS.
+- **Choque abierto:** el golpe fallido (40, P) es una venganza por Mei-Lin. Falta que el autor diga si la regla de no vengarla lo alcanza.
+- **No se adoptó:** la capa de «la deuda pagada que ella nunca supo» (el dinero en el cuarto); el autor eligió la foto.
+
 ## Pendiente
 
-Lectura del autor de la guía y de las tarjetas; la elipsis de R9 y «Mac a Almendra»; decisiones 2–13 de la carretera. Siguiente: propagar la numeración (Book_Map, matriz, fichas), mandar el boceto a supersedido y rehacer la guía de redacción desde las tarjetas.
+Lectura del autor de la guía y de las tarjetas; el choque del 40; la elipsis de R9 y «Mac a Almendra»; decisiones 2–13 de la carretera. Siguiente: propagar la numeración (Book_Map, matriz, fichas), mandar el boceto a supersedido y rehacer la guía de redacción desde las tarjetas.
