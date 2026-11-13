@@ -1,10 +1,10 @@
 # Pendientes activos
 
-Actualizado: 2026-11-10 (limpieza de numeración vieja). Máximo 800 palabras; las decisiones de fondo van en [[98_Agent_Handoff/BACKLOG]]. Anterior íntegro: [[98_Agent_Handoff/archive/2026-11-09_PENDING]]. **Numeración:** salvo las entradas fechadas desde el 2026-11-01, los números de abajo pueden ser anteriores; tabla en [[01_Timeline/09_Equivalencias_Numeracion_Libro_I]]. `N:línea` cita archivo.
+Actualizado: 2026-11-12 (rotado por límite: medía 841 palabras). Máximo 800 palabras; las decisiones de fondo van en [[98_Agent_Handoff/BACKLOG]]. Anterior íntegro: [[98_Agent_Handoff/archive/2026-11-12_PENDING]]. **Numeración:** salvo las entradas fechadas desde el 2026-11-01, los números de abajo pueden ser anteriores; tabla en [[01_Timeline/09_Equivalencias_Numeracion_Libro_I]]. `N:línea` cita archivo.
 
 ## *Sombras de Poder* (Libro II): decide el autor
 
-Lista de fondo (F4, Stavanger, F2, Navidad y otras): [[98_Agent_Handoff/BACKLOG#Libros II y III]]. Prosa en espera hasta cerrar el Libro I. **Nuevo (2026-11-12):** Fase 3 aprobada (hoy 56 caps.) ([[11_Books/Book_02_Sombras_De_Poder/00_Mapa_Boceto_A_Tarjetas]]). Abiertos: la elipsis de R9, «Mac a Almendra», las decisiones 2–13 de la carretera y la lectura de las tarjetas. Numeración propagada y guía de 56 rehecha ([[11_Books/Book_02_Sombras_De_Poder/00_Guia_Redaccion_Capitulos]], DISEÑO, espera lectura). Siguiente sesión: la tormenta desde Chiara (51–56) y la idea del autor sobre el Caldero que sobrevive.
+Lista de fondo: [[98_Agent_Handoff/BACKLOG#Libros II y III]]. Prosa en espera hasta cerrar el Libro I, salvo los caps. 53–55 (orden del autor, 2026-11-12; ver brief). Abiertos: lectura de las tarjetas y de la guía de 56 ([[11_Books/Book_02_Sombras_De_Poder/00_Guia_Redaccion_Capitulos]], DISEÑO); decisiones 2–13 de la carretera; elipsis de R9; «Mac a Almendra»; sembrar a Nat antes del 53; si Walt está en la Almendra (54).
 
 ## Lecturas del autor (Libro I)
 
@@ -24,7 +24,7 @@ Lista de fondo (F4, Stavanger, F2, Navidad y otras): [[98_Agent_Handoff/BACKLOG#
 
 - **#25 de [[00_Biblia/00_Trilogy_Structure]]:** abierto hasta que el autor lo declare; la revisión integral de I–III no está hecha.
 - **Fichas de voz de la Parte III creadas (2026-11-09, DISEÑO, leer):** Bonnie, Mei-Lin, Garrett, Tyler (poca evidencia), Blake, Ettore y Livia Rinaldi, en `12_Craft_Policies/voice/`.
-- **Propagación de la Parte II hecha (2026-11-09):** [[98_Agent_Handoff/sessions/2026-11-09_claude_propagacion_parte_II_resto]]. Lo mecánico, terminado. Decide el autor las dudas listadas en la nota (seguro de Vento, Principio 1 del plan, intervalo de H16, §H12, Audi del 22a, POV de 32 y 34, regla de un POV para los Caps. 1–10, tramo de Nadir en el 43, «proveedor» de Hoover).
+- **Propagación de la Parte II (2026-11-09):** el autor decide las dudas listadas en [[98_Agent_Handoff/sessions/2026-11-09_claude_propagacion_parte_II_resto]] (seguro de Vento, H16, POV de 32 y 34, entre otras).
 
 - **Gesto de manos:** revisar en cada capítulo.
 - **Portada y Nota Editorial:** portada ≥1600×2560 para KDP; título de `00_Nota_Editorial.md`, del autor.

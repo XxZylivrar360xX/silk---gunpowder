@@ -125,3 +125,10 @@ Rotación por límites, sin cambios de estado ni de canon (el brief medía 838 p
 - [[98_Agent_Handoff/archive/2026-11-09_CURRENT_BRIEF|Brief acumulado]].
 - [[98_Agent_Handoff/archive/2026-11-09_PENDING|Pendientes]].
 - [[98_Agent_Handoff/archive/2026-11-09_DECISIONS_retiradas|Decisiones retiradas]].
+
+## Corte del 2026-11-12
+
+Rotación por límites, sin cambios de estado ni de canon (el brief medía 1,280 palabras; PENDING 841; DECISIONS 675, sin tocar). Del brief salieron el detalle del canon menor y de los borradores del Libro I (siguen en sus fichas, planes y PENDING). Los 2 enlaces más antiguos de [[log]] (2026-11-08, terminales A y B de la Fase 4) pasaron a [[98_Agent_Handoff/archive/2026-11_sesiones]].
+
+- [[98_Agent_Handoff/archive/2026-11-12_CURRENT_BRIEF|Brief acumulado]].
+- [[98_Agent_Handoff/archive/2026-11-12_PENDING|Pendientes]].
