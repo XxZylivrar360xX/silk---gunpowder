@@ -13,3 +13,7 @@
 2. «Perico» frente a «loro» (registro).
 3. «Sigue. Per favore. Sigue.» es su forma de pedirle historias desde el Libro I (cap. 8); confirmar que el eco se queda.
 4. El papel queda en el abrigo, en las baldosas junto a la piscina: el 56 decide cómo llega a la manta.
+
+## Calibración del autor (2026-11-13)
+
+Notas: el cuerpo tiene que cobrar lo que el 54 mostró, sin minimizarlo, y la tensión con Walt (le quitó a Kal la respuesta del origen) no puede desaparecer. Aplicado en el 55: lo que Camila trae para el dolor no alcanza y Chiara le sostiene la cabeza mientras tiembla; Camila ya no dice «nada que no se pudiera esperar»: la bala entró y salió, no sabe qué tocó, perdió más sangre de la que ella puede reponer, y fija condiciones de hospital («Ahí no negocio»); en el baño, sudor y temblor; en la cama respira sin hondura y Chiara le toca la frente. Walt: Kal se traba en su nombre en la vigilia («Walt...»), y Chiara cuenta dos huecos sin preguntar. En la guía (56) quedan las dos calibraciones como lo que el 56 tiene que cargar.

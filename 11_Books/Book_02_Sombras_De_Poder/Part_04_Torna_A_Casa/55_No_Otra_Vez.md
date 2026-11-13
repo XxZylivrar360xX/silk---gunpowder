@@ -11,7 +11,7 @@ personajes: Chiara Bellandi, Kal Mercer, Natalie Keegan (al abrir), Camila Rivas
 hito: H1 — El regreso a casa (movimientos 4 a 8)
 ---
 
-> **Estado:** BORRADOR del agente (Claude Code, 2026-11-13), segunda versión para lectura del autor (2026-11-13: tras revisión editorial de un subagente). Fuera de `CHAPTERS` de `tools/build_sombras.py`: no entra al EPUB.
+> **Estado:** BORRADOR del agente (Claude Code, 2026-11-13), tercera versión para lectura del autor (2026-11-13: revisión editorial de un subagente; calibración del autor: el cuerpo cobra y Walt deja huella). Fuera de `CHAPTERS` de `tools/build_sombras.py`: no entra al EPUB.
 >
 > **CANON citado literal (H1):** «Me encuentro bien.» / «No otra vez.»; «Cuéntamelo de principio a fin.» / «Estuviste en radio.» / «Lo estuve, pero quiero escucharte.»; el delirio con pausas («Tus ojos brillan.» / «Me gusta cuando brillan.» / «Deberías sonreír más, bella, cuando lo haces yo...» / «No te preocupes tanto por todo.»); «¿Por qué siempre te preocupas tanto? Lo ves, estoy bien.» / «Perché ti amo con tutto il mio cuore.»; «Volevo solo tornare a casa per mantenere la mia promessa, amore.». **CANON (hechos):** Chiara llega después que Kal y viene de dejar a Nat; las velas apagadas por una ventana abierta; el papel en su bolsillo; el agua muy oscura; el collar puesto, sin señalarlo; hospitales vigilados; Camila, que no sabe del embarazo; la grieta de la voz en el eco de Corrado y no antes; Kal no responde a la declaración; nadie más habla en los diálogos de la pareja; el embarazo no se revela ni se piensa.
 >
@@ -291,9 +291,13 @@ Kal miró el techo.
 
 Lo dijo así, plano. Y siguió, antes de que ella pudiera hacer algo con eso:
 
-—Walt dio tres vueltas sin luces. Como si fuera domingo.
+—Walt...
 
-Chiara no preguntó más.
+Se detuvo. No era el sueño tampoco. Tenía los ojos abiertos, fijos en el techo, y la boca cerrada sobre algo, como se cierra la mano sobre una pieza que no se quiere soltar ni enseñar.
+
+—Walt dio tres vueltas sin luces —dijo al fin—. Como si fuera domingo.
+
+Ya eran dos. Chiara no preguntó más.
 
 —¿Y tú? —dijo—. ¿Cuándo...?
 
@@ -431,13 +435,21 @@ Camila trabajó en el baño del dormitorio porque ahí estaba la mejor luz de la
 
 Chiara sostuvo lo que le dijeron que sostuviera. Pasó lo que le dijeron que pasara. Cortó con unas tijeras lo que quedaba del pantalón de Kal y no pensó en nada mientras lo hacía. No miró la herida más de lo necesario. Miró las manos de Camila, que no se apuraban y no se detenían, y el reloj barato en la muñeca de Camila, y la bolsa de suero que Camila colgó del toallero con un gancho de alambre, y la gota que caía, una, y otra, y otra, en la cámara de plástico.
 
+Lo que Camila traía para el dolor no alcanzó. Camila lo dijo antes de empezar, sin bajar la voz, y Kal le dijo que adelante, y no estuvo bien. Chiara le sostuvo la cabeza contra el pecho mientras Camila trabajaba, con la boca de él apretada contra una toalla doblada, y lo sintió temblar entero, de frío y de lo otro, un temblor que no paraba y que no era de los que se pueden detener abrazando. No hizo ruido. Chiara le sintió en el pecho cada uno de los ruidos que no hizo.
+
 En algún momento, Camila dijo que ya.
 
-No dijo que estaba bien. Dijo que ya, que lo que había que hacer esa noche estaba hecho, que la bala no había tocado nada que no se pudiera esperar, que había perdido mucha sangre, que tenía que estar quieto, que se quedaba hasta que se acabara el suero, que volvía en la mañana y que si le subía la fiebre la llamara a la hora que fuera. Lo dijo en la puerta del baño, quitándose los guantes. Después salió, y Chiara la oyó en la cocina abrir la llave del agua y dejarla correr mucho rato.
+No dijo que estaba bien. Dijo que ya, que lo que se podía hacer en una casa estaba hecho. Que la bala había entrado y salido, y que eso era lo bueno. Que lo que hubiera tocado por dentro no lo podía saber ahí, con una lámpara y un toallero. Que había perdido mucha sangre, más de la que ella podía reponer con lo que traía en una maleta. Que tenía que estar quieto. Que se quedaba hasta que se acabara la segunda bolsa de suero y volvía a primera hora con lo que le faltaba.
+
+Después lo dijo mirando a Chiara, no a él:
+
+—Si le sube la fiebre, si se le pone duro el vientre, si se confunde, si no orina, se va al hospital. Con patrullas o sin patrullas. Ahí no negocio.
+
+Lo dijo en la puerta del baño, quitándose los guantes. Después salió, y Chiara la oyó en la cocina abrir la llave del agua y dejarla correr mucho rato.
 
 Se quedaron solos.
 
-Kal estaba sentado en el suelo del baño, con la espalda contra la tina, envuelto en la manta, con el brazo izquierdo extendido sobre la rodilla por la aguja del suero. Tenía color. Poco, pero tenía. Chiara estaba sentada a su lado en el suelo, con el hombro contra el hombro de él, en la ropa mojada que no se había quitado, descalza. Las botas estaban en un rincón, llenas de agua de piscina.
+Kal estaba sentado en el suelo del baño, con la espalda contra la tina, envuelto en la manta, con el brazo izquierdo extendido sobre la rodilla por la aguja del suero. Tenía la frente mojada de sudor y le temblaban todavía las manos, de a ratos, como les tiembla a los motores cuando se apagan. Tenía color. Poco. Chiara estaba sentada a su lado en el suelo, con el hombro contra el hombro de él, en la ropa mojada que no se había quitado, descalza. Las botas estaban en un rincón, llenas de agua de piscina.
 
 Él la miró.
 
@@ -461,11 +473,11 @@ Chiara tampoco dijo nada.
 
 ***
 
-Lo llevó a la cama casi una hora después, cuando Camila volvió a revisar el suero y dijo que podía. Fue despacio, por el pasillo corto entre el baño y el dormitorio, él apoyado en ella y ella con la bolsa de suero levantada en la otra mano, por encima de la cabeza, como se lleva una lámpara en un pasillo a oscuras.
+Lo llevó a la cama casi una hora después, cuando Camila cambió la bolsa del suero y dijo que podía, si era despacio. Fue despacio, por el pasillo corto entre el baño y el dormitorio, él apoyado en ella y ella con la bolsa de suero levantada en la otra mano, por encima de la cabeza, como se lleva una lámpara en un pasillo a oscuras.
 
 Lo acostó del lado izquierdo, que no era su lado. Le acomodó la almohada. Colgó la bolsa del suero de la lámpara de pie, que Camila había arrastrado hasta la cabecera. Le subió la sábana, la manta, el edredón, y se quedó parada al lado de la cama, con la ropa mojada todavía, sin saber qué hacer con las manos ahora que no tenía nada que apretar.
 
-Kal tenía los ojos cerrados. Respiraba más lento. Más hondo.
+Kal tenía los ojos cerrados. Respiraba más lento, pero no hondo. Se le movía un músculo de la mandíbula cada vez que el aire le llegaba al costado.
 
 Chiara se iba a dar vuelta para ir a cambiarse cuando él habló.
 
@@ -475,7 +487,7 @@ Lo dijo con los ojos cerrados, muy cansado. *Tornare* le salió casi bien. *Prom
 
 Después se durmió. Esta vez de verdad.
 
-Chiara se sentó en el borde de la cama.
+Chiara se sentó en el borde de la cama. Le puso el dorso de la mano en la frente, como le había dicho Camila. Estaba tibia. Sólo tibia.
 
 No se cambió. No se secó el pelo. Se quedó ahí sentada en la ropa mojada, en el dormitorio a oscuras, con la luz del pasillo entrando por la puerta entreabierta, mirándolo dormir. El pecho de él subía y bajaba.
 
@@ -485,4 +497,4 @@ La llama se quedó derecha. En esa casa ya no corría aire.
 
 Chiara volvió a sentarse en el borde de la cama, junto a él, y le puso la mano en el pecho, encima de la placa.
 
-No rezó. No esa vez. Lo miró respirar, y contó cada vez que el pecho subía, una y otra, sin perder ninguna, y en algún momento de la cuenta, sin que el resto de la cara se le moviera, le cayó una lágrima, una sola, y Chiara la dejó caer.
+No rezó. No esa vez. Lo miró respirar, le tocó la frente cada tanto, y contó cada vez que el pecho subía, una y otra, sin perder ninguna, y en algún momento de la cuenta, sin que el resto de la cara se le moviera, le cayó una lágrima, una sola, y Chiara la dejó caer.
