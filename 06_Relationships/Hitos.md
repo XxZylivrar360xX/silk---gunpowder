@@ -2141,6 +2141,8 @@ Chiara mantiene los nervios de acero por fuera y por dentro está desesperada. L
 >
 > **— No te preocupes tanto por todo.**
 >
+> **Siembra (DECISIÓN DEL AUTOR, 2026-11-13):** la frase vive hoy en el recuerdo de la iglesia del [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/12_Roma_Atrii|cap. 12 (*Roma Atrii*)]]: Corrado, agachado frente a Chiara niña, «Después ya lo arreglo yo. […] No te preocupes tanto por todo.»; la cita del cap. 2 de abajo es histórica.
+>
 > La última es eco directo de Corrado en el [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Un_Hombre_De_Negocios_Intachable/02_Demasiado_Listo|Cap. 2 (archivo 02)]] del Libro I («Porque prefiero arreglarlo personalmente. No te preocupes tanto por todo.»), justo antes de la redada que se lo llevó sin despedida. **A Chiara le hiela la sangre.**
 >
 > **La grieta cae aquí (CANON DEL AUTOR, 2026-10-13; aprobó la propuesta del agente):** la voz de Chiara se le rompe en el eco de Corrado. Es el momento exacto de la regla de arriba: él se está durmiendo, y lo último que dice es lo que dijo el hombre que no volvió. Hasta esa línea, ella es de acero.

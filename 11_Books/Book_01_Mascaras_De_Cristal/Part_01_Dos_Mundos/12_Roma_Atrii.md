@@ -251,9 +251,7 @@ Se agachó frente a ella, sin prisa.
 
 —¿Y después?
 
-Le acomodó el cuello del abrigo.
-
-—Después ya lo arreglo yo.
+—Después ya lo arreglo yo. —Le acomodó el cuello del abrigo—. No te preocupes tanto por todo.
 
 Le tendió la mano. Cuando Chiara se la dio, se incorporó y quedó delante de ella.
 
