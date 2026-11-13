@@ -12,7 +12,7 @@ personajes: Kal Mercer, Silas Crowe (recuerdo), Walt Keegan, Héctor Navarro, lo
 
 > **Estado:** BORRADOR del agente (Claude Code, 2026-11-13), segunda versión para lectura del autor (2026-11-13: razones de Héctor para dejarlo ir, vendaje de oficio en vez de papel y cinta, más espacio a la reacción de Kal ante el origen). Fuera de `CHAPTERS` de `tools/build_sombras.py`: no entra al EPUB.
 >
-> **CANON citado literal:** la línea cortada de Crowe a Walt («Ya perdiste a una esposa, así que cuida de tu cocinera, uno nunca sabe cuándo la muert...») y la de Walt, dicha después del disparo («A nadie le importa tu opinión, gordo hijo de puta.»). **CANON (hechos):** Crowe le revela a Kal que lo conoció antes de que fuera un Mercer (conectó a Dale con la red que lo trajo de bebé); Kal lo deja vivo porque lo necesita; Walt lo ejecuta; la fricción queda sin resolver; Walt y Kal se lo ocultan a Natalie; el tiro en el costado llega en la retirada, después de «Dime, Amore», y Kal cree que fue del tiroteo (Volpi, velado: nada en página); en la Almendra Héctor ve el chaleco ensangrentado y piensa en Mei-Lin; Kal dice que es un rasguño, una rozadura, que lo atiende solo, y repite «tengo que llegar a casa, porque me esperan»; Héctor lo deja ir porque entiende que quiere llegar con Chiara; Walt está en la Almendra (2026-11-13). **PENDIENTE (no se rellena):** motivo y mecanismo del asesinato de Amanda. **DISEÑO del agente:** la nave de las prendas (bodega de empeños vencidos de Crowe en Nueve Puentes); las líneas de Crowe antes de la cortada («Me debes diciembre», «Te tasé», «Eso vale algo»); la cabeza de malvavisco que Kal se quita para Crowe y se vuelve a poner por las cámaras; Mack Calderon pidiendo a Crowe muerto; el golpe en el costado tomado por un rebote; el cruce de Kal y Walt en la Almendra («Natalie no.» / «No.»); la bolsa roja de primeros auxilios, la sudadera y las llaves de Héctor (Kal se venda con oficio militar: comprar tiempo, no arreglarlo); la sangre ajena del de la Ronda, la médica de Chiara, «tú te quedas» por si la policía llega a la Almendra y el plazo de cuarenta minutos, razones para que Héctor lo deje ir; Kal de rodillas en el baño del taller (el título se cobra dos veces); el eco de Mei-Lin en la mirada de Héctor al chaleco, la misma que le echó al forro de la camioneta.
+> **CANON citado literal:** la línea cortada de Crowe a Walt («Ya perdiste a una esposa, así que cuida de tu cocinera, uno nunca sabe cuándo la muert...») y la de Walt, dicha después del disparo («A nadie le importa tu opinión, gordo hijo de puta.»). **CANON (hechos):** Crowe le revela a Kal que lo conoció antes de que fuera un Mercer (conectó a Dale con la red que lo trajo de bebé); Kal lo deja vivo porque lo necesita; Walt lo ejecuta; la fricción queda sin resolver; Walt y Kal se lo ocultan a Natalie; el tiro en el costado llega en la retirada, después de «Dime, Amore», y Kal cree que fue del tiroteo (Volpi, velado: nada en página); en la Almendra Héctor ve el chaleco ensangrentado y piensa en Mei-Lin; Kal dice que es un rasguño, una rozadura, que lo atiende solo, y repite «tengo que llegar a casa, porque me esperan»; Héctor lo deja ir porque entiende que quiere llegar con Chiara; Walt está en la Almendra (2026-11-13). **PENDIENTE (no se rellena):** motivo y mecanismo del asesinato de Amanda. **DISEÑO del agente:** la nave de las prendas (bodega de empeños vencidos de Crowe en Nueve Puentes); las líneas de Crowe antes de la cortada («Me debes diciembre», «Te tasé», «Eso vale algo»); la cabeza de malvavisco que Kal se quita para Crowe y se vuelve a poner por las cámaras; Mack Calderon pidiendo a Crowe muerto; el golpe en el costado tomado por un rebote; el cruce de Kal y Walt en la Almendra («Natalie no.» / «No.»); la bolsa roja de primeros auxilios, la sudadera y las llaves de Héctor (Kal se venda con oficio militar: comprar tiempo, no arreglarlo); la sangre ajena del de la Ronda, no llamar a Chiara porque maneja en la helada, «tú te quedas» por si la policía llega a la Almendra y el plazo de cuarenta minutos, razones para que Héctor lo deje ir; Kal de rodillas en el baño del taller (el título se cobra dos veces); el eco de Mei-Lin en la mirada de Héctor al chaleco, la misma que le echó al forro de la camioneta.
 
 # De rodillas
 
@@ -274,11 +274,9 @@ Kal no se la abrió. Se apoyó con una mano en el escritorio de la oficina, en e
 
 —Los hospitales están llenos de patrullas. Ya lo dijeron en la tele.
 
-—Entonces que vaya un médico a tu casa. Esa mujer conoce a media ciudad.
+—Entonces le aviso a ella.
 
-—Ya va. —Kal levantó la vista—. Tiene a su médica. La que estuvo toda la noche en el almacén de Canal Seco. Chiara la va a llevar.
-
-No sabía si era cierto. Sabía que Chiara siempre conocía a alguien, y que esa noche lo había demostrado en la radio, y que eso tenía que alcanzar.
+—No.
 
 Héctor sacó el teléfono del bolsillo de la camisa.
 
@@ -366,7 +364,7 @@ Nunca se lo había puesto a sí mismo.
 
 Se lavó la mano. Se limpió el costado con agua del lavabo, sin mirar mucho. Se buscó el agujero con los dedos; estaba donde dolía. Metió la gasa ahí, apretando, contando como contaba el sargento, y cuando el conteo llegó a donde tenía que llegar, sin soltar la presión, se pasó el vendaje alrededor del cuerpo, por encima de la cadera, una vuelta, dos, tres, y le dio vuelta a la barra hasta que apretó más de lo que podía soportar, y una vuelta más. El gancho se le resbalaba de los dedos; lo cerró con la cinta de aislar de Héctor.
 
-Sabía lo que era eso. No era arreglarlo. Era comprar tiempo: una hora, quizá dos, si no se movía mucho. Lo demás lo tenía que hacer un médico, en la casa. Chiara iba a conocer a alguien. Chiara siempre conocía a alguien.
+Sabía lo que era eso. No era arreglarlo. Era comprar tiempo: una hora, quizá dos, si no se movía mucho. Lo demás era problema de después.
 
 Se quedó un momento con las dos manos sobre el vendaje, sintiendo cómo apretaba. Se dijo que con eso alcanzaba para once curvas.
 

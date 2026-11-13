@@ -623,12 +623,14 @@ F2 se queda en la Parte III, y el final la cobra **con ecos, no de forma textual
 - **La vigilia** carga a Mei-Lin, Bonnie, Fabrizio y Tommaso sin nombrarlos.
 - **(P, 2026-11-12):** el lector ya leyó lo de Crowe en el 54; cuando Kal se lo cuenta «de principio a fin», se elide el contenido y queda lo que hace Chiara al oírlo. El lector sabe de la herida desde la Almendra; ella no, hasta el agua.
 - **Eco de Mei-Lin (DISEÑO):** ver «Mei-Lin en el final», al abrir la Parte IV.
+- **La médica (DECISIÓN DEL AUTOR, 2026-11-13):** en el 54 nadie promete ni menciona a Camila; la urgencia de que llegue es del 55.
 - **No hacer:** que ella revele el embarazo; ni «no puedes morirte ahora; ni siquiera sabes» como diálogo o pensamiento.
 
 **56. La chimenea** — tras dormir · DISEÑO · la Villa, sólo a la luz del fuego · *(61; IV-U18)*
 
 - **Canon:** la normalidad doméstica (hamburguesa doble) y después la chimenea. El papel cae de la manta: «¿Quién es Elenna?» / «Antes era sólo un nombre.» / «Sono incinta.»: el último secreto de ella, dicho. **FIN.**
 - **(P):** antes de la manta, Kal echa al fuego la foto con Halbrook (43).
+- **Héctor (CANON DEL AUTOR, 2026-11-13):** mientras Kal duerme, Héctor pasa a la Villa (vence el plazo de cuarenta minutos del 54), conversa con Chiara y decide volver por la mañana. Chiara se lo dice a Kal después de dormir, antes de «Sono incinta». La visita queda fuera de la escena del 55 salvo que el autor decida otra cosa.
 - **Eco de Mei-Lin (DISEÑO):** ver «Mei-Lin en el final», al abrir la Parte IV.
 - **Reacción de Kal (DISEÑO fijado):** `shock → procesamiento → emoción difícil de verbalizar → seguridad → médicos → casa → trabajo → dinero → futuro`, en conducta y no en discurso. Su herida es saber lo que pasa cuando un padre desaparece de una casa.
 - **PENDIENTE:** el diálogo y la reacción textual. El significado del nombre no se dice en este libro.
