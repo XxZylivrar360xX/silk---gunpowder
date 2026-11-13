@@ -602,6 +602,7 @@ F2 se queda en la Parte III, y el final la cobra **con ecos, no de forma textual
 
 **54. De rodillas** — esa noche, de regreso · **Kal** · el camino a la ciudad (recuerdo: el frente sur); la Almendra · *(59; IV-U16)*
 
+- **Redactado (BORRADOR, 2026-11-13):** [[11_Books/Book_02_Sombras_De_Poder/Part_04_Torna_A_Casa/54_De_Rodillas]]; detalle en [[98_Agent_Handoff/sessions/2026-11-13_claude_cap54_de_rodillas]].
 - **Marco (CANON DEL AUTOR, 2026-11-12):** Kal maneja solo hacia la Almendra (la llamada con Chiara ya ocurrió y no se repite) y recuerda lo que pasó con Crowe. El foco no es la operación, sino lo que esa noche le dejó: la herida y Walt.
 - **El recuerdo es escena, no resumen (P):** es una de las revelaciones grandes del libro. El coche es el marco; dentro va la escena completa, con las líneas canon dichas. El recuerdo a pedazos se justifica por el cansancio y la sangre.
 - **Canon (en el recuerdo):** Crowe le revela a Kal que lo conoció desde antes de que fuera un Mercer (conectó a Dale con la red que lo trajo de bebé). Kal lo deja vivo porque lo necesita. Crowe le suelta a Walt la línea cortada: *«Ya perdiste a una esposa, así que cuida de tu cocinera, uno nunca sabe cuándo la muert...»*. Walt entiende que Crowe mató a Amanda y dispara: *«A nadie le importa tu opinión, gordo hijo de puta.»* La fricción entre Kal y Walt queda sin resolver.
