@@ -10,9 +10,9 @@ localizacion: la carretera de regreso; recuerdo: la nave de las prendas de Crowe
 personajes: Kal Mercer, Silas Crowe (recuerdo), Walt Keegan, Héctor Navarro, los muchachos del Patio
 ---
 
-> **Estado:** BORRADOR del agente (Claude Code, 2026-11-13), primera versión para lectura del autor. Fuera de `CHAPTERS` de `tools/build_sombras.py`: no entra al EPUB.
+> **Estado:** BORRADOR del agente (Claude Code, 2026-11-13), segunda versión para lectura del autor (2026-11-13: razones de Héctor para dejarlo ir, vendaje de oficio en vez de papel y cinta, más espacio a la reacción de Kal ante el origen). Fuera de `CHAPTERS` de `tools/build_sombras.py`: no entra al EPUB.
 >
-> **CANON citado literal:** la línea cortada de Crowe a Walt («Ya perdiste a una esposa, así que cuida de tu cocinera, uno nunca sabe cuándo la muert...») y la de Walt, dicha después del disparo («A nadie le importa tu opinión, gordo hijo de puta.»). **CANON (hechos):** Crowe le revela a Kal que lo conoció antes de que fuera un Mercer (conectó a Dale con la red que lo trajo de bebé); Kal lo deja vivo porque lo necesita; Walt lo ejecuta; la fricción queda sin resolver; Walt y Kal se lo ocultan a Natalie; el tiro en el costado llega en la retirada, después de «Dime, Amore», y Kal cree que fue del tiroteo (Volpi, velado: nada en página); en la Almendra Héctor ve el chaleco ensangrentado y piensa en Mei-Lin; Kal dice que es un rasguño, una rozadura, que lo atiende solo, y repite «tengo que llegar a casa, porque me esperan»; Héctor lo deja ir porque entiende que quiere llegar con Chiara; Walt está en la Almendra (2026-11-13). **PENDIENTE (no se rellena):** motivo y mecanismo del asesinato de Amanda. **DISEÑO del agente:** la nave de las prendas (bodega de empeños vencidos de Crowe en Nueve Puentes); las líneas de Crowe antes de la cortada («Me debes diciembre», «Te tasé», «Eso vale algo»); la cabeza de malvavisco que Kal se quita para Crowe y se vuelve a poner por las cámaras; Mack Calderon pidiendo a Crowe muerto; el golpe en el costado tomado por un rebote; el cruce de Kal y Walt en la Almendra («Natalie no.» / «No.»); la sudadera y las llaves de Héctor; Kal de rodillas en el baño del taller (el título se cobra dos veces); el eco de Mei-Lin en la mirada de Héctor al chaleco, la misma que le echó al forro de la camioneta.
+> **CANON citado literal:** la línea cortada de Crowe a Walt («Ya perdiste a una esposa, así que cuida de tu cocinera, uno nunca sabe cuándo la muert...») y la de Walt, dicha después del disparo («A nadie le importa tu opinión, gordo hijo de puta.»). **CANON (hechos):** Crowe le revela a Kal que lo conoció antes de que fuera un Mercer (conectó a Dale con la red que lo trajo de bebé); Kal lo deja vivo porque lo necesita; Walt lo ejecuta; la fricción queda sin resolver; Walt y Kal se lo ocultan a Natalie; el tiro en el costado llega en la retirada, después de «Dime, Amore», y Kal cree que fue del tiroteo (Volpi, velado: nada en página); en la Almendra Héctor ve el chaleco ensangrentado y piensa en Mei-Lin; Kal dice que es un rasguño, una rozadura, que lo atiende solo, y repite «tengo que llegar a casa, porque me esperan»; Héctor lo deja ir porque entiende que quiere llegar con Chiara; Walt está en la Almendra (2026-11-13). **PENDIENTE (no se rellena):** motivo y mecanismo del asesinato de Amanda. **DISEÑO del agente:** la nave de las prendas (bodega de empeños vencidos de Crowe en Nueve Puentes); las líneas de Crowe antes de la cortada («Me debes diciembre», «Te tasé», «Eso vale algo»); la cabeza de malvavisco que Kal se quita para Crowe y se vuelve a poner por las cámaras; Mack Calderon pidiendo a Crowe muerto; el golpe en el costado tomado por un rebote; el cruce de Kal y Walt en la Almendra («Natalie no.» / «No.»); la bolsa roja de primeros auxilios, la sudadera y las llaves de Héctor (Kal se venda con oficio militar: comprar tiempo, no arreglarlo); la sangre ajena del de la Ronda, la médica de Chiara, «tú te quedas» por si la policía llega a la Almendra y el plazo de cuarenta minutos, razones para que Héctor lo deje ir; Kal de rodillas en el baño del taller (el título se cobra dos veces); el eco de Mei-Lin en la mirada de Héctor al chaleco, la misma que le echó al forro de la camioneta.
 
 # De rodillas
 
@@ -82,15 +82,33 @@ Crowe no lo miró. Miraba a Kal.
 
 Kal no se movió. Sentía la cabeza de malvavisco contra la pierna, el hule frío, el agua que le escurría del pelo hacia el cuello.
 
-Las cartas estaban en la tumba de Dale desde octubre, debajo de una piedra, envueltas en una bolsa de plástico. *Te devuelvo lo poco que llegué a saber.* Las cartas le habían dicho dónde. Stavanger le había dado una casa azul junto a un muelle, un hombre de pelo blanco y la cara de una mujer muerta. Nadie le había dicho cómo. Nadie le había dicho quién había puesto la cifra.
+Junto a la rodilla de Crowe estaba la vitrina de los anillos. Kal la miró porque no podía mirar a Crowe. Anillos de matrimonio en terciopelo azul, ordenados por tamaño, y a cada uno, amarrada con hilo, su etiqueta de cartón. Un nombre, una fecha, una cifra. Lo que alguien había traído al mostrador porque no le quedaba otra cosa que traer.
 
-—Quién —dijo Kal.
+En algún mostrador, treinta y tantos años antes, había habido una etiqueta así. Sin nombre todavía. Con una fecha y una cifra.
+
+Trató de ver a Dale llorando. No le salió. El Dale que él había conocido no lloraba; azotaba puertas, contaba billetes en la mesa de la cocina con la espalda encorvada, se iba días y volvía oliendo a otra parte. Ese hombre no lloraba en ningún mostrador a las once de la mañana. Y sin embargo lo había hecho, una vez, si Crowe decía la verdad, y Crowe ya no tenía ninguna razón para mentir sobre eso. Había llorado por Ruth.
+
+Ruth. La que lo medía cada cumpleaños contra el marco de la puerta de la cocina, con un lápiz, y le ponía la fecha al lado de la raya, y se quedaba mirando cuánto había subido como si fuera una cosa que ella hubiera hecho. Kal se preguntó, sin quererlo, si ella había sabido. Si había preguntado de dónde. Si había preguntado cuánto.
+
+No lo iba a saber. Ruth estaba muerta, y Dale estaba muerto, y lo único vivo en esa bodega que lo sabía estaba de rodillas en el concreto, mirándolo.
+
+Y la deuda. La que se había llevado la casa, y a Dale a la cárcel, y a Ruth después, poco a poco, en la cocina. Kal había pasado la vida creyendo que había empezado en una mesa de apuestas. No había empezado ahí. Había empezado con él.
+
+Las cartas estaban en la tumba de Dale desde octubre, debajo de una piedra, envueltas en una bolsa de plástico. *Te devuelvo lo poco que llegué a saber.* Lo poco. Las cartas le habían dicho dónde. Stavanger le había dado una casa azul junto a un muelle, un hombre de pelo blanco y la cara de una mujer muerta. Nadie le había dicho cómo. Nadie le había dicho quién había puesto la cifra.
+
+Nadir le tocó el codo otra vez. Afuera, las sirenas.
+
+—Un minuto —dijo Kal, sin volverse.
+
+Después, a Crowe:
+
+—Quién.
 
 Crowe sonrió más.
 
 —Eso vale algo.
 
-—Quién era el hombre.
+—Quién era el hombre, Crowe.
 
 —Eso vale algo, Mercer. —Crowe levantó un poco la barbilla, de rodillas, entre las lavadoras y los anillos—. Y aquí el que pone el precio sigo siendo yo.
 
@@ -238,7 +256,9 @@ Kal fue hacia él, para que no tuviera que ser Héctor el que fuera hacia Kal de
 
 —Un rasguño.
 
-—Una rozadura. Algo me rozó al salir. Una lámina.
+—Una rozadura. Algo me rozó al salir. Una lámina. —Kal se tocó el hombro izquierdo, donde la chaqueta también estaba oscura—. Lo demás no es mío. Cargué a uno de la Ronda con un tiro en el hombro. Me sangró encima todo el cruce.
+
+Era verdad. Era la parte verdadera, y Kal la puso delante.
 
 —Ábrete la chaqueta.
 
@@ -256,9 +276,27 @@ Kal no se la abrió. Se apoyó con una mano en el escritorio de la oficina, en e
 
 —Entonces que vaya un médico a tu casa. Esa mujer conoce a media ciudad.
 
-—Esa mujer va en camino. —Kal levantó la vista—. Tengo que llegar a casa, Héctor. Me esperan.
+—Ya va. —Kal levantó la vista—. Tiene a su médica. La que estuvo toda la noche en el almacén de Canal Seco. Chiara la va a llevar.
 
-Héctor no contestó. Dejó el rollo de cinta en el escritorio, junto a la mano de Kal, sin hacer ruido.
+No sabía si era cierto. Sabía que Chiara siempre conocía a alguien, y que esa noche lo había demostrado en la radio, y que eso tenía que alcanzar.
+
+Héctor sacó el teléfono del bolsillo de la camisa.
+
+—Le marco.
+
+—Va manejando, Héctor. Con la hija de Walt, en la helada. —Kal le puso la mano encima del teléfono, sin quitárselo—. Si le marcas así, a esta hora, se mata en una curva. Yo le digo. En la casa.
+
+Héctor no guardó el teléfono, pero tampoco marcó.
+
+—Entonces te llevo yo.
+
+—Tú te quedas. —Kal señaló con la barbilla el vidrio, el taller, a Danny en su silla—. Medio San Aurelio vio un malvavisco esta noche, y la otra mitad lo va a ver mañana. Si alguien viene a tocar el portón antes de que amanezca, que te encuentre a ti, no a ellos solos. Tú sabes qué decir. Ellos no.
+
+Héctor lo miró. Kal sabía que tenía razón en eso, y Héctor también lo sabía, y los dos sabían que Kal lo estaba usando.
+
+—Tengo que llegar a casa, Héctor. Me esperan.
+
+Héctor no contestó. Se levantó, descolgó de la pared de la oficina la bolsa roja con la cruz blanca que había colgado ahí en la primavera, junto al extintor, y la puso en el escritorio, al lado de la mano de Kal, sin hacer ruido. Encima dejó el rollo de cinta.
 
 —Me mientes igual que a los doce —dijo.
 
@@ -272,9 +310,9 @@ Héctor no contestó. Dejó el rollo de cinta en el escritorio, junto a la mano 
 
 —Tengo que llegar a casa —dijo Kal, y se le oyó más bajo de lo que quería—. Porque me esperan.
 
-Héctor lo miró un rato largo. Kal se dejó mirar. No había nada que esconder ya de la cara; lo que tenía que esconder lo tenía debajo de la chaqueta, y Héctor ya lo había visto, y los dos lo sabían. Lo que Héctor estaba mirando era otra cosa, y Kal creyó saber qué: si lo que tenía enfrente era un hombre que se iba a morir en el camino o un hombre que iba a llegar a donde decía que iba.
+Héctor lo miró un rato largo. Kal se dejó mirar, de pie, derecho, con la mano quieta en el escritorio, sin apoyarse más de lo que se apoyaría cualquiera. No había nada que esconder ya de la cara; lo que tenía que esconder lo tenía debajo de la chaqueta, y Héctor ya lo había visto, y los dos lo sabían. Lo que Héctor estaba mirando era otra cosa, y Kal creyó saber qué: si lo que tenía enfrente era un hombre que se iba a morir en el camino o un hombre que iba a llegar a donde decía que iba.
 
-Héctor abrió el cajón de abajo del escritorio y sacó una sudadera gris doblada, de las que se dejaba en el taller para las mañanas de frío. La puso encima de la cinta. Después se sacó del bolsillo las llaves de su camioneta y las puso encima de la sudadera.
+Héctor abrió el cajón de abajo del escritorio y sacó una sudadera gris doblada, de las que se dejaba en el taller para las mañanas de frío. La puso encima de la bolsa roja. Después se sacó del bolsillo las llaves de su camioneta y las puso encima de la sudadera.
 
 —La calefacción sí sirve —dijo—. La tuya no.
 
@@ -282,13 +320,17 @@ Héctor abrió el cajón de abajo del escritorio y sacó una sudadera gris dobla
 
 —La tuya hace ruido y no calienta. Llévate la mía. Mañana me la traes.
 
-Kal tomó las tres cosas. La sudadera, la cinta, las llaves.
+Kal tomó todo. La bolsa, la cinta, la sudadera, las llaves.
 
 —Cámbiate en el baño —dijo Héctor—. No delante de los muchachos.
 
 —Ya sé.
 
-—Y maneja despacio.
+—Y maneja despacio. Cuando llegues, me escribes. Si en cuarenta minutos no tengo nada, voy para allá, y me da igual lo que diga esa mujer.
+
+—Cuarenta minutos.
+
+—Treinta y nueve.
 
 Kal asintió. Abrió la puerta de la oficina. El ruido del taller le pegó de frente, las risas, la voz de Danny. Se volvió antes de salir.
 
@@ -318,7 +360,15 @@ Después pensó en la vela del aparador, la que ella había encendido esa tarde 
 
 Se agarró del lavabo con las dos manos y se levantó.
 
-Se lavó la mano. Se lavó el costado con agua del lavabo y papel del dispensador, sin mirar mucho, y dobló una tira de papel en cuatro y la apretó contra el agujero y la sujetó con la cinta de aislar de Héctor, dando la vuelta, apretando, como se le da la vuelta a una manguera rota para que aguante hasta el taller. No era nada. Iba a aguantar lo que tenía que aguantar.
+Abrió la bolsa roja sobre la tapa del tanque del excusado. Gasas, guantes, unas tijeras de punta roma, un torniquete que no servía para donde lo necesitaba y, al fondo, en sus sobres, lo que buscaba: gasa hemostática y un vendaje de compresión, de los que traen la barra de plástico para apretar. Los conocía. Se los habían enseñado a poner en una pista de tierra a doce mil kilómetros, en el cuerpo de otro, con un sargento contando en voz alta.
+
+Nunca se lo había puesto a sí mismo.
+
+Se lavó la mano. Se limpió el costado con agua del lavabo, sin mirar mucho. Se buscó el agujero con los dedos; estaba donde dolía. Metió la gasa ahí, apretando, contando como contaba el sargento, y cuando el conteo llegó a donde tenía que llegar, sin soltar la presión, se pasó el vendaje alrededor del cuerpo, por encima de la cadera, una vuelta, dos, tres, y le dio vuelta a la barra hasta que apretó más de lo que podía soportar, y una vuelta más. El gancho se le resbalaba de los dedos; lo cerró con la cinta de aislar de Héctor.
+
+Sabía lo que era eso. No era arreglarlo. Era comprar tiempo: una hora, quizá dos, si no se movía mucho. Lo demás lo tenía que hacer un médico, en la casa. Chiara iba a conocer a alguien. Chiara siempre conocía a alguien.
+
+Se quedó un momento con las dos manos sobre el vendaje, sintiendo cómo apretaba. Se dijo que con eso alcanzaba para once curvas.
 
 Se puso la sudadera gris de Héctor. Le quedaba ancha. Olía a aceite y a jabón de manos y a Héctor.
 

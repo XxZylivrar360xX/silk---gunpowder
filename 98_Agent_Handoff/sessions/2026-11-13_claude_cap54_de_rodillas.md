@@ -15,3 +15,9 @@
 **Verificación:** registro neutro (fuera «charolas», «carro»); una prolepsis retirada («Lo supo después…»); sin adverbios en «-mente» en acotaciones; Chiara siciliana (Palermo), no de Turín.
 
 **Sigue:** cap. 55 «No otra vez» (Chiara; la Villa).
+
+## Revisión (2026-11-13, notas del autor)
+
+1. **Héctor lo deja ir con razones:** parte de la sangre es ajena (el de la Ronda que cargó; la parte verdadera, puesta delante); Kal dice que la médica de Chiara ya va (no sabe si es cierto); le impide llamar a Chiara porque va manejando con Natalie en la helada; Héctor se queda porque, con el malvavisco en todos lados, si la policía toca el portón tiene que encontrarlo a él y no a los muchachos solos; plazo de cuarenta minutos para que Kal le escriba («Treinta y nueve»). **Siembra para el 55:** el mensaje a Héctor.
+2. **El vendaje:** fuera papel y cinta como solución; Kal usa la bolsa roja de primeros auxilios que Héctor colgó en la oficina en primavera (gasa hemostática y vendaje de compresión), con oficio del ejército, y sabe que sólo compra tiempo («una hora, quizá dos»). La bolsa colgada en primavera roza a Mei-Lin sin decirlo: el autor decide si sobra junto al eco de la mirada de Héctor.
+3. **El origen:** más espacio entre la revelación y «Quién»: la vitrina de los anillos con sus etiquetas (una etiqueta sin nombre, con fecha y cifra), Dale que no podía imaginarse llorando, Ruth midiéndolo contra el marco de la cocina y la pregunta de si ella sabía, la deuda que no empezó en una mesa de apuestas sino con él, y «Un minuto» a Nadir. Sin nombre del contacto.
