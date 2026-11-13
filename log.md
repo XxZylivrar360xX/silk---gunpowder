@@ -4,6 +4,7 @@ El detalle se guarda una sola vez en notas de sesión. Este archivo es navegaci�
 
 ## Sesiones recientes
 
+- 2026-11-12: exploración de la verdad del corral (B5 del libro mayor): quién cree qué, tres lecturas encimadas (La Mesa, Varek, Crowe/Halbrook), piezas que ya existen (Rudy de Kingsley, la terraza) y cuatro opciones para el IV; DISEÑO, sin canon: [[11_Books/Book_04_Cuentas_De_Sangre/00_Exploracion_Verdad_Del_Corral]]
 - 2026-11-12: contradicciones entre fichas corregidas por orden del autor (Boston en vez de Italia, Mei-Lin, Trix, numeración de libros, README; sin canon nuevo): [[02_Characters/Mapa_Evolucion_Reparto]]
 - 2026-11-12: DECISIÓN DEL AUTOR sobre el libro mayor de deudas: terraza de Halbrook (III) y Danny (IV), tesis de Héctor en el II, fuga de gas en el voto, cocina en el II, el anzuelo por Matteo, El Patio se disuelve y herederos; propagado a los mapas III y IV y a siete fichas: [[11_Books/00_Libro_Mayor_Deudas_Saga]]
 - 2026-11-12: DECISIÓN DEL AUTOR: Fase 3 del Libro II aprobada, listas A y B, 55 caps. (Nochebuena en POV de Kal; junta en POV de Bonnie; montaña en POV de Kal): [[11_Books/Book_02_Sombras_De_Poder/00_Mapa_Boceto_A_Tarjetas]] · [[98_Agent_Handoff/sessions/2026-11-12_claude_carretera_libro_ii]]
