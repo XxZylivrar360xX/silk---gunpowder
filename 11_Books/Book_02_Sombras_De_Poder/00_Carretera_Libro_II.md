@@ -181,7 +181,7 @@ Son eslabones de trama, no capítulos (la Fase 2 los convierte en tarjetas). En 
 
 **Candidatos a fundirse (sin sacar nada canon):** *Bajo supervisión* (5) en un capítulo de Kal de E3; *Sociales* (8) dentro de la primavera de Chiara (E4); *La azotea* (14) como cierre de *Quiero levantarlo* (13); *El otro Dario* (20) con *La primera cuota* (9) o con Q24. **El robo en cuatro capítulos en vez de seis** (el plan; «Deséame suerte»; Lussia + *Sin público*; boletos y el millón): en el I, un golpe de seis capítulos se lee como novela aparte. **La noche final (56–61) se queda como está:** es una sola noche y es canon.
 
-Estimación: de 61 a unos 54–56 capítulos. **Corrección (2026-11-12, tras la Fase 2):** las tarjetas de las cuatro Partes suman 65 ([[11_Books/Book_02_Sombras_De_Poder/Part_04_Torna_A_Casa/00_Tarjetas_Parte_IV]], «Lo que dice la cuenta del libro»); los recortes se deciden en la Fase 3. **Fase 3 propuesta (2026-11-12, DISEÑO):** [[11_Books/Book_02_Sombras_De_Poder/00_Mapa_Boceto_A_Tarjetas]], con 58 capítulos con la lista A de recortes y 55 con la A y la B. No hay tope de palabras, porque la extensión se decide después, como en el I.
+Estimación: de 61 a unos 54–56 capítulos. **Corrección (2026-11-12, tras la Fase 2):** las tarjetas de las cuatro Partes suman 65 ([[11_Books/Book_02_Sombras_De_Poder/Part_04_Torna_A_Casa/00_Tarjetas_Parte_IV]], «Lo que dice la cuenta del libro»); los recortes se deciden en la Fase 3. **Fase 3 APROBADA (DECISIÓN DEL AUTOR, 2026-11-12):** [[11_Books/Book_02_Sombras_De_Poder/00_Mapa_Boceto_A_Tarjetas]], listas A y B, **55 capítulos**. No hay tope de palabras, porque la extensión se decide después, como en el I.
 
 ---
 
@@ -205,8 +205,8 @@ Estimación: de 61 a unos 54–56 capítulos. **Corrección (2026-11-12, tras la
 11. **Walt:** dónde va su arco y si la condicional termina antes o después del robo (el 35 depende de eso).
 12. **Los Bravos:** el pacto de Chiara con Rafe (Libro I) frente a los Bravos del lado de Crowe y Dario en H1.
 13. **La regla de la tasa visible:** Crowe en página en cada Parte, sin más de unos cinco capítulos de ausencia.
-14. **Las fusiones candidatas** del §4.
+14. ~~**Las fusiones candidatas** del §4.~~ **Resuelta en la Fase 3 (DECISIÓN DEL AUTOR, 2026-11-12):** listas A y B de [[11_Books/Book_02_Sombras_De_Poder/00_Mapa_Boceto_A_Tarjetas]], 55 capítulos.
 
 ## 6. Siguiente paso
 
-Con la Fase 0 aprobada: **Fase 2, tarjetas por Parte** (trama / relación / por eso / POV), sin mirar los capítulos del boceto. Después, **Fase 3**: el boceto viejo se marca capítulo por capítulo (se reusa, se reescribe, se funde o se retira), igual que en el I. **Hecha como propuesta (2026-11-12):** [[11_Books/Book_02_Sombras_De_Poder/00_Mapa_Boceto_A_Tarjetas]] (espera al autor). **La prosa sigue bloqueada** hasta cerrar el Libro I; *Hogar* y las escenas de Stavanger no se tocan.
+Con la Fase 0 aprobada: **Fase 2, tarjetas por Parte** (trama / relación / por eso / POV), sin mirar los capítulos del boceto. Después, **Fase 3**: el boceto viejo se marca capítulo por capítulo (se reusa, se reescribe, se funde o se retira), igual que en el I. **APROBADA (2026-11-12):** [[11_Books/Book_02_Sombras_De_Poder/00_Mapa_Boceto_A_Tarjetas]] (55 capítulos). **La prosa sigue bloqueada** hasta cerrar el Libro I; *Hogar* y las escenas de Stavanger no se tocan.

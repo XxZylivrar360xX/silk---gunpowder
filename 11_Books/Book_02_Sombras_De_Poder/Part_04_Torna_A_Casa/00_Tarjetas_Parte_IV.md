@@ -1,5 +1,7 @@
 # Tarjetas de la Parte IV — Torna a casa (Fase 2)
 
+> **Fase 3 APROBADA (DECISIÓN DEL AUTOR, 2026-11-12):** varias tarjetas de esta Parte se funden. La numeración nueva y las fusiones (R0–R10) están en [[11_Books/Book_02_Sombras_De_Poder/00_Mapa_Boceto_A_Tarjetas]], que manda en el corte de capítulos; el contenido de cada tarjeta sigue valiendo.
+>
 > **Estado:** DISEÑO del agente (Claude Code, 2026-11-12). Fase 2 de [[11_Books/Book_02_Sombras_De_Poder/00_Carretera_Libro_II]] (columna aprobada) y continuación de [[11_Books/Book_02_Sombras_De_Poder/Part_03_Exilio/00_Tarjetas_Parte_III]]. **No toca prosa, canon ni el boceto.** Mismo formato: trama, relación, por eso, saldo, POV y origen (C = canon o decisión vigente; P = propuesta del agente).
 >
 > **Fuentes que mandan en su escena:** el final en [[11_Books/Book_02_Sombras_De_Poder/00_Plan_Cuatro_Partes]] («El final», CANON DEL AUTOR); [[11_Books/Book_02_Sombras_De_Poder/Part_04_Torna_A_Casa/00_Diseno_Cartas_De_Dale]]; [[11_Books/Book_02_Sombras_De_Poder/Part_04_Torna_A_Casa/00_Diseno_Noche_Stavanger]] (directiva: el libro se construye para cobrar esa noche); [[11_Books/Book_02_Sombras_De_Poder/00_Diseno_Nombre_Y_Embarazo]] (tics 8, 8-b y 9; señales); [[06_Relationships/Hitos]] (H1). Para la noche final valen las fichas de los caps. 56–61 del [[11_Books/Book_02_Sombras_De_Poder/00_Boceto_Lista_Capitulos]]. **La prosa BORRADOR de Stavanger, *Henrik* y *Ya llegó* manda y no se toca.**

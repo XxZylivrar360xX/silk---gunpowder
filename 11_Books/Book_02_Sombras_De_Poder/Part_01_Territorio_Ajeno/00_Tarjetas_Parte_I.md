@@ -1,5 +1,7 @@
 # Tarjetas de la Parte I — Territorio ajeno (Fase 2)
 
+> **Fase 3 APROBADA (DECISIÓN DEL AUTOR, 2026-11-12):** varias tarjetas de esta Parte se funden. La numeración nueva y las fusiones (R0–R10) están en [[11_Books/Book_02_Sombras_De_Poder/00_Mapa_Boceto_A_Tarjetas]], que manda en el corte de capítulos; el contenido de cada tarjeta sigue valiendo.
+>
 > **Estado:** DISEÑO del agente (Claude Code, 2026-11-12). Es la Fase 2 de [[11_Books/Book_02_Sombras_De_Poder/00_Carretera_Libro_II]] y sale de la columna que el autor aprobó ese mismo día (decisión 1). **No toca prosa, canon ni el boceto.** Las tarjetas se escribieron desde la cadena de *por eso*, no desde el orden del boceto; la Fase 3 hace el cruce.
 >
 > **Reloj (DECISIÓN DEL AUTOR, 2026-11-12):** la Parte I va en **tres bloques densos con dos elipsis**, según [[11_Books/Book_02_Sombras_De_Poder/00_Carretera_Libro_II#3b. El reloj: dos años que no se sientan como años|el reloj de la carretera]]. La primavera no se narra mes a mes: entra como residuo en el bloque 2.

@@ -1,6 +1,8 @@
 # Mapa boceto → tarjetas: Libro II (Fase 3)
 
-> **Estado: DISEÑO del agente (Claude Code, 2026-11-12). Espera al autor.** Es la Fase 3 de [[11_Books/Book_02_Sombras_De_Poder/00_Carretera_Libro_II]], hecha con el mismo método que el [[11_Books/Book_01_Mascaras_De_Cristal/00_Mapa_Cauce_Cap11_Camp_Alder|mapa viejo → nuevo del Libro I]]. Cruza capítulo por capítulo el [[11_Books/Book_02_Sombras_De_Poder/00_Boceto_Lista_Capitulos]] (2026-10-13, anterior al nuevo cauce) con las tarjetas de las cuatro Partes y propone recortes. **No toca prosa ni canon.** El boceto y las tarjetas quedan como están hasta que el autor apruebe.
+> **Estado: APROBADO (DECISIÓN DEL AUTOR, 2026-11-12): listas A y B, 55 capítulos.** Con eso entran R0 (la numeración de 55 lo supone) y R10, que contesta la pregunta 1 de la Parte II: la Nochebuena va en un capítulo, en POV de Kal. **Siguen abiertos:** dónde cae la elipsis de R9 (queda la propuesta: entre el 40 y el 41) y «Mac a Almendra» en el levantón. El mapa en sí era DISEÑO del agente. **No toca prosa:** la del Libro II sigue bloqueada hasta cerrar el I.
+>
+> Origen: es la Fase 3 de [[11_Books/Book_02_Sombras_De_Poder/00_Carretera_Libro_II]], hecha con el mismo método que el [[11_Books/Book_01_Mascaras_De_Cristal/00_Mapa_Cauce_Cap11_Camp_Alder|mapa viejo → nuevo del Libro I]]. Cruza capítulo por capítulo el [[11_Books/Book_02_Sombras_De_Poder/00_Boceto_Lista_Capitulos]] (2026-10-13, anterior al nuevo cauce) con las tarjetas de las cuatro Partes y propone recortes. Las tarjetas llevan un aviso que remite aquí. El boceto se queda como está hasta que se propague la numeración.
 >
 > **Fuentes:** las tarjetas de la [[11_Books/Book_02_Sombras_De_Poder/Part_01_Territorio_Ajeno/00_Tarjetas_Parte_I|Parte I]], la [[11_Books/Book_02_Sombras_De_Poder/Part_02_Nieve_Y_Ceniza/00_Tarjetas_Parte_II|II]], la [[11_Books/Book_02_Sombras_De_Poder/Part_03_Exilio/00_Tarjetas_Parte_III|III]] y la [[11_Books/Book_02_Sombras_De_Poder/Part_04_Torna_A_Casa/00_Tarjetas_Parte_IV|IV]], y las fichas del boceto. **No hay prosa que medir** salvo *Hogar* y las tres escenas de Stavanger, así que aquí no hay cifras de palabras.
 
@@ -160,12 +162,12 @@ Con los recortes de la **lista A** (mismo POV, capítulos contiguos) el libro qu
 
 ## Para el autor
 
-1. ¿Se aprueba la **lista A** (R1, R3, R4, R6, R7, R8, R9) y **R0**? Eso deja el libro en 58.
-2. **Lista B:** ¿R2 (junta en POV de Bonnie), R5 (montaña en POV de Kal) y R10 (Nochebuena en un capítulo, POV de Kal)? Con las tres, quedan 55.
+1. ~~Lista A, R0 y lista B~~ **APROBADAS (DECISIÓN DEL AUTOR, 2026-11-12):** 55 capítulos.
+2. ~~R10~~ Resuelta con la lista B: Nochebuena en POV de Kal.
 3. **R9:** ¿la elipsis E entre el costo y «no como tú» (seis semanas), o por dentro del capítulo?
 4. **«Mac a Almendra»** en el levantón: ¿sí, o sigue en reserva?
 5. Las decisiones 2–14 de la carretera siguen abiertas; ningún recorte depende de ellas, salvo R10 (pregunta 1 de la Parte II).
 
 ## Siguiente
 
-Con el mapa aprobado: se propaga la numeración (Book_Map, matriz temporal, fichas que citan capítulos del boceto), el boceto pasa a supersedido y la guía de redacción se rehace desde las tarjetas. **La prosa del Libro II sigue bloqueada** hasta cerrar el Libro I.
+El mapa ya está aprobado. Falta: se propaga la numeración (Book_Map, matriz temporal, fichas que citan capítulos del boceto), el boceto pasa a supersedido y la guía de redacción se rehace desde las tarjetas. **La prosa del Libro II sigue bloqueada** hasta cerrar el Libro I.

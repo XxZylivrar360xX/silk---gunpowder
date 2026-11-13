@@ -31,6 +31,8 @@ No encontré otros choques. La ficha de Kal (el collar es la única excepción a
 
 **POV (DISEÑO):** recomiendo **Chiara** para toda la secuencia. Ella organiza, y además conoce la regla de Kal (todo regalo lo convierte en transacción): en el exterior espera la transacción y no llega. Así la aceptación se ve sin explicar lo que él siente por dentro. El lado de Kal llega en el cap. 28, cuando le da vueltas al collar en el hotel de Washington. Si al redactar la secuencia pasa de unas 8,000 palabras, se puede partir en dos capítulos en la madrugada del 24.
 
+> **Superado (DECISIÓN DEL AUTOR, 2026-11-12, Fase 3, R10):** la secuencia va en **un solo capítulo en POV de Kal** (nuevo 20, [[11_Books/Book_02_Sombras_De_Poder/00_Mapa_Boceto_A_Tarjetas]]). La razón: el canon pone a Yun-Kai en los ojos de Kal, y la transacción que no llega se lee desde dentro de él. La recomendación de arriba se conserva como historial.
+
 ### 1. Apertura: la petición (23 dic, fin de turno, ~18:00)
 
 - Chiara llega al taller cuando cierran el turno y pide ayuda a los mecánicos. No ordena: pide. Es la gente de Kal y lo sabe.

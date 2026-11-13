@@ -1,5 +1,7 @@
 # Tarjetas de la Parte II — Nieve y ceniza (Fase 2)
 
+> **Fase 3 APROBADA (DECISIÓN DEL AUTOR, 2026-11-12):** varias tarjetas de esta Parte se funden. La numeración nueva y las fusiones (R0–R10) están en [[11_Books/Book_02_Sombras_De_Poder/00_Mapa_Boceto_A_Tarjetas]], que manda en el corte de capítulos; el contenido de cada tarjeta sigue valiendo.
+>
 > **Estado:** DISEÑO del agente (Claude Code, 2026-11-12). Fase 2 de [[11_Books/Book_02_Sombras_De_Poder/00_Carretera_Libro_II]] (columna aprobada) y continuación de [[11_Books/Book_02_Sombras_De_Poder/Part_01_Territorio_Ajeno/00_Tarjetas_Parte_I]]. **No toca prosa, canon ni el boceto.** Mismo formato: trama, relación, por eso, saldo, POV y origen (C = canon o decisión vigente; P = propuesta del agente).
 >
 > **Fuentes que mandan en su escena:** [[11_Books/Book_02_Sombras_De_Poder/Part_02_Nieve_Y_Ceniza/00_Diseno_Navidad_Almendra_Towing]] (CANON del 2026-10-14 en sus ocho puntos), [[11_Books/Book_02_Sombras_De_Poder/Part_02_Nieve_Y_Ceniza/00_Diseno_Robo_Joyeria]], [[11_Books/Book_02_Sombras_De_Poder/00_Diseno_Cobro_Del_Levanton]], [[02_Characters/Mei_Lin_Zhao]] (los tres tiempos con Kal) y [[04_Concepts/Fe_y_Velas]].

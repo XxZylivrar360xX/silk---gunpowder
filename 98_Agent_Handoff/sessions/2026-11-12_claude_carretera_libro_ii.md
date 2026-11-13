@@ -81,6 +81,8 @@ Encargo del autor: avanzar con la reconciliación del Libro II, trabajando «jus
 - **Limpieza:** se quitó del boceto una línea errante (`claude --resume …`). El log se rotó a 30 enlaces: 12 pasaron a [[98_Agent_Handoff/archive/2026-11_sesiones]]. El brief se compactó en el punto del Libro II (sigue sobre el tope desde antes).
 - **Autocrítica:** R5 y R10 tocan POV que el diseño recomendaba de otra forma (montaña y Navidad en POV de Chiara). Con A + B, la Parte II queda en 9 de 14 capítulos para Kal. No hay prosa que medir, así que las fusiones alargan capítulos sin un tope de palabras todavía.
 
+**DECISIÓN DEL AUTOR (misma fecha):** se aprueban las listas A y B: **55 capítulos**. R0 entra, porque la numeración lo supone. R10 contesta la pregunta 1 de la Parte II. El mapa, la carretera (decisión 14) y DECISIONS quedan marcados; las cuatro tarjetas llevan un aviso que remite al mapa, y el diseño de Navidad, una nota de superado. Para respetar el tope, «Parte III del nuevo cauce» (2026-11-08) pasó íntegra de DECISIONS a [[98_Agent_Handoff/archive/2026-11-12_DECISIONS]], ahora enlazado desde el README del archivo.
+
 ## Pendiente
 
-Lectura del autor de las tarjetas de las cuatro Partes y del mapa de la Fase 3 (listas A y B, R0, R9 y «Mac a Almendra»); decisiones 2–14 de la carretera. Con el mapa aprobado: propagar la numeración (Book_Map, matriz, fichas), mandar el boceto a supersedido y rehacer la guía de redacción desde las tarjetas.
+Lectura del autor de las tarjetas; la elipsis de R9 y «Mac a Almendra»; decisiones 2–13 de la carretera. Siguiente: propagar la numeración (Book_Map, matriz, fichas), mandar el boceto a supersedido y rehacer la guía de redacción desde las tarjetas.

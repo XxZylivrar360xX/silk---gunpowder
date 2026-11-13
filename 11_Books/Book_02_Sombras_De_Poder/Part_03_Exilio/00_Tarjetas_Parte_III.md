@@ -1,5 +1,7 @@
 # Tarjetas de la Parte III — Exilio (Fase 2)
 
+> **Fase 3 APROBADA (DECISIÓN DEL AUTOR, 2026-11-12):** varias tarjetas de esta Parte se funden. La numeración nueva y las fusiones (R0–R10) están en [[11_Books/Book_02_Sombras_De_Poder/00_Mapa_Boceto_A_Tarjetas]], que manda en el corte de capítulos; el contenido de cada tarjeta sigue valiendo.
+>
 > **Estado:** DISEÑO del agente (Claude Code, 2026-11-12). Fase 2 de [[11_Books/Book_02_Sombras_De_Poder/00_Carretera_Libro_II]] (columna aprobada) y continuación de [[11_Books/Book_02_Sombras_De_Poder/Part_02_Nieve_Y_Ceniza/00_Tarjetas_Parte_II]]. **No toca prosa, canon ni el boceto.** Mismo formato que las anteriores: trama, relación, por eso, saldo, POV y origen (C = canon o decisión vigente; P = propuesta del agente).
 >
 > **Fuentes que mandan en su escena:** [[06_Relationships/Momentos_de_Fractura#F2 - La muerte de Mei-Lin y la salida de Bonnie|F2]] y [[06_Relationships/Momentos_de_Fractura#F3 - Los frenos|F3]] (CANON DEL AUTOR), [[02_Characters/Mei_Lin_Zhao]], [[02_Characters/Bonnie_Garcia]] (la tarde de las latas, Boston), [[11_Books/Book_02_Sombras_De_Poder/00_Plan_Cuatro_Partes]] (Parte III; la línea Tommaso → Mei-Lin) y [[11_Books/Book_02_Sombras_De_Poder/00_Diseno_Cobro_Del_Levanton]].

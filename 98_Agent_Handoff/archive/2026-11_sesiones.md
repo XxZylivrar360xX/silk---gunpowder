@@ -2,6 +2,7 @@
 
 Entradas retiradas del registro reciente de [[log]] al pasar de 30 enlaces. Más antiguas al final.
 
+- 2026-11-08: Fase 4: nuevo Cap. 17 *El día nublado* en un solo POV, el de Kal (BORRADOR, DISEÑO); H4 con el secreto como precio: Kal decide no saber más; rastro de la chaqueta café (CANON en la función): [[98_Agent_Handoff/sessions/2026-11-08_claude_fase4_cap17_el_dia_nublado]]
 - 2026-11-08: Fase 4: nuevo Cap. 16 *Le quedé debiendo* en POV Kal (BORRADOR, DISEÑO); crece con el billar de atrás del Monarch, donde el joven de Crowe fue a confirmar la trampa; la llave del portón la tiene «la señora» (CANON en la función): [[98_Agent_Handoff/sessions/2026-11-08_claude_fase4_cap16_le_quede_debiendo]]
 - 2026-11-08: Fase 4: nuevo Cap. 15 *Yo lo llevo* = viernes y sábado + el domingo y el coche de *El sobre rojo*, en POV Chiara (BORRADOR, DISEÑO); el barrio le paga a ella y la chaqueta café de Crowe lo ve (CANON en la función): [[98_Agent_Handoff/sessions/2026-11-08_claude_fase4_cap15_yo_lo_llevo]]
 - 2026-11-07: Fase 4: nuevo Cap. 14 *La regla del teléfono* = campamento + lo de Kal en *El sobre rojo* hasta *Cuatro letras*, en POV Kal (BORRADOR, DISEÑO; el archivo 16 queda como marcador; el coche espera al nuevo 15); entran la cerca y el balcón (CANON): [[98_Agent_Handoff/sessions/2026-11-07_claude_fase4_cap14_regla_telefono]]

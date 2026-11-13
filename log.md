@@ -4,6 +4,8 @@ El detalle se guarda una sola vez en notas de sesión. Este archivo es navegaci�
 
 ## Sesiones recientes
 
+- 2026-11-12: DECISIÓN DEL AUTOR sobre el libro mayor de deudas: terraza de Halbrook (III) y Danny (IV), tesis de Héctor en el II, fuga de gas en el voto, cocina en el II, el anzuelo por Matteo, El Patio se disuelve y herederos; propagado a los mapas III y IV y a siete fichas: [[11_Books/00_Libro_Mayor_Deudas_Saga]]
+- 2026-11-12: DECISIÓN DEL AUTOR: Fase 3 del Libro II aprobada, listas A y B, 55 caps. (Nochebuena en POV de Kal; junta en POV de Bonnie; montaña en POV de Kal): [[11_Books/Book_02_Sombras_De_Poder/00_Mapa_Boceto_A_Tarjetas]] · [[98_Agent_Handoff/sessions/2026-11-12_claude_carretera_libro_ii]]
 - 2026-11-12: Fase 3 del Libro II (DISEÑO): el boceto, cruzado capítulo por capítulo con las tarjetas; recortes de 65 a 58 (lista A) o a 55 (A + B); R0 resuelve los tics 4 y 5 seguidos; falta la siembra de Tommaso en la Parte II: [[11_Books/Book_02_Sombras_De_Poder/00_Mapa_Boceto_A_Tarjetas]] · [[98_Agent_Handoff/sessions/2026-11-12_claude_carretera_libro_ii]]
 - 2026-11-12: mapa de evolución del reparto: niveles principal / secundario / apoyo / transitorio por libro, arcos I–VII de los niveles 1 y 2 y seis contradicciones entre fichas (DISEÑO, sin canon): [[02_Characters/Mapa_Evolucion_Reparto]]
 - 2026-11-12: libro mayor de deudas de la saga, paso previo a las columnas del III y el IV (63 deudas; 12 sin destino, 6 cobros sin siembra, contradicciones de propagación y 8 preguntas; DISEÑO, sin prosa ni canon): [[11_Books/00_Libro_Mayor_Deudas_Saga]]
@@ -33,7 +35,6 @@ El detalle se guarda una sola vez en notas de sesión. Este archivo es navegaci�
 - 2026-11-08: Parte I del nuevo cauce cerrada (nuevos 11–19) y renumerada en encabezados, Book_Map y CHAPTER_STATUS; copia de Drive de *Roma Atrii* a Escenas_Eliminadas: [[98_Agent_Handoff/sessions/2026-11-08_claude_renumeracion_parte_I]]
 - 2026-11-08: el autor suscribe la revisión de ChatGPT; guardas de vigilancia (CANON DEL AUTOR) en el plan del nuevo cauce y en el de *Sombras de Poder*: [[98_Agent_Handoff/sessions/2026-11-08_claude_guardas_chatgpt_cauce_y_sombras]]
 - 2026-11-08: Fase 4: nuevo Cap. 18 *Lo pequeño* = *Lo pequeño* + *El primer huésped* en POV Kal (BORRADOR, DISEÑO; el archivo 21 queda como marcador); H11 desde Kal, el imán al refrigerador del loft, Marisol se abre con Chiara (CANON en la función): [[98_Agent_Handoff/sessions/2026-11-08_claude_fase4_cap18_lo_pequeno]]
-- 2026-11-08: Fase 4: nuevo Cap. 17 *El día nublado* en un solo POV, el de Kal (BORRADOR, DISEÑO); H4 con el secreto como precio: Kal decide no saber más; rastro de la chaqueta café (CANON en la función): [[98_Agent_Handoff/sessions/2026-11-08_claude_fase4_cap17_el_dia_nublado]]
 
 ## Historial
 
