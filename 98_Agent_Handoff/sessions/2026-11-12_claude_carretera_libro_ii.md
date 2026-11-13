@@ -70,6 +70,17 @@ Encargo del autor: avanzar con la reconciliación del Libro II, trabajando «jus
 - **Cuenta del libro:** 65 capítulos frente a los 54–56 que estimaba la carretera; la estimación falló. Queda para la Fase 3, con candidatos a recorte.
 - **Autocrítica:** Kal tiene 6 de los 9 POV fuera de la noche y de Stavanger. La Parte IV no lleva invitados, así que la compensación tiene que venir de Chiara (U5 podría crecer). La respuesta falsa de Dario suma otra capa velada de Varek; mide si ya sobra. Stavanger no se leyó para esta vuelta: la tarjeta pide verificar que ahí no se confiese ninguna deuda.
 
+## Séptima vuelta: Fase 3 (cruce del boceto y recortes)
+
+- Nuevo [[11_Books/Book_02_Sombras_De_Poder/00_Mapa_Boceto_A_Tarjetas]] (DISEÑO). Tiene el formato del mapa de la Fase 3 del I: los 64 capítulos del boceto, cada uno con su tarjeta, su verbo (*reusa*, *reescribe*, *funde*, *retira* o *nuevo*) y lo que cambia, con la numeración propuesta, una tabla de carga reubicada, choques y preguntas.
+- **Recortes:**
+  - La **lista A** junta capítulos contiguos con el mismo POV y deja el libro en 58: R1 (valet y barrio ajeno), R3 (cumpleaños y estoy bien), R4 (no cargues sola y garaje), R6 (primera plana y bastón), R7 (latas y lo del hermano), R8 (boda y costo) y R9 (no como tú y bandas, con la elipsis E movida entre los dos).
+  - La **lista B** cambia un POV y baja a 55: R2 (la junta en POV de Bonnie), R5 (la montaña en POV de Kal) y R10 (la Nochebuena en un solo capítulo, en POV de Kal).
+  - **R0** no cambia la cuenta: funde la bahía con la vela tardía y devuelve *La jaula* a capítulo propio. Así los tics 4 y 5 ya no quedan seguidos, como pasaba tras la Fase 2.
+- **Hallazgos:** faltaba la siembra de Tommaso en la Parte II (se propone en *Año Nuevo*). «Mac a Almendra» tiene un candidato: el levantón, que además siembra la radio abierta de H1. *El norte* (45) se retira con el F2 nuevo y sus líneas canon pasan a *Lo que queda*, como PENDIENTE.
+- **Limpieza:** se quitó del boceto una línea errante (`claude --resume …`). El log se rotó a 30 enlaces: 12 pasaron a [[98_Agent_Handoff/archive/2026-11_sesiones]]. El brief se compactó en el punto del Libro II (sigue sobre el tope desde antes).
+- **Autocrítica:** R5 y R10 tocan POV que el diseño recomendaba de otra forma (montaña y Navidad en POV de Chiara). Con A + B, la Parte II queda en 9 de 14 capítulos para Kal. No hay prosa que medir, así que las fusiones alargan capítulos sin un tope de palabras todavía.
+
 ## Pendiente
 
-Lectura del autor de las tarjetas de las cuatro Partes; decisiones 2–14 de la carretera; después, Fase 3 (cruzar el boceto con las tarjetas y decidir recortes).
+Lectura del autor de las tarjetas de las cuatro Partes y del mapa de la Fase 3 (listas A y B, R0, R9 y «Mac a Almendra»); decisiones 2–14 de la carretera. Con el mapa aprobado: propagar la numeración (Book_Map, matriz, fichas), mandar el boceto a supersedido y rehacer la guía de redacción desde las tarjetas.

@@ -4,6 +4,7 @@ El detalle se guarda una sola vez en notas de sesión. Este archivo es navegaci�
 
 ## Sesiones recientes
 
+- 2026-11-12: Fase 3 del Libro II (DISEÑO): el boceto, cruzado capítulo por capítulo con las tarjetas; recortes de 65 a 58 (lista A) o a 55 (A + B); R0 resuelve los tics 4 y 5 seguidos; falta la siembra de Tommaso en la Parte II: [[11_Books/Book_02_Sombras_De_Poder/00_Mapa_Boceto_A_Tarjetas]] · [[98_Agent_Handoff/sessions/2026-11-12_claude_carretera_libro_ii]]
 - 2026-11-12: mapa de evolución del reparto: niveles principal / secundario / apoyo / transitorio por libro, arcos I–VII de los niveles 1 y 2 y seis contradicciones entre fichas (DISEÑO, sin canon): [[02_Characters/Mapa_Evolucion_Reparto]]
 - 2026-11-12: libro mayor de deudas de la saga, paso previo a las columnas del III y el IV (63 deudas; 12 sin destino, 6 cobros sin siembra, contradicciones de propagación y 8 preguntas; DISEÑO, sin prosa ni canon): [[11_Books/00_Libro_Mayor_Deudas_Saga]]
 - 2026-11-12: Fase 2 del Libro II, tarjetas de la Parte IV (18, DISEÑO; golpe fallido contra el Caldero, la cuenta de Kal muere con Crowe, *La fecha* nueva); Fase 2 completa, 65 caps.: [[98_Agent_Handoff/sessions/2026-11-12_claude_carretera_libro_ii]]
@@ -33,18 +34,6 @@ El detalle se guarda una sola vez en notas de sesión. Este archivo es navegaci�
 - 2026-11-08: el autor suscribe la revisión de ChatGPT; guardas de vigilancia (CANON DEL AUTOR) en el plan del nuevo cauce y en el de *Sombras de Poder*: [[98_Agent_Handoff/sessions/2026-11-08_claude_guardas_chatgpt_cauce_y_sombras]]
 - 2026-11-08: Fase 4: nuevo Cap. 18 *Lo pequeño* = *Lo pequeño* + *El primer huésped* en POV Kal (BORRADOR, DISEÑO; el archivo 21 queda como marcador); H11 desde Kal, el imán al refrigerador del loft, Marisol se abre con Chiara (CANON en la función): [[98_Agent_Handoff/sessions/2026-11-08_claude_fase4_cap18_lo_pequeno]]
 - 2026-11-08: Fase 4: nuevo Cap. 17 *El día nublado* en un solo POV, el de Kal (BORRADOR, DISEÑO); H4 con el secreto como precio: Kal decide no saber más; rastro de la chaqueta café (CANON en la función): [[98_Agent_Handoff/sessions/2026-11-08_claude_fase4_cap17_el_dia_nublado]]
-- 2026-11-08: Fase 4: nuevo Cap. 16 *Le quedé debiendo* en POV Kal (BORRADOR, DISEÑO); crece con el billar de atrás del Monarch, donde el joven de Crowe fue a confirmar la trampa; la llave del portón la tiene «la señora» (CANON en la función): [[98_Agent_Handoff/sessions/2026-11-08_claude_fase4_cap16_le_quede_debiendo]]
-- 2026-11-08: Fase 4: nuevo Cap. 15 *Yo lo llevo* = viernes y sábado + el domingo y el coche de *El sobre rojo*, en POV Chiara (BORRADOR, DISEÑO); el barrio le paga a ella y la chaqueta café de Crowe lo ve (CANON en la función): [[98_Agent_Handoff/sessions/2026-11-08_claude_fase4_cap15_yo_lo_llevo]]
-- 2026-11-07: Fase 4: nuevo Cap. 14 *La regla del teléfono* = campamento + lo de Kal en *El sobre rojo* hasta *Cuatro letras*, en POV Kal (BORRADOR, DISEÑO; el archivo 16 queda como marcador; el coche espera al nuevo 15); entran la cerca y el balcón (CANON): [[98_Agent_Handoff/sessions/2026-11-07_claude_fase4_cap14_regla_telefono]]
-- 2026-11-07: Fase 4: nuevo Cap. 13 *Roma Atrii* = fusión de *Roma Atrii* y *Auster* en POV Chiara (BORRADOR, DISEÑO; el archivo 13 queda como marcador); el hombre del Peugeot es de Crowe; el interior de Kal en la cerca pasa al 14 (CANON): [[98_Agent_Handoff/sessions/2026-11-07_claude_fase4_cap13_roma_atrii_auster]]
-- 2026-11-07: mapa del Cap. 11 a Camp Alder APROBADO (CANON): 29 caps. en el tramo, 47 en el libro: [[11_Books/Book_01_Mascaras_De_Cristal/00_Mapa_Cauce_Cap11_Camp_Alder]]
-- 2026-11-07: Fase 4: nuevo Cap. 12 *Dos sillas vacías* en POV Chiara (BORRADOR, DISEÑO; deja de estar TERMINADO); T2 = cuota a Ochoa; balcón y runas esperan a un cap. de Kal (CANON): [[98_Agent_Handoff/sessions/2026-11-07_claude_fase4_cap12_pov_chiara]]
-- 2026-11-07: Fase 4 arranca: nuevo Cap. 11 *La balanza* reconstruido en POV Kal (BORRADOR, DISEÑO); arrastres al 12 y al 7 (CANON): [[98_Agent_Handoff/sessions/2026-11-07_claude_fase4_cap11_pov_kal]]
-- 2026-11-07: choques del mapa resueltos (CANON): pacto del 09-18, armas desviadas de Crowe a Varek, Chiara le debe un favor a Varek: [[11_Books/Book_01_Mascaras_De_Cristal/00_Mapa_Cauce_Cap11_Camp_Alder]]
-- 2026-11-07: Fase 3 del nuevo cauce (DISEÑO): mapa viejo → nuevo del Cap. 11 a Camp Alder, 38 → 27 caps.: [[11_Books/Book_01_Mascaras_De_Cristal/00_Mapa_Cauce_Cap11_Camp_Alder]]
-- 2026-11-07: tarjetas del Cap. 11 a Camp Alder (CANON): Vento asesinado en el corral por orden de Crowe; sale *Bajo juramento*; Crowe compra las armas de Camp Alder: [[11_Books/Book_01_Mascaras_De_Cristal/00_Plan_Nuevo_Cauce]]
-- 2026-11-07: F2 nuevo (CANON): Mei-Lin muere tras una operación, Bonnie a Boston; sin ejecución ni destierro: [[98_Agent_Handoff/sessions/2026-11-07_claude_f2_mei_lin_bonnie_nuevo_destino]]
-- 2026-11-07: quién es Chiara en *Sombras de Poder* (CANON): [[98_Agent_Handoff/sessions/2026-11-07_claude_chiara_libro_ii]]
 
 ## Historial
 

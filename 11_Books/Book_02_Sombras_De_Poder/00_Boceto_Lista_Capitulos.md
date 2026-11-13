@@ -4,7 +4,7 @@
 >
 > **Bloqueo vigente:** no hay prosa nueva de *Sombras de Poder* hasta cerrar el Libro I (salvo encargo explícito del autor). Esta guía prepara la redacción; no la autoriza.
 >
-> **REVISAR (2026-11-12):** esta guía es anterior al nuevo cauce del Libro I. La columna, la reconciliación y los eslabones que faltan están en [[11_Books/Book_02_Sombras_De_Poder/00_Carretera_Libro_II]] (DISEÑO, espera al autor). Mientras no pase la Fase 3 de esa carretera, no redactar desde las fichas de abajo.
+> **REVISAR (2026-11-12):** esta guía es anterior al nuevo cauce del Libro I. La columna, la reconciliación y los eslabones que faltan están en [[11_Books/Book_02_Sombras_De_Poder/00_Carretera_Libro_II]] (DISEÑO, espera al autor). Mientras no pase la Fase 3 de esa carretera, no redactar desde las fichas de abajo. **Fase 3 propuesta (2026-11-12, DISEÑO, espera al autor):** [[11_Books/Book_02_Sombras_De_Poder/00_Mapa_Boceto_A_Tarjetas]] marca cada capítulo de abajo (reusa, reescribe, funde o retira) y propone bajar de 64 a 55.
 
 **Directiva (DECISIÓN DEL AUTOR, 2026-11-07):** el libro se construye para cobrar la noche de Stavanger, y H1 cobra después lo que esa noche promete. Siembras por capítulo: [[11_Books/Book_02_Sombras_De_Poder/Part_04_Torna_A_Casa/00_Diseno_Noche_Stavanger]].
 
@@ -24,8 +24,6 @@
 
 
 ## Reglas de prosa propias de este libro
-
-claude --resume 9e1c0767-30b3-465e-9519-f3ec475dece3
 
 **Foco (CANON 2026-10-03).** Es el mundo criminal de San Aurelio, visceral: bandas, droga, tiroteos, policía y consecuencias físicas. La pareja ya no es el conflicto dominante, sino la infraestructura emocional: pueden operar separados y volver cada noche a casa. Crowe es la columna; Dario, la estructura; Halbrook, la institución.
 

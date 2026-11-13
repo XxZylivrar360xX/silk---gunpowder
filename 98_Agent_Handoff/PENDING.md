@@ -4,7 +4,7 @@ Actualizado: 2026-11-10 (limpieza de numeración vieja). Máximo 800 palabras; l
 
 ## *Sombras de Poder* (Libro II): decide el autor
 
-La lista (F4, Stavanger, F2, semillas, REL-01, Harper, Navidad) pasó el 2026-11-08 a [[98_Agent_Handoff/BACKLOG#Libros II y III]], sin cambios. Prosa en espera hasta cerrar el Libro I.
+Lista de fondo (F4, Stavanger, F2, Navidad y otras): [[98_Agent_Handoff/BACKLOG#Libros II y III]]. Prosa en espera hasta cerrar el Libro I. **Nuevo (2026-11-12):** leer las tarjetas y la Fase 3, [[11_Books/Book_02_Sombras_De_Poder/00_Mapa_Boceto_A_Tarjetas]] (recortes, «Para el autor»), y las decisiones 2–14 de la carretera.
 
 ## Lecturas del autor (Libro I)
 
