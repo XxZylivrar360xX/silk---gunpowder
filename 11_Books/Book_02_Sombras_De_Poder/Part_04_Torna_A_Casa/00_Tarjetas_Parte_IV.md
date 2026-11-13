@@ -103,8 +103,8 @@ Una sola noche hasta la chimenea. Las fichas 56–61 del boceto mandan. Aquí s�
 |---|---|---|---|
 | U13 | **Santa Lucía** | Kal | La única iglesia de Kal (C): el miedo admitido. Es la contracara de un libro de «estoy bien» |
 | U14 | **Torna a casa** · tic 9 | externo | Ella escribe y no lo quema (C). El último secreto, guardado para que él vuelva por ella (C) |
-| U15 | **Dime, Amore** | Kal; Chiara en el triaje | **Crowe:** las bandas que él cobró durante dos años (C). **Halbrook:** la escalada policial le da el mandato (C). **Chiara:** lo ve por *El Faro* (C); el relato que construyó durante el libro es cómo ve la tormenta |
-| U16 | **De rodillas** | Kal | **Crowe:** lo conoció antes de que fuera un Mercer; Kal lo deja vivo; Walt lo ejecuta (C). **P:** la cuenta de Kal muere con su acreedor y se lleva la pista del origen en el mismo tiro. **Varek:** el tiro de Volpi, velado (C) |
+| U15 | **Dime, Amore** | Kal; Chiara en el triaje | Nat ayuda en el triaje como paramédica (C, 2026-11-12). **Crowe:** las bandas que él cobró durante dos años (C). **Halbrook:** la escalada policial le da el mandato (C). **Chiara:** lo ve por *El Faro* (C); el relato que construyó durante el libro es cómo ve la tormenta |
+| U16 | **De rodillas** | Kal | **Crowe:** lo conoció antes de que fuera un Mercer; Kal lo deja vivo; Walt lo ejecuta (C). **P:** la cuenta de Kal muere con su acreedor y se lleva la pista del origen en el mismo tiro. **Varek:** el tiro de Volpi, velado (C). **La llamada** de regreso: «Estoy bien», con la mano llena de sangre (C, 2026-11-12; guía, cap. 54) |
 | U17 | **No otra vez** | Chiara | **La trenza:** «Me encuentro bien.» / «No otra vez.», la última mentira de él, rechazada (C). La vigilia carga a Mei-Lin, Bonnie, Fabrizio y Tommaso sin nombrarlos (C). «Perché ti amo con tutto il mio cuore.» llega y él no responde (C) |
 | U18 | **La chimenea** | DISEÑO | «¿Quién es Elenna?» / «Antes era sólo un nombre.» / «Sono incinta.»: el último secreto de ella, dicho (C). **P:** antes de la manta, Kal echa al fuego la foto con Halbrook (U5) |
 

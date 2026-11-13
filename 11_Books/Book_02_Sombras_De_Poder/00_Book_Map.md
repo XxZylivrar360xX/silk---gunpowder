@@ -228,7 +228,7 @@ La ocasión, el momento del libro y quién más escucha la radio siguen PENDIENT
 
 > **SUPERADO EN PARTE (CANON DEL AUTOR, 2026-10-13):** la tormenta no va «antes de H1»: es H1 y la caída de Crowe, la noche final de la Parte IV, en diciembre A4 ([[11_Books/Book_02_Sombras_De_Poder/00_Plan_Cuatro_Partes]], «El final»). La hamburguesa doble pasa a después de dormir, antes de la chimenea.
 
-**Gran enfrentamiento de la tormenta — CANON DEL AUTOR (2026-10-03), antes de H1, Parte PENDIENTE.** Tres bandas, El Patio, policía y civiles; Chiara lo ve por *El Faro*, llama y Kal contesta "Dime, Amore" (única vez en la saga); triaje en un almacén del sur con Camila; radio como indicador de vida; Kal prioriza extracciones (incluidos rivales); muertos reales; cataliza la escalada policial; cierre con la hamburguesa doble. Detalle en [[01_Timeline/03_Libro_02_Sombras_De_Poder]].
+**Gran enfrentamiento de la tormenta — CANON DEL AUTOR (2026-10-03), antes de H1, Parte PENDIENTE.** Tres bandas, El Patio, policía y civiles; Chiara lo ve por *El Faro*, llama y Kal contesta "Dime, Amore" (única vez en la saga); triaje en un almacén del sur con Camila y Nat, paramédica (CANON DEL AUTOR, 2026-11-12; con la llamada de Kal de regreso, ver [[11_Books/Book_02_Sombras_De_Poder/00_Guia_Redaccion_Capitulos]], caps. 54–55); radio como indicador de vida; Kal prioriza extracciones (incluidos rivales); muertos reales; cataliza la escalada policial; cierre con la hamburguesa doble. Detalle en [[01_Timeline/03_Libro_02_Sombras_De_Poder]].
 
 ## Pendientes explícitos
 
