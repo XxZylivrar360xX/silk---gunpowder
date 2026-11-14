@@ -194,7 +194,7 @@ Bajó la escalera con la mano en el barandal, un escalón y después otro, paran
 
 Chiara estaba de pie frente a la chimenea.
 
-No lo oyó llegar. Había prendido el fuego como lo prendía él, dos troncos abajo y uno cruzado, y estaba ahí, descalza en la alfombra, con las manos juntas por delante, mirando el fuego. Sólo mirándolo. La luz le movía la cara. Detrás de ella, del otro lado del ventanal, estaba San Aurelio: la mitad de los edificios del centro, con alguna luz encendida todavía, y la mitad del sur, a oscuras, donde los semáforos no habían vuelto.
+No lo oyó llegar. Había prendido el fuego como lo prendía él, dos troncos abajo y uno cruzado, y estaba ahí, descalza en la alfombra, con las manos juntas por delante, mirando hacia la repisa, por encima del fuego. Sólo mirando. La luz le movía la cara. Detrás de ella, del otro lado del ventanal, estaba San Aurelio: la mitad de los edificios del centro, con alguna luz encendida todavía, y la mitad del sur, a oscuras, donde los semáforos no habían vuelto.
 
 Kal se quedó en el último escalón, mirándola.
 
@@ -206,7 +206,7 @@ Se agachó a recogerlo. El costado le dio un tirón que lo dejó un segundo sin 
 
 Era de un papel color crema, grueso, con la orilla irregular. Olía a canela y a vainilla. Lo había visto una vez, en enero, de lejos, en las manos de ella, junto a una vela.
 
-Fue hasta ella por detrás y le puso la manta en los hombros. Chiara no se sobresaltó. Se la cerró por delante con una mano y siguió mirando el fuego.
+Fue hasta ella por detrás y le puso la manta en los hombros. Chiara no se sobresaltó. Se la cerró por delante con una mano y siguió mirando lo mismo.
 
 Kal desdobló el papel. En el centro, con tinta azul, en una letra inclinada que no le conocía, había una palabra. La leyó despacio, como leía las palabras que ella le enseñaba, sin saber dónde iba el acento.
 
@@ -240,7 +240,7 @@ Se miraron. No dijeron nada. Ella tenía la boca apretada para no reírse y los 
 
 Después se abrazaron. Despacio, ella con cuidado del costado de él, él con cuidado de todo lo demás.
 
-Por encima del hombro de Chiara, sobre la repisa de mármol de la chimenea, estaba la foto.
+Por encima del hombro de Chiara, sobre la repisa de mármol de la chimenea, estaba lo que ella miraba cuando él bajó la escalera: la foto.
 
 Se le humedecieron los ojos, y la foto se le movió un poco, como se mueven las cosas detrás del agua. No se los limpió. Tenía las dos manos ocupadas.
 
