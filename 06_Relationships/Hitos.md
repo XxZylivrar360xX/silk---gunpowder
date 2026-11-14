@@ -2198,7 +2198,7 @@ El embarazo no reemplaza el motivo amoroso de la escena. Ante *“¿Por qué sie
 
 ### Después de H1 — reveal a Kal en la chimenea
 
-> **REDACTADO (BORRADOR, 2026-11-13):** [[11_Books/Book_02_Sombras_De_Poder/Part_04_Torna_A_Casa/56_La_Chimenea]], último capítulo de *Sombras de Poder*. Supersede el «NO REDACTAR TODAVÍA» anterior. Detalle: [[98_Agent_Handoff/sessions/2026-11-13_claude_cap56_la_chimenea]].
+> **REDACTADO (BORRADOR, 2026-11-13):** [[11_Books/Book_02_Sombras_De_Poder/Part_04_Torna_A_Casa/57_La_Chimenea]], último capítulo de *Sombras de Poder*. Supersede el «NO REDACTAR TODAVÍA» anterior. Detalle: [[98_Agent_Handoff/sessions/2026-11-13_claude_cap56_la_chimenea]].
 
 El reveal ocurre sólo después de que Kal esté fuera de peligro, duerma, empiece a recuperarse y vuelva cierta normalidad doméstica. H1 debe terminar como H1.
 

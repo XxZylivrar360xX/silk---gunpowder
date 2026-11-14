@@ -3,7 +3,7 @@ title: "No otra vez"
 type: capitulo
 estado: BORRADOR
 libro: Sombras de Poder (Libro II), Parte IV — Torna a casa
-capitulo: 55
+capitulo: 56
 pov: Chiara Bellandi, único
 ventana_temporal: la noche de la tormenta (~6–8 dic A4; Kal llega a la Villa hacia las 5:30 p. m., Chiara después de las 6)
 localizacion: el camino a las Lomas; la Villa Candelaria (la sala, la piscina, el baño y el dormitorio de los dos)
@@ -15,7 +15,7 @@ hito: H1 — El regreso a casa (movimientos 4 a 8)
 >
 > **CANON citado literal (H1):** «Me encuentro bien.» / «No otra vez.»; «Cuéntamelo de principio a fin.» / «Estuviste en radio.» / «Lo estuve, pero quiero escucharte.»; el delirio con pausas («Tus ojos brillan.» / «Me gusta cuando brillan.» / «Deberías sonreír más, bella, cuando lo haces yo...» / «No te preocupes tanto por todo.»); «¿Por qué siempre te preocupas tanto? Lo ves, estoy bien.» / «Perché ti amo con tutto il mio cuore.»; «Volevo solo tornare a casa per mantenere la mia promessa, amore.». **CANON (hechos):** Chiara llega después que Kal y viene de dejar a Nat; las velas apagadas por una ventana abierta; el papel en su bolsillo; el agua muy oscura; el collar puesto, sin señalarlo; hospitales vigilados; Camila, que no sabe del embarazo; la grieta de la voz en el eco de Corrado y no antes; Kal no responde a la declaración; nadie más habla en los diálogos de la pareja; el embarazo no se revela ni se piensa.
 >
-> **DISEÑO del agente:** la camioneta de Héctor frente al garaje; el ventanal de la sala que Kal dejó abierto al salir a la piscina; Chiara se mete vestida al agua; el relato de Kal «mitad verdad, mitad cómico» (la guitarra que da un acorde, el perico de la señora del segundo piso, Mack Calderon, el malvavisco, los Bravos, la camioneta de Héctor; se salta la nave y a Crowe; las primeras anécdotas, recortadas el 2026-11-13 para que el relato no pese antes del deterioro); «Sigue. Per favore. Sigue.» (eco de su forma de pedirle historias en el Libro I); el teléfono de Kal con el nombre de Héctor, que nadie contesta (prepara la visita de Héctor del 56); el ancla del eco de Corrado, «Su padre, agachado frente a ella en la iglesia. Con esa misma calma.» (la frase se sembró el 2026-11-13, por orden del autor, en el recuerdo de la iglesia del cap. 12 del Libro I, *Roma Atrii*); el eco de Mei-Lin por Bonnie, sin nombres («unas manos que apretaron así, en el suelo de un patio, y no alcanzó»); el suero colgado del toallero; la lágrima sola al final.
+> **DISEÑO del agente:** la camioneta de Héctor frente al garaje; el ventanal de la sala que Kal dejó abierto al salir a la piscina; Chiara se mete vestida al agua; el relato de Kal «mitad verdad, mitad cómico» (la guitarra que da un acorde, el perico de la señora del segundo piso, Mack Calderon, el malvavisco, los Bravos, la camioneta de Héctor; se salta la nave y a Crowe; las primeras anécdotas, recortadas el 2026-11-13 para que el relato no pese antes del deterioro); «Sigue. Per favore. Sigue.» (eco de su forma de pedirle historias en el Libro I); el teléfono de Kal con el nombre de Héctor, que nadie contesta (prepara la visita de Héctor del 57); el ancla del eco de Corrado, «Su padre, agachado frente a ella en la iglesia. Con esa misma calma.» (la frase se sembró el 2026-11-13, por orden del autor, en el recuerdo de la iglesia del cap. 12 del Libro I, *Roma Atrii*); el eco de Mei-Lin por Bonnie, sin nombres («unas manos que apretaron así, en el suelo de un patio, y no alcanzó»); el suero colgado del toallero; la lágrima sola al final.
 
 # No otra vez
 

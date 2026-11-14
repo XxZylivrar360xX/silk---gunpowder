@@ -3,7 +3,7 @@ title: "De rodillas"
 type: capitulo
 estado: BORRADOR
 libro: Sombras de Poder (Libro II), Parte IV — Torna a casa
-capitulo: 54
+capitulo: 55
 pov: Kal Mercer, único
 ventana_temporal: el anochecer de la tormenta (~6–8 dic A4, entre las 4:45 y las 5:30 p. m.), después de «Todos están fuera, vamos a casa»; recuerdo de la nave de Crowe
 localizacion: la carretera de regreso; recuerdo: la nave de las prendas de Crowe, Nueve Puentes; Almendra Towing, La Almendra

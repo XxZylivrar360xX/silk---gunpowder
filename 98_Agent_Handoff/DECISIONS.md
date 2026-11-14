@@ -2,6 +2,10 @@
 
 Máximo 800 palabras; conservar sólo decisiones operativas recientes y enlaces a sus fuentes. El historial íntegro anterior al corte está en [[98_Agent_Handoff/archive/2026-09-21_DECISIONS]]; las del 2026-11-01, en [[98_Agent_Handoff/archive/2026-11-08_DECISIONS]]; las del 2026-11-04 al 2026-11-06, en [[98_Agent_Handoff/archive/2026-11-09_DECISIONS_retiradas]]. Archivar entradas antiguas antes de retirarlas.
 
+## 2026-11-13 — El arco de Mei-Lin en cuatro capítulos (Libro II, 57 caps.)
+
+**DECISIÓN DEL AUTOR:** el antiguo 36 se parte en *Las latas* (36, Kal) y *Lo del hermano* (37, Kal); siguen *Perdóname, jefe* (38, Nadir) y *Lo que queda* (39, ahora de Chiara). Todo lo demás sube uno: Parte III 32–40, Parte IV 41–57. **CANON:** Kal le contesta a Mei-Lin «—Eso ya no importa, estás aquí… con nosotros.»; no llora hasta decirle a Chiara «Iba a decirle que sin importar lo que tuvo que hacer, era de los míos.». Bonnie se va después del entierro; la tarde del entierro le dice a Chiara, que todavía le habla de planes, que no va a quedarse, y le cuenta la traición. Fuente: [[11_Books/Book_02_Sombras_De_Poder/00_Guia_Redaccion_Capitulos]].
+
 ## 2026-11-12 — El golpe fallido lo hacen los chicos (Libro II, 56 caps.)
 
 **DECISIÓN DEL AUTOR:** el golpe fallido no es una venganza de Kal. Nadir organiza a los chicos sin decirle y los lleva contra los Calderos para cobrar a Mei-Lin. Mueren inocentes; ningún chico muere (hay heridos); el Caldero sobrevive. Kal se entera tarde, los saca y deja la línea «Yo no voy a arriesgar a nadie para fundamentar una guerra» (siembra *Voto de Ceniza*). Nadir empieza así su separación voluntaria de la banda, a lo largo de la saga. Las bandas fijan la fecha de la tormenta sin Kal. La Parte IV queda en 17 capítulos y el libro en 56. El autor quiere vivir la tormenta desde Chiara (por diseñar). Fuente: [[11_Books/Book_02_Sombras_De_Poder/00_Guia_Redaccion_Capitulos]].

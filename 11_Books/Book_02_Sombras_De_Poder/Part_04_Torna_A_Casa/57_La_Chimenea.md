@@ -3,7 +3,7 @@ title: "La chimenea"
 type: capitulo
 estado: BORRADOR
 libro: Sombras de Poder (Libro II), Parte IV — Torna a casa
-capitulo: 56 (último del libro)
+capitulo: 57 (último del libro)
 pov: Kal Mercer, único
 ventana_temporal: la misma noche de la tormenta (~6–8 dic A4): las voces de la noche y, a las 2:47 a. m., la chimenea
 localizacion: la Villa Candelaria (el dormitorio; la sala, a la luz del fuego)

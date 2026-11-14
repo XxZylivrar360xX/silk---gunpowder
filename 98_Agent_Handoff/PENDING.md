@@ -4,7 +4,7 @@ Actualizado: 2026-11-13. Máximo 800 palabras; las decisiones de fondo van en [[
 
 ## *Sombras de Poder* (Libro II): decide el autor
 
-Lista de fondo: [[98_Agent_Handoff/BACKLOG#Libros II y III]]. Prosa en espera hasta cerrar el Libro I, salvo los caps. 53–56 (orden del autor; ver brief). Abiertos: guía ([[11_Books/Book_02_Sombras_De_Poder/00_Guia_Redaccion_Capitulos]], DISEÑO); decisiones 2–13 de la carretera; elipsis de R9; «Mac a Almendra»; sembrar a Nat antes del 53; leer 53–56 (dudas en las notas del 2026-11-13); **sembrar el papel de Elenna en el cap. 23 del Libro II** (sin redactar; el 56 depende de él).
+Lista de fondo: [[98_Agent_Handoff/BACKLOG#Libros II y III]]. Prosa en espera hasta cerrar el Libro I, salvo los caps. 36–39 y 54–57 (orden del autor; ver brief). **57 caps. desde el 2026-11-13.** Abiertos: guía ([[11_Books/Book_02_Sombras_De_Poder/00_Guia_Redaccion_Capitulos]], DISEÑO); decisiones 2–13 de la carretera; elipsis de R9; «Mac a Almendra»; sembrar a Nat antes del 54; leer 54–57 (dudas en las notas del 2026-11-13, que citan 53–56); **leer el arco de Mei-Lin, 36–39, y contestar sus cinco preguntas** ([[98_Agent_Handoff/sessions/2026-11-13_claude_arco_mei_lin]]); **sembrar el papel de Elenna en el cap. 23 del Libro II** (sin redactar; el 57 depende de él).
 
 ## Lecturas del autor (Libro I)
 

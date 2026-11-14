@@ -145,7 +145,9 @@ Desarrollo completo, Parte por Parte, en [[01_Timeline/03_Libro_02_Sombras_De_Po
 
 En prosa BORRADOR: [[11_Books/Book_02_Sombras_De_Poder/Part_01_Territorio_Ajeno/01_Hogar]] (Cap. 1, título fijado por el autor el 2026-10-10), [[11_Books/Book_02_Sombras_De_Poder/Part_04_Torna_A_Casa/Stavanger]], [[11_Books/Book_02_Sombras_De_Poder/Part_04_Torna_A_Casa/Henrik]] y [[11_Books/Book_02_Sombras_De_Poder/Part_04_Torna_A_Casa/Ya_Llego]] (tres capítulos sin número, separados el 2026-11-07; prosa pendiente de lectura del autor). Las Partes II y III todavía no tienen capítulos escritos. El plan de la reconciliación sigue documentado en [[11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/00_Plan_Cierre_Parte_III]] (sección del antiguo Cap. 45). Carpetas (renombradas el 2026-10-12): `Part_01_Territorio_Ajeno/` (Hogar), `Part_02_Nieve_Y_Ceniza/` y `Part_03_Exilio/` (vacías) y `Part_04_Torna_A_Casa/` (*Ya llegó*).
 
-### Numeración vigente: 56 capítulos (DECISIÓN DEL AUTOR, 2026-11-12)
+### Numeración vigente: 57 capítulos (DECISIÓN DEL AUTOR, 2026-11-12; 57 desde el 2026-11-13)
+
+> **DECISIÓN DEL AUTOR (2026-11-13):** el arco de la muerte de Mei-Lin pasa a cuatro capítulos: el antiguo 36 se parte en *Las latas* (36) y *Lo del hermano* (37), y todo lo que sigue sube uno. **Partes:** I = 1–17, II = 18–31, III = 32–40, IV = 41–57. Equivalencia con la numeración de 56: 1–35 iguales; 36 → 36 + 37; 37–56 → 38–57. Los borradores de la noche final se renombraron a `54_Dime_Amore`, `55_De_Rodillas`, `56_No_Otra_Vez` y `57_La_Chimenea`. Detalle: [[98_Agent_Handoff/sessions/2026-11-13_claude_arco_mei_lin]].
 
 Fase 3 aprobada: [[11_Books/Book_02_Sombras_De_Poder/00_Mapa_Boceto_A_Tarjetas]]. **Partes:** I = 1–17, II = 18–31, III = 32–39, IV = 40–56. La Fase 3 dejó 55; el mismo día el autor partió el golpe fallido en dos capítulos (40 y 41: los chicos se mueven sin Kal), y la Parte IV pasó a 17. Los títulos son de trabajo (los del boceto o de las tarjetas); ningún archivo se renombra hasta que haya prosa. Guía de redacción: [[11_Books/Book_02_Sombras_De_Poder/00_Guia_Redaccion_Capitulos]]. «Boceto N» cita la numeración de 64 del boceto retirado ([[97_Supersedido/Boceto_Lista_Capitulos_64]], 2026-10-13), que sigue en documentos anteriores a esta fecha. **Retirado:** el boceto 45, *El norte* (F2 viejo).
 
@@ -186,27 +188,28 @@ Fase 3 aprobada: [[11_Books/Book_02_Sombras_De_Poder/00_Mapa_Boceto_A_Tarjetas]]
 | III | 33 | *Escenarios* | 40 (+ la cama vacía del 41) | T2 | Chiara |
 | III | 34 | *El agua corriendo* | 41 | T3 | Kal |
 | III | 35 | *El bastón* | 42 | T4 + T5 | Chiara |
-| III | 36 | *Lo del hermano* | 43 | T6 + T7 | Kal |
-| III | 37 | *Perdóname, jefe* | 44 | T8 | Nadir |
-| III | 38 | *Lo que queda* | 46 | T9 | Chiara |
-| III | 39 | *Una sola frase* | 47 | T10 | Chiara |
-| IV | 40 | *Diez segundos* | 48 (+ la llamada) | U1 + U2 | Chiara |
-| IV | 41 | *Yo respondo* | 50 + 49 | U2 + U3, rehechas | Kal |
-| IV | 42 | *Las bandas* | 51 | U4 | Kal |
-| IV | 43 | *Mover la mirada* | 52 | U5 | Chiara |
-| IV | 44 | *Lo poco que llegué a saber* | 52b | U6 | Kal |
-| IV | 45 | *Stavanger* | 53a | U7 | BORRADOR |
-| IV | 46 | *Henrik* | 53b | U8 | BORRADOR |
-| IV | 47 | *Ya llegó* | 53c | U9 | BORRADOR |
-| IV | 48 | *Llegar tarde* | 54 | U10 | externo |
-| IV | 49 | *Veintitrés de noviembre* | 55 | U11 | Kal |
-| IV | 50 | *La fecha* | — | U12 | Kal |
-| IV | 51 | *Santa Lucía* | 56 | U13 | Kal |
-| IV | 52 | *Torna a casa* | 57 | U14 | externo |
-| IV | 53 | *Dime, Amore* | 58 | U15 | Chiara (2026-11-12) |
-| IV | 54 | *De rodillas* | 59 | U16 | Kal |
-| IV | 55 | *No otra vez* | 60 | U17 | Chiara |
-| IV | 56 | *La chimenea* | 61 | U18 | DISEÑO |
+| III | 36 | *Las latas* | las latas | T6 | Kal |
+| III | 37 | *Lo del hermano* | 43 | T7 | Kal |
+| III | 38 | *Perdóname, jefe* | 44 | T8 | Nadir |
+| III | 39 | *Lo que queda* | 46 | T9 | Chiara (2026-11-13) |
+| III | 40 | *Una sola frase* | 47 | T10 | Chiara |
+| IV | 41 | *Diez segundos* | 48 (+ la llamada) | U1 + U2 | Chiara |
+| IV | 42 | *Yo respondo* | 50 + 49 | U2 + U3, rehechas | Kal |
+| IV | 43 | *Las bandas* | 51 | U4 | Kal |
+| IV | 44 | *Mover la mirada* | 52 | U5 | Chiara |
+| IV | 45 | *Lo poco que llegué a saber* | 52b | U6 | Kal |
+| IV | 46 | *Stavanger* | 53a | U7 | BORRADOR |
+| IV | 47 | *Henrik* | 53b | U8 | BORRADOR |
+| IV | 48 | *Ya llegó* | 53c | U9 | BORRADOR |
+| IV | 49 | *Llegar tarde* | 54 | U10 | externo |
+| IV | 50 | *Veintitrés de noviembre* | 55 | U11 | Kal |
+| IV | 51 | *La fecha* | — | U12 | Kal |
+| IV | 52 | *Santa Lucía* | 56 | U13 | Kal |
+| IV | 53 | *Torna a casa* | 57 | U14 | externo |
+| IV | 54 | *Dime, Amore* | 58 | U15 | Chiara (2026-11-12) |
+| IV | 55 | *De rodillas* | 59 | U16 | Kal |
+| IV | 56 | *No otra vez* | 60 | U17 | Chiara |
+| IV | 57 | *La chimenea* | 61 | U18 | DISEÑO |
 
 **Del boceto al nuevo:** 1→1 · 2→2 · 3→3 · 4–5→4 · 6–7→5 · 8–9→6 · 10→9 · 11→10 · 12–14→11 · 15→12 · 16–17→13 · 18→14 · 19→15 · 20→16 · 21→17 · 22–23→18 · 24–25→19 · 26→20 · 27→21 · 28→22 · 29–30→23 · 31→24 · 32→25 · 33→26 · 34→27 · 35–36→28 · 37→30 · 38→31 · 39→32 · 40→33 · 41→34 · 42→35 · 43→36 · 44→37 · 45→retirado · 46→38 · 47→39 · 48→40 · 49→41 · 50→40–41 (partido) · 51→42 · 52→43 · 52b→44 · 53a–c→45–47 · 54→48 · 55→49 · 56–61→51–56. Sin equivalente en el boceto: 7, 8, 29 y 50.
 
