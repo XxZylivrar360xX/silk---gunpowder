@@ -7,7 +7,7 @@
 **Para el autor:**
 - El boceto sí tiene fuente (Capitán Aurelius, CANON 2026-11-01); lo que no tiene es rotonda. El 360 sigue alrededor de la fuente, dentro de la plaza peatonal.
 - Se conservó el reloj del Ayuntamiento porque lo cita el Cap. 12 (archivo 12, «la foto»).
-- Collins manda dos unidades «hacia el este, algo de las vías» (La Almendra): queda dentro de «lo sospecha», sin nombrar a Kal. Revisar si es demasiado.
+- **CANON DEL AUTOR (misma sesión): Collins sospecha y no lo delata; omisión deliberada.** Sustituye a la primera versión, en la que mandaba dos unidades hacia la Almendra: ahora una unidad lo propone («Ese rojo siempre se pierde para allá») y Collins lo niega sin tardar nada («No. Quedate en el puente»). Chiara lo guarda junto al medio segundo de «La oigo».
 - La luz trasera rota es costo nuevo; no se propagó a capítulos posteriores (no hace falta: Kal la cambia esa mañana).
 
 **Fichas tocadas:** `02_Characters/Dana_Collins.md`, `12_Craft_Policies/CHAPTER_STATUS.md`.
