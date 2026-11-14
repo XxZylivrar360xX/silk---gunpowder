@@ -1,10 +1,10 @@
 # Pendientes activos
 
-Actualizado: 2026-11-12 (rotado por límite: medía 841 palabras). Máximo 800 palabras; las decisiones de fondo van en [[98_Agent_Handoff/BACKLOG]]. Anterior íntegro: [[98_Agent_Handoff/archive/2026-11-12_PENDING]]. **Numeración:** salvo las entradas fechadas desde el 2026-11-01, los números de abajo pueden ser anteriores; tabla en [[01_Timeline/09_Equivalencias_Numeracion_Libro_I]]. `N:línea` cita archivo.
+Actualizado: 2026-11-13. Máximo 800 palabras; las decisiones de fondo van en [[98_Agent_Handoff/BACKLOG]]. Anterior íntegro: [[98_Agent_Handoff/archive/2026-11-12_PENDING]]. **Numeración:** salvo las entradas fechadas desde el 2026-11-01, los números de abajo pueden ser anteriores; tabla en [[01_Timeline/09_Equivalencias_Numeracion_Libro_I]]. `N:línea` cita archivo.
 
 ## *Sombras de Poder* (Libro II): decide el autor
 
-Lista de fondo: [[98_Agent_Handoff/BACKLOG#Libros II y III]]. Prosa en espera hasta cerrar el Libro I, salvo los caps. 53–56 (orden del autor; ver brief). Abiertos: guía ([[11_Books/Book_02_Sombras_De_Poder/00_Guia_Redaccion_Capitulos]], DISEÑO); decisiones 2–13 de la carretera; elipsis de R9; «Mac a Almendra»; sembrar a Nat antes del 53; leer 53–56 (dudas en las notas del 2026-11-13); **pasada técnica de horas y clínica 53–56** (llegada de Kal, traslado y noche de Camila; si la evolución permite retirar el suero y dejarlo sin vigilancia profesional de la una a las siete); **sembrar el papel de Elenna en el cap. 23 del Libro II** (sin redactar; el 56 depende de él).
+Lista de fondo: [[98_Agent_Handoff/BACKLOG#Libros II y III]]. Prosa en espera hasta cerrar el Libro I, salvo los caps. 53–56 (orden del autor; ver brief). Abiertos: guía ([[11_Books/Book_02_Sombras_De_Poder/00_Guia_Redaccion_Capitulos]], DISEÑO); decisiones 2–13 de la carretera; elipsis de R9; «Mac a Almendra»; sembrar a Nat antes del 53; leer 53–56 (dudas en las notas del 2026-11-13); **pasada técnica de horas y clínica 53–56** (llegada de Kal, Camila; si cabe retirar el suero y dejarlo sin médica de la una a las siete); **sembrar el papel de Elenna en el cap. 23 del Libro II** (sin redactar; el 56 depende de él).
 
 ## Lecturas del autor (Libro I)
 
@@ -26,7 +26,6 @@ Lista de fondo: [[98_Agent_Handoff/BACKLOG#Libros II y III]]. Prosa en espera ha
 - **Fichas de voz de la Parte III creadas (2026-11-09, DISEÑO, leer):** Bonnie, Mei-Lin, Garrett, Tyler (poca evidencia), Blake, Ettore y Livia Rinaldi, en `12_Craft_Policies/voice/`.
 - **Propagación de la Parte II (2026-11-09):** el autor decide las dudas listadas en [[98_Agent_Handoff/sessions/2026-11-09_claude_propagacion_parte_II_resto]] (seguro de Vento, H16, POV de 32 y 34, entre otras).
 
-- **Gesto de manos:** revisar en cada capítulo.
 - **Portada y Nota Editorial:** portada ≥1600×2560 para KDP; título de `00_Nota_Editorial.md`, del autor.
 - **Referencias de numeración (2026-11-10):** 23 dudas para el autor, ocho de ellas de contenido (la escena citada ya no ocurre así): [[98_Agent_Handoff/sessions/2026-11-10_claude_referencias_dudosas]]. Tras llevar a 47 las 574 referencias en numeración de 56, otras 2 dudas y una lista de afirmaciones que el nuevo cauce volvió falsas (Vento, *Bajo juramento*, Halbrook, anclas de voz): [[98_Agent_Handoff/sessions/2026-11-10_claude_referencias_56_a_47]].
 - Diferidos en [[98_Agent_Handoff/BACKLOG]]: reseña de Partes I–II (ChatGPT), diálogo de terceros (Parte I), protolectura de los caps. 1–8, Q24, cobros del Libro I, aura, Halbrook, Corrado/Manfred, mesa tres, *El Faro*, Cap. 34, susurro a Varga y «Usted es alta».
