@@ -429,7 +429,13 @@ Chiara miró a Kal. Pensó en las patrullas de la entrada de urgencias, en el se
 
 —Aquí —dijo.
 
-Camila no discutió. Abrió la primera maleta.
+Camila no se movió. Se quedó mirándola, con las manos en las rodillas.
+
+—Si se me complica aquí, se me muere aquí.
+
+Chiara le sostuvo la mirada. No dijo nada más.
+
+Camila abrió la primera maleta.
 
 Trabajó en el baño del dormitorio porque ahí estaba la mejor luz de la casa y el suelo se podía lavar.
 
