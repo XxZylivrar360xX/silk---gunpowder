@@ -12,9 +12,9 @@ personajes: Kal Mercer, Chiara Bellandi, Héctor Navarro; Camila Rivas (de paso)
 
 > **Estado:** BORRADOR del agente (Claude Code, 2026-11-13), tercera versión para lectura del autor (2026-11-13: revisión editorial aplicada; final rehecho con la secuencia canon del 2026-10-02, que el agente no había consultado en la primera redacción). Fuera de `CHAPTERS` de `tools/build_sombras.py`: no entra al EPUB.
 >
-> **CANON citado literal:** «¿Quién es Elenna?» / «Antes era sólo un nombre.» / «Sono incinta.»; «Voy... vamos a ser...»; «¡Mierda!» / «¡Kal!». **CANON (hechos):** tras dormir; la normalidad doméstica (hamburguesa doble) y después la chimenea; el papel cae de la manta; el lector descubre el embarazo con Kal, en la chimenea; el significado del nombre no se dice en este libro; Héctor pasó mientras Kal dormía, habló con Chiara y decidió volver (2026-11-13); **Halbrook anuncia su candidatura y Kal lo lee en el teléfono al despertar (DECISIÓN DEL AUTOR, 2026-11-13; «senador», según la ruta de su ficha)**. **CANON DEL AUTOR (2026-10-02), secuencia del cierre** ([[01_Timeline/03_Libro_02_Sombras_De_Poder]], «Cierre del Libro II: reveal en la chimenea»): Kal despierta de noche y Chiara no está; ella de pie frente a la chimenea, manos juntas por delante; Kal toma la manta del sillón, cae el papel, tirón al agacharse; le pone la manta por detrás; «¿Quién es Elenna?» / «Antes era sólo un nombre.»; parpadea lento dos veces; «Sono incinta.» (sin glosa); «Voy... vamos a ser...»; la carga y se marea; «¡Mierda!» / «¡Kal!»; se miran en silencio y se abrazan lento; **última imagen: Kal mira la ciudad** (la mitad de los rascacielos y la mitad del sur).
+> **CANON citado literal:** «¿Quién es Elenna?» / «Antes era sólo un nombre.» / «Sono incinta.»; «Voy... vamos a ser...»; «¡Mierda!» / «¡Kal!». **CANON (hechos):** tras dormir; la normalidad doméstica (hamburguesa doble) y después la chimenea; el papel cae de la manta; el lector descubre el embarazo con Kal, en la chimenea; el significado del nombre no se dice en este libro; Héctor pasó mientras Kal dormía, habló con Chiara y decidió volver (2026-11-13); **Halbrook anuncia su candidatura y Kal lo lee en el teléfono al despertar (DECISIÓN DEL AUTOR, 2026-11-13; «senador», según la ruta de su ficha)**. **CANON DEL AUTOR (2026-10-02), secuencia del cierre** ([[01_Timeline/03_Libro_02_Sombras_De_Poder]], «Cierre del Libro II: reveal en la chimenea»): Kal despierta de noche y Chiara no está; ella de pie frente a la chimenea, manos juntas por delante; Kal toma la manta del sillón, cae el papel, tirón al agacharse; le pone la manta por detrás; «¿Quién es Elenna?» / «Antes era sólo un nombre.»; parpadea lento dos veces; «Sono incinta.» (sin glosa); «Voy... vamos a ser...»; la carga y se marea; «¡Mierda!» / «¡Kal!»; se miran en silencio y se abrazan lento; última imagen: **la foto de los chicos de la banda en la cena de Navidad, sobre la repisa de mármol, descrita a detalle (DECISIÓN DEL AUTOR, 2026-11-13; sustituye a «Kal mira hacia la ciudad»)**. Al cargarla, Chiara grita «¡No, no, no, no, no!» antes del «¡Mierda!» (DECISIÓN DEL AUTOR, 2026-11-13).
 >
-> **DISEÑO del agente:** POV de Kal (el lector descubre con él); la alerta de *El Faro* y la frase de Halbrook («Yo voy a responder»), que suena a la doctrina de Kal; la fiebre de las cuatro y las bolsas que trajo Camila a las seis; «esto no está resuelto» sigue en pie; Walt no llama y Mabel manda las hamburguesas (la huella de Walt);  la foto de la cena de Navidad en la repisa (eco de Mei-Lin, sin comentario); el papel pasa del abrigo a la manta de Chiara; Camila le quita el suero en la tarde y sólo lo deja levantarse para el baño (Kal baja de todos modos).
+> **DISEÑO del agente:** POV de Kal (el lector descubre con él); la alerta de *El Faro* y la frase de Halbrook («Yo voy a responder»), que suena a la doctrina de Kal; la fiebre de las cuatro y las bolsas que trajo Camila a las seis; «esto no está resuelto» sigue en pie; Walt no llama y Mabel manda las hamburguesas (la huella de Walt);  las expresiones de cada uno en la foto de Navidad y que Kal mira a alguien fuera del cuadro (quién la tomó sigue PENDIENTE); el papel pasa del abrigo a la manta de Chiara; Camila le quita el suero en la tarde y sólo lo deja levantarse para el baño (Kal baja de todos modos).
 
 # La chimenea
 
@@ -196,8 +196,6 @@ Chiara estaba de pie frente a la chimenea.
 
 No lo oyó llegar. Había prendido el fuego como lo prendía él, dos troncos abajo y uno cruzado, y estaba ahí, descalza en la alfombra, con las manos juntas por delante, mirando el fuego. Sólo mirándolo. La luz le movía la cara. Detrás de ella, del otro lado del ventanal, estaba San Aurelio: la mitad de los edificios del centro, con alguna luz encendida todavía, y la mitad del sur, a oscuras, donde los semáforos no habían vuelto.
 
-En la repisa, la foto de la cena de Navidad del año pasado. El fuego le pasaba por encima y la dejaba y le volvía a pasar.
-
 Kal se quedó en el último escalón, mirándola.
 
 En el sillón, junto al hogar, estaba la manta de ella. La tomó. Algo cayó de entre los pliegues a la alfombra, sin ruido.
@@ -226,7 +224,11 @@ El fuego se movió. Afuera, lejos, ladró un perro y dejó de ladrar.
 
 —Voy... —dijo Kal—. Vamos a ser...
 
-No terminó. La abrazó y la levantó del suelo, con los dos brazos, con la manta y todo, y la casa dio media vuelta alrededor de los dos. Se le fue la luz de los ojos un momento; el fuego se volvió una mancha amarilla y después nada. La bajó enseguida. El costado le dio el tirón que le había estado guardando toda la noche.
+No terminó. La abrazó y la levantó del suelo, con los dos brazos, con la manta y todo, y la casa dio media vuelta alrededor de los dos. Se le fue la luz de los ojos un momento; el fuego se volvió una mancha amarilla y después nada.
+
+—¡No, no, no, no, no!
+
+La bajó enseguida. El costado le dio el tirón que le había estado guardando toda la noche.
 
 —¡Mierda!
 
@@ -238,4 +240,12 @@ Se miraron. No dijeron nada. Ella tenía la boca apretada para no reírse y los 
 
 Después se abrazaron. Despacio, ella con cuidado del costado de él, él con cuidado de todo lo demás.
 
-Por encima del hombro de Chiara, por el ventanal, Kal miró la ciudad.
+Por encima del hombro de Chiara, sobre la repisa de mármol de la chimenea, estaba la foto.
+
+La habían tomado en el taller, en Nochebuena, hacía casi un año, con las luces que colgaron de madrugada y el coche del elevador convertido en árbol detrás, borroso, lleno de foquitos. Estaban todos apretados frente a los bancos de trabajo, con los manteles todavía puestos y los platos a medio terminar, en sus camisas de cuadros, como cuando alguien grita que se junten y se juntan de golpe, sin acomodarse.
+
+Héctor estaba a un lado, con la gorra puesta y los brazos cruzados, y una sonrisa tan chica que sólo la habría reconocido alguien que lo conociera. Danny le hacía cuernos a Nadir por detrás de la cabeza, con la lengua de fuera, y Nadir no se había dado cuenta: tenía un brazo sobre los hombros de Danny y se reía con la boca abierta, de algo que alguien había dicho un segundo antes. Garrett levantaba un vaso de plástico hacia la cámara, con la corbata floja, como quien brinda al final de una junta. Harper miraba al lente sin sonreír, derecha, con la seriedad de quien revisa que la foto salga bien. A Tyler el flash lo había agarrado en la orilla, con medio cuerpo fuera del cuadro, pero se le veía la sonrisa entera.
+
+En el centro estaba Mei-Lin. Se reía con los ojos cerrados y la cabeza echada hacia atrás, con un tamal a medio comer en una mano y la otra prendida del brazo de Bonnie, que se había agachado justo en el momento del flash y salía con el pelo en la cara y la boca abierta, a medio grito, como si se estuviera cayendo y a nadie le importara.
+
+Y detrás de todos, más alto que todos, estaba él. No miraba a la cámara. Miraba un poco a la izquierda, hacia alguien que no salía en la foto.
