@@ -4,7 +4,7 @@ Actualizado: 2026-11-12 (rotado por límite: medía 841 palabras). Máximo 800 p
 
 ## *Sombras de Poder* (Libro II): decide el autor
 
-Lista de fondo: [[98_Agent_Handoff/BACKLOG#Libros II y III]]. Prosa en espera hasta cerrar el Libro I, salvo los caps. 53–56 (orden del autor; ver brief). Abiertos: guía ([[11_Books/Book_02_Sombras_De_Poder/00_Guia_Redaccion_Capitulos]], DISEÑO); decisiones 2–13 de la carretera; elipsis de R9; «Mac a Almendra»; sembrar a Nat antes del 53; leer 53–56 (dudas en las notas del 2026-11-13); **revisar de corrido las horas 53–56** (llegada de Kal, traslado y noche de Camila); **sembrar el papel de Elenna en el cap. 23 del Libro II** (sin redactar; el 56 depende de él).
+Lista de fondo: [[98_Agent_Handoff/BACKLOG#Libros II y III]]. Prosa en espera hasta cerrar el Libro I, salvo los caps. 53–56 (orden del autor; ver brief). Abiertos: guía ([[11_Books/Book_02_Sombras_De_Poder/00_Guia_Redaccion_Capitulos]], DISEÑO); decisiones 2–13 de la carretera; elipsis de R9; «Mac a Almendra»; sembrar a Nat antes del 53; leer 53–56 (dudas en las notas del 2026-11-13); **pasada técnica de horas y clínica 53–56** (llegada de Kal, traslado y noche de Camila; si la evolución permite retirar el suero y dejarlo sin vigilancia profesional de la una a las siete); **sembrar el papel de Elenna en el cap. 23 del Libro II** (sin redactar; el 56 depende de él).
 
 ## Lecturas del autor (Libro I)
 
