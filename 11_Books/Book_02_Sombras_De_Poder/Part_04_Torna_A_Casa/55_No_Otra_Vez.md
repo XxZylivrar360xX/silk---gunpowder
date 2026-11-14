@@ -463,7 +463,7 @@ Lo que Camila traía para el dolor no alcanzó. Camila lo dijo antes de empezar,
 
 En algún momento, Camila dijo que ya.
 
-No dijo que estaba bien. Dijo que ya, que lo que se podía hacer en una casa estaba hecho. Que la bala había entrado y salido, y que eso era lo bueno. Que lo que hubiera tocado por dentro no lo podía saber ahí, con una lámpara y un toallero. Que había perdido mucha sangre, más de la que ella podía reponer con lo que traía en una maleta. Que tenía que estar quieto. Que ella no se iba: iba a estar en la cocina, y cada hora iba a entrar a verlo. Que a primera hora tenía que conseguir lo que le faltaba, y que todavía no sabía de dónde.
+No dijo que estaba bien. Dijo que ya, que lo que se podía hacer en una casa estaba hecho. Que la bala había entrado y salido, y que eso era lo bueno. Que lo que hubiera tocado por dentro no lo podía saber ahí, con una lámpara y un toallero. Que había perdido mucha sangre, más de la que ella podía reponer con lo que traía en una maleta. Que tenía que estar quieto. Que ella no se iba: iba a estar en la cocina, y cada hora iba a entrar a verlo. Que si pasaba las primeras horas sin fiebre iba a salir a conseguir lo que le faltaba, y que todavía no sabía de dónde.
 
 Después lo dijo mirando a Chiara, no a él:
 

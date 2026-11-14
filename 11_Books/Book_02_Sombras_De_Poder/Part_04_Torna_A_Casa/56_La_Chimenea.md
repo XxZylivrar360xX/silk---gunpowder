@@ -36,7 +36,7 @@ Después la misma voz en la cocina, abajo, con la de Chiara. Mucho rato. Baja, p
 
 Y al final la de ella otra vez, muy cerca, sentada en la orilla de la cama, con una mano en el pelo de él. Hablaba despacio, como se habla a alguien que se cree dormido.
 
-—Camila se fue a la una. Se quedó toda la noche contigo. No te subió la fiebre. Vuelve a las siete.
+—Camila se fue a la una. Se quedó toda la noche contigo. No te subió la fiebre, y dijo que con eso ya podía ir a buscar lo que falta. Yo te reviso cada hora. Si algo cambia, le marco y viene. Vuelve a las siete.
 
 La mano le apartó el pelo de la frente.
 
