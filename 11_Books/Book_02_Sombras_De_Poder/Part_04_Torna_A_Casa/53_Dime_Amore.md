@@ -5,7 +5,7 @@ estado: BORRADOR
 libro: Sombras de Poder (Libro II), Parte IV — Torna a casa
 capitulo: 53
 pov: Chiara Bellandi, único
-ventana_temporal: la noche de la tormenta (~6–8 dic A4), después de la muerte de Crowe
+ventana_temporal: la tarde de la tormenta (~6–8 dic A4; la operación empieza hacia las 11–12; «Todos están fuera» a las 4:43 p. m.), después de la muerte de Crowe
 localizacion: la Villa Candelaria (Lomas de San Jacinto); el almacén del sur (Canal Seco), San Aurelio
 personajes: Chiara Bellandi, Camila Rivas, Natalie Keegan; por radio y teléfono, Kal Mercer y Walt Keegan
 ---
@@ -22,17 +22,17 @@ personajes: Chiara Bellandi, Camila Rivas, Natalie Keegan; por radio y teléfono
 
 La casa estaba en silencio. Sólo se oía la lluvia.
 
-Chiara abrió los ojos en el sofá de la sala, con una manta encima que no recordaba haberse echado, y por un momento no supo qué hora era. La lámpara de pie seguía encendida. Por el ventanal se veía el jardín negro, el borde iluminado de la piscina, la lluvia cayendo recta sobre el agua sin viento y, más allá, abajo, muy lejos, la ciudad.
+Chiara abrió los ojos en el sofá de la sala, con una manta encima que no recordaba haberse echado, y por un momento no supo qué hora era. Las dos y diez de la tarde, y parecía que estaba anocheciendo. Por el ventanal se veía el jardín gris, la piscina gris, la lluvia cayendo recta sobre el agua sin viento y, más allá, abajo, muy lejos, la ciudad.
 
 Se había acostado nada más para cerrar los ojos. Eso se había dicho.
 
 Se quedó quieta, escuchando. El refrigerador. La lluvia en el tejado, en las canaletas, en las hojas de los arces de la calle. Ningún motor. Ningún paso en el pasillo. En una casa con él adentro siempre había algo: una puerta, unas llaves, el agua corriendo en la cocina a deshoras, la radio del garaje murmurando. Esa noche no había nada. La casa tenía el silencio de las casas grandes cuando sólo queda una persona en ellas, y la persona está acostada.
 
-El teléfono estaba bocabajo sobre la alfombra. Tres mensajes de la mesa de noche de *El Faro*, los tres con la misma palabra: *sur*. Ninguno de él. No esperaba ninguno de él.
+El teléfono estaba bocabajo sobre la alfombra. Tres mensajes de la redacción de *El Faro*, los tres con la misma palabra: *sur*. Ninguno de él. No esperaba ninguno de él.
 
 Alcanzó la portátil de la mesa de centro y la abrió sobre las rodillas.
 
-La transmisión de *El Faro* ya estaba en la portada, arriba de todo, con el letrero rojo de EN VIVO. La reportera era la que Chiara había contratado en septiembre para policiales, porque escribía corto y no adjetivaba. Estaba en Canal Road, a la entrada de Nueve Puentes, con el impermeable de la empresa y el pelo pegado a la cara, y detrás de ella la ciudad era rojo y azul. Patrullas atravesadas en el puente. Un camión blindado negro con letras blancas. La luz de un helicóptero barriendo los techos de lámina del otro lado del canal, como un dedo que busca algo en una lista.
+La transmisión de *El Faro* ya estaba en la portada, arriba de todo, con el letrero rojo de EN VIVO. La reportera era la que Chiara había contratado en septiembre para policiales, porque escribía corto y no adjetivaba. Estaba en Canal Road, a la entrada de Nueve Puentes, con el impermeable de la empresa y el pelo pegado a la cara, y detrás de ella la ciudad era rojo y azul. Patrullas atravesadas en el puente. Un camión blindado negro con letras blancas. Un helicóptero bajo, casi metido en las nubes, pasando y volviendo a pasar sobre los techos de lámina del otro lado del canal, como un dedo que busca algo en una lista.
 
 En la franja de abajo corría el texto: TIROTEO EN EL SUR · ENFRENTAMIENTO ENTRE BANDAS EN LAS CALDERAS Y NUEVE PUENTES · SE REPORTA AL MENOS UN MUERTO.
 
@@ -94,7 +94,7 @@ La voz de él estaba baja, porque tenía que estar baja, pero no estaba apurada.
 
 —Tal vez un par de velas me sirvan ahora.
 
-Chiara miró hacia el pasillo. Desde el sofá se alcanzaba a ver el borde del aparador y, encima, el temblor amarillo de la vela que había prendido esa tarde, antes de que él saliera.
+Chiara miró hacia el pasillo. Desde el sofá se alcanzaba a ver el borde del aparador y, encima, el temblor amarillo de la vela que había prendido esa mañana, antes de que él saliera.
 
 En tres años no le había pedido una.
 
@@ -142,7 +142,7 @@ La encendió. Giró la perilla hasta el tres.
 
 El cuarto se llenó de voces.
 
-Era un canal abierto, el que las bandas habían acordado para esa noche, y estaba lleno de voces que Chiara conocía por el nombre de sus barrios y no por el de sus dueños: la Ronda pedía una camioneta en la calle del mercado; Cuadra Nueve contaba muchachos, uno por uno, y se equivocaba y volvía a empezar; los Marcadores daban esquinas y tiempos, cortos, con ruido de motor detrás. Nadie decía *Crowe*. Nadie decía qué había pasado. Hablaban como habla la gente cuando lo que importaba ya pasó y lo único que queda es salir.
+Era un canal abierto, el que las bandas habían acordado para ese día, y estaba lleno de voces que Chiara conocía por el nombre de sus barrios y no por el de sus dueños: la Ronda pedía una camioneta en la calle del mercado; Cuadra Nueve contaba muchachos, uno por uno, y se equivocaba y volvía a empezar; los Marcadores daban esquinas y tiempos, cortos, con ruido de motor detrás. Nadie decía *Crowe*. Nadie decía qué había pasado. Hablaban como habla la gente cuando lo que importaba ya pasó y lo único que queda es salir.
 
 La voz de él no estaba.
 
@@ -158,7 +158,7 @@ Cuando terminó, el pasillo y la sala tenían la luz de una capilla de pueblo. C
 
 Lo dijo en voz baja, rápido, sin cerrar los ojos. No sirvió de nada; nunca servía en el momento. Servía después, o no servía, y ella lo volvía a hacer de todos modos.
 
-La radio seguía hablando de otros. Chiara se miró las manos, las uñas recién hechas, y supo que si se quedaba en esa casa con las velas y la radio iba a pasarse la noche contando minutos sentada en un suelo.
+La radio seguía hablando de otros. Chiara se miró las manos, las uñas recién hechas, y supo que si se quedaba en esa casa con las velas y la radio iba a pasarse la tarde contando minutos sentada en un suelo.
 
 Marcó otro número.
 
@@ -258,11 +258,11 @@ Nadie dijo nada. Los dos hombres que lo habían traído se quedaron de pie junto
 
 Chiara fue al rincón y tomó una de las mantas de mudanza. Pesaba más de lo que parecía. Lo tapó con ella, la cara también, y se quedó un segundo de pie mirando la tela gris acolchada, con su costura en rombos, hecha para que una mesa de comedor llegara entera a una casa nueva.
 
-Iba a haber que decidir dónde lo encontraban y qué le decían a su familia. Eso iba a ser trabajo de ella, y no de esa noche. Lo anotó en el teléfono, debajo de la hora que Natalie había escrito en la cinta, y volvió a la mesa.
+Iba a haber que decidir dónde lo encontraban y qué le decían a su familia. Eso iba a ser trabajo de ella, y no de ese día. Lo anotó en el teléfono, debajo de la hora que Natalie había escrito en la cinta, y volvió a la mesa.
 
 ***
 
-La voz de Kal volvió a la radio un poco antes de las once. Chiara no la había oído desde la Villa.
+La voz de Kal volvió a la radio un poco antes de las cuatro. Chiara no la había oído desde la Villa.
 
 —Ronda, por el puente de la Novena, ahora que lo abrieron. Cuadra, atrás de ellos. No corran.
 
@@ -282,7 +282,7 @@ Un silencio corto, del tamaño de alguien que decide no discutir. Después la mi
 
 —Copiado.
 
-Los Bravos se habían puesto del lado de Crowe; Rafe se lo había dicho en septiembre, en voz baja, en la barra de Gabriella's, como quien devuelve un favor sin decir de cuál. Esa noche les habían estado disparando a los muchachos de Kal desde la calle de atrás. Y él los estaba sacando.
+Los Bravos se habían puesto del lado de Crowe; Rafe se lo había dicho en septiembre, en voz baja, en la barra de Gabriella's, como quien devuelve un favor sin decir de cuál. Esa tarde les habían estado disparando a los muchachos de Kal desde la calle de atrás. Y él los estaba sacando.
 
 —La familia del segundo piso —dijo Kal en la radio—. La de la ventana con la luz. Marcadores, una camioneta a la puerta de atrás. Bajan con lo que traigan puesto.
 
@@ -308,7 +308,7 @@ La radio se quedó callada un segundo. Sólo uno. Chiara lo oyó entero.
 
 Chiara se llevó la mano al arete izquierdo con el guante puesto. El arete no se movía; nunca se movía. Lo apretó entre dos dedos de látex y lo soltó, y cuando bajó la mano había dejado en el oro una huella que no era de ella. No se dio cuenta.
 
-—Camila —dijo—. Santa Aurelia. Quién está en urgencias esta noche.
+—Camila —dijo—. Santa Aurelia. Quién está en urgencias hoy.
 
 Camila levantó la vista por primera vez en una hora. La miró dos segundos.
 
@@ -316,7 +316,7 @@ Camila levantó la vista por primera vez en una hora. La miró dos segundos.
 
 —Llámala. Un muchacho de dieciséis, diecisiete años. Herida en la pierna. Que lo reciba ella y que no lo deje solo en la sala.
 
-Camila ya tenía el teléfono en la mano. No preguntó nada. Cuando la residente contestó, Chiara le habló a Camila al oído, bajo, y Camila lo fue repitiendo al teléfono palabra por palabra: un accidente de moto en Canal Road, derrapó en la helada, lo llevan unos amigos en un coche particular. No iba a aguantar una pregunta seria. No necesitaba aguantar una pregunta seria; necesitaba aguantar esa noche.
+Camila ya tenía el teléfono en la mano. No preguntó nada. Cuando la residente contestó, Chiara le habló a Camila al oído, bajo, y Camila lo fue repitiendo al teléfono palabra por palabra: un accidente de moto en Canal Road, derrapó en la helada, lo llevan unos amigos en un coche particular. No iba a aguantar una pregunta seria. No necesitaba aguantar una pregunta seria; necesitaba aguantar hasta mañana.
 
 Veinte minutos después, la transmisión cortó a Santa Aurelia. La reportera ya no estaba en el puente: estaba frente a la entrada de urgencias, con el mismo impermeable, y detrás de ella había dos patrullas estacionadas con las luces encendidas y un sedán oscuro sin placas a la vista.
 
@@ -328,7 +328,7 @@ Natalie estaba pegándole cinta verde a una muchacha con una cortada en la ceja 
 
 —Keegan. Voy al almacén con tres de Cuadra. Uno no camina.
 
-Era una voz seca, sin prisa, que decía la noche como quien dice un trámite.
+Era una voz seca, sin prisa, que decía la tarde como quien dice un trámite.
 
 Natalie se quedó quieta, con el pedazo de cinta pegado en la punta del dedo. No se movió para no mover a la muchacha, que todavía tenía su mano en la cara. Fue un segundo, a lo mejor dos. Chiara la vio desde la mesa. Vio que no miraba la radio; miraba la puerta de carga, la lluvia, el borde del andén por donde iban a entrar las camionetas que todavía no llegaban.
 
@@ -382,9 +382,9 @@ Walt se subió a la camioneta y salió del andén igual que había entrado, desp
 
 Después de Walt, las camionetas llegaron de dos en dos durante media hora, y cada una traía menos que la anterior. Un muchacho de los Marcadores con dos dedos rotos que se negó a bajar del volante hasta que alguien le trajo otro conductor. Una mujer de la familia del segundo piso, con un niño dormido sobre el hombro y una bolsa del supermercado llena de papeles, que no estaba herida y no sabía a dónde más ir, y a la que Chiara sentó en una silla plegable con una manta de mudanza sobre las piernas y un café de la máquina que nadie había conectado hasta que Natalie la conectó. Dos de los Bravos, uno con una rozadura en el brazo y el otro sin nada, que se quedaron de pie junto a la pared con la mirada de los que esperan que en cualquier momento alguien les diga qué les debe. Nadie les dijo nada. Natalie les pegó cinta verde a los dos, al que no tenía nada también, y les dijo dónde estaba el baño.
 
-En la pantalla, el helicóptero seguía barriendo Las Calderas. Se veían menos luces de patrulla en el puente y más en las calles de alrededor, en cuadrícula. El protocolo. A las once y cuarenta, la alcaldía mandó otro comunicado; Chiara no le subió el volumen.
+En la pantalla, el helicóptero seguía barriendo Las Calderas. Se veían menos luces de patrulla en el puente y más en las calles de alrededor, en cuadrícula. El protocolo. Afuera ya estaba oscureciendo. A las cuatro y media, la alcaldía mandó otro comunicado; Chiara no le subió el volumen.
 
-Y a las once y cuarenta y tres, la radio dijo:
+Y a las cuatro y cuarenta y tres, la radio dijo:
 
 —Todos están fuera, vamos a casa.
 
@@ -454,7 +454,7 @@ En la de abajo, él decía *Dime, Amore* y le prometía regresar. En la de arrib
 
 ***
 
-Afuera seguía lloviendo, pero ya no helaba. La lluvia caía recta, sin viento, sobre el andén de carga y sobre el agua negra del canal, que a esa hora no reflejaba nada porque no había nada encendido del otro lado. Al fondo, por encima de los techos de Nueve Puentes, el helicóptero había apagado su luz y se iba hacia el norte, un ruido que se hacía chico.
+Afuera seguía lloviendo, pero ya no helaba. La lluvia caía recta, sin viento, sobre el andén de carga y sobre el agua negra del canal, que a esa hora no reflejaba nada porque no había nada encendido del otro lado. Al fondo, por encima de los techos de Nueve Puentes, el helicóptero se iba hacia el norte, un ruido que se hacía chico.
 
 Chiara salió hasta el borde del andén, donde ya no la cubría el techo, y dejó que la lluvia le diera en la cara. El abrigo le quedó abierto. No se lo cerró.
 

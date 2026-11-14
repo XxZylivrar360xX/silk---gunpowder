@@ -5,7 +5,7 @@ estado: BORRADOR
 libro: Sombras de Poder (Libro II), Parte IV — Torna a casa
 capitulo: 54
 pov: Kal Mercer, único
-ventana_temporal: la noche de la tormenta (~6–8 dic A4), después de «Todos están fuera, vamos a casa»; recuerdo de la nave de Crowe
+ventana_temporal: el anochecer de la tormenta (~6–8 dic A4, entre las 4:45 y las 5:30 p. m.), después de «Todos están fuera, vamos a casa»; recuerdo de la nave de Crowe
 localizacion: la carretera de regreso; recuerdo: la nave de las prendas de Crowe, Nueve Puentes; Almendra Towing, La Almendra
 personajes: Kal Mercer, Silas Crowe (recuerdo), Walt Keegan, Héctor Navarro, los muchachos del Patio
 ---
@@ -208,7 +208,7 @@ Kal no hizo ningún ruido. Le devolvió el abrazo con un brazo. Le dio una palma
 
 —Dile a tu prima que se duerma.
 
-Se rieron. Nadir, sentado en una caja junto a la pared, con la gorra en las manos, no se rio; levantó la vista hacia Kal y la bajó otra vez. Tenía una venda en la muñeca que no tenía al principio de la noche. Kal le preguntó con la barbilla. Nadir dijo que no con la cabeza. Nada.
+Se rieron. Nadir, sentado en una caja junto a la pared, con la gorra en las manos, no se rio; levantó la vista hacia Kal y la bajó otra vez. Tenía una venda en la muñeca que no tenía en la mañana. Kal le preguntó con la barbilla. Nadir dijo que no con la cabeza. Nada.
 
 Walt estaba al fondo, junto al banco de trabajo, solo. Se había quitado la chaqueta mojada y la había colgado de un gancho, y estaba secándose las manos con el trapo de Héctor, despacio, dedo por dedo, como quien se seca las manos antes de sentarse a comer. La camioneta de la destilería estaba en el patio. Había dado su última vuelta.
 
@@ -228,13 +228,13 @@ Ninguno de los dos dijo nada más durante un rato. Del otro lado del taller, Dan
 
 —¿Le dijiste?
 
-Walt lo miró por primera vez en toda la noche. Tenía los ojos rojos de lluvia o de otra cosa, y la cara de siempre, la de perder y ganar.
+Walt lo miró por primera vez en todo el día. Tenía los ojos rojos de lluvia o de otra cosa, y la cara de siempre, la de perder y ganar.
 
 —Natalie no.
 
 —No —dijo Kal.
 
-Walt asintió una vez. Volvió a tomar el trapo, aunque ya no tenía nada que secarse, y Kal entendió que eso era todo lo que iban a decirse esa noche, y que lo otro, lo del nombre, lo del tiro, iba a seguir ahí en la mañana y en la mañana siguiente, entre los dos, con el banco en medio.
+Walt asintió una vez. Volvió a tomar el trapo, aunque ya no tenía nada que secarse, y Kal entendió que eso era todo lo que iban a decirse ese día, y que lo otro, lo del nombre, lo del tiro, iba a seguir ahí en la mañana y en la mañana siguiente, entre los dos, con el banco en medio.
 
 Se dio vuelta para irse. Y ahí estaba Héctor.
 
@@ -288,7 +288,7 @@ Héctor no guardó el teléfono, pero tampoco marcó.
 
 —Entonces te llevo yo.
 
-—Tú te quedas. —Kal señaló con la barbilla el vidrio, el taller, a Danny en su silla—. Medio San Aurelio vio un malvavisco esta noche, y la otra mitad lo va a ver mañana. Si alguien viene a tocar el portón antes de que amanezca, que te encuentre a ti, no a ellos solos. Tú sabes qué decir. Ellos no.
+—Tú te quedas. —Kal señaló con la barbilla el vidrio, el taller, a Danny en su silla—. Medio San Aurelio vio un malvavisco hoy, y la otra mitad lo va a ver mañana. Si alguien viene a tocar el portón antes de que amanezca, que te encuentre a ti, no a ellos solos. Tú sabes qué decir. Ellos no.
 
 Héctor lo miró. Kal sabía que tenía razón en eso, y Héctor también lo sabía, y los dos sabían que Kal lo estaba usando.
 
@@ -354,7 +354,7 @@ No se cayó. Se le doblaron despacio, como cuando a un gato hidráulico se le va
 
 Pensó en Crowe de rodillas entre los anillos. No quiso pensarlo y lo pensó.
 
-Después pensó en la vela del aparador, la que ella había encendido esa tarde con la mano en su pecho. En un par de velas. En una hamburguesa doble y en ella robándole las papas del plato sin mirarlo, como si no se diera cuenta, como siempre.
+Después pensó en la vela del aparador, la que ella había encendido esa mañana con la mano en su pecho. En un par de velas. En una hamburguesa doble y en ella robándole las papas del plato sin mirarlo, como si no se diera cuenta, como siempre.
 
 Se agarró del lavabo con las dos manos y se levantó.
 
@@ -372,7 +372,7 @@ Se puso la sudadera gris de Héctor. Le quedaba ancha. Olía a aceite y a jabón
 
 Metió el chaleco y la camiseta en una bolsa negra de las del taller, la cerró con un nudo y la dejó debajo del lavabo. Se miró en el espejo de la esquina rota. Tenía la cara gris, el pelo mojado, la cicatriz de la mejilla más blanca que de costumbre. Se pasó la mano por la cara, de la frente a la barbilla, una vez.
 
-Se veía bien. Se veía como un hombre que había pasado una noche larga.
+Se veía bien. Se veía como un hombre que había pasado un día largo.
 
 Salió por la puerta de atrás del taller, la que daba al patio, para no pasar otra vez por en medio de los muchachos. La camioneta de Héctor estaba junto al portón. Arrancó a la primera. La calefacción sirvió.
 

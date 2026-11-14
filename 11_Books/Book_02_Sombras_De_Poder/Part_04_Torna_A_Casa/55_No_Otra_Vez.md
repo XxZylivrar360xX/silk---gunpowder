@@ -5,7 +5,7 @@ estado: BORRADOR
 libro: Sombras de Poder (Libro II), Parte IV — Torna a casa
 capitulo: 55
 pov: Chiara Bellandi, único
-ventana_temporal: la madrugada después de la tormenta (~6–8 dic A4)
+ventana_temporal: la noche de la tormenta (~6–8 dic A4; Kal llega a la Villa hacia las 5:30 p. m., Chiara después de las 6)
 localizacion: el camino a las Lomas; la Villa Candelaria (la sala, la piscina, el baño y el dormitorio de los dos)
 personajes: Chiara Bellandi, Kal Mercer, Natalie Keegan (al abrir), Camila Rivas (fuera de plano en los diálogos)
 hito: H1 — El regreso a casa (movimientos 4 a 8)
@@ -523,7 +523,7 @@ No se cambió. No se secó el pelo. Se quedó ahí sentada en la ropa mojada, en
 
 A la hora entró Camila sin hacer ruido. Le tomó el pulso con dos dedos, mirando el reloj barato. Levantó la sábana para ver el vendaje y le puso la mano en el vientre, despacio, apretando apenas. Kal no se despertó. Camila bajó la sábana y salió sin decir nada, y Chiara no supo si eso era bueno.
 
-Después de un rato se levantó. Fue al pasillo, tomó la vela del aparador, la de esa tarde, y volvió con ella al dormitorio. La puso en la mesa de noche. La encendió.
+Después de un rato se levantó. Fue al pasillo, tomó la vela del aparador, la de esa mañana, y volvió con ella al dormitorio. La puso en la mesa de noche. La encendió.
 
 La llama se quedó derecha. En esa casa ya no corría aire.
 

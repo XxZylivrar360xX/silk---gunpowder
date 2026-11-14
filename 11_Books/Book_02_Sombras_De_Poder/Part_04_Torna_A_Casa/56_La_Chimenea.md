@@ -5,192 +5,86 @@ estado: BORRADOR
 libro: Sombras de Poder (Libro II), Parte IV — Torna a casa
 capitulo: 56 (último del libro)
 pov: Kal Mercer, único
-ventana_temporal: el día y la noche después de la tormenta (~7–8 dic A4)
+ventana_temporal: la misma noche de la tormenta (~6–8 dic A4): las voces de la noche y, a las 2:47 a. m., la chimenea
 localizacion: la Villa Candelaria (el dormitorio; la sala, a la luz del fuego)
-personajes: Kal Mercer, Chiara Bellandi, Héctor Navarro; Camila Rivas (de paso)
+personajes: Kal Mercer, Chiara Bellandi; Camila Rivas y Héctor Navarro (sólo voces)
 ---
 
-> **Estado:** BORRADOR del agente (Claude Code, 2026-11-13), tercera versión para lectura del autor (2026-11-13: revisión editorial aplicada; final rehecho con la secuencia canon del 2026-10-02, que el agente no había consultado en la primera redacción). Fuera de `CHAPTERS` de `tools/build_sombras.py`: no entra al EPUB.
+> **Estado:** BORRADOR del agente (Claude Code, 2026-11-13), cuarta versión para lectura del autor. Fuera de `CHAPTERS` de `tools/build_sombras.py`: no entra al EPUB.
 >
-> **CANON citado literal:** «¿Quién es Elenna?» / «Antes era sólo un nombre.» / «Sono incinta.»; «Voy... vamos a ser...»; «¡Mierda!» / «¡Kal!». **CANON (hechos):** tras dormir; la normalidad doméstica (hamburguesa doble) y después la chimenea; el papel cae de la manta; el lector descubre el embarazo con Kal, en la chimenea; el significado del nombre no se dice en este libro; Héctor pasó mientras Kal dormía, habló con Chiara y decidió volver (2026-11-13); **Halbrook anuncia su candidatura y Kal lo lee en el teléfono al despertar (DECISIÓN DEL AUTOR, 2026-11-13; «senador», según la ruta de su ficha)**. **CANON DEL AUTOR (2026-10-02), secuencia del cierre** ([[01_Timeline/03_Libro_02_Sombras_De_Poder]], «Cierre del Libro II: reveal en la chimenea»): Kal despierta de noche y Chiara no está; ella de pie frente a la chimenea, manos juntas por delante; Kal toma la manta del sillón, cae el papel, tirón al agacharse; le pone la manta por detrás; «¿Quién es Elenna?» / «Antes era sólo un nombre.»; parpadea lento dos veces; «Sono incinta.» (sin glosa); «Voy... vamos a ser...»; la carga y se marea; «¡Mierda!» / «¡Kal!»; se miran en silencio y se abrazan lento; última imagen: **la foto de los chicos de la banda en la cena de Navidad, sobre la repisa de mármol, descrita a detalle (DECISIÓN DEL AUTOR, 2026-11-13; sustituye a «Kal mira hacia la ciudad»)**. Al cargarla, Chiara grita «¡No, no, no, no, no!» antes del «¡Mierda!» (DECISIÓN DEL AUTOR, 2026-11-13).
+> **DECISIONES DEL AUTOR (2026-11-13):** sin la cena, sin la hamburguesa comida y sin la conversación con Héctor. Kal recuerda la noche sólo en voces; Chiara, con él dormido, le dice que Camila se fue a tal hora y se quedó toda la noche, que Héctor vino, estuvo unos cuarenta minutos y se fue, que después viene a decirle todo lo que tiene que decir, «Descansa, amore mio, ya habrá tiempo... ya habrá tiempo.». **Reloj:** la operación empieza hacia las 11–12; Kal llega a la Villa hacia las 5–6 de la tarde; despierta a las 2–3 de la madrugada. **Las hamburguesas, empacadas sobre la mesa** (sin abrir; el autor las retoma al abrir *Voto de Ceniza*). Halbrook anuncia su candidatura (al Senado) y Kal lo lee en el teléfono al despertar. Chiara mira la foto de la banda desde el principio, sin revelarse; el libro termina en la foto.
 >
-> **DISEÑO del agente:** POV de Kal (el lector descubre con él); la alerta de *El Faro* y la frase de Halbrook («Yo voy a responder»), que suena a la doctrina de Kal; la fiebre de las cuatro y las bolsas que trajo Camila a las seis; «esto no está resuelto» sigue en pie; Walt no llama y Mabel manda las hamburguesas (la huella de Walt);  las expresiones de cada uno en la foto de Navidad y que Kal mira a alguien fuera del cuadro (quién la tomó sigue PENDIENTE); el papel pasa del abrigo a la manta de Chiara; Camila le quita el suero en la tarde y sólo lo deja levantarse para el baño (Kal baja de todos modos).
+> **CANON citado literal:** «¿Quién es Elenna?» / «Antes era sólo un nombre.» / «Sono incinta.»; «Voy... vamos a ser...»; «¡No, no, no, no, no!»; «¡Mierda!» / «¡Kal!». Secuencia del cierre: CANON DEL AUTOR (2026-10-02), [[01_Timeline/03_Libro_02_Sombras_De_Poder]], con los ajustes del 2026-11-13; ver H1 en [[06_Relationships/Hitos]].
+>
+> **DISEÑO del agente:** las voces (Camila contando, «otra»; Chiara en el teléfono; Héctor en la puerta: «Mercer.»); el reloj en 2:47; la gasa donde estuvo el suero; la alerta de *El Faro* a las 10:20 p. m. y la frase de Halbrook («Yo voy a responder.»); «Nada de Walt.»; el recado de Mabel en la bolsa («para el malvavisco»); las expresiones de cada uno en la foto y que Kal mira a alguien fuera del cuadro (quién la tomó: PENDIENTE).
 
 # La chimenea
 
-Lo despertó el dolor, y después la luz.
+De esas horas le quedaron voces.
 
-La luz era gris, de mediodía nublado, y entraba por la orilla de la cortina en una franja delgada que le cruzaba la cama a la altura de las rodillas. El dolor estaba donde lo había dejado. No había crecido mientras dormía; tampoco se había ido. Se había quedado ahí, quieto, en el costado derecho, como un perro grande echado encima, esperando a que él se moviera para recordarle que existía.
+Ninguna cara. Ninguna luz que se quedara quieta. Voces en el cuarto y en el pasillo, cerca y lejos, como se oye la radio de otro coche en un semáforo.
 
-Kal no se movió.
+La de Camila, contando algo en voz baja, números, y después una palabra que no era para él: *otra*. Un plástico que se rompía. Un frío que le subía por el brazo izquierdo.
 
-Miró el techo. Miró la lámpara de pie junto a la cabecera, con una bolsa de plástico colgada del brazo y un tubo delgado que bajaba hasta el dorso de su mano izquierda, sujeto con cinta. La de anoche era transparente. Ésta era de un rojo casi negro. No quiso pensar de dónde la había sacado Camila.
+La de Chiara en el pasillo, con la puerta entornada, hablando por teléfono: *No. No. Está dormido. Sí. Mañana.*
 
-En la mesa de noche había un plato con una vela consumida hasta abajo. Quedaba un charco de cera blanca, frío, con la mecha negra doblada en el centro.
+Una voz de hombre en la puerta del dormitorio. No entró. Kal la conocía desde los doce años. Dijo una sola cosa.
 
-En el sillón del rincón, con las piernas recogidas y un cárdigan encima, dormía Chiara. Tenía la cara vuelta hacia él. Se había cambiado en algún momento: pantalón de algodón, calcetines, el pelo recogido como se lo recogía para dormir cuando no pensaba dormir. Tenía una mano colgando por fuera del brazo del sillón, abierta.
+*Mercer.*
 
-Kal se quedó mirándola un rato.
+Después la misma voz en la cocina, abajo, con la de Chiara. Mucho rato. Baja, pareja. El *usted* de siempre.
 
-Después buscó el teléfono con la mano libre. Estaba en la mesa de noche, junto a la vela, conectado a un cargador que no recordaba haber conectado.
+Y al final la de ella otra vez, muy cerca, sentada en la orilla de la cama, con una mano en el pelo de él. Hablaba despacio, como se habla a alguien que se cree dormido.
 
-Tres llamadas perdidas de Héctor, de anoche, una detrás de otra, a la una y diez, a la una y veinte, a la una y media. Un mensaje de Nadir, de las siete: *Todos bien. Los de Cuadra también. Danny no se calla.* Un video de Danny que no abrió: la miniatura era una cabeza blanca de malvavisco con unos lentes oscuros pegados encima y unas letras amarillas que decían EL HÉROE QUE SAN AURELIO NO MERECE.
+—Camila se fue a la una. Se quedó toda la noche contigo. No te subió la fiebre. Vuelve a las siete.
 
-Y una alerta de *El Faro*, de las nueve y cuarto.
+La mano le apartó el pelo de la frente.
 
-*ÚLTIMA HORA · Warren Halbrook anuncia su candidatura al Senado.*
+—Héctor vino. Estuvo unos cuarenta minutos y después se fue. Dijo que después viene a decirte todo lo que tiene que decirte.
 
-La abrió.
+Kal quiso contestarle. No encontró dónde estaba la boca.
 
-Había una foto. Halbrook en la escalinata del ayuntamiento, a las ocho de la mañana, con el pelo gris acero cortado corto y un abrigo oscuro sin una arruga, y detrás de él, un poco desenfocados, la subjefa en funciones, dos concejales y un hombre de la cámara de comercio que Kal conocía de vista. Al fondo, por encima del techo del ayuntamiento, todavía se veía una columna de humo gris que subía del sur.
+—Descansa, amore mio. Ya habrá tiempo.
 
-La nota era corta. La había escrito la reportera de policiales, la que no adjetivaba. Decía que el general retirado y presidente del consejo consultivo de seguridad había convocado a la prensa a primera hora, a menos de diez horas de lo que la nota llamaba *la noche más violenta en la historia reciente de la ciudad*. Que no había leído un discurso. Que había hablado tres minutos. Que había terminado así:
+Una pausa larga. La mano se quedó quieta.
 
-*Anoche esta ciudad vio lo que pasa cuando nadie responde por lo que ocurre bajo su mando. Yo voy a responder.*
-
-Kal lo leyó dos veces.
-
-Después dejó el teléfono bocabajo sobre el pecho, encima de la placa, y miró el techo otra vez.
-
-Crowe había trabajado para la gente de ese hombre. Kal lo sabía desde hacía casi dos años, desde un mensaje sin remitente que había borrado, y no se lo había dicho a nadie. Crowe estaba muerto desde anoche, en el piso de concreto de una bodega llena de anillos, y con él lo que sabía de dónde venía Kal. Y a las ocho de la mañana ese hombre estaba en una escalinata, diciendo que él iba a responder.
-
-No pensó más que eso. No le alcanzaba el cuerpo para pensar más que eso.
-
-—Estás despierto.
-
-Chiara lo miraba desde el sillón. No se había movido; sólo había abierto los ojos.
-
-—Hola.
-
-—Hola.
-
-Ella se levantó, despacio, como se levanta alguien que lleva horas en una postura que no era para dormir, y fue hasta la cama, y antes de decir otra cosa le puso el dorso de la mano en la frente. La dejó ahí un momento. Kal la vio hacer una cuenta que no dijo.
-
-—¿Cuánto? —preguntó él.
-
-—Menos que a las cuatro.
-
-—¿Qué pasó a las cuatro?
-
-—Fiebre. —Le quitó la mano de la frente y le acomodó el pelo hacia atrás con los dedos—. Camila entró, te revisó, me dijo que si a las seis seguía igual nos íbamos al hospital aunque tuviera que cargarte ella. A las cinco y media bajó.
-
-—No me acuerdo.
-
-—Ya sé. Estuviste hablando con alguien que no estaba. —No le dijo con quién—. Camila se fue a las seis y volvió a las siete y media con eso. —Señaló la bolsa con la barbilla—. No le pregunté de dónde.
-
-—Yo tampoco le voy a preguntar.
-
-—Mejor. —Chiara se sentó en el borde de la cama, con cuidado de no moverla—. Dijo que vuelve en la tarde. Dijo que todavía no está resuelto. Que no te levantes. Que si te levantas y se te abre, ella no vuelve a coser a un hombre que no la obedece.
-
-—No dijo eso.
-
-—Dijo algo muy parecido. Yo lo traduje.
-
-Kal sonrió. Le dolió sonreír, un poco. Menos que reírse.
-
-—Héctor vino —dijo ella.
-
-Kal la miró.
-
-—Anoche. A las dos, más o menos. Tú ya estabas dormido. —Se miró las manos—. Dijo que le debías un mensaje y que no se lo mandaste. —Lo miró de reojo—. Entró, te vio dormir desde la puerta, no quiso que te despertara. Se tomó un café con Camila en la cocina. Estuvo hablando conmigo un rato.
-
-—Qué te dijo.
-
-—Que eres un idiota.
-
-—¿Nada más?
-
-Chiara tardó en contestar.
-
-—Que viene más tarde. Que te lo diga él mismo cuando estés despierto.
-
-Kal asintió contra la almohada. Miró la ventana, la franja gris.
-
-—Vino solo.
-
-—Solo.
-
-Él no dijo nada. Chiara esperó, y se quedaron así un momento, ella sentada en el borde de la cama y él mirando la ventana, con la bolsa goteando despacio en el tubo.
-
-—Walt no ha llamado —dijo ella al fin, sin preguntar.
-
-—No.
-
-—Mabel sí. Dos veces. Dijo que en la tarde manda algo con Héctor.
-
-—Mabel siempre manda algo.
-
-Chiara asintió. Le puso la mano en el antebrazo, encima de la cinta del suero, sin apretar. No preguntó qué había pasado con Walt. Kal no se lo dijo.
-
-—Viste las noticias —dijo ella.
-
-Kal levantó el teléfono de su pecho y se lo dio, con la alerta abierta. Ella la leyó. Leyó la foto, el humo, los tres minutos, la última frase. Kal la vio leerla. Ella no cambió la cara.
-
-—Página uno —dijo—. No había forma de que no fuera página uno. —Le devolvió el teléfono—. Lo escribió bien.
-
-Chiara se quedó mirando la ventana, igual que él.
-
-—Yo voy a responder —repitió, en voz baja, como quien prueba el sabor de algo.
-
-Kal no le contestó. Cerró los ojos. El perro grande se acomodó en el costado.
-
-***
-
-Volvió a dormirse, y volvió a despertarse, y en algún momento de la tarde Camila entró, le cambió la bolsa, le levantó la sábana, le apretó el vientre con la punta de los dedos mientras le miraba la cara, le tomó la temperatura y no dijo cuánto. Cuando se acabó la bolsa le quitó la aguja del dorso de la mano y le puso una gasa. Le dijo que podía comer algo, poco, si no le dolía más al tragar. Le dijo que podía levantarse para ir al baño y para nada más. Le dijo que no era un premio. Le dijo que no había cambiado nada de lo que dijo anoche. Se fue a dormir al cuarto de huéspedes con la puerta abierta.
-
-Héctor llegó a las seis con una bolsa de papel de estraza manchada de grasa que olía a la cocina de Mabel desde el pasillo.
-
-No entró al dormitorio. Kal lo oyó en la cocina hablar con Chiara en voz baja, el *usted* de siempre, la voz de alguien que no está regañando todavía porque está guardando el regaño para después. Lo oyó dejar la bolsa en la barra. Lo oyó preguntar algo que no alcanzó a entender, y a Chiara contestar algo corto. Después oyó los pasos de Héctor en el pasillo, y lo vio aparecer en la puerta del dormitorio, con la gorra en la mano.
-
-Se quedó en la puerta. Lo miró. Le miró la bolsa del suero, el tubo, la mano. Le miró la cara.
-
-—Cuarenta minutos —dijo.
-
-—Ya sé.
-
-—Te di cuarenta minutos.
-
-—Ya sé, Héctor.
-
-Héctor asintió. Se puso la gorra.
-
-—Mañana hablamos —dijo—. Cuando puedas estar de pie para oírlo.
-
-Y se fue.
-
-***
-
-La hamburguesa venía doble. Chiara se la había encargado a Mabel. Venía envuelta en papel encerado, con las papas en una bolsa aparte, todavía tibias, y un recado de Mabel escrito con marcador en la bolsa, *para el malvavisco*, con un corazón torcido.
-
-Kal comió la mitad de una mitad. Más no le entró. Comía sentado en la cama, con dos almohadas en la espalda y la bandeja sobre las piernas, despacio, porque cada vez que tragaba algo el costado se acordaba de él. Chiara comía en el sillón, con los pies sobre la cama.
-
-Le robaba las papas.
-
-Lo hacía sin mirarlo, como siempre, estirando la mano hasta la bandeja mientras hablaba de otra cosa, de la reportera de policiales, de lo que había dicho la subjefa en la radio, de que la ciudad había amanecido con los semáforos del sur apagados. Kal la dejó hacerlo. La vio robarle una, y otra, y otra. No dijo nada hasta que quedaban tres.
-
-—Siempre lo haces.
-
-Chiara se quedó con la papa a medio camino.
-
-—Yo no hago eso.
-
-—Siempre.
-
-Ella lo miró. Se comió la papa. Le sostuvo la mirada mientras se la comía.
-
-—Me debías una cena —dijo—. Te la estoy cobrando.
+—Ya habrá tiempo.
 
 ***
 
 Lo despertó la cama vacía.
 
-No supo qué hora era. El dormitorio estaba a oscuras y la casa en silencio, y del lado de ella la sábana estaba fría. Por la puerta entreabierta subía desde abajo una luz anaranjada que se movía en la pared del pasillo, despacio, como se mueve la luz de un fuego.
+El dormitorio estaba a oscuras y la casa en silencio, y del lado de ella la sábana estaba fría. En la mesa de noche, el reloj marcaba las 2:47. Junto al reloj, en un plato, la vela de la mañana se había consumido hasta abajo; quedaba un charco de cera blanca con la mecha negra doblada en el centro. Por la puerta entreabierta subía desde abajo una luz anaranjada que se movía en la pared del pasillo, despacio, como se mueve la luz de un fuego.
+
+En el dorso de la mano izquierda tenía una gasa pegada con cinta, donde había estado la aguja. El costado estaba donde lo había dejado. No había crecido mientras dormía; tampoco se había ido.
+
+El teléfono estaba en la mesa de noche, conectado a un cargador que él no había conectado. Lo tomó.
+
+Un mensaje de Nadir, de las nueve: *Todos bien. Los de Cuadra también. Danny no se calla.* Un video de Danny que no abrió: en la miniatura, una cabeza blanca de malvavisco con unos lentes oscuros pegados encima. Nada de Walt.
+
+Y una alerta de *El Faro*, de las diez y veinte de la noche.
+
+*ÚLTIMA HORA · Warren Halbrook anuncia su candidatura al Senado.*
+
+La abrió. Había una foto: Halbrook en la escalinata del ayuntamiento, bajo los reflectores, con el pelo gris acero cortado corto y un abrigo oscuro sin una arruga, y detrás de él, un poco desenfocados, la subjefa en funciones, dos concejales y un hombre de la cámara de comercio que Kal conocía de vista. La nota la había escrito la reportera de policiales, la que no adjetivaba. Decía que el general retirado había convocado a la prensa a menos de seis horas de lo que la nota llamaba *la tarde más violenta en la historia reciente de la ciudad*. Que había hablado tres minutos. Que había terminado así:
+
+*Hoy esta ciudad vio lo que pasa cuando nadie responde por lo que ocurre bajo su mando. Yo voy a responder.*
+
+Kal lo leyó dos veces.
+
+Crowe había trabajado para la gente de ese hombre. Kal lo sabía desde hacía casi dos años, desde un mensaje sin remitente que había borrado, y no se lo había dicho a nadie. Crowe estaba muerto desde la tarde, en el piso de concreto de una bodega llena de anillos, y con él lo que sabía de dónde venía Kal. Y a las diez de la noche ese hombre estaba en una escalinata, diciendo que él iba a responder.
+
+No pensó más que eso. No le alcanzaba el cuerpo para pensar más que eso.
+
+Dejó el teléfono bocabajo en la mesa de noche.
 
 Se sentó en la cama. El costado se sentó con él. Se quedó así un momento, con los pies en el suelo y una mano en la cabecera, esperando a que el cuarto se quedara quieto. Camila había dicho que al baño y nada más.
 
 Se levantó.
 
 Bajó la escalera con la mano en el barandal, un escalón y después otro, parando en cada uno, como bajaba Héctor las escaleras del taller las mañanas de frío.
+
+En la mesa del comedor, al pie de la escalera, había una bolsa de papel de estraza, cerrada, con manchas de grasa. En un costado, con marcador, la letra de Mabel: *para el malvavisco*, y un corazón torcido. Nadie la había abierto.
 
 Chiara estaba de pie frente a la chimenea.
 
@@ -228,7 +122,7 @@ No terminó. La abrazó y la levantó del suelo, con los dos brazos, con la mant
 
 —¡No, no, no, no, no!
 
-La bajó enseguida. El costado le dio el tirón que le había estado guardando toda la noche.
+La bajó enseguida. El costado le dio el tirón que le había estado guardando.
 
 —¡Mierda!
 
