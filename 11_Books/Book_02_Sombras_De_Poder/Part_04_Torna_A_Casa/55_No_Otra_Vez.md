@@ -15,7 +15,7 @@ hito: H1 — El regreso a casa (movimientos 4 a 8)
 >
 > **CANON citado literal (H1):** «Me encuentro bien.» / «No otra vez.»; «Cuéntamelo de principio a fin.» / «Estuviste en radio.» / «Lo estuve, pero quiero escucharte.»; el delirio con pausas («Tus ojos brillan.» / «Me gusta cuando brillan.» / «Deberías sonreír más, bella, cuando lo haces yo...» / «No te preocupes tanto por todo.»); «¿Por qué siempre te preocupas tanto? Lo ves, estoy bien.» / «Perché ti amo con tutto il mio cuore.»; «Volevo solo tornare a casa per mantenere la mia promessa, amore.». **CANON (hechos):** Chiara llega después que Kal y viene de dejar a Nat; las velas apagadas por una ventana abierta; el papel en su bolsillo; el agua muy oscura; el collar puesto, sin señalarlo; hospitales vigilados; Camila, que no sabe del embarazo; la grieta de la voz en el eco de Corrado y no antes; Kal no responde a la declaración; nadie más habla en los diálogos de la pareja; el embarazo no se revela ni se piensa.
 >
-> **DISEÑO del agente:** la camioneta de Héctor frente al garaje; el ventanal de la sala que Kal dejó abierto al salir a la piscina; Chiara se mete vestida al agua; el relato de Kal «mitad verdad, mitad cómico» (la guitarra que da un acorde, el perico de la señora del segundo piso, Mack Calderon, Cuadra Nueve que cuenta catorce, el malvavisco, los Bravos, la camioneta de Héctor; se salta la nave y a Crowe); «Sigue. Per favore. Sigue.» (eco de su forma de pedirle historias en el Libro I); el teléfono de Kal con el nombre de Héctor, que nadie contesta (prepara la visita de Héctor del 56); el ancla del eco de Corrado, «Su padre, agachado frente a ella en la iglesia. Con esa misma calma.» (la frase se sembró el 2026-11-13, por orden del autor, en el recuerdo de la iglesia del cap. 12 del Libro I, *Roma Atrii*); el eco de Mei-Lin por Bonnie, sin nombres («unas manos que apretaron así, en el suelo de un patio, y no alcanzó»); el suero colgado del toallero; la lágrima sola al final.
+> **DISEÑO del agente:** la camioneta de Héctor frente al garaje; el ventanal de la sala que Kal dejó abierto al salir a la piscina; Chiara se mete vestida al agua; el relato de Kal «mitad verdad, mitad cómico» (la guitarra que da un acorde, el perico de la señora del segundo piso, Mack Calderon, el malvavisco, los Bravos, la camioneta de Héctor; se salta la nave y a Crowe; las primeras anécdotas, recortadas el 2026-11-13 para que el relato no pese antes del deterioro); «Sigue. Per favore. Sigue.» (eco de su forma de pedirle historias en el Libro I); el teléfono de Kal con el nombre de Héctor, que nadie contesta (prepara la visita de Héctor del 56); el ancla del eco de Corrado, «Su padre, agachado frente a ella en la iglesia. Con esa misma calma.» (la frase se sembró el 2026-11-13, por orden del autor, en el recuerdo de la iglesia del cap. 12 del Libro I, *Roma Atrii*); el eco de Mei-Lin por Bonnie, sin nombres («unas manos que apretaron así, en el suelo de un patio, y no alcanzó»); el suero colgado del toallero; la lágrima sola al final.
 
 # No otra vez
 
@@ -189,15 +189,7 @@ Chiara se rio. Le salió de golpe, por la nariz, y él abrió un ojo para verla 
 
 —¿Y después?
 
-—Después había una bodega. —Hizo una pausa—. De esas... de cosas empeñadas. Refrigeradores. Bicicletas. Guitarras colgadas de un alambre, como en una carnicería.
-
-—Guitarras.
-
-—Una se cayó. Cuando entramos. Pegó en el suelo y sonó. Un acorde entero. Así. —Levantó la mano izquierda de debajo de la manta, como si fuera a tocar algo, y no le alcanzó la fuerza y la bajó—. Nadir dijo que era un Mi. Danny dijo que era un Re. Y se pusieron a discutir.
-
-—¿Ahí?
-
-—Ahí. En medio de todo. Con las armas en la mano. Mi o Re.
+—Después había una bodega. De cosas empeñadas. Guitarras colgadas de un alambre. —Hizo una pausa—. Una se cayó cuando entramos y sonó. Nadir dijo que era un Mi. Danny, que un Re. Con las armas en la mano.
 
 —¿Y quién tenía razón?
 
@@ -223,29 +215,13 @@ Chiara no se rio de eso. Apretó.
 
 Pasó un rato. Ella dijo su nombre.
 
-—Cuadra Nueve contó catorce a la salida —dijo él—. Eran trece.
-
-—¿Y el otro?
-
-—Uno se cambió de sudadera. Lo contaron dos veces. Juró que eran dos.
-
-Chiara se rio sin ruido, con los hombros.
-
 —¿Y los Bravos?
 
-—Dos. En la esquina. Los míos no querían cargarlos.
-
-—¿Y?
-
-—Los cargaron. —Respiró—. Uno me dio las gracias. El otro dijo que eso no cambiaba nada.
-
-—¿Y tú qué le dijiste?
-
-—Que no esperaba que cambiara nada. Que se subiera a la camioneta.
+—Dos. Los cargamos. —Respiró—. Uno me dio las gracias. El otro dijo que eso no cambiaba nada. Le dije que no esperaba que cambiara nada. Que se subiera.
 
 —¿Y se subió?
 
-—Se subió. Adelante. Le gustó la ventanilla.
+—Adelante. Le gustó la ventanilla.
 
 Hablaba cada vez más despacio. Entre una frase y otra se le iban unos segundos que antes no se le iban. Chiara los contaba. Cuando pasaban de cinco, decía su nombre, y él volvía.
 
@@ -463,7 +439,7 @@ Lo que Camila traía para el dolor no alcanzó. Camila lo dijo antes de empezar,
 
 En algún momento, Camila dijo que ya.
 
-No dijo que estaba bien. Dijo que ya, que lo que se podía hacer en una casa estaba hecho. Que la bala había entrado y salido, y que eso era lo bueno. Que lo que hubiera tocado por dentro no lo podía saber ahí, con una lámpara y un toallero. Que había perdido mucha sangre, más de la que ella podía reponer con lo que traía en una maleta. Que tenía que estar quieto. Que ella no se iba: iba a estar en la cocina, y cada hora iba a entrar a verlo. Que si pasaba las primeras horas sin fiebre iba a salir a conseguir lo que le faltaba, y que todavía no sabía de dónde.
+No dijo que estaba bien. Dijo que ya, que lo que se podía hacer en una casa estaba hecho. Que la bala había entrado y salido, y que eso era lo bueno. Que lo que hubiera tocado por dentro no lo podía saber ahí, con una lámpara y un toallero. Que había perdido mucha sangre, más de la que ella podía reponer con lo que traía en una maleta. Que tenía que estar quieto. Que ella no se iba: iba a estar en la cocina, y cada hora iba a entrar a verlo. Que si en las primeras horas el pulso se le asentaba, el vendaje seguía seco, el vientre blando y orinaba, iba a salir a conseguir lo que le faltaba, y que todavía no sabía de dónde.
 
 Después lo dijo mirando a Chiara, no a él:
 
@@ -523,7 +499,7 @@ No se cambió. No se secó el pelo. Se quedó ahí sentada en la ropa mojada, en
 
 A la hora entró Camila sin hacer ruido. Le tomó el pulso con dos dedos, mirando el reloj barato. Levantó la sábana para ver el vendaje y le puso la mano en el vientre, despacio, apretando apenas. Kal no se despertó. Camila bajó la sábana y salió sin decir nada, y Chiara no supo si eso era bueno.
 
-Después de un rato se levantó. Fue al pasillo, tomó la vela del aparador, la de esa mañana, y volvió con ella al dormitorio. La puso en la mesa de noche. La encendió.
+Después de un rato se levantó. Fue al pasillo, tomó la vela del aparador, la de esa mañana, que ya era menos de la mitad de lo que había sido, y volvió con ella al dormitorio. La puso en la mesa de noche. La encendió.
 
 La llama se quedó derecha. En esa casa ya no corría aire.
 
