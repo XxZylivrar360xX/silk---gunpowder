@@ -29,6 +29,8 @@ Natalie la miró, primero a los ojos, después a las manos sobre el volante. No 
 
 Después manejó.
 
+Tardó más de una hora en lo que se hacía en veinte minutos. El protocolo había cerrado la ciudad en cuadrícula alrededor de Nueve Puentes, y dos veces la regresaron de un retén con una linterna en la cara.
+
 La carretera interior subía a las Lomas en curvas largas, entre muros bajos y arces negros que goteaban sobre el asfalto. A esa hora no había nadie. Chiara iba con las dos manos en el volante y la calefacción apagada, porque con la calefacción se le cerraban los ojos, y por la ventanilla, a la derecha, cada vez más abajo, la ciudad era una mancha naranja contra las nubes. Ya no se veía la luz del helicóptero. Ya no se veía nada que dijera que ese día había pasado algo.
 
 *Te veo en casa, bella.*
@@ -445,7 +447,7 @@ Lo que Camila traía para el dolor no alcanzó. Camila lo dijo antes de empezar,
 
 En algún momento, Camila dijo que ya.
 
-No dijo que estaba bien. Dijo que ya, que lo que se podía hacer en una casa estaba hecho. Que la bala había entrado y salido, y que eso era lo bueno. Que lo que hubiera tocado por dentro no lo podía saber ahí, con una lámpara y un toallero. Que había perdido mucha sangre, más de la que ella podía reponer con lo que traía en una maleta. Que tenía que estar quieto. Que ella no se iba: iba a estar en la cocina, y cada hora iba a entrar a verlo. Que si en las primeras horas el pulso se le asentaba, el vendaje seguía seco, el vientre blando y orinaba, iba a salir a conseguir lo que le faltaba, y que todavía no sabía de dónde.
+No dijo que estaba bien. Dijo que ya, que lo que se podía hacer en una casa estaba hecho. Que la bala había entrado y salido, y que eso era lo bueno. Que lo que hubiera tocado por dentro no lo podía saber ahí, con una lámpara y un toallero. Que había perdido mucha sangre, más de la que ella podía reponer con lo que traía en una maleta. Que ya le había pasado antibiótico por el suero, por si la bala había tocado algo que no debía, y que eso no se veía hasta mañana. Que tenía que estar quieto. Que ella no se iba: iba a estar en la cocina, y cada hora iba a entrar a verlo. Que si en las primeras horas el pulso se le asentaba, el vendaje seguía seco, el vientre blando y orinaba, iba a salir a conseguir lo que le faltaba, y que todavía no sabía de dónde.
 
 Después lo dijo mirando a Chiara, no a él:
 
@@ -500,6 +502,8 @@ Lo dijo con los ojos cerrados, muy cansado. *Tornare* le salió casi bien. *Prom
 Después se durmió. Esta vez de verdad.
 
 Chiara se sentó en el borde de la cama. Le puso el dorso de la mano en la frente, como le había dicho Camila. Estaba tibia. Sólo tibia.
+
+El teléfono de Kal tenía cuatro llamadas perdidas de Héctor. Le escribió con el de él: *Está aquí. Camila está con él.* La respuesta llegó antes de que lo soltara: *Tengo a la policía en el portón. Voy cuando se vayan.*
 
 No se cambió. No se secó el pelo. Se quedó ahí sentada en la ropa mojada, en el dormitorio a oscuras, con la luz del pasillo entrando por la puerta entreabierta, mirándolo dormir. El pecho de él subía y bajaba.
 

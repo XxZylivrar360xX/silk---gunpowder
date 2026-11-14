@@ -16,7 +16,7 @@ personajes: Kal Mercer, Chiara Bellandi; Camila Rivas y Héctor Navarro (sólo v
 >
 > **CANON citado literal:** «¿Quién es Elenna?» / «Antes era sólo un nombre.» / «Sono incinta.»; «Voy... vamos a ser...»; «¡No, no, no, no, no!»; «¡Mierda!» / «¡Kal!». Secuencia del cierre: CANON DEL AUTOR (2026-10-02), [[01_Timeline/03_Libro_02_Sombras_De_Poder]], con los ajustes del 2026-11-13; ver H1 en [[06_Relationships/Hitos]].
 >
-> **DISEÑO del agente:** las voces (Camila contando, «otra»; Chiara en el teléfono; Héctor en la puerta: «Mercer.»); el reloj en 2:47; la gasa donde estuvo el suero; la alerta de *El Faro* a las 10:20 p. m. y la frase de Halbrook («Yo voy a responder.»); «Nada de Walt.»; el recado de Mabel en la bolsa («para el malvavisco»); las expresiones de cada uno en la foto y que Kal, en la foto, mira por encima de la cámara a Chiara. **Chiara tomó la foto (DECISIÓN DEL AUTOR, 2026-11-13)**, con el teléfono de Kal. La fragilidad al bajar (se sienta a la mitad de la escalera y baja sentado). El papel se ancla en las notas del Libro I y en la vela tardía de enero: **cap. 23 del Libro II, «La vela tardía»** (todavía sin redactar; no es el cap. 23 del Libro I), que tiene que sembrarlo. **PENDIENTE de continuidad:** no se da por resuelto hasta que ese capítulo exista y se compruebe.
+> **DISEÑO del agente:** las voces (Camila contando, «otra»; Chiara en el teléfono; Héctor en la puerta: «Mercer.»); el reloj en 2:47; la aguja del suero tapada, sin el tubo (Camila la deja puesta para volver a conectarlo); la alerta de *El Faro* a las 10:20 p. m. y la frase de Halbrook («Yo voy a responder.»); «Nada de Walt.»; el recado de Mabel en la bolsa («para el malvavisco»); las expresiones de cada uno en la foto y que Kal, en la foto, mira por encima de la cámara a Chiara. **Chiara tomó la foto (DECISIÓN DEL AUTOR, 2026-11-13)**, con el teléfono de Kal. La fragilidad al bajar (se sienta a la mitad de la escalera y baja sentado). El papel se ancla en las notas del Libro I y en la vela tardía de enero: **cap. 23 del Libro II, «La vela tardía»** (todavía sin redactar; no es el cap. 23 del Libro I), que tiene que sembrarlo. **PENDIENTE de continuidad:** no se da por resuelto hasta que ese capítulo exista y se compruebe.
 
 # La chimenea
 
@@ -36,7 +36,7 @@ Después la misma voz en la cocina, abajo, con la de Chiara. Mucho rato. Baja, p
 
 Y al final la de ella otra vez, muy cerca, sentada en la orilla de la cama, con una mano en el pelo de él. Hablaba despacio, como se habla a alguien que se cree dormido.
 
-—Camila se fue a la una. Se quedó toda la noche contigo. Dijo que ya se te asentó el pulso y que el vendaje sigue seco, que con eso podía ir a buscar lo que falta. Que no es lo mismo que estar bien. Yo te reviso cada hora. Si algo cambia, le marco y viene. Vuelve a las siete.
+—Camila se fue a la una. Se quedó toda la noche contigo. Dijo que ya se te asentó el pulso y que el vendaje sigue seco, que con eso podía ir a buscar lo que falta. Que no es lo mismo que estar bien. Me enseñó a tomarte el pulso; te lo tomo cada hora. Si algo cambia, le marco y viene. Vuelve a las cinco.
 
 La mano le apartó el pelo de la frente.
 
@@ -56,7 +56,7 @@ Lo despertó la cama vacía.
 
 El dormitorio estaba a oscuras y la casa en silencio, y del lado de ella la sábana estaba fría. En la mesa de noche, el reloj marcaba las 2:47. Junto al reloj, en un plato, la vela de la mañana se había consumido hasta abajo; quedaba un charco de cera blanca con la mecha negra doblada en el centro. Por la puerta entreabierta subía desde abajo una luz anaranjada que se movía en la pared del pasillo, despacio, como se mueve la luz de un fuego.
 
-En el dorso de la mano izquierda tenía una gasa pegada con cinta, donde había estado la aguja. El costado estaba donde lo había dejado. No había crecido mientras dormía; tampoco se había ido.
+En el dorso de la mano izquierda tenía todavía la aguja del suero, sin el tubo, con un tapón de plástico y pegada con cinta, para cuando volviera Camila. El costado estaba donde lo había dejado. No había crecido mientras dormía; tampoco se había ido.
 
 El teléfono estaba en la mesa de noche, conectado a un cargador que él no había conectado. Lo tomó.
 
