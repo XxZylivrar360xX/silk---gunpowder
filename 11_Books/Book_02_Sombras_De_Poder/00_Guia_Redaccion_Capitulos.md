@@ -629,7 +629,7 @@ F2 se queda en la Parte III, y el final la cobra **con ecos, no de forma textual
 
 **56. La chimenea** — tras dormir · DISEÑO · la Villa, sólo a la luz del fuego · *(61; IV-U18)*
 
-- **Canon:** la normalidad doméstica (hamburguesa doble) y después la chimenea. El papel cae de la manta: «¿Quién es Elenna?» / «Antes era sólo un nombre.» / «Sono incinta.»: el último secreto de ella, dicho. **FIN.**
+- **Canon:** la normalidad doméstica (hamburguesa doble) y después la chimenea. El papel cae de la manta: «¿Quién es Elenna?» / «Antes era sólo un nombre.» / «Sono incinta.»: el último secreto de ella, dicho. **No es el fin:** sigue la secuencia canon del 2026-10-02 en [[01_Timeline/03_Libro_02_Sombras_De_Poder]] («Cierre del Libro II: reveal en la chimenea»): Kal despierta de noche, ella frente al fuego, la manta, «Voy... vamos a ser...», la carga y se marea, «¡Mierda!» / «¡Kal!», abrazo lento, y **la última imagen es Kal mirando la ciudad** (corregido el 2026-11-13: la guía decía «FIN.» y el agente cortó el capítulo ahí).
 - **Redactado (BORRADOR, 2026-11-13):** [[11_Books/Book_02_Sombras_De_Poder/Part_04_Torna_A_Casa/56_La_Chimenea]]; detalle en [[98_Agent_Handoff/sessions/2026-11-13_claude_cap56_la_chimenea]]. **DECISIÓN DEL AUTOR (2026-11-13):** al despertar, Kal lee que Halbrook anunció su candidatura (al Senado).
 - **(P):** antes de la manta, Kal echa al fuego la foto con Halbrook (43).
 - **Calibración del autor (2026-11-13): el cuerpo cobra.** El 54 y el 55 prometen un desenlace físico serio (frío, lentitud, palidez, rodillas que ceden, temblor, sangre perdida que Camila no puede reponer, «no sé qué tocó por dentro»). El 56 no lo minimiza: Kal amanece débil y sigue en la cama; Camila vuelve a primera hora con lo que faltaba; sus condiciones (fiebre, vientre duro, confusión, orina) siguen en pie. La normalidad doméstica (hamburguesa doble) llega sobre ese cuerpo, no en lugar de él. No implica muerte ni una secuela concreta: implica que se note. (DISEÑO; el autor decide si deja secuela para *Voto de Ceniza*.)
@@ -637,7 +637,7 @@ F2 se queda en la Parte III, y el final la cobra **con ecos, no de forma textual
 - **Héctor (CANON DEL AUTOR, 2026-11-13):** mientras Kal duerme, Héctor pasa a la Villa (vence el plazo de cuarenta minutos del 54), conversa con Chiara y decide volver por la mañana. Chiara se lo dice a Kal después de dormir, antes de «Sono incinta». La visita queda fuera de la escena del 55 salvo que el autor decida otra cosa.
 - **Eco de Mei-Lin (DISEÑO):** ver «Mei-Lin en el final», al abrir la Parte IV.
 - **Reacción de Kal (DISEÑO fijado):** `shock → procesamiento → emoción difícil de verbalizar → seguridad → médicos → casa → trabajo → dinero → futuro`, en conducta y no en discurso. Su herida es saber lo que pasa cuando un padre desaparece de una casa.
-- **PENDIENTE:** el diálogo y la reacción textual. El significado del nombre no se dice en este libro.
+- **Reacción:** la fija la secuencia canon del 2026-10-02 (línea temporal); [[06_Relationships/Hitos]] todavía dice «NO REDACTAR TODAVÍA» y la deja pendiente: contradicción para el autor. El significado del nombre no se dice en este libro.
 
 ---
 
