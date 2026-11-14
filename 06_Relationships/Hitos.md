@@ -2196,9 +2196,9 @@ Durante la vigilia, Chiara intenta impedir que Kal muera mientras guarda una inf
 
 El embarazo no reemplaza el motivo amoroso de la escena. Ante *“¿Por qué siempre te preocupas tanto?”*, Chiara podría revelar la noticia y no lo hace. Contesta *“Perché ti amo con tutto il mio cuore”* porque se preocupa por Kal por ser Kal, no sólo porque sea el padre de su hija. (Coherente con el motivo corregido arriba: quiere que vuelva por ella.)
 
-### Después de H1 — reveal a Kal, momento obligatorio por diseñar
+### Después de H1 — reveal a Kal en la chimenea
 
-> **CANON / DISEÑO FIJADO. NO REDACTAR TODAVÍA.**
+> **REDACTADO (BORRADOR, 2026-11-13):** [[11_Books/Book_02_Sombras_De_Poder/Part_04_Torna_A_Casa/56_La_Chimenea]], último capítulo de *Sombras de Poder*. Supersede el «NO REDACTAR TODAVÍA» anterior. Detalle: [[98_Agent_Handoff/sessions/2026-11-13_claude_cap56_la_chimenea]].
 
 El reveal ocurre sólo después de que Kal esté fuera de peligro, duerma, empiece a recuperarse y vuelva cierta normalidad doméstica. H1 debe terminar como H1.
 
@@ -2206,7 +2206,24 @@ La reacción de Kal no será un discurso terapéutico. Su patrón de diseño es 
 
 La noticia toca su herida familiar: vio el arresto de Dale y supo de su suicidio, el derrumbe y muerte de Ruth y la destrucción de su primera casa. Acaba de regresar a Villa Candelaria casi muerto. Su miedo no es *no quiero ser padre*, sino saber lo que ocurre cuando un padre desaparece de una casa. Debe verse en conducta, no necesariamente verbalizarse.
 
-Permanecen pendientes el diálogo, la reacción textual definitiva, el momento fino y los detalles domésticos o médicos de esta escena.
+~~Permanecen pendientes el diálogo, la reacción textual definitiva, el momento fino y los detalles domésticos o médicos de esta escena.~~ **Resuelto:** la secuencia es CANON DEL AUTOR (2026-10-02, [[01_Timeline/03_Libro_02_Sombras_De_Poder]], «Cierre del Libro II: reveal en la chimenea»), con los ajustes del autor del 2026-11-13.
+
+**El día antes del reveal (DISEÑO, con decisiones del autor del 2026-11-13):** Kal despierta débil, con sangre en el suero; lee en el teléfono que **Halbrook anunció su candidatura al Senado** (DECISIÓN DEL AUTOR; frase DISEÑO: «Yo voy a responder.»). Fiebre de madrugada, «todavía no está resuelto». **Héctor pasó mientras Kal dormía**, habló con Chiara y vuelve en la tarde (CANON DEL AUTOR). Walt no viene ni llama. La hamburguesa doble, con Chiara robándole las papas: la normalidad doméstica que exige el reveal.
+
+**La secuencia del cierre (CANON DEL AUTOR, 2026-10-02; ajustes del 2026-11-13 marcados):**
+
+1. Kal despierta de noche; Chiara no está en la cama. Baja a buscarla (contra la orden de Camila).
+2. La encuentra de pie frente a la chimenea, con las manos juntas por delante. **Ajuste (2026-11-13):** no mira el fuego sino la repisa, por encima del fuego; no se revela qué mira. (Regla: manos juntas; no escribir «sobre su vientre».)
+3. Kal toma del sillón la manta de ella; de la manta cae el papel de canela y vainilla. Lo levanta: tirón de la herida al agacharse.
+4. Le pone la manta en los hombros, por detrás. Ella sigue mirando lo mismo. Kal lee: *«¿Quién es Elenna?»* (primera vez que el lector conoce el nombre; lo dice el padre).
+5. Chiara: *«Antes era sólo un nombre.»*
+6. Kal no entiende; parpadea lento, dos veces.
+7. Chiara: *«Sono incinta.»* Sin glosa.
+8. Kal: *«Voy... vamos a ser...»*; la carga en un abrazo y **se marea**. **Ajuste (2026-11-13):** Chiara grita *«¡No, no, no, no, no!»*; él la baja por el tirón de la herida: *«¡Mierda!»*.
+9. Chiara: *«¡Kal!»*. Lo sostiene hasta que se le aclaran los ojos. Se miran en silencio. Después se abrazan, lento.
+10. **Última imagen (ajuste del autor, 2026-11-13; sustituye «Kal mira hacia la ciudad»):** por encima del hombro de ella, sobre la repisa de mármol, **lo que ella miraba cuando él bajó: la foto de los chicos de la banda en la cena de Navidad** (cap. 20), descrita a detalle, con la expresión de cada uno (Héctor, Walt, Danny, Nadir, Garrett, Harper, Tyler, Russ, Ren, y al centro Mei-Lin y Bonnie). A Kal se le humedecen los ojos, sin explicarlo: la familia que eligió es el costo de la que está formando, y todavía no lo digiere. El libro termina en Kal en la foto, mirando a alguien que no sale en ella. **PENDIENTE:** quién la tomó.
+
+**Sigue en pie:** el patrón de reacción de Kal (`shock → … → futuro`) se cumple en conducta, y su desarrollo pasa a *Voto de Ceniza*. El significado del nombre no se dice en el Libro II.
 
 ---
 
