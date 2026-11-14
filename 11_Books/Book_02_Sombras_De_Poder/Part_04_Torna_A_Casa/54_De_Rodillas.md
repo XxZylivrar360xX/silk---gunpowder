@@ -128,7 +128,7 @@ Mack lo miró un segundo largo. Después hizo una seña con la barbilla, y dos d
 
 A medio camino de pie, Crowe vio a Walt.
 
-Walt estaba en la puerta de la oficina, donde había estado todo el tiempo. Kal no lo había oído entrar. Tenía la chaqueta empapada, las manos a los costados, el arma en la derecha, apuntando al suelo. No había dicho una palabra en toda la noche que no fuera una esquina o un número.
+Walt estaba en la puerta de la oficina, donde había estado todo el tiempo. Kal no lo había oído entrar. Tenía la chaqueta empapada, las manos a los costados, el arma en la derecha, apuntando al suelo. No había dicho una palabra en todo el día que no fuera una esquina o un número.
 
 Crowe sonrió otra vez. Con los dos Calderos sosteniéndolo de los brazos, colgado entre ellos, le sonrió a Walt como se le sonríe a un cliente viejo que vuelve al mostrador.
 
@@ -346,7 +346,7 @@ La camiseta de abajo estaba negra del lado derecho, pegada a la piel. Se la leva
 
 Estaba llena de sangre. La suya.
 
-Se miró la mano un rato, en la luz amarilla del foco del baño, con la lluvia sonando arriba en la lámina igual que sonaba en la nave, igual que en todos los techos del sur esa noche. Era mucha. Era más de la que un rasguño tenía derecho a tener.
+Se miró la mano un rato, en la luz amarilla del foco del baño, con la lluvia sonando arriba en la lámina igual que sonaba en la nave, igual que en todos los techos del sur esa tarde. Era mucha. Era más de la que un rasguño tenía derecho a tener.
 
 Se le doblaron las rodillas.
 

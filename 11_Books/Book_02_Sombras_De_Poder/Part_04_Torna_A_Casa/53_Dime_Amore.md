@@ -26,7 +26,7 @@ Chiara abrió los ojos en el sofá de la sala, con una manta encima que no recor
 
 Se había acostado nada más para cerrar los ojos. Eso se había dicho.
 
-Se quedó quieta, escuchando. El refrigerador. La lluvia en el tejado, en las canaletas, en las hojas de los arces de la calle. Ningún motor. Ningún paso en el pasillo. En una casa con él adentro siempre había algo: una puerta, unas llaves, el agua corriendo en la cocina a deshoras, la radio del garaje murmurando. Esa noche no había nada. La casa tenía el silencio de las casas grandes cuando sólo queda una persona en ellas, y la persona está acostada.
+Se quedó quieta, escuchando. El refrigerador. La lluvia en el tejado, en las canaletas, en las hojas de los arces de la calle. Ningún motor. Ningún paso en el pasillo. En una casa con él adentro siempre había algo: una puerta, unas llaves, el agua corriendo en la cocina a deshoras, la radio del garaje murmurando. Esa tarde no había nada. La casa tenía el silencio de las casas grandes cuando sólo queda una persona en ellas, y la persona está acostada.
 
 El teléfono estaba bocabajo sobre la alfombra. Tres mensajes de la redacción de *El Faro*, los tres con la misma palabra: *sur*. Ninguno de él. No esperaba ninguno de él.
 
@@ -42,7 +42,7 @@ La transmisión cortó a un estudio. Un hombre de corbata leyó un comunicado de
 
 —... activado el protocolo de respuesta coordinada aprobado este otoño, con base en las recomendaciones del consejo consultivo de seguridad que preside Warren Halbrook. Se pide a los residentes de Las Calderas, Canal Seco y Nueve Puentes que permanezcan en sus casas...
 
-Ella había publicado ese protocolo en octubre, en la página siete, con una foto del consejo en la escalinata del ayuntamiento. En el papel era sensato. Esa noche eran tres camiones blindados y un helicóptero.
+Ella había publicado ese protocolo en octubre, en la página siete, con una foto del consejo en la escalinata del ayuntamiento. En el papel era sensato. Esa tarde eran tres camiones blindados y un helicóptero.
 
 Le quitó el sonido.
 

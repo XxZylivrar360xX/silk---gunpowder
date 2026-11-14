@@ -16,7 +16,7 @@ personajes: Kal Mercer, Chiara Bellandi; Camila Rivas y Héctor Navarro (sólo v
 >
 > **CANON citado literal:** «¿Quién es Elenna?» / «Antes era sólo un nombre.» / «Sono incinta.»; «Voy... vamos a ser...»; «¡No, no, no, no, no!»; «¡Mierda!» / «¡Kal!». Secuencia del cierre: CANON DEL AUTOR (2026-10-02), [[01_Timeline/03_Libro_02_Sombras_De_Poder]], con los ajustes del 2026-11-13; ver H1 en [[06_Relationships/Hitos]].
 >
-> **DISEÑO del agente:** las voces (Camila contando, «otra»; Chiara en el teléfono; Héctor en la puerta: «Mercer.»); el reloj en 2:47; la gasa donde estuvo el suero; la alerta de *El Faro* a las 10:20 p. m. y la frase de Halbrook («Yo voy a responder.»); «Nada de Walt.»; el recado de Mabel en la bolsa («para el malvavisco»); las expresiones de cada uno en la foto y que Kal mira a alguien fuera del cuadro (quién la tomó: PENDIENTE).
+> **DISEÑO del agente:** las voces (Camila contando, «otra»; Chiara en el teléfono; Héctor en la puerta: «Mercer.»); el reloj en 2:47; la gasa donde estuvo el suero; la alerta de *El Faro* a las 10:20 p. m. y la frase de Halbrook («Yo voy a responder.»); «Nada de Walt.»; el recado de Mabel en la bolsa («para el malvavisco»); las expresiones de cada uno en la foto y que Kal, en la foto, mira por encima de la cámara a Chiara. **Chiara tomó la foto (DECISIÓN DEL AUTOR, 2026-11-13)**, con el teléfono de Kal. La fragilidad al bajar (se sienta a la mitad de la escalera y baja sentado). El papel se ancla en las notas del Libro I y en la vela tardía de enero (cap. 23), que tiene que sembrarlo.
 
 # La chimenea
 
@@ -80,9 +80,11 @@ Dejó el teléfono bocabajo en la mesa de noche.
 
 Se sentó en la cama. El costado se sentó con él. Se quedó así un momento, con los pies en el suelo y una mano en la cabecera, esperando a que el cuarto se quedara quieto. Camila había dicho que al baño y nada más.
 
-Se levantó.
+Se levantó. El cuarto se le fue hacia un lado y volvió. Esperó a que volviera del todo.
 
-Bajó la escalera con la mano en el barandal, un escalón y después otro, parando en cada uno, como bajaba Héctor las escaleras del taller las mañanas de frío.
+Bajó la escalera con la mano en el barandal, un escalón y después otro, parando en cada uno, como bajaba Héctor las escaleras del taller las mañanas de frío. A la mitad se le aflojaron las piernas y se sentó en un escalón, con la frente contra los barrotes, sudando frío, hasta que se le quitó lo negro de los ojos. Pensó en volver a subir. Tampoco le alcanzaba para subir.
+
+Bajó los que faltaban sentado, uno por uno, y en el último se levantó agarrado del poste.
 
 En la mesa del comedor, al pie de la escalera, había una bolsa de papel de estraza, cerrada, con manchas de grasa. En un costado, con marcador, la letra de Mabel: *para el malvavisco*, y un corazón torcido. Nadie la había abierto.
 
@@ -98,7 +100,7 @@ Un papel doblado.
 
 Se agachó a recogerlo. El costado le dio un tirón que lo dejó un segundo sin aire, doblado, con una mano en la rodilla. Esperó. Se enderezó con el papel en la mano.
 
-Era de un papel color crema, grueso, con la orilla irregular. Olía a canela y a vainilla. Lo había visto una vez, en enero, de lejos, en las manos de ella, junto a una vela.
+Era de un papel color crema, grueso, con la orilla irregular. Olía a canela y a vainilla. Era el papel de ella, el de las notas que le dejaba desde el principio. Y lo había visto así, doblado, una vez, en enero, de lejos, en las manos de ella, junto a una vela, la noche que le contó lo de la bahía. No había preguntado.
 
 Fue hasta ella por detrás y le puso la manta en los hombros. Chiara no se sobresaltó. Se la cerró por delante con una mano y siguió mirando lo mismo.
 
@@ -138,10 +140,10 @@ Por encima del hombro de Chiara, sobre la repisa de mármol de la chimenea, esta
 
 Se le humedecieron los ojos, y la foto se le movió un poco, como se mueven las cosas detrás del agua. No se los limpió. Tenía las dos manos ocupadas.
 
-La habían tomado en el taller, en Nochebuena, hacía casi un año, con las luces que colgaron de madrugada y el coche del elevador convertido en árbol detrás, borroso, lleno de foquitos. Estaban todos apretados frente a los bancos de trabajo, con los manteles todavía puestos y los platos a medio terminar, en sus camisas de cuadros, como cuando alguien grita que se junten y se juntan de golpe, sin acomodarse.
+La habían tomado en el taller, en Nochebuena, hacía casi un año, con las luces que colgaron de madrugada y el coche del elevador convertido en árbol detrás, borroso, lleno de foquitos. Estaban todos apretados frente a los bancos de trabajo, con los manteles todavía puestos y los platos a medio terminar, en sus camisas de cuadros, como cuando Chiara, con el teléfono de él en alto, les gritó que se juntaran y se juntaron de golpe, sin acomodarse.
 
 Héctor estaba a un lado, con la gorra puesta y los brazos cruzados, y una sonrisa tan chica que sólo la habría reconocido alguien que lo conociera. Junto a él, hombro con hombro, Walt, con la cabeza calva brillando por el flash y la barba de candado gris, una taza de café en la mano en lugar de un vaso y la misma cara con la que ganaba y perdía. Danny le hacía cuernos a Nadir por detrás de la cabeza, con la lengua de fuera, y Nadir no se había dado cuenta: tenía un brazo sobre los hombros de Danny y se reía con la boca abierta, de algo que alguien había dicho un segundo antes. Garrett levantaba un vaso de plástico hacia la cámara, con la corbata floja, como quien brinda al final de una junta. Harper miraba al lente sin sonreír, derecha, con la seriedad de quien revisa que la foto salga bien. A Tyler el flash lo había agarrado en la orilla, con medio cuerpo fuera del cuadro, pero se le veía la sonrisa entera. Russ era el único sentado, en la orilla de un banco, con el bastón entre las rodillas y las dos manos encima; el bigote no dejaba ver si sonreía, pero se le arrugaban los ojos. Detrás de él, Ren, el único sin camisa de cuadros, con la camisa blanca abotonada hasta el cuello y las manos atrás, como lo habían conocido en el estacionamiento del Monarch, sonreía con una sonrisa educada, exacta, de quien sabe dónde está la cámara.
 
 En el centro estaba Mei-Lin. Se reía con los ojos cerrados y la cabeza echada hacia atrás, con un tamal a medio comer en una mano y la otra prendida del brazo de Bonnie, que se había agachado justo en el momento del flash y salía con el pelo en la cara y la boca abierta, a medio grito, como si se estuviera cayendo y a nadie le importara.
 
-Y detrás de todos, más alto que todos, estaba él. No miraba a la cámara. Miraba un poco a la izquierda, hacia alguien que no salía en la foto.
+Y detrás de todos, más alto que todos, estaba él. No miraba a la cámara. Miraba un poco por encima, a ella.

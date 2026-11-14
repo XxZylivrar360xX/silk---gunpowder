@@ -29,7 +29,7 @@ Natalie la miró, primero a los ojos, después a las manos sobre el volante. No 
 
 Después manejó.
 
-La carretera interior subía a las Lomas en curvas largas, entre muros bajos y arces negros que goteaban sobre el asfalto. A esa hora no había nadie. Chiara iba con las dos manos en el volante y la calefacción apagada, porque con la calefacción se le cerraban los ojos, y por la ventanilla, a la derecha, cada vez más abajo, la ciudad era una mancha naranja contra las nubes. Ya no se veía la luz del helicóptero. Ya no se veía nada que dijera que esa noche había pasado algo.
+La carretera interior subía a las Lomas en curvas largas, entre muros bajos y arces negros que goteaban sobre el asfalto. A esa hora no había nadie. Chiara iba con las dos manos en el volante y la calefacción apagada, porque con la calefacción se le cerraban los ojos, y por la ventanilla, a la derecha, cada vez más abajo, la ciudad era una mancha naranja contra las nubes. Ya no se veía la luz del helicóptero. Ya no se veía nada que dijera que ese día había pasado algo.
 
 *Te veo en casa, bella.*
 
@@ -115,7 +115,7 @@ Bajo la luz del jardín, la piel de él no tenía color. Tenía los labios grise
 
 —Kal, hospital.
 
-—Están vigilados. —Lo dijo con los ojos cerrados, despacio, como se explica una ruta—. Por lo de esta noche. Santa Aurelia, todos. Entro por esa puerta y amanezco esposado a la cama.
+—Están vigilados. —Lo dijo con los ojos cerrados, despacio, como se explica una ruta—. Por lo de hoy. Santa Aurelia, todos. Entro por esa puerta y amanezco esposado a la cama.
 
 Chiara había visto las patrullas en la entrada de urgencias. Dos, con las luces encendidas, y un sedán sin placas. Las había visto en una pantalla, en un almacén, con guantes puestos.
 
@@ -145,7 +145,7 @@ Lo metió a la casa como pudo. Él caminó. No supo de dónde lo sacó, pero cam
 
 Chiara cerró el ventanal con el pie.
 
-Tomó la manta del brazo del sofá, la que ella misma había doblado en tres esa noche antes de salir, y se la echó encima a él, hasta el cuello. Tomó las toallas del baño de visitas, todas, y se arrodilló a su lado en la alfombra con una doblada contra el costado, y se apoyó encima con las dos manos y todo su peso.
+Tomó la manta del brazo del sofá, la que ella misma había doblado en tres esa tarde antes de salir, y se la echó encima a él, hasta el cuello. Tomó las toallas del baño de visitas, todas, y se arrodilló a su lado en la alfombra con una doblada contra el costado, y se apoyó encima con las dos manos y todo su peso.
 
 Kal abrió los ojos.
 

@@ -4,6 +4,7 @@ El detalle se guarda una sola vez en notas de sesión. Este archivo es navegaci�
 
 ## Sesiones recientes
 
+- 2026-11-13: Libro II, 53–56: reloj de la tormenta revisado como una sola secuencia, fragilidad de Kal en la escalera, papel de Elenna anclado (siembra obligatoria en el cap. 23); DECISIÓN DEL AUTOR: Chiara tomó la foto de Nochebuena: [[98_Agent_Handoff/sessions/2026-11-13_claude_cap56_la_chimenea]]
 - 2026-11-13: Libro I, cap. 10 «Una pésima idea» (archivo 08b) repasado a pedido del autor (vuelve a BORRADOR): Collins sin motor hasta tomar la persecución, pinza de patrullas comunes, Kal frena tarde en el cruce (luz trasera rota, forzado a Plaza Corona), plaza peatonal según el boceto, aporte de Chiara en la transición, diálogos pulidos; CANON DEL AUTOR: Collins sospecha y no lo delata (omisión deliberada): [[98_Agent_Handoff/sessions/2026-11-13_claude_cap10_persecucion_collins]]
 - 2026-11-13: Libro II, cap. 56 «La chimenea» redactado (BORRADOR; final del libro en «Sono incinta.»); DECISIÓN DEL AUTOR: Kal lee al despertar que Halbrook anunció su candidatura al Senado; 55 con riesgo médico explícito: [[98_Agent_Handoff/sessions/2026-11-13_claude_cap56_la_chimenea]]
 - 2026-11-13: Libro II, cap. 55 «No otra vez» redactado (BORRADOR; H1 desde Chiara: piscina, vigilia con el relato de Kal, baño y cama; revisión editorial de subagente aplicada): [[98_Agent_Handoff/sessions/2026-11-13_claude_cap55_no_otra_vez]]
