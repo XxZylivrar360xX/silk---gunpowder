@@ -4,7 +4,7 @@ Actualizado: 2026-11-12 (rotado por límite: medía 841 palabras). Máximo 800 p
 
 ## *Sombras de Poder* (Libro II): decide el autor
 
-Lista de fondo: [[98_Agent_Handoff/BACKLOG#Libros II y III]]. Prosa en espera hasta cerrar el Libro I, salvo los caps. 53–55 (orden del autor, 2026-11-12; ver brief). Abiertos: leer tarjetas y guía de 56 ([[11_Books/Book_02_Sombras_De_Poder/00_Guia_Redaccion_Capitulos]], DISEÑO); decisiones 2–13 de la carretera; elipsis de R9; «Mac a Almendra»; sembrar a Nat antes del 53; leer los caps. 53–56 (notas del 2026-11-13: dudas de cada uno); **revisar de corrido el recorrido de horas 53–56** (llegada de Kal a la Villa, traslado de Camila, su atención durante la noche); **sembrar el papel de Elenna en el cap. 23 del Libro II** («La vela tardía», sin redactar), del que depende el 56.
+Lista de fondo: [[98_Agent_Handoff/BACKLOG#Libros II y III]]. Prosa en espera hasta cerrar el Libro I, salvo los caps. 53–56 (orden del autor; ver brief). Abiertos: guía ([[11_Books/Book_02_Sombras_De_Poder/00_Guia_Redaccion_Capitulos]], DISEÑO); decisiones 2–13 de la carretera; elipsis de R9; «Mac a Almendra»; sembrar a Nat antes del 53; leer 53–56 (dudas en las notas del 2026-11-13); **revisar de corrido las horas 53–56** (llegada de Kal, traslado y noche de Camila); **sembrar el papel de Elenna en el cap. 23 del Libro II** (sin redactar; el 56 depende de él).
 
 ## Lecturas del autor (Libro I)
 
@@ -28,6 +28,5 @@ Lista de fondo: [[98_Agent_Handoff/BACKLOG#Libros II y III]]. Prosa en espera ha
 
 - **Gesto de manos:** revisar en cada capítulo.
 - **Portada y Nota Editorial:** portada ≥1600×2560 para KDP; título de `00_Nota_Editorial.md`, del autor.
-- **Exportación:** EPUB, PDF y audio al día (2026-11-09); se regeneran y suben al cerrar cada tarea con la skill `regenerar-y-subir`.
 - **Referencias de numeración (2026-11-10):** 23 dudas para el autor, ocho de ellas de contenido (la escena citada ya no ocurre así): [[98_Agent_Handoff/sessions/2026-11-10_claude_referencias_dudosas]]. Tras llevar a 47 las 574 referencias en numeración de 56, otras 2 dudas y una lista de afirmaciones que el nuevo cauce volvió falsas (Vento, *Bajo juramento*, Halbrook, anclas de voz): [[98_Agent_Handoff/sessions/2026-11-10_claude_referencias_56_a_47]].
 - Diferidos en [[98_Agent_Handoff/BACKLOG]]: reseña de Partes I–II (ChatGPT), diálogo de terceros (Parte I), protolectura de los caps. 1–8, Q24, cobros del Libro I, aura, Halbrook, Corrado/Manfred, mesa tres, *El Faro*, Cap. 34, susurro a Varga y «Usted es alta».
