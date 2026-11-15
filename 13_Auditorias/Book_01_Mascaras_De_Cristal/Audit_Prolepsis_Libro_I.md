@@ -88,10 +88,10 @@ Se buscaron en los 47 capítulos los 13 textos que las auditorías por lote dict
 | Grabación y fotograma | Quién la copió | Limpio: 47:96 dice sólo que «ya no existía», como pide el ledger. |
 | Mei-Lin informa | Glosa de la siembra | Limpio desde el corte de B5 (2026-10); las señales del 44 y el 46 son mudas. |
 | *Roma Atrii* | Traducir el código | Limpio. |
-| Volpi y la bandera falsa | Confirmar la bandera falsa | Limpio: 36:153 nombra a Volpi, como fija el canon, y no confirma nada más. |
+| Volpi y la bandera falsa | Confirmar la bandera falsa | Limpio: 36:153 nombra a Volpi, como fija el canon, y no confirma nada más. *(Nota 2026-11-12: la bandera falsa se retiró; el corral es de Volpi por orden de La Mesa.)* |
 | Jim (Caps. 1–3) | Que murió, antes del 3 | Limpio: 1:154 siembra la partida, no la muerte. |
 | Trix, Iris (III) | Su muerte | Limpio. |
-| Crowe detrás del corral y del robo | Certificarlo en POV Kal | Limpio (ninguna atribución narrativa). |
+| Crowe detrás del corral y del robo | Certificarlo en POV Kal | Limpio (ninguna atribución narrativa). *(Nota 2026-11-12: Crowe ya no está detrás del corral.)* |
 
 ### D5. El crío de la cerca (14:22, archivo `14`)
 

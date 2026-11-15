@@ -1,5 +1,7 @@
 # Nereo Volpi
 
+> **DECISIÓN DEL AUTOR (2026-11-14), *Cuentas de Sangre*:** el complot de La Mesa es **la trama principal de Chiara en el IV**. Chiara, Corrado y La Mesa traen un complot que viene de antes de la redada, y Chiara lo cierra para siempre: se desata del pasado y reconstruye el nombre de su familia hacia algo nuevo. Al final **La Mesa queda reformulada y purgada**, y **Volpi, incapacitado y preso en la isla**. La última escena del complot es Chiara visitándolo antes de que quede como un animal atrapado en la oscuridad. Diseño: [[11_Books/Book_04_Cuentas_De_Sangre/00_Diseno_Complot_De_La_Mesa]].
+
 > **DECISIÓN DEL AUTOR (2026-11-14):** **el ojo de vidrio negro nunca se explica.** Dario lo conoció como a un hombre cualquiera en un bar, cuando Volpi detuvo una pelea entre dos hombres con una intervención tan quirúrgica que lo sorprendió; por eso Dario cree que es suyo. Vento es su exceso en el corral (no venía en la orden de La Mesa). Borró a Elio porque Elio vio en las cuentas la mano de Corrado. **En H1 hiere a Kal a propósito, sin matarlo, porque La Mesa lo quiere vivo** (Dario lo mandó a ejecutarlo); es la primera vez que elige a La Mesa por encima de Dario. **Termina en la isla del Mediterráneo**, en un encierro no oficial que negocia Corrado en el IV; queda vivo para el VII. Ver [[11_Books/Book_04_Cuentas_De_Sangre/00_Diseno_Complot_De_La_Mesa]].
 >
 > **Calibración de eficacia (autor, 2026-11-14; no canon, no copiar):** Deadshot, de DC. Se toma la eficacia, la economía y la calma; no el espectáculo ni el arco de redención: [[99_Reference/voice_calibration/Volpi_Eficacia_Deadshot]].
@@ -65,7 +67,7 @@ Nereo vuelve a adquirir peso cuando Matteo regresa con la búsqueda convertida e
 
 Su amenaza para Matteo es personal: la desaparición del hermano no fue una excepción, sino el aviso de que Matteo también puede ser corregido. Para Chiara, encarna la inversión corrupta de su propio oficio: ella dirige información para proteger personas; Nereo fabrica ausencias para volverlas prescindibles.
 
-La verdad de su lealtad a Varek se revela hasta que Varek ya está encarcelado, en Libro III. La ausencia del hombre que lo manejaba cambia la lectura de las contingencias anteriores: **ya nadie sostiene la correa de Volpi.** No anticipar esa relación en los Libros I o II con pruebas concluyentes ni con una explicación retrospectiva prematura.
+La verdad de su lealtad a Varek se revela hasta que Varek ya está encarcelado, en Libro III. La ausencia del hombre que lo manejaba cambia la lectura de las contingencias anteriores: **ya nadie sostiene la correa de Volpi.** No anticipar esa relación en los Libros I o II con pruebas concluyentes ni con una explicación retrospectiva prematura. *(SUPERSEDIDO, DECISIÓN DEL AUTOR 2026-11-12/14: Volpi siempre es de La Mesa; con Varek sólo estuvo de «vacaciones». Ver [[11_Books/Book_04_Cuentas_De_Sangre/00_Diseno_Complot_De_La_Mesa]].)*
 
 > **PENDIENTE:** condición y destino final de Elio; evidencia que trae Matteo; el encargo concreto contra Matteo o contra Kal y Chiara; y cómo Nereo cae, queda expuesto o pierde utilidad sin robar la resolución de la saga.
 

@@ -31,7 +31,7 @@ Con esto, la columna de la carretera no cambia: dos pasados cobran la casa y Var
 | 12 | 10 | Castigo | La bolsa en la vitrina («Que adentro va todo»); la cuota de la vulcanizadora «por la competencia»; **preguntan quién duerme en la casa común**; la libreta de los fiados. En el mismo capítulo llega la tarjeta de Dario con la dirección completa de la casa común: **dos ojos sobre la misma puerta.** |
 | 18 | 17 | Sospecha | Rumor de la bodega: «El Tasador —dijo Kal. No era pregunta.»; Walt cuenta la barreta. (DISEÑO nunca en prosa: Dario → Crowe en la cadena.) |
 | 23–24 | 22a–b | **Por lo tanto → Varek** | Robo del Monarch (DISEÑO nunca en prosa: Dario → Crowe → valet → Splicers). Kal arregla lo que la calle rompió y Dario lo registra (línea CANON): «—Con su proveedor —repitió, despacio, como probando la frase—. Interesante.» Es justo el mecanismo del hilo: el lío que arma Crowe (sin saberlo el lector) acerca a Kal a Varek. |
-| 27 | 24c | Pista falsa | En el corral, Kal piensa primero en Crowe y lo descarta: «Crowe firmaba sus recados». |
+| 27 | 24c | Pista falsa | En el corral, Kal piensa primero en Crowe y lo descarta: «Crowe firmaba sus recados». *(2026-11-12: y acierta; el corral es de Volpi por orden de La Mesa.)* |
 | 36 | 32 | Competencia | Portillo: «nada». «Al muchacho no le gustó la respuesta.» |
 | 42 | 37 | Competencia | La ferretería: «¿la competencia es usted?»; la libreta. |
 

@@ -231,7 +231,7 @@ internos, no nuevos hitos. No hay intervalo de días ni semanas.
 La cadena Tommaso → Mei-Lin → Varek ~~sigue intacta~~ cambia (CANON 2026-10-12): Tommaso construye inteligencia propia y
 cruza jurisdicción del norte, pero ya no muere; ~~Varek lo elimina mediante Volpi y absorbe a Mei-Lin como fuente
 pasiva~~. **Mei-Lin se queda con Tommaso**; cómo llega también a Varek (¿triple agente sin querer, por miedo?) es PENDIENTE. Kal y Chiara no conocen esa causalidad todavía. La revelación concluyente
-**Varek–Volpi** sigue reservada para *Cuentas de Sangre* (Libro IV).
+**Varek–Volpi** sigue reservada para *Cuentas de Sangre* (Libro IV). *(SUPERSEDIDO, DECISIÓN DEL AUTOR 2026-11-12/14: Volpi siempre es de La Mesa; con Varek sólo estuvo de «vacaciones». Ver [[11_Books/Book_04_Cuentas_De_Sangre/00_Diseno_Complot_De_La_Mesa]].)*
 
 En esta Parte se descubre definitivamente la filtración real. Mei-Lin no entró para destruir
 El Patio: valora a Kal, quiere a Bonnie y encuentra hogar en La Almendra, pero teme más a Varek

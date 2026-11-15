@@ -192,7 +192,7 @@ Chiara ayudaba a **Elliot Price**, un hombre autista vinculado al taller; se sob
 - Nadie la mata desde dentro: ni Kal ni Nadir disparan.
 - La salida de Bonnie no es premio ni castigo: es una vida propia, comprada con un duelo.
 - **Hay que construir a Mei-Lin en los Libros I y II** para que duela verla morir (CANON DEL AUTOR, 2026-11-07): la amistad con Bonnie (casa, horarios, barrio, autos, rutinas) y su vínculo con Kal, que es a quien le pide perdón.
-- Distinguir el descubrimiento de la filtración real de la revelación concluyente Varek–Volpi, reservada para el Libro III. La línea Tommaso → Mei-Lin no se muestra.
+- Distinguir el descubrimiento de la filtración real de la revelación concluyente Varek–Volpi, reservada para el Libro III. La línea Tommaso → Mei-Lin no se muestra. *(SUPERSEDIDO, DECISIÓN DEL AUTOR 2026-11-12/14: Volpi siempre es de La Mesa; con Varek sólo estuvo de «vacaciones». Ver [[11_Books/Book_04_Cuentas_De_Sangre/00_Diseno_Complot_De_La_Mesa]].)*
 - **Chiara:** F2 la toca porque «todo lo que llega se va o muere» ([[02_Characters/Chiara_Bellandi]]); de ahí nace la depresión que Mabel interrumpe con la boda.
 
 ---

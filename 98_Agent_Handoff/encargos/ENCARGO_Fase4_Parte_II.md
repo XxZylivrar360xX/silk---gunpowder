@@ -26,7 +26,7 @@ Orden: **21 → 22 → 23 → 24 → 30**.
 |---|---|---|---|---|
 | 21 | Kal | `Part_02_.../22b_Con_Su_Proveedor.md` | Reescribe el POV | Se le paga a Irene. La amenaza de Halbrook a Crowe queda fuera de página. |
 | 22 | Kal | `24b_Lo_Que_Cueste.md` | Reescribe | Crowe les pasa a los intermediarios lo de los papeles de Nadir. Absorbe del archivo 24 el acuerdo con Hoover y a Krane (el número en media hoja; Rivers & Krane), en una escena corta de pasillo. |
-| 23 | Kal | `24c_El_Corral.md` | Reescribe y poda | Bandera falsa de Volpi. Matan a Vento. Kal encuentra primero al caballo y luego a Chiara. **Debe dejar la bala en el tablón de la cerca**, porque el nuevo 35 la saca de ahí con la navaja. |
+| 23 | Kal | `24c_El_Corral.md` | Reescribe y poda | Bandera falsa de Volpi. Matan a Vento. Kal encuentra primero al caballo y luego a Chiara. **Debe dejar la bala en el tablón de la cerca**, porque el nuevo 35 la saca de ahí con la navaja. *(SUPERSEDIDO, DECISIÓN DEL AUTOR 2026-11-12: el corral lo ordena La Mesa y lo ejecuta Volpi; Crowe no fue. Ver [[11_Books/Book_04_Cuentas_De_Sangre/00_Diseno_Complot_De_La_Mesa]].)* |
 | 24 | Chiara | `24d_Vienes_Conmigo.md` | Reescribe (cambia de dueño) | Es la misma tarjeta T12 que el 23. Aquí entra «No es cuestión de dinero»: Chiara rechaza que le paguen el caballo. |
 | 30 | Kal | `32_Linea_Directa.md` | Reescribe | Crowe tasa a Kal en público. La llantera y la ferretería («el Tasador me subió la cuota») salen de [[11_Books/Book_01_Mascaras_De_Cristal/Escenas_Eliminadas/37_Cuatro_Letras_Version_2026-11-08]]. Se queda el segundo escalón con Lucía. Irene («Ahora sí me debe»): se queda en el 30 o sale si su deuda ya cierra en el 21; lo decide B al hacer el 21. |
 

@@ -10,7 +10,7 @@ Material de inspiración que **no es canon de esta novela**. Se conserva intacto
 
 ### `voice_calibration/`
 
-Referencias externas de **energía de voz** (personajes de series, películas o novelas) pedidas por el autor para calibrar a un personaje antes de escribir o auditar (desde 2026-10-05). Cada archivo dice qué tomar y qué dejar. No se copian nombres, tramas ni líneas; la vara final es la prosa del libro y la ficha de `12_Craft_Policies/voice/`. Hoy: [[99_Reference/voice_calibration/Marisol_Grayson]].
+Referencias externas de **energía de voz** (personajes de series, películas o novelas) pedidas por el autor para calibrar a un personaje antes de escribir o auditar (desde 2026-10-05). Cada archivo dice qué tomar y qué dejar. No se copian nombres, tramas ni líneas; la vara final es la prosa del libro y la ficha de `12_Craft_Policies/voice/`. Hoy: [[99_Reference/voice_calibration/Marisol_Grayson]] y, como vara de eficacia (no de voz), [[99_Reference/voice_calibration/Volpi_Eficacia_Deadshot]].
 
 ### `location_references/`
 
