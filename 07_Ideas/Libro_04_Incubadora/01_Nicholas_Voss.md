@@ -125,5 +125,6 @@ Kal y Nicholas deben reconocerse como dos hombres que quieren proteger a Elenna,
 En una escena ligera Nicholas puede decir:
 
 > **“Recluta Mercer, llevo veinte años aprendiendo a no hacer promesas que después puedan usarse contra mí.”**
+> *(2026-11-15: «Recluta Mercer» fue el título provisional del autor para la secuela, no canon; Elenna llega como Ardizzone y recupera Mercer en una audiencia antes de ser cadete. Ver [[11_Books/00_Diseno_Final_Boston_Y_La_Villa]].)*
 
 En superficie es humor seco. Más adelante se entiende que nació de una promesa familiar que no pudo cumplir como imaginaba.

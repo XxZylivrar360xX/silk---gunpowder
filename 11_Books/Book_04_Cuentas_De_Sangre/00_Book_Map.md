@@ -1,5 +1,7 @@
 # Book 04 — Cuentas de Sangre
 
+> **DECISIÓN DEL AUTOR (2026-11-15): el final es en Boston, no en Palermo.** Ahí vive Bonnie, que recibió a Elenna (F2 nuevo, 2026-11-07); el autor había elegido Palermo porque Bonnie la criaba en Italia. Lo que colgaba de Palermo (dónde nace Michael, el viñedo, la casa azul y la línea de la cocina, el lugar de Palermo en la vida de la familia) está en [[11_Books/00_Diseno_Final_Boston_Y_La_Villa]]. **Villa Candelaria** siempre estuvo a nombre de Chiara (lo especificó Kal en las escrituras); al irse, queda al cuidado de Walt.
+
 > **DECISIÓN DEL AUTOR (2026-11-14), *Cuentas de Sangre*:** el complot de La Mesa es **la trama principal de Chiara en el IV**. Chiara, Corrado y La Mesa traen un complot que viene de antes de la redada, y Chiara lo cierra para siempre: se desata del pasado y reconstruye el nombre de su familia hacia algo nuevo. Al final **La Mesa queda reformulada y purgada**, y **Volpi, incapacitado y preso en la isla**. La última escena del complot es Chiara visitándolo antes de que quede como un animal atrapado en la oscuridad. Diseño: [[11_Books/Book_04_Cuentas_De_Sangre/00_Diseno_Complot_De_La_Mesa]].
 
 > **COMPLOT DE LA MESA (DECISIÓN DEL AUTOR, 2026-11-12):** el corral lo ordenó Il Consorzio para sacar a Corrado de su escondite (Chiara era el anzuelo); lo ejecutó Volpi, que siempre fue de La Mesa (con Varek sólo estuvo de «vacaciones») y es el punto de convergencia de la saga. Cobra en este libro: Corrado se lo cuenta a Kal; Matteo se lo revela a Chiara. Diseño completo: [[11_Books/Book_04_Cuentas_De_Sangre/00_Diseno_Complot_De_La_Mesa]].
@@ -30,23 +32,23 @@ El libro no trata de *descubrir* que Kal y Chiara deberían marcharse — esa de
 
 - Dario preso; Halbrook **muerto** al abrir el libro (ejecutado al cierre del Libro III; tirador desconocido; se sospecha de Kal o de Nadir). Chiara en coma; su despertar y su recuperación (hospital, rehabilitación de meses) pertenecen a este libro. *(Supersesión del autor 2026-09-28; ver [[02_Characters/Warren_Halbrook]], "Muerte".)*
 - Héctor y Kenji muertos; Harper viva; Chiara sobrevivió a Santa Lucía.
-- Elenna vive como Elenna Serra con Bonnie en Italia; la separación ya es larga.
+- Elenna vive como Elenna Serra con Bonnie en Italia; la separación ya es larga. *(Superado 2026-11-07: Bonnie está en Boston; «Elenna Serra» e Italia, retiradas.)*
 - Corrado revelado vivo (a Kal; el encuentro con Chiara, pendiente y decisión de ella).
 - Kal y Chiara ya decidieron construir una salida; no pueden ejecutarla aún.
 - San Aurelio con un enorme vacío de poder; todos esperan saber quién gobernará.
 
 ## Estado de salida — resolución inmediata
 
-Palermo. Casa modesta azul, molduras blancas, jardín. Chiara con una copa de vino; Kal preparando la comida; Elenna viviendo con ellos **como hija, no como heredera**.
+Palermo. Casa modesta azul, molduras blancas, jardín. Chiara con una copa de vino; Kal preparando la comida; Elenna viviendo con ellos **como hija, no como heredera**. *(2026-11-15: la familia termina en Boston, no en Palermo; ver [[11_Books/00_Diseno_Final_Boston_Y_La_Villa]].)*
 
-> **Chiara:** —No vayas a quemar de nuevo la cocina, amore.
+> **Chiara:** —No vayas a quemar de nuevo la cocina, amore. *(2026-11-15: por re-decidir con el final en Boston; ver [[11_Books/00_Diseno_Final_Boston_Y_La_Villa]].)*
 > **Kal:** —No prometo nada.
 
-Esta imagen cierra el arco inmediato de Kal y Chiara. El cierre definitivo de la saga se cobra, tras un salto de aproximadamente veinte años, en [[07_Ideas/Tres_Hermanas_Epilogo|«Tres Hermanas»]]: una escena en San Aurelio donde Bonnie, Marisol y Elenna viven su propia historia sin requerir la presencia ni validación de ellos. Elenna tiene 21 años. Unas semanas después, una historia futura hipotética puede seguir su regreso a San Aurelio como Recluta (tratamiento: Recluta Mercer); esa posibilidad queda fuera de este libro y no altera el cierre.
+Esta imagen cierra el arco inmediato de Kal y Chiara. El cierre definitivo de la saga se cobra, tras un salto de aproximadamente veinte años, en [[07_Ideas/Tres_Hermanas_Epilogo|«Tres Hermanas»]]: una escena en San Aurelio donde Bonnie, Marisol y Elenna viven su propia historia sin requerir la presencia ni validación de ellos. Elenna tiene 21 años. Unas semanas después, una historia futura hipotética puede seguir su regreso a San Aurelio como Recluta (tratamiento: Recluta Mercer); esa posibilidad queda fuera de este libro y no altera el cierre. *(2026-11-15: «Recluta Mercer» fue el título provisional del autor para la secuela, no canon; Elenna llega como Ardizzone y recupera Mercer en una audiencia antes de ser cadete. Ver [[11_Books/00_Diseno_Final_Boston_Y_La_Villa]].)*
 
 ## Arcos de los protagonistas
 
-> **CONTINUIDAD POSTERIOR (2026-09-13):** el epílogo ocurre con Elenna a los 21 años, tras un salto de aproximadamente veinte años desde el cierre inmediato de Palermo. Unas semanas después, una historia futura hipotética puede seguirla al iniciar la academia como Recluta (tratamiento: Recluta Mercer). Esta posibilidad queda fuera de *Cuentas de Sangre* y no altera su cierre.
+> **CONTINUIDAD POSTERIOR (2026-09-13):** el epílogo ocurre con Elenna a los 21 años, tras un salto de aproximadamente veinte años desde el cierre inmediato de Palermo. Unas semanas después, una historia futura hipotética puede seguirla al iniciar la academia como Recluta (tratamiento: Recluta Mercer). Esta posibilidad queda fuera de *Cuentas de Sangre* y no altera su cierre. *(2026-11-15: la familia termina en Boston, no en Palermo; ver [[11_Books/00_Diseno_Final_Boston_Y_La_Villa]].)* *(2026-11-15: «Recluta Mercer» fue el título provisional del autor para la secuela, no canon; Elenna llega como Ardizzone y recupera Mercer en una audiencia antes de ser cadete. Ver [[11_Books/00_Diseno_Final_Boston_Y_La_Villa]].)*
 
 | | Movimiento | Fractura | Aprendizaje |
 |---|---|---|---|
@@ -67,7 +69,7 @@ No convertir la escena en manual táctico: su función es narrativa, política e
 
 ### Tres frentes que se cruzan
 
-**Kal — Meridian.** La fuerza federal intenta reconstruir y demostrar la estructura causal del poder de Kal: negocios, propiedades, favores, sociedades, aliados, cadáveres, decisiones. El cerco obliga a Kal a **distribuir** lo que centralizó durante años en su persona. Andrew Callahan / comando RICO; su obsesión inicial es Varek, no Kal.
+**Kal — Meridian.** La fuerza federal intenta reconstruir y demostrar la estructura causal del poder de Kal: negocios, propiedades, favores, sociedades, aliados, cadáveres, decisiones. El cerco obliga a Kal a **distribuir** lo que centralizó durante años en su persona. Andrew Callahan / comando RICO; su obsesión inicial es Varek, no Kal. *(2026-11-15: Villa Candelaria está a nombre de Chiara desde la firma y no entra al expediente de Kal; ver [[11_Books/00_Diseno_Final_Boston_Y_La_Villa]].)*
 
 **Chiara — Il Consorzio.** El vacío de Dario deja a Il Consorzio más libre para presionar, reconocer, reorganizar o disputar San Aurelio. Chiara enfrenta a la institución que pretende definirla como Ardizzone. **No completa su arco heredando una corona italiana ni obteniendo reconocimiento: lo completa rechazando la premisa de que necesita ese reconocimiento.** Corrado aporta conocimiento, contexto y una relación personal imposible de ignorar; **no sustituye a Chiara como protagonista del conflicto ni regresa para ponerla en un trono.**
 

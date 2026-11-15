@@ -41,7 +41,7 @@ Desde entonces, Chiara vive en San Aurelio y Ettore permanece en Palermo. El ví
 
 ### Su función en *Voto de Ceniza* — presencia usada como espejismo
 
-**CANON DE DISEÑO (arquitectura de la entrega de Elenna).** Durante la planificación para sacar a Elenna de San Aurelio, Chiara le dice a Kal algo equivalente a *"yo me encargaré de que haya alguien de confianza al otro lado"* — sin nombrar a nadie. Tanto Kal como el lector pueden asumir razonablemente que se refiere a Ettore, el único contacto de confianza en Italia que ambos ya conocen. **La suposición no se corrige en ningún momento antes de la entrega.** Cuando Kal lleva a Elenna a la pista clandestina, la figura que la recibe es **Bonnie García**, no Ettore — la revelación es simultánea para Kal y para el lector. Ver [[02_Characters/Elenna_Mercer]] y [[11_Books/Book_03_Voto_De_Ceniza/00_Book_Map]].
+**CANON DE DISEÑO (arquitectura de la entrega de Elenna).** Durante la planificación para sacar a Elenna de San Aurelio, Chiara le dice a Kal algo equivalente a *"yo me encargaré de que haya alguien de confianza al otro lado"* — sin nombrar a nadie. Tanto Kal como el lector pueden asumir razonablemente que se refiere a Ettore, el único contacto de confianza en Italia que ambos ya conocen. **La suposición no se corrige en ningún momento antes de la entrega.** Cuando Kal lleva a Elenna a la pista clandestina, la figura que la recibe es **Bonnie García**, no Ettore — la revelación es simultánea para Kal y para el lector. Ver [[02_Characters/Elenna_Mercer]] y [[11_Books/Book_03_Voto_De_Ceniza/00_Book_Map]]. *(Superado 2026-11-07: Bonnie está en Boston; «Elenna Serra» e Italia, retiradas.)*
 
 Ettore funciona aquí como **la respuesta plausible que el texto nunca confirma ni desmiente** — su credibilidad como figura de confianza en Italia es lo que hace funcionar el giro hacia Bonnie. Eso no significa que esté descartado de cualquier participación real: simplemente no se ha escrito ninguna.
 
@@ -60,7 +60,7 @@ No tiene un método narrativo activo: no opera, no investiga, no protege física
 
 - [[02_Characters/Chiara_Bellandi]] — la crió tras la muerte de Marta y la caída pública de Corrado. Es la única persona a la que ella le escribe cartas reales, sin filtrar.
 - [[02_Characters/Corrado_Ardizzone]] — amigo de origen, previo a la redada. Presente en el momento de su caída; recibió de él una comunicación privada que Chiara no escuchó. **Sabe que Corrado vive (CANON DEL AUTOR, 2026-10-04):** es el instrumento con que Corrado desmantela el Consorcio desde lejos, debilitando y exponiendo sutilmente las artimañas de las viejas familias.
-- [[02_Characters/Elenna_Mercer]] / [[02_Characters/Bonnie_Garcia]] — Ettore es la suposición plausible y nunca confirmada de Kal y del lector sobre quién recibe a Elenna en Italia; la respuesta real es Bonnie.
+- [[02_Characters/Elenna_Mercer]] / [[02_Characters/Bonnie_Garcia]] — Ettore es la suposición plausible y nunca confirmada de Kal y del lector sobre quién recibe a Elenna en Italia; la respuesta real es Bonnie. *(Superado 2026-11-07: Bonnie está en Boston; «Elenna Serra» e Italia, retiradas.)*
 
 ## Preguntas abiertas
 
@@ -68,5 +68,5 @@ No tiene un método narrativo activo: no opera, no investiga, no protege física
 > **PENDIENTE:** qué tan al tanto está de a qué se dedica realmente el Consorcio y la familia Ardizzone.
 > **RESUELTO (2026-10-04):** sabe que Corrado vive y opera por él en Palermo. **PENDIENTE:** qué le susurró en la redada (Cap. 25 (archivo 25)); si Chiara llega a saberlo y cuándo.
 > **PENDIENTE:** si aparece en página en algún punto de la trilogía, o si se queda deliberadamente fuera de escena como voz en las cartas.
-> **PENDIENTE:** si tiene algún papel real (no sólo supuesto) en la protección de Elenna en Italia.
+> **PENDIENTE:** si tiene algún papel real (no sólo supuesto) en la protección de Elenna en Italia. *(Superado 2026-11-07: Bonnie está en Boston; «Elenna Serra» e Italia, retiradas.)*
 > **PENDIENTE:** qué sabe o sospecha de la muerte de Alessio Lusardi, si algo.

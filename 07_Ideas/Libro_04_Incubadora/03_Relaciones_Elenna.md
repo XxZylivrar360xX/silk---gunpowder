@@ -63,7 +63,7 @@ No necesita llamarla constantemente para demostrar afecto. Puede dar espacio y l
 
 ## Bonnie — Roberta «Bonnie» García
 
-> Nombre legal Roberta «Bonnie» García; para el mundo, veinte años después, **Roberta Ardizzone** (CANON DEL AUTOR, 2026-10-03; ver [[02_Characters/Bonnie_Garcia]]). Para Elenna es «Bonnie».
+> Nombre legal Roberta «Bonnie» García; para el mundo, veinte años después, **Roberta Ardizzone** (CANON DEL AUTOR, 2026-10-03; ver [[02_Characters/Bonnie_Garcia]]). Para Elenna es «Bonnie». *(Superado 2026-11-07: Bonnie está en Boston; «Elenna Serra» e Italia, retiradas.)*
 
 ### Reacción a la academia
 

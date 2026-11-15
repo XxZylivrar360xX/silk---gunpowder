@@ -112,8 +112,8 @@ Cada fila es una deuda: algo que el I o el II abren y que la saga se compromete 
 | F3 | **Decidir por el otro.** | S·I–II ✔ | C·III ✔ **el voto es la primera vez que deciden juntos lo insoportable** («¿Estás seguro?» / «No.») · C·IV ✔ espejo Corrado–Kal | La saga invierte su vicio en el III. |
 | F4 | **La chimenea de la Villa:** «Sono incinta.». | S·II ✔ | C·III ✔ el voto y las fotos (DISEÑO) | Tres usos del mismo fuego: anuncio, voto y ceniza. |
 | F5 | **El Mirador** (H11: bolos, drift, primer beso). | S·I ✔ | C·III ✔ Kal ahí en el flashforward («La perdí, Héctor») | Ya está. |
-| F6 | **Torna a casa:** el collar de la primera Navidad. | S·II ✔ | C·IV (implícito) Palermo | PROPUESTA: hacerlo explícito en la última escena con un objeto, sin glosa. |
-| F7 | **«No vayas a quemar de nuevo la cocina, amore.»** | S·II **DECISIÓN DEL AUTOR (2026-11-12):** Kal quema la cocina en el Libro II; ◐ escena por elegir | C·IV ✔ línea canon del cierre | Hay que colocarla en las tarjetas del II. |
+| F6 | **Torna a casa:** el collar de la primera Navidad. | S·II ✔ | C·IV (implícito) el final, ahora en Boston (2026-11-15) | PROPUESTA: hacerlo explícito en la última escena con un objeto, sin glosa. |
+| F7 | **«No vayas a quemar de nuevo la cocina, amore.»** | S·II **DECISIÓN DEL AUTOR (2026-11-12):** Kal quema la cocina en el Libro II; ◐ escena por elegir | C·IV ✔ línea canon del cierre | Hay que colocarla en las tarjetas del II. *(2026-11-15: por re-decidir con el final en Boston; ver [[11_Books/00_Diseno_Final_Boston_Y_La_Villa]].)* |
 | F8 | **La cámara de rollo de Héctor** (regalo del cumpleaños de Chiara). | ✘ «siembra aún no escrita en prosa» (canon) | C·IV ✔ epílogo, en manos de Elenna | Va al cumpleaños del I (H16) o al II. |
 | F9 | **«Ambos somos increíbles»:** Chiara no deja que Kal se borre. | S·I ✔ | C·II ✔ (H1) · C·IV (DISEÑO) | «Ser necesario no es lo mismo que ser amado» es la última vuelta del mismo movimiento. |
 | F10 | **Seda y pólvora.** | (título de saga) | C·IV ✔ «La Mancuerna de Hierro y Seda» | Ya está. |
@@ -148,7 +148,7 @@ la verdad de los corredores (A3) · la correa de Nadir después de Halbrook (A4)
 
 ## 3. Propagación vieja y contradicciones (no corregidas aquí)
 
-1. **Bonnie en Italia y la cobertura «Elenna Serra»:** la ficha de Bonnie las retira (Boston; resguardo PENDIENTE). Siguen vivas en el cuerpo de [[00_Biblia/00_Trilogy_Structure]], [[11_Books/Book_03_Voto_De_Ceniza/00_Book_Map]], [[11_Books/Book_04_Cuentas_De_Sangre/00_Book_Map]], [[01_Timeline/04_Libro_03_Voto_De_Ceniza]], Elenna_Mercer y La_Villa. El final en Palermo sigue siendo CANON.
+1. **Bonnie en Italia y la cobertura «Elenna Serra»:** la ficha de Bonnie las retira (Boston; resguardo PENDIENTE). Siguen vivas en el cuerpo de [[00_Biblia/00_Trilogy_Structure]], [[11_Books/Book_03_Voto_De_Ceniza/00_Book_Map]], [[11_Books/Book_04_Cuentas_De_Sangre/00_Book_Map]], [[01_Timeline/04_Libro_03_Voto_De_Ceniza]], Elenna_Mercer y La_Villa. El final en Palermo **se cambió por Boston** (DECISIÓN DEL AUTOR, 2026-11-15; [[11_Books/00_Diseno_Final_Boston_Y_La_Villa]]).
 2. **Trix:** Beatrice_Varek frente a La_Guerra_de_los_Tres (B4).
 3. **Cargo de Halbrook:** «alcalde electo» (Harper) frente a la ruta «→ senador» (Halbrook) (A10).
 4. **Tyler y la doble hipótesis Kal/Nadir:** la propia ficha de Halbrook marca la tensión; Tyler carga la culpa públicamente y la revelación de Nadir a Chiara se reacomoda alrededor de él.

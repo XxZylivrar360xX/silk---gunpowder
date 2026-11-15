@@ -16,7 +16,7 @@
 - Nicholas demuestra que el sospechoso perseguido durante años no pudo ser el tirador.
 - Erin advierte que algo no encaja en Ethan y Elenna la descarta.
 - La tensión entre Elenna y Erin crece, sin llegar a ruptura.
-- Elenna se gradúa, pasa a patrulla y se muda a su propio departamento.
+- Elenna se gradúa, pasa a patrulla y se muda a su propio departamento. *(2026-11-15: supersedido; en el V Elenna se muda a Villa Candelaria, que Walt le entrega. Ver [[11_Books/00_Diseno_Final_Boston_Y_La_Villa]].)*
 
 ## Cierre
 

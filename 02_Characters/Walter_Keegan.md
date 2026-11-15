@@ -1,5 +1,9 @@
 # Walter "Walt" Keegan
 
+> **DECISIÓN DEL AUTOR (2026-11-15, segunda tanda):** Elenna le cuenta que se va a mudar mientras él y **Corrado comparten un escocés**; ahí le dice la línea y le da la llave. Ver [[11_Books/00_Diseno_Final_Boston_Y_La_Villa]].
+
+> **DECISIÓN DEL AUTOR (2026-11-15):** tras la salida de Kal y Chiara, **Walt mantiene Villa Candelaria** durante unos veinte años (en desuso, con los muebles bajo sábanas). En el V, a los ~81 años y casado con Mabel, se la entrega a Elenna: «No seas ridícula, niña, no necesitas buscar un lugar donde vivir, porque ya tienes un lugar donde vivir.» Rima con las cartas de Dale, que también guardó para un hijo hasta que fue el momento. Ver [[11_Books/00_Diseno_Final_Boston_Y_La_Villa]].
+
 > **SUSPENDIDO EN EL LIBRO I (2026-10-31, DECISIÓN DEL AUTOR):** las escenas *El farol* (escena eliminada, archivo 11) y *Por su cuenta* (escena eliminada, archivo 12b) pasaron a [[11_Books/Book_01_Mascaras_De_Cristal/Escenas_Eliminadas/README|Escenas eliminadas]]; el arco de la condicional (licencia, torneo, audiencia, pub) **pasa a *Sombras de Poder*** (DECISIÓN DEL AUTOR 2026-11-01: le da otro peso a su clímax con el Tasador; ubicación en el II PENDIENTE). Lo de abajo no se cita como hecho del Libro I hasta que se decida.
 
 > **DISEÑO DEL AUTOR (2026-11-01):** Walt anda en moto (una Harley o similar; chaqueta de cuero, botas de motero, casco). Primera vez en el Cap. 11 (archivo 09): llega cuando el Tasador se va; Walt lo ve y Crowe no. Ver [[11_Books/Book_01_Mascaras_De_Cristal/00_Plan_Hilo_Tasador]].

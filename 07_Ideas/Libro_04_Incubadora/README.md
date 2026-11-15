@@ -12,7 +12,7 @@
 
 ## Fuente principal ya existente
 
-- [[07_Ideas/Arco_Elenna_Libro_04]] — dirección futura ya aprobada: Elenna, 21 años, regresa a San Aurelio e inicia la academia como **Recluta** (tratamiento: **Recluta Mercer**).
+- [[07_Ideas/Arco_Elenna_Libro_04]] — dirección futura ya aprobada: Elenna, 21 años, regresa a San Aurelio e inicia la academia como **Recluta** (tratamiento: **Recluta Mercer**). *(2026-11-15: «Recluta Mercer» fue el título provisional del autor para la secuela, no canon; Elenna llega como Ardizzone y recupera Mercer en una audiencia antes de ser cadete. Ver [[11_Books/00_Diseno_Final_Boston_Y_La_Villa]].)*
 - [[07_Ideas/Tres_Hermanas_Epilogo]] — epílogo aprobado de *Cuentas de Sangre*.
 
 Esta carpeta **no sustituye** esos documentos. Los amplía con material todavía en evaluación.

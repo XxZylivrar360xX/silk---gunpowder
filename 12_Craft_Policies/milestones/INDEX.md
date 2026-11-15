@@ -66,7 +66,7 @@ Si una escena nueva cambia de forma irreversible una relacion, deuda, ritual o j
 
 > **Corregido 2026-09-11:** esta lista tenía a H22 en una sección "Parte IV" posterior al macrohito de la caída de Dario/Santa Lucía/Halbrook. [[00_Biblia/00_Trilogy_Structure]] fija el orden contrario — H22 va **antes** de ese macrohito, dentro del mismo libro. No existe una "Parte IV" separada para estos eventos.
 
-32. [[02_Characters/Elenna_Mercer#La falsa muerte]] - primer tramo importante de *Voto de Ceniza*; Elenna nace, es declarada muerta y pasa a vivir como Elenna Serra con Bonnie; mecanismos y capítulo pendientes.
+32. [[02_Characters/Elenna_Mercer#La falsa muerte]] - primer tramo importante de *Voto de Ceniza*; Elenna nace, es declarada muerta y pasa a vivir como Elenna Serra con Bonnie; mecanismos y capítulo pendientes. *(Superado 2026-11-07: Bonnie está en Boston; «Elenna Serra» e Italia, retiradas.)*
 33. [[06_Relationships/Hitos#H22 — Los primeros pasos]] - después de que la separación de Elenna sea cotidiana; **antes** de la caída de Dario, la montaña y Santa Lucía. **CANON / DISEÑO FIJADO, BLOQUEADO PARA PROSA.**
 34. [[06_Relationships/Hitos#Macrohito por numerar — La caída de Dario, Santa Lucía y Halbrook]] - después de H22: arresto legal de Dario, falso final, Santa Lucía + montaña, muertes de Héctor y Kenji, y Kal sentencia a Halbrook (no lo ejecuta — la ejecución pública abre *Cuentas de Sangre*, Libro III). Número, división y detalles pendientes.
 

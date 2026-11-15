@@ -67,6 +67,8 @@ borrego, la que llevaba puesta desde que salió del departamento porque afuera h
 hace siempre cerca de una pista de aterrizaje — y le cerró el botón de arriba, que ella nunca
 cerraba.
 
+> *(2026-11-15: supersedido; en el V Elenna se muda a Villa Candelaria, que Walt le entrega. Ver [[11_Books/00_Diseno_Final_Boston_Y_La_Villa]].)*
+
 —Hace frío.
 
 —Estoy bien.

@@ -1,5 +1,9 @@
 # Book 05 — Juramento de Hierro
 
+> **DECISIÓN DEL AUTOR (2026-11-15, segunda tanda):** **apellido:** llega como Ardizzone y **recupera Mercer en una audiencia antes de entrar a la policía como cadete**, con ayuda de Marisol. **Mudanza:** unas semanas después, la vida con Marisol se complica por el choque con la fiscalía; Elenna se lo cuenta a **Walt y a Corrado, que comparten un escocés**, y ahí Walt le da la llave de la Villa. En la casa encuentra lo que sus padres dejaron atrás y **«su cuarto que nunca fue suyo»**. Ver [[11_Books/00_Diseno_Final_Boston_Y_La_Villa]].
+
+> **DECISIÓN DEL AUTOR (2026-11-15):** cuando Elenna, ya en San Aurelio, va a buscar dónde vivir, **Walt** (unos 81 años, casado con Mabel) le dice «No seas ridícula, niña, no necesitas buscar un lugar donde vivir, porque ya tienes un lugar donde vivir» y le da la llave y la dirección de **Villa Candelaria**, que él mantuvo en desuso, con los muebles bajo sábanas. Supersede la mudanza a «su departamento propio». **Su apellido:** Elenna Mercer murió para el mundo en el III; Marisol ayuda (o ya ayudó) a recuperar su legítimo apellido, y Elenna puede llegar a San Aurelio como una Ardizzone («Recluta Mercer» era título provisional, no canon; sólo choca la línea del hangar del VII: opciones en [[11_Books/00_Diseno_Final_Boston_Y_La_Villa]]). La familia vive en Boston, no en Palermo.
+
 *Mapa narrativo operativo. Libro V — primer libro de la trilogía de Elenna, plantar.*
 
 > **DERIVADO DE [[07_Ideas/Libro_04_Incubadora/07_Arquitectura_y_Temas]] (2026-09-16, Claude Code, encargo del autor).** Este mapa reconstruye el volumen a partir del diseño de la duología post-saga-principal. Todo lo no citado explícitamente como CANON DEL AUTOR allí es DISEÑO discutible o SEMILLA. **Estado: esqueleto de carpeta — sin desglose de partes aprobado.**
@@ -16,7 +20,7 @@
 
 ## Función
 
-**Plantar.** Elenna entra a la academia policial de San Aurelio como Recluta (tratamiento: Recluta Mercer); se siembra el antagonista (Ethan) y la relación horizontal con Erin Reyes; Nicholas Voss carga la herida de Vera sin resolución.
+**Plantar.** Elenna entra a la academia policial de San Aurelio como Recluta (tratamiento: Recluta Mercer); se siembra el antagonista (Ethan) y la relación horizontal con Erin Reyes; Nicholas Voss carga la herida de Vera sin resolución. *(2026-11-15: «Recluta Mercer» fue el título provisional del autor para la secuela, no canon; Elenna llega como Ardizzone y recupera Mercer en una audiencia antes de ser cadete. Ver [[11_Books/00_Diseno_Final_Boston_Y_La_Villa]].)*
 
 ## Coprotagonistas centrales
 
@@ -27,7 +31,7 @@ Ver [[07_Ideas/Libro_04_Incubadora/01_Nicholas_Voss]] y [[07_Ideas/Libro_04_Incu
 
 ## Estado de entrada (hereda del cierre de Cuentas de Sangre)
 
-- Kal y Chiara viven en Palermo; Elenna vivió con ellos como hija, no como heredera.
+- Kal y Chiara viven en Palermo; Elenna vivió con ellos como hija, no como heredera. *(2026-11-15: la familia termina en Boston, no en Palermo; ver [[11_Books/00_Diseno_Final_Boston_Y_La_Villa]].)*
 - Elenna, 21 años, decide regresar a San Aurelio e iniciar la academia — ver [[07_Ideas/Arco_Elenna_Libro_04]].
 - Corrado / Nonno y Bellandi Ridge como espacio cálido de fondo — ver [[07_Ideas/Libro_04_Incubadora/04_Legado_Post_Trilogia]].
 - El caso Vera lleva años cerrado en falso — ver [[07_Ideas/Libro_04_Incubadora/02_Caso_Vera_y_Antagonista]] y [[07_Ideas/Libro_04_Incubadora/05_Volpi_y_Corrado]].
@@ -37,7 +41,7 @@ Ver [[07_Ideas/Libro_04_Incubadora/01_Nicholas_Voss]] y [[07_Ideas/Libro_04_Incu
 - **Kal y Chiara no aparecen físicamente en este libro.** Presencia solo por llamadas (Kal) y cartas manuscritas (Chiara).
 - Nuevo homicidio reproduce rasgos del caso Vera; Nicholas cree que volvió el adulto que persiguió por años — y descubre, con evidencia sólida, que ese hombre nunca pudo ser el tirador. Su duelo de veinte años se queda sin objeto; el verdadero responsable (Ethan) sigue invisible.
 - Romance de Ethan con Elenna avanza sin revelación. Erin es la única que advierte en voz alta que algo no cuadra; Elenna la descarta.
-- **Trayecto de Elenna (CANON DEL AUTOR, 2026-09-16; ubicado en el V el 2026-10-03):** academia (~6 meses) → graduación → patrulla y mudanza de casa de Marisol a su departamento propio, casi al mismo tiempo. **Rex y K9 no aparecen en este libro** (entran en el VI tras un salto de ~2–3 años; CANON DEL AUTOR 2026-10-03).
+- **Trayecto de Elenna (CANON DEL AUTOR, 2026-09-16; ubicado en el V el 2026-10-03):** academia (~6 meses) → graduación → patrulla y mudanza de casa de Marisol a su departamento propio, casi al mismo tiempo. **Rex y K9 no aparecen en este libro** (entran en el VI tras un salto de ~2–3 años; CANON DEL AUTOR 2026-10-03). *(2026-11-15: supersedido; en el V Elenna se muda a Villa Candelaria, que Walt le entrega. Ver [[11_Books/00_Diseno_Final_Boston_Y_La_Villa]].)*
 - **Cierre — doble golpe:** el duelo de Nicholas sin objeto, en paralelo a la **tensión sin resolver** entre Elenna y Erin — dos personas que deberían protegerse mutuamente, alejándose justo cuando más se necesitan, mientras Ethan queda cómodo y sin sospecha. **Sólo tensión, no ruptura** (CANON DEL AUTOR, 2026-10-03): la fractura abierta se reserva para la presa en el VI.
 
 ## Línea civil: la visita de Michael (CANON DEL AUTOR, 2026-10-04)

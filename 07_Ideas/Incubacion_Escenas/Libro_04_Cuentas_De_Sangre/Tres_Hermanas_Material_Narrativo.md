@@ -370,6 +370,8 @@ Elenna la miró y se rió, esa risa que no necesitaba que nadie la autorizara. D
 
 Elenna puso el álbum entre las tres. Al abrirlo, las primeras fotografías no tenían nada de su último viaje. Arriba, Elenna bebé estaba con Kal y Chiara: la primera fotografía impresa de los tres. Debajo, años después, las tres hermanas ocupaban el porche de la casa de Palermo; Elenna, con cinco años, estaba sentada en su bicicleta. Bonnie y Marisol aparecían a cada lado, cuidando que no se fuera de lado sin tocarla, las dos angustiadas. Elenna tenía la sonrisa de una niña que sólo se estaba divirtiendo.
 
+> *(2026-11-15: la familia termina en Boston, no en Palermo; ver [[11_Books/00_Diseno_Final_Boston_Y_La_Villa]].)*
+
 Bonnie pasó un dedo por el borde de esa segunda fotografía, sin tocarla del todo.
 
 —Ésa fue la semana en que quisiste dormir con el casco puesto.

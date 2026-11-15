@@ -170,7 +170,7 @@ Se cruza con la de Kal (Meridian, la salida) en dos puntos: el tercer asesinato,
 - Usa la regla de la institución para amputarle la parte podrida. Pone condiciones nuevas: la regla vieja por fin escrita, y el fin de la «contingencia», el oficio de Volpi.
 - **Después se va.** Deja el asiento Ardizzone. PROPUESTA: lo guarda **Ettore como apoderado**, que ya se sentaba «en su silla» en *Libros abiertos*. Corrado lo asesora desde la sombra, porque para el mundo sigue muerto (CANON), y la silla llega a Michael, como ya es canon del ciclo de Elenna.
 - Así el apellido se reconstruye hacia algo nuevo (decisión 17) sin que Chiara se siente en ningún trono.
-- **Paga la meta original de Corrado: que su hija pudiera volver a Palermo sin pedirle permiso a nadie.** La casa azul del final está en Palermo.
+- **Paga la meta original de Corrado: que su hija pudiera volver a Palermo sin pedirle permiso a nadie.** Y Chiara, ya libre de ir, **elige no vivir ahí**: la familia termina en Boston (DECISIÓN DEL AUTOR, 2026-11-15; [[11_Books/00_Diseno_Final_Boston_Y_La_Villa]]).
 
 ---
 
@@ -192,7 +192,7 @@ Se cruza con la de Kal (Meridian, la salida) en dos puntos: el tercer asesinato,
 - **Objeto posible:** el comunicado de la muerte de su padre, la primera versión que Volpi escribió de los Ardizzone. Ella se la lee o se la deja. La última versión de Volpi la escribe Chiara, y dice que de él no va a quedar ninguna.
 - **Él no amenaza ni pronostica.** Sin Hannibal Lecter (regla de la incubadora).
 - **Cierre:** ella sale, la puerta se cierra y el lector se queda un instante del lado de Volpi, en lo oscuro. Animal atrapado, sin explicación.
-- **Lugar en el libro:** cierra la trama de Chiara antes de la salida y de Palermo. El final del libro sigue siendo Palermo y el epílogo de las Tres Hermanas (CANON).
+- **Lugar en el libro:** cierra la trama de Chiara antes de la salida y de Palermo. El final del libro es Boston (DECISIÓN DEL AUTOR, 2026-11-15; antes Palermo) y el epílogo de las Tres Hermanas (CANON).
 
 ---
 

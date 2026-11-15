@@ -32,7 +32,7 @@ El "voto" no es el sacrificio de Elenna. Es el sacrificio de la vida cotidiana c
 - Kal y Chiara juntos; Chiara embarazada; Kal ya lo sabe.
 - El Patio atravesó su primer enfrentamiento abierto (H1).
 - Dario ya no trata el crecimiento de Kal como molestia menor.
-- **Mei y Bonnie están fuera del tablero.** Bonnie vive en Italia como Roberta Ardizzone.
+- **Mei y Bonnie están fuera del tablero.** Bonnie vive en Italia como Roberta Ardizzone. *(Superado 2026-11-07: Bonnie está en Boston; «Elenna Serra» e Italia, retiradas.)*
 - Halbrook está físicamente en San Aurelio.
 - Corrado sigue vivo en el canon de fondo; Chiara cree que lo perdió.
 - La mentira de H8 (fuga de gas) puede seguir sin romper — cartucho disponible.
@@ -42,7 +42,7 @@ El "voto" no es el sacrificio de Elenna. Es el sacrificio de la vida cotidiana c
 - Dario está preso (caída legal — falso clímax).
 - Héctor y Kenji están muertos.
 - Chiara ha sobrevivido a Santa Lucía (crítica, coma).
-- Elenna vive lejos bajo la identidad Serra, con Bonnie.
+- Elenna vive lejos bajo la identidad Serra, con Bonnie. *(Superado 2026-11-07: Bonnie está en Boston; «Elenna Serra» e Italia, retiradas.)*
 - Kal y Chiara ya decidieron construir una salida (nace en H22).
 - Kal ha **sentenciado** a Halbrook; Halbrook muere en su discurso de victoria (tirador sin mostrar). *(Supersesión del autor 2026-09-28; ver [[02_Characters/Warren_Halbrook]], "Muerte".)*
 - Corrado ha sido revelado vivo — primero a Kal, en el hospital. Chiara sigue en coma.
@@ -65,7 +65,7 @@ El "voto" no es el sacrificio de Elenna. Es el sacrificio de la vida cotidiana c
 
 El Capítulo 1 se sitúa **~9 meses por delante** del punto donde cierra el Libro II — Sombras de Poder. Muestra, en este orden: el nacimiento de Elenna y una breve pertenencia real (Elenna cierra la mano en torno a uno de los dedos de Kal — motivo físico que se cobra más adelante, ver "Bonnie — payoff, no causa"); la aparente muerte de la niña; el duelo público de San Aurelio en La Almendra; el duelo privado de Chiara en el hospital; y Kal en [[05_Locations/El_Mirador|El Mirador]].
 
-**No confirma todavía** que Elenna sobrevivió, que fue enviada a Italia, que Bonnie está implicada, el mecanismo de la falsa muerte ni el detonante que la volvió necesaria. La prosa restringe información; no miente. El lector puede interpretar legítimamente que Elenna murió, que la pareja se rompió, o cualquier otra lectura — no se corrige todavía.
+**No confirma todavía** que Elenna sobrevivió, que fue enviada a Italia, que Bonnie está implicada, el mecanismo de la falsa muerte ni el detonante que la volvió necesaria. La prosa restringe información; no miente. El lector puede interpretar legítimamente que Elenna murió, que la pareja se rompió, o cualquier otra lectura — no se corrige todavía. *(Superado 2026-11-07: Bonnie está en Boston; «Elenna Serra» e Italia, retiradas.)*
 
 Cierre canon del capítulo: Chiara no puede salir del hospital y llama a Héctor para que busque a Kal. Él lo encuentra mirando el cielo. Línea canon:
 
@@ -86,9 +86,9 @@ Tras el flashforward, la narración vuelve a **`Nueve meses antes.`** Chiara est
 
 Orden relativo obligatorio de este tramo (de [[06_Relationships/Hitos]], arco de embarazo/nacimiento/separación):
 
-`nacimiento de Elenna (la guerra ya escala) → detonante pendiente que vuelve inaceptable mantenerla en el tablero → muerte pública falsa → Elenna Serra con Bonnie en Italia → separación prolongada y fotografías escasas que se destruyen tras verlas`
+`nacimiento de Elenna (la guerra ya escala) → detonante pendiente que vuelve inaceptable mantenerla en el tablero → muerte pública falsa → Elenna Serra con Bonnie en Italia → separación prolongada y fotografías escasas que se destruyen tras verlas` *(Superado 2026-11-07: Bonnie está en Boston; «Elenna Serra» e Italia, retiradas.)*
 
-Bonnie ya lleva tiempo fuera y tiene vida/cobertura estable en Italia antes de recibir a Elenna (payoff de F2, no causa).
+Bonnie ya lleva tiempo fuera y tiene vida/cobertura estable en Italia antes de recibir a Elenna (payoff de F2, no causa). *(Superado 2026-11-07: Bonnie está en Boston; «Elenna Serra» e Italia, retiradas.)*
 
 ### H8 — el incendio del loft como antecedente ideológico
 
@@ -114,7 +114,7 @@ Nace de una red creciente de vulnerabilidades: Dario Varek, Warren Halbrook, Il 
 
 > **DISEÑO (2026-09-11).** Ver también [[02_Characters/Kal_Mercer]] y [[02_Characters/Chiara_Bellandi]].
 
-Kal entiende proteger como **distancia física** — cuando alguien corre peligro, apartarlo. Antecedente directo: Bonnie. Chiara entiende proteger como **control de versión e información** — si el mundo cree que algo murió, desaparece del tablero estratégico. La solución final combina ambos instintos: **Kal, lejos. Chiara, muerta para el mundo.** Resultado: Elenna Mercer desaparece públicamente; Elenna Serra aparece clandestinamente en Italia.
+Kal entiende proteger como **distancia física** — cuando alguien corre peligro, apartarlo. Antecedente directo: Bonnie. Chiara entiende proteger como **control de versión e información** — si el mundo cree que algo murió, desaparece del tablero estratégico. La solución final combina ambos instintos: **Kal, lejos. Chiara, muerta para el mundo.** Resultado: Elenna Mercer desaparece públicamente; Elenna Serra aparece clandestinamente en Italia. *(Superado 2026-11-07: Bonnie está en Boston; «Elenna Serra» e Italia, retiradas.)*
 
 ### Bonnie — payoff, no causa
 
@@ -198,7 +198,7 @@ Relación causal y orden fino montaña ↔ Santa Lucía: **PENDIENTE.**
 ## Pendientes (de [[00_Biblia/00_Trilogy_Structure]] y [[06_Relationships/Hitos]])
 
 - ~~Detonante concreto que obliga a fingir la muerte de Elenna.~~ **Embarazo, detonante (Trix e Iris), reposo, parto y quién sabe: DECISIONES DEL AUTOR 2026-11-08 en [[11_Books/Book_03_Voto_De_Ceniza/00_Diseno_Embarazo_Y_Falsa_Muerte]].**
-- Mecanismo médico / documental / logístico de Elenna Serra.
+- Mecanismo médico / documental / logístico de Elenna Serra. *(Superado 2026-11-07: Bonnie está en Boston; «Elenna Serra» e Italia, retiradas.)*
 - Duración exacta de la separación (trabajo: ~1 año, hasta los primeros pasos).
 - Momento exacto de H22 dentro del libro, más allá de sus anclas relativas.
 - Mecanismo y evidencia de la caída legal de Dario.

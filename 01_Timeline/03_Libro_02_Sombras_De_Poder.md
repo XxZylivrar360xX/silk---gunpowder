@@ -246,7 +246,7 @@ autos, rutinas y pertenencia al grupo joven.
   decisión y Nadir el acto.
 - **F2-B / Bonnie, ese mismo día:** su conflicto propio obliga a sacarla de San Aurelio / El
   Patio para evitar otra muerte. El conflicto exacto sigue pendiente. Se conserva la salida
-  norte → Nueva York → Italia. Mei-Lin se queda y muere; Bonnie vive porque se va.
+  norte → Nueva York → Italia. Mei-Lin se queda y muere; Bonnie vive porque se va. *(Superado 2026-11-07: Bonnie está en Boston; «Elenna Serra» e Italia, retiradas.)*
 
 El destierro no es premio: Bonnie pierde a Mei-Lin, La Almendra, Chiara, su red cotidiana,
 ciudad, identidad habitual y la vida que construía. Su futuro papel con Elenna es payoff de
@@ -333,7 +333,7 @@ Sustituye "la joyería con Héctor" como compra fuera de página.
 
 ### Condición de salida — Parte II
 
-- Mei-Lin está muerta; Bonnie está fuera de San Aurelio y encaminada hacia Italia.
+- Mei-Lin está muerta; Bonnie está fuera de San Aurelio y encaminada hacia Italia. *(Superado 2026-11-07: Bonnie está en Boston; «Elenna Serra» e Italia, retiradas.)*
 - Nadir sigue dentro, con una grieta nueva. El loft ya no existe.
 - Villa Candelaria empieza a ser / ya es su nuevo hogar.
 - Kal y Chiara han ido a Noruega y están comprometidos.

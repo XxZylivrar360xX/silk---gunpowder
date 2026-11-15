@@ -23,7 +23,7 @@ El antagonista debe diseñarse con suficiente profundidad para sostener la **duo
 
 ### Libro 4 — Juramento de Hierro — plantar
 
-- Elenna entra como Recluta (tratamiento: Recluta Mercer); Nicholas participa en su formación (química de pareja policial mentor/aprendiz).
+- Elenna entra como Recluta (tratamiento: Recluta Mercer); Nicholas participa en su formación (química de pareja policial mentor/aprendiz). *(2026-11-15: «Recluta Mercer» fue el título provisional del autor para la secuela, no canon; Elenna llega como Ardizzone y recupera Mercer en una audiencia antes de ser cadete. Ver [[11_Books/00_Diseno_Final_Boston_Y_La_Villa]].)*
 - Primeros turnos / cultura del Departamento.
 - Erin Reyes, mejor amiga civil de Elenna, ya presente — da la única relación horizontal fuera del trabajo.
 - Nuevo homicidio de policía reproduce rasgos de Vera; Nicholas cree que volvió el asesino adulto que buscó por años.
@@ -110,7 +110,7 @@ Contraste deliberado:
 - Bellandi Ridge;
 - Corrado / Nonno;
 - hamburguesas y malteadas con Nadir;
-- departamento modesto de Elenna;
+- departamento modesto de Elenna; *(2026-11-15: supersedido; en el V Elenna se muda a Villa Candelaria, que Walt le entrega. Ver [[11_Books/00_Diseno_Final_Boston_Y_La_Villa]].)*
 - cartas de Chiara;
 - llamadas de Kal;
 - Bonnie/Marisol como hermanas adultas.

@@ -1,5 +1,7 @@
 # Bonnie García
 
+> **DECISIÓN DEL AUTOR (2026-11-15):** **la familia Mercer termina en Boston**, donde vive Bonnie; Elenna crece cerca de ella. Ver [[11_Books/00_Diseno_Final_Boston_Y_La_Villa]].
+
 > **CAMBIO DE CANON (2026-11-07):** F2 ya no es ejecución ni destierro: Mei-Lin muere tras una operación y Bonnie se va a Boston por elección; recibe a Elenna desde Boston (se retira Italia). Manda [[06_Relationships/Momentos_de_Fractura#F2 - La muerte de Mei-Lin y la salida de Bonnie|F2]]; lo que diga abajo sobre Italia, Roberta Ardizzone, la ejecución o el destierro queda superado.
 
 > **NUEVO CAUCE — PARTE III (2026-11-08; [[98_Agent_Handoff/sessions/2026-11-08_claude_propagacion_parte_III]]; prosa BORRADOR, lo nuevo es DISEÑO salvo donde dice CANON):** **Nuevo 35:** se queda el beat del mesero («Por babor…») en el yate; Kal ve desde lejos que Chiara le pregunta el nombre. «Roma» sólo con Nadir y Bonnie. **Nuevo 37:** Chiara la busca por la lista de seguridad del yate y le cuenta Palermo; Bonnie le habla de usted, con frases cortas, y lee a la gente por hacia dónde mira («Allá también tiene jefe, entonces»). **Nuevo 38 (CANON, opción a):** en la llamada le dice a Chiara que Mei-Lin duerme en el Patio y que «lo de allá arriba se deshizo»; no nombra a Boone ni a la banda; le preguntó dos veces y no va a llevar a nadie hasta donde duerme. **No hay ficha de voz de Bonnie** en `12_Craft_Policies/voice/` (los rasgos de arriba salen de la prosa).
@@ -20,8 +22,8 @@ Irse no es ganar: pierde a Mei-Lin, La Almendra, el vínculo diario con Chiara, 
 
 > **CANON DEL AUTOR (2026-10-03) — nombre legal y alias.** Su nombre completo es **Roberta «Bonnie» García**.
 > - **Libros I-III:** en la prosa es **Bonnie**. El apellido García solo se menciona en su presentación inicial; después no se pone foco en él.
-> - **Exilio en Italia (F2 en adelante):** su identidad de resguardo es **Roberta Ardizzone**. Usa su nombre legal real y el apellido de la familia de Chiara.
-> - **Veinte años después:** para Elenna y Marisol sigue siendo «Bonnie». Para el mundo es **Roberta Ardizzone**, dueña y administradora de la cadena hotelera.
+> - **Exilio en Italia (F2 en adelante):** su identidad de resguardo es **Roberta Ardizzone**. Usa su nombre legal real y el apellido de la familia de Chiara. *(Superado 2026-11-07: Bonnie está en Boston; «Elenna Serra» e Italia, retiradas.)*
+> - **Veinte años después:** para Elenna y Marisol sigue siendo «Bonnie». Para el mundo es **Roberta Ardizzone**, dueña y administradora de la cadena hotelera. *(Superado 2026-11-07: Bonnie está en Boston; «Elenna Serra» e Italia, retiradas.)*
 > - **Descontinuado:** «Bonnie Colombo». Colombo era el apellido original de Giulia (Giulia Colombo), la semilla de inspiración, y se retira para alejarse de la fuente. Queda resuelto el pendiente Ardizzone/Colombo.
 > - **Origen del apodo (CANON DEL AUTOR 2026-10-03):** **Mei-Lin** le dice «Bonnie», y el apodo se queda toda la historia porque es auténtico. Eran amigas de verdad; Mei-Lin tomó malas decisiones y eso le costó la vida. Cuando Bonnie conserva el nombre veinte años después, conserva a Mei-Lin. El apodo nace en la época de la banda de corredores, antes de El Patio, fuera de foco y de la prosa: Bonnie ya llega con él. (Se retira la propuesta DISEÑO de «bonita».)
 
@@ -36,7 +38,7 @@ Irse no es ganar: pierde a Mei-Lin, La Almendra, el vínculo diario con Chiara, 
 **Oficio:** corredora callejera; aprendiz operativa de lectura de escenarios.
 **Rol:** secundaria importante; protegida de Chiara.
 ~~**Identidad de resguardo en Italia:** Roberta Ardizzone.~~ *(Superado por CANON DEL AUTOR 2026-11-07: no hay exilio en Italia; con qué nombre vuelve ~veinte años después es PENDIENTE, ver [[06_Relationships/Momentos_de_Fractura]].)*
-**Estado:** viva; desterrada de San Aurelio en *Sombras de Poder* (Libro II, Parte III — Exilio; antes de H1) y establecida en Italia antes del nacimiento de Elenna en *Voto de Ceniza* (Libro III).
+**Estado:** viva; desterrada de San Aurelio en *Sombras de Poder* (Libro II, Parte III — Exilio; antes de H1) y establecida en Italia antes del nacimiento de Elenna en *Voto de Ceniza* (Libro III). *(Superado 2026-11-07: Bonnie está en Boston; «Elenna Serra» e Italia, retiradas.)*
 
 > **NUMERACIÓN SUPERADA (nota 2026-10-14):** «Estado» ya está corregido; otras secciones de esta ficha usan la arquitectura anterior. Hoy F2 cae en *Sombras de Poder* (Libro II) y Elenna nace en *Voto de Ceniza* (Libro III); ver [[00_Biblia/00_Trilogy_Structure]] y [[11_Books/Book_02_Sombras_De_Poder/00_Plan_Cuatro_Partes]]. Las menciones de «Libro I/II» en las secciones de F2 e Italia se leen con esa corrección.
 
@@ -104,7 +106,7 @@ Bonnie se vuelve la cuidadora cotidiana de Elenna durante aproximadamente su pri
 
 > Arquitectura completa en [[11_Books/Book_03_Voto_De_Ceniza/00_Book_Map|el Book Map de Voto de Ceniza]] ("Bonnie — payoff, no causa") y en [[02_Characters/Elenna_Mercer]].
 
-**Regla dura:** Bonnie no reaparece en escena —ni mensaje, ni llamada, ni interludio en Italia, ni pista explícita— en ningún momento del libro antes de la entrega de Elenna. Durante la planificación, Chiara sólo dice algo equivalente a *"yo me encargaré de que haya alguien de confianza al otro lado"*; Kal (y el lector) pueden asumir que se refiere a [[02_Characters/Ettore]]. No se corrige.
+**Regla dura:** Bonnie no reaparece en escena —ni mensaje, ni llamada, ni interludio en Italia, ni pista explícita— en ningún momento del libro antes de la entrega de Elenna. Durante la planificación, Chiara sólo dice algo equivalente a *"yo me encargaré de que haya alguien de confianza al otro lado"*; Kal (y el lector) pueden asumir que se refiere a [[02_Characters/Ettore]]. No se corrige. *(2026-11-07: sólo el lugar queda superado, de Italia a Boston; el resto sigue vigente.)*
 
 Kal lleva personalmente a Elenna a una pista clandestina y encuentra ahí una figura con gabardina y capucha que resulta ser Bonnie. La revelación es simultánea para Kal y para el lector — Chiara ya lo sabía. Bonnie recibe a la niña sin necesidad de discurso: su sola presencia, dado lo que ya vivió en F2, basta como promesa. No es niñera ni recurso operativo: **es alguien que ya sabe lo que significa ser apartada para poder seguir viva.**
 
@@ -167,7 +169,7 @@ Ese aprendizaje la vuelve peligrosa de una forma nueva: una corredora que aprend
 
 > **PENDIENTE:** si Mei-Lin quiere salir también o si eso crea tensión entre ellas.
 
-> **RESUELTO DE ARQUITECTURA (2026-08-31; corregido por CANON DEL AUTOR 2026-09-13):** durante el resguardo en Italia vive como **Roberta Ardizzone**, bajo la protección del apellido de Chiara. **PENDIENTES:** mecanismo documental, cobertura legal, apoyos y localización exacta.
+> **RESUELTO DE ARQUITECTURA (2026-08-31; corregido por CANON DEL AUTOR 2026-09-13):** durante el resguardo en Italia vive como **Roberta Ardizzone**, bajo la protección del apellido de Chiara. **PENDIENTES:** mecanismo documental, cobertura legal, apoyos y localización exacta. *(Superado 2026-11-07: Bonnie está en Boston; «Elenna Serra» e Italia, retiradas.)*
 
 ---
 

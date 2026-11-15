@@ -8,7 +8,7 @@
 
 ## Base (CANON DEL AUTOR, 2026-10-04)
 
-- Elenna es la mayor. Michael nace en Palermo unos 2 años después y **crecen juntos**, sin separaciones largas. A los 15 Elenna hace un viaje de unos días a Brasil con Marisol: siembra su gusto por viajar, pero no se muda.
+- Elenna es la mayor. Michael nace en Palermo unos 2 años después y **crecen juntos**, sin separaciones largas. A los 15 Elenna hace un viaje de unos días a Brasil con Marisol: siembra su gusto por viajar, pero no se muda. *(2026-11-15: por re-decidir con el final en Boston; ver [[11_Books/00_Diseno_Final_Boston_Y_La_Villa]].)*
 - **Apellidos cruzados:** Elenna lleva Mercer y descubre cuánto Ardizzone hay en ella. Michael nace Mercer, agrega Ardizzone por elección y sabe que es Mercer en sangre y carácter.
 - **Él parece el mayor** por personalidad: formal, de deber, de mesa.
 - Contraste visual: ella es rubia, con mochila y cámara, y sale a Kal; él lleva cabello negro y traje italiano, y sale a los Ardizzone.

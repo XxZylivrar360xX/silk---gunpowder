@@ -1,5 +1,7 @@
 # Michael Ardizzone
 
+> **DECISIÓN DEL AUTOR (2026-11-15):** la familia termina **en Boston**, no en Palermo. **Dónde nace Michael queda por re-decidir** (recomendación: Boston); la silla de La Mesa y Livia lo siguen llevando a Palermo. Ver [[11_Books/00_Diseno_Final_Boston_Y_La_Villa]].
+
 *Seda y Pólvora — Ficha de Personaje*
 
 > **CANON DEL AUTOR (2026-10-04).** Segundo hijo de [[02_Characters/Kal_Mercer]] y [[02_Characters/Chiara_Bellandi]]. Hermano menor de [[02_Characters/Elenna_Mercer]]. **Visita San Aurelio en el Libro V** (*Juramento de Hierro*) como Michael Mercer; entra de lleno en el **Libro VI** (*Hijos del Silencio*), ya como Michael Ardizzone, y sigue en el VII con una historia civil; no es protagonista de la línea policial de Elenna.
@@ -7,7 +9,7 @@
 **Nombre legal:** Michael Mercer Ardizzone. Nace **Michael Mercer**; agrega legalmente **Ardizzone** cuando decide asumir responsabilidad dentro de la famiglia. Profesionalmente y en Italia se presenta como **Michael Ardizzone**. Nunca lleva Bellandi: es la identidad que Chiara eligió para sí, no un apellido acumulable para los hijos.
 **Nombre de pila:** Michael, no Michele (decisión del autor, 2026-10-04), porque lleva el nombre de [[02_Characters/Michael_Grayson]], el amigo de Kal (DISEÑO: la razón no se explica en prosa).
 **Cómo lo llaman:** Kal y Elenna, siempre **Michael**. Corrado, **Michele**. Chiara usa uno u otro según el idioma que esté hablando. "Michele" es el nombre íntimo italiano y no borra el homenaje.
-**Nacimiento:** Palermo, unos **2 años después que Elenna**. Crecen y se crían juntos.
+**Nacimiento:** Palermo, unos **2 años después que Elenna**. Crecen y se crían juntos. *(2026-11-15: por re-decidir con el final en Boston; ver [[11_Books/00_Diseno_Final_Boston_Y_La_Villa]].)*
 **Edad en el Libro VI:** ~22 (derivado: Elenna 21 en el V + salto de 2-3 años).
 **Oficio:** hombre de negocios. Ocupa la silla Ardizzone en la mesa de familias.
 **Estado:** vivo.
@@ -103,7 +105,7 @@ Michael **sabe menos de lo que podría**. Antes de que Elenna lo toque, no conoc
 ## Conexiones
 
 - [[02_Characters/Elenna_Mercer]]: hermana mayor; se criaron juntos. Los dos saben desde niños que el señor Gabe es Corrado (CANON DEL AUTOR, 2026-10-04). Le abre la puerta hacia Volpi sin resolverle el caso. Relación: [[06_Relationships/Elenna_y_Michael]].
-- [[02_Characters/Corrado_Ardizzone]]: abuelo y mentor; le entrega la silla en vida. Lo llama Michele. Pasaba temporadas en Italia con la familia.
+- [[02_Characters/Corrado_Ardizzone]]: abuelo y mentor; le entrega la silla en vida. Lo llama Michele. Pasaba temporadas en Italia con la familia. *(2026-11-15: por re-decidir con el final en Boston; ver [[11_Books/00_Diseno_Final_Boston_Y_La_Villa]].)*
 - [[02_Characters/Walter_Keegan]]: lo releva en el Monarch.
 - [[02_Characters/Livia_Ferraro]]: prometida.
 - [[02_Characters/Iris_Harlow|Iris]]: de quien se enamora en San Aurelio.

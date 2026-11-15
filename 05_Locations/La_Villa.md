@@ -1,5 +1,9 @@
 # La Villa / Villa Candelaria
 
+> **DECISIÓN DEL AUTOR (2026-11-15, segunda tanda):** lo más sensible que Elenna encuentra en la casa es **«su cuarto que nunca fue suyo»**: el cuarto que le prepararon durante el embarazo y que nunca usó. Ver [[11_Books/00_Diseno_Final_Boston_Y_La_Villa]].
+
+> **DECISIONES DEL AUTOR (2026-11-15):** **la Villa siempre estuvo a nombre de Chiara**; así lo especificó Kal al firmar las escrituras, y Chiara lo descubre por accidente cuando encuentra el testamento de Kal, sobre las escrituras de todas las propiedades. Cuando la familia se va (a Boston), **Walt la mantiene** en desuso, con los muebles bajo sábanas, y en el V **se la entrega a Elenna** con la llave y la dirección. Diseño: [[11_Books/00_Diseno_Final_Boston_Y_La_Villa]].
+
 ## Posición y función vigentes — CANON DEL AUTOR 2026-09-20
 
 Villa Candelaria se adquiere / funda / convierte en hogar en **Parte V — Exilio, después del incendio que cierra IV y después del mismo día de ejecución de Mei-Lin y destierro de Bonnie**. **SUPERSEDIDA** la transición inmediata incendio → Villa y cualquier Villa ya construida antes de F2. El plan previo de Kal no equivale a haberla adquirido o levantado.
@@ -17,6 +21,7 @@ El loft fue hogar descubierto; Villa es hogar reconstruido deliberadamente. Kal 
 **Qué es:** una villa en **Lomas de San Jacinto**, la zona residencial del norte de San Aurelio, dentro de la franja alta de Cuesta Bonita. La casa de Kal y Chiara escogida y construida por ambos después de perder el loft y de F2.
 **Por qué existe:** porque **[[02_Characters/Silas_Crowe]] incendió [[05_Locations/La_Casa]]**, el loft del barrio, por un cargamento que Kal no entregó a tiempo.
 **Qué ocurre aquí:** [[06_Relationships/Hitos#H1 — El regreso a casa|H1 — El regreso a casa]], pico emocional durante Parte VI del Libro I; después, la expectativa doméstica del embarazo y las fotografías de Elenna durante la separación.
+> *(2026-11-15: Elenna vive aquí desde el V; ver [[11_Books/00_Diseno_Final_Boston_Y_La_Villa]].)*
 
 ---
 

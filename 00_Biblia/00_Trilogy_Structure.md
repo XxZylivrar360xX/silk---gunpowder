@@ -115,7 +115,7 @@ Debe desarrollar de forma suficiente:
 
 ## Regla dura — Bonnie pertenece a *Sombras de Poder*, no al Libro I
 
-> **REVIERTE la regla de 2026-09-07** (ver supersesiones). La salida de Bonnie y la muerte de Mei-Lin (F2) vuelven a pertenecer a *Sombras de Poder* (Libro II), no al Libro I. Nacen de su propio conflicto, no se diseñan para acomodar a Elenna; que Bonnie cuide después a Elenna en Italia sigue siendo payoff de una decisión previa.
+> **REVIERTE la regla de 2026-09-07** (ver supersesiones). La salida de Bonnie y la muerte de Mei-Lin (F2) vuelven a pertenecer a *Sombras de Poder* (Libro II), no al Libro I. Nacen de su propio conflicto, no se diseñan para acomodar a Elenna; que Bonnie cuide después a Elenna en Italia sigue siendo payoff de una decisión previa. *(Superado 2026-11-07: Bonnie está en Boston; «Elenna Serra» e Italia, retiradas.)*
 
 ## Escalada final
 
@@ -337,7 +337,7 @@ La policía sigue siendo actor visible, no cuarto vértice.
 
 Chiara entra embarazada al Libro III.
 
-Bonnie ya lleva tiempo fuera de San Aurelio y debe haber construido en Italia una vida/cobertura suficiente por razones propias antes de que Elenna necesite protección.
+Bonnie ya lleva tiempo fuera de San Aurelio y debe haber construido en Italia una vida/cobertura suficiente por razones propias antes de que Elenna necesite protección. *(Superado 2026-11-07: Bonnie está en Boston; «Elenna Serra» e Italia, retiradas.)*
 
 Elenna nace durante el primer tramo importante del libro, cuando la guerra ya escala.
 
@@ -346,11 +346,11 @@ Después debe existir un detonante concreto —todavía pendiente— que vuelva 
 Resultado obligatorio:
 
 > **Estado público: Elenna Mercer ha muerto.**
-> **Estado real: Elenna Mercer vive bajo la identidad de resguardo Elenna Serra.**
+> **Estado real: Elenna Mercer vive bajo la identidad de resguardo Elenna Serra.** *(Superado 2026-11-07: Bonnie está en Boston; «Elenna Serra» e Italia, retiradas.)*
 
 Dario y Halbrook no saben que sobrevivió.
 
-Bonnie la recibe y cuida en Italia.
+Bonnie la recibe y cuida en Italia. *(Superado 2026-11-07: Bonnie está en Boston; «Elenna Serra» e Italia, retiradas.)*
 
 El verdadero Voto de Ceniza es que Kal y Chiara aceptan perder:
 
@@ -464,7 +464,7 @@ Estado de salida:
 - Dario está preso.
 - Héctor y Kenji están muertos.
 - Chiara ha sobrevivido a Santa Lucía.
-- Elenna sigue viva y lejos bajo la identidad Serra.
+- Elenna sigue viva y lejos bajo la identidad Serra. *(Superado 2026-11-07: Bonnie está en Boston; «Elenna Serra» e Italia, retiradas.)*
 - Kal y Chiara ya decidieron construir una salida.
 - Kal ha sentenciado a Halbrook; Halbrook está muerto (tirador sin revelar; la ciudad y el lector sospechan de Kal).
 - Chiara sigue en coma.
@@ -616,9 +616,11 @@ Kal y Chiara desaparecen de la ciudad juntos y vuelven con su hija.
 
 ## Imagen final
 
-Palermo.
+> **DECISIÓN DEL AUTOR (2026-11-15): el final es en Boston, no en Palermo.** Ahí vive Bonnie, que recibió a Elenna (F2 nuevo, 2026-11-07); el autor había elegido Palermo porque Bonnie la criaba en Italia. Lo que colgaba de Palermo (dónde nace Michael, el viñedo, la casa azul y la línea de la cocina, el lugar de Palermo en la vida de la familia) está en [[11_Books/00_Diseno_Final_Boston_Y_La_Villa]].
 
-Casa modesta azul, molduras blancas, jardín.
+Palermo. *(2026-11-15: la familia termina en Boston, no en Palermo; ver [[11_Books/00_Diseno_Final_Boston_Y_La_Villa]].)*
+
+Casa modesta azul, molduras blancas, jardín. *(2026-11-15: por re-decidir con el final en Boston; ver [[11_Books/00_Diseno_Final_Boston_Y_La_Villa]].)*
 
 Chiara con una copa de vino.
 
@@ -626,7 +628,7 @@ Kal preparando la comida.
 
 Elenna viviendo con ellos como hija, no como heredera.
 
-> **Chiara:** —No vayas a quemar de nuevo la cocina, amore.
+> **Chiara:** —No vayas a quemar de nuevo la cocina, amore. *(2026-11-15: por re-decidir con el final en Boston; ver [[11_Books/00_Diseno_Final_Boston_Y_La_Villa]].)*
 > **Kal:** —No prometo nada.
 
 > **FIN DE CUENTAS DE SANGRE.**
@@ -676,7 +678,7 @@ Elenna viviendo con ellos como hija, no como heredera.
 
 | De | Hacia | Bisagra |
 |---|---|---|
-| **Cuentas de Sangre** | **Juramento de Hierro** | Elenna, 21 años, deja Palermo y vuelve a San Aurelio para entrar a la academia |
+| **Cuentas de Sangre** | **Juramento de Hierro** | Elenna, 21 años, deja Palermo y vuelve a San Aurelio para entrar a la academia *(2026-11-15: la familia termina en Boston, no en Palermo; ver [[11_Books/00_Diseno_Final_Boston_Y_La_Villa]].)* |
 | **Juramento de Hierro** | **Hijos del Silencio** | Duelo de Nicholas sin objeto + tensión Elenna/Erin + Ethan sin sospecha |
 | **Hijos del Silencio** | **Camino a Casa** | Dylan juzgado + la noche Marsh sin explicar + Elenna en el suelo del banco, espejo de Santa Lucía (#44, #47, #48) |
 
@@ -817,7 +819,7 @@ No inventar por conveniencia:
 - distancia temporal fina entre salida de Bonnie, H1 y reveal del embarazo;
 - calendario exacto del embarazo y nacimiento;
 - detonante que obliga a fingir la muerte de Elenna;
-- mecanismo médico/documental/logístico de Elenna Serra;
+- mecanismo médico/documental/logístico de Elenna Serra; *(Superado 2026-11-07: Bonnie está en Boston; «Elenna Serra» e Italia, retiradas.)*
 - duración exacta de la separación;
 - momento exacto de H22 dentro de *Voto de Ceniza* (Libro III), más allá de sus anclas relativas;
 - mecanismo legal fino del arresto de Dario;

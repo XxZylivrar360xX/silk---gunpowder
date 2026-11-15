@@ -41,7 +41,7 @@ Su arco se vincula con la evolución de Chiara desde una posición que otros le 
 
 - Kal y Chiara se casaron allí.
 - Pertenece legalmente a **Elenna**.
-- Elenna no lo reclama como residencia principal; alquila un departamento modesto y busca independencia.
+- Elenna no lo reclama como residencia principal; alquila un departamento modesto y busca independencia. *(2026-11-15: supersedido; en el V Elenna se muda a Villa Candelaria, que Walt le entrega. Ver [[11_Books/00_Diseno_Final_Boston_Y_La_Villa]].)*
 - Funciona como refugio/respiración, no como base operativa de investigación.
 - Conviene protegerlo de intrusión criminal/policial durante buena parte de la historia.
 

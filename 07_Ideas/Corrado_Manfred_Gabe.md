@@ -1,6 +1,6 @@
 # Corrado como Manfred Gabe — el exilio en San Aurelio
 
-> **PROPAGADO (2026-10-04, orden del autor)** a las fichas de Corrado, Walt, Ettore, Nereo Volpi, Chiara, Elenna y Michael, a H12, a Trilogy_Structure y a los timelines IV y VII. Resueltos por el autor: Walt y Amanda **buscaban hijo** en París (Jim no se mueve); el método a distancia es **Ettore**; después de la saga Corrado pasa temporadas en Italia; su camper de expedientes entra al VII. Los demás pendientes de abajo siguen abiertos. Las fichas mandan.
+> **PROPAGADO (2026-10-04, orden del autor)** a las fichas de Corrado, Walt, Ettore, Nereo Volpi, Chiara, Elenna y Michael, a H12, a Trilogy_Structure y a los timelines IV y VII. Resueltos por el autor: Walt y Amanda **buscaban hijo** en París (Jim no se mueve); el método a distancia es **Ettore**; después de la saga Corrado pasa temporadas en Italia; su camper de expedientes entra al VII. Los demás pendientes de abajo siguen abiertos. Las fichas mandan. *(2026-11-15: por re-decidir con el final en Boston; ver [[11_Books/00_Diseno_Final_Boston_Y_La_Villa]].)*
 >
 > **INCUBADORA (2026-10-03).** Idea del autor en desarrollo. Las líneas marcadas **CANON DEL AUTOR** son decisiones ya dichas por el autor en sesión, pero **todavía no se propagan** a [[02_Characters/Corrado_Ardizzone]], [[02_Characters/Walter_Keegan]], [[00_Biblia/00_Trilogy_Structure]] ni [[06_Relationships/Hitos]] (H12). Hasta esa propagación, las fichas canon siguen mandando donde choquen. **DISEÑO** = propuesta del agente. **PENDIENTE** = falta decisión.
 

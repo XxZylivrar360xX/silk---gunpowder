@@ -80,7 +80,7 @@ Las posiciones internas quedaron fijadas el 2026-09-20; no reabrirlas. Mantener 
 
 Esta secuencia supersede cualquier colocación anterior del embarazo como sorpresa tardía y cualquier ubicación de H1 después de la Guerra de los Tres:
 
-`Chiara confirma el embarazo → H1 (Chiara sabe / Kal no) → recuperación de Kal → reveal a Kal → cierre del Libro II — Sombras de Poder → Voto de Ceniza abre con la guerra en escalada → nacimiento de Elenna en su primer tramo importante → muerte pública / Elenna Serra con Bonnie → separación y fotografías → H22 — Los primeros pasos → caída de Dario / montaña / Santa Lucía → Kal sentencia a Halbrook`.
+`Chiara confirma el embarazo → H1 (Chiara sabe / Kal no) → recuperación de Kal → reveal a Kal → cierre del Libro II — Sombras de Poder → Voto de Ceniza abre con la guerra en escalada → nacimiento de Elenna en su primer tramo importante → muerte pública / Elenna Serra con Bonnie → separación y fotografías → H22 — Los primeros pasos → caída de Dario / montaña / Santa Lucía → Kal sentencia a Halbrook`. *(Superado 2026-11-07: Bonnie está en Boston; «Elenna Serra» e Italia, retiradas.)*
 
 Reglas duras:
 
@@ -89,8 +89,8 @@ Reglas duras:
 - El reveal no ocurre durante la hemorragia, la atención médica, el baño ni el pico de H1. Kal debe quedar fuera de peligro, dormir, iniciar recuperación y recuperar cierta normalidad doméstica antes de saberlo.
 - El Libro II construye poder y familia simultáneamente. El embarazo atraviesa la vida doméstica sin convertir cada capítulo en escena médica o de síntomas.
 - La Guerra de los Tres no nace por Elenna. Recibe a Chiara ya embarazada e invade una vida familiar en marcha.
-- **F2 ocurre en el Libro II — Sombras de Poder, antes de H1**, por el conflicto propio de Bonnie. Su presencia futura en Italia es payoff, nunca motivo retroactivo del destierro.
-- Elenna nace en el primer tramo importante de Voto de Ceniza (Libro III), después de que Bonnie esté fuera de San Aurelio y tenga una vida/cobertura estable en Italia desde el Libro II. La fecha, semana y capítulo exactos siguen pendientes.
+- **F2 ocurre en el Libro II — Sombras de Poder, antes de H1**, por el conflicto propio de Bonnie. Su presencia futura en Italia es payoff, nunca motivo retroactivo del destierro. *(Superado 2026-11-07: Bonnie está en Boston; «Elenna Serra» e Italia, retiradas.)*
+- Elenna nace en el primer tramo importante de Voto de Ceniza (Libro III), después de que Bonnie esté fuera de San Aurelio y tenga una vida/cobertura estable en Italia desde el Libro II. La fecha, semana y capítulo exactos siguen pendientes. *(Superado 2026-11-07: Bonnie está en Boston; «Elenna Serra» e Italia, retiradas.)*
 - El detonante que obliga a ocultar a Elenna debe nacer orgánicamente de la escalada, la exposición y la imposibilidad de proteger a una bebé sin volverla objetivo. Sigue pendiente.
 - La duración de trabajo para la separación es **cerca de un año**, suficiente para que Elenna llegue a sus primeros pasos; el calendario exacto no se fija hasta cuadrar la cronología global.
 - **H22 ocurre antes de la caída de Dario, la montaña y Santa Lucía — no después.** No depende de que la arquitectura bélica esté cerrada; depende de que la separación de Elenna ya sea experiencia cotidiana.
@@ -2754,15 +2754,15 @@ Sin esta presión, la separación parecería artificial.
 
 ### B — Destierro de Bonnie
 
-Bonnie debe haber sido formada por Chiara, perdido su lugar en San Aurelio por un conflicto propio, sobrevivido mediante desaparición y construido una vida suficiente en Italia como **Roberta Ardizzone**.
+Bonnie debe haber sido formada por Chiara, perdido su lugar en San Aurelio por un conflicto propio, sobrevivido mediante desaparición y construido una vida suficiente en Italia como **Roberta Ardizzone**. *(Superado 2026-11-07: Bonnie está en Boston; «Elenna Serra» e Italia, retiradas.)*
 
-Kal no la destierra pensando en una hija futura. Chiara no la coloca en Italia para convertirla en cuidadora. Mucho después, cuando necesitan a alguien absolutamente confiable, Bonnie ya está allí.
+Kal no la destierra pensando en una hija futura. Chiara no la coloca en Italia para convertirla en cuidadora. Mucho después, cuando necesitan a alguien absolutamente confiable, Bonnie ya está allí. *(Superado 2026-11-07: Bonnie está en Boston; «Elenna Serra» e Italia, retiradas.)*
 
 Sin esa cadena, Bonnie cuidando a Elenna parecería una solución inventada después del problema.
 
 ### C — Nacimiento y pérdida pública de Elenna
 
-El lector debe haber vivido el embarazo, H1 con el conocimiento desigual, el reveal a Kal, el nacimiento, la decisión de sacarla, la muerte pública falsa, Elenna Serra, las fotografías y una separación suficientemente larga para producir pérdida cotidiana.
+El lector debe haber vivido el embarazo, H1 con el conocimiento desigual, el reveal a Kal, el nacimiento, la decisión de sacarla, la muerte pública falsa, Elenna Serra, las fotografías y una separación suficientemente larga para producir pérdida cotidiana. *(Superado 2026-11-07: Bonnie está en Boston; «Elenna Serra» e Italia, retiradas.)*
 
 Sin esa acumulación, el video sería una escena tierna. Con ella, es una derrota.
 

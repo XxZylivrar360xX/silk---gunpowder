@@ -54,7 +54,7 @@
 
 > **RESUELTO (2026-09-16):** el disparo ocurre en la **apertura del Libro 5**, no en el Libro 4. Es también el disparador del primer reencuentro físico de Kal y Chiara con Elenna. Ver [[07_Ideas/Libro_04_Incubadora/07_Arquitectura_y_Temas]] y escena faro 2 en [[07_Ideas/Libro_04_Incubadora/06_Escenas_Faro]].
 
-> **RESUELTO (2026-09-16):** academia estándar (~6 meses); pasa a patrulla y se muda del departamento de Marisol al propio casi al mismo tiempo. Especialidad: **K9**, con el pastor alemán **Rex** (pelaje bronce, comandos en italiano). Ver [[02_Characters/Elenna_Mercer]] y [[07_Ideas/Libro_04_Incubadora/03_Relaciones_Elenna]].
+> **RESUELTO (2026-09-16):** academia estándar (~6 meses); pasa a patrulla y se muda del departamento de Marisol al propio casi al mismo tiempo. Especialidad: **K9**, con el pastor alemán **Rex** (pelaje bronce, comandos en italiano). Ver [[02_Characters/Elenna_Mercer]] y [[07_Ideas/Libro_04_Incubadora/03_Relaciones_Elenna]]. *(2026-11-15: supersedido; en el V Elenna se muda a Villa Candelaria, que Walt le entrega. Ver [[11_Books/00_Diseno_Final_Boston_Y_La_Villa]].)*
 
 > **RESUELTO (2026-09-16):** el parentesco de Elenna con Kal/Chiara **nunca se aclara públicamente, y ya no importa** — veinte años después la ciudad tiene otras preocupaciones; quienes preguntan reciben silencio educado de la familia. No hay versión oficial fabricada ni misterio activo que sostener en prosa.
 

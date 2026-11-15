@@ -192,6 +192,7 @@ Línea fuerte:
 Posible cierre:
 
 > **“Para él eres la hija de dos fantasmas. Para mí eres Recluta Mercer. Y ya me das suficientes problemas por cuenta propia.”**
+> *(2026-11-15: «Recluta Mercer» fue el título provisional del autor para la secuela, no canon; Elenna llega como Ardizzone y recupera Mercer en una audiencia antes de ser cadete. Ver [[11_Books/00_Diseno_Final_Boston_Y_La_Villa]].)*
 
 Función: derecho de Elenna a no convertirse en réplica de nadie.
 

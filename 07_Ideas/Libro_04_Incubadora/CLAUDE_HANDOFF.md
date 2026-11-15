@@ -31,7 +31,7 @@ Integrar al vault el material de `07_Ideas/Libro_04_Incubadora/` **sin convertir
 
 3. No alteres el epílogo de *Cuentas de Sangre* para adelantar la trama policial.
 
-4. No cambies a Elenna de `Recluta` (tratamiento: `Recluta Mercer`) a oficial plena sin que la cronología lo justifique.
+4. No cambies a Elenna de `Recluta` (tratamiento: `Recluta Mercer`) a oficial plena sin que la cronología lo justifique. *(2026-11-15: «Recluta Mercer» fue el título provisional del autor para la secuela, no canon; Elenna llega como Ardizzone y recupera Mercer en una audiencia antes de ser cadete. Ver [[11_Books/00_Diseno_Final_Boston_Y_La_Villa]].)*
 
 5. No muevas a Nicholas Voss a `02_Characters` hasta comprobar si su nombre/rol están suficientemente fijados por el autor. Si se crea ficha, marcar lo no aprobado como abierto.
 

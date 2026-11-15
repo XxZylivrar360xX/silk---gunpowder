@@ -1,5 +1,7 @@
 # Indice cronologico de la saga
 
+> **DECISIÓN DEL AUTOR (2026-11-15): el final es en Boston, no en Palermo.** Ahí vive Bonnie, que recibió a Elenna (F2 nuevo, 2026-11-07); el autor había elegido Palermo porque Bonnie la criaba en Italia. Lo que colgaba de Palermo (dónde nace Michael, el viñedo, la casa azul y la línea de la cocina, el lugar de Palermo en la vida de la familia) está en [[11_Books/00_Diseno_Final_Boston_Y_La_Villa]].
+
 > **Alcance:** enunciados de acontecimientos principales. El desarrollo vive en los `00_Book_Map`.
 
 ## Secuencia de los siete libros
@@ -16,7 +18,7 @@
 | 1 | [[02_Libro_01_Mascaras_De_Cristal]] | Kal y Chiara se conocen en San Aurelio | Reencuentro tras Camp Alder ("Ciao, bella", Cap. 55, archivo 50); Halbrook llega a San Aurelio (Cap. 56, archivo 50b) |
 | 2 | [[03_Libro_02_Sombras_De_Poder]] | Reconciliación tras Camp Alder y asesinato de Fabrizio (Tommaso sobrevive; CANON 2026-10-12) | H1 y el reveal del embarazo cierran el libro |
 | 3 | [[04_Libro_03_Voto_De_Ceniza]] | Chiara está embarazada y Halbrook ya está presente (llegó en el Cap. 56, archivo 50b, del Libro I) | Kal sentencia a Halbrook; Halbrook muere en su discurso de victoria |
-| 4 | [[05_Libro_04_Cuentas_De_Sangre]] | La muerte de Halbrook provoca Meridian | Kal y Chiara viven en Palermo con Elenna |
+| 4 | [[05_Libro_04_Cuentas_De_Sangre]] | La muerte de Halbrook provoca Meridian | Kal y Chiara viven en Palermo con Elenna *(2026-11-15: la familia termina en Boston, no en Palermo; ver [[11_Books/00_Diseno_Final_Boston_Y_La_Villa]].)* |
 | 5 | [[06_Libro_05_Juramento_De_Hierro]] | Elenna decide entrar a la academia | Nicholas queda sin objeto para su duelo; Ethan sigue oculto; grieta con Erin |
 | 6 | [[07_Libro_06_Hijos_Del_Silencio]] | Elenna ya ejerce como policía | Dylan Marsh detenido; la noche Marsh sigue sin explicar |
 | 7 | [[08_Libro_07_Camino_A_Casa]] | Elenna despierta herida; Kal y Chiara regresan | Se resuelve el caso Vera; Elenna elige quedarse en San Aurelio |

@@ -1,5 +1,9 @@
 # Elenna Mercer
 
+> **DECISIÓN DEL AUTOR (2026-11-15, segunda tanda):** **apellido:** llega como Ardizzone y **recupera Mercer en una audiencia antes de entrar a la policía como cadete**, con ayuda de Marisol. **Mudanza:** unas semanas después, la vida con Marisol se complica por el choque con la fiscalía; Elenna se lo cuenta a **Walt y a Corrado, que comparten un escocés**, y ahí Walt le da la llave de la Villa. En la casa encuentra lo que sus padres dejaron atrás y **«su cuarto que nunca fue suyo»**. Ver [[11_Books/00_Diseno_Final_Boston_Y_La_Villa]].
+
+> **DECISIONES DEL AUTOR (2026-11-15):** (1) la familia termina **en Boston**, no en Palermo: ahí crece Elenna. (2) En el V, **Walt le da la llave de Villa Candelaria** («No seas ridícula, niña, no necesitas buscar un lugar donde vivir, porque ya tienes un lugar donde vivir»): la casa de sus padres, en desuso, con los muebles bajo sábanas; supersede el «departamento propio». (3) **Su apellido:** murió para el mundo como Elenna Mercer; Marisol ayuda o ya ayudó a recuperar su legítimo apellido, y puede llegar a San Aurelio como una Ardizzone. «Recluta Mercer» era un título provisional del autor, no canon; el único choque es la línea del hangar del VII («—Mercer se cuida bastante bien sola.»). Opciones en [[11_Books/00_Diseno_Final_Boston_Y_La_Villa]]. Lo que diga abajo de Palermo queda superado.
+
 > **Numeración:** desde 2026-10-22 el Libro I usa numeración corrida definitiva (56 caps.); este documento cita la numeración anterior. Correspondencia en [[11_Books/Book_01_Mascaras_De_Cristal/00_Book_Map]].
 
 > **CAMBIO DE CANON (2026-11-07):** F2 ya no es ejecución ni destierro: Mei-Lin muere tras una operación y Bonnie se va a Boston por elección; recibe a Elenna desde Boston (se retira Italia). Manda [[06_Relationships/Momentos_de_Fractura#F2 - La muerte de Mei-Lin y la salida de Bonnie|F2]]; lo que diga abajo sobre Italia, Roberta Ardizzone o el destierro queda superado.
@@ -12,7 +16,7 @@
 
 > **ORIGEN DEL NOMBRE (DECISIÓN DEL AUTOR, 2026-11-06):** una niña de los cuentos de Marta Bellandi. Chiara lo olvidó; lo recuerda la mano. Referencia a Tolkien para quien la reconozca. Ninguna rima con la muerte pública se cuenta textualmente. Ver [[11_Books/Book_02_Sombras_De_Poder/00_Diseno_Nombre_Y_Embarazo]].
 
-> **CANON DEL AUTOR (2026-08-31).** El nombre verdadero es **Elenna Mercer**, con doble `n`. Durante su resguardo en Italia usa documentación como **Elenna Serra**. `Serra` no es su apellido real y no crea parentesco con ninguna familia: es una identidad destinada a cortar vínculos visibles con Kal, Chiara, Corrado y Bonnie.
+> **CANON DEL AUTOR (2026-08-31).** El nombre verdadero es **Elenna Mercer**, con doble `n`. Durante su resguardo en Italia usa documentación como **Elenna Serra**. `Serra` no es su apellido real y no crea parentesco con ninguna familia: es una identidad destinada a cortar vínculos visibles con Kal, Chiara, Corrado y Bonnie. *(Superado 2026-11-07: Bonnie está en Boston; «Elenna Serra» e Italia, retiradas.)*
 
 ## Datos básicos
 
@@ -23,10 +27,10 @@
 **Nacimiento:** durante *Voto de Ceniza* (Libro III); fecha exacta pendiente  
 **Estado público:** fallecida al nacer  
 **Estado real:** viva  
-**Lugar de resguardo:** Italia; localización exacta pendiente  
+**Lugar de resguardo:** Italia; localización exacta pendiente *(Superado 2026-11-07: Bonnie está en Boston; «Elenna Serra» e Italia, retiradas.)*  
 **Cuidadora durante el resguardo:** [[02_Characters/Bonnie_Garcia|Bonnie García]]
 
-Para la mayoría del mundo, la hija de Kal Mercer y Chiara Bellandi muere durante o alrededor del parto. La formulación pública exacta todavía no existe. En realidad, Elenna es retirada del tablero y pasa aproximadamente su primer año en Italia bajo la identidad **Elenna Serra**.
+Para la mayoría del mundo, la hija de Kal Mercer y Chiara Bellandi muere durante o alrededor del parto. La formulación pública exacta todavía no existe. En realidad, Elenna es retirada del tablero y pasa aproximadamente su primer año en Italia bajo la identidad **Elenna Serra**. *(Superado 2026-11-07: Bonnie está en Boston; «Elenna Serra» e Italia, retiradas.)*
 
 Ni [[02_Characters/Dario_Varek|Dario Varek]] ni [[02_Characters/Warren_Halbrook|Warren Halbrook]] saben que sobrevivió. Eso no cambia sin una decisión explícita posterior del autor.
 
@@ -53,11 +57,13 @@ No hereda marcas como inventario. No necesita la cicatriz de Kal, un lunar de Ch
 
 ## Infancia y adolescencia en Palermo — CANON DEL AUTOR (2026-10-04)
 
-Tras *Cuentas de Sangre*, Kal y Chiara dedican los primeros diez años de Elenna (y de su hermano [[02_Characters/Michael_Ardizzone|Michael]], que nace unos 2 años después) a criarla y darle la mejor vida, compensando la herida del año perdido cuando era bebé. **A los 15 hace un viaje de unos días a Brasil con [[02_Characters/Marisol_Grayson|Marisol]]** (CANON DEL AUTOR, corregido 2026-10-04: viaje corto, no mudanza). Basta para sembrar que a Elenna le gusta viajar y estar en constante movimiento; sigue viviendo en Palermo con su familia. Los "años de viajes" que preceden a la academia vienen después (DISEÑO: ahí cabría Río, de donde viene su amistad con Erin). Kal y Chiara fundan en Palermo un viñedo y una distribuidora agrícola. **PENDIENTE:** por qué Marisol y por qué Brasil.
+*(2026-11-15: la familia termina en Boston, no en Palermo; ver [[11_Books/00_Diseno_Final_Boston_Y_La_Villa]].)*
+
+Tras *Cuentas de Sangre*, Kal y Chiara dedican los primeros diez años de Elenna (y de su hermano [[02_Characters/Michael_Ardizzone|Michael]], que nace unos 2 años después) a criarla y darle la mejor vida, compensando la herida del año perdido cuando era bebé. **A los 15 hace un viaje de unos días a Brasil con [[02_Characters/Marisol_Grayson|Marisol]]** (CANON DEL AUTOR, corregido 2026-10-04: viaje corto, no mudanza). Basta para sembrar que a Elenna le gusta viajar y estar en constante movimiento; sigue viviendo en Palermo con su familia. Los "años de viajes" que preceden a la academia vienen después (DISEÑO: ahí cabría Río, de donde viene su amistad con Erin). Kal y Chiara fundan en Palermo un viñedo y una distribuidora agrícola. **PENDIENTE:** por qué Marisol y por qué Brasil. *(2026-11-15: la familia termina en Boston, no en Palermo; el viñedo y la distribuidora de Palermo, por re-decidir; ver [[11_Books/00_Diseno_Final_Boston_Y_La_Villa]].)*
 
 ## El hermano — CANON DEL AUTOR (2026-10-04)
 
-Elenna es la hermana mayor. [[02_Characters/Michael_Ardizzone]] nace en Palermo unos 2 años después y crecen juntos. **Los apellidos se cruzan:** Elenna usa Mercer y sabe que es Ardizzone; Michael nace Mercer y agrega Ardizzone por elección cuando asume responsabilidad en la famiglia (Michael Mercer Ardizzone), y sabe que es Mercer en sangre y carácter. Él parece el mayor por personalidad. Visita al abuelo en el Libro V como Michael Mercer y vuelve en el VI como Michael Ardizzone (relevo de Walt en el Monarch tras la muerte de Corrado) y se queda en San Aurelio, enamorado de [[02_Characters/Iris_Harlow|Iris]]; pierde la silla. Su historia es civil y no invade la línea policial de ella. Del camper de Corrado le abre la puerta hacia Volpi ("sé dónde terminó este hombre; no sé qué tiene que ver con Vera") sin resolverle el caso. Ironía: él vive por "el deber siempre es primero"; la policía es ella, y ella no está casada con esa idea.
+Elenna es la hermana mayor. [[02_Characters/Michael_Ardizzone]] nace en Palermo unos 2 años después y crecen juntos. **Los apellidos se cruzan:** Elenna usa Mercer y sabe que es Ardizzone; Michael nace Mercer y agrega Ardizzone por elección cuando asume responsabilidad en la famiglia (Michael Mercer Ardizzone), y sabe que es Mercer en sangre y carácter. Él parece el mayor por personalidad. Visita al abuelo en el Libro V como Michael Mercer y vuelve en el VI como Michael Ardizzone (relevo de Walt en el Monarch tras la muerte de Corrado) y se queda en San Aurelio, enamorado de [[02_Characters/Iris_Harlow|Iris]]; pierde la silla. Su historia es civil y no invade la línea policial de ella. Del camper de Corrado le abre la puerta hacia Volpi ("sé dónde terminó este hombre; no sé qué tiene que ver con Vera") sin resolverle el caso. Ironía: él vive por "el deber siempre es primero"; la policía es ella, y ella no está casada con esa idea. *(2026-11-15: por re-decidir con el final en Boston; ver [[11_Books/00_Diseno_Final_Boston_Y_La_Villa]].)*
 
 **El secreto del abuelo (CANON DEL AUTOR, 2026-10-04):** Elenna sabe que el señor Gabe es Corrado Ardizzone desde que tuvo edad suficiente para racionalizarlo; lo comparte con Michael desde niños. Relación completa: [[06_Relationships/Elenna_y_Michael]].
 
@@ -67,7 +73,7 @@ Elenna es la hermana mayor. [[02_Characters/Michael_Ardizzone]] nace en Palermo 
 
 ## Etapa adulta — 21 años y Recluta
 
-> **CANON DEL AUTOR (2026-09-13; rango formalizado 2026-09-16):** durante la etapa del epílogo de *Cuentas de Sangre*, Elenna tiene **21 años**. Aproximadamente veinte años después del cierre inmediato de Palermo, y unas semanas después del epílogo, regresa a San Aurelio para iniciar la academia como **Recluta** del [[03_Factions/Departamento_de_Policia_de_San_Aurelio|Departamento de Policía de San Aurelio]]. Se dirige a ella como **Recluta Mercer** (no "Recruit Mercer").
+> **CANON DEL AUTOR (2026-09-13; rango formalizado 2026-09-16):** durante la etapa del epílogo de *Cuentas de Sangre*, Elenna tiene **21 años**. Aproximadamente veinte años después del cierre inmediato de Palermo, y unas semanas después del epílogo, regresa a San Aurelio para iniciar la academia como **Recluta** del [[03_Factions/Departamento_de_Policia_de_San_Aurelio|Departamento de Policía de San Aurelio]]. Se dirige a ella como **Recluta Mercer** (no "Recruit Mercer"). *(2026-11-15: «Recluta Mercer» fue el título provisional del autor para la secuela, no canon; Elenna llega como Ardizzone y recupera Mercer en una audiencia antes de ser cadete. Ver [[11_Books/00_Diseno_Final_Boston_Y_La_Villa]].)* *(2026-11-15: la familia termina en Boston, no en Palermo; ver [[11_Books/00_Diseno_Final_Boston_Y_La_Villa]].)*
 
 > Hoy esa etapa es la trilogía de Elenna (Libros V–VII); graduación y K9 están fijados (ver abajo). No convierte el epílogo de *Cuentas de Sangre* en un teaser. Plan anterior retirado: [[97_Supersedido/Fichas_Detalles_Menores#Elenna Mercer]].
 
@@ -79,11 +85,11 @@ Durante la academia conserva su humor, curiosidad, informalidad, mochila, cámar
 
 ### Terminología y autoridad
 
-**Recluta** es el rango formal para su etapa (tratamiento: **Recluta Mercer**). Es una recluta en formación, no una oficial plenamente juramentada; no debe recibir de inmediato placa, autoridad policial plena ni funciones de patrulla autónoma. "Cadete" queda reservado como alternativa local o etapa previa si el Departamento la define así. El término en inglés "Police Recruit" / "Recruit Mercer" queda descartado.
+**Recluta** es el rango formal para su etapa (tratamiento: **Recluta Mercer**). *(Aclaración del autor, 2026-11-15: «Recluta Mercer» fue el título provisional de la secuela, no un tratamiento canon; el apellido con que llega a San Aurelio está en [[11_Books/00_Diseno_Final_Boston_Y_La_Villa]].)* Es una recluta en formación, no una oficial plenamente juramentada; no debe recibir de inmediato placa, autoridad policial plena ni funciones de patrulla autónoma. "Cadete" queda reservado como alternativa local o etapa previa si el Departamento la define así. El término en inglés "Police Recruit" / "Recruit Mercer" queda descartado.
 
 ### Timeline de academia y especialidad — CANON DEL AUTOR (2026-09-16; ubicado en la trilogía el 2026-10-03)
 
-Academia estándar (~6 meses); pasa a patrulla y se muda de casa de Marisol a su propio departamento casi al mismo tiempo — un solo salto de independencia, simbólicamente "ya soy adulta" de golpe. Todo esto ocurre en *Juramento de Hierro* (V).
+Academia estándar (~6 meses); pasa a patrulla y se muda de casa de Marisol a su propio departamento casi al mismo tiempo — un solo salto de independencia, simbólicamente "ya soy adulta" de golpe. Todo esto ocurre en *Juramento de Hierro* (V). *(2026-11-15: supersedido; en el V Elenna se muda a Villa Candelaria, que Walt le entrega. Ver [[11_Books/00_Diseno_Final_Boston_Y_La_Villa]].)*
 
 **Salto de ~2–3 años entre el V y el VI** (CANON DEL AUTOR, 2026-10-03): *Hijos del Silencio* (VI) la encuentra ya en K9 con Rex. Rex no aparece en el V. **Meta de carrera: teniente de K9, alcanzada después del VII** (CANON DEL AUTOR, 2026-10-03); los rangos intermedios siguen PENDIENTES. La captura de Ethan/Dylan es catalizador, no ascenso mágico: debe ganarse con trabajo, errores y años de servicio, nunca por apellido.
 
@@ -115,7 +121,7 @@ Su curiosidad, reacción ante voces, apego, sueño, risa y conducta motriz sólo
 
 **Mercer** es su apellido real. Durante el resguardo es también un vínculo que no puede aparecer en sus documentos.
 
-**Serra** existe sólo para ocultarla. La documentación de esa etapa debe nombrarla **Elenna Serra**, nunca Mercer, Bellandi, Ardizzone ni Colombo. No se ha fijado quién obtiene los documentos, cómo se producen, qué institución los reconoce ni qué relación legal pública vincula a Bonnie con la niña.
+**Serra** existe sólo para ocultarla. La documentación de esa etapa debe nombrarla **Elenna Serra**, nunca Mercer, Bellandi, Ardizzone ni Colombo. No se ha fijado quién obtiene los documentos, cómo se producen, qué institución los reconoce ni qué relación legal pública vincula a Bonnie con la niña. *(Superado 2026-11-07: Bonnie está en Boston; «Elenna Serra» e Italia, retiradas.)*
 
 El nombre de resguardo no reemplaza su identidad canónica y no convierte a Bonnie en madre documental por defecto. Cada consecuencia legal y operativa permanece pendiente.
 
@@ -135,7 +141,7 @@ No están fijadas la fecha de concepción, los días exactos antes de H1, el mec
 
 ## La falsa muerte
 
-Elenna nace durante el primer tramo importante de *Voto de Ceniza* (Libro III), cuando [[04_Concepts/La_Guerra_de_los_Tres|la Guerra de los Tres]] ya está escalando. Antes, en el **Libro I**, F2 debe haber expulsado a Bonnie de San Aurelio y Bonnie debe estar establecida en Italia. El capítulo, la semana y la distancia exacta entre esos hechos permanecen pendientes.
+Elenna nace durante el primer tramo importante de *Voto de Ceniza* (Libro III), cuando [[04_Concepts/La_Guerra_de_los_Tres|la Guerra de los Tres]] ya está escalando. Antes, en el **Libro I**, F2 debe haber expulsado a Bonnie de San Aurelio y Bonnie debe estar establecida en Italia. El capítulo, la semana y la distancia exacta entre esos hechos permanecen pendientes. *(Superado 2026-11-07: Bonnie está en Boston; «Elenna Serra» e Italia, retiradas.)*
 
 Debe existir un detonante concreto que vuelva inaceptable mantener su existencia dentro del tablero, pero ese detonante todavía no ha sido decidido.
 
@@ -157,6 +163,8 @@ Muy pocas personas conocen la verdad. La lista exacta y el momento en que cada p
 > —La perdí, Héctor.
 > La perdí y no sé cómo voy a continuar.
 
+*(Superado 2026-11-07: Bonnie está en Boston; «Elenna Serra» e Italia, retiradas.)*
+
 Verdadera, de significado deliberadamente abierto. Cuando la cronología alcanza otra vez el nacimiento (más adelante en el libro), se muestra la progresión completa: nacimiento → pertenencia → separación → entrega → vacío → duelo público → duelo privado → vida clandestina.
 
 **El motivo del dedo:** al nacer, Elenna cierra la mano en torno a uno de los dedos de Kal. En la pista clandestina donde la entrega, Kal debe retirar ese mismo dedo de la mano de Elenna para dársela a quien la recibe. No sobreexplicar el paralelismo.
@@ -165,7 +173,7 @@ Verdadera, de significado deliberadamente abierto. Cuando la cronología alcanza
 
 ## Bonnie
 
-> **CANON DE DISEÑO.** [[02_Characters/Bonnie_Garcia|Bonnie García]] cuida a Elenna durante su periodo de resguardo en Italia.
+> **CANON DE DISEÑO.** [[02_Characters/Bonnie_Garcia|Bonnie García]] cuida a Elenna durante su periodo de resguardo en Italia. *(Superado 2026-11-07: Bonnie está en Boston; «Elenna Serra» e Italia, retiradas.)*
 
 La elección cobra el arco anterior de Bonnie: Chiara la formó; Kal y Chiara tuvieron que apartarla de San Aurelio para salvarla; después confían en ella aquello que más necesitan proteger.
 
@@ -187,7 +195,7 @@ La cantidad exacta de fotografías no está fijada.
 
 ### El álbum de Elenna — CANON DEL AUTOR (2026-09-13)
 
-Ya adulta, Elenna conserva las fotografías impresas en un álbum físico; no se las muestra a Bonnie y Marisol en teléfono, pantalla ni archivo digital. La primera hoja guarda arriba la primera fotografía de Elenna bebé con Kal y Chiara; debajo está la imagen de las tres hermanas el día que Elenna cumplió cinco años, con ella sobre su bicicleta en el porche de la casa de Palermo. Bonnie y Marisol están a cada lado, cuidando que no se vaya de lado sin tocarla, angustiadas; Elenna sólo sonríe, divertida. En el epílogo, hojea hasta las impresiones más recientes de su último viaje para enseñárselas. Después batalla con la cámara vieja de rollo para encuadrar a las tres; un mesero termina tomando la fotografía que cierra la historia. El tercero es funcional y no requiere continuidad propia.
+Ya adulta, Elenna conserva las fotografías impresas en un álbum físico; no se las muestra a Bonnie y Marisol en teléfono, pantalla ni archivo digital. La primera hoja guarda arriba la primera fotografía de Elenna bebé con Kal y Chiara; debajo está la imagen de las tres hermanas el día que Elenna cumplió cinco años, con ella sobre su bicicleta en el porche de la casa de Palermo. Bonnie y Marisol están a cada lado, cuidando que no se vaya de lado sin tocarla, angustiadas; Elenna sólo sonríe, divertida. En el epílogo, hojea hasta las impresiones más recientes de su último viaje para enseñárselas. Después batalla con la cámara vieja de rollo para encuadrar a las tres; un mesero termina tomando la fotografía que cierra la historia. El tercero es funcional y no requiere continuidad propia. *(2026-11-15: la familia termina en Boston, no en Palermo; ver [[11_Books/00_Diseno_Final_Boston_Y_La_Villa]].)*
 
 El álbum no convierte a Elenna en guardiana de un linaje ni vuelve solemne cada imagen. Es un objeto de uso: se carga, se abre, se comparte y sigue adelante.
 
@@ -199,7 +207,7 @@ El álbum no convierte a Elenna en guardiana de un linaje ni vuelve solemne cada
 >
 > **NO REDACTAR TODAVÍA.**
 
-H22 ocurre dentro de *Voto de Ceniza* (Libro III), después de que la separación de Elenna sea experiencia cotidiana y **antes** de la caída de Dario, la montaña y Santa Lucía — no después del cierre de la Guerra de los Tres; [[00_Biblia/00_Trilogy_Structure]] fija ese orden. Su prosa permanece bloqueada hasta que el manuscrito haya construido embarazo/H1/reveal, relación Bonnie–Chiara, destierro de Bonnie, guerra en escalada, nacimiento, falsa muerte, Elenna Serra, separación y fotografías.
+H22 ocurre dentro de *Voto de Ceniza* (Libro III), después de que la separación de Elenna sea experiencia cotidiana y **antes** de la caída de Dario, la montaña y Santa Lucía — no después del cierre de la Guerra de los Tres; [[00_Biblia/00_Trilogy_Structure]] fija ese orden. Su prosa permanece bloqueada hasta que el manuscrito haya construido embarazo/H1/reveal, relación Bonnie–Chiara, destierro de Bonnie, guerra en escalada, nacimiento, falsa muerte, Elenna Serra, separación y fotografías. *(Superado 2026-11-07: Bonnie está en Boston; «Elenna Serra» e Italia, retiradas.)*
 
 Bonnie envía un dispositivo o memoria USB. Debe conservarse este intercambio:
 
@@ -248,7 +256,7 @@ Elenna no existe únicamente para elevar las apuestas. Su existencia transforma 
 > **Después:** ¿de qué sirve ganar si nuestra hija no puede vivir con nosotros?  
 > **Finalmente:** ¿cómo construimos algo que pueda funcionar sin nosotros para poder volver con ella?
 
-Por eso es un motor del paso de **conquista** a **consolidación** y después a **arquitectura de salida**. Mientras San Aurelio ve a Kal y Chiara convertirse en una pareja cada vez más poderosa, aquello que más quieren crece lejos bajo el nombre Elenna Serra.
+Por eso es un motor del paso de **conquista** a **consolidación** y después a **arquitectura de salida**. Mientras San Aurelio ve a Kal y Chiara convertirse en una pareja cada vez más poderosa, aquello que más quieren crece lejos bajo el nombre Elenna Serra. *(Superado 2026-11-07: Bonnie está en Boston; «Elenna Serra» e Italia, retiradas.)*
 
 > **EASTER EGG SEMBRADO (2026-09-03):** en [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/16_El_Sobre_Rojo|Cap. 14 (archivo 14; antes archivo 16), sección *Cuatro letras*]], mucho antes de que Elenna exista siquiera como idea, Héctor le dice a Chiara: *"Lo que a mí me faltó no fue valor. Fue construir algo que no necesitara que yo estuviera siempre ahí parado para que no se cayera... Si necesita que uno esté presente todo el tiempo para no derrumbarse, no lo construyó. Lo sostuvo con el cuerpo. Y sostener algo con el cuerpo no es lo mismo que vivir."* Nadie en esa escena sabe por qué importa. Es la semilla temática exacta de la futura conversación entre Kal y Chiara sobre el mecanismo autosustentable que le permita a San Aurelio funcionar sin ellos, para poder volver con Elenna. Considerar un eco textual (no necesariamente literal) cuando se escriba esa conversación futura.
 
@@ -266,6 +274,8 @@ Elenna es la generación en la que Kal y Chiara deben intentar romper ese patró
 
 ## El final en Palermo
 
+*(2026-11-15: la familia termina en Boston, no en Palermo; ver [[11_Books/00_Diseno_Final_Boston_Y_La_Villa]].)*
+
 Elenna es una de las razones fundamentales por las que Kal y Chiara salen de San Aurelio. Para entonces, Corrado ha abierto o está abriendo un Palermo distinto y ellos han construido una San Aurelio capaz de existir sin su presencia diaria.
 
 En la imagen final —casa modesta azul, molduras blancas, jardín, Chiara con vino y Kal preparando comida— Elenna forma parte natural de la familia. No es una heredera entrando en cuadro ni un símbolo solemne. Es una niña viviendo en su casa.
@@ -281,7 +291,7 @@ Representa lo contrario: **la razón por la que Kal y Chiara descubren que no ne
 > **No corregir estos puntos por conveniencia.** El canon del autor de esta ficha prevalece; los archivos señalados requieren una pasada posterior y coordinada.
 
 1. **Corrado figura como muerto en el vault vivo.** Lo afirman [[02_Characters/Chiara_Bellandi]], [[06_Relationships/Kal_y_Chiara]], [[03_Factions/Il_Consorzio]], [[03_Factions/Fuerza_de_Tarea_Meridian]], [[02_Characters/Ettore]], [[02_Characters/README]] y [[12_Craft_Policies/revelations/SAGA_LEVEL]]. El Cap. 2 (archivo 02) ([[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/02_Demasiado_Listo]]) y el Cap. 23 (archivo 24c) ([[11_Books/Book_01_Mascaras_De_Cristal/Part_02_Con_Peores_Personas_He_Tratado/24c_El_Corral]]) también contienen formulaciones que presuponen su muerte o la retención de su cuerpo. El nuevo canon establece que está vivo y oculto durante buena parte de la novela (en San Aurelio, CANON DEL AUTOR 2026-10-04; antes Italia). Esta contradicción afecta además el duelo de Chiara, la función de Ettore, la herida federal, escenas ya escritas y el secreto de saga; no debe resolverse con una sustitución mecánica de frases.
-2. **Bonnie en Italia — reconciliado en arquitectura (2026-08-31).** [[06_Relationships/Momentos_de_Fractura]] ya no presupone tutela Bellandi: F2 coloca a Bonnie en Italia como Roberta Ardizzone antes del nacimiento, pero mantiene pendientes documentos, cobertura, apoyo y localización. `Roberta Ardizzone` y `Elenna Serra` son identidades distintas.
+2. **Bonnie en Italia — reconciliado en arquitectura (2026-08-31).** [[06_Relationships/Momentos_de_Fractura]] ya no presupone tutela Bellandi: F2 coloca a Bonnie en Italia como Roberta Ardizzone antes del nacimiento, pero mantiene pendientes documentos, cobertura, apoyo y localización. `Roberta Ardizzone` y `Elenna Serra` son identidades distintas. *(Superado 2026-11-07: Bonnie está en Boston; «Elenna Serra» e Italia, retiradas.)*
 3. **No se encontró una hija con otro nombre ni una supervivencia incompatible.** La auditoría dirigida no halló `Marta`, `Marta Elena` o `Elena Mercer` usados como nombre de la hija; tampoco una niña apellidada Colombo, una hija retenida en San Aurelio ni textos donde Dario o Halbrook conozcan su supervivencia. Las menciones existentes de Marta corresponden a [[02_Characters/Chiara_Bellandi|Marta Bellandi]], madre de Chiara.
 4. **Arquitectura futura — reconciliada en documentos centrales (2026-08-31).** [[06_Relationships/Hitos]] y [[11_Books/Book_01_Mascaras_De_Cristal/00_Book_Map]] ya integran embarazo, H1, reveal posterior, Bonnie, nacimiento, falsa muerte, separación y H22. El timeline de 90 beats conserva numeración antigua y requiere expansión futura; una nota de precedencia impide usar su ubicación tardía de H1.
 
@@ -298,14 +308,14 @@ No resolver ninguno de estos puntos por conveniencia:
 6. **PARCIAL (DECISIÓN DEL AUTOR, 2026-11-08):** embarazo de riesgo por edad; sangrado súbito a los seis meses y reposo hasta el parto; parto en hospital; Camila y Lucía ayudan con los trámites. Mecanismo (placenta previa) DISEÑO. Ver [[11_Books/Book_03_Voto_De_Ceniza/00_Diseno_Embarazo_Y_Falsa_Muerte]].
 7. **PENDIENTE:** versión pública exacta de su supuesta muerte.
 8. **PENDIENTE:** hospital.
-9. **PENDIENTE:** mecanismo documental de Elenna Serra.
+9. **PENDIENTE:** mecanismo documental de Elenna Serra. *(Superado 2026-11-07: Bonnie está en Boston; «Elenna Serra» e Italia, retiradas.)*
 10. **PENDIENTE:** quién crea o consigue los documentos.
 11. **PARCIAL (DECISIÓN DEL AUTOR, 2026-11-08):** en San Aurelio sólo Kal y Chiara; fuera, Bonnie. Héctor lo sabe por Kal poco antes de la montaña. Ver [[11_Books/Book_03_Voto_De_Ceniza/00_Diseno_Embarazo_Y_Falsa_Muerte]].
 12. **PENDIENTE:** quién organiza el traslado.
-13. **PENDIENTE:** cómo llega a Italia.
+13. **PENDIENTE:** cómo llega a Italia. *(Superado 2026-11-07: Bonnie está en Boston; «Elenna Serra» e Italia, retiradas.)*
 14. **PENDIENTE:** localización exacta donde vive con Bonnie.
 15. **PENDIENTE:** cuánto dura exactamente la separación.
-16. **PENDIENTE:** relación legal pública entre Bonnie y Elenna Serra.
+16. **PENDIENTE:** relación legal pública entre Bonnie y Elenna Serra. *(Superado 2026-11-07: Bonnie está en Boston; «Elenna Serra» e Italia, retiradas.)*
 17. **PENDIENTE:** cuántas fotografías reciben.
 18. **PENDIENTE:** procedimiento exacto del USB y su mecanismo de seguridad.
 19. **PENDIENTE:** cuándo Corrado descubre que Elenna existe.

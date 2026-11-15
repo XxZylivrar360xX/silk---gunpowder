@@ -1,5 +1,9 @@
 # Marisol Grayson
 
+> **DECISIÓN DEL AUTOR (2026-11-15, segunda tanda):** ayuda a Elenna a recuperar Mercer en **una audiencia antes de que entre como cadete**; unas semanas después, **el choque con la fiscalía, por un caso de Elenna**, complica la vida que comparten y Elenna se muda a la Villa. Ver [[11_Books/00_Diseno_Final_Boston_Y_La_Villa]].
+
+> **DECISIÓN DEL AUTOR (2026-11-15):** **Marisol ayuda (o ya ayudó antes) a Elenna a recuperar su legítimo apellido**, después de que Elenna Mercer muriera para el mundo en el III; Elenna puede llegar a San Aurelio como una Ardizzone. Calendario y alcance legal: opciones en [[11_Books/00_Diseno_Final_Boston_Y_La_Villa]]. Visita a Elenna en Boston, no en Palermo.
+
 > **DECISIÓN DEL AUTOR (2026-11-12), *Sombras de Poder*:** tras el choque de los frenos, ya en el hospital y todavía dopada, **ve a medias a un hombre mayor que entra a su cuarto** (es Corrado; ella no lo reconoce) y que vuelve a desaparecer. Después se lo menciona a Kal; con los frenos ya descubiertos, es gasolina para la ansiedad de él. En el IV se puede revelar quién era. Ver [[11_Books/Book_04_Cuentas_De_Sangre/00_Diseno_Complot_De_La_Mesa]].
 
 > **NUEVO CAUCE — PARTE II (2026-11-08; [[98_Agent_Handoff/sessions/2026-11-08_claude_propagacion_parte_II]]; prosa BORRADOR, lo nuevo es DISEÑO salvo donde dice CANON):** **El nuevo 31** (*Lo único que es mío*, POV Chiara) es la **primera siembra del acercamiento con Kenji** (pendiente desde 2026-09-20): la confrontación en la caja, íntegra. En el 27 Vivian menciona a «la pelirroja» en el patio de Varek y Kal la reconoce. Chiara le oculta el favor que le debe a Varek.
@@ -169,7 +173,7 @@ Cuando Elenna le pregunta por un corredor de bolsa que la pretendía, Marisol re
 > Archivo rector: [[06_Relationships/Bonnie_y_Marisol]].
 
 - En *Sombras de Poder* [[02_Characters/Bonnie_Garcia|Bonnie]] empieza a sentir algo por Marisol sin nombrarlo. La relación con Kenji es auténtica y Bonnie no la toca.
-- Marisol se queda en San Aurelio y construye sola su carrera de fiscal; viaja a Palermo a ver a Elenna y comparte viajes con ella. Ella y Bonnie están presentes de forma intermitente en la vida de la otra.
+- Marisol se queda en San Aurelio y construye sola su carrera de fiscal; viaja a Palermo a ver a Elenna y comparte viajes con ella. Ella y Bonnie están presentes de forma intermitente en la vida de la otra. *(2026-11-15: la familia termina en Boston, no en Palermo; ver [[11_Books/00_Diseno_Final_Boston_Y_La_Villa]].)*
 - Ambas cuidan a Elenna como hermanita elegida, desde miradas distintas; no son madres sustitutas ni hermanas entre sí.
 - Lo que pase entre ellas en V–VII es DISEÑO: Marisol se enamoraría de la Bonnie adulta, sin que Bonnie «la cure» del duelo.
 
