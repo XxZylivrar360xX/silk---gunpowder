@@ -38,7 +38,7 @@
   - o dejarlo fuera del VII, para «La vida de ambos».
   
   El hangar conserva su sentido («pueden irse y seguir siendo familia») y gana otro: todavía no es seguro.
-- **Michael renuncia a la silla de La Mesa** (CANON 2026-10-04, [[06_Relationships/Michael_e_Iris]]). Su parte no puede ser «desde la silla». DISEÑO: **la renuncia puede ser el acto**, el último lazo de la familia con La Mesa que se corta. Además, Michael ya vive en San Aurelio por Iris (CANON), así que los dos hijos están ahí cuando el voto termina.
+- **Michael renuncia a la silla de La Mesa** (CANON 2026-10-04, [[06_Relationships/Michael_e_Iris]]). Su parte no puede ser «desde la silla». **DECISIÓN DEL AUTOR (2026-11-15): la renuncia es el acto**, el último lazo de la familia con La Mesa que se corta. Además, Michael ya vive en San Aurelio por Iris (CANON), así que los dos hijos están ahí cuando el voto termina.
 - **«Sus padres nunca la comprometieron con sus viejas redes y guerras»** (CANON del ciclo). Se respeta si son los hijos quienes eligen cerrar el pasado y los padres no se lo piden.
 - **El final en Boston** (DECISIÓN DEL AUTOR de esta misma mañana) deja de ser una casa fija y pasa a ser una parada, la de Bonnie. También cambian el epílogo de las Tres Hermanas (la foto del porche, «deja Boston») y la pregunta de dónde crece Elenna.
 - **La Villa en Lomas de San Jacinto:**
@@ -59,7 +59,9 @@
 2. **Dónde crecen Elenna y Michael:** en movimiento con los padres, o con Boston y Bonnie como ancla mientras los padres rotan.
 3. **Dónde nace Michael.** Antes se dijo San Aurelio; con esta idea, quizá en otra ciudad.
 4. **Cuándo vuelven a la Villa:** en una coda del VII o en «La vida de ambos». ¿Es ahí donde se quitan las últimas sábanas?
-5. **Cómo cierra Michael su frente** si renuncia a la silla.
+5. ~~Cómo cierra Michael su frente si renuncia a la silla.~~ **Decidido (2026-11-15): la renuncia es el acto.** *Abierto:* por qué renunciar cierra el peligro y no lo abre (qué cambia en La Mesa cuando el apellido Ardizzone deja la silla).
 6. **El lote por Las Gemelas:** a qué distancia de las cascadas. DISEÑO: cerca, pero no en ellas, para que las cascadas sigan siendo de nadie.
+
+**Desarrollo:** [[11_Books/00_Columna_Maestra_Ciclo_Elenna]] (DISEÑO, 2026-11-15).
 
 Ver también: [[11_Books/00_Diseno_Final_Boston_Y_La_Villa]] · [[05_Locations/La_Villa]] · [[05_Locations/San_Aurelio]] · [[00_Biblia/00_Trilogy_Structure]] · [[07_Ideas/Libro_04_Incubadora/Hangar_Despedida_Elenna]] · [[07_Ideas/Tres_Hermanas_Epilogo]]
