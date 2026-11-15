@@ -114,6 +114,7 @@ Cuando su ausencia ya no significa colapso, Kal y Chiara pueden salir. No dejan 
 - Estrategia precisa de Il Consorzio durante el libro.
 - Mecanismo concreto de desaparición / salida de Kal y Chiara de San Aurelio. *(2026-11-15: ya se sabe que después no pueden volver a pertenecer a San Aurelio; el mecanismo sigue PENDIENTE.)*
 - Colocación fina de la consolidación frente a la escalada federal.
+- **La clínica de Volpi en La Isla (2026-11-15):** qué sabe el personal tras veinte años de un paciente sin nombre, y si hay registros o cámaras de la visita de Chiara (sustituyen al «solo cuidador»). Si la silla Ardizzone (Ettore, después Michael) sabe, vota o paga la fachada de La Mesa. Ver [[11_Books/00_Matriz_Causal_Saga]] §1.
 - Forma final del arco de Corrado y del reencuentro con Chiara.
 
 ## Carpetas de partes

@@ -70,6 +70,7 @@ Dylan detenido y juzgado; el SAPD puede leer el caso serial como resuelto. **Úl
 - Cómo se produce la captura y qué papel tienen Elenna, Nicholas, Erin y Rex.
 - Alcance de la relación Elenna/Ethan antes de la caída.
 - Estado de Elenna/Erin al cierre (rotas tras la presa; reconciliación en el VII).
+- **La clínica de Volpi (2026-11-15):** quién sostiene el pago cuando muere Corrado, que era el garante, y qué deja de eso en el camper. Ver [[11_Books/00_Matriz_Causal_Saga]] §1.
 - **Disparo a Elenna** (CANON DEL AUTOR, 2026-10-03, lote 4): ocurre en un evento independiente de la trama principal, un asalto bancario con rehenes y un civil en riesgo, donde Elenna se infiltra contra las órdenes de Nicholas. **Cierra este libro** (CANON, 2026-10-03): espejo de Chiara en Santa Lucía, con Elenna en el suelo del banco, boca arriba, y el charco de sangre acumulándose detrás de ella. **El juicio de Dylan ocurre antes del asalto.**
 - Rango de Elenna en este libro. Meta fijada: **teniente de K9, alcanzada después del VII** (CANON DEL AUTOR, 2026-10-03); los rangos intermedios siguen PENDIENTES.
 - Qué incidente oculta Elenna a Bonnie, cuánto peligro hubo, cómo se entera Bonnie y cuánto dura la fractura.
