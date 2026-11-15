@@ -1,8 +1,10 @@
 # La Villa / Villa Candelaria
 
+> **CANON DEL AUTOR (2026-11-15): el voto inverso.** **La Villa ya no está en Lomas de San Jacinto: está en un lote por Las Gemelas ([[05_Locations/San_Aurelio]])**, el lugar del pacto, que no es territorio de nadie. **En los libros II a IV es un lugar velado para los enemigos.** Después del IV, Kal y Chiara no pueden volver a pertenecer a San Aurelio (Meridian contra Kal, La Mesa contra Chiara) y viven en movimiento; la casa queda con Walt y espera. En el cierre del VII vuelven a ella con toda la familia (DECISIÓN DEL AUTOR; las últimas sábanas, DISEÑO). Superadas abajo, con nota: la ubicación en las Lomas, su lectura de clase, los tiempos de traslado y la «Regla de seguridad» («no es invisible»). DISEÑO por decidir: a qué distancia de las cascadas (propuesta: cerca, no en ellas), el tiempo al centro y a la Almendra, y si La Mesa conoce la casa y nunca lo usa (propuesta de la columna, §4). Ver [[07_Ideas/El_Voto_Inverso]] · [[11_Books/00_Columna_Maestra_Ciclo_Elenna]].
+
 > **DECISIÓN DEL AUTOR (2026-11-15, segunda tanda):** lo más sensible que Elenna encuentra en la casa es **«su cuarto que nunca fue suyo»**: el cuarto que le prepararon durante el embarazo y que nunca usó. Ver [[11_Books/00_Diseno_Final_Boston_Y_La_Villa]].
 
-> **DECISIONES DEL AUTOR (2026-11-15):** **la Villa siempre estuvo a nombre de Chiara**; así lo especificó Kal al firmar las escrituras, y Chiara lo descubre por accidente cuando encuentra el testamento de Kal, sobre las escrituras de todas las propiedades. Cuando la familia se va (a Boston), **Walt la mantiene** en desuso, con los muebles bajo sábanas, y en el V **se la entrega a Elenna** con la llave y la dirección. Diseño: [[11_Books/00_Diseno_Final_Boston_Y_La_Villa]].
+> **DECISIONES DEL AUTOR (2026-11-15):** **la Villa siempre estuvo a nombre de Chiara**; así lo especificó Kal al firmar las escrituras, y Chiara lo descubre por accidente cuando encuentra el testamento de Kal, sobre las escrituras de todas las propiedades. Cuando la familia se va (a Boston; *2026-11-15, voto inverso: después del IV viven en movimiento, sin casa fija; Boston como ancla de la infancia es PROPUESTA*), **Walt la mantiene** en desuso, con los muebles bajo sábanas, y en el V **se la entrega a Elenna** con la llave y la dirección. Diseño: [[11_Books/00_Diseno_Final_Boston_Y_La_Villa]].
 
 ## Posición y función vigentes — CANON DEL AUTOR 2026-09-20
 
@@ -18,14 +20,16 @@ El loft fue hogar descubierto; Villa es hogar reconstruido deliberadamente. Kal 
 
 **Nombre público discreto:** **Villa Candelaria**.
 **Cómo la llaman ellos:** la villa.
-**Qué es:** una villa en **Lomas de San Jacinto**, la zona residencial del norte de San Aurelio, dentro de la franja alta de Cuesta Bonita. La casa de Kal y Chiara escogida y construida por ambos después de perder el loft y de F2.
+**Qué es:** una villa en ~~**Lomas de San Jacinto**, la zona residencial del norte de San Aurelio, dentro de la franja alta de Cuesta Bonita~~ *(SUPERADO 2026-11-15, CANON DEL AUTOR: **un lote por Las Gemelas**, velado a los enemigos en el II–IV; [[07_Ideas/El_Voto_Inverso]])*. La casa de Kal y Chiara escogida y construida por ambos después de perder el loft y de F2.
 **Por qué existe:** porque **[[02_Characters/Silas_Crowe]] incendió [[05_Locations/La_Casa]]**, el loft del barrio, por un cargamento que Kal no entregó a tiempo.
 **Qué ocurre aquí:** [[06_Relationships/Hitos#H1 — El regreso a casa|H1 — El regreso a casa]], pico emocional durante Parte VI del Libro I; después, la expectativa doméstica del embarazo y las fotografías de Elenna durante la separación.
-> *(2026-11-15: Elenna vive aquí desde el V; ver [[11_Books/00_Diseno_Final_Boston_Y_La_Villa]].)*
+> *(2026-11-15: Elenna vive aquí desde el V; ver [[11_Books/00_Diseno_Final_Boston_Y_La_Villa]]. Voto inverso: sus padres vuelven a ella en el cierre del VII (que no puedan pisarla antes es DISEÑO de la columna); [[11_Books/00_Columna_Maestra_Ciclo_Elenna]].)*
 
 ---
 
 ## Ubicación
+
+> **SUPERADO (2026-11-15, CANON DEL AUTOR):** la casa se mueve a **un lote por Las Gemelas**. Lo que sigue (Lomas de San Jacinto, su lectura de clase y los tiempos a la Almendra y al Ridge) queda como historial; se pierde la lectura de clase de las Lomas. La nueva lectura y los tiempos: DISEÑO por decidir (el centro queda a 50–70 min de Las Gemelas según [[05_Locations/Mapa_Operativo_de_San_Aurelio]]). Ver [[07_Ideas/El_Voto_Inverso]].
 
 **Lomas de San Jacinto** no es el Distrito Marino. No es dinero nuevo, playa, cristal ni torre. Es norte residencial: calles curvas, arces viejos, muros bajos, seguridad privada que no parece seguridad, casas grandes separadas por pendiente, y vistas largas hacia la ciudad.
 
@@ -38,7 +42,7 @@ Eso resuelve la lectura de clase:
 
 La villa queda a unos treinta minutos de La Almendra en condiciones normales, y a unos quince minutos de [[05_Locations/Bellandi_Ridge_Vineyards]] por la carretera interior.
 
-**Regla de seguridad:** la casa no es invisible. Es defendible, hermosa y demasiado conocida para que la unión invisible siga funcionando igual. Cuando llegan aquí, ya no están escondidos: están expuestos de otra manera.
+**Regla de seguridad:** ~~la casa no es invisible. Es defendible, hermosa y demasiado conocida para que la unión invisible siga funcionando igual. Cuando llegan aquí, ya no están escondidos: están expuestos de otra manera.~~ *(SUPERADO 2026-11-15, CANON DEL AUTOR: en el II–IV la Villa es **velada para los enemigos**; PROPUESTA de la columna: velada para la calle —Varek, Crowe, Meridian—, no para La Mesa, que sabe y nunca lo usa. [[07_Ideas/El_Voto_Inverso]] · [[11_Books/00_Columna_Maestra_Ciclo_Elenna]] §4.)*
 
 ## Cómo la compran
 
@@ -145,15 +149,15 @@ Ver [[06_Relationships/Los_Tres_Dias]] para el principio que esta escena cobra: 
 
 ## Pendientes
 
-> **RESUELTO / REUBICADO (2026-08-31):** [[06_Relationships/Hitos]], **H1 — El regreso a casa** pasa en esta casa durante Parte VI del Libro I: piscina, habitación y baño. Sigue siendo pico emocional, pero ya no se ubica después de la Guerra de los Tres. Chiara sabe que está embarazada; Kal no. **La casa final de San Aurelio.**
+> **RESUELTO / REUBICADO (2026-08-31):** [[06_Relationships/Hitos]], **H1 — El regreso a casa** pasa en esta casa durante Parte VI del Libro I: piscina, habitación y baño. Sigue siendo pico emocional, pero ya no se ubica después de la Guerra de los Tres. Chiara sabe que está embarazada; Kal no. **La casa final de San Aurelio.** *(2026-11-15, voto inverso: sigue siéndolo, pero la esperan del IV al VII; vuelven en el cierre del VII.)*
 
-> **RESUELTO (2026-08-23):** queda en **Lomas de San Jacinto**, zona residencial del norte dentro de la franja alta de Cuesta Bonita. No es la costa de dinero nuevo; es una casa de prestigio residencial, defendible y apartada.
+> **SUPERADO (2026-11-15, CANON DEL AUTOR: un lote por Las Gemelas; [[07_Ideas/El_Voto_Inverso]]).** ~~**RESUELTO (2026-08-23):**~~ queda en **Lomas de San Jacinto**, zona residencial del norte dentro de la franja alta de Cuesta Bonita. No es la costa de dinero nuevo; es una casa de prestigio residencial, defendible y apartada.
 
 > **RESUELTO:** **sí tiene piscina** — es donde Kal se mete a lavarse la sangre en H1, con el collar puesto.
 
 > **PENDIENTE:** la alacena. Y si las especias quedaron en el orden que ella imaginó antes de que existiera el mueble. **Ese detalle merece aparecer una vez, tarde, sin comentario.**
 
-> **PENDIENTE:** ¿el barrio sabe dónde viven ahora? Si la villa es una dirección pública, **la unión invisible se acabó** — y eso es un cambio de régimen para toda la seguridad del imperio. Ver [[06_Relationships/Kal_y_Chiara]], "los dos frentes".
+> **PENDIENTE:** ¿el barrio sabe dónde viven ahora? Si la villa es una dirección pública, **la unión invisible se acabó** — y eso es un cambio de régimen para toda la seguridad del imperio. Ver [[06_Relationships/Kal_y_Chiara]], "los dos frentes". *(2026-11-15, CANON DEL AUTOR: no; en el II–IV la casa es velada para los enemigos. Quién la conoce exactamente, DISEÑO: [[11_Books/00_Columna_Maestra_Ciclo_Elenna]] §4.)*
 
 ---
 

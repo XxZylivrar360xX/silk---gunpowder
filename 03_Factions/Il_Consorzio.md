@@ -64,8 +64,8 @@ Hay **seis asientos y seis votos**, uno por familia. El asiento pertenece al lin
 | Lusardi | Vittorio Lusardi | Deuda, continuidad y la forma que debe conservar una familia. [[02_Characters/Tommaso_Lusardi\|Tommaso]] es su delegado en San Aurelio. |
 | Bellacorte | Cesare Bellacorte | Capital, expansión y negocios presentables. [[02_Characters/Matteo_Bellacorte\|Matteo]] opera localmente, pero no tiene el voto de su familia. |
 | Rinaldi | Livia Rinaldi | Reputación, vínculos sociales y memoria institucional. [[02_Characters/Fabrizio_Rinaldi\|Fabrizio]] puede actuar como delegado operativo. |
-| Ventresca | Adriana Ventresca | Puertos, rutas y estabilidad: el orden vale porque reduce pérdidas. |
-| Fioravanti | Ottavio Fioravanti | Finanzas, abogados y poder que prefiere presentarse como procedimiento. |
+| Ventresca | Adriana Ventresca | Puertos, rutas y estabilidad: el orden vale porque reduce pérdidas. *(2026-11-15, DECISIÓN DEL AUTOR: expulsada de La Mesa en el IV; [[07_Ideas/El_Voto_Inverso]].)* |
+| Fioravanti | Ottavio Fioravanti | Finanzas, abogados y poder que prefiere presentarse como procedimiento. *(2026-11-15, DECISIÓN DEL AUTOR: expulsada de La Mesa en el IV; [[07_Ideas/El_Voto_Inverso]].)* |
 
 La simetría es deliberada: tres mujeres y tres hombres. No vuelve progresista a La Mesa; hace su violencia más precisa. Livia y Adriana no necesitan insultar a Chiara para votar contra ella: pueden tratarla con respeto y considerar que una mujer joven, sola y fuera de la forma debida requiere límite. La Mesa no tiene presidente. [[02_Characters/Leone_Valenti]] se sienta con ellos como secretario, emisario y ejecutor, **sin voto propio**.
 

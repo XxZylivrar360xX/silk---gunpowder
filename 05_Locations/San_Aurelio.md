@@ -2,6 +2,8 @@
 
 *Ficha de Lugar — la ciudad*
 
+> **CANON DEL AUTOR (2026-11-15): el voto inverso.** [[05_Locations/La_Villa|Villa Candelaria]] se mueve de Lomas de San Jacinto a **un lote por Las Gemelas** y en el II–IV es un lugar **velado para los enemigos**. Las menciones de la Villa en las Lomas quedan marcadas abajo; la zona sigue existiendo sin la casa. Tiempos nuevos: DISEÑO por decidir. Ver [[07_Ideas/El_Voto_Inverso]].
+
 > **NOMBRE CONFIRMADO POR EL AUTOR (2026-08-23): San Aurelio.** Era la última pieza provisional del proyecto. Ya no queda ninguna.
 >
 > **CANON DEL AUTOR (2026-10-06): San Aurelio, Oregon** (antes California; ya no). Inspiración: **Portland**. Es una ciudad ficticia en una bahía de la costa de Oregon: licencia de ficción, porque Portland está sobre un río y no hay una ciudad costera de ese tamaño en Oregon. Se conservan intactos el mar, el puerto, la bahía, La Isla y toda la geografía ya planteada. La línea de Fabrizio en el Cap. 2 (archivo 02) pasa a "Chiara Ardizzone en la costa oeste" (sarcasmo: hasta ahora siempre había estado en la costa este, en Nueva York).
@@ -61,7 +63,7 @@ San Aurelio es una ciudad ficticia de Estados Unidos. Puede incorporar cultura l
 
 **Cuesta Bonita** — la colina al noreste del centro, con la mansión de Varek. Dinero viejo, casas con vista, el club. Es donde Chiara puede entrar sola y Kal no.
 
-**Lomas de San Jacinto** — franja residencial del norte, dentro de la parte alta de Cuesta Bonita. Casas grandes, privacidad cara, seguridad privada y calles curvas. Aquí está [[05_Locations/La_Villa|Villa Candelaria]], la casa final de Kal y Chiara.
+**Lomas de San Jacinto** — franja residencial del norte, dentro de la parte alta de Cuesta Bonita. Casas grandes, privacidad cara, seguridad privada y calles curvas. ~~Aquí está [[05_Locations/La_Villa|Villa Candelaria]], la casa final de Kal y Chiara.~~ *(2026-11-15, CANON DEL AUTOR: la Villa ya no está aquí; pasa a un lote por Las Gemelas, velada a los enemigos en el II–IV; [[07_Ideas/El_Voto_Inverso]].)*
 
 **El Distrito Marino** — costa continental de la bahía, al norte del puente: muelles de recreo, restaurantes, terminal de ferry a La Isla. Il Gelsomino queda en su borde con Calle Corona. [Antes concentraba las torres y el casino; desde el mapa definitivo (2026-10-06) las torres son Punta Dorada y el Monarch está en La Isla.]
 
@@ -109,7 +111,7 @@ San Aurelio es una ciudad ficticia de Estados Unidos. Puede incorporar cultura l
 
 **La mansión de Varek** — donde Kal se le ofrece, en el patio ([[06_Relationships/Hitos]], H6). **PENDIENTE:** ficha propia.
 
-**Las Gemelas (las cascadas)** — apartado, con ruido de naturaleza y sin interrupciones. **El primer lugar del libro que no es territorio de nadie**, y donde Kal y Chiara sellan su pacto. **Aspecto (CANON DEL AUTOR, 2026-10-06):** caída alta en varios saltos dentro de una hondonada cerrada de roca oscura con musgo y helecho, poza verde, banco de piedras grandes en una orilla y luz difusa sin sol directo. Se baja a pie desde donde termina el camino de tierra. Es el verde más húmedo de la región: no se seca ni en el peor calor del verano. **Nombre y ubicación (CANON DEL AUTOR, 2026-10-06):** *Las Gemelas*, por las dos caídas altas, una frente a la otra; cerros del noreste. La carretera "al norte" del Cap. 27 (archivo 29) tuerce hacia allá. Idealización visual (no es canon de detalle): [[99_Reference/location_references/Las_Gemelas_idealizacion.webp]].
+**Las Gemelas (las cascadas)** — apartado, con ruido de naturaleza y sin interrupciones. **El primer lugar del libro que no es territorio de nadie**, y donde Kal y Chiara sellan su pacto. *(2026-11-15, CANON DEL AUTOR: [[05_Locations/La_Villa|Villa Candelaria]] está en un lote por Las Gemelas; DISEÑO: cerca, no en las cascadas, para que sigan siendo de nadie; [[07_Ideas/El_Voto_Inverso]].)* **Aspecto (CANON DEL AUTOR, 2026-10-06):** caída alta en varios saltos dentro de una hondonada cerrada de roca oscura con musgo y helecho, poza verde, banco de piedras grandes en una orilla y luz difusa sin sol directo. Se baja a pie desde donde termina el camino de tierra. Es el verde más húmedo de la región: no se seca ni en el peor calor del verano. **Nombre y ubicación (CANON DEL AUTOR, 2026-10-06):** *Las Gemelas*, por las dos caídas altas, una frente a la otra; cerros del noreste. La carretera "al norte" del Cap. 27 (archivo 29) tuerce hacia allá. Idealización visual (no es canon de detalle): [[99_Reference/location_references/Las_Gemelas_idealizacion.webp]].
 
 **[[05_Locations/El_Lago|El lago]]** — el lago de pesca de El Patio, **más allá de Las Gemelas** (CANON DEL AUTOR, 2026-10-08): la carretera pasa el desvío de las cascadas y sigue cerro arriba. Escenario de H7 (Cap. 29 (archivo 31)).
 

@@ -1,5 +1,7 @@
 # Michael e Iris
 
+> **DECISIÓN DEL AUTOR (2026-11-15): el voto inverso.** **La renuncia de Michael a la silla es el acto** que corta el último lazo de la familia con La Mesa y ayuda a terminar el voto de sus padres (que no la haga *para* ellos, sino por Iris, es DISEÑO de la columna §1). Y **Varek cobra en el VII su cuenta con Chiara, por Iris**. Ver [[07_Ideas/El_Voto_Inverso]] · [[11_Books/00_Columna_Maestra_Ciclo_Elenna]].
+
 > **CANON DEL AUTOR (2026-11-07):** Trix muere en el Libro III, con Iris pequeña. Donde abajo se cuenta con Trix viva en la época de Elenna (p. ej. reaccionar a la bomba), queda supersedido. Detalle: [[11_Books/Book_01_Mascaras_De_Cristal/00_Plan_Nuevo_Cauce]].
 
 *Seda y Pólvora — Arquitectura de relación (Libros V–VII)*
@@ -57,7 +59,7 @@ Es una historia civil, paralela a la línea policial de Elenna, que no la invade
 1. **Empieza la relación** (CANON).
 2. **La bomba doble (CANON: ocurre en el VII; detonante CANON DEL AUTOR, 2026-10-04): Iris lee los diarios.** Encuentra su nombre en la letra del señor Gabe. Se entera por el muerto, no por Michael: Manfred era Corrado Ardizzone, el abuelo se le acercó a propósito, y Michael lo sabía desde el V y lo confirmó en el VI.
 3. **La silla (CANON DEL AUTOR, 2026-10-04): renuncia después de la bomba**, por decisión propia y **sin que eso le compre el perdón**. Por primera vez el deber queda segundo, y él lo sabe. La silla no se muda a San Aurelio: se protege el cierre del IV.
-4. **Ruptura y posible reconciliación (CANON DEL AUTOR, 2026-10-04).** Las promesas del VI dejan la herida abierta; el VII enfrenta la ruptura y quizá una reconciliación, **sin garantía de final feliz**.
+4. **Ruptura y posible reconciliación (CANON DEL AUTOR, 2026-10-04).** Las promesas del VI dejan la herida abierta; el VII enfrenta la ruptura y quizá una reconciliación, **sin garantía de final feliz**. *(2026-11-15: el cierre del VII reúne a toda la familia en la Villa; si Michael e Iris llegan juntos, sigue abierto.)*
 5. PENDIENTE (reservado al VII): quién ocupa la silla en Palermo; si se reconcilian; si Iris llega a saber lo que pesa su propia sangre (Dario no es su abuelo biológico, Vivian y Dylan).
 
 ## Límites

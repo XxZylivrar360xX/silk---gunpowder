@@ -184,7 +184,7 @@ Misterios, semillas, mentiras, rituales y pagos del libro activo. Cruzar con [[1
 - **Quién NO debe saberlo:** Kal. Chiara pide que no se entere, y Dario contesta "De mí, no". El Patio tampoco lo sabe.
 - **Antecedente (CANON DEL AUTOR, 2026-10-22):** la cuenta no empieza en el 47. En el Cap. 10, la tarjeta de Dario en la casa común implica que calla ante Il Consorzio la muñeca de Chiara (una Ardizzone lastimada se leería como afrenta a la familia, Cap. 9). Ese silencio también se cobra, y Dario lo cobra **junto con la cuenta abierta**, en el mismo movimiento de *Sombras de Poder*. Chiara no se lo ha dicho a Kal; tampoco esto lo sabe Garrett.
 - **Gesto que no se explica:** "Cóbreselos a él cuando salga." / "A él no." Es el favoritismo de Dario por Kal, sin glosa.
-- **Pago:** Dario lo cobra en *Sombras de Poder*, rumbo a H1 (CANON DEL AUTOR). Choca a propósito con el frente "Chiara contra el dinero de Dario" (Garrett y Krane), registrado en [[11_Books/Book_02_Sombras_De_Poder/00_Book_Map]].
+- **Pago:** Dario lo cobra en *Sombras de Poder*, rumbo a H1 (CANON DEL AUTOR). *(2026-11-15, DECISIÓN DEL AUTOR: Varek cobra la cuenta con Chiara desde la cárcel en el VII, por Iris; cómo se concilia con este cobro en el II, PENDIENTE del autor; [[07_Ideas/El_Voto_Inverso]].)* Choca a propósito con el frente "Chiara contra el dinero de Dario" (Garrett y Krane), registrado en [[11_Books/Book_02_Sombras_De_Poder/00_Book_Map]].
 - **Estado:** sembrado, sin pagar.
 
 ---

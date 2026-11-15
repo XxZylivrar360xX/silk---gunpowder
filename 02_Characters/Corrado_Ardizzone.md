@@ -1,5 +1,7 @@
 # Corrado Ardizzone
 
+> **DECISIÓN DEL AUTOR (2026-11-15): el voto inverso.** **Chiara no va al funeral de su padre (VI):** después del IV, San Aurelio no es seguro para ella (La Mesa). Corrado se perdió la vida de su hija fingiendo una muerte; ella se pierde la muerte real de él por la vida de la suya (lectura DISEÑO). Ver [[07_Ideas/El_Voto_Inverso]] · [[11_Books/00_Columna_Maestra_Ciclo_Elenna]].
+
 > **DECISIÓN DEL AUTOR (2026-11-15):** en el V está con Walt, compartiendo un escocés, cuando Elenna les cuenta que se va a mudar y Walt le da la llave de Villa Candelaria. Ver [[11_Books/00_Diseno_Final_Boston_Y_La_Villa]].
 
 > **DECISIÓN DEL AUTOR (2026-11-12):** (1) **El corral lo ordena La Mesa para sacarlo a él de su escondite:** Chiara es el anzuelo y el ataque, el tirón de la línea. En el interrogatorio, el atacante le dice: «Me contrató un hombre con un ojo de vidrio negro» (Volpi). (2) **Los frenos (Libro II, los ordena Varek):** Corrado sale y va al hospital; Marisol, todavía dopada, lo ve a medias, no lo reconoce, y él vuelve a desaparecer. En el IV, cuando Kal lo conoce, se puede revelar que fue él. (3) **Por qué no se revela:** ve que Chiara construyó algo nuevo y suyo; volver la atraparía en el pasado y en las cadenas de Il Consorzio. Complot: [[11_Books/Book_04_Cuentas_De_Sangre/00_Diseno_Complot_De_La_Mesa]].
@@ -108,7 +110,7 @@ Corrado aporta conocimiento, contexto y una relación personal imposible de igno
 
 ### Su muerte — Libro VI (CANON DEL AUTOR, 2026-10-04)
 
-Muere de muerte natural, en su casa, ya muy mayor (~91, derivado), para volver con Marta: uno de los cierres más bonitos del personaje. Detona dos cosas: Walt, al perder a su viejo amigo, se retira del Monarch para pasar más tiempo con Nat; y su nieto [[02_Characters/Michael_Ardizzone]] regresa al funeral (ya había venido de visita en el V) y se queda a sostener el Monarch y Bellandi Ridge. En vida fue mentor de Michael (a quien llama *Michele*) en la mesa de familias y **le entregó la silla en vida**, un año antes del VI aprox.; su muerte no corona a Michael, le quita al mentor: después de la saga administra Bellandi Ridge y **pasa temporadas en Italia** con Kal, Chiara y los nietos. *(2026-11-15: por re-decidir con el final en Boston; ver [[11_Books/00_Diseno_Final_Boston_Y_La_Villa]].)*
+Muere de muerte natural, en su casa, ya muy mayor (~91, derivado), para volver con Marta: uno de los cierres más bonitos del personaje. Detona dos cosas: Walt, al perder a su viejo amigo, se retira del Monarch para pasar más tiempo con Nat; y su nieto [[02_Characters/Michael_Ardizzone]] regresa al funeral *(Chiara no va: DECISIÓN DEL AUTOR, 2026-11-15)* (ya había venido de visita en el V) y se queda a sostener el Monarch y Bellandi Ridge. En vida fue mentor de Michael (a quien llama *Michele*) en la mesa de familias y **le entregó la silla en vida**, un año antes del VI aprox.; su muerte no corona a Michael, le quita al mentor: después de la saga administra Bellandi Ridge y **pasa temporadas en Italia** con Kal, Chiara y los nietos. *(2026-11-15: por re-decidir con el final en Boston; ver [[11_Books/00_Diseno_Final_Boston_Y_La_Villa]].)*
 
 **Sus nietos lo saben (CANON DEL AUTOR, 2026-10-04):** Elenna sabe que el señor Gabe es su abuelo desde que tuvo edad suficiente para racionalizarlo, igual que Michael. Ver [[06_Relationships/Elenna_y_Michael]].
 

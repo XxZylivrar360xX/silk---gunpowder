@@ -28,4 +28,4 @@ Entra quien Varek cita; el guardia ya tiene la placa. El Patio se queda afuera, 
 
 ## Preguntas abiertas
 
-> **PENDIENTE (autor):** cuándo y cómo cobra Dario la cuenta abierta (Libro II). Q24: cuándo se entera Dario de la oferta del Monarch.
+> **PENDIENTE (autor):** cuándo y cómo cobra Dario la cuenta abierta (Libro II). *(2026-11-15, DECISIÓN DEL AUTOR: Varek cobra la cuenta con Chiara desde la cárcel en el VII, por Iris; cómo se concilia con este cobro en el II, PENDIENTE del autor; [[07_Ideas/El_Voto_Inverso]].)* Q24: cuándo se entera Dario de la oferta del Monarch.

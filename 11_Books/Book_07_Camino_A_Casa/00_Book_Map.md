@@ -1,5 +1,7 @@
 # Book 07 — Camino a Casa
 
+> **CANON DEL AUTOR (2026-11-15): el voto inverso.** El título cambia de sentido: *Camino a Casa* es también el camino de vuelta de Kal y Chiara a la Villa, que sus hijos hacen posible al terminar el voto para que puedan estar juntos como familia (que lo hagan viviendo su propia vida, no salvándolos, es DISEÑO de la columna §1). En este libro el voto se rompe (el hospital) y se termina (el cierre). Decisiones del autor del mismo día, abajo, en la estructura: Lucía, el hangar, Varek, Volpi, la renuncia de Michael y el cierre con «Hola, Papá.». Lo demás de la columna es DISEÑO. Ver [[07_Ideas/El_Voto_Inverso]] · [[11_Books/00_Columna_Maestra_Ciclo_Elenna]].
+
 *Mapa narrativo operativo. Libro VII — cierre de la trilogía de Elenna y de la saga; regreso y resolución final del caso Vera.*
 
 > **DERIVADO DE [[07_Ideas/Libro_04_Incubadora/07_Arquitectura_y_Temas]] (2026-09-16) y reconstruido el 2026-10-03** con las notas PROYECTO RECLUTA validadas por el autor ([[98_Agent_Handoff/sessions/2026-10-03_claude_trilogia_elenna_lote1]]). **Estado: esqueleto de carpeta — sin desglose de partes aprobado.**
@@ -32,18 +34,21 @@
 - La noche Marsh sigue sin explicar.
 - Kal y Chiara ausentes físicamente desde el inicio de la academia (dos libros).
 - **Michael se quedó en San Aurelio** por [[02_Characters/Iris_Harlow|Iris]] (CANON DEL AUTOR, 2026-10-04). Iris administra Ridge y Michael dirige ambos como director general; **en este libro empieza su relación**. Historia civil, paralela; no invade la investigación de Elenna. DISEÑO: el regreso físico de Kal y Chiara los pone frente a su hijo sin silla y frente a la hija de Trix.
-- **Bomba doble y silla (CANON DEL AUTOR, 2026-10-04):** Iris descubre por los diarios de Gabe que Manfred era Corrado Ardizzone y que Michael lo sabía; Michael renuncia a la silla después, sin que eso le compre el perdón. Ver [[06_Relationships/Michael_e_Iris]].
+- **Bomba doble y silla (CANON DEL AUTOR, 2026-10-04):** Iris descubre por los diarios de Gabe que Manfred era Corrado Ardizzone y que Michael lo sabía; Michael renuncia a la silla después, sin que eso le compre el perdón. *(2026-11-15, DECISIÓN DEL AUTOR: la renuncia es el acto del voto inverso, el último lazo con La Mesa que se corta.)* Ver [[06_Relationships/Michael_e_Iris]].
 
 ## Estructura macro (CANON DEL AUTOR salvo donde se indica)
 
-- **Apertura — el hospital.** Elenna despierta tras un disparo serio pero no mortal, recibido en un asalto bancario con rehenes en el que se infiltró contra las órdenes de Nicholas (evento independiente de la trama principal; CANON DEL AUTOR, lote 4). Kal y Chiara regresan físicamente. Escena faro: [[07_Ideas/Libro_04_Incubadora/Hospital_Reencuentro_Elenna]].
-- **Despedida en el hangar, 4–5 capítulos después de la apertura** (CANON DEL AUTOR, 2026-10-03). Kal y Chiara se marchan; Elenna se queda en San Aurelio por elección. El resto del libro ocurre sin ellos. Escena faro: [[07_Ideas/Libro_04_Incubadora/Hangar_Despedida_Elenna]]. El hospital es consecuencia humana, no resuelve la investigación.
+- **Apertura — el hospital.** Elenna despierta tras un disparo serio pero no mortal, recibido en un asalto bancario con rehenes en el que se infiltró contra las órdenes de Nicholas (evento independiente de la trama principal; CANON DEL AUTOR, lote 4). Kal y Chiara regresan físicamente. *(2026-11-15, DECISIÓN DEL AUTOR: **Lucía descubre a Kal y, aunque son viejos amigos, debe entregarlo**; por eso se van en el hangar.)* Escena faro: [[07_Ideas/Libro_04_Incubadora/Hospital_Reencuentro_Elenna]].
+- **Despedida en el hangar, 4–5 capítulos después de la apertura** (CANON DEL AUTOR, 2026-10-03). Kal y Chiara se marchan; Elenna se queda en San Aurelio por elección. El resto del libro ocurre sin ellos. *(2026-11-15, CANON DEL AUTOR: vale **hasta el clímax**; el cierre los devuelve a la Villa con toda la familia.)* Escena faro: [[07_Ideas/Libro_04_Incubadora/Hangar_Despedida_Elenna]]. El hospital es consecuencia humana, no resuelve la investigación.
 - **Dylan, testigo.** Pasa de antagonista capturado a testigo indispensable: sus padres ya estaban siendo atacados, había un adulto armado con placa, el arma quedó en la casa, Vera llegó después. La revelación central: **Vera no fue la primera víctima de esa noche.** Memoria humana y parcial, no grabadora.
 - **La investigación se reinicia.** La pregunta pasa de "¿quién mató a Vera?" a "¿quién mató a los Marsh y por qué?".
 - **Reconstrucción por convergencia:** testimonio de Dylan, archivos viejos, balística, registros internos, huellas de Volpi, contexto Varek/Il Consorzio, Corrado, la isla. Reglas en [[07_Ideas/Libro_04_Incubadora/10_Reglas_Revelacion_Caso_Vera]].
 - **Caída del antagonista histórico** ligado a Nicholas, por acumulación de evidencia, no por confesión (identidad y mecánica: lote 3).
 - **Nicholas** admite que se equivocó, que su obsesión le hizo ver sólo una parte y que la institución falló. Puede cruzar zonas grises, pero no volverse lo que persigue; su arco prueba que todavía puede detenerse.
 - **Reconciliación Elenna/Erin.**
+- **Varek cobra su cuenta con Chiara desde la cárcel, por Iris** (DECISIÓN DEL AUTOR, 2026-11-15). Qué pide: abierto.
+- **Volpi, en la isla, le ofrece a Elenna la verdad de sus padres y ella no la toma** (DECISIÓN DEL AUTOR, 2026-11-15).
+- **Cierre: el regreso a la Villa** (DECISIÓN DEL AUTOR, 2026-11-15). Dentro del libro, después del clímax policial; no es una coda sencilla, sino los encuentros de toda la familia. **Marisol, que no ve a Kal desde hace años, le dice por fin: «Hola, Papá.»** (CANON DEL AUTOR). Es la imagen final de la saga. Qué otros encuentros y en qué orden: abierto.
 
 ## Límites del libro
 
@@ -59,7 +64,7 @@ La versión de duología (2026-09-16) reunía en este libro la confrontación en
 
 ## Pendientes
 
-Lista de preguntas abiertas (momento del testimonio de Dylan, primer indicio contra el antagonista histórico, papel de Lucia, entrada de Corrado, visita a Volpi, prueba final, costo para Nicholas, rango final de Elenna, lugar del hospital y del hangar respecto al clímax, qué sabe Elenna de sus padres al final) en [[07_Ideas/Libro_04_Incubadora/10_Reglas_Revelacion_Caso_Vera]].
+Lista de preguntas abiertas (momento del testimonio de Dylan, primer indicio contra el antagonista histórico, papel de Lucia, entrada de Corrado, visita a Volpi, prueba final, costo para Nicholas, rango final de Elenna, lugar del hospital y del hangar respecto al clímax, qué sabe Elenna de sus padres al final) en [[07_Ideas/Libro_04_Incubadora/10_Reglas_Revelacion_Caso_Vera]]. *(2026-11-15: el papel de Lucía y la visita a Volpi quedan parcialmente decididos arriba, en la estructura.)*
 
 ## Carpetas de partes
 

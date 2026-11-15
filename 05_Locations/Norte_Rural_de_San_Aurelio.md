@@ -2,6 +2,8 @@
 
 *Ficha de Lugar - eje norte, rutas, cultivo y frontera militar*
 
+> **CANON DEL AUTOR (2026-11-15): el voto inverso.** [[05_Locations/La_Villa|Villa Candelaria]] se mueve de Lomas de San Jacinto a **un lote por Las Gemelas** y en el II–IV es un lugar **velado para los enemigos**. Las menciones de la Villa en las Lomas quedan marcadas abajo; la zona sigue existiendo sin la casa. Tiempos nuevos: DISEÑO por decidir. Ver [[07_Ideas/El_Voto_Inverso]].
+
 **Que es:** la franja que empieza despues de las zonas residenciales del norte y se abre hacia carreteras rurales, aeropuerto, parcelas, talleres ilegales, viñedos y terreno federal.
 
 **Funcion narrativa:** el norte rural es donde San Aurelio deja de parecer ciudad sin dejar de ser infraestructura. Sirve para carreras, cultivos, almacenamiento, entrenamiento, desapariciones, encuentros fuera de camara y el pasado militar de Kal.
@@ -12,7 +14,7 @@
 
 | Lugar | Posición | Función |
 | --- | --- | --- |
-| **Lomas de San Jacinto** | Norte residencial alto | Donde está [[05_Locations/La_Villa|Villa Candelaria]] |
+| **Lomas de San Jacinto** | Norte residencial alto | ~~Donde está [[05_Locations/La_Villa|Villa Candelaria]]~~ (2026-11-15: la Villa pasa a un lote por Las Gemelas) |
 | **[[05_Locations/Bellandi_Ridge_Vineyards]]** | Ladera norte, antes del valle agrícola | Viñedos de Chiara, legitimidad y silencio |
 | **Kingsley Field** | Borde norte / interior | Aeropuerto de carga, servicio y carreras alrededor |
 | **Rutas de Milla** | Carreteras secundarias alrededor de Kingsley | Carreras ilegales y pruebas de conducción |
@@ -50,8 +52,8 @@ El norte rural tiene tres capas que se confunden desde la ciudad, pero no son lo
 
 | Trayecto | Tiempo normal | Bajo presión |
 | --- | ---: | ---: |
-| Villa Candelaria -> Bellandi Ridge | 15 min | 10-12 min |
-| Villa Candelaria -> Kingsley Field | 25-35 min | 20 min |
+| Villa Candelaria -> Bellandi Ridge | ~~15 min~~ | ~~10-12 min~~ *(2026-11-15: con la Villa por Las Gemelas, este tiempo queda superado; el nuevo, DISEÑO por decidir.)* |
+| Villa Candelaria -> Kingsley Field | ~~25-35 min~~ | ~~20 min~~ *(2026-11-15: con la Villa por Las Gemelas, este tiempo queda superado; el nuevo, DISEÑO por decidir.)* |
 | Bellandi Ridge -> Cedar Flats | 35-45 min | 30 min |
 | Kingsley Field -> Cedar Flats | 45-55 min | 35-40 min |
 | Kingsley Field -> Camp Alder | 20-30 min | No aplica sin acceso |

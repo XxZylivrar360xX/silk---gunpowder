@@ -44,7 +44,7 @@ Elenna es la ironía de esa frase; Livia es quien la pone a prueba. Su conflicto
 
 - [[02_Characters/Michael_Ardizzone]]: prometido.
 - [[02_Characters/Elenna_Mercer]]: la conoce en el funeral.
-- [[02_Characters/Chiara_Bellandi]] y [[02_Characters/Kal_Mercer]]: futuros suegros, en Palermo (relación PENDIENTE). *(2026-11-15: la familia termina en Boston, no en Palermo; ver [[11_Books/00_Diseno_Final_Boston_Y_La_Villa]].)*
+- [[02_Characters/Chiara_Bellandi]] y [[02_Characters/Kal_Mercer]]: futuros suegros, en Palermo (relación PENDIENTE). *(2026-11-15: la familia termina en Boston, no en Palermo; ver [[11_Books/00_Diseno_Final_Boston_Y_La_Villa]].)* *Voto inverso, mismo día: después del IV viven en movimiento, sin casa fija; [[07_Ideas/El_Voto_Inverso]].*
 
 ## Preguntas abiertas
 

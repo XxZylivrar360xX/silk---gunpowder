@@ -1,5 +1,7 @@
 # Michael Ardizzone
 
+> **CANON DEL AUTOR (2026-11-15): el voto inverso.** Después del IV sus padres no pueden volver a pertenecer a San Aurelio y viven en movimiento; que la familia viaje unida mientras él y Elenna crecen, con Boston y Bonnie como ancla, es PROPUESTA de la columna §4. **Michael y Elenna terminan el voto del III para que puedan estar juntos como familia**, y **su renuncia a la silla es el acto** (DECISIÓN DEL AUTOR). Que lo terminen viviendo su propia vida (él elige a Iris), no salvando a sus padres, es DISEÑO de la columna §1. Por qué renunciar cierra el peligro y no lo abre: abierto. **Dónde nace Michael sigue abierto** (antes Palermo; no se rellena). **Varek cobra en el VII su cuenta con Chiara, por Iris.** Ver [[07_Ideas/El_Voto_Inverso]] · [[11_Books/00_Columna_Maestra_Ciclo_Elenna]].
+
 > **DECISIÓN DEL AUTOR (2026-11-15):** la familia termina **en Boston**, no en Palermo. **Dónde nace Michael queda por re-decidir** (recomendación: Boston); la silla de La Mesa y Livia lo siguen llevando a Palermo. Ver [[11_Books/00_Diseno_Final_Boston_Y_La_Villa]].
 
 *Seda y Pólvora — Ficha de Personaje*
@@ -70,7 +72,7 @@ En San Aurelio se enamora de [[02_Characters/Iris_Harlow|Iris]], hija de Trix y 
 - **Michael se queda en San Aurelio y pierde la silla.** Por primera vez pone algo por delante del deber, y lo sabe. Su frase se paga.
 - **Protege el cierre del IV:** la silla Ardizzone no se muda a San Aurelio. Se queda el hombre, no el poder de la familia. En San Aurelio, con Iris, vuelve a ser Michael Mercer (DISEÑO: sin cambiar su nombre legal).
 - **Pasa al VII como historia civil.** Su trama no invade la línea policial de Elenna; está atada al pasado, el suyo y el de sus padres.
-- **Renuncia a la silla en el VII, después de la bomba doble** (CANON DEL AUTOR, 2026-10-04), sin que le compre el perdón; ver [[06_Relationships/Michael_e_Iris]]. En San Aurelio conserva la dirección general (ver abajo). **PENDIENTE:** quién la ocupa en Palermo; qué pasa con Livia.
+- **Renuncia a la silla en el VII, después de la bomba doble** (CANON DEL AUTOR, 2026-10-04), sin que le compre el perdón; ver [[06_Relationships/Michael_e_Iris]]. *(2026-11-15, DECISIÓN DEL AUTOR: **la renuncia es el acto** del voto inverso, el último lazo de la familia con La Mesa que se corta; [[07_Ideas/El_Voto_Inverso]] · [[11_Books/00_Columna_Maestra_Ciclo_Elenna]].)* En San Aurelio conserva la dirección general (ver abajo). **PENDIENTE:** quién la ocupa en Palermo; qué pasa con Livia.
 
 ## Lo que sabe: el camper y el caso Vera
 

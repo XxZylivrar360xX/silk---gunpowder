@@ -2,7 +2,7 @@
 
 > **Estado:** CANON DEL AUTOR; ejecución en prosa pendiente.
 >
-> **Ubicación macro:** después del acto final de Kal y Chiara en San Aurelio; llegan a Palermo. Libro y capítulo exactos pendientes. *(2026-11-15: la familia termina en Boston, no en Palermo; ver [[11_Books/00_Diseno_Final_Boston_Y_La_Villa]].)*
+> **Ubicación macro:** después del acto final de Kal y Chiara en San Aurelio; llegan a Palermo. Libro y capítulo exactos pendientes. *(2026-11-15: la familia termina en Boston, no en Palermo; ver [[11_Books/00_Diseno_Final_Boston_Y_La_Villa]].)* *Voto inverso, mismo día: después del IV viven en movimiento, sin casa fija; [[07_Ideas/El_Voto_Inverso]].*
 
 ## Canon del autor
 

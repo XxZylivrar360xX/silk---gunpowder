@@ -26,7 +26,7 @@ Este directorio contiene la **linea temporal macro** de los siete libros. Cada e
 2. [[02_Libro_01_Mascaras_De_Cristal]] — encuentro, elección mutua y primera prueba (Camp Alder).
 3. [[03_Libro_02_Sombras_De_Poder]] — ascenso, H1 y llegada de Halbrook.
 4. [[04_Libro_03_Voto_De_Ceniza]] — guerra, exilio de Elenna y decisión de salida.
-5. [[05_Libro_04_Cuentas_De_Sangre]] — ejecución, Meridian y salida a Palermo. *(2026-11-15: la familia termina en Boston, no en Palermo; ver [[11_Books/00_Diseno_Final_Boston_Y_La_Villa]].)*
+5. [[05_Libro_04_Cuentas_De_Sangre]] — ejecución, Meridian y salida a Palermo. *(2026-11-15: la familia termina en Boston, no en Palermo; ver [[11_Books/00_Diseno_Final_Boston_Y_La_Villa]].)* *Voto inverso, mismo día: después del IV viven en movimiento, sin casa fija; [[07_Ideas/El_Voto_Inverso]].*
 6. [[06_Libro_05_Juramento_De_Hierro]] — academia, caso Vera y siembra de Ethan.
 7. [[07_Libro_06_Hijos_Del_Silencio]] — caza, captura y arresto de Ethan / Dylan Marsh.
 8. [[08_Libro_07_Camino_A_Casa]] — hospital, reconstrucción de la noche Marsh y cierre del caso Vera.

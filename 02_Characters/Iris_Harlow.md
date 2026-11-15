@@ -1,5 +1,7 @@
 # Iris Harlow
 
+> **DECISIÓN DEL AUTOR (2026-11-15): el voto inverso.** **Varek cobra en el VII, desde la cárcel, su cuenta con Chiara, y la pide por Iris**, la nieta que crió aunque no sea de su sangre (qué pide: abierto). Además, la renuncia de Michael a la silla, que ella provoca sin buscarlo, es el acto con el que los hijos terminan el voto de sus padres. Ver [[07_Ideas/El_Voto_Inverso]] · [[11_Books/00_Columna_Maestra_Ciclo_Elenna]].
+
 > **CANON DEL AUTOR (2026-11-07):** Trix muere en *Voto de Ceniza* (Libro III) e **Iris queda huérfana de madre siendo pequeña**. Supersede «creció con Trix» y «para la época de Elenna [Trix] vive lejos de San Aurelio; Iris se quedó». Detalle: [[11_Books/Book_01_Mascaras_De_Cristal/00_Plan_Nuevo_Cauce]].
 
 > **Numeración:** desde 2026-10-22 el Libro I usa numeración corrida definitiva (56 caps.); este documento cita la numeración anterior. Correspondencia en [[11_Books/Book_01_Mascaras_De_Cristal/00_Book_Map]].

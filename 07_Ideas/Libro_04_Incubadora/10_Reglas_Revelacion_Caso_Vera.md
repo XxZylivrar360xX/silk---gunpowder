@@ -1,5 +1,7 @@
 # Reglas de revelación del caso Vera (Libros VI–VII)
 
+> **DECISIONES DEL AUTOR (2026-11-15): el voto inverso.** Responden preguntas de abajo: **Lucía** descubre a Kal en el hospital y debe entregarlo, y por eso se van en el hangar; **Volpi** le ofrece a Elenna la verdad de sus padres y ella no la toma (pregunta «qué verdad decide no perseguir»); el cierre del VII, después del clímax, reúne a toda la familia en la Villa. Kal y Chiara siguen sin resolver el caso ni dominar el clímax. Ver [[07_Ideas/El_Voto_Inverso]] · [[11_Books/00_Columna_Maestra_Ciclo_Elenna]].
+
 > **ESTADO (2026-10-03):** integrado desde la nota PROYECTO RECLUTA `2026-10-03_camino_a_casa_reglas_revelacion_estructura_misterio` (archivada en `98_Agent_Handoff/archive/chatgpt/`). Las secciones marcadas "CANON DEL AUTOR" lo son; el resto es DISEÑO fuerte. Arquitectura en [[00_Biblia/00_Trilogy_Structure]] (Ciclo de Elenna) y en [[11_Books/Book_06_Hijos_Del_Silencio/00_Book_Map]] / [[11_Books/Book_07_Camino_A_Casa/00_Book_Map]].
 >
 > **RESUELTO (lote 3, 2026-10-03, CANON DEL AUTOR):** Blake Stanton mató a los padres Marsh; el padre era el asociado de Varek y es el "sospechoso oficial que desaparece" (Volpi se lleva los cuerpos). La noche ocurre durante el Libro I. La omisión institucional es de Renata Clark. La entrevista con Volpi va en el VII. Reconstrucción en [[07_Ideas/Libro_04_Incubadora/02_Caso_Vera_y_Antagonista]]; Blake en [[02_Characters/Blake_Stanton]].
@@ -341,7 +343,7 @@ Se mantienen como beats fuertes de **Camino a Casa** salvo nueva decisión del a
 
 ### Hangar
 
-- Kal y Chiara se marchan, 4–5 capítulos después de la apertura (CANON, 2026-10-03).
+- Kal y Chiara se marchan, 4–5 capítulos después de la apertura (CANON, 2026-10-03). *(2026-11-15: porque Lucía debe entregar a Kal; vuelven en el cierre del VII.)*
 - Elenna decide quedarse.
 - Nicholas reconoce que ella puede cuidarse sola: "—Mercer se cuida bastante bien sola." (CANON, lote 4).
 - La despedida confirma que quedarse en San Aurelio es elección, no abandono.
@@ -375,7 +377,7 @@ La mejor resolución es que:
 7. ¿Qué archivo interno conecta con la confrontación del padre Marsh?
 8. ¿Qué elemento apunta primero a Blake?
 9. ¿Qué parte descubre Elenna y cuál Nicholas?
-10. ¿Qué parte aporta Lucia?
+10. ¿Qué parte aporta Lucia? *(2026-11-15, DECISIÓN DEL AUTOR: en el hospital descubre a Kal y debe entregarlo.)*
 11. ¿Cuándo entra Corrado?
 12. ¿Cuándo ocurre la visita a Volpi respecto al testimonio de Dylan?
 13. ¿Qué prueba final permite formalizar un caso contra Blake?

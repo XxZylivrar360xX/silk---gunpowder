@@ -1,5 +1,7 @@
 # Hospital — el reencuentro con Elenna (apertura de *Camino a Casa*, Libro VII)
 
+> **DECISIÓN DEL AUTOR (2026-11-15): el voto inverso.** **En el hospital, Lucía descubre a Kal y, aunque son viejos amigos, debe entregarlo**; por eso se van en el hangar. Aquí el voto se rompe: en el III eligieron la ausencia para salvarla; aquí eligen la presencia aunque los exponga (lectura DISEÑO). Si Lucía entiende que Elenna es su hija y si le avisa: abierto. Ver [[07_Ideas/El_Voto_Inverso]] · [[11_Books/00_Columna_Maestra_Ciclo_Elenna]].
+
 > **MATERIAL NARRATIVO DE APOYO — NO CANÓNICO HASTA APROBACIÓN DEL AUTOR.**
 >
 > Escena de exploración para el inicio de *Camino a Casa*. La arquitectura emocional y varios

@@ -18,10 +18,10 @@
 | 1 | [[02_Libro_01_Mascaras_De_Cristal]] | Kal y Chiara se conocen en San Aurelio | Reencuentro tras Camp Alder ("Ciao, bella", Cap. 55, archivo 50); Halbrook llega a San Aurelio (Cap. 56, archivo 50b) |
 | 2 | [[03_Libro_02_Sombras_De_Poder]] | Reconciliación tras Camp Alder y asesinato de Fabrizio (Tommaso sobrevive; CANON 2026-10-12) | H1 y el reveal del embarazo cierran el libro |
 | 3 | [[04_Libro_03_Voto_De_Ceniza]] | Chiara está embarazada y Halbrook ya está presente (llegó en el Cap. 56, archivo 50b, del Libro I) | Kal sentencia a Halbrook; Halbrook muere en su discurso de victoria |
-| 4 | [[05_Libro_04_Cuentas_De_Sangre]] | La muerte de Halbrook provoca Meridian | Kal y Chiara viven en Palermo con Elenna *(2026-11-15: la familia termina en Boston, no en Palermo; ver [[11_Books/00_Diseno_Final_Boston_Y_La_Villa]].)* |
+| 4 | [[05_Libro_04_Cuentas_De_Sangre]] | La muerte de Halbrook provoca Meridian | Kal y Chiara viven en Palermo con Elenna *(2026-11-15: la familia termina en Boston, no en Palermo; ver [[11_Books/00_Diseno_Final_Boston_Y_La_Villa]]. Voto inverso, CANON DEL AUTOR del mismo día: no pueden volver a pertenecer a San Aurelio y viven en movimiento; Boston como ancla de la infancia es PROPUESTA; [[07_Ideas/El_Voto_Inverso]].)* |
 | 5 | [[06_Libro_05_Juramento_De_Hierro]] | Elenna decide entrar a la academia | Nicholas queda sin objeto para su duelo; Ethan sigue oculto; grieta con Erin |
 | 6 | [[07_Libro_06_Hijos_Del_Silencio]] | Elenna ya ejerce como policía | Dylan Marsh detenido; la noche Marsh sigue sin explicar |
-| 7 | [[08_Libro_07_Camino_A_Casa]] | Elenna despierta herida; Kal y Chiara regresan | Se resuelve el caso Vera; Elenna elige quedarse en San Aurelio |
+| 7 | [[08_Libro_07_Camino_A_Casa]] | Elenna despierta herida; Kal y Chiara regresan | Se resuelve el caso Vera; Elenna elige quedarse en San Aurelio; *(2026-11-15, CANON DEL AUTOR)* la familia entera vuelve a la Villa |
 
 ## Reglas de continuidad
 
@@ -30,6 +30,6 @@
 - H1 y el reveal del embarazo cierran el Libro II (*Sombras de Poder*); el nacimiento de Elenna sigue perteneciendo al Libro III.
 - H22 ocurre en el Libro III (*Voto de Ceniza*), antes de la caída legal de Dario, la montaña y Santa Lucía.
 - La ejecución pública de Halbrook cierra el Libro III (*Voto de Ceniza*) (supersesión 2026-09-28).
-- Los Libros V, VI y VII pertenecen al ciclo de Elenna; Kal y Chiara no aparecen físicamente en V ni VI y regresan en el VII.
+- Los Libros V, VI y VII pertenecen al ciclo de Elenna; Kal y Chiara no aparecen físicamente en V ni VI y regresan en el VII. *(2026-11-15, CANON DEL AUTOR: el voto inverso; los hijos terminan el voto del III para que puedan estar juntos como familia y el VII cierra con el regreso a la Villa; [[07_Ideas/El_Voto_Inverso]].)*
 - La confesión de Erin ocurre en el VI, antes de confirmar que Ethan es el responsable.
 - Ethan / Dylan cae en el VI; la verdad de la noche Marsh se reserva para el VII.

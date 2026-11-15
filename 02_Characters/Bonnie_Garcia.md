@@ -1,5 +1,7 @@
 # Bonnie García
 
+> **CANON DEL AUTOR (2026-11-15): el voto inverso.** La familia Mercer no termina en una casa fija: después del IV vive en movimiento (San Aurelio, Nueva York, Italia, Boston). PROPUESTA de la columna §4, no decidida: la familia se mueve unida mientras los niños crecen y **Boston, con Bonnie, es el ancla de la infancia.** La nota de abajo («la familia Mercer termina en Boston») queda matizada así. Que Bonnie vuelva a San Aurelio poco antes que Elenna, como la primera de la familia elegida que vuelve, es PROPUESTA de la columna (§4). Ver [[07_Ideas/El_Voto_Inverso]] · [[11_Books/00_Columna_Maestra_Ciclo_Elenna]].
+
 > **DECISIÓN DEL AUTOR (2026-11-15):** **la familia Mercer termina en Boston**, donde vive Bonnie; Elenna crece cerca de ella. Ver [[11_Books/00_Diseno_Final_Boston_Y_La_Villa]].
 
 > **CAMBIO DE CANON (2026-11-07):** F2 ya no es ejecución ni destierro: Mei-Lin muere tras una operación y Bonnie se va a Boston por elección; recibe a Elenna desde Boston (se retira Italia). Manda [[06_Relationships/Momentos_de_Fractura#F2 - La muerte de Mei-Lin y la salida de Bonnie|F2]]; lo que diga abajo sobre Italia, Roberta Ardizzone, la ejecución o el destierro queda superado.

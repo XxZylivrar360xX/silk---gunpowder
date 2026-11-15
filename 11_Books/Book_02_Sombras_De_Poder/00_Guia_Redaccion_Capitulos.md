@@ -539,7 +539,7 @@ F2 se queda en la Parte III, y el final la cobra **con ecos, no de forma textual
 - **Función:** Chiara consolida infraestructura pública; Kal reúne respeto, que no es lealtad automática. Halbrook avanza de consultor a rostro de la seguridad pública.
 - **Beats (P):** en un acto de su fundación, Halbrook le estrecha la mano a Kal delante de una cámara, y la foto sale en la sección de sociedad de *El Faro*. Chiara la deja correr: no tiene por qué no (D3). Dario le da su respuesta sobre los frenos: «fue La Mesa, y ese hombre ya no existe». Otra cuota.
 - **Relación:** ella cree que lo de los frenos quedó cerrado y no puede decirle a Kal cómo lo sabe. Él sigue con su ruido. Ahora creen dos versiones distintas del mismo atentado.
-- **Saldo:** la cuenta de Varek, pagada por una respuesta falsa (velado: nada en página dice que lo sea). **Semilla DISEÑO:** la foto acaba en la chimenea (57).
+- **Saldo:** la cuenta de Varek, pagada por una respuesta falsa (velado: nada en página dice que lo sea). *(2026-11-15, DECISIÓN DEL AUTOR: Varek cobra la cuenta con Chiara desde la cárcel en el VII, por Iris; cómo se concilia con este cobro en el II, PENDIENTE del autor; [[07_Ideas/El_Voto_Inverso]].)* **Semilla DISEÑO:** la foto acaba en la chimenea (57).
 
 **45. Lo poco que llegué a saber** — oct A4 · Kal · el taller; la Villa; [[05_Locations/Cementerio_Santa_Lucia]] · *(52b; IV-U6)*
 

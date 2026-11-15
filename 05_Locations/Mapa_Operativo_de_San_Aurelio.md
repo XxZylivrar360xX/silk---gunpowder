@@ -2,6 +2,8 @@
 
 *Ficha de Lugar - geografia, carreteras y tiempos narrativos*
 
+> **CANON DEL AUTOR (2026-11-15): el voto inverso.** [[05_Locations/La_Villa|Villa Candelaria]] se mueve de Lomas de San Jacinto a **un lote por Las Gemelas** y en el II–IV es un lugar **velado para los enemigos**. Las menciones de la Villa en las Lomas quedan marcadas abajo; la zona sigue existiendo sin la casa. Tiempos nuevos: DISEÑO por decidir. Ver [[07_Ideas/El_Voto_Inverso]].
+
 > **CANON DEL AUTOR (2026-10-06): mapa definitivo** en [[99_Reference/location_references/mapa_san_aurelio.png]]. Este documento ya está recalibrado a ese mapa (escala: la barra del mapa mide 10 km). Si algo aquí choca con el dibujo, manda el dibujo. Ficha de la ciudad: [[05_Locations/San_Aurelio]].
 >
 > **Protomapas de barrio (2026-10-14, guía, no canon):** [[99_Reference/location_references/la_almendra.png|La Almendra]] · [[99_Reference/location_references/la_isla_punta_dorada.png|La Isla]]. No cambian escalas, tiempos ni rutas de este documento. De ellos solo es canon la forma de la meseta que da nombre a La Almendra.
@@ -48,7 +50,7 @@ Norte arriba. La ciudad es una media luna que abraza la Bahía de San Aurelio; e
 | Barrios del sur | Sur y sureste: Nueve Puentes, Canal Seco, Las Calderas | Territorio fragmentado, canales y puentes | Bandas menores |
 | [[05_Locations/Presa_Del_Sur|Presa del Sur]] | Sureste, al final de Las Calderas | Lago y canales | Municipal |
 | Cuesta Bonita | Colina al noreste del centro | Dinero viejo, mansión de Varek | Elite tradicional, Varek por influencia |
-| Lomas de San Jacinto | Más arriba, al noreste de Cuesta Bonita | Casas defendibles, [[05_Locations/La_Villa|Villa Candelaria]] | Elite residencial, seguridad privada |
+| Lomas de San Jacinto | Más arriba, al noreste de Cuesta Bonita | Casas defendibles; ~~[[05_Locations/La_Villa|Villa Candelaria]]~~ (2026-11-15: la Villa pasa a Las Gemelas) | Elite residencial, seguridad privada |
 | Los Alamos | Costa norte de la bahía | Refinerias inactivas, chatarra, suelo barato | [[03_Factions/Alamo_Salvage]] |
 | [[05_Locations/El_Mirador|El Mirador]] | Cerros del norte, sobre la ciudad | Vista completa, sin alumbrado | Nadie |
 | [[05_Locations/Bellandi_Ridge_Vineyards|Bellandi Ridge]] | Ladera norte, arriba de El Mirador | Viñedo de Chiara | Chiara Bellandi |
@@ -57,7 +59,7 @@ Norte arriba. La ciudad es una media luna que abraza la Bahía de San Aurelio; e
 | La Tramoya | Corredor de servicio al sureste de Kingsley Field | Tienda de máscaras y utilería | Civil |
 | [[05_Locations/Cedar_Flats]] | Fuera del mapa, al norte (75-90 min) | Parcelas, bodegas rurales | Agricultores, El Patio en expansión |
 | [[05_Locations/Camp_Alder]] | Fuera del mapa, noreste restringido (1 h o más) | Armamento, pasado militar | Federal / militar |
-| Las Gemelas (cascadas) | Fuera del mapa, cerros del este-noreste (50-70 min) | Primer lugar que no es territorio de nadie | Nadie |
+| Las Gemelas (cascadas) | Fuera del mapa, cerros del este-noreste (50-70 min) | Primer lugar que no es territorio de nadie; **[[05_Locations/La_Villa\|Villa Candelaria]] en un lote cercano** (CANON DEL AUTOR, 2026-11-15) | Nadie |
 | [[05_Locations/El_Lago|El lago]] | Fuera del mapa, más allá de Las Gemelas, cerro arriba (CANON DEL AUTOR, 2026-10-08) | Lago de pesca de El Patio; H7 | Nadie; de los muchachos por costumbre |
 
 ---
@@ -102,9 +104,9 @@ No son tiempos de GPS. Son tiempos de escena: trafico, hora, presion policial y 
 | Distrito Marino / Puerto Viejo -> La Isla en ferry | 20 min | No aplica | Alternativa al puente |
 | La Almendra -> Calle Corona | 5-10 min | 5 min | Cap. 9: Kal llega en siete |
 | La Almendra -> Hospital Santa Aurelia | 12-15 min | 8 min, pero muy visible | Heridas oficiales, escenas con reporte |
-| La Almendra -> Villa Candelaria / Lomas de San Jacinto | 20-25 min | 15 min | Distancia fisica y de clase, cuesta arriba |
-| La Villa -> Iglesia Santa Lucia | 20-25 min | 15 min | Fe, velas, retorno emocional |
-| Villa Candelaria -> Bellandi Ridge | 15 min | 10-12 min | Hogar, viñedo, norte privado |
+| La Almendra -> ~~Villa Candelaria /~~ Lomas de San Jacinto | 20-25 min | 15 min | Distancia fisica y de clase, cuesta arriba *(2026-11-15: la Villa ya no está en las Lomas; el tiempo a las Lomas sigue valiendo; el de la Almendra a la Villa, DISEÑO por decidir.)* |
+| La Villa -> Iglesia Santa Lucia | ~~20-25 min~~ | ~~15 min~~ | Fe, velas, retorno emocional *(2026-11-15: con la Villa por Las Gemelas, este tiempo queda superado; el nuevo, DISEÑO por decidir.)* |
+| Villa Candelaria -> Bellandi Ridge | ~~15 min~~ | ~~10-12 min~~ | Hogar, viñedo, norte privado *(2026-11-15: con la Villa por Las Gemelas, este tiempo queda superado; el nuevo, DISEÑO por decidir.)* |
 | Calle Corona -> Puerto Viejo | 12 min | 8-10 min | Prensa, fiscalia, carga |
 | La Almendra -> Puerto Viejo | 18-25 min | 15 min por rutas de carga | Gruas, bodegas, favores |
 | Puerto Viejo -> Los Alamos | 25-35 min | 20 min | Chatarra, refinerias, expansion |
@@ -187,7 +189,7 @@ Todas las ubicaciones de esta tabla quedaron fijadas por el mapa definitivo (202
 | Mansion de Varek | Cuesta Bonita | Sin cambio |
 | La Esquina de Mabel, Iglesia y Cementerio Santa Lucía | Al sur de Calle Corona | Sin cambio |
 | Tienda de mascaras — **La Tramoya** | Corredor de servicio al sureste de Kingsley Field | Sin cambio |
-| Villa Candelaria | Lomas de San Jacinto | Sin cambio |
+| Villa Candelaria | ~~Lomas de San Jacinto~~ Lote por Las Gemelas (CANON DEL AUTOR, 2026-11-15) | ~~Sin cambio~~ Cambia: [[07_Ideas/El_Voto_Inverso]] |
 | Bellandi Ridge Vineyards | Ladera norte, arriba de El Mirador | Sin cambio |
 | Las Gemelas, El lago, Camp Alder, Cedar Flats | Fuera del mapa (este-noreste, más allá de Las Gemelas, noreste, norte) | Flechas con tiempo en el mapa |
 

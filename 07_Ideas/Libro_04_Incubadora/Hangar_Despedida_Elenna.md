@@ -1,5 +1,7 @@
 # Hangar — la despedida de Elenna (Camino a Casa)
 
+> **DECISIÓN DEL AUTOR (2026-11-15): el voto inverso.** Se van del hangar porque **en el hospital Lucía descubre a Kal y, aunque son viejos amigos, debe entregarlo**: todavía no es seguro. «El resto del libro ocurre sin Kal y Chiara» vale **hasta el clímax**; el cierre del VII los devuelve a la Villa con toda la familia. Ver [[07_Ideas/El_Voto_Inverso]] · [[11_Books/00_Columna_Maestra_Ciclo_Elenna]].
+
 > **MATERIAL NARRATIVO DE APOYO — NO CANÓNICO HASTA APROBACIÓN DEL AUTOR.**
 >
 > Escena de exploración para *Camino a Casa*. La arquitectura emocional y varios diálogos
@@ -235,7 +237,7 @@ Elenna se quedó un momento más, mirando la pista vacía.
 > exacta "Estoy orgullosa de ti".
 
 > **CANON DEL AUTOR (2026-10-03):** el hangar va 4–5 capítulos después de la apertura del VII,
-> antes del clímax policial; el resto del libro ocurre sin Kal y Chiara.
+> antes del clímax policial; el resto del libro ocurre sin Kal y Chiara. *(2026-11-15, CANON DEL AUTOR: hasta el clímax; el cierre los devuelve a la Villa.)*
 
 ---
 

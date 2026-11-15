@@ -1,5 +1,7 @@
 # Book 05 — Juramento de Hierro
 
+> **CANON DEL AUTOR (2026-11-15): el voto inverso.** Kal y Chiara no pueden volver a pertenecer a San Aurelio (Meridian contra Kal, La Mesa contra Chiara) y viven en movimiento; por eso no aparecen en este libro. Elenna vive en la Villa, que está en un lote por Las Gemelas; sus padres vuelven a ella en el cierre del VII. Lo que la columna pone en este libro (el nudo de «la casa», los matasellos de ciudades distintas, la llamada final) es DISEÑO. Donde abajo dice «la familia vive en Boston», léase: no hay casa fija (Boston como ancla de la infancia es PROPUESTA de la columna §4). Ver [[07_Ideas/El_Voto_Inverso]] · [[11_Books/00_Columna_Maestra_Ciclo_Elenna]].
+
 > **DECISIÓN DEL AUTOR (2026-11-15, segunda tanda):** **apellido:** llega como Ardizzone y **recupera Mercer en una audiencia antes de entrar a la policía como cadete**, con ayuda de Marisol. **Mudanza:** unas semanas después, la vida con Marisol se complica por el choque con la fiscalía; Elenna se lo cuenta a **Walt y a Corrado, que comparten un escocés**, y ahí Walt le da la llave de la Villa. En la casa encuentra lo que sus padres dejaron atrás y **«su cuarto que nunca fue suyo»**. Ver [[11_Books/00_Diseno_Final_Boston_Y_La_Villa]].
 
 > **DECISIÓN DEL AUTOR (2026-11-15):** cuando Elenna, ya en San Aurelio, va a buscar dónde vivir, **Walt** (unos 81 años, casado con Mabel) le dice «No seas ridícula, niña, no necesitas buscar un lugar donde vivir, porque ya tienes un lugar donde vivir» y le da la llave y la dirección de **Villa Candelaria**, que él mantuvo en desuso, con los muebles bajo sábanas. Supersede la mudanza a «su departamento propio». **Su apellido:** Elenna Mercer murió para el mundo en el III; Marisol ayuda (o ya ayudó) a recuperar su legítimo apellido, y Elenna puede llegar a San Aurelio como una Ardizzone («Recluta Mercer» era título provisional, no canon; sólo choca la línea del hangar del VII: opciones en [[11_Books/00_Diseno_Final_Boston_Y_La_Villa]]). La familia vive en Boston, no en Palermo.
@@ -31,7 +33,7 @@ Ver [[07_Ideas/Libro_04_Incubadora/01_Nicholas_Voss]] y [[07_Ideas/Libro_04_Incu
 
 ## Estado de entrada (hereda del cierre de Cuentas de Sangre)
 
-- Kal y Chiara viven en Palermo; Elenna vivió con ellos como hija, no como heredera. *(2026-11-15: la familia termina en Boston, no en Palermo; ver [[11_Books/00_Diseno_Final_Boston_Y_La_Villa]].)*
+- Kal y Chiara viven en Palermo; Elenna vivió con ellos como hija, no como heredera. *(2026-11-15: la familia termina en Boston, no en Palermo; ver [[11_Books/00_Diseno_Final_Boston_Y_La_Villa]]. Voto inverso, CANON DEL AUTOR del mismo día: viven en movimiento, sin casa fija (Boston como ancla, PROPUESTA).)*
 - Elenna, 21 años, decide regresar a San Aurelio e iniciar la academia — ver [[07_Ideas/Arco_Elenna_Libro_04]].
 - Corrado / Nonno y Bellandi Ridge como espacio cálido de fondo — ver [[07_Ideas/Libro_04_Incubadora/04_Legado_Post_Trilogia]].
 - El caso Vera lleva años cerrado en falso — ver [[07_Ideas/Libro_04_Incubadora/02_Caso_Vera_y_Antagonista]] y [[07_Ideas/Libro_04_Incubadora/05_Volpi_y_Corrado]].

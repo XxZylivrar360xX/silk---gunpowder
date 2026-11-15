@@ -1,6 +1,6 @@
 # Diseño: el final en Boston y la herencia de Villa Candelaria
 
-> **CANON DEL AUTOR (confirmado el 2026-11-15): el voto inverso.** la Villa por Las Gemelas y la familia en movimiento después del IV; Michael y Elenna terminan el voto para que Kal y Chiara vuelvan a la Villa. Este diseño cambia: Boston pasa a ser una parada y el ancla de la infancia (propagación pendiente). Ver [[07_Ideas/El_Voto_Inverso]].
+> **CANON DEL AUTOR (confirmado el 2026-11-15): el voto inverso.** la Villa por Las Gemelas y la familia en movimiento después del IV; Michael y Elenna terminan el voto para que Kal y Chiara vuelvan a la Villa. Este diseño cambia: Boston pasa a ser una parada (como ancla de la infancia, PROPUESTA de la columna §4) y la Villa ya no está en las Lomas. **Propagado al vault el 2026-11-15**; queda superado aquí, con notas en línea, lo que choca. Ver [[07_Ideas/El_Voto_Inverso]] · [[11_Books/00_Columna_Maestra_Ciclo_Elenna]].
 
 > **Estado:** las decisiones del §1 son **CANON DEL AUTOR (2026-11-15)**. El resto es DISEÑO del agente (Claude Code, mismo día); lo marcado **PROPUESTA** espera al autor. **No toca prosa.**
 >
@@ -12,7 +12,7 @@
 
 ## 1. Decisiones del autor (2026-11-15)
 
-1. **La familia termina en Boston, no en Palermo.** Ahí vive Bonnie, que recibió a Elenna.
+1. **La familia termina en Boston, no en Palermo.** Ahí vive Bonnie, que recibió a Elenna. *(Matizado por el voto inverso, CANON DEL AUTOR del mismo día: viven en movimiento, sin casa fija; Boston como ancla de la infancia es PROPUESTA.)*
 2. **La Villa vuelve a Elenna por Walt.** Walt la mantuvo todos esos años: la casa está en desuso, con los muebles cubiertos con sábanas. Cuando Elenna, ya en San Aurelio, va a buscar dónde vivir, Walt le dice:
    > «No seas ridícula, niña, no necesitas buscar un lugar donde vivir, porque ya tienes un lugar donde vivir.»
 
@@ -48,13 +48,13 @@
 - **Abierto:** el lugar exacto, y qué hace Chiara con lo que encuentra.
 - **Siembra de paso para el IV:** el testamento lista **todas las propiedades**, que son el mapa de lo que se reparte en la salida (los herederos: Garrett, Danny, Ren).
 
-**Libro IV: por qué la Villa sobrevive.** Meridian puede «destruir una casa, congelar cuentas». La Villa está a nombre de Chiara desde la firma. PROPUESTA: está comprada con dinero limpio de ella y no forma parte del expediente de Kal. Al irse a Boston, la dejan al cuidado de Walt.
+**Libro IV: por qué la Villa sobrevive.** Meridian puede «destruir una casa, congelar cuentas». La Villa está a nombre de Chiara desde la firma. PROPUESTA: está comprada con dinero limpio de ella y no forma parte del expediente de Kal. Al irse a Boston, la dejan al cuidado de Walt. *(2026-11-15: al irse de San Aurelio, sin casa fija; la Villa ya está por Las Gemelas.)*
 
 **Antes del V: el apellido (decisiones 3, 6 y 7). DECIDIDO: opción (b).** Llega como Ardizzone y recupera Mercer en una audiencia antes de entrar como cadete. Para el VII ya es Mercer, y la línea de Nicholas en el hangar («—Mercer se cuida bastante bien sola.», CANON #45) cobra el cambio sin tocarse. *Por resolver al escribir:* qué figura legal deshace la muerte de una persona declarada muerta sin exponer el voto (investigar; Marisol desde la fiscalía).
 
 **Libro V: la llave (decisiones 2, 5, 8 y 9).** Orden: audiencia → entra como cadete → unas semanas después, el choque con la fiscalía complica la vida con Marisol → se lo cuenta a Walt y a Corrado con el escocés → la llave. **Supersede** el canon del V que ponía la mudanza a «su departamento propio» después de la graduación. La escena junta a los dos viejos que guardaron cosas para los hijos de otros: Walt, las cartas de Dale y la Villa; Corrado, su propia ausencia. Y Elenna ya sabe que el señor Gabe es su abuelo (CANON). **El cuarto que nunca fue suyo** es el centro de la casa: lo prepararon durante el embarazo del III y nunca lo usó.
 
-**Libro VII: el regreso (PROPUESTA).** Kal y Chiara vuelven en persona a San Aurelio (el hospital, el hangar). Es la primera vez en veinte años que los tres están en la Villa, y entonces se quitan las sábanas que quedan.
+**Libro VII: el regreso** *(DECIDIDO 2026-11-15: dentro del VII, después del clímax, con los encuentros de toda la familia y el «Hola, Papá.» de Marisol; [[11_Books/00_Columna_Maestra_Ciclo_Elenna]] §5)*. Texto anterior (PROPUESTA): Kal y Chiara vuelven en persona a San Aurelio (el hospital, el hangar). Es la primera vez en veinte años que los tres están en la Villa, y entonces se quitan las sábanas que quedan.
 
 ---
 
@@ -67,7 +67,7 @@
 - La infancia de Elenna (los primeros diez años) es en Boston.
 
 **Lo decide el autor** (preguntado el 2026-11-15, sin respuesta todavía; van las recomendaciones):
-- **Dónde nace Michael** (hoy «en Palermo»). Recomendado: Boston.
+- **Dónde nace Michael** (hoy «en Palermo»). Recomendado: Boston. *(2026-11-15: con la familia en movimiento, sigue abierto; quizá en otra ciudad.)*
 - **El viñedo y la distribuidora agrícola** que fundaban en Palermo. Recomendado: PENDIENTE, sin forzar un negocio.
 - **La casa azul y «—No vayas a quemar de nuevo la cocina, amore.»** Recomendado: se quedan en Boston. Rima, además, con la casa azul de Henrik junto al muelle de Stavanger, donde se concibió Elenna.
 - **El lugar de Palermo.** Recomendado: tras la purga de La Mesa, Chiara puede volver a Palermo sin pedir permiso (la meta de Corrado) y elige no vivir ahí. Palermo queda para visitas: Ettore, la tumba de Marta y, después, la silla de Michael.
@@ -86,7 +86,7 @@
 1. **El testamento:** ¿en qué libro lo escribe Kal y en cuál lo encuentra Chiara (II o III)?
 2. ~~El apellido~~ **Decidido: (b)**, con audiencia antes de la academia.
 3. ~~La mudanza~~ **Decidido:** unas semanas después de entrar como cadete, por el choque con la fiscalía. **El choque es por un caso de Elenna** (DECISIÓN DEL AUTOR, 2026-11-15): Marisol, desde la fiscalía, queda del otro lado, y vivir juntas se vuelve un conflicto. *Abierto:* qué caso, y cómo lo tiene una cadete a pocas semanas de entrar (como testigo, en prácticas o por un incidente fuera de servicio).
-4. **El VII:** ¿la Villa es donde se quitan las últimas sábanas cuando vuelven Kal y Chiara?
+4. **El VII:** ¿la Villa es donde se quitan las últimas sábanas cuando vuelven Kal y Chiara? *(2026-11-15, DECISIÓN DEL AUTOR: vuelven a la Villa en el cierre del VII con toda la familia; las sábanas, DISEÑO.)*
 5. **Los cuatro puntos de Boston del §4.**
 
 Ver también: [[00_Biblia/00_Trilogy_Structure]] · [[11_Books/Book_04_Cuentas_De_Sangre/00_Book_Map]] · [[11_Books/Book_05_Juramento_De_Hierro/00_Book_Map]] · [[05_Locations/La_Villa]] · [[02_Characters/Walter_Keegan]] · [[02_Characters/Marisol_Grayson]]

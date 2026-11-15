@@ -157,7 +157,7 @@ El imperio, la guerra, la pérdida de Bonnie y Mei-Lin y el embarazo ~~y la lleg
 pertenecen al Libro II en adelante. La imagen final de la saga completa (Palermo, la niña en
 casa) sigue siendo la de *Cuentas de Sangre* — ver [[00_Biblia/00_Trilogy_Structure]].
 
-*(2026-11-15: la familia termina en Boston, no en Palermo; ver [[11_Books/00_Diseno_Final_Boston_Y_La_Villa]].)*
+*(2026-11-15: la familia termina en Boston, no en Palermo; ver [[11_Books/00_Diseno_Final_Boston_Y_La_Villa]].)* *Voto inverso, mismo día: después del IV viven en movimiento, sin casa fija; [[07_Ideas/El_Voto_Inverso]].*
 
 ## Tesis emocional
 
@@ -275,7 +275,7 @@ La inversion es completa: los negocios se vuelven vectores de investigacion, los
 
 La pregunta final no es si van a terminar juntos, sino si pueden abandonar juntos aquello que dedicaron toda la novela a construir **antes de perder más tiempo con Elenna**. Meridian convierte empresas, propiedades, contactos, amigos e inversiones en mecanismos que los fijan a la ciudad; ellos llevan desde Parte IV intentando volver esas mismas estructuras capaces de sobrevivir a su ausencia. La red que construyeron permite el engaño final y la desaparicion.
 
-El libro termina en Palermo, no dentro del imperio. La ultima imagen es la casa modesta y la vida domestica. El dialogo de cierre propuesto queda registrado como canon de salida: *(2026-11-15: la familia termina en Boston, no en Palermo; ver [[11_Books/00_Diseno_Final_Boston_Y_La_Villa]].)*
+El libro termina en Palermo, no dentro del imperio. La ultima imagen es la casa modesta y la vida domestica. El dialogo de cierre propuesto queda registrado como canon de salida: *(2026-11-15: la familia termina en Boston, no en Palermo; ver [[11_Books/00_Diseno_Final_Boston_Y_La_Villa]].)* *Voto inverso, mismo día: después del IV viven en movimiento, sin casa fija; [[07_Ideas/El_Voto_Inverso]].*
 
 > **Chiara:** —No vayas a quemar de nuevo la cocina, amore. *(2026-11-15: por re-decidir con el final en Boston; ver [[11_Books/00_Diseno_Final_Boston_Y_La_Villa]].)*
 > **Kal:** —No prometo nada.
@@ -290,7 +290,7 @@ Material base: las consecuencias federales de la muerte pública de Halbrook, Me
 | II — Construcción | ¿Qué podemos construir juntos? | Casa + embarazo + expectativa de familia; H1 liga su existencia a volver a casa |
 | III — Guerra | ¿Cuánto cuesta ganar? | Elenna nace y debe vivir lejos de sus padres para seguir viva |
 | IV — Hierro y Seda | ¿Cómo construimos algo que no nos necesite? | H22 rompe la racionalización y vuelve la consolidación arquitectura de salida |
-| V — La Factura | ¿Podemos abandonar juntos lo construido antes de que nos devore? | Ejecutan la salida hacia Elenna, Palermo y familia | *(2026-11-15: la familia termina en Boston, no en Palermo; ver [[11_Books/00_Diseno_Final_Boston_Y_La_Villa]].)*
+| V — La Factura | ¿Podemos abandonar juntos lo construido antes de que nos devore? | Ejecutan la salida hacia Elenna, Palermo y familia | *(2026-11-15: la familia termina en Boston, no en Palermo; ver [[11_Books/00_Diseno_Final_Boston_Y_La_Villa]].)* *Voto inverso, mismo día: después del IV viven en movimiento, sin casa fija; [[07_Ideas/El_Voto_Inverso]].*
 
 Elenna no es un *stake* ornamental ni la única razón de Palermo. Palermo también pertenece a Chiara, Corrado, Il Consorzio y Bonnie; Elenna lo transforma de origen/exilio/política en el lugar donde está ocurriendo la vida que sus padres quieren recuperar. *(2026-11-15: la familia termina en Boston, no en Palermo; ver [[11_Books/00_Diseno_Final_Boston_Y_La_Villa]].)*
 
@@ -362,9 +362,9 @@ Elenna no es un *stake* ornamental ni la única razón de Palermo. Palermo tambi
 
 ## Conflictos y compatibilidades detectados
 
-- El Book Map anterior presuponia tres partes y terminaba dentro del imperio; la nueva arquitectura lo corrige a cinco partes y desplaza la salida a Palermo. *(2026-11-15: la familia termina en Boston, no en Palermo; ver [[11_Books/00_Diseno_Final_Boston_Y_La_Villa]].)*
+- El Book Map anterior presuponia tres partes y terminaba dentro del imperio; la nueva arquitectura lo corrige a cinco partes y desplaza la salida a Palermo. *(2026-11-15: la familia termina en Boston, no en Palermo; ver [[11_Books/00_Diseno_Final_Boston_Y_La_Villa]].)* *Voto inverso, mismo día: después del IV viven en movimiento, sin casa fija; [[07_Ideas/El_Voto_Inverso]].*
 - El rediseño de Dario Varek y sus hijas ya fue integrado como canon del autor el 2026-08-29. El apellido anterior queda fuera del canon activo.
-- H1 sigue ocurriendo en Villa Candelaria; Palermo es el destino final posterior, no una sustitucion de la escena del regreso a casa. *(2026-11-15: la familia termina en Boston, no en Palermo; ver [[11_Books/00_Diseno_Final_Boston_Y_La_Villa]].)*
+- H1 sigue ocurriendo en Villa Candelaria; Palermo es el destino final posterior, no una sustitucion de la escena del regreso a casa. *(2026-11-15: la familia termina en Boston, no en Palermo; ver [[11_Books/00_Diseno_Final_Boston_Y_La_Villa]].)* *Voto inverso, mismo día: después del IV viven en movimiento, sin casa fija; [[07_Ideas/El_Voto_Inverso]].*
 - **H1 ya no es un clímax posterior a la Guerra de los Tres.** El nuevo canon lo coloca en Parte II, después de que Villa Candelaria exista: Chiara sabe que está embarazada, Kal no. Las líneas canon no cambian y el reveal ocurre después, fuera de la crisis.
 - **H22 — Los primeros pasos** es el primer hito con ID posterior a H21 y abre Parte IV. Está expresamente bloqueado para prosa hasta construir embarazo/H1/reveal, Bonnie, guerra, nacimiento, falsa muerte, separación y cierre bélico.
 - H13 — El pañuelo sigue siendo un evento independiente del atentado posterior de iglesia. No se modifica aqui.

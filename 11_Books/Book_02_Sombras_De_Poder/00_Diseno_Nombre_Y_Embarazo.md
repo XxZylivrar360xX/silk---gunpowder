@@ -79,7 +79,7 @@ Todo cae entre noviembre y diciembre A4, en la Parte IV. Una señal por capítul
 3. **El cigarro:** alguien le ofrece uno (Harper, Walt o un socio) y ella dice que Kal le dijo que era malo. Eco del Cap. 50, en tono de broma.
 4. **La comida:** pide algo distinto o deja algo a medias en una cena del Patio. Puede ir cerca de Thanksgiving o quitarse si ya sobra.
 
-- **El disfraz en POV de Chiara:** piensa en «lo que tiene que decirle» y el lector lo carga a la cuenta con Dario, que ya tiene fecha de cobro rumbo a H1.
+- **El disfraz en POV de Chiara:** piensa en «lo que tiene que decirle» y el lector lo carga a la cuenta con Dario, que ya tiene fecha de cobro rumbo a H1. *(2026-11-15, DECISIÓN DEL AUTOR: Varek cobra la cuenta con Chiara desde la cárcel en el VII, por Iris; cómo se concilia con este cobro en el II, PENDIENTE del autor; [[07_Ideas/El_Voto_Inverso]].)*
 - **Quién lo sabe antes de Kal (CANON DEL AUTOR, 2026-10-13; afinado 2026-10-14):** nadie del círculo. Las tres pruebas y el examen ocurren fuera de página, con un médico de fuera del círculo y **no con Camila**, que llega a la vigilia de H1 sin saberlo. Chiara carga el secreto sola, que es lo que hace la vela de todos modos.
 - **Posible pago en la chimenea (DISEÑO, decide el autor):** que ella mencione las tres pruebas. Es Chiara pura: verifica antes de creer.
 - **Por qué no se lo dice antes de la tormenta (CANON DEL AUTOR, 2026-10-13):** no quiere que el bebé sea una razón para que él vuelva; quiere que vuelva por ella, como siempre. Se lo dirá cuando regrese. «Perché ti amo con tutto il mio cuore» carga, en relectura, lo que se calló.

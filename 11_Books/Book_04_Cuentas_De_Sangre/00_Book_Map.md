@@ -1,5 +1,7 @@
 # Book 04 — Cuentas de Sangre
 
+> **CANON DEL AUTOR (2026-11-15): el voto inverso.** La Villa está en un lote por Las Gemelas y en el II–IV es un lugar **velado para los enemigos**. **Ventresca y Fioravanti quedan expulsadas de La Mesa en este libro.** **Después del IV, Kal y Chiara no pueden volver a pertenecer a San Aurelio** (Meridian contra Kal, La Mesa contra Chiara): viven en movimiento (San Aurelio, Nueva York, Italia, Boston), sin casa fija (que la familia se mueva unida y Boston, con Bonnie, sea el ancla de la infancia es PROPUESTA de la columna §4). La imagen final de abajo (la casa en Boston/Palermo) queda por re-decidir; la imagen final de la saga es el regreso a la Villa en el cierre del VII. Ver [[07_Ideas/El_Voto_Inverso]] · [[11_Books/00_Columna_Maestra_Ciclo_Elenna]].
+
 > **DECISIÓN DEL AUTOR (2026-11-15): el final es en Boston, no en Palermo.** Ahí vive Bonnie, que recibió a Elenna (F2 nuevo, 2026-11-07); el autor había elegido Palermo porque Bonnie la criaba en Italia. Lo que colgaba de Palermo (dónde nace Michael, el viñedo, la casa azul y la línea de la cocina, el lugar de Palermo en la vida de la familia) está en [[11_Books/00_Diseno_Final_Boston_Y_La_Villa]]. **Villa Candelaria** siempre estuvo a nombre de Chiara (lo especificó Kal en las escrituras); al irse, queda al cuidado de Walt.
 
 > **DECISIÓN DEL AUTOR (2026-11-14), *Cuentas de Sangre*:** el complot de La Mesa es **la trama principal de Chiara en el IV**. Chiara, Corrado y La Mesa traen un complot que viene de antes de la redada, y Chiara lo cierra para siempre: se desata del pasado y reconstruye el nombre de su familia hacia algo nuevo. Al final **La Mesa queda reformulada y purgada**, y **Volpi, incapacitado y preso en la isla**. La última escena del complot es Chiara visitándolo antes de que quede como un animal atrapado en la oscuridad. Diseño: [[11_Books/Book_04_Cuentas_De_Sangre/00_Diseno_Complot_De_La_Mesa]].
@@ -91,7 +93,7 @@ La prensa termina llamándolos **La Mancuerna de Hierro y Seda.** Exterior: perm
 
 Meridian cierra el cerco. Il Consorzio pierde la capacidad de decidir quién debe ser Chiara. Corrado completa su arco — comprende que la victoria de su hija no es heredar posición, sino poder abandonar la obligación de ocuparla. El Patio deja de ser idéntico a Kal; la red de Chiara deja de requerir que ella controle cada versión.
 
-Cuando su ausencia ya no significa colapso, Kal y Chiara pueden salir. No dejan San Aurelio como derrota moral ni entregan el imperio a Elenna. **Elenna no hereda una dinastía criminal.** Desaparecen de la ciudad juntos y vuelven con su hija.
+Cuando su ausencia ya no significa colapso, Kal y Chiara pueden salir. No dejan San Aurelio como derrota moral ni entregan el imperio a Elenna. **Elenna no hereda una dinastía criminal.** Desaparecen de la ciudad juntos y vuelven con su hija. *(2026-11-15, CANON DEL AUTOR: después del IV no pueden volver a pertenecer a San Aurelio —Meridian contra Kal, La Mesa contra Chiara— y viven en movimiento; [[07_Ideas/El_Voto_Inverso]] · [[11_Books/00_Columna_Maestra_Ciclo_Elenna]].)*
 
 ## Bisagra de cierre de saga
 
@@ -108,7 +110,7 @@ Cuando su ausencia ya no significa colapso, Kal y Chiara pueden salir. No dejan 
 
 - Construcción exacta del caso Meridian.
 - Estrategia precisa de Il Consorzio durante el libro.
-- Mecanismo concreto de desaparición / salida de Kal y Chiara de San Aurelio.
+- Mecanismo concreto de desaparición / salida de Kal y Chiara de San Aurelio. *(2026-11-15: ya se sabe que después no pueden volver a pertenecer a San Aurelio; el mecanismo sigue PENDIENTE.)*
 - Colocación fina de la consolidación frente a la escalada federal.
 - Forma final del arco de Corrado y del reencuentro con Chiara.
 

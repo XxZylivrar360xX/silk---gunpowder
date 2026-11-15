@@ -15,11 +15,12 @@
 - La pareja construye reemplazos para que la ciudad no dependa de su presencia constante.
 - Kal y Chiara hacen posible la salida que decidieron en H22.
 - Chiara resuelve su relación con Corrado y con el peso de su apellido.
-- Kal y Chiara abandonan San Aurelio juntos.
+- Kal y Chiara abandonan San Aurelio juntos. *(2026-11-15, CANON DEL AUTOR: no pueden volver a pertenecer a San Aurelio —Meridian contra Kal, La Mesa contra Chiara— y viven en movimiento; [[07_Ideas/El_Voto_Inverso]].)*
+- Ventresca y Fioravanti quedan expulsadas de La Mesa *(DECISIÓN DEL AUTOR, 2026-11-15; [[11_Books/00_Columna_Maestra_Ciclo_Elenna]])*.
 - La familia se reúne en Palermo y Elenna vuelve a vivir con ellos como hija, no como heredera. *(2026-11-15: la familia termina en Boston, no en Palermo; ver [[11_Books/00_Diseno_Final_Boston_Y_La_Villa]].)*
 - El epílogo muestra a Elenna adulta en la historia de las Tres Hermanas.
 - Al final del libro, Nadir le cuenta a Chiara la verdad: Harper Walker disparó contra Halbrook; Kal y Nadir la cubrieron. Ver [[02_Characters/Warren_Halbrook]]. **CANON DEL AUTOR (2026-11-08):** Tyler absorbe la muerte de Halbrook y se sacrifica para salvar a Harper; cuando el FBI llega a "había un tercero", Kal y Nadir sacan a Harper del país y Tyler se les adelanta: pone sus huellas en el rifle y en la chaqueta de ella y va a prisión. La guerra cobra a los últimos jóvenes de la banda; Kal pierde a su hija de las calles ([[02_Characters/Tyler_Brooks#El que absorbe la muerte de Halbrook — CANON DEL AUTOR (2026-11-08)]]).
 
 ## Cierre
 
-- **Estado heredado:** Kal y Chiara viven en una casa modesta de Palermo con Elenna; el imperio deja de ser su hogar. *(2026-11-15: la familia termina en Boston, no en Palermo; ver [[11_Books/00_Diseno_Final_Boston_Y_La_Villa]].)*
+- **Estado heredado:** Kal y Chiara viven en una casa modesta de Palermo con Elenna; el imperio deja de ser su hogar. *(2026-11-15: la familia termina en Boston, no en Palermo; ver [[11_Books/00_Diseno_Final_Boston_Y_La_Villa]]. Voto inverso, CANON DEL AUTOR del mismo día: sin casa fija; viven en movimiento (que la familia se mueva unida y Boston sea el ancla de la infancia es PROPUESTA); la Villa queda con Walt.)*

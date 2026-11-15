@@ -1,5 +1,7 @@
 # Marisol Grayson
 
+> **CANON DEL AUTOR (2026-11-15): «Hola, Papá.»** En el cierre del VII, cuando Kal y Chiara vuelven a la Villa y se reúne toda la familia, **Marisol, que no ve a Kal desde hace años, le dice por fin: «Hola, Papá.»** Paga que él siempre minimizó su papel con ella (lectura DISEÑO). Además, con el voto inverso, la familia de Kal y Chiara vive en movimiento después del IV, sin casa fija (Boston como ancla de la infancia es PROPUESTA de la columna §4). Ver [[07_Ideas/El_Voto_Inverso]] · [[11_Books/00_Columna_Maestra_Ciclo_Elenna]].
+
 > **DECISIÓN DEL AUTOR (2026-11-15, segunda tanda):** ayuda a Elenna a recuperar Mercer en **una audiencia antes de que entre como cadete**; unas semanas después, **el choque con la fiscalía, por un caso de Elenna**, complica la vida que comparten y Elenna se muda a la Villa. Ver [[11_Books/00_Diseno_Final_Boston_Y_La_Villa]].
 
 > **DECISIÓN DEL AUTOR (2026-11-15):** **Marisol ayuda (o ya ayudó antes) a Elenna a recuperar su legítimo apellido**, después de que Elenna Mercer muriera para el mundo en el III; Elenna puede llegar a San Aurelio como una Ardizzone. Calendario y alcance legal: opciones en [[11_Books/00_Diseno_Final_Boston_Y_La_Villa]]. Visita a Elenna en Boston, no en Palermo.
@@ -193,7 +195,7 @@ Su sarcasmo lo aprendió de Kal por convivencia, pero no lo imita: en ella es m�
 
 - **No vive en la casa de Kal.** Reside en la universidad. Cuando está en San Aurelio, en fin de semana o de visita, se queda en la casa de Michael, en la Almendra (CANON DEL AUTOR, 2026-11-05; Cap. 1).
 - **Póker (CANON DEL AUTOR, 2026-11-05).** Sabe que Kal desprecia los juegos de azar. Aun así, él le enseñó a mentir en póker, porque le iba a servir en las fiestas de la universidad y, por desgracia, en uno que otro juicio simulado. En prosa: Cap. 14 (archivo 14); no sale en el Cap. 1.
-- **No es hija biológica de Kal.**
+- **No es hija biológica de Kal.** *(2026-11-15, CANON DEL AUTOR: en el cierre del VII le dice «Hola, Papá.»)*
 - **No existe para demostrar que Kal es bueno.** Existe para medir en qué se está convirtiendo.
 - **Tiene que poder contradecirlo.** Si sólo agradece, la ficha está fallando.
 - **Su vida universitaria importa.** Es el mundo que Kal le consiguió, y también la distancia que eso les cobró.

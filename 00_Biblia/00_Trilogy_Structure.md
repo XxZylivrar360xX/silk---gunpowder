@@ -8,6 +8,8 @@
 >
 > **SUPERSESIÓN 2026-10-03 — saga de siete libros (CANON DEL AUTOR).** El ciclo de Elenna deja de ser duología y pasa a **trilogía**: V. *Juramento de Hierro* · VI. ***Hijos del Silencio*** (nuevo) · VII. *Camino a Casa*. *Camino a Casa* conserva su función de cierre y pasa a Libro VII. No es la restauración de la "alternativa de tres libros" descartada el 2026-09-16 (que partía *Camino a Casa* en dos): el VI es un volumen nuevo con función y clímax propios. Ver sección "Ciclo de Elenna — Libros V–VII" y supersesiones #26–#33. El material de incubadora escrito para la duología queda superado donde choque.
 >
+> **CANON DEL AUTOR (2026-11-15): el voto inverso** (supersesiones #56–#63, abajo). La Villa pasa a un lote por Las Gemelas, velada a los enemigos en el II–IV; después del IV, Kal y Chiara no pueden volver a pertenecer a San Aurelio y viven en movimiento; Michael y Elenna terminan el voto del III para que puedan estar juntos como familia, y el cierre del VII los devuelve a la Villa. *Camino a Casa* gana un segundo sentido: el camino de vuelta de los padres. Ver [[07_Ideas/El_Voto_Inverso]] · [[11_Books/00_Columna_Maestra_Ciclo_Elenna]].
+>
 > Los `00_Book_Map.md` de cada volumen deben reconstruirse a partir de esta arquitectura. Hasta que esa reconstrucción termine, este archivo manda en cualquier contradicción de escala o frontera entre libros.
 
 ---
@@ -612,9 +614,11 @@ No dejan San Aurelio como derrota moral ni entregan el imperio a Elenna.
 
 **Elenna no hereda una dinastía criminal.**
 
-Kal y Chiara desaparecen de la ciudad juntos y vuelven con su hija.
+Kal y Chiara desaparecen de la ciudad juntos y vuelven con su hija. *(2026-11-15, CANON DEL AUTOR: después del IV no pueden volver a pertenecer a San Aurelio —Meridian contra Kal, La Mesa contra Chiara— y viven en movimiento. PROPUESTA de la columna §4, no decidida: se mueven con los hijos, y Boston, con Bonnie, es el ancla de la infancia. Ver [[07_Ideas/El_Voto_Inverso]] · [[11_Books/00_Columna_Maestra_Ciclo_Elenna]].)*
 
 ## Imagen final
+
+> **CANON DEL AUTOR (2026-11-15): el voto inverso.** Boston deja de ser casa fija: viven en movimiento (San Aurelio, Nueva York, Italia, Boston). Que Boston, con Bonnie, sea el ancla de la infancia y que la familia se mueva unida mientras los niños crecen es PROPUESTA de la columna §4, no decidida. La imagen final de la *saga* ya no está aquí: es el regreso a la Villa en el cierre del VII (ver Libro VII, abajo). Si la escena de la cocina se queda como imagen final del IV, y dónde, sigue por re-decidir. Ver [[07_Ideas/El_Voto_Inverso]] · [[11_Books/00_Columna_Maestra_Ciclo_Elenna]].
 
 > **DECISIÓN DEL AUTOR (2026-11-15): el final es en Boston, no en Palermo.** Ahí vive Bonnie, que recibió a Elenna (F2 nuevo, 2026-11-07); el autor había elegido Palermo porque Bonnie la criaba en Italia. Lo que colgaba de Palermo (dónde nace Michael, el viñedo, la casa azul y la línea de la cocina, el lugar de Palermo en la vida de la familia) está en [[11_Books/00_Diseno_Final_Boston_Y_La_Villa]].
 
@@ -644,10 +648,11 @@ Elenna viviendo con ellos como hija, no como heredera.
 - Historia más íntima y policial que el ciclo I–IV, centrada en **Elenna Mercer, Nicholas Voss y Erin Reyes**.
 - Mismo San Aurelio, una generación después, desde la perspectiva policial. El pasado criminal de la ciudad se siente como historia viva y residuo institucional, no como secuela con Kal y Chiara al centro.
 - El lector veterano reconoce conexiones con la era de Kal y Chiara que Elenna desconoce: sus padres nunca la comprometieron con sus viejas redes y guerras.
-- **Kal y Chiara están ausentes físicamente en V y VI** (Kal por llamadas, Chiara por cartas). **Regresan en persona sólo en el VII.** No resuelven el misterio ni dominan el clímax.
+- **Kal y Chiara están ausentes físicamente en V y VI** (Kal por llamadas, Chiara por cartas). **Regresan en persona sólo en el VII.** No resuelven el misterio ni dominan el clímax. *(2026-11-15, CANON DEL AUTOR: están ausentes porque San Aurelio no es seguro para ellos —Meridian contra Kal, La Mesa contra Chiara— y no vuelven a la Villa hasta el cierre del VII; [[07_Ideas/El_Voto_Inverso]].)*
+- **El voto inverso (CANON DEL AUTOR, 2026-11-15):** en el III, Kal y Chiara alejaron a Elenna por seguridad; en el ciclo, **Michael y Elenna terminan ese voto para que puedan estar juntos como familia**: su arco es devolverles a sus padres la tranquilidad de volver a la Villa. Cómo (viviendo su propia vida, no salvando a sus padres: Elenna, su caso y su ciudad; Michael, a Iris) es DISEÑO de la columna §1. **La renuncia de Michael a la silla de La Mesa es el acto** que corta el último lazo con La Mesa. El reparto en un nudo por libro (la casa, el costo, el regreso) es DISEÑO: [[11_Books/00_Columna_Maestra_Ciclo_Elenna]].
 - El caso Marsh/Vera es el núcleo causal de dos antagonistas: Ethan Cole / Dylan Marsh (íntimo, de Elenna) y un antagonista velado ligado a Nicholas y a la vieja estructura institucional: **Blake Stanton** (CANON, lote 3; supersesiones #38–#43).
 
-**DISEÑO** — lectura temática del ciclo: `heredar una historia -> construir una identidad propia -> elegir dónde está el hogar`.
+**DISEÑO** — lectura temática del ciclo: `heredar una historia -> construir una identidad propia -> elegir dónde está el hogar`. *(2026-11-15, CANON DEL AUTOR: el título del VII cambia de sentido: *Camino a Casa* es también el camino de vuelta de Kal y Chiara a la Villa.)*
 
 ## Libro V — Juramento de Hierro
 
@@ -662,6 +667,7 @@ Elenna viviendo con ellos como hija, no como heredera.
 - **Salto de ~2–3 años entre el V y el VI:** el VI la encuentra ya en K9 con Rex (Rex no aparece en el V).
 - **Confesión de Erin en la Presa del Sur** dentro del VI, **antes** de confirmarse la identidad de Ethan. La reconciliación se reserva para el VII. La **captura de Ethan** ocurre en el subsuelo de la misma presa: mirador y subsuelo, dos registros en el mismo libro.
 - La captura es una victoria profesional enorme para Elenna y una herida emocional profunda por su vínculo con Ethan; impulsa su carrera hacia K9.
+- **Funeral de Corrado (DECISIÓN DEL AUTOR, 2026-11-15):** **Chiara no va al funeral de su padre.** Lo demás del nudo (la carta de ese capítulo) es DISEÑO: [[11_Books/00_Columna_Maestra_Ciclo_Elenna]] §3.
 - **Inversión del cierre:** detener a Dylan no cierra la noche Vera; permite por primera vez reconstruirla. El libro termina con la pregunta anterior y más profunda abierta: qué pasó en la casa Marsh antes de que llegara Vera.
 - **PENDIENTE:** mecanismo y momento de la revelación Ethan = Dylan; papel exacto de Elenna, Nicholas, Erin y Rex en la captura; alcance de la relación Elenna/Ethan; estado Elenna/Erin al cierre; momento del juicio. Disparo a Elenna: ver supersesión #44.
 
@@ -672,7 +678,12 @@ Elenna viviendo con ellos como hija, no como heredera.
 - Dylan pasa de antagonista capturado a **testigo indispensable**. La revelación no es "Dylan mató a Vera" (ya puede saberse antes), sino **"Vera no fue la primera víctima de esa noche"**. La pregunta pasa de "¿quién mató a Vera?" a "¿quién mató a los Marsh y por qué?".
 - El caso cierra por convergencia de piezas (testimonio, archivo, balística, registros, Volpi, Corrado, Lucia), nunca por confesión cómoda ni archivo milagroso.
 - Reconciliación Elenna/Erin. Nicholas admite que se equivocó y que la institución falló; puede cruzar zonas grises, pero no volverse lo que persigue.
-- **Despedida en el hangar:** Kal y Chiara se marchan; Elenna se queda en San Aurelio por elección, no por abandono. Va **4–5 capítulos después de la apertura** (#49), antes del clímax policial; el título cierra la saga desde esa decisión.
+- **Despedida en el hangar:** Kal y Chiara se marchan; Elenna se queda en San Aurelio por elección, no por abandono. Va **4–5 capítulos después de la apertura** (#49), antes del clímax policial; el título cierra la saga desde esa decisión. *(2026-11-15, CANON DEL AUTOR: se van porque **en el hospital Lucía descubre a Kal y, aunque son viejos amigos, debe entregarlo**; el título cierra la saga en el regreso a la Villa, abajo.)*
+- **Decisiones del autor (2026-11-15)** ([[11_Books/00_Columna_Maestra_Ciclo_Elenna]] §5):
+  - **Varek cobra su cuenta con Chiara desde la cárcel, por Iris** (qué pide: abierto).
+  - **En la isla, Volpi le ofrece a Elenna la verdad de sus padres y ella no la toma.**
+  - **Michael renuncia a la silla** (CANON 2026-10-04); **la renuncia es el acto** del voto inverso.
+  - **Cierre: el regreso a la Villa, dentro del VII, después del clímax policial**, con los encuentros de toda la familia. **Marisol, que no ve a Kal desde hace años, le dice por fin: «Hola, Papá.»** (CANON DEL AUTOR). Es la imagen final de la saga. Qué otros encuentros y en qué orden: abierto.
 
 ## Bisagras del ciclo
 
@@ -794,7 +805,7 @@ Este documento cambió canon anterior en los siguientes puntos:
 46. **Pasan de DISEÑO a CANON** (hospital y hangar): el beat del café de Kal y Chiara; la última imagen del hospital (Kal sale por café, Chiara se queda, Rex descansa y Elenna cierra los ojos sin vigilar la puerta); "—¿Segura?" / "—Sí" en el hangar; la reacción física de Elenna a "Estoy orgullosa de ti, Elenna" (sollozo involuntario, risa encima, lágrimas, "Mamá…" sin terminar). Del hangar se retiran la broma de la "vieja salida" y el recuerdo de las cartas.
 47. **Cierre del VI: espejo de Chiara en Santa Lucía.** Elenna cae en el suelo del banco boca arriba, con el charco de sangre acumulándose detrás de ella; corte. Rima con Chiara en el suelo de la iglesia (*Voto de Ceniza*). El VII abre en el hospital.
 48. **El juicio de Dylan ocurre antes del asalto al banco**, dentro del VI. Orden: captura → juicio → asalto (cierre).
-49. **El hangar va 4–5 capítulos después de la apertura del VII**, no al final. Kal y Chiara están físicamente sólo en ese primer tramo; el resto del VII (testimonio de Dylan, reconstrucción, caída de Blake, reconciliación con Erin) ocurre después de que se van.
+49. **El hangar va 4–5 capítulos después de la apertura del VII**, no al final. Kal y Chiara están físicamente sólo en ese primer tramo; el resto del VII (testimonio de Dylan, reconstrucción, caída de Blake, reconciliación con Erin) ocurre después de que se van. *(2026-11-15, CANON DEL AUTOR: «el resto del libro ocurre sin ellos» vale **hasta el clímax**; el cierre del VII los devuelve a la Villa con toda la familia. Ver #61.)*
 
 ## Nuevas — 2026-10-01/02, arco final sin Kal (CANON DEL AUTOR; registradas en la cascada del 2026-10-06)
 
@@ -807,6 +818,19 @@ Este documento cambió canon anterior en los siguientes puntos:
 
 54. **Fabrizio muere; Tommaso se queda (CANON DEL AUTOR, 2026-10-12).** El asesinado al abrir *Sombras de Poder* es **Fabrizio Rinaldi**: aparece muerto en su apartamento y Lucía Varek llama a Chiara para identificarlo (Cap. 1, «Hogar»). **Tommaso Lusardi no muere:** se queda en San Aurelio durante el libro y se ausenta hacia el final. Supersede la muerte de Tommaso por Volpi al abrir el Libro II (canon 2026-09-12/20/21). PENDIENTE: el motivo de Varek para matar a Fabrizio; cómo llega Mei-Lin también a Varek; la Parte y los detalles del choque; quién amenaza a la familia de Tommaso y cómo cede el Monarch. Ver [[02_Characters/Fabrizio_Rinaldi]] y [[02_Characters/Tommaso_Lusardi]]. **Ampliado el mismo día:** Volpi mata a Fabrizio con el mecanismo que antes era de Tommaso (composición de Keene; hipótesis de asesino serial; segunda víctima del patrón). El segundo atentado pasa a ser el corte de frenos del Lancia de Chiara por orden de Varek (lo ejecuta Volpi, velado), al cierre de la Parte II, en Calle Corona rumbo al Puente de Piedra: Tommaso, al volante, choca contra el Audi de Kal que maneja Marisol (tibia fracturada de Marisol; bastón permanente para Tommaso; acercamiento en el hospital que en parte lo lleva a retirarse). Supersede el «2x1». Mei-Lin se queda con Tommaso (¿triple agente por miedo?: PENDIENTE). *El Faro*: la muerte de Fabrizio es combustible; el detonante son las consecuencias del arresto de Kal y que todo quedara demasiado limpio a su favor.
 55. **Cuatro Partes para *Sombras de Poder* (CANON DEL AUTOR, 2026-10-12; retrabajo de supersesión del autor incubado con ChatGPT el 2026-10-11).** I *Territorio ajeno* · II *Nieve y ceniza* · III *Exilio* · IV *Torna a casa*. Supersede la estructura de tres Partes (#19 y la reasignación del 2026-09-22) y el orden Navidad → F4 → incendio → Exilio → Villa tras F2. Halbrook entra como benefactor y consultor de seguridad pública, no como general amenazante, y la gala cierra la Parte I. Plan rector y puntos por confirmar: [[11_Books/Book_02_Sombras_De_Poder/00_Plan_Cuatro_Partes]].
+
+## Nuevas — 2026-11-15, el voto inverso (CANON DEL AUTOR)
+
+Fuente: [[07_Ideas/El_Voto_Inverso]] §1 y [[11_Books/00_Columna_Maestra_Ciclo_Elenna]] §5. Supersede parcialmente [[11_Books/00_Diseno_Final_Boston_Y_La_Villa]] (Boston como casa fija).
+
+56. **La Villa está en un lote por Las Gemelas**, no en Lomas de San Jacinto, y **en el II–IV es un lugar velado para los enemigos**. La prosa del II que nombra las Lomas (borradores 54–56) debe reubicarse.
+57. **Después del IV, Kal y Chiara no pueden volver a pertenecer a San Aurelio:** Meridian contra Kal, La Mesa contra Chiara. Viven en movimiento (San Aurelio, Nueva York, Italia, Boston y otras ciudades); sin casa fija. PROPUESTA de la columna §4, no decidida: la familia se mueve unida mientras los niños crecen y Boston, con Bonnie, es el ancla de la infancia.
+58. **El arco de Michael y Elenna es devolverles a sus padres la tranquilidad de volver a la Villa: terminan el voto del III para que puedan estar juntos como familia.** **La renuncia de Michael a la silla es el acto** (DECISIÓN DEL AUTOR). Que lo terminen viviendo su propia vida, no salvándolos, es DISEÑO de la columna §1. El título del VII gana el sentido del camino de vuelta de los padres.
+59. **Ventresca y Fioravanti quedan expulsadas de La Mesa en el IV.**
+60. **Chiara no va al funeral de Corrado (VI).**
+61. **VII:** en el hospital, **Lucía descubre a Kal y, aunque son viejos amigos, debe entregarlo**; por eso se van en el hangar. **Varek cobra su cuenta con Chiara desde la cárcel, por Iris.** **Volpi le ofrece a Elenna la verdad de sus padres y ella no la toma.** El cierre, dentro del libro y después del clímax policial, **reúne a toda la familia en la Villa** y **Marisol le dice a Kal «Hola, Papá.»** Ajusta #49: «el resto del libro ocurre sin ellos» vale hasta el clímax.
+62. **«La vida de ambos»** (quiénes son Kal y Chiara en esos años) es un libro hipotético, fuera de los siete; no cambia #26.
+63. **Abierto (no rellenar):** dónde nace Michael; qué pide Varek; si Lucía entiende que Elenna vive y si le avisa; cómo se disuelve su obligación para el cierre; qué otros encuentros hay en el cierre y en qué orden.
 
 ---
 

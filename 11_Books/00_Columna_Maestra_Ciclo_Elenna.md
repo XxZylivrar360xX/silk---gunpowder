@@ -126,7 +126,7 @@ Paga los dos arcos finales del IV:
 6. **Volpi:** sí. **Le ofrece a Elenna la verdad de sus padres y ella no la toma.**
 7. **Ventresca y Fioravanti:** sí, **expulsadas de La Mesa en el IV.** Esto resuelve la pregunta 6 del complot.
 
-**Siguiente paso:** propagar a fichas, mapas del V–VII, el complot y el libro mayor cuando el autor confirme como canon la idea madre del voto inverso.
+**Siguiente paso:** ~~propagar a fichas, mapas del V–VII, el complot y el libro mayor cuando el autor confirme como canon la idea madre del voto inverso.~~ **Hecho el 2026-11-15** (el autor confirmó el canon el mismo día).
 
 ---
 

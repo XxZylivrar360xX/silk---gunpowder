@@ -1,5 +1,7 @@
 # Elenna y Michael
 
+> **CANON DEL AUTOR (2026-11-15): el voto inverso.** Los dos hermanos terminan el voto del III **para que sus padres y ellos puedan estar juntos como familia**; la renuncia de Michael a la silla es el acto (DECISIÓN DEL AUTOR). Que lo terminen viviendo su propia vida, no salvando a sus padres (Elenna, con su caso y su ciudad), es DISEÑO de la columna §1; que crezcan en movimiento con sus padres, con Boston y Bonnie como ancla, es PROPUESTA de la columna §4. **Dónde nace Michael sigue abierto.** Que el camper de Corrado les reparta los dos frentes es DISEÑO. Ver [[07_Ideas/El_Voto_Inverso]] · [[11_Books/00_Columna_Maestra_Ciclo_Elenna]].
+
 *Seda y Pólvora — Relación (Libros V–VII)*
 
 > Hermanos. Ficha creada el 2026-10-04. Cada afirmación lleva su categoría: CANON DEL AUTOR, DISEÑO o PENDIENTE. Fichas: [[02_Characters/Elenna_Mercer]] · [[02_Characters/Michael_Ardizzone]]. La historia de Michael con Iris está en [[06_Relationships/Michael_e_Iris]].

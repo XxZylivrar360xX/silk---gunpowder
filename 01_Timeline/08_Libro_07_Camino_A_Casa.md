@@ -10,15 +10,19 @@
 
 - Elenna despierta en el hospital, herida de gravedad pero no mortal, tras el asalto bancario con rehenes.
 - Kal y Chiara regresan físicamente para reunirse con Elenna.
-- 4–5 capítulos después, Kal y Chiara se marchan del hangar; Elenna se queda en San Aurelio.
+- Lucía descubre a Kal y, aunque son viejos amigos, debe entregarlo *(DECISIÓN DEL AUTOR, 2026-11-15; [[11_Books/00_Columna_Maestra_Ciclo_Elenna]])*.
+- 4–5 capítulos después, Kal y Chiara se marchan del hangar; Elenna se queda en San Aurelio. *(2026-11-15: se van porque Lucía debe entregar a Kal; el libro sigue sin ellos hasta el clímax.)*
 - Dylan Marsh, ya detenido, pasa a ser testigo: Vera no fue la primera víctima de esa noche.
 - La pregunta cambia de quién mató a Vera a quién mató a los Marsh y por qué.
 - Se reconstruye el encubrimiento mediante testimonio, archivos, balística, Corrado, la isla y Nereo Volpi. **Corrado entra muerto, por su camper** de expedientes y diarios: de ahí Elenna saca las pistas hacia Volpi *(CANON DEL AUTOR 2026-10-04)*.
 - El antagonista histórico ligado a Nicholas ([[02_Characters/Blake_Stanton|Blake Stanton]]) cae por convergencia de evidencia.
+- Volpi, en la isla, le ofrece a Elenna la verdad de sus padres y ella no la toma *(DECISIÓN DEL AUTOR, 2026-11-15)*.
+- Varek cobra desde la cárcel su cuenta con Chiara, por Iris *(DECISIÓN DEL AUTOR, 2026-11-15)*.
 - Nicholas admite que su obsesión y la institución fallaron.
 - Elenna y Erin se reconcilian.
 - Michael sigue en San Aurelio; empieza su relación con Iris; historia civil y paralela (CANON DEL AUTOR 2026-10-04).
-- Iris descubre por los diarios de Gabe que Manfred era Corrado Ardizzone y que Michael lo sabía; Michael renuncia a la silla. *(CANON DEL AUTOR 2026-10-04.)*
+- Iris descubre por los diarios de Gabe que Manfred era Corrado Ardizzone y que Michael lo sabía; Michael renuncia a la silla. *(CANON DEL AUTOR 2026-10-04.)* *(2026-11-15, DECISIÓN DEL AUTOR: la renuncia es el acto que corta el último lazo con La Mesa.)*
+- Cierre, después del clímax policial: Kal y Chiara vuelven a la Villa y se reúne toda la familia; Marisol le dice a Kal «Hola, Papá.» *(CANON DEL AUTOR, 2026-11-15; [[07_Ideas/El_Voto_Inverso]] · [[11_Books/00_Columna_Maestra_Ciclo_Elenna]])*.
 
 ## Cierre
 

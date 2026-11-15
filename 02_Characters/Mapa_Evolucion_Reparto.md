@@ -112,8 +112,8 @@ Formato: **qué es** en ese libro → **qué le cambia**. Fuente de cada línea:
 | I | Mecánico y operador de grúas | Se suelta de Crowe; Halbrook le pone la correa de Nadir; entra con Varek y lleva **dos correas** (Halbrook arriba, Varek al lado). Proteger ocultando. Camp Alder; preso del 19 dic al 5 ene. |
 | II | Líder sicario de una banda | *Alguien falla bajo mi mando, yo respondo*: absorbe las deudas de los suyos. Piloto automático («estoy bien»), dos ataques de pánico; tras el choque de Marisol, investigación por su cuenta y matón de calle. F2 le enseña que construye mejor de lo que consuela (sobrecompensación, Villa Candelaria). Stavanger: el origen y la propuesta. Derriba a Crowe. H1: herido por Volpi. |
 | III | Magnate y jefe de El Patio | La muerte de Trix funda la enemistad con Dario; la Guerra de los Tres le quita a Héctor. H22 cambia la pregunta: de ganar la ciudad a construir una salida. Sentencia a Halbrook y se contiene por Elenna. |
-| IV | Criminal perseguido por el FBI | Deja que la ciudad crea que él disparó; cubre a Harper. Construye reemplazos y sale con Chiara a Palermo. *(2026-11-15: la familia termina en Boston, no en Palermo; ver [[11_Books/00_Diseno_Final_Boston_Y_La_Villa]].)* |
-| V–VII | Padre; viñedo y distribuidora («el as de los negocios») | Ausente físicamente en V–VI; regresa en el VII tras el disparo a Elenna y se va del hangar. *(2026-11-15: por re-decidir con el final en Boston; ver [[11_Books/00_Diseno_Final_Boston_Y_La_Villa]].)* |
+| IV | Criminal perseguido por el FBI | Deja que la ciudad crea que él disparó; cubre a Harper. Construye reemplazos y sale con Chiara a Palermo. *(2026-11-15: la familia termina en Boston, no en Palermo; ver [[11_Books/00_Diseno_Final_Boston_Y_La_Villa]].)* *Voto inverso, mismo día: después del IV viven en movimiento, sin casa fija; [[07_Ideas/El_Voto_Inverso]].* |
+| V–VII | Padre; viñedo y distribuidora («el as de los negocios») | Ausente físicamente en V–VI; regresa en el VII tras el disparo a Elenna y se va del hangar. *(2026-11-15: por re-decidir con el final en Boston; ver [[11_Books/00_Diseno_Final_Boston_Y_La_Villa]].)* *Voto inverso, mismo día: en el hospital Lucía descubre a Kal y debe entregarlo; vuelven a la Villa en el cierre del VII; [[07_Ideas/El_Voto_Inverso]].* |
 
 ### Chiara Bellandi — la que toma el relato
 
@@ -122,8 +122,8 @@ Formato: **qué es** en ese libro → **qué le cambia**. Fuente de cada línea:
 | I | Gestión de imagen y contención de prensa en el Monarch | Il Consorzio la reclama como Ardizzone (respaldo y atadura). Una sola deuda con Varek, que crece a «cuenta abierta». Custodia de las rutas; va al convoy desobedeciendo a la mesa. |
 | II | **CANON:** protege lo que empezó a amar porque todo lo que llega se va o muere; espiral de descenso. *Oficio: PENDIENTE* | Pierde a Fabrizio, a Tommaso (gana el Monarch), a Mei-Lin y a Bonnie. Juntos pero separados. Su secreto aparente es Varek; el real es Elenna («Sono incinta»). |
 | III | **PENDIENTE DEL AUTOR** | Embarazo, nacimiento y falsa muerte de Elenna. Santa Lucía: crítica y después en coma. |
-| IV | **PENDIENTE DEL AUTOR** | Despierta frente a Corrado, Il Consorzio y el apellido; sale con Kal a Palermo. *(2026-11-15: la familia termina en Boston, no en Palermo; ver [[11_Books/00_Diseno_Final_Boston_Y_La_Villa]].)* |
-| V–VII | Figura pública del viñedo y la distribuidora | Igual que Kal: ausente en V–VI, regresa en el VII. *(2026-11-15: por re-decidir con el final en Boston; ver [[11_Books/00_Diseno_Final_Boston_Y_La_Villa]].)* |
+| IV | **PENDIENTE DEL AUTOR** | Despierta frente a Corrado, Il Consorzio y el apellido; sale con Kal a Palermo. *(2026-11-15: la familia termina en Boston, no en Palermo; ver [[11_Books/00_Diseno_Final_Boston_Y_La_Villa]].)* *Voto inverso, mismo día: después del IV viven en movimiento, sin casa fija; [[07_Ideas/El_Voto_Inverso]].* |
+| V–VII | Figura pública del viñedo y la distribuidora | Igual que Kal: ausente en V–VI, regresa en el VII. *(2026-11-15: por re-decidir con el final en Boston; ver [[11_Books/00_Diseno_Final_Boston_Y_La_Villa]].)* *Voto inverso, mismo día: en el hospital Lucía descubre a Kal y debe entregarlo; vuelven a la Villa en el cierre del VII; [[07_Ideas/El_Voto_Inverso]].* |
 
 ### Elenna Mercer
 
@@ -131,7 +131,7 @@ Formato: **qué es** en ese libro → **qué le cambia**. Fuente de cada línea:
 |---|---|
 | II | Es el último secreto de la trenza: «Sono incinta.» cierra el libro. |
 | III | Nace; su falsa muerte la saca de San Aurelio; Bonnie la recibe (ver §4, contradicción 1). H22: los primeros pasos. |
-| IV | Vuelve a vivir con sus padres en Palermo, como hija y no como heredera. *(2026-11-15: la familia termina en Boston, no en Palermo; ver [[11_Books/00_Diseno_Final_Boston_Y_La_Villa]].)* |
+| IV | Vuelve a vivir con sus padres en Palermo, como hija y no como heredera. *(2026-11-15: la familia termina en Boston, no en Palermo; ver [[11_Books/00_Diseno_Final_Boston_Y_La_Villa]].)* *Voto inverso, mismo día: después del IV viven en movimiento, sin casa fija; [[07_Ideas/El_Voto_Inverso]].* |
 | V | **Elegir pertenecer:** la academia, Erin, Ethan; se gradúa y pasa a patrulla (DISEÑO, sin validar). |
 | VI | **Sostener la elección:** caza a Dylan Marsh, que era Ethan; más capaz y más rota; termina en el suelo del banco. |
 | VII | **Decidir qué conserva:** resuelve el caso Vera y elige quedarse en San Aurelio. |

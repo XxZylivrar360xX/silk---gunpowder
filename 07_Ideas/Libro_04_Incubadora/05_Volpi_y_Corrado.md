@@ -1,5 +1,7 @@
 # Nereo Volpi, Corrado y el caso Vera — incubadora
 
+> **DECISIONES DEL AUTOR (2026-11-15): el voto inverso.** **En la isla, Volpi le ofrece a Elenna la verdad de sus padres y ella no la toma** (lectura DISEÑO: no contradice «no añadir explicación posterior», porque la ofrece y ella la rechaza; no se explica). **Chiara no va al funeral de Corrado (VI).** Ver [[07_Ideas/El_Voto_Inverso]] · [[11_Books/00_Columna_Maestra_Ciclo_Elenna]].
+
 > **ESTADO:** DISEÑO FUERTE. Compatible con el hecho de que el destino final de Nereo Volpi está todavía abierto en canon.
 
 ## Función de Volpi en Vera
@@ -154,7 +156,7 @@ Mira a Elenna:
 
 Ambigüedad deliberada: “ella” puede parecer referirse a Elenna y dejar flotando a Chiara.
 
-No añadir explicación posterior de Volpi.
+No añadir explicación posterior de Volpi. *(2026-11-15: Volpi le ofrece la verdad de sus padres y ella no la toma; la oferta no se convierte en explicación.)*
 
 ## Regla
 

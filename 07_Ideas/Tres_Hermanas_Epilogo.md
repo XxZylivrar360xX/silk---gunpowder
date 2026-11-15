@@ -1,5 +1,7 @@
 # Tres Hermanas — epílogo de *Cuentas de Sangre*
 
+> **CANON DEL AUTOR (2026-11-15): el voto inverso.** Después del IV la familia vive en movimiento, sin casa fija (Boston como ancla de la infancia es PROPUESTA de la columna §4); la foto del porche y «deja Boston» quedan por revisar con eso (la idea, §3, dice que cambian; DISEÑO). La imagen final de la saga ya no es esta escena: es el regreso de Kal y Chiara a la Villa en el cierre del VII, con toda la familia. Ver [[07_Ideas/El_Voto_Inverso]] · [[11_Books/00_Columna_Maestra_Ciclo_Elenna]].
+
 > **DECISIÓN DEL AUTOR (2026-11-15): el final es en Boston, no en Palermo.** Ahí vive Bonnie, que recibió a Elenna (F2 nuevo, 2026-11-07); el autor había elegido Palermo porque Bonnie la criaba en Italia. Lo que colgaba de Palermo (dónde nace Michael, el viñedo, la casa azul y la línea de la cocina, el lugar de Palermo en la vida de la familia) está en [[11_Books/00_Diseno_Final_Boston_Y_La_Villa]]. En este epílogo: la foto del porche es en Boston, y Elenna «deja Boston» para volver a San Aurelio. Lo de «en Italia» de Bonnie quedó superado por el F2 nuevo (2026-11-07).
 
 > **Estado:** CANON DEL AUTOR; guía de cierre, sin prosa de manuscrito.

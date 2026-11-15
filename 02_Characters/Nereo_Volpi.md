@@ -1,5 +1,7 @@
 # Nereo Volpi
 
+> **DECISIÓN DEL AUTOR (2026-11-15): el voto inverso.** **En la isla (VII), Volpi le ofrece a Elenna lo que sabe de sus padres y ella no lo toma.** Paga la pregunta 20 de las reglas del caso Vera («qué verdad decide no perseguir porque ya no le pertenece»). Sigue sin explicar la noche Marsh completa ni nombrar a Blake. Ver [[07_Ideas/El_Voto_Inverso]] · [[11_Books/00_Columna_Maestra_Ciclo_Elenna]].
+
 > **DECISIÓN DEL AUTOR (2026-11-14), *Cuentas de Sangre*:** el complot de La Mesa es **la trama principal de Chiara en el IV**. Chiara, Corrado y La Mesa traen un complot que viene de antes de la redada, y Chiara lo cierra para siempre: se desata del pasado y reconstruye el nombre de su familia hacia algo nuevo. Al final **La Mesa queda reformulada y purgada**, y **Volpi, incapacitado y preso en la isla**. La última escena del complot es Chiara visitándolo antes de que quede como un animal atrapado en la oscuridad. Diseño: [[11_Books/Book_04_Cuentas_De_Sangre/00_Diseno_Complot_De_La_Mesa]].
 
 > **DECISIÓN DEL AUTOR (2026-11-14):** **el ojo de vidrio negro nunca se explica.** Dario lo conoció como a un hombre cualquiera en un bar, cuando Volpi detuvo una pelea entre dos hombres con una intervención tan quirúrgica que lo sorprendió; por eso Dario cree que es suyo. Vento es su exceso en el corral (no venía en la orden de La Mesa). Borró a Elio porque Elio vio en las cuentas la mano de Corrado. **En H1 hiere a Kal a propósito, sin matarlo, porque La Mesa lo quiere vivo** (Dario lo mandó a ejecutarlo); es la primera vez que elige a La Mesa por encima de Dario. **Termina en la isla del Mediterráneo**, en un encierro no oficial que negocia Corrado en el IV; queda vivo para el VII. Ver [[11_Books/Book_04_Cuentas_De_Sangre/00_Diseno_Complot_De_La_Mesa]].
@@ -91,7 +93,7 @@ En *Cuentas de Sangre*, Volpi es el opuesto filosófico de Chiara: él usa infor
 
 ## Noche Marsh–Vera (CANON DEL AUTOR, 2026-10-03, lote 3)
 
-Durante el Libro I, por encargo de Dario y fuera de escena antes del amanecer del Cap. 27 (archivo 29): llega después de la muerte de los padres y de Vera, recoge el arma, desaparece los cuerpos, extrae a Dylan y lo entrega en la mansión. No mata a nadie esa noche. En el VII (isla) habla en fragmentos y no nombra a Blake. Ver [[07_Ideas/Libro_04_Incubadora/05_Volpi_y_Corrado]].
+Durante el Libro I, por encargo de Dario y fuera de escena antes del amanecer del Cap. 27 (archivo 29): llega después de la muerte de los padres y de Vera, recoge el arma, desaparece los cuerpos, extrae a Dylan y lo entrega en la mansión. No mata a nadie esa noche. En el VII (isla) habla en fragmentos y no nombra a Blake. Ver [[07_Ideas/Libro_04_Incubadora/05_Volpi_y_Corrado]]. *(2026-11-15, DECISIÓN DEL AUTOR: le ofrece la verdad de sus padres y ella no la toma.)*
 
 ## Participación en *Sombras de Poder* — CANON DEL AUTOR (2026-10-12/13)
 
