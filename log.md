@@ -4,6 +4,7 @@ El detalle se guarda una sola vez en notas de sesión. Este archivo es navegaci�
 
 ## Sesiones recientes
 
+- 2026-11-14: DECISIÓN DEL AUTOR, las 7 preguntas del complot de La Mesa: Elio vio la mano de Corrado; Vento es exceso de Volpi; Halbrook no aclara el corral en la terraza; Dario conoció a Volpi en un bar (cree que es suyo); el tercer asesinato es un testigo de Matteo (flexible); Volpi termina en la isla por Corrado; el ojo nunca se explica: [[11_Books/Book_04_Cuentas_De_Sangre/00_Diseno_Complot_De_La_Mesa]]
 - 2026-11-13: Libro II, arco de la muerte de Mei-Lin en cuatro capítulos redactado (36 *Las latas*, 37 *Lo del hermano*, 38 *Perdóname, jefe*, 39 *Lo que queda*; BORRADOR); el libro pasa a 57 caps. y los borradores 53–56 a 54–57; CANON DEL AUTOR: la respuesta de Kal a «Perdóname, jefe» y la línea con la que llora; Bonnie se va después del entierro: [[98_Agent_Handoff/sessions/2026-11-13_claude_arco_mei_lin]]
 - 2026-11-13: Libro II, pasada técnica de horas y clínica 53–56 (Chiara tarda por los retenes, Héctor detenido por la policía en el portón, antibiótico, aguja tapada, Camila vuelve a las cinco): [[98_Agent_Handoff/sessions/2026-11-13_claude_cap56_la_chimenea]]
 - 2026-11-13: Libro II, 53–56: reloj de la tormenta revisado como una sola secuencia, fragilidad de Kal en la escalera, papel de Elenna anclado (siembra obligatoria en el cap. 23); DECISIÓN DEL AUTOR: Chiara tomó la foto de Nochebuena: [[98_Agent_Handoff/sessions/2026-11-13_claude_cap56_la_chimenea]]

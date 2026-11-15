@@ -1,6 +1,6 @@
 # Dario Varek
 
-> **DECISIÓN DEL AUTOR (2026-11-12):** Volpi no es suyo: es de La Mesa, que se lo presta. Con él, Volpi está de «vacaciones», con la correa floja (Keene, Fabrizio). **Los frenos los ordena Dario;** el corral, no: lo ordena La Mesa. Ver [[11_Books/Book_04_Cuentas_De_Sangre/00_Diseno_Complot_De_La_Mesa]].
+> **DECISIÓN DEL AUTOR (2026-11-12 y 2026-11-14):** Volpi no es suyo: siempre fue de La Mesa. Dario cree que sí, porque lo conoció como a un hombre cualquiera en un bar, cuando Volpi detuvo una pelea entre dos hombres con una precisión quirúrgica que lo sorprendió. Con él, Volpi está de «vacaciones», con la correa floja (Keene, Fabrizio). **Los frenos los ordena Dario;** el corral, no: lo ordena La Mesa. Ver [[11_Books/Book_04_Cuentas_De_Sangre/00_Diseno_Complot_De_La_Mesa]].
 
 > **NUEVO CAUCE — NUEVOS 45 Y 46 (2026-11-08, terminal C; [[98_Agent_Handoff/sessions/2026-11-08_claude_fase4_cap45_por_si_vuelve]], [[98_Agent_Handoff/sessions/2026-11-08_claude_fase4_cap46_a_oscuras]]):** en el pensamiento de Chiara se llama Varek. En el 45, ante la oferta de Valenti de quitarle el Monarch, Chiara recuerda la bodega nueve, la mano y «*Una cuenta abierta.*» (una sola deuda, D2). En el 46: «Le quedé a deber a Varek lo que él quiera, cuando él quiera, y no sé qué es.»
 

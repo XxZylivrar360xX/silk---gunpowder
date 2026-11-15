@@ -18,6 +18,26 @@
 6. **Por qué Corrado no se revela:** ve que Chiara construyó algo nuevo y suyo. Si él vuelve, la atrapa en el pasado y en las cadenas de Il Consorzio.
 7. *(Decidido antes, el mismo día.)* **Chiara se entera por Matteo, cuando regresa en el IV, de que La Mesa la mandó a San Aurelio como anzuelo.** Alrededor se arma un complot orgánico: este documento.
 
+**Respuestas del autor (2026-11-14) a las preguntas del §6:**
+
+8. **Elio vio la mano de Corrado.** Revisando las cuentas, ve que las pérdidas del Consorcio tienen una sola mano detrás, la de Corrado por medio de Ettore: la prueba de que el padre vive. Volpi lo borra y La Mesa manda a Chiara como anzuelo. Matteo vuelve en el IV con eso.
+9. **Vento es el exceso de Volpi;** no venía en la orden de La Mesa.
+10. **En la terraza, Kal le pregunta a Halbrook por el corral,** y Halbrook ni lo niega ni lo afirma: le sirve que Kal dude.
+11. **Dario cree que Volpi es suyo.** Lo conoció como a un hombre cualquiera en un bar, cuando Volpi detuvo una pelea entre dos hombres con una intervención tan quirúrgica que sorprendió a Varek.
+12. **El tercer asesinato del IV:** la víctima es un testigo de Matteo, de la cadena de Elio. *Flexible:* el autor puede cambiarlo más adelante.
+13. **Volpi termina en la isla del Mediterráneo,** en un encierro no oficial que negocia Corrado en el IV. No muere; queda vivo para la entrevista del VII.
+14. **El ojo de vidrio negro nunca se explica.**
+
+**Respuestas del autor (2026-11-14) a las preguntas del §6:**
+
+8. **Elio vio la mano de Corrado.** Revisando las cuentas, ve que las pérdidas del Consorcio tienen una sola mano detrás, la de Corrado por medio de Ettore: la prueba de que el padre vive. Volpi lo borra y La Mesa manda a Chiara como anzuelo. Matteo vuelve en el IV con eso.
+9. **Vento es el exceso de Volpi;** no venía en la orden de La Mesa.
+10. **En la terraza, Kal le pregunta a Halbrook por el corral,** y Halbrook ni lo niega ni lo afirma: le sirve que Kal dude.
+11. **Dario cree que Volpi es suyo.** Lo conoció como a un hombre cualquiera en un bar, cuando Volpi detuvo una pelea entre dos hombres con una intervención tan quirúrgica que sorprendió a Varek.
+12. **El tercer asesinato del IV:** la víctima es un testigo de Matteo, de la cadena de Elio. *Flexible:* el autor puede cambiarlo más adelante.
+13. **Volpi termina en la isla del Mediterráneo,** en un encierro no oficial que negocia Corrado en el IV. No muere; queda vivo para la entrevista del VII.
+14. **El ojo de vidrio negro nunca se explica.**
+
 ---
 
 ## 2. El complot, en el orden en que ocurre
@@ -25,11 +45,11 @@
 ### Antes de la saga
 - **La redada y la falsa muerte de Corrado.** Vive en San Aurelio como Manfred Gabe y escribe diez años de cartas con Walt (CANON).
 - **La filtración:** algo de esas cartas llega a La Mesa, que sospecha que Corrado vive y está en San Aurelio. **Por eso manda a Chiara como anzuelo;** la petición de Dario es la ocasión, no la razón (CANON; qué se filtra: PENDIENTE).
-- **Elio.** Volpi lo desaparece en Génova (CANON). **PROPUESTA (el eslabón que ata todo):** Elio, el arquitecto de estructuras, ve que las pérdidas del Consorcio tienen una sola mano detrás, la de Corrado a través de Ettore. Es la prueba contable de que el padre vive. La Mesa lo borra y usa lo que descubrió para mandar a Chiara. **Matteo se va a investigar a Elio y vuelve en el IV con eso:** la evidencia de que La Mesa sabía, y de que Chiara era el cebo.
+- **Elio.** Volpi lo desaparece en Génova (CANON). **DECISIÓN DEL AUTOR (2026-11-14), el eslabón que ata todo:** Elio, el arquitecto de estructuras, ve que las pérdidas del Consorcio tienen una sola mano detrás, la de Corrado a través de Ettore. Es la prueba contable de que el padre vive. La Mesa lo borra y usa lo que descubrió para mandar a Chiara. **Matteo se va a investigar a Elio y vuelve en el IV con eso:** la evidencia de que La Mesa sabía, y de que Chiara era el cebo.
 
 ### Libro I: el anzuelo y el primer tirón
-- **Las vacaciones de Volpi.** La Mesa se lo presta a Varek y lo deja sin supervisión. Varek le encarga a Keene (CANON); Volpi lo convierte en puesta en escena. Fuera de página, la noche Marsh–Vera: Volpi desaparece los cuerpos y recoge el arma (CANON, lote 3). La correa floja muestra quién es.
-- **El corral (H12), el tirón de la línea.** La Mesa ordena; Volpi contrata y se deja ver por el contratado, con su ojo de vidrio negro. El atacante noquea a Chiara y mata a Vento. **PROPUESTA:** lo de Vento no venía en la orden; es el exceso de Volpi, borrar lo que ella ama. Es la primera vez que la correa floja se nota dentro de un encargo de La Mesa.
+- **Las vacaciones de Volpi.** Libre de la supervisión de La Mesa, Volpi entra a la vida de Varek por un bar: detiene una pelea entre dos hombres con una precisión quirúrgica que sorprende a Dario, y Dario cree haberlo descubierto (DECISIÓN DEL AUTOR, 2026-11-14). *Rima (DISEÑO, sin subrayar):* Corrado conoció a Walt en un bar de París noqueando a un borracho; los dos hombres que deciden la vida de Chiara desde las sombras entran a la historia por una pelea ajena. *Abierto:* si el bar fue casual o si Volpi se dejó encontrar. Varek le encarga a Keene (CANON); Volpi lo convierte en puesta en escena. Fuera de página, la noche Marsh–Vera: Volpi desaparece los cuerpos y recoge el arma (CANON, lote 3). La correa floja muestra quién es.
+- **El corral (H12), el tirón de la línea.** La Mesa ordena; Volpi contrata y se deja ver por el contratado, con su ojo de vidrio negro. El atacante noquea a Chiara y mata a Vento. **DECISIÓN DEL AUTOR (2026-11-14):** lo de Vento no venía en la orden; es el exceso de Volpi, borrar lo que ella ama. Es la primera vez que la correa floja se nota dentro de un encargo de La Mesa.
 - **Corrado muerde el anzuelo, pero no como La Mesa esperaba.** Duerme al atacante, llama a Kal desde el teléfono de Chiara, lo interroga («un hombre con un ojo de vidrio negro»), lo mata y lo desaparece con Walt. Corrado reconoce la descripción: el corrector de La Mesa. Entiende que La Mesa usa a su hija para cazarlo. Su lucha en persona empieza aquí (CANON).
 - **Lo que aprende La Mesa (PROPUESTA):** el hombre que mandaron nunca se reporta. Alguien protege a Chiara. Es la primera confirmación de que el padre vive y está cerca. La carta del penthouse («evaluar su desempeño», reunión el 13) y la Mesa de Palermo se releen en el IV como **el desempeño del cebo**.
 - **Lo que cree cada quien:** Chiara, «fueron ellos» (**tiene razón**, sin prueba). Kal sigue la bala hasta el apellido Volpi (CANON: Cedar Flats, Rudy de Kingsley, el motel de la Milla). En *La puerta* sabe que Crowe es de la gente de Halbrook.
@@ -44,7 +64,7 @@
 
 ### Libro III: un enemigo sin cara
 - **Sospechosos: Halbrook y Varek.** Crowe está muerto. Para Kal, alguien quiere muerta a Chiara y no sabe quién. **Eso alimenta el voto:** a Elenna la esconden de un enemigo sin nombre, no sólo de los conocidos. Encaja con la regla del III: «incluso eliminando la amenaza actual, su forma de vida seguirá produciendo otra».
-- **La terraza:** Halbrook le dice a Kal que él lo sacó de Camp Alder. Kal puede preguntarle por el corral. **PROPUESTA:** Halbrook no lo niega ni lo afirma; le sirve que Kal dude.
+- **La terraza:** Halbrook le dice a Kal que él lo sacó de Camp Alder. **DECISIÓN DEL AUTOR (2026-11-14):** Kal le pregunta por el corral y Halbrook ni lo niega ni lo afirma; le sirve que Kal dude.
 - **Corrado se queda escondido (decisión 6).** Ve la vida que Chiara construyó (Kal, El Faro, la Villa, el embarazo) y decide no volver: volver la encadenaría. Sus huellas en el III protegen esa vida sin reclamarla.
 - **Fin de las vacaciones. PROPUESTA:** cae Dario y la correa vuelve a manos de La Mesa. Volpi regresa distinto, porque ya probó la correa floja. Sigue siendo leal, pero ya no es manejable.
 - **Coda:** Santa Lucía rompe la regla de Corrado y aparece ante Kal (CANON).
@@ -52,9 +72,9 @@
 ### Libro IV: todo cobra
 1. **La apertura (CANON más esta decisión):** Corrado le cuenta a Kal el exilio, las cartas, Dale, la llamada del domingo. Le cuenta el corral: «Me contrató un hombre con un ojo de vidrio negro». **Kal junta las piezas:** el apellido que le dio la bala era cierto, y su teoría sobre Crowe no. Y el hombre extraño del cuarto de Marisol era él (decisión 5).
 2. **Lo que Kal no sabe todavía:** por qué La Mesa quería a Corrado fuera, y que Chiara era el cebo. Corrado lo sospecha; la prueba la trae Matteo.
-3. **Matteo regresa** con lo de Elio (PROPUESTA del §2) y le revela a Chiara el anzuelo (CANON). Chiara entiende que la institución nunca la quiso por quién era: la usó para cazar a su padre. Es el suelo del rechazo final («la salida consiste en terminar la ausencia, no en heredar una corona»).
-4. **Volpi, sin vacaciones:** el tercer asesinato reactiva el patrón (CANON; víctima PENDIENTE). **PROPUESTA:** la víctima es parte del complot; por ejemplo, alguien de la cadena de Elio que Matteo iba a usar como testigo.
-5. **El cierre de Volpi. PROPUESTA:** no muere. Corrado negocia su encierro no oficial en la isla del Mediterráneo (ya confirmado por el autor como material de incubadora). Es el último acto de Corrado contra La Mesa, y deja a Volpi vivo para la entrevista del VII. La convergencia queda abierta hacia el ciclo de Elenna, que es su lugar.
+3. **Matteo regresa** con lo de Elio (decisión 8) y le revela a Chiara el anzuelo (CANON). Chiara entiende que la institución nunca la quiso por quién era: la usó para cazar a su padre. Es el suelo del rechazo final («la salida consiste en terminar la ausencia, no en heredar una corona»).
+4. **Volpi, sin vacaciones:** el tercer asesinato reactiva el patrón (CANON). **DECISIÓN DEL AUTOR (2026-11-14), flexible:** la víctima es un testigo de Matteo, de la cadena de Elio.
+5. **El cierre de Volpi. DECISIÓN DEL AUTOR (2026-11-14):** no muere. Corrado negocia su encierro no oficial en la isla del Mediterráneo (ya confirmado por el autor como material de incubadora). Es el último acto de Corrado contra La Mesa, y deja a Volpi vivo para la entrevista del VII. La convergencia queda abierta hacia el ciclo de Elenna, que es su lugar.
 6. **Chiara y su padre.** El encuentro es decisión de ella (CANON). Conoce los dos lados: él no volvió por ella (decisión 6) y la Mesa la usó por él. Los dos la protegieron decidiendo por ella.
 
 ---
@@ -67,7 +87,7 @@
 | **Kal** | Apellido Volpi por la bala; Crowe es de Halbrook | Sospecha de Crowe; la negación lo deja sin respuesta; un desconocido en el cuarto de Marisol | Halbrook y Varek; la terraza | Toda la verdad, por Corrado |
 | **Corrado** | El ojo de vidrio: sabe que es La Mesa | Vigila; el hospital | Decide no volver; Santa Lucía lo saca | Se lo cuenta a Kal |
 | **La Mesa** | Sospecha que vive; el cebo funciona a medias | — | — | El complot queda expuesto |
-| **Dario** | Presta a Volpi (no sabe de quién es) | Ordena los frenos y el tiro de H1 | Preso | — |
+| **Dario** | Cree que Volpi es suyo (lo conoció en un bar) | Ordena los frenos y el tiro de H1 | Preso | — |
 | **Marisol** | — | Ve a medias a un desconocido | — | Sabe quién era |
 | **El lector** | Lo que sabe Kal | Lo mismo, más la negación de Crowe | La duda | Todo |
 
@@ -99,14 +119,14 @@
 
 ---
 
-## 6. Preguntas que quedan
+## 6. Preguntas
 
-1. **Elio:** ¿aceptas que lo borraran porque vio la mano de Corrado (PROPUESTA del §2)?
-2. **Vento:** ¿lo mata el exceso de Volpi, o venía en la orden de La Mesa?
-3. **La terraza:** ¿Kal le pregunta a Halbrook por el corral?
-4. **Dario y el préstamo:** ¿Dario sabe que Volpi es de La Mesa? Si cree que es suyo, el corral le revela que La Mesa caza en su ciudad con su propio hombre. Eso cobraría en la Parte III del II, cuando Chiara le pregunta si La Mesa tuvo permiso y él dice que lo va a averiguar.
-5. **El tercer asesinato del IV:** ¿la víctima es del complot (un testigo de Matteo)?
-6. **El final de Volpi:** ¿la isla, negociada por Corrado, cierra su arco en el IV?
-7. **El ojo:** ¿cómo lo perdió? (Opcional; puede no contarse nunca.)
+Las siete del 2026-11-12 quedaron contestadas el 2026-11-14 (decisiones 8–14 del §1). Siguen abiertas cinco:
+
+1. **El bar:** ¿fue casual o Volpi se dejó encontrar por Dario?
+2. **El fin de las vacaciones** (PROPUESTA del §2: con la caída de Dario, la correa vuelve a La Mesa).
+3. **Qué se filtró de las cartas** de Corrado y Walt (PENDIENTE desde antes).
+4. **Cómo se entera Dario** de que el corral fue La Mesa con su propio hombre, y qué hace con eso. Cobra la escena del II en que Chiara le pregunta si La Mesa tuvo permiso.
+5. **El tiro de H1.** Con la vara de eficacia que dio el autor (Volpi como Deadshot, sólo calibración: [[99_Reference/voice_calibration/Volpi_Eficacia_Deadshot]]), Volpi no falla. Si Dario lo manda a ejecutar a Kal y Kal sale caminando, **la herida en el costado es una decisión de Volpi.** Opciones: (a) **La Mesa necesita a Kal vivo**, porque es la pared alrededor del cebo, y Volpi obedece a La Mesa antes que a Dario; sería la primera señal de que las vacaciones terminan (recomendada); (b) el gusto de Volpi: dejar a Kal vivo para que el juego siga; (c) las dos cosas.
 
 Ver también: [[11_Books/00_Libro_Mayor_Deudas_Saga]] · [[11_Books/Book_04_Cuentas_De_Sangre/00_Book_Map]] · [[02_Characters/Nereo_Volpi]] · [[02_Characters/Corrado_Ardizzone]] · [[02_Characters/Silas_Crowe]] · [[02_Characters/Marisol_Grayson]]

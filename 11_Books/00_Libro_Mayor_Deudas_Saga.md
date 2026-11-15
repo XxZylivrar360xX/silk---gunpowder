@@ -52,7 +52,7 @@ Cada fila es una deuda: algo que el I o el II abren y que la saga se compromete 
 | B6 | **La caída legal de Dario** (caso de Lucía). | ✘ **siembra no localizada** | C·III ✔ falso clímax | Lucía es hija de Dario. PROPUESTA: Trix es lo que la voltea. La hermana muerta empuja a la otra a terminar el expediente contra el padre, y la guerra se cobra en hijas también de ese lado. |
 | B7 | **El millón** que Dario le paga a Kal (Plan B). | S·II ✔ | C·IV ◐ «payoff en *Cuentas de Sangre*» | PROPUESTA: es el dinero que Meridian no encuentra y que paga la salida. El primer dinero de Dario compra la libertad de no necesitar a nadie. |
 | B8 | **La línea de Mei-Lin:** la deuda del hermano con Varek y la filtración. | S·II ◐ | C·IV ◐ «revelación concluyente Varek–Volpi» | Vigilar que F2 no gaste la revelación. |
-| B9 | **Matteo y Elio:** se fue a investigar; no se dice en el I. | S·I ✔ | C·IV ✔ regresa con evidencia; Volpi | ◐ Qué descubre y cuándo vuelve. Es el testigo humano de lo que Volpi volvió administrativo. |
+| B9 | **Matteo y Elio:** se fue a investigar; no se dice en el I. | S·I ✔ | C·IV ✔ regresa con evidencia; Volpi | **2026-11-14:** Elio vio en las cuentas la mano de Corrado; Volpi mata a un testigo de Matteo (tercer asesinato, flexible). ◐ Cuándo vuelve. Es el testigo humano de lo que Volpi volvió administrativo. |
 | B10 | **Mesa tres = Volpi** (pago retroactivo). | S·I (DISEÑO) | C·IV (relectura) | Barata; se cobra sola si B1 llega. |
 | B11 | **El niño Marsh** en la mansión de Varek. | S·I ✔ (Vivian en código; reescritura PENDIENTE) | → V–VII | El III y el IV no lo tocan. |
 

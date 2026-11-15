@@ -1,5 +1,7 @@
 # Elio Bellacorte
 
+> **DECISIÓN DEL AUTOR (2026-11-14):** **por qué lo borran:** revisando las cuentas, Elio ve que las pérdidas del Consorcio tienen una sola mano detrás, la de Corrado por medio de Ettore: la prueba de que el padre de Chiara vive. Volpi lo desaparece y La Mesa usa eso para mandar a Chiara a San Aurelio como anzuelo. Matteo vuelve en el IV con lo que Elio descubrió. Ver [[11_Books/Book_04_Cuentas_De_Sangre/00_Diseno_Complot_De_La_Mesa]].
+
 > **NUEVO CAUCE — LA SALIDA DE MATTEO (2026-11-08; [[98_Agent_Handoff/sessions/2026-11-08_claude_matteo_y_costuras_parte_III]]):** **DECISIÓN DEL AUTOR (2026-11-08):** Matteo se fue a Italia **a investigar lo que en realidad pasó con Elio**. No lo causa el robo ni que Il Consorzio supiera de las rutas. **No se dice en el Libro I; se explica en el Libro IV.** Qué le pasó a Elio y quién estuvo detrás **no se dice en el Libro I**. Ver [[02_Characters/Matteo_Bellacorte]].
 
 > **Numeración:** desde 2026-10-22 el Libro I usa numeración corrida definitiva (56 caps.); este documento cita la numeración anterior. Correspondencia en [[11_Books/Book_01_Mascaras_De_Cristal/00_Book_Map]].
