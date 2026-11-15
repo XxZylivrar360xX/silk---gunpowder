@@ -1,5 +1,7 @@
 # Iris Harlow
 
+> **DECISIONES DEL AUTOR (2026-11-15, auditoría de destinos):** **Ridge es de la holding Bellandi, de Chiara**, y el cobro de Varek es que Chiara la pase a Iris. **La bomba doble alcanza a Elenna**, que también sabía que Gabe era Corrado: ahí nace la relación Elenna–Iris. Michael termina sin silla ni Monarch, en la tierra de Iris si ella lo acepta. Ver [[11_Books/00_Auditoria_Destinos_Elenna_Y_Michael]] §6.
+
 > **DECISIÓN DEL AUTOR (2026-11-15): el voto inverso.** **Varek cobra en el VII, desde la cárcel, su cuenta con Chiara, y la pide por Iris**, la nieta que crió aunque no sea de su sangre (qué pide: abierto). *(Superado: DECISIÓN DEL AUTOR (2026-11-15, matriz causal): **a Iris la crió Lucía**, su tía; Varek la quiere como suya desde la cárcel. **Lo que pide Varek: que Chiara ponga Bellandi Ridge a nombre de Iris.** Si Iris acepta y qué sabe del porqué: PENDIENTE. La propiedad legal de Ridge es contradicción previa sin resolver; ver [[05_Locations/Bellandi_Ridge_Vineyards]] y [[11_Books/00_Matriz_Causal_Saga]] §5.)* Además, la renuncia de Michael a la silla, que ella provoca sin buscarlo, es el acto con el que los hijos terminan el voto de sus padres. Ver [[07_Ideas/El_Voto_Inverso]] · [[11_Books/00_Columna_Maestra_Ciclo_Elenna]].
 
 > **CANON DEL AUTOR (2026-11-07):** Trix muere en *Voto de Ceniza* (Libro III) e **Iris queda huérfana de madre siendo pequeña**. Supersede «creció con Trix» y «para la época de Elenna [Trix] vive lejos de San Aurelio; Iris se quedó». Detalle: [[11_Books/Book_01_Mascaras_De_Cristal/00_Plan_Nuevo_Cauce]].

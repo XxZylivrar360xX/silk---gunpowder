@@ -1,5 +1,7 @@
 # Book 06 — Hijos del Silencio
 
+> **DECISIONES DEL AUTOR (2026-11-15, auditoría de destinos):** Al quedarse en San Aurelio con la silla, **Michael reabre él mismo la atención de La Mesa** sobre la ciudad. **Livia rompe desde Palermo y no vuelve** (la semilla de Volpi pasa a una llamada en el VII). Ver [[11_Books/00_Auditoria_Destinos_Elenna_Y_Michael]] §6.
+
 > **CANON DEL AUTOR (2026-11-15): el voto inverso.** **Chiara no va al funeral de Corrado** (DECISIÓN DEL AUTOR): es el costo del voto en este libro. Que la carta de Chiara de ese capítulo sea la más importante del ciclo, y que el camper reparta los frentes (Michael, La Mesa; Elenna, Volpi), es DISEÑO. Ver [[07_Ideas/El_Voto_Inverso]] · [[11_Books/00_Columna_Maestra_Ciclo_Elenna]].
 
 *Mapa narrativo operativo. Libro VI — trilogía de Elenna, identidad / descenso.*

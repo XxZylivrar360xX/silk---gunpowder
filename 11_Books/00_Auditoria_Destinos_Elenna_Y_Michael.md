@@ -1,5 +1,7 @@
 # Auditoría: los destinos de Elenna y Michael (Libros III–VII)
 
+> **DECISIONES DEL AUTOR (2026-11-15, mismo día):** el autor decidió bloque por bloque la propuesta de homogeneización. **Cierran G1–G4 y los choques 1 y 3–10.** Están en el §6, que manda sobre lo que diga arriba. Quedan abiertas dos edades (Walt, Ettore), en el §6.7.
+
 > **Estado:** DISEÑO del agente (Claude Code, 2026-11-15), por encargo del autor: revisar que los destinos de Elenna y Michael estén alineados con hacia dónde van ahora los libros. **No cambia canon ni prosa** y no corrige nada: reporta. Las grietas llevan recomendación; decide el autor.
 >
 > **Leído:** fichas de [[02_Characters/Elenna_Mercer|Elenna]], [[02_Characters/Michael_Ardizzone|Michael]], [[02_Characters/Iris_Harlow|Iris]], [[02_Characters/Livia_Ferraro|Livia]] y [[02_Characters/Corrado_Ardizzone|Corrado]]; [[06_Relationships/Elenna_y_Michael]], [[06_Relationships/Michael_e_Iris]]; [[07_Ideas/El_Voto_Inverso]], [[11_Books/00_Columna_Maestra_Ciclo_Elenna]], [[11_Books/00_Diseno_Final_Boston_Y_La_Villa]], [[11_Books/00_Matriz_Causal_Saga]] (copia de trabajo, en edición por otra sesión el mismo día), mapas y timeline del IV al VII, [[11_Books/Book_03_Voto_De_Ceniza/00_Diseno_Embarazo_Y_Falsa_Muerte]] y [[07_Ideas/Tres_Hermanas_Epilogo]].
@@ -108,5 +110,79 @@ No se corrigieron porque otra sesión está propagando la matriz en esos mismos 
 5. **Livia:** ¿vuelve en el VII por Volpi o sale en el VI como estaba?
 6. **Michael al final:** ¿qué conserva en San Aurelio y cuánto se sabe en público que es hijo de Chiara?
 7. **Ridge:** ¿de la holding o de Elenna?
+
+*(Respondidas el mismo día: §6.)*
+
+---
+
+## 6. Decisiones del autor (2026-11-15)
+
+**La regla que las ordena** (DISEÑO, aceptada con las decisiones): *los hijos pueden pisar San Aurelio y los padres no. Cada hijo hereda un nombre, no un poder, y al final ninguno de los dos se queda con nada de la familia que no haya elegido.*
+
+### 6.1 El nombre (cierra G3 y G4)
+
+1. **Elenna se llama Elenna Ardizzone desde que la familia se reúne, al final del IV**, con el apellido legal de Chiara, que en San Aurelio nadie le conoce porque ahí es Bellandi. El resguardo de bebé en Boston sigue PENDIENTE; no se rellena.
+2. **La audiencia del V es un cambio de nombre**, de Ardizzone a Mercer, que es un apellido común, y **no resucita a nadie**. Para la ley son dos expedientes que nadie conecta: la bebé Elenna Mercer, muerta al nacer, y una mujer viva que cambia de apellido.
+   - Por eso **Lucía no conecta nada** hasta que ve esa cara junto a la de Kal en el hospital del VII.
+   - Por eso **Marisol no deshace ningún fraude**: ayuda con un trámite.
+3. **Michael nace Michael Mercer:** no tiene nada que esconder, porque la Mercer «muerta» es su hermana. El cruce de apellidos es literal: **ella creció Ardizzone y elige Mercer; él nació Mercer y elige Ardizzone.** Supersede «Elenna usa Mercer y sabe que es Ardizzone».
+4. **Bonnie vuelve a San Aurelio como Bonnie García.** Se retira «Roberta Ardizzone» del epílogo de las Tres Hermanas.
+
+### 6.2 El poder (cierra G1 y los choques 4, 6 y 7)
+
+1. **La silla:** Corrado la decide y aconseja en vida; como está muerto para la ley, **la firma Ettore como apoderado**, y Michael aprende con Ettore en Palermo de los 18 a los 21.
+2. **G1 es el motor del VI–VII.** Al quedarse en San Aurelio con la silla, **Michael reabre él mismo la atención de La Mesa** sobre la ciudad (Ventresca y Fioravanti vuelven a tener a quién mirar). Se quedó por Iris y abrió el peligro; renuncia por Iris y lo cierra. Responde la pregunta abierta del voto inverso: renunciar cierra un peligro porque Michael lo abrió al quedarse.
+3. **Michael deja también el Monarch.** La razón, en palabras del autor: si quiere seguir la enseñanza principal de su hermana, **elegir por sí mismo quién quiere ser**, tiene que dejar atrás el dogma de Italia, el control y el poder; para él eso es Iris, y por ella está dispuesto a dejar el dogma y la silla. Termina sin silla, sin Monarch (gerencia profesional) y en la tierra de Iris, si ella lo acepta (sin garantía, CANON). Así ningún Mercer ni Bellandi vuelve a gobernar San Aurelio.
+4. **En público:** la ciudad sabe que el Monarch es de una holding, no quién la firma. Michael es «el señor Ardizzone, inversionista»; nunca se presenta como hijo de Chiara.
+
+### 6.3 La propiedad (cierra el choque 5)
+
+- **Ridge y el Monarch son de la holding Bellandi, de Chiara.** Elenna no es dueña de nada: la Villa sigue a nombre de Chiara y Walt sólo le da la llave.
+- El cobro de Varek: **Chiara pasa Ridge de la holding a Iris.** Elenna no firma nada.
+
+### 6.4 El camper (cierra G2)
+
+| Qué contiene | Quién lo toma | A dónde va |
+|---|---|---|
+| Ruta de Volpi, clínica, fundación | Elenna, **primero** | A evidencia |
+| La historia del Consorzio y la venta | Michael | A La Mesa, con la silla |
+| Los diarios personales sobre Iris | Iris | La bomba doble |
+
+- Michael nunca entrega papeles de la clínica: la línea civil no saca evidencia de la policial.
+- **Gabe:** la evidencia lleva a que la clínica la pagaba un muerto, Manfred Gabe. **Elenna declara en el expediente formal lo que sabe de su abuelo** (a un muerto no se le procesa). Así completa su decisión del VII: **persigue y declara la verdad que es suya (su caso, su abuelo) y rechaza la de sus padres** (lo que le ofrece Volpi).
+
+### 6.5 Las personas (cierra los choques 1 y 8)
+
+- **Marisol** sabe que Elenna vive desde antes de sus cinco años (la foto del porche), y **eso mismo es la razón de su distancia con Kal**: como fiscal, no puede estar cerca de un fraude que conoce. La «integridad de fiscal» y el «Hola, Papá.» tienen una sola causa. Cierra «cuándo supo Marisol» en su forma gruesa (antes de los cinco años de Elenna; la escena exacta, PENDIENTE).
+- **Livia:** se queda el canon del 2026-10-04 (rompe desde Palermo en el VI, sin volver). La semilla del 2026-10-18 pasa a **una sola llamada en el VII**: cuando se sabe que Volpi vive, se entera de que el hombre que mató a su padre siguió vivo porque la familia de Michael lo mantuvo así. No vuelve. Es la deuda que Michael no puede pagar, y no cruza la línea policial.
+- **La bomba doble alcanza a Elenna:** Iris entiende que Elenna también sabía que Gabe era Corrado. Ahí nace la relación Elenna–Iris, y Elenna no defiende a Michael.
+
+### 6.6 Lo menor (cierra los choques 3, 9 y 10)
+
+- **De niños visitaban a Gabe en San Aurelio**; sus padres no podían ir. «Manfred nunca se va» queda intacto.
+- **El viaje a Brasil a los 15 es su primer viaje sin sus padres**, no la siembra del gusto por viajar (creció en movimiento).
+- **En el cierre en la Villa, Elenna es la anfitriona** y sus padres los huéspedes; su cuarto ya es suyo cuando ellos llegan.
+
+### 6.7 Tabla de edades (aprobada; derivada del canon)
+
+**Anclas:** Libro I, sep A1 → 5 ene A3; Libro II, 5 ene A3 → dic A4 (H1; Stavanger en otoño del A4); el Cap. 1 del III, ~9 meses después del cierre del II. Corrado, 66 en el A1; Walt, 60 en el A1 (CANON 2026-09-29); Livia nace a mediados del A3.
+
+| Hecho | Año | Elenna | Michael | Corrado | Walt |
+|---|---|---|---|---|---|
+| Nace Elenna (III) | ~A5 | 0 | — | ~70 | ~64 |
+| Reunión, fin del IV | ~A6–A7 | ~1–2 | — | ~71–72 | ~65–66 |
+| Nace Michael | ~A7 | ~2 | 0 | ~72 | ~66 |
+| Michael entra a La Mesa | ~A25 | ~20 | ~18 | ~90 | ~84 |
+| **V** | ~A26 | **21** | ~19 | ~91 | **~85** |
+| **VI** (salto de 2–3 años) | ~A28–A29 | ~23–24 | ~21–22 | **muere ~93–94** | ~87–88 |
+| **VII** | ~A29–A30 | ~24–25 | ~22–23 | — | ~88–89 |
+
+**Consecuencias:**
+- **Corrado muere a los ~93–94**, no a los ~91 (o hay que adelantar su muerte).
+- **Michael se concibe poco después de la reunión** y nace en el primer año en movimiento.
+- Livia (mediados del A3) queda unos 3–4 años mayor que Michael: cuadra con su ficha.
+- **Abierto (decide el autor):**
+  - **Walt:** el autor fijó «unos 81» al darle la llave, pero 60 en el A1 da **~85** en el V, y se retira del Monarch a los ~87–88 en el VI. O Walt tiene ~85, o tenía ~56 en el A1.
+  - **Ettore:** su edad es PENDIENTE. Si es de la generación de Corrado, rondaría los 90 cuando forma a Michael. Para que sea apoderado y maestro, tendría que ser bastante más joven que Corrado (DISEÑO: ~15 años), o el maestro de Michael en Palermo es otro.
 
 Ver también: [[11_Books/00_Columna_Maestra_Ciclo_Elenna]] · [[11_Books/00_Matriz_Causal_Saga]] · [[07_Ideas/El_Voto_Inverso]] · [[11_Books/00_Diseno_Final_Boston_Y_La_Villa]]

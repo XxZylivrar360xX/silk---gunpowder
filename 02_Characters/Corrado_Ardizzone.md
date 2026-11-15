@@ -1,5 +1,7 @@
 # Corrado Ardizzone
 
+> **DECISIONES DEL AUTOR (2026-11-15, auditoría de destinos):** **Sus nietos lo visitaban de niños en San Aurelio**, adonde sus padres no podían ir; «Manfred nunca se va» queda intacto y supersede «pasaba temporadas con la familia». **La silla:** la decide y aconseja en vida, y como está muerto para la ley **la firma Ettore como apoderado**. **Muere a los ~93–94**, no a los ~91 (tabla de edades), salvo que el autor adelante su muerte. En el VII, **Elenna declara en el expediente formal que Manfred Gabe pagaba la clínica de Volpi** y lo que sabe de él. Ver [[11_Books/00_Auditoria_Destinos_Elenna_Y_Michael]] §6.
+
 > **DECISIÓN DEL AUTOR (2026-11-15): el voto inverso.** **Chiara no va al funeral de su padre (VI):** después del IV, San Aurelio no es seguro para ella (La Mesa). Corrado se perdió la vida de su hija fingiendo una muerte; ella se pierde la muerte real de él por la vida de la suya (lectura DISEÑO). Ver [[07_Ideas/El_Voto_Inverso]] · [[11_Books/00_Columna_Maestra_Ciclo_Elenna]].
 
 > **DECISIÓN DEL AUTOR (2026-11-15):** en el V está con Walt, compartiendo un escocés, cuando Elenna les cuenta que se va a mudar y Walt le da la llave de Villa Candelaria. Ver [[11_Books/00_Diseno_Final_Boston_Y_La_Villa]].

@@ -1,5 +1,7 @@
 # Ettore
 
+> **DECISIONES DEL AUTOR (2026-11-15, auditoría de destinos):** **Es el apoderado de la silla Ardizzone:** Corrado la decide en vida y Ettore la firma, porque Corrado está muerto para la ley. **Forma a Michael en Palermo de los 18 a los 21.** **Abierto (decide el autor):** su edad. Si es de la generación de Corrado, rondaría los 90 para entonces; DISEÑO: unos 15 años más joven que Corrado, o el maestro de Michael es otro. Ver [[11_Books/00_Auditoria_Destinos_Elenna_Y_Michael]] §6.
+
 > **Numeración:** desde 2026-10-22 el Libro I usa numeración corrida definitiva (56 caps.); este documento cita la numeración anterior. Correspondencia en [[11_Books/Book_01_Mascaras_De_Cristal/00_Book_Map]].
 
 *Seda y Pólvora — Ficha de Personaje*

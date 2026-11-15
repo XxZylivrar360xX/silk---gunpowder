@@ -1,5 +1,7 @@
 # Columna maestra del ciclo de Elenna (Libros V–VII): el voto inverso
 
+> **DECISIONES DEL AUTOR (2026-11-15, auditoría de destinos):** Cierran varios puntos del §6: Ridge (de la holding), Corrado («nunca se va»: los niños lo visitaban en San Aurelio), la cadena de la silla (Corrado decide, Ettore firma) y la aritmética (tabla de edades; Walt y Ettore, abiertos). En el §2, contra Chiara: **al quedarse con la silla en San Aurelio (VI), Michael reabre él mismo la atención de La Mesa**, y su renuncia cierra lo que él abrió. **Deja también el Monarch.** Ver [[11_Books/00_Auditoria_Destinos_Elenna_Y_Michael]] §6.
+
 > **DECISIÓN DEL AUTOR (2026-11-15, matriz causal):** el autor aceptó las recomendaciones de [[11_Books/00_Matriz_Causal_Saga]] §9. En corto: Meridian = Volpi «desaparecido» (Meridian cree que Kal lo mató; motor), con el RICO dormido de fondo y Harper como cerrojo; Volpi está en una clínica privada de La Isla y en el VII Elenna lo reporta, y eso deshace la sospecha; Lucía entiende en el hospital que Elenna vive y le dice a Kal de frente cuánto tiempo le da (el hangar es cuenta regresiva); Varek se entera por Lucía y pide **Bellandi Ridge a nombre de Iris**; a Iris la crió Lucía; Michael entrega a La Mesa el archivo del camper con la silla; la distancia de Marisol es integridad de fiscal; Mara Ellison hereda el expediente. Lo de abajo que choque lleva nota.
 
 > **Estado:** DISEÑO y PROPUESTA del agente (Claude Code, 2026-11-15), construido sobre [[07_Ideas/El_Voto_Inverso]], **CANON DEL AUTOR desde el 2026-11-15**. El resto de este documento es DISEÑO salvo lo marcado como decisión del autor. No toca prosa. Lo decidido aquí: la **DECISIÓN DEL AUTOR (2026-11-15): la renuncia de Michael a la silla es el acto** que corta el último lazo con La Mesa, y las **siete respuestas del autor del mismo día** (§5).
@@ -148,7 +150,7 @@ Restos que conviene corregir en una pasada aparte:
   - Ethan sale más bien de ~29–31 años en el V.
   - El ancla de la noche Marsh no coincide entre la incubadora y la estructura de la saga.
 - Lucía como «subjefa bajo Clark» la noche Marsh.
-- Ridge: ¿legalmente de Elenna o de la holding Bellandi?
+- Ridge: ¿legalmente de Elenna o de la holding Bellandi? **Resuelto (2026-11-15): de la holding de Chiara.**
 - **Corrado:**
   - tratado como vivo en el VII en preguntas de la incubadora;
   - «Corrado pasa temporadas en Boston» frente a «Manfred nunca se va».

@@ -1,5 +1,7 @@
 # Libro VI — Hijos del Silencio
 
+> **DECISIONES DEL AUTOR (2026-11-15, auditoría de destinos):** **Livia rompe desde Palermo y no vuelve;** «la retiene» la verdad sobre su padre queda superado y pasa a una sola llamada en el VII. Michael, al quedarse con la silla, reabre la atención de La Mesa. Ver [[11_Books/00_Auditoria_Destinos_Elenna_Y_Michael]] §6.
+
 > **Fuente operativa:** [[11_Books/Book_06_Hijos_Del_Silencio/00_Book_Map]] · **Estado:** diseño macro; título y función CANON DEL AUTOR (2026-10-03); sin desglose de partes.
 >
 > **Libro nuevo (2026-10-03):** se inserta entre *Juramento de Hierro* y *Camino a Casa* al pasar el ciclo de Elenna a trilogía — ver [[00_Biblia/00_Trilogy_Structure]].

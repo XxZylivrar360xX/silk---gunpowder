@@ -1,5 +1,7 @@
 # Elenna y Michael
 
+> **DECISIONES DEL AUTOR (2026-11-15, auditoría de destinos):** **El cruce de apellidos es literal:** ella creció Ardizzone (desde el fin del IV) y elige Mercer en una audiencia de cambio de nombre; él nació Mercer y elige Ardizzone. De niños visitaban a Gabe en San Aurelio; sus padres no podían ir. **El camper se reparte en tres:** Elenna toma primero lo de Volpi, para evidencia; Michael, la historia del Consorzio, para La Mesa; Iris, los diarios. **La bomba doble alcanza a Elenna**, que también sabía, y ella no defiende a Michael. **Cierre del eje:** Michael deja silla y Monarch siguiendo la enseñanza de su hermana, elegir por sí mismo quién quiere ser. Ver [[11_Books/00_Auditoria_Destinos_Elenna_Y_Michael]] §6.
+
 > **CANON DEL AUTOR (2026-11-15): el voto inverso.** Los dos hermanos terminan el voto del III **para que sus padres y ellos puedan estar juntos como familia**; la renuncia de Michael a la silla es el acto (DECISIÓN DEL AUTOR). Que lo terminen viviendo su propia vida, no salvando a sus padres (Elenna, con su caso y su ciudad), es DISEÑO de la columna §1; que crezcan en movimiento con sus padres, con Boston y Bonnie como ancla, es PROPUESTA de la columna §4. **Dónde nace Michael sigue abierto.** Que el camper de Corrado les reparta los dos frentes es DISEÑO. Ver [[07_Ideas/El_Voto_Inverso]] · [[11_Books/00_Columna_Maestra_Ciclo_Elenna]].
 
 *Seda y Pólvora — Relación (Libros V–VII)*

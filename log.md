@@ -4,6 +4,7 @@ El detalle se guarda una sola vez en notas de sesión. Este archivo es navegaci�
 
 ## Sesiones recientes
 
+- 2026-11-15: DECISIONES DEL AUTOR sobre los destinos de Elenna y Michael (nombre, silla, Monarch, Ridge, camper, Marisol, Livia, la bomba doble, tabla de edades), propagadas con notas fechadas (Biblia #73–#80, fichas, relaciones, mapas V–VII, matriz, columna, Boston): [[11_Books/00_Auditoria_Destinos_Elenna_Y_Michael]].
 - 2026-11-15: DECISIONES DEL AUTOR sobre la matriz causal (Meridian por Volpi «desaparecido»; clínica de La Isla; Elenna reporta a Volpi; Lucía entiende y da plazo; Ridge a nombre de Iris; Lucía crió a Iris; archivo del camper a La Mesa; Marisol; Mara), propagadas con notas fechadas (Biblia #64–#72, diseños, mapas IV y VII, fichas, lugares, Meridian, incubadora, libro mayor): [[11_Books/00_Matriz_Causal_Saga]].
 - 2026-11-15: PROPUESTA: matriz causal de los siete libros (cinco puentes de la revisión de Codex; Meridian, La Mesa y la falsa muerte; columna de saga; 9 preguntas al autor): [[11_Books/00_Matriz_Causal_Saga]].
 - 2026-11-15: voto inverso propagado (notas con fecha, sin borrar): Biblia (supersesiones #56–#63), Villa por Las Gemelas y mapas de la ciudad, cabeceras de los borradores 54–56 del II (prosa por reubicar, en PENDING), mapas IV–VII, timeline, fichas, relaciones, incubadora, libro mayor y complot; verificado por subagente; «viviendo su vida» queda DISEÑO y Boston como ancla, PROPUESTA (no decididos por el autor): [[07_Ideas/El_Voto_Inverso]] · [[11_Books/00_Columna_Maestra_Ciclo_Elenna]].

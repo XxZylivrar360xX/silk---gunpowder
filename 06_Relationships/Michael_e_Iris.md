@@ -1,5 +1,7 @@
 # Michael e Iris
 
+> **DECISIONES DEL AUTOR (2026-11-15, auditoría de destinos):** **Michael deja la silla y también el Monarch**, porque para elegir por sí mismo quién quiere ser (la enseñanza de Elenna) deja atrás el dogma de Italia, el control y el poder: eso, para él, es Iris. Termina en la tierra de Iris si ella lo acepta (sin garantía). **Ridge es de la holding de Chiara**, y el cobro de Varek es que Chiara la pase a Iris. Al quedarse con la silla en San Aurelio, Michael reabre la atención de La Mesa; su renuncia cierra lo que él abrió. **La bomba doble alcanza a Elenna.** **Livia:** rompe en el VI y en el VII sólo llama una vez, por Volpi. Ver [[11_Books/00_Auditoria_Destinos_Elenna_Y_Michael]] §6.
+
 > **DECISIÓN DEL AUTOR (2026-11-15): el voto inverso.** **La renuncia de Michael a la silla es el acto** que corta el último lazo de la familia con La Mesa y ayuda a terminar el voto de sus padres (que no la haga *para* ellos, sino por Iris, es DISEÑO de la columna §1). Y **Varek cobra en el VII su cuenta con Chiara, por Iris**. Ver [[07_Ideas/El_Voto_Inverso]] · [[11_Books/00_Columna_Maestra_Ciclo_Elenna]].
 
 > **CANON DEL AUTOR (2026-11-07):** Trix muere en el Libro III, con Iris pequeña. Donde abajo se cuenta con Trix viva en la época de Elenna (p. ej. reaccionar a la bomba), queda supersedido. Detalle: [[11_Books/Book_01_Mascaras_De_Cristal/00_Plan_Nuevo_Cauce]].

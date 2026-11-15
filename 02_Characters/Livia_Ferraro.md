@@ -1,5 +1,7 @@
 # Livia Ferraro
 
+> **DECISIONES DEL AUTOR (2026-11-15, auditoría de destinos):** **Se queda el canon del 2026-10-04:** rompe desde Palermo en el VI y no vuelve. La semilla del 2026-10-18 («la retiene» la verdad sobre su padre) pasa a **una sola llamada en el VII**. Cuando se sabe que Volpi vive, Livia se entera de que el hombre que mató a su padre siguió vivo porque la familia de Michael lo mantuvo así. No vuelve. Es la deuda que Michael no puede pagar, y no cruza la línea policial de Elenna. Ver [[11_Books/00_Auditoria_Destinos_Elenna_Y_Michael]] §6.
+
 > **Numeración:** desde 2026-10-22 el Libro I usa numeración corrida definitiva (56 caps.); este documento cita la numeración anterior. Correspondencia en [[11_Books/Book_01_Mascaras_De_Cristal/00_Book_Map]].
 
 > **Nombre (CANON DEL AUTOR, 2026-10-18):** nace como hija de Fabrizio y lleva el nombre de su abuela [[11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/40_Mecanico|Livia Rinaldi]], titular de la Mesa (Libro I, Cap. 36 (archivo 40)). Crece como **Livia Ferraro**, con el apellido del segundo marido de Paola en Italia: una familia completa, aunque sabe la verdad (que su padre es Fabrizio). Si en algún papel conserva el *Rinaldi* queda PENDIENTE.

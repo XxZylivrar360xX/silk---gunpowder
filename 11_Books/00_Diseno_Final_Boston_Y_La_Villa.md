@@ -1,5 +1,7 @@
 # Diseño: el final en Boston y la herencia de Villa Candelaria
 
+> **DECISIONES DEL AUTOR (2026-11-15, auditoría de destinos):** **La audiencia es un cambio de nombre** (Elenna Ardizzone pasa a Mercer); **no deshace la muerte** de la bebé. Para la ley son dos expedientes, así que la figura legal es un cambio de nombre ordinario. Elenna es Ardizzone desde la reunión al final del IV. **Michael nace Mercer** (lugar: abierto). **Ridge y el Monarch son de la holding de Chiara.** Ver [[11_Books/00_Auditoria_Destinos_Elenna_Y_Michael]] §6.
+
 > **CANON DEL AUTOR (confirmado el 2026-11-15): el voto inverso.** la Villa por Las Gemelas y la familia en movimiento después del IV; Michael y Elenna terminan el voto para que Kal y Chiara vuelvan a la Villa. Este diseño cambia: Boston pasa a ser una parada (como ancla de la infancia, PROPUESTA de la columna §4) y la Villa ya no está en las Lomas. **Propagado al vault el 2026-11-15**; queda superado aquí, con notas en línea, lo que choca. Ver [[07_Ideas/El_Voto_Inverso]] · [[11_Books/00_Columna_Maestra_Ciclo_Elenna]].
 
 > **Estado:** las decisiones del §1 son **CANON DEL AUTOR (2026-11-15)**. El resto es DISEÑO del agente (Claude Code, mismo día); lo marcado **PROPUESTA** espera al autor. **No toca prosa.**

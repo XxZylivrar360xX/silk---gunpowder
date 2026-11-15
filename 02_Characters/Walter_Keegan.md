@@ -1,5 +1,7 @@
 # Walter "Walt" Keegan
 
+> **DECISIONES DEL AUTOR (2026-11-15, auditoría de destinos):** **Edad, abierta:** con 60 en el A1 (CANON 2026-09-29), Walt tiene **~85** en el V, no «unos 81», y se retira del Monarch a los ~87–88 en el VI. Decide el autor: o ~85, o tenía ~56 en el A1. Tabla en [[11_Books/00_Auditoria_Destinos_Elenna_Y_Michael]] §6.7.
+
 > **CANON DEL AUTOR (2026-11-15): el voto inverso.** La Villa que Walt guarda está ahora **en un lote por Las Gemelas**, no en Lomas de San Jacinto. Kal y Chiara no pueden volver a pertenecer a San Aurelio después del IV; Walt guarda la casa mientras tanto, y **en el cierre del VII vuelven a ella con toda la familia**. Ver [[07_Ideas/El_Voto_Inverso]] · [[11_Books/00_Columna_Maestra_Ciclo_Elenna]].
 
 > **DECISIÓN DEL AUTOR (2026-11-15, segunda tanda):** Elenna le cuenta que se va a mudar mientras él y **Corrado comparten un escocés**; ahí le dice la línea y le da la llave. Ver [[11_Books/00_Diseno_Final_Boston_Y_La_Villa]].

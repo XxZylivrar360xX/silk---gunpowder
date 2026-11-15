@@ -1,5 +1,7 @@
 # Bellandi Ridge Vineyards
 
+> **DECISIONES DEL AUTOR (2026-11-15, auditoría de destinos):** **Ridge es de la holding Bellandi, de Chiara, no de Elenna**; supersede «puede ser legalmente de Elenna». El cobro de Varek en el VII: **Chiara la pasa de la holding a Iris**. Elenna no firma nada. Ver [[11_Books/00_Auditoria_Destinos_Elenna_Y_Michael]] §6.
+
 > **DECISIÓN DEL AUTOR (2026-11-15, matriz causal):** en el VII, **Varek cobra su cuenta pidiéndole a Chiara que ponga Bellandi Ridge a nombre de Iris**, que ya la administra desde el cierre del VI. **Contradicción previa, marcada y sin resolver:** [[07_Ideas/Libro_04_Incubadora/04_Legado_Post_Trilogia]] dice que Ridge pertenece legalmente a Elenna; aquí abajo (CANON 2026-10-04) la familia conserva sus activos vía una holding Bellandi y lo de Elenna es DISEÑO. Si es de Elenna, Chiara no puede darla sin ella. Decide el autor. Ver [[11_Books/00_Matriz_Causal_Saga]] §5.
 
 *Ficha de Lugar - los viñedos de Chiara*
