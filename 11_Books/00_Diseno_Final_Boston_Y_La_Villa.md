@@ -21,7 +21,7 @@
    Y le da la llave y la dirección.
 3. **El apellido de Elenna se resuelve.** Elenna Mercer murió para el mundo en San Aurelio (la falsa muerte del III). **Marisol ayuda, o ya ayudó antes, a recuperar su legítimo apellido.** Elenna puede llegar a San Aurelio como una Ardizzone.
 4. **La Villa siempre estuvo a nombre de Chiara.** Así lo especificó Kal al firmar las escrituras. **Chiara lo descubre por accidente** cuando encuentra el testamento de Kal, sobre las escrituras de todas las propiedades.
-5. **Walt tiene unos 81 años** cuando le da la llave, y sigue casado con Mabel.
+5. **Walt tiene unos 81 años** cuando le da la llave, y sigue casado con Mabel. *(Corregido 2026-11-15, DECISIÓN DEL AUTOR (2026-11-15): **~85**, porque se conservan sus 60 en el A1; [[11_Books/00_Auditoria_Destinos_Elenna_Y_Michael]] §6.7.)*
 
 **Precisiones del autor (2026-11-15, segunda tanda):**
 

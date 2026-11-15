@@ -146,7 +146,7 @@ Restos que conviene corregir en una pasada aparte:
   - reacciona a la bomba doble cuando ya está muerta;
   - la ficha dice que «cría a Dylan durante los Libros II–IV» y no cuadra con su muerte.
 - **Fechas y aritmética:**
-  - Walt tiene ~81 en el V y ~85 en el VI: un salto de 4 años, no de 2–3.
+  - Walt tiene ~81 en el V y ~85 en el VI: un salto de 4 años, no de 2–3. **Resuelto (2026-11-15): ~85 en el V y ~87–88 en el VI.**
   - Ethan sale más bien de ~29–31 años en el V.
   - El ancla de la noche Marsh no coincide entre la incubadora y la estructura de la saga.
 - Lucía como «subjefa bajo Clark» la noche Marsh.

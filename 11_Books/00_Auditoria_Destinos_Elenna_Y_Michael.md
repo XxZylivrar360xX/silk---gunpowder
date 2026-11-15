@@ -1,6 +1,6 @@
 # Auditoría: los destinos de Elenna y Michael (Libros III–VII)
 
-> **DECISIONES DEL AUTOR (2026-11-15, mismo día):** el autor decidió bloque por bloque la propuesta de homogeneización. **Cierran G1–G4 y los choques 1 y 3–10.** Están en el §6, que manda sobre lo que diga arriba. Quedan abiertas dos edades (Walt, Ettore), en el §6.7.
+> **DECISIONES DEL AUTOR (2026-11-15, mismo día):** el autor decidió bloque por bloque la propuesta de homogeneización. **Cierran G1–G4 y los choques 1 y 3–10.** Están en el §6, que manda sobre lo que diga arriba. Las edades de Walt y Ettore, decididas después, también están en el §6.7.
 
 > **Estado:** DISEÑO del agente (Claude Code, 2026-11-15), por encargo del autor: revisar que los destinos de Elenna y Michael estén alineados con hacia dónde van ahora los libros. **No cambia canon ni prosa** y no corrige nada: reporta. Las grietas llevan recomendación; decide el autor.
 >
@@ -181,8 +181,8 @@ No se corrigieron porque otra sesión está propagando la matriz en esos mismos 
 - **Corrado muere a los ~93–94**, no a los ~91 (o hay que adelantar su muerte).
 - **Michael se concibe poco después de la reunión** y nace en el primer año en movimiento.
 - Livia (mediados del A3) queda unos 3–4 años mayor que Michael: cuadra con su ficha.
-- **Abierto (decide el autor):**
-  - **Walt:** el autor fijó «unos 81» al darle la llave, pero 60 en el A1 da **~85** en el V, y se retira del Monarch a los ~87–88 en el VI. O Walt tiene ~85, o tenía ~56 en el A1.
-  - **Ettore:** su edad es PENDIENTE. Si es de la generación de Corrado, rondaría los 90 cuando forma a Michael. Para que sea apoderado y maestro, tendría que ser bastante más joven que Corrado (DISEÑO: ~15 años), o el maestro de Michael en Palermo es otro.
+- **Decidido por el autor (2026-11-15):**
+  - **Walt tiene ~85 en el V**, cuando le da la llave (se conservan sus 60 en el A1); supersede «unos 81». Se retira del Monarch a los ~87–88, en el VI.
+  - **Ettore es unos 15 años menor que Corrado:** ~51 en el A1, ~75 cuando forma a Michael (~A25) y ~80 en el VII.
 
 Ver también: [[11_Books/00_Columna_Maestra_Ciclo_Elenna]] · [[11_Books/00_Matriz_Causal_Saga]] · [[07_Ideas/El_Voto_Inverso]] · [[11_Books/00_Diseno_Final_Boston_Y_La_Villa]]
