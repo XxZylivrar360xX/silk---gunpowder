@@ -27,16 +27,7 @@
 12. **El tercer asesinato del IV:** la víctima es un testigo de Matteo, de la cadena de Elio. *Flexible:* el autor puede cambiarlo más adelante.
 13. **Volpi termina en la isla del Mediterráneo,** en un encierro no oficial que negocia Corrado en el IV. No muere; queda vivo para la entrevista del VII.
 14. **El ojo de vidrio negro nunca se explica.**
-
-**Respuestas del autor (2026-11-14) a las preguntas del §6:**
-
-8. **Elio vio la mano de Corrado.** Revisando las cuentas, ve que las pérdidas del Consorcio tienen una sola mano detrás, la de Corrado por medio de Ettore: la prueba de que el padre vive. Volpi lo borra y La Mesa manda a Chiara como anzuelo. Matteo vuelve en el IV con eso.
-9. **Vento es el exceso de Volpi;** no venía en la orden de La Mesa.
-10. **En la terraza, Kal le pregunta a Halbrook por el corral,** y Halbrook ni lo niega ni lo afirma: le sirve que Kal dude.
-11. **Dario cree que Volpi es suyo.** Lo conoció como a un hombre cualquiera en un bar, cuando Volpi detuvo una pelea entre dos hombres con una intervención tan quirúrgica que sorprendió a Varek.
-12. **El tercer asesinato del IV:** la víctima es un testigo de Matteo, de la cadena de Elio. *Flexible:* el autor puede cambiarlo más adelante.
-13. **Volpi termina en la isla del Mediterráneo,** en un encierro no oficial que negocia Corrado en el IV. No muere; queda vivo para la entrevista del VII.
-14. **El ojo de vidrio negro nunca se explica.**
+15. **El tiro de H1 (2026-11-14): La Mesa quiere a Kal vivo.** Dario manda a Volpi a ejecutar a Kal; Volpi, que no falla, le da en el costado a propósito. Kal es la pared alrededor del cebo, y Volpi obedece a La Mesa antes que a Dario. Es la primera señal de que las vacaciones con Varek se terminan.
 
 ---
 
@@ -60,7 +51,7 @@
 - **Los frenos:** los ordena Varek; Volpi corta (CANON). Víctima, Marisol; objetivo, Chiara. Chiara está segura de que fue La Mesa y **esta vez se equivoca**. Es el espejo del corral.
 - **El hospital (decisión 5).** Corrado entra al cuarto de Marisol. **PROPUESTA:** va porque el Lancia era de Chiara y cree que la herida es su hija. Encuentra a otra mujer y se va. Marisol, dopada, ve a medias a un hombre mayor que no conoce. Se lo cuenta a Kal días después. Con los frenos ya descubiertos (Parte III, T1), Kal suma un desconocido en el cuarto de la que iba en el coche de Chiara. Es gasolina para sus noches de *El agua corriendo*.
 - **H1, *De rodillas*. PROPUESTA de lugar:** Kal tiene a Crowe de rodillas, lo deja vivo y le pregunta por el corral. «Yo nunca toqué a la zorra del casino.» Walt dispara. Crowe ya no puede explicar nada, y la pregunta queda abierta en el mismo tiro que cierra la cuenta (ya era P de la tarjeta U16: «se lleva la pista del origen»).
-- **H1, el tiro de Volpi:** Dario manda a Volpi contra Kal (CANON, velado). Las vacaciones siguen hasta el final del II.
+- **H1, el tiro de Volpi:** Dario manda a Volpi a ejecutar a Kal (CANON, velado). **Volpi no falla: la herida en el costado es a propósito, porque La Mesa quiere a Kal vivo** (DECISIÓN DEL AUTOR, 2026-11-14). Es la primera vez que Volpi elige a La Mesa por encima de Dario: el principio del fin de sus vacaciones. Nadie lo sabe todavía; Dario cree que Volpi falló, o que Kal tuvo suerte.
 
 ### Libro III: un enemigo sin cara
 - **Sospechosos: Halbrook y Varek.** Crowe está muerto. Para Kal, alguien quiere muerta a Chiara y no sabe quién. **Eso alimenta el voto:** a Elenna la esconden de un enemigo sin nombre, no sólo de los conocidos. Encaja con la regla del III: «incluso eliminando la amenaza actual, su forma de vida seguirá produciendo otra».
@@ -121,12 +112,12 @@
 
 ## 6. Preguntas
 
-Las siete del 2026-11-12 quedaron contestadas el 2026-11-14 (decisiones 8–14 del §1). Siguen abiertas cinco:
+Las siete del 2026-11-12 quedaron contestadas el 2026-11-14 (decisiones 8–14 del §1). Siguen abiertas:
 
 1. **El bar:** ¿fue casual o Volpi se dejó encontrar por Dario?
 2. **El fin de las vacaciones** (PROPUESTA del §2: con la caída de Dario, la correa vuelve a La Mesa).
 3. **Qué se filtró de las cartas** de Corrado y Walt (PENDIENTE desde antes).
 4. **Cómo se entera Dario** de que el corral fue La Mesa con su propio hombre, y qué hace con eso. Cobra la escena del II en que Chiara le pregunta si La Mesa tuvo permiso.
-5. **El tiro de H1.** Con la vara de eficacia que dio el autor (Volpi como Deadshot, sólo calibración: [[99_Reference/voice_calibration/Volpi_Eficacia_Deadshot]]), Volpi no falla. Si Dario lo manda a ejecutar a Kal y Kal sale caminando, **la herida en el costado es una decisión de Volpi.** Opciones: (a) **La Mesa necesita a Kal vivo**, porque es la pared alrededor del cebo, y Volpi obedece a La Mesa antes que a Dario; sería la primera señal de que las vacaciones terminan (recomendada); (b) el gusto de Volpi: dejar a Kal vivo para que el juego siga; (c) las dos cosas.
+5. ~~El tiro de H1~~ **Resuelto el 2026-11-14 (decisión 15):** La Mesa quiere a Kal vivo. *Abierto:* qué cree Dario de ese fallo y si se lo cobra a Volpi.
 
 Ver también: [[11_Books/00_Libro_Mayor_Deudas_Saga]] · [[11_Books/Book_04_Cuentas_De_Sangre/00_Book_Map]] · [[02_Characters/Nereo_Volpi]] · [[02_Characters/Corrado_Ardizzone]] · [[02_Characters/Silas_Crowe]] · [[02_Characters/Marisol_Grayson]]
