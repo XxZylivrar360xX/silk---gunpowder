@@ -1,6 +1,6 @@
 # Iris Harlow
 
-> **DECISIÓN DEL AUTOR (2026-11-15): el voto inverso.** **Varek cobra en el VII, desde la cárcel, su cuenta con Chiara, y la pide por Iris**, la nieta que crió aunque no sea de su sangre (qué pide: abierto). Además, la renuncia de Michael a la silla, que ella provoca sin buscarlo, es el acto con el que los hijos terminan el voto de sus padres. Ver [[07_Ideas/El_Voto_Inverso]] · [[11_Books/00_Columna_Maestra_Ciclo_Elenna]].
+> **DECISIÓN DEL AUTOR (2026-11-15): el voto inverso.** **Varek cobra en el VII, desde la cárcel, su cuenta con Chiara, y la pide por Iris**, la nieta que crió aunque no sea de su sangre (qué pide: abierto). *(Superado: DECISIÓN DEL AUTOR (2026-11-15, matriz causal): **a Iris la crió Lucía**, su tía; Varek la quiere como suya desde la cárcel. **Lo que pide Varek: que Chiara ponga Bellandi Ridge a nombre de Iris.** Si Iris acepta y qué sabe del porqué: PENDIENTE. La propiedad legal de Ridge es contradicción previa sin resolver; ver [[05_Locations/Bellandi_Ridge_Vineyards]] y [[11_Books/00_Matriz_Causal_Saga]] §5.)* Además, la renuncia de Michael a la silla, que ella provoca sin buscarlo, es el acto con el que los hijos terminan el voto de sus padres. Ver [[07_Ideas/El_Voto_Inverso]] · [[11_Books/00_Columna_Maestra_Ciclo_Elenna]].
 
 > **CANON DEL AUTOR (2026-11-07):** Trix muere en *Voto de Ceniza* (Libro III) e **Iris queda huérfana de madre siendo pequeña**. Supersede «creció con Trix» y «para la época de Elenna [Trix] vive lejos de San Aurelio; Iris se quedó». Detalle: [[11_Books/Book_01_Mascaras_De_Cristal/00_Plan_Nuevo_Cauce]].
 
@@ -34,7 +34,7 @@
 - **Directa y paciente.** El viñedo le enseñó a esperar: no apura nada que todavía no está listo, tampoco a la gente.
 - **No le impresiona el dinero.** Desconfía de los trajes por instinto, antes de saber quién los lleva.
 - Callada con desconocidos y de risa fácil con los suyos.
-- **Ignora lo que pesa su sangre.** Creció con el apellido Harlow y con Trix, que eligió no preguntar a qué se dedicaba Dario. No sabe que su abuelo fue el jefe criminal de San Aurelio, y tampoco sabe que Dario **no es su abuelo de sangre**: Trix tampoco lo sabe.
+- **Ignora lo que pesa su sangre.** Creció con el apellido Harlow y con Trix, que eligió no preguntar a qué se dedicaba Dario. No sabe que su abuelo fue el jefe criminal de San Aurelio, y tampoco sabe que Dario **no es su abuelo de sangre**: Trix tampoco lo sabe. *(2026-11-15: revisar contra «la crió Lucía», la tía que derribó a Dario en público; PENDIENTE del autor. También por qué la cría Lucía y no su padre, Sean Harlow. Ver [[11_Books/00_Matriz_Causal_Saga]] §5.)*
 
 ## Manfred Gabe
 

@@ -17,6 +17,7 @@ Ideas, planes y diseños que el autor retiró o que quedaron reemplazados. **No 
 
 ## Entradas
 
+- [[97_Supersedido/Matriz_Causal_Propuesta_Inicial]]: la matriz causal como PROPUESTA, antes de las decisiones del autor (retirada 2026-11-15).
 - [[97_Supersedido/Corral_Bandera_Falsa_De_Crowe]]: Crowe como autor del corral con bandera falsa de Volpi (retirado 2026-11-12).
 - [[97_Supersedido/Exploracion_Verdad_Del_Corral]]: exploración del corral con la bandera falsa (retirada 2026-11-12).
 - [[97_Supersedido/Marisol_Abogada_Principal_Del_Bufete]]: Marisol como abogada principal del bufete de Kal (retirado 2026-10-02).

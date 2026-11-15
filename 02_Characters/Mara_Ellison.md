@@ -1,5 +1,7 @@
 # Mara Ellison
 
+> **DECISIÓN DEL AUTOR (2026-11-15, matriz causal):** **hereda el expediente de Meridian** cuando Callahan se retira (cronología PENDIENTE). Nunca compra la confesión de Tyler (Harper es el cerrojo de Kal). El motor del expediente tras el IV es Volpi «desaparecido»: Meridian cree que Kal lo mató. Ver [[11_Books/00_Matriz_Causal_Saga]] §1.
+
 *Seda y Pólvora — Ficha de Personaje*
 
 **Nacionalidad:** estadounidense.  

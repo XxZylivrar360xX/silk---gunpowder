@@ -71,7 +71,7 @@ San Aurelio es una ciudad ficticia de Estados Unidos. Puede incorporar cultura l
 
 **[[03_Factions/El_Casino|The Monarch Casino & Hotel]]** — hotel-casino en la punta oeste de La Isla, con su hipódromo. Fachada pública hacia el Paseo Pacífica; espalda de servicio hacia la costera sur de La Isla. Es enclave privado: el casino es de Varek, pero el piso nocturno que lo rodea (Paseo Pacífica, valet, bares) es de los Saints (CANON DEL AUTOR, 2026-10-06). [Antes: "borde del Distrito Marino, tocando La Isla sin pertenecerle", con salida a Terminal Road; superado por el mapa, 2026-10-06.] El penthouse de Chiara está en su Torre Norte.
 
-**La Isla** — la isla en corona de la bahía. Además del Monarch y de Punta Dorada: clubes, bares, marinas y hoteles de fin de semana. Territorio de piso de [[03_Factions/Breakwater_Saints_MC]] antes de que Kal abra el flujo de cocaína.
+**La Isla** — la isla en corona de la bahía. Además del Monarch y de Punta Dorada: clubes, bares, marinas y hoteles de fin de semana. Territorio de piso de [[03_Factions/Breakwater_Saints_MC]] antes de que Kal abra el flujo de cocaína. **DECISIÓN DEL AUTOR (2026-11-15, matriz causal):** en La Isla está la **clínica privada** donde Volpi pasa veinte años encerrado sin nombre, en un cuarto sin ventanas (nombre y ubicación exacta: PENDIENTE). «En la isla», en las líneas canon del IV y del VII, quiere decir aquí. Ver [[11_Books/00_Matriz_Causal_Saga]].
 
 **Calle Corona** — el centro viejo, al pie del Puente de Piedra. Ayuntamiento, juzgados, hospitales, comisarías y la redacción de [[03_Factions/El_Faro]]. Territorio de Chiara. **El Relevo** (DISEÑO 2026-10-24): bar de policías a dos cuadras de la Central; ahí se despide a Keene en el Cap. 4.
 

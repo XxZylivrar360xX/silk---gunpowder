@@ -1,5 +1,7 @@
 # Book 07 — Camino a Casa
 
+> **DECISIÓN DEL AUTOR (2026-11-15, matriz causal):** hospital: **Lucía entiende que Elenna vive** y le dice a Kal de frente qué va a hacer y cuánto tiempo le da; **el hangar es una cuenta regresiva**. Caso: **Elenna identifica a Volpi por el camper y lo reporta** (clínica privada en La Isla; custodia; entrevista en regla con Nicholas; en privado la verdad ofrecida y cortada); al reportarlo vivo deshace sin saberlo la sospecha federal contra su padre. **Varek se entera por Lucía** y pide **Bellandi Ridge a nombre de Iris** (a Iris la crió Lucía). **Michael entrega con la silla el archivo del camper** a La Mesa. **Marisol** dice «Hola, Papá.» cuando el expediente ya no nombra a Kal. Ver [[11_Books/00_Matriz_Causal_Saga]].
+
 > **CANON DEL AUTOR (2026-11-15): el voto inverso.** El título cambia de sentido: *Camino a Casa* es también el camino de vuelta de Kal y Chiara a la Villa, que sus hijos hacen posible al terminar el voto para que puedan estar juntos como familia (que lo hagan viviendo su propia vida, no salvándolos, es DISEÑO de la columna §1). En este libro el voto se rompe (el hospital) y se termina (el cierre). Decisiones del autor del mismo día, abajo, en la estructura: Lucía, el hangar, Varek, Volpi, la renuncia de Michael y el cierre con «Hola, Papá.». Lo demás de la columna es DISEÑO. Ver [[07_Ideas/El_Voto_Inverso]] · [[11_Books/00_Columna_Maestra_Ciclo_Elenna]].
 
 *Mapa narrativo operativo. Libro VII — cierre de la trilogía de Elenna y de la saga; regreso y resolución final del caso Vera.*
@@ -46,8 +48,8 @@
 - **Caída del antagonista histórico** ligado a Nicholas, por acumulación de evidencia, no por confesión (identidad y mecánica: lote 3).
 - **Nicholas** admite que se equivocó, que su obsesión le hizo ver sólo una parte y que la institución falló. Puede cruzar zonas grises, pero no volverse lo que persigue; su arco prueba que todavía puede detenerse.
 - **Reconciliación Elenna/Erin.**
-- **Varek cobra su cuenta con Chiara desde la cárcel, por Iris** (DECISIÓN DEL AUTOR, 2026-11-15). Qué pide: abierto.
-- **Volpi, en la isla, le ofrece a Elenna la verdad de sus padres y ella no la toma** (DECISIÓN DEL AUTOR, 2026-11-15).
+- **Varek cobra su cuenta con Chiara desde la cárcel, por Iris** (DECISIÓN DEL AUTOR, 2026-11-15). Qué pide: abierto. **Decidido (2026-11-15): Bellandi Ridge a nombre de Iris.**
+- **Volpi, en la isla, le ofrece a Elenna la verdad de sus padres y ella no la toma** (DECISIÓN DEL AUTOR, 2026-11-15). *(2026-11-15: en La Isla de San Aurelio, bajo custodia porque ella lo reportó; la ofrece en privado, sin nombrar delitos, y ella lo corta antes.)*
 - **Cierre: el regreso a la Villa** (DECISIÓN DEL AUTOR, 2026-11-15). Dentro del libro, después del clímax policial; no es una coda sencilla, sino los encuentros de toda la familia. **Marisol, que no ve a Kal desde hace años, le dice por fin: «Hola, Papá.»** (CANON DEL AUTOR). Es la imagen final de la saga. Qué otros encuentros y en qué orden: abierto.
 
 ## Límites del libro

@@ -680,8 +680,8 @@ Elenna viviendo con ellos como hija, no como heredera.
 - Reconciliación Elenna/Erin. Nicholas admite que se equivocó y que la institución falló; puede cruzar zonas grises, pero no volverse lo que persigue.
 - **Despedida en el hangar:** Kal y Chiara se marchan; Elenna se queda en San Aurelio por elección, no por abandono. Va **4–5 capítulos después de la apertura** (#49), antes del clímax policial; el título cierra la saga desde esa decisión. *(2026-11-15, CANON DEL AUTOR: se van porque **en el hospital Lucía descubre a Kal y, aunque son viejos amigos, debe entregarlo**; el título cierra la saga en el regreso a la Villa, abajo.)*
 - **Decisiones del autor (2026-11-15)** ([[11_Books/00_Columna_Maestra_Ciclo_Elenna]] §5):
-  - **Varek cobra su cuenta con Chiara desde la cárcel, por Iris** (qué pide: abierto).
-  - **En la isla, Volpi le ofrece a Elenna la verdad de sus padres y ella no la toma.**
+  - **Varek cobra su cuenta con Chiara desde la cárcel, por Iris** (qué pide: abierto). *(Decidido 2026-11-15: Bellandi Ridge a nombre de Iris; ver #68.)*
+  - **En la isla, Volpi le ofrece a Elenna la verdad de sus padres y ella no la toma.** *(2026-11-15: en La Isla de San Aurelio, en privado y sin nombrar delitos; ella lo corta antes. Ver #65.)*
   - **Michael renuncia a la silla** (CANON 2026-10-04); **la renuncia es el acto** del voto inverso.
   - **Cierre: el regreso a la Villa, dentro del VII, después del clímax policial**, con los encuentros de toda la familia. **Marisol, que no ve a Kal desde hace años, le dice por fin: «Hola, Papá.»** (CANON DEL AUTOR). Es la imagen final de la saga. Qué otros encuentros y en qué orden: abierto.
 
@@ -796,7 +796,7 @@ Este documento cambió canon anterior en los siguientes puntos:
 41. **La omisión institucional pasa de Keene (muerto antes del Cap. 3) a Renata Clark**, jefa recién llegada, que deja correr la versión simple. Lucia, subjefa entonces, no participa ni sospecha.
     > **PENDIENTE, diferido a los Libros V-VII (autor, 2026-10-17):** Clark entra en el Libro II y en el Libro I la jefatura está vacante, con Lucía en funciones. Cómo le llega la omisión a Clark se decide al trabajar V-VII. Ver [[98_Agent_Handoff/sessions/2026-10-17_claude_cap07_geografia_y_mando_interino]].
 42. **Nicholas perdió el rastro del niño** después de esa noche (le dijeron que se lo llevaron unos parientes). Ethan se le acerca de adulto como pareja de Elenna, y Nicholas lo aprecia sin saber quién es. Supersede la figura de "Uncle Nick".
-43. **La entrevista con Volpi en la isla va en el VII**, después del testimonio de Dylan.
+43. **La entrevista con Volpi en la isla va en el VII**, después del testimonio de Dylan. *(2026-11-15: «la isla» es La Isla de San Aurelio; Volpi está bajo custodia porque Elenna lo reporta y la entrevista se hace en regla, con Nicholas. Ver #65.)*
 
 ## Nuevas — 2026-10-03, lote 4: casos y escenas (CANON DEL AUTOR)
 
@@ -830,7 +830,21 @@ Fuente: [[07_Ideas/El_Voto_Inverso]] §1 y [[11_Books/00_Columna_Maestra_Ciclo_E
 60. **Chiara no va al funeral de Corrado (VI).**
 61. **VII:** en el hospital, **Lucía descubre a Kal y, aunque son viejos amigos, debe entregarlo**; por eso se van en el hangar. **Varek cobra su cuenta con Chiara desde la cárcel, por Iris.** **Volpi le ofrece a Elenna la verdad de sus padres y ella no la toma.** El cierre, dentro del libro y después del clímax policial, **reúne a toda la familia en la Villa** y **Marisol le dice a Kal «Hola, Papá.»** Ajusta #49: «el resto del libro ocurre sin ellos» vale hasta el clímax.
 62. **«La vida de ambos»** (quiénes son Kal y Chiara en esos años) es un libro hipotético, fuera de los siete; no cambia #26.
-63. **Abierto (no rellenar):** dónde nace Michael; qué pide Varek; si Lucía entiende que Elenna vive y si le avisa; cómo se disuelve su obligación para el cierre; qué otros encuentros hay en el cierre y en qué orden.
+63. **Abierto (no rellenar):** dónde nace Michael; qué pide Varek; si Lucía entiende que Elenna vive y si le avisa; cómo se disuelve su obligación para el cierre; qué otros encuentros hay en el cierre y en qué orden. *(2026-11-15: qué pide Varek, lo de Lucía y cómo se disuelve su obligación quedan decididos en #64–#72.)*
+
+## Nuevas — 2026-11-15, matriz causal (DECISIÓN DEL AUTOR)
+
+Fuente: [[11_Books/00_Matriz_Causal_Saga]] (§1–§6 y §9). Las figuras legales siguen «por investigar».
+
+64. **Meridian contra Kal:** el motor es **Volpi «desaparecido»**: Meridian pierde a su testigo cuando Kal y Chiara salen, y cree que Kal lo mató; Kal calla para no revelar dónde está. De fondo, el **RICO dormido** (la presencia de Kal en San Aurelio despertaría el patrón contra sus herederos). **Harper es el cerrojo:** por ella Kal no puede dejarse interrogar. **Mara Ellison hereda el expediente** (cronología PENDIENTE).
+65. **La prisión de Volpi** es una **clínica privada en La Isla** de San Aurelio: paciente sin nombre, incapacitado pero lúcido, cuarto sin ventanas; la paga una fundación de Palermo, fachada de La Mesa, con Corrado como garante; nada lleva a Chiara. **Chiara elige encerrarlo en lugar de entregarlo a Meridian.** Se conservan el animal atrapado en la oscuridad y la visita de Chiara en el IV; «en la isla» significa La Isla. Supersede la isla del Mediterráneo, el «un solo cuidador» y la jurisdicción extranjera. **En el VII, Elenna identifica a Volpi por el camper y lo reporta**: entra bajo custodia (apto para juicio: por investigar); la entrevista (#43) es en regla, con Nicholas; en privado él le ofrece la verdad de sus padres sin nombrar delitos y ella lo corta antes. Al reportarlo vivo deshace, sin saberlo, la sospecha de #64.
+66. **Lucía entiende en el hospital que Elenna vive** y le dice a Kal de frente qué va a hacer y cuánto tiempo le da: **el hangar es una cuenta regresiva.** Su obligación termina cuando el expediente ya no nombra a Kal (#65).
+67. **Varek se entera de que Elenna vive por Lucía**, como en el III la mentira le llegó por ella.
+68. **Lo que pide Varek: que Chiara ponga Bellandi Ridge a nombre de Iris.** La propiedad legal de Ridge (¿Elenna o la holding Bellandi?) es contradicción previa sin resolver.
+69. **A Iris la crió Lucía**, su tía; Varek es el abuelo que la quiere como suya desde la cárcel.
+70. **Michael le entrega a La Mesa, con la silla, el archivo del camper** (la prueba de la venta): un desarme; la familia deja de ser amenaza y no queda nada que vigilar.
+71. **La distancia de Marisol con Kal es integridad de fiscal.** El «Hola, Papá.» llega cuando el expediente ya no nombra a Kal.
+72. **Abierto (no rellenar):** cuándo supo Marisol que Elenna vivía; cómo le llega exactamente a Varek la verdad por Lucía; con qué nombre firma Corrado de garante y quién paga la clínica tras su muerte; qué dice Volpi bajo custodia sobre la visita de Chiara; orden en el VII entre las pistas de Elenna y la entrega del archivo; la propiedad legal de Ridge y si Iris acepta; quién ocupa la silla después; si la silla Ardizzone sabe, vota o paga la clínica; cómo documenta Elenna la fuente (el camper) sin exponer a la familia; por qué Meridian no gira hacia la privación ilegal de la libertad de Volpi; qué saben el personal y los registros de la clínica; por qué cría a Iris Lucía y no su padre; cronología de Meridian. Detalle en [[11_Books/00_Matriz_Causal_Saga]] §1.3 y §5.
 
 ---
 

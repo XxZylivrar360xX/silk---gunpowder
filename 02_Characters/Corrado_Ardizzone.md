@@ -118,7 +118,7 @@ Muere de muerte natural, en su casa, ya muy mayor (~91, derivado), para volver c
 
 ### Después de la trilogía — material de incubadora (Libro 4/5, no canon cerrado)
 
-En el material de desarrollo para libros posteriores a la trilogía ([[07_Ideas/Libro_04_Incubadora/05_Volpi_y_Corrado]]), confirmado por el autor: Corrado **negoció personalmente** el confinamiento no oficial de [[02_Characters/Nereo_Volpi]] en una instalación aislada de una pequeña isla mediterránea, heredada de una operación antigua que La Mesa ya usaba (contrabando/cuarentena), sostenida al mínimo por un solo cuidador de confianza. Lo sabe todo porque él mismo lo organizó. Este material confirma que, incluso después del cierre de la trilogía, Corrado conserva red, memoria operativa y capacidad de gestión propias de su pasado — no es un hombre que simplemente se retiró.
+En el material de desarrollo para libros posteriores a la trilogía ([[07_Ideas/Libro_04_Incubadora/05_Volpi_y_Corrado]]), confirmado por el autor: Corrado **negoció personalmente** el confinamiento no oficial de [[02_Characters/Nereo_Volpi]] en una instalación aislada de una pequeña isla mediterránea, heredada de una operación antigua que La Mesa ya usaba (contrabando/cuarentena), sostenida al mínimo por un solo cuidador de confianza. *(Superado: DECISIÓN DEL AUTOR (2026-11-15, matriz causal): clínica privada en La Isla de San Aurelio, pagada por una fundación de Palermo, fachada de La Mesa, con Corrado como garante; ver [[11_Books/00_Matriz_Causal_Saga]].)* Lo sabe todo porque él mismo lo organizó. Este material confirma que, incluso después del cierre de la trilogía, Corrado conserva red, memoria operativa y capacidad de gestión propias de su pasado — no es un hombre que simplemente se retiró.
 
 ## Método
 
@@ -140,7 +140,7 @@ No es un personaje de campo. Su técnica es institucional y lenta: erosión pol�
 - [[02_Characters/Ettore]] — amigo suyo que crió a Chiara en su ausencia. Si sabe la verdad de Corrado: pendiente.
 - [[03_Factions/Il_Consorzio]] / [[02_Characters/Leone_Valenti]] — la estructura que Corrado desmantela despacio desde las sombras; relación exacta previa a la redada, pendiente.
 - [[02_Characters/Kal_Mercer]] — primer destinatario del reveal. Espejo incómodo: ambos creen que amar justifica decidir por la persona amada — Corrado lo hizo durante años, Kal lo hace constantemente.
-- [[02_Characters/Nereo_Volpi]] — (material de incubadora, post-trilogía) negoció personalmente su confinamiento en una isla mediterránea.
+- [[02_Characters/Nereo_Volpi]] — (material de incubadora, post-trilogía) negoció personalmente su confinamiento en una isla mediterránea. *(Superado: DECISIÓN DEL AUTOR (2026-11-15, matriz causal): clínica privada en La Isla de San Aurelio, pagada por una fundación de Palermo, fachada de La Mesa, con Corrado como garante.)*
 
 ## Preguntas abiertas
 

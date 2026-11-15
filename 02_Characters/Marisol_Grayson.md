@@ -1,5 +1,7 @@
 # Marisol Grayson
 
+> **DECISIÓN DEL AUTOR (2026-11-15, matriz causal):** **su distancia de años con Kal es integridad de fiscal**: la fiscal de distrito no puede dejarse ver con un hombre al que un expediente federal todavía nombra. **El «Hola, Papá.» llega cuando el expediente ya no nombra a Kal.** Cuándo supo que Elenna vivía: PENDIENTE. Ver [[11_Books/00_Matriz_Causal_Saga]] §6.
+
 > **CANON DEL AUTOR (2026-11-15): «Hola, Papá.»** En el cierre del VII, cuando Kal y Chiara vuelven a la Villa y se reúne toda la familia, **Marisol, que no ve a Kal desde hace años, le dice por fin: «Hola, Papá.»** Paga que él siempre minimizó su papel con ella (lectura DISEÑO). Además, con el voto inverso, la familia de Kal y Chiara vive en movimiento después del IV, sin casa fija (Boston como ancla de la infancia es PROPUESTA de la columna §4). Ver [[07_Ideas/El_Voto_Inverso]] · [[11_Books/00_Columna_Maestra_Ciclo_Elenna]].
 
 > **DECISIÓN DEL AUTOR (2026-11-15, segunda tanda):** ayuda a Elenna a recuperar Mercer en **una audiencia antes de que entre como cadete**; unas semanas después, **el choque con la fiscalía, por un caso de Elenna**, complica la vida que comparten y Elenna se muda a la Villa. Ver [[11_Books/00_Diseno_Final_Boston_Y_La_Villa]].

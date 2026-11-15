@@ -1,5 +1,7 @@
 # Andrew Callahan
 
+> **DECISIÓN DEL AUTOR (2026-11-15, matriz causal):** tras el IV se queda con las manos vacías (Chiara encierra a Volpi en lugar de entregarlo) y deja el expediente dormido; **Mara Ellison lo hereda** cuando él se retira (cronología PENDIENTE). Ver [[11_Books/00_Matriz_Causal_Saga]] §1.
+
 *Seda y Pólvora — Ficha de Personaje*
 
 > **DISEÑO (2026-08-23):** personaje original para ocupar el rol federal que en el material previo tenía David Walker. No usar el nombre heredado.

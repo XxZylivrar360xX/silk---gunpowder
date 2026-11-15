@@ -1,5 +1,7 @@
 # Michael Ardizzone
 
+> **DECISIÓN DEL AUTOR (2026-11-15, matriz causal):** **junto con la silla, Michael le entrega a La Mesa el archivo del camper** (la historia del Consorzio y la prueba de la venta de Corrado). Es un desarme: la familia deja de ser una amenaza y no queda nada que vigilar. No son los diarios personales sobre Iris. Ojo: las pistas del camper hacia Volpi son de Elenna; el orden en el VII es PENDIENTE. Ver [[11_Books/00_Matriz_Causal_Saga]] §3.
+
 > **CANON DEL AUTOR (2026-11-15): el voto inverso.** Después del IV sus padres no pueden volver a pertenecer a San Aurelio y viven en movimiento; que la familia viaje unida mientras él y Elenna crecen, con Boston y Bonnie como ancla, es PROPUESTA de la columna §4. **Michael y Elenna terminan el voto del III para que puedan estar juntos como familia**, y **su renuncia a la silla es el acto** (DECISIÓN DEL AUTOR). Que lo terminen viviendo su propia vida (él elige a Iris), no salvando a sus padres, es DISEÑO de la columna §1. Por qué renunciar cierra el peligro y no lo abre: abierto. **Dónde nace Michael sigue abierto** (antes Palermo; no se rellena). **Varek cobra en el VII su cuenta con Chiara, por Iris.** Ver [[07_Ideas/El_Voto_Inverso]] · [[11_Books/00_Columna_Maestra_Ciclo_Elenna]].
 
 > **DECISIÓN DEL AUTOR (2026-11-15):** la familia termina **en Boston**, no en Palermo. **Dónde nace Michael queda por re-decidir** (recomendación: Boston); la silla de La Mesa y Livia lo siguen llevando a Palermo. Ver [[11_Books/00_Diseno_Final_Boston_Y_La_Villa]].

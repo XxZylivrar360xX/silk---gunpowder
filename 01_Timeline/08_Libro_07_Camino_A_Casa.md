@@ -10,14 +10,14 @@
 
 - Elenna despierta en el hospital, herida de gravedad pero no mortal, tras el asalto bancario con rehenes.
 - Kal y Chiara regresan físicamente para reunirse con Elenna.
-- Lucía descubre a Kal y, aunque son viejos amigos, debe entregarlo *(DECISIÓN DEL AUTOR, 2026-11-15; [[11_Books/00_Columna_Maestra_Ciclo_Elenna]])*.
+- Lucía descubre a Kal y, aunque son viejos amigos, debe entregarlo *(DECISIÓN DEL AUTOR, 2026-11-15; [[11_Books/00_Columna_Maestra_Ciclo_Elenna]])*. *(DECISIÓN DEL AUTOR (2026-11-15, matriz causal): entiende que Elenna vive y le da a Kal un plazo de frente; el hangar es una cuenta regresiva.)*
 - 4–5 capítulos después, Kal y Chiara se marchan del hangar; Elenna se queda en San Aurelio. *(2026-11-15: se van porque Lucía debe entregar a Kal; el libro sigue sin ellos hasta el clímax.)*
 - Dylan Marsh, ya detenido, pasa a ser testigo: Vera no fue la primera víctima de esa noche.
 - La pregunta cambia de quién mató a Vera a quién mató a los Marsh y por qué.
 - Se reconstruye el encubrimiento mediante testimonio, archivos, balística, Corrado, la isla y Nereo Volpi. **Corrado entra muerto, por su camper** de expedientes y diarios: de ahí Elenna saca las pistas hacia Volpi *(CANON DEL AUTOR 2026-10-04)*.
 - El antagonista histórico ligado a Nicholas ([[02_Characters/Blake_Stanton|Blake Stanton]]) cae por convergencia de evidencia.
-- Volpi, en la isla, le ofrece a Elenna la verdad de sus padres y ella no la toma *(DECISIÓN DEL AUTOR, 2026-11-15)*.
-- Varek cobra desde la cárcel su cuenta con Chiara, por Iris *(DECISIÓN DEL AUTOR, 2026-11-15)*.
+- Volpi, en la isla, le ofrece a Elenna la verdad de sus padres y ella no la toma *(DECISIÓN DEL AUTOR, 2026-11-15)*. *(DECISIÓN DEL AUTOR (2026-11-15, matriz causal): en La Isla de San Aurelio, en una clínica privada; Elenna lo identifica por el camper y lo reporta; la entrevista es en regla, con Nicholas.)*
+- Varek cobra desde la cárcel su cuenta con Chiara, por Iris *(DECISIÓN DEL AUTOR, 2026-11-15)*. *(DECISIÓN DEL AUTOR (2026-11-15, matriz causal): se entera por Lucía de que Elenna vive y pide Bellandi Ridge a nombre de Iris.)*
 - Nicholas admite que su obsesión y la institución fallaron.
 - Elenna y Erin se reconcilian.
 - Michael sigue en San Aurelio; empieza su relación con Iris; historia civil y paralela (CANON DEL AUTOR 2026-10-04).

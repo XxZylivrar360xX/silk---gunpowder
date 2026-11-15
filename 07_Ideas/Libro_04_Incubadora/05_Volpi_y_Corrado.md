@@ -1,5 +1,7 @@
 # Nereo Volpi, Corrado y el caso Vera — incubadora
 
+> **DECISIÓN DEL AUTOR (2026-11-15, matriz causal): la prisión cambia.** Ya no es una isla mediterránea ni una instalación de La Mesa en el extranjero: es una **clínica privada en La Isla**, el distrito de la bahía de San Aurelio (el del Monarch y Punta Dorada): paciente sin nombre, incapacitado pero lúcido, en un cuarto sin ventanas; la paga una fundación de Palermo, fachada de La Mesa, con Corrado como garante; nada lleva a Chiara. Supersede el confinamiento en isla mediterránea (2026-09-15) y el «un solo cuidador» (2026-09-16); Corrado sigue habiendo negociado el encierro, ahora como garante. **En el VII, Elenna lo identifica por el camper y lo reporta:** entra bajo custodia; la entrevista es en regla, con Nicholas; en privado le ofrece la verdad de sus padres sin nombrar delitos y ella lo corta antes. Ver [[11_Books/00_Matriz_Causal_Saga]].
+
 > **DECISIONES DEL AUTOR (2026-11-15): el voto inverso.** **En la isla, Volpi le ofrece a Elenna la verdad de sus padres y ella no la toma** (lectura DISEÑO: no contradice «no añadir explicación posterior», porque la ofrece y ella la rechaza; no se explica). **Chiara no va al funeral de Corrado (VI).** Ver [[07_Ideas/El_Voto_Inverso]] · [[11_Books/00_Columna_Maestra_Ciclo_Elenna]].
 
 > **ESTADO:** DISEÑO FUERTE. Compatible con el hecho de que el destino final de Nereo Volpi está todavía abierto en canon.
@@ -72,15 +74,15 @@ Corrado identifica al **arquitecto del encubrimiento**, no al asesino.
 
 ## Destino posterior a Cuentas de Sangre de Volpi
 
-> **RESUELTO (2026-09-15, CANON DEL AUTOR):** confirmada la propuesta de confinamiento no oficial en isla mediterránea aislada. La escena de la entrevista y el reconocimiento de Elenna (más abajo) quedan fijados.
+> **RESUELTO (2026-09-15, CANON DEL AUTOR):** confirmada la propuesta de confinamiento no oficial en isla mediterránea aislada. *(Superado: DECISIÓN DEL AUTOR (2026-11-15, matriz causal): clínica privada en La Isla de San Aurelio.)* La escena de la entrevista y el reconocimiento de Elenna (más abajo) quedan fijados.
 
-> **RESUELTO (2026-09-16, CANON DEL AUTOR):** **Corrado negoció personalmente el confinamiento** — lo sabe todo porque él mismo lo organizó, no como intermediario. La instalación es una que **heredó de una operación antigua** (contrabando/cuarentena que La Mesa ya usaba), mantenida al mínimo por un solo cuidador de confianza. La entrevista con Volpi ocurre en el ~~**Libro 5**~~ **Libro VII** (*Camino a Casa*; confirmado 2026-10-03, después del testimonio de Dylan), como parte de la reconstrucción del encubrimiento — ya fijado en [[07_Ideas/Libro_04_Incubadora/07_Arquitectura_y_Temas]].
+> **RESUELTO (2026-09-16, CANON DEL AUTOR):** **Corrado negoció personalmente el confinamiento** — lo sabe todo porque él mismo lo organizó, no como intermediario. La instalación es una que **heredó de una operación antigua** (contrabando/cuarentena que La Mesa ya usaba), mantenida al mínimo por un solo cuidador de confianza. *(Superado 2026-11-15: la clínica de La Isla, pagada por una fundación de Palermo, fachada de La Mesa, con Corrado como garante.)* La entrevista con Volpi ocurre en el ~~**Libro 5**~~ **Libro VII** (*Camino a Casa*; confirmado 2026-10-03, después del testimonio de Dylan), como parte de la reconstrucción del encubrimiento — ya fijado en [[07_Ideas/Libro_04_Incubadora/07_Arquitectura_y_Temas]].
 
-Como último acto relacionado con La Mesa, Volpi queda confinado en una instalación aislada y no oficial en una pequeña isla mediterránea.
+Como último acto relacionado con La Mesa, Volpi queda confinado en una instalación aislada y no oficial en una pequeña isla mediterránea. *(Superado 2026-11-15: en una clínica privada de La Isla de San Aurelio, sin nombre, en un cuarto sin ventanas.)*
 
 No diseñar una superprisión fantástica.
 
-Opciones de lugar:
+Opciones de lugar: *(Superado: DECISIÓN DEL AUTOR (2026-11-15, matriz causal): la clínica privada de La Isla de San Aurelio.)*
 
 - antiguo monasterio;
 - estación de cuarentena;
@@ -98,6 +100,8 @@ Línea fuerte:
 La decisión de no matarlo no debe presentarse como justicia limpia. Sigue siendo un acto moralmente comprometido.
 
 ## Entrevista en la isla
+
+> *(DECISIÓN DEL AUTOR (2026-11-15, matriz causal): en La Isla de San Aurelio, con Volpi ya bajo custodia porque Elenna lo reportó; en regla, con Nicholas.)*
 
 Volpi está viejo, delgado, quizá enfermo, pero lúcido. No debe actuar como Hannibal Lecter ni decir “los estaba esperando”.
 

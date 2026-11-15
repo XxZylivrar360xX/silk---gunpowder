@@ -1,5 +1,7 @@
 # Reglas de revelación del caso Vera (Libros VI–VII)
 
+> **DECISIÓN DEL AUTOR (2026-11-15, matriz causal):** **Elenna identifica a Volpi por las pistas del camper y lo reporta**, como haría cualquier policía. Volpi está en una clínica privada de La Isla (no en una isla remota); entra bajo custodia (apto para juicio: por investigar). La entrevista se hace en regla, con Nicholas. En privado le ofrece la verdad de sus padres sin nombrar delitos y ella lo corta antes: no encubre nada. **Lucía** entiende en el hospital que Elenna vive y le da a Kal un plazo de frente; el hangar es una cuenta regresiva. Ver [[11_Books/00_Matriz_Causal_Saga]].
+
 > **DECISIONES DEL AUTOR (2026-11-15): el voto inverso.** Responden preguntas de abajo: **Lucía** descubre a Kal en el hospital y debe entregarlo, y por eso se van en el hangar; **Volpi** le ofrece a Elenna la verdad de sus padres y ella no la toma (pregunta «qué verdad decide no perseguir»); el cierre del VII, después del clímax, reúne a toda la familia en la Villa. Kal y Chiara siguen sin resolver el caso ni dominar el clímax. Ver [[07_Ideas/El_Voto_Inverso]] · [[11_Books/00_Columna_Maestra_Ciclo_Elenna]].
 
 > **ESTADO (2026-10-03):** integrado desde la nota PROYECTO RECLUTA `2026-10-03_camino_a_casa_reglas_revelacion_estructura_misterio` (archivada en `98_Agent_Handoff/archive/chatgpt/`). Las secciones marcadas "CANON DEL AUTOR" lo son; el resto es DISEÑO fuerte. Arquitectura en [[00_Biblia/00_Trilogy_Structure]] (Ciclo de Elenna) y en [[11_Books/Book_06_Hijos_Del_Silencio/00_Book_Map]] / [[11_Books/Book_07_Camino_A_Casa/00_Book_Map]].
@@ -188,7 +190,7 @@ El reveal debe sentirse inevitable retrospectivamente.
 
 Volpi no debe resolver el misterio por ellos.
 
-Su escena en la isla ocurre en el VII, después del testimonio de Dylan (CANON 2026-10-03), pero debe conservar estas reglas:
+Su escena en la isla ocurre en el VII, después del testimonio de Dylan (CANON 2026-10-03), *(2026-11-15: en La Isla de San Aurelio, bajo custodia y en regla)* pero debe conservar estas reglas:
 
 - habla en fragmentos;
 - revela macroestructura;
@@ -377,7 +379,7 @@ La mejor resolución es que:
 7. ¿Qué archivo interno conecta con la confrontación del padre Marsh?
 8. ¿Qué elemento apunta primero a Blake?
 9. ¿Qué parte descubre Elenna y cuál Nicholas?
-10. ¿Qué parte aporta Lucia? *(2026-11-15, DECISIÓN DEL AUTOR: en el hospital descubre a Kal y debe entregarlo.)*
+10. ¿Qué parte aporta Lucia? *(2026-11-15, DECISIÓN DEL AUTOR: en el hospital descubre a Kal y debe entregarlo.)* *(Y entiende que Elenna vive; le da a Kal un plazo de frente; por ella se entera Varek.)*
 11. ¿Cuándo entra Corrado?
 12. ¿Cuándo ocurre la visita a Volpi respecto al testimonio de Dylan?
 13. ¿Qué prueba final permite formalizar un caso contra Blake?

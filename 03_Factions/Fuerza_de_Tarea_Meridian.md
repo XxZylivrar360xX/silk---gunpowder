@@ -1,5 +1,7 @@
 # Fuerza de Tarea Meridian
 
+> **DECISIÓN DEL AUTOR (2026-11-15, matriz causal): el expediente después del IV.** Meridian no logra cargos contra Kal: la estructura está muerta. Queda abierto (motor) **Volpi «desaparecido»**: el testigo que Callahan quería contra Varek se esfuma cuando Kal y Chiara salen, y Meridian cree que Kal lo mató (está vivo, encerrado por Chiara en una clínica de La Isla). De fondo, el **RICO dormido**: la presencia de Kal en San Aurelio despertaría el patrón contra sus herederos. **Harper es el cerrojo** (Mara nunca compra la confesión de Tyler). **Mara Ellison hereda el expediente** (cronología PENDIENTE). Se cierra en el VII cuando Elenna reporta vivo a Volpi y el caso Vera le pone autor al patrón. Figuras legales: por investigar. Ver [[11_Books/00_Matriz_Causal_Saga]] §1.
+
 *Ficha de Facción — Federales*
 
 > **CANON DEL AUTOR (2026-08-23):** los federales tienen pasado directo con Chiara: una redada contra su padre destruyó la estabilidad del hogar donde creció. Corrado murió, y los federales le negaron a Chiara el derecho de verlo o enterrarlo por burocracia de investigación. La culpable real era [[03_Factions/Il_Consorzio]], pero la herida tiene rostro federal.

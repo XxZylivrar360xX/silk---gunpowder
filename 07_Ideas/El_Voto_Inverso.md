@@ -54,12 +54,12 @@
 
 1. **Qué hace inseguro San Aurelio, con nombre.** Si es «el pasado» en general, se diluye. Candidatos:
    - Ventresca y Fioravanti, expulsadas por Chiara, con veinte años de rencor;
-   - Varek preso, que sigue sin saber que Elenna vive;
+   - Varek preso, que sigue sin saber que Elenna vive; *(DECISIÓN DEL AUTOR (2026-11-15, matriz causal): se entera en el VII, por Lucía, y cobra por Iris.)*
    - Volpi en la isla, a quien La Mesa quería vivo.
 2. **Dónde crecen Elenna y Michael:** en movimiento con los padres, o con Boston y Bonnie como ancla mientras los padres rotan.
 3. **Dónde nace Michael.** Antes se dijo San Aurelio; con esta idea, quizá en otra ciudad.
 4. **Cuándo vuelven a la Villa:** en una coda del VII o en «La vida de ambos». ¿Es ahí donde se quitan las últimas sábanas?
-5. ~~Cómo cierra Michael su frente si renuncia a la silla.~~ **Decidido (2026-11-15): la renuncia es el acto.** *Abierto:* por qué renunciar cierra el peligro y no lo abre (qué cambia en La Mesa cuando el apellido Ardizzone deja la silla).
+5. ~~Cómo cierra Michael su frente si renuncia a la silla.~~ **Decidido (2026-11-15): la renuncia es el acto.** *Abierto:* por qué renunciar cierra el peligro y no lo abre (qué cambia en La Mesa cuando el apellido Ardizzone deja la silla). **Decidido (DECISIÓN DEL AUTOR (2026-11-15, matriz causal)):** sin silla, Chiara deja de ser palanca, y Michael entrega con la silla el archivo del camper (la prueba de la venta): un desarme. Ver [[11_Books/00_Matriz_Causal_Saga]] §3.
 6. **El lote por Las Gemelas:** a qué distancia de las cascadas. DISEÑO: cerca, pero no en ellas, para que las cascadas sigan siendo de nadie.
 
 **Desarrollo:** [[11_Books/00_Columna_Maestra_Ciclo_Elenna]] (DISEÑO, 2026-11-15).

@@ -46,9 +46,9 @@
 
 ## Volpi
 
-> **RESUELTO (2026-09-15):** destino definitivo confirmado — confinamiento no oficial en isla mediterránea aislada. Ver [[07_Ideas/Libro_04_Incubadora/05_Volpi_y_Corrado]].
+> **RESUELTO (2026-09-15):** destino definitivo confirmado — confinamiento no oficial en isla mediterránea aislada. *(Superado: DECISIÓN DEL AUTOR (2026-11-15, matriz causal): clínica privada en La Isla de San Aurelio, pagada por una fundación de Palermo, fachada de La Mesa, con Corrado como garante.)* Ver [[07_Ideas/Libro_04_Incubadora/05_Volpi_y_Corrado]].
 
-> **RESUELTO (2026-09-16):** Corrado negoció personalmente el confinamiento y lo sabe todo. La instalación es heredada de una operación antigua de La Mesa, sostenida al mínimo por un solo cuidador de confianza. La entrevista ocurre en el **Libro 5** (*Camino a Casa*). Ver [[07_Ideas/Libro_04_Incubadora/05_Volpi_y_Corrado]].
+> **RESUELTO (2026-09-16):** Corrado negoció personalmente el confinamiento y lo sabe todo. La instalación es heredada de una operación antigua de La Mesa, sostenida al mínimo por un solo cuidador de confianza. *(Superado: DECISIÓN DEL AUTOR (2026-11-15, matriz causal): la clínica de La Isla.)* La entrevista ocurre en el **Libro 5** (*Camino a Casa*). Ver [[07_Ideas/Libro_04_Incubadora/05_Volpi_y_Corrado]].
 
 ## Elenna
 

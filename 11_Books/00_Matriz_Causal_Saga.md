@@ -1,6 +1,14 @@
 # Matriz causal de la saga (Libros I–VII)
 
-> **Estado:** DISEÑO y PROPUESTA del agente (Claude Code, 2026-11-15), a pedido del autor, que aprobó hacer la matriz que recomienda la revisión de Codex ([[98_Agent_Handoff/ChatGPT/2026-11-15_revision_columna_unica_saga_codex]], §5–§9). **No toca prosa, fichas ni mapas.** Lo marcado **CANON DEL AUTOR** o **DECISIÓN DEL AUTOR** se cita de sus fuentes; **DISEÑO** es inferencia ya escrita en otro documento; **PROPUESTA** es nueva y espera al autor; **PENDIENTE** no se rellena. Las figuras legales van como **por investigar**: ninguna se afirma de memoria.
+> **DECISIONES DEL AUTOR (2026-11-15, misma tarde):** el autor aceptó completas las recomendaciones del §9, con cuatro ajustes suyos:
+> - lo que pide Varek es **Bellandi Ridge a nombre de Iris**;
+> - **a Iris la crió Lucía**;
+> - Volpi está encerrado en **una clínica privada de La Isla**, no en una isla remota;
+> - **en el VII Elenna reporta a Volpi.**
+>
+> Están integradas abajo. La versión anterior, entera, queda en [[97_Supersedido/Matriz_Causal_Propuesta_Inicial]]. Propagadas con notas fechadas a diseños, Biblia, mapas, fichas, lugares, Meridian e incubadora (ver [[log]]).
+>
+> **Estado:** DISEÑO del agente (Claude Code, 2026-11-15), a pedido del autor, que aprobó hacer la matriz que recomienda la revisión de Codex ([[98_Agent_Handoff/ChatGPT/2026-11-15_revision_columna_unica_saga_codex]], §5–§9). **No toca prosa.** Lo marcado **CANON DEL AUTOR** o **DECISIÓN DEL AUTOR** manda; **DISEÑO** es inferencia; **PROPUESTA** espera al autor; **PENDIENTE** no se rellena. Las figuras legales van como **por investigar**: ninguna se afirma de memoria.
 >
 > **Fuentes:** [[07_Ideas/El_Voto_Inverso]] (§1, CANON) · [[11_Books/00_Columna_Maestra_Ciclo_Elenna]] (§5, decisiones) · [[11_Books/00_Libro_Mayor_Deudas_Saga]] · [[11_Books/Book_04_Cuentas_De_Sangre/00_Diseno_Complot_De_La_Mesa]] · [[11_Books/Book_04_Cuentas_De_Sangre/00_Book_Map]] · [[11_Books/Book_07_Camino_A_Casa/00_Book_Map]] · [[03_Factions/Fuerza_de_Tarea_Meridian]] · [[11_Books/Book_03_Voto_De_Ceniza/00_Diseno_Embarazo_Y_Falsa_Muerte]] · [[07_Ideas/Libro_04_Incubadora/02_Caso_Vera_y_Antagonista]] · [[07_Ideas/Libro_04_Incubadora/10_Reglas_Revelacion_Caso_Vera]] · fichas de Callahan, Harper, Tyler, Lucía, Blake, Volpi, Varek, Iris, Michael, Marisol y Elenna.
 
@@ -21,7 +29,7 @@ Cada puente lleva los campos del §6 de Codex, compactos:
 
 **La regla que los ordena** (DISEÑO de la columna maestra, §1): los hijos no terminan el voto por sacrificio, sino viviendo su vida. Cada acción decisiva de Elenna o de Michael tiene que valer aunque se lea sin el beneficio para sus padres; el regreso es **efecto**, no propósito.
 
-**Los dos requisitos que esta matriz agrega** (PROPUESTA, del §6 de Codex):
+**Los dos requisitos que esta matriz agrega** (DISEÑO, del §6 de Codex):
 1. **La victoria del IV es real.** Lo que queda abierto es residuo personal y concreto, no la guerra entera.
 2. **Las amenazas están atadas a San Aurelio.** Si fueran órdenes nacionales, los padres no podrían vivir en Boston ni en Nueva York. Cada amenaza tiene que explicar por qué *ahí* sí y en otras ciudades no.
 
@@ -42,68 +50,85 @@ Hay que decir qué queda abierto, por qué Lucía tiene que entregarlo y qué he
 
 - **CANON (2026-09-28 y 2026-11-08):** Harper dispara contra Halbrook. Kal y Nadir la cubren. El FBI concluye que «había un tercero». Kal y Nadir la sacan del país. Tyler pone sus huellas en el rifle y en la chaqueta de ella y va a prisión. El disparo «atrae una atención que ya no se va».
 - **DISEÑO del mapa del IV:** la salida «no depende de que Meridian persiga una mentira». La investigación encuentra una red de contingencias real (la de Volpi, ligada a La Mesa), pero muerta, que «absorbe la investigación institucional sin volver inocente a nadie».
-- **PROPUESTA del complot (§8, pregunta 11 sin contestar):** Meridian quería a Volpi como testigo contra Varek (Keene, Fabrizio, los frenos). Chiara elige la isla y Callahan se queda con las manos vacías.
+- **DECISIÓN DEL AUTOR (2026-11-15; responde la pregunta 11 del complot):** Meridian quería a Volpi como testigo contra Varek (Keene, Fabrizio, los frenos). **Chiara elige encerrarlo en lugar de entregarlo**, y Callahan se queda con las manos vacías.
+- **DECISIÓN DEL AUTOR (2026-11-15), la prisión de Volpi:**
+  - **Dónde:** una **clínica privada en La Isla**, el distrito de la bahía de San Aurelio (el del Monarch y Punta Dorada).
+  - **Cómo vive:** paciente sin nombre, incapacitado pero lúcido, en un cuarto sin ventanas.
+  - **Quién paga:** una fundación de Palermo, fachada de La Mesa, con **Corrado como garante**. **Nada lleva a Chiara.**
+  - **Lo que se conserva:** el «animal atrapado en la oscuridad» y la visita de Chiara en el IV. Las líneas canon «en la isla» no se reescriben: significan La Isla de San Aurelio.
+  - *Superado: la isla del Mediterráneo, la instalación de La Mesa con un solo cuidador y embarcadero, y la pregunta de jurisdicción en el extranjero.*
 - **CANON del I:** Kal sigue la bala hasta el apellido Volpi (Cedar Flats, Rudy de Kingsley, el motel de la Milla).
-- **CANON del VII:** la isla. Volpi vivo, entrevistado por la policía de San Aurelio; las pistas salen del camper.
 
-### 1.3 Tres mecanismos (PROPUESTA)
+### 1.3 Tres mecanismos
 
-**A. El muerto que le cargan (Volpi desaparecido).**
-- **Abierto al cerrar el IV:** Meridian pierde a su testigo central de la red de contingencias en las mismas semanas en que Kal y Chiara salen de la ciudad. Priya cruza el expediente con el rastro viejo de Kal: Kal lleva buscando a Volpi desde el Libro I. Hipótesis federal: Kal lo encontró y lo mató. Kal no puede desmentirlo sin revelar la isla, es decir, la decisión de Chiara, el trato de Corrado y una cárcel de La Mesa. **Calla.** Es otra muerte que no cometió y que carga por cubrir a alguien (rima con Harper).
-- **Por qué Lucía debe entregarlo en el VII:** Kal es persona de interés en la desaparición de un testigo federal. Qué obligación concreta le impone eso a una comisionada local: **por investigar** (figura de testigo material, orden sellada, deber de notificar).
-- **Qué lo cierra en el VII:** Elenna, por su caso y por Nicholas, llega a la isla y deja en el expediente un hecho: **Volpi está vivo.** El homicidio que Meridian le atribuía a Kal no existió. Ella no sabe que le está quitando a su padre esa sombra (ironía dramática).
+**A. El muerto que le cargan (Volpi «desaparecido»). DECISIÓN DEL AUTOR (2026-11-15): es el motor.**
+- **Abierto al cerrar el IV:** Meridian pierde a su testigo central de la red de contingencias en las mismas semanas en que Kal y Chiara salen de la ciudad. Priya cruza el expediente con el rastro viejo de Kal: Kal lleva buscando a Volpi desde el Libro I. Hipótesis federal: Kal lo encontró y lo mató.
+- **Por qué calla Kal:** no puede desmentirlo sin revelar dónde está Volpi, es decir, la decisión de Chiara, el trato de Corrado y una prisión pagada por La Mesa. Es otra muerte que no cometió y que carga por cubrir a alguien (rima con Harper).
+- **La ironía (DISEÑO):** durante veinte años Meridian busca un cadáver, y el hombre está vivo en una clínica a pocos kilómetros, en la misma bahía.
+- **Por qué Lucía debe entregarlo en el VII:** Kal es persona de interés en la desaparición de un testigo federal. Qué obligación concreta le impone eso a una comisionada local: **por investigar** (testigo material, orden sellada, deber de notificar).
+- **Qué lo cierra en el VII (DECISIÓN DEL AUTOR):**
+  - Elenna identifica a Volpi por las pistas del camper y **lo reporta, como haría cualquier policía**.
+  - Volpi entra formalmente bajo custodia. Si es apto para juicio: **por investigar**.
+  - La entrevista (Biblia #43) se hace en regla, con Nicholas.
+  - En privado, Volpi le ofrece la verdad de sus padres **sin nombrar ningún delito**, y ella lo corta antes de oírla. No encubre nada.
+  - Al reportarlo vivo, **deshace sin saberlo la sospecha** que Meridian le cargaba a su padre.
 - **A favor:**
-  - usa tres piezas canon: la isla en el VII, el camper que lleva a Volpi y la cacería de Kal en el I;
+  - usa tres piezas canon: Volpi vivo en el VII, el camper que lleva a él y la cacería de Kal en el I;
   - el acto es de Elenna, por razones propias;
   - rima con la saga entera: Corrado, Elenna y el padre Marsh tienen muertes falsas o mal leídas.
-- **Riesgos:**
-  - depende de que el autor apruebe que Chiara elige la isla (complot, pregunta 11);
-  - encontrar a un hombre encerrado fuera de la ley abre la pregunta de quién lo encerró. La respuesta lleva a Corrado (muerto) y a La Mesa (fuera del país). Jurisdicción: **por investigar**;
-  - Volpi podría decir que Chiara lo visitó. Lo contiene la decisión del autor: Volpi le ofrece a Elenna la verdad de sus padres y ella no la toma. Lo que sabe de ellos nunca entra al expediente.
+- **Riesgos (DISEÑO, por cuidar):**
+  - Un hombre encerrado sin nombre en una clínica privada es un delito en San Aurelio. Qué figura (privación de la libertad u otra) y contra quién: **por investigar**. La cadena llega a la fundación (La Mesa, fuera del país) y al garante (Corrado, muerto en el VI); no a Chiara (DECISIÓN DEL AUTOR).
+  - **PENDIENTE:** con qué nombre firmó Corrado de garante (¿Manfred Gabe, la fundación?) y quién sostiene el pago después de su muerte en el VI.
+  - **PENDIENTE:** qué dice Volpi ya bajo custodia formal, ante Meridian y no sólo ante Elenna, sobre la visita de Chiara en el IV. DISEÑO: su oficio fue siempre que las cosas dejaran de importar; no ofrece nada que nadie le pida bien. Conviene que el autor lo fije antes de escribir el VII.
+  - **Riesgos que trae la clínica** (encontrados en la verificación, 2026-11-15; ninguno se resuelve aquí):
+    1. **PENDIENTE: la fuente de Elenna.** Un reporte formal pide fuente, y la suya es el camper de su abuelo. El rastro va a Manfred Gabe, garante de la clínica, y de ahí a los Ardizzone. Tampoco se sabe si los diarios registran el trato o la visita de Chiara. «Nada lleva a Chiara» cubre los papeles de la clínica, no el camper. Cómo documenta Elenna la pista sin exponer a la familia está por resolver.
+    2. **PENDIENTE: quién paga, y la silla.** La clínica la paga una fachada de La Mesa durante los veinte años en que Ettore y después Michael ocupan la silla Ardizzone. ¿La silla sabe, vota o paga? Y quién sostiene el pago tras la muerte de Corrado en el VI.
+    3. **PENDIENTE: por qué Meridian no gira.** Volpi vivo deshace el homicidio, pero la sospecha podría mudarse a la privación ilegal de la libertad de un testigo federal, y Kal, que lo buscaba desde el I, sigue siendo el sospechoso natural. DISEÑO posible: el rastro documental (fundación, garante) apunta a La Mesa y a un muerto, no a Kal. Falta que el autor lo confirme. La decisión 7 («el expediente ya no nombra a Kal») depende de esto.
+    4. **Testigos:** el personal de la clínica sabe veinte años de un paciente sin nombre; también puede haber registros y cámaras de la visita de Chiara. Sustituyen al «solo cuidador». Qué saben y qué vieron: PENDIENTE.
+    5. **La geografía (DISEÑO, a favor y en contra):** La Isla es el distrito del Monarch, de cuyo negocio Michael es director general en el V–VII. Volpi está a unas calles de los activos de la familia. Es ironía útil y riesgo de rastro.
+    6. **La pregunta 9 del complot** (quién incapacita a Volpi) sigue abierta. Su opción (c), Kal, **choca con el cierre del mecanismo A**: un Volpi lúcido bajo custodia podría acusarlo de eso.
 
-**B. El tercero (Harper).**
+**B. El tercero (Harper). DECISIÓN DEL AUTOR (2026-11-15): es el cerrojo.**
 - **Abierto al cerrar el IV:** la confesión de Tyler cierra el caso en público, pero Mara Ellison (Violent Crime) nunca la compra. Alguien sacó del país a la verdadera tiradora, y Kal y Nadir tenían coartada para el disparo, no para lo de después. La figura de ayudar a huir a quien mató a un funcionario electo y su prescripción: **por investigar**.
-- **Por qué Lucía:** igual que en A.
-- **Qué lo cierra en el VII:** **nada del caso de Elenna lo toca.** Sólo lo cerraría Harper volviendo o Tyler hablando, y eso es historia de los padres, no de los hijos.
-- **Veredicto:** no sirve como amenaza activa. Sí sirve como **cerrojo**: es la razón por la que Kal no puede entrar a una oficina federal y aclararlo todo. Cualquier interrogatorio bajo juramento sobre el IV abre la salida de Harper.
+- **Su función:** es la razón por la que Kal no puede entrar a una oficina federal y aclararlo todo. Cualquier interrogatorio bajo juramento sobre el IV abre la salida de Harper.
+- **No se cierra en el VII:** nada del caso de Elenna lo toca. Sólo lo cerraría Harper volviendo o Tyler hablando, y eso es historia de los padres, no de los hijos. Queda como convicción privada de Mara, que sin Harper ni Tyler no sostiene una orden.
 
-**C. La estructura dormida.**
-- **Abierto al cerrar el IV:** no hay cargos. El caso RICO muere porque la empresa criminal ya no existe: El Patio se disolvió (DECISIÓN DEL AUTOR) y los herederos tienen negocios limpios (Garrett, Danny, Ren). Pero el expediente no se cierra: se duerme, con el método de Callahan («ganar seis meses después en una orden sellada»).
+**C. La estructura dormida. DECISIÓN DEL AUTOR (2026-11-15): queda de fondo.**
+- **Abierto al cerrar el IV:** no hay cargos. El caso RICO muere porque la empresa criminal ya no existe: El Patio se disolvió (DECISIÓN DEL AUTOR) y los herederos tienen negocios limpios (Garrett, Danny, Ren). El expediente no se cierra: se duerme, con el método de Callahan («ganar seis meses después en una orden sellada»).
 - **Por qué San Aurelio y no Boston:** si Kal vuelve a la ciudad y se le ve con Garrett, Danny o Ren, el patrón despierta. Esa presencia es justo lo que un fiscal federal necesitaría para alegar que la empresa sigue viva. Qué hace falta legalmente para reabrir un RICO: **por investigar**. Si Kal se queda fuera, **protege a sus herederos**, no sólo a sí mismo. Paga su arco del IV: «Si todo necesita que yo esté, construí una prisión».
-- **Qué lo cierra en el VII:** el caso Vera le pone autor formal a la violencia que Meridian leía como patrón del mundo de Kal: Keene, Fabrizio, la limpieza de la noche Marsh y el tercer asesinato son de Volpi, por Varek y por La Mesa. Con veinte años de herederos limpios y el patrón atribuido, la presencia de Kal ya no despierta nada.
-- **Riesgo:** por sí sola es abstracta. Lucía no tendría a quién «entregar», sólo una presencia que reportar.
+- **Qué lo apaga en el VII:** el caso Vera le pone autor formal a la violencia que Meridian leía como patrón del mundo de Kal: Keene, Fabrizio, la limpieza de la noche Marsh y el tercer asesinato son de Volpi, por Varek y por La Mesa. Con veinte años de herederos limpios y el patrón atribuido, la presencia de Kal ya no despierta nada.
+- **Riesgo:** por sí sola es abstracta. Lucía no tendría a quién «entregar», sólo una presencia que reportar. Por eso va de fondo.
 
-### 1.4 Recomendación
+### 1.4 La cadena (DECISIÓN DEL AUTOR: A motor, C fondo, B cerrojo)
 
-**A + C, con B como cerrojo.**
+**Por qué los tres juntos** (razón de la recomendación que el autor aceptó):
 - **C** explica la geografía: por qué San Aurelio sí y Boston no, y por qué la ausencia de Kal es un acto de cuidado hacia sus herederos.
 - **A** da el objeto concreto: una muerte que Kal no cometió y no puede desmentir. Es lo que vuelve obligatoria la conducta de Lucía.
 - **B** explica por qué Kal huye en lugar de defenderse.
 
-**La cadena completa:**
-1. **Cierre del IV:** sin cargos contra Kal; la estructura, dormida; Volpi, «desaparecido».
-2. **Los años:** el expediente se hereda. PROPUESTA: Mara Ellison lo dirige cuando Callahan se retira; edades y cronología por verificar (brecha 5 de Codex).
-3. **Hospital del VII:** Kal reaparece junto a la cama de su agente. Lucía lo reconoce y hace la llamada. Se van en el hangar antes de que exista la orden.
-4. **La isla:** Elenna registra a Volpi vivo, y el caso Vera atribuye el patrón.
-5. **Efecto:** el expediente pierde **dos objetos concretos**, el homicidio y el patrón, no «su objeto» en general. Queda la convicción privada de Mara sobre el tercero, que sin Harper ni Tyler no sostiene una orden. Kal puede pisar San Aurelio sin despertar nada.
-
-**Estado del puente D:**
-- CANON: Harper, Tyler, la isla en el VII, Lucía en el hospital.
-- PROPUESTA: los mecanismos A y C, Mara como heredera del expediente.
-- Depende de la pregunta 11 del complot.
-- Por investigar: todas las figuras legales.
+1. **Cierre del IV:** sin cargos contra Kal; la estructura, dormida; Volpi, «desaparecido» (en realidad, encerrado en La Isla).
+2. **Los años:** el expediente se hereda. **Mara Ellison lo dirige** cuando Callahan se retira (DECISIÓN DEL AUTOR); la cronología (edades de Callahan y Mara, años de servicio) es **PENDIENTE**.
+3. **Hospital del VII:**
+   - Kal reaparece junto a la cama de su agente; Lucía lo reconoce y entiende que Elenna vive.
+   - **Le dice de frente qué va a hacer y cuánto tiempo le da** (DECISIÓN DEL AUTOR), y **el hangar se vuelve una cuenta regresiva**.
+   - DISEÑO: el plazo cubre los 4–5 capítulos entre la apertura y el hangar (CANON). Rima con el *1:52* que ella escribe delante de él en el II.
+4. **El caso de Elenna:** identifica y reporta a Volpi; el caso Vera atribuye el patrón.
+5. **Efecto:**
+   - El expediente pierde **dos objetos concretos**: el homicidio que no existió y el patrón con otro autor.
+   - Queda la convicción de Mara sobre el tercero, sin orden posible.
+   - Kal puede pisar San Aurelio sin despertar nada.
 
 ### 1.5 El puente en los campos de Codex
 
 | Campo | Contenido |
 |---|---|
 | **Origen** | Fin del III: Harper mata a Halbrook (CANON). |
-| **Resultado del IV** | Gana la salida; la estructura está muerta; sin cargos contra Kal. Quedan Volpi «desaparecido» (A), el tercero (B, cerrojo) y el expediente dormido (C). |
-| **Los ~20 años** | El expediente se hereda (Mara, PROPUESTA). Kal no pisa San Aurelio. Los herederos viven limpios: cada año limpio debilita C. |
-| **Entrada en V–VII** | V–VI: sólo como ausencia (llamadas y cartas). VII: el hospital. |
-| **Acción decisiva** | **Elenna** va a la isla por la noche Marsh, por Nicholas y por Vera. Le importa porque es su caso; no sabe qué le quita a su padre. |
-| **Efecto final** | Volpi vivo en el expediente; el patrón, con autor formal. La reaparición de Kal deja de ser un predicado federal. |
-| **Estado** | CANON (Harper, Tyler, isla, hospital) · PROPUESTA (A, C, Mara) · por investigar (lo legal). |
+| **Resultado del IV** | Gana la salida; la estructura está muerta; sin cargos contra Kal. Quedan Volpi «desaparecido» (A), el tercero (B) y el expediente dormido (C). |
+| **Los ~20 años** | Mara hereda el expediente. Kal no pisa San Aurelio. Los herederos viven limpios: cada año limpio debilita C. Volpi, sin nombre, en La Isla. |
+| **Entrada en V–VII** | V–VI: sólo como ausencia (llamadas y cartas). VII: el hospital y la cuenta regresiva. |
+| **Acción decisiva** | **Elenna** identifica y reporta a Volpi por la noche Marsh, por Nicholas y por Vera. Es su caso y su deber; no sabe qué le quita a su padre. |
+| **Efecto final** | Volpi vivo y bajo custodia; el patrón, con autor formal. La reaparición de Kal deja de ser un predicado federal. |
+| **Estado** | CANON: Harper, Tyler, hospital · DECISIÓN DEL AUTOR (2026-11-15): A/B/C, la clínica, el reporte, Mara · PENDIENTE: cronología, el garante, qué dice Volpi bajo custodia · por investigar: lo legal. |
 
 ---
 
@@ -111,13 +136,13 @@ Hay que decir qué queda abierto, por qué Lucía tiene que entregarlo y qué he
 
 | Campo | Contenido |
 |---|---|
-| **Origen** | Libro I: el interrogatorio del Peugeot (*Auster*), la línea directa, el robo del Monarch (CANON). Libro III: la Presa del Sur; el coche bomba que mata a Trix (CANON). **Lucía ayuda de buena fe con la falsa muerte** (DECISIÓN DEL AUTOR, 2026-11-08). DISEÑO del documento de la falsa muerte: ella se encarga de que **no haya autopsia ni expediente abierto**, y que ella lo crea es lo que lo vuelve verdad para Varek. |
-| **Resultado del IV** | Jefa, después comisionada (CANON). La deuda E9 (¿sabrá alguna vez que protegió una mentira?) pasa al VII. |
-| **Los ~20 años** | Comisionada; jefa de Nicholas y, a través de él, de Elenna. Evalúa a Elenna como policía (DISEÑO del caso Vera). No sabe quién es. |
-| **Entrada en V–VII** | V–VI: tensión latente; la mujer que cerró el expediente de la falsa muerte es la jefa de la muerta. VII: el hospital. |
-| **Acción decisiva** | **Lucía** entrega a Kal (DECISIÓN DEL AUTOR). Le importa por la misma regla con la que eligió la ley sobre su padre. **PROPUESTA:** al ver a Kal junto a la cama de Mercer, **entiende que Elenna vive** y que ella cerró un expediente falso. Desde ahí, protegerlo la volvería cómplice a sabiendas de una mentira de la que fue cómplice sin saberlo. Por eso no puede ser favor ni tolerancia: es su ética, la misma de siempre. **PROPUESTA de forma:** no le avisa a escondidas; le dice qué va a hacer y a qué hora, como cuando escribió *1:52* delante de él en el II. Él decide qué hacer con ese tiempo. |
-| **Efecto final** | Hace necesario el hangar (CANON). Su obligación termina cuando el expediente pierde objeto (§1): **la cumplió** (hizo la llamada) y ya no queda nada que entregar. No hace falta que perdone ni que cambie de idea. Lo de Elenna se lo guarda (ver §4). |
-| **Estado** | CANON: hospital y entrega · PROPUESTA: que entienda lo de Elenna y la forma del aviso · PENDIENTE: lo que sabía de Kal y el Patio antes. |
+| **Origen** | Libro I: el interrogatorio del Peugeot (*Auster*), la línea directa, el robo del Monarch (CANON). Libro III: la Presa del Sur; el coche bomba que mata a Trix (CANON). **Lucía ayuda de buena fe con la falsa muerte** (DECISIÓN DEL AUTOR, 2026-11-08). DISEÑO del documento de la falsa muerte: se encarga de que **no haya autopsia ni expediente abierto**, y que ella la crea es lo que la vuelve verdad para Varek. |
+| **Resultado del IV** | Jefa, después comisionada (CANON). **Cría a Iris, su sobrina huérfana** (DECISIÓN DEL AUTOR, 2026-11-15). La deuda E9 (¿sabrá alguna vez que protegió una mentira?) pasa al VII. |
+| **Los ~20 años** | Comisionada; jefa de Nicholas y, a través de él, de Elenna. Evalúa a Elenna como policía (DISEÑO del caso Vera). No sabe quién es. Cría a Iris lejos del apellido Varek. |
+| **Entrada en V–VII** | V–VI: tensión latente; la mujer que cerró el expediente de la falsa muerte es la jefa de la muerta y la tía de la mujer que ama Michael. VII: el hospital. |
+| **Acción decisiva** | **Lucía** entrega a Kal (DECISIÓN DEL AUTOR). Al verlo junto a la cama de Mercer, **entiende que Elenna vive** (DECISIÓN DEL AUTOR) y que ella cerró un expediente falso. Desde ahí, protegerlo la volvería cómplice a sabiendas de una mentira de la que fue cómplice sin saberlo. No es favor ni tolerancia: es la ética con la que eligió la ley sobre su padre. **Le dice de frente qué va a hacer y cuánto tiempo le da** (DECISIÓN DEL AUTOR). |
+| **Efecto final** | El hangar como cuenta regresiva (§1.4): hace la llamada, y Kal y Chiara se van antes de que exista la orden. Él decide qué hacer con ese tiempo. Su obligación termina cuando el expediente pierde objeto: **la cumplió** y ya no queda nada que entregar. No hace falta que perdone ni que cambie de idea. **Por ella le llega a Varek la verdad**, como en el III le llegó la mentira (DECISIÓN DEL AUTOR; ver §4). |
+| **Estado** | CANON: hospital y entrega · DECISIÓN DEL AUTOR (2026-11-15): entiende lo de Elenna, el aviso de frente, cría a Iris, Varek se entera por ella · PENDIENTE: lo que sabía de Kal y el Patio antes; cómo le llega exactamente a Varek. |
 
 ---
 
@@ -126,22 +151,25 @@ Hay que decir qué queda abierto, por qué Lucía tiene que entregarlo y qué he
 ### 3.1 La pregunta
 
 ¿Por qué la renuncia de Michael corta el lazo **de forma estable**? Dos cosas lo impiden a primera vista:
-- La muerte de Corrado no borra la prueba: el camper le deja a Michael la historia del Consorzio (CANON), y ahí puede estar la venta.
+- La muerte de Corrado no borra la prueba: el camper le deja a Michael la historia del Consorzio (CANON), y ahí está la venta.
 - Ventresca y Fioravanti, expulsadas en el IV (DECISIÓN DEL AUTOR), guardan veinte años de rencor.
 
-### 3.2 La propuesta: dos palancas que se rompen juntas
+### 3.2 Dos palancas que se rompen juntas
 
-**Palanca 1, la silla.** Mientras un Ardizzone se sienta, el voto Ardizzone es el que sostuvo la reforma de Chiara: la regla vieja por fin escrita y el fin de la «contingencia» (complot, M5, PROPUESTA). Para deshacer la reforma o volver a la mesa, a las familias expulsadas les sirve presionar ese voto, y **la palanca sobre Michael es su madre.**
+**Palanca 1, la silla (DISEÑO).** Mientras un Ardizzone se sienta, el voto Ardizzone es el que sostuvo la reforma de Chiara: la regla vieja por fin escrita y el fin de la «contingencia» (complot, M5, PROPUESTA). Para deshacer la reforma o volver a la mesa, a las familias expulsadas les sirve presionar ese voto, y **la palanca sobre Michael es su madre.**
 - Por eso Chiara no puede estar en San Aurelio mientras Michael tenga la silla: a sus ojos, sería la silla mudándose a la ciudad (la regla del ciclo: «la silla no se muda a San Aurelio»), o Chiara mandando a través de su hijo.
 - **Cuando Michael renuncia, tocar a Chiara ya no mueve ningún voto.**
 
-**Palanca 2, la prueba.**
-- **PROPUESTA:** la renuncia arrastra la custodia del archivo Ardizzone del camper (la historia del Consorzio, no los diarios personales sobre Iris, que son otra cosa: [[06_Relationships/Michael_e_Iris]]). Michael lo entrega con la silla, al protocolo, por medio de Valenti, y queda en el registro de la institución.
-- **Rima con C3:** Valenti le dio a Chiara el libro de las rutas como custodia de rutina sin saber que era prueba; Michael devuelve el archivo sabiendo que lo es.
-- **Efecto:** la prueba deja de vivir en una persona. Amenazar a un Ardizzone ya no la borra.
+**Palanca 2, la prueba. DECISIÓN DEL AUTOR (2026-11-15).**
+- Junto con la silla, **Michael le entrega a La Mesa el archivo del camper**, la prueba de la venta. **Es un desarme:** la familia deja de ser una amenaza y no queda nada que vigilar.
+- DISEÑO: lo que entrega es la historia del Consorzio; los diarios personales sobre Iris son otra cosa ([[06_Relationships/Michael_e_Iris]]). Por qué mano se entrega (DISEÑO: por el protocolo, por medio de Valenti) queda abierto.
+- **Rima con C3** (DISEÑO): Valenti le dio a Chiara el libro de las rutas como custodia de rutina sin saber que era prueba; Michael devuelve el archivo sabiendo que lo es.
+- **Efecto:** la prueba deja de vivir en una persona y queda en el registro de la institución. Amenazar a un Ardizzone ya no la borra.
 - Es la tesis de Héctor aplicada a La Mesa: **lo que no puede sostenerse sin un cuerpo, se suelta.**
 
-**Lo que queda:** el rencor privado de dos familias sin silla, sin rutas y sin la protección de la mesa. Es residuo que se acepta, no amenaza institucional. La matriz no promete un mundo sin enemigos; promete que La Mesa ya no tiene nada que vigilar en San Aurelio.
+**Cuidado con la clínica:** las pistas del camper que llevan a Volpi son de Elenna (CANON). Si el archivo que Michael entrega a La Mesa incluye los papeles de la fundación que paga la clínica, **la entrega no puede ocurrir antes de que Elenna haya tomado lo suyo**. Orden exacto en el VII: PENDIENTE.
+
+**Lo que queda:** el rencor privado de dos familias sin silla, sin rutas y sin la protección de la mesa. Es residuo, no amenaza institucional. La matriz no promete un mundo sin enemigos; promete que La Mesa ya no tiene nada que vigilar en San Aurelio.
 
 **Requisito:** quien ocupe la silla después es PENDIENTE reservado al VII y no se rellena. Sólo una condición: **no puede volver a abrirles la puerta a Ventresca y Fioravanti.**
 
@@ -150,12 +178,12 @@ Hay que decir qué queda abierto, por qué Lucía tiene que entregarlo y qué he
 | Campo | Contenido |
 |---|---|
 | **Origen** | La venta de Corrado (PROPUESTA del complot §6: Ventresca y Fioravanti; La Mesa la encubre). La redada; Corrado vive como Manfred; Chiara es el anzuelo (CANON). |
-| **Resultado del IV** | Chiara prueba la venta; las dos familias quedan expulsadas (DECISIÓN DEL AUTOR); La Mesa queda purgada y reformulada (CANON). La silla, con Ettore como apoderado (PROPUESTA del complot), llega a Michael (CANON). |
+| **Resultado del IV** | Chiara prueba la venta; las dos familias quedan expulsadas (DECISIÓN DEL AUTOR); La Mesa queda purgada y reformulada (CANON). Volpi, encerrado en la clínica de La Isla, con Corrado de garante (DECISIÓN DEL AUTOR). La silla, con Ettore como apoderado (PROPUESTA del complot), llega a Michael (CANON). |
 | **Los ~20 años** | Corrado aconseja a Michael en la sombra. Michael ocupa la silla a los 20–21 (CANON). Las familias expulsadas pierden fuerza, pero no memoria. |
-| **Entrada en V–VII** | V: Michael visita al señor Gabe y conoce a Iris. VI: muere Corrado; **Chiara no va al funeral** (DECISIÓN DEL AUTOR). PROPUESTA del porqué: el funeral es justo la escena que temen, con el titular de la silla en San Aurelio y la mujer que expulsó a las dos familias a su lado. El camper reparte los frentes: Michael, el Consorzio; Elenna, Volpi. VII: la bomba doble y la renuncia. |
-| **Acción decisiva** | **Michael** renuncia por Iris, con el deber por primera vez en segundo lugar y sin que eso le compre el perdón (CANON). La entrega del archivo (PROPUESTA) es parte de soltar la silla, no un regalo a sus padres. |
+| **Entrada en V–VII** | V: Michael visita al señor Gabe y conoce a Iris. VI: muere Corrado; **Chiara no va al funeral** (DECISIÓN DEL AUTOR). DISEÑO del porqué: el funeral es justo la escena que temen, con el titular de la silla en San Aurelio y la mujer que expulsó a las dos familias a su lado. El camper reparte los frentes: Michael, el Consorzio; Elenna, Volpi. VII: la bomba doble y la renuncia. |
+| **Acción decisiva** | **Michael** renuncia por Iris, con el deber por primera vez en segundo lugar y sin que eso le compre el perdón (CANON). Entrega el archivo con la silla (DECISIÓN DEL AUTOR): es parte de soltarla, no un regalo a sus padres. |
 | **Efecto final** | Sin silla, Chiara deja de ser palanca; sin prueba en manos de la familia, nada que borrar. La Mesa ya no tiene asunto en San Aurelio. |
-| **Estado** | CANON: expulsión, renuncia como acto, funeral · PROPUESTA: las dos palancas y la entrega del archivo · PENDIENTE: la silla después, el lugar de Corrado antes de la redada. |
+| **Estado** | CANON: expulsión, renuncia como acto, funeral · DECISIÓN DEL AUTOR (2026-11-15): la entrega del archivo como desarme · DISEÑO: las dos palancas · PENDIENTE: la silla después, el orden archivo/pistas en el VII, el lugar de Corrado antes de la redada. |
 
 ---
 
@@ -165,14 +193,14 @@ Hay que decir qué queda abierto, por qué Lucía tiene que entregarlo y qué he
 |---|---|---|---|
 | **El público** | Elenna Mercer murió al nacer (III). Una mujer llega como Ardizzone y recupera Mercer en una audiencia (DECISIÓN DEL AUTOR); el parentesco nunca se aclara en público, y «Mercer» es apellido común (CANON). | Bajo: el misterio dejó de ser noticia (CANON). | Nada que terminar. El regreso a la Villa es privado: un lote velado por Las Gemelas. |
 | **El registro** | Un acta de defunción del III y una resolución judicial que restituye el nombre. Si la audiencia es sellada, qué deshace y quién puede consultarla: **por investigar** (con Marisol desde la fiscalía). | Medio. Blake, en Asuntos Internos, podría cruzar las dos actas, pero la regla vigente dice que su miedo es el caso y no el apellido. **Recomendación:** no usarlo como motor. | Blake cae en el VII (CANON). |
-| **Volpi** | La creía muerta y la reconoce en la isla (CANON). | Mínimo: incapacitado y aislado. | **Le ofrece la verdad y ella no la toma** (DECISIÓN DEL AUTOR). Lo que sabe muere sin oyente. |
-| **Lucía** | V–VI: nada. VII: **PROPUESTA**, lo entiende en el hospital (§2). | Que lo use contra Kal: no lo hace. | **PROPUESTA:** se lo guarda. Su regla es la ley contra quien hizo el daño, y reabrirlo sólo dañaría a la que no mintió: Elenna, con su identidad restituida por un juez. Si la falsa muerte es delito que la obligue a denunciar: **por investigar**. |
-| **Varek** | Lo creyó porque lo creyó Lucía (DISEÑO). Preso desde el III. | **Alto.** Iris conoce a la hermana de Michael Ardizzone, que es policía y se apellida Mercer. Varek puede atar los cabos. | **PROPUESTA:** lo descubre en el VII, y por eso cobra entonces la cuenta. Puede exponer el voto; en cambio cobra por Iris. Esta guerra se cobró en hijas: él perdió a Trix y Chiara escondió viva a la suya. Lo que sabe se vuelve deuda pagada y no arma. **Alternativa:** nunca lo sabe con certeza (más barata, pero deja el riesgo sin cierre). |
+| **Volpi** | La creía muerta y la reconoce (CANON). | Ya no está aislado: **bajo custodia formal en el VII** (DECISIÓN DEL AUTOR), habla ante más gente. | Le ofrece a Elenna, en privado, la verdad de sus padres sin nombrar delitos, y **ella lo corta antes** (DECISIÓN DEL AUTOR). Lo que diga ante otros es PENDIENTE (§1.3, A). |
+| **Lucía** | V–VI: nada. **VII: lo entiende en el hospital** (DECISIÓN DEL AUTOR). | Que lo use contra Kal: no lo hace; cumple su deber de entregarlo y nada más. | No reabre la falsa muerte, que sólo dañaría a la que no mintió (DISEÑO). Si la falsa muerte es delito que la obligue a denunciar: **por investigar**. *Superado (2026-11-15): «se lo guarda» del todo; la verdad le llega a Varek por ella.* |
+| **Varek** | Lo creyó porque lo creyó Lucía (DISEÑO). Preso desde el III. | Puede exponer el voto. Además, Iris conoce a la hermana de Michael Ardizzone, que es policía y se apellida Mercer; Varek podía atar los cabos por ahí. *Alternativa descartada por el autor: que nunca lo sepa.* | **DECISIÓN DEL AUTOR (2026-11-15): se entera por Lucía**, como en el III la mentira le llegó por ella. Cómo exactamente (si ella se lo dice o él lo lee en ella): PENDIENTE. En lugar de exponerlo, **cobra la cuenta por Iris** (§5): esta guerra se cobró en hijas; él perdió a Trix y Chiara escondió viva a la suya. Lo que sabe se vuelve deuda pagada y no arma. |
 
 **El evento que termina el riesgo:** no hay uno solo. El voto termina cuando el secreto ya no protege nada (columna §2), y eso ocurre en cadena dentro del VII:
-1. Volpi ofrece la verdad y nadie la toma.
-2. Lucía la sabe y la guarda.
-3. Varek la sabe y cobra otra cosa.
+1. Volpi ofrece la verdad y Elenna no la oye.
+2. Lucía la sabe y cumple con su deber sin reabrirla.
+3. Varek la sabe por ella y cobra otra cosa.
 4. Meridian se queda sin predicado (§1).
 5. La Mesa se queda sin palanca (§3).
 
@@ -184,11 +212,13 @@ Hay que decir qué queda abierto, por qué Lucía tiene que entregarlo y qué he
 |---|---|
 | **Origen** | Libro I: la cuenta abierta de Chiara con Varek (CANON, B2). Libro III: muere Trix, en el tiroteo montado por los falsos policías de Halbrook (manda esta versión, B4). **Dario cree que las bandas de Kal mataron a su hija.** Iris queda huérfana y su muerte detona el voto (DECISIÓN DEL AUTOR, 2026-11-08). |
 | **Resultado del IV** | Varek, preso (caída legal por Lucía; que Trix sea lo que la voltea es PROPUESTA del libro mayor, B6). La cuenta sigue sin cobrar. |
-| **Los ~20 años** | Corrado vigila a Iris como el señor Gabe, por su deuda con Trix (CANON). **Contradicción por resolver:** «la nieta que crió» (columna §2) choca con un Varek preso desde que Iris era pequeña; quién la crió es PENDIENTE. |
-| **Entrada en V–VII** | V: Michael conoce a Iris. VI: el error, las promesas, el camper. VII: la bomba doble y la renuncia (CANON). Además, si el VII revela que Vivian crió a Dylan, **la familia de Iris entra al caso Vera** (DISEÑO de la ficha de Iris). |
-| **Acción decisiva** | **Chiara** paga la cuenta (DECISIÓN DEL AUTOR). Qué pide Varek, opciones (PROPUESTA): **(a)** que el nombre de Iris quede fuera del relato público del caso Vera (Vivian, Dylan, la familia pantalla Cole). Es el oficio de Chiara, hecho desde fuera de la ciudad y a costa de volver a tocar su relato. **(b)** Que Chiara le cuente a Iris la verdad de su familia. **(c)** Que aleje a Michael de Iris: **descartada**, porque rompe «los padres nunca los comprometen» y la autonomía de Iris. **Recomendada: (a).** Protege a Iris de la ciudad, no de la verdad: Iris sigue descubriendo lo suyo por los diarios y por Michael. Y deja una escena fuerte: Varek se lo pide a la mujer del hombre que cree que mató a su hija. |
-| **Efecto final** | Se salda la deuda más vieja de la guerra. Si se aprueba la propuesta del §4, también se cierra el riesgo de Varek sobre el voto. **Iris no queda deudora:** que sepa o no que la protegieron es decisión que no le toca a Chiara (PENDIENTE del autor). |
-| **Estado** | CANON: Trix, Iris, el cobro en el VII · PROPUESTA: (a) y el descubrimiento de Varek · PENDIENTE: quién crió a Iris, qué pide exactamente. |
+| **Los ~20 años** | **A Iris la cría Lucía, su tía; Varek es el abuelo que la quiere como suya desde la cárcel** (DECISIÓN DEL AUTOR, 2026-11-15). *Superado:* «la nieta que crió» de la columna. Corrado la vigila como el señor Gabe, por su deuda con Trix (CANON). |
+| **Entrada en V–VII** | V: Michael conoce a Iris. VI: el error, las promesas, el camper; al cierre, Michael la nombra administradora de Ridge (CANON). VII: la bomba doble y la renuncia (CANON). Además, si el VII revela que Vivian crió a Dylan, **la familia de Iris entra al caso Vera** (DISEÑO de la ficha de Iris); por eso existía la opción (a), hoy descartada. |
+| **Acción decisiva** | **Chiara** paga la cuenta (DECISIÓN DEL AUTOR). **Lo que pide Varek: que Chiara ponga Bellandi Ridge a nombre de Iris** (DECISIÓN DEL AUTOR, 2026-11-15). DISEÑO de lectura: la primera tierra que Chiara pudo llamar suya pasa a la hija de Trix, a pedido del hombre que cree que Kal mató a su hija. Iris ya la administra; el cobro le da la tierra, no un puesto. *Descartadas:* (a) que el nombre de Iris quedara fuera del relato público del caso Vera, porque obligaría a tocar el caso de Elenna y dañaría su credibilidad como policía (razón del autor); (b) que Chiara le contara a Iris la verdad de su familia; (c) que alejara a Michael de Iris. |
+| **Efecto final** | Se salda la deuda más vieja de la guerra, y con ella el riesgo de Varek sobre el voto (§4). Si Iris acepta la tierra y qué sabe del porqué: **PENDIENTE** (su autonomía decide). |
+| **Contradicción (marcada, no resuelta)** | **¿De quién es Ridge legalmente?** [[07_Ideas/Libro_04_Incubadora/04_Legado_Post_Trilogia]] dice que de **Elenna**. [[05_Locations/Bellandi_Ridge_Vineyards]] dice (CANON 2026-10-04) que la familia conserva sus activos vía **una holding Bellandi** y deja «puede ser legalmente de Elenna» como DISEÑO. Si es de Elenna, Chiara no puede darla sin ella. Decide el autor. |
+| **Tensiones que abre «la crió Lucía»** (marcadas, PENDIENTE del autor) | (1) La ficha de Iris dice que **su padre, Sean Harlow, vive** (paradero PENDIENTE). Por qué la cría Lucía y no él: sin decidir. (2) La ficha dice que Iris **ignora que su abuelo fue el jefe criminal** y que nunca sintió que el apellido Varek hubiera que esconderlo. Es difícil de sostener si la crió la tía que lo derribó en público. |
+| **Estado** | CANON: Trix, Iris, Ridge administrada por Iris, el cobro en el VII · DECISIÓN DEL AUTOR (2026-11-15): Ridge a nombre de Iris; Lucía cría a Iris; Varek se entera por Lucía · PENDIENTE: la propiedad legal de Ridge; si Iris acepta; el padre de Iris; qué sabe Iris de Dario. |
 
 ---
 
@@ -199,10 +229,10 @@ Hay que decir qué queda abierto, por qué Lucía tiene que entregarlo y qué he
 | **Origen** | Kal se hace cargo de Marisol tras la muerte de Michael Grayson (CANON). Libro I: la promesa, Kingsley Field. Libro II: los frenos (la víctima es ella). Libro III: muere Kenji; entra a la fiscalía; **llora a una Elenna viva** (DISEÑO de la falsa muerte: el voto es mentirles a todos los que aman). |
 | **Resultado del IV** | Entra a la fiscalía como heredera civil (DECISIÓN DEL AUTOR). Cuándo se entera de que Elenna vive: **PENDIENTE** (antes del epílogo de las Tres Hermanas). |
 | **Los ~20 años** | Carrera sola, hasta fiscal de distrito (CANON). Ayuda a Elenna a recuperar su apellido (DECISIÓN DEL AUTOR): **la institución deshace, por su mano, la mentira de la que ella fue víctima.** No ve a Kal en años (CANON). |
-| **Entrada en V–VII** | V: la audiencia; el choque de la fiscalía con un caso de Elenna (DECISIÓN DEL AUTOR). VII: su oficina formaliza, por su propio criterio, el caso contra Blake (PROPUESTA; pregunta 13 de las reglas del caso Vera). |
-| **Acción decisiva** | **PROPUESTA, el porqué de los años sin verlo:** la fiscal de distrito no puede dejarse ver con un hombre al que un expediente federal todavía nombra. Su distancia es integridad profesional, no frialdad, y Kal, que siempre minimizó su papel con ella, la entiende como si no le doliera. |
-| **Efecto final** | Cuando el expediente pierde su objeto (§1) y en su oficina ya no hay nada que lo toque, **ya puede decirlo**. «Hola, Papá.» (CANON DEL AUTOR) es también la primera vez que nada se lo impide. El puente D le paga al E. |
-| **Estado** | CANON: «Hola, Papá.», fiscal de distrito, la audiencia · PROPUESTA: la distancia por integridad y Blake en su oficina · PENDIENTE: cuándo supo que Elenna vivía. |
+| **Entrada en V–VII** | V: la audiencia; el choque de la fiscalía con un caso de Elenna (DECISIÓN DEL AUTOR). VII: PROPUESTA (sin decidir): su oficina formaliza, por su propio criterio, el caso contra Blake (pregunta 13 de las reglas del caso Vera). |
+| **Acción decisiva** | **El porqué de los años sin verlo (DECISIÓN DEL AUTOR, 2026-11-15):** su distancia es integridad de fiscal, no frialdad. La fiscal de distrito no puede dejarse ver con un hombre al que un expediente federal todavía nombra. Kal, que siempre minimizó su papel con ella, la entiende como si no le doliera (DISEÑO). |
+| **Efecto final** | **El «Hola, Papá.» llega cuando el expediente ya no nombra a Kal** (DECISIÓN DEL AUTOR). Es también la primera vez que nada se lo impide. El puente D le paga al E. |
+| **Estado** | CANON: «Hola, Papá.», fiscal de distrito, la audiencia · DECISIÓN DEL AUTOR (2026-11-15): la distancia por integridad · PROPUESTA: Blake en su oficina · PENDIENTE: cuándo supo que Elenna vivía. |
 
 ---
 
@@ -230,7 +260,7 @@ Hay que decir qué queda abierto, por qué Lucía tiene que entregarlo y qué he
 **IV · *Cuentas de Sangre*.** Ganan la salida, pero no la inocencia:
 - El Patio se disuelve.
 - La Mesa queda purgada.
-- Volpi queda en la isla.
+- Volpi queda encerrado sin nombre en una clínica de La Isla.
 - Recuperan a Elenna.
 
 Quedan tres residuos con nombre que les impiden volver a San Aurelio:
@@ -238,7 +268,7 @@ Quedan tres residuos con nombre que les impiden volver a San Aurelio:
 - una silla Ardizzone que sigue siendo palanca;
 - un secreto que tres personas creen cierto.
 
-**Los veinte años.** Viven en movimiento y no pisan la ciudad. Su ausencia protege a sus herederos y su silencio protege a Harper. La Villa espera.
+**Los veinte años.** Viven en movimiento y no pisan la ciudad. Su ausencia protege a sus herederos y su silencio protege a Harper. Lucía cría a Iris. La Villa espera.
 
 **V · *Juramento de Hierro*.** Elenna elige la ciudad que sus padres no pueden pisar y vive en su casa. Michael conoce a Iris.
 
@@ -247,26 +277,44 @@ Quedan tres residuos con nombre que les impiden volver a San Aurelio:
 - El camper reparte los dos frentes sin que nadie lo planee.
 - Elenna cae en el banco.
 
-**VII · *Camino a Casa*.** El voto se rompe en el hospital y se termina en tres actos que los hijos hacen por razones propias:
-- Elenna encuentra vivo al hombre que la ley creía muerto, y no toma la verdad que no le pertenece;
-- Michael suelta la silla por Iris;
-- Chiara paga la última deuda de la guerra protegiendo a la mujer que su hijo ama.
+**VII · *Camino a Casa*.** El voto se rompe en el hospital: Lucía les da un plazo y el hangar es una cuenta regresiva. Después se termina en tres actos:
+- Elenna encuentra vivo al hombre que la ley creía muerto y lo reporta, sin oír la verdad que no le pertenece;
+- Michael suelta la silla por Iris y, con ella, la prueba;
+- Chiara paga la última deuda de la guerra dándole a la hija de Trix la tierra que fue su primera casa.
 
-Cuando el secreto ya no protege nada, vuelven a la Villa. Marisol dice «Hola, Papá.» y se quitan las últimas sábanas.
+Los dos primeros los hacen los hijos por razones propias. Cuando el secreto ya no protege nada, vuelven a la Villa. Marisol dice «Hola, Papá.» y se quitan las últimas sábanas.
 
 ---
 
-## 9. Preguntas para el autor
+## 9. Preguntas para el autor y sus respuestas
 
-1. **Meridian.** ¿Aceptas A + C, con B como cerrojo (§1.4)? **Recomiendo sí.** Es lo único que explica a la vez la geografía, la obligación de Lucía y un cierre hecho por Elenna.
-2. **La isla en lugar de entregar a Volpi** (complot, pregunta 11). ¿Chiara elige la isla? **Recomiendo sí:** sostiene el mecanismo A.
-3. **Lucía en el hospital.** ¿Entiende ahí que Elenna vive? **Recomiendo sí** (paga E9). ¿Le dice a Kal qué va a hacer y a qué hora, en lugar de avisarle a escondidas? **Recomiendo sí:** rima con el *1:52*.
-4. **Varek y el secreto.** ¿Descubre en el VII que Elenna vive, y eso lo lleva a cobrar en vez de exponer? **Recomiendo sí.** Alternativa: nunca lo sabe.
-5. **Qué pide Varek.** **Recomiendo (a):** que el nombre de Iris quede fuera del relato público del caso Vera.
-6. **El archivo del camper.** ¿Michael entrega la custodia del archivo Ardizzone con la silla? **Recomiendo sí:** es lo que vuelve estable el corte.
-7. **Marisol.** ¿Su distancia de años es integridad de fiscal, y el «Hola, Papá.» llega cuando el expediente ya no lo nombra? **Recomiendo sí.**
-8. **El tiempo.** ¿Mara Ellison hereda Meridian? **Recomiendo sí, sujeto a cronología:** edades de Callahan y Mara, PENDIENTE.
-9. **Contradicción:** ¿quién crió a Iris si Varek está preso desde que ella era pequeña? Sin recomendación: es dato de la familia Varek.
+**DECISIONES DEL AUTOR (2026-11-15):** aceptó todas las recomendaciones, con los ajustes indicados.
+
+1. **Meridian:** **sí.** A es el motor, C queda de fondo y B es el cerrojo (§1).
+2. **Volpi:** **sí.** Chiara elige encerrarlo en lugar de entregarlo a Meridian (responde la pregunta 11 del complot). **Ajuste del autor:** la prisión es una clínica privada de La Isla, no una isla remota (§1.2).
+3. **Lucía en el hospital:** **sí**, entiende que Elenna vive. Le dice a Kal de frente qué va a hacer y cuánto tiempo le da; el hangar es una cuenta regresiva.
+4. **Varek y el secreto:** **sí**, se entera, y **por Lucía** (ajuste del autor: rima con el III).
+5. **Qué pide Varek:** **ajuste del autor.** Bellandi Ridge a nombre de Iris. Se descarta la recomendación (a) porque dañaría la credibilidad de Elenna. Contradicción sobre la propiedad legal de Ridge: marcada en el §5.
+6. **El archivo del camper:** **sí**, Michael lo entrega con la silla; es un desarme.
+7. **Marisol:** **sí**, la distancia es integridad de fiscal y el saludo llega cuando el expediente ya no nombra a Kal.
+8. **Mara Ellison:** **sí**, hereda el expediente; cronología PENDIENTE.
+9. **Quién crió a Iris:** **Lucía, su tía.** Varek la quiere como suya desde la cárcel.
+10. **Nuevo, del autor:** en el VII Elenna identifica a Volpi por el camper y **lo reporta**. Entrevista en regla con Nicholas. En privado, él le ofrece la verdad sin nombrar delitos y ella lo corta. No encubre nada.
+
+**Siguen abiertos (PENDIENTE):**
+- cuándo supo Marisol que Elenna vivía;
+- cómo le llega exactamente a Varek la verdad por Lucía;
+- con qué nombre firma Corrado de garante y quién paga tras su muerte;
+- si la silla Ardizzone sabe, vota o paga la clínica;
+- cómo documenta Elenna la fuente (el camper) sin exponer a la familia;
+- por qué Meridian no gira hacia la privación ilegal de la libertad de Volpi;
+- qué saben el personal y los registros de la clínica;
+- qué dice Volpi bajo custodia sobre la visita de Chiara;
+- por qué cría a Iris Lucía y no su padre, Sean Harlow; qué sabe Iris de Dario;
+- el orden entre las pistas de Elenna y la entrega del archivo;
+- la propiedad legal de Ridge y si Iris acepta;
+- la cronología de Meridian;
+- quién ocupa la silla después.
 
 **Por investigar antes de escribir prosa:**
 - la orden o el estatus que vuelve obligatoria la llamada de Lucía;
@@ -274,6 +322,6 @@ Cuando el secreto ya no protege nada, vuelven a la Villa. Marisol dice «Hola, P
 - la figura y la prescripción de ayudar a huir a Harper;
 - la audiencia que restituye un nombre declarado muerto;
 - si la falsa muerte obliga a denunciar;
-- la jurisdicción sobre un hombre encerrado fuera de la ley en el extranjero.
+- **la figura legal de tener a un hombre encerrado sin nombre en una clínica privada**, y si Volpi es apto para juicio.
 
-Ver también: [[11_Books/00_Columna_Maestra_Ciclo_Elenna]] · [[07_Ideas/El_Voto_Inverso]] · [[11_Books/00_Libro_Mayor_Deudas_Saga]] · [[03_Factions/Fuerza_de_Tarea_Meridian]] · [[02_Characters/Lucia_Varek]] · [[02_Characters/Michael_Ardizzone]] · [[02_Characters/Marisol_Grayson]]
+Ver también: [[11_Books/00_Columna_Maestra_Ciclo_Elenna]] · [[07_Ideas/El_Voto_Inverso]] · [[11_Books/00_Libro_Mayor_Deudas_Saga]] · [[03_Factions/Fuerza_de_Tarea_Meridian]] · [[02_Characters/Lucia_Varek]] · [[02_Characters/Michael_Ardizzone]] · [[02_Characters/Marisol_Grayson]] · [[05_Locations/Bellandi_Ridge_Vineyards]]

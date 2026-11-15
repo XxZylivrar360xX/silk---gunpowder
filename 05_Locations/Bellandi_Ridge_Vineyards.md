@@ -1,5 +1,7 @@
 # Bellandi Ridge Vineyards
 
+> **DECISIÓN DEL AUTOR (2026-11-15, matriz causal):** en el VII, **Varek cobra su cuenta pidiéndole a Chiara que ponga Bellandi Ridge a nombre de Iris**, que ya la administra desde el cierre del VI. **Contradicción previa, marcada y sin resolver:** [[07_Ideas/Libro_04_Incubadora/04_Legado_Post_Trilogia]] dice que Ridge pertenece legalmente a Elenna; aquí abajo (CANON 2026-10-04) la familia conserva sus activos vía una holding Bellandi y lo de Elenna es DISEÑO. Si es de Elenna, Chiara no puede darla sin ella. Decide el autor. Ver [[11_Books/00_Matriz_Causal_Saga]] §5.
+
 *Ficha de Lugar - los viñedos de Chiara*
 
 **Nombre público:** **Bellandi Ridge Vineyards**.
@@ -56,7 +58,7 @@ Por la mañana huele a tierra caliente y hojas. De noche, las luces de San Aurel
 - Si el primer evento público ahí es benéfico, político o familiar.
 - Quién administra el viñedo cuando Chiara está en guerra.
 
-> **CANON DEL AUTOR (2026-10-04), Libros V-VI:** tras el IV la familia conserva sus activos en San Aurelio vía una holding familiar Bellandi; Corrado administra Ridge; DISEÑO: Ridge puede ser legalmente de Elenna. Tras la muerte de Corrado, [[02_Characters/Michael_Ardizzone]] lo representa; al cierre del VI nombra administradora a [[02_Characters/Iris_Harlow|Iris]] y él queda como director general de Ridge y el Monarch.
+> **CANON DEL AUTOR (2026-10-04), Libros V-VI:** tras el IV la familia conserva sus activos en San Aurelio vía una holding familiar Bellandi; Corrado administra Ridge; DISEÑO: Ridge puede ser legalmente de Elenna. *(2026-11-15: choca con el cobro de Varek, Ridge a nombre de Iris; contradicción marcada arriba.)* Tras la muerte de Corrado, [[02_Characters/Michael_Ardizzone]] lo representa; al cierre del VI nombra administradora a [[02_Characters/Iris_Harlow|Iris]] y él queda como director general de Ridge y el Monarch.
 
 ---
 

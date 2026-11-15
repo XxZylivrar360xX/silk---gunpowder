@@ -1,6 +1,6 @@
 # Hangar — la despedida de Elenna (Camino a Casa)
 
-> **DECISIÓN DEL AUTOR (2026-11-15): el voto inverso.** Se van del hangar porque **en el hospital Lucía descubre a Kal y, aunque son viejos amigos, debe entregarlo**: todavía no es seguro. «El resto del libro ocurre sin Kal y Chiara» vale **hasta el clímax**; el cierre del VII los devuelve a la Villa con toda la familia. Ver [[07_Ideas/El_Voto_Inverso]] · [[11_Books/00_Columna_Maestra_Ciclo_Elenna]].
+> **DECISIÓN DEL AUTOR (2026-11-15): el voto inverso.** Se van del hangar porque **en el hospital Lucía descubre a Kal y, aunque son viejos amigos, debe entregarlo**: todavía no es seguro. *(DECISIÓN DEL AUTOR (2026-11-15, matriz causal): Lucía le dio a Kal un plazo de frente; el hangar es una cuenta regresiva.)* «El resto del libro ocurre sin Kal y Chiara» vale **hasta el clímax**; el cierre del VII los devuelve a la Villa con toda la familia. Ver [[07_Ideas/El_Voto_Inverso]] · [[11_Books/00_Columna_Maestra_Ciclo_Elenna]].
 
 > **MATERIAL NARRATIVO DE APOYO — NO CANÓNICO HASTA APROBACIÓN DEL AUTOR.**
 >

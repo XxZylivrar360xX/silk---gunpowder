@@ -1,5 +1,7 @@
 # Elenna Mercer
 
+> **DECISIÓN DEL AUTOR (2026-11-15, matriz causal):** en el VII **identifica a Volpi por las pistas del camper y lo reporta**, como cualquier policía (custodia; entrevista en regla con Nicholas). En privado él le ofrece la verdad de sus padres sin nombrar delitos y ella lo corta antes: no encubre nada. Al reportarlo vivo deshace, sin saberlo, la sospecha de Meridian contra su padre. Lucía entiende en el hospital que vive; por Lucía se entera Varek. Ver [[11_Books/00_Matriz_Causal_Saga]].
+
 > **CANON DEL AUTOR (2026-11-15): el voto inverso.** En el III sus padres la alejaron por seguridad (el voto). Después del IV no pueden volver a pertenecer a San Aurelio y viven en movimiento; que la familia viaje unida mientras ella y Michael crecen, con Boston y Bonnie como ancla de la infancia, es PROPUESTA de la columna §4. En el ciclo, **Elenna y Michael terminan ese voto para que puedan estar juntos como familia**; la renuncia de Michael a la silla es el acto (DECISIÓN DEL AUTOR). Que lo terminen viviendo su propia vida, no salvando a sus padres (ella, con su caso y su ciudad), es DISEÑO de la columna §1. Vive en la Villa, ahora en un lote por Las Gemelas (que sus padres no puedan pisarla es DISEÑO de la columna). Decisiones del autor del mismo día: en el hospital del VII **Lucía descubre a Kal y debe entregarlo**, y por eso se van en el hangar; en la isla **Volpi le ofrece la verdad de sus padres y ella no la toma**; el **cierre del VII** reúne a toda la familia en la Villa. Ver [[07_Ideas/El_Voto_Inverso]] · [[11_Books/00_Columna_Maestra_Ciclo_Elenna]].
 
 > **DECISIÓN DEL AUTOR (2026-11-15, segunda tanda):** **apellido:** llega como Ardizzone y **recupera Mercer en una audiencia antes de entrar a la policía como cadete**, con ayuda de Marisol. **Mudanza:** unas semanas después, la vida con Marisol se complica por el choque con la fiscalía; Elenna se lo cuenta a **Walt y a Corrado, que comparten un escocés**, y ahí Walt le da la llave de la Villa. En la casa encuentra lo que sus padres dejaron atrás y **«su cuarto que nunca fue suyo»**. Ver [[11_Books/00_Diseno_Final_Boston_Y_La_Villa]].
@@ -34,7 +36,7 @@
 
 Para la mayoría del mundo, la hija de Kal Mercer y Chiara Bellandi muere durante o alrededor del parto. La formulación pública exacta todavía no existe. En realidad, Elenna es retirada del tablero y pasa aproximadamente su primer año en Italia bajo la identidad **Elenna Serra**. *(Superado 2026-11-07: Bonnie está en Boston; «Elenna Serra» e Italia, retiradas.)*
 
-Ni [[02_Characters/Dario_Varek|Dario Varek]] ni [[02_Characters/Warren_Halbrook|Warren Halbrook]] saben que sobrevivió. Eso no cambia sin una decisión explícita posterior del autor.
+Ni [[02_Characters/Dario_Varek|Dario Varek]] ni [[02_Characters/Warren_Halbrook|Warren Halbrook]] saben que sobrevivió. Eso no cambia sin una decisión explícita posterior del autor. *(DECISIÓN DEL AUTOR (2026-11-15, matriz causal): **Varek se entera en el VII, por Lucía**, que lo entiende en el hospital.)*
 
 ## Apariencia
 

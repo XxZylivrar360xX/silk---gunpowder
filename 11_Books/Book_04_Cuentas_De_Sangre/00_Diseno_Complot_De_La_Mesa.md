@@ -1,5 +1,7 @@
 # Diseño: el complot de La Mesa (el anzuelo, el corral y Volpi)
 
+> **DECISIÓN DEL AUTOR (2026-11-15, matriz causal):** (1) **Chiara elige encerrar a Volpi en lugar de entregarlo a Meridian** (responde la pregunta 11). (2) **La prisión cambia:** ya no es una isla del Mediterráneo ni una instalación de La Mesa en el extranjero, sino una **clínica privada en La Isla**, el distrito de la bahía de San Aurelio (el del Monarch y Punta Dorada): paciente sin nombre, incapacitado pero lúcido, en un cuarto sin ventanas; la paga una fundación de Palermo, fachada de La Mesa, con Corrado como garante; nada lleva a Chiara. Se conservan la imagen del animal atrapado en la oscuridad y la visita de Chiara en el IV; «en la isla» significa ahora La Isla de San Aurelio. Supersede «la isla, por Corrado» como lugar remoto, el «un solo cuidador» y la jurisdicción en el extranjero. (3) En el VII Elenna identifica a Volpi por las pistas del camper y **lo reporta**: entra bajo custodia (si es apto para juicio: por investigar). (4) Con la silla, **Michael le entrega a La Mesa el archivo del camper**, la prueba de la venta: un desarme. Detalle y pendientes en [[11_Books/00_Matriz_Causal_Saga]].
+
 > **Estado:** las decisiones del §1 son **CANON DEL AUTOR (2026-11-12 y 2026-11-14)**. El resto es DISEÑO del agente (Claude Code, mismo día): el orden del complot, quién sabe qué y lo marcado **PROPUESTA** esperan al autor. **No toca prosa.**
 >
 > **Supersede** la bandera falsa de Crowe en el corral (CANON del 2026-11-07) y la exploración que la discutía; el texto retirado está en [[97_Supersedido/Corral_Bandera_Falsa_De_Crowe]]. **Restaura y amplía** la verdad del autor del 2026-10-04 (Volpi contrató al atacante; Corrado lo interroga y lo mata) y le da la orden que faltaba: La Mesa.
@@ -25,7 +27,7 @@
 10. **En la terraza, Kal le pregunta a Halbrook por el corral,** y Halbrook ni lo niega ni lo afirma: le sirve que Kal dude.
 11. **Dario cree que Volpi es suyo.** Lo conoció como a un hombre cualquiera en un bar, cuando Volpi detuvo una pelea entre dos hombres con una intervención tan quirúrgica que sorprendió a Varek.
 12. **El tercer asesinato del IV:** la víctima es un testigo de Matteo, de la cadena de Elio. *Flexible:* el autor puede cambiarlo más adelante.
-13. **Volpi termina en la isla del Mediterráneo,** en un encierro no oficial que negocia Corrado en el IV. No muere; queda vivo para la entrevista del VII.
+13. **Volpi termina en la isla del Mediterráneo,** en un encierro no oficial que negocia Corrado en el IV. No muere; queda vivo para la entrevista del VII. *(Superado el lugar, DECISIÓN DEL AUTOR (2026-11-15, matriz causal): una clínica privada en La Isla de San Aurelio, con Corrado como garante.)*
 14. **El ojo de vidrio negro nunca se explica.**
 15. **El tiro de H1 (2026-11-14): La Mesa quiere a Kal vivo.** Dario manda a Volpi a ejecutar a Kal; Volpi, que no falla, le da en el costado a propósito. Kal es la pared alrededor del cebo, y Volpi obedece a La Mesa antes que a Dario. Es la primera señal de que las vacaciones con Varek se terminan.
 
@@ -34,8 +36,8 @@
 16. **Es la trama principal de Chiara en *Cuentas de Sangre*.** Chiara, Corrado y La Mesa traen un complot que viene del pasado, **desde antes de la redada**, y lo cierran.
 17. **Chiara lo cierra para siempre:** se desata del pasado y reconstruye el nombre de su familia hacia algo nuevo.
 18. **Al final, La Mesa (Il Consorzio) queda reformulada y purgada.**
-19. **Volpi termina incapacitado, prisionero en la isla.**
-20. **La última escena del complot:** Chiara misma va a visitarlo a la isla antes de que Volpi se quede como un animal atrapado en la oscuridad de ese lugar.
+19. **Volpi termina incapacitado, prisionero en la isla.** *(2026-11-15: en La Isla de San Aurelio, la clínica.)*
+20. **La última escena del complot:** Chiara misma va a visitarlo a la isla antes de que Volpi se quede como un animal atrapado en la oscuridad de ese lugar. *(2026-11-15: se conserva; «ese lugar» es el cuarto sin ventanas de la clínica de La Isla.)*
 
 El diseño de estas cinco está en los §6–§8.
 
@@ -78,7 +80,7 @@ La trama completa de Chiara en el IV está en el §7, y el final en el §8. Aqu�
 2. **Lo que Kal no sabe todavía:** por qué La Mesa quería a Corrado fuera, y que Chiara era el cebo. Corrado lo sospecha; la prueba la trae Matteo.
 3. **Matteo regresa** con lo de Elio (decisión 8) y le revela a Chiara el anzuelo (CANON). Chiara entiende que la institución nunca la quiso por quién era: la usó para cazar a su padre. Es el suelo del rechazo final («la salida consiste en terminar la ausencia, no en heredar una corona»).
 4. **Volpi, sin vacaciones:** el tercer asesinato reactiva el patrón (CANON). **DECISIÓN DEL AUTOR (2026-11-14), flexible:** la víctima es un testigo de Matteo, de la cadena de Elio.
-5. **El cierre de Volpi. DECISIÓN DEL AUTOR (2026-11-14):** no muere. Corrado negocia su encierro no oficial en la isla del Mediterráneo (ya confirmado por el autor como material de incubadora). Es el último acto de Corrado contra La Mesa, y deja a Volpi vivo para la entrevista del VII. La convergencia queda abierta hacia el ciclo de Elenna, que es su lugar.
+5. **El cierre de Volpi. DECISIÓN DEL AUTOR (2026-11-14):** no muere. Corrado negocia su encierro no oficial en la isla del Mediterráneo *(superado 2026-11-15: en una clínica privada de La Isla de San Aurelio)* (ya confirmado por el autor como material de incubadora). Es el último acto de Corrado contra La Mesa, y deja a Volpi vivo para la entrevista del VII. La convergencia queda abierta hacia el ciclo de Elenna, que es su lugar.
 6. **Chiara y su padre.** El encuentro es decisión de ella (CANON). Conoce los dos lados: él no volvió por ella (decisión 6) y la Mesa la usó por él. Los dos la protegieron decidiendo por ella.
 
 ---
@@ -179,13 +181,13 @@ Se cruza con la de Kal (Meridian, la salida) en dos puntos: el tercer asesinato,
 **La caída de Volpi (PROPUESTA).** Con La Mesa purgada, Volpi es la última contingencia del orden viejo y nadie lo protege. Queda incapacitado (decisión 19). Quién y cómo, opciones:
 - (a) **Matteo**, el hermano de Elio. Se detiene un paso antes de matarlo y lo deja roto: es el espejo de Kal con Crowe. **Recomendada.**
 - (b) **La Mesa misma**, por mano de Valenti: la institución le hace a su herramienta lo que la herramienta les hizo a otros.
-- (c) **Kal.** Riesgo: choca con su arco del IV (soltar, no resolver con el cuerpo). La ficha de Volpi además pide que su caída no sea sólo obra de Kal ni sólo de Corrado.
+- (c) **Kal.** Riesgo: choca con su arco del IV (soltar, no resolver con el cuerpo). *(2026-11-15: choca además con el cierre del mecanismo A de Meridian: un Volpi lúcido bajo custodia en el VII podría acusarlo; [[11_Books/00_Matriz_Causal_Saga]] §1.3.)* La ficha de Volpi además pide que su caída no sea sólo obra de Kal ni sólo de Corrado.
 
 **«Incapacitado»:** que no pueda irse. Puede ser físico (piernas, columna); la oscuridad la pone el lugar. Tiene que seguir **lúcido** para la entrevista del VII (incubadora: «viejo, delgado, quizá enfermo, pero lúcido»). El ojo no se explica (decisión 14).
 
-**La disyuntiva con Meridian (PROPUESTA).** Meridian querría a Volpi como testigo contra Varek (Keene, Fabrizio, los frenos). Entregarlo sería justicia limpia, pero a la institución que le quitó a su padre. **Chiara elige la isla**, y no es justicia limpia (CANON de la incubadora: «sigue siendo un acto moralmente comprometido»). Eso deja a Callahan con las manos vacías, presiona la trama de Kal y deja el caso Vera abierto para el VII.
+**La disyuntiva con Meridian (PROPUESTA; DECISIÓN DEL AUTOR (2026-11-15, matriz causal): Chiara elige encerrarlo, no entregarlo).** Meridian querría a Volpi como testigo contra Varek (Keene, Fabrizio, los frenos). Entregarlo sería justicia limpia, pero a la institución que le quitó a su padre. **Chiara elige la isla**, y no es justicia limpia (CANON de la incubadora: «sigue siendo un acto moralmente comprometido»). Eso deja a Callahan con las manos vacías, presiona la trama de Kal y deja el caso Vera abierto para el VII.
 
-**La isla.** La negocia Corrado (decisión 13; CANON de la incubadora): una instalación vieja de La Mesa, un solo cuidador, embarcadero, servicios mínimos. Sin superprisión.
+**SUPERADO (DECISIÓN DEL AUTOR (2026-11-15, matriz causal)):** el encierro es una **clínica privada en La Isla**, el distrito de la bahía de San Aurelio (el del Monarch y Punta Dorada): paciente sin nombre, incapacitado pero lúcido, en un cuarto sin ventanas; la paga una fundación de Palermo, fachada de La Mesa, con Corrado como garante; nada lleva a Chiara. *Texto anterior, como registro:* **La isla.** La negocia Corrado (decisión 13; CANON de la incubadora): una instalación vieja de La Mesa, un solo cuidador, embarcadero, servicios mínimos. Sin superprisión.
 
 **La última escena (decisión 20).** Chiara va sola. POV de Chiara. Indicaciones para quien la escriba (DISEÑO; el diálogo es del autor):
 - **No lo toca.** Su arma es la contraria a la de él: él vuelve irrecuperable una ausencia; ella la vuelve legible.
@@ -234,7 +236,7 @@ Las siete del 2026-11-12 quedaron contestadas el 2026-11-14 (decisiones 8–14 d
 8. **La salida reglamentaria (§7, M4):** ¿aceptas que Chiara no pida sanción, sino el reconocimiento de un hecho, con cuatro votos y unanimidad, y que los Lusardi decidan?
 9. **¿Quién incapacita a Volpi?** Matteo, La Mesa o Kal (§8).
 10. **El asiento Ardizzone (§7, M5):** ¿lo guarda Ettore como apoderado, con Corrado en la sombra, hasta Michael?
-11. **Meridian y Volpi (§8):** ¿Chiara elige la isla sobre entregarlo a los federales?
+11. **Meridian y Volpi (§8):** ¿Chiara elige la isla sobre entregarlo a los federales? **DECISIÓN DEL AUTOR (2026-11-15, matriz causal): sí; lo encierra en una clínica privada de La Isla. Es el motor de la amenaza de Meridian contra Kal (mecanismo A, [[11_Books/00_Matriz_Causal_Saga]] §1).**
 12. **El comunicado como objeto** de la última escena (§8).
 13. **El pasado de Kal:** ¿cobrar en el IV sólo el roce que ya existe (Corrado visitó a Dale en la cárcel y le entregó las cartas a Kal), o buscar una conexión mayor? Opciones en el §8b.
 
