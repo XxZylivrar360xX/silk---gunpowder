@@ -1,6 +1,6 @@
 # Columna maestra del ciclo de Elenna (Libros V–VII): el voto inverso
 
-> **Estado:** DISEÑO y PROPUESTA del agente (Claude Code, 2026-11-15), construido sobre la idea del autor [[07_Ideas/El_Voto_Inverso]] (muy probable canon). **Nada de esto es canon** hasta que el autor lo confirme. No toca prosa. Lo decidido aquí: la **DECISIÓN DEL AUTOR (2026-11-15): la renuncia de Michael a la silla es el acto** que corta el último lazo con La Mesa, y las **siete respuestas del autor del mismo día** (§5).
+> **Estado:** DISEÑO y PROPUESTA del agente (Claude Code, 2026-11-15), construido sobre [[07_Ideas/El_Voto_Inverso]], **CANON DEL AUTOR desde el 2026-11-15**. El resto de este documento es DISEÑO salvo lo marcado como decisión del autor. No toca prosa. Lo decidido aquí: la **DECISIÓN DEL AUTOR (2026-11-15): la renuncia de Michael a la silla es el acto** que corta el último lazo con La Mesa, y las **siete respuestas del autor del mismo día** (§5).
 >
 > **Fuentes:** dos inventarios hechos por subagentes el 2026-11-15, uno del canon del V–VII y otro de los hilos y amenazas que quedan vivos tras el IV. Usa [[00_Biblia/00_Trilogy_Structure]] (ciclo de Elenna), los mapas del [[11_Books/Book_05_Juramento_De_Hierro/00_Book_Map|V]], el [[11_Books/Book_06_Hijos_Del_Silencio/00_Book_Map|VI]] y el [[11_Books/Book_07_Camino_A_Casa/00_Book_Map|VII]], [[07_Ideas/Libro_04_Incubadora/10_Reglas_Revelacion_Caso_Vera]], [[11_Books/00_Libro_Mayor_Deudas_Saga]], [[11_Books/Book_04_Cuentas_De_Sangre/00_Diseno_Complot_De_La_Mesa]] y [[11_Books/00_Diseno_Final_Boston_Y_La_Villa]].
 

@@ -2,7 +2,7 @@
 
 ## Ideas de saga
 
-- [[07_Ideas/El_Voto_Inverso]] — la Villa por Las Gemelas y el regreso de Kal y Chiara como final del ciclo de Elenna (IDEA DEL AUTOR, muy probable canon, 2026-11-15).
+- [[07_Ideas/El_Voto_Inverso]] — la Villa por Las Gemelas y el regreso de Kal y Chiara como final del ciclo de Elenna (CANON DEL AUTOR desde el 2026-11-15; pendiente de propagar).
 
 ## Incubadoras
 

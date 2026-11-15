@@ -1,6 +1,6 @@
 # Diseño: el final en Boston y la herencia de Villa Candelaria
 
-> **IDEA DEL AUTOR (2026-11-15, muy probable nuevo canon):** la Villa por Las Gemelas y la familia en movimiento después del IV; Michael y Elenna terminan el voto para que Kal y Chiara vuelvan a la Villa. Si se confirma, este diseño cambia (Boston pasa a ser una parada). Ver [[07_Ideas/El_Voto_Inverso]].
+> **CANON DEL AUTOR (confirmado el 2026-11-15): el voto inverso.** la Villa por Las Gemelas y la familia en movimiento después del IV; Michael y Elenna terminan el voto para que Kal y Chiara vuelvan a la Villa. Este diseño cambia: Boston pasa a ser una parada y el ancla de la infancia (propagación pendiente). Ver [[07_Ideas/El_Voto_Inverso]].
 
 > **Estado:** las decisiones del §1 son **CANON DEL AUTOR (2026-11-15)**. El resto es DISEÑO del agente (Claude Code, mismo día); lo marcado **PROPUESTA** espera al autor. **No toca prosa.**
 >

@@ -4,6 +4,7 @@ El detalle se guarda una sola vez en notas de sesión. Este archivo es navegaci�
 
 ## Sesiones recientes
 
+- 2026-11-15: DECISIÓN DEL AUTOR: el voto inverso pasa a CANON (la Villa por Las Gemelas, los padres en movimiento, los hijos terminan el voto); propagación pendiente: [[07_Ideas/El_Voto_Inverso]] · [[11_Books/00_Columna_Maestra_Ciclo_Elenna]].
 - 2026-11-15: DECISIONES DEL AUTOR sobre la columna del V–VII: Meridian contra Kal y La Mesa contra Chiara; Varek cobra su cuenta por Iris; Chiara no va al funeral de Corrado; Lucía descubre a Kal en el hospital y debe entregarlo; Volpi le ofrece a Elenna la verdad y ella no la toma; Ventresca y Fioravanti expulsadas; el cierre del VII reúne a la familia y Marisol le dice a Kal «Hola, Papá.»: [[11_Books/00_Columna_Maestra_Ciclo_Elenna]].
 - 2026-11-15: DISEÑO: columna maestra del ciclo de Elenna (un nudo del voto por libro: la casa, el costo, el regreso; los hijos lo terminan viviendo su vida, no salvando a sus padres); DECISIÓN DEL AUTOR: la renuncia de Michael es el acto: [[11_Books/00_Columna_Maestra_Ciclo_Elenna]].
 - 2026-11-15: IDEA DEL AUTOR (muy probable canon): el voto inverso; la Villa por Las Gemelas y el regreso de Kal y Chiara como final de Michael y Elenna: [[07_Ideas/El_Voto_Inverso]].

@@ -1,6 +1,6 @@
 # El voto inverso: el camino a casa de Kal y Chiara
 
-> **Estado:** IDEA del autor (lluvia de ideas, 2026-11-15), **muy probable nuevo canon**. Todavía no es canon: no se propaga a fichas, mapas ni timeline hasta que el autor la confirme. Lo marcado DISEÑO es del agente (Claude Code, mismo día).
+> **Estado:** **CANON DEL AUTOR (confirmado el 2026-11-15)**: las ocho ideas del §1. Nació como lluvia de ideas el mismo día. Las opciones de los §2–§4 siguen siendo DISEÑO salvo lo marcado como decisión; las respuestas del autor están en [[11_Books/00_Columna_Maestra_Ciclo_Elenna]] §5. Lo marcado DISEÑO es del agente (Claude Code, mismo día).
 >
 > **Si se aprueba, toca:** el final en Boston como casa fija ([[11_Books/00_Diseno_Final_Boston_Y_La_Villa]]), la ubicación de la Villa ([[05_Locations/La_Villa]]) y el sentido del cierre del VII ([[11_Books/Book_07_Camino_A_Casa/00_Book_Map]]).
 
