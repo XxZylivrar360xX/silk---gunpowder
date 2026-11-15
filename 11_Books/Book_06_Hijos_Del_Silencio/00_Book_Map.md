@@ -1,6 +1,6 @@
 # Book 06 — Hijos del Silencio
 
-> **DECISIONES DEL AUTOR (2026-11-15, auditoría de destinos):** Al quedarse en San Aurelio con la silla, **Michael reabre él mismo la atención de La Mesa** sobre la ciudad. **Livia rompe desde Palermo y no vuelve** (la semilla de Volpi pasa a una llamada en el VII). Ver [[11_Books/00_Auditoria_Destinos_Elenna_Y_Michael]] §6.
+> **DECISIONES DEL AUTOR (2026-11-15, auditoría de destinos):** integradas en el cuerpo de este mapa, marcadas con su fecha. Ver [[11_Books/00_Auditoria_Destinos_Elenna_Y_Michael]] §6.
 
 > **CANON DEL AUTOR (2026-11-15): el voto inverso.** **Chiara no va al funeral de Corrado** (DECISIÓN DEL AUTOR): es el costo del voto en este libro. Que la carta de Chiara de ese capítulo sea la más importante del ciclo, y que el camper reparta los frentes (Michael, La Mesa; Elenna, Volpi), es DISEÑO. Ver [[07_Ideas/El_Voto_Inverso]] · [[11_Books/00_Columna_Maestra_Ciclo_Elenna]].
 
@@ -46,6 +46,12 @@ Es el libro donde la investigación contemporánea alcanza **resolución visible
 - **Presa del Sur, dos registros en el mismo libro** (CANON DEL AUTOR, 2026-10-03): arriba, en el mirador, Erin confiesa y Elenna la pierde; abajo, en la instalación subterránea de desfogue, se enfrentan Ethan, Nicholas y Elenna en la captura. Ver [[05_Locations/Presa_Del_Sur]].
 - El lector puede reconocer conexiones con la era de Kal y Chiara que Elenna desconoce.
 - **Corrado, Walt y Michael (CANON DEL AUTOR, 2026-10-04):** Corrado muere de muerte natural en su casa de San Aurelio ("para volver con Marta"). Walt, que administraba el Monarch, se retira para pasar tiempo con Nat. [[02_Characters/Michael_Ardizzone]], hermano menor de Elenna, regresa al funeral ahora como el señor Ardizzone *(2026-11-15, DECISIÓN DEL AUTOR: **Chiara no va al funeral de su padre**)* (en el V visitó al abuelo como Michael Mercer y conoció a Iris) y se queda a sostener el Monarch y Bellandi Ridge como representante familiar, con gerencia profesional debajo. Su prometida, **Livia Ferraro** (arquitecta palermitana, civil), viaja con él al funeral, conoce a Elenna y regresa sola a Palermo; él promete alcanzarla y no va ("el deber siempre es primero"). Del camper le da a Elenna la pista de dónde terminó Volpi, sin conectarla con Vera. Se enamora de [[02_Characters/Iris_Harlow|Iris]] (hija de Trix, que conoció a Corrado como Manfred) y se queda en San Aurelio; Livia rompe desde Palermo; la silla la pierde en el VII (supersede el regreso a Italia; ver [[06_Relationships/Michael_e_Iris]]). Durante el libro, la relación profesional crece hasta que se acuestan con él todavía comprometido con Livia (CANON DEL AUTOR 2026-10-04: el error que diferencia su historia de la de Kal y Chiara), sin que la relación empiece; **al cierre**, Michael nombra a Iris administradora de Ridge y toma el Monarch como director general de ambos. Gala posible mientras Livia sigue en San Aurelio. Su historia es civil: no invade la línea policial de Elenna.
+- **Destinos (DECISIÓN DEL AUTOR, 2026-11-15, auditoría):**
+  - Corrado muere a los **~93–94**; Walt se retira del Monarch a los **~87–88**.
+  - Michael llega con la silla ya suya (Ettore la firmó como apoderado). **Al quedarse en San Aurelio con ella, reabre él mismo la atención de La Mesa** sobre la ciudad (Ventresca y Fioravanti vuelven a tener a quién mirar). Es el peligro que su renuncia cerrará en el VII.
+  - En público es **«el señor Ardizzone, inversionista»**: la ciudad sabe que el Monarch y Ridge son de una holding, no quién la firma (la holding Bellandi, de Chiara). Nunca se presenta como hijo de Chiara.
+  - **Livia rompe desde Palermo y no vuelve** (la verdad sobre su padre pasa a una llamada en el VII).
+  - **El camper:** Michael lee lo de Iris en los diarios y calla; Elenna toma las pistas hacia Volpi, sin conectarlas con Vera.
 
 ## Lo que este libro puede y no puede revelar
 

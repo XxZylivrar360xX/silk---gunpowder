@@ -50,6 +50,18 @@ Palermo. Casa modesta azul, molduras blancas, jardín. Chiara con una copa de vi
 
 Esta imagen cierra el arco inmediato de Kal y Chiara. El cierre definitivo de la saga se cobra, tras un salto de aproximadamente veinte años, en [[07_Ideas/Tres_Hermanas_Epilogo|«Tres Hermanas»]]: una escena en San Aurelio donde Bonnie, Marisol y Elenna viven su propia historia sin requerir la presencia ni validación de ellos. Elenna tiene 21 años. Unas semanas después, una historia futura hipotética puede seguir su regreso a San Aurelio como Recluta (tratamiento: Recluta Mercer); esa posibilidad queda fuera de este libro y no altera el cierre. *(2026-11-15: «Recluta Mercer» fue el título provisional del autor para la secuela, no canon; Elenna llega como Ardizzone y recupera Mercer en una audiencia antes de ser cadete. Ver [[11_Books/00_Diseno_Final_Boston_Y_La_Villa]].)*
 
+### Lo que el IV deja a los hijos (DECISIÓN DEL AUTOR, 2026-11-15, auditoría de destinos)
+
+Regla: los hijos podrán pisar San Aurelio y los padres no; cada hijo hereda un nombre, no un poder. Ver [[11_Books/00_Auditoria_Destinos_Elenna_Y_Michael]] §6.
+
+- **Elenna Ardizzone.** Al reunirse la familia, la registran con el apellido legal de Chiara, que en San Aurelio nadie le conoce porque ahí es Bellandi. El resguardo de bebé sigue PENDIENTE.
+- **Michael Mercer.** Se concibe poco después de la reunión y nace (~A7) en el primer año en movimiento (lugar: abierto). No tiene nada que esconder: la Mercer «muerta» es su hermana.
+- **La silla Ardizzone,** tras la purga: la decide Corrado en vida y, como está muerto para la ley, **la firma Ettore como apoderado** (unos 15 años menor que Corrado). Llega a Michael a los 20–21.
+- **Las propiedades:** Ridge y el Monarch quedan en la **holding Bellandi, de Chiara**; la Villa, a nombre de Chiara y al cuidado de Walt.
+- **Marisol** se entera de que Elenna vive después del IV, antes de que Elenna cumpla cinco (la foto del porche); desde ahí guarda distancia con Kal: como fiscal, no puede estar cerca de un fraude que conoce.
+- **Gabe:** de niños, Elenna y Michael lo visitan en San Aurelio; sus padres no pueden ir.
+- **El epílogo de las Tres Hermanas:** Bonnie llega como **Bonnie García** («Roberta Ardizzone», retirada), y Elenna todavía se llama Ardizzone.
+
 ## Arcos de los protagonistas
 
 > **CONTINUIDAD POSTERIOR (2026-09-13):** el epílogo ocurre con Elenna a los 21 años, tras un salto de aproximadamente veinte años desde el cierre inmediato de Palermo. Unas semanas después, una historia futura hipotética puede seguirla al iniciar la academia como Recluta (tratamiento: Recluta Mercer). Esta posibilidad queda fuera de *Cuentas de Sangre* y no altera su cierre. *(2026-11-15: la familia termina en Boston, no en Palermo; ver [[11_Books/00_Diseno_Final_Boston_Y_La_Villa]].)* *(2026-11-15: «Recluta Mercer» fue el título provisional del autor para la secuela, no canon; Elenna llega como Ardizzone y recupera Mercer en una audiencia antes de ser cadete. Ver [[11_Books/00_Diseno_Final_Boston_Y_La_Villa]].)*

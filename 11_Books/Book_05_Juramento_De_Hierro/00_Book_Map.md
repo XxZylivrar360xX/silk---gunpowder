@@ -1,6 +1,6 @@
 # Book 05 — Juramento de Hierro
 
-> **DECISIONES DEL AUTOR (2026-11-15, auditoría de destinos):** Elenna llega como **Elenna Ardizzone** (su nombre desde el fin del IV). La audiencia es un **cambio de nombre** a Mercer, no la resurrección de la bebé, y Lucía no tiene qué conectar. Michael, en su visita, se llama **Michael Mercer** de nacimiento. Ver [[11_Books/00_Auditoria_Destinos_Elenna_Y_Michael]] §6.
+> **DECISIONES DEL AUTOR (2026-11-15, auditoría de destinos):** integradas en el cuerpo de este mapa, marcadas con su fecha. Ver [[11_Books/00_Auditoria_Destinos_Elenna_Y_Michael]] §6.
 
 > **CANON DEL AUTOR (2026-11-15): el voto inverso.** Kal y Chiara no pueden volver a pertenecer a San Aurelio (Meridian contra Kal, La Mesa contra Chiara) y viven en movimiento; por eso no aparecen en este libro. Elenna vive en la Villa, que está en un lote por Las Gemelas; sus padres vuelven a ella en el cierre del VII. Lo que la columna pone en este libro (el nudo de «la casa», los matasellos de ciudades distintas, la llamada final) es DISEÑO. Donde abajo dice «la familia vive en Boston», léase: no hay casa fija (Boston como ancla de la infancia es PROPUESTA de la columna §4). Ver [[07_Ideas/El_Voto_Inverso]] · [[11_Books/00_Columna_Maestra_Ciclo_Elenna]].
 
@@ -37,6 +37,9 @@ Ver [[07_Ideas/Libro_04_Incubadora/01_Nicholas_Voss]] y [[07_Ideas/Libro_04_Incu
 
 - Kal y Chiara viven en Palermo; Elenna vivió con ellos como hija, no como heredera. *(2026-11-15: la familia termina en Boston, no en Palermo; ver [[11_Books/00_Diseno_Final_Boston_Y_La_Villa]]. Voto inverso, CANON DEL AUTOR del mismo día: viven en movimiento, sin casa fija (Boston como ancla, PROPUESTA).)*
 - Elenna, 21 años, decide regresar a San Aurelio e iniciar la academia — ver [[07_Ideas/Arco_Elenna_Libro_04]].
+- **Llega como Elenna Ardizzone** (su nombre desde la reunión al final del IV) y, antes de entrar como cadete, **cambia su apellido a Mercer en una audiencia**, con ayuda de Marisol (DECISIÓN DEL AUTOR, 2026-11-15). No resucita a nadie: la bebé Elenna Mercer y la mujer que cambia de apellido son dos expedientes que nadie conecta; por eso **Lucía, comisionada, no tiene qué conectar** hasta el hospital del VII. El cruce con su hermano es literal: ella creció Ardizzone y elige Mercer.
+- **Bonnie García** volvió a San Aurelio ~un año antes como directora hotelera. **Marisol** sabe que Elenna vive desde antes de sus cinco años, y por eso guarda distancia con Kal (DECISIÓN DEL AUTOR, 2026-11-15).
+- Elenna y Michael conocen San Aurelio desde niños: visitaban a Gabe, adonde sus padres no podían ir. **Corrado tiene ~91; Walt, ~85** (DECISIÓN DEL AUTOR, 2026-11-15).
 - Corrado / Nonno y Bellandi Ridge como espacio cálido de fondo — ver [[07_Ideas/Libro_04_Incubadora/04_Legado_Post_Trilogia]].
 - El caso Vera lleva años cerrado en falso — ver [[07_Ideas/Libro_04_Incubadora/02_Caso_Vera_y_Antagonista]] y [[07_Ideas/Libro_04_Incubadora/05_Volpi_y_Corrado]].
 
@@ -46,6 +49,7 @@ Ver [[07_Ideas/Libro_04_Incubadora/01_Nicholas_Voss]] y [[07_Ideas/Libro_04_Incu
 - Nuevo homicidio reproduce rasgos del caso Vera; Nicholas cree que volvió el adulto que persiguió por años — y descubre, con evidencia sólida, que ese hombre nunca pudo ser el tirador. Su duelo de veinte años se queda sin objeto; el verdadero responsable (Ethan) sigue invisible.
 - Romance de Ethan con Elenna avanza sin revelación. Erin es la única que advierte en voz alta que algo no cuadra; Elenna la descarta.
 - **Trayecto de Elenna (CANON DEL AUTOR, 2026-09-16; ubicado en el V el 2026-10-03):** academia (~6 meses) → graduación → patrulla y mudanza de casa de Marisol a su departamento propio, casi al mismo tiempo. **Rex y K9 no aparecen en este libro** (entran en el VI tras un salto de ~2–3 años; CANON DEL AUTOR 2026-10-03). *(2026-11-15: supersedido; en el V Elenna se muda a Villa Candelaria, que Walt le entrega. Ver [[11_Books/00_Diseno_Final_Boston_Y_La_Villa]].)*
+- **Trayecto vigente (DECISIÓN DEL AUTOR, 2026-11-15):** audiencia (Ardizzone → Mercer) → entra como cadete → unas semanas después, el choque de la fiscalía con un caso suyo complica la vida con Marisol → se lo cuenta a Walt y a Corrado, que comparten un escocés → Walt le da la llave de la Villa y ella encuentra «su cuarto que nunca fue suyo» → academia (~6 meses) → graduación → patrulla, viviendo sola en la Villa. **No es dueña de nada:** la Villa sigue a nombre de Chiara. Rex y K9 no aparecen en este libro.
 - **Cierre — doble golpe:** el duelo de Nicholas sin objeto, en paralelo a la **tensión sin resolver** entre Elenna y Erin — dos personas que deberían protegerse mutuamente, alejándose justo cuando más se necesitan, mientras Ethan queda cómodo y sin sospecha. **Sólo tensión, no ruptura** (CANON DEL AUTOR, 2026-10-03): la fractura abierta se reserva para la presa en el VI.
 
 ## Línea civil: la visita de Michael (CANON DEL AUTOR, 2026-10-04)
@@ -53,6 +57,7 @@ Ver [[07_Ideas/Libro_04_Incubadora/01_Nicholas_Voss]] y [[07_Ideas/Libro_04_Incu
 - [[02_Characters/Michael_Ardizzone|Michael]] (~19) visita a su abuelo, que vive como Manfred Gabe y administra Bellandi Ridge. Se presenta como **Michael Mercer** y conoce a [[02_Characters/Iris_Harlow|Iris]], para quien es el hermano de Elenna y el nieto del señor Gabe.
 - DISEÑO: visita acotada; se va antes del cierre, llamado por la mesa. No toca la línea policial ni a Ethan. Es la única vez que se ve en vida a Corrado con Michael.
 - PENDIENTE: duración y momento de la visita.
+- **Michael Mercer de nacimiento** (DECISIÓN DEL AUTOR, 2026-11-15): todavía no agrega Ardizzone. Es observador en La Mesa y aprende con **Ettore** en Palermo: Corrado decide la silla en vida y Ettore la firma como apoderado. Su hermana ya hizo el camino contrario.
 
 ## Temas (comparte eje con los Libros VI y VII, ver [[07_Ideas/Libro_04_Incubadora/07_Arquitectura_y_Temas]])
 

@@ -1,6 +1,6 @@
 # Book 07 — Camino a Casa
 
-> **DECISIONES DEL AUTOR (2026-11-15, auditoría de destinos):** **El camper, en orden:** Elenna toma primero lo de Volpi y lo mete a evidencia; Michael entrega a La Mesa sólo la historia del Consorzio. **Elenna declara en el expediente lo que sabe de su abuelo** (Gabe pagaba la clínica). **La bomba doble alcanza a Elenna.** **Michael deja la silla y el Monarch** (elegir quién ser, como su hermana). Livia llama una vez, por Volpi. En el cierre, **Elenna es la anfitriona** en la Villa. Ver [[11_Books/00_Auditoria_Destinos_Elenna_Y_Michael]] §6.
+> **DECISIONES DEL AUTOR (2026-11-15, auditoría de destinos):** integradas en el cuerpo de este mapa, marcadas con su fecha. Ver [[11_Books/00_Auditoria_Destinos_Elenna_Y_Michael]] §6.
 
 > **DECISIÓN DEL AUTOR (2026-11-15, matriz causal):** hospital: **Lucía entiende que Elenna vive** y le dice a Kal de frente qué va a hacer y cuánto tiempo le da; **el hangar es una cuenta regresiva**. Caso: **Elenna identifica a Volpi por el camper y lo reporta** (clínica privada en La Isla; custodia; entrevista en regla con Nicholas; en privado la verdad ofrecida y cortada); al reportarlo vivo deshace sin saberlo la sospecha federal contra su padre. **Varek se entera por Lucía** y pide **Bellandi Ridge a nombre de Iris** (a Iris la crió Lucía). **Michael entrega con la silla el archivo del camper** a La Mesa. **Marisol** dice «Hola, Papá.» cuando el expediente ya no nombra a Kal. Ver [[11_Books/00_Matriz_Causal_Saga]].
 
@@ -39,6 +39,7 @@
 - Kal y Chiara ausentes físicamente desde el inicio de la academia (dos libros).
 - **Michael se quedó en San Aurelio** por [[02_Characters/Iris_Harlow|Iris]] (CANON DEL AUTOR, 2026-10-04). Iris administra Ridge y Michael dirige ambos como director general; **en este libro empieza su relación**. Historia civil, paralela; no invade la investigación de Elenna. DISEÑO: el regreso físico de Kal y Chiara los pone frente a su hijo sin silla y frente a la hija de Trix.
 - **Bomba doble y silla (CANON DEL AUTOR, 2026-10-04):** Iris descubre por los diarios de Gabe que Manfred era Corrado Ardizzone y que Michael lo sabía; Michael renuncia a la silla después, sin que eso le compre el perdón. *(2026-11-15, DECISIÓN DEL AUTOR: la renuncia es el acto del voto inverso, el último lazo con La Mesa que se corta.)* Ver [[06_Relationships/Michael_e_Iris]].
+- **La silla en San Aurelio (DECISIÓN DEL AUTOR, 2026-11-15):** al quedarse con ella en el VI, Michael reabrió la atención de La Mesa sobre la ciudad. Es el último peligro contra Chiara, y su renuncia lo cierra.
 
 ## Estructura macro (CANON DEL AUTOR salvo donde se indica)
 
@@ -52,7 +53,12 @@
 - **Reconciliación Elenna/Erin.**
 - **Varek cobra su cuenta con Chiara desde la cárcel, por Iris** (DECISIÓN DEL AUTOR, 2026-11-15). Qué pide: abierto. **Decidido (2026-11-15): Bellandi Ridge a nombre de Iris.**
 - **Volpi, en la isla, le ofrece a Elenna la verdad de sus padres y ella no la toma** (DECISIÓN DEL AUTOR, 2026-11-15). *(2026-11-15: en La Isla de San Aurelio, bajo custodia porque ella lo reportó; la ofrece en privado, sin nombrar delitos, y ella lo corta antes.)*
-- **Cierre: el regreso a la Villa** (DECISIÓN DEL AUTOR, 2026-11-15). Dentro del libro, después del clímax policial; no es una coda sencilla, sino los encuentros de toda la familia. **Marisol, que no ve a Kal desde hace años, le dice por fin: «Hola, Papá.»** (CANON DEL AUTOR). Es la imagen final de la saga. Qué otros encuentros y en qué orden: abierto.
+- **El camper, en orden (DECISIÓN DEL AUTOR, 2026-11-15):** Elenna toma primero lo de Volpi (ruta, clínica, fundación) y lo mete a evidencia. **Declara en el expediente formal lo que sabe de su abuelo:** Manfred Gabe, que pagaba la clínica, era Corrado (a un muerto no se le procesa). Persigue la verdad que es suya y rechaza la de sus padres (lo que le ofrece Volpi). Sólo después Michael entrega a La Mesa, con la silla, la historia del Consorzio; **nunca papeles de la clínica**.
+- **La bomba doble alcanza a Elenna** (DECISIÓN DEL AUTOR, 2026-11-15): Iris entiende que Elenna también sabía. Ahí nace la relación entre las dos, y Elenna no defiende a Michael.
+- **Michael renuncia a la silla y deja también el Monarch** (DECISIÓN DEL AUTOR, 2026-11-15): para elegir por sí mismo quién quiere ser, como su hermana, deja atrás el dogma de Italia, el control y el poder; para él eso es Iris. Termina sin silla ni Monarch (queda una gerencia profesional), en la tierra de Iris si ella lo acepta (sin garantía).
+- **Livia llama una vez** (DECISIÓN DEL AUTOR, 2026-11-15): al saberse que Volpi vive, se entera de que el hombre que mató a su padre siguió vivo porque la familia de Michael lo mantuvo así. No vuelve.
+- **El cobro de Varek, en concreto** (DECISIÓN DEL AUTOR, 2026-11-15): Ridge es de la holding Bellandi, de Chiara, y **Chiara se la pasa a Iris**. Elenna no firma nada.
+- **Cierre: el regreso a la Villa** (DECISIÓN DEL AUTOR, 2026-11-15). Dentro del libro, después del clímax policial; no es una coda sencilla, sino los encuentros de toda la familia. **Marisol, que no ve a Kal desde hace años, le dice por fin: «Hola, Papá.»** (CANON DEL AUTOR). Es la imagen final de la saga. Qué otros encuentros y en qué orden: abierto. En la Villa, **Elenna es la anfitriona** y sus padres los huéspedes; su cuarto ya es suyo cuando ellos llegan (DECISIÓN DEL AUTOR, 2026-11-15).
 
 ## Límites del libro
 
