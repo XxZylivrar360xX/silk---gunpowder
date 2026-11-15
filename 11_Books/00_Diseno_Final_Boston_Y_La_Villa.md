@@ -1,5 +1,7 @@
 # Diseño: el final en Boston y la herencia de Villa Candelaria
 
+> **IDEA DEL AUTOR (2026-11-15, muy probable nuevo canon):** la Villa por Las Gemelas y la familia en movimiento después del IV; Michael y Elenna terminan el voto para que Kal y Chiara vuelvan a la Villa. Si se confirma, este diseño cambia (Boston pasa a ser una parada). Ver [[07_Ideas/El_Voto_Inverso]].
+
 > **Estado:** las decisiones del §1 son **CANON DEL AUTOR (2026-11-15)**. El resto es DISEÑO del agente (Claude Code, mismo día); lo marcado **PROPUESTA** espera al autor. **No toca prosa.**
 >
 > **Supersede** el final en Palermo de *Cuentas de Sangre* ([[00_Biblia/00_Trilogy_Structure]], «Imagen final») y todo lo que colgaba de él. El autor había elegido Palermo porque Bonnie criaba a Elenna en Italia; desde el 2026-11-07 Bonnie vive en Boston (F2 nuevo), y el final se muda con ella.
