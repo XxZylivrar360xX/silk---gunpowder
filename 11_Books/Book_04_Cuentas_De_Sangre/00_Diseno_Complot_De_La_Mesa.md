@@ -229,7 +229,7 @@ Las siete del 2026-11-12 quedaron contestadas el 2026-11-14 (decisiones 8–14 d
 
 **Del complot del pasado y del IV (2026-11-14):**
 
-6. **La venta de Corrado (§6):** ¿aceptas que la vendieron dos familias, Ventresca y Fioravanti, por las rutas, y que La Mesa la encubrió y cobró los frutos? Esto ocupa el PENDIENTE de qué lugar tenía Corrado en La Mesa.
+6. **La venta de Corrado (§6):** ¿aceptas que la vendieron dos familias, Ventresca y Fioravanti, por las rutas, y que La Mesa la encubrió y cobró los frutos? Esto ocupa el PENDIENTE de qué lugar tenía Corrado en La Mesa. **(2026-11-15, DECISIÓN DEL AUTOR: Ventresca y Fioravanti quedan expulsadas de La Mesa en el IV y son parte de la amenaza que impide a Chiara volver a San Aurelio; ver [[11_Books/00_Columna_Maestra_Ciclo_Elenna]].)**
 7. ~~Alessio~~ **Retirado tras la verificación:** la boda es posterior a la redada (§6).
 8. **La salida reglamentaria (§7, M4):** ¿aceptas que Chiara no pida sanción, sino el reconocimiento de un hecho, con cuatro votos y unanimidad, y que los Lusardi decidan?
 9. **¿Quién incapacita a Volpi?** Matteo, La Mesa o Kal (§8).

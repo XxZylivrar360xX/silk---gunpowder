@@ -1,6 +1,6 @@
 # Columna maestra del ciclo de Elenna (Libros V–VII): el voto inverso
 
-> **Estado:** DISEÑO y PROPUESTA del agente (Claude Code, 2026-11-15), construido sobre la idea del autor [[07_Ideas/El_Voto_Inverso]] (muy probable canon). **Nada de esto es canon** hasta que el autor lo confirme. No toca prosa. Lo único decidido aquí es la **DECISIÓN DEL AUTOR (2026-11-15): la renuncia de Michael a la silla es el acto** que corta el último lazo con La Mesa.
+> **Estado:** DISEÑO y PROPUESTA del agente (Claude Code, 2026-11-15), construido sobre la idea del autor [[07_Ideas/El_Voto_Inverso]] (muy probable canon). **Nada de esto es canon** hasta que el autor lo confirme. No toca prosa. Lo decidido aquí: la **DECISIÓN DEL AUTOR (2026-11-15): la renuncia de Michael a la silla es el acto** que corta el último lazo con La Mesa, y las **siete respuestas del autor del mismo día** (§5).
 >
 > **Fuentes:** dos inventarios hechos por subagentes el 2026-11-15, uno del canon del V–VII y otro de los hilos y amenazas que quedan vivos tras el IV. Usa [[00_Biblia/00_Trilogy_Structure]] (ciclo de Elenna), los mapas del [[11_Books/Book_05_Juramento_De_Hierro/00_Book_Map|V]], el [[11_Books/Book_06_Hijos_Del_Silencio/00_Book_Map|VI]] y el [[11_Books/Book_07_Camino_A_Casa/00_Book_Map|VII]], [[07_Ideas/Libro_04_Incubadora/10_Reglas_Revelacion_Caso_Vera]], [[11_Books/00_Libro_Mayor_Deudas_Saga]], [[11_Books/Book_04_Cuentas_De_Sangre/00_Diseno_Complot_De_La_Mesa]] y [[11_Books/00_Diseno_Final_Boston_Y_La_Villa]].
 
@@ -49,7 +49,7 @@ Paga los dos arcos finales del IV:
 | **Chiara** | **La Mesa en San Aurelio.** Mientras haya un Ardizzone sentado, La Mesa mira la ciudad. Ventresca y Fioravanti, expulsadas (PROPUESTA del complot), tienen dos motivos: a Chiara, que las sacó, y a Corrado, la prueba viva de la venta. | Complot §6–§7; [[02_Characters/Michael_Ardizzone]] | **Corrado muere en el VI** (CANON) y con él muere la prueba. **Michael renuncia en el VII** (DECISIÓN DEL AUTOR: el acto) y la silla deja de pasar por San Aurelio. Ya no queda nada ahí que La Mesa necesite vigilar. |
 | **Los dos** | **El secreto del voto.** Varek, Volpi y Lucía creen muerta a Elenna. Si se supiera viva, el voto entero quedaría expuesto. | [[02_Characters/Elenna_Mercer]]; libro mayor E9 | **Volpi la reconoce en la isla** (CANON: «Yo había oído que la niña había muerto»), y el único hombre que podría usarlo ya no puede. **El voto termina cuando el secreto ya no protege nada.** |
 
-**Comodín, PROPUESTA para decidir:** **la cuenta abierta con Varek** (B2: «lo que él quiera, cuando él quiera»). Es la deuda más vieja sin cobrar de la saga. Candidato: Varek la cobra desde la cárcel en el VII y la pide por **Iris**, la nieta que crió aunque no sea de su sangre. Chiara la paga, y la última deuda de la guerra se salda protegiendo a la mujer que ama su hijo. Así se amarran la línea civil de Michael, los Varek y la columna.
+**Comodín, DECISIÓN DEL AUTOR (2026-11-15): sí, por Iris.** **La cuenta abierta con Varek** (B2: «lo que él quiera, cuando él quiera»). Es la deuda más vieja sin cobrar de la saga. Candidato: Varek la cobra desde la cárcel en el VII y la pide por **Iris**, la nieta que crió aunque no sea de su sangre. Chiara la paga, y la última deuda de la guerra se salda protegiendo a la mujer que ama su hijo. Así se amarran la línea civil de Michael, los Varek y la columna.
 
 ---
 
@@ -80,17 +80,23 @@ Paga los dos arcos finales del IV:
 - Elenna en el suelo del banco, espejo de Santa Lucía.
 
 **Lo que agrega la columna:**
-- **Chiara no puede ir al funeral de su padre** (PROPUESTA; consistente con la ausencia física del VI). Es el golpe más cruel del voto y el que hace *sentir* que la ciudad no es segura. **Corrado se perdió la vida de su hija fingiendo una muerte; Chiara se pierde la muerte real de su padre por la vida de la suya.** La carta de Chiara de ese capítulo es la más importante del ciclo.
+- **Chiara no puede ir al funeral de su padre** (DECISIÓN DEL AUTOR, 2026-11-15). Es el golpe más cruel del voto y el que hace *sentir* que la ciudad no es segura. **Corrado se perdió la vida de su hija fingiendo una muerte; Chiara se pierde la muerte real de su padre por la vida de la suya.** La carta de Chiara de ese capítulo es la más importante del ciclo.
 - **El camper reparte los dos frentes sin que nadie lo planee.** Michael carga La Mesa; Elenna, a Volpi. El lector ve armarse la columna; ellos no.
 - **El banco cierra el nudo.** La única cosa más fuerte que el voto es la hija en el suelo. Ahí acaba el VI (CANON), y ahí se decide que los padres vuelvan aunque no sea seguro.
 
 ### VII — *Camino a casa*: el regreso
 
-1. **El hospital: el voto se rompe** (CANON: vuelven). **Es la inversión exacta del III:** ahí eligieron la ausencia para salvarla; aquí eligen la presencia aunque los exponga. PROPUESTA: la visita tiene un costo visible, por ejemplo que Meridian se entere de que Kal está en la ciudad. Así el hangar no es sólo emoción: tienen que irse.
+1. **El hospital: el voto se rompe** (CANON: vuelven). **Es la inversión exacta del III:** ahí eligieron la ausencia para salvarla; aquí eligen la presencia aunque los exponga. **DECISIÓN DEL AUTOR (2026-11-15): Lucía lo descubre y, aunque sean viejos amigos, debe entregarlo.** Así el hangar no es sólo emoción: tienen que irse. *Abierto:*
+   - si Lucía, al ver a Kal junto a la cama de su agente, entiende también que Elenna es su hija y que está viva (paga E9: Lucía protegió de buena fe la falsa muerte);
+   - si le avisa antes de cumplir con su deber;
+   - cómo se disuelve esa obligación para la coda (DISEÑO: el expediente de Meridian pierde su objeto cuando cierra el caso Vera).
 2. **El hangar** (CANON, 4–5 capítulos después de la apertura). Se marchan y Elenna se queda por elección. Para el lector gana una capa: todavía no es seguro.
 3. **El caso, que es sólo de Elenna:** Dylan testigo, la noche Marsh, la isla, cae Blake. En la isla, Volpi la reconoce. **Su regalo no es resolver el pasado de sus padres, sino decidir no perseguirlo** (reglas del caso Vera, pregunta 20: «qué verdad decide no perseguir porque ya no le pertenece»). Volpi le ofrece lo que sabe de sus padres y ella no lo toma.
 4. **Michael renuncia** a la silla por Iris, sin que eso le compre el perdón (CANON). Su efecto (DECISIÓN DEL AUTOR) es el acto que corta el último lazo con La Mesa.
-5. **La coda: el regreso a la Villa.** Se quitan las últimas sábanas. Es la imagen final de la saga y paga el aprendizaje de Kal en el Libro I: «Tengo un lugar al cual volver». **Choca con el canon** «el resto del libro ocurre sin ellos» y requiere decisión del autor: o una coda fuera del cuerpo del libro, o se deja para «La vida de ambos».
+5. **El cierre: el regreso a la Villa** (DECISIÓN DEL AUTOR, 2026-11-15: dentro del VII, después del clímax policial). **No es una coda sencilla: el cierre tiene los encuentros de toda la familia.** Sobre todo **Marisol, que ve a Kal después de años y por fin le dice:**
+   > «Hola, Papá.»
+   
+   (CANON DEL AUTOR.) Se quitan las últimas sábanas. Es la imagen final de la saga y paga el aprendizaje de Kal en el Libro I: «Tengo un lugar al cual volver». **Ajusta el canon** «el resto del libro ocurre sin ellos» (#49): vale hasta el clímax, no para el cierre. *Abierto:* qué otros encuentros (Bonnie, Walt y Mabel, Michael e Iris, Danny, Nadir, Garrett, Ren) y en qué orden.
 
 ---
 
@@ -110,15 +116,17 @@ Paga los dos arcos finales del IV:
 
 ---
 
-## 5. Preguntas para el autor (las que mueven la columna)
+## 5. Respuestas del autor (2026-11-15)
 
-1. **Las amenazas del §2:** ¿Meridian para Kal y La Mesa para Chiara, como propongo?
-2. **La cuenta de Varek:** ¿se cobra en el VII y por Iris?
-3. **La coda del regreso:** ¿dentro del VII, ajustando «el resto del libro sin ellos», o en «La vida de ambos»?
-4. **El funeral de Corrado sin Chiara (VI):** ¿sí?
-5. **El hospital con costo:** ¿la visita expone a Kal ante Meridian y por eso se van?
-6. **Volpi le ofrece a Elenna la verdad de sus padres y ella no la toma:** ¿sí?
-7. **Ventresca y Fioravanti expulsadas** (complot, pregunta 6): ¿se aceptan? Sostienen la amenaza contra Chiara.
+1. **Amenazas:** sí, las dos. **Meridian contra Kal y La Mesa contra Chiara** (§2).
+2. **La cuenta de Varek:** sí. **Varek la cobra desde la cárcel en el VII, por Iris.** *Abierto:* qué pide exactamente.
+3. **El regreso:** **dentro del VII**, y no como coda sencilla: con los encuentros de toda la familia y el «Hola, Papá.» de Marisol a Kal (§3, VII.5).
+4. **El funeral de Corrado (VI):** **Chiara no va.**
+5. **El hospital:** **Lucía descubre a Kal y, aunque sean viejos amigos, debe entregarlo.** Por eso se van en el hangar (§3, VII.1). Esto sustituye la propuesta de que fuera Meridian quien se enterara.
+6. **Volpi:** sí. **Le ofrece a Elenna la verdad de sus padres y ella no la toma.**
+7. **Ventresca y Fioravanti:** sí, **expulsadas de La Mesa en el IV.** Esto resuelve la pregunta 6 del complot.
+
+**Siguiente paso:** propagar a fichas, mapas del V–VII, el complot y el libro mayor cuando el autor confirme como canon la idea madre del voto inverso.
 
 ---
 

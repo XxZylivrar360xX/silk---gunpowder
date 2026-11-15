@@ -4,6 +4,7 @@ El detalle se guarda una sola vez en notas de sesión. Este archivo es navegaci�
 
 ## Sesiones recientes
 
+- 2026-11-15: DECISIONES DEL AUTOR sobre la columna del V–VII: Meridian contra Kal y La Mesa contra Chiara; Varek cobra su cuenta por Iris; Chiara no va al funeral de Corrado; Lucía descubre a Kal en el hospital y debe entregarlo; Volpi le ofrece a Elenna la verdad y ella no la toma; Ventresca y Fioravanti expulsadas; el cierre del VII reúne a la familia y Marisol le dice a Kal «Hola, Papá.»: [[11_Books/00_Columna_Maestra_Ciclo_Elenna]].
 - 2026-11-15: DISEÑO: columna maestra del ciclo de Elenna (un nudo del voto por libro: la casa, el costo, el regreso; los hijos lo terminan viviendo su vida, no salvando a sus padres); DECISIÓN DEL AUTOR: la renuncia de Michael es el acto: [[11_Books/00_Columna_Maestra_Ciclo_Elenna]].
 - 2026-11-15: IDEA DEL AUTOR (muy probable canon): el voto inverso; la Villa por Las Gemelas y el regreso de Kal y Chiara como final de Michael y Elenna: [[07_Ideas/El_Voto_Inverso]].
 - 2026-11-15: DECISIÓN DEL AUTOR: la familia termina en Boston, no en Palermo; Villa Candelaria siempre a nombre de Chiara (testamento de Kal), Walt la guarda y en el V se la da a Elenna («No seas ridícula, niña…», con Corrado y un escocés); Elenna llega como Ardizzone y recupera Mercer en una audiencia; «su cuarto que nunca fue suyo». Restos de Italia, Palermo, «Recluta Mercer» y «departamento propio» marcados en unos 45 archivos, con dos verificaciones por subagentes: [[11_Books/00_Diseno_Final_Boston_Y_La_Villa]]
