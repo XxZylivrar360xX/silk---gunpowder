@@ -1,6 +1,6 @@
 # Portada de *Cuentas de Sangre*: el hilo rojo
 
-**Estado:** DISEÑO (2026-11-16); v1 compuesta, espera aprobación. Concepto elegido por el autor: el foco deja de ser la silla (quién gobierna el vacío) y pasa a ser **la salida de Kal y Chiara y las cadenas del pasado que los detienen de volver a Elenna**, conservando el expediente de Meridian. Las imágenes generadas son referencia, no canon. Sustituye como dirección a [[99_Reference/book_covers/Cuentas_De_Sangre_VICTOR_PAZ.png]] (sillón, mano con anillo, expediente con fotos de frente), que se conserva hasta aprobar la nueva.
+**Estado:** DECISIÓN DEL AUTOR (2026-11-16): v1 aprobada como portada. Concepto elegido por el autor: el foco deja de ser la silla (quién gobierna el vacío) y pasa a ser **la salida de Kal y Chiara y las cadenas del pasado que los detienen de volver a Elenna**, conservando el expediente de Meridian. Las imágenes generadas son referencia, no canon. Sustituye como dirección a [[99_Reference/book_covers/Cuentas_De_Sangre_VICTOR_PAZ_v0_retirada.png]] (sillón, mano con anillo, expediente con fotos de frente), retirada el 2026-11-16.
 
 ## Por qué este concepto
 
@@ -89,5 +89,5 @@ Camino que llevó a la base, con indicaciones del autor en cada paso:
 
 ## Pendiente
 
-- El autor aprueba la v1. Al aprobarla, renombrar la original como `Cuentas_De_Sangre_VICTOR_PAZ_v0_retirada.png` (no borrarla). El Libro IV todavía no tiene build de EPUB.
+- Cuando el Libro IV tenga build de EPUB, usar la v1 como portada.
 - Escalado por IA de la base antes de la versión impresa.
