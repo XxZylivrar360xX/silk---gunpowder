@@ -7,17 +7,17 @@ capitulo: 38
 pov: Nadir Amrani, único
 ventana_temporal: el jueves, finales de abril A4; de las diez de la noche a la madrugada
 localizacion: un lote baldío en Canal Seco (punto de reunión); el corralón de los Calderos en Las Calderas; la camioneta por Canal Road, frente a la clínica de urgencias; El Patio (el taller de Almendra Towing)
-personajes: Nadir Amrani, Mei Nakano, Kal Mercer, Bonnie García, Danny Hayes, Tyler Brooks, Harper Walker, Héctor Navarro
-hito: F2 — la muerte de Mei
+personajes: Nadir Amrani, Meiko Nakano, Kal Mercer, Bonnie García, Danny Hayes, Tyler Brooks, Harper Walker, Héctor Navarro
+hito: F2 — la muerte de Meiko
 ---
 
-> **Estado:** BORRADOR del agente (Claude Code; 2026-11-13, segunda versión 2026-11-15), para lectura del autor. Tercer capítulo del arco de Mei; ejecuta F2-A. Fuentes: [[06_Relationships/Momentos_de_Fractura#F2 - La muerte de Mei y la salida de Bonnie|F2]] y [[11_Books/Book_02_Sombras_De_Poder/00_Guia_Redaccion_Capitulos]], ficha del 38.
+> **Estado:** BORRADOR del agente (Claude Code; 2026-11-13, segunda versión 2026-11-15), para lectura del autor. Tercer capítulo del arco de Meiko; ejecuta F2-A. Fuentes: [[06_Relationships/Momentos_de_Fractura#F2 - La muerte de Meiko y la salida de Bonnie|F2]] y [[11_Books/Book_02_Sombras_De_Poder/00_Guia_Redaccion_Capitulos]], ficha del 38.
 >
-> **CANON citado literal:** «¡Mei, Mei, Mei, Mei!»; «Perdóname, jefe.»; la respuesta de Kal, «—Eso ya no importa, estás aquí… con nosotros.» (CANON DEL AUTOR, 2026-11-13; ortografía normalizada). **CANON (hechos):** Nadir le dice a Mei antes de empezar que está decepcionado; puñalada muy arriba del muslo que perfora la femoral; el torniquete improvisado no aguanta, por la anatomía y no por torpeza; la regla del Patio (nunca un hospital directo desde una operación) la lleva a El Patio; muere en manos de Nadir, con la banda alrededor; Bonnie le sostiene la mano y pide una ambulancia; los ojos miran a la nada y a Kal a la vez; otros chicos vuelven heridos y van después al hospital con una historia armada. Kal no llora.
+> **CANON citado literal:** «¡Mei, Mei, Mei, Mei!»; «Perdóname, jefe.»; la respuesta de Kal, «—Eso ya no importa, estás aquí… con nosotros.» (CANON DEL AUTOR, 2026-11-13; ortografía normalizada). **CANON (hechos):** Nadir le dice a Meiko antes de empezar que está decepcionado; puñalada muy arriba del muslo que perfora la femoral; el torniquete improvisado no aguanta, por la anatomía y no por torpeza; la regla del Patio (nunca un hospital directo desde una operación) la lleva a El Patio; muere en manos de Nadir, con la banda alrededor; Bonnie le sostiene la mano y pide una ambulancia; los ojos miran a la nada y a Kal a la vez; otros chicos vuelven heridos y van después al hospital con una historia armada. Kal no llora.
 >
-> **Segunda versión: que duela por injusta (DECISIÓN DEL AUTOR, 2026-11-15).** El autor aprobó: pasan frente a una clínica de urgencias y no se detienen; ella misma defiende la regla («Por el hospital no. Los ata.»); muere por quedarse a cuidar al último en salir, que es Nadir; el «luego hablamos» de Nadir repite el «Después.» de Kal; la caja del dinero llega limpia junto a ella; la falsa esperanza cuando la sangre sale más despacio. **Lo que más duele es el silencio de después (DECISIÓN DEL AUTOR, 2026-11-15):** no hay la risa con la que, otras noches, se quitan los chalecos antibalas mientras cuentan lo épico que fue el jefe. **DISEÑO del agente:** la clínica de Canal Road (el Santa Aurelia está en Calle Corona y no queda en la ruta); el ritual sembrado en el lote (Tyler imita a Kal) y negado en el taller (el velcro); el chaleco intacto de Mei; el chico que llora mientras huye; Bonnie en El Patio con la radio, no en la operación; el cambio de turno de los Calderos como mala suerte, no filtración. **DISEÑO (2026-11-12, registrado por el autor):** la apuñala un Caldero joven sin nombre; Nadir sólo le ve la mano y la navaja retráctil con flamas verdes.
+> **Segunda versión: que duela por injusta (DECISIÓN DEL AUTOR, 2026-11-15).** El autor aprobó: pasan frente a una clínica de urgencias y no se detienen; ella misma defiende la regla («Por el hospital no. Los ata.»); muere por quedarse a cuidar al último en salir, que es Nadir; el «luego hablamos» de Nadir repite el «Después.» de Kal; la caja del dinero llega limpia junto a ella; la falsa esperanza cuando la sangre sale más despacio. **Lo que más duele es el silencio de después (DECISIÓN DEL AUTOR, 2026-11-15):** no hay la risa con la que, otras noches, se quitan los chalecos antibalas mientras cuentan lo épico que fue el jefe. **DISEÑO del agente:** la clínica de Canal Road (el Santa Aurelia está en Calle Corona y no queda en la ruta); el ritual sembrado en el lote (Tyler imita a Kal) y negado en el taller (el velcro); el chaleco intacto de Meiko; el chico que llora mientras huye; Bonnie en El Patio con la radio, no en la operación; el cambio de turno de los Calderos como mala suerte, no filtración. **DISEÑO (2026-11-12, registrado por el autor):** la apuñala un Caldero joven sin nombre; Nadir sólo le ve la mano y la navaja retráctil con flamas verdes.
 >
-> **Guarda:** la operación no se pierde por una filtración de Mei; nada en la página lo sugiere. El forro de la camioneta se ve después del entierro (39), no aquí. **Siembra:** el ritual de los chalecos y «¿Ya terminaste?» se siembran en el levantón (29), en POV de Chiara (DECISIÓN DEL AUTOR, 2026-11-15; ficha del 29 en la guía).
+> **Guarda:** la operación no se pierde por una filtración de Meiko; nada en la página lo sugiere. El forro de la camioneta se ve después del entierro (39), no aquí. **Siembra:** el ritual de los chalecos y «¿Ya terminaste?» se siembran en el levantón (29), en POV de Chiara (DECISIÓN DEL AUTOR, 2026-11-15; ficha del 29 en la guía).
 
 # Perdóname, jefe
 
@@ -27,11 +27,11 @@ Nadir había hecho la cuenta tres veces en el camino. Cuarenta minutos para que 
 
 Le gustaban las cuentas porque cerraban. Esa noche no le cerraba ninguna, y no sabía cuál.
 
-Se estaban poniendo los chalecos. Kal los repartía de una caja de cartón, uno por uno, sin mirar las tallas porque ya las sabía, y cada quien se lo ajustaba debajo de la chaqueta con el ruido del velcro, que en el silencio del lote sonaba como tela que se rompe. Tyler se lo cerró de un tirón y se puso a contarle a Mei, con las manos, lo de febrero con los Calderos: Kal parado en medio, sin sacar el arma, preguntándole al tipo de la pistola si ya había terminado, como quien espera turno en una ventanilla. Tyler bajaba la voz para imitarlo, la ponía grave y plana, y se le escapaba la risa antes de terminar.
+Se estaban poniendo los chalecos. Kal los repartía de una caja de cartón, uno por uno, sin mirar las tallas porque ya las sabía, y cada quien se lo ajustaba debajo de la chaqueta con el ruido del velcro, que en el silencio del lote sonaba como tela que se rompe. Tyler se lo cerró de un tirón y se puso a contarle a Meiko, con las manos, lo de febrero con los Calderos: Kal parado en medio, sin sacar el arma, preguntándole al tipo de la pistola si ya había terminado, como quien espera turno en una ventanilla. Tyler bajaba la voz para imitarlo, la ponía grave y plana, y se le escapaba la risa antes de terminar.
 
 —«¿Ya terminaste?» —dijo Tyler, con la voz de Kal—. Y el tipo con la pistola, Mei. El tipo con la pistola en la mano.
 
-Mei asentía sin contestar, recostada en la camioneta de Harper, con la capucha puesta y las manos en los bolsillos. Miraba el humo del mercado. Kal, a dos pasos, ajustándose su propio chaleco, hacía como que no oía.
+Meiko asentía sin contestar, recostada en la camioneta de Harper, con la capucha puesta y las manos en los bolsillos. Miraba el humo del mercado. Kal, a dos pasos, ajustándose su propio chaleco, hacía como que no oía.
 
 Nadir la estuvo mirando un rato desde la primera camioneta. Después se bajó.
 
@@ -47,7 +47,7 @@ Ella esperó.
 
 —En enero te enseñé a cambiar el embrague del Taurus. Te quedaste toda la tarde. Me hiciste preguntas que nadie me hace, Mei, sobre el disco, sobre el collarín, por qué este y no el otro. Wallah, yo pensé: ésta se queda. Ésta va a saber más que Danny en un año. —Se encogió de hombros, como quien acepta un precio malo—. Ya me habías vendido en enero. Mientras te enseñaba.
 
-Mei no bajó la vista. La sostuvo, y eso a Nadir le dolió más de lo que esperaba, porque era la cara de siempre, la de la muchacha que medía cada cosa antes de decidir si se quedaba.
+Meiko no bajó la vista. La sostuvo, y eso a Nadir le dolió más de lo que esperaba, porque era la cara de siempre, la de la muchacha que medía cada cosa antes de decidir si se quedaba.
 
 —No te voy a mentir —dijo él—. Estoy decepcionado. Eso es todo. Eso es lo que te quería decir.
 
@@ -63,7 +63,7 @@ Kal no le preguntó qué le había dicho.
 
 El corralón de los Calderos estaba al final de una calle sin salida en Las Calderas, detrás de dos talleres cerrados y de un patio de chatarra donde las pilas de coches aplastados subían más alto que las tapias. De noche, la única luz era una lámpara de sodio colgada sobre el portón, que zumbaba, y la de la caseta del guardia, que tenía un televisor encendido sin volumen. Atrás, el corralón daba a un callejón de tierra que corría entre las pilas de chatarra y salía, cien metros más allá, a una calle de bodegas que de noche no usaba nadie.
 
-Ese callejón era el de Mei. Lo había corrido de noche, años atrás, cuando era de otra banda y las carreras pasaban por ahí porque no había trenes. Sabía dónde se encharcaba y dónde había una zanja que se tragaba una llanta, y sabía que la salida a la calle de las bodegas tenía un poste de concreto en medio que dejaba pasar un coche a la vez, si el coche era chico. En el plan, ella y Tyler cuidaban el callejón, y la camioneta de Harper esperaba en la calle de las bodegas con el motor encendido. Si algo se torcía, todos salían por ahí, y ella salía detrás de Danny, que llevaba la caja. Ésa era su parte: Danny pasa, ella se va.
+Ese callejón era el de Meiko. Lo había corrido de noche, años atrás, cuando era de otra banda y las carreras pasaban por ahí porque no había trenes. Sabía dónde se encharcaba y dónde había una zanja que se tragaba una llanta, y sabía que la salida a la calle de las bodegas tenía un poste de concreto en medio que dejaba pasar un coche a la vez, si el coche era chico. En el plan, ella y Tyler cuidaban el callejón, y la camioneta de Harper esperaba en la calle de las bodegas con el motor encendido. Si algo se torcía, todos salían por ahí, y ella salía detrás de Danny, que llevaba la caja. Ésa era su parte: Danny pasa, ella se va.
 
 Nada se torció al principio.
 
@@ -77,7 +77,7 @@ Después fue rápido. Siempre era rápido. Gritos, las luces de los coches barri
 
 El callejón estaba oscuro. La lámpara del portón no llegaba hasta ahí, y las pilas de chatarra a los lados hacían un pasillo negro, con el cielo naranja de la ciudad arriba, en una franja. Adelante, a cincuenta metros, se veían las luces de la camioneta de Harper, del otro lado del poste de concreto. Danny ya había pasado con la caja. Tyler había pasado. El callejón tenía que estar vacío.
 
-Mei seguía ahí.
+Meiko seguía ahí.
 
 Estaba a medio callejón, junto a la zanja, de pie, donde no tenía que estar. Danny había pasado hacía casi un minuto y ella no se había ido. Esperaba. Nadir la vio levantar el brazo cuando lo vio venir y señalarle el lado bueno, el que no se encharcaba, el de la orilla, y la vio no mirarlo a la cara sino a los pies, para que no los metiera en la zanja en lo oscuro. Lo había esperado a él.
 
@@ -87,7 +87,7 @@ Y vio la sombra que salió de entre dos coches aplastados, a la espalda de ella.
 
 Era más chico que ella. Eso fue lo primero, y lo único que Nadir pudo decir después de él: que era más chico que ella, flaco, con una sudadera oscura. No le vio la cara. Le vio la mano. La mano subió y bajó una sola vez, rápido, de abajo hacia arriba, casi sin fuerza, como quien abre una caja de cartón, como quien empuja para abrirse paso, y en la mano, a la luz que venía de la camioneta, Nadir vio una navaja de las que se cierran con un botón, con el mango pintado de flamas verdes.
 
-Mei no gritó. Hizo un ruido como de sorpresa, «ah», como cuando uno pisa un escalón que no estaba, y se le dobló la pierna.
+Meiko no gritó. Hizo un ruido como de sorpresa, «ah», como cuando uno pisa un escalón que no estaba, y se le dobló la pierna.
 
 El muchacho ya se había ido. Se metió otra vez entre las pilas y desapareció, y Nadir oyó sus tenis sobre la lámina de algún techo aplastado, alejándose, y oyó otra cosa, algo que se le quedó: un ruido de garganta, entrecortado, el de alguien que llora mientras corre. No lo siguió. No pensó en seguirlo. Ya estaba de rodillas en el lodo.
 
@@ -111,7 +111,7 @@ Kal ya venía. Kal llegó corriendo por el callejón, con Tyler detrás, que se 
 
 —¡No hay más arriba!
 
-Kal puso las dos manos encima de las de Nadir, encima de las de Mei, y apretó. Apretaron los tres. Mei hizo otro ruido, más largo, y echó la cabeza hacia atrás contra el lodo.
+Kal puso las dos manos encima de las de Nadir, encima de las de Meiko, y apretó. Apretaron los tres. Meiko hizo otro ruido, más largo, y echó la cabeza hacia atrás contra el lodo.
 
 —A la camioneta —dijo Kal—. Ya. Nadir, tú no sueltas. Tú no sueltas, ¿me oyes?
 
@@ -133,7 +133,7 @@ Lo dijo ella. Desde el piso, con la cabeza contra la rueda de repuesto, con la v
 
 —Por el hospital no —repitió—. Los ata.
 
-Nadie dijo nada. Danny miró a Kal. Kal miró a Mei, en el piso, con las manos de Nadir encima de las suyas.
+Nadie dijo nada. Danny miró a Kal. Kal miró a Meiko, en el piso, con las manos de Nadir encima de las suyas.
 
 Kal no le dijo que no.
 
@@ -147,7 +147,7 @@ Y arrancó.
 
 Nadir contó.
 
-No quería contar y contó, porque no sabía hacer otra cosa con la cabeza cuando las manos estaban ocupadas, y las manos estaban ocupadas. La camioneta brincaba en los baches de Las Calderas y él apretaba. Salieron a Canal Road y él apretaba. Mei tenía frío. Le temblaba la mandíbula como cuando alguien sale del agua en invierno.
+No quería contar y contó, porque no sabía hacer otra cosa con la cabeza cuando las manos estaban ocupadas, y las manos estaban ocupadas. La camioneta brincaba en los baches de Las Calderas y él apretaba. Salieron a Canal Road y él apretaba. Meiko tenía frío. Le temblaba la mandíbula como cuando alguien sale del agua en invierno.
 
 —Tengo frío —dijo.
 
@@ -161,13 +161,13 @@ Entró por las ventanillas de atrás, roja, y se quedó. Nadir levantó la vista
 
 La camioneta no frenó.
 
-Nadir vio la luz roja pasarle a Mei por la cara, despacio, de la frente a la barbilla, y vio que ella la veía también, que tenía los ojos abiertos y miraba el techo de la camioneta pintado de rojo, y que sabía lo que era. Después la luz se fue para atrás, se hizo chica en el vidrio de la puerta trasera, se volvió un punto, y el techo volvió a ser oscuro.
+Nadir vio la luz roja pasarle a Meiko por la cara, despacio, de la frente a la barbilla, y vio que ella la veía también, que tenía los ojos abiertos y miraba el techo de la camioneta pintado de rojo, y que sabía lo que era. Después la luz se fue para atrás, se hizo chica en el vidrio de la puerta trasera, se volvió un punto, y el techo volvió a ser oscuro.
 
 Adelante, Kal no volvió la cabeza. Tenía las manos en el volante a las diez y diez, quietas, como en un examen de manejo, y la aguja del velocímetro no bajaba.
 
 Harper hablaba por teléfono en voz baja, con la doctora o con alguien, dando la dirección del taller, la entrada de atrás.
 
-Mei le apretó la muñeca a Nadir. Tenía la mano fría y pegajosa.
+Meiko le apretó la muñeca a Nadir. Tenía la mano fría y pegajosa.
 
 —Nadir.
 
@@ -207,11 +207,11 @@ La bajaron entre cuatro. La pusieron en el suelo de la bahía, sobre unas lonas 
 
 Bonnie llegó corriendo desde la oficina.
 
-Nadir la vio llegar y la vio frenarse, como si hubiera chocado con una pared que no estaba ahí, a dos pasos, al ver lo que había en el suelo. Después la vio caer de rodillas al lado de Mei, del lado de la cabeza, y tomarle la mano, la que no tenía en la herida, con las dos suyas.
+Nadir la vio llegar y la vio frenarse, como si hubiera chocado con una pared que no estaba ahí, a dos pasos, al ver lo que había en el suelo. Después la vio caer de rodillas al lado de Meiko, del lado de la cabeza, y tomarle la mano, la que no tenía en la herida, con las dos suyas.
 
 —Mei. Mei. Soy yo.
 
-Mei la miró. Le apretó la mano, o intentó.
+Meiko la miró. Le apretó la mano, o intentó.
 
 —Bon.
 
@@ -233,7 +233,7 @@ Ella giró la cabeza en la lona. No lo buscaba a él. Buscaba entre los que esta
 
 Kal estaba de pie detrás de Bonnie. Se arrodilló.
 
-Mei lo encontró. Se quedó mirándolo. Movió los labios una vez, sin voz, y después lo intentó otra vez, y le salió, bajito, para él, con el poco aire que le quedaba:
+Meiko lo encontró. Se quedó mirándolo. Movió los labios una vez, sin voz, y después lo intentó otra vez, y le salió, bajito, para él, con el poco aire que le quedaba:
 
 —Perdóname, jefe.
 
@@ -241,19 +241,19 @@ Kal se inclinó sobre ella. Le puso una mano en la frente, sobre el pelo, la man
 
 —Eso ya no importa —dijo—. Estás aquí… con nosotros.
 
-Nadir lo vio. Vio los ojos de Mei cuando Kal terminó de decirlo. Estaban abiertos y miraban a Kal, y al mismo tiempo ya no miraban nada. Miraban a Kal y a algo detrás de Kal, a la nada, las dos cosas a la vez, y Nadir no supo en qué momento una cosa se había vuelto la otra.
+Nadir lo vio. Vio los ojos de Meiko cuando Kal terminó de decirlo. Estaban abiertos y miraban a Kal, y al mismo tiempo ya no miraban nada. Miraban a Kal y a algo detrás de Kal, a la nada, las dos cosas a la vez, y Nadir no supo en qué momento una cosa se había vuelto la otra.
 
 —Mei —dijo—. Mei. Mei. ¡Mei, Mei, Mei, Mei!
 
 Lo gritó. No supo que lo estaba gritando hasta que Héctor le puso una mano en el hombro, y después la otra, y lo sostuvo desde atrás, sin quitarlo, sin decirle que soltara. Nadir no soltó. Siguió apretando un rato largo, con todas sus fuerzas, sobre una herida que ya no sangraba.
 
-Bonnie no gritaba. Tenía la mano de Mei entre las suyas, contra el pecho, y la miraba, y no decía nada, y nadie en la bahía decía nada, y lo único que se oía era la lámpara de trabajo, que zumbaba, y el perro del lote de al lado, que se había puesto a ladrar.
+Bonnie no gritaba. Tenía la mano de Meiko entre las suyas, contra el pecho, y la miraba, y no decía nada, y nadie en la bahía decía nada, y lo único que se oía era la lámpara de trabajo, que zumbaba, y el perro del lote de al lado, que se había puesto a ladrar.
 
 ***
 
 Kal no lloró.
 
-Nadir lo vio, después, cuando pudo ver otra cosa que sus propias manos. Kal se había levantado y estaba de pie al lado de la lona, mirando a Mei, y tenía la cara de siempre. La de las mañanas en el taller. La de cuando un motor no tenía arreglo y había que decírselo al dueño. Estuvo así un rato. Después se agachó, le cerró los ojos con dos dedos, y se volvió a levantar.
+Nadir lo vio, después, cuando pudo ver otra cosa que sus propias manos. Kal se había levantado y estaba de pie al lado de la lona, mirando a Meiko, y tenía la cara de siempre. La de las mañanas en el taller. La de cuando un motor no tenía arreglo y había que decírselo al dueño. Estuvo así un rato. Después se agachó, le cerró los ojos con dos dedos, y se volvió a levantar.
 
 Y empezó a dar órdenes.
 
@@ -269,7 +269,7 @@ Nadir soltó.
 
 Se miró las manos. Las tenía rojas hasta las muñecas, con la sangre ya oscura en los pliegues de los dedos y debajo de las uñas, y en la izquierda, atravesada sobre la palma, la marca del cinturón, que había apretado tanto que se le había quedado grabada en la piel.
 
-Bonnie seguía de rodillas. No había soltado la mano de Mei. Nadie se lo pidió.
+Bonnie seguía de rodillas. No había soltado la mano de Meiko. Nadie se lo pidió.
 
 ***
 
@@ -285,7 +285,7 @@ Al final, Harper se llevó la mano al costado y buscó la orilla del velcro. Tir
 
 El ruido llenó el taller. Un desgarrón largo, áspero, solo. Rebotó en la lámina del techo y en las paredes y se quedó, y Harper se quedó quieta con la mano en el chaleco a medio abrir, como si hubiera roto algo, y no siguió.
 
-Nadie dijo nada. Nadie contó nada. Nadie dijo lo que había hecho el jefe. El jefe estaba ahí, en la orilla de la lona, con su chaleco puesto, mirando una manta de las que se usaban para cubrir los asientos, que alguien había puesto encima de Mei, y debajo de la manta, en el suelo de la bahía tres, se veían los tenis, más chicos que los de todos.
+Nadie dijo nada. Nadie contó nada. Nadie dijo lo que había hecho el jefe. El jefe estaba ahí, en la orilla de la lona, con su chaleco puesto, mirando una manta de las que se usaban para cubrir los asientos, que alguien había puesto encima de Meiko, y debajo de la manta, en el suelo de la bahía tres, se veían los tenis, más chicos que los de todos.
 
 Nadir se quitó el chaleco despacio, tirando del velcro poco a poco, de a un centímetro, para que no sonara. Sonó igual.
 

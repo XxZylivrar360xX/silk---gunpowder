@@ -137,7 +137,7 @@ Nombre privado de Chiara para el núcleo joven.
 
 - **[[02_Characters/Harper_Walker|Harper "Sparks" Walker]]** — norte rural, conducción, terreno.
 - **[[02_Characters/Tyler_Brooks|Tyler "Switch" Brooks]]** — carreras, convocatoria, red informal.
-- **[[02_Characters/Mei_Nakano]]** — ex banda rival, conducción fría, memoria de una organización caída.
+- **[[02_Characters/Meiko_Nakano]]** — ex banda rival, conducción fría, memoria de una organización caída.
 - **[[02_Characters/Bonnie_Garcia]]** — ex banda rival, protegida de Chiara, aprendizaje de lectura de escenarios.
 
 ### Consolidación

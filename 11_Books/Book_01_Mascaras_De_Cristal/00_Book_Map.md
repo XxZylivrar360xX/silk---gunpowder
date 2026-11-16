@@ -101,7 +101,7 @@ Fuente macro: [[01_Timeline/02_Libro_01_Mascaras_De_Cristal]]. No asigna capítu
 
 | Parte | Entrada y salida |
 |---|---|
-| III — Ardizzone | Conserva Matteo → H16 → crecimiento/Fabrizio → Tommaso/Mei (sembrado) → H13/Palermo → F1 → Camp Alder (H19) → **arco sin Kal (H20, Caps. 49–54; archivos 44–49):** institución, red, El Patio, Dario, los Bravos, Il Consorzio → convoy señuelo, apagón/monólogo → loft / **Ciao, bella** (fin del 55) → **Halbrook en San Aurelio (56) — cierra el Libro I**. ~~… apagón/monólogo → loft / Ciao, bella — cierra el Libro I~~ (orden de 2026-09-22, superado). |
+| III — Ardizzone | Conserva Matteo → H16 → crecimiento/Fabrizio → Tommaso/Meiko (sembrado) → H13/Palermo → F1 → Camp Alder (H19) → **arco sin Kal (H20, Caps. 49–54; archivos 44–49):** institución, red, El Patio, Dario, los Bravos, Il Consorzio → convoy señuelo, apagón/monólogo → loft / **Ciao, bella** (fin del 55) → **Halbrook en San Aurelio (56) — cierra el Libro I**. ~~… apagón/monólogo → loft / Ciao, bella — cierra el Libro I~~ (orden de 2026-09-22, superado). |
 
 H8, F4, F3, F2, Villa, Stavanger y H1 ya no pertenecen a este libro — ver
 [[11_Books/Book_02_Sombras_De_Poder/00_Book_Map]]. Elenna sólo aparece aquí de forma indirecta
@@ -153,7 +153,7 @@ Después, al alba, un hombre sin nombre (Halbrook) baja de un helicóptero en Ki
 abre una carpeta con fotos de todos ellos; al reverso de una, "Chiara Bellandi" (Cap. 56, archivo 50b).
 Chiara le debe a Dario una cuenta abierta, su nombre quedó escrito con los Bravos y
 Il Consorzio le ofreció el Monarch.
-El imperio, la guerra, la pérdida de Bonnie y Mei y el embarazo ~~y la llegada de Halbrook~~ (pasó al archivo 50b, hoy Cap. 56, 2026-10-01)
+El imperio, la guerra, la pérdida de Bonnie y Meiko y el embarazo ~~y la llegada de Halbrook~~ (pasó al archivo 50b, hoy Cap. 56, 2026-10-01)
 pertenecen al Libro II en adelante. La imagen final de la saga completa (Palermo, la niña en
 casa) sigue siendo la de *Cuentas de Sangre* — ver [[00_Biblia/00_Trilogy_Structure]].
 

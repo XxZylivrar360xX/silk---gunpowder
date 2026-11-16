@@ -1359,7 +1359,7 @@ El autor describió tres conflictos intensos de la historia original para adapta
 **Nuevo canon de diseño instalado:**
 
 - **F1 - La mentira bajo la lluvia:** Chiara ayuda a Elliot Price, un hombre autista, se sobrecorrige al defenderlo, termina encubriendo el daño a un auto de Cole y le miente. La discusión ocurre bajo la lluvia en [[05_Locations/Bellandi_Ridge_Vineyards]], vestidos para una fiesta importante. Línea adaptada: **No me duele que lo hayas elegido a él. Me duele que me hayas mentido.**
-- **F2 - El destierro de Bonnie y la muerte de Mei-Lin:** Cole pone a prueba a [[02_Characters/Mei_Nakano]] y [[02_Characters/Bonnie_Garcia]]. Mei-Lin deja una duda de lealtad que arrastra a Bonnie. Mei-Lin es ejecutada y su cuerpo termina en el mar; Bonnie es enviada al norte, sacada hacia Nueva York y luego Chiara organiza su salida a Italia bajo el alias **Bonnie Colombo**.
+- **F2 - El destierro de Bonnie y la muerte de Mei-Lin:** Cole pone a prueba a [[02_Characters/Meiko_Nakano]] y [[02_Characters/Bonnie_Garcia]]. Mei-Lin deja una duda de lealtad que arrastra a Bonnie. Mei-Lin es ejecutada y su cuerpo termina en el mar; Bonnie es enviada al norte, sacada hacia Nueva York y luego Chiara organiza su salida a Italia bajo el alias **Bonnie Colombo**.
 - **F3 - Los frenos:** Chiara sufre un accidente cuando fallan sus frenos por sabotaje, probablemente ligado al [[03_Factions/Il_Consorzio]]. Queda grave y sufre un paro cardiaco. Cole se quiebra por primera vez y dice **te amo** mientras ella está inconsciente y no puede oírlo.
 
 **Reglas nuevas:**

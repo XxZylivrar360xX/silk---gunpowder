@@ -1,6 +1,6 @@
-# Ficha de Voz - Mei Nakano
+# Ficha de Voz - Meiko Nakano
 
-> Se lee antes de escribir cualquier diálogo de Mei. Ficha: [[02_Characters/Mei_Nakano]]. **DISEÑO del agente (2026-11-09), espera lectura del autor.** Sacada de la prosa de los Caps. 36 (archivo 40), 41 (45) y 44 (48). Su F2 (muere tras una operación, CANON 2026-11-07) es del Libro II: esta ficha no lo anticipa.
+> Se lee antes de escribir cualquier diálogo de Meiko. Ficha: [[02_Characters/Meiko_Nakano]]. **DISEÑO del agente (2026-11-09), espera lectura del autor.** Sacada de la prosa de los Caps. 36 (archivo 40), 41 (45) y 44 (48). Su F2 (muere tras una operación, CANON 2026-11-07) es del Libro II: esta ficha no lo anticipa.
 
 ## Cadencia y sintaxis
 
@@ -20,7 +20,7 @@ Contesta sin voltear, con la vista en la ventana o ya otra vez en el teléfono. 
 
 ## Contraste deliberado con otro personaje
 
-Frente a Bonnie: Bonnie reporta y protege; Mei mide y desconfía. Bonnie pregunta por la estructura; Mei, por el para qué. Frente a Tyler: los dos saben rutas, pero Tyler las cuenta como organizador y Mei como alguien que las corrió para ganar.
+Frente a Bonnie: Bonnie reporta y protege; Meiko mide y desconfía. Bonnie pregunta por la estructura; Meiko, por el para qué. Frente a Tyler: los dos saben rutas, pero Tyler las cuenta como organizador y Meiko como alguien que las corrió para ganar.
 
 ## Bajo presión
 
@@ -40,4 +40,4 @@ Frente a Bonnie: Bonnie reporta y protege; Mei mide y desconfía. Bonnie pregunt
 
 ## Línea genérica a evitar
 
-«Conozco estas calles como la palma de mi mano.» Es presentación de sí misma y cliché. Mei no se presenta: da la ruta, y si le preguntan, dice que corría ahí.
+«Conozco estas calles como la palma de mi mano.» Es presentación de sí misma y cliché. Meiko no se presenta: da la ruta, y si le preguntan, dice que corría ahí.

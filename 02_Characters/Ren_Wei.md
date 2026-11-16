@@ -77,7 +77,7 @@ Eso lo hace útil para Kal y peligroso para el alma de la organización. La cali
 
 - [[02_Characters/Kal_Mercer]] — le da consolidación de mercado, pero también lo empuja a una escala moralmente más oscura.
 - [[02_Characters/Chiara_Bellandi]] — pendiente de definir: ella tendrá que decidir qué versión pública puede cubrir algo que ya no es sólo logística.
-- [[02_Characters/Mei_Nakano]] — antes compartían nacionalidad china; desde 2026-11-15 ella es japonesa (CANON DEL AUTOR). Sin relación canon.
+- [[02_Characters/Meiko_Nakano]] — antes compartían nacionalidad china; desde 2026-11-15 ella es japonesa (CANON DEL AUTOR). Sin relación canon.
 - [[03_Factions/Almendra_Towing]] — último miembro estratégico de la organización.
 
 ---

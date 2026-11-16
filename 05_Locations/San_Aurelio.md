@@ -137,7 +137,7 @@ Nacieron en la prosa del arco. Los cuatro primeros tienen ficha propia desde el 
 
 **[[05_Locations/La_Golondrina|La Golondrina]]** — cantina de Santa Brígida, frente a la parroquia, con cuarto del fondo y patio trasero. Ahí, el domingo a las nueve de la noche, después de la última misa, Chiara contrata con Rafe Domínguez el asalto al convoy, y Maribel anota su nombre (Cap. 44 (archivo 48)).
 
-**[[05_Locations/Puente_De_La_Cementera|El puente de la cementera]]** — puente de un carril sobre la vía de la cementera, en la carretera del condado al sureste de Camp Alder, donde todo frena. Es el punto del asalto al convoy del traslado (Caps. 48 y 50). Una foto de Chiara con Mei en el puente aparece en la carpeta del 50b.
+**[[05_Locations/Puente_De_La_Cementera|El puente de la cementera]]** — puente de un carril sobre la vía de la cementera, en la carretera del condado al sureste de Camp Alder, donde todo frena. Es el punto del asalto al convoy del traslado (Caps. 48 y 50). Una foto de Chiara con Meiko en el puente aparece en la carpeta del 50b.
 
 **El teatro de la calle Alameda** — de pasada, en la despedida de Valenti (Cap. 45 (archivo 49)).
 

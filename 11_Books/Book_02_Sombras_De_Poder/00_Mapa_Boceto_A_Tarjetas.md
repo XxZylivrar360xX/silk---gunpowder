@@ -29,8 +29,8 @@ Con los recortes de la **lista A** (mismo POV, capítulos contiguos) el libro qu
 | 1 | I-T1 · Kal → Chiara | 1 *Hogar* (BORRADOR) | Reusa | No se toca. Los dos POV quedan anotados para la relectura. |
 | 2 | I-T2 · Chiara | 2 *Con su letra* · Chiara | Reusa | Kal la espera afuera de la comisaría y no entra (P). Paola, la cita y el tic 1, como están. |
 | 3 | I-T3 · Chiara | 3 *Bellandi* · Chiara | Reescribe | Entra Q24: Chiara le contesta a Il Consorzio (hueco D5). Kal se entera por Tommaso, delante de ella, de algo que ella no le contó. |
-| 4 | I-T4 + I-T5 · Kal | 4 *El valet* · Kal + 5 *Bajo supervisión* · Kal + §9b sin capítulo | **Funde (R1)** y absorbe el detonante | Kal intercepta a Ren vendiendo producto de Crowe en la bahía de valet y así descubre que su barrio trabajó para el Tasador mientras estaba preso. Acepta la carga (primer secreto). Mei se esconde en la oficina. El Audi de Marisol sale de aquí (ver Carga). |
-| 5 | I-T6 + I-T7 · **Bonnie** | 6 *Leer una habitación* · Chiara + 7 *La Almendra* · Bonnie | **Funde (R2)**; la junta cambia de POV | Un día de Bonnie: en la mañana, la junta de sillas vacías al lado de Chiara; en la noche, la casa con Mei. Lo que le cuenta a Kal para ganarse su respeto y lo que le pide (entrar a la carga, y él dice que no) caen en la misma conversación. Mei cierra con llave dos veces. Cierra antes de la elipsis A. |
+| 4 | I-T4 + I-T5 · Kal | 4 *El valet* · Kal + 5 *Bajo supervisión* · Kal + §9b sin capítulo | **Funde (R1)** y absorbe el detonante | Kal intercepta a Ren vendiendo producto de Crowe en la bahía de valet y así descubre que su barrio trabajó para el Tasador mientras estaba preso. Acepta la carga (primer secreto). Meiko se esconde en la oficina. El Audi de Marisol sale de aquí (ver Carga). |
+| 5 | I-T6 + I-T7 · **Bonnie** | 6 *Leer una habitación* · Chiara + 7 *La Almendra* · Bonnie | **Funde (R2)**; la junta cambia de POV | Un día de Bonnie: en la mañana, la junta de sillas vacías al lado de Chiara; en la noche, la casa con Meiko. Lo que le cuenta a Kal para ganarse su respeto y lo que le pide (entrar a la carga, y él dice que no) caen en la misma conversación. Meiko cierra con llave dos veces. Cierra antes de la elipsis A. |
 | 6 | I-T8 · Chiara | 8 *Sociales* + 9 *La primera cuota* · Chiara | Funde (ya en Fase 2) | Paga silencio y compra voz la misma tarde. Tic 2. Arranca el reloj de Chiara. |
 | 7 | I-T9 · Chiara | — (material: [[11_Books/Book_01_Mascaras_De_Cristal/Escenas_Eliminadas/11_El_Farol]]) | **Nuevo** | El arco de Walt (D11). El dueño del pub le debe al Tasador. |
 | 8 | I-T10 · Chiara | — (§9b: «la ofendida es ella») | **Nuevo** | La lluvia en Bellandi Ridge: los dos secretos frente a frente. |
@@ -49,7 +49,7 @@ Con los recortes de la **lista A** (mismo POV, capítulos contiguos) el libro qu
 | Nuevo | Tarjeta · POV | Viene de | Verbo | Qué cambia |
 |---|---|---|---|---|
 | 18 | II-P1 + II-P2 · Chiara | 22 *Veintitrés de noviembre* + 23 *Estoy bien* · Chiara | **Funde (R3)** | Del cumpleaños (Kal llega tarde de la cuarta entrega; el primer «estoy bien») a las semanas de piloto automático vistas por Marisol. El espejo de la cuota de diciembre a Varek. Recibe el Audi de Marisol. La rima del 48 se conserva. |
-| 19 | II-P3 + II-P4 · Kal | 24 *No cargues sola* + 25 *El garaje* · Kal | **Funde (R4)** | De día, Harper, el adelanto de Mei con lo de Ruth y el «todavía no» a la Ronda. De noche, la quinta entrega y el pánico a solas. La ironía del título se cobra en el mismo capítulo: le dice a Harper que no cargue sola y esa noche se quiebra solo. |
+| 19 | II-P3 + II-P4 · Kal | 24 *No cargues sola* + 25 *El garaje* · Kal | **Funde (R4)** | De día, Harper, el adelanto de Meiko con lo de Ruth y el «todavía no» a la Ronda. De noche, la quinta entrega y el pánico a solas. La ironía del título se cobra en el mismo capítulo: le dice a Harper que no cargue sola y esa noche se quiebra solo. |
 | 20 | II-P5 + II-P6 · **Kal** | 26 *El collar* · Chiara o Kal | Reescribe en un solo capítulo (R10) | Las tarjetas lo partían en dos (*La petición* en POV Chiara y *Torna a casa* en POV Kal). Vuelve a ser uno, en POV Kal: la petición a los mecánicos, la madrugada, la cena, Kaito en el portón y el collar. El precio del regalo no llega. Depende de la pregunta 1 de la Parte II. |
 | 21 | II-P7 · Chiara | 27 *Año Nuevo* · Chiara | Reusa | Recibe la siembra de Tommaso de la Parte II (ver Choques). |
 | 22 | II-P8 · Kal | 28 *La carretera* · Kal | Reescribe la causa | F4 sin Anya: el programa de veteranos de la fundación de Halbrook y los papeles de Nadir (D6). Se conservan Washington, el collar, la carretera, la llegada y el piano. |
@@ -71,7 +71,7 @@ Con los recortes de la **lista A** (mismo POV, capítulos contiguos) el libro qu
 | 33 | III-T2 · **Chiara** | 40 *Escenarios* · Kal y Chiara + la cama vacía del 41 | Reescribe (POV) y absorbe | El favor que Chiara le pide a Dario. Tic 6, frente a la cama vacía. |
 | 34 | III-T3 · Kal | 41 *El agua corriendo* · Kal | Reescribe | Los golpes caen sobre gente de Crowe. F3 queda intacto. Pierde el tic 6, que pasa al 33. |
 | 35 | III-T4 + III-T5 · Chiara | — (*Primera plana*, nueva en la Fase 2) + 42 *El bastón* · Chiara | **Funde (R6)** | En la mañana, la portada de la «guerra en el sur», editada por ella, y Halbrook en la comisión. En la tarde, Tommaso se va y le deja el Monarch. Gana control y relato el mismo día, y pierde una persona. |
-| 36 | III-T6 + III-T7 · Kal | — (las latas: escena C de la ficha de Bonnie, sin capítulo) + 43 *La línea* · Kal | **Funde (R7)** y reescribe | Las latas con Mei en el cofre. Días después, Dario las menciona y cae «Lo del hermano queda saldado». Se pospone el juicio y entra la operación contra el corralón de los Calderos. |
+| 36 | III-T6 + III-T7 · Kal | — (las latas: escena C de la ficha de Bonnie, sin capítulo) + 43 *La línea* · Kal | **Funde (R7)** y reescribe | Las latas con Meiko en el cofre. Días después, Dario las menciona y cae «Lo del hermano queda saldado». Se pospone el juicio y entra la operación contra el corralón de los Calderos. |
 | 37 | III-T8 · Nadir | 44 *La entrega* · Nadir | Reescribe por completo | F2 nuevo (CANON del 2026-11-07): la puñalada, el torniquete, «Perdóname, jefe». Lo apuñala el Caldero perdonado (P). El POV de Nadir se queda. |
 | — | — | 45 *El norte* · Kal | **Retira** | La coartada, el destierro de Bonnie y Roberta Ardizzone salieron con el F2 nuevo. Las líneas canon pasan a la tabla de carga. |
 | 38 | III-T9 · Chiara | 46 *Lo que queda* · Chiara | Reescribe | Bonnie le cuenta a Chiara la filtración y que Kal la calló. Boston, por elección. |
@@ -105,10 +105,10 @@ Con los recortes de la **lista A** (mismo POV, capítulos contiguos) el libro qu
 | Marisol se lleva el Audi diga Kal que sí o que no (siembra del choque) | 5 | Nuevo 18 (Marisol ve a Kal desde fuera). Si el borrador de la graduación lo admite, también el 15. Tiene que estar antes del 30. |
 | Marisol a escala (legal assistant; el favor de Rowe en suave) | 5 | Nuevo 15 (Rowe en la ceremonia) y nuevo 18. |
 | La junta de sillas vacías (la palanca de la primavera) | nota de la primavera | Nuevo 5, vista por Bonnie. |
-| El hábito de Mei que F2 cobra (PENDIENTE) | 7 | Nuevo 5. Sigue sin inventarse. |
+| El hábito de Meiko que F2 cobra (PENDIENTE) | 7 | Nuevo 5. Sigue sin inventarse. |
 | Walt rompe su voto de condicional en el robo | 35 | Nuevo 28: la audiencia está cerca y la arriesga. La condicional termina en primavera (nuevo 40, D11). |
 | La siembra de Tommaso (conoce el círculo de Kal), una vez por Parte | 20, «I, II y en el 42» | I: nuevo 16. **II: nuevo 21** (la fiesta del Monarch; las tarjetas no la tenían). III: nuevo 35. |
-| La coartada de Bonnie, su confesión y la ejecución de Mei | 43–45 | **Salen** (F2 nuevo, CANON 2026-11-07). Al retirar el boceto pasan a [[97_Supersedido/README|97_Supersedido]]. |
+| La coartada de Bonnie, su confesión y la ejecución de Meiko | 43–45 | **Salen** (F2 nuevo, CANON 2026-11-07). Al retirar el boceto pasan a [[97_Supersedido/README|97_Supersedido]]. |
 | Roberta Ardizzone y la salida a Italia | 45 | **Sale** con el F2 nuevo. Bonnie se va a Boston (nuevo 38). |
 | «Lo siento, ¿vale?» / «No te martirices. Hiciste lo que debías hacer.» y el beso en la frente | 45 | Nuevo 38. **DECISIÓN DEL AUTOR (2026-11-12):** Kal se disculpa con Chiara, rota en el suelo de la Villa con la foto de la cena de Navidad, porque el código de su jerarquía costó una vida. |
 | «Esa noche terminan en el suelo, destrozados» | 45 | Nuevo 38: terminan los dos en el suelo (DECISIÓN DEL AUTOR, 2026-11-12). |
@@ -124,11 +124,11 @@ Con los recortes de la **lista A** (mismo POV, capítulos contiguos) el libro qu
 
 | # | Funde | POV | Por qué cabe en uno | Riesgo |
 |---|---|---|---|---|
-| R1 | I-T4 + I-T5 → 4 | Kal | Es el mismo descubrimiento: la red de Crowe entró a su barrio y al casino de ella. La tarjeta T5 ya lo proponía. | El capítulo carga cuatro cosas (Ren, el barrio, la oferta y Mei). Por eso el Audi de Marisol sale de aquí. |
+| R1 | I-T4 + I-T5 → 4 | Kal | Es el mismo descubrimiento: la red de Crowe entró a su barrio y al casino de ella. La tarjeta T5 ya lo proponía. | El capítulo carga cuatro cosas (Ren, el barrio, la oferta y Meiko). Por eso el Audi de Marisol sale de aquí. |
 | R3 | II-P1 + II-P2 → 18 | Chiara | P1 siembra el «estoy bien» y P2 es el piloto automático. Es un solo hilo en dos semanas. | Pierde un poco del tiempo cálido que pedía el boceto para la Parte II. |
 | R4 | II-P3 + II-P4 → 19 | Kal | «No cargues sola» se cobra esa misma noche en el garaje. | El garaje pierde su aislamiento de capítulo propio. Se compensa si el capítulo termina en el pánico, sin coda. |
 | R6 | III-T4 + III-T5 → 35 | Chiara | Relato y control el mismo día: la portada y el bastón. | *Primera plana* era nueva y no se ha probado sola. |
-| R7 | III-T6 + III-T7 → 36 | Kal | Las latas sólo existen para delatar a Mei; separadas, T6 se lee como isla. | La revelación llega pronto después de la escena. Hace falta un corte de «días después» dentro del capítulo. |
+| R7 | III-T6 + III-T7 → 36 | Kal | Las latas sólo existen para delatar a Meiko; separadas, T6 se lee como isla. | La revelación llega pronto después de la escena. Hace falta un corte de «días después» dentro del capítulo. |
 | R8 | IV-U1 + IV-U2 → 40 | Chiara | La boda y el costo son espejo: el «Te amo» que él no oye y la vela que ella sí enciende. | Es el capítulo más largo de la IV. |
 | R9 | IV-U3 + IV-U4 → 41 | Kal | Las tarjetas ya lo proponían. **Ajuste del reloj:** la elipsis E pasa a quedar entre el 40 y el 41. Dario felicita el golpe cuando las bandas ya tocan la puerta (mediados de sep), Kal se oye en su boca, dice «no como tú» y acepta a las bandas en el mismo acto. La doctrina sigue siendo consecuencia del costo. | Seis semanas entre el costo y la doctrina. Si el autor la quiere inmediata, el 41 lleva la elipsis por dentro. |
 
@@ -170,7 +170,7 @@ Con los recortes de la **lista A** (mismo POV, capítulos contiguos) el libro qu
 
 ## Siguiente
 
-**Numeración propagada (2026-11-12):** tabla y equivalencias en [[11_Books/Book_02_Sombras_De_Poder/00_Book_Map]]; columna nueva en la matriz temporal; referencias convertidas en los diseños de Stavanger, Navidad y las cartas, y en Mei, la graduación y F3. El aviso del boceto también quedó al día.
+**Numeración propagada (2026-11-12):** tabla y equivalencias en [[11_Books/Book_02_Sombras_De_Poder/00_Book_Map]]; columna nueva en la matriz temporal; referencias convertidas en los diseños de Stavanger, Navidad y las cartas, y en Meiko, la graduación y F3. El aviso del boceto también quedó al día.
 
 **Guía rehecha (2026-11-12):** [[11_Books/Book_02_Sombras_De_Poder/00_Guia_Redaccion_Capitulos]]; el boceto pasó a [[97_Supersedido/Boceto_Lista_Capitulos_64]].
 

@@ -12,7 +12,7 @@
 
 ## Archivos tocados
 
-F2 reescrito en [[06_Relationships/Momentos_de_Fractura#F2 - La muerte de Mei y la salida de Bonnie|Momentos de Fractura]]. Fichas: [[02_Characters/Mei_Nakano]], [[02_Characters/Bonnie_Garcia]] (sección «Boston y Elenna»), [[02_Characters/Nadir_Amrani]], [[02_Characters/Kal_Mercer]], [[02_Characters/Hector_Navarro]]. Plan: [[11_Books/Book_02_Sombras_De_Poder/00_Plan_Cuatro_Partes]]; [[06_Relationships/Hitos]]. Avisos de cambio en Elenna, Corrado, Bonnie y Marisol, Book Map de *Voto de Ceniza*, Timeline del Libro II y `00_Trilogy_Structure`. Anclas del enlace a F2 actualizadas. Texto retirado: [[97_Supersedido/F2_Ejecucion_Y_Destierro]].
+F2 reescrito en [[06_Relationships/Momentos_de_Fractura#F2 - La muerte de Meiko y la salida de Bonnie|Momentos de Fractura]]. Fichas: [[02_Characters/Meiko_Nakano]], [[02_Characters/Bonnie_Garcia]] (sección «Boston y Elenna»), [[02_Characters/Nadir_Amrani]], [[02_Characters/Kal_Mercer]], [[02_Characters/Hector_Navarro]]. Plan: [[11_Books/Book_02_Sombras_De_Poder/00_Plan_Cuatro_Partes]]; [[06_Relationships/Hitos]]. Avisos de cambio en Elenna, Corrado, Bonnie y Marisol, Book Map de *Voto de Ceniza*, Timeline del Libro II y `00_Trilogy_Structure`. Anclas del enlace a F2 actualizadas. Texto retirado: [[97_Supersedido/F2_Ejecucion_Y_Destierro]].
 
 ## Pendientes que abre (no inventar)
 

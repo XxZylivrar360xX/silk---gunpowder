@@ -1,8 +1,8 @@
-# Mei Nakano
+# Meiko Nakano
 
-> **CAMBIO DE CANON (2026-11-15): japonesa, no china; se llama Mei Nakano.** Antes se llamaba «Mei-Lin Zhao» y su hermano «Yun-Kai», que ahora es **Kaito Nakano**. El cambio se aplicó en todo el vault vivo (prosa de los Libros I y II, planes y fichas); los archivos históricos (`98_Agent_Handoff/archive/`, `sessions/`, `ChatGPT/`, `97_Supersedido/`, `Escenas_Eliminadas/`, `13_Auditorias/`, `log.md`) conservan el nombre viejo en el texto y sólo se les corrigieron los enlaces. «¡Mei, Mei, Mei, Mei!» queda intacto. Comparte nacionalidad con [[02_Characters/Kenji_Oda|Kenji Oda]]: no hay relación entre ellos mientras el canon no la fije.
+> **CAMBIO DE CANON (2026-11-15): japonesa, no china; se llama Meiko Nakano.** Antes se llamaba «Mei-Lin Zhao» y su hermano «Yun-Kai», que ahora es **Kaito Nakano**. El cambio se aplicó en todo el vault vivo (prosa de los Libros I y II, planes y fichas); los archivos históricos (`98_Agent_Handoff/archive/`, `sessions/`, `ChatGPT/`, `97_Supersedido/`, `Escenas_Eliminadas/`, `13_Auditorias/`, `log.md`) conservan el nombre viejo en el texto y sólo se les corrigieron los enlaces. **«Mei» es su diminutivo (CANON DEL AUTOR, 2026-11-15):** el narrador la llama Meiko; los cercanos le dicen Mei (el «¡Mei, Mei, Mei, Mei!» de Nadir, el «Lo sabía Mei» de Bonnie). Donde la prosa decía «Mei-Lin» ahora dice «Meiko», y donde ya decía «Mei» se queda igual. Comparte nacionalidad con [[02_Characters/Kenji_Oda|Kenji Oda]]: no hay relación entre ellos mientras el canon no la fije.
 
-> **CAMBIO DE CANON (2026-11-07):** F2 ya no es ejecución ni destierro: Mei muere tras una operación y Bonnie se va a Boston por elección; recibe a Elenna desde Boston (se retira Italia). Manda [[06_Relationships/Momentos_de_Fractura#F2 - La muerte de Mei y la salida de Bonnie|F2]]; lo que diga abajo sobre Italia, Roberta Ardizzone, la ejecución o el destierro queda superado.
+> **CAMBIO DE CANON (2026-11-07):** F2 ya no es ejecución ni destierro: Meiko muere tras una operación y Bonnie se va a Boston por elección; recibe a Elenna desde Boston (se retira Italia). Manda [[06_Relationships/Momentos_de_Fractura#F2 - La muerte de Meiko y la salida de Bonnie|F2]]; lo que diga abajo sobre Italia, Roberta Ardizzone, la ejecución o el destierro queda superado.
 
 > **NUEVO CAUCE — PARTE III (2026-11-08; [[98_Agent_Handoff/sessions/2026-11-08_claude_propagacion_parte_III]]; prosa BORRADOR, lo nuevo es DISEÑO salvo donde dice CANON):** **la noche del yate (nuevo 35, POV Kal):** sirve charolas para **la empresa de catering que viene con el barco**, no para una contratista del Monarch (así no choca con el valet del plan del robo); Tyler le habla en la mesa de los quesos y ella no le da la cara; Kal lo registra sin comentarlo. Es el primer indicio de dinero y resuelve el «Abierto» de [[98_Agent_Handoff/sessions/2026-11-07_claude_para_libro_I_f2_mei_lin]]. Segundo beat (la ruta del norte, el camión a las seis) en el nuevo 36. **Nuevo 38 (CANON, opción a):** después del robo duerme en el Patio y no quiere quedarse sola; Bonnie lo sabe sin saber por qué (si acaso, cree que Boone huyó) y se lo cuenta a Chiara con «lo de allá arriba se deshizo», sin Boone ni la banda. Chiara no lo liga con el Monarch.
 
@@ -14,7 +14,7 @@
 
 > Plan anterior retirado: [[97_Supersedido/F2_Ejecucion_Y_Destierro]].
 
-**No la ejecutan.** Kal descubre la filtración y sólo se lo dice a Nadir y a Héctor. Héctor le pide no precipitarse: es una niña que actuó por miedo. Kal pospone el juicio y le dice a Mei que su destino se decidirá al acabar la operación; Nadir, decepcionado, se lo dice antes de empezar. En la operación un enemigo la apuñala muy arriba del muslo y le perfora la femoral; el torniquete improvisado de Nadir no aguanta, y la regla del Patio (nunca un hospital directo desde una operación) la lleva a El Patio. **Muere ahí, en manos de Nadir, con toda la banda rodeándola**; Nadir grita «¡Mei, Mei, Mei, Mei!» y Bonnie le sostiene la mano pidiendo una ambulancia. **Sus últimas palabras son para Kal: «Perdóname, jefe.»** Él contesta «—Eso ya no importa, estás aquí… con nosotros.» (CANON DEL AUTOR, 2026-11-13), y sus ojos ya miran a la nada y a él al mismo tiempo. Arco en cuatro capítulos del Libro II (36–39): [[11_Books/Book_02_Sombras_De_Poder/00_Guia_Redaccion_Capitulos]]. Después de enterrarla ven el forro de la camioneta lleno de sangre. Detalle: [[06_Relationships/Momentos_de_Fractura#F2 - La muerte de Mei y la salida de Bonnie|F2]].
+**No la ejecutan.** Kal descubre la filtración y sólo se lo dice a Nadir y a Héctor. Héctor le pide no precipitarse: es una niña que actuó por miedo. Kal pospone el juicio y le dice a Meiko que su destino se decidirá al acabar la operación; Nadir, decepcionado, se lo dice antes de empezar. En la operación un enemigo la apuñala muy arriba del muslo y le perfora la femoral; el torniquete improvisado de Nadir no aguanta, y la regla del Patio (nunca un hospital directo desde una operación) la lleva a El Patio. **Muere ahí, en manos de Nadir, con toda la banda rodeándola**; Nadir grita «¡Mei, Mei, Mei, Mei!» y Bonnie le sostiene la mano pidiendo una ambulancia. **Sus últimas palabras son para Kal: «Perdóname, jefe.»** Él contesta «—Eso ya no importa, estás aquí… con nosotros.» (CANON DEL AUTOR, 2026-11-13), y sus ojos ya miran a la nada y a él al mismo tiempo. Arco en cuatro capítulos del Libro II (36–39): [[11_Books/Book_02_Sombras_De_Poder/00_Guia_Redaccion_Capitulos]]. Después de enterrarla ven el forro de la camioneta lleno de sangre. Detalle: [[06_Relationships/Momentos_de_Fractura#F2 - La muerte de Meiko y la salida de Bonnie|F2]].
 
 Valora a Kal, quiere a Bonnie y encuentra hogar en La Almendra, pero teme más a Varek de lo que confía en la protección de Kal. **Los quería + los traicionó + tenía miedo.** La convivencia con Bonnie construye amistad real por horarios, barrio, autos, casa y rutinas; no fueron necesariamente mejores amigas al aparecer.
 
@@ -34,7 +34,7 @@ Valora a Kal, quiere a Bonnie y encuentra hogar en La Almendra, pero teme más a
 **Rol:** secundaria; núcleo de la organización.
 **Alias:** pendiente.
 
-> **CANON DEL AUTOR (2026-10-03):** Mei es quien le pone «Bonnie» a Roberta García. El apodo sobrevive a Mei y dura toda la saga, porque la amistad era auténtica; su muerte se debe a sus propias malas decisiones. El apodo nace en la época de la banda de corredores, antes de El Patio, fuera de foco y de la prosa: Bonnie ya llega con él. Ver [[02_Characters/Bonnie_Garcia]].
+> **CANON DEL AUTOR (2026-10-03):** Meiko es quien le pone «Bonnie» a Roberta García. El apodo sobrevive a Meiko y dura toda la saga, porque la amistad era auténtica; su muerte se debe a sus propias malas decisiones. El apodo nace en la época de la banda de corredores, antes de El Patio, fuera de foco y de la prosa: Bonnie ya llega con él. Ver [[02_Characters/Bonnie_Garcia]].
 **Estado:** viva al abrir; muere en F2 (*Sombras de Poder*, Libro II): la apuñala un enemigo en la femoral y muere en El Patio (CANON DEL AUTOR 2026-11-07; se retiran la ejecución y el destierro de Bonnie).
 
 ---
@@ -51,13 +51,13 @@ Valora a Kal, quiere a Bonnie y encuentra hogar en La Almendra, pero teme más a
 
 ## Quién es
 
-Mei viene de una banda rival del mercado de carreras y calle. Esa banda se desintegra, y ella entra a la organización de Kal junto con [[02_Characters/Bonnie_Garcia]].
+Meiko viene de una banda rival del mercado de carreras y calle. Esa banda se desintegra, y ella entra a la organización de Kal junto con [[02_Characters/Bonnie_Garcia]].
 
-Su función no es "otra conductora". Mei trae algo distinto: memoria de una estructura que falló.
+Su función no es "otra conductora". Meiko trae algo distinto: memoria de una estructura que falló.
 
 Sabe cómo se ve una banda antes de romperse desde dentro: los pagos que se retrasan, las órdenes contradictorias, los líderes que confunden miedo con respeto, los corredores que empiezan a vender información por protección.
 
-> **DISEÑO:** Mei es útil porque no idealiza a Kal. Ya vio una organización prometer familia y volverse hambre. Si se queda, tiene que ser porque detecta que Almendra Towing funciona distinto, no porque le crea de inmediato.
+> **DISEÑO:** Meiko es útil porque no idealiza a Kal. Ya vio una organización prometer familia y volverse hambre. Si se queda, tiene que ser porque detecta que Almendra Towing funciona distinto, no porque le crea de inmediato.
 
 ---
 
@@ -75,25 +75,25 @@ Lo que opera hoy:
 
 ### CANON DEL AUTOR (2026-09-20) — origen de la filtración
 
-Antes de integrarse del todo a El Patio, [[02_Characters/Tommaso_Lusardi|Tommaso Lusardi]] la encuentra y la usa como fuente informal sobre el norte: corredores, rutas, quién trabaja para quién. Mei acepta — todavía no confía en nada nuevo y una fuente extranjera que paga por gossip de calle no le parece distinto de lo que ya conocía en su antigua banda.
+Antes de integrarse del todo a El Patio, [[02_Characters/Tommaso_Lusardi|Tommaso Lusardi]] la encuentra y la usa como fuente informal sobre el norte: corredores, rutas, quién trabaja para quién. Meiko acepta — todavía no confía en nada nuevo y una fuente extranjera que paga por gossip de calle no le parece distinto de lo que ya conocía en su antigua banda.
 
-> **CANON DEL AUTOR (2026-10-12 y 2026-10-13):** Tommaso **no muere** (se ausenta hacia el final de *Sombras de Poder*; el asesinado al abrir el libro es [[02_Characters/Fabrizio_Rinaldi|Fabrizio]]). Mei se queda con Tommaso como fuente y termina **triple agente sin querer, por miedo** (Patio / Tommaso / Varek): Varek descubre la línea `Tommaso → Mei` y la parasita, sin que Kal, Chiara o Bonnie lo sepan; cuando Tommaso se retira, esa línea se cierra sola y en F2 se descubre la de Varek ([[11_Books/Book_02_Sombras_De_Poder/00_Plan_Cuatro_Partes]]).
+> **CANON DEL AUTOR (2026-10-12 y 2026-10-13):** Tommaso **no muere** (se ausenta hacia el final de *Sombras de Poder*; el asesinado al abrir el libro es [[02_Characters/Fabrizio_Rinaldi|Fabrizio]]). Meiko se queda con Tommaso como fuente y termina **triple agente sin querer, por miedo** (Patio / Tommaso / Varek): Varek descubre la línea `Tommaso → Meiko` y la parasita, sin que Kal, Chiara o Bonnie lo sepan; cuando Tommaso se retira, esa línea se cierra sola y en F2 se descubre la de Varek ([[11_Books/Book_02_Sombras_De_Poder/00_Plan_Cuatro_Partes]]).
 >
 > Plan anterior retirado: [[97_Supersedido/Tommaso_Muere_Al_Abrir_Libro_II]].
 
-> **CANON DEL AUTOR (2026-10-28) — el robo del Monarch ([[11_Books/Book_01_Mascaras_De_Cristal/Part_02_Con_Peores_Personas_He_Tratado/00_Plan_Robo_Monarch]], Caps. 22a–22b).** Su banda del norte son **Los Devil Splicers** (heroína, Old Road Town). Es «el del billar» del Cap. 16 (archivo 17): Danny mintió con «lo conozco de vista» para cubrirla, porque ella le consigue droga. Da el dato del robo a la caja de Matteo y ahí entra al radar de Tommaso, que la recluta como fuente sin mencionar el robo (así empieza la línea Tommaso → Mei). **DISEÑO:** valet nocturna de la contratista del Monarch, sin nombre en prosa y nunca ante Kal hasta el Cap. 43; deja el puesto tras el robo; no sabe que arriba de Crowe está Varek, de modo que ya era pieza de Dario antes de que él «descubra» la línea de Tommaso.
+> **CANON DEL AUTOR (2026-10-28) — el robo del Monarch ([[11_Books/Book_01_Mascaras_De_Cristal/Part_02_Con_Peores_Personas_He_Tratado/00_Plan_Robo_Monarch]], Caps. 22a–22b).** Su banda del norte son **Los Devil Splicers** (heroína, Old Road Town). Es «el del billar» del Cap. 16 (archivo 17): Danny mintió con «lo conozco de vista» para cubrirla, porque ella le consigue droga. Da el dato del robo a la caja de Matteo y ahí entra al radar de Tommaso, que la recluta como fuente sin mencionar el robo (así empieza la línea Tommaso → Meiko). **DISEÑO:** valet nocturna de la contratista del Monarch, sin nombre en prosa y nunca ante Kal hasta el Cap. 43; deja el puesto tras el robo; no sabe que arriba de Crowe está Varek, de modo que ya era pieza de Dario antes de que él «descubra» la línea de Tommaso.
 
-Mei sí entrega información real a Varek — su traición no es un malentendido ni una sospecha sin fondo. Pero tampoco es una infiltrada plantada desde el principio para destruir a El Patio: entra por su propia historia, y con el tiempo empieza a querer de verdad a la gente que encuentra ahí — Bonnie, Nadir, los chicos del barrio, incluso Kal. Su traición es real y no queda absuelta por el miedo; también hay un error de lectura: leyó perfectamente la jerarquía vieja (Varek arriba de todos) y tarda en entender que el mundo empezaba a cambiar. **Sigue filtrando por miedo, no por convicción**, atrapada entre el modelo de Dario (obediencia por miedo) y el de Kal (lealtad ganada) sin decidirse a confiar en que Kal pueda protegerla de Varek.
+Meiko sí entrega información real a Varek — su traición no es un malentendido ni una sospecha sin fondo. Pero tampoco es una infiltrada plantada desde el principio para destruir a El Patio: entra por su propia historia, y con el tiempo empieza a querer de verdad a la gente que encuentra ahí — Bonnie, Nadir, los chicos del barrio, incluso Kal. Su traición es real y no queda absuelta por el miedo; también hay un error de lectura: leyó perfectamente la jerarquía vieja (Varek arriba de todos) y tarda en entender que el mundo empezaba a cambiar. **Sigue filtrando por miedo, no por convicción**, atrapada entre el modelo de Dario (obediencia por miedo) y el de Kal (lealtad ganada) sin decidirse a confiar en que Kal pueda protegerla de Varek.
 
 ---
 
 ## Arco final sin Kal — Caps. 45 y 48 (BORRADOR, 2026-10-02)
 
 - **Cap. 45:** con Bonnie, le aporta a Chiara horarios, cambios de turno y cámaras del lote de la base (oficio de rutas del norte). Su pregunta "¿Para qué quiere saber si está vivo, si no lo puede sacar?" es DISEÑO.
-- **Cap. 44 (archivo 48) — [[11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/48_Su_Nombre|Su nombre]]:** Bonnie le pasa su número a Chiara sin saber para qué. Mei la lleva al puente de un carril sobre la vía de la cementera y se sienta en la mesa con Rafe en La Golondrina. **Siembra muda (CANON DEL AUTOR: no se revela):** pregunta quién le dijo a Chiara "por tierra"; Rafe: "¿Tú de quién eres?" / "De nadie." / "Eso dicen todos los que son de alguien."; mira la libreta de Maribel cuando anota el nombre; no acepta el sobre ("No es por dinero"); baja en una parada y camina hacia el sur sin esperar el camión. En el 50, Chiara la ve en su lista del teléfono "hacia el sur con las manos en los bolsillos".
-- **A quién informa:** a su contacto, que por canon es **Tommaso**, y se queda con él; **CANON DEL AUTOR (2026-10-13): triple agente.** Varek descubre la línea Tommaso → Mei y la parasita; cuando Tommaso se retira, esa línea se cierra sola y en F2 se descubre la de Varek ([[11_Books/Book_02_Sombras_De_Poder/00_Plan_Cuatro_Partes]]). La prosa nunca lo dice.
+- **Cap. 44 (archivo 48) — [[11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/48_Su_Nombre|Su nombre]]:** Bonnie le pasa su número a Chiara sin saber para qué. Meiko la lleva al puente de un carril sobre la vía de la cementera y se sienta en la mesa con Rafe en La Golondrina. **Siembra muda (CANON DEL AUTOR: no se revela):** pregunta quién le dijo a Chiara "por tierra"; Rafe: "¿Tú de quién eres?" / "De nadie." / "Eso dicen todos los que son de alguien."; mira la libreta de Maribel cuando anota el nombre; no acepta el sobre ("No es por dinero"); baja en una parada y camina hacia el sur sin esperar el camión. En el 50, Chiara la ve en su lista del teléfono "hacia el sur con las manos en los bolsillos".
+- **A quién informa:** a su contacto, que por canon es **Tommaso**, y se queda con él; **CANON DEL AUTOR (2026-10-13): triple agente.** Varek descubre la línea Tommaso → Meiko y la parasita; cuando Tommaso se retira, esa línea se cierra sola y en F2 se descubre la de Varek ([[11_Books/Book_02_Sombras_De_Poder/00_Plan_Cuatro_Partes]]). La prosa nunca lo dice.
 - **Regla:** hasta que el autor fije el nuevo mecanismo, no se muestra que informa a nadie. Las cinco señales del 48 son mínimas y negables; si el autor las siente demasiado legibles, la siguiente que sale es "¿usted dónde va a estar?" (D15).
-- **50b:** sale en la foto del puente, con las manos en los bolsillos, junto a Chiara. Registro: [[12_Craft_Policies/revelations/Book_01_Mascaras_De_Cristal]], "Mei informa a su contacto".
+- **50b:** sale en la foto del puente, con las manos en los bolsillos, junto a Chiara. Registro: [[12_Craft_Policies/revelations/Book_01_Mascaras_De_Cristal]], "Meiko informa a su contacto".
 
 ---
 
@@ -110,10 +110,10 @@ Ya dentro del Patio, **de día trabaja en el taller de [[03_Factions/Almendra_To
 - **La deuda es con Varek** (con su gente): por ahí la aprieta, y por eso su miedo no es abstracto.
 - **La empatía de Kal es un gesto concreto**, no sólo comprensión: paga la deuda de Kaito (ver los tres tiempos, abajo).
 - **Kaito es un personaje fuera de escena.** Aparece una sola vez, **la noche de la cena de Navidad** ([[11_Books/Book_02_Sombras_De_Poder/Part_02_Nieve_Y_Ceniza/00_Diseno_Navidad_Almendra_Towing]]), a pedirle dinero. Ella le grita que se largue, que ya no va a pagar nada más por él: **las palabras de Kal le abrieron los ojos** (ver abajo).
-- **Ahí empieza el arco de Kal descubriendo a Mei poco a poco:** la conoce como persona, con lo bueno y con lo malo, que incluye la traición. F2 es el final de ese arco.
+- **Ahí empieza el arco de Kal descubriendo a Meiko poco a poco:** la conoce como persona, con lo bueno y con lo malo, que incluye la traición. F2 es el final de ese arco.
 
-**El arco de Kal con Mei, en tres tiempos (CANON DEL AUTOR, 2026-11-07; el autor ajustará líneas al redactar el Libro II):**
-1. **Las palabras (antes de Navidad).** En el taller, de día, Mei le pide a Kal un adelanto de sueldo, no por primera vez. Él le pregunta para qué; ella da media verdad: «es para mi hermano». Kal le cuenta, casi sin querer, lo de Ruth: *«Mi madre pagó cada apuesta de mi padre. No lo salvó. Nada más se fue perdiendo ella.»* Y le da el adelanto de todos modos. No es sermón ni prohibición: le enseña su herida y ella llega sola a la conclusión.
+**El arco de Kal con Meiko, en tres tiempos (CANON DEL AUTOR, 2026-11-07; el autor ajustará líneas al redactar el Libro II):**
+1. **Las palabras (antes de Navidad).** En el taller, de día, Meiko le pide a Kal un adelanto de sueldo, no por primera vez. Él le pregunta para qué; ella da media verdad: «es para mi hermano». Kal le cuenta, casi sin querer, lo de Ruth: *«Mi madre pagó cada apuesta de mi padre. No lo salvó. Nada más se fue perdiendo ella.»* Y le da el adelanto de todos modos. No es sermón ni prohibición: le enseña su herida y ella llega sola a la conclusión.
 2. **Kaito en la cena (24 dic, antes de medianoche; antes del collar de las 00:30).** Kaito no entra: llega al portón del taller, alguien avisa y ella sale. Discuten afuera, bajo la luz del patio, mientras adentro sigue la fiesta; ella le grita que se largue, que ya no va a pagar nada más por él. **Sólo Kal lo ve** (salió por otra cosa) y no interviene. Al volver: *«¿Todo bien?» / «Todo bien, jefe.»* Es la primera vez que «jefe» suena en serio; F2 la cobra con «Perdóname, jefe». La fiesta no se ensucia y no hay presagio: es un pleito de familia.
 3. **El gesto (ene–feb A4).** Como Kaito ya no paga, la gente de Varek empieza a cobrarle a ella. Kal va por su cuenta, sin decírselo, y **paga la deuda de Kaito**: dinero, sin violencia; lo que nadie hizo por Ruth. El hombre de Varek recibe el dinero y dice: *«Lo del hermano queda saldado.»* «Lo del hermano» implica otra cuenta, la de ella. Kal lo oye, no pregunta y lo lee mal: cree que Varek se guarda una palanca contra él, no que ella le paga en información.
 - **Cobro en F2:** en *La línea* (cap. 43 del boceto; hoy cap. 36, *Lo del hermano*) la frase le cae de golpe. **Resuelve el PENDIENTE de qué hecho delata la filtración.** Que Kal nunca le dijera que pagó explica por qué entiende tan bien a Héctor cuando dice «es una niña que actuó por miedo»: sabe cuánto miedo daba esa gente.
@@ -122,7 +122,7 @@ Ya dentro del Patio, **de día trabaja en el taller de [[03_Factions/Almendra_To
 
 ## Método
 
-Mei sobrevive leyendo jerarquías. Antes de conducir, mira quién manda de verdad, quién sólo grita y quién cobra sin aparecer.
+Meiko sobrevive leyendo jerarquías. Antes de conducir, mira quién manda de verdad, quién sólo grita y quién cobra sin aparecer.
 
 Como conductora, debe tener una técnica distinta de Kal y Harper:
 
@@ -132,9 +132,9 @@ Como conductora, debe tener una técnica distinta de Kal y Harper:
 
 ## Reglas duras del personaje
 
-- **No es "la japonesa" (ni "la china") en voz del narrador.** Si alguien usa una etiqueta racial, eso caracteriza a quien la dice, no a Mei.
+- **No es "la japonesa" (ni "la china") en voz del narrador.** Si alguien usa una etiqueta racial, eso caracteriza a quien la dice, no a Meiko.
 - **No entra como subordinada agradecida.** Llega con experiencia, sospecha y valor propio.
-- **No duplica a Bonnie.** Mei trae memoria táctica de la banda caída; Bonnie trae arco de protección y futuro.
+- **No duplica a Bonnie.** Meiko trae memoria táctica de la banda caída; Bonnie trae arco de protección y futuro.
 - **Tiene lealtad lenta.** Si confía, tarda.
 - **Su pasado rival tiene que volver.** Una banda que se desintegra deja deudas, enemigos y gente sin sitio.
 - **No debe morir como figurante.** Su ejecución sólo funciona si antes tuvo valor, voz y una posibilidad real de quedarse.
@@ -146,7 +146,7 @@ Como conductora, debe tener una técnica distinta de Kal y Harper:
 - [[02_Characters/Bonnie_Garcia]] — entra con ella desde la banda rival desintegrada; terminan viviendo juntas como roommates en La Almendra y esa convivencia se vuelve amistad real, no sólo procedencia compartida.
 - [[02_Characters/Tyler_Brooks]] — posible choque entre organizador joven y corredora con experiencia.
 - [[02_Characters/Kal_Mercer]] — la absorbe a una estructura que no debería repetir lo que la rompió antes.
-- [[02_Characters/Chiara_Bellandi]] — pendiente de definir. Chiara puede detectar en Mei una fuente de inteligencia sobre bandas rivales.
+- [[02_Characters/Chiara_Bellandi]] — pendiente de definir. Chiara puede detectar en Meiko una fuente de inteligencia sobre bandas rivales.
 - [[03_Factions/Almendra_Towing]] — nueva casa operativa, si decide quedarse.
 - [[02_Characters/Tommaso_Lusardi]] — la recluta como fuente informal.
 - [[02_Characters/Dario_Varek]] — parasita la línea de inteligencia de Tommaso (triple agente, CANON 2026-10-13) y la convierte en su fuente pasiva dentro de El Patio.
@@ -160,15 +160,15 @@ Como conductora, debe tener una técnica distinta de Kal y Harper:
 
 > **RESUELTO (2026-10-28, CANON DEL AUTOR):** **Los Devil Splicers**, distribuidores de heroína en Old Road Town (O.R.T.). Se deshacen tras el robo del Monarch (DISEÑO: dos detenidos con su mercancía en la revisión de Voss, Lucía mirando O.R.T. e Irene con el nombre; CANON DEL AUTOR 2026-10-28: su jefe, Roy Boone, deserta y desaparece, y sin líder la banda se disuelve). Ver [[11_Books/Book_01_Mascaras_De_Cristal/Part_02_Con_Peores_Personas_He_Tratado/00_Plan_Robo_Monarch]].
 
-> **RESUELTO (2026-09-20):** Mei y Bonnie terminan siendo roommates en La Almendra — al principio por conveniencia (mismo derrumbe, espacio limitado que ofrece Kal), después por amistad real construida en la convivencia diaria.
+> **RESUELTO (2026-09-20):** Meiko y Bonnie terminan siendo roommates en La Almendra — al principio por conveniencia (mismo derrumbe, espacio limitado que ofrece Kal), después por amistad real construida en la convivencia diaria.
 
-> **PENDIENTE:** qué conserva Mei de su antigua banda.
+> **PENDIENTE:** qué conserva Meiko de su antigua banda.
 
 > **RESUELTO (2026-09-20):** quién la busca después de integrarse — primero [[02_Characters/Tommaso_Lusardi|Tommaso]], después [[02_Characters/Dario_Varek|Varek]] directamente (triple agente, CANON 2026-10-13) (ver "origen de la filtración", arriba).
 
 > **RESUELTO (2026-09-20):** sí traiciona realmente — entrega información real a Varek — pero por coerción/miedo, no por convicción ni plan de infiltración desde el origen; con el tiempo llega a querer sinceramente a la gente de El Patio. Ver "origen de la filtración", arriba.
 
-> **PENDIENTE, no inventar todavía:** qué información exacta entrega Mei a Varek, y qué hecho concreto permite a Kal/El Patio descubrir la filtración. No hace falta para escribir los primeros capítulos de Parte III; sí antes de llegar a F2 en Parte V.
+> **PENDIENTE, no inventar todavía:** qué información exacta entrega Meiko a Varek, y qué hecho concreto permite a Kal/El Patio descubrir la filtración. No hace falta para escribir los primeros capítulos de Parte III; sí antes de llegar a F2 en Parte V.
 
 ---
 

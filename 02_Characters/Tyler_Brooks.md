@@ -1,6 +1,6 @@
 # Tyler "Switch" Brooks
 
-> **NUEVO CAUCE — PARTE III (2026-11-08; [[98_Agent_Handoff/sessions/2026-11-08_claude_propagacion_parte_III]]; prosa BORRADOR, lo nuevo es DISEÑO salvo donde dice CANON):** **Nuevo 35:** encuentra al chofer de Kingsley (Rudy) en la cadena de la bala del corral; en el yate le habla a Mei en la mesa de los quesos y ella no le da la cara. No hay ficha de voz de Tyler.
+> **NUEVO CAUCE — PARTE III (2026-11-08; [[98_Agent_Handoff/sessions/2026-11-08_claude_propagacion_parte_III]]; prosa BORRADOR, lo nuevo es DISEÑO salvo donde dice CANON):** **Nuevo 35:** encuentra al chofer de Kingsley (Rudy) en la cadena de la bala del corral; en el yate le habla a Meiko en la mesa de los quesos y ella no le da la cara. No hay ficha de voz de Tyler.
 
 > **Numeración:** desde 2026-10-22 el Libro I usa numeración corrida definitiva (56 caps.); este documento cita la numeración anterior. Correspondencia en [[11_Books/Book_01_Mascaras_De_Cristal/00_Book_Map]].
 
@@ -70,7 +70,7 @@ Eso lo vuelve una pieza perfecta para San Aurelio: el crimen aquí es logística
 
 - [[02_Characters/Kal_Mercer]] — lo absorbe al sistema y le da escala.
 - [[02_Characters/Harper_Walker]] — posible vínculo operativo: rutas, conducción y norte rural.
-- [[02_Characters/Mei_Nakano]] — ex corredora rival; posible fricción por autoridad dentro del circuito.
+- [[02_Characters/Meiko_Nakano]] — ex corredora rival; posible fricción por autoridad dentro del circuito.
 - [[02_Characters/Bonnie_Garcia]] — ex corredora rival; comparten entrada desde la calle hacia algo más organizado.
 - [[03_Factions/Almendra_Towing]] — su circuito se vuelve infraestructura.
 - [[03_Factions/Los_Marcadores_de_Milla]] — circuito de carreras del norte; pendiente confirmar si Tyler pertenecía a ellos o sólo organizaba eventos que ellos usaban.
@@ -80,7 +80,7 @@ Eso lo vuelve una pieza perfecta para San Aurelio: el crimen aquí es logística
 ## El que absorbe la muerte de Halbrook — CANON DEL AUTOR (2026-11-08)
 
 - **Tyler se sacrifica para salvar a [[02_Characters/Harper_Walker|Harper]]: absorbe la muerte de [[02_Characters/Warren_Halbrook|Halbrook]]** y carga con la culpa del disparo.
-- **Por qué:** durante todos esos años quiso a las chicas (Mei, Bonnie, Harper) como a sus hermanas y las cuidó en las calles. Perdió primero a [[02_Characters/Mei_Nakano|Mei]] y luego a [[02_Characters/Bonnie_Garcia|Bonnie]] (F2, *Sombras de Poder*); a Harper decide no perderla.
+- **Por qué:** durante todos esos años quiso a las chicas (Meiko, Bonnie, Harper) como a sus hermanas y las cuidó en las calles. Perdió primero a [[02_Characters/Meiko_Nakano|Meiko]] y luego a [[02_Characters/Bonnie_Garcia|Bonnie]] (F2, *Sombras de Poder*); a Harper decide no perderla.
 - Cierra la tesis de Harper ([[02_Characters/Harper_Walker#La que no pudo salir — CANON DEL AUTOR (2026-11-08)]]): ella no pudo salir, y el que paga para que no termine de cobrarle es Tyler.
 
 **Secuencia (CANON DEL AUTOR, 2026-11-08), en *Cuentas de Sangre*:**
@@ -91,7 +91,7 @@ Eso lo vuelve una pieza perfecta para San Aurelio: el crimen aquí es logística
 5. Con eso **la guerra cobra a los últimos miembros jóvenes de la banda**: Tyler preso, Harper fuera del país. **Kal pierde aquí a su hija de las calles.**
 
 > Sigue en pie, salvo que el autor diga lo contrario: la ciudad duda entre Kal y Nadir mientras dura el misterio, y Nadir le cuenta la verdad a Chiara al final del libro. **PENDIENTE (autor):** en qué punto del libro cae el "había un tercero"; si Kal y Nadir se enteran del sacrificio de Tyler antes o después de que sea irreversible; adónde va Harper; cuánto le dan a Tyler y si vuelve en la trilogía de Elenna; qué heridas del último año pesan en la decisión de Harper.
-- **Consecuencia para la siembra:** su relación de hermano mayor con las tres chicas hay que construirla desde el Libro I (calle, carreras) y en el Libro II; también corrige la ficha anterior, donde su vínculo con Mei y Bonnie era sólo "ex corredoras rivales".
+- **Consecuencia para la siembra:** su relación de hermano mayor con las tres chicas hay que construirla desde el Libro I (calle, carreras) y en el Libro II; también corrige la ficha anterior, donde su vínculo con Meiko y Bonnie era sólo "ex corredoras rivales".
 
 ## Preguntas abiertas
 

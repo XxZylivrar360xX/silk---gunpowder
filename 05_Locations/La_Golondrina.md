@@ -18,7 +18,7 @@
 
 ## Quién entra y quién no
 
-Es de la gente del barrio y de quien Rafe acepte recibir. Se entra en persona: "Que vayas tú. No tu gente. No un recadero. Tú." Mabel es el puente para llegar. Mei se queda de pie junto a la puerta del pasillo.
+Es de la gente del barrio y de quien Rafe acepte recibir. Se entra en persona: "Que vayas tú. No tu gente. No un recadero. Tú." Mabel es el puente para llegar. Meiko se queda de pie junto a la puerta del pasillo.
 
 ## Qué pasa aquí
 

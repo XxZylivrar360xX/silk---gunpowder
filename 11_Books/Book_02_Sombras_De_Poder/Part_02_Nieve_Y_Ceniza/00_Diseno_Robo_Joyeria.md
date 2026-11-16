@@ -26,7 +26,7 @@
    Chiara enciende la vela y reza en el penthouse: *«Dio, fa' che torni a casa… e che non faccia niente di stupido. Ti raccomando soprattutto la seconda.»* (CANON DEL AUTOR 2026-10-13: «Dios, ve que vuelva a casa… y que no haga algo tonto, te encargo más lo segundo.») **El capítulo termina ahí.**
 4. **Chiara no conoce los detalles del plan**, para no incriminarla y dejarle una salida. Ella misma se sorprende cuando salen por la bodega del casino.
 5. **Las bandas amigas son los Breakwater Saints.**
-6. **Mei no le cuenta nada a Varek** todavía.
+6. **Meiko no le cuenta nada a Varek** todavía.
 7. **Walt los espera en la salida del Monarch**, sin permiso de Chiara.
 8. **No hay heridos.** El enfrentamiento con la policía se resuelve con llantas ponchadas y patrullas inhabilitadas.
 
@@ -36,7 +36,7 @@
 
 La respuesta de Kal: **no salir.** El equipo no intenta escapar de la isla, sino desaparecer dentro de ella, en el casino: el único lugar donde toda la gente es anónima porque toda la gente es vista. Además, ese casino es de Dario: le roban su diamante y se esconden en su casa.
 
-Segunda inversión: **no se esconden del helicóptero, se le muestran.** Mei maneja para que el helicóptero no los pierda hasta el instante en que los ve entrar bajo tierra. Toda la atención queda en una sola boca de túnel… y por varias rampas salen a la vez autos iguales al del golpe.
+Segunda inversión: **no se esconden del helicóptero, se le muestran.** Meiko maneja para que el helicóptero no los pierda hasta el instante en que los ve entrar bajo tierra. Toda la atención queda en una sola boca de túnel… y por varias rampas salen a la vez autos iguales al del golpe.
 
 ## Los túneles
 
@@ -58,7 +58,7 @@ DISEÑO, inspirado en los túneles de Shanghái de Portland. El Monarch está co
 | **Héctor** | Reconocimiento como cliente; durante el golpe, voz en la radio con el escáner policial | Un viejo que busca un anillo de aniversario «para una mujer que se fue» no levanta sospechas | Su coartada es su herida |
 | **Nadir** | Adentro con Kal; cuando llega la policía, inhabilita las patrullas sin herir a nadie | Si alguien se pone heroico, lo resuelve sin sangre | Confianza ciega, que F2 va a cobrar |
 | **Danny** | Fabrica los autos gemelos (mismo modelo y color, techo marcado igual para que el helicóptero los lea desde arriba); adentro, manos de mecánico | Sin gemelos no hay señuelos | Su consumo como riesgo latente |
-| **Mei** | Volante del auto del golpe | Conducción fría: hacerse ver sin dejarse atrapar | No le cuenta a Varek; hace más cruel el F2 |
+| **Meiko** | Volante del auto del golpe | Conducción fría: hacerse ver sin dejarse atrapar | No le cuenta a Varek; hace más cruel el F2 |
 | **Harper** | Desde una azotea de Punta Dorada marca helicóptero y patrullas; da la señal de soltar los señuelos | Sin ella, los señuelos salen a destiempo | Primer trabajo grande como operadora de campo |
 | **Tyler** | Enlace con los Saints y los pilotos de los señuelos | La red y la confianza de los pilotos son suyas | Ya perdió el cargamento de Crowe en la Parte I: aquí se redime |
 | **Bonnie** | Lee el local, el personal y la calle | Aplica la lección de Chiara del §6 | Payoff de su aprendizaje; lo que pierde en F2 |
@@ -81,7 +81,7 @@ Walt, de mala gana, dibuja la capa vieja; Kal pone encima la boca del Monarch. E
 - Héctor va dos veces a Lunar Pearl como cliente. La segunda, le muestran la bandeja de anillos de compromiso; no compra nada y sale triste de verdad.
 - Bonnie lee al personal.
 - Harper cronometra el helicóptero en una noche cualquiera.
-- Mei recorre la ruta de día, sin prisa.
+- Meiko recorre la ruta de día, sin prisa.
 
 ### 4. Preparación
 - Danny arma los gemelos lejos de Almendra Towing.
@@ -96,13 +96,13 @@ Walt, de mala gana, dibuja la capa vieja; Kal pone encima la boca del Monarch. E
 El equipo ya está en posiciones. Kal llama: «Estamos a punto de comenzar, deséame suerte.» Chiara: «Te encenderé una vela, y Kal… Cuídate mucho ¿Sí?» Corte al penthouse: Chiara enciende la vela y reza. **Fin del capítulo.** Si para entonces ya existe el tic del papel con el nombre en cursiva ([[04_Concepts/Fe_y_Velas]]), puede ir aquí.
 
 ### 6. Adentro
-Kal, Nadir y Danny entran; Bonnie en la calle; Mei al volante; Harper en la azotea; Héctor en la radio. La prosa salta del pulso al resultado. Se llevan el Lussia y las piezas de la exhibición. **El momento del anillo** (ver abajo).
+Kal, Nadir y Danny entran; Bonnie en la calle; Meiko al volante; Harper en la azotea; Héctor en la radio. La prosa salta del pulso al resultado. Se llevan el Lussia y las piezas de la exhibición. **El momento del anillo** (ver abajo).
 
 ### 7. Lo que sale mal
 Algo tiene que salir mal. Propuesta: una patrulla que no estaba en el cálculo de Harper llega minutos antes. Nadir y Danny ponchan llantas e inhabilitan las patrullas sin herir a nadie, y la salida se adelanta.
 
 ### 8. La persecución
-Es la más temeraria en quince años. Cierran el puente y la policía se relaja porque cree que ya los tiene. Mei recorre La Isla de punta a punta, siempre visible desde el aire. Héctor y Harper cantan posiciones. Entran por la rampa de la obra de Punta Dorada y el helicóptero clava el foco en esa boca.
+Es la más temeraria en quince años. Cierran el puente y la policía se relaja porque cree que ya los tiene. Meiko recorre La Isla de punta a punta, siempre visible desde el aire. Héctor y Harper cantan posiciones. Entran por la rampa de la obra de Punta Dorada y el helicóptero clava el foco en esa boca.
 
 ### 9. Bajo tierra
 Los gemelos esperan con motor encendido. Harper da la señal y salen por las rampas de los Saints a la vez. Las patrullas paran a cada uno: los de la fiesta («vinimos a beber sin público»), la pareja («teniendo intimidad en el túnel») y los demás con sus versiones. Ninguno lleva nada. Mientras, el equipo deja el auto del golpe y camina por el pasaje viejo.

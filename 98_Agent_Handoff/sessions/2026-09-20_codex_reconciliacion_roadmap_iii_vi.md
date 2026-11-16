@@ -14,7 +14,7 @@ VI amenaza ese futuro: embarazo/Elenna, H1 y declaración completa, recuperació
 
 - [[01_Timeline/02_Libro_01_Mascaras_De_Cristal]]
 - [[06_Relationships/Hitos]], [[06_Relationships/Momentos_de_Fractura]], [[06_Relationships/Kal_y_Chiara]]
-- [[02_Characters/Kal_Mercer]], [[02_Characters/Mei_Nakano]], [[02_Characters/Bonnie_Garcia]], [[02_Characters/Nadir_Amrani]], [[02_Characters/Silas_Crowe]]
+- [[02_Characters/Kal_Mercer]], [[02_Characters/Meiko_Nakano]], [[02_Characters/Bonnie_Garcia]], [[02_Characters/Nadir_Amrani]], [[02_Characters/Silas_Crowe]]
 - [[05_Locations/La_Villa]]
 - [[07_Ideas/Libro_01_Incubadora/Stavanger_Ya_Llego]] — sólo metadatos/notas, prosa intacta
 - [[11_Books/Book_01_Mascaras_De_Cristal/00_Book_Map]] — bloque operativo; cinco partes históricas supersedidas

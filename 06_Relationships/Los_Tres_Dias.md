@@ -215,7 +215,7 @@ Eso prepara fracturas futuras:
 - en **F4**, cuando Kal se va a Washington, Chiara entiende mejor lo que cuesta que el lugar quede vacio;
 - en **F3**, cuando casi lo pierde todo con los frenos, Kal entiende que volver vivo no siempre depende de el;
 - en **Camp Alder** (H19-H20), mas adelante en la misma Parte III, esta reconciliacion ya reparada es lo que permite que Kal y Chiara esten bien cuando Halbrook abre la ventana -ver [[06_Relationships/Momentos_de_Fractura]], F1, "Recuperacion antes de Camp Alder";
-- en **F2**, cuando Bonnie desaparece y Mei muere, los dos ya saben que hay vacios que se habitan juntos o se vuelven grieta.
+- en **F2**, cuando Bonnie desaparece y Meiko muere, los dos ya saben que hay vacios que se habitan juntos o se vuelven grieta.
 
 ---
 

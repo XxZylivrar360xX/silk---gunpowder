@@ -44,7 +44,7 @@
 
 ### T4 · El barrio ajeno — feb · Kal · el taller; Calle Almendra — **detonante**
 - **Trama:** durante los dieciséis días que Kal estuvo preso (cuenta de *Hogar*), sus clientes y su calle trabajaron para Crowe. El Tasador le ofrece carga y Kal **la acepta por los clientes nuevos** (C, 2026-11-01). Sabe desde el 39 del I que Crowe es de la gente de Halbrook (C 1A) y que le quitó el lote; Crowe todavía no sabe que fue él (D2, recomendado).
-- **Mei (P):** cuando llega el hombre del Tasador al taller, se mete a la oficina y no sale hasta que se va. Kal lo registra y no pregunta: es el mismo mundo que mató a Boone (C, I).
+- **Meiko (P):** cuando llega el hombre del Tasador al taller, se mete a la oficina y no sale hasta que se va. Kal lo registra y no pregunta: es el mismo mundo que mató a Boone (C, I).
 - **Marisol (P, fusión de *Bajo supervisión*):** abre el capítulo llevándose el Audi diga Kal que sí o que no; ya es legal assistant en Rivers & Krane (C). Siembra del choque.
 - **Relación:** **primer secreto de Kal.** No le dice a Chiara ni la carga ni de quién es.
 - **Por eso:** Kal queda dentro de la red de Crowe; Chiara, sola con Varek.
@@ -64,10 +64,10 @@
 - **Saldo:** Chiara aparta la silla de Fabrizio y nadie se sienta en ella.
 
 ### T7 · La Almendra — mar · Bonnie (C, DISEÑO) · la casa de las roomies
-- **Trama:** Bonnie y Mei, roomies por conveniencia que se vuelven amigas, y un hábito concreto de Mei que F2 cobra (C). **P:** Bonnie le pide a Kal entrar a la carga de Crowe y él dice que no. Mei, que sabe lo que es esa gente, no dice nada y esa noche cierra con llave dos veces.
+- **Trama:** Bonnie y Meiko, roomies por conveniencia que se vuelven amigas, y un hábito concreto de Meiko que F2 cobra (C). **P:** Bonnie le pide a Kal entrar a la carga de Crowe y él dice que no. Meiko, que sabe lo que es esa gente, no dice nada y esa noche cierra con llave dos veces.
 - **Relación:** fuera de foco. El lector ve a Kal proteger a los chicos del Tasador, como hará con la Cuadra Nueve al final (C).
 - **Por eso:** el Patio ya es una casa con gente que cuidar.
-- **Saldo:** Bonnie nota el miedo de Mei y lo lee mal. **Es el último capítulo antes de la elipsis:** cierra con la casa ya habitada, no con un hecho.
+- **Saldo:** Bonnie nota el miedo de Meiko y lo lee mal. **Es el último capítulo antes de la elipsis:** cierra con la casa ya habitada, no con un hecho.
 
 ---
 
@@ -187,7 +187,7 @@ No se narra. **Aterriza en la montaña (T15).** Residuo: ya viven en la Villa (C
 | Tics del nombre | T2, T8, T18 y T20, nunca en tarjetas seguidas (C) |
 | Capítulos | 20 (el boceto tenía 21). Entran la lluvia (T10) y Walt (T9); se funden *Bajo supervisión* en T4, *Sociales* en T8 y los caps. 12–14 del boceto en T13 |
 
-**Lo que no está en esta Parte, a propósito:** el levantón (Parte II, D8), Kaito y el adelanto de Mei (antes de Navidad, C), el piano y F4.
+**Lo que no está en esta Parte, a propósito:** el levantón (Parte II, D8), Kaito y el adelanto de Meiko (antes de Navidad, C), el piano y F4.
 
 ## Para el autor
 

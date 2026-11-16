@@ -160,7 +160,7 @@ exige que ese uso cotidiano siga presente.
   tiene posición suficiente. **PENDIENTE DE RECONCILIACIÓN:** ubicación del cobro y contenido
   exacto de la amenaza, sin prolongar el cierre hacia la Villa.
 - **Componente Villa:** se separa temporalmente; reconstrucción en Parte II, después del día
-  Mei/Bonnie. H8 conserva su ID y título de referencia, pero ya no es un bloque continuo.
+  Meiko/Bonnie. H8 conserva su ID y título de referencia, pero ya no es un bloque continuo.
 
 > **SUPERSEDIDO (CANON DEL AUTOR, 2026-10-13):** el piano lo compra Chiara para el cumpleaños de Kal (1 de enero) y lo espera en el penthouse; ya no hay error de entrega ni se «salva del fuego». Ver [[11_Books/Book_02_Sombras_De_Poder/00_Plan_Cuatro_Partes]].
 
@@ -183,7 +183,7 @@ Anya sabe del patrón Halbrook y lo usa como gancho para que Kal acepte (canon 2
 Kal y Chiara han sobrevivido Camp Alder y recuperado su relación, pero **pierden físicamente
 el lugar al que Kal regresó**. Navidad / hogar / invierno → fuego → ceniza. La pregunta «¿puede
 volver a casa?» se transforma en **¿qué ocurre cuando ya no hay casa a la cual volver?** El
-incendio cierra la Parte; ni Mei ni Villa Candelaria ocupan ese cierre.
+incendio cierra la Parte; ni Meiko ni Villa Candelaria ocupan ese cierre.
 
 ---
 
@@ -192,7 +192,7 @@ incendio cierra la Parte; ni Mei ni Villa Candelaria ocupan ese cierre.
 ### Función macro
 
 Kal y Chiara pierden lugares y personas, pero empiezan a descubrir que reconstruir no
-significa reemplazar. Mei muere, Bonnie tiene que irse, Nadir queda herido y el loft ya no
+significa reemplazar. Meiko muere, Bonnie tiene que irse, Nadir queda herido y el loft ya no
 existe. Kal responde intentando construir una nueva casa, nuevos recuerdos y una promesa de
 futuro.
 
@@ -220,45 +220,45 @@ Se conserva **F4 → F3 — Los frenos**, con el contenido ya fijado en
 al gran día de F2. **PENDIENTE:** distancia precisa entre F4, F3 y F2; no se inventan escenas
 ni mecanismos nuevos.
 
-> **CAMBIO DE CANON (2026-11-07):** F2 ya no es ejecución ni destierro: Mei muere tras una operación y Bonnie se va a Boston por elección; recibe a Elenna desde Boston (se retira Italia). Manda [[06_Relationships/Momentos_de_Fractura#F2 - La muerte de Mei y la salida de Bonnie|F2]]; lo que diga abajo sobre Italia, Roberta Ardizzone o el destierro queda superado.
+> **CAMBIO DE CANON (2026-11-07):** F2 ya no es ejecución ni destierro: Meiko muere tras una operación y Bonnie se va a Boston por elección; recibe a Elenna desde Boston (se retira Italia). Manda [[06_Relationships/Momentos_de_Fractura#F2 - La muerte de Meiko y la salida de Bonnie|F2]]; lo que diga abajo sobre Italia, Roberta Ardizzone o el destierro queda superado.
 
 ### F2 — una macrofractura, dos destinos, un mismo día
 
-**CANON DEL AUTOR:** la ejecución de Mei y el destierro de Bonnie ocurren **el mismo día**,
+**CANON DEL AUTOR:** la ejecución de Meiko y el destierro de Bonnie ocurren **el mismo día**,
 dentro de una crisis. F2 conserva su identidad; F2-A y F2-B sólo distinguen componentes
 internos, no nuevos hitos. No hay intervalo de días ni semanas.
 
-La cadena Tommaso → Mei → Varek ~~sigue intacta~~ cambia (CANON 2026-10-12): Tommaso construye inteligencia propia y
-cruza jurisdicción del norte, pero ya no muere; ~~Varek lo elimina mediante Volpi y absorbe a Mei como fuente
-pasiva~~. **Mei se queda con Tommaso**; cómo llega también a Varek (¿triple agente sin querer, por miedo?) es PENDIENTE. Kal y Chiara no conocen esa causalidad todavía. La revelación concluyente
+La cadena Tommaso → Meiko → Varek ~~sigue intacta~~ cambia (CANON 2026-10-12): Tommaso construye inteligencia propia y
+cruza jurisdicción del norte, pero ya no muere; ~~Varek lo elimina mediante Volpi y absorbe a Meiko como fuente
+pasiva~~. **Meiko se queda con Tommaso**; cómo llega también a Varek (¿triple agente sin querer, por miedo?) es PENDIENTE. Kal y Chiara no conocen esa causalidad todavía. La revelación concluyente
 **Varek–Volpi** sigue reservada para *Cuentas de Sangre* (Libro IV). *(SUPERSEDIDO, DECISIÓN DEL AUTOR 2026-11-12/14: Volpi siempre es de La Mesa; con Varek sólo estuvo de «vacaciones». Ver [[11_Books/Book_04_Cuentas_De_Sangre/00_Diseno_Complot_De_La_Mesa]].)*
 
-En esta Parte se descubre definitivamente la filtración real. Mei no entró para destruir
+En esta Parte se descubre definitivamente la filtración real. Meiko no entró para destruir
 El Patio: valora a Kal, quiere a Bonnie y encuentra hogar en La Almendra, pero teme más a Varek
 de lo que confía en que Kal pueda protegerla. **Los quería + los traicionó + tenía miedo.** No
 es villana ni queda absuelta.
 
-Bonnie y Mei viven juntas en La Almendra. La amistad crece por casa, horarios, barrio,
+Bonnie y Meiko viven juntas en La Almendra. La amistad crece por casa, horarios, barrio,
 autos, rutinas y pertenencia al grupo joven.
 
-- **F2-A / Mei:** costa, junto al mar. Cree que participan en una entrega de mercancía, no
+- **F2-A / Meiko:** costa, junto al mar. Cree que participan en una entrega de mercancía, no
   espera una ceremonia. Ejecución limpia; **Nadir dispara por detrás y llora**. Kal carga la
   decisión y Nadir el acto.
 - **F2-B / Bonnie, ese mismo día:** su conflicto propio obliga a sacarla de San Aurelio / El
   Patio para evitar otra muerte. El conflicto exacto sigue pendiente. Se conserva la salida
-  norte → Nueva York → Italia. Mei se queda y muere; Bonnie vive porque se va. *(Superado 2026-11-07: Bonnie está en Boston; «Elenna Serra» e Italia, retiradas.)*
+  norte → Nueva York → Italia. Meiko se queda y muere; Bonnie vive porque se va. *(Superado 2026-11-07: Bonnie está en Boston; «Elenna Serra» e Italia, retiradas.)*
 
-El destierro no es premio: Bonnie pierde a Mei, La Almendra, Chiara, su red cotidiana,
+El destierro no es premio: Bonnie pierde a Meiko, La Almendra, Chiara, su red cotidiana,
 ciudad, identidad habitual y la vida que construía. Su futuro papel con Elenna es payoff de
 esa vida propia, nunca causa del destierro.
 
 > **PENDIENTE antes de redactar F2:** información exacta filtrada, frecuencia, daño y hecho
-> que delata a Mei; conflicto específico de Bonnie. No resolverlos por conveniencia.
+> que delata a Meiko; conflicto específico de Bonnie. No resolverlos por conveniencia.
 
 ### Consecuencias: Chiara, Nadir y Kal
 
 Chiara carga ya con Matteo, la muerte de Fabrizio (y sabe que Paola estaba embarazada: tras identificar el cuerpo cita a Paola en su despacho para darle la noticia y ve que está embarazada; era lo que Fabrizio iba a contarle en el desayuno; CANON 2026-10-18), la ausencia temporal de Kal y
-el loft (antes: "la distancia de Fabrizio, Tommaso"; CANON 2026-10-12). Tommaso sigue a su lado en el Monarch, y su salida hacia el final del libro es la siguiente silla vacía. Ahora pierde a Mei definitivamente y a Bonnie para evitar otra muerte, en un solo
+el loft (antes: "la distancia de Fabrizio, Tommaso"; CANON 2026-10-12). Tommaso sigue a su lado en el Monarch, y su salida hacia el final del libro es la siguiente silla vacía. Ahora pierde a Meiko definitivamente y a Bonnie para evitar otra muerte, en un solo
 día.
 
 Nadir sigue leal y trabajando, puede justificar que era necesario, pero aparece una de las
@@ -270,7 +270,7 @@ herida, intenta construir algo bueno junto a ella.
 
 ### Villa Candelaria — reconstrucción deliberada
 
-**Después del incendio y después del día Mei/Bonnie**, [[05_Locations/La_Villa|Villa
+**Después del incendio y después del día Meiko/Bonnie**, [[05_Locations/La_Villa|Villa
 Candelaria]] se adquiere / funda / convierte en hogar. El loft fue hogar descubierto; la Villa
 es hogar escogido conscientemente después de la pérdida.
 
@@ -333,7 +333,7 @@ Sustituye "la joyería con Héctor" como compra fuera de página.
 
 ### Condición de salida — Parte II
 
-- Mei está muerta; Bonnie está fuera de San Aurelio y encaminada hacia Italia. *(Superado 2026-11-07: Bonnie está en Boston; «Elenna Serra» e Italia, retiradas.)*
+- Meiko está muerta; Bonnie está fuera de San Aurelio y encaminada hacia Italia. *(Superado 2026-11-07: Bonnie está en Boston; «Elenna Serra» e Italia, retiradas.)*
 - Nadir sigue dentro, con una grieta nueva. El loft ya no existe.
 - Villa Candelaria empieza a ser / ya es su nuevo hogar.
 - Kal y Chiara han ido a Noruega y están comprometidos.
@@ -403,7 +403,7 @@ volver a Chiara, a ellos y al futuro compartido, no sólo a un edificio.
   - Tabla anterior (SUPERADA 2026-10-02; se conserva como referencia de escalada):
   1. Tras un crimen de Kal que ella conoce o en el que participa (Parte I): al margen de un documento de Garrett, en espera al teléfono; lo tacha.
   2. Tras el incendio del loft: en cursiva, en su papel de canela y vainilla; lo rompe en tiras.
-  3. Tras la pérdida de Mei o de Bonnie (Parte II): lo arruga y lo tira; falla al cesto y lo recoge.
+  3. Tras la pérdida de Meiko o de Bonnie (Parte II): lo arruga y lo tira; falla al cesto y lo recoge.
   4. Cuando Dario empieza a cobrar la cuenta abierta, rumbo a H1, ya sabiendo del embarazo (sin marcarlo): lo dobla y lo guarda.
   5. H1: ese papel es el que cae de la manta en la chimenea.
   Reglas: 4–5 apariciones, nunca dos capítulos seguidos; la palabra nunca se ve; separar el tic de las señales del embarazo (comida, cigarro) por capítulo. Colocación exacta por fijar cuando exista el mapa capítulo a capítulo.
@@ -448,7 +448,7 @@ extensa.~~ (Superado: la coda pasó al Cap. 47 (archivo 50b) del Libro I; el lib
   Chiara; nace la vela; Ren Wei entra al radar de Kal** [canon 2026-09-26] → último tramo del loft como hogar → amenaza/incidente de H8 → **incendio del loft, días
   después → FIN**.
 - **II / EXILIO:** **el día después del incendio: sin casa, entre las cenizas** [canon 2026-09-26] → ~~Año Nuevo / F4~~ [movido a I] → F3 (distancia precisa pendiente) →
-  organización y consecuencias → descubrimiento de Mei → **mismo día: ejecución de Mei
+  organización y consecuencias → descubrimiento de Meiko → **mismo día: ejecución de Meiko
   por Nadir + destierro de Bonnie** → consecuencias en Kal / Chiara / Nadir / El Patio (depresión de Chiara; Mabel le dice su frase y le encarga planear la boda) →
   reconstrucción / **Villa Candelaria** → nuevas memorias → **boda de Mabel y Walt (terraza del Monarch; frase de Mabel, "Te amo.")** → **Noruega / Stavanger / anillo** →
   futuro elegido.
@@ -464,7 +464,7 @@ extensa.~~ (Superado: la coda pasó al Cap. 47 (archivo 50b) del Libro I; el lib
 | Loft (Libro I) | Hogar descubierto casi accidentalmente. |
 | Incendio | Incluso el hogar puede desaparecer. |
 | Año Nuevo (después del incendio, Parte II; 2026-10-13) | Separados: Kal elige volver; el piano que Chiara le compró por su cumpleaños lo espera en el penthouse. ~~Antes del incendio; el piano se salva del fuego.~~ *(Brújula anterior "hogar son solamente ellos dos" SUPERSEDIDA 2026-09-26.)* |
-| Mei / Bonnie | La familia elegida también puede reducirse. |
+| Meiko / Bonnie | La familia elegida también puede reducirse. |
 | Villa Candelaria | Hogar reconstruido deliberadamente. |
 | Stavanger / anillo | Futuro elegido. |
 | Parte III / embarazo | Hogar se transforma en familia. |
@@ -542,7 +542,7 @@ nacimiento de Elenna, antes de la Guerra de los Tres abierta, con Halbrook ya en
   de la mentira de la fuga de gas.
 - ~~Encaje logístico de Washington/Anya con F4~~ RESUELTO 2026-09-26 (separados). Resuelto también: Anya sabe del patrón Halbrook; la conversación reparadora y la vela salen de la incursión para Dario. Parte II abre el día después del incendio; Ren Wei fabricó el cargamento. Pendiente: hora de llegada de Kal; cuándo pasa Ren de radar a integración.
 - Distancia fina F4 → F3 → F2.
-- Conflicto propio de Bonnie; frecuencia y nivel de daño de la filtración de Mei.
+- Conflicto propio de Bonnie; frecuencia y nivel de daño de la filtración de Meiko.
 - Logística de adquisición/obra de Villa Candelaria.
 - ~~Dependencia antigua caída de Silas → Stavanger: requiere reconciliación expresa (el viejo
   disparador de la incubadora exigía la caída previa de Silas, ahora situada en Parte III).~~ Resuelta (CANON DEL AUTOR, 2026-10-14): las cartas de Dale ([[11_Books/Book_02_Sombras_De_Poder/Part_04_Torna_A_Casa/00_Diseno_Cartas_De_Dale]]).

@@ -6,7 +6,7 @@ Actualizado: 2026-11-15. Máximo 800 palabras; las decisiones de fondo van en [[
 
 Lista de fondo: [[98_Agent_Handoff/BACKLOG#Libros II y III]]. Prosa en espera hasta cerrar el Libro I, salvo los caps. 36–39 y 54–57 (orden del autor). **57 caps. desde el 2026-11-13.** Abiertos: guía ([[11_Books/Book_02_Sombras_De_Poder/00_Guia_Redaccion_Capitulos]], DISEÑO); decisiones 2–13 de la carretera; elipsis de R9; «Mac a Almendra»; sembrar a Nat antes del 54.
 
-- **Leer** 54–57 (notas del 2026-11-13) y el arco de Mei, 36–39, con el 38 rehecho el 2026-11-15; contestar sus preguntas: [[98_Agent_Handoff/sessions/2026-11-13_claude_arco_mei_lin]].
+- **Leer** 54–57 (notas del 2026-11-13) y el arco de Meiko, 36–39, con el 38 rehecho el 2026-11-15; contestar sus preguntas: [[98_Agent_Handoff/sessions/2026-11-13_claude_arco_mei_lin]].
 - **Confirmar** los cuatro detalles de DISEÑO de la Villa reubicada en 54–56 (portón con cadena tras el desvío de las cascadas, vista a la ciudad, una hora al volante, Héctor conoce el camino): [[98_Agent_Handoff/sessions/2026-11-15_claude_reubicacion_villa_54_56]].
 - **Sembrar** (sin redactar): el papel de Elenna en el 23 (el 57 depende de él); el ritual de los chalecos en el levantón, 29 (DECISIÓN DEL AUTOR, 2026-11-15; beats en su ficha); la llegada «sono a casa» antes del 54 (CANON 2026-11-15; plan de cinco siembras en las tarjetas, 16, 20, 39 [escrito], 41 sin mote y 50; espera tu visto bueno: [[06_Relationships/Kal_y_Chiara#CANON — La llegada: «sono a casa»]]).
 
@@ -28,7 +28,7 @@ Lista de fondo: [[98_Agent_Handoff/BACKLOG#Libros II y III]]. Prosa en espera ha
 
 - **Audiolibro del Libro II, bloqueado (2026-11-15):** `build_audiobook.py --book Book_02_Sombras_De_Poder` se detiene en `Part_01_Territorio_Ajeno/00_Tarjetas_Parte_I.md` («No encontré el encabezado») porque toma como capítulo todo `.md` de las carpetas `Part_*` que no esté excluido del EPUB; la bitácora sigue en 2026-11-01. Hay que excluir las notas `00_*` (o usar `CHAPTERS` de `tools/build_sombras.py`) y regenerar.
 - **#25 de [[00_Biblia/00_Trilogy_Structure]]:** abierto hasta que el autor lo declare; la revisión integral de I–III no está hecha.
-- **Fichas de voz de la Parte III creadas (2026-11-09, DISEÑO, leer):** Bonnie, Mei, Garrett, Tyler (poca evidencia), Blake, Ettore y Livia Rinaldi, en `12_Craft_Policies/voice/`.
+- **Fichas de voz de la Parte III creadas (2026-11-09, DISEÑO, leer):** Bonnie, Meiko, Garrett, Tyler (poca evidencia), Blake, Ettore y Livia Rinaldi, en `12_Craft_Policies/voice/`.
 - **Propagación de la Parte II (2026-11-09):** el autor decide las dudas listadas en [[98_Agent_Handoff/sessions/2026-11-09_claude_propagacion_parte_II_resto]] (seguro de Vento, H16, POV de 32 y 34, entre otras).
 
 - **Portada y Nota Editorial:** portada ≥1600×2560 para KDP; título de `00_Nota_Editorial.md`, del autor.

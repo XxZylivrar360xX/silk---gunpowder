@@ -15,7 +15,7 @@
 - Prosa BORRADOR en `11_Books/Book_02_Sombras_De_Poder/Part_03_Exilio/`: [[11_Books/Book_02_Sombras_De_Poder/Part_03_Exilio/36_Las_Latas]] (3,523 palabras), [[11_Books/Book_02_Sombras_De_Poder/Part_03_Exilio/37_Lo_Del_Hermano]] (3,604), [[11_Books/Book_02_Sombras_De_Poder/Part_03_Exilio/38_Perdoname_Jefe]] (3,729) y [[11_Books/Book_02_Sombras_De_Poder/Part_03_Exilio/39_Lo_Que_Queda]] (3,955). Quedan fuera de `CHAPTERS` en `tools/build_sombras.py`, así que no se regeneran.
 - Los borradores de la noche final se renombraron: `53_Dime_Amore` → `54_Dime_Amore`, `54_De_Rodillas` → `55_De_Rodillas`, `55_No_Otra_Vez` → `56_No_Otra_Vez`, `56_La_Chimenea` → `57_La_Chimenea`. Se actualizaron su `capitulo:`, sus referencias internas y los enlaces en INDEX, Hitos y la guía.
 - Renumerados a 57: la guía de redacción (fichas, tabla de Partes, POV ajenos, ecos, tics y señales; se revisaron a mano las cinco citas al Libro I que el script había movido) y la tabla del Book_Map, con nota de equivalencias. Los documentos fechados antes conservan la numeración de 56.
-- Registro: F2 en [[06_Relationships/Momentos_de_Fractura]] (respuesta de Kal y plática con Bonnie), fichas de [[02_Characters/Mei_Nakano]] y [[02_Characters/Bonnie_Garcia]], y [[98_Agent_Handoff/DECISIONS]].
+- Registro: F2 en [[06_Relationships/Momentos_de_Fractura]] (respuesta de Kal y plática con Bonnie), fichas de [[02_Characters/Meiko_Nakano]] y [[02_Characters/Bonnie_Garcia]], y [[98_Agent_Handoff/DECISIONS]].
 
 ## Diseño del agente que el autor debe leer
 

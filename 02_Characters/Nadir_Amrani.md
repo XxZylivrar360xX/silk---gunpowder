@@ -12,11 +12,11 @@
 
 > Plan anterior retirado: [[97_Supersedido/F2_Ejecucion_Y_Destierro]].
 
-Ya no ejecuta a Mei. Es de los dos únicos (con Héctor) a quienes Kal les cuenta la filtración, y antes de la operación le dice a Mei que está decepcionado. Un enemigo la apuñala en la femoral; Nadir le amarra un torniquete improvisado que no aguanta. Mei muere en El Patio en sus manos, con toda la banda alrededor, mientras él grita «¡Mei, Mei, Mei, Mei!». **DISEÑO:** la grieta ya no es haber disparado: es que lo último que le dio fue su decepción, y que sus manos no pudieron cerrar la herida. Detalle: [[06_Relationships/Momentos_de_Fractura#F2 - La muerte de Mei y la salida de Bonnie|F2]].
+Ya no ejecuta a Meiko. Es de los dos únicos (con Héctor) a quienes Kal les cuenta la filtración, y antes de la operación le dice a Meiko que está decepcionado. Un enemigo la apuñala en la femoral; Nadir le amarra un torniquete improvisado que no aguanta. Meiko muere en El Patio en sus manos, con toda la banda alrededor, mientras él grita «¡Mei, Mei, Mei, Mei!». **DISEÑO:** la grieta ya no es haber disparado: es que lo último que le dio fue su decepción, y que sus manos no pudieron cerrar la herida. Detalle: [[06_Relationships/Momentos_de_Fractura#F2 - La muerte de Meiko y la salida de Bonnie|F2]].
 
 Es una de las primeras grietas profundas entre Nadir persona y Nadir miembro de la organización. Sigue leal, trabaja y puede justificar que era necesario; no abandona a Kal ni expresa resentimiento inmediato. Puede contribuir mucho después a su búsqueda de vida/poder fuera de esa institución, sin convertirse en causa única.
 
-> **DECISIÓN DEL AUTOR (2026-11-12; Libro II, cap. 41 de [[11_Books/Book_02_Sombras_De_Poder/00_Guia_Redaccion_Capitulos]]):** tras F2, Nadir organiza a los chicos sin decirle a Kal y los lleva contra los Calderos para cobrar a Mei. El golpe sale mal: mueren inocentes, ningún chico muere (hay heridos) y el Caldero que la apuñaló sobrevive. Kal llega tarde y responde por ellos. Es el primer paso de la **separación voluntaria de Nadir de la banda**, que se va cumpliendo a lo largo de la saga. En el 42 lo ve darle la mano a Mack Calderon y no dice nada.
+> **DECISIÓN DEL AUTOR (2026-11-12; Libro II, cap. 41 de [[11_Books/Book_02_Sombras_De_Poder/00_Guia_Redaccion_Capitulos]]):** tras F2, Nadir organiza a los chicos sin decirle a Kal y los lleva contra los Calderos para cobrar a Meiko. El golpe sale mal: mueren inocentes, ningún chico muere (hay heridos) y el Caldero que la apuñaló sobrevive. Kal llega tarde y responde por ellos. Es el primer paso de la **separación voluntaria de Nadir de la banda**, que se va cumpliendo a lo largo de la saga. En el 42 lo ve darle la mano a Mack Calderon y no dice nada.
 
 > **DISEÑO (2026-11-12) con DECISIÓN DEL AUTOR sobre el cobro:** Nadir es el único que le vio la cara al Caldero de la navaja de flamas verdes. En *Voto de Ceniza*, Kal y Chiara invierten en ese hombre y no se lo dicen. **Nadir se entera en el Libro IV, solo y sin confesión**, cuando ya no quiere seguir en ese mundo; en el III es la mano derecha de Kal y no puede saberlo. Combustible de su separación, no causa única: [[11_Books/Book_03_Voto_De_Ceniza/00_Diseno_El_Caldero_En_La_Oficina]].
 
@@ -115,7 +115,7 @@ Lo que opera hoy:
 
 La amenaza de deportación funciona porque Nadir es el único problema que Kal no puede resolver con sus herramientas habituales: no es dinero, no es territorio, no es un favor. Es un papel.
 
-**F2 (CANON DEL AUTOR, 2026-11-07):** Mei muere en sus manos en El Patio tras una operación; Nadir no la ejecuta (ver la grieta de F2, arriba, y [[06_Relationships/Momentos_de_Fractura#F2 - La muerte de Mei y la salida de Bonnie|F2]]). Es el protector de todos en la Almendra; para entonces Mei ya es una de las chicas del barrio. La deuda queda sin pronunciarse durante años y puede sembrarse como una de las cosas que nunca desaparecen, sin convertirse en la única causa de una separación futura con Kal.
+**F2 (CANON DEL AUTOR, 2026-11-07):** Meiko muere en sus manos en El Patio tras una operación; Nadir no la ejecuta (ver la grieta de F2, arriba, y [[06_Relationships/Momentos_de_Fractura#F2 - La muerte de Meiko y la salida de Bonnie|F2]]). Es el protector de todos en la Almendra; para entonces Meiko ya es una de las chicas del barrio. La deuda queda sin pronunciarse durante años y puede sembrarse como una de las cosas que nunca desaparecen, sin convertirse en la única causa de una separación futura con Kal.
 
 ---
 
@@ -149,7 +149,7 @@ Kal lo mantiene lejos de las finanzas centrales de Almendra Towing. No porque Na
 - [[02_Characters/Daniel_Hayes]] — testigo junto con él de la primera cena de Kal y Chiara.
 - [[02_Characters/Hector_Navarro]] — parte del núcleo que aparece con Kal en Gabriella's.
 - [[02_Characters/Chiara_Bellandi]] — al principio desconfía de ella; tolera su presencia por Kal y le exige demostrar que no es una complicación pasajera. La incomodidad empieza antes de que se conozcan.
-- [[02_Characters/Mei_Nakano]] — sabe de su traición, le dice que lo decepcionó y la ve morir en sus manos en F2.
+- [[02_Characters/Meiko_Nakano]] — sabe de su traición, le dice que lo decepcionó y la ve morir en sus manos en F2.
 
 ---
 

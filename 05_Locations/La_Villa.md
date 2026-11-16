@@ -10,7 +10,7 @@
 
 ## Posición y función vigentes — CANON DEL AUTOR 2026-09-20
 
-Villa Candelaria se adquiere / funda / convierte en hogar en **Parte V — Exilio, después del incendio que cierra IV y después del mismo día de ejecución de Mei y destierro de Bonnie**. **SUPERSEDIDA** la transición inmediata incendio → Villa y cualquier Villa ya construida antes de F2. El plan previo de Kal no equivale a haberla adquirido o levantado.
+Villa Candelaria se adquiere / funda / convierte en hogar en **Parte V — Exilio, después del incendio que cierra IV y después del mismo día de ejecución de Meiko y destierro de Bonnie**. **SUPERSEDIDA** la transición inmediata incendio → Villa y cualquier Villa ya construida antes de F2. El plan previo de Kal no equivale a haberla adquirido o levantado.
 
 El loft fue hogar descubierto; Villa es hogar reconstruido deliberadamente. Kal hace posible el lugar y Chiara lo convierte junto con él en casa. Privacidad, seguridad, organización mayor y vida adulta con futuro, sin reducirla a fortaleza ni riqueza. Las lecturas de clase conservadas abajo no sustituyen esta función. Stavanger/anillo siguen después, en Parte V; H1 recibe la casa en VI. **PENDIENTE:** adquisición, obra y grado de consolidación doméstica al salir de Exilio; posición después de F2 ya cerrada.
 

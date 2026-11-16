@@ -21,7 +21,7 @@ Guarda 6 de [[11_Books/Book_01_Mascaras_De_Cristal/00_Plan_Nuevo_Cauce]]: ningú
 2. **Crowe** se quedó sin el lote en el 39 y Kal ya sabe que trabaja para la gente de Halbrook. Hay que revisar las señales del Tasador (archivos 46, 48 y 50) contra eso y contra [[11_Books/Book_01_Mascaras_De_Cristal/00_Plan_Hilo_Tasador]]. Guarda 3: Crowe no es la causa de todo, y Varek, Lucía, la calle e Il Consorzio conservan motivos propios.
 3. **Varek** es confiable y accesible y no amenaza: sus señales de amenaza se retiran. Sus policías propios no incluyen a Lucía, Nick V. ni Collins. Lucía es la subjefa en funciones y no hay jefe de policía.
 4. **Il Consorzio** es respaldo y atadura de Chiara (eso pesa en el 45). Matteo está en Italia investigando lo de Elio, y **eso no se dice en el I**.
-5. **Mei:** su contacto sigue siendo Tommaso (triple agente, ficha). Trabajó sin saberlo para Crowe en el robo. No se adelanta F2 (Libro II).
+5. **Meiko:** su contacto sigue siendo Tommaso (triple agente, ficha). Trabajó sin saberlo para Crowe en el robo. No se adelanta F2 (Libro II).
 6. **Vento está muerto** (nuevo 23) y los 40–47 no lo registran. Que entre o no una sola mención es DISEÑO; el autor lo decide.
 7. **Numeración:** los «Cap. NN» de la metadata se pasan a la de 47 con [[11_Books/Book_01_Mascaras_De_Cristal/00_Book_Map]]. La prosa no cita números.
 8. **Extensión:** la meta del cauce es de 3,500 a 4,000 palabras por capítulo. Los archivos 45, 49 y 50 pasan de 5,000. Las podas se proponen y las decide el autor. La geografía no se poda.
@@ -37,7 +37,7 @@ Orden: **40 → 41**.
 | Nuevo | Archivo | Palabras | Qué revisar |
 |---|---|---|---|
 | 40 | `44_Jurisdiccion.md` | 2,574 | Costura 39 → 40 ya aplicada («de madrugada»). Se revisa a Krane, Rowe, Connors y Lucía contra el cauce: el abogado, la base y que no haya jefe de policía. Héctor: «Eso no me toca a mí». |
-| 41 | `45_Ropa_Limpia.md` | 5,201 | Rosaura, la grabación del pasillo, Bonnie y Mei (horarios del lote). La Navidad sin Kal. Mabel después del 35 (Acción de Gracias, el plato). Propuesta de poda. **La grabación la usa el 47 (C)**: si cambia, avisa en la nota. |
+| 41 | `45_Ropa_Limpia.md` | 5,201 | Rosaura, la grabación del pasillo, Bonnie y Meiko (horarios del lote). La Navidad sin Kal. Mabel después del 35 (Acción de Gracias, el plato). Propuesta de poda. **La grabación la usa el 47 (C)**: si cambia, avisa en la nota. |
 
 ### Terminal B: las deudas (El Patio, Varek, Rafe)
 
@@ -47,7 +47,7 @@ Orden: **42 → 43 → 44**. Es el tramo que más choca con el cauce.
 |---|---|---|---|
 | 42 | `46_Llaves.md` | 4,038 | En el 39, Danny se va con las cajas en el helicóptero «al de Varek». Eso choca con «Donde las dejamos. Completas.» y con «Varek mandó a preguntar por las cajas» (D1). La frialdad del Patio, Walt leyendo la ropa doblada, Rocco y Marisol. |
 | 43 | `47_Intereses.md` | 4,804 | **D1 y D2.** Los intereses por el retraso, el Patio «por un tiempo», la «cuenta abierta» y «Cóbreselos a él cuando salga». Varek ya no amenaza. Lucía da la fecha de buena fe. |
-| 44 | `48_Su_Nombre.md` | 4,288 | Rafe, el nombre de Chiara como precio, Mabel de puente y Mei en la mesa (comprobación 5). La señal del Tasador frente al cauce. |
+| 44 | `48_Su_Nombre.md` | 4,288 | Rafe, el nombre de Chiara como precio, Mabel de puente y Meiko en la mesa (comprobación 5). La señal del Tasador frente al cauce. |
 
 ### Terminal C: la última puerta y el cierre
 

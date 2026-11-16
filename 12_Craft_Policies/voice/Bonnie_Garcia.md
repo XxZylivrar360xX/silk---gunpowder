@@ -8,7 +8,7 @@ Frases cortas, sin saludo ni preámbulo («Encontré la camioneta.»). Cuenta lo
 
 ## Vocabulario
 
-Taller y calle: bomba, batería, capó, rampa, estacionamiento subterráneo, placa, remolque. Con Chiara, siempre *usted* y «Señora»; con Mei, el diminutivo «Mei». Ningún tecnicismo de negocio ni palabra de salón.
+Taller y calle: bomba, batería, capó, rampa, estacionamiento subterráneo, placa, remolque. Con Chiara, siempre *usted* y «Señora»; con Meiko, el diminutivo «Mei». Ningún tecnicismo de negocio ni palabra de salón.
 
 ## Lo que nunca dice
 
@@ -20,7 +20,7 @@ Habla sin sacar la cabeza del motor; cierra el capó con la mano plana, sin golp
 
 ## Contraste deliberado con otro personaje
 
-Frente a Mei: Bonnie reporta y protege; Mei mide rutas y pregunta para qué. Frente a Chiara: Chiara arma versiones; Bonnie da el hecho en crudo y deja que la otra lo administre. Es su alumna, no su eco: no imita la cortesía de Chiara.
+Frente a Meiko: Bonnie reporta y protege; Meiko mide rutas y pregunta para qué. Frente a Chiara: Chiara arma versiones; Bonnie da el hecho en crudo y deja que la otra lo administre. Es su alumna, no su eco: no imita la cortesía de Chiara.
 
 ## Bajo presión
 

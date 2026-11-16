@@ -5,14 +5,14 @@ estado: BORRADOR
 libro: Sombras de Poder (Libro II), Parte III — Exilio
 capitulo: 39
 pov: Chiara Bellandi, único
-ventana_temporal: principios de mayo A4, el día del entierro de Mei; de la mañana a la medianoche
+ventana_temporal: principios de mayo A4, el día del entierro de Meiko; de la mañana a la medianoche
 localizacion: el Cementerio Santa Lucía; la casa de la reja verde en La Almendra; la Villa Candelaria
 personajes: Chiara Bellandi, Bonnie García, Kal Mercer; en el entierro, Nadir, Héctor, Walt, Mabel, Marisol, Danny, Tyler, Harper, Garrett
 ---
 
-> **Estado:** BORRADOR del agente (Claude Code, 2026-11-13), para lectura del autor. Último capítulo del arco de Mei. Fuentes: [[11_Books/Book_02_Sombras_De_Poder/00_Guia_Redaccion_Capitulos]], ficha del 39, y [[06_Relationships/Momentos_de_Fractura#F2 - La muerte de Mei y la salida de Bonnie|F2]].
+> **Estado:** BORRADOR del agente (Claude Code, 2026-11-13), para lectura del autor. Último capítulo del arco de Meiko. Fuentes: [[11_Books/Book_02_Sombras_De_Poder/00_Guia_Redaccion_Capitulos]], ficha del 39, y [[06_Relationships/Momentos_de_Fractura#F2 - La muerte de Meiko y la salida de Bonnie|F2]].
 >
-> **CANON citado literal:** «—Lo siento, ¿vale?» / «—No te martirices. Hiciste lo que debías hacer.» y el beso en la frente (DECISIÓN DEL AUTOR, 2026-11-12: se quedan con otro sentido y sin reescribirse); «Iba a decirle que sin importar lo que tuvo que hacer, era de los míos.» (CANON DEL AUTOR, 2026-11-13; ortografía normalizada). **CANON (hechos):** el forro de la camioneta lleno de sangre, después del entierro; nadie dice nada. Kal vuelve a la Villa y encuentra a Chiara rota en el suelo con la foto de la cena de Navidad. Kal no llora en todo el arco hasta decir esa línea. **DECISIONES DEL AUTOR (2026-11-13):** el corazón del capítulo es la plática de la tarde después del entierro: Chiara todavía le habla de planes y Bonnie le revela que no va a quedarse; en la misma plática le cuenta la traición de Mei y que Kal la calló. Bonnie se va después del entierro. POV de Chiara. **DISEÑO del agente:** la casa de la reja verde con las cosas de Mei; los folletos; la lata del centro que Bonnie aparta; «Pedí una ambulancia» como razón de Bonnie; que la foto esté en la repisa de mármol desde enero (el 57 la encuentra ahí); la tierra en las manos de Kal; que Kal le diga «amore» a nada.
+> **CANON citado literal:** «—Lo siento, ¿vale?» / «—No te martirices. Hiciste lo que debías hacer.» y el beso en la frente (DECISIÓN DEL AUTOR, 2026-11-12: se quedan con otro sentido y sin reescribirse); «Iba a decirle que sin importar lo que tuvo que hacer, era de los míos.» (CANON DEL AUTOR, 2026-11-13; ortografía normalizada). **CANON (hechos):** el forro de la camioneta lleno de sangre, después del entierro; nadie dice nada. Kal vuelve a la Villa y encuentra a Chiara rota en el suelo con la foto de la cena de Navidad. Kal no llora en todo el arco hasta decir esa línea. **DECISIONES DEL AUTOR (2026-11-13):** el corazón del capítulo es la plática de la tarde después del entierro: Chiara todavía le habla de planes y Bonnie le revela que no va a quedarse; en la misma plática le cuenta la traición de Meiko y que Kal la calló. Bonnie se va después del entierro. POV de Chiara. **DISEÑO del agente:** la casa de la reja verde con las cosas de Meiko; los folletos; la lata del centro que Bonnie aparta; «Pedí una ambulancia» como razón de Bonnie; que la foto esté en la repisa de mármol desde enero (el 57 la encuentra ahí); la tierra en las manos de Kal; que Kal le diga «amore» a nada.
 >
 > **Guarda:** el narrador no explica el «lo siento» ni la absolución. Nadie nombra la regla. Que Chiara sabe lo que Kal calló queda debajo, sin decirse. Nada de la propia cuota de Chiara en voz alta: sólo en su cabeza, una vez.
 
@@ -78,7 +78,7 @@ Bonnie se hizo a un lado para dejarla pasar.
 
 Adentro, la casa olía a encerrado y a café recalentado. Era chica: una sala con un sillón y una televisión, una cocina abierta, un pasillo con dos puertas. Una de las puertas estaba abierta. La otra, cerrada.
 
-Chiara no miró la puerta cerrada. Miró lo que había afuera de ella, que era peor. Una chaqueta negra con capucha colgada en el respaldo de una silla del comedor. Unos tenis en la entrada, junto a los de Bonnie, más chicos. Una taza en el escurridor con una marca de labial casi borrada en el borde. En la mesa de la cocina, el teléfono de Mei, apagado, con la pantalla estrellada en una esquina. Y en el suelo, junto al refrigerador, una caja de cartón con latas de aceite agujereadas, llenas de tornillos.
+Chiara no miró la puerta cerrada. Miró lo que había afuera de ella, que era peor. Una chaqueta negra con capucha colgada en el respaldo de una silla del comedor. Unos tenis en la entrada, junto a los de Bonnie, más chicos. Una taza en el escurridor con una marca de labial casi borrada en el borde. En la mesa de la cocina, el teléfono de Meiko, apagado, con la pantalla estrellada en una esquina. Y en el suelo, junto al refrigerador, una caja de cartón con latas de aceite agujereadas, llenas de tornillos.
 
 —Siéntese —dijo Bonnie.
 
@@ -162,7 +162,7 @@ Las salas del Monarch. Las mesas. Las charolas de plata pasando por detrás de s
 
 Varek. A Varek.
 
-Chiara le pagaba a Varek cada mes una cuota que nadie conocía, una deuda vieja que él cobraba con cortesía y con intereses, y se la escondía a Kal. Y Varek, mientras tanto, la miraba de cerca por una charola. La misma ventanilla. Mei había pagado lo mismo que ella, con otro nombre.
+Chiara le pagaba a Varek cada mes una cuota que nadie conocía, una deuda vieja que él cobraba con cortesía y con intereses, y se la escondía a Kal. Y Varek, mientras tanto, la miraba de cerca por una charola. La misma ventanilla. Meiko había pagado lo mismo que ella, con otro nombre.
 
 No lo dijo. Se le quedó en algún lugar detrás de los dientes, apretado.
 
@@ -190,7 +190,7 @@ Se quedó con la lata en la mano, mirándola. Le dio una vuelta. Por el agujero 
 
 —Claro —dijo Chiara. Se le rompió la voz en la segunda sílaba y la recompuso, como recomponía un informe—. Claro que te la llevas.
 
-Bonnie asintió. Dejó la lata en la mesa de la cocina, junto al teléfono apagado de Mei, y volvió a meter las manos en los bolsillos de la chaqueta que le quedaba grande.
+Bonnie asintió. Dejó la lata en la mesa de la cocina, junto al teléfono apagado de Meiko, y volvió a meter las manos en los bolsillos de la chaqueta que le quedaba grande.
 
 Chiara se levantó. Recogió los folletos de la mesa de centro, uno por uno, y los dobló otra vez en dos. Después no supo qué hacer con ellos. Los dejó sobre el brazo del sillón.
 
@@ -200,7 +200,7 @@ Chiara se levantó. Recogió los folletos de la mesa de centro, uno por uno, y l
 
 Se quedaron de pie, las dos, en la sala chica, con la puerta cerrada al fondo del pasillo.
 
-Chiara quería abrazarla. No sabía si Bonnie se dejaba abrazar. En un año no la había visto dejarse, no la había visto pedirlo, no la había visto acercarse a nadie más que a Mei, y a Mei la había agarrado del brazo en una foto, a medio grito, como si se estuviera cayendo. Chiara se acercó un paso. Bonnie no se movió.
+Chiara quería abrazarla. No sabía si Bonnie se dejaba abrazar. En un año no la había visto dejarse, no la había visto pedirlo, no la había visto acercarse a nadie más que a Meiko, y a Meiko la había agarrado del brazo en una foto, a medio grito, como si se estuviera cayendo. Chiara se acercó un paso. Bonnie no se movió.
 
 Chiara la abrazó.
 
@@ -218,7 +218,7 @@ Chiara estaba en el suelo. No se acordaba de cuándo se había sentado. Se acord
 
 La había bajado de la repisa. Después estaba en el suelo, con la espalda contra el sillón y la foto en las piernas, y el marco frío en las manos.
 
-Mei en el centro. Riéndose con los ojos cerrados y la cabeza echada hacia atrás, con un tamal a medio comer en una mano y la otra prendida del brazo de Bonnie. Bonnie agachada, con el pelo en la cara y la boca abierta a medio grito. Danny haciéndole cuernos a Nadir. Nadir riéndose. Héctor con su sonrisa chica. Todos, apretados, sonriendo hacia el teléfono de Kal, que ella sostenía en alto, gritándoles que se juntaran. Como si pudieran con el mundo. Como si nadie les hubiera dicho todavía cuánto costaba.
+Meiko en el centro. Riéndose con los ojos cerrados y la cabeza echada hacia atrás, con un tamal a medio comer en una mano y la otra prendida del brazo de Bonnie. Bonnie agachada, con el pelo en la cara y la boca abierta a medio grito. Danny haciéndole cuernos a Nadir. Nadir riéndose. Héctor con su sonrisa chica. Todos, apretados, sonriendo hacia el teléfono de Kal, que ella sostenía en alto, gritándoles que se juntaran. Como si pudieran con el mundo. Como si nadie les hubiera dicho todavía cuánto costaba.
 
 Había llorado tanto que ya no lloraba. Le salía otra cosa, un ruido seco, desde abajo, cada tanto, que no era llanto y no paraba.
 
@@ -230,7 +230,7 @@ Chiara no levantó la vista. Tenía la foto en las piernas.
 
 Kal se quedó en la entrada un rato largo. Después entró. Se arrodilló delante de ella, en el suelo, y Chiara le vio las manos: la tierra del cementerio todavía en los pliegues de los nudillos y debajo de las uñas, aunque se notaba que se las había lavado, que se las había lavado muchas veces.
 
-Él miró la foto. Ella lo vio mirarla. Lo vio buscar a Mei en el centro y encontrarla, y lo vio quedarse ahí.
+Él miró la foto. Ella lo vio mirarla. Lo vio buscar a Meiko en el centro y encontrarla, y lo vio quedarse ahí.
 
 —Lo siento, ¿vale?
 
@@ -250,7 +250,7 @@ Estuvieron así mucho tiempo. La casa estaba en silencio. En la cocina, el refri
 
 Se detuvo. Chiara esperó.
 
-Él miraba la foto. Tenía el pulgar sobre el vidrio, al lado de la cara de Mei, sin tocarla.
+Él miraba la foto. Tenía el pulgar sobre el vidrio, al lado de la cara de Meiko, sin tocarla.
 
 —Iba a decirle que sin importar lo que tuvo que hacer, era de los míos.
 

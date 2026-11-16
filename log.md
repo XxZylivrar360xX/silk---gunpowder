@@ -4,7 +4,7 @@ El detalle se guarda una sola vez en notas de sesión. Este archivo es navegaci�
 
 ## Sesiones recientes
 
-- 2026-11-15: CANON DEL AUTOR: Mei-Lin pasa a ser japonesa y se llama **Mei Nakano** (su hermano, Kaito); apariencia fijada (rostro inspirado en Yuko Araki, chongos o trenzas sin adornos); renombrado en todo el vault vivo y prompt anime: [[98_Agent_Handoff/sessions/2026-11-15_claude_mei_nakano_anime]].
+- 2026-11-15: CANON DEL AUTOR: Mei-Lin pasa a ser japonesa y se llama **Meiko Nakano**, «Mei» de cariño (su hermano, Kaito); apariencia fijada (rostro inspirado en Yuko Araki, chongos o trenzas sin adornos); renombrado en todo el vault vivo y prompt anime: [[98_Agent_Handoff/sessions/2026-11-15_claude_mei_nakano_anime]].
 - 2026-11-15: Libro II, cap. 38 rehecho para que la muerte de Mei-Lin duela por injusta (DECISIÓN DEL AUTOR: clínica frente a la que no frenan, «Por el hospital no», espera a Nadir, el silencio de los chalecos); siembra pendiente del ritual: [[98_Agent_Handoff/sessions/2026-11-13_claude_arco_mei_lin]]
 - 2026-11-15: Libro II, la Villa reubicada por Las Gemelas en la prosa de los borradores 54–56 (carretera del norte, portón con cadena, once curvas; plazos de Héctor y Camila a una hora; Chiara despierta a la 1:10): [[98_Agent_Handoff/sessions/2026-11-15_claude_reubicacion_villa_54_56]].
 

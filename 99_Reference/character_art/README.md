@@ -43,6 +43,14 @@ Este uso del arte de personajes propios no cambia la prohibición de adaptar esc
 
 Ambas láminas fijan la herencia física de [[02_Characters/Chiara_Bellandi]]: cabello negro azabache y estructura facial afilada de Corrado; ojos, boca y calidez del rostro de Marta. Ver la sección "Apariencia" de cada ficha para el detalle completo y la sección "Herencia física" en la ficha de Chiara.
 
+## Incorporación 2026-11-15 — Meiko Nakano
+
+| Imagen | Ficha y uso conceptual |
+|---|---|
+| [[99_Reference/character_art/Meiko_Nakano.png]] | [[02_Characters/Meiko_Nakano]] — versión semirrealista del retrato del taller; chongos y trenzas a la vez; rostro de referencia (Yuko Araki). La identidad anime vigente está en [[99_Reference/character_art/anime/README]]. |
+
+Fondo y hora (atardecer, palmeras) son DISEÑO: San Aurelio está en Oregon y las palmeras no le corresponden.
+
 ## Hojas iniciales
 
 ---

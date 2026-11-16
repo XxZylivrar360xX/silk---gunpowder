@@ -60,7 +60,7 @@ Se actualizaron fichas, biblia, Hitos, relaciones, tablas y planes, con rangos y
 | [[02_Characters/Marisol_Grayson]] | 12 | 0 |
 | [[02_Characters/Marta_Bellandi]] | 7 | 0 |
 | [[02_Characters/Matteo_Bellacorte]] | 1 | 0 |
-| [[02_Characters/Mei_Nakano]] | 5 | 0 |
+| [[02_Characters/Meiko_Nakano]] | 5 | 0 |
 | [[02_Characters/Michael_Grayson]] | 3 | 0 |
 | [[02_Characters/Nadir_Amrani]] | 13 | 0 |
 | [[02_Characters/Natalie_Keegan]] | 6 | 2 |

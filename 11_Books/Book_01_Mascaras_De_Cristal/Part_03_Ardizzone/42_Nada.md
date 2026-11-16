@@ -1,13 +1,13 @@
 <!--
 Nuevo cauce (Fase 4, 2026-11-07, terminal C, encargo [[98_Agent_Handoff/encargos/ENCARGO_Fase4_Paralelo_Reusa]]): **nuevo Cap. 38** (T24, F1; verbo «Reusa» en [[11_Books/Book_01_Mascaras_De_Cristal/00_Mapa_Cauce_Cap11_Camp_Alder]]). Antes Cap. 47 (numeración de 56; antes 51, 42). El archivo conserva su nombre. Título CONFIRMADO Y DEFINITIVO por el autor (2026-09-22).
 Estado: BORRADOR. Prosa DISEÑO pendiente de lectura del autor. Versión anterior íntegra: [[11_Books/Book_01_Mascaras_De_Cristal/Escenas_Eliminadas/42_Nada_Version_2026-11-07]] (allí queda el historial: corrección del 2026-09-22, E8 del 2026-09-27, tesis visibles del 2026-10-05, Fabrizio ocupado del 2026-10-18, regla 05 del 2026-10-28). Sesión: [[98_Agent_Handoff/sessions/2026-11-07_claude_fase4_cap38_nada]].
-Decisión del autor para esta reescritura (2026-11-07): Mei entra por la llamada de Bonnie con la opción (a): su nombre y «lo de allá arriba se deshizo», sin nombrar a Boone ni a la banda; Chiara no lo conecta con el robo del Monarch.
-Cambios DISEÑO de esta versión: (1) Mei duerme en el Patio y no quiere quedarse sola (T24: intuyó lo de Boone y busca protección; aquí no se dice): Mei no dice por qué. Es otra razón para llamar primero a Kal. (2) F1 se ajusta al nuevo 37: Chiara sabe quién llama a Kal así (la correa, desde Las Gemelas), pero él no le dijo para qué. Halbrook no se nombra.
+Decisión del autor para esta reescritura (2026-11-07): Meiko entra por la llamada de Bonnie con la opción (a): su nombre y «lo de allá arriba se deshizo», sin nombrar a Boone ni a la banda; Chiara no lo conecta con el robo del Monarch.
+Cambios DISEÑO de esta versión: (1) Meiko duerme en el Patio y no quiere quedarse sola (T24: intuyó lo de Boone y busca protección; aquí no se dice): Meiko no dice por qué. Es otra razón para llamar primero a Kal. (2) F1 se ajusta al nuevo 37: Chiara sabe quién llama a Kal así (la correa, desde Las Gemelas), pero él no le dijo para qué. Halbrook no se nombra.
 Costura de apertura RESUELTA (propagación de la Parte III, 2026-11-08): «Pasaron dos días» cuadra con el calendario A (jue 16 – vie 17). Aplicado (DECISIÓN DEL AUTOR, 2026-11-08): Kal supo que ella volvió por alguien del Monarch, no por ella (inciso en el mensaje del proveedor). Dependía del calendario que fije el nuevo 36 (Mesa 13 dic; Kal preso 19 dic; F1 es la víspera de Camp Alder).
 Costura de cierre: engancha con el nuevo 39 (*Expediente sellado*, archivo 43, Camp Alder).
 Protagonista: Chiara Bellandi (POV único, tercera persona cercana). El rastreo de Bonnie ocurre fuera de página y llega por su llamada. Kal sólo en el penthouse, para F1.
 Personajes con diálogo: Chiara Bellandi, Bonnie García (por teléfono), Kal Mercer (en persona), la recepción del edificio.
-Mencionados: Mei Nakano, el hombre de Almendra Towing (sin identificar), quien sigue a Bonnie (sin identificar), Matteo, Fabrizio.
+Mencionados: Meiko Nakano, el hombre de Almendra Towing (sin identificar), quien sigue a Bonnie (sin identificar), Matteo, Fabrizio.
 Lugares: el Monarch (resumen de dos días); el penthouse de la Torre Norte, de noche.
 Función: cobra la mentira del 37 («—Nada.»). Bonnie encuentra la camioneta, la abordan, la siguen e informa a Kal porque el riesgo toca el Patio. Kal reconstruye la mentira y va al penthouse. F1 sin resolución, la víspera de Camp Alder.
 - REGLA ESTRUCTURAL: no hay escena Bonnie-Kal en pantalla; no se resuelve Matteo; no se identifica al hombre de Almendra Towing ni a quien sigue a Bonnie; no se revela Halbrook; no hay celos ni triángulo; no hay reconciliación; no se ejecuta Camp Alder.
@@ -74,7 +74,7 @@ Chiara no contestó de inmediato.
 
 Chiara no dijo nada. Bonnie tampoco, por un momento, y cuando siguió lo hizo más bajo, como quien entrega algo que no venía en el reporte.
 
-—Mei está durmiendo en el Patio. Desde que se deshizo lo de allá arriba no quiere quedarse sola en ningún lado, y no dice por qué. Le pregunté dos veces. —Respiró—. Si alguien anda siguiendo a la gente que pregunta, yo no voy a ser la que se lo lleve hasta donde ella duerme.
+—Meiko está durmiendo en el Patio. Desde que se deshizo lo de allá arriba no quiere quedarse sola en ningún lado, y no dice por qué. Le pregunté dos veces. —Respiró—. Si alguien anda siguiendo a la gente que pregunta, yo no voy a ser la que se lo lleve hasta donde ella duerme.
 
 Chiara no sabía qué era «lo de allá arriba» y no lo preguntó. Guardó el nombre.
 

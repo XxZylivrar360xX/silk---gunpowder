@@ -19,7 +19,7 @@
 
 ## Archivos tocados
 
-[[06_Relationships/Momentos_de_Fractura]] (F2: bloque CANON 2026-10-14, cadena causal, restricciones) · [[02_Characters/Bonnie_Garcia]] · [[02_Characters/Mei_Nakano]] · [[02_Characters/Corrado_Ardizzone]] · [[11_Books/Book_02_Sombras_De_Poder/00_Plan_Cuatro_Partes]] · [[11_Books/Book_02_Sombras_De_Poder/00_Boceto_Lista_Capitulos]] (43, 45 y pendientes heredados). Sin prosa de manuscrito.
+[[06_Relationships/Momentos_de_Fractura]] (F2: bloque CANON 2026-10-14, cadena causal, restricciones) · [[02_Characters/Bonnie_Garcia]] · [[02_Characters/Meiko_Nakano]] · [[02_Characters/Corrado_Ardizzone]] · [[11_Books/Book_02_Sombras_De_Poder/00_Plan_Cuatro_Partes]] · [[11_Books/Book_02_Sombras_De_Poder/00_Boceto_Lista_Capitulos]] (43, 45 y pendientes heredados). Sin prosa de manuscrito.
 
 ## Nota
 

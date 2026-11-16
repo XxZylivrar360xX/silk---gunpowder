@@ -2,7 +2,7 @@
 
 > **CANON DEL AUTOR — 2026-09-07, actualizado 2026-09-22 y 2026-10-03.** Este documento fija la arquitectura macro de la saga y los títulos oficiales de sus libros. **Supersede** cualquier diseño anterior que tratara *Seda y Pólvora* como una sola novela de cinco partes, o que tratara la saga como una trilogía estricta, cuando exista conflicto de alcance, cortes entre libros, ubicación de Bonnie, H1, H22, cierre de la Guerra de los Tres o apertura del arco Meridian / Il Consorzio.
 >
-> **CAMBIO DE CANON (2026-11-07):** F2 ya no es ejecución ni destierro: Mei muere tras una operación y Bonnie se va a Boston por elección; recibe a Elenna desde Boston (se retira Italia). Manda [[06_Relationships/Momentos_de_Fractura#F2 - La muerte de Mei y la salida de Bonnie|F2]]; lo que diga abajo sobre Italia, Roberta Ardizzone o el destierro queda superado.
+> **CAMBIO DE CANON (2026-11-07):** F2 ya no es ejecución ni destierro: Meiko muere tras una operación y Bonnie se va a Boston por elección; recibe a Elenna desde Boston (se retira Italia). Manda [[06_Relationships/Momentos_de_Fractura#F2 - La muerte de Meiko y la salida de Bonnie|F2]]; lo que diga abajo sobre Italia, Roberta Ardizzone o el destierro queda superado.
 
 > **SUPERSESIÓN 2026-09-22 — inserción de *Sombras de Poder*.** La saga deja de ser una trilogía estricta: se inserta un libro nuevo, **Sombras de Poder**, entre *Seda y Pólvora* y *Voto de Ceniza*. Esto **revierte** la reconciliación del 2026-09-20/21 que había absorbido ese material (Nieve y Ceniza, Exilio, Torna a Casa) como Partes IV-VI internas de *Seda y Pólvora*. Consecuencia directa: **Bonnie y F2 dejan de pertenecer al Libro I** (vuelven a moverse a *Sombras de Poder*, ahora Libro II) y **H1 deja de ser el clímax del Libro I** (pasa a ser el clímax de *Sombras de Poder*). Esto revierte específicamente los puntos #3 y #4 de la lista de supersesiones de 2026-09-07, documentados abajo con ambas posturas y su fecha. *Voto de Ceniza* y *Cuentas de Sangre* pasan a ser Libro III y Libro IV respectivamente; la duología post-saga-principal (*Juramento de Hierro*, *Camino a Casa*) pasa a ser Libro V y Libro VI.
 >
@@ -117,7 +117,7 @@ Debe desarrollar de forma suficiente:
 
 ## Regla dura — Bonnie pertenece a *Sombras de Poder*, no al Libro I
 
-> **REVIERTE la regla de 2026-09-07** (ver supersesiones). La salida de Bonnie y la muerte de Mei (F2) vuelven a pertenecer a *Sombras de Poder* (Libro II), no al Libro I. Nacen de su propio conflicto, no se diseñan para acomodar a Elenna; que Bonnie cuide después a Elenna en Italia sigue siendo payoff de una decisión previa. *(Superado 2026-11-07: Bonnie está en Boston; «Elenna Serra» e Italia, retiradas.)*
+> **REVIERTE la regla de 2026-09-07** (ver supersesiones). La salida de Bonnie y la muerte de Meiko (F2) vuelven a pertenecer a *Sombras de Poder* (Libro II), no al Libro I. Nacen de su propio conflicto, no se diseñan para acomodar a Elenna; que Bonnie cuide después a Elenna en Italia sigue siendo payoff de una decisión previa. *(Superado 2026-11-07: Bonnie está en Boston; «Elenna Serra» e Italia, retiradas.)*
 
 ## Escalada final
 
@@ -144,7 +144,7 @@ Estado de salida:
 - Kal le debe a alguien (Halbrook, sin nombrarlo en el libro) su libertad — deuda sin cobrar.
 - Chiara le debe a Dario una cuenta abierta (Kal no lo sabe); su nombre quedó escrito con los Bravos, que asaltaron un convoy federal; Il Consorzio le ofreció el Monarch y ella no contestó (2026-10-01).
 - Halbrook ya está físicamente en San Aurelio y tiene a Chiara en su radar (Cap. 47 (archivo 50b); supersede el "todavía no" de la línea siguiente en ese punto).
-- Bonnie, Mei, el incendio, Villa Candelaria, Stavanger, el embarazo, H1 ~~y Halbrook físicamente en la ciudad~~ **todavía no ocurrieron**: pertenecen a *Sombras de Poder*.
+- Bonnie, Meiko, el incendio, Villa Candelaria, Stavanger, el embarazo, H1 ~~y Halbrook físicamente en la ciudad~~ **todavía no ocurrieron**: pertenecen a *Sombras de Poder*.
 
 ---
 
@@ -212,7 +212,7 @@ Abre **inmediatamente después** del *"Ciao, bella"* que cierra el Libro I: la r
 
 > **SUPERSEDIDO (CANON DEL AUTOR, 2026-10-12; #55):** cuatro Partes: **I — Territorio ajeno** (expansión; cierra con la gala de Halbrook) · **II — Nieve y ceniza** (Navidad, deterioro interno de Kal, Año Nuevo/F4) · **III — Exilio** (F2, costo del mando, salida de Tommaso) · **IV — Torna a casa** (independencia de Dario, tormenta, Stavanger, H1, reveal). El incendio y Villa Candelaria pasan a la Parte I. Manda [[11_Books/Book_02_Sombras_De_Poder/00_Plan_Cuatro_Partes]]. Lo de abajo es historial.
 
-`Parte I — Nieve y Ceniza` (reconciliación, Fabrizio [antes Tommaso, #54], Ren Wei, Navidad/collar, Año Nuevo/F4 separados [canon 2026-09-26], incendio del loft) → `Parte II — Exilio` (F3, F2 — Mei y Bonnie el mismo día —, Villa Candelaria, Stavanger/anillo) → `Parte III — Torna a Casa` (conflicto final, Silas Crowe, embarazo, H1, reveal ~~, coda Halbrook~~ — la coda pasó al Cap. 47 (archivo 50b) del Libro I; el libro cierra en el reveal, en la chimenea de Villa Candelaria, CANON DEL AUTOR 2026-10-02). Desarrollo completo en [[01_Timeline/03_Libro_02_Sombras_De_Poder]] y [[11_Books/Book_02_Sombras_De_Poder/00_Book_Map]].
+`Parte I — Nieve y Ceniza` (reconciliación, Fabrizio [antes Tommaso, #54], Ren Wei, Navidad/collar, Año Nuevo/F4 separados [canon 2026-09-26], incendio del loft) → `Parte II — Exilio` (F3, F2 — Meiko y Bonnie el mismo día —, Villa Candelaria, Stavanger/anillo) → `Parte III — Torna a Casa` (conflicto final, Silas Crowe, embarazo, H1, reveal ~~, coda Halbrook~~ — la coda pasó al Cap. 47 (archivo 50b) del Libro I; el libro cierra en el reveal, en la chimenea de Villa Candelaria, CANON DEL AUTOR 2026-10-02). Desarrollo completo en [[01_Timeline/03_Libro_02_Sombras_De_Poder]] y [[11_Books/Book_02_Sombras_De_Poder/00_Book_Map]].
 
 > **CANON DEL AUTOR (2026-10-06):** el Libro I termina a principios de enero. Navidad, Año Nuevo y el cumpleaños de Kal pasan con Kal preso. *Sombras de Poder* cubre esencialmente un año, y la Navidad/collar va a fin de ese año (la primera juntos), seguida de F4 en el Año Nuevo siguiente. **PENDIENTE:** redistribuir las Partes; la secuencia de arriba sigue valiendo como orden, no como calendario ([[13_Auditorias/Book_01_Mascaras_De_Cristal/Matriz_Temporal_Libro_I]]).
 
@@ -235,7 +235,7 @@ Se conservan las reglas previas del hito:
 - el reveal no ocurre durante la hemorragia, atención médica, baño ni pico de crisis;
 - Kal debe estar fuera de peligro, haber dormido y recuperar cierta normalidad doméstica antes de que Chiara se lo diga.
 
-La proximidad de la pérdida golpea a Chiara sobre una herida ya abierta por otras ausencias (Mei, Bonnie). **Kal es lo que todavía le queda para no romperse.**
+La proximidad de la pérdida golpea a Chiara sobre una herida ya abierta por otras ausencias (Meiko, Bonnie). **Kal es lo que todavía le queda para no romperse.**
 
 ## Clímax emocional
 
@@ -263,7 +263,7 @@ Estado de salida:
 - Chiara está embarazada y Kal ya lo sabe.
 - El Patio ha atravesado su primer enfrentamiento abierto serio (H1).
 - Dario ya no puede tratar el crecimiento de Kal como una molestia menor.
-- Bonnie y Mei están fuera del tablero inmediato; Mei ha muerto.
+- Bonnie y Mei están fuera del tablero inmediato; Meiko ha muerto.
 - Villa Candelaria es su hogar; Kal y Chiara están comprometidos (Stavanger).
 - Halbrook está físicamente en San Aurelio (desde el Cap. 47 (archivo 50b) del Libro I).
 - La guerra todavía no ha explotado por completo, pero ya es inevitable.
@@ -720,7 +720,7 @@ O, en su herida más profunda:
 | Libro | Movimiento emocional | Fractura | Resolución parcial |
 |---|---|---|---|
 | **Máscaras de Cristal** | Elegir quedarse y construir pertenencia | Matteo y Fabrizio se alejan; Kal cae preso en Camp Alder | **Lo que ama puede desaparecer — y aun así, Kal vuelve.** |
-| **Sombras de Poder** | Reconocer antes que Kal qué estructura está naciendo y ayudarlo a sobrevivir de todos modos | Mei muere, Bonnie es desterrada, Kal casi no vuelve en H1 | **Ayudarlo a sobrevivir también puede convertirlo en lo que ella conoce el precio de ser.** |
+| **Sombras de Poder** | Reconocer antes que Kal qué estructura está naciendo y ayudarlo a sobrevivir de todos modos | Meiko muere, Bonnie es desterrada, Kal casi no vuelve en H1 | **Ayudarlo a sobrevivir también puede convertirlo en lo que ella conoce el precio de ser.** |
 | **Voto de Ceniza** | Proteger aquello que ama aunque implique ausencia | Debe hacer desaparecer públicamente a Elenna y vivir lejos de ella | **A veces amar exige aceptar una ausencia que ella misma provoca.** |
 | **Cuentas de Sangre** | Rechazar que ausencia, apellido o institución decidan su vida | Il Consorzio intenta definir su pertenencia | **La salida consiste en terminar la ausencia, no en heredar una corona.** |
 
@@ -766,7 +766,7 @@ Este documento cambió canon anterior en los siguientes puntos:
 18. **Se crea *Sombras de Poder* como Libro II**, absorbiendo el material que del 2026-09-20 al 2026-09-21 había vivido como Partes IV-VI internas de *Seda y Pólvora* (Nieve y Ceniza, Exilio, Torna a Casa). Revierte esa reconciliación.
 19. ~~**El Libro I (*Seda y Pólvora*) ahora cierra en el Cap. 44** ("Ciao, bella", cierre de la Parte III/Ardizzone), no en H1. El Cap. 45 en adelante pertenece a *Sombras de Poder*.~~ **SUPERSEDIDO 2026-10-01 (CANON DEL AUTOR):** el Libro I sigue sin cerrar en H1, pero ya no cierra en el Cap. 44. El cierre de un capítulo se rehízo como arco final sin Kal (Caps. 44–50b) dentro de la Parte III, que pasa de diez a dieciséis capítulos (35–50) más el Cap. 47 (archivo 50b). "Ciao, bella" es la última línea del Cap. 46 (archivo 50); el 50b cierra el libro. El Libro II abre con la respuesta de Chiara (número de capítulo PENDIENTE). Ver #50.
 20. **H1 es ahora el clímax del Libro II — *Sombras de Poder*.**
-21. **Bonnie y F2 (destierro de Bonnie / muerte de Mei) pertenecen ahora a *Sombras de Poder* (Libro II)**, no al Libro I.
+21. **Bonnie y F2 (destierro de Bonnie / muerte de Meiko) pertenecen ahora a *Sombras de Poder* (Libro II)**, no al Libro I.
 22. **El incendio del loft, Villa Candelaria, Stavanger y el compromiso pertenecen a *Sombras de Poder* (Libro II)**, no al Libro I.
 23. ***Voto de Ceniza* pasa a ser Libro III** (era Libro II); **Cuentas de Sangre pasa a ser Libro IV** (era Libro III); su función y contenido no cambian, sólo su número.
 24. **Juramento de Hierro pasa a ser Libro V; Camino a Casa pasa a ser Libro VI** (eran Libro IV y V). *(Camino a Casa: SUPERSEDIDO 2026-10-03, ahora Libro VII; ver #27.)* Su arquitectura interna, todavía en incubadora, no cambia por esta renumeración.
@@ -816,7 +816,7 @@ Este documento cambió canon anterior en los siguientes puntos:
 
 ## Nuevas — 2026-10-12, *Sombras de Poder*: Fabrizio, Tommaso y cuatro Partes (CANON DEL AUTOR)
 
-54. **Fabrizio muere; Tommaso se queda (CANON DEL AUTOR, 2026-10-12).** El asesinado al abrir *Sombras de Poder* es **Fabrizio Rinaldi**: aparece muerto en su apartamento y Lucía Varek llama a Chiara para identificarlo (Cap. 1, «Hogar»). **Tommaso Lusardi no muere:** se queda en San Aurelio durante el libro y se ausenta hacia el final. Supersede la muerte de Tommaso por Volpi al abrir el Libro II (canon 2026-09-12/20/21). PENDIENTE: el motivo de Varek para matar a Fabrizio; cómo llega Mei también a Varek; la Parte y los detalles del choque; quién amenaza a la familia de Tommaso y cómo cede el Monarch. Ver [[02_Characters/Fabrizio_Rinaldi]] y [[02_Characters/Tommaso_Lusardi]]. **Ampliado el mismo día:** Volpi mata a Fabrizio con el mecanismo que antes era de Tommaso (composición de Keene; hipótesis de asesino serial; segunda víctima del patrón). El segundo atentado pasa a ser el corte de frenos del Lancia de Chiara por orden de Varek (lo ejecuta Volpi, velado), al cierre de la Parte II, en Calle Corona rumbo al Puente de Piedra: Tommaso, al volante, choca contra el Audi de Kal que maneja Marisol (tibia fracturada de Marisol; bastón permanente para Tommaso; acercamiento en el hospital que en parte lo lleva a retirarse). Supersede el «2x1». Mei se queda con Tommaso (¿triple agente por miedo?: PENDIENTE). *El Faro*: la muerte de Fabrizio es combustible; el detonante son las consecuencias del arresto de Kal y que todo quedara demasiado limpio a su favor.
+54. **Fabrizio muere; Tommaso se queda (CANON DEL AUTOR, 2026-10-12).** El asesinado al abrir *Sombras de Poder* es **Fabrizio Rinaldi**: aparece muerto en su apartamento y Lucía Varek llama a Chiara para identificarlo (Cap. 1, «Hogar»). **Tommaso Lusardi no muere:** se queda en San Aurelio durante el libro y se ausenta hacia el final. Supersede la muerte de Tommaso por Volpi al abrir el Libro II (canon 2026-09-12/20/21). PENDIENTE: el motivo de Varek para matar a Fabrizio; cómo llega Meiko también a Varek; la Parte y los detalles del choque; quién amenaza a la familia de Tommaso y cómo cede el Monarch. Ver [[02_Characters/Fabrizio_Rinaldi]] y [[02_Characters/Tommaso_Lusardi]]. **Ampliado el mismo día:** Volpi mata a Fabrizio con el mecanismo que antes era de Tommaso (composición de Keene; hipótesis de asesino serial; segunda víctima del patrón). El segundo atentado pasa a ser el corte de frenos del Lancia de Chiara por orden de Varek (lo ejecuta Volpi, velado), al cierre de la Parte II, en Calle Corona rumbo al Puente de Piedra: Tommaso, al volante, choca contra el Audi de Kal que maneja Marisol (tibia fracturada de Marisol; bastón permanente para Tommaso; acercamiento en el hospital que en parte lo lleva a retirarse). Supersede el «2x1». Meiko se queda con Tommaso (¿triple agente por miedo?: PENDIENTE). *El Faro*: la muerte de Fabrizio es combustible; el detonante son las consecuencias del arresto de Kal y que todo quedara demasiado limpio a su favor.
 55. **Cuatro Partes para *Sombras de Poder* (CANON DEL AUTOR, 2026-10-12; retrabajo de supersesión del autor incubado con ChatGPT el 2026-10-11).** I *Territorio ajeno* · II *Nieve y ceniza* · III *Exilio* · IV *Torna a casa*. Supersede la estructura de tres Partes (#19 y la reasignación del 2026-09-22) y el orden Navidad → F4 → incendio → Exilio → Villa tras F2. Halbrook entra como benefactor y consultor de seguridad pública, no como general amenazante, y la gala cierra la Parte I. Plan rector y puntos por confirmar: [[11_Books/Book_02_Sombras_De_Poder/00_Plan_Cuatro_Partes]].
 
 ## Nuevas — 2026-11-15, el voto inverso (CANON DEL AUTOR)

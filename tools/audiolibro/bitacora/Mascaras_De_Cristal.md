@@ -2,11 +2,18 @@
 
 Generada por `tools/audiolibro/build_audiobook.py`; no editar a mano. Tras cambiar la prosa de un capítulo, correr `--estado` para marcarlo PENDIENTE; la bandera se cierra sola cuando el script regenera ese audio.
 
-Actualizada: 2026-11-15 21:59. Al día: 47 de 47.
+Actualizada: 2026-11-15 22:14. Al día: 41 de 47.
 
 ## Pendientes
 
-Ninguno: todos los audios corresponden a la prosa actual.
+| Cap. | Título | Estado | Motivo | Desde |
+|---|---|---|---|---|
+| 35 | Al revés | PENDIENTE | cambió la prosa | 2026-11-15 22:14 |
+| 36 | Mecánico | PENDIENTE | cambió la prosa | 2026-11-15 22:14 |
+| 38 | Nada | PENDIENTE | cambió la prosa | 2026-11-15 22:14 |
+| 41 | Ropa limpia | PENDIENTE | cambió la prosa | 2026-11-15 22:14 |
+| 44 | Su nombre | PENDIENTE | cambió la prosa | 2026-11-15 22:14 |
+| 46 | A oscuras | PENDIENTE | cambió la prosa | 2026-11-15 22:14 |
 
 ## Capítulos
 
@@ -46,22 +53,28 @@ Ninguno: todos los audios corresponden a la prosa actual.
 | 32 | A ti por mí | AL DIA | 2026-11-10 |
 | 33 | Cambio de firmas | AL DIA | 2026-11-10 |
 | 34 | También las mañanas | AL DIA | 2026-11-08 |
-| 35 | Al revés | AL DIA | 2026-11-15 |
-| 36 | Mecánico | AL DIA | 2026-11-15 |
+| 35 | Al revés | PENDIENTE | 2026-11-15 |
+| 36 | Mecánico | PENDIENTE | 2026-11-15 |
 | 37 | Reclamable | AL DIA | 2026-11-10 |
-| 38 | Nada | AL DIA | 2026-11-15 |
+| 38 | Nada | PENDIENTE | 2026-11-15 |
 | 39 | Expediente sellado | AL DIA | 2026-11-10 |
 | 40 | No puedo sacarlo | AL DIA | 2026-11-10 |
-| 41 | Ropa limpia | AL DIA | 2026-11-15 |
+| 41 | Ropa limpia | PENDIENTE | 2026-11-15 |
 | 42 | Navajas y tinta | AL DIA | 2026-11-10 |
 | 43 | Una cuenta abierta | AL DIA | 2026-11-10 |
-| 44 | Su nombre | AL DIA | 2026-11-15 |
+| 44 | Su nombre | PENDIENTE | 2026-11-15 |
 | 45 | Por si vuelve | AL DIA | 2026-11-08 |
-| 46 | A oscuras | AL DIA | 2026-11-15 |
+| 46 | A oscuras | PENDIENTE | 2026-11-15 |
 | 47 | La tierra bajo sus botas | AL DIA | 2026-11-08 |
 
 ## Historial
 
+- 2026-11-15 22:14 · Cap. 46 (50_A_Oscuras.md) · audio pendiente: cambió la prosa
+- 2026-11-15 22:14 · Cap. 44 (48_Su_Nombre.md) · audio pendiente: cambió la prosa
+- 2026-11-15 22:14 · Cap. 41 (45_Ropa_Limpia.md) · audio pendiente: cambió la prosa
+- 2026-11-15 22:14 · Cap. 38 (42_Nada.md) · audio pendiente: cambió la prosa
+- 2026-11-15 22:14 · Cap. 36 (40_Mecanico.md) · audio pendiente: cambió la prosa
+- 2026-11-15 22:14 · Cap. 35 (38_Al_Reves.md) · audio pendiente: cambió la prosa
 - 2026-11-10 02:59 · Cap. 43 (47_Intereses.md) · audio generado
 - 2026-11-10 02:59 · Cap. 42 (46_Llaves.md) · audio generado
 - 2026-11-10 02:59 · Cap. 40 (44_Jurisdiccion.md) · audio generado

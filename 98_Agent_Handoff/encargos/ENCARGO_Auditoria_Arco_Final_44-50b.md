@@ -45,10 +45,10 @@
 | Cap. | Archivo | Días | Núcleo | Palabras* |
 |---|---|---|---|---|
 | 44 | `44_Jurisdiccion.md` | D5–D6 | Institución: abogados, Krane, Connors, Rowe, Lucía | 2,464 |
-| 45 | `45_Ropa_Limpia.md` | D6–D8 | Su red: Kenji, Mabel, Bonnie/Mei, prueba de vida (lavandería), Torre Norte | 4,776 |
+| 45 | `45_Ropa_Limpia.md` | D6–D8 | Su red: Kenji, Mabel, Bonnie/Meiko, prueba de vida (lavandería), Torre Norte | 4,776 |
 | 46 | `46_Llaves.md` | D8–D9 | Los de Kal: El Patio, Nadir y las llaves, Garrett, Marisol | 3,707 |
 | 47 | `47_Intereses.md` | D9–D10 | Las armas de Dario: intereses, "A él no", cuenta abierta, fecha del traslado | 4,603 |
-| 48 | `48_Su_Nombre.md` | D10–D12 | El sur: Rafe, Bravos, Mabel de puente, el nombre como precio, Mei muda | 4,087 |
+| 48 | `48_Su_Nombre.md` | D10–D12 | El sur: Rafe, Bravos, Mabel de puente, el nombre como precio, Meiko muda | 4,087 |
 | 49 | `49_Enfrente.md` | D12–D13 | Il Consigliere: Valenti niega al hombre y ofrece la corona | 3,460 |
 | 50 | `50_A_Oscuras.md` | D13 | Asalto fallido, apagón, columna canon, "Ciao, bella" | 5,165 |
 | 50b | `50b_La_Tierra_Bajo_Sus_Botas.md` | D14, alba | Halbrook llega (narrador externo) | 2,211 |
@@ -57,7 +57,7 @@
 
 **Ya hecho:** [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Cap_44_Jurisdiccion]] (AUDIT del 44, 2026-10-02). C1 está resuelto. **C2 (Krane penalista) falta propagarlo al 45 (l. 65), al 46 (l. 62, 68–70) y al 47 (l. 198).** C3 (el Cap. 19 dice "fiscal del distrito") queda fuera de este arco, pero se registra en § Decisiones. C4: verificar que el 50 reescrito ya no duplica el material del 44.
 
-**Riesgos a vigilar en el bloque:** cuatro capítulos seguidos de 3,500 a 4,800 palabras (ritmo); la misma escena repetida (Chiara pide, alguien niega, Chiara paga) sin escalar; Chiara evita el loft en todo el arco (verificarlo); las siembras de Garrett (46, 47 y 50); Mei muda en el 48; las fechas D5–D14 contra Los_Tres_Dias y el timeline.
+**Riesgos a vigilar en el bloque:** cuatro capítulos seguidos de 3,500 a 4,800 palabras (ritmo); la misma escena repetida (Chiara pide, alguien niega, Chiara paga) sin escalar; Chiara evita el loft en todo el arco (verificarlo); las siembras de Garrett (46, 47 y 50); Meiko muda en el 48; las fechas D5–D14 contra Los_Tres_Dias y el timeline.
 
 ---
 
@@ -71,7 +71,7 @@
 
 ## Etapa 1 — AUDIT de oficio de 44, 45 y 46
 
-**Lee:** del mapa, la tabla de estado y § Métricas de 44–46. El audit del 44 existente (no repetirlo: validarlo y completarlo con los ejes que no cubrió). Los Caps. 45 y 46 completos y el 44 completo. Las fichas de voz de los personajes con diálogo. Por búsqueda: Krane, Rivers, Connors, Rowe en 44–50; "loft" en 44–50; Kenji, Bonnie y Mei en los Caps. 1–43; Walt, Danny y Garrett en Parte III.
+**Lee:** del mapa, la tabla de estado y § Métricas de 44–46. El audit del 44 existente (no repetirlo: validarlo y completarlo con los ejes que no cubrió). Los Caps. 45 y 46 completos y el 44 completo. Las fichas de voz de los personajes con diálogo. Por búsqueda: Krane, Rivers, Connors, Rowe en 44–50; "loft" en 44–50; Kenji, Bonnie y Meiko en los Caps. 1–43; Walt, Danny y Garrett en Parte III.
 - §0–§5 por capítulo, según los ejes de la tabla de políticas.
 - Propagación de C2: anotar las líneas exactas del 45 y el 46 que hay que corregir.
 - Abre § Decisiones (borrador), numeradas D1…
@@ -79,7 +79,7 @@
 
 ## Etapa 2 — AUDIT de oficio de 47, 48 y 49
 
-**Lee:** del mapa, la tabla de estado, §0 de 44–46 y § Decisiones. Los Caps. 47, 48 y 49 completos. Por búsqueda: las armas largas en los Caps. 39 y 43 (qué se pactó y quién se quedó con ellas); Rafe y Bravos en el 13 y en Parte II/III; Valenti, Il Consorzio y Mei en el Libro I y en `01_Timeline/03_Libro_02_Sombras_De_Poder.md`; "Monarch" y "dueña" en el Libro II.
+**Lee:** del mapa, la tabla de estado, §0 de 44–46 y § Decisiones. Los Caps. 47, 48 y 49 completos. Por búsqueda: las armas largas en los Caps. 39 y 43 (qué se pactó y quién se quedó con ellas); Rafe y Bravos en el 13 y en Parte II/III; Valenti, Il Consorzio y Meiko en el Libro I y en `01_Timeline/03_Libro_02_Sombras_De_Poder.md`; "Monarch" y "dueña" en el Libro II.
 - §0–§5 por capítulo. C2 en el 47 (l. 198).
 - Revisar que el patrón "pide, la niegan, paga" escale de verdad entre el 47, el 48 y el 49.
 - Agrega D…

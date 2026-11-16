@@ -1,6 +1,6 @@
 # Diseño — El embarazo, el miedo y la falsa muerte de Elenna (Libros II–III)
 
-> **Estado:** DISEÑO del agente (2026-11-08) con **DECISIONES DEL AUTOR del mismo día** (marcadas). Lo citado como CANON viene de [[11_Books/Book_02_Sombras_De_Poder/00_Diseno_Nombre_Y_Embarazo]], [[01_Timeline/03_Libro_02_Sombras_De_Poder]], [[11_Books/Book_03_Voto_De_Ceniza/00_Book_Map]], [[02_Characters/Elenna_Mercer]], [[02_Characters/Bonnie_Garcia]] y [[06_Relationships/Momentos_de_Fractura#F2 - La muerte de Mei y la salida de Bonnie|F2]].
+> **Estado:** DISEÑO del agente (2026-11-08) con **DECISIONES DEL AUTOR del mismo día** (marcadas). Lo citado como CANON viene de [[11_Books/Book_02_Sombras_De_Poder/00_Diseno_Nombre_Y_Embarazo]], [[01_Timeline/03_Libro_02_Sombras_De_Poder]], [[11_Books/Book_03_Voto_De_Ceniza/00_Book_Map]], [[02_Characters/Elenna_Mercer]], [[02_Characters/Bonnie_Garcia]] y [[06_Relationships/Momentos_de_Fractura#F2 - La muerte de Meiko y la salida de Bonnie|F2]].
 > **Encargo del autor (2026-11-08):** cómo viven Kal y Chiara el embarazo desde «Sono incinta.» hasta el nacimiento; cómo pasan de la alegría al miedo; cómo planean la muerte de Elenna **fuera de foco**, para engañar al lector, y cómo se revela después que **en todo San Aurelio sólo lo saben ellos dos**.
 
 ## 1. Lo que ya es canon (no se toca)

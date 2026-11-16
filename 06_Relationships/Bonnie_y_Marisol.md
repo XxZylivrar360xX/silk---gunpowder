@@ -1,6 +1,6 @@
 # Bonnie y Marisol — arco afectivo (Libros II–VII)
 
-> **CAMBIO DE CANON (2026-11-07):** F2 ya no es ejecución ni destierro: Mei muere tras una operación y Bonnie se va a Boston por elección; recibe a Elenna desde Boston (se retira Italia). Manda [[06_Relationships/Momentos_de_Fractura#F2 - La muerte de Mei y la salida de Bonnie|F2]]; lo que diga abajo sobre Italia, Roberta Ardizzone o el destierro queda superado.
+> **CAMBIO DE CANON (2026-11-07):** F2 ya no es ejecución ni destierro: Meiko muere tras una operación y Bonnie se va a Boston por elección; recibe a Elenna desde Boston (se retira Italia). Manda [[06_Relationships/Momentos_de_Fractura#F2 - La muerte de Meiko y la salida de Bonnie|F2]]; lo que diga abajo sobre Italia, Roberta Ardizzone o el destierro queda superado.
 
 
 > **Estado:** incubación. Integrado el 2026-10-14 desde el buzón de ChatGPT ([[98_Agent_Handoff/archive/chatgpt/2026-10-14_bonnie_marisol_arco_relacional]]). Sólo los puntos marcados CANON DEL AUTOR son decisiones; la progresión por libros es DISEÑO y no se aprueba sin el autor. No redactar prosa por este archivo.

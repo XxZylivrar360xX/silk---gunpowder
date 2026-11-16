@@ -35,7 +35,7 @@ Ver también [[02_Characters/Auditoria_Reparto]] para prioridad, desarrollo esti
 - [[02_Characters/Mabel_Ortiz]] — mujer mayor, dueña de tienda/cafetería; nodo civil de los chismes de Chiara.
 - [[02_Characters/Harper_Walker]] — Sparks; empleada ganadera del norte, protegida operativa de Kal.
 - [[02_Characters/Tyler_Brooks]] — Switch; organizador de carreras callejeras; el más joven del núcleo.
-- [[02_Characters/Mei_Nakano]] — ex corredora de banda rival; entra con Bonnie.
+- [[02_Characters/Meiko_Nakano]] — ex corredora de banda rival; entra con Bonnie.
 - [[02_Characters/Bonnie_Garcia]] — ex corredora de banda rival; protegida de Chiara.
 - [[02_Characters/Ren_Wei]] — El Afinador; cocinero de cocaína y metanfetaminas; consolida a Kal como proveedor.
 - [[02_Characters/Russell_Whitaker]] — Russ; ex veterano con bastón, aspirante a alcalde y cara política de El Patio.
@@ -81,7 +81,7 @@ Ver también [[02_Characters/Auditoria_Reparto]] para prioridad, desarrollo esti
 1. **El veterano de El Faro** — treinta años en la redacción; conciencia del edificio.
 2. **La joven periodista de El Faro** — aprendiz/instrumento de Chiara; posible espejo futuro.
 3. **Propiedad rural del norte** — vinculada a Harper y al taller/carreras.
-4. **Banda rival desintegrada** — origen de Mei y Bonnie.
+4. **Banda rival desintegrada** — origen de Meiko y Bonnie.
 
 Ya resueltas: el socio del casino ([[02_Characters/Matteo_Bellacorte]]), la médica de confianza de Chiara ([[02_Characters/Camila_Rivas]]), el contacto ruso (fixer sin nombre desde 2026-11-07; Anya retirada: [[97_Supersedido/Anya_Voronina]]) y la persona que lleva las cuentas en Almendra Towing (a escala de organización: [[02_Characters/Garrett_Cross]], administrador financiero de activos, no contador del taller).
 

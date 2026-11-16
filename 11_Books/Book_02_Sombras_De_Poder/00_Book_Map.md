@@ -56,7 +56,7 @@ Lucía Varek a la mañana siguiente: Fabrizio Rinaldi está muerto — abre este
 ## Punto de salida
 
 Al final, Kal y Chiara siguen juntos. El Patio ha sobrevivido su primer enfrentamiento abierto
-serio (H1); Chiara está embarazada y Kal ya lo sabe. Han perdido a Mei y a Bonnie, perdido
+serio (H1); Chiara está embarazada y Kal ya lo sabe. Han perdido a Meiko y a Bonnie, perdido
 el loft, reconstruido en Villa Candelaria y se han comprometido en Stavanger. ~~Warren Halbrook
 acaba de llegar físicamente a San Aurelio.~~ (Superado: Halbrook llegó en el Cap. 47 (archivo 50b) del Libro I y aquí ya opera dentro de la ciudad; el libro cierra con el reveal en la chimenea.) La guerra todavía no ha explotado, pero ya es
 inevitable — eso pertenece a *Voto de Ceniza*.
@@ -76,7 +76,7 @@ sobrevivan — como individuos y como pareja — a haberlo ganado.
 | Personaje | Empieza en | Presión principal | Decisión clave | Termina en |
 |-----------|------------|-------------------|-----------------|------------|
 | Kal Mercer | Recién liberado de Camp Alder tras unos dieciséis días preso (Navidad, Año Nuevo y su cumpleaños pasaron sin él), todavía viéndose como "un hombre que resuelve problemas" | Cada solución genera más territorio, dependencias y enemigos | Aceptar, sin ceremonia, que se ha vuelto el jefe de una organización reconocida | Padre en camino, dueño de un poder que casi le cuesta la vida en H1 |
-| Chiara Bellandi | Reconciliada con Kal, absorbiendo las sillas que Matteo y Fabrizio dejan vacías (y, hacia el final, la de Tommaso); con una cuenta abierta con Dario, su nombre escrito con los Bravos y la oferta del Monarch sin contestar | Ayudar a Kal a sobrevivir puede convertirlo en lo que ella conoce el precio de ser | Crecer como operadora propia, no como estratega auxiliar del ascenso de Kal | Embarazada, comprometida, habiendo perdido a Mei y a Bonnie |
+| Chiara Bellandi | Reconciliada con Kal, absorbiendo las sillas que Matteo y Fabrizio dejan vacías (y, hacia el final, la de Tommaso); con una cuenta abierta con Dario, su nombre escrito con los Bravos y la oferta del Monarch sin contestar | Ayudar a Kal a sobrevivir puede convertirlo en lo que ella conoce el precio de ser | Crecer como operadora propia, no como estratega auxiliar del ascenso de Kal | Embarazada, comprometida, habiendo perdido a Meiko y a Bonnie |
 
 ## Fuerzas de presión
 
@@ -87,7 +87,7 @@ sobrevivan — como individuos y como pareja — a haberlo ganado.
 | El Patio en expansión | Crecer con cada problema que Kal resuelve | Cada favor genera una obligación nueva | Kal ya no puede resolver problemas sin acumular poder |
 | Dario Varek | Mantener el control territorial mientras Kal crece dentro de su estructura | Reúne, empuja o favorece una coalición contra el crecimiento de Kal | El choque de H1 ya no puede leerse como incidente aislado |
 | Chiara contra el dinero de Dario (CANON DEL AUTOR, 2026-10-02) | Que el Monarch deje de depender del efectivo sucio de Dario | Contrata a [[02_Characters/Garrett_Cross|Garrett]] como contador; con [[02_Characters/Giancarlo_Krane|Krane]] limpia el flujo de inyección de efectivo al casino y empieza a aislar a Dario en finanzas | Mientras ella le debe una cuenta abierta (Libro I, Cap. 43 (archivo 47)), le corta la llave del dinero |
-| La pérdida (Mei, Bonnie, el loft) | Cobrar el costo del crecimiento de Kal | Le quita a Chiara y a Kal personas y lugares, uno por uno | Sobrecompensar construyendo (Villa, Stavanger) no borra la pérdida |
+| La pérdida (Meiko, Bonnie, el loft) | Cobrar el costo del crecimiento de Kal | Le quita a Chiara y a Kal personas y lugares, uno por uno | Sobrecompensar construyendo (Villa, Stavanger) no borra la pérdida |
 | Warren Halbrook | Cobrar la deuda de la liberación de Kal | Presión invisible; ya está en San Aurelio (llegó en el Cap. 47 (archivo 50b) del Libro I). **Primera aparición en prosa del libro: la gala de beneficencia de Chiara, con el baile** (CANON DEL AUTOR, 2026-10-02) | El pasado militar de Kal nunca terminó de pagarse |
 
 ## Deudas heredadas del Libro I (DISEÑO, 2026-10-05)
@@ -116,10 +116,10 @@ Obligaciones que deja el cierre de *Máscaras de Cristal* y que este libro tiene
 |---|---|---|---|
 | I — Territorio ajeno | Expansión: Kal coordina bajo el techo de Dario; Chiara construye estructura | Hogar y la muerte de Fabrizio (Volpi); frente Tommaso–Chiara contra Dario; Ren Wei como valet; Tyler pierde el cargamento de Crowe y **Crowe incendia el loft**; Ren revela su capacidad; Calle Almendra («Quiero levantarlo»); azotea; **Villa Candelaria**; rodada de montaña; encubierto del FBI (nombre de Danny); «Señor Militar»; *El Faro*; Dario en dos versiones | **Gala de beneficencia:** «—Conocí a Warren Halbrook.» |
 | II — Nieve y ceniza | Pertenencia por fuera, deterioro por dentro | Invierno y **Navidad del año 3** (collar *Torna a casa*); el Patio como familia; Kal en piloto automático; Harper como pupila; **ataque de pánico solo en el garaje**; Marisol y Chiara lo notan; Año Nuevo / F4; incursión para Dario y primera vela; **robo de Lunar Pearl** con el Patio completo (el anillo; el millón como Plan B; [[11_Books/Book_02_Sombras_De_Poder/Part_02_Nieve_Y_Ceniza/00_Diseno_Robo_Joyeria]]) | **El choque:** frenos cortados del Lancia de Chiara (Volpi, velado); Tommaso contra el Audi que maneja Marisol, en Calle Corona; Kal, en pánico, con Chiara en el armario del hospital; en La Almendra descubre el sabotaje |
-| III — Exilio | Fractura y costo del mando | **F2:** Mei (Nadir ejecuta, Kal decide) y Bonnie desterrada el mismo día; F3; Nadir agrietado; Tommaso sale o queda encaminado a salir (choque, bastón, Marisol, familia; cede el Monarch) | La primera gran mutilación de la familia elegida |
+| III — Exilio | Fractura y costo del mando | **F2:** Meiko (Nadir ejecuta, Kal decide) y Bonnie desterrada el mismo día; F3; Nadir agrietado; Tommaso sale o queda encaminado a salir (choque, bastón, Marisol, familia; cede el Monarch) | La primera gran mutilación de la familia elegida |
 | IV — Torna a casa | Emancipación y guerra inevitable | Doctrina propia de Kal e independencia ideológica de Dario; un golpe fallido con muertos; Crowe como martillo; Halbrook ya institucional; **Stavanger** ([[11_Books/Book_02_Sombras_De_Poder/Part_04_Torna_A_Casa/Ya_Llego]]; concepción de Elenna); **la tormenta = caída de Crowe = H1**, una sola noche de diciembre A4 (CANON 2026-10-13) | Reveal del embarazo la noche de H1, en la chimenea de Villa Candelaria, sólo a la luz del fuego (CANON 2026-10-02) |
 
-> **Nota (2026-11-12):** la fila de la Parte III describe el F2 anterior. El vigente (CANON DEL AUTOR, 2026-11-07) es que Mei muere tras una operación y Bonnie se va a Boston: [[06_Relationships/Momentos_de_Fractura#F2 - La muerte de Mei y la salida de Bonnie|F2]]. El reparto por capítulos está en «Numeración vigente», abajo.
+> **Nota (2026-11-12):** la fila de la Parte III describe el F2 anterior. El vigente (CANON DEL AUTOR, 2026-11-07) es que Meiko muere tras una operación y Bonnie se va a Boston: [[06_Relationships/Momentos_de_Fractura#F2 - La muerte de Meiko y la salida de Bonnie|F2]]. El reparto por capítulos está en «Numeración vigente», abajo.
 
 > **CANON DEL AUTOR (2026-10-13):** se retira «un año», que era protoidea. El libro va del 5 ene A3 al invierno A4 (unos dos años): incendio en agosto A3, Stavanger en octubre A4 y H1 en diciembre A4, antes de Navidad. Matriz: [[11_Books/Book_02_Sombras_De_Poder/00_Matriz_Temporal]].
 >
@@ -135,7 +135,7 @@ Desarrollo completo, Parte por Parte, en [[01_Timeline/03_Libro_02_Sombras_De_Po
 | I — Nieve y Ceniza | Reconciliación completa, asesinato de Fabrizio (antes: Tommaso; CANON 2026-10-12), organización de Kal (Ren Wei), Navidad y el collar TORNA A CASA | Incendio del loft |
 
 > **SUPERADO (2026-10-13, ver la matriz temporal):** ~~PENDIENTE (autor, 2026-10-06):~~ el libro abre el 5 de enero y cubre esencialmente un año; la Navidad del collar (la primera juntos) cae al final de ese año, seguida de F4. Hay que redistribuir las Partes; la tabla de arriba vale como orden, no como calendario ([[13_Auditorias/Book_01_Mascaras_De_Cristal/Matriz_Temporal_Libro_I]]).
-| II — Exilio | Año Nuevo/F4, F3, F2 (Mei y Bonnie el mismo día), reconstrucción en Villa Candelaria, robo de la joyería (el anillo), compromiso en Stavanger ([[11_Books/Book_02_Sombras_De_Poder/Part_04_Torna_A_Casa/Ya_Llego]], canonizado 2026-10-02; origen de Kal; concepción de Elenna) | Futuro elegido, pareja comprometida |
+| II — Exilio | Año Nuevo/F4, F3, F2 (Meiko y Bonnie el mismo día), reconstrucción en Villa Candelaria, robo de la joyería (el anillo), compromiso en Stavanger ([[11_Books/Book_02_Sombras_De_Poder/Part_04_Torna_A_Casa/Ya_Llego]], canonizado 2026-10-02; origen de Kal; concepción de Elenna) | Futuro elegido, pareja comprometida |
 | III — Torna a Casa | Conflicto final (Silas Crowe, coalición de Dario), embarazo confirmado, H1 | Reveal del embarazo esa misma noche de H1, en la chimenea de Villa Candelaria, sólo a la luz del fuego; el libro acaba ahí (CANON DEL AUTOR, 2026-10-02; ver [[01_Timeline/03_Libro_02_Sombras_De_Poder]], "Cierre del Libro II"). Siembra: Chiara escribe en cursiva un nombre que no se revela |
 
 
@@ -147,7 +147,7 @@ En prosa BORRADOR: [[11_Books/Book_02_Sombras_De_Poder/Part_01_Territorio_Ajeno/
 
 ### Numeración vigente: 57 capítulos (DECISIÓN DEL AUTOR, 2026-11-12; 57 desde el 2026-11-13)
 
-> **DECISIÓN DEL AUTOR (2026-11-13):** el arco de la muerte de Mei pasa a cuatro capítulos: el antiguo 36 se parte en *Las latas* (36) y *Lo del hermano* (37), y todo lo que sigue sube uno. **Partes:** I = 1–17, II = 18–31, III = 32–40, IV = 41–57. Equivalencia con la numeración de 56: 1–35 iguales; 36 → 36 + 37; 37–56 → 38–57. Los borradores de la noche final se renombraron a `54_Dime_Amore`, `55_De_Rodillas`, `56_No_Otra_Vez` y `57_La_Chimenea`. Detalle: [[98_Agent_Handoff/sessions/2026-11-13_claude_arco_mei_lin]].
+> **DECISIÓN DEL AUTOR (2026-11-13):** el arco de la muerte de Meiko pasa a cuatro capítulos: el antiguo 36 se parte en *Las latas* (36) y *Lo del hermano* (37), y todo lo que sigue sube uno. **Partes:** I = 1–17, II = 18–31, III = 32–40, IV = 41–57. Equivalencia con la numeración de 56: 1–35 iguales; 36 → 36 + 37; 37–56 → 38–57. Los borradores de la noche final se renombraron a `54_Dime_Amore`, `55_De_Rodillas`, `56_No_Otra_Vez` y `57_La_Chimenea`. Detalle: [[98_Agent_Handoff/sessions/2026-11-13_claude_arco_mei_lin]].
 
 Fase 3 aprobada: [[11_Books/Book_02_Sombras_De_Poder/00_Mapa_Boceto_A_Tarjetas]]. **Partes:** I = 1–17, II = 18–31, III = 32–39, IV = 40–56. La Fase 3 dejó 55; el mismo día el autor partió el golpe fallido en dos capítulos (40 y 41: los chicos se mueven sin Kal), y la Parte IV pasó a 17. Los títulos son de trabajo (los del boceto o de las tarjetas); ningún archivo se renombra hasta que haya prosa. Guía de redacción: [[11_Books/Book_02_Sombras_De_Poder/00_Guia_Redaccion_Capitulos]]. «Boceto N» cita la numeración de 64 del boceto retirado ([[97_Supersedido/Boceto_Lista_Capitulos_64]], 2026-10-13), que sigue en documentos anteriores a esta fecha. **Retirado:** el boceto 45, *El norte* (F2 viejo).
 
@@ -237,7 +237,7 @@ La ocasión, el momento del libro y quién más escucha la radio siguen PENDIENT
 
 Ver la lista completa en [[01_Timeline/03_Libro_02_Sombras_De_Poder]], sección "Elementos
 pendientes explícitos". Entre los más relevantes: composición y objetivo de la coalición de
-H1, mecanismo de la caída de Silas Crowe, motivo de Varek para matar a Fabrizio, cómo llega Mei a Varek con Tommaso vivo, Parte y detalles del choque de Tommaso y Marisol, cesión de su parte del Monarch, distancia fina F4→F3→F2, logística de Villa
+H1, mecanismo de la caída de Silas Crowe, motivo de Varek para matar a Fabrizio, cómo llega Meiko a Varek con Tommaso vivo, Parte y detalles del choque de Tommaso y Marisol, cesión de su parte del Monarch, distancia fina F4→F3→F2, logística de Villa
 Candelaria, cobro de la mentira de H8, ubicación y bandas de la tormenta, cronología de *El Faro*
 y de la cadena hotelera.
 

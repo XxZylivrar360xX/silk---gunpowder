@@ -7,12 +7,12 @@ capitulo: 36
 pov: Kal Mercer, único
 ventana_temporal: mediados de abril A4, una tarde entre semana
 localizacion: un huerto de almendros abandonado junto a un empaque cerrado, a las afueras de Cedar Flats; la carretera de vuelta; la Villa Candelaria
-personajes: Kal Mercer, Bonnie García, Mei Nakano; al final, Chiara Bellandi
+personajes: Kal Mercer, Bonnie García, Meiko Nakano; al final, Chiara Bellandi
 ---
 
-> **Estado:** BORRADOR del agente (Claude Code, 2026-11-13), para lectura del autor. Primero de los cuatro capítulos del arco de la muerte de Mei (DECISIÓN DEL AUTOR, 2026-11-13: 36 *Las latas*, 37 *Lo del hermano*, 38 *Perdóname, jefe*, 39 *Lo que queda*). Fuente: [[11_Books/Book_02_Sombras_De_Poder/00_Guia_Redaccion_Capitulos]], ficha del 36.
+> **Estado:** BORRADOR del agente (Claude Code, 2026-11-13), para lectura del autor. Primero de los cuatro capítulos del arco de la muerte de Meiko (DECISIÓN DEL AUTOR, 2026-11-13: 36 *Las latas*, 37 *Lo del hermano*, 38 *Perdóname, jefe*, 39 *Lo que queda*). Fuente: [[11_Books/Book_02_Sombras_De_Poder/00_Guia_Redaccion_Capitulos]], ficha del 36.
 >
-> **CANON (hechos):** Kal le enseña a Bonnie a disparar a latas; la práctica se abre a una conversación sobre familia y futuro; Kal les dice, en sentido, que si tienen un problema se lo digan y lo arreglan (sentido del autor, no diálogo literal). **DISEÑO del agente:** el huerto de almendros en flor y el empaque cerrado; que Chiara lo haya pedido; Mei en el capó, que oye la oferta y no dice nada; Bonnie que menciona que Chiara y Marisol le hablan de estudiar; el tiro único de Mei y «mi hermano»; la vuelta y la cena en la Villa. **Guarda:** ningún guiño a lo que viene. Lo que Mei calla se lee aquí como timidez; el 37 lo relee.
+> **CANON (hechos):** Kal le enseña a Bonnie a disparar a latas; la práctica se abre a una conversación sobre familia y futuro; Kal les dice, en sentido, que si tienen un problema se lo digan y lo arreglan (sentido del autor, no diálogo literal). **DISEÑO del agente:** el huerto de almendros en flor y el empaque cerrado; que Chiara lo haya pedido; Meiko en el capó, que oye la oferta y no dice nada; Bonnie que menciona que Chiara y Marisol le hablan de estudiar; el tiro único de Meiko y «mi hermano»; la vuelta y la cena en la Villa. **Guarda:** ningún guiño a lo que viene. Lo que Meiko calla se lee aquí como timidez; el 37 lo relee.
 >
 > **Depende de capítulos sin redactar:** la grúa quemada y el muchacho golpeado (35); la deuda de Kaito pagada por Kal (23); la cena de Navidad (20). La prosa los toca como hechos ya ocurridos.
 
@@ -30,7 +30,7 @@ El huerto era de almendros. Alguien los había plantado en filas rectas hacía m
 
 Kal había encontrado el lugar años atrás, buscando otra cosa. Estaba a veinte minutos de Cedar Flats por un camino de tierra que salía de la carretera estatal después de la gasolinera, pasaba junto a dos casas móviles con perros que no ladraban y terminaba en el portón caído del empaque. No había vecinos a menos de un kilómetro. El único ruido, además del viento, era una bomba de riego que trabajaba sola en algún campo del otro lado y que se apagaba y prendía cada tantos minutos, como alguien que se queda dormido y despierta.
 
-Mei estaba sentada en el capó, con las piernas cruzadas, la espalda contra el parabrisas y un café de la gasolinera en la mano. Había venido porque Bonnie venía. No lo había dicho así; se había subido al asiento de atrás sin preguntar adónde iban, y Bonnie no se lo había explicado, y Kal había arrancado.
+Meiko estaba sentada en el capó, con las piernas cruzadas, la espalda contra el parabrisas y un café de la gasolinera en la mano. Había venido porque Bonnie venía. No lo había dicho así; se había subido al asiento de atrás sin preguntar adónde iban, y Bonnie no se lo había explicado, y Kal había arrancado.
 
 —¿Usted no va a tirar? —le preguntó Kal.
 
@@ -84,13 +84,13 @@ Bonnie se quedó quieta. Después bajó la pistola, despacio, apuntando al suelo
 
 —Es la mano.
 
-Desde el capó, Mei hizo un ruido con la nariz que podía ser risa.
+Desde el capó, Meiko hizo un ruido con la nariz que podía ser risa.
 
 ***
 
 Les tomó una hora que Bonnie le diera a la primera lata.
 
-En esa hora hubo pétalos, tierra levantada a dos metros de la cerca, un tiro que pegó en el travesaño y lo astilló, y uno, el peor, que salió antes de tiempo porque a Bonnie se le había metido el dedo en el gatillo mientras se acomodaba la gorra con la otra mano. Kal le quitó la pistola sin brusquedad, le sacó el cargador, se la devolvió vacía y le hizo repetir veinte veces el gesto de entrar al gatillo y salir de él, sin disparar, hasta que el dedo aprendió solo dónde quedarse. Bonnie lo hizo las veinte veces sin protestar. A la doceava, Mei, desde el capó, empezó a contar en voz baja. A la veinte, dijo «veinte», y volvió al teléfono.
+En esa hora hubo pétalos, tierra levantada a dos metros de la cerca, un tiro que pegó en el travesaño y lo astilló, y uno, el peor, que salió antes de tiempo porque a Bonnie se le había metido el dedo en el gatillo mientras se acomodaba la gorra con la otra mano. Kal le quitó la pistola sin brusquedad, le sacó el cargador, se la devolvió vacía y le hizo repetir veinte veces el gesto de entrar al gatillo y salir de él, sin disparar, hasta que el dedo aprendió solo dónde quedarse. Bonnie lo hizo las veinte veces sin protestar. A la doceava, Meiko, desde el capó, empezó a contar en voz baja. A la veinte, dijo «veinte», y volvió al teléfono.
 
 Cuando por fin la lata saltó del travesaño, dio dos vueltas en el aire y cayó del otro lado de la cerca con un golpe hueco, Bonnie no gritó. Bajó la pistola, la puso apuntando al suelo, se volvió hacia Kal y dijo:
 
@@ -102,7 +102,7 @@ Ella asintió y volvió a levantar las manos, y le dio a la segunda al tercer in
 
 ***
 
-A las cinco, el sol ya venía de lado y alargaba las sombras de los almendros sobre la tierra hasta tocar el coche. Kal sacó del maletero una nevera portátil con refrescos y unos sándwiches que Mabel les había preparado, envueltos en papel de estraza, sin que nadie se los pidiera. Se sentaron en el borde del portón caído del empaque, Kal y Bonnie, con la nevera en medio. Mei se quedó en el capó; Bonnie le llevó un sándwich, y ella lo recibió sin bajarse.
+A las cinco, el sol ya venía de lado y alargaba las sombras de los almendros sobre la tierra hasta tocar el coche. Kal sacó del maletero una nevera portátil con refrescos y unos sándwiches que Mabel les había preparado, envueltos en papel de estraza, sin que nadie se los pidiera. Se sentaron en el borde del portón caído del empaque, Kal y Bonnie, con la nevera en medio. Meiko se quedó en el capó; Bonnie le llevó un sándwich, y ella lo recibió sin bajarse.
 
 Comieron sin hablar un rato. La bomba de riego del otro lado se apagó y se volvió a prender.
 
@@ -144,7 +144,7 @@ Lo dijo hacia la cerca, no hacia ellas, y cuando terminó le dio un trago al ref
 
 Bonnie no dijo nada. Le dio la última mordida al sándwich, dobló el papel de estraza en cuatro, con cuidado, y se lo guardó en el bolsillo de la chaqueta.
 
-En el capó, Mei había dejado de mirar el teléfono. Tenía el sándwich a medio comer en las piernas y la vista en los almendros, en ningún árbol en particular. El viento le movía el pelo sobre la cara y ella no se lo apartaba.
+En el capó, Meiko había dejado de mirar el teléfono. Tenía el sándwich a medio comer en las piernas y la vista en los almendros, en ningún árbol en particular. El viento le movía el pelo sobre la cara y ella no se lo apartaba.
 
 Kal la miró un momento. Llevaba un año viéndola en el taller, en la bahía de siempre, sentada en una llanta o en un guardafango, y casi siempre con esa misma cara, la de alguien que todavía no decide si se queda. En Navidad la había visto reírse con la cabeza echada hacia atrás. Después la había visto afuera, en el portón, gritándole a su hermano bajo la luz del patio que se largara, y al volver le había preguntado si todo estaba bien, y ella le había dicho «Todo bien, jefe», y era la primera vez que la palabra le había sonado en serio en su boca.
 
@@ -158,7 +158,7 @@ Volvió a mirar la cerca.
 
 Se había levantado a recoger las latas caídas para volver a ponerlas, y desde la cerca lo dijo en voz alta, sin volverse, como quien reporta que la llanta de atrás está baja.
 
-—No es cierto —dijo Mei desde el capó.
+—No es cierto —dijo Meiko desde el capó.
 
 —Es cierto.
 
@@ -166,17 +166,17 @@ Se había levantado a recoger las latas caídas para volver a ponerlas, y desde 
 
 —Entonces bájese.
 
-Mei la miró. Bonnie terminó de poner la última lata en el travesaño, se dio vuelta y se cruzó de brazos, con la gorra hacia atrás. Se quedaron así un rato, las dos, a doce pasos, y Kal entendió que esa conversación la habían tenido antes, muchas veces, en otro lugar, y que él sólo estaba viendo el final.
+Meiko la miró. Bonnie terminó de poner la última lata en el travesaño, se dio vuelta y se cruzó de brazos, con la gorra hacia atrás. Se quedaron así un rato, las dos, a doce pasos, y Kal entendió que esa conversación la habían tenido antes, muchas veces, en otro lugar, y que él sólo estaba viendo el final.
 
-Mei dejó el sándwich sobre el capó, encima del papel. Se bajó sin prisa, se sacudió los pétalos de las piernas y caminó hasta donde estaba Kal. Le tendió la mano abierta, sin decir nada.
+Meiko dejó el sándwich sobre el capó, encima del papel. Se bajó sin prisa, se sacudió los pétalos de las piernas y caminó hasta donde estaba Kal. Le tendió la mano abierta, sin decir nada.
 
 Kal le revisó la cara antes de darle la pistola. No había nada en ella. Le dio la pistola.
 
-Mei no se acomodó. No separó los pies ni echó el peso adelante ni buscó con el pulgar el lugar donde él le había puesto el suyo a Bonnie. Levantó la pistola con las dos manos, de una vez, como quien levanta algo que ya ha levantado antes, y antes de que Kal terminara de pensar que iba a fallar, disparó.
+Meiko no se acomodó. No separó los pies ni echó el peso adelante ni buscó con el pulgar el lugar donde él le había puesto el suyo a Bonnie. Levantó la pistola con las dos manos, de una vez, como quien levanta algo que ya ha levantado antes, y antes de que Kal terminara de pensar que iba a fallar, disparó.
 
 La lata del centro saltó del travesaño.
 
-Mei bajó la pistola. Le quitó el dedo al gatillo, la giró en la mano y se la devolvió a Kal por la culata, con el cañón hacia el suelo.
+Meiko bajó la pistola. Le quitó el dedo al gatillo, la giró en la mano y se la devolvió a Kal por la culata, con el cañón hacia el suelo.
 
 —¿Ve? —dijo Bonnie, desde la cerca, sin descruzar los brazos.
 
@@ -184,7 +184,7 @@ Kal recibió la pistola y no dijo nada un momento.
 
 —¿Dónde aprendiste?
 
-Mei ya se había dado vuelta hacia el coche. Se detuvo a medio camino. Se encogió de hombros, el gesto con el que explicaba todo lo que sabía.
+Meiko ya se había dado vuelta hacia el coche. Se detuvo a medio camino. Se encogió de hombros, el gesto con el que explicaba todo lo que sabía.
 
 —Mi hermano.
 
@@ -196,23 +196,23 @@ Y volvió al capó, recogió el sándwich y se sentó otra vez con la espalda co
 
 Kal se quedó con la pistola en la mano, caliente todavía.
 
-Sabía lo del hermano. Sabía más de lo que ella creía que sabía. En febrero, en el estacionamiento de una lavandería de la calle Fowler, un martes a las diez de la mañana, le había dado un sobre a un hombre de Varek que olía a loción de afeitar, y el hombre había contado el dinero ahí mismo, sin vergüenza, mojándose el pulgar, y después se había guardado el sobre en la chaqueta. Desde entonces nadie había vuelto a esperar a Mei a la salida del Monarch. Ella no sabía por qué. Kal no se lo había dicho y no pensaba decírselo. Lo había pagado por lo mismo por lo que no se lo decía: porque había crecido debajo de la deuda de otro, en una casa donde la deuda de su padre llegaba a cenar todas las noches, y sabía que lo único peor que deberle a alguien era que te lo agradecieran.
+Sabía lo del hermano. Sabía más de lo que ella creía que sabía. En febrero, en el estacionamiento de una lavandería de la calle Fowler, un martes a las diez de la mañana, le había dado un sobre a un hombre de Varek que olía a loción de afeitar, y el hombre había contado el dinero ahí mismo, sin vergüenza, mojándose el pulgar, y después se había guardado el sobre en la chaqueta. Desde entonces nadie había vuelto a esperar a Meiko a la salida del Monarch. Ella no sabía por qué. Kal no se lo había dicho y no pensaba decírselo. Lo había pagado por lo mismo por lo que no se lo decía: porque había crecido debajo de la deuda de otro, en una casa donde la deuda de su padre llegaba a cenar todas las noches, y sabía que lo único peor que deberle a alguien era que te lo agradecieran.
 
 Le puso el seguro a la pistola y la guardó.
 
 ***
 
-Bonnie tiró hasta que se acabaron los cartuchos. Le dio a cinco latas de las siete en la última ronda, y Mei no volvió a bajarse del capó, pero contó en voz baja cada lata que caía, y cuando Bonnie le dio a la quinta dijo «cinco», con el mismo tono con que había dicho «veinte».
+Bonnie tiró hasta que se acabaron los cartuchos. Le dio a cinco latas de las siete en la última ronda, y Meiko no volvió a bajarse del capó, pero contó en voz baja cada lata que caía, y cuando Bonnie le dio a la quinta dijo «cinco», con el mismo tono con que había dicho «veinte».
 
 Recogieron las latas. Bonnie las quiso llevar de vuelta al taller, agujereadas, en la misma caja de cartón; dijo que servían para guardar tornillos. Kal no discutió.
 
 Volvieron con el sol bajo, por el camino de tierra, con los perros de las casas móviles mirándolos pasar sin ladrar y el polvo levantándose detrás del coche y quedándose suspendido en la luz. En la carretera estatal, Bonnie se quedó dormida en el asiento del copiloto, con la cabeza contra la ventanilla y la gorra torcida, a los diez minutos. Kal le bajó el volumen al radio.
 
-Por el espejo veía a Mei en el asiento de atrás. Iba despierta, con la frente casi pegada al cristal, mirando pasar los campos y después los primeros galpones y después las bodegas de Kingsley Field, con su alambre y sus lámparas de sodio todavía apagadas. No usó el teléfono en todo el camino. Una vez, a la altura del puente de la cementera, Kal sintió que lo miraba por el espejo. Cuando él la buscó, ella ya estaba mirando otra vez por la ventanilla.
+Por el espejo veía a Meiko en el asiento de atrás. Iba despierta, con la frente casi pegada al cristal, mirando pasar los campos y después los primeros galpones y después las bodegas de Kingsley Field, con su alambre y sus lámparas de sodio todavía apagadas. No usó el teléfono en todo el camino. Una vez, a la altura del puente de la cementera, Kal sintió que lo miraba por el espejo. Cuando él la buscó, ella ya estaba mirando otra vez por la ventanilla.
 
 Las dejó en la casa de la Almendra, la de las dos ventanas con la reja verde, a dos cuadras del taller, donde vivían juntas desde el otoño. Bonnie se despertó al detenerse el coche, dijo «gracias» con la voz pastosa, sacó la caja de latas del asiento de atrás y se fue hacia la puerta buscando las llaves en la chaqueta.
 
-Mei se bajó después. Cerró la puerta, y antes de irse se agachó un poco hacia la ventanilla de Kal, que estaba bajada.
+Meiko se bajó después. Cerró la puerta, y antes de irse se agachó un poco hacia la ventanilla de Kal, que estaba bajada.
 
 Kal esperó. Ella tenía la boca un poco abierta, como quien va a decir algo y está decidiendo cómo.
 
@@ -238,11 +238,11 @@ Chiara se quitó la pluma.
 
 —De siete. En la última ronda.
 
-—Bonnie. —Lo dijo como quien confirma una cifra que esperaba—. ¿Y Mei?
+—Bonnie. —Lo dijo como quien confirma una cifra que esperaba—. ¿Y Meiko?
 
 Kal sacó dos tazas de la alacena. Las puso en la barra, una al lado de la otra, y les acomodó las asas hacia el mismo lado.
 
-—Mei tira mejor que yo.
+—Meiko tira mejor que yo.
 
 Chiara se rio. Fue una risa corta, que le salió sin permiso, de las que llevaba semanas sin oírle, y se tapó la boca con el dorso de la mano, y se le movieron los lentes.
 

@@ -24,14 +24,14 @@
 
 ### U1 · Diez segundos — jul, calor · Chiara · terraza del Monarch
 - **Trama:** la boda de Mabel y Walt; durante unos diez segundos se imagina esperándolo en el altar, oye la frase con la voz de Mabel y susurra «Te amo.». Kal no lo oye; ya trae el anillo en la billetera (C). **P (D11):** la condicional de Walt terminó esa primavera; es el regalo que la boda celebra sin decirlo, y es lo que le permite ir armado a la tormenta.
-- **Relación:** el espejo de F3, sin que el narrador lo señale (C). **P:** mientras ella imagina el altar, Kal ya decidió el golpe (U2). Trae dos cosas guardadas: el anillo y un plan para cobrar a Mei.
+- **Relación:** el espejo de F3, sin que el narrador lo señale (C). **P:** mientras ella imagina el altar, Kal ya decidió el golpe (U2). Trae dos cosas guardadas: el anillo y un plan para cobrar a Meiko.
 - **Por eso:** el golpe.
 - **Saldo:** desecha la idea de casarse con él (C). La sequía sigue: él llega y ella duerme (Stavanger, DISEÑO).
 
 > **Superado en parte (DECISIÓN DEL AUTOR, 2026-11-12):** el golpe de U2 ya no lo hace Kal. Nadir organiza a los chicos sin decírselo y los lleva contra los Calderos; mueren inocentes, ningún chico muere y el Caldero sobrevive. Kal llega tarde, dice «Yo no voy a arriesgar a nadie para fundamentar una guerra» y responde por ellos. La Parte IV pasa a 17 capítulos (40 boda y llamada; 41 *Yo respondo*; 42 *Las bandas*), y en U12 las bandas fijan la fecha sin Kal. Fichas vigentes: caps. 40–42 y 50 de [[11_Books/Book_02_Sombras_De_Poder/00_Guia_Redaccion_Capitulos]]. Las tarjetas U2–U4 y U12 quedan como historial del razonamiento.
 
 ### U2 · El costo — fin de jul · Chiara · la Villa, de noche; la redacción de *El Faro*, al amanecer — **tic 8**
-- **Trama (P, D10):** el último intento de cobrarle a Crowe con el método de Dario, que es la lección equivocada de F2: «perdonar mata». Kal va por el Caldero que apuñaló a Mei, escondido en una casa de empeño de Crowe en el sur. Sin aviso, de noche, para dar ejemplo. El Caldero cae, y con él mueren inocentes: la familia que vive arriba del local (P; perpetradores y quizá aliados, C). Técnica fuera de cuadro (C).
+- **Trama (P, D10):** el último intento de cobrarle a Crowe con el método de Dario, que es la lección equivocada de F2: «perdonar mata». Kal va por el Caldero que apuñaló a Meiko, escondido en una casa de empeño de Crowe en el sur. Sin aviso, de noche, para dar ejemplo. El Caldero cae, y con él mueren inocentes: la familia que vive arriba del local (P; perpetradores y quizá aliados, C). Técnica fuera de cuadro (C).
 - **Relación:** esta vez él avisa que sale (la regla de la Parte II). Ella enciende la vela a tiempo y escribe: tic 8, la última vez que es «sólo un nombre», sin que nada lo marque (C). Al amanecer le llega la nota: tiene que publicar a los muertos. Los publica sin el nombre de Kal.
 - **Por eso:** *No como tú*. La doctrina nace de un costo y no de una declaración (orden 50 → 49 de la carretera, P).
 - **Saldo:** el Caldero está pagado y los muertos no. Ella edita la portada que mejor le sirve a Halbrook: «la violencia del sur alcanza a familias».
@@ -107,7 +107,7 @@ Una sola noche hasta la chimenea. Las fichas 56–61 del boceto mandan. Aquí s�
 | U14 | **Torna a casa** · tic 9 | externo | Ella escribe y no lo quema (C). El último secreto, guardado para que él vuelva por ella (C) |
 | U15 | **Dime, Amore** | Chiara | **Orden (C, 2026-11-12):** Crowe ya está muerto; *in medias res*; segunda llamada y salida con Nat. Nat ayuda en el triaje como paramédica (C, 2026-11-12). **Crowe:** las bandas que él cobró durante dos años (C). **Halbrook:** la escalada policial le da el mandato (C). **Chiara:** lo ve por *El Faro* (C); el relato que construyó durante el libro es cómo ve la tormenta |
 | U16 | **De rodillas** | Kal | **Crowe:** lo conoció antes de que fuera un Mercer; Kal lo deja vivo; Walt lo ejecuta (C). **P:** la cuenta de Kal muere con su acreedor y se lleva la pista del origen en el mismo tiro. **Varek:** el tiro de Volpi, velado (C); no falla: hiere a Kal a propósito porque La Mesa lo quiere vivo (DECISIÓN DEL AUTOR, 2026-11-14). **Recuerdo (C, 2026-11-12):** Crowe se reconstruye camino a la Almendra; ahí Héctor ve el chaleco ensangrentado y Kal repite «me esperan» |
-| U17 | **No otra vez** | Chiara | **La trenza:** «Me encuentro bien.» / «No otra vez.», la última mentira de él, rechazada (C). La vigilia carga a Mei, Bonnie, Fabrizio y Tommaso sin nombrarlos (C). «Perché ti amo con tutto il mio cuore.» llega y él no responde (C) |
+| U17 | **No otra vez** | Chiara | **La trenza:** «Me encuentro bien.» / «No otra vez.», la última mentira de él, rechazada (C). La vigilia carga a Meiko, Bonnie, Fabrizio y Tommaso sin nombrarlos (C). «Perché ti amo con tutto il mio cuore.» llega y él no responde (C) |
 | U18 | **La chimenea** | DISEÑO | «¿Quién es Elenna?» / «Antes era sólo un nombre.» / «Sono incinta.»: el último secreto de ella, dicho (C). **P:** antes de la manta, Kal echa al fuego la foto con Halbrook (U5) |
 
 ---
@@ -135,7 +135,7 @@ Con las cuatro Partes, las tarjetas suman **65 capítulos** (20 + 17 + 10 + 18).
 
 ## Para el autor
 
-1. **El golpe fallido (D10, P):** Kal va por el Caldero que mató a Mei con el método de Dario, y mueren inocentes. De ahí sale «no como tú». Depende de que aceptes el Caldero perdonado de la Parte III.
+1. **El golpe fallido (D10, P):** Kal va por el Caldero que mató a Meiko con el método de Dario, y mueren inocentes. De ahí sale «no como tú». Depende de que aceptes el Caldero perdonado de la Parte III.
 2. **La cuenta de Kal no se confiesa en este libro (P):** muere con Crowe y se lleva la pista del origen en el mismo tiro. Alternativa: la confiesa con las cartas (U6), y la trenza llega a la noche con un solo secreto de cada lado.
 3. **Las cuotas de Chiara pasan a *Voto de Ceniza* (P),** como disfraz del embarazo hasta el final.
 4. **La respuesta falsa de Dario sobre los frenos (U5, P):** cierra el favor de la Parte III y deja a la pareja creyendo dos versiones distintas del mismo atentado.

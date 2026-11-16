@@ -2,7 +2,7 @@
 
 > **Estado:** DISEÑO del agente (Claude Code, 2026-11-12), a pedido del autor: «trabajar la columna, como la carretera del Libro I, sin muchos mini arcos; que sea un flujo». Equivale a las **Fases 0 y 1** del método del Libro I ([[11_Books/Book_01_Mascaras_De_Cristal/00_Plan_Nuevo_Cauce#Fases]]). **No toca prosa, canon ni el boceto.** Lo marcado CANON se cita de sus fuentes; lo marcado **PROPUESTA** es invención del agente y espera al autor.
 >
-> **Fuentes:** [[11_Books/Book_02_Sombras_De_Poder/00_Plan_Cuatro_Partes]] (manda en hechos), [[11_Books/Book_02_Sombras_De_Poder/00_Matriz_Temporal]], [[11_Books/Book_02_Sombras_De_Poder/00_Boceto_Lista_Capitulos]] (61 caps., 2026-10-13, **anterior al nuevo cauce del I**), las fichas con bloque «NUEVO CAUCE» (Crowe, Halbrook, Varek, Chiara, Mei), [[13_Auditorias/Book_01_Mascaras_De_Cristal/Carretera_Libro_I]] y las guardas del 2026-11-08. **No es relectura de prosa:** sólo existen en borrador *Hogar* y las escenas de Stavanger.
+> **Fuentes:** [[11_Books/Book_02_Sombras_De_Poder/00_Plan_Cuatro_Partes]] (manda en hechos), [[11_Books/Book_02_Sombras_De_Poder/00_Matriz_Temporal]], [[11_Books/Book_02_Sombras_De_Poder/00_Boceto_Lista_Capitulos]] (61 caps., 2026-10-13, **anterior al nuevo cauce del I**), las fichas con bloque «NUEVO CAUCE» (Crowe, Halbrook, Varek, Chiara, Meiko), [[13_Auditorias/Book_01_Mascaras_De_Cristal/Carretera_Libro_I]] y las guardas del 2026-11-08. **No es relectura de prosa:** sólo existen en borrador *Hogar* y las escenas de Stavanger.
 
 ---
 
@@ -28,7 +28,7 @@ El boceto ya declara que «Crowe es la columna; Dario, la estructura; Halbrook, 
 | 3 | **Chiara custodia el libro de las rutas** de Il Consorzio (33) y **Valenti le ofreció el Monarch** (45); su respuesta y cuándo se entera Dario siguen PENDIENTES (Q24). | La «estructura italiana» que facilita el control del Monarch está PENDIENTE (§22). | Il Consorzio es el candidato natural de §22. **Q24 deja de ser un pendiente lateral:** es la línea de Chiara en la Parte I. |
 | 4 | Chiara tiene **una sola** deuda con Varek, «una cuenta abierta» (D2); Kal sabe del favor, no de que creció. | Cap. 9: «Dario sofocante, condescendiente; presiona». | Coincide la deuda. Hay que afinar el tono: en el I Varek es «confiable y accesible», sin amenazas (CANON). **PROPUESTA:** sofoca con cortesía y con intereses, nunca con amenaza; la enemistad se siembra en el II, no se declara. |
 | 5 | Chiara **pactó con Rafe** (los Bravos) en el 44 y fue al convoy desobedeciendo a la mesa; su nombre quedó escrito con los Bravos. | Los Bravos están con Crowe y Dario en H1, y el rumor de Halbrook sale de ellos (CANON). | Choque latente: la banda con la que Chiara tiene un pacto es la que la noche final juega del otro lado. Puede ser fuerza (el rumor pasa por un canal que ella abrió) o contradicción. Lo decide el autor (D12). |
-| 6 | **Mei trabajó sin saberlo para Crowe** en el robo del Monarch, intuye que mató a Boone y llegó al Patio buscando protección (CANON). | Su miedo es sólo Varek (Kaito). | Teme a dos hombres: al que cobra la deuda del hermano y al que mató a Boone. Le da a F2 un suelo doble. |
+| 6 | **Meiko trabajó sin saberlo para Crowe** en el robo del Monarch, intuye que mató a Boone y llegó al Patio buscando protección (CANON). | Su miedo es sólo Varek (Kaito). | Teme a dos hombres: al que cobra la deuda del hermano y al que mató a Boone. Le da a F2 un suelo doble. |
 | 7 | **Halbrook:** Kal lo vio en persona fuera de página y lo nombra; el epílogo lo baja en Kingsley con «Chiara Bellandi» al reverso de una foto. | Cierre de la gala: «—¿Halbrook está en San Aurelio?». | Sigue valiendo si la sorpresa es la **presencia**, no la existencia: Kal sabía de su alcance, no que viviera en la ciudad. Ajuste mínimo. |
 | 8 | Vento muere en el corral; Matteo se va a Italia (por Elio; no se dice). | Matteo fuera; Vento no aparece. | Chiara entra al II con tres pérdidas ya hechas (padre, Matteo, Vento). Es el suelo del motor «todo lo que llega se va o muere». |
 | 9 | **Collins sustituye a Anya** (2026-11-07). | F4 en Washington con Anya. | **F4 se queda sin causa.** PROPUESTA en §4, eslabón E12. |
@@ -52,7 +52,7 @@ Es la doctrina que el boceto ya formula en el cap. 10: **Crowe: alguien falla, a
 | Fuerza | Qué hace en el II | Cómo toca la columna | Regla |
 |---|---|---|---|
 | **Crowe** (calle) | Cobra en página, en escalones | Es la columna | Escena propia en cada Parte; nunca más de unos cinco capítulos sin una tasa visible |
-| **Varek / Volpi** (estructura) | Elimina en silencio lo que amenaza su casa: Fabrizio, los frenos, la línea de Mei | Se cruza sólo por la sospecha de Kal (los escenarios de la Parte III) y por Mei | **Motivos propios** (guarda 3: «Crowe no es la causa de todo»). Siempre velado |
+| **Varek / Volpi** (estructura) | Elimina en silencio lo que amenaza su casa: Fabrizio, los frenos, la línea de Meiko | Se cruza sólo por la sospecha de Kal (los escenarios de la Parte III) y por Meiko | **Motivos propios** (guarda 3: «Crowe no es la causa de todo»). Siempre velado |
 | **Halbrook** (institución) | Cosecha lo que la calle vuelve visible: el FBI, la policía humillada, la tormenta | Cada triunfo de Kal le da un argumento | Benefactor, no general; formidable, no omnisciente |
 | **Il Consorzio** (atadura de Chiara) | La oferta del Monarch, la custodia de las rutas | Lo que Chiara gana con ellos se lo cobra Varek | Respaldo y atadura a la vez |
 
@@ -91,7 +91,7 @@ Son eslabones de trama, no capítulos (la Fase 2 los convierte en tarjetas). En 
 
 | # | Eslabón | Trama | Relación (secreto) | Por eso | Origen |
 |---|---|---|---|---|---|
-| E10 | **La familia** (23 nov–dic) | Cumpleaños; el Patio la acepta. **P: el piloto automático tiene contenido:** Kal le paga a Crowe la deuda del fuego mientras sostiene a todos. **P: una tasa visible:** Crowe sube las cuotas a una banda (Ronda del Canal o Cuadra Nueve), le piden ayuda a Kal y él no puede: todavía es deudor. Harper; el adelanto de Mei (la línea de Ruth) | «Estoy bien»; ella ve que se guarda cosas | El garaje | C + P |
+| E10 | **La familia** (23 nov–dic) | Cumpleaños; el Patio la acepta. **P: el piloto automático tiene contenido:** Kal le paga a Crowe la deuda del fuego mientras sostiene a todos. **P: una tasa visible:** Crowe sube las cuotas a una banda (Ronda del Canal o Cuadra Nueve), le piden ayuda a Kal y él no puede: todavía es deudor. Harper; el adelanto de Meiko (la línea de Ruth) | «Estoy bien»; ella ve que se guarda cosas | El garaje | C + P |
 | E11 | **Garaje y Navidad** (dic) | Pánico a solas; el collar; Kaito en el portón, «Todo bien, jefe» | Su quiebre, sin testigos | F4 | C |
 | E12 | **F4** (31 dic–2 ene) | **P (causa):** Halbrook cobra por primera vez la correa. Los papeles de Nadir siguen en manos de su gente (Crowe se los pasó, CANON I) y, tras la gala, convoca a Kal. Kal va solo para proteger a Nadir y conserva Washington sin Anya | Ausencia sin explicación; el piano espera; la llegada del 2 | Kal vuelve debiendo más | P |
 | E13 | **La bahía y la vela tardía** (ene A4) | **P (por eso):** Kal acepta la incursión de campo de Dario porque necesita su paraguas contra Crowe y Halbrook. Paga la deuda de Kaito: «Lo del hermano queda saldado» (C) | Sale sin avisar; la vela tardía; nace la regla de avisar | El robo | C + P |
@@ -104,11 +104,11 @@ Son eslabones de trama, no capítulos (la Fase 2 los convierte en tarjetas). En 
 | # | Eslabón | Trama | Relación (secreto) | Por eso | Origen |
 |---|---|---|---|---|---|
 | E17 | **Los frenos** (feb–mar) | Escenarios: la Mesa, la calle, Crowe; Varek, el que más ruido le hace. **P:** las noches de matón caen sobre gente de Crowe (Calderos, cobradores): blanco equivocado en parte, y Crowe responde. La guerra se calienta en la página | F3: «Te amo» con el agua corriendo; ella no lo oye | Escalada con Crowe | C + P |
-| E18 | **El bastón** (mar) | Tommaso se va; el Monarch, a Chiara | Gana control, pierde una persona | La línea Tommaso–Mei se cierra sola; la de Varek sigue viva | C |
+| E18 | **El bastón** (mar) | Tommaso se va; el Monarch, a Chiara | Gana control, pierde una persona | La línea Tommaso–Meiko se cierra sola; la de Varek sigue viva | C |
 | E19 | **F2** (abr–may) | «Lo del hermano» le revela la filtración; Kal pospone el juicio. **P:** la operación es un choque con la red de Crowe, consecuencia de E17; la apuñala un hombre de Crowe (si es un Caldero, cierra el levantón). Muere en El Patio; Bonnie elige Boston | «Perdóname, jefe.» Una regla que protege mata | Kal concluye que no puede pelearle a Crowe con el método de Dario | C + P |
 | E20 | **Cierre: la frase de Mabel** (may–jun; ~77 %) | Se planea la boda | La depresión de Chiara; Kal sobrecompensa | La boda | C |
 
-> **Ajuste propuesto (2026-11-12, DISEÑO):** las [[11_Books/Book_02_Sombras_De_Poder/Part_03_Exilio/00_Tarjetas_Parte_III|tarjetas de la Parte III]] proponen que a Mei la apuñale el Caldero que Kal perdonó en el levantón. Así, el «por eso» de E19 pasa a ser que Kal aprende la lección equivocada («perdonar mata»), y eso lo lleva al golpe fallido de E22. Espera al autor. **Superado (DISEÑO, 2026-11-12):** la apuñala un Caldero joven y sin nombre, distinto del perdonado; vuelve en *Voto de Ceniza* ([[11_Books/Book_03_Voto_De_Ceniza/00_Diseno_El_Caldero_En_La_Oficina]]).
+> **Ajuste propuesto (2026-11-12, DISEÑO):** las [[11_Books/Book_02_Sombras_De_Poder/Part_03_Exilio/00_Tarjetas_Parte_III|tarjetas de la Parte III]] proponen que a Meiko la apuñale el Caldero que Kal perdonó en el levantón. Así, el «por eso» de E19 pasa a ser que Kal aprende la lección equivocada («perdonar mata»), y eso lo lleva al golpe fallido de E22. Espera al autor. **Superado (DISEÑO, 2026-11-12):** la apuñala un Caldero joven y sin nombre, distinto del perdonado; vuelve en *Voto de Ceniza* ([[11_Books/Book_03_Voto_De_Ceniza/00_Diseno_El_Caldero_En_La_Oficina]]).
 
 ### Parte IV — Torna a casa (jul–dic A4)
 
@@ -166,7 +166,7 @@ Son eslabones de trama, no capítulos (la Fase 2 los convierte en tarjetas). En 
 | Varek / Volpi (Fabrizio, frenos, cuenta) | 1–2, 9, 37–40 | **Columna** (estructura) | Motivo propio de los frenos (D5) |
 | Halbrook | 21, 36, 52 | **Columna** (institución) | F4 (D6) y la gala con un *por qué* (D4) |
 | Monarch / Il Consorzio / Tommaso | 2–3, 20, 42 | **Columna** de Chiara | Q24 como motor de su primavera |
-| Mei y Bonnie (F2) | 6–7, 43–46 | **Columna** (C: «construirla») | La operación de F2 (D9) |
+| Meiko y Bonnie (F2) | 6–7, 43–46 | **Columna** (C: «construirla») | La operación de F2 (D9) |
 | Stavanger, Elenna, el nombre | 2, 9, 21, 30, 52b–61 | **Columna** (la trenza) | Ya está |
 | Ren | 4, 12 | Puente fuerte | Que su producto sea el de Crowe (E4) y el del FBI (E8) |
 | FBI / Lucía | 17 | Puente | Que nazca de la deuda (E8) |

@@ -1,6 +1,6 @@
 <!--
 Nuevo cauce (Fase 4, 2026-11-08, terminal B de [[98_Agent_Handoff/encargos/ENCARGO_Fase4_Parte_III_Cierre]]; verbo «Ajusta al cauce»): **nuevo Cap. 44**. Versión anterior íntegra: [[11_Books/Book_01_Mascaras_De_Cristal/Escenas_Eliminadas/48_Su_Nombre_Version_2026-11-08]]. Sesión: [[98_Agent_Handoff/sessions/2026-11-08_claude_fase4_cap44_su_nombre]].
-Ajuste DISEÑO (único en prosa): «el corredor de piezas del norte que había inventado» → «que había hecho sonar», porque el nuevo 13 (archivo 12) dice «Eso es verdad; no lo inventé». Comprobaciones de cauce sin cambios: Halbrook, el expediente, Varek, Il Consorzio, Matteo y Vento no aparecen; Mei sigue muda (su contacto es Tommaso, no se adelanta F2); la señal del Tasador («El gordo de la Almendra anda tasando el sur desde antes de Navidad») se queda: tras perder el lote en el 39, Crowe sale a tasar el sur, y Rafe conserva su motivo propio (el Peugeot; guarda 3).
+Ajuste DISEÑO (único en prosa): «el corredor de piezas del norte que había inventado» → «que había hecho sonar», porque el nuevo 13 (archivo 12) dice «Eso es verdad; no lo inventé». Comprobaciones de cauce sin cambios: Halbrook, el expediente, Varek, Il Consorzio, Matteo y Vento no aparecen; Meiko sigue muda (su contacto es Tommaso, no se adelanta F2); la señal del Tasador («El gordo de la Almendra anda tasando el sur desde antes de Navidad») se queda: tras perder el lote en el 39, Crowe sale a tasar el sur, y Rafe conserva su motivo propio (el Peugeot; guarda 3).
 Numeración: las líneas Estado y Función ya van en la de 47 caps.; en las notas fechadas, «el 47» es hoy el 43, «el Cap. 50» es el 46 y «el Cap. 13» es el nuevo 13 (archivo 12, *Roma Atrii* con *Auster*).
 Renumerado 2026-11-08 (nuevo cauce, Parte III): antes Cap. 53.
 Renumerado 2026-11-01 (decisión del autor, carretera del Libro I): antes Cap. 57.
@@ -8,17 +8,17 @@ Renumerado 2026-10-22 (decisión del autor): antes Cap. 48; numeración corrida 
 Estado: BORRADOR — Parte III — Ardizzone, Cap. 44 (quinto del arco final sin Kal, bloque de cierre 40–47). Redactado 2026-10-02, Claude Opus 5.5, conforme a [[11_Books/Book_01_Mascaras_De_Cristal/00_Plan_Arco_Final_Sin_Kal]] y a las craft policies (Redaccion_De_Capitulos, voice/, staging_rules/, dialogue_rules/). Pendiente de lectura del autor.
 Título: «Su nombre» — DECISIÓN DEL AUTOR (2026-11-10, retitulado de 47): se queda.
 Protagonista: Chiara Bellandi (POV único, tercera persona cercana). Kal no aparece.
-Personajes con diálogo: Mabel Ortiz, Bonnie García (por teléfono), Mei Nakano, Rafael "Rafe" Domínguez, Maribel Knox.
+Personajes con diálogo: Mabel Ortiz, Bonnie García (por teléfono), Meiko Nakano, Rafael "Rafe" Domínguez, Maribel Knox.
 Ventana temporal: mediodía de D10 (sábado) a mañana de D12 (lunes). Sin encabezados de fecha.
 Calendario (CANON DEL AUTOR 2026-10-06; confirmado por el autor, [[13_Auditorias/Book_01_Mascaras_De_Cristal/Matriz_Temporal_Libro_I]] § Decisiones): sábado 1 de enero (Año Nuevo y cumpleaños de Kal) al lunes 3 de enero. Pasada de calendario hecha 2026-10-06 (DISEÑO, pendiente de lectura): La Esquina abre en Año Nuevo con los desvelados del menudo; luces de Navidad medio fundidas en la plaza de Santa Brígida.
 Lugares: La Esquina de Mabel; la carretera del condado al sureste de Camp Alder (puente de un carril sobre la vía de la cementera); Santa Brígida (plaza, parroquia, mercado que se recoge, una cantina, La Golondrina, con cuarto del fondo y patio trasero).
-Función: CANON DEL AUTOR — el sur: Chiara contrata con Rafe Domínguez (Bravos de Santa Brígida, sembrado en el Cap. 13) el asalto al convoy del traslado. Mei en la mesa: siembra muda; informa a su contacto (por canon, Tommaso; Varek la absorbe en *Sombras de Poder*) y no se revela. Corregido 2026-10-03 (auditoría del arco, Q6): decía "informa a Dario". Cierre: pactado para la noche del traslado.
+Función: CANON DEL AUTOR — el sur: Chiara contrata con Rafe Domínguez (Bravos de Santa Brígida, sembrado en el Cap. 13) el asalto al convoy del traslado. Meiko en la mesa: siembra muda; informa a su contacto (por canon, Tommaso; Varek la absorbe en *Sombras de Poder*) y no se revela. Corregido 2026-10-03 (auditoría del arco, Q6): decía "informa a Dario". Cierre: pactado para la noche del traslado.
 Decisiones del autor en sesión (2026-10-02): el puente con Rafe es Mabel; el precio, además de lo que lleve el convoy, es el nombre de Chiara (en persona, sin intermediarios: rompe su método de redundancias y explica por qué su nombre entra al radar de Halbrook); el Patio no se entera.
 DISEÑO del agente, pendiente de lectura:
 - Apertura en frío en La Esquina (el residuo del 47, el anular levantado = martes, no se explica). Mabel conoce a Rafe de la cuadra de Santa Brígida donde creció; deja de mover las manos (ficha de voz). "No me digas para qué. Así no lo sé." Mabel lleva el recado, no a la persona; Rafe pide que vaya ella, sola.
-- Bonnie da el número de Mei sin saber para qué ("Si es del Patio, dígamelo a mí." / "No es del Patio."). El Patio queda fuera.
+- Bonnie da el número de Meiko sin saber para qué ("Si es del Patio, dígamelo a mí." / "No es del Patio."). El Patio queda fuera.
 - Ruta: la carretera del condado (coincide con lo que dijo Lucía en el 47); puente de un carril sobre la vía de la cementera, donde todo frena. El Cutoff se descarta por las cámaras de la aduana de Kingsley. Sin táctica, sin armas, sin cantidades.
-- Siembras mudas de Mei (legibles en relectura, sin delatar): pregunta quién le dijo a Chiara "por tierra"; Rafe: "¿Tú de quién eres?" / "De nadie." / "Eso dicen todos los que son de alguien."; mira la libreta de Maribel cuando anota el nombre; no acepta el sobre ("No es por dinero"); pide bajar en una parada y no espera el camión: camina en sentido contrario a la ruta, hacia el sur. Chiara lo ve y no le asigna nada.
+- Siembras mudas de Meiko (legibles en relectura, sin delatar): pregunta quién le dijo a Chiara "por tierra"; Rafe: "¿Tú de quién eres?" / "De nadie." / "Eso dicen todos los que son de alguien."; mira la libreta de Maribel cuando anota el nombre; no acepta el sobre ("No es por dinero"); pide bajar en una parada y no espera el camión: camina en sentido contrario a la ruta, hacia el sur. Chiara lo ve y no le asigna nada.
 - Rafe: carismático en la mesa, brutal en la puerta trasera (un muchacho con hielo en la mano en el patio). Se persigna con la campana de la parroquia: rima muda con el tema de Chiara y Dios (Cap. 50).
 - El precio del nombre se motiva con el Cap. 13: Rafe cargó meses con el nombre de otro por un Peugeot que nunca manejó y no vuelve a hacerlo. Rafe NO sabe que fue Chiara quien abrió el tercer camino; ella sí, y se toca el anular (ficha de voz). Paga la "culpa por adelantado" del 13 sin explicarla.
 - Maribel Knox anota "Chiara Bellandi" en su libreta: el registro físico del nombre.
@@ -93,7 +93,7 @@ Buscó otro número.
 
 Bonnie contestó al cuarto timbre. Había ruido de cocina detrás, una sartén, una radio.
 
-—Necesito el número de Mei.
+—Necesito el número de Meiko.
 
 Bonnie no contestó enseguida. La sartén dejó de sonar.
 
@@ -113,19 +113,19 @@ Chiara esperó a que dijera algo más. Bonnie colgó.
 
 ---
 
-Mei la esperaba el domingo a las tres en una gasolinera de la autopista del norte, a la altura de los últimos almacenes de Lomas, apoyada en un poste con la misma chaqueta de nailon que no era de su talla. Se subió al Lancia sin saludar y se puso el cinturón antes de cerrar la puerta.
+Meiko la esperaba el domingo a las tres en una gasolinera de la autopista del norte, a la altura de los últimos almacenes de Lomas, apoyada en un poste con la misma chaqueta de nailon que no era de su talla. Se subió al Lancia sin saludar y se puso el cinturón antes de cerrar la puerta.
 
 —Por el Cutoff no —dijo—. Siga derecho.
 
 Chiara siguió derecho.
 
-Dejaron atrás Kingsley Field por la izquierda, de día más feo que de noche: hangares de lámina sin pintar, una cerca larga con alambre en la punta, un avión de carga con las compuertas abiertas como una boca. Pasaron la salida del Alder Cutoff, y el letrero verde de CAMP ALDER, y Chiara no volteó a verlo. Cuatro millas después, Mei le señaló una desviación sin letrero, una carretera de dos carriles que se metía entre campos de sorgo cortado.
+Dejaron atrás Kingsley Field por la izquierda, de día más feo que de noche: hangares de lámina sin pintar, una cerca larga con alambre en la punta, un avión de carga con las compuertas abiertas como una boca. Pasaron la salida del Alder Cutoff, y el letrero verde de CAMP ALDER, y Chiara no volteó a verlo. Cuatro millas después, Meiko le señaló una desviación sin letrero, una carretera de dos carriles que se metía entre campos de sorgo cortado.
 
-—La del condado —dijo—. Sale por atrás de la base, por la puerta de los proveedores, y baja hasta la interestatal sin pasar por ningún pueblo. El Cutoff llega a la autopista junto al aeropuerto. Ahí la aduana tiene cámaras en cada poste. —Mei miraba por la ventanilla, no a Chiara—. Si lo quieren sacar sin que lo vea nadie, van por aquí.
+—La del condado —dijo—. Sale por atrás de la base, por la puerta de los proveedores, y baja hasta la interestatal sin pasar por ningún pueblo. El Cutoff llega a la autopista junto al aeropuerto. Ahí la aduana tiene cámaras en cada poste. —Meiko miraba por la ventanilla, no a Chiara—. Si lo quieren sacar sin que lo vea nadie, van por aquí.
 
 Era lo mismo que había dicho Lucía. Chiara no se lo dijo.
 
-La carretera del condado era recta y vacía y tenía el asfalto parchado en tantos colores que parecía una colcha. De vez en cuando pasaba un camión de redilas con pacas, o una camioneta de rancho, o nada. A los veinte minutos, el terreno empezó a bajar hacia un arroyo seco y Mei levantó la mano.
+La carretera del condado era recta y vacía y tenía el asfalto parchado en tantos colores que parecía una colcha. De vez en cuando pasaba un camión de redilas con pacas, o una camioneta de rancho, o nada. A los veinte minutos, el terreno empezó a bajar hacia un arroyo seco y Meiko levantó la mano.
 
 —Aquí.
 
@@ -133,7 +133,7 @@ Chiara frenó en el acotamiento de grava.
 
 Delante había un puente viejo, de concreto, angosto, con barandales bajos manchados de óxido. Abajo no corría agua: corría una vía de tren, dos rieles brillantes entre piedra triturada, que salía de un corte en el cerro y se perdía hacia el este. A un lado del puente, un letrero amarillo: UN SOLO CARRIL. CEDA EL PASO. Del otro lado, a lo lejos, las torres grises de una cementera, con una nube blanca encima que no se movía.
 
-—Aquí todos frenan —dijo Mei—. Los camiones de la cementera, las patrullas, los de la base. No caben dos. El que llega primero pasa y el otro espera.
+—Aquí todos frenan —dijo Meiko—. Los camiones de la cementera, las patrullas, los de la base. No caben dos. El que llega primero pasa y el otro espera.
 
 —¿Cómo lo sabe?
 
@@ -141,7 +141,7 @@ Delante había un puente viejo, de concreto, angosto, con barandales bajos manch
 
 Chiara bajó del coche. El aire olía a polvo de cemento y a sorgo seco. Caminó hasta el barandal y se asomó. La vía estaba lejos, más de lo que parecía desde el coche.
 
-Mei bajó también, pero se quedó junto al Lancia.
+Meiko bajó también, pero se quedó junto al Lancia.
 
 —¿Quién le dijo que por tierra? —preguntó.
 
@@ -149,7 +149,7 @@ Chiara no se volvió.
 
 —Alguien.
 
-Mei no insistió. Una camioneta de la cementera apareció del otro lado del puente, frenó, esperó a que nadie viniera y cruzó despacio, levantando polvo. El chofer las miró al pasar, a las dos y al Lancia, y siguió.
+Meiko no insistió. Una camioneta de la cementera apareció del otro lado del puente, frenó, esperó a que nadie viniera y cruzó despacio, levantando polvo. El chofer las miró al pasar, a las dos y al Lancia, y siguió.
 
 ---
 
@@ -157,7 +157,7 @@ Chiara dejó el Lancia a cuatro cuadras de la plaza, en el estacionamiento de un
 
 Santa Brígida a las nueve de la noche de un domingo olía a carne asada y a incienso. El mercado de la plaza se estaba recogiendo: hombres desarmando los puestos de lona, mujeres guardando la fruta que no se había vendido en huacales de madera, un perro esperando junto al puesto de los tacos a que alguien tirara algo. Entre los postes de la plaza seguían colgadas las luces de Navidad, la mitad fundidas. La parroquia tenía las puertas abiertas y la luz encendida adentro, y una señora barría las escaleras de la entrada con una escoba de vara. Todas las fachadas de la plaza estaban pintadas de colores distintos, y todos los negocios —la farmacia, la panadería, la tienda de vestidos de quinceañera, la ferretería— tenían la misma calcomanía chica en la esquina del vidrio de la puerta: un gallo negro.
 
-Mei caminaba un paso detrás de ella. No había preguntado si podía venir. Había dicho *él va a querer saber de dónde sale la ruta, y usted no sabe*, y era cierto.
+Meiko caminaba un paso detrás de ella. No había preguntado si podía venir. Había dicho *él va a querer saber de dónde sale la ruta, y usted no sabe*, y era cierto.
 
 La Golondrina estaba en la esquina de enfrente de la parroquia, con la puerta de vaivén abierta y una rocola sonando adentro. Tenía la calcomanía del gallo, como todos. En la barra había cinco hombres y ninguno volteó cuando entraron, y eso fue lo que le dijo a Chiara que todos sabían quién era.
 
@@ -175,7 +175,7 @@ Era más bajo de lo que Chiara se había imaginado, y mayor: canas en las sienes
 
 —Mabel dice que usted no come. —Le señaló una silla—. Siéntese. Aquí sí se come.
 
-Chiara se sentó. Mei no. Se quedó junto a la puerta del pasillo, con la espalda en la pared.
+Chiara se sentó. Meiko no. Se quedó junto a la puerta del pasillo, con la espalda en la pared.
 
 En la otra silla, del lado de la televisión, había una mujer que Chiara no había visto al entrar, porque no se había movido. Cuarenta y tantos años, el pelo recogido con un lápiz, una libreta de pasta negra abierta sobre el mantel y una pluma de cantina, de las de propaganda de una cerveza. No se presentó. Rafe tampoco la presentó.
 
@@ -201,7 +201,7 @@ La mujer de la libreta escribió algo. Una línea corta. Rafe no la miró.
 
 —¿Y por dónde lo sacan?
 
-Chiara giró apenas la cabeza hacia la puerta. Mei habló desde ahí, sin despegarse de la pared.
+Chiara giró apenas la cabeza hacia la puerta. Meiko habló desde ahí, sin despegarse de la pared.
 
 —Por la carretera del condado. Sale por la puerta de proveedores. A los veinte minutos hay un puente de un carril sobre la vía de la cementera. Ahí todos frenan.
 
@@ -257,7 +257,7 @@ Miró a Maribel. Maribel tenía la pluma levantada sobre la libreta.
 
 —Chiara Bellandi.
 
-Maribel escribió. Chiara oyó la pluma sobre el papel: dos palabras, letra apretada. Desde la puerta, Mei miró la libreta.
+Maribel escribió. Chiara oyó la pluma sobre el papel: dos palabras, letra apretada. Desde la puerta, Meiko miró la libreta.
 
 —¿Nada más? —preguntó Rafe.
 
@@ -281,25 +281,25 @@ Al salir pasaron otra vez por la barra. Ninguno de los cinco hombres volteó. En
 
 Caminaron las cuatro cuadras sin hablar. En el estacionamiento del supermercado cerrado, junto al Lancia, había un coche que no estaba cuando llegaron: un sedán viejo con dos muchachos adentro, comiendo papas de una bolsa. No las miraron. Cuando Chiara encendió el motor, uno de ellos levantó la mano, como se saluda a un vecino, y el otro siguió comiendo.
 
-Chiara manejó hacia el norte. Mei iba con la cabeza apoyada en la ventanilla.
+Chiara manejó hacia el norte. Meiko iba con la cabeza apoyada en la ventanilla.
 
 —Me puede dejar en la avenida —dijo, cuando entraron a La Almendra—. En la parada.
 
-Chiara se detuvo junto a la parada. Antes de que Mei abriera la puerta, sacó un segundo sobre del saco, más delgado que el otro, y se lo tendió.
+Chiara se detuvo junto a la parada. Antes de que Meiko abriera la puerta, sacó un segundo sobre del saco, más delgado que el otro, y se lo tendió.
 
-Mei lo miró.
+Meiko lo miró.
 
 —No es por dinero —dijo.
 
 —Tómelo igual.
 
-Mei no lo tomó. Abrió la puerta y bajó. Se inclinó un momento sobre la ventanilla abierta, con el antebrazo apoyado en el techo del Lancia.
+Meiko no lo tomó. Abrió la puerta y bajó. Se inclinó un momento sobre la ventanilla abierta, con el antebrazo apoyado en el techo del Lancia.
 
 —El martes, ¿usted dónde va a estar?
 
 —Esperando a Mabel.
 
-Mei asintió y se enderezó.
+Meiko asintió y se enderezó.
 
 Chiara arrancó. En el retrovisor la vio quedarse en la parada, con las manos en los bolsillos, mientras el Lancia se alejaba, y cuando ya estaba a media cuadra la vio echar a caminar. No esperó el camión. Caminó en sentido contrario al de la ruta, hacia el sur.
 

@@ -17,7 +17,7 @@ Crear una **cartografía relacional y de voz**, no una tabla de parejas aislada.
 - [[11_Books/Book_02_Sombras_De_Poder/00_Matriz_Temporal]] — calendario.
 - [[11_Books/Book_02_Sombras_De_Poder/00_Boceto_Lista_Capitulos]] — 61 fichas; número, título y POV son **DISEÑO**, no texto autorizado.
 - [[06_Relationships/Kal_y_Chiara]]; [[06_Relationships/Momentos_de_Fractura]] — F2/F3; [[06_Relationships/Bonnie_y_Marisol]] — incubación del romance.
-- [[02_Characters/Bonnie_Garcia]], [[02_Characters/Mei_Nakano]], [[02_Characters/Marisol_Grayson]], [[02_Characters/Nadir_Amrani]].
+- [[02_Characters/Bonnie_Garcia]], [[02_Characters/Meiko_Nakano]], [[02_Characters/Marisol_Grayson]], [[02_Characters/Nadir_Amrani]].
 - [[12_Craft_Policies/voice/TEMPLATE]], [[12_Craft_Policies/voice/00_Registro_Espanol_Neutro]], [[12_Craft_Policies/Redaccion_De_Capitulos]].
 - [[98_Agent_Handoff/DECISIONS]], [[98_Agent_Handoff/PENDING]] — revisados el 2026-10-14; las decisiones más recientes del autor prevalecen sobre secciones históricas todavía presentes en algunas fichas.
 

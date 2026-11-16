@@ -24,7 +24,7 @@ personajes: Kal Mercer, Chiara Bellandi
 
 > **La noche (DECISIÓN DEL AUTOR, 2026-11-06):** se narra en la página, sólo aquí en la saga. Diálogo y coreografía, del autor; el resto de la redacción, DISEÑO pendiente de lectura. La estufa pasa a chimenea. Ver [[11_Books/Book_02_Sombras_De_Poder/Part_04_Torna_A_Casa/00_Diseno_Noche_Stavanger]].
 
-> **UBICACIÓN ANTERIOR SUPERSEDIDA POR DECISIÓN AUTORAL 2026-09-20:** antes de F2 y después de la caída de Silas. **Vigente:** Noruega/Stavanger y propuesta en Parte V — Exilio, después del día Mei/Bonnie y de la reconstrucción de Villa. La caída de Silas se reserva a VI: su función antigua como detonante previo del viaje queda pendiente de reconciliación. No inventar otro mecanismo ni promover la biografía propuesta por este cambio.
+> **UBICACIÓN ANTERIOR SUPERSEDIDA POR DECISIÓN AUTORAL 2026-09-20:** antes de F2 y después de la caída de Silas. **Vigente:** Noruega/Stavanger y propuesta en Parte V — Exilio, después del día Meiko/Bonnie y de la reconstrucción de Villa. La caída de Silas se reserva a VI: su función antigua como detonante previo del viaje queda pendiente de reconciliación. No inventar otro mecanismo ni promover la biografía propuesta por este cambio.
 >
 > **Función canon:** exilio voluntario que Kal también necesita; experiencias buenas junto a pérdidas que siguen. La sobrecompensación crea el espacio; la propuesta nace de claridad, no de culpa, sin convertir a Chiara en Mercer. La ejecución narrativa siguiente se conserva intacta como borrador histórico/propuesto, no se aprueba ni se reescribe en este encargo.
 

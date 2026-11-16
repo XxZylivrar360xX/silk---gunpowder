@@ -69,7 +69,7 @@ El golpe debe marcar dos cosas: **Kal es el líder** (reparte tareas) y **Kal es
 
 - **Cap. 8b:** patrullas comunes, sin Collins ni SPV, sin fuente, canal ni el truco de la gasolinera. Kal nunca es igualado: eso se reserva para Collins y con Chiara en el asiento que aquí ocupa Nadir.
 - **Cap. 13:** el expediente sigue siendo «conducción temeraria y evasión» y el conductor no se identifica. El robo no se conecta porque nadie lo descubre en días.
-- **Cap. 27 y Cap. 42:** Kal no trata con los Devil Splicers; Mei no aparece ni se nombra. Su hilo queda invisible: por canon le consigue la droga a Danny.
+- **Cap. 27 y Cap. 42:** Kal no trata con los Devil Splicers; Meiko no aparece ni se nombra. Su hilo queda invisible: por canon le consigue la droga a Danny.
 - **Cap. 3:** el trabajo de la hierba sigue fuera de escena; canon del 2026-09-29 intacto.
 - **Cap. 4:** Russ no se muestra antes de su entrada.
 

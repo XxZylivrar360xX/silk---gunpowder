@@ -6,9 +6,9 @@
 
 > **DECISIÓN DEL AUTOR (2026-11-15):** **la familia Mercer termina en Boston**, donde vive Bonnie; Elenna crece cerca de ella. Ver [[11_Books/00_Diseno_Final_Boston_Y_La_Villa]].
 
-> **CAMBIO DE CANON (2026-11-07):** F2 ya no es ejecución ni destierro: Mei muere tras una operación y Bonnie se va a Boston por elección; recibe a Elenna desde Boston (se retira Italia). Manda [[06_Relationships/Momentos_de_Fractura#F2 - La muerte de Mei y la salida de Bonnie|F2]]; lo que diga abajo sobre Italia, Roberta Ardizzone, la ejecución o el destierro queda superado.
+> **CAMBIO DE CANON (2026-11-07):** F2 ya no es ejecución ni destierro: Meiko muere tras una operación y Bonnie se va a Boston por elección; recibe a Elenna desde Boston (se retira Italia). Manda [[06_Relationships/Momentos_de_Fractura#F2 - La muerte de Meiko y la salida de Bonnie|F2]]; lo que diga abajo sobre Italia, Roberta Ardizzone, la ejecución o el destierro queda superado.
 
-> **NUEVO CAUCE — PARTE III (2026-11-08; [[98_Agent_Handoff/sessions/2026-11-08_claude_propagacion_parte_III]]; prosa BORRADOR, lo nuevo es DISEÑO salvo donde dice CANON):** **Nuevo 35:** se queda el beat del mesero («Por babor…») en el yate; Kal ve desde lejos que Chiara le pregunta el nombre. «Roma» sólo con Nadir y Bonnie. **Nuevo 37:** Chiara la busca por la lista de seguridad del yate y le cuenta Palermo; Bonnie le habla de usted, con frases cortas, y lee a la gente por hacia dónde mira («Allá también tiene jefe, entonces»). **Nuevo 38 (CANON, opción a):** en la llamada le dice a Chiara que Mei duerme en el Patio y que «lo de allá arriba se deshizo»; no nombra a Boone ni a la banda; le preguntó dos veces y no va a llevar a nadie hasta donde duerme. **No hay ficha de voz de Bonnie** en `12_Craft_Policies/voice/` (los rasgos de arriba salen de la prosa).
+> **NUEVO CAUCE — PARTE III (2026-11-08; [[98_Agent_Handoff/sessions/2026-11-08_claude_propagacion_parte_III]]; prosa BORRADOR, lo nuevo es DISEÑO salvo donde dice CANON):** **Nuevo 35:** se queda el beat del mesero («Por babor…») en el yate; Kal ve desde lejos que Chiara le pregunta el nombre. «Roma» sólo con Nadir y Bonnie. **Nuevo 37:** Chiara la busca por la lista de seguridad del yate y le cuenta Palermo; Bonnie le habla de usted, con frases cortas, y lee a la gente por hacia dónde mira («Allá también tiene jefe, entonces»). **Nuevo 38 (CANON, opción a):** en la llamada le dice a Chiara que Meiko duerme en el Patio y que «lo de allá arriba se deshizo»; no nombra a Boone ni a la banda; le preguntó dos veces y no va a llevar a nadie hasta donde duerme. **No hay ficha de voz de Bonnie** en `12_Craft_Policies/voice/` (los rasgos de arriba salen de la prosa).
 
 > **Numeración:** desde 2026-10-22 el Libro I usa numeración corrida definitiva (56 caps.); este documento cita la numeración anterior. Correspondencia en [[11_Books/Book_01_Mascaras_De_Cristal/00_Book_Map]].
 
@@ -18,18 +18,18 @@
 
 > Plan anterior retirado: [[97_Supersedido/F2_Ejecucion_Y_Destierro]].
 
-**No hay destierro ni coartada.** Bonnie no tiene nada que ver con la filtración. Sostiene la mano de Mei mientras muere en El Patio y les pide a los chicos que llamen una ambulancia, contra la regla del Patio de no ir al hospital desde una operación (esa regla es parte de lo que la saca de la calle; DISEÑO). Se entera de la traición de Mei por Nadir (DISEÑO) y se la cuenta a Chiara la tarde después del entierro, cuando Chiara todavía le habla de planes y ella le dice que no va a quedarse (DECISIÓN DEL AUTOR, 2026-11-13; cap. 39 del Libro II). Se va después del entierro. **Perder a su mejor amiga es demasiado: se va a Boston, por elección.** Días antes, Chiara y Marisol empezaron a hablarle de estudiar una carrera y construir su futuro sin depender de nadie (ni Kal, ni Chiara, ni nadie) y sin estar expuesta en la calle, que ella misma ya sentía chica y asfixiante. Detalle: [[06_Relationships/Momentos_de_Fractura#F2 - La muerte de Mei y la salida de Bonnie|F2]].
+**No hay destierro ni coartada.** Bonnie no tiene nada que ver con la filtración. Sostiene la mano de Meiko mientras muere en El Patio y les pide a los chicos que llamen una ambulancia, contra la regla del Patio de no ir al hospital desde una operación (esa regla es parte de lo que la saca de la calle; DISEÑO). Se entera de la traición de Meiko por Nadir (DISEÑO) y se la cuenta a Chiara la tarde después del entierro, cuando Chiara todavía le habla de planes y ella le dice que no va a quedarse (DECISIÓN DEL AUTOR, 2026-11-13; cap. 39 del Libro II). Se va después del entierro. **Perder a su mejor amiga es demasiado: se va a Boston, por elección.** Días antes, Chiara y Marisol empezaron a hablarle de estudiar una carrera y construir su futuro sin depender de nadie (ni Kal, ni Chiara, ni nadie) y sin estar expuesta en la calle, que ella misma ya sentía chica y asfixiante. Detalle: [[06_Relationships/Momentos_de_Fractura#F2 - La muerte de Meiko y la salida de Bonnie|F2]].
 
 > **La tarde de las latas (CANON DEL AUTOR, escena prevista, antes de F2).** Bonnie no sabe disparar; Chiara lleva días insistiendo y Kal acepta enseñarle. En un descanso apartado tiran a latas, y la práctica se abre a una conversación sobre familia y futuro. Kal le transmite «si tienen un problema, díganmelo y lo arreglamos» (sentido, no diálogo literal): ahí nace la confianza real con Kal. No es promesa de impunidad. **PENDIENTE (2026-11-07):** su cobro era la confesión de F2, ya retirada; decidir si la escena se queda y qué cobra. Ubicación exacta en la Parte III y extensión: PENDIENTE.
 
-Irse no es ganar: pierde a Mei, La Almendra, el vínculo diario con Chiara, su red cotidiana y la ciudad. Gana una vida propia. Mei era su roommate en La Almendra; la amistad se construyó con casa, horarios, barrio, autos y rutinas.
+Irse no es ganar: pierde a Meiko, La Almendra, el vínculo diario con Chiara, su red cotidiana y la ciudad. Gana una vida propia. Meiko era su roommate en La Almendra; la amistad se construyó con casa, horarios, barrio, autos y rutinas.
 
 > **CANON DEL AUTOR (2026-10-03) — nombre legal y alias.** Su nombre completo es **Roberta «Bonnie» García**.
 > - **Libros I-III:** en la prosa es **Bonnie**. El apellido García solo se menciona en su presentación inicial; después no se pone foco en él.
 > - **Exilio en Italia (F2 en adelante):** su identidad de resguardo es **Roberta Ardizzone**. Usa su nombre legal real y el apellido de la familia de Chiara. *(Superado 2026-11-07: Bonnie está en Boston; «Elenna Serra» e Italia, retiradas.)*
 > - **Veinte años después:** para Elenna y Marisol sigue siendo «Bonnie». Para el mundo es **Roberta Ardizzone**, dueña y administradora de la cadena hotelera. *(Superado 2026-11-07: Bonnie está en Boston; «Elenna Serra» e Italia, retiradas.)*
 > - **Descontinuado:** «Bonnie Colombo». Colombo era el apellido original de Giulia (Giulia Colombo), la semilla de inspiración, y se retira para alejarse de la fuente. Queda resuelto el pendiente Ardizzone/Colombo.
-> - **Origen del apodo (CANON DEL AUTOR 2026-10-03):** **Mei** le dice «Bonnie», y el apodo se queda toda la historia porque es auténtico. Eran amigas de verdad; Mei tomó malas decisiones y eso le costó la vida. Cuando Bonnie conserva el nombre veinte años después, conserva a Mei. El apodo nace en la época de la banda de corredores, antes de El Patio, fuera de foco y de la prosa: Bonnie ya llega con él. (Se retira la propuesta DISEÑO de «bonita».)
+> - **Origen del apodo (CANON DEL AUTOR 2026-10-03):** **Meiko** le dice «Bonnie», y el apodo se queda toda la historia porque es auténtico. Eran amigas de verdad; Meiko tomó malas decisiones y eso le costó la vida. Cuando Bonnie conserva el nombre veinte años después, conserva a Meiko. El apodo nace en la época de la banda de corredores, antes de El Patio, fuera de foco y de la prosa: Bonnie ya llega con él. (Se retira la propuesta DISEÑO de «bonita».)
 
 *Seda y Pólvora — Ficha de Personaje*
 
@@ -64,7 +64,7 @@ Irse no es ganar: pierde a Mei, La Almendra, el vínculo diario con Chiara, su r
 
 ## Quién es
 
-Bonnie viene de la misma banda rival desintegrada que [[02_Characters/Mei_Nakano]]. **CANON DEL AUTOR (2026-10-28):** la banda son Los Devil Splicers (Old Road Town). **DISEÑO:** Bonnie no participa en el robo del Monarch ni sabe que Mei dio el dato ([[11_Books/Book_01_Mascaras_De_Cristal/Part_02_Con_Peores_Personas_He_Tratado/00_Plan_Robo_Monarch]]). Entra a la organización de Kal, pero su vínculo más importante no es con Kal: es con Chiara.
+Bonnie viene de la misma banda rival desintegrada que [[02_Characters/Meiko_Nakano]]. **CANON DEL AUTOR (2026-10-28):** la banda son Los Devil Splicers (Old Road Town). **DISEÑO:** Bonnie no participa en el robo del Monarch ni sabe que Meiko dio el dato ([[11_Books/Book_01_Mascaras_De_Cristal/Part_02_Con_Peores_Personas_He_Tratado/00_Plan_Robo_Monarch]]). Entra a la organización de Kal, pero su vínculo más importante no es con Kal: es con Chiara.
 
 Se acerca a [[02_Characters/Chiara_Bellandi]] y se vuelve su protegida.
 
@@ -88,11 +88,11 @@ Lo que opera hoy:
 - **Familia (CANON DEL AUTOR, 2026-10-14):** es **adoptada**. Sus padres adoptivos viven en **Boston**: un matrimonio estable que no pudo tener hijos y le dio una vida amorosa y genuinamente buena. No atribuirles trauma, maltrato ni abandono, ni asumir que Bonnie nunca tuvo hogar fuera del Patio. Para ella, quienes la criaron **son** sus padres. El autor evocó una adopción cerrada / expediente sellado: verificar la distinción legal antes de usar terminología precisa y no construir trama documental por obligación. **TEMA (no diálogo literal todavía):** «Nunca tuve que preguntar quiénes eran mis verdaderos padres, porque los que me recibieron me aman genuinamente»; contrapunto con Dale, Stavanger/Ingrid y Elenna, sin dictar qué debe sentir Kal sobre su origen. **PENDIENTE:** por qué no puede refugiarse en Boston tras F2, si la prosa lo necesita, y qué protege a sus padres; cómo pasa de Boston a la banda de corredores.
 - Fue corredora de una banda rival.
 - Esa banda se desintegró.
-- Se integra a la organización junto con Mei.
-- **RESUELTO (2026-09-20):** Mei y Bonnie terminan de roommates en La Almendra — al principio por conveniencia (mismo derrumbe, espacio limitado que ofrece Kal), después por amistad real construida en la convivencia diaria (turnos, comida, autos, bromas). Cuando ejecutan a Mei en F2, Bonnie no pierde "a una operadora": pierde a la persona con la que se iba a dormir cada noche.
+- Se integra a la organización junto con Meiko.
+- **RESUELTO (2026-09-20):** Meiko y Bonnie terminan de roommates en La Almendra — al principio por conveniencia (mismo derrumbe, espacio limitado que ofrece Kal), después por amistad real construida en la convivencia diaria (turnos, comida, autos, bromas). Cuando ejecutan a Meiko en F2, Bonnie no pierde "a una operadora": pierde a la persona con la que se iba a dormir cada noche.
 - Se acerca a Chiara y termina bajo su protección.
 - Su arco apunta a un futuro mejor lejos de la calle.
-- En [[06_Relationships/Momentos_de_Fractura]], F2, tras la muerte de Mei se va a Boston a estudiar (CANON 2026-11-07).
+- En [[06_Relationships/Momentos_de_Fractura]], F2, tras la muerte de Meiko se va a Boston a estudiar (CANON 2026-11-07).
 
 ### Boston y Elenna — CANON DEL AUTOR (2026-11-07; sustituye «Italia y Elenna»)
 
@@ -100,7 +100,7 @@ Tras F2 se instala en **Boston**, con sus padres adoptivos, a estudiar una carre
 
 La causalidad no puede invertirse. Nadie la manda a Boston para producir una cuidadora futura: se va por un duelo y por un futuro propio. Mucho después, cuando Kal y Chiara necesitan a alguien absolutamente confiable fuera del mundo de la calle, Bonnie ya está allí.
 
-Bonnie se vuelve la cuidadora cotidiana de Elenna durante aproximadamente su primer año. No es niñera funcional, sustituta descartable de Chiara ni segunda madre diseñada para competir con ella. Conserva agencia, vida propia y el costo de haber perdido a Mei, San Aurelio y el vínculo diario con Chiara. Elenna desarrolla un apego real hacia Bonnie. Ese vínculo sobrevive al reencuentro con Kal y Chiara; la recuperación de convivencia con sus padres debe ser gradual y no borrar a Bonnie.
+Bonnie se vuelve la cuidadora cotidiana de Elenna durante aproximadamente su primer año. No es niñera funcional, sustituta descartable de Chiara ni segunda madre diseñada para competir con ella. Conserva agencia, vida propia y el costo de haber perdido a Meiko, San Aurelio y el vínculo diario con Chiara. Elenna desarrolla un apego real hacia Bonnie. Ese vínculo sobrevive al reencuentro con Kal y Chiara; la recuperación de convivencia con sus padres debe ser gradual y no borrar a Bonnie.
 
 **Ironía (adaptación DISEÑO de la ironía canon del 2026-10-14):** la salida que Chiara y Marisol la empujaron a buscar, para que no dependiera de nadie, es la que después permite poner a salvo a Elenna. Nadie lo prevé, y Bonnie no recibe a la niña como pago ni obligación. El cuidado de una hija que no es de su sangre conversa con su propia crianza adoptiva feliz; no explicarlo de antemano.
 
@@ -156,7 +156,7 @@ Ese aprendizaje la vuelve peligrosa de una forma nueva: una corredora que aprend
 
 - [[02_Characters/Chiara_Bellandi]] — protectora e instructora. Le enseña lectura de escenarios y reconducción.
 - [[02_Characters/Elenna_Mercer]] — niña a la que cuida durante su primer año, recibida desde Boston (lugar exacto PENDIENTE); vínculo propio que no desaparece cuando sus padres regresan.
-- [[02_Characters/Mei_Nakano]] — viene de la misma banda rival desintegrada.
+- [[02_Characters/Meiko_Nakano]] — viene de la misma banda rival desintegrada.
 - [[02_Characters/Kal_Mercer]] — cabeza de la organización donde entra, pero no su eje emocional principal.
 - [[02_Characters/Tyler_Brooks]] — comparte circuito joven de carreras.
 - [[03_Factions/Almendra_Towing]] — organización a la que se integra.
@@ -171,10 +171,10 @@ Ese aprendizaje la vuelve peligrosa de una forma nueva: una corredora que aprend
 
 > **PENDIENTE:** qué situación difícil reconduce por primera vez usando lo que Chiara le enseñó.
 
-> **PENDIENTE:** si Mei quiere salir también o si eso crea tensión entre ellas.
+> **PENDIENTE:** si Meiko quiere salir también o si eso crea tensión entre ellas.
 
 > **RESUELTO DE ARQUITECTURA (2026-08-31; corregido por CANON DEL AUTOR 2026-09-13):** durante el resguardo en Italia vive como **Roberta Ardizzone**, bajo la protección del apellido de Chiara. **PENDIENTES:** mecanismo documental, cobertura legal, apoyos y localización exacta. *(Superado 2026-11-07: Bonnie está en Boston; «Elenna Serra» e Italia, retiradas.)*
 
 ---
 
-Ver también: [[02_Characters/Chiara_Bellandi]] · [[02_Characters/Mei_Nakano]] · [[02_Characters/Elenna_Mercer]] · [[11_Books/Book_03_Voto_De_Ceniza/00_Book_Map]]
+Ver también: [[02_Characters/Chiara_Bellandi]] · [[02_Characters/Meiko_Nakano]] · [[02_Characters/Elenna_Mercer]] · [[11_Books/Book_03_Voto_De_Ceniza/00_Book_Map]]

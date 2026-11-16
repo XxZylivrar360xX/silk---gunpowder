@@ -10,17 +10,17 @@ Renumerado 2026-10-22 (decisión del autor): antes Cap. 45; numeración corrida 
 Estado: BORRADOR — Parte III — Ardizzone, nuevo Cap. 41 (segundo del arco final sin Kal, nuevos 40–47, archivos 44–50b). Redactado 2026-10-02, Claude Opus 5.5, conforme a [[11_Books/Book_01_Mascaras_De_Cristal/00_Plan_Arco_Final_Sin_Kal]] y a las craft policies (Redaccion_De_Capitulos, voice/, staging_rules/, dialogue_rules/). Pendiente de lectura del autor.
 Título: «Ropa limpia» — DECISIÓN DEL AUTOR (2026-11-10, retitulado de 47): se queda.
 Protagonista: Chiara Bellandi (POV único, tercera persona cercana). Kal no aparece salvo en una grabación de seguridad, de espaldas y sin cara.
-Personajes con diálogo: Kenji Oda, Mabel Ortiz, el recepcionista de noche de la Torre Norte, un guardia de seguridad (sin nombre), Bonnie García, Mei Nakano, Rosaura Quintero (nueva, DISEÑO: planchadora del turno de noche, comadre de Mabel).
+Personajes con diálogo: Kenji Oda, Mabel Ortiz, el recepcionista de noche de la Torre Norte, un guardia de seguridad (sin nombre), Bonnie García, Meiko Nakano, Rosaura Quintero (nueva, DISEÑO: planchadora del turno de noche, comadre de Mabel).
 Ventana temporal: madrugada del lun 20 dic (horas después de Lucía, nuevo 40) hasta el amanecer del mié 29 dic. Fechas en prosa sólo en la semana de espera (24–28 dic).
 Calendario (CANON DEL AUTOR 2026-10-06, [[13_Auditorias/Book_01_Mascaras_De_Cristal/Matriz_Temporal_Libro_I]]): el capítulo absorbe la semana extra de custodia, del mié 22 a ~mié 29 dic; aquí cae la Navidad sin Kal. Pasada de calendario hecha 2026-10-06 (DISEÑO, pendiente de lectura): Rosaura no ve la etiqueta la primera semana; la espera (24–28 dic) va en una sección de días contados entre la grabación y Bonnie, con el gesto diario de Mabel, el árbol del Monarch, la Nochebuena sola en el penthouse y La Esquina cerrada el 25. Las etiquetas aparecen las noches del 27 y el 28.
 Lugares: la caja del Monarch al cierre del conteo; La Esquina de Mabel; recepción y cuarto de seguridad de la Torre Norte; el despacho que fue de Matteo; el estacionamiento de una lavandería industrial en el Alder Cutoff, junto a la pista de carga de Kingsley Field.
-Función: "Su red". Chiara pasa de la vía institucional (nuevo 40) a la suya: i Sussurri (Kenji), la red civil (Mabel) y Bonnie con Mei. Lo que consigue es mínimo y verificable: una prueba de vida. Cierra sabiendo que está vivo y nada más.
+Función: "Su red". Chiara pasa de la vía institucional (nuevo 40) a la suya: i Sussurri (Kenji), la red civil (Mabel) y Bonnie con Meiko. Lo que consigue es mínimo y verificable: una prueba de vida. Cierra sabiendo que está vivo y nada más.
 - Prueba de vida (DISEÑO, opción "lavandería" del plan): Camp Alder subcontrata la ropa con una lavandería industrial de Kingsley; las bolsas del calabozo llevan etiqueta por apellido. Rosaura ve "MERCER" dos noches seguidas y la ropa le llega doblada en cuadro. La deducción ("si mandan ropa a lavar, alguien se la está poniendo") es de ella, no del narrador. Nada sobre su estado, trato o salida.
 - Kenji habla en voz alta en vez de escribir (ya lo hizo en el nuevo 13, archivo 12); el papel de Chiara lleva QUIS INTRAT CASTRA / ALDER. La información de Kenji llega como queja doméstica de contratistas (regla de la red civil).
 - Mabel no es subordinada: pone condiciones por Rosaura (permiso de trabajo) y no acepta la promesa de Chiara ("Eso no lo decides tú").
 - Recepción (plan: "el beat sale del final y hiere a mitad del arco"): Kal subió la tarde del sáb 18 (nuevo 39, en escena) y no tocó. DISEÑO: Chiara ve la grabación (pasillo, de espaldas, mano a medio levantar; no se le ven los labios) y manda borrarla y no pide copia: lo protege de que exista una imagen suya en su puerta la víspera de un delito federal. Con esto el beat de recepción del viejo 44 (`50_A_Oscuras.md`, l. 149–155) queda **duplicado y debe salir del nuevo 46 (archivo 50)** en su reescritura (terminal C).
 - Bonnie: Chiara la había apartado en el nuevo 38 (archivo 42, "Se acabó tu parte"); la vuelve a llamar. Una línea del Patio ("Nadir no duerme") siembra el nuevo 42 (archivo 46) sin abrirlo.
-- Mei: aporta horarios, cambio de turno y cámaras del lote (oficio de rutas del norte). «La vi en el yate» = *La Notte Bellandi* (nuevo 35). Su contacto sigue siendo Tommaso; no se adelanta F2. Su pregunta "¿Para qué quiere saber si está vivo, si no lo puede sacar?" es DISEÑO: legible como honestidad hoy y como sondeo en relectura; no es la siembra muda del nuevo 44 (archivo 48) ni delata nada.
+- Meiko: aporta horarios, cambio de turno y cámaras del lote (oficio de rutas del norte). «La vi en el yate» = *La Notte Bellandi* (nuevo 35). Su contacto sigue siendo Tommaso; no se adelanta F2. Su pregunta "¿Para qué quiere saber si está vivo, si no lo puede sacar?" es DISEÑO: legible como honestidad hoy y como sondeo en relectura; no es la siembra muda del nuevo 44 (archivo 48) ni delata nada.
 - No se nombra Halbrook, el expediente ni la incursión. Chiara evita el loft (va del Monarch a Kingsley y vuelve al Monarch).
 - Sin EPUB, commit ni push.
 - Regla de diálogo 05 (2026-10-28, DISEÑO, espera lectura): cortes de eco y turnos perdidos; [[98_Agent_Handoff/sessions/2026-10-28_claude_regla05_ropa_limpia_cap51]].
@@ -270,11 +270,11 @@ El 28 Mabel no movió la cabeza. Puso la taza en la barra, se limpió las manos 
 
 Bonnie llegó al despacho esa noche a las once, y no llegó sola.
 
-—Ella es Mei —dijo, desde la puerta—. Conoce Kingsley mejor que yo.
+—Ella es Meiko —dijo, desde la puerta—. Conoce Kingsley mejor que yo.
 
 —La vi en el yate —dijo Chiara.
 
-Mei asintió una vez. No se sentó. Caminó hasta el ventanal que daba al piso de juego y se quedó ahí, mirando las mesas desde arriba, con las manos en los bolsillos de una chaqueta de nailon que no era de su talla.
+Meiko asintió una vez. No se sentó. Caminó hasta el ventanal que daba al piso de juego y se quedó ahí, mirando las mesas desde arriba, con las manos en los bolsillos de una chaqueta de nailon que no era de su talla.
 
 Bonnie sí se sentó, en la silla frente al escritorio, la que había sido de los visitantes de Matteo. Tenía ojeras y el pelo recogido de prisa, y no había preguntado nada por teléfono: Chiara le había dicho *te necesito esta noche* y Bonnie había dicho *voy*.
 
@@ -294,25 +294,25 @@ Chiara no contestó a eso. Le explicó lo de la lavandería, y cuando terminó, 
 
 —¿Mei?
 
-—El turno de noche sale a las cinco y media, pero los camiones de la base salen antes —dijo Mei, sin voltear—. Como a las cinco, llenos. Regresan a las siete con lo sucio. La cámara del lote apunta a los andenes de carga, no a la calle. Del lado del Cutoff hay una tapia baja donde fuman los del turno, y ahí no hay luz. Si se estacionan ahí antes de que salgan los camiones, los choferes no las ven: van mirando la carretera. Y si se van antes de las siete, no las ven regresar.
+—El turno de noche sale a las cinco y media, pero los camiones de la base salen antes —dijo Meiko, sin voltear—. Como a las cinco, llenos. Regresan a las siete con lo sucio. La cámara del lote apunta a los andenes de carga, no a la calle. Del lado del Cutoff hay una tapia baja donde fuman los del turno, y ahí no hay luz. Si se estacionan ahí antes de que salgan los camiones, los choferes no las ven: van mirando la carretera. Y si se van antes de las siete, no las ven regresar.
 
 —¿Cómo sabes todo eso? —preguntó Chiara.
 
-—Corríamos por el Cutoff. —Mei se encogió de hombros—. Los de la lavandería salían a vernos.
+—Corríamos por el Cutoff. —Meiko se encogió de hombros—. Los de la lavandería salían a vernos.
 
 —Vamos en mi coche —dijo Bonnie—. Nadie en Kingsley voltea a ver mi coche.
 
-—¿Y si la mujer no quiere hablar cuando nos vea? —preguntó Mei.
+—¿Y si la mujer no quiere hablar cuando nos vea? —preguntó Meiko.
 
 —Entonces me voy —dijo Chiara.
 
-Mei se dio vuelta entonces. Miró a Chiara desde el ventanal, con la luz del piso de juego subiéndole por detrás, y ladeó un poco la cabeza.
+Meiko se dio vuelta entonces. Miró a Chiara desde el ventanal, con la luz del piso de juego subiéndole por detrás, y ladeó un poco la cabeza.
 
 —¿Para qué quiere saber si está vivo, si no lo puede sacar?
 
 —Mei —dijo Bonnie.
 
-Mei no retiró la pregunta. Tampoco insistió. Esperó.
+Meiko no retiró la pregunta. Tampoco insistió. Esperó.
 
 Chiara tenía una pluma en la mano. La dejó sobre el escritorio, alineada con el borde de la hoja fotocopiada que seguía ahí boca abajo desde el domingo de la semana anterior, con el sello y las dos palabras.
 
