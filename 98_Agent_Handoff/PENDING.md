@@ -34,6 +34,6 @@ Lista de fondo: [[98_Agent_Handoff/BACKLOG#Libros II y III]]. Prosa en espera ha
 - **Fichas de voz de la Parte III creadas (2026-11-09, DISEÑO, leer):** Bonnie, Meiko, Garrett, Tyler (poca evidencia), Blake, Ettore y Livia Rinaldi, en `12_Craft_Policies/voice/`.
 - **Propagación de la Parte II (2026-11-09):** el autor decide las dudas listadas en [[98_Agent_Handoff/sessions/2026-11-09_claude_propagacion_parte_II_resto]] (seguro de Vento, H16, POV de 32 y 34, entre otras).
 
-- **Portada y Nota Editorial:** portada ≥1600×2560 para KDP; título de `00_Nota_Editorial.md`, del autor.
+- **Portada y Nota Editorial:** portada ≥1600×2560 para KDP (concepto y prompts: [[99_Reference/book_covers/00_Portada_Mascaras_De_Cristal_Colombina]]; falta generar y elegir); título de `00_Nota_Editorial.md`, del autor.
 - **Referencias de numeración (2026-11-10):** 23 dudas (ocho de contenido): [[98_Agent_Handoff/sessions/2026-11-10_claude_referencias_dudosas]]. Otras 2 dudas y afirmaciones que el nuevo cauce volvió falsas: [[98_Agent_Handoff/sessions/2026-11-10_claude_referencias_56_a_47]].
 - Diferidos en [[98_Agent_Handoff/BACKLOG]]: reseña de Partes I–II (ChatGPT), diálogo de terceros (Parte I), protolectura de los caps. 1–8, Q24, cobros del Libro I, aura, Halbrook, Corrado/Manfred, mesa tres, *El Faro*, Cap. 34, susurro a Varga y «Usted es alta».
