@@ -19,7 +19,7 @@ SERIES = "Seda y Pólvora"
 SERIES_POSITION = "2"
 # Mantener fijo para conservar los marcadores del lector entre regeneraciones.
 IDENTIFIER = "urn:uuid:2bbb6f80-be4e-478a-8ff2-4a7348319358"
-COVER = "99_Reference/book_covers/Sombras_De_Poder_VICTOR_PAZ.png"
+COVER = "99_Reference/book_covers/Sombras_De_Poder_Vela_v1.png"
 
 # Añadir aquí los capítulos que el autor incorpore a la copia de lectura.
 # Las rutas son relativas a BOOK; el recolector conserva el orden de carpetas/archivos.

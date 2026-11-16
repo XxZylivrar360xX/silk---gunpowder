@@ -1,6 +1,6 @@
 # Portada de *Sombras de Poder*: la vela
 
-**Estado:** DISEÑO (2026-11-16); v1 compuesta, espera aprobación. El autor eligió el concepto «la vela y el collar» y, tras el choque con el canon, el prompt A sin collar. Las imágenes generadas son referencia, no canon. Sustituye como dirección a [[99_Reference/book_covers/Sombras_De_Poder_VICTOR_PAZ.png]] (ajedrez con la reina blanca caída), que se conserva hasta que se apruebe la nueva.
+**Estado:** DECISIÓN DEL AUTOR (2026-11-16): v1 aprobada como portada. El autor eligió el concepto «la vela y el collar» y, tras el choque con el canon, el prompt A sin collar. Las imágenes generadas son referencia, no canon. Sustituye como dirección a [[99_Reference/book_covers/Sombras_De_Poder_VICTOR_PAZ_v0_retirada.png]] (ajedrez con la reina blanca caída), retirada el 2026-11-16 y conservada con ese nombre.
 
 ## Por qué este concepto
 
@@ -65,5 +65,5 @@ Las mismas de [[99_Reference/book_covers/00_Portada_Mascaras_De_Cristal_Colombin
 
 ## Pendiente
 
-- El autor aprueba la v1 o pide ajustes. Al aprobarla, apuntar `COVER` de `tools/build_sombras.py` (hoy, la portada del ajedrez en el EPUB de lectura) a la v1 y renombrar la vieja como retirada.
+- **Aprobada por el autor (2026-11-16):** la v1 es la portada del EPUB de lectura (`COVER` de `tools/build_sombras.py`).
 - Escalado por IA de la base antes de la versión impresa.

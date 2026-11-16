@@ -6,7 +6,7 @@
 
 - **Lo que dice el título:** una máscara de cristal tapa la cara, pero quien sabe mirar ve lo que hay detrás. Es lo que pasa en el libro: Mac oculta a Kal ante todos; «Mandorla» lo nombra de forma que sólo él lo entiende; la sonrisa de las juntas no le sirve a Chiara con Kal. En la portada, el cristal es la ventanilla (o el espejo), no la máscara.
 - **Imagen canon:** cierre del Cap. 11, *La Sargenta* (archivo 08b): «en el asiento de atrás, negra sobre el trapo, iba una máscara que Kal vio por el espejo, no recogió y no salió a devolverle». Es una noche que ninguno de los dos olvida, no una tragedia.
-- **Corrige la portada anterior:** quita la promesa de ruptura (máscara rota, pistola) y la máscara veneciana genérica, y deja de repetir el objeto caído de [[99_Reference/book_covers/Sombras_De_Poder_VICTOR_PAZ.png]].
+- **Corrige la portada anterior:** quita la promesa de ruptura (máscara rota, pistola) y la máscara veneciana genérica, y deja de repetir el objeto caído de [[99_Reference/book_covers/Sombras_De_Poder_VICTOR_PAZ_v0_retirada.png]].
 
 ## Lo que fija el canon (no contradecir)
 
