@@ -124,13 +124,13 @@ Niveles:
 |---|---:|---:|---|---|
 | [[02_Characters/Harper_Walker]] | B/C | 45% | II-IV | protegida operativa, norte rural |
 | [[02_Characters/Tyler_Brooks]] | C | 35% | I-IV | carreras, red joven |
-| [[02_Characters/Mei_Lin_Zhao]] | C | 35% | II-IV | ex banda rival, conducción fría |
+| [[02_Characters/Mei_Nakano]] | C | 35% | II-IV | ex banda rival, conducción fría |
 | [[02_Characters/Bonnie_Garcia]] | B/C | 45% | II-V | protegida de Chiara, salida posible |
 | [[02_Characters/Ren_Wei]] | C | 35% | III-IV | salto moral a suministro |
 | [[02_Characters/Russell_Whitaker]] | B | 55% | III-V | política municipal |
 | [[02_Characters/Garrett_Cross]] | B | 55% | III-V | activos, lavado, papel |
 
-**Riesgo:** Harper, Tyler, Mei-Lin, Bonnie y Ren no deben convertirse todos en protagonistas. Deben sentirse como generación de El Patio. Uno o dos pueden tener miniarco; los demás funcionan por escenas precisas.
+**Riesgo:** Harper, Tyler, Mei, Bonnie y Ren no deben convertirse todos en protagonistas. Deben sentirse como generación de El Patio. Uno o dos pueden tener miniarco; los demás funcionan por escenas precisas.
 
 **Recomendación:** dar miniarco fuerte a Harper o Bonnie, no a las cinco personas del núcleo joven.
 
@@ -216,7 +216,7 @@ Niveles:
 
 ### Fase III — Autonomía
 
-**Activos:** El Patio joven, Russ, Garrett, Bonnie, Mei-Lin, Ren al final o preparación, El Faro, Claire Han, bandas del sur.
+**Activos:** El Patio joven, Russ, Garrett, Bonnie, Mei, Ren al final o preparación, El Faro, Claire Han, bandas del sur.
 
 **Entradas recomendadas:** Cross River, Russ, Breakwater Saints, Álamo Salvage.
 

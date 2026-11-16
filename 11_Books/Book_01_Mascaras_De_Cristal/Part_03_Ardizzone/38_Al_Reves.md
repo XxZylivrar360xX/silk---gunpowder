@@ -1,14 +1,14 @@
 <!--
 Nuevo cauce (Fase 4, 2026-11-08, orden del autor con el método de [[98_Agent_Handoff/encargos/ENCARGO_Fase4_Paralelo_Reusa]]; verbo «Reescribe y poda», fuera del reparto Reusa): **nuevo Cap. 35** (T22, POV Kal, en [[11_Books/Book_01_Mascaras_De_Cristal/00_Mapa_Cauce_Cap11_Camp_Alder]]). Cambia de dueño: antes era 69 % Chiara. El archivo conserva su nombre. Título confirmado por el autor (2026-09-27): «Al revés».
 Estado: BORRADOR. Prosa DISEÑO pendiente de lectura del autor. Versión anterior íntegra, con todo su historial (E6, conciliación con el 24c, víspera, regla 05, Frente 1, costura H13): [[11_Books/Book_01_Mascaras_De_Cristal/Escenas_Eliminadas/38_Al_Reves_Version_2026-11-08]]. Sesión: [[98_Agent_Handoff/sessions/2026-11-08_claude_fase4_cap35_al_reves]]. Ajuste de la terminal B (poda a ~4,900, Mabel, fecha, pañuelo comprimido, sin Dario): [[98_Agent_Handoff/sessions/2026-11-08_claude_fase4_cap35_ajuste_terminal_b]].
-Recibe de *Cuatro letras* (archivo 37, fila 34 del mapa): la carta *La Notte Bellandi*, el beso de labial, «—Chiara», El Patio que crece alrededor de Kal, Bonnie y Mei-Lin con nombre («de una banda del norte que ya no existía»), «lo que anda buscando el jefe», el gag de «Roma» (sólo Nadir y Bonnie), la línea de la cocaína y Mabel con «Que sepa qué se celebra». Acción de Gracias, Walt, Héctor y el gag de Danny salen. La ferretería va al nuevo 30. (DECISIÓN DEL AUTOR 2026-11-08, ajuste de la terminal B.) *Cuatro letras* se retira a [[11_Books/Book_01_Mascaras_De_Cristal/Escenas_Eliminadas/37_Cuatro_Letras_Version_2026-11-08]].
+Recibe de *Cuatro letras* (archivo 37, fila 34 del mapa): la carta *La Notte Bellandi*, el beso de labial, «—Chiara», El Patio que crece alrededor de Kal, Bonnie y Mei con nombre («de una banda del norte que ya no existía»), «lo que anda buscando el jefe», el gag de «Roma» (sólo Nadir y Bonnie), la línea de la cocaína y Mabel con «Que sepa qué se celebra». Acción de Gracias, Walt, Héctor y el gag de Danny salen. La ferretería va al nuevo 30. (DECISIÓN DEL AUTOR 2026-11-08, ajuste de la terminal B.) *Cuatro letras* se retira a [[11_Books/Book_01_Mascaras_De_Cristal/Escenas_Eliminadas/37_Cuatro_Letras_Version_2026-11-08]].
 Decisiones del autor para esta versión (2026-11-08): (1) la bala del corral es la que mató a Vento y Kal la guardó; su investigación llega a un apellido, pero **nadie dice «Volpi» en el texto ni hay acento italiano ni prolepsis** (el nombre se lee hasta el 36); (2) el avión sale de Kingsley **a la una**, y no a las cuatro, para que lleguen a Palermo el sábado 11 en la noche; (3) la víspera, comprimida; (4) de *Cuatro letras* se quedan la cocaína, Roma con Nadir y Bonnie, y Mabel; (5) Kal lee la carta el jueves 25 nov, Acción de Gracias, como se sigue del nuevo 34 (las invitaciones llegan el miércoles y esa noche Chiara programa la cafetera); vuelven, ligeros, «los feriados eran de choques» y Mabel con los platos gratis y los pavos pagados; (6) el relato de Cuesta Bonita en el yate se comprime a dos frases (el pañuelo vive en *Grazie*).
 Se conserva literal (CANON DEL AUTOR): el texto de la carta; el beso junto al nombre; «—Chiara»; «Pon tu casa en orden, señora Ardizzone, o hablaremos de este Mercer tuyo.»; «Me queda una noche antes de irme.»; «Bien. Entonces nos vamos a Italia.»; *Träumerei*; «Mi amor del patio»; las líneas de Marisol y la última línea, «—Espera... ¿cómo que estamos?».
-DISEÑO de esta versión: la bala sacada del tablón de la cerca; el molde del armero de Cedar Flats; el chofer de Kingsley que encuentra Tyler; el apellido oído por teléfono en un motel de Milla; Kal lo anota en la libreta de los fiados, debajo de las fechas del Tasador, y no se lo dice a Chiara (cuadra con el 36: nadie dice el nombre). Mei-Lin sirve en el catering de la empresa que viene con el barco, no en una contratista del Monarch. Kal sólo oye «Terminé contigo por ti». Dario sale del yate (poda a ~4,800). Sin proa larga, sin brindis de Fabrizio, sin Nadir ni Héctor en el barco.
+DISEÑO de esta versión: la bala sacada del tablón de la cerca; el molde del armero de Cedar Flats; el chofer de Kingsley que encuentra Tyler; el apellido oído por teléfono en un motel de Milla; Kal lo anota en la libreta de los fiados, debajo de las fechas del Tasador, y no se lo dice a Chiara (cuadra con el 36: nadie dice el nombre). Mei sirve en el catering de la empresa que viene con el barco, no en una contratista del Monarch. Kal sólo oye «Terminé contigo por ti». Dario sale del yate (poda a ~4,800). Sin proa larga, sin brindis de Fabrizio, sin Nadir ni Héctor en el barco.
 Costura de apertura: cerrada con el nuevo 34 (archivo 36, BORRADOR): Chiara programa la cafetera la noche en que firma las invitaciones (miércoles 24) y a la mañana siguiente, el jueves 25 nov (Acción de Gracias), apoya el sobre contra ella antes de irse al Monarch.
 Costura de cierre: deja listo el nuevo 36. Salen esa noche, Kal ya sospecha de la Mesa por un apellido y Kal sabe por Chiara que Valenti dijo «Mercer» en Cuesta Bonita.
 Protagonista: Kal Mercer (POV único, tercera persona cercana).
-Personajes con diálogo: Kal, Chiara, Nadir Amrani, Danny Hayes, Bonnie García, Mei-Lin Zhao, Tyler Brooks, Mabel Ortiz, el armero de Cedar Flats (sin nombre), Rudy (el chofer de Kingsley), Blake Stanton, Marisol Grayson.
+Personajes con diálogo: Kal, Chiara, Nadir Amrani, Danny Hayes, Bonnie García, Mei Nakano, Tyler Brooks, Mabel Ortiz, el armero de Cedar Flats (sin nombre), Rudy (el chofer de Kingsley), Blake Stanton, Marisol Grayson.
 Cameos sin diálogo: el jefe de seguridad del Monarch, Kenji Oda, Harper Walker, el capitán del Departamento, los Ferretti, Tommaso Lusardi, el piloto.
 Ventana temporal: jueves 25 nov, Acción de Gracias (carta, taller y La Esquina); primera semana de diciembre (la bala); viernes 10 dic, de las ocho de la noche a la una menos algo de la madrugada del sábado (yate y Kingsley).
 Lugares: el loft; Almendra Towing / El Patio; La Esquina de Mabel; Cedar Flats; un motel de la Milla; la marina de [[05_Locations/San_Aurelio|La Isla]] (cubierta, popa, muelle, salón con piano); terminal privada de [[05_Locations/Norte_Rural_de_San_Aurelio|Kingsley Field]].
@@ -87,7 +87,7 @@ Kal no contestó.
 
 —Safi —dijo Nadir, y volvió al mostrador.
 
-En la bahía del fondo había un sedán gris que la grúa había traído al amanecer y una chica con medio cuerpo bajo el capó. Bonnie. Había llegado hacía poco con Mei-Lin, las dos de una banda del norte que ya no existía; Kal no había preguntado más y ninguna había ofrecido más. Desde entonces aparecían temprano, hacían lo que había y se iban sin que hiciera falta decirles a qué hora.
+En la bahía del fondo había un sedán gris que la grúa había traído al amanecer y una chica con medio cuerpo bajo el capó. Bonnie. Había llegado hacía poco con Mei, las dos de una banda del norte que ya no existía; Kal no había preguntado más y ninguna había ofrecido más. Desde entonces aparecían temprano, hacían lo que había y se iban sin que hiciera falta decirles a qué hora.
 
 —El de la grúa dijo batería —dijo Bonnie, sin sacar la cabeza—. No es batería. Es la bomba.
 
@@ -99,7 +99,7 @@ Kal miró y tardó lo que tardaba en confirmar lo que ya sabía.
 
 Lo movió en una sola maniobra, con una sola mirada al espejo, hasta la bahía de Danny.
 
-Mei-Lin estaba sentada en el guardafango de la camioneta de al lado con un café de la máquina que nadie usaba.
+Mei estaba sentada en el guardafango de la camioneta de al lado con un café de la máquina que nadie usaba.
 
 —Tyler pregunta por la del norte —le dijo Kal—. Kingsley Field.
 
@@ -115,7 +115,7 @@ Kal asintió. Hasta esa mañana no había tenido a quién preguntarle eso.
 
 —Si es un coche, no lo conozco. Si es una carrera, tampoco. —Alzó los ojos un segundo—. Lo más cerca que tengo es Alfa Romeo, y no es.
 
-Mei-Lin se llevó el café a la boca con la cara de quien prefiere no preguntar qué anda buscando el jefe.
+Mei se llevó el café a la boca con la cara de quien prefiere no preguntar qué anda buscando el jefe.
 
 A la una, La Esquina tenía la cortina a medio bajar y un cartel escrito a mano: CERRADO — THANKSGIVING. PLATOS DE 12 A 3. La fila salía hasta la acera. Mabel lo vio por encima de las cabezas y no le cobró nada, ni el plato ni lo otro: los pavos habían llegado el martes, pagados, y ninguno de los dos lo iba a mencionar.
 
@@ -193,7 +193,7 @@ Cabían tres fiestas: la del Monarch cerca de la barra, con los Ferretti hablán
 
 Y Tyler junto a la mesa de los quesos, hablándole a la que llevaba la charola.
 
-Era Mei-Lin. Camisa blanca, el pelo recogido, el delantal negro del catering que venía con el barco. Esa tarde Kal la había dejado bajo un Ford, con grasa hasta el codo. Tyler le decía algo y ella le sostenía la charola a la altura justa sin darle la cara, como si la charola fuera la que escuchaba. Cuando vio a Kal, no bajó los ojos. Le ofreció un queso como se lo habría ofrecido a cualquiera y siguió hacia la popa.
+Era Mei. Camisa blanca, el pelo recogido, el delantal negro del catering que venía con el barco. Esa tarde Kal la había dejado bajo un Ford, con grasa hasta el codo. Tyler le decía algo y ella le sostenía la charola a la altura justa sin darle la cara, como si la charola fuera la que escuchaba. Cuando vio a Kal, no bajó los ojos. Le ofreció un queso como se lo habría ofrecido a cualquiera y siguió hacia la popa.
 
 Kal no dijo nada. Se lo guardó.
 
@@ -517,7 +517,7 @@ Ella abrió los ojos. Kal le vio pasar por la cara tres o cuatro objeciones, ord
 
 Cuando abrieron la puerta del salón, el viento y la música entraron de golpe.
 
-La fiesta se fue terminando sin que nadie decidiera cuándo. En la baranda de popa, Kenji Oda, sin el chaleco del Monarch por una vez, le dijo algo a Marisol, y Marisol se quedó quieta medio segundo, cosa que no hacía nunca, antes de irse en el coche de alguien gritándole a Kal desde la pasarela que la llamara. Mei-Lin recogía copas de la baranda sin mirar a nadie.
+La fiesta se fue terminando sin que nadie decidiera cuándo. En la baranda de popa, Kenji Oda, sin el chaleco del Monarch por una vez, le dijo algo a Marisol, y Marisol se quedó quieta medio segundo, cosa que no hacía nunca, antes de irse en el coche de alguien gritándole a Kal desde la pasarela que la llamara. Mei recogía copas de la baranda sin mirar a nadie.
 
 Nadie sabía que se despedían de algo. Sólo ella. Y él.
 

@@ -190,7 +190,7 @@ En la prosa (BORRADOR, función CANON DEL AUTOR), el pago a Dario **son las arma
 
 ## Quinta ronda: el trabajo para Crowe en el arco sin Kal (2026-11-01)
 
-**DECISIÓN DEL AUTOR:** (1) se ve en **señales desde Chiara**, que lo ve y no lo interpreta (misma técnica que Mei-Lin en el Cap. 44 (archivo 48)); POV único del arco intacto. (2) El trabajo es **mover algo en la grúa**: lo mismo que Chiara le negó a Dario en el Cap. 43 (archivo 47) («cuando haga falta mover algo, se mueve»). (3) Lo trae **el chico de la vulcanizadora** (el de la gorra al revés del Cap. 11 (archivo 09)) y lo acepta **Nadir**, que lleva las cuentas; Héctor no se entera. Sustituye el C-4 y cierra las preguntas de la segunda ronda (Chiara no lo sabe en el I; dónde se ve). **Aplicado (prosa DISEÑO, espera lectura):**
+**DECISIÓN DEL AUTOR:** (1) se ve en **señales desde Chiara**, que lo ve y no lo interpreta (misma técnica que Mei en el Cap. 44 (archivo 48)); POV único del arco intacto. (2) El trabajo es **mover algo en la grúa**: lo mismo que Chiara le negó a Dario en el Cap. 43 (archivo 47) («cuando haga falta mover algo, se mueve»). (3) Lo trae **el chico de la vulcanizadora** (el de la gorra al revés del Cap. 11 (archivo 09)) y lo acepta **Nadir**, que lleva las cuentas; Héctor no se entera. Sustituye el C-4 y cierra las preguntas de la segunda ronda (Chiara no lo sabe en el I; dónde se ve). **Aplicado (prosa DISEÑO, espera lectura):**
 
 | Cap. | Arch. | Señal |
 |---|---|---|

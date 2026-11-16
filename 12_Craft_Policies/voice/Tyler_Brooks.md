@@ -20,7 +20,7 @@ Le echa un ojo al motor por la rejilla, con el gesto de quien tasa sin tocar. Di
 
 ## Contraste deliberado con otro personaje
 
-Frente a Mei-Lin: los dos saben rutas; Tyler las organiza para otros, Mei-Lin las corrió para ganar. Frente a Kal: Kal ve infraestructura; Tyler ve gente, horarios y quién no debería estar ahí (la ficha).
+Frente a Mei: los dos saben rutas; Tyler las organiza para otros, Mei las corrió para ganar. Frente a Kal: Kal ve infraestructura; Tyler ve gente, horarios y quién no debería estar ahí (la ficha).
 
 ## Bajo presión
 

@@ -7,14 +7,14 @@ capitulo: 37
 pov: Kal Mercer, único
 ventana_temporal: finales de abril A4, cuatro días después de las latas; de la mañana a la noche
 localizacion: la oficina de Varek sobre el palco de propietarios del hipódromo del Monarch; el galpón de Almendra Towing; El Patio, de noche; la Villa Candelaria
-personajes: Kal Mercer, Dario Varek, Nadir Amrani, Héctor Navarro, Mei-Lin Zhao; al final, Chiara Bellandi
+personajes: Kal Mercer, Dario Varek, Nadir Amrani, Héctor Navarro, Mei Nakano; al final, Chiara Bellandi
 ---
 
-> **Estado:** BORRADOR del agente (Claude Code, 2026-11-13), para lectura del autor. Segundo capítulo del arco de Mei-Lin. Fuente: [[11_Books/Book_02_Sombras_De_Poder/00_Guia_Redaccion_Capitulos]], ficha del 37.
+> **Estado:** BORRADOR del agente (Claude Code, 2026-11-13), para lectura del autor. Segundo capítulo del arco de Mei. Fuente: [[11_Books/Book_02_Sombras_De_Poder/00_Guia_Redaccion_Capitulos]], ficha del 37.
 >
-> **CANON (hechos):** «Lo del hermano queda saldado» (CANON 2026-11-07) es lo que delata a Mei-Lin; Kal se lo dice sólo a Nadir y a Héctor; Héctor le pide calma porque es una niña que actuó por miedo (sentido del autor, no línea literal); Kal pospone el juicio hasta acabar la operación y se lo dice a Mei-Lin; no se lo dice a Chiara. **DISEÑO del agente:** la reunión en el hipódromo; el dato con que Varek se delata («el primer tiro fue para un almendro», que Kal no le contó a Chiara); las razones para llevarla a la operación; la conversación nocturna completa con Mei-Lin («Cuando usted lo dijo ya era tarde»; la pregunta de quién pagó; el «Jefe…» que Kal corta con «Después.»). **PENDIENTE que la prosa sostiene sin resolver:** qué filtró Mei-Lin con exactitud, más allá de lo que veía sirviendo en las salas de Chiara. **Guarda:** nada del Lancia ni de los frenos; nada de Tommaso; Varek no queda probado más allá de que su gente sabe.
+> **CANON (hechos):** «Lo del hermano queda saldado» (CANON 2026-11-07) es lo que delata a Mei; Kal se lo dice sólo a Nadir y a Héctor; Héctor le pide calma porque es una niña que actuó por miedo (sentido del autor, no línea literal); Kal pospone el juicio hasta acabar la operación y se lo dice a Mei; no se lo dice a Chiara. **DISEÑO del agente:** la reunión en el hipódromo; el dato con que Varek se delata («el primer tiro fue para un almendro», que Kal no le contó a Chiara); las razones para llevarla a la operación; la conversación nocturna completa con Mei («Cuando usted lo dijo ya era tarde»; la pregunta de quién pagó; el «Jefe…» que Kal corta con «Después.»). **PENDIENTE que la prosa sostiene sin resolver:** qué filtró Mei con exactitud, más allá de lo que veía sirviendo en las salas de Chiara. **Guarda:** nada del Lancia ni de los frenos; nada de Tommaso; Varek no queda probado más allá de que su gente sabe.
 >
-> **Depende de capítulos sin redactar:** Lunar Pearl (26), la deuda de Yun-Kai (23), la esquina perdida (35). La operación contra el corralón de los Calderos (D9) es el 38.
+> **Depende de capítulos sin redactar:** Lunar Pearl (26), la deuda de Kaito (23), la esquina perdida (35). La operación contra el corralón de los Calderos (D9) es el 38.
 
 # Lo del hermano
 
@@ -74,7 +74,7 @@ En el estacionamiento del hipódromo había sol, y gente del establo que fumaba 
 
 Se pasó la mano por la cara.
 
-No se lo había dicho a Chiara. Eso fue lo primero que pensó, y lo pensó con un alivio que le dio vergüenza en cuanto lo sintió. A Chiara le había contado las cinco latas, la pistola por la culata, que Mei-Lin tiraba mejor que él. No le había contado el almendro. Bonnie le había dado al árbol en el primer tiro, y había bajado la pistola despacio, y había dicho «Le di al árbol», y él había repetido «Le diste al árbol», y nadie más había estado ahí para oírlo. Él. Bonnie. Mei-Lin, en el capó.
+No se lo había dicho a Chiara. Eso fue lo primero que pensó, y lo pensó con un alivio que le dio vergüenza en cuanto lo sintió. A Chiara le había contado las cinco latas, la pistola por la culata, que Mei tiraba mejor que él. No le había contado el almendro. Bonnie le había dado al árbol en el primer tiro, y había bajado la pistola despacio, y había dicho «Le di al árbol», y él había repetido «Le diste al árbol», y nadie más había estado ahí para oírlo. Él. Bonnie. Mei, en el capó.
 
 Bonnie no. Lo supo antes de pensarlo, como sabía que un motor no tenía la falla donde el dueño decía. Bonnie se lo había dicho todo siempre, a él, en el orden en que pasaba, y lo que no le decía a él no se lo decía a nadie.
 
@@ -174,7 +174,7 @@ Héctor asintió una vez. Nadir no asintió, pero tampoco dijo que no.
 
 La buscó esa misma noche.
 
-El taller cerraba a las ocho. A las diez ya no quedaba nadie más que la luz de la oficina, que Garrett dejaba encendida para que de la calle pareciera que había alguien, y el perro del lote de al lado, que se acostaba junto a la cerca a ver pasar los coches. Kal le mandó un mensaje a Mei-Lin. Cinco palabras: «Ven al taller. Estoy solo.»
+El taller cerraba a las ocho. A las diez ya no quedaba nadie más que la luz de la oficina, que Garrett dejaba encendida para que de la calle pareciera que había alguien, y el perro del lote de al lado, que se acostaba junto a la cerca a ver pasar los coches. Kal le mandó un mensaje a Mei. Cinco palabras: «Ven al taller. Estoy solo.»
 
 Ella tardó veinte minutos en contestar. Contestó «Voy».
 
@@ -190,13 +190,13 @@ Kal siguió limpiando la bomba.
 
 —Fui a ver a Varek esta mañana —dijo.
 
-Mei-Lin no contestó.
+Mei no contestó.
 
 —Me preguntó por las latas. —Le dio la vuelta a la pieza—. Me dijo que el primer tiro de Bonnie fue para un almendro.
 
 El perro del lote de al lado se levantó, se sacudió y se volvió a acostar. Se oyó el tintineo de la placa en el collar.
 
-Mei-Lin estuvo callada un rato largo. No miraba a Kal. Miraba la llanta debajo de su mano, y con el pulgar le iba siguiendo una grieta del hule, despacio, hacia un lado y hacia el otro.
+Mei estuvo callada un rato largo. No miraba a Kal. Miraba la llanta debajo de su mano, y con el pulgar le iba siguiendo una grieta del hule, despacio, hacia un lado y hacia el otro.
 
 —No le dije de Bonnie —dijo al fin—. Le dije del árbol.
 
@@ -222,9 +222,9 @@ Kal dejó la bomba sobre el banco. Dobló el trapo en dos, y otra vez en dos, y 
 
 —¿Por qué?
 
-Mei-Lin, por primera vez, levantó la vista de la llanta.
+Mei, por primera vez, levantó la vista de la llanta.
 
-—Por Yun-Kai —dijo—. Después de Navidad ya no le di nada, y él dejó de pagar. Vinieron por mí. Dos. A la salida del Monarch, a las dos de la mañana. Me dijeron que la deuda era de la familia y que yo era la familia que quedaba. —Lo dijo plano, como daba la hora de un cruce—. Me dijeron que podía pagar en dinero o en plática. Que la plática salía más barata.
+—Por Kaito —dijo—. Después de Navidad ya no le di nada, y él dejó de pagar. Vinieron por mí. Dos. A la salida del Monarch, a las dos de la mañana. Me dijeron que la deuda era de la familia y que yo era la familia que quedaba. —Lo dijo plano, como daba la hora de un cruce—. Me dijeron que podía pagar en dinero o en plática. Que la plática salía más barata.
 
 —Y elegiste la plática.
 
@@ -232,7 +232,7 @@ Mei-Lin, por primera vez, levantó la vista de la llanta.
 
 Kal asintió. No había nada que decir a eso. Él tampoco lo había tenido, a esa edad, y a su casa no había ido nadie a ofrecerle la plática.
 
-—En febrero dejaron de cobrarme el dinero —dijo ella—. Un día ya no estaban afuera del Monarch. Pensé que Yun-Kai había pagado. Fui a preguntarle. No tenía ni para el camión. —Volvió a bajar la vista a la llanta—. El dinero dejaron de cobrarlo. La plática no.
+—En febrero dejaron de cobrarme el dinero —dijo ella—. Un día ya no estaban afuera del Monarch. Pensé que Kaito había pagado. Fui a preguntarle. No tenía ni para el camión. —Volvió a bajar la vista a la llanta—. El dinero dejaron de cobrarlo. La plática no.
 
 Se quedaron callados.
 
@@ -256,7 +256,7 @@ Kal no supo qué contestar a eso. Tenía razón. Lo había dicho hacia la cerca,
 
 —El jueves es lo del corralón —dijo.
 
-Mei-Lin asintió sin levantar la vista.
+Mei asintió sin levantar la vista.
 
 —Vas a ir. Vas a hacer lo que te toca: las salidas, la calle de atrás, lo que hablamos con Nadir. Nadie más sabe esto. Ni los muchachos ni Bonnie. —Esperó a que ella lo mirara, y ella lo miró—. Cuando acabe lo del corralón, hablamos. Tú, yo, Nadir y Héctor. Y ahí se decide.
 

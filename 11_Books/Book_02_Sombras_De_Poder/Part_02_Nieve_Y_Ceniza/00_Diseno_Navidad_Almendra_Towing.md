@@ -33,7 +33,7 @@ No encontré otros choques. La ficha de Kal (el collar es la única excepción a
 
 > **Nuevo (DECISIÓN DEL AUTOR, 2026-11-12):** en la cena se toman una foto con todos los chicos de la banda, sonriendo y felices. Pasa de largo, sin peso de presagio. **La toma Chiara** con el teléfono de Kal (DECISIÓN DEL AUTOR, 2026-11-13); en la foto, Kal mira por encima de la cámara, a ella. Se cobra en el cap. 38, con Chiara rota en el suelo de la Villa, y vuelve como eco en el final. Detalle: ficha del cap. 20 de [[11_Books/Book_02_Sombras_De_Poder/00_Guia_Redaccion_Capitulos]].
 >
-> **Superado (DECISIÓN DEL AUTOR, 2026-11-12, Fase 3, R10):** la secuencia va en **un solo capítulo en POV de Kal** (nuevo 20, [[11_Books/Book_02_Sombras_De_Poder/00_Mapa_Boceto_A_Tarjetas]]). La razón: el canon pone a Yun-Kai en los ojos de Kal, y la transacción que no llega se lee desde dentro de él. La recomendación de arriba se conserva como historial.
+> **Superado (DECISIÓN DEL AUTOR, 2026-11-12, Fase 3, R10):** la secuencia va en **un solo capítulo en POV de Kal** (nuevo 20, [[11_Books/Book_02_Sombras_De_Poder/00_Mapa_Boceto_A_Tarjetas]]). La razón: el canon pone a Kaito en los ojos de Kal, y la transacción que no llega se lee desde dentro de él. La recomendación de arriba se conserva como historial.
 
 ### 1. Apertura: la petición (23 dic, fin de turno, ~18:00)
 
@@ -82,7 +82,7 @@ No encontré otros choques. La ficha de Kal (el collar es la única excepción a
 - Vuelven a entrar y la fiesta sigue viva. El collar va bajo la camisa y nadie lo nota. No usar aquí el recurso de «lo ve Nadir y calla», que ya tiene el anillo del cap. 26 (boceto 33).
 - Después vendría la mañana del 25 en la Villa, que es territorio de la nota hermana.
 
-> **CANON DEL AUTOR (2026-11-07) — Yun-Kai en la cena.** Esa noche aparece Yun-Kai, el hermano mayor de [[02_Characters/Mei_Lin_Zhao|Mei-Lin]], a pedirle dinero para sus deudas de juego (con la gente de Varek). Ella le grita que se largue, que ya no va a pagar nada más por él: las palabras de Kal le abrieron los ojos. Abre el arco de Kal descubriendo a Mei-Lin. Matiza la fila de Mei-Lin en «Composición de la mesa»: el estallido es carácter, no presagio de F2. **Resuelto (CANON, 2026-11-07):** durante la cena, antes de medianoche y antes del collar; Yun-Kai no entra, ella sale al portón; sólo Kal lo ve y no interviene. Al volver: «¿Todo bien?» / «Todo bien, jefe.» Detalle en su ficha.
+> **CANON DEL AUTOR (2026-11-07) — Kaito en la cena.** Esa noche aparece Kaito, el hermano mayor de [[02_Characters/Mei_Nakano|Mei]], a pedirle dinero para sus deudas de juego (con la gente de Varek). Ella le grita que se largue, que ya no va a pagar nada más por él: las palabras de Kal le abrieron los ojos. Abre el arco de Kal descubriendo a Mei. Matiza la fila de Mei en «Composición de la mesa»: el estallido es carácter, no presagio de F2. **Resuelto (CANON, 2026-11-07):** durante la cena, antes de medianoche y antes del collar; Kaito no entra, ella sale al portón; sólo Kal lo ve y no interviene. Al volver: «¿Todo bien?» / «Todo bien, jefe.» Detalle en su ficha.
 
 ## Juegos (elegir uno)
 
@@ -90,7 +90,7 @@ No encontré otros choques. La ficha de Kal (el collar es la única excepción a
 |---|---|---|---|---|
 | **A (recomendado)** | **Lotería y tombola.** Lotería de cartas con frijoles; Chiara reconoce el juego: «Es la tombola». | **Mabel**, que canta las cartas con sus versos de mostrador. Chiara le contesta con las costumbres de la tombola. | La lotería es Nochebuena del barrio y la tombola es Nochebuena del sur de Italia: el juego es el mismo y se encuentran dos familias. Invierte las clases de italiano, porque aquí Chiara es la alumna en el mundo de Kal. Escala a 30 personas, se juega en la mesa y deja ver quién hace trampa (Danny), quién la descubre (Marisol) y quién se toma el premio como asunto de honor (Walt). | Pide cuidado para no volverse un catálogo folclórico. *Opción:* usar las fichas del Monarch como frijoles. |
 | B | **Mímica por equipos** (películas o refranes). Equipos mezclados, no taller contra casino. | Danny | Comedia física. Kal obligado a actuar con la cara seria; Harper se niega y luego gana. | Se lee menos «Navidad». Las películas que se nombren son calibración y no deben volverse referencias de peso. |
-| C | **«¿Quién fue?»** (la propuesta de ChatGPT): anécdotas anónimas en una caja que los demás adivinan. | Marisol | Diferencia voces y vínculos. | Leer 30 anécdotas es largo. Con este reparto es fácil que alguna anécdota roce lo criminal y se vuelva exposición, y la incomodidad de Mei-Lin al tener que contar algo verdadero sería presagio. Si se usa, limitarlo a 6–8 lecturas. |
+| C | **«¿Quién fue?»** (la propuesta de ChatGPT): anécdotas anónimas en una caja que los demás adivinan. | Marisol | Diferencia voces y vínculos. | Leer 30 anécdotas es largo. Con este reparto es fácil que alguna anécdota roce lo criminal y se vuelva exposición, y la incomodidad de Mei al tener que contar algo verdadero sería presagio. Si se usa, limitarlo a 6–8 lecturas. |
 
 ## Composición de la mesa
 
@@ -104,7 +104,7 @@ No encontré otros choques. La ficha de Kal (el collar es la única excepción a
 | **Danny** | Abraza antes de que el otro decida y hace trampa en el juego. | Rápido, se ríe solo. |
 | **Harper** | Corta verdura sin hablar, gana la mímica si se elige la B. Pregunta dos cosas prácticas. | Corta, sin relleno. |
 | **Bonnie** | Les dijo a sus padres de Boston que tenía turno y se queda con la familia elegida, sin drama. Queda cerca de Marisol en la mesa; nadie lo nota (incubación de [[06_Relationships/Bonnie_y_Marisol]]: mínimo y sin nombre). | Su ficha. |
-| **Mei-Lin** | Presente, normal y querida. Sin POV y sin ningún gesto que se lea como presagio. Su hábito del cap. 5 (boceto 7) sigue PENDIENTE: no inventarlo aquí. | Su ficha. |
+| **Mei** | Presente, normal y querida. Sin POV y sin ningún gesto que se lea como presagio. Su hábito del cap. 5 (boceto 7) sigue PENDIENTE: no inventarlo aquí. | Su ficha. |
 | **Tyler** | La culpa del incendio y el beat del regalo igual. | Su ficha. |
 | **Ren, Garrett** | Presencia breve, con un apunte de oficio cada uno. | Sus fichas. |
 | **Marisol y Kenji** | Pareja auténtica en lo que hacen: llegan juntos y se reparten la comida sin preguntarse. Marisol le pica a Kal con hechos; Kenji es el puente con el mundo de Chiara y el amigo de ella que se ganó la invitación. | Rápida, sarcástica sin herir. |
@@ -119,7 +119,7 @@ No encontré otros choques. La ficha de Kal (el collar es la única excepción a
 | | Objeto | A favor | Riesgo |
 |---|---|---|---|
 | **A (recomendado)** | **Cuccidati** (galletas navideñas sicilianas de higo) en una **caja** de cartón con el nombre de cada uno escrito a mano. Los hace el 22, porque aguantan semanas. | Hechos con sus manos, como la cena. Es Palermo entrando al barrio, cuesta poco, es igual para todos y **se come, así que no compite con el collar**. | La receta podría ser de Marta, pero eso sería canon nuevo: dejarlo como subtexto, sin decirlo. |
-| B | **Esfera de vidrio** con el nombre de cada uno, colgada en el árbol (o en el coche del elevador) y que se queda en el taller. | Se queda en el taller y deja una huella en el lugar. | En relectura, la esfera de Mei-Lin colgada después de F2 roza el presagio. El vidrio también resuena con *Máscaras de Cristal*. |
+| B | **Esfera de vidrio** con el nombre de cada uno, colgada en el árbol (o en el coche del elevador) y que se queda en el taller. | Se queda en el taller y deja una huella en el lugar. | En relectura, la esfera de Mei colgada después de F2 roza el presagio. El vidrio también resuena con *Máscaras de Cristal*. |
 | C | **Guantes de trabajo de piel**, iguales para todos, también para Mabel, Marisol y Kenji. | Comedia, porque «esta noche todos son del taller». Son prácticos y de invierno. | Tienen menos de Chiara. Es objeto de taller, no de ella. |
 
 **Descartado:** un llavero de metal grabado. Es otro objeto de metal con algo grabado y le quita fuerza al collar, que debe ser el único.

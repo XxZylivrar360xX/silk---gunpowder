@@ -28,7 +28,7 @@ Cada uno de los chicos le aportó algo, y ese algo dice más del chico que del p
 - **Héctor** ([[02_Characters/Hector_Navarro]]): siempre se queja de que las llaves Allen están llenas de baba de perro, por culpa de Nadir.
 - **Garrett** ([[02_Characters/Garrett_Cross]]): Rocco lo custodia cuando mueve la contabilidad y el dinero, como perro guardián listo para "desgarrar cuellos", según Danny.
 - **Chiara:** con ella, después, siempre se pone panza arriba para que le acaricie la barriga (en prosa: Cap. 42, *Navajas y tinta*). Antecedente en prosa: la pata frente a Connors y la cena del 5c (la acera y "Creo que cambió de familia" salieron el 2026-11-03).
-- **Tyler** ([[02_Characters/Tyler_Brooks]]), **Mei-Lin** ([[02_Characters/Mei_Lin_Zhao]]) y **Bonnie** ([[02_Characters/Bonnie_Garcia]]): cuando lleguen, Rocco tendrá con cada uno un comportamiento y una relación diferentes. **PENDIENTE:** el autor define cuál con cuál.
+- **Tyler** ([[02_Characters/Tyler_Brooks]]), **Mei** ([[02_Characters/Mei_Nakano]]) y **Bonnie** ([[02_Characters/Bonnie_Garcia]]): cuando lleguen, Rocco tendrá con cada uno un comportamiento y una relación diferentes. **PENDIENTE:** el autor define cuál con cuál.
 
 ## El gato de Chiara
 

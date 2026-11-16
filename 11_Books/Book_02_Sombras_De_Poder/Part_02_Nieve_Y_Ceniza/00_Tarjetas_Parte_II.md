@@ -4,7 +4,7 @@
 >
 > **Estado:** DISEÑO del agente (Claude Code, 2026-11-12). Fase 2 de [[11_Books/Book_02_Sombras_De_Poder/00_Carretera_Libro_II]] (columna aprobada) y continuación de [[11_Books/Book_02_Sombras_De_Poder/Part_01_Territorio_Ajeno/00_Tarjetas_Parte_I]]. **No toca prosa, canon ni el boceto.** Mismo formato: trama, relación, por eso, saldo, POV y origen (C = canon o decisión vigente; P = propuesta del agente).
 >
-> **Fuentes que mandan en su escena:** [[11_Books/Book_02_Sombras_De_Poder/Part_02_Nieve_Y_Ceniza/00_Diseno_Navidad_Almendra_Towing]] (CANON del 2026-10-14 en sus ocho puntos), [[11_Books/Book_02_Sombras_De_Poder/Part_02_Nieve_Y_Ceniza/00_Diseno_Robo_Joyeria]], [[11_Books/Book_02_Sombras_De_Poder/00_Diseno_Cobro_Del_Levanton]], [[02_Characters/Mei_Lin_Zhao]] (los tres tiempos con Kal) y [[04_Concepts/Fe_y_Velas]].
+> **Fuentes que mandan en su escena:** [[11_Books/Book_02_Sombras_De_Poder/Part_02_Nieve_Y_Ceniza/00_Diseno_Navidad_Almendra_Towing]] (CANON del 2026-10-14 en sus ocho puntos), [[11_Books/Book_02_Sombras_De_Poder/Part_02_Nieve_Y_Ceniza/00_Diseno_Robo_Joyeria]], [[11_Books/Book_02_Sombras_De_Poder/00_Diseno_Cobro_Del_Levanton]], [[02_Characters/Mei_Nakano]] (los tres tiempos con Kal) y [[04_Concepts/Fe_y_Velas]].
 >
 > **Supuestos abiertos:** D5 (motivo de los frenos), D6 (causa de F4), D7 (motivo del robo y destino del Lussia), D8 (ubicación del levantón) y D11 (Walt) van con la opción recomendada en la carretera y marcados P.
 
@@ -12,7 +12,7 @@
 
 **Continua, sin elipsis largas** (regla 1 del reloj): del 23 nov A3 a fines de feb A4, unas 13 semanas. Los saltos son de días o de dos o tres semanas, y cada uno cae en un poste fijo (cumpleaños, Navidad, Año Nuevo) o en un cobro. **Los dos relojes de deuda siguen corriendo en silencio:** las entregas mensuales a Crowe (la cuarta en noviembre, la quinta antes del garaje, la sexta la semana del robo) y las cuotas de Chiara a Varek (una antes de Navidad, otra en febrero).
 
-**Motivo de la Parte (P): regalos contra cobros.** En un mundo donde todo se tasa (Crowe) o se cobra con intereses (Varek), la familia se hace con cosas que se dan sin precio: el mismo detalle para todos, el collar, el piano, la absolución de Tyler, la deuda de Yun-Kai pagada sin decirlo y el anillo que no se vende. El robo invierte la regla: por primera vez, el que cobra es Kal.
+**Motivo de la Parte (P): regalos contra cobros.** En un mundo donde todo se tasa (Crowe) o se cobra con intereses (Varek), la familia se hace con cosas que se dan sin precio: el mismo detalle para todos, el collar, el piano, la absolución de Tyler, la deuda de Kaito pagada sin decirlo y el anillo que no se vende. El robo invierte la regla: por primera vez, el que cobra es Kal.
 
 ---
 
@@ -30,9 +30,9 @@
 - **Por eso:** Chiara se propone la Nochebuena como algo que él no tenga que resolver.
 - **Saldo:** la cuota de diciembre a Varek, pagada en silencio.
 
-### P3 · No cargues sola — dic · Kal · el taller, de día; donde entrenan — **fusión del cap. 24 y las «palabras» con Mei-Lin**
-- **Trama:** Harper, pupila y no hija sustituta; Kal le dice que no cargue sola mientras él lo hace (C). Mei-Lin le pide un adelanto «para mi hermano», y Kal le cuenta lo de Ruth: «Mi madre pagó cada apuesta de mi padre. No lo salvó. Nada más se fue perdiendo ella.» Le da el adelanto de todos modos (C, primer tiempo). **P (columna):** alguien de la Ronda del Canal le pide ayuda contra las cuotas del Tasador. Kal no puede: él mismo le debe. Dice «todavía no».
-- **Relación:** fuera de foco. Lo que Kal le enseña a Harper y a Mei-Lin es lo que él no hace.
+### P3 · No cargues sola — dic · Kal · el taller, de día; donde entrenan — **fusión del cap. 24 y las «palabras» con Mei**
+- **Trama:** Harper, pupila y no hija sustituta; Kal le dice que no cargue sola mientras él lo hace (C). Mei le pide un adelanto «para mi hermano», y Kal le cuenta lo de Ruth: «Mi madre pagó cada apuesta de mi padre. No lo salvó. Nada más se fue perdiendo ella.» Le da el adelanto de todos modos (C, primer tiempo). **P (columna):** alguien de la Ronda del Canal le pide ayuda contra las cuotas del Tasador. Kal no puede: él mismo le debe. Dice «todavía no».
+- **Relación:** fuera de foco. Lo que Kal le enseña a Harper y a Mei es lo que él no hace.
 - **Por eso:** el «todavía no» le pesa más que la deuda.
 - **Saldo:** la Ronda se va sin ayuda y se acuerda. La Parte IV lo cobra.
 
@@ -51,12 +51,12 @@
 
 
 ### P6 · Torna a casa — 24 dic noche → madrugada del 25 · **Kal (P: cambia el POV del diseño)** · la bodega; el patio de grúas
-- **Trama:** la cena, el juego, el abrazo de medianoche y el mismo detalle para todos; Tyler recibe lo mismo que los demás y esa igualdad es su absolución (C y DISEÑO). Kal sale al patio porque el calor le aprieta, a días del garaje (DISEÑO), y ve a Yun-Kai en el portón y a Mei-Lin gritándole que se largue. Al volver: «¿Todo bien?» / «Todo bien, jefe.» (C, segundo tiempo). Después Chiara sale con la caja y le da el collar a solas, afuera (C).
-- **Por qué cambia el POV (P):** el canon dice que sólo Kal ve a Yun-Kai, y eso exige su cabeza. Además, en su POV el lector ve lo que el diseño quería sugerir: Kal espera el precio del regalo, porque todo en su mundo es transacción (Crowe, Dario), y **el precio no llega**. Se escribe sin explicarlo.
+- **Trama:** la cena, el juego, el abrazo de medianoche y el mismo detalle para todos; Tyler recibe lo mismo que los demás y esa igualdad es su absolución (C y DISEÑO). Kal sale al patio porque el calor le aprieta, a días del garaje (DISEÑO), y ve a Kaito en el portón y a Mei gritándole que se largue. Al volver: «¿Todo bien?» / «Todo bien, jefe.» (C, segundo tiempo). Después Chiara sale con la caja y le da el collar a solas, afuera (C).
+- **Por qué cambia el POV (P):** el canon dice que sólo Kal ve a Kaito, y eso exige su cabeza. Además, en su POV el lector ve lo que el diseño quería sugerir: Kal espera el precio del regalo, porque todo en su mundo es transacción (Crowe, Dario), y **el precio no llega**. Se escribe sin explicarlo.
 - **Relación:** el collar le alivia la carga a largo plazo; no lo cura (C). No se explica su función (C).
 - **Por eso:** F4.
 - **Saldo:** el collar bajo la camisa; nadie lo nota (C).
-- **Decisión del autor:** si se conserva el POV de Chiara para toda la Nochebuena, Yun-Kai necesita otro testigo o pasa a otra escena.
+- **Decisión del autor:** si se conserva el POV de Chiara para toda la Nochebuena, Kaito necesita otro testigo o pasa a otra escena.
 
 ---
 
@@ -81,10 +81,10 @@
 - **Saldo:** Dario lo felicita, y Kal entiende que ahora le debe también a él.
 
 ### P10 · La vela tardía — días después · Kal · la Villa; después, un callejón de Varek
-- **Trama:** Kal le cuenta la bahía y la noche escondido; ella enciende la vela **después**: *«Dio, grazie per averlo riportato a casa.»* (C). Tic 4: Kal la ve escribir de lejos y no pregunta (C). **P (coda, C en sustancia):** la gente de Varek ya le cobra a Mei-Lin lo de su hermano. Kal va por su cuenta y paga la deuda de Yun-Kai. El hombre de Varek: «Lo del hermano queda saldado.» Kal lo oye, no pregunta y lo lee mal (C, tercer tiempo).
+- **Trama:** Kal le cuenta la bahía y la noche escondido; ella enciende la vela **después**: *«Dio, grazie per averlo riportato a casa.»* (C). Tic 4: Kal la ve escribir de lejos y no pregunta (C). **P (coda, C en sustancia):** la gente de Varek ya le cobra a Mei lo de su hermano. Kal va por su cuenta y paga la deuda de Kaito. El hombre de Varek: «Lo del hermano queda saldado.» Kal lo oye, no pregunta y lo lee mal (C, tercer tiempo).
 - **Relación:** a Chiara no le duele que salga, sino que no le avisó. Cambia una regla de Kal (C). **PENDIENTE (C):** si ella lo dice en una línea o lo deja en silencio.
 - **Por eso:** la próxima vez, avisará: el robo.
-- **Saldo:** un regalo sin precio que Mei-Lin no sabe que recibió, y una frase que F2 cobra.
+- **Saldo:** un regalo sin precio que Mei no sabe que recibió, y una frase que F2 cobra.
 
 ---
 
@@ -97,7 +97,7 @@
 - **Saldo:** vela y oración en el penthouse; el capítulo termina ahí (C). Tic 5 (C).
 
 ### P12 · Lussia — esa noche · Kal · Lunar Pearl
-- **Trama:** Kal, Nadir y Danny adentro; la prosa salta del pulso al resultado; se llevan el Lussia y la exhibición; algo sale mal y se resuelve sin heridos (C). **El anillo:** Kal toma uno y lo guarda en la billetera; nadie lo ve, o Nadir calla (C). Mei-Lin no le cuenta nada a Varek (C).
+- **Trama:** Kal, Nadir y Danny adentro; la prosa salta del pulso al resultado; se llevan el Lussia y la exhibición; algo sale mal y se resuelve sin heridos (C). **El anillo:** Kal toma uno y lo guarda en la billetera; nadie lo ve, o Nadir calla (C). Mei no le cuenta nada a Varek (C).
 - **Relación:** el anillo, el secreto más dulce del libro.
 - **Por eso:** la persecución.
 - **Saldo (P, D7):** el Lussia en la bolsa es el problema que nadie pensó: en San Aurelio un diamante rojo sólo lo mueve el Tasador.
@@ -107,7 +107,7 @@
 - **Relación:** fuera de foco. Harper ve completo el engaño que Kal, bajo tierra, no ve (C).
 - **Por eso:** la salida por el Monarch.
 - **Saldo:** el foco del helicóptero clavado en una boca vacía.
-- **No hacer:** el POV de Mei-Lin, ni nada de Halbrook o del tiro de precisión en el de Harper (C).
+- **No hacer:** el POV de Mei, ni nada de Halbrook o del tiro de precisión en el de Harper (C).
 
 ### P14 · El millón — madrugada y días después · Kal; Chiara al final · túnel este; bahía de carga; piso de juego; la azotea — **fusión de *Boletos de valet* y *El millón***
 - **Trama:** Walt los espera al final del túnel, sin permiso de Chiara (C). **D11 recomendado:** su audiencia de condicional está cerca y la arriesga. Ren los lleva a la zona de servicio; suben al piso de juego; al alba salen con boletos de valet (C). Días después, la azotea: primera celebración del Patio como familia criminal; el noticiero; la policía humillada le da a Halbrook un argumento (C). **USD 1,000,000** intacto como Plan B (C).
@@ -149,17 +149,17 @@
 | Reloj | Continua, ~13 semanas; saltos de días a tres semanas, siempre a un poste o a un cobro. Los dos relojes de deuda corren en P1, P2, P4, P14 y P17 |
 | Crowe a la vista | P1 y P4 (entregas), P3 (la Ronda), P12 (el Lussia), P14 (la entrega de la semana del robo), P15 (Calderos) y P17 (la entrega que vence). Sin él: P5–P11, cubierto por Halbrook (P8) y Varek (P6, P10) |
 | Halbrook | P8 (la correa, el programa de veteranos) y P14 (el argumento) |
-| Varek | P2 (cuota), P6 y P10 (Yun-Kai), P12 (su diamante) y P16 (los frenos, fuera de página) |
-| Secretos de Kal | la cuenta de Crowe, el garaje (P4), el porqué de F4 (P8), Yun-Kai (P10) y el anillo (P12) |
+| Varek | P2 (cuota), P6 y P10 (Kaito), P12 (su diamante) y P16 (los frenos, fuera de página) |
+| Secretos de Kal | la cuenta de Crowe, el garaje (P4), el porqué de F4 (P8), Kaito (P10) y el anillo (P12) |
 | Secretos de Chiara | las cuotas de Varek (P2) |
 | Verdades | la vela a tiempo (P11); el levantón como secreto compartido (P15); el armario, un secreto roto (P17) |
 | Tics del nombre | P10 (4) y P11 (5). **Choque:** al fundir *La jaula* con *Deséame suerte* quedan en tarjetas seguidas, y la regla del nombre dice «nunca en dos capítulos seguidos» (C). Los dos tics están atados a una vela, así que no se mueven. Opciones: (a) *La jaula* vuelve a ser capítulo propio (el robo queda en cinco, como separaba el boceto); (b) una excepción autorizada por el autor |
-| Mei-Lin | tres tiempos completos (P3, P6, P10) más la lealtad de P12: construida antes de F2 (guarda 3) |
+| Mei | tres tiempos completos (P3, P6, P10) más la lealtad de P12: construida antes de F2 (guarda 3) |
 | Capítulos | 17, igual que el boceto. Se funden *La jaula* con *Deséame suerte* y *Boletos* con *El millón*; *No cargues sola* absorbe las «palabras»; entra el levantón; la Nochebuena se divide en dos |
 
 ## Para el autor
 
-1. **POV de la Nochebuena:** ¿Kal en P6 (por Yun-Kai y por el precio que no llega) o Chiara en toda la secuencia, como pedía el diseño?
+1. **POV de la Nochebuena:** ¿Kal en P6 (por Kaito y por el precio que no llega) o Chiara en toda la secuencia, como pedía el diseño?
 2. **F4 (D6):** el programa de veteranos de la fundación de Halbrook como causa, sin Anya.
 3. **El levantón (D8)** al principio de febrero, entre el robo y el choque.
 4. **Los tics 4 y 5** en tarjetas seguidas: ¿*La jaula* vuelve a capítulo propio o se autoriza la excepción? (ver la tabla).

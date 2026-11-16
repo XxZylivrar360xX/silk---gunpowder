@@ -8,6 +8,7 @@ Generadas por ChatGPT con aprobación del autor; notas de origen y prompts en `9
 
 - **Chiara:** rasgos y dibujo inspirados en Akari Watanabe, adaptados a su ficha. Adulta (34), piel aceitunada, ojos oliva, cabello negro ondulado a media espalda con flequillo, labial rojo vino (sin labial ni joyas en ropa de descanso).
 - **Kal:** expresión y energía contenidas tomadas de Ayanokoji Kiyotaka, con facciones nórdicas maduras. 41 años, rubio despeinado, ojos azul lavado, mandíbula ancha, barba rubia corta, cuerpo de trabajo físico.
+- **Mei Nakano (2026-11-15):** rostro inspirado en Yuko Araki, adaptado a su ficha. Japonesa, 24 años, menuda; ojos grandes café oscuro, cabello castaño oscuro largo con ondas ligeras; dos peinados que alterna, dos chongos altos o dos trenzas largas, **sin adornos**. Prompt en [[98_Agent_Handoff/sessions/2026-11-15_claude_mei_nakano_anime]].
 - Línea limpia, sombras cuidadas, luz cálida, sin texto. La referencia externa es de estilo; los personajes, su biografía y sus escenas siguen siendo originales.
 
 ## Láminas
@@ -26,6 +27,7 @@ Generadas por ChatGPT con aprobación del autor; notas de origen y prompts en `9
 | Kal | [[99_Reference/character_art/anime/Kal_Mercer_La_Balanza.png]] | Cap. 12, *La balanza* | Overol azul ceniza de Almendra Towing (decisión del autor para la lámina) |
 | Kal | [[99_Reference/character_art/anime/Kal_Mercer_Lo_Pequeno.png]] | Cap. 24, *Lo pequeño* | Camisa negra abierta, playera blanca, mezclilla (decisión del autor) |
 | Kal | [[99_Reference/character_art/anime/Kal_Mercer_Primer_Huesped.png]] | Cap. 25, *El primer huésped* | Playera blanca, pants gris oscuro, descalzo (DISEÑO) |
+| Mei | [[99_Reference/character_art/anime/Mei_Nakano_Retrato.png]] | — (retrato base, 2026-11-15) | Chaqueta negra con capucha, playera oscura, jeans, tenis gastados; dos chongos sin adornos; café y teléfono estrellado; sobre el guardafango de una grúa, al atardecer (fondo y hora: DISEÑO) |
 
 ## Verificación (Claude, 2026-10-30)
 
@@ -40,5 +42,5 @@ Generadas por ChatGPT con aprobación del autor; notas de origen y prompts en `9
 
 1. Partir del retrato base del personaje como referencia de identidad.
 2. Vestuario: el del capítulo cuando lo precisa; si no, proponerlo y marcarlo DISEÑO.
-3. Controles de Kal: cicatriz con recorrido canónico y arete a la izquierda, blackout a la derecha, collar **TORNA A CASA** sólo después del regalo de Navidad. Controles de Chiara: un solo lunar sobre el labio, 1.80 m, cabello a media espalda suelto.
+3. Controles de Kal: cicatriz con recorrido canónico y arete a la izquierda, blackout a la derecha, collar **TORNA A CASA** sólo después del regalo de Navidad. Controles de Chiara: un solo lunar sobre el labio, 1.80 m, cabello a media espalda suelto. Controles de Mei: chongos o trenzas sin pasadores, borlas ni nada que recuerde un kimono; más baja que Bonnie; nada de exotizarla.
 4. Otros personajes: cuando se ilustren en este estilo, añadirlos a esta carpeta y a la tabla.

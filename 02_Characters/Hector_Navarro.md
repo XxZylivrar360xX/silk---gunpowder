@@ -81,7 +81,7 @@ Encaja con quién es: **es la única persona que quiere a Kal sin deberle nada**
 
 ## F2 — CANON DEL AUTOR (2026-11-07)
 
-Kal le cuenta a él y a Nadir la filtración de Mei-Lin, y a nadie más. Héctor le recomienda no tomar una decisión precipitada: es una niña que actuó por miedo. Kal empatiza y pospone el juicio. Detalle: [[06_Relationships/Momentos_de_Fractura#F2 - La muerte de Mei-Lin y la salida de Bonnie|F2]].
+Kal le cuenta a él y a Nadir la filtración de Mei, y a nadie más. Héctor le recomienda no tomar una decisión precipitada: es una niña que actuó por miedo. Kal empatiza y pospone el juicio. Detalle: [[06_Relationships/Momentos_de_Fractura#F2 - La muerte de Mei y la salida de Bonnie|F2]].
 
 ## Pendientes
 

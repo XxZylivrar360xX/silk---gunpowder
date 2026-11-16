@@ -2,7 +2,7 @@
 
 > **DECISIONES DEL AUTOR (2026-11-12; [[11_Books/00_Libro_Mayor_Deudas_Saga]]):** (1) **Halbrook le cuenta a Kal que fue él quien lo sacó de Camp Alder**, de noche, en la terraza del edificio empresarial de Kal (torre de oficinas «tipo WTC»), con la ciudad de fondo; momento exacto PENDIENTE (propuesta: antes de Santa Lucía). (2) **La mentira de la fuga de gas (H8) se cobra en el voto:** antes de decidir lo de Elenna, los dos se dicen la verdad del incendio. (3) La tesis de Héctor («no sostenerlo con el cuerpo») se siembra en el Libro II, después del ataque de pánico de Kal.
 
-> **CAMBIO DE CANON (2026-11-07):** F2 ya no es ejecución ni destierro: Mei-Lin muere tras una operación y Bonnie se va a Boston por elección; recibe a Elenna desde Boston (se retira Italia). Manda [[06_Relationships/Momentos_de_Fractura#F2 - La muerte de Mei-Lin y la salida de Bonnie|F2]]; lo que diga abajo sobre Italia, Roberta Ardizzone o el destierro queda superado.
+> **CAMBIO DE CANON (2026-11-07):** F2 ya no es ejecución ni destierro: Mei muere tras una operación y Bonnie se va a Boston por elección; recibe a Elenna desde Boston (se retira Italia). Manda [[06_Relationships/Momentos_de_Fractura#F2 - La muerte de Mei y la salida de Bonnie|F2]]; lo que diga abajo sobre Italia, Roberta Ardizzone o el destierro queda superado.
 
 
 *Mapa narrativo operativo. Libro III de la saga.*
@@ -118,7 +118,7 @@ Kal entiende proteger como **distancia física** — cuando alguien corre peligr
 
 ### Bonnie — payoff, no causa
 
-> **CANON DEL AUTOR (2026-09-11).** Amplía la regla dura ya fijada en [[06_Relationships/Momentos_de_Fractura#F2 - La muerte de Mei-Lin y la salida de Bonnie|F2]] y en [[02_Characters/Bonnie_Garcia]].
+> **CANON DEL AUTOR (2026-09-11).** Amplía la regla dura ya fijada en [[06_Relationships/Momentos_de_Fractura#F2 - La muerte de Mei y la salida de Bonnie|F2]] y en [[02_Characters/Bonnie_Garcia]].
 
 **Regla dura:** Bonnie no reaparece — ni en mensaje, llamada, interludio ni pista explícita — en ningún momento antes de la entrega de Elenna. Su ausencia permanece intacta desde el destierro en el Libro II — Sombras de Poder. Durante la planificación, Chiara sólo dice algo equivalente a:
 

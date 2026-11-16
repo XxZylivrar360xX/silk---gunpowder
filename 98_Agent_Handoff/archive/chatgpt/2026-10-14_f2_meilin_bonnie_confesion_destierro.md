@@ -16,7 +16,7 @@ Definir lo acordado sobre la implicación **injusta pero verosímil** de Bonnie 
 - [[11_Books/Book_02_Sombras_De_Poder/00_Plan_Cuatro_Partes]] — rector de las cuatro Partes; F2 en III; relación Tommaso/Mei-Lin/Varek.
 - [[11_Books/Book_02_Sombras_De_Poder/00_Boceto_Lista_Capitulos]] — distribución en diseño, no prosa definitiva.
 - [[06_Relationships/Momentos_de_Fractura]] — F2 y F3; leer avisos de supersesión antes de propagar.
-- [[02_Characters/Mei_Lin_Zhao]]
+- [[02_Characters/Mei_Nakano]]
 - [[02_Characters/Bonnie_Garcia]]
 - [[02_Characters/Nadir_Amrani]]
 - [[02_Characters/Tommaso_Lusardi]]

@@ -60,7 +60,7 @@ Brújula que se cobra aquí: **progresión de hogar** (penthouse → loft). Chia
 - **El mismo día llega la orden de Halbrook** con fecha y horario de la ventana de Camp Alder (expediente del soldado ajeno + armas largas, ver [[06_Relationships/Hitos#H19 — El asalto a Camp Alder]]). **Dario ofrece el mecanismo de distracción** — un disturbio que atraiga a los soldados lejos del punto de entrada — para que **Kal y los chicos** (no gente de Dario) entren después. El pago sigue siendo las armas largas (H6). No inventar el mecanismo del disturbio más allá de lo que la escena necesite.
 - Kal no puede contar a nadie ni Palermo ni Halbrook. La prosa restringe información, no miente (misma regla que la apertura de *Voto de Ceniza*): el lector ve que Kal evita pensar en Palermo, no lo que pasó.
 - Marisol y Kal no hablan de verdad hasta la noche, en el balcón del loft mirando hacia La Almendra. Única línea de Kal sobre el tema: **"Palermo fue más complicado de lo que anticipé."** Nada más. Corte.
-- Beat de siembra: **Mei-Lin** pasa por el día de Kal en el Patio como activo que él registra (joven, local, sabe cosas del norte); sólo eso. Nada de Tommaso ni de Dario.
+- Beat de siembra: **Mei** pasa por el día de Kal en el Patio como activo que él registra (joven, local, sabe cosas del norte); sólo eso. Nada de Tommaso ni de Dario.
 - No aparece Chiara. Bonnie puede estar entre los chicos del Patio sin función.
 
 ### Cap. 36 (archivo 40) — Palermo, la mitad de Kal (POV Kal, título: "Mecánico" — CONFIRMADO Y DEFINITIVO POR EL AUTOR 2026-09-21)
@@ -167,11 +167,11 @@ La luz vuelve y el *"Ciao, bella"* **cierran la Parte III** (lectura anterior de
 
 ## Bonnie — introducción sin capítulo propio (autorizado 2026-09-21)
 
-- **Cap. 42 (archivo 37)** (POV Kal, El Patio): beat nuevo — Bonnie y Mei-Lin como el par que llegó de la banda deshecha; Kal también le pregunta "Roma"; queda registrado que entiende autos y calle. Un beat, sin desarrollo. Mei-Lin queda en el radar de Kal como alguien que puede servir — sin Tommaso, sin Dario.
-- **Cap. 35 (archivo 38)** (yate, POV Chiara): beat nuevo — Chiara la lee entre "los nuestros" (la chica que mira las salidas); un intercambio corto. Retirar de la metadata del 38 la regla "no aparecen Bonnie ni Mei-Lin".
+- **Cap. 42 (archivo 37)** (POV Kal, El Patio): beat nuevo — Bonnie y Mei como el par que llegó de la banda deshecha; Kal también le pregunta "Roma"; queda registrado que entiende autos y calle. Un beat, sin desarrollo. Mei queda en el radar de Kal como alguien que puede servir — sin Tommaso, sin Dario.
+- **Cap. 35 (archivo 38)** (yate, POV Chiara): beat nuevo — Chiara la lee entre "los nuestros" (la chica que mira las salidas); un intercambio corto. Retirar de la metadata del 38 la regla "no aparecen Bonnie ni Mei".
 - Con eso, en el 41 Chiara sabe a quién llamar sin coincidencia. Resuelve el PENDIENTE de la ficha ("motivo exacto por el que se acerca a Chiara"): **Chiara la busca primero.**
 - Ambos beats son prosa en capítulos ya escritos: ejecutar con el autor presente, antes del 39.
-- **EJECUTADOS (2026-09-21, Claude Opus 5, parche quirúrgico):** Cap. 42 (archivo 37) — beat entre la delegación de la mañana y Héctor (~410 palabras; Bonnie = autos/calle, Mei-Lin = rutas del norte, Bonnie contesta "Roma" sin acertar). Cap. 43 (archivo 38) — beat al cierre de la sección coral, antes de Marisol y de Blake (~350 palabras; mesero bloqueado, puerta de babor, nombre). Metadata del 38 corregida. Ninguna decisión de este plan cambió.
+- **EJECUTADOS (2026-09-21, Claude Opus 5, parche quirúrgico):** Cap. 42 (archivo 37) — beat entre la delegación de la mañana y Héctor (~410 palabras; Bonnie = autos/calle, Mei = rutas del norte, Bonnie contesta "Roma" sin acertar). Cap. 43 (archivo 38) — beat al cierre de la sección coral, antes de Marisol y de Blake (~350 palabras; mesero bloqueado, puerta de babor, nombre). Metadata del 38 corregida. Ninguna decisión de este plan cambió.
 
 ## Qué cambia en el vault (supersesiones registradas 2026-09-21)
 
@@ -185,7 +185,7 @@ La luz vuelve y el *"Ciao, bella"* **cierran la Parte III** (lectura anterior de
 | [[06_Relationships/Kal_y_Chiara]] (escalera) | Peldaño 2 se dice **en la pelea**, no en la reconciliación; texto adaptado. Orden de peldaños intacto: H21 → F1 (pelea) → monólogo → H1. |
 | [[01_Timeline/02_Libro_01_Mascaras_De_Cristal]] | Parte III: F1 sin resolver antes de Camp Alder; "regresan juntos" → separados; monólogo sin Tommaso; corte a oscuras. Parte IV: apertura = luz + Ciao bella + reconciliación + Tommaso al día siguiente; "la relación ya está reparada desde Parte III" **SUPERSEDIDO**. Tommaso, Ren Wei y el distanciamiento pleno de Fabrizio se desplazan a Parte IV. |
 | [[02_Characters/Bonnie_Garcia]] | Motivo de acercamiento resuelto; introducción en 37/38. |
-| [[02_Characters/Tommaso_Lusardi]] | Muere el día siguiente a la reconciliación, ya en Parte IV. **Siembra (CANON DEL AUTOR, 2026-09-21):** lo que se siembra antes es **Mei-Lin entrando en el radar de Kal** como activo utilizable en Parte IV — beats en el Cap. 42 (archivo 37) (con Bonnie) y en el 39 (día de Kal en el Patio). **Nada** de que trabajó para Tommaso ni de que informa a Dario: esas revelaciones llegan después, cuando Kal mismo las descubra (mecanismo PENDIENTE). El vínculo Tommaso → Mei-Lin no se muestra desde Tommaso hasta el periodo de su ejecución. |
+| [[02_Characters/Tommaso_Lusardi]] | Muere el día siguiente a la reconciliación, ya en Parte IV. **Siembra (CANON DEL AUTOR, 2026-09-21):** lo que se siembra antes es **Mei entrando en el radar de Kal** como activo utilizable en Parte IV — beats en el Cap. 42 (archivo 37) (con Bonnie) y en el 39 (día de Kal en el Patio). **Nada** de que trabajó para Tommaso ni de que informa a Dario: esas revelaciones llegan después, cuando Kal mismo las descubra (mecanismo PENDIENTE). El vínculo Tommaso → Mei no se muestra desde Tommaso hasta el periodo de su ejecución. |
 | [[02_Characters/Marisol_Grayson]] | Cap. 44 (archivo 39): vacaciones, clases terminadas, buscando prácticas; recibe a Kal en Kingsley Field. |
 | [[02_Characters/Hector_Navarro]] | Cap. 39 (archivo 43): jala a Nadir al helicóptero dejando a Kal. |
 

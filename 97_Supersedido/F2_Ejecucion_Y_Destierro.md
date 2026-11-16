@@ -1,7 +1,7 @@
 # F2: ejecución de Mei-Lin y destierro de Bonnie
 
 **Retirado:** 2026-11-07, decisión del autor.
-**Lo sustituye:** [[06_Relationships/Momentos_de_Fractura#F2 - La muerte de Mei-Lin y la salida de Bonnie|F2]].
+**Lo sustituye:** [[06_Relationships/Momentos_de_Fractura#F2 - La muerte de Mei y la salida de Bonnie|F2]].
 **Por qué:** la ejecución y el exilio eran demasiado fieles a la fuente de inspiración (Kyle Rass / Giulia Rossetti).
 
 **Texto original:**
@@ -34,9 +34,9 @@
 
 ### Adaptación
 
-> **SUPERSEDIDO EN PARTE (CANON DEL AUTOR, 2026-10-12):** Tommaso **no muere** (se ausenta hacia el final de *Sombras de Poder*); el asesinado al abrir el libro es [[02_Characters/Fabrizio_Rinaldi|Fabrizio]]. En la cadena de abajo siguen vigentes el reclutamiento de Mei-Lin por Tommaso, su filtración a Varek por miedo, su integración real al Patio, el descubrimiento, Nadir y Bonnie el mismo día. Quedan superados los eslabones "Dario elimina a Tommaso por Volpi" y "absorbe a Mei-Lin" tras esa muerte. **Mei-Lin se queda con Tommaso** (CANON 2026-10-12); cómo llega también a Varek (¿triple agente sin querer, por miedo?) es PENDIENTE (ver [[02_Characters/Mei_Lin_Zhao]]). **F2 cae en la Parte III — Exilio** de la estructura en cuatro Partes ([[11_Books/Book_02_Sombras_De_Poder/00_Plan_Cuatro_Partes]]): donde abajo dice "Parte V — Exilio", léase esa. Mei-Lin debe existir antes como integrante real (Partes I–II: roomie de Bonnie, robo de joyería, Navidad).
+> **SUPERSEDIDO EN PARTE (CANON DEL AUTOR, 2026-10-12):** Tommaso **no muere** (se ausenta hacia el final de *Sombras de Poder*); el asesinado al abrir el libro es [[02_Characters/Fabrizio_Rinaldi|Fabrizio]]. En la cadena de abajo siguen vigentes el reclutamiento de Mei-Lin por Tommaso, su filtración a Varek por miedo, su integración real al Patio, el descubrimiento, Nadir y Bonnie el mismo día. Quedan superados los eslabones "Dario elimina a Tommaso por Volpi" y "absorbe a Mei-Lin" tras esa muerte. **Mei-Lin se queda con Tommaso** (CANON 2026-10-12); cómo llega también a Varek (¿triple agente sin querer, por miedo?) es PENDIENTE (ver [[02_Characters/Mei_Nakano]]). **F2 cae en la Parte III — Exilio** de la estructura en cuatro Partes ([[11_Books/Book_02_Sombras_De_Poder/00_Plan_Cuatro_Partes]]): donde abajo dice "Parte V — Exilio", léase esa. Mei-Lin debe existir antes como integrante real (Partes I–II: roomie de Bonnie, robo de joyería, Navidad).
 >
-> **CANON DEL AUTOR (2026-09-20) — cadena causal completa.** F2 deja de nacer de una prueba genérica de lealtad. Tiene origen concreto: ver [[02_Characters/Tommaso_Lusardi]] y [[02_Characters/Mei_Lin_Zhao]] para el detalle completo. Resumen operativo:
+> **CANON DEL AUTOR (2026-09-20) — cadena causal completa.** F2 deja de nacer de una prueba genérica de lealtad. Tiene origen concreto: ver [[02_Characters/Tommaso_Lusardi]] y [[02_Characters/Mei_Nakano]] para el detalle completo. Resumen operativo:
 >
 > `Tommaso recluta a Mei-Lin como fuente informal sobre el norte (Parte III, antes de su muerte) → Dario descubre la línea y elimina a Tommaso por Volpi → Dario absorbe a Mei-Lin en vez de eliminarla también → Mei-Lin se integra de verdad a El Patio y convive con Bonnie en La Almendra → sigue filtrando información a Varek por miedo, mientras empieza a querer sinceramente a la gente del Patio → meses después (Parte V — Exilio) la filtración se descubre → ya no hay forma de conservarla dentro → se sentencia su ejecución → Nadir la ejecuta → ese mismo día Bonnie también debe salir de San Aurelio.`
 >
@@ -115,7 +115,7 @@ En Parte V, **el mismo día del destierro de Bonnie**, antes de Villa y Stavange
 
 Valora a Kal, quiere a Bonnie y encuentra hogar en La Almendra, pero teme más a Varek de lo que confía en la protección de Kal. **Los quería + los traicionó + tenía miedo.** La convivencia con Bonnie construye amistad real por horarios, barrio, autos, casa y rutinas; no fueron necesariamente mejores amigas al aparecer.
 
-> **CANON DEL AUTOR (2026-10-14) — la coartada de Bonnie.** Para cubrir la filtración a Varek, Mei-Lin le pide a Bonnie una coartada. Bonnie sabe que miente por ella, pero no sabe qué está cubriendo. La traición es sólo de Mei-Lin; la coartada arrastra a Bonnie y el barrio pide las dos cabezas. Ver [[02_Characters/Bonnie_Garcia]] y [[06_Relationships/Momentos_de_Fractura#F2 - El destierro de Bonnie y la muerte de Mei-Lin|F2]]. **PENDIENTE:** qué favor exacto pide y con qué explicación aparente (creíble para Bonnie sin volverla ingenua). **DISEÑO, no canon:** la lealtad de Lunar Pearl (no le cuenta el plan a Varek) y la filtración posterior por miedo son la misma persona: capaz de lealtad auténtica y de un error grave. Su historia no debe reducirse a mecanismo para sacar a Bonnie del tablero.
+> **CANON DEL AUTOR (2026-10-14) — la coartada de Bonnie.** Para cubrir la filtración a Varek, Mei-Lin le pide a Bonnie una coartada. Bonnie sabe que miente por ella, pero no sabe qué está cubriendo. La traición es sólo de Mei-Lin; la coartada arrastra a Bonnie y el barrio pide las dos cabezas. Ver [[02_Characters/Bonnie_Garcia]] y [[06_Relationships/Momentos_de_Fractura#F2 - El destierro de Bonnie y la muerte de Mei|F2]]. **PENDIENTE:** qué favor exacto pide y con qué explicación aparente (creíble para Bonnie sin volverla ingenua). **DISEÑO, no canon:** la lealtad de Lunar Pearl (no le cuenta el plan a Varek) y la filtración posterior por miedo son la misma persona: capaz de lealtad auténtica y de un error grave. Su historia no debe reducirse a mecanismo para sacar a Bonnie del tablero.
 
 ## Bonnie_Garcia — día de F2 y coartada
 
@@ -123,7 +123,7 @@ Valora a Kal, quiere a Bonnie y encuentra hogar en La Almendra, pero teme más a
 
 Kal la destierra **el mismo día que Nadir ejecuta a Mei-Lin**. No hay intervalo de días ni semanas; salir de San Aurelio ese día no implica completar la ruta a Italia ese mismo día. Su conflicto propio no se inventa para acomodar a Elenna.
 
-> **CANON DEL AUTOR (2026-10-14) — la coartada y la confesión.** Bonnie le da una coartada a Mei-Lin **sabiendo que miente**, pero **sin saber que cubre una filtración a Varek**. La traición es de Mei-Lin; Bonnie no es cómplice consciente, pero queda pareciendo culpable y el barrio pide la cabeza de las dos. Cuando entiende lo que pasó, **va por su cuenta con Kal y confiesa que mintió**, antes de que la acorralen; no se presenta como impecable y no consigue limpiar su nombre del todo. **Kal la deja vivir porque Chiara la quiere**: excepción personal, no absolución. Su propia mentira también pesa sobre ella. **Segunda ronda (CANON 2026-10-14):** antes de ir con Kal se lo cuenta a Chiara, que no puede contener las lágrimas porque entiende lo que acaba de pasarle; la confesión la salva ante Kal y la condena ante el barrio; el exilio se lee como transacción Kal–Chiara (la vida de Bonnie a cambio de no estar en San Aurelio mientras El Patio funja como organización criminal). PENDIENTES (coartada exacta, qué sabe de la sentencia de Mei-Lin, despedida final de Chiara): [[06_Relationships/Momentos_de_Fractura#F2 - El destierro de Bonnie y la muerte de Mei-Lin|F2]].
+> **CANON DEL AUTOR (2026-10-14) — la coartada y la confesión.** Bonnie le da una coartada a Mei-Lin **sabiendo que miente**, pero **sin saber que cubre una filtración a Varek**. La traición es de Mei-Lin; Bonnie no es cómplice consciente, pero queda pareciendo culpable y el barrio pide la cabeza de las dos. Cuando entiende lo que pasó, **va por su cuenta con Kal y confiesa que mintió**, antes de que la acorralen; no se presenta como impecable y no consigue limpiar su nombre del todo. **Kal la deja vivir porque Chiara la quiere**: excepción personal, no absolución. Su propia mentira también pesa sobre ella. **Segunda ronda (CANON 2026-10-14):** antes de ir con Kal se lo cuenta a Chiara, que no puede contener las lágrimas porque entiende lo que acaba de pasarle; la confesión la salva ante Kal y la condena ante el barrio; el exilio se lee como transacción Kal–Chiara (la vida de Bonnie a cambio de no estar en San Aurelio mientras El Patio funja como organización criminal). PENDIENTES (coartada exacta, qué sabe de la sentencia de Mei-Lin, despedida final de Chiara): [[06_Relationships/Momentos_de_Fractura#F2 - El destierro de Bonnie y la muerte de Mei|F2]].
 >
 
 ## Bonnie_Garcia — «Sobrevivir no es ganar»
@@ -160,11 +160,11 @@ Ejecuta a Mei-Lin **el mismo día del destierro de Bonnie**, en Parte V, antes d
 
 ## Nadir_Amrani — párrafo F2 en Historia
 
-**CANON DEL AUTOR (2026-09-20) — F2, en Parte V — Exilio:** cuando la filtración de [[02_Characters/Mei_Lin_Zhao|Mei-Lin]] se descubre (ver su ficha y [[06_Relationships/Momentos_de_Fractura#F2 - El destierro de Bonnie y la muerte de Mei-Lin|F2]]), es **Nadir** quien la ejecuta, no Kal. Kal decide y asume la responsabilidad de la decisión; Nadir carga el acto. La escena funciona precisamente porque Nadir es el protector de todos en la Almendra, querido y respetado — no un verdugo: para entonces Mei-Lin ya es una de las chicas del barrio, no "la corredora de otra banda". Nadir llora en el momento, no después. Esto es una deuda interpersonal que puede quedar sin pronunciarse durante años, y puede sembrarse como una de las cosas que nunca desaparecen entre Nadir y Kal — sin convertirla en la única causa de una eventual separación futura entre ellos.
+**CANON DEL AUTOR (2026-09-20) — F2, en Parte V — Exilio:** cuando la filtración de [[02_Characters/Mei_Nakano|Mei]] se descubre (ver su ficha y [[06_Relationships/Momentos_de_Fractura#F2 - El destierro de Bonnie y la muerte de Mei|F2]]), es **Nadir** quien la ejecuta, no Kal. Kal decide y asume la responsabilidad de la decisión; Nadir carga el acto. La escena funciona precisamente porque Nadir es el protector de todos en la Almendra, querido y respetado — no un verdugo: para entonces Mei-Lin ya es una de las chicas del barrio, no "la corredora de otra banda". Nadir llora en el momento, no después. Esto es una deuda interpersonal que puede quedar sin pronunciarse durante años, y puede sembrarse como una de las cosas que nunca desaparecen entre Nadir y Kal — sin convertirla en la única causa de una eventual separación futura entre ellos.
 
 ## Nadir_Amrani — conexión Mei-Lin
 
-- [[02_Characters/Mei_Lin_Zhao]] — la ejecuta en F2 por orden de Kal; carga el acto de una decisión que no fue suya.
+- [[02_Characters/Mei_Nakano]] — la ejecuta en F2 por orden de Kal; carga el acto de una decisión que no fue suya.
 
 ## Kal_Mercer — F2
 
@@ -173,7 +173,7 @@ En Parte V — Exilio, el mismo día decide la ejecución de Mei-Lin mediante Na
 ## Plan_Cuatro_Partes — F2
 
 - **Mei-Lin** muere como integrante real, no como resolución de una trama de espionaje. Kal carga la decisión y Nadir el acto (F2).
-- **Bonnie:** el destierro es supervivencia por amputación, no premio. **CANON DEL AUTOR (2026-10-14):** cubrió a Mei-Lin con una coartada sabiendo que mentía, sin saber qué cubría; confiesa por su cuenta ante Kal; el barrio quiere las dos cabezas y Kal la deja vivir porque Chiara la quiere. Antes, la tarde de las latas (Kal le enseña a disparar por insistencia de Chiara). Antes de confesar se lo cuenta a Chiara; ante el barrio, el exilio es una transacción Kal–Chiara. Detalle: [[06_Relationships/Momentos_de_Fractura#F2 - El destierro de Bonnie y la muerte de Mei-Lin|F2]].
+- **Bonnie:** el destierro es supervivencia por amputación, no premio. **CANON DEL AUTOR (2026-10-14):** cubrió a Mei-Lin con una coartada sabiendo que mentía, sin saber qué cubría; confiesa por su cuenta ante Kal; el barrio quiere las dos cabezas y Kal la deja vivir porque Chiara la quiere. Antes, la tarde de las latas (Kal le enseña a disparar por insistencia de Chiara). Antes de confesar se lo cuenta a Chiara; ante el barrio, el exilio es una transacción Kal–Chiara. Detalle: [[06_Relationships/Momentos_de_Fractura#F2 - El destierro de Bonnie y la muerte de Mei|F2]].
 - **Nadir:** queda agrietado, y esa herida pasa a los libros siguientes.
 - **Chiara:** el destierro de Bonnie la toca directamente. La fractura viene de que la decisión correcta para el jefe es insoportable para quien lo ama.
 

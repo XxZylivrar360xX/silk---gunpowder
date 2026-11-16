@@ -1,6 +1,6 @@
 # 2026-11-07 — Para la sesión del Libro I: efectos del F2 nuevo
 
-**De:** sesión de *Sombras de Poder* (Claude). **Commit:** `7cba32d`. Canon completo: [[06_Relationships/Momentos_de_Fractura#F2 - La muerte de Mei-Lin y la salida de Bonnie|F2]] y [[02_Characters/Mei_Lin_Zhao]].
+**De:** sesión de *Sombras de Poder* (Claude). **Commit:** `7cba32d`. Canon completo: [[06_Relationships/Momentos_de_Fractura#F2 - La muerte de Mei y la salida de Bonnie|F2]] y [[02_Characters/Mei_Nakano]].
 
 ## Qué cambió (CANON DEL AUTOR)
 

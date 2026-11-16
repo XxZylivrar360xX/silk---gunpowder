@@ -34,7 +34,7 @@ El libro dura **unos dos años: del 5 de enero del año 3 al invierno del año 4
 
 ## Matriz
 
-> **Numeración (2026-11-12):** la columna «Caps.» usa la numeración vigente (56; la Fase 3 dejó 55 y la Parte IV ganó un capítulo el mismo día) ([[11_Books/Book_02_Sombras_De_Poder/00_Book_Map#Numeración vigente: 56 capítulos (DECISIÓN DEL AUTOR, 2026-11-12)|tabla]]). El reloj fino (bloques, elipsis A–F y relojes de deuda) está en [[11_Books/Book_02_Sombras_De_Poder/00_Carretera_Libro_II#3b. El reloj: dos años que no se sientan como años|la carretera §3b]] y en las tarjetas; en lo que choque, mandan ellas. Ajustes conocidos: el levantón cae a principios de feb A4 (29); F2 es fin de abr – principios de may A4 y ya no es «Mei-Lin y Bonnie el mismo día» (F2 nuevo, CANON 2026-11-07); el golpe fallido lo hacen los chicos sin Kal (41, fin de jul) y las bandas llegan a mediados de sep (42).
+> **Numeración (2026-11-12):** la columna «Caps.» usa la numeración vigente (56; la Fase 3 dejó 55 y la Parte IV ganó un capítulo el mismo día) ([[11_Books/Book_02_Sombras_De_Poder/00_Book_Map#Numeración vigente: 56 capítulos (DECISIÓN DEL AUTOR, 2026-11-12)|tabla]]). El reloj fino (bloques, elipsis A–F y relojes de deuda) está en [[11_Books/Book_02_Sombras_De_Poder/00_Carretera_Libro_II#3b. El reloj: dos años que no se sientan como años|la carretera §3b]] y en las tarjetas; en lo que choque, mandan ellas. Ajustes conocidos: el levantón cae a principios de feb A4 (29); F2 es fin de abr – principios de may A4 y ya no es «Mei y Bonnie el mismo día» (F2 nuevo, CANON 2026-11-07); el golpe fallido lo hacen los chicos sin Kal (41, fin de jul) y las bandas llegan a mediados de sep (42).
 
 | Parte | Bloque | Fecha aprox. | Estación | Contenido (plan) | Caps. (56) |
 |---|---|---|---|---|---|
@@ -55,7 +55,7 @@ El libro dura **unos dos años: del 5 de enero del año 3 al invierno del año 4
 | | **Robo de Lunar Pearl** | **fin ene A4** | invierno, heladas | El Lussia; la vela a tiempo; señuelos de los Saints; el anillo y el millón ([[11_Books/Book_02_Sombras_De_Poder/Part_02_Nieve_Y_Ceniza/00_Diseno_Robo_Joyeria]]) | 24–28 |
 | | **Cierre: el choque** | **feb A4** | invierno | Lancia, Tommaso y el Audi con Marisol; el armario del hospital | 29–31 |
 | **III — Exilio** | Después del choque | feb–mar A4 | fin de invierno | Kal investiga de noche; vuelve golpeado y dice «Te amo» sin que Chiara lo oiga (F3, reescrita 2026-10-14); Tommaso se retira | 32–35 |
-| | F2 | mar–may A4 | primavera | Mei-Lin y Bonnie el mismo día. La primavera en plena flor contra la pérdida | elipsis C; 36–38 |
+| | F2 | mar–may A4 | primavera | Mei y Bonnie el mismo día. La primavera en plena flor contra la pérdida | elipsis C; 36–38 |
 | | **Cierre: la boda se planea** | may–jun A4 | primavera | Depresión de Chiara; la frase de Mabel; Chiara organiza la boda | elipsis D; 39 |
 | **IV — Torna a casa** | Boda de Mabel y Walt | **jul A4** | verano | Terraza del Monarch; «Te amo.»; el anillo ya en la billetera | 40 |
 | | Doctrina | jul–ago A4 | verano | Independencia ideológica de Dario; el golpe fallido con muertos | 40–41 |

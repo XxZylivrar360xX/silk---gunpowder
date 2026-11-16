@@ -58,7 +58,7 @@ Columnas: **I** *Máscaras de Cristal* · **II** *Sombras de Poder* · **III** *
 | [[02_Characters/Mabel_Ortiz]] | 3 | 3 | 3 | 3 | — | red civil de Chiara |
 | [[02_Characters/Daniel_Hayes]] | 3 | 3 | 3 | 3 | — | barrio |
 | [[02_Characters/Tyler_Brooks]] | 3 | 3 | 3 | 2 (prisión) | — | núcleo joven |
-| [[02_Characters/Mei_Lin_Zhao]] | 3 | 2 † (F2) | — | — | — | núcleo de El Patio |
+| [[02_Characters/Mei_Nakano]] | 3 | 2 † (F2) | — | — | — | núcleo de El Patio |
 | [[02_Characters/Bonnie_Garcia]] | 3 | 3 | 3 | 3 | 3 | protegida de Chiara |
 | [[02_Characters/Kenji_Oda]] | 3 | 3 | 3 † | — | — | i Sussurri / Marisol |
 | [[02_Characters/Tommaso_Lusardi]] | 3 | 3 (se va) | — | — | — | Monarch |
@@ -120,7 +120,7 @@ Formato: **qué es** en ese libro → **qué le cambia**. Fuente de cada línea:
 | Libro | Quién es | Movimiento |
 |---|---|---|
 | I | Gestión de imagen y contención de prensa en el Monarch | Il Consorzio la reclama como Ardizzone (respaldo y atadura). Una sola deuda con Varek, que crece a «cuenta abierta». Custodia de las rutas; va al convoy desobedeciendo a la mesa. |
-| II | **CANON:** protege lo que empezó a amar porque todo lo que llega se va o muere; espiral de descenso. *Oficio: PENDIENTE* | Pierde a Fabrizio, a Tommaso (gana el Monarch), a Mei-Lin y a Bonnie. Juntos pero separados. Su secreto aparente es Varek; el real es Elenna («Sono incinta»). |
+| II | **CANON:** protege lo que empezó a amar porque todo lo que llega se va o muere; espiral de descenso. *Oficio: PENDIENTE* | Pierde a Fabrizio, a Tommaso (gana el Monarch), a Mei y a Bonnie. Juntos pero separados. Su secreto aparente es Varek; el real es Elenna («Sono incinta»). |
 | III | **PENDIENTE DEL AUTOR** | Embarazo, nacimiento y falsa muerte de Elenna. Santa Lucía: crítica y después en coma. |
 | IV | **PENDIENTE DEL AUTOR** | Despierta frente a Corrado, Il Consorzio y el apellido; sale con Kal a Palermo. *(2026-11-15: la familia termina en Boston, no en Palermo; ver [[11_Books/00_Diseno_Final_Boston_Y_La_Villa]].)* *Voto inverso, mismo día: después del IV viven en movimiento, sin casa fija; [[07_Ideas/El_Voto_Inverso]].* |
 | V–VII | Figura pública del viñedo y la distribuidora | Igual que Kal: ausente en V–VI, regresa en el VII. *(2026-11-15: por re-decidir con el final en Boston; ver [[11_Books/00_Diseno_Final_Boston_Y_La_Villa]].)* *Voto inverso, mismo día: en el hospital Lucía descubre a Kal y debe entregarlo; vuelven a la Villa en el cierre del VII; [[07_Ideas/El_Voto_Inverso]].* |
@@ -141,7 +141,7 @@ Formato: **qué es** en ese libro → **qué le cambia**. Fuente de cada línea:
 | Libro | Movimiento |
 |---|---|
 | I | El amigo que no le debe nada a Kal; la correa de Halbrook (ICE) pasa por él. Del «usted» al «tú» con Chiara después del corral. En el arco sin Kal acepta un trabajo de Crowe a espaldas de todos. |
-| II | **F2:** Mei-Lin muere en sus manos después de que él le dijera que estaba decepcionado. Primera grieta entre Nadir persona y Nadir organización; sigue leal. |
+| II | **F2:** Mei muere en sus manos después de que él le dijera que estaba decepcionado. Primera grieta entre Nadir persona y Nadir organización; sigue leal. |
 | III | **PENDIENTE.** No hay canon propio entre F2 y la muerte de Halbrook; la ficha sugiere que la grieta puede empujarlo a buscar vida fuera de la institución. |
 | IV | La ciudad cree que el tirador pudo ser él y lo permite; saca a Harper del país con Kal; al final le cuenta la verdad a Chiara. |
 | V–VII | **PENDIENTE.** |
@@ -187,7 +187,7 @@ Formato: **qué es** en ese libro → **qué le cambia**. Fuente de cada línea:
 | Libro | Movimiento |
 |---|---|
 | I | El padre que Kal eligió; filtro del portón; el infarto; chaperón. |
-| II | El consejo de F2: pospone el juicio de Mei-Lin («es una niña que actuó por miedo»). |
+| II | El consejo de F2: pospone el juicio de Mei («es una niña que actuó por miedo»). |
 | III | Muere en la montaña, el día del clímax. |
 
 ### Lucía Varek — la ley que elige contra su padre
@@ -212,8 +212,8 @@ Formato: **qué es** en ese libro → **qué le cambia**. Fuente de cada línea:
 
 **Corregidas el 2026-11-12 por orden del autor** (propagación de canon ya decidido; ningún canon nuevo). Los puntos 1 y 3 coinciden con las contradicciones de propagación del [[11_Books/00_Libro_Mayor_Deudas_Saga]].
 
-1. **Dónde crece Elenna (Boston, no Italia; CANON 2026-11-07).** Corregido en línea en las fichas de Bonnie, Elenna (cabecera) y el README, en [[01_Timeline/04_Libro_03_Voto_De_Ceniza]], [[06_Relationships/Hitos]] (prerrequisitos de H22), [[04_Concepts/La_Guerra_de_los_Tres]] (tabla de capas) y [[05_Locations/La_Villa]]; Bonnie y Mei-Lin llevan ya la nota de cambio de canon que tenían las demás fichas. **Queda:** el cuerpo de [[00_Biblia/00_Trilogy_Structure]] y de las fichas de Elenna y Bonnie (los cubre su nota de cabecera) y los mapas del [[11_Books/Book_03_Voto_De_Ceniza/00_Book_Map|III]] y del [[11_Books/Book_04_Cuentas_De_Sangre/00_Book_Map|IV]], que no se tocaron porque otra sesión los estaba editando.
-2. **Mei-Lin «ejecutada».** Corregido el campo «Estado» de [[02_Characters/Mei_Lin_Zhao]].
+1. **Dónde crece Elenna (Boston, no Italia; CANON 2026-11-07).** Corregido en línea en las fichas de Bonnie, Elenna (cabecera) y el README, en [[01_Timeline/04_Libro_03_Voto_De_Ceniza]], [[06_Relationships/Hitos]] (prerrequisitos de H22), [[04_Concepts/La_Guerra_de_los_Tres]] (tabla de capas) y [[05_Locations/La_Villa]]; Bonnie y Mei llevan ya la nota de cambio de canon que tenían las demás fichas. **Queda:** el cuerpo de [[00_Biblia/00_Trilogy_Structure]] y de las fichas de Elenna y Bonnie (los cubre su nota de cabecera) y los mapas del [[11_Books/Book_03_Voto_De_Ceniza/00_Book_Map|III]] y del [[11_Books/Book_04_Cuentas_De_Sangre/00_Book_Map|IV]], que no se tocaron porque otra sesión los estaba editando.
+2. **Mei «ejecutada».** Corregido el campo «Estado» de [[02_Characters/Mei_Nakano]].
 3. **Numeración vieja de libros.** *Voto de Ceniza* pasa a Libro III y *Cuentas de Sangre* a Libro IV en las líneas vigentes de Héctor, Corrado, Kenji, Elenna, Chiara, Marisol, Matteo, Kal_y_Chiara, La_Guerra_de_los_Tres, La_Villa e Iglesia_Santa_Lucia. Las notas históricas («era Libro II», tachados, avisos de supersesión) se dejaron como estaban.
 4. **Trix «vive lejos».** Tachado en [[02_Characters/Beatrice_Varek]], con la nota de su muerte en el III.
 5. **README del reparto.** Keene, Fabrizio y Tommaso llevan su estado. Si sus nombres siguen siendo «provisionales» lo decide el autor; la agrupación del README no se reordenó.

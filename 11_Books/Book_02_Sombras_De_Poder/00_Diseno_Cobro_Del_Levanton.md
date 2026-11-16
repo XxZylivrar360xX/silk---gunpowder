@@ -7,7 +7,7 @@
 1. **Libro I:** Kal busca a los hombres del levantón y no los encuentra. Lo pausa por todo lo que viene.
 2. **Libro II:** uno o los dos van al Monarch, sólo a jugar. Chiara reconoce la voz, una frase o un tic que coincide con el levantón.
 3. Contesta con una sonrisa ("Claro, tesoro, yo me encargo"), se aparta y llama a Kal.
-4. Kal los embosca cuando salen o se apartan. El Patio ya está consolidado (Mei-Lin, Bonnie, Ren) y puede ejecutar una intervención de esa escala contra dos personas.
+4. Kal los embosca cuando salen o se apartan. El Patio ya está consolidado (Mei, Bonnie, Ren) y puede ejecutar una intervención de esa escala contra dos personas.
 5. Kal los **interroga, no los tortura**. Chiara decide ir a donde los tienen: un lugar en desuso, discreto, sin ruido ni testigos (túneles, vías viejas).
 6. Kal les perdona la vida a los dos. Uno dice algo tan sucio y tan bajo que **Chiara toma el arma y lo ejecuta**.
 7. Sirve de combustible para la guerra de bandas de *Voto de Ceniza*.
@@ -50,7 +50,7 @@
 
 ## Pendientes del autor
 
-1. **Ubicación:** con Mei-Lin, Bonnie y Ren dentro, cabe en la Parte II (después de que el Patio se vuelve familia; antes del choque) o al abrir la III, antes de F2 (Mei-Lin muere y Bonnie se va en la III).
+1. **Ubicación:** con Mei, Bonnie y Ren dentro, cabe en la Parte II (después de que el Patio se vuelve familia; antes del choque) o al abrir la III, antes de F2 (Mei muere y Bonnie se va en la III).
 2. **La seña:** "Nadie tiene prisa" (CONFIRMADA por el autor, 2026-10-26), sembrada en el Cap. 12: la dice el de la máscara al oído, con la mano en la cara interna del muslo, bajo el vestido. Chiara tuerce la boca y entrecierra los ojos (repulsión dosificada, sin trauma). A Kal le da las señas, pero la voz se la guarda. Vestido (referencia del autor): blanco, manga larga, hombro marcado, entallado a medio muslo, broche de cristales en la cintura; sandalias plateadas de tacón fino con moño de pedrería. Se describe en el café y se mancha con la sangre del labio.
 3. **Lo que dice antes de morir:** la línea "tan sucia y tan baja" es del autor.
 4. **Los Calderos:** si Mack Calderon sabe que fue la mujer de Mercer.

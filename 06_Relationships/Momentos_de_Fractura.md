@@ -126,38 +126,38 @@ Chiara ayudaba a **Elliot Price**, un hombre autista vinculado al taller; se sob
 
 ---
 
-## F2 - La muerte de Mei-Lin y la salida de Bonnie
+## F2 - La muerte de Mei y la salida de Bonnie
 
 > Plan anterior retirado: [[97_Supersedido/F2_Ejecucion_Y_Destierro]].
 
-**Función:** fractura moral y derrota de Chiara. F2 es el costo acumulado del libro: Chiara pierde a Mei-Lin, a Bonnie, a Fabrizio y a Tommaso, y se siente derrotada.
+**Función:** fractura moral y derrota de Chiara. F2 es el costo acumulado del libro: Chiara pierde a Mei, a Bonnie, a Fabrizio y a Tommaso, y se siente derrotada.
 **Lugar:** una operación del Patio (PENDIENTE cuál), la camioneta de regreso y El Patio.
 
 > **Ajuste del mismo día (CANON DEL AUTOR, 2026-11-07, segunda ronda):** la herida pasa de bala escondida a **puñalada en la femoral**, para que F2 no copie la mecánica de H1. Versión anterior (balazo, adrenalina, desangrado sin que nadie lo note, Héctor preguntando si alguien venía herido) retirada: [[97_Supersedido/F2_Ejecucion_Y_Destierro]].
 **Libro:** *Sombras de Poder*, separado de H1 (el autor no quiere cargar H1). Posición provisional: la de antes, Parte III — Exilio, antes de la boda, Stavanger y H1. Ajuste fino: PENDIENTE.
 
-> **CANON DEL AUTOR (2026-11-07). Sustituye la ejecución de Mei-Lin y el destierro de Bonnie.** Motivo del autor: la ejecución y el exilio eran demasiado fieles a la fuente de inspiración; se alejan.
+> **CANON DEL AUTOR (2026-11-07). Sustituye la ejecución de Mei y el destierro de Bonnie.** Motivo del autor: la ejecución y el exilio eran demasiado fieles a la fuente de inspiración; se alejan.
 
-### F2-A — Mei-Lin (CANON DEL AUTOR, 2026-11-07)
+### F2-A — Mei (CANON DEL AUTOR, 2026-11-07)
 
 1. **La filtración se descubre y Kal no la hace pública.** Sólo lo saben Nadir y [[02_Characters/Hector_Navarro|Héctor]]; los muchachos no.
-0. **Cómo se descubre (CANON DEL AUTOR, 2026-11-07):** cuando Kal pagó la deuda de Yun-Kai, el hombre de Varek le dijo «Lo del hermano queda saldado»; al aparecer la filtración, esa frase le cae de golpe. Detalle: [[02_Characters/Mei_Lin_Zhao]].
+0. **Cómo se descubre (CANON DEL AUTOR, 2026-11-07):** cuando Kal pagó la deuda de Kaito, el hombre de Varek le dijo «Lo del hermano queda saldado»; al aparecer la filtración, esa frase le cae de golpe. Detalle: [[02_Characters/Mei_Nakano]].
 2. **Héctor pide calma.** Le recomienda a Kal no tomar una decisión precipitada: es sólo una niña que actuó por miedo. Kal lo entiende y pospone el «juicio».
-3. **Kal se lo dice a Mei-Lin:** decidirán su destino al acabar la operación.
-4. **Nadir, decepcionado, se lo dice a Mei-Lin antes de empezar.**
+3. **Kal se lo dice a Mei:** decidirán su destino al acabar la operación.
+4. **Nadir, decepcionado, se lo dice a Mei antes de empezar.**
 5. **La puñalada.** En la operación, un enemigo la apuñala muy arriba del muslo, casi en la ingle, y le perfora la femoral. Es una herida que todos ven y una carrera contra minutos.
 6. **El torniquete no aguanta.** Nadir le amarra uno improvisado; tan arriba no hay dónde apretar y no detiene la hemorragia. No es torpeza: es la anatomía.
 7. **La regla del Patio.** Nunca se llega a un hospital directo desde una operación, porque los ata a la escena. Van a El Patio. **La regla la mata.**
 8. **Muere en El Patio, en manos de Nadir, con toda la banda viéndola y rodeándola.** Nadir grita «¡Mei, Mei, Mei, Mei!»; Bonnie le sostiene la mano y les pide desesperada a los chicos que llamen una ambulancia: es la voz civil contra la regla de la calle.
-9. **Sus últimas palabras son para Kal: «Perdóname, jefe.»** Cuando Kal contesta, los ojos de Mei-Lin ya miran a la nada y a él al mismo tiempo. **Kal le contesta (CANON DEL AUTOR, 2026-11-13):** «—Eso ya no importa, estás aquí… con nosotros.» No llora hasta el cap. 39 del Libro II, con Chiara: «Iba a decirle que sin importar lo que tuvo que hacer, era de los míos.» (CANON DEL AUTOR, 2026-11-13).
+9. **Sus últimas palabras son para Kal: «Perdóname, jefe.»** Cuando Kal contesta, los ojos de Mei ya miran a la nada y a él al mismo tiempo. **Kal le contesta (CANON DEL AUTOR, 2026-11-13):** «—Eso ya no importa, estás aquí… con nosotros.» No llora hasta el cap. 39 del Libro II, con Chiara: «Iba a decirle que sin importar lo que tuvo que hacer, era de los míos.» (CANON DEL AUTOR, 2026-11-13).
 10. **Los demás no vuelven intactos.** Otros chicos traen heridas menores y van después al hospital con una historia armada. Eso trae preguntas y policías (DISEÑO: los de Varek).
 11. **El forro.** Después de enterrarla ven el forro de la camioneta lleno de sangre. Nadie dice nada: entienden que acaban de perder a una de la familia, no a alguien de la banda.
 
-**Consecuencia estructural (DISEÑO):** el juicio pospuesto nunca se dicta. Kal no decide ninguna muerte, pero se queda con la pregunta de qué habría decidido y con un «perdóname» que no alcanzó a responder a tiempo. Nadir se queda con que lo último que le dio fue su decepción, y con las manos que no pudieron cerrar la herida. Kal vuelve a casa esa noche entero; Chiara lo ve llegar a él, y a Mei-Lin no.
+**Consecuencia estructural (DISEÑO):** el juicio pospuesto nunca se dicta. Kal no decide ninguna muerte, pero se queda con la pregunta de qué habría decidido y con un «perdóname» que no alcanzó a responder a tiempo. Nadir se queda con que lo último que le dio fue su decepción, y con las manos que no pudieron cerrar la herida. Kal vuelve a casa esa noche entero; Chiara lo ve llegar a él, y a Mei no.
 
 ### F2 contra H1: oposición, no copia (DISEÑO aprobado por el autor, 2026-11-07)
 
-| | F2 (Mei-Lin) | H1 (Kal) |
+| | F2 (Mei) | H1 (Kal) |
 |---|---|---|
 | Herida | puñalada, femoral | bala, costado |
 | Visibilidad | todos la ven | escondida; sólo Héctor la ve |
@@ -168,31 +168,31 @@ Chiara ayudaba a **Elliot Price**, un hombre autista vinculado al taller; se sob
 **Cobros en H1 (DISEÑO):**
 - **«Los hospitales están vigilados»** tiene fundamento: los chicos heridos de F2 trajeron preguntas y policías.
 - **Camila** ya existe en el canon ([[02_Characters/Camila_Rivas]]); con una femoral ningún médico llega. Lo que F2 le enseña a Chiara es que los minutos cuentan, y por eso en H1 insiste con Camila para que venga urgentemente.
-- **La vigilia de Chiara** carga todo lo acumulado: la muerte de Mei-Lin y la de Fabrizio, la partida de Bonnie y la de Tommaso, el miedo a que Marisol pierda otro padre y a que su hija (ella ya sabe del embarazo; Kal no) sufra la misma herida que ella con Corrado. **Regla:** nada de eso se dice. La grieta sigue cayendo en el eco de Corrado (canon); lo acumulado es el peso que la rompe ahí, no un inventario en voz alta. El «No otra vez» de la piscina carga a Mei-Lin sin nombrarla.
+- **La vigilia de Chiara** carga todo lo acumulado: la muerte de Mei y la de Fabrizio, la partida de Bonnie y la de Tommaso, el miedo a que Marisol pierda otro padre y a que su hija (ella ya sabe del embarazo; Kal no) sufra la misma herida que ella con Corrado. **Regla:** nada de eso se dice. La grieta sigue cayendo en el eco de Corrado (canon); lo acumulado es el peso que la rompe ahí, no un inventario en voz alta. El «No otra vez» de la piscina carga a Mei sin nombrarla.
 
 ### F2-B — Bonnie (CANON DEL AUTOR, 2026-11-07)
 
 - **No tiene nada que ver con la filtración.** Se retiran la coartada, la confesión, el barrio que pide su cabeza y la excepción por amor a Chiara.
-- **Se entera de la traición de Mei-Lin antes de irse:** se la cuenta Nadir (DISEÑO). **La tarde después del entierro (DECISIÓN DEL AUTOR, 2026-11-13)** platica con Chiara, que todavía le habla de planes a futuro; Bonnie le dice que no va a quedarse y, en la misma plática, le cuenta la traición y que Kal la calló. Es el corazón del cap. 39 del Libro II (POV de Chiara): el duelo de Chiara por Mei-Lin y por Bonnie. Se va después del entierro.
+- **Se entera de la traición de Mei antes de irse:** se la cuenta Nadir (DISEÑO). **La tarde después del entierro (DECISIÓN DEL AUTOR, 2026-11-13)** platica con Chiara, que todavía le habla de planes a futuro; Bonnie le dice que no va a quedarse y, en la misma plática, le cuenta la traición y que Kal la calló. Es el corazón del cap. 39 del Libro II (POV de Chiara): el duelo de Chiara por Mei y por Bonnie. Se va después del entierro.
 - **Se va por elección, a Boston**, con sus padres adoptivos ([[02_Characters/Bonnie_Garcia]]). Días antes, Chiara y [[02_Characters/Marisol_Grayson|Marisol]] empezaron a hablarle de estudiar una carrera y construir su propio futuro sin depender de nadie (ni de Kal, ni de Chiara, ni de nadie), sin estar en las calles, expuesta. La propia Bonnie ya sentía el mundo de la calle muy chico y asfixiante.
 - **Perder a su mejor amiga es lo que la decide.** El trauma es la causa; la conversación previa sólo le abrió la puerta. No es castigo, no es exilio y nadie le prohíbe volver.
-- **La ambulancia (DISEÑO):** pidió una ambulancia contra la regla que mató a Mei-Lin. Su «el mundo de la calle es chico y asfixiante» se vuelve rechazo de esa regla, no sólo duelo.
+- **La ambulancia (DISEÑO):** pidió una ambulancia contra la regla que mató a Mei. Su «el mundo de la calle es chico y asfixiante» se vuelve rechazo de esa regla, no sólo duelo.
 
 ### Lo que arrastra el cambio
 
 - **Elenna (CANON DEL AUTOR, 2026-11-07):** Bonnie la recibe desde Boston en *Voto de Ceniza*. Se retiran Italia y Elenna Serra como resguardo; el lugar exacto, la documentación y la pista de la entrega quedan PENDIENTES.
 - **La tarde de las latas** (canon, antes de F2) pierde su cobro, que era que Bonnie fuera a confesarle a Kal. **PENDIENTE:** si se conserva y qué cobra ahora. DISEÑO posible: que la conversación sobre familia y futuro sea la primera semilla de Boston.
-- **Diálogo canon de la noche de F2** («Lo siento, ¿vale?» / «No te martirices. Hiciste lo que debías hacer.» y el beso en la frente): ya no hay una decisión monstruosa de Kal que perdonar. ~~**PENDIENTE del autor:** si la línea se queda (con otro sentido), se mueve o se retira.~~ **DECISIÓN DEL AUTOR (2026-11-12):** se queda, con otro sentido y sin reescribirse. Kal vuelve a la Villa después de sepultar a Mei-Lin, aun después de la traición, y encuentra a Chiara rota en el suelo, llorando, con la foto de la cena de Navidad: todos los chicos sonriendo, como si pudieran con el mundo. Kal se disculpa porque el código de su propia jerarquía costó una vida: a él, y a Chiara le costó a Mei-Lin y a Bonnie. Va en el cap. 38 de [[11_Books/Book_02_Sombras_De_Poder/00_Guia_Redaccion_Capitulos]]. **Además (DECISIÓN DEL AUTOR):** F2 se queda en la Parte III; el final de *Sombras de Poder* la cobra con ecos de Kal y Chiara, no con venganza ni de forma textual.
+- **Diálogo canon de la noche de F2** («Lo siento, ¿vale?» / «No te martirices. Hiciste lo que debías hacer.» y el beso en la frente): ya no hay una decisión monstruosa de Kal que perdonar. ~~**PENDIENTE del autor:** si la línea se queda (con otro sentido), se mueve o se retira.~~ **DECISIÓN DEL AUTOR (2026-11-12):** se queda, con otro sentido y sin reescribirse. Kal vuelve a la Villa después de sepultar a Mei, aun después de la traición, y encuentra a Chiara rota en el suelo, llorando, con la foto de la cena de Navidad: todos los chicos sonriendo, como si pudieran con el mundo. Kal se disculpa porque el código de su propia jerarquía costó una vida: a él, y a Chiara le costó a Mei y a Bonnie. Va en el cap. 38 de [[11_Books/Book_02_Sombras_De_Poder/00_Guia_Redaccion_Capitulos]]. **Además (DECISIÓN DEL AUTOR):** F2 se queda en la Parte III; el final de *Sombras de Poder* la cobra con ecos de Kal y Chiara, no con venganza ni de forma textual.
 - **Regreso de Bonnie ~un año antes del epílogo:** se conserva. Sin exilio no hay condición que «venza», y el nombre Roberta Ardizzone venía de Italia. PENDIENTE: con qué nombre vuelve y por qué tarda ~veinte años. *(Superado 2026-11-07: Bonnie está en Boston; la cobertura «Roberta Ardizzone» se retiró.)*
-- **PENDIENTES que siguen vivos:** qué información entrega Mei-Lin, con qué frecuencia y qué daño hace (el hecho que la delata quedó resuelto: «Lo del hermano queda saldado»); qué operación es y quién la apuñala (DISEÑO en la guía del Libro II, caps. 37–38); si el resto de los muchachos se entera después de la traición.
+- **PENDIENTES que siguen vivos:** qué información entrega Mei, con qué frecuencia y qué daño hace (el hecho que la delata quedó resuelto: «Lo del hermano queda saldado»); qué operación es y quién la apuñala (DISEÑO en la guía del Libro II, caps. 37–38); si el resto de los muchachos se entera después de la traición.
 
 ### Reglas duras
 
-- Mei-Lin muere como integrante real, no como resolución de una trama de espionaje: *los quería, los traicionó y tenía miedo*. Ni absolverla ni volverla villana.
+- Mei muere como integrante real, no como resolución de una trama de espionaje: *los quería, los traicionó y tenía miedo*. Ni absolverla ni volverla villana.
 - Nadie la mata desde dentro: ni Kal ni Nadir disparan.
 - La salida de Bonnie no es premio ni castigo: es una vida propia, comprada con un duelo.
-- **Hay que construir a Mei-Lin en los Libros I y II** para que duela verla morir (CANON DEL AUTOR, 2026-11-07): la amistad con Bonnie (casa, horarios, barrio, autos, rutinas) y su vínculo con Kal, que es a quien le pide perdón.
-- Distinguir el descubrimiento de la filtración real de la revelación concluyente Varek–Volpi, reservada para el Libro III. La línea Tommaso → Mei-Lin no se muestra. *(SUPERSEDIDO, DECISIÓN DEL AUTOR 2026-11-12/14: Volpi siempre es de La Mesa; con Varek sólo estuvo de «vacaciones». Ver [[11_Books/Book_04_Cuentas_De_Sangre/00_Diseno_Complot_De_La_Mesa]].)*
+- **Hay que construir a Mei en los Libros I y II** para que duela verla morir (CANON DEL AUTOR, 2026-11-07): la amistad con Bonnie (casa, horarios, barrio, autos, rutinas) y su vínculo con Kal, que es a quien le pide perdón.
+- Distinguir el descubrimiento de la filtración real de la revelación concluyente Varek–Volpi, reservada para el Libro III. La línea Tommaso → Mei no se muestra. *(SUPERSEDIDO, DECISIÓN DEL AUTOR 2026-11-12/14: Volpi siempre es de La Mesa; con Varek sólo estuvo de «vacaciones». Ver [[11_Books/Book_04_Cuentas_De_Sangre/00_Diseno_Complot_De_La_Mesa]].)*
 - **Chiara:** F2 la toca porque «todo lo que llega se va o muere» ([[02_Characters/Chiara_Bellandi]]); de ahí nace la depresión que Mabel interrumpe con la boda.
 
 ---
@@ -409,13 +409,13 @@ La escena es bonita porque no borra la fractura. La contesta. Kal no le está di
 | 1 | **F1 - La mentira bajo la lluvia** | Primera fractura de confianza: Chiara miente sobre su investigación de la salida de Matteo |
 | 2 | **F4 - Año Nuevo en Washington** | Noche separada (Washington / Monarch), antes del incendio; causa de la ausencia de Kal PENDIENTE de rediseño (2026-11-07; Anya retirada); piano, nacimiento de la vela |
 | 3 | **F3 - Los frenos** | Choque de Tommaso y Marisol en el Lancia de Chiara; Kal en el armario; vuelve golpeado de investigar y dice «Te amo» sin que ella lo oiga (reescrita 2026-10-14) |
-| 4 | **F2 - La muerte de Mei-Lin y la salida de Bonnie** | Fractura moral: el ascenso exige una pérdida irreversible |
+| 4 | **F2 - La muerte de Mei y la salida de Bonnie** | Fractura moral: el ascenso exige una pérdida irreversible |
 
 > **REORDENADO (2026-09-20, segunda corrección del autor el mismo día):** F1 vuelve a ser la primera fractura del libro (restaurando en lo esencial el orden 2026-08-29), pero ahora ocurre **dentro de la Parte III**, no antes de H21 — ver nota de posición en la sección de F1, arriba. El orden intermedio de esta misma fecha (F4 → F3 → F1 → F2, con F1 al final) queda sustituido por este.
 
 Este orden permite que la relación escale de una mentira íntima resuelta pronto y bien, al desplazamiento tras perder la casa, al miedo de pérdida, a costo moral compartido. Si F2 ocurre demasiado pronto, la pareja todavía no tiene suficiente capital emocional para sobrevivirla sin parecer escrita por decreto.
 
-> **Anclas vigentes — CANON DEL AUTOR 2026-09-20 (F1 corregida el mismo día tras el Cap. 38):** F1 en III **después de Palermo/H18 y antes de Camp Alder**; incendio cierra IV; ~~F4 abre V (1 de enero, juntos y solos, después del incendio)~~ **[SUPERSEDIDO 2026-09-26: F4 separada, antes del incendio]**; F3 después; F2 en V, Mei-Lin y Bonnie el mismo día, **antes de Villa y Stavanger** y con aire antes de H1/VI. **SUPERSEDIDO** el antiguo pendiente F1 frente al bloque F4 → F3 → H8. Sólo distancia precisa F4/F3/F2 pendiente. Ver [[01_Timeline/02_Libro_01_Mascaras_De_Cristal]].
+> **Anclas vigentes — CANON DEL AUTOR 2026-09-20 (F1 corregida el mismo día tras el Cap. 38):** F1 en III **después de Palermo/H18 y antes de Camp Alder**; incendio cierra IV; ~~F4 abre V (1 de enero, juntos y solos, después del incendio)~~ **[SUPERSEDIDO 2026-09-26: F4 separada, antes del incendio]**; F3 después; F2 en V, Mei y Bonnie el mismo día, **antes de Villa y Stavanger** y con aire antes de H1/VI. **SUPERSEDIDO** el antiguo pendiente F1 frente al bloque F4 → F3 → H8. Sólo distancia precisa F4/F3/F2 pendiente. Ver [[01_Timeline/02_Libro_01_Mascaras_De_Cristal]].
 
 ---
 
@@ -423,8 +423,8 @@ Este orden permite que la relación escale de una mentira íntima resuelta pront
 
 - ~~Objeto exacto de la pista de Matteo que Chiara investiga en F1.~~ **RESUELTO (2026-09-20, versión definitiva — sustituye "el auto de Matteo / un primo lo recogería"):** inconsistencia de mensajería — la documentación de Génova pasó por un servicio comercial de San Aurelio antes del Monarch; el vehículo del mensajero queda registrado en cámara (modelo, color, matrícula, empresa).
 - ~~Incidente exacto que obliga a Bonnie a informarle a Kal.~~ **RESUELTO (2026-09-20, versión definitiva con escena concreta):** en Almendra Towing, un hombre aborda a Bonnie sin amenaza explícita ("¿Buscas a alguien?" / "Entonces ya encontraste lo que buscabas") y después otro coche la sigue varias calles antes de que lo pierda — demuestra que ya sabe quién es, sin identificarse.
-- ~~Definir si Mei-Lin realmente traicionó o si sólo dejó demasiada duda.~~ **RESUELTO (2026-09-20):** sí traiciona realmente — es fuente pasiva de Varek desde que Tommaso la recluta — pero por coerción/miedo, no por plan de infiltración ni indiferencia hacia El Patio. Ver [[02_Characters/Mei_Lin_Zhao]] y [[02_Characters/Tommaso_Lusardi]].
-- **NUEVO PENDIENTE (2026-09-20), no inventar todavía:** qué información exacta entrega Mei-Lin a Varek, y qué hecho concreto permite a Kal/El Patio descubrir la filtración. Necesario antes de escribir F2 en Parte V; no bloquea los capítulos actuales de Parte III.
+- ~~Definir si Mei realmente traicionó o si sólo dejó demasiada duda.~~ **RESUELTO (2026-09-20):** sí traiciona realmente — es fuente pasiva de Varek desde que Tommaso la recluta — pero por coerción/miedo, no por plan de infiltración ni indiferencia hacia El Patio. Ver [[02_Characters/Mei_Nakano]] y [[02_Characters/Tommaso_Lusardi]].
+- **NUEVO PENDIENTE (2026-09-20), no inventar todavía:** qué información exacta entrega Mei a Varek, y qué hecho concreto permite a Kal/El Patio descubrir la filtración. Necesario antes de escribir F2 en Parte V; no bloquea los capítulos actuales de Parte III.
 - Nombrar la pista clandestina del norte.
 - **RESUELTO (CANON DEL AUTOR 2026-10-03):** el alias en Italia es **Roberta Ardizzone**. Se descontinúa «Bonnie Colombo», porque Colombo era el apellido de la fuente de inspiración. Detalle en [[02_Characters/Bonnie_Garcia]]. Mecanismo documental, cobertura legal, apoyo y localización siguen pendientes. *(Superado 2026-11-07: Bonnie está en Boston; «Elenna Serra» e Italia, retiradas.)*
 - Fijar cuánto tiempo transcurre entre F2, su establecimiento estable en Italia y el nacimiento de Elenna. *(Superado 2026-11-07: Bonnie está en Boston; «Elenna Serra» e Italia, retiradas.)*

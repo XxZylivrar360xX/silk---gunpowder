@@ -21,7 +21,7 @@ Actualizado: 2026-10-29 (diferidos desde PENDING; antes 2026-10-14). Lectura por
 
 > **PENDIENTE:** resolver con el autor antes de ejecutar el tramo afectado.
 
-- F2: información exacta, frecuencia, daño y descubrimiento de las filtraciones de Mei-Lin; conflicto de Bonnie. La traición por coerción/miedo está fijada; la cadena Tommaso → Varek se reabre el 2026-10-12 (Tommaso no muere): falta cómo pasa la línea a Varek.
+- F2: información exacta, frecuencia, daño y descubrimiento de las filtraciones de Mei; conflicto de Bonnie. La traición por coerción/miedo está fijada; la cadena Tommaso → Varek se reabre el 2026-10-12 (Tommaso no muere): falta cómo pasa la línea a Varek.
 - H1: adversario/coalición y una intervención concreta de la infraestructura negable de La Mesa que vuelva inevitable el ataque y deje huella investigable.
 - F4: rediseñar la causa de la ausencia de Kal (Anya retirada 2026-11-07). F3: ejecutor material del sabotaje. Unión invisible: quién la filtra o rompe.
 - Segundo atentado: lugar, mecanismo y consecuencias; conservar la coacción de Fabrizio y el 2x1 no planeado. Desde 2026-10-12 Fabrizio es asesinado al abrir el Libro II: decidir si esa muerte cumple la orden de Volpi y qué queda del 2x1. No adelantar prueba concluyente Volpi–Varek en Libros I–II.
@@ -71,7 +71,7 @@ Actualizado: 2026-10-29 (diferidos desde PENDING; antes 2026-10-14). Lectura por
 Prosa en espera hasta cerrar el Libro I. Al empezar: recordar la muerte de Amanda Keegan ([[02_Characters/Natalie_Keegan]]) y revisar [[98_Agent_Handoff/BACKLOG#Libros II y III]] (incluye los cobros CANON del susurro a Varga y de «Usted es alta») antes de F2, H1 o Villa/Stavanger.
 
 - **Stavanger** ([[11_Books/Book_02_Sombras_De_Poder/Part_04_Torna_A_Casa/00_Diseno_Noche_Stavanger]]): leer la escena.
-- **F2** (nuevo, 2026-11-07: [[98_Agent_Handoff/sessions/2026-11-07_claude_f2_mei_lin_bonnie_nuevo_destino]]): rediseñar caps. 43–46; construir a Mei-Lin en los Libros I y II (vínculo con Kal: «Perdóname, jefe»); qué contesta Kal; qué operación; cómo se entera Bonnie; «Lo siento, ¿vale?»; latas; regreso y nombre de Bonnie; resguardo de Elenna en EE. UU.; qué filtra Mei-Lin y cómo se descubre.
+- **F2** (nuevo, 2026-11-07: [[98_Agent_Handoff/sessions/2026-11-07_claude_f2_mei_lin_bonnie_nuevo_destino]]): rediseñar caps. 43–46; construir a Mei en los Libros I y II (vínculo con Kal: «Perdóname, jefe»); qué contesta Kal; qué operación; cómo se entera Bonnie; «Lo siento, ¿vale?»; latas; regreso y nombre de Bonnie; resguardo de Elenna en EE. UU.; qué filtra Mei y cómo se descubre.
 - **Semillas Kal–Chiara** ([[98_Agent_Handoff/sessions/2026-10-14_claude_semillas_kal_chiara_bellissima_hijos_anya]]): «Bellissima» en el 20 o en el 16; charla sobre hijos; Collins, antes Anya (Chiara calla lo de la teniente hasta Stavanger; «amante» no se dice); anuncio de Bellandi Ridge; notas de supersesión en Anya, La_Villa y Los_Tres_Dias.
 - **Voces, REL-01** ([[98_Agent_Handoff/sessions/2026-10-14_claude_voces_rel01_chiara_bonnie]]): si Bonnie pasa del *usted* al *tú* con Chiara, quién lo provoca y en qué Parte. REL-02 y siguientes esperan.
 - **Harper en los Libros II y III** (2026-11-08): construir su papel para que la ejecución de Halbrook duela (Bonnie pudo salir; ella no). Ver [[02_Characters/Harper_Walker#La que no pudo salir — CANON DEL AUTOR (2026-11-08)]].
@@ -104,7 +104,7 @@ Prosa en espera hasta cerrar el Libro I. Al empezar: recordar la muerte de Amand
 
 - *Desde PENDING (2026-10-29; capítulos en la numeración de 57, ver la tabla de desfase en [[98_Agent_Handoff/PENDING]]):*
   - **Cuatro Partes** ([[11_Books/Book_02_Sombras_De_Poder/00_Plan_Cuatro_Partes]]): investigación nocturna de Kal; columna de Crowe y bandas del final fusionado; robo (origen del anillo, salida por el casino, túneles).
-  - **Rocco:** qué le pasa en el momento "John Wick" de El Patio y quién responde; su relación con Tyler, Mei-Lin y Bonnie; nombre y llegada del gato negro de Chiara ([[02_Characters/Rocco]]).
+  - **Rocco:** qué le pasa en el momento "John Wick" de El Patio y quién responde; su relación con Tyler, Mei y Bonnie; nombre y llegada del gato negro de Chiara ([[02_Characters/Rocco]]).
 
 ## Libros IV/V y herramientas
 

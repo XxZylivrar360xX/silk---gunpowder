@@ -4,7 +4,7 @@
 
 ## Hogares, pérdidas y futuro — CANON DEL AUTOR 2026-09-20
 
-Loft: hogar descubierto y construido por ambos → Navidad/collar en IV (**TORNA A CASA**, inscripción intacta) → **F4 separados (Kal en Washington, Chiara en el Monarch), piano de pared, antes del incendio** [canon 2026-09-26] → incendio cierra IV → F3 → F2: Mei-Lin muere y Bonnie se va **el mismo día** → Villa Candelaria como reconstrucción conjunta → Stavanger/anillo, todavía en V → embarazo/H1/reveal en VI, familia futura. No hay otros Tres Días después de Camp Alder.
+Loft: hogar descubierto y construido por ambos → Navidad/collar en IV (**TORNA A CASA**, inscripción intacta) → **F4 separados (Kal en Washington, Chiara en el Monarch), piano de pared, antes del incendio** [canon 2026-09-26] → incendio cierra IV → F3 → F2: Mei muere y Bonnie se va **el mismo día** → Villa Candelaria como reconstrucción conjunta → Stavanger/anillo, todavía en V → embarazo/H1/reveal en VI, familia futura. No hay otros Tres Días después de Camp Alder.
 
 > **SUPERSEDIDO (CANON DEL AUTOR, 2026-10-12/13):** el orden de arriba es historial. Ahora el incendio y Villa Candelaria van en la Parte I, y Navidad/collar y F4 en la Parte II. **El piano lo compra Chiara para el cumpleaños de Kal** y lo espera en el penthouse. La vela nace en la incursión posterior a F4. Manda [[11_Books/Book_02_Sombras_De_Poder/00_Plan_Cuatro_Partes]].
 
@@ -24,7 +24,7 @@ Elenna en VI significa embarazo, familia futura y riesgo sobre ese futuro. Nacim
 
 Y van a pasar por cosas que tensen la relación hasta lo indecible. Ésa es la gracia.
 
-Los conflictos mayores que casi lo rompen todo están ordenados en [[06_Relationships/Momentos_de_Fractura]]: la mentira bajo la lluvia, el Año Nuevo en Washington, los frenos y el destierro de Bonnie con la muerte de Mei-Lin.
+Los conflictos mayores que casi lo rompen todo están ordenados en [[06_Relationships/Momentos_de_Fractura]]: la mentira bajo la lluvia, el Año Nuevo en Washington, los frenos y el destierro de Bonnie con la muerte de Mei.
 
 ### Qué implica, en la práctica
 

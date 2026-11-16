@@ -14,7 +14,7 @@ Encargo: «atacar los pendientes reales» de [[11_Books/Book_02_Sombras_De_Poder
 
 ## Archivos tocados
 
-Plan de cuatro Partes; [[01_Timeline/03_Libro_02_Sombras_De_Poder]] (notas de supersesión: piano, incursión, robo, brújula de hogar); [[06_Relationships/Momentos_de_Fractura]] (F4); [[06_Relationships/Hitos]] (nota del 2026-10-12); [[06_Relationships/Kal_y_Chiara]]; [[02_Characters/Anya_Voronina]]; [[02_Characters/Ren_Wei]]; [[02_Characters/Fabrizio_Rinaldi]]; [[02_Characters/Mei_Lin_Zhao]]. El texto anterior se conservó como historial.
+Plan de cuatro Partes; [[01_Timeline/03_Libro_02_Sombras_De_Poder]] (notas de supersesión: piano, incursión, robo, brújula de hogar); [[06_Relationships/Momentos_de_Fractura]] (F4); [[06_Relationships/Hitos]] (nota del 2026-10-12); [[06_Relationships/Kal_y_Chiara]]; [[02_Characters/Anya_Voronina]]; [[02_Characters/Ren_Wei]]; [[02_Characters/Fabrizio_Rinaldi]]; [[02_Characters/Mei_Nakano]]. El texto anterior se conservó como historial.
 
 ## Siguen abiertos
 

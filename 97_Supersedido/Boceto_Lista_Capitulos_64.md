@@ -371,7 +371,7 @@
 - **Por calibrar:** la relación Tommaso–Marisol (lo pide el plan).
 - **Siembra (CANON 2026-10-14):** cómo conoce Tommaso tan de cerca al círculo de Kal sigue sin explicarse. Se va con el secreto.
 
-> **REESTRUCTURA PENDIENTE (CANON DEL AUTOR, 2026-11-07):** F2 cambió ([[06_Relationships/Momentos_de_Fractura#F2 - La muerte de Mei-Lin y la salida de Bonnie|F2]]). Los caps. 43–46 de abajo siguen describiendo la coartada, la ejecución y el destierro, ya retirados; se rediseñan en otra sesión. No redactar desde ellos. Para el 43: la filtración se le revela a Kal por «Lo del hermano queda saldado» (CANON 2026-11-07, ficha de Mei-Lin).
+> **REESTRUCTURA PENDIENTE (CANON DEL AUTOR, 2026-11-07):** F2 cambió ([[06_Relationships/Momentos_de_Fractura#F2 - La muerte de Mei y la salida de Bonnie|F2]]). Los caps. 43–46 de abajo siguen describiendo la coartada, la ejecución y el destierro, ya retirados; se rediseñan en otra sesión. No redactar desde ellos. Para el 43: la filtración se le revela a Kal por «Lo del hermano queda saldado» (CANON 2026-11-07, ficha de Mei-Lin).
 
 **43. La línea** — abr–may A4 · Kal · DISEÑO
 
