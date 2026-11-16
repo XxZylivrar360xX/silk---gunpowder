@@ -5,8 +5,8 @@ estado: BORRADOR
 libro: Sombras de Poder (Libro II), Parte IV — Torna a casa
 capitulo: 56
 pov: Chiara Bellandi, único
-ventana_temporal: la noche de la tormenta (~6–8 dic A4; Kal llega a la Villa hacia las 5:30 p. m., Chiara después de las 6)
-localizacion: el camino a las Lomas; la Villa Candelaria (la sala, la piscina, el baño y el dormitorio de los dos)
+ventana_temporal: la noche de la tormenta (~6–8 dic A4; Kal llega a la Villa hacia las 6:30 p. m., Chiara pasadas las 7)
+localizacion: la carretera del norte y el camino del cerro, por Las Gemelas; la Villa Candelaria (la sala, la piscina, el baño y el dormitorio de los dos)
 personajes: Chiara Bellandi, Kal Mercer, Natalie Keegan (al abrir), Camila Rivas (fuera de plano en los diálogos)
 hito: H1 — El regreso a casa (movimientos 4 a 8)
 ---
@@ -17,7 +17,7 @@ hito: H1 — El regreso a casa (movimientos 4 a 8)
 >
 > **DISEÑO del agente:** la camioneta de Héctor frente al garaje; el ventanal de la sala que Kal dejó abierto al salir a la piscina; Chiara se mete vestida al agua; el relato de Kal «mitad verdad, mitad cómico» (la guitarra que da un acorde, el perico de la señora del segundo piso, Mack Calderon, el malvavisco, los Bravos, la camioneta de Héctor; se salta la nave y a Crowe; las primeras anécdotas, recortadas el 2026-11-13 para que el relato no pese antes del deterioro); «Sigue. Per favore. Sigue.» (eco de su forma de pedirle historias en el Libro I); el teléfono de Kal con el nombre de Héctor, que nadie contesta (prepara la visita de Héctor del 57); el ancla del eco de Corrado, «Su padre, agachado frente a ella en la iglesia. Con esa misma calma.» (la frase se sembró el 2026-11-13, por orden del autor, en el recuerdo de la iglesia del cap. 12 del Libro I, *Roma Atrii*); el eco de Mei-Lin por Bonnie, sin nombres («unas manos que apretaron así, en el suelo de un patio, y no alcanzó»); el suero colgado del toallero; la lágrima sola al final.
 
-> **PENDIENTE DE REUBICAR (2026-11-15, CANON DEL AUTOR: el voto inverso):** la Villa ya no está en Lomas de San Jacinto, sino en **un lote por Las Gemelas**, velada a los enemigos (centro → Las Gemelas: 50–70 min). Hay que reubicar la ficha YAML (l. 9: «el camino a las Lomas») y la prosa de la subida («La carretera interior subía a las Lomas en curvas largas, entre muros bajos y arces negros»); con esa distancia cambia el ritmo de la noche. **La prosa no se tocó** (registrado en [[98_Agent_Handoff/PENDING]]). Ver [[07_Ideas/El_Voto_Inverso]] · [[05_Locations/La_Villa]].
+> **REUBICADO (2026-11-15, CANON DEL AUTOR: el voto inverso):** la Villa está en **un lote por Las Gemelas**, velada a los enemigos (centro → Las Gemelas: 50–70 min). **DISEÑO del agente en la reubicación:** «casi dos horas en lo que se hacía en una»; la carretera del norte entre abetos, con la ciudad en el espejo hasta que la tapa el primer cerro; el portón abierto y la cadena en el lodo (Kal nunca la deja así: primer aviso antes de la camioneta de Héctor); las once curvas; Camila pide una hora y Chiara le exige media (antes, cuarenta y veinte). Ver [[07_Ideas/El_Voto_Inverso]] · [[05_Locations/La_Villa]] · [[98_Agent_Handoff/sessions/2026-11-15_claude_reubicacion_villa_54_56]].
 
 # No otra vez
 
@@ -31,13 +31,17 @@ Natalie la miró, primero a los ojos, después a las manos sobre el volante. No 
 
 Después manejó.
 
-Tardó más de una hora en lo que se hacía en veinte minutos. El protocolo había cerrado la ciudad en cuadrícula alrededor de Nueve Puentes, y dos veces la regresaron de un retén con una linterna en la cara.
+Tardó casi dos horas en lo que se hacía en una. El protocolo había cerrado la ciudad en cuadrícula alrededor de Nueve Puentes, y dos veces la regresaron de un retén con una linterna en la cara.
 
-La carretera interior subía a las Lomas en curvas largas, entre muros bajos y arces negros que goteaban sobre el asfalto. A esa hora no había nadie. Chiara iba con las dos manos en el volante y la calefacción apagada, porque con la calefacción se le cerraban los ojos, y por la ventanilla, a la derecha, cada vez más abajo, la ciudad era una mancha naranja contra las nubes. Ya no se veía la luz del helicóptero. Ya no se veía nada que dijera que ese día había pasado algo.
+La carretera del norte salía de la ciudad y se metía en los cerros entre abetos negros que goteaban sobre el asfalto. A esa hora no había nadie. Chiara iba con las dos manos en el volante y la calefacción apagada, porque con la calefacción se le cerraban los ojos, y en el espejo, cada vez más abajo, la ciudad era una mancha naranja contra las nubes, hasta que la tapó el primer cerro. Ya no se veía la luz del helicóptero. Ya no se veía nada que dijera que ese día había pasado algo.
 
 *Te veo en casa, bella.*
 
 En el bolsillo del abrigo, el papel.
+
+Pasó el desvío de las cascadas. El portón del camino estaba abierto de par en par, y la cadena colgaba de un poste, suelta, con la punta en el lodo. Él nunca la dejaba así.
+
+Las once curvas las subió más rápido de lo que se podían subir.
 
 Frente al garaje de la Villa, donde siempre estaba el coche de Kal, había una camioneta que no era suya. Vieja, gris, con una abolladura en el parachoques trasero que Chiara conocía. La de Héctor.
 
@@ -131,13 +135,13 @@ Camila contestó al primer timbre.
 
 Del otro lado hubo un segundo de nada.
 
-—Voy —dijo Camila—. Cuarenta minutos.
+—Voy —dijo Camila—. Una hora.
 
-—Veinte.
+—Media.
 
 —Chiara...
 
-—Veinte, Camila.
+—Media hora, Camila.
 
 —Hago lo que pueda. Mételo a la casa. Tápalo. Que no se duerma. Que te hable. Si se duerme, me llamas.
 

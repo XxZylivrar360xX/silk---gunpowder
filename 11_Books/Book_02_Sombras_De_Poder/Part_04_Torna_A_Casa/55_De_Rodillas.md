@@ -5,16 +5,16 @@ estado: BORRADOR
 libro: Sombras de Poder (Libro II), Parte IV — Torna a casa
 capitulo: 55
 pov: Kal Mercer, único
-ventana_temporal: el anochecer de la tormenta (~6–8 dic A4, entre las 4:45 y las 5:30 p. m.), después de «Todos están fuera, vamos a casa»; recuerdo de la nave de Crowe
-localizacion: la carretera de regreso; recuerdo: la nave de las prendas de Crowe, Nueve Puentes; Almendra Towing, La Almendra
+ventana_temporal: el anochecer de la tormenta (~6–8 dic A4, entre las 4:45 y las 6:30 p. m.; sale de la Almendra hacia las 5:30 y la carretera le lleva una hora), después de «Todos están fuera, vamos a casa»; recuerdo de la nave de Crowe
+localizacion: la carretera de regreso (la del norte y el camino del cerro hacia Las Gemelas); recuerdo: la nave de las prendas de Crowe, Nueve Puentes; Almendra Towing, La Almendra
 personajes: Kal Mercer, Silas Crowe (recuerdo), Walt Keegan, Héctor Navarro, los muchachos del Patio
 ---
 
 > **Estado:** BORRADOR del agente (Claude Code, 2026-11-13), segunda versión para lectura del autor (2026-11-13: razones de Héctor para dejarlo ir, vendaje de oficio en vez de papel y cinta, más espacio a la reacción de Kal ante el origen). Fuera de `CHAPTERS` de `tools/build_sombras.py`: no entra al EPUB.
 >
-> **CANON citado literal:** la línea cortada de Crowe a Walt («Ya perdiste a una esposa, así que cuida de tu cocinera, uno nunca sabe cuándo la muert...») y la de Walt, dicha después del disparo («A nadie le importa tu opinión, gordo hijo de puta.»). **CANON (hechos):** Crowe le revela a Kal que lo conoció antes de que fuera un Mercer (conectó a Dale con la red que lo trajo de bebé); Kal lo deja vivo porque lo necesita; Walt lo ejecuta; la fricción queda sin resolver; Walt y Kal se lo ocultan a Natalie; el tiro en el costado llega en la retirada, después de «Dime, Amore», y Kal cree que fue del tiroteo (Volpi, velado: nada en página); en la Almendra Héctor ve el chaleco ensangrentado y piensa en Mei-Lin; Kal dice que es un rasguño, una rozadura, que lo atiende solo, y repite «tengo que llegar a casa, porque me esperan»; Héctor lo deja ir porque entiende que quiere llegar con Chiara; Walt está en la Almendra (2026-11-13). **PENDIENTE (no se rellena):** motivo y mecanismo del asesinato de Amanda. **DISEÑO del agente:** la nave de las prendas (bodega de empeños vencidos de Crowe en Nueve Puentes); las líneas de Crowe antes de la cortada («Me debes diciembre», «Te tasé», «Eso vale algo»); la cabeza de malvavisco que Kal se quita para Crowe y se vuelve a poner por las cámaras; Mack Calderon pidiendo a Crowe muerto; el golpe en el costado tomado por un rebote; el cruce de Kal y Walt en la Almendra («Natalie no.» / «No.»); la bolsa roja de primeros auxilios, la sudadera y las llaves de Héctor (Kal se venda con oficio militar: comprar tiempo, no arreglarlo); la sangre ajena del de la Ronda, no llamar a Chiara porque maneja en la helada, «tú te quedas» por si la policía llega a la Almendra y el plazo de cuarenta minutos, razones para que Héctor lo deje ir; Kal de rodillas en el baño del taller (el título se cobra dos veces); el eco de Mei-Lin en la mirada de Héctor al chaleco, la misma que le echó al forro de la camioneta.
+> **CANON citado literal:** la línea cortada de Crowe a Walt («Ya perdiste a una esposa, así que cuida de tu cocinera, uno nunca sabe cuándo la muert...») y la de Walt, dicha después del disparo («A nadie le importa tu opinión, gordo hijo de puta.»). **CANON (hechos):** Crowe le revela a Kal que lo conoció antes de que fuera un Mercer (conectó a Dale con la red que lo trajo de bebé); Kal lo deja vivo porque lo necesita; Walt lo ejecuta; la fricción queda sin resolver; Walt y Kal se lo ocultan a Natalie; el tiro en el costado llega en la retirada, después de «Dime, Amore», y Kal cree que fue del tiroteo (Volpi, velado: nada en página); en la Almendra Héctor ve el chaleco ensangrentado y piensa en Mei-Lin; Kal dice que es un rasguño, una rozadura, que lo atiende solo, y repite «tengo que llegar a casa, porque me esperan»; Héctor lo deja ir porque entiende que quiere llegar con Chiara; Walt está en la Almendra (2026-11-13). **PENDIENTE (no se rellena):** motivo y mecanismo del asesinato de Amanda. **DISEÑO del agente:** la nave de las prendas (bodega de empeños vencidos de Crowe en Nueve Puentes); las líneas de Crowe antes de la cortada («Me debes diciembre», «Te tasé», «Eso vale algo»); la cabeza de malvavisco que Kal se quita para Crowe y se vuelve a poner por las cámaras; Mack Calderon pidiendo a Crowe muerto; el golpe en el costado tomado por un rebote; el cruce de Kal y Walt en la Almendra («Natalie no.» / «No.»); la bolsa roja de primeros auxilios, la sudadera y las llaves de Héctor (Kal se venda con oficio militar: comprar tiempo, no arreglarlo); la sangre ajena del de la Ronda, no llamar a Chiara porque maneja en la helada, «tú te quedas» por si la policía llega a la Almendra y el plazo de una hora (antes de cuarenta minutos; cambió con la reubicación), razones para que Héctor lo deje ir; Kal de rodillas en el baño del taller (el título se cobra dos veces); el eco de Mei-Lin en la mirada de Héctor al chaleco, la misma que le echó al forro de la camioneta.
 
-> **PENDIENTE DE REUBICAR (2026-11-15, CANON DEL AUTOR: el voto inverso):** la Villa ya no está en Lomas de San Jacinto, sino en **un lote por Las Gemelas**, velada a los enemigos (centro → Las Gemelas: 50–70 min). Hay que reubicar la prosa del final («Subió por la carretera interior hacia las Lomas»; las once curvas); con esa distancia cambia el ritmo de la noche. **La prosa no se tocó** (registrado en [[98_Agent_Handoff/PENDING]]). Ver [[07_Ideas/El_Voto_Inverso]] · [[05_Locations/La_Villa]].
+> **REUBICADO (2026-11-15, CANON DEL AUTOR: el voto inverso):** la Villa está en **un lote por Las Gemelas**, velada a los enemigos (centro → Las Gemelas: 50–70 min). **DISEÑO del agente en la reubicación:** el plazo de Héctor pasa a una hora («—Una hora. / —Cincuenta y nueve.»), que cabe justo dentro de lo que compra el vendaje («una hora, quizá dos»); la carretera del norte con la ciudad en el espejo hasta que la tapa el primer cerro; el desvío de las cascadas; un portón sin letrero con cadena, que Kal abre con una mano y deja abierto (lo cobra el 56: Chiara la encuentra en el lodo y el delirio de Kal habla «del portón, de Héctor y de una cadena»); las once curvas pasan a ser las del camino del cerro, después del portón. Ver [[07_Ideas/El_Voto_Inverso]] · [[05_Locations/La_Villa]] · [[98_Agent_Handoff/sessions/2026-11-15_claude_reubicacion_villa_54_56]].
 
 # De rodillas
 
@@ -326,11 +326,11 @@ Kal tomó todo. La bolsa, la cinta, la sudadera, las llaves.
 
 —Ya sé.
 
-—Y maneja despacio. Cuando llegues, me escribes. Si en cuarenta minutos no tengo nada, voy para allá, y me da igual lo que diga esa mujer.
+—Y maneja despacio. Cuando llegues, me escribes. Si en una hora no tengo nada, voy para allá, y me da igual lo que diga esa mujer.
 
-—Cuarenta minutos.
+—Una hora.
 
-—Treinta y nueve.
+—Cincuenta y nueve.
 
 Kal asintió. Abrió la puerta de la oficina. El ruido del taller le pegó de frente, las risas, la voz de Danny. Se volvió antes de salir.
 
@@ -368,7 +368,7 @@ Se lavó la mano. Se limpió el costado con agua del lavabo, sin mirar mucho. Se
 
 Sabía lo que era eso. No era arreglarlo. Era comprar tiempo: una hora, quizá dos, si no se movía mucho. Lo demás era problema de después.
 
-Se quedó un momento con las dos manos sobre el vendaje, sintiendo cómo apretaba. Se dijo que con eso alcanzaba para once curvas.
+Se quedó un momento con las dos manos sobre el vendaje, sintiendo cómo apretaba. Se dijo que con eso alcanzaba para una hora de carretera y once curvas.
 
 Se puso la sudadera gris de Héctor. Le quedaba ancha. Olía a aceite y a jabón de manos y a Héctor.
 
@@ -380,6 +380,10 @@ Salió por la puerta de atrás del taller, la que daba al patio, para no pasar o
 
 Puso las dos manos en el volante para que no se le fuera.
 
-Subió por la carretera interior hacia las Lomas, despacio, como le había dicho Héctor, con la lluvia de frente y la ciudad abajo, a la izquierda, cada vez más chica y más naranja. No puso música. No pensó en la nave. Contó las curvas que faltaban, que eran once, y las fue contando una por una, en voz alta, y entre una y otra se lo decía también en voz alta, para no dormirse, para que lo oyera alguien aunque no hubiera nadie.
+Tomó la carretera del norte, despacio, como le había dicho Héctor, con la lluvia de frente y la ciudad en el espejo, cada vez más chica y más naranja, hasta que la tapó el primer cerro. No puso música. No pensó en la nave. Fue una hora de abetos negros y de líneas blancas que se le venían encima, sin un coche de frente, y cada vez que sentía que se le iban los ojos bajaba la ventanilla dos dedos.
+
+Pasó el desvío de las cascadas. En el portón sin letrero se bajó a quitar la cadena. Lo hizo con una mano, porque la otra la tenía en el costado, y no volvió a ponerla.
+
+Después empezó el camino del cerro. Contó las curvas que faltaban, que eran once, y las fue contando una por una, en voz alta, y entre una y otra se lo decía también en voz alta, para no dormirse, para que lo oyera alguien aunque no hubiera nadie.
 
 Me esperan.

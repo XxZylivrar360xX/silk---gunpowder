@@ -42,7 +42,7 @@
 - **«Sus padres nunca la comprometieron con sus viejas redes y guerras»** (CANON del ciclo). Se respeta si son los hijos quienes eligen cerrar el pasado y los padres no se lo piden.
 - **El final en Boston** (DECISIÓN DEL AUTOR de esta misma mañana) deja de ser una casa fija y pasa a ser una parada, la de Bonnie. También cambian el epílogo de las Tres Hermanas (la foto del porche, «deja Boston») y la pregunta de dónde crece Elenna.
 - **La Villa en Lomas de San Jacinto:**
-  - En la prosa del II (borradores 54, 55 y 56, la noche de H1), Chiara baja «de las Lomas por la carretera interior» y vuelve a subir. Con 50–70 minutos hasta el centro, esa noche cambia de ritmo.
+  - En la prosa del II (borradores 54, 55 y 56, la noche de H1), Chiara baja «de las Lomas por la carretera interior» y vuelve a subir. Con 50–70 minutos hasta el centro, esa noche cambia de ritmo. *(2026-11-15: reubicada; carretera del norte, portón con cadena pasando el desvío de las cascadas, once curvas; [[98_Agent_Handoff/sessions/2026-11-15_claude_reubicacion_villa_54_56]].)*
   - La ficha dice hoy que la casa «no es invisible»; hay que superarlo.
   - Se pierde la lectura de clase de las Lomas.
   - Ojo con La Mesa: es creíble que Varek o Crowe no conozcan la casa, que no la conozca Volpi no tanto. Puede ser la amenaza callada: La Mesa sabe dónde vive Chiara y nunca lo usa.

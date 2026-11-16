@@ -6,7 +6,7 @@ libro: Sombras de Poder (Libro II), Parte IV — Torna a casa
 capitulo: 54
 pov: Chiara Bellandi, único
 ventana_temporal: la tarde de la tormenta (~6–8 dic A4; la operación empieza hacia las 11–12; «Todos están fuera» a las 4:43 p. m.), después de la muerte de Crowe
-localizacion: la Villa Candelaria (Lomas de San Jacinto); el almacén del sur (Canal Seco), San Aurelio
+localizacion: la Villa Candelaria (un lote por Las Gemelas, cerros del este-noreste, a una hora de la ciudad); el almacén del sur (Canal Seco), San Aurelio
 personajes: Chiara Bellandi, Camila Rivas, Natalie Keegan; por radio y teléfono, Kal Mercer y Walt Keegan
 ---
 
@@ -18,17 +18,17 @@ personajes: Chiara Bellandi, Camila Rivas, Natalie Keegan; por radio y teléfono
 >
 > **CANON citado literal:** «Dime, Amore»; la segunda llamada completa (ortografía normalizada, «Ma dai»); «Todos están fuera, vamos a casa»; la frase al cielo. **PROVISIONAL:** «Te vi… con la cabeza de malvavisco» / «Nadie le dispara a un malvavisco» (frase de Danny, cap. 1 del Libro I, ahora en boca de Kal) y las líneas de la hamburguesa doble (siembra para el 57). **DISEÑO del agente:** el video del malvavisco y sus comentarios; las llaves del almacén (una mudanzera quebrada en Canal Seco que Chiara visitó en noviembre buscando bodega para el papel de *El Faro*); la única transmisión de Chiara por el canal abierto (prepara «Estuviste en radio», 56); la cinta de colores de Nat; el muerto bajo las mantas de mudanza; la versión del accidente de moto, dictada a la residente por boca de Camila (ya no se publica en *El Faro*), para el muchacho que va a Santa Aurelia; el protocolo de Halbrook leído en la transmisión; la línea de Walt por radio; Rafe avisando en septiembre que los Bravos van con Crowe (D12, P), y el eco de Mei-Lin (Kal manda al hospital a uno con la pierna abierta, oído por Chiara).
 
-> **PENDIENTE DE REUBICAR (2026-11-15, CANON DEL AUTOR: el voto inverso):** la Villa ya no está en Lomas de San Jacinto, sino en **un lote por Las Gemelas**, velada a los enemigos (centro → Las Gemelas: 50–70 min). Hay que reubicar la ficha YAML (l. 9: «Lomas de San Jacinto») y la prosa («desde un sofá en las Lomas»; «Chiara bajó de las Lomas por la carretera interior, cruzó el centro»; los arces de la calle); con esa distancia cambia el ritmo de la noche. **La prosa no se tocó** (registrado en [[98_Agent_Handoff/PENDING]]). Ver [[07_Ideas/El_Voto_Inverso]] · [[05_Locations/La_Villa]].
+> **REUBICADO (2026-11-15, CANON DEL AUTOR: el voto inverso):** la Villa está en **un lote por Las Gemelas**, velada a los enemigos (centro → Las Gemelas: 50–70 min). **DISEÑO del agente en la reubicación:** Chiara despierta a la una y diez (antes, las dos y diez) para que la hora larga de bajada no empuje el almacén más allá de las 4:43; abetos en lugar de los arces de la calle; «desde un sofá en los cerros, a una hora del primer puente»; la bajada por la carretera del norte con la radio en el tres; Camila llega pocos minutos después que ella (antes, veinte). Ver [[07_Ideas/El_Voto_Inverso]] · [[05_Locations/La_Villa]] · [[98_Agent_Handoff/sessions/2026-11-15_claude_reubicacion_villa_54_56]].
 
 # Dime, Amore
 
 La casa estaba en silencio. Sólo se oía la lluvia.
 
-Chiara abrió los ojos en el sofá de la sala, con una manta encima que no recordaba haberse echado, y por un momento no supo qué hora era. Las dos y diez de la tarde, y parecía que estaba anocheciendo. Por el ventanal se veía el jardín gris, la piscina gris, la lluvia cayendo recta sobre el agua sin viento y, más allá, abajo, muy lejos, la ciudad.
+Chiara abrió los ojos en el sofá de la sala, con una manta encima que no recordaba haberse echado, y por un momento no supo qué hora era. La una y diez de la tarde, y parecía que estaba anocheciendo. Por el ventanal se veía el jardín gris, la piscina gris, la lluvia cayendo recta sobre el agua sin viento y, más allá de los abetos, abajo, muy lejos, la ciudad.
 
 Se había acostado nada más para cerrar los ojos. Eso se había dicho.
 
-Se quedó quieta, escuchando. El refrigerador. La lluvia en el tejado, en las canaletas, en las hojas de los arces de la calle. Ningún motor. Ningún paso en el pasillo. En una casa con él adentro siempre había algo: una puerta, unas llaves, el agua corriendo en la cocina a deshoras, la radio del garaje murmurando. Esa tarde no había nada. La casa tenía el silencio de las casas grandes cuando sólo queda una persona en ellas, y la persona está acostada.
+Se quedó quieta, escuchando. El refrigerador. La lluvia en el tejado, en las canaletas, en las ramas de los abetos. Ningún motor. Ningún paso en el pasillo. En una casa con él adentro siempre había algo: una puerta, unas llaves, el agua corriendo en la cocina a deshoras, la radio del garaje murmurando. Esa tarde no había nada. La casa tenía el silencio de las casas grandes cuando sólo queda una persona en ellas, y la persona está acostada.
 
 El teléfono estaba bocabajo sobre la alfombra. Tres mensajes de la redacción de *El Faro*, los tres con la misma palabra: *sur*. Ninguno de él. No esperaba ninguno de él.
 
@@ -38,7 +38,7 @@ La transmisión de *El Faro* ya estaba en la portada, arriba de todo, con el let
 
 En la franja de abajo corría el texto: TIROTEO EN EL SUR · ENFRENTAMIENTO ENTRE BANDAS EN LAS CALDERAS Y NUEVE PUENTES · SE REPORTA AL MENOS UN MUERTO.
 
-*Al menos un muerto.* La fórmula la había fijado ella en la redacción ese año: *al menos* era honesto; *un muerto*, sin nombre, era lo que se podía publicar antes de saber de quién. Ahora la leía desde el otro lado, debajo de la cara mojada de una muchacha de veinticuatro años, desde un sofá en las Lomas, con una manta en las piernas.
+*Al menos un muerto.* La fórmula la había fijado ella en la redacción ese año: *al menos* era honesto; *un muerto*, sin nombre, era lo que se podía publicar antes de saber de quién. Ahora la leía desde el otro lado, debajo de la cara mojada de una muchacha de veinticuatro años, desde un sofá en los cerros, a una hora del primer puente, con una manta en las piernas.
 
 La transmisión cortó a un estudio. Un hombre de corbata leyó un comunicado de la alcaldía.
 
@@ -198,13 +198,15 @@ Salió por el garaje, con la radio en el asiento del copiloto, todavía en el tr
 
 ***
 
-La ciudad estaba cerrada por partes, como se cierra un cuarto empezando por las esquinas. Chiara bajó de las Lomas por la carretera interior, cruzó el centro por calles que a esa hora nadie usaba y no se acercó a ningún puente grande: en la radio, los Marcadores iban diciendo cuáles estaban cerrados, y ella los iba tachando en la cabeza. Entró a Canal Seco por la calle de las vías, con las luces bajas, detrás de un camión de basura que nadie había mandado a recoger nada.
+Chiara bajó de los cerros por la carretera del norte: una hora de abetos y de lluvia sin un coche de frente, con la radio en el tres y la voz de él sin aparecer.
+
+La ciudad estaba cerrada por partes, como se cierra un cuarto empezando por las esquinas. Cruzó el centro por calles que a esa hora nadie usaba y no se acercó a ningún puente grande: en la radio, los Marcadores iban diciendo cuáles estaban cerrados, y ella los iba tachando en la cabeza. Entró a Canal Seco por la calle de las vías, con las luces bajas, detrás de un camión de basura que nadie había mandado a recoger nada.
 
 El almacén estaba donde lo había dejado. La llave entró al segundo intento.
 
 Por dentro olía a cartón húmedo y a aceite viejo. Quedaban en las paredes las marcas de los estantes, un montacargas sin batería, el letrero de SEGURIDAD PRIMERO con la mitad de las letras despegadas y, en un rincón, una montaña de mantas acolchadas, grises, de las que se usan para que los muebles no se rayen en el camión. Chiara encontró el tablero, subió los interruptores uno por uno, y la mitad de las lámparas del techo se encendió.
 
-Camila llegó veinte minutos después, en un coche viejo, con dos maletas de lona y una caja de plástico llena de bolsas de suero. Miró el lugar una vez, de punta a punta, y empezó a arrastrar una mesa plegable hacia la luz.
+Camila llegó a los pocos minutos, en un coche viejo, con dos maletas de lona y una caja de plástico llena de bolsas de suero. Miró el lugar una vez, de punta a punta, y empezó a arrastrar una mesa plegable hacia la luz.
 
 Chiara se quedó junto a la puerta de carga con la radio en la mano. Se la llevó a la boca. Era la primera vez que hablaba por esa frecuencia, y pensaba que sería la última.
 
