@@ -18,6 +18,8 @@ personajes: Chiara Bellandi, Bonnie García, Kal Mercer; en el entierro, Nadir, 
 
 > **VALET (2026-11-15, revisión externa; canon de valet del autor; prosa DISEÑO, espera lectura):** «Sirviendo» → «Desde la rampa»; las charolas de plata pasan a las llaves del Lancia y a la calificación de valet del Libro I («propina de veinte, trato de dos»): lo que Meiko le susurraba a Chiara era lo mismo que veía para Varek. Arco: [[11_Books/00_Arco_Meiko_Nakano]].
 
+> **ENTRADA TEMPRANA (2026-11-15, revisión externa):** «En un año» → «En año y medio» (Bonnie llega en noviembre A2, Libro I cap. 35).
+
 # Lo que queda
 
 Garrett había arreglado los papeles. Chiara no preguntó cómo.
@@ -202,7 +204,7 @@ Chiara se levantó. Recogió los folletos de la mesa de centro, uno por uno, y l
 
 Se quedaron de pie, las dos, en la sala chica, con la puerta cerrada al fondo del pasillo.
 
-Chiara quería abrazarla. No sabía si Bonnie se dejaba abrazar. En un año no la había visto dejarse, no la había visto pedirlo, no la había visto acercarse a nadie más que a Meiko, y a Meiko la había agarrado del brazo en una foto, a medio grito, como si se estuviera cayendo. Chiara se acercó un paso. Bonnie no se movió.
+Chiara quería abrazarla. No sabía si Bonnie se dejaba abrazar. En año y medio no la había visto dejarse, no la había visto pedirlo, no la había visto acercarse a nadie más que a Meiko, y a Meiko la había agarrado del brazo en una foto, a medio grito, como si se estuviera cayendo. Chiara se acercó un paso. Bonnie no se movió.
 
 Chiara la abrazó.
 

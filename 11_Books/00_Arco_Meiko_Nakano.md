@@ -62,6 +62,8 @@ Cada motor es algo que vuelve. Cuando reaparece, avanza un paso; nunca se explic
 - **Ningún presagio garantizado.** Sus escenas felices no guiñan hacia su muerte.
 - **Su nacionalidad no es decoración** (regla de su ficha).
 - **Robo intacto:** en los caps. 20–21 sigue sin nombre y sin cara.
+- **No más excelencia (revisión externa, 2026-11-15):** ya maneja mejor, detecta la falla que Kal no vio y saca el pez más grande. No se le agrega otra habilidad ni otro sacrificio; lo que falta son errores y pequeñas mezquindades (contrapeso, arriba).
+- **Pide soluciones, calla problemas:** pide la manta y el adelanto, nunca dice para qué. Es más humano que «nunca pide nada» y es la forma de su filtración.
 - **Presupuesto:** casi todo vive dentro de escenas que ya existen; el Libro I crece unas 3,000–3,500 palabras.
 
 ## Mapa del Libro I
@@ -90,7 +92,7 @@ Dónde quedó cada beat (difiere del mapa de arriba donde lo indica la nota):
 
 | Cap. (archivo) | Qué se escribió |
 |---|---|
-| 9 (`08`) | La Zen Devil: el Camaro aparte en la grava, Tyler la nombra («Ésa sí se acuerda del guardaganado»), «el que salió derecho», sus luces en la recta. |
+| 9 (`08`) | La Zen Devil (el Camaro en la **segunda** fila, armonizado con el 22): el Camaro aparte en la grava, Tyler la nombra («Ésa sí se acuerda del guardaganado»), «el que salió derecho», sus luces en la recta. |
 | 22 (`24b`) | La entrada: el Camaro tosiendo, «Kingsley. Llegaste segunda.», el freno trasero en metal que Kal no vio, Danny se calla, la luz de la oficina prendida. |
 | 24 (`24d`) | La siembra: Kal le cuenta a Chiara del taller; «Estaciona mejor que yo». |
 | 26 (`26`) | **Sin cambios.** Es la mañana en que Kal desaparece: no aguanta una contratación. La bitácora de los valets que ya está escrita refuerza el motivo. |

@@ -14,6 +14,7 @@ Ventana temporal: la semana siguiente al viernes del nuevo 21. Martes: acuerdo; 
 Lugares: tribunal civil de San Aurelio (sala de mediación, pasillo), Villani Motors, el taller de La Almendra, la panadería de la calle de Héctor, el loft.
 Craft: voz según 12_Craft_Policies/voice (Kal, Chiara, Nadir). Nadir: darija con moderación, la pregunta de dinero como arma, el silencio como alarma. Registro privado en semilla (pre-H16).
 ENTRADA DE MEIKO (2026-11-15, DECISIÓN DEL AUTOR: camino A; prosa DISEÑO, espera lectura): escena nueva entre la Kawasaki y el loft. El lunes, a las siete, el Camaro de Kingsley con un cilindro enfermo; «Kingsley. Llegaste segunda.» / «Llegué. Con las torretas atrás, eso ya es bastante.»; «Del norte» y nada más; Kal piensa en la casa vacía de Boone y no pregunta. Prueba: revisar la Kawasaki; ella encuentra el freno trasero en metal, lo que Kal no vio al ajustar la cadena. Danny la reconoce y se calla (CANON: ella le conseguía la heroína; lo cubrió en el billar). Contrapeso del núcleo (APROBADO POR EL AUTOR, 2026-11-15): tras el «Llegué», «El primero salió una fila antes. La próxima, la fila es mía»: le pesa la segunda. Pide quedarse a dormir esa semana; a la mañana siguiente la luz de la oficina sigue prendida. Arco: [[11_Books/00_Arco_Meiko_Nakano]].
+Parrilla armonizada (2026-11-15, revisión externa): «una fila adelante» → «dos filas adelante» (el Camaro en la segunda fila, el Peugeot en la cuarta; ver el Cap. 9).
 -->
 
 # Capítulo 22 — Lo que cueste
@@ -282,7 +283,7 @@ A Nadir no le dijo nada. Esa tarde le ajustó la cadena de la Kawasaki en la ban
 
 El lunes lo oyó antes de verlo. Un motor grande en ralentí frente a la cortina, a las siete menos cinco, con un cilindro que no daba y otro que daba de más.
 
-Era un Camaro viejo, negro salvo por una puerta en gris de primer. Kal lo conocía. Lo había tenido una fila adelante en Kingsley, en noviembre, y lo había visto despegarse en la recta como si los demás estuvieran estacionados.
+Era un Camaro viejo, negro salvo por una puerta en gris de primer. Kal lo conocía. Lo había tenido dos filas adelante en Kingsley, en noviembre, y lo había visto despegarse en la recta como si los demás estuvieran estacionados.
 
 La muchacha estaba sentada en el guardafango, con las manos en los bolsillos de una chaqueta negra y el pelo recogido en dos chongos. Se paró cuando él se bajó del Peugeot. No se le acercó.
 

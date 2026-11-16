@@ -16,6 +16,8 @@ personajes: Kal Mercer, Bonnie García, Meiko Nakano; al final, Chiara Bellandi
 >
 > **Depende de capítulos sin redactar:** la grúa quemada y el muchacho golpeado (35); la deuda de Kaito pagada por Kal (23); la cena de Navidad (20). La prosa los toca como hechos ya ocurridos.
 
+> **ENTRADA TEMPRANA (2026-11-15, revisión externa):** «un año» → «casi dos años» (entra en ago–sep A2, Libro I cap. 22); «No le había pedido nada nunca» → «Pedía lo justo, una manta, un adelanto, y nunca decía para qué»: pide soluciones prácticas y calla el problema. Arco: [[11_Books/00_Arco_Meiko_Nakano]].
+
 # Las latas
 
 Las latas eran de aceite de motor, de las de un cuarto de galón, y Bonnie las había traído del taller en una caja de cartón porque, según ella, las de refresco salían volando con el viento y así no se sabía si una había fallado o si el aire tenía mejor puntería.
@@ -146,9 +148,9 @@ Bonnie no dijo nada. Le dio la última mordida al sándwich, dobló el papel de 
 
 En el capó, Meiko había dejado de mirar el teléfono. Tenía el sándwich a medio comer en las piernas y la vista en los almendros, en ningún árbol en particular. El viento le movía el pelo sobre la cara y ella no se lo apartaba.
 
-Kal la miró un momento. Llevaba un año viéndola en el taller, en la bahía de siempre, sentada en una llanta o en un guardafango, y casi siempre con esa misma cara, la de alguien que todavía no decide si se queda. En Navidad la había visto reírse con la cabeza echada hacia atrás. Después la había visto afuera, en el portón, gritándole a su hermano bajo la luz del patio que se largara, y al volver le había preguntado si todo estaba bien, y ella le había dicho «Todo bien, jefe», y era la primera vez que la palabra le había sonado en serio en su boca.
+Kal la miró un momento. Llevaba casi dos años viéndola en el taller, en la bahía de siempre, sentada en una llanta o en un guardafango, y casi siempre con esa misma cara, la de alguien que todavía no decide si se queda. En Navidad la había visto reírse con la cabeza echada hacia atrás. Después la había visto afuera, en el portón, gritándole a su hermano bajo la luz del patio que se largara, y al volver le había preguntado si todo estaba bien, y ella le había dicho «Todo bien, jefe», y era la primera vez que la palabra le había sonado en serio en su boca.
 
-No era una muchacha de hablar delante de otros. No le había pedido nada nunca. Kal pensó que la oferta le daba vergüenza, y que lo mejor que podía hacer era no mirarla mientras se le pasaba.
+No era una muchacha de hablar delante de otros. Pedía lo justo, una manta, un adelanto, y nunca decía para qué. Kal pensó que la oferta le daba vergüenza, y que lo mejor que podía hacer era no mirarla mientras se le pasaba.
 
 Volvió a mirar la cerca.
 

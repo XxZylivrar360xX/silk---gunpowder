@@ -12,6 +12,7 @@ Separacion 2026-10-23 (decision del autor): el capitulo termina en la carcajada 
 Cobro del corral (2026-11-04, DISEÑO; sustituye el cobro de la ruleta del 2026-11-03): tras "Madonna, Kal", Chiara calla la paja y a Danny en el caballo; cobra "A Kal ni una palabra" del final del Cap. 8. "Danny contar vacas" (linea 95) le explica a ella "una vaca no cuenta". Danny ya rompio el secreto o lo rompera: Cap. 11.
 Mascara negra (2026-11-05, decision del autor; capitulo TERMINADO, el estado se conserva; prosa DISENO): en La Tramoya, "¿Y el malvavisco?" / "Te toca escoger". Kal deja el malvavisco para no dejar sola a Chiara.
 La Zen Devil (2026-11-15, CANON DEL AUTOR: Meiko corre para los Devil Splicers como «la Zen Devil», en un Camaro del 67, con máscara de diablo blanca lisa, y termina segunda; capítulo TERMINADO, el estado se conserva; prosa DISEÑO, pendiente de lectura): cuatro inserciones (el Camaro aparte en la grava; Tyler la nombra, «Ésa sí se acuerda del guardaganado»; el Camaro en la primera fila, «el que salió derecho»; sus luces traseras despegándose en la recta). Chiara se queda con el coche y con la máscara, no con la cara; no hay nombre. El resultado («segunda en Kingsley») se dice en el Cap. 22 (archivo 24b). Arco: [[11_Books/00_Arco_Meiko_Nakano]].
+Parrilla armonizada (2026-11-15, revisión externa): el Camaro pasa a la SEGUNDA fila (el que ganó salió en la primera; cuadra con «El primero salió una fila antes» del Cap. 22); el Peugeot va en la cuarta («tres filas por delante»), dos detrás del Camaro. «¿Quién abre?» → «¿A quién hay que cuidar?».
 -->
 
 # Capítulo 9 — Mandorla
@@ -238,9 +239,9 @@ Tyler asintió, sin pedir más, satisfecho con lo poco que le habían dado.
 
 Kal la miró un segundo de más. No dijo nada — pero algo en la comisura de la boca se le movió, el principio de una sonrisa que no llegó a completarse.
 
-—¿Quién abre? —preguntó Kal.
+—¿A quién hay que cuidar? —preguntó Kal.
 
-—Los de O.R.T. —Tyler movió la barbilla hacia el Camaro sin voltear—. La Zen Devil, en el sesenta y siete. Ésa sí se acuerda del guardaganado.
+—A los de O.R.T. —Tyler movió la barbilla hacia el Camaro sin voltear—. La Zen Devil, en el sesenta y siete. Ésa sí se acuerda del guardaganado.
 
 Chiara volvió a mirar la máscara blanca. Seguía en el mismo sitio, sin gesto, y durante un segundo le pareció que también ella los estaba mirando a ellos.
 
@@ -256,7 +257,7 @@ Nadie abrió la mano hacia ella como hacia un florero.
 
 Se subieron al coche. Chiara se abrochó el cinturón y sacó la Colombina de la bolsa; olía a plástico nuevo y a cartón. Se la ató detrás de la cabeza, tanteando el nudo sin espejo. A su lado, Kal ya se había puesto la suya — la cara negra sin gesto, mirando al frente, y por un segundo, con esa cosa puesta, fue un desconocido.
 
-Los alinearon en la carretera de a cuatro por hilera. Chiara contó tres filas por delante. En la primera, a la izquierda, estaba el Camaro de la puerta gris. Un tipo se paró en el asfalto con los brazos en alto, los bajó de golpe, y la hilera de adelante salió con un rugido que se sintió en el esternón. El Camaro no fue el que más rugió. Fue el que salió derecho.
+Los alinearon en la carretera de a cuatro por hilera. Chiara contó tres filas por delante. En la segunda, a la izquierda, estaba el Camaro de la puerta gris. Un tipo se paró en el asfalto con los brazos en alto, los bajó de golpe, y la hilera de adelante salió con un rugido que se sintió en el esternón. Detrás salió la segunda, y el Camaro no fue el que más rugió: fue el que salió derecho.
 
 Después les tocó a ellos.
 

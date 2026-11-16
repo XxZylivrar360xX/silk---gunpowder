@@ -4,6 +4,7 @@ El detalle se guarda una sola vez en notas de sesión. Este archivo es navegaci�
 
 ## Sesiones recientes
 
+- 2026-11-15: revisión externa aplicada: parrilla de Kingsley armonizada (el Camaro en la segunda fila; caps. 9 y 22 del I); en el II, «No le había pedido nada nunca» → «Pedía lo justo… y nunca decía para qué», «un año» → «casi dos años» y la «primera vez» del 37 → «tantas mañanas» (36, 37, 39); sonrisa del lago aligerada: [[11_Books/00_Arco_Meiko_Nakano]].
 - 2026-11-15: APROBADOS POR EL AUTOR el contrapeso del núcleo de Meiko y los escalones del ritual de Kal; primer contrapeso en prosa (Libro I, cap. 22): «El primero salió una fila antes. La próxima, la fila es mía.»: [[11_Books/00_Arco_Meiko_Nakano]].
 - 2026-11-15: DISEÑO (revisión externa) en el arco de Meiko: contrapeso del núcleo «la que deja pasar» (querer ganar, egoísmo, pelea con Bonnie, error de oficio, placer propio) y el ritual mensual de Kal en cinco escalones que cambian con él: [[11_Books/00_Arco_Meiko_Nakano]].
 - 2026-11-15: Libro II, caps. 37–39 (revisión externa): lo que Meiko filtra se ve desde la rampa del Monarch, no con charolas (canon de valet); en el 37 queda en página por qué Kal la lleva al corralón («Prefiero tenerla donde la vea») y los teléfonos van a la caja de los chalecos (38; siembra añadida a la guía del 29): [[11_Books/00_Arco_Meiko_Nakano]].

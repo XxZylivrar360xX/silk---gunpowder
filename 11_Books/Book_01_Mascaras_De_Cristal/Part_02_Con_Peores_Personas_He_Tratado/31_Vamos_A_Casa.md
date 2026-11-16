@@ -40,6 +40,7 @@ Continuidad:
 Reconocimiento (2026-09-29, decision del autor): Chiara ubica a Harper como la muchacha de la maquina de La Esquina de Mabel del Cap. 4; Harper la reconocio desde el principio.
 **Siembra de la foto (2026-10-02, CANON DEL AUTOR; prosa DISEÑO del agente, pendiente de lectura):** al volver a la orilla, Kal y Chiara se quedan de la mano mirando la última luz; Héctor la fotografía sin avisar (sólo se ve que guarda el teléfono). Resuelto con el autor 2026-10-02: luz sobre el agua (no tras los árboles); la calavera de Kal no se ve en la foto. Paga en la apertura del Cap. 33 (el cuadro con moño) y en el Cap. 50 (monólogo; Chiara lo lleva al loft). Ver [[11_Books/Book_01_Mascaras_De_Cristal/00_Plan_Arco_Final_Sin_Kal]].
 MEIKO EN EL LAGO (2026-11-15, DECISIÓN DEL AUTOR: la valet se siembra antes y la idea es de Chiara; prosa DISEÑO, espera lectura). El beat de la contratación estaba previsto en el cap. 26, pero ese capítulo es la mañana en que Kal desaparece: ahí sólo refuerza el motivo (la bitácora de los valets camina de vuelta a Varek), y la contratación pasa aquí. Dos inserciones: (1) tras la competencia, Meiko pesca aparte, devuelve al agua uno que habría cerrado la discusión y contesta «Ninguno»; sólo Chiara lo ve; (2) tras la parrilla, Chiara se sienta en la nevera de al lado: «Kal dice que usted estaciona mejor que él.» / «Kal estaciona bien. Yo estaciono más rápido.»; el trato «sin el cuaderno»; «¿Usted iba en el Peugeot?» / «Iba gritando en el Peugeot.» Se tratan de usted. Arco: [[11_Books/00_Arco_Meiko_Nakano]].
+Sonrisa del lago aligerada (2026-11-15, revisión externa): sin la acotación «como si no le hubiera pedido permiso».
 -->
 
 # Capítulo 29 — Vamos a casa
@@ -358,7 +359,7 @@ Meiko dejó de masticar.
 
 —Iba gritando en el Peugeot.
 
-A Meiko se le movió algo en la boca, apenas, del lado izquierdo, y se le quitó enseguida, como si no le hubiera pedido permiso.
+A Meiko se le movió la boca, apenas, y se le quitó enseguida.
 
 ***
 

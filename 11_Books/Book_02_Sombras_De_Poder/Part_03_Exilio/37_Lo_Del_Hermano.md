@@ -18,6 +18,8 @@ personajes: Kal Mercer, Dario Varek, Nadir Amrani, Héctor Navarro, Meiko Nakano
 
 > **VALET Y MOTIVO DEL CORRALÓN (2026-11-15, revisión externa; canon de valet del autor; prosa DISEÑO, espera lectura):** (1) lo que filtraba pasa de «lo que se ve con una charola» a «lo que se ve desde la rampa. Nadie mira a la que le recibe las llaves»; la noche en la Villa, «la rampa del Monarch. En las llaves»; (2) por qué va al corralón: Nadir pregunta «¿Y si le cuenta a Varek lo del jueves?»; Kal: ya lo sabe desde hace dos semanas, si lo iba a contar ya lo contó; «Prefiero tenerla donde la vea. Y los teléfonos van a la caja, como siempre» (la caja de los chalecos; siembra en el 29, ver la guía). Arco: [[11_Books/00_Arco_Meiko_Nakano]].
 
+> **ENTRADA TEMPRANA (2026-11-15, revisión externa):** «un año» → «casi dos años»; «donde la había visto sentada la primera vez» → «tantas mañanas» (la primera vez fue en la banqueta, sobre el Camaro, Libro I cap. 22). Arco: [[11_Books/00_Arco_Meiko_Nakano]].
+
 # Lo del hermano
 
 El pétalo seguía en el borde de la barra cuatro días después. Se había secado y se había vuelto de un color de papel viejo, y nadie lo había tirado: Chiara porque no lo había visto, y Kal porque cada mañana, al servirse el café, lo veía y lo dejaba.
@@ -270,7 +272,7 @@ Meiko asintió sin levantar la vista.
 
 —Lo que se tenga que decidir.
 
-Ella lo pensó. No preguntó qué podía ser. Kal vio que no lo preguntaba porque lo sabía, porque había estado en el Patio un año y en la calle toda su vida y sabía cómo se decidían esas cosas en todas partes, y que no preguntaba porque no quería oírselo decir a él.
+Ella lo pensó. No preguntó qué podía ser. Kal vio que no lo preguntaba porque lo sabía, porque había estado en el Patio casi dos años y en la calle toda su vida y sabía cómo se decidían esas cosas en todas partes, y que no preguntaba porque no quería oírselo decir a él.
 
 —¿Y hasta entonces?
 
@@ -280,7 +282,7 @@ Ella lo pensó. No preguntó qué podía ser. Kal vio que no lo preguntaba porqu
 
 —Entonces me dices.
 
-Ella asintió otra vez. Se metió las manos en los bolsillos de la chaqueta. Se quedó parada junto a la pila de llantas, en la bahía de siempre, donde la había visto sentada la primera vez, con un café en la mano y cara de no haber decidido todavía si se quedaba.
+Ella asintió otra vez. Se metió las manos en los bolsillos de la chaqueta. Se quedó parada junto a la pila de llantas, en la bahía de siempre, donde la había visto sentada tantas mañanas, con un café en la mano y cara de no haber decidido todavía si se quedaba.
 
 —Jefe…
 
