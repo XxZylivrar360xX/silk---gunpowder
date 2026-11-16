@@ -1,6 +1,6 @@
 # Portada de *Cuentas de Sangre*: el hilo rojo
 
-**Estado:** DISEÑO (2026-11-16). Concepto elegido por el autor: el foco deja de ser la silla (quién gobierna el vacío) y pasa a ser **la salida de Kal y Chiara y las cadenas del pasado que los detienen de volver a Elenna**, conservando el expediente de Meridian. Las imágenes generadas son referencia, no canon. Sustituye como dirección a [[99_Reference/book_covers/Cuentas_De_Sangre_VICTOR_PAZ.png]] (sillón, mano con anillo, expediente con fotos de frente), que se conserva hasta aprobar la nueva.
+**Estado:** DISEÑO (2026-11-16); v1 compuesta, espera aprobación. Concepto elegido por el autor: el foco deja de ser la silla (quién gobierna el vacío) y pasa a ser **la salida de Kal y Chiara y las cadenas del pasado que los detienen de volver a Elenna**, conservando el expediente de Meridian. Las imágenes generadas son referencia, no canon. Sustituye como dirección a [[99_Reference/book_covers/Cuentas_De_Sangre_VICTOR_PAZ.png]] (sillón, mano con anillo, expediente con fotos de frente), que se conserva hasta aprobar la nueva.
 
 ## Por qué este concepto
 
@@ -13,7 +13,7 @@
 | Elemento | Canon | Fuente |
 |---|---|---|
 | Kal | 1.92 m, rubio de pelo desordenado, barba corta | [[02_Characters/Kal_Mercer]] |
-| Chiara | Pelo negro largo, hasta media espalda | [[02_Characters/Chiara_Bellandi]] |
+| Chiara | 1.80 m; con tacones casi lo alcanza (CANON DEL AUTOR, 2026-10-17, «Usted es alta»); pelo negro largo, hasta media espalda | [[02_Characters/Chiara_Bellandi]] |
 | Meridian | Fuerza de tarea **federal**; cabeza: Callahan | [[03_Factions/Fuerza_de_Tarea_Meridian]] |
 
 **DISEÑO (no fijado):** el tablero de corcho, los hilos, la ropa, el lugar hacia el que caminan. La ficha de Meridian no dice FBI: **sin sellos ni insignias de agencias reales** (además, son marcas oficiales).
@@ -50,7 +50,7 @@ Los muertos llevan una **X roja de plumón**; el rojo del concepto ya no es hilo
 
 **Adjunta a ChatGPT** las referencias realistas [[99_Reference/character_art/Kal_Mercer.png]] y [[99_Reference/character_art/Chiara_Bellandi.png]] y dile: «Use the attached images only for body type, hair and clothing style of the two people seen from behind».
 
-> Cinematic book cover photograph, vertical 1:1.6. A federal organized-crime task force war room at night, almost dark, lit by the cold glow of a computer monitor and a single desk lamp. Filling the frame is a large white magnetic case board, worn and dense, the way real federal investigations look — not a cork board, no string. It holds: a printed link-analysis chart (boxes with small ID-style photos joined by straight black lines); a horizontal timeline of printed cards across the board; black-and-white evidence photos held by magnets; wire-transfer flowcharts and phone records marked with yellow highlighter; small evidence bags with chain-of-custody labels. Several photos are crossed out with a red marker X. Among the evidence photos: an aerial night shot of a military base with its perimeter lights dark; a helicopter on a small airfield at dawn; a grainy traffic-camera still with a timestamp of a small red hatchback drifting around a plaza fountain at night; a covered body in a plaza behind police tape; the burned-out interior of a loft; an apartment crime scene with yellow evidence markers; a black muscle car; a long-lens photo of a burial in a cemetery; a flooded street at night with police lights; a newspaper clipping with an illegible headline. In the center, larger than the rest and pinned on top as the newest item, a long-lens surveillance photo: a very tall, broad-shouldered man with messy blond hair, a dark jacket and boots, and a noticeably shorter, slender woman with long wavy black hair down to the middle of her back and an elegant dark coat, seen from behind, walking side by side away from the camera toward a bright doorway at dawn. A red marker circle surrounds this photo, and red marker arrows from the chart converge on it. All text on the board is small and illegible, except a printed header strip that reads "MERIDIAN". No faces visible, no agency seals, badges or logos, no weapons, no blood. The upper third of the image is dark (the wall above the board in shadow). Low-key, deep blacks; red marker and the dawn light in the central photo are the only warm accents.
+> Cinematic book cover photograph, vertical 1:1.6. A federal organized-crime task force war room at night, almost dark, lit by the cold glow of a computer monitor and a single desk lamp. Filling the frame is a large white magnetic case board, worn and dense, the way real federal investigations look — not a cork board, no string. It holds: a printed link-analysis chart (boxes with small ID-style photos joined by straight black lines); a horizontal timeline of printed cards across the board; black-and-white evidence photos held by magnets; wire-transfer flowcharts and phone records marked with yellow highlighter; small evidence bags with chain-of-custody labels. Several photos are crossed out with a red marker X. Among the evidence photos: an aerial night shot of a military base with its perimeter lights dark; a helicopter on a small airfield at dawn; a grainy traffic-camera still with a timestamp of a small red hatchback drifting around a plaza fountain at night; a covered body in a plaza behind police tape; the burned-out interior of a loft; an apartment crime scene with yellow evidence markers; a black muscle car; a long-lens photo of a burial in a cemetery; a flooded street at night with police lights; a newspaper clipping with an illegible headline. In the center, larger than the rest and pinned on top as the newest item, a long-lens surveillance photo: a tall, broad-shouldered man with messy blond hair, a dark jacket and boots, and a tall, slender woman in heels, almost as tall as him, with long wavy black hair down to the middle of her back and an elegant dark coat, seen from behind, walking side by side away from the camera toward a bright doorway at dawn. A red marker circle surrounds this photo, and red marker arrows from the chart converge on it. All text on the board is small and illegible, except a printed header strip that reads "MERIDIAN". No faces visible, no agency seals, badges or logos, no weapons, no blood. The upper third of the image is dark (the wall above the board in shadow). Low-key, deep blacks; red marker and the dawn light in the central photo are the only warm accents.
 
 ### Variante (si queda estática)
 
@@ -62,13 +62,32 @@ Los muertos llevan una **X roja de plumón**; el rojo del concepto ya no es hilo
 
 Esta vez conviene **generar de nuevo, no editar** la primera imagen: el cambio es de fondo. Después, una corrección por vez, empezando con «Keep this exact image, composition and lighting. Only change…», y guarda cada versión buena antes de pedir otra. Si el generador se satura con tantos elementos, quita primero los del Libro III y conserva el apagón, la cámara de Plaza Corona, el entierro y la foto central.
 
+### Prompt v3 (principal desde 2026-11-16)
+
+El v2 dio una infografía de quince recuadros con caras inventadas («malísima», autor); la variante del expediente sobre el escritorio gustó menos que la pizarra. El v3 conserva la pizarra, con cámara cerca, poca profundidad de campo, seis fragmentos y cero caras. Adjuntar [[99_Reference/character_art/Kal_Mercer_Invierno.png]] y [[99_Reference/character_art/Chiara_Bellandi.png]] (no la de invierno de Chiara: lleva el pelo corto), con la frase: «Use the attached images only for the body type and hair of the two people seen from behind. Clothing as described in the prompt. No brand logos.»
+
+> Cinematic book cover photograph, vertical 1:1.6. A close, slightly angled view of a federal organized-crime case whiteboard in a dark task-force room at night, lit only by a low desk lamp below the frame and the cold glow of a monitor. The camera is close enough that one photograph fills the middle of the image: a black-and-white long-lens surveillance shot of a tall, broad-shouldered man with messy blond hair and a tall, slender woman in heels, almost as tall as him, with long wavy black hair down to the middle of her back, seen from behind, walking side by side away from the camera toward a bright doorway at dawn. A red marker circle surrounds them, and a few red marker arrows reach it from the edges. Around it, cropped by the frame and falling out of focus: the corner of a printed link-analysis chart whose small ID photos are blank grey silhouettes; a grainy traffic-camera still of a small red hatchback drifting around a plaza fountain at night; an aerial night photo of a military base with its perimeter lights out; a long-lens photo of a burial in the rain; a photo of a black Chevrolet Camaro crossed out with a red marker X; the burned interior of a loft. Black magnets, yellow highlighter on printed records. A printed header strip at the top edge of the board reads "MERIDIAN"; all other text is small and illegible. The wall above the board is in deep shadow, leaving the upper third of the image dark. Low-key, deep blacks; red marker and the dawn light in the central photo are the only warm accents. No faces anywhere, no agency seals or logos, no weapons, no blood.
+
 ## Composición
 
 - La foto central entre el 50 % y el 72 % de la altura; la evidencia abriéndose hacia los bordes.
 - Tercio superior oscuro para el título; franja inferior oscura para el autor.
 - Tipografía de la saga, con «SEDA Y PÓLVORA · LIBRO IV»; «Sangre» con inicial alta.
 
+## v1 compuesta (2026-11-16)
+
+Camino que llevó a la base, con indicaciones del autor en cada paso:
+
+1. El v3 (pizarra blanca de cerca) acertó en las fotos de evidencia, pero el círculo y las flechas de plumón «no pueden volar»: el autor quiere **corcho con hilo rojo**.
+2. Edición: corcho, alfileres e hilo en lugar de plumón. Después: el hilo **tenso** (no flojo), alfileres en las cuatro esquinas de la foto central para que ningún hilo la cruce, **post-its** con notas a mano, el **Camaro del 67** (canon de Meiko), tres conexiones adyacentes (entierro–Camaro, fuente–base; la del loft no salió) y todas las piezas también hacia ellos, con **hilo físico atado a tachuelas** («EVITAR HILOS DIGITALES»).
+3. Edición final: alejar la cámara para dejar pared oscura arriba, donde va el título; sin título se ve rara, con título funciona.
+
+- **Base:** [[99_Reference/book_covers/Cuentas_De_Sangre_Tablero_base.webp]] (992 × 1586).
+- **Portada:** [[99_Reference/book_covers/Cuentas_De_Sangre_Tablero_v1.png]] (2560 × 4096), con `python -B tools/portada/componer_portada.py --libro cuentas --base 99_Reference/book_covers/Cuentas_De_Sangre_Tablero_base.webp --salida 99_Reference/book_covers/Cuentas_De_Sangre_Tablero_v1.png`. Tipografía de la saga con «LIBRO IV» y «Sangre» con inicial alta.
+- **Kal y Chiara:** de espaldas; 1.92 m y 1.80 m (con tacones casi a la par). Referencias adjuntas: Kal_Mercer_Invierno y Chiara_Bellandi (no la de invierno: pelo corto).
+- **Detalle no corregido:** el coche rojo de la fuente es un hatchback moderno, no un Peugeot 106 XSi; en el fotograma granulado casi no se nota.
+
 ## Pendiente
 
-- El autor genera con el prompt v2 (adjuntando las referencias) y elige.
-- Componer con `componer_portada.py` (falta añadir el Libro IV al script).
+- El autor aprueba la v1. Al aprobarla, renombrar la original como `Cuentas_De_Sangre_VICTOR_PAZ_v0_retirada.png` (no borrarla). El Libro IV todavía no tiene build de EPUB.
+- Escalado por IA de la base antes de la versión impresa.

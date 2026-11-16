@@ -1,7 +1,7 @@
 """Compone las portadas de la saga sobre una imagen base.
 
 Uso (desde la raiz del vault):
-    python -B tools/portada/componer_portada.py [--libro mascaras|sombras|voto] [--base RUTA] [--salida RUTA]
+    python -B tools/portada/componer_portada.py [--libro mascaras|sombras|voto|cuentas] [--base RUTA] [--salida RUTA]
 
 Reproduce el sistema tipografico de la saga (referencia: *Voto de Ceniza*):
 titulo en capitales romanas tipo Trajan, plata cincelada, segunda linea con
@@ -150,6 +150,7 @@ LIBROS = {
     "mascaras": ("MÁSCARAS", "DE", "CRISTAL", "I", True),
     "sombras": ("SOMBRAS", "DE", "PODER", "II", False),
     "voto": ("VOTO", "DE", "CENIZA", "III", False),
+    "cuentas": ("CUENTAS", "DE", "SANGRE", "IV", False),
 }
 
 
