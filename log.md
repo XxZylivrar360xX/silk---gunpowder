@@ -4,6 +4,7 @@ El detalle se guarda una sola vez en notas de sesión. Este archivo es navegaci�
 
 ## Sesiones recientes
 
+- 2026-11-15: APROBADOS POR EL AUTOR el contrapeso del núcleo de Meiko y los escalones del ritual de Kal; primer contrapeso en prosa (Libro I, cap. 22): «El primero salió una fila antes. La próxima, la fila es mía.»: [[11_Books/00_Arco_Meiko_Nakano]].
 - 2026-11-15: DISEÑO (revisión externa) en el arco de Meiko: contrapeso del núcleo «la que deja pasar» (querer ganar, egoísmo, pelea con Bonnie, error de oficio, placer propio) y el ritual mensual de Kal en cinco escalones que cambian con él: [[11_Books/00_Arco_Meiko_Nakano]].
 - 2026-11-15: Libro II, caps. 37–39 (revisión externa): lo que Meiko filtra se ve desde la rampa del Monarch, no con charolas (canon de valet); en el 37 queda en página por qué Kal la lleva al corralón («Prefiero tenerla donde la vea») y los teléfonos van a la caja de los chalecos (38; siembra añadida a la guía del 29): [[11_Books/00_Arco_Meiko_Nakano]].
 - 2026-11-15: Libro I, prosa BORRADOR del arco de Meiko: la Zen Devil (9), la entrada al taller (22), la siembra en el loft (24), la contratación en el lago (29, en lugar del 26), el primer «Mei» y el primer adelanto (30), la primera calificación (31) y retoques en 35, 38, 41 y 44: [[11_Books/00_Arco_Meiko_Nakano]].

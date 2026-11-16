@@ -31,7 +31,7 @@ Hoy Meiko es casi siempre **información**: rutas, horarios, cámaras, el dato d
 - **Su muerte cobra el núcleo:** «Perdóname, jefe.» es la primera vez que pide algo para ella, y llega tarde.
 - **Lo que el lector desea sin saberlo:** que alguna vez pase primero (ver motor 7).
 
-### Contrapeso: no todo en ella es dejar pasar (revisión externa, 2026-11-15; DISEÑO)
+### Contrapeso: no todo en ella es dejar pasar (revisión externa; APROBADO POR EL AUTOR, 2026-11-15)
 
 El núcleo es su columna, no su única nota. Si todas sus decisiones lo expresan, deja de ser persona y se vuelve emblema. **Guarda:** por cada dos escenas que muestran el núcleo, al menos una lo contradice. Tiene que poder:
 
@@ -144,7 +144,7 @@ Dónde quedó cada beat (difiere del mapa de arriba donde lo indica la nota):
 - **Ubicación recomendada (P):** Parte II del Libro II, entre el cap. 26 (*Lussia*) y el 29 (*Nadie tiene prisa*), cuando el Camaro ya está terminado y la deuda de Kaito ya está pagada (cap. 23), en POV Kal. La venta del Peugeot queda para el momento que el autor tiene pensado, **después** de la carrera.
 - **Ritual mensual:** empieza al mes de su muerte (Libro II, Parte IV) y es continuidad para los libros III y IV. Dónde termina, si termina, es **PENDIENTE del autor** (tras el IV, Kal y Chiara ya no pueden volver a San Aurelio).
 
-### El ritual cambia con Kal (revisión externa, 2026-11-15; DISEÑO, por aprobar)
+### El ritual cambia con Kal (revisión externa; APROBADO POR EL AUTOR, 2026-11-15; el paso 5 sigue PENDIENTE)
 
 Un duelo idéntico durante años pierde fuerza; uno que cambia con quien lo lleva gana hondura. **Guarda:** cada vez que el ritual aparezca en página, algo es distinto, y la diferencia dice dónde está Kal. Propuesta de escalones:
 

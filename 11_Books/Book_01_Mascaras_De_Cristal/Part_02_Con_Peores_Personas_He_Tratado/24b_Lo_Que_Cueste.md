@@ -13,7 +13,7 @@ Protagonistas: Kal Mercer, Chiara Bellandi. Apariciones: Meiko Nakano (entra al 
 Ventana temporal: la semana siguiente al viernes del nuevo 21. Martes: acuerdo; jueves: Villani y taller de noche; viernes: la moto y la panadería; lunes: llega Meiko; días después: el loft; la mañana siguiente: el Lancia.
 Lugares: tribunal civil de San Aurelio (sala de mediación, pasillo), Villani Motors, el taller de La Almendra, la panadería de la calle de Héctor, el loft.
 Craft: voz según 12_Craft_Policies/voice (Kal, Chiara, Nadir). Nadir: darija con moderación, la pregunta de dinero como arma, el silencio como alarma. Registro privado en semilla (pre-H16).
-ENTRADA DE MEIKO (2026-11-15, DECISIÓN DEL AUTOR: camino A; prosa DISEÑO, espera lectura): escena nueva entre la Kawasaki y el loft. El lunes, a las siete, el Camaro de Kingsley con un cilindro enfermo; «Kingsley. Llegaste segunda.» / «Llegué. Con las torretas atrás, eso ya es bastante.»; «Del norte» y nada más; Kal piensa en la casa vacía de Boone y no pregunta. Prueba: revisar la Kawasaki; ella encuentra el freno trasero en metal, lo que Kal no vio al ajustar la cadena. Danny la reconoce y se calla (CANON: ella le conseguía la heroína; lo cubrió en el billar). Pide quedarse a dormir esa semana; a la mañana siguiente la luz de la oficina sigue prendida. Arco: [[11_Books/00_Arco_Meiko_Nakano]].
+ENTRADA DE MEIKO (2026-11-15, DECISIÓN DEL AUTOR: camino A; prosa DISEÑO, espera lectura): escena nueva entre la Kawasaki y el loft. El lunes, a las siete, el Camaro de Kingsley con un cilindro enfermo; «Kingsley. Llegaste segunda.» / «Llegué. Con las torretas atrás, eso ya es bastante.»; «Del norte» y nada más; Kal piensa en la casa vacía de Boone y no pregunta. Prueba: revisar la Kawasaki; ella encuentra el freno trasero en metal, lo que Kal no vio al ajustar la cadena. Danny la reconoce y se calla (CANON: ella le conseguía la heroína; lo cubrió en el billar). Contrapeso del núcleo (APROBADO POR EL AUTOR, 2026-11-15): tras el «Llegué», «El primero salió una fila antes. La próxima, la fila es mía»: le pesa la segunda. Pide quedarse a dormir esa semana; a la mañana siguiente la luz de la oficina sigue prendida. Arco: [[11_Books/00_Arco_Meiko_Nakano]].
 -->
 
 # Capítulo 22 — Lo que cueste
@@ -289,6 +289,10 @@ La muchacha estaba sentada en el guardafango, con las manos en los bolsillos de 
 —Kingsley —dijo Kal—. Llegaste segunda.
 
 —Llegué. —Se encogió de hombros—. Con las torretas atrás, eso ya es bastante.
+
+Esperó un segundo.
+
+—El primero salió una fila antes —dijo, sin cambiar de cara—. La próxima, la fila es mía.
 
 —¿Qué se te ofrece?
 
