@@ -1,6 +1,6 @@
 # Portada de *Hijos del Silencio*: la presa
 
-**Estado:** DISEÑO (2026-11-16). Concepto del autor: **pensar en grande**, la Presa del Sur con Elenna y Erin. Es la primera portada del libro (no había ninguna). Las imágenes generadas son referencia, no canon.
+**Estado:** DISEÑO (2026-11-16); v1 compuesta, espera aprobación. Concepto del autor: **pensar en grande**, la Presa del Sur con Elenna y Erin. Es la primera portada del libro (no había ninguna). Las imágenes generadas son referencia, no canon.
 
 ## Por qué este concepto
 
@@ -49,7 +49,12 @@ Una corrección por vez, empezando con «Keep this exact image, composition and 
 - Corona de la presa (y las dos figuras) en torno al 50 % de la altura; la cascada hasta el 85 %; la boca del desfogue entre el 70 % y el 80 %, a un lado.
 - Tipografía de la saga, con «SEDA Y PÓLVORA · LIBRO VI»; «Silencio» con inicial alta.
 
+## v1 compuesta (2026-11-16)
+
+- **Base:** segunda generación (prompt de la presa masiva), sin ediciones: [[99_Reference/book_covers/Hijos_Del_Silencio_Presa_base.webp]] (992 × 1586). Compuertas radiales, vertedor, casa de máquinas con transformadores, puerta del desfogue con la luz roja y la linterna; Elenna y Erin en un balcón mirador sobre el muro.
+- **Portada:** [[99_Reference/book_covers/Hijos_Del_Silencio_Presa_v1.png]] (2560 × 4096), con `python -B tools/portada/componer_portada.py --libro hijos --base 99_Reference/book_covers/Hijos_Del_Silencio_Presa_base.webp --salida 99_Reference/book_covers/Hijos_Del_Silencio_Presa_v1.png`. El enlace es «DEL»; «Silencio» con inicial alta; pie oscurecido hasta el borde (el río claro asomaba), como en el III y el V.
+
 ## Pendiente
 
-- El autor genera y elige.
-- Componer con `componer_portada.py` (falta añadir el Libro VI al script).
+- El autor aprueba la v1. No hay portada anterior que retirar. El Libro VI todavía no tiene build de EPUB.
+- Escalado por IA de la base antes de la versión impresa.
