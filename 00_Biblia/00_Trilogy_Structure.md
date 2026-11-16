@@ -856,6 +856,7 @@ Fuente: [[11_Books/00_Matriz_Causal_Saga]] (§1–§6 y §9). Las figuras legale
 78. **El camper, en orden:** Elenna toma primero lo de Volpi y lo mete a evidencia; Michael entrega a La Mesa sólo la historia del Consorzio; Iris lee los diarios. **Elenna declara en el expediente lo que sabe de su abuelo** (Gabe pagaba la clínica): persigue la verdad que es suya y rechaza la de sus padres.
 79. **Marisol sabe que Elenna vive desde antes de sus cinco años**, y eso es su distancia con Kal. **Livia** rompe en el VI y sólo llama una vez en el VII, por Volpi. **La bomba doble alcanza a Elenna.**
 80. **Menores:** de niños visitaban a Gabe en San Aurelio; Brasil a los 15 es el primer viaje de Elenna sin sus padres; en el cierre del VII Elenna es la anfitriona en la Villa; Corrado muere a los ~93–94 (tabla de edades). **Edades (DECISIÓN DEL AUTOR):** Walt tiene ~85 en el V (supersede «unos 81»); Ettore es unos 15 años menor que Corrado (~75 cuando forma a Michael).
+81. **El regreso cambia de libro (DECISIÓN DEL AUTOR, 2026-11-16):** Kal y Chiara vuelven al final del VI (el hospital, después del banco) y se marchan al inicio del VII (cuenta regresiva y hangar). Supersede en ese punto el #31 («El hospital abre el VII»). Última imagen del VI y capítulo del hangar, PENDIENTES. Ver [[11_Books/Book_06_Hijos_Del_Silencio/00_Book_Map]] y [[11_Books/Book_07_Camino_A_Casa/00_Book_Map]].
 
 ---
 

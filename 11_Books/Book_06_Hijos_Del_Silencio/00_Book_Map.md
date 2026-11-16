@@ -1,5 +1,7 @@
 # Book 06 — Hijos del Silencio
 
+> **DECISIÓN DEL AUTOR (2026-11-16): Kal y Chiara vuelven al final de *Hijos del Silencio* y se marchan al inicio de *Camino a Casa*.** El hospital (el voto se rompe, Lucía entiende que Elenna vive y les da un plazo) pasa del arranque del VII al **final del VI**, después del banco; el VII abre con la cuenta regresiva y el hangar. Nace de la portada del VII ([[99_Reference/book_covers/00_Portada_Camino_A_Casa_Familia]]), que muestra a los cuatro volviendo a la Villa: así no es spoiler. **PENDIENTE:** la última imagen del VI (el banco era la última, CANON 2026-10-03; ahora la sigue el hospital) y en qué capítulo del VII cae el hangar. Lo que abajo diga «hospital del VII» o «el hospital abre el VII» queda superado en ese punto.
+
 > **DECISIONES DEL AUTOR (2026-11-15, auditoría de destinos):** integradas en el cuerpo de este mapa, marcadas con su fecha. Ver [[11_Books/00_Auditoria_Destinos_Elenna_Y_Michael]] §6.
 
 > **CANON DEL AUTOR (2026-11-15): el voto inverso.** **Chiara no va al funeral de Corrado** (DECISIÓN DEL AUTOR): es el costo del voto en este libro. Que la carta de Chiara de ese capítulo sea la más importante del ciclo, y que el camper reparta los frentes (Michael, La Mesa; Elenna, Volpi), es DISEÑO. Ver [[07_Ideas/El_Voto_Inverso]] · [[11_Books/00_Columna_Maestra_Ciclo_Elenna]].

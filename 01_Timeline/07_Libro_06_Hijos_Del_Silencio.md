@@ -1,5 +1,7 @@
 # Libro VI — Hijos del Silencio
 
+> **DECISIÓN DEL AUTOR (2026-11-16): Kal y Chiara vuelven al final de *Hijos del Silencio* y se marchan al inicio de *Camino a Casa*.** El hospital (el voto se rompe, Lucía entiende que Elenna vive y les da un plazo) pasa del arranque del VII al **final del VI**, después del banco; el VII abre con la cuenta regresiva y el hangar. Nace de la portada del VII ([[99_Reference/book_covers/00_Portada_Camino_A_Casa_Familia]]), que muestra a los cuatro volviendo a la Villa: así no es spoiler. **PENDIENTE:** la última imagen del VI (el banco era la última, CANON 2026-10-03; ahora la sigue el hospital) y en qué capítulo del VII cae el hangar. Lo que abajo diga «hospital del VII» o «el hospital abre el VII» queda superado en ese punto.
+
 > **DECISIONES DEL AUTOR (2026-11-15, auditoría de destinos):** **Livia rompe desde Palermo y no vuelve;** «la retiene» la verdad sobre su padre queda superado y pasa a una sola llamada en el VII. Michael, al quedarse con la silla, reabre la atención de La Mesa. Ver [[11_Books/00_Auditoria_Destinos_Elenna_Y_Michael]] §6.
 
 > **Fuente operativa:** [[11_Books/Book_06_Hijos_Del_Silencio/00_Book_Map]] · **Estado:** diseño macro; título y función CANON DEL AUTOR (2026-10-03); sin desglose de partes.

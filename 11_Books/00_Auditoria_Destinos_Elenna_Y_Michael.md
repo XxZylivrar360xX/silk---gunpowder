@@ -1,5 +1,7 @@
 # Auditoría: los destinos de Elenna y Michael (Libros III–VII)
 
+> **DECISIÓN DEL AUTOR (2026-11-16): Kal y Chiara vuelven al final de *Hijos del Silencio* y se marchan al inicio de *Camino a Casa*.** El hospital (el voto se rompe, Lucía entiende que Elenna vive y les da un plazo) pasa del arranque del VII al **final del VI**, después del banco; el VII abre con la cuenta regresiva y el hangar. Nace de la portada del VII ([[99_Reference/book_covers/00_Portada_Camino_A_Casa_Familia]]), que muestra a los cuatro volviendo a la Villa: así no es spoiler. **PENDIENTE:** la última imagen del VI (el banco era la última, CANON 2026-10-03; ahora la sigue el hospital) y en qué capítulo del VII cae el hangar. Lo que abajo diga «hospital del VII» o «el hospital abre el VII» queda superado en ese punto.
+
 > **DECISIONES DEL AUTOR (2026-11-15, mismo día):** el autor decidió bloque por bloque la propuesta de homogeneización. **Cierran G1–G4 y los choques 1 y 3–10.** Están en el §6, que manda sobre lo que diga arriba. Las edades de Walt y Ettore, decididas después, también están en el §6.7.
 
 > **Estado:** DISEÑO del agente (Claude Code, 2026-11-15), por encargo del autor: revisar que los destinos de Elenna y Michael estén alineados con hacia dónde van ahora los libros. **No cambia canon ni prosa** y no corrige nada: reporta. Las grietas llevan recomendación; decide el autor.

@@ -54,6 +54,7 @@ Mapa de navegación de *Seda y Pólvora*. Este índice apunta a las fuentes vige
 - [[99_Reference/book_covers/00_Portada_Cuentas_De_Sangre_Hilo_Rojo]] — rediseño de la portada del Libro IV: el hilo rojo de Meridian (v1 aprobada).
 - [[99_Reference/book_covers/00_Portada_Juramento_De_Hierro_Placa]] — rediseño de la portada del Libro V: la placa con banda de luto, la llave y las cartas (v1 aprobada).
 - [[99_Reference/book_covers/00_Portada_Hijos_Del_Silencio_Presa]] — primera portada del Libro VI: la Presa del Sur con Elenna y Erin (v1 aprobada).
+- [[99_Reference/book_covers/00_Portada_Camino_A_Casa_Familia]] — rediseño de la portada del Libro VII: la familia vuelve a la Villa (v1 compuesta, espera aprobación).
 - [[99_Reference/kylia_puesta_en_escena/README]] — gesto y distancia de pareja para *Sombras de Poder* (Kylia, no canon).
 - [[tools/editorial/README]] · [[tools/epub-build/README]] · [[tools/pdf-build/README]] · [[tools/audiolibro/README]] — herramientas locales.
 

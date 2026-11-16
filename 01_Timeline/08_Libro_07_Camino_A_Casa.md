@@ -1,5 +1,7 @@
 # Libro VII — Camino a Casa
 
+> **DECISIÓN DEL AUTOR (2026-11-16): Kal y Chiara vuelven al final de *Hijos del Silencio* y se marchan al inicio de *Camino a Casa*.** El hospital (el voto se rompe, Lucía entiende que Elenna vive y les da un plazo) pasa del arranque del VII al **final del VI**, después del banco; el VII abre con la cuenta regresiva y el hangar. Nace de la portada del VII ([[99_Reference/book_covers/00_Portada_Camino_A_Casa_Familia]]), que muestra a los cuatro volviendo a la Villa: así no es spoiler. **PENDIENTE:** la última imagen del VI (el banco era la última, CANON 2026-10-03; ahora la sigue el hospital) y en qué capítulo del VII cae el hangar. Lo que abajo diga «hospital del VII» o «el hospital abre el VII» queda superado en ese punto.
+
 > **Fuente operativa:** [[11_Books/Book_07_Camino_A_Casa/00_Book_Map]] · **Estado:** diseño macro; resolución final del caso Vera.
 >
 > **Renumerado dos veces:** era Libro V; Libro VI desde 2026-09-22 por la inserción de *Sombras de Poder*; **Libro VII desde 2026-10-03** por la inserción de *Hijos del Silencio* — ver [[00_Biblia/00_Trilogy_Structure]]. Título y portada no cambian.
