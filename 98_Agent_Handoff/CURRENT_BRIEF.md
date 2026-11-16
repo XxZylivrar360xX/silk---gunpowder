@@ -29,7 +29,7 @@ Plan: [[11_Books/Book_01_Mascaras_De_Cristal/00_Plan_Nuevo_Cauce]]; mapa: [[11_B
 
 - **47 caps.** (I = 1–19, II = 20–32, III = 33–47). «—Ciao, bella.» cierra el 46 (archivo 50); el 47 (Halbrook, archivo 50b) cierra el libro. Estados: [[12_Craft_Policies/CHAPTER_STATUS]]. Leído no es sellado.
 - **CANON:** sep A1 → 5 ene A3; la Mesa, 13 dic; Kal preso del 19 dic al 5 ene ([[98_Agent_Handoff/DECISIONS]]). San Aurelio en Oregon, inspirada en Portland. Sin jefe de policía en el I; Lucía, subjefa en funciones.
-- **Exportación:** se regenera y sube al cerrar cada tarea con `regenerar-y-subir`. Falta la portada HD para KDP; v1 aprobada (2026-11-16, la Colombina tras el vidrio) y ya en el EPUB; falta el escalado para imprenta: [[99_Reference/book_covers/00_Portada_Mascaras_De_Cristal_Colombina]].
+- **Exportación:** se regenera y sube al cerrar cada tarea con `regenerar-y-subir`. Portada v1 aprobada y en el EPUB (2026-11-16). **Tapa blanda 6 × 9 (DECISIÓN DEL AUTOR)**: tapa completa v1 provisional (lomo con 740 páginas) y sinopsis aprobada; falta maquetar el interior para fijar páginas, el escalado para imprenta y el PDF: [[99_Reference/book_covers/00_Portada_Mascaras_De_Cristal_Colombina]].
 
 ## Fuentes y restricciones
 

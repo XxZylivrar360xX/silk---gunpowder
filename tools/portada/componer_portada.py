@@ -160,6 +160,15 @@ LIBROS = {
 def componer(base: Path, salida: Path, linea1: str, enlace: str, linea2: str,
              libro: str, con_mancha: bool) -> None:
     im = base_escalada(base)
+    aplicar_tipografia(im, linea1, enlace, linea2, libro, con_mancha)
+    salida.parent.mkdir(parents=True, exist_ok=True)
+    im.save(salida, optimize=True)
+    print(f"ok: {salida} {im.size}")
+
+
+def aplicar_tipografia(im: Image.Image, linea1: str, enlace: str, linea2: str,
+                       libro: str, con_mancha: bool) -> None:
+    """Degradados y tipografia de portada sobre una imagen de W x H (globales del modulo)."""
     degradado(im, 0.0, 0.36, 0.55, 0.0)      # aire para el titulo
     degradado(im, 0.76, 0.97, 0.0, 0.93)     # franja del autor
     if libro in ("III", "V", "VI", "VII"):
@@ -193,10 +202,6 @@ def componer(base: Path, salida: Path, linea1: str, enlace: str, linea2: str,
     linea(d, (180, ya), (caja_a[0] - 80, ya), alfa=170)
     linea(d, (caja_a[2] + 80, ya), (W - 180, ya), alfa=170)
     im.paste(capa, (0, 0), capa)
-
-    salida.parent.mkdir(parents=True, exist_ok=True)
-    im.save(salida, optimize=True)
-    print(f"ok: {salida} {im.size}")
 
 
 if __name__ == "__main__":

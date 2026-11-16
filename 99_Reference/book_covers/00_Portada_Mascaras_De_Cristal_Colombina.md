@@ -76,6 +76,14 @@ KDP pide **un solo archivo** con contraportada, lomo y portada, más 0.125 in de
 - **Medidas:** dependen del tamaño de libro y del número de páginas. El PDF de lectura en A5 tiene 830 páginas y KDP admite 828 en tapa blanda: el interior de imprenta es otra maqueta y hay que decidirla. Lomo (crema) = páginas × 0.0025 in; ejemplo: 600 páginas → 1.5 in; A5 → portada completa de unos 13.4 × 8.5 in (4023 × 2556 px a 300 ppp), proporción cercana a 3:2.
 - **La extensión se pide con margen** y se recorta exacta cuando haya número de páginas.
 
+### Tapa completa v1 (2026-11-16, provisional)
+
+- **Formato (DECISIÓN DEL AUTOR, 2026-11-16): 6 × 9 in.** En A5 el libro pasaba del límite de 828 páginas de KDP; 6 × 9 da unas 740 con la misma letra.
+- **Extensión:** [[99_Reference/book_covers/Mascaras_De_Cristal_Colombina_extension.webp]] (1536 × 1024). ChatGPT conservó la portada a la derecha; el script pega encima la base original y funde la costura (no se nota). En la contraportada el coche se ve redondeado; se aceptó así.
+- **Tapa:** [[99_Reference/book_covers/Mascaras_De_Cristal_Tapa_6x9_v1.png]] (4230 × 2775 px, 300 ppp = 14.1 × 9.25 in con sangrado), con `python -B tools/portada/componer_tapa.py --libro mascaras --paginas 740 --extension 99_Reference/book_covers/Mascaras_De_Cristal_Colombina_extension.webp --base 99_Reference/book_covers/Mascaras_De_Cristal_Colombina_base.webp --sinopsis 11_Books/Book_01_Mascaras_De_Cristal/00_Sinopsis_Contraportada.md --salida 99_Reference/book_covers/Mascaras_De_Cristal_Tapa_6x9_v1.png` (añadir `--guias RUTA.png` para ver corte, lomo y código de barras).
+- **Provisional:** el lomo se calculó con 740 páginas en papel crema (1.85 in). Cuando el interior esté maquetado, se vuelve a correr con el número real. KDP pide la tapa en **PDF**: se exporta al final, con las páginas definitivas.
+- **Composición:** contraportada con la sinopsis justificada (Garamond, ~12 pt) y la marca de la saga abajo a la izquierda; abajo a la derecha queda libre el hueco del código de barras (2 × 1.2 in, lo pone KDP). Lomo con número, rombo, título y autor, leídos de arriba abajo. Portada con la misma tipografía que la digital, recentrada para la proporción de 6 × 9.
+
 ### Prompt de extensión
 
 Adjuntar [[99_Reference/book_covers/Mascaras_De_Cristal_Colombina_base.webp]]:

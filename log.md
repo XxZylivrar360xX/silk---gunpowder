@@ -4,6 +4,7 @@ El detalle se guarda una sola vez en notas de sesión. Este archivo es navegaci�
 
 ## Sesiones recientes
 
+- 2026-11-16: DECISIÓN DEL AUTOR: tapa blanda 6 × 9 in (A5 pasaba de 828 páginas). Tapa completa v1 del Libro I (contraportada con sinopsis, lomo, portada), provisional con 740 páginas: [[99_Reference/book_covers/00_Portada_Mascaras_De_Cristal_Colombina]]; script `tools/portada/componer_tapa.py`.
 - 2026-11-16: CANON DEL AUTOR: sinopsis de contraportada del Libro I aprobada (un párrafo, remate «En esta ciudad todo se paga. Lo suyo también.»): [[11_Books/Book_01_Mascaras_De_Cristal/00_Sinopsis_Contraportada]].
 - 2026-11-16: DECISIÓN DEL AUTOR (estructura VI–VII): Kal y Chiara vuelven al final del VI (el hospital pasa ahí, tras el banco) y se marchan al inicio del VII (cuenta regresiva y hangar); nace de la portada del VII. Notas en mapas VI y VII, columna, timeline, Lucía, matriz y auditoría; Biblia #81. PENDIENTE: última imagen del VI y capítulo del hangar.
 - 2026-11-16: DECISIÓN DEL AUTOR: Michael tiene versión de civil, la de después de dejar la mesa y el Monarch por Iris (VII); mientras ocupa la silla, siempre de corbata: [[02_Characters/Michael_Ardizzone]].
