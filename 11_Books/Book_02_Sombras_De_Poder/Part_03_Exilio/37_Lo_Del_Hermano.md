@@ -304,7 +304,7 @@ Ella no preguntó más. Desde los frenos no preguntaba más que eso: el nombre d
 
 —¿Cómo están las chicas? —preguntó, ya con los ojos cerrados—. Bonnie me dijo que quiere volver a tirar el domingo.
 
-Kal se quedó mirando el techo. Por la ventana entraba un poco de luz de la calle de abajo, del farol de la curva, y se dibujaba en el techo un rectángulo pálido con la sombra de la rama del arce partiéndolo en dos.
+Kal se quedó mirando el techo. Por la ventana entraba un poco de luna, y se dibujaba en el techo un rectángulo pálido con la sombra de una rama de abeto partiéndolo en dos.
 
 Pensó en las salas del Monarch. En las charolas. En quién se sentaba con quién, y en quién lo veía, y en lo que Chiara iba a pensar de cada noche de los últimos tres meses, de cada mesa, de cada cara, si él se lo decía ahora: que en sus salas, con sus copas, alguien le contaba a Varek con quién se sentaba. Y pensó que no podía decírselo sin decirle también lo otro, todo lo otro, lo de la calle Fowler y lo de la plática y lo del jueves, y lo que iban a decidir después.
 
@@ -312,4 +312,4 @@ Pensó en las salas del Monarch. En las charolas. En quién se sentaba con quié
 
 Chiara respiró hondo contra su hombro y se quedó dormida en pocos minutos, como se dormía cuando él llegaba.
 
-Kal no. Se quedó con los ojos abiertos, mirando el rectángulo del techo. En algún momento de la madrugada pasó un coche por la curva y la luz de los faros recorrió el cuarto de una pared a la otra, despacio, y se fue.
+Kal no. Se quedó con los ojos abiertos, mirando el rectángulo del techo. En algún momento de la madrugada se levantó viento en los cerros, y la sombra de la rama se movió en el techo de un lado a otro, despacio, y después se quedó quieta.

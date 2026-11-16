@@ -4,6 +4,7 @@ El detalle se guarda una sola vez en notas de sesión. Este archivo es navegaci�
 
 ## Sesiones recientes
 
+- 2026-11-15: Libro II, cap. 38 rehecho para que la muerte de Mei-Lin duela por injusta (DECISIÓN DEL AUTOR: clínica frente a la que no frenan, «Por el hospital no», espera a Nadir, el silencio de los chalecos); siembra pendiente del ritual: [[98_Agent_Handoff/sessions/2026-11-13_claude_arco_mei_lin]]
 - 2026-11-15: Libro II, la Villa reubicada por Las Gemelas en la prosa de los borradores 54–56 (carretera del norte, portón con cadena, once curvas; plazos de Héctor y Camila a una hora; Chiara despierta a la 1:10): [[98_Agent_Handoff/sessions/2026-11-15_claude_reubicacion_villa_54_56]].
 
 - 2026-11-15: DECISIONES DEL AUTOR sobre los destinos de Elenna y Michael (nombre, silla, Monarch, Ridge, camper, Marisol, Livia, la bomba doble, tabla de edades), propagadas con notas fechadas (Biblia #73–#80, fichas, relaciones, mapas V–VII, matriz, columna, Boston): [[11_Books/00_Auditoria_Destinos_Elenna_Y_Michael]].
@@ -34,7 +35,6 @@ El detalle se guarda una sola vez en notas de sesión. Este archivo es navegaci�
 - 2026-11-12: guía de redacción del Libro II rehecha desde las tarjetas, 55 capítulos (DISEÑO; conserva las reglas, líneas canon, «no hacer» y PENDIENTE del boceto); el boceto de 64 pasa a supersedido: [[11_Books/Book_02_Sombras_De_Poder/00_Guia_Redaccion_Capitulos]] · [[98_Agent_Handoff/sessions/2026-11-12_claude_carretera_libro_ii]]
 - 2026-11-12: numeración de 55 del Libro II propagada (tabla y equivalencias en el Book_Map, columna en la matriz temporal, diseños de Stavanger, Navidad y las cartas; Mei-Lin, la graduación y F3): [[11_Books/Book_02_Sombras_De_Poder/00_Book_Map]] · [[98_Agent_Handoff/sessions/2026-11-12_claude_carretera_libro_ii]]
 - 2026-11-12: exploración de la verdad del corral (B5 del libro mayor): quién cree qué, tres lecturas encimadas (La Mesa, Varek, Crowe/Halbrook), piezas que ya existen (Rudy de Kingsley, la terraza) y cuatro opciones para el IV; DISEÑO, sin canon: [[97_Supersedido/Exploracion_Verdad_Del_Corral]] (retirada el mismo día)
-- 2026-11-12: contradicciones entre fichas corregidas por orden del autor (Boston en vez de Italia, Mei-Lin, Trix, numeración de libros, README; sin canon nuevo): [[02_Characters/Mapa_Evolucion_Reparto]]
 
 ## Historial
 
