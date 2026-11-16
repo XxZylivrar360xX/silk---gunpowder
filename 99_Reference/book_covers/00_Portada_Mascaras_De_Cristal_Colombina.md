@@ -66,3 +66,19 @@ Es el más fiel al texto («Kal la vio por el espejo») y el más elegante. Su r
 
 - Escalado por IA de la base antes de la versión impresa (tapa blanda con lomo).
 - **Aprobada por el autor (2026-11-16):** la v1 es la portada del EPUB (`--cover` de `tools/epub-build/build_epub.py`). El PDF no lleva portada.
+
+## Portada completa para tapa blanda (DISEÑO, 2026-11-16)
+
+KDP pide **un solo archivo** con contraportada, lomo y portada, más 0.125 in de sangrado por lado. El ebook sigue usando sólo la portada.
+
+- **Método:** extender la imagen base hacia la izquierda (ChatGPT), pegar encima la portada original intacta en el panel derecho y fundir la costura; componer el lomo (título vertical, autor, número) y la contraportada (sinopsis, autor, hueco para el código de barras abajo a la derecha, unos 2 × 1.2 in).
+- **Sinopsis:** [[11_Books/Book_01_Mascaras_De_Cristal/00_Sinopsis_Contraportada]] (BORRADOR, espera al autor).
+- **Medidas:** dependen del tamaño de libro y del número de páginas. El PDF de lectura en A5 tiene 830 páginas y KDP admite 828 en tapa blanda: el interior de imprenta es otra maqueta y hay que decidirla. Lomo (crema) = páginas × 0.0025 in; ejemplo: 600 páginas → 1.5 in; A5 → portada completa de unos 13.4 × 8.5 in (4023 × 2556 px a 300 ppp), proporción cercana a 3:2.
+- **La extensión se pide con margen** y se recorta exacta cuando haya número de páginas.
+
+### Prompt de extensión
+
+Adjuntar [[99_Reference/book_covers/Mascaras_De_Cristal_Colombina_base.webp]]:
+
+> Extend this image to the left into a horizontal 3:2 landscape for a book wraparound cover. The original image must stay exactly as it is, at full height, on the right edge. Continue the scene leftward: the glossy red bodywork of the same small car continues along its side, past the door pillar, with rain on the paint and reflections of distant amber streetlights, then gives way to a dark, rain-wet night street that fades into deep shadow. The left half must be dark and calm, with large areas of soft shadow and almost no detail, to hold text. Same lighting, same color palette, same rain. No people, no other masks, no text, no logos, no license plates.
+
