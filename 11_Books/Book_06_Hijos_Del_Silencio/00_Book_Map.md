@@ -8,7 +8,7 @@
 
 > **LIBRO NUEVO (2026-10-03, CANON DEL AUTOR).** Se inserta entre *Juramento de Hierro* y *Camino a Casa* al pasar el ciclo de Elenna a trilogía — ver [[00_Biblia/00_Trilogy_Structure]]. No es la mitad arrancada de *Camino a Casa* ni la "alternativa de tres libros" descartada el 2026-09-16: tiene conflicto, clímax y arco propios. Fuente: notas PROYECTO RECLUTA ([[98_Agent_Handoff/sessions/2026-10-03_claude_trilogia_elenna_lote1]]).
 >
-> **BLOQUEO DE PROSA:** no se redacta prosa de este libro. Sin desglose de partes aprobado. **Portada v1 compuesta (2026-11-16), espera aprobación:** la Presa del Sur con Elenna y Erin, [[99_Reference/book_covers/00_Portada_Hijos_Del_Silencio_Presa]].
+> **BLOQUEO DE PROSA:** no se redacta prosa de este libro. Sin desglose de partes aprobado. **Portada v1 aprobada (2026-11-16):** la Presa del Sur con Elenna y Erin, [[99_Reference/book_covers/00_Portada_Hijos_Del_Silencio_Presa]].
 
 ---
 

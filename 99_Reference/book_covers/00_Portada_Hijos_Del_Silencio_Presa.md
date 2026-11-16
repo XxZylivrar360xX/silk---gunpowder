@@ -1,6 +1,6 @@
 # Portada de *Hijos del Silencio*: la presa
 
-**Estado:** DISEÑO (2026-11-16); v1 compuesta, espera aprobación. Concepto del autor: **pensar en grande**, la Presa del Sur con Elenna y Erin. Es la primera portada del libro (no había ninguna). Las imágenes generadas son referencia, no canon.
+**Estado:** DECISIÓN DEL AUTOR (2026-11-16): v1 aprobada como portada. Concepto del autor: **pensar en grande**, la Presa del Sur con Elenna y Erin. Es la primera portada del libro (no había ninguna). Las imágenes generadas son referencia, no canon.
 
 ## Por qué este concepto
 
@@ -56,5 +56,5 @@ Una corrección por vez, empezando con «Keep this exact image, composition and 
 
 ## Pendiente
 
-- El autor aprueba la v1. No hay portada anterior que retirar. El Libro VI todavía no tiene build de EPUB.
+- Cuando el Libro VI tenga build de EPUB, usar la v1 como portada.
 - Escalado por IA de la base antes de la versión impresa.
