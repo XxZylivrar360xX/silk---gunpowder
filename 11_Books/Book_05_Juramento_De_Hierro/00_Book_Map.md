@@ -18,7 +18,7 @@
 >
 > **BLOQUEO DE PROSA:** no se redacta prosa de este libro. La saga post-trilogía sigue en fase de incubadora en [[07_Ideas/Libro_04_Incubadora/README|Libro_04_Incubadora]]; título y portada son canon fijo, la arquitectura de capítulos no.
 >
-> **Portada:** `99_Reference/book_covers/Juramento_De_Hierro_VICTOR_PAZ.png`.
+> **Portada:** en rediseño (2026-11-16): [[99_Reference/book_covers/00_Portada_Juramento_De_Hierro_Placa]]; la anterior, `99_Reference/book_covers/Juramento_De_Hierro_VICTOR_PAZ.png`.
 
 ---
 
@@ -82,6 +82,10 @@ Curva de Erin en la trilogía (CANON DEL AUTOR, 2026-10-03): **V tensión → VI
 ## Reservado para este libro
 
 - **Julliete Grayson** (CANON DEL AUTOR, 2026-10-12): madre de [[02_Characters/Marisol_Grayson|Marisol]]. En los Libros I–IV es sólo "la madre que se fue"; su historia y su función aquí son PENDIENTE.
+
+## Un policía muerto en la academia de Elenna (DECISIÓN DEL AUTOR, 2026-11-16)
+
+Durante la academia **muere un policía**, y Elenna, cadete recién ingresada, lo vive de cerca: el juramento se le presenta con su precio desde el principio. Nace de la portada ([[99_Reference/book_covers/00_Portada_Juramento_De_Hierro_Placa]]: placa con banda de luto). **PENDIENTE:** quién es, cómo muere, cuándo, y si se relaciona con el caso Vera o con Ethan.
 
 ## Pendientes (de [[07_Ideas/Libro_04_Incubadora/08_Pendientes_De_Autor]])
 
