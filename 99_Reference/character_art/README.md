@@ -56,6 +56,7 @@ Fondo y hora (atardecer, palmeras) son DISEÑO: San Aurelio está en Oregon y la
 | Imagen | Ficha y uso conceptual |
 |---|---|
 | [[99_Reference/character_art/Michael_Ardizzone.png]] | [[02_Characters/Michael_Ardizzone]] — ~22 años; traje carbón con saco abrochado y corbata azul marino; ojos claros de Kal en un rostro Ardizzone largo y fino (decisiones del autor del mismo día) |
+| [[99_Reference/character_art/Michael_Ardizzone_Civil.png]] | [[02_Characters/Michael_Ardizzone]] — de civil, después de dejar la silla por Iris (VII); sin corbata por primera vez |
 
 ## Incorporación 2026-11-16 — Kal, Chiara y Elenna en el Libro VII
 

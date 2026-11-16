@@ -44,6 +44,10 @@ Cabello negro, traje italiano de corte pulcro. Llega a San Aurelio en un Ferrari
 
 *Lámina semirrealista (2026-11-16), DISEÑO: referencia visual, no canon de detalle; manda lo escrito. Generada con las láminas de Chiara y Corrado como referencia, no la de Kal, para que no lo copie.*
 
+![[99_Reference/character_art/Michael_Ardizzone_Civil.png|360]]
+
+*De civil, después de dejar la mesa y el Monarch por Iris (VII), hacia los 24 (DISEÑO, 2026-11-16): camisa de lino con el cuello abierto, suéter de punto azul marino, chinos, mocasines de gamuza; la primera sonrisa franca. Sigue siendo él: nada de la ropa de Kal.*
+
 ## Quién es
 
 - **Ardizzone por elección, Mercer por sangre y carácter.** El apellido del abuelo no se lo impusieron sus padres al nacer: lo eligió él, por el peso que tiene la familia en Italia. Sabe que por dentro es un Mercer. **Simetría:** Elenna Mercer lleva el apellido del padre y descubre cuánto Ardizzone hay en ella; Michael Ardizzone lleva por voluntad propia el del abuelo y sabe perfectamente cuánto Mercer hay en él.
