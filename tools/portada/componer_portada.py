@@ -1,7 +1,7 @@
 """Compone las portadas de la saga sobre una imagen base.
 
 Uso (desde la raiz del vault):
-    python -B tools/portada/componer_portada.py [--libro mascaras|sombras|voto|cuentas] [--base RUTA] [--salida RUTA]
+    python -B tools/portada/componer_portada.py [--libro mascaras|sombras|voto|cuentas|juramento] [--base RUTA] [--salida RUTA]
 
 Reproduce el sistema tipografico de la saga (referencia: *Voto de Ceniza*):
 titulo en capitales romanas tipo Trajan, plata cincelada, segunda linea con
@@ -151,6 +151,7 @@ LIBROS = {
     "sombras": ("SOMBRAS", "DE", "PODER", "II", False),
     "voto": ("VOTO", "DE", "CENIZA", "III", False),
     "cuentas": ("CUENTAS", "DE", "SANGRE", "IV", False),
+    "juramento": ("JURAMENTO", "DE", "HIERRO", "V", False),
 }
 
 
@@ -159,8 +160,8 @@ def componer(base: Path, salida: Path, linea1: str, enlace: str, linea2: str,
     im = base_escalada(base)
     degradado(im, 0.0, 0.36, 0.55, 0.0)      # aire para el titulo
     degradado(im, 0.76, 0.97, 0.0, 0.93)     # franja del autor
-    if libro == "III":
-        degradado(im, 0.97, 1.0, 0.93, 0.93)  # el marmol claro asomaba bajo la franja
+    if libro in ("III", "V"):
+        degradado(im, 0.97, 1.0, 0.93, 0.93)  # lo claro asomaba bajo la franja (marmol del III, cobija del V)
     if con_mancha:
         mancha(im, 0.05, 1.0, 0.42, 0.75)    # esquina inferior izquierda
 

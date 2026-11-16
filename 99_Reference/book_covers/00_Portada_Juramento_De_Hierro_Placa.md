@@ -1,6 +1,6 @@
 # Portada de *Juramento de Hierro*: la placa, la llave y las cartas
 
-**Estado:** DISEÑO (2026-11-16). Concepto elegido por el autor: la placa **con banda de luto**, la llave de la Villa y las cartas de Chiara. Las imágenes generadas son referencia, no canon. Sustituye como dirección a [[99_Reference/book_covers/Juramento_De_Hierro_VICTOR_PAZ.png]] (placa ensangrentada con texto en español en la escena del crimen), que se conserva hasta aprobar la nueva.
+**Estado:** DISEÑO (2026-11-16); v1 compuesta, espera aprobación. Concepto elegido por el autor: la placa **con banda de luto**, la llave de la Villa y las cartas de Chiara. Las imágenes generadas son referencia, no canon. Sustituye como dirección a [[99_Reference/book_covers/Juramento_De_Hierro_VICTOR_PAZ.png]] (placa ensangrentada con texto en español en la escena del crimen), que se conserva hasta aprobar la nueva.
 
 ## Por qué este concepto
 
@@ -44,7 +44,13 @@ Una corrección por vez, empezando con «Keep this exact image, composition and 
 - Los tres objetos entre el 55 % y el 82 % de la altura; la placa, ligeramente al centro.
 - Tipografía de la saga, con «SEDA Y PÓLVORA · LIBRO V»; «Hierro» con inicial alta.
 
+## v1 compuesta (2026-11-16)
+
+- **Primera generación:** placa, banda, llave y cartas salieron bien al primer intento, pero el paisaje de la ventana era toscano (cipreses y una villa en la colina). La Villa está en un cerro entre abetos junto a Las Gemelas, en Oregon ([[05_Locations/La_Villa]]); se pidió una sola edición del paisaje: colinas con niebla y bosque de abetos, sin construcciones.
+- **Base:** [[99_Reference/book_covers/Juramento_De_Hierro_Placa_base.webp]] (992 × 1586).
+- **Portada:** [[99_Reference/book_covers/Juramento_De_Hierro_Placa_v1.png]] (2560 × 4096), con `python -B tools/portada/componer_portada.py --libro juramento --base 99_Reference/book_covers/Juramento_De_Hierro_Placa_base.webp --salida 99_Reference/book_covers/Juramento_De_Hierro_Placa_v1.png`. El pie se oscurece hasta el borde (la cobija clara asomaba bajo la franja), como en el III.
+
 ## Pendiente
 
-- El autor genera y elige.
-- Componer con `componer_portada.py` (falta añadir el Libro V al script).
+- El autor aprueba la v1. Al aprobarla, renombrar la original como `Juramento_De_Hierro_VICTOR_PAZ_v0_retirada.png` (no borrarla) y actualizar el enlace del mapa del V. El Libro V todavía no tiene build de EPUB.
+- Escalado por IA de la base antes de la versión impresa.
