@@ -1,6 +1,6 @@
 # Portada de *Juramento de Hierro*: la placa, la llave y las cartas
 
-**Estado:** DISEÑO (2026-11-16); v1 compuesta, espera aprobación. Concepto elegido por el autor: la placa **con banda de luto**, la llave de la Villa y las cartas de Chiara. Las imágenes generadas son referencia, no canon. Sustituye como dirección a [[99_Reference/book_covers/Juramento_De_Hierro_VICTOR_PAZ.png]] (placa ensangrentada con texto en español en la escena del crimen), que se conserva hasta aprobar la nueva.
+**Estado:** DECISIÓN DEL AUTOR (2026-11-16): v1 aprobada como portada. Concepto elegido por el autor: la placa **con banda de luto**, la llave de la Villa y las cartas de Chiara. Las imágenes generadas son referencia, no canon. Sustituye como dirección a [[99_Reference/book_covers/Juramento_De_Hierro_VICTOR_PAZ_v0_retirada.png]] (placa ensangrentada con texto en español en la escena del crimen), retirada el 2026-11-16.
 
 ## Por qué este concepto
 
@@ -52,5 +52,5 @@ Una corrección por vez, empezando con «Keep this exact image, composition and 
 
 ## Pendiente
 
-- El autor aprueba la v1. Al aprobarla, renombrar la original como `Juramento_De_Hierro_VICTOR_PAZ_v0_retirada.png` (no borrarla) y actualizar el enlace del mapa del V. El Libro V todavía no tiene build de EPUB.
+- Cuando el Libro V tenga build de EPUB, usar la v1 como portada.
 - Escalado por IA de la base antes de la versión impresa.

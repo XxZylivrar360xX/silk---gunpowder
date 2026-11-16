@@ -52,7 +52,7 @@ Mapa de navegación de *Seda y Pólvora*. Este índice apunta a las fuentes vige
 - [[99_Reference/book_covers/00_Portada_Sombras_De_Poder_Vela]] — rediseño de la portada del Libro II: la vela (v1 aprobada, portada del EPUB de lectura).
 - [[99_Reference/book_covers/00_Portada_Voto_De_Ceniza_Chimenea]] — portada del Libro III: la misma imagen con la tipografía de la saga (v1 aprobada).
 - [[99_Reference/book_covers/00_Portada_Cuentas_De_Sangre_Hilo_Rojo]] — rediseño de la portada del Libro IV: el hilo rojo de Meridian (v1 aprobada).
-- [[99_Reference/book_covers/00_Portada_Juramento_De_Hierro_Placa]] — rediseño de la portada del Libro V: la placa con banda de luto, la llave y las cartas (v1 compuesta, espera aprobación).
+- [[99_Reference/book_covers/00_Portada_Juramento_De_Hierro_Placa]] — rediseño de la portada del Libro V: la placa con banda de luto, la llave y las cartas (v1 aprobada).
 - [[99_Reference/kylia_puesta_en_escena/README]] — gesto y distancia de pareja para *Sombras de Poder* (Kylia, no canon).
 - [[tools/editorial/README]] · [[tools/epub-build/README]] · [[tools/pdf-build/README]] · [[tools/audiolibro/README]] — herramientas locales.
 

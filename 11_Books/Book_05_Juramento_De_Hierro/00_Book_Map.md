@@ -18,7 +18,7 @@
 >
 > **BLOQUEO DE PROSA:** no se redacta prosa de este libro. La saga post-trilogía sigue en fase de incubadora en [[07_Ideas/Libro_04_Incubadora/README|Libro_04_Incubadora]]; título y portada son canon fijo, la arquitectura de capítulos no.
 >
-> **Portada:** en rediseño (2026-11-16): [[99_Reference/book_covers/00_Portada_Juramento_De_Hierro_Placa]]; la anterior, `99_Reference/book_covers/Juramento_De_Hierro_VICTOR_PAZ.png`.
+> **Portada:** v1 aprobada (2026-11-16): `99_Reference/book_covers/Juramento_De_Hierro_Placa_v1.png` ([[99_Reference/book_covers/00_Portada_Juramento_De_Hierro_Placa]]); la anterior, retirada, `Juramento_De_Hierro_VICTOR_PAZ_v0_retirada.png`.
 
 ---
 
