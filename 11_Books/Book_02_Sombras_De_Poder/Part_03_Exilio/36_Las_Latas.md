@@ -16,7 +16,7 @@ personajes: Kal Mercer, Bonnie García, Meiko Nakano; al final, Chiara Bellandi
 >
 > **Depende de capítulos sin redactar:** la grúa quemada y el muchacho golpeado (35); la deuda de Kaito pagada por Kal (23); la cena de Navidad (20). La prosa los toca como hechos ya ocurridos.
 
-> **ENTRADA TEMPRANA (2026-11-15, revisión externa):** «un año» → «casi dos años» (entra en ago–sep A2, Libro I cap. 22); «No le había pedido nada nunca» → «Pedía lo justo, una manta, un adelanto, y nunca decía para qué»: pide soluciones prácticas y calla el problema. Arco: [[11_Books/00_Arco_Meiko_Nakano]].
+> **ENTRADA TEMPRANA (2026-11-15, revisión externa):** «un año» → «casi dos años» (entra en ago–sep A2, Libro I cap. 22); «No le había pedido nada nunca» → «Pedía lo justo, dónde dormir una semana, un adelanto, y nunca decía para qué» (segunda pasada: pidió quedarse a dormir; la manta la ofreció Kal): pide soluciones prácticas y calla el problema. Arco: [[11_Books/00_Arco_Meiko_Nakano]].
 
 # Las latas
 
@@ -150,7 +150,7 @@ En el capó, Meiko había dejado de mirar el teléfono. Tenía el sándwich a me
 
 Kal la miró un momento. Llevaba casi dos años viéndola en el taller, en la bahía de siempre, sentada en una llanta o en un guardafango, y casi siempre con esa misma cara, la de alguien que todavía no decide si se queda. En Navidad la había visto reírse con la cabeza echada hacia atrás. Después la había visto afuera, en el portón, gritándole a su hermano bajo la luz del patio que se largara, y al volver le había preguntado si todo estaba bien, y ella le había dicho «Todo bien, jefe», y era la primera vez que la palabra le había sonado en serio en su boca.
 
-No era una muchacha de hablar delante de otros. Pedía lo justo, una manta, un adelanto, y nunca decía para qué. Kal pensó que la oferta le daba vergüenza, y que lo mejor que podía hacer era no mirarla mientras se le pasaba.
+No era una muchacha de hablar delante de otros. Pedía lo justo, dónde dormir una semana, un adelanto, y nunca decía para qué. Kal pensó que la oferta le daba vergüenza, y que lo mejor que podía hacer era no mirarla mientras se le pasaba.
 
 Volvió a mirar la cerca.
 
