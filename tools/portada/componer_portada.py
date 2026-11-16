@@ -169,9 +169,10 @@ def componer(base: Path, salida: Path, linea1: str, enlace: str, linea2: str,
     cx = W / 2
     caja = texto_fino(im, piezas(f"SEDA Y PÓLVORA · LIBRO {libro}", 66), 26, 290)
     c1 = titulo(im, piezas(linea1, 268), 22, 880)
-    caja_de = texto_fino(im, piezas(enlace, 112), 20, c1[3] + 150, metal=True)
-    subir = {"VI": 70}.get(libro, 0)   # ajuste fino por libro, a pedido del autor
-    c2 = titulo(im, piezas(linea2, 268, tam_inicial=336), 22, caja_de[3] + 300 - subir)
+    # ajuste fino por libro, a pedido del autor: (sube el enlace, sube la linea 2), en px
+    sube_de, sube_l2 = {"VI": (35, 70)}.get(libro, (0, 0))
+    caja_de = texto_fino(im, piezas(enlace, 112), 20, c1[3] + 150 - sube_de, metal=True)
+    c2 = titulo(im, piezas(linea2, 268, tam_inicial=336), 22, caja_de[3] + 300 - (sube_l2 - sube_de))
 
     capa = Image.new("RGBA", (W, H), (0, 0, 0, 0))
     d = ImageDraw.Draw(capa)
