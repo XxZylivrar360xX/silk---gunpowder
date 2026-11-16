@@ -14,7 +14,7 @@
 |---|---|---|
 | Máscara | Colombina **negra**, de tienda, sin adornos («nada de brillos») | Caps. 10–11 (archivos 08, 08b) |
 | Dónde | Asiento de atrás, entre el respaldo y un **trapo de taller** | 08b, cierre |
-| Coche | **Peugeot rojo**; el modelo no está fijado: no mostrar logotipo ni carrocería identificable | vault |
+| Coche | **Peugeot 106 XSi rojo** ([[02_Characters/Kal_Mercer]]); la imagen no muestra logotipo ni lo hace identificable, y así se deja: un 106 XSi tiene tres puertas y molduras negras, no cromadas | vault |
 | Momento | Noche; el coche sale de un callejón al ralentí | 08b, cierre |
 | Lluvia | **No fijada.** Se permite como atmósfera de San Aurelio (inspirada en Portland); también funcionan reflejos sin gotas | — |
 
