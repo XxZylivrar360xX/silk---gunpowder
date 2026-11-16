@@ -8,7 +8,7 @@
 
 San Aurelio, Oregon. Una ciudad de lluvia, puertos y casinos, donde todo tiene dueño y todo se puede tasar.
 
-Kal Mercer tiene cuarenta y un años, un taller de grúas en La Almendra y una sola regla: ser útil para no necesitar a nadie. La calle lo llama el Gancho. Él sabe cambiar de piel según la habitación.
+Kal Mercer tiene cuarenta y un años, un taller de grúas en La Almendra y una sola regla: ser útil para no necesitar a nadie. Saca a la gente de apuros y la deja debiéndole. Él sabe cambiar de piel según la habitación.
 
 Chiara Bellandi llega desde Palermo para cuidar la imagen del Monarch, el casino de La Isla. Su oficio es controlar versiones: decidir qué se cuenta, qué se calla y quién lo cuenta. Detrás de su apellido hay una familia que todavía le pide cuentas desde Italia.
 
@@ -25,4 +25,5 @@ Mientras él toma territorio y ella toma el relato, alguien en San Aurelio ya le
 - «Él toma territorio; ella toma el relato» viene de las reglas intocables de la saga.
 - «Alguien le está poniendo precio» es el Tasador (Crowe), sin nombrarlo.
 - «Las suyas son de cristal» recoge el sentido del título que fija la ficha de portada.
+- «Saca a la gente de apuros y la deja debiéndole» sustituye a «La calle lo llama el Gancho» (2026-11-16, a pedido del autor): el apodo no aparece en la prosa del Libro I; la frase sale de la ficha de Kal («los engancha, los remolca, los deja debiéndole»).
 - Lo que no entra a propósito: el pasado de Kal (la prisión, el niño), Camp Alder, Halbrook, Varek, Fabrizio y Matteo.
