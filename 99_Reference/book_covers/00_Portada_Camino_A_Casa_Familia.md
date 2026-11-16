@@ -1,6 +1,6 @@
 # Portada de *Camino a Casa*: la familia vuelve a la Villa
 
-**Estado:** DISEÑO (2026-11-16); v1 compuesta, espera aprobación. Concepto del autor: «algo más familiar, que refleje a Michael, Elenna, Kal y Chiara». Sustituye como dirección a [[99_Reference/book_covers/Camino_A_Casa_VICTOR_PAZ.png]] (escritorio con cámara, tarjeta y carpeta de la fiscalía en español), que se conserva hasta aprobar la nueva.
+**Estado:** DECISIÓN DEL AUTOR (2026-11-16): v1 aprobada como portada. Concepto del autor: «algo más familiar, que refleje a Michael, Elenna, Kal y Chiara». Sustituye como dirección a [[99_Reference/book_covers/Camino_A_Casa_VICTOR_PAZ_v0_retirada.png]] (escritorio con cámara, tarjeta y carpeta de la fiscalía en español), retirada el 2026-11-16.
 
 ## Por qué este concepto
 
@@ -28,5 +28,5 @@ La repisa de la chimenea de la Villa con una reliquia de cada libro (la Colombin
 
 ## Pendiente
 
-- El autor aprueba la v1. Al aprobarla, renombrar la original como `Camino_A_Casa_VICTOR_PAZ_v0_retirada.png` (no borrarla) y actualizar los enlaces del mapa del VII y de la incubadora. El Libro VII todavía no tiene build de EPUB.
+- Cuando el Libro VII tenga build de EPUB, usar la v1 como portada.
 - Escalado por IA de la base antes de la versión impresa.

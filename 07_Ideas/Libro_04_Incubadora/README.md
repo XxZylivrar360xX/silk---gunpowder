@@ -8,7 +8,7 @@
 >
 > **TRILOGÍA (2026-10-03, CANON DEL AUTOR):** la carpeta conserva su nombre histórico "Libro_04", pero el ciclo de Elenna son ahora tres libros: V *Juramento de Hierro* · VI *Hijos del Silencio* · VII *Camino a Casa*. Ver [[00_Biblia/00_Trilogy_Structure]]. Las menciones a "Libro 4/5/6" y a "duología" en esta carpeta son históricas.
 >
-> **TÍTULOS (CANON DEL AUTOR, 2026-09-16):** Libro 4 = **Juramento de Hierro** (portada: `99_Reference/book_covers/Juramento_De_Hierro_Placa_v1.png`); Libro 5 = **Camino a Casa** (portada: `99_Reference/book_covers/Camino_A_Casa_VICTOR_PAZ.png`). Ver [[07_Ideas/Libro_04_Incubadora/07_Arquitectura_y_Temas]] para la arquitectura de duología.
+> **TÍTULOS (CANON DEL AUTOR, 2026-09-16):** Libro 4 = **Juramento de Hierro** (portada: `99_Reference/book_covers/Juramento_De_Hierro_Placa_v1.png`); Libro 5 = **Camino a Casa** (portada: `99_Reference/book_covers/Camino_A_Casa_Familia_v1.png`). Ver [[07_Ideas/Libro_04_Incubadora/07_Arquitectura_y_Temas]] para la arquitectura de duología.
 
 ## Fuente principal ya existente
 

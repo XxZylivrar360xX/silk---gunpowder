@@ -2,7 +2,7 @@
 
 > **SUPERSEDIDO EN LONGITUD (2026-10-03, CANON DEL AUTOR):** el ciclo de Elenna es **trilogía**: V *Juramento de Hierro* · VI *Hijos del Silencio* · VII *Camino a Casa*. La duología de abajo, la fusión de reconstrucción y revelación en *Camino a Casa* y el descarte de la alternativa de tres libros quedan superados (la trilogía nueva no restaura esa alternativa: el VI tiene función propia, IDENTIDAD / DESCENSO, y en él cae Ethan). Arquitectura vigente en [[00_Biblia/00_Trilogy_Structure]] (Ciclo de Elenna). Lo de abajo se conserva como registro; los ejes temáticos siguen vigentes.
 >
-> **ESTADO:** DISEÑO. Longitud final fijada como CANON DEL AUTOR (2026-09-16): duología. Títulos fijados como CANON DEL AUTOR (2026-09-16): Libro 4 = **Juramento de Hierro**; Libro 5 = **Camino a Casa**. Portadas: `99_Reference/book_covers/Juramento_De_Hierro_Placa_v1.png` y `99_Reference/book_covers/Camino_A_Casa_VICTOR_PAZ.png`.
+> **ESTADO:** DISEÑO. Longitud final fijada como CANON DEL AUTOR (2026-09-16): duología. Títulos fijados como CANON DEL AUTOR (2026-09-16): Libro 4 = **Juramento de Hierro**; Libro 5 = **Camino a Casa**. Portadas: `99_Reference/book_covers/Juramento_De_Hierro_Placa_v1.png` y `99_Reference/book_covers/Camino_A_Casa_Familia_v1.png`.
 
 ## Género / tono
 

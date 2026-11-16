@@ -16,7 +16,7 @@
 >
 > **BLOQUEO DE PROSA:** no se redacta prosa de este libro hasta cerrar los Libros V y VI.
 >
-> **Portada:** `99_Reference/book_covers/Camino_A_Casa_VICTOR_PAZ.png`.
+> **Portada:** v1 aprobada (2026-11-16): `99_Reference/book_covers/Camino_A_Casa_Familia_v1.png` ([[99_Reference/book_covers/00_Portada_Camino_A_Casa_Familia]]); la anterior, retirada, `Camino_A_Casa_VICTOR_PAZ_v0_retirada.png`.
 
 ---
 
