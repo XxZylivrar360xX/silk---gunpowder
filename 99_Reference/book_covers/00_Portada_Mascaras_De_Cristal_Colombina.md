@@ -55,8 +55,14 @@ Es el más fiel al texto («Kal la vio por el espejo») y el más elegante. Su r
 - **Tapa blanda:** requiere la portada completa (contraportada, lomo y portada) con sangrado; el ancho del lomo depende del número final de páginas. Se calcula con la calculadora de KDP cuando se fije la maqueta.
 - **Prueba de miniatura:** reducir a 160 px de ancho; la Colombina y el título deben leerse.
 
+## v1 compuesta (2026-11-16)
+
+- **Base:** prompt A en ChatGPT, segunda edición: [[99_Reference/book_covers/Mascaras_De_Cristal_Colombina_base.webp]] (992 × 1586). Se descartó la tercera edición porque rompió la perspectiva y perdió la lluvia en el vidrio. El asfalto mal resuelto de la esquina inferior izquierda queda bajo el oscurecido de la franja del autor.
+- **Portada:** [[99_Reference/book_covers/Mascaras_De_Cristal_Colombina_v1.png]] (2560 × 4096). Generada con `python -B tools/portada/componer_portada.py`.
+- **Tipografía (igual a *Voto de Ceniza*):** Perpetua Titling MT Light engrosada, plata cincelada, «Cristal» con inicial alta; serie, «DE» y autor en la misma familia; el «·» sale de Book Antiqua (Perpetua Titling no lo trae).
+- **Límite:** la base se escaló 2.6× con Lanczos; para imprenta conviene escalarla antes con un escalador por IA y volver a correr el script.
+
 ## Pendiente
 
-- El autor genera y elige entre A, B o C (o pide variantes).
-- Tipografía final sobre la imagen elegida y exportación a 2560 × 4096.
-- Si la nueva sustituye a la anterior, renombrar la vieja como referencia retirada; no borrarla.
+- El autor aprueba la v1 o pide ajustes.
+- Si la aprueba: apuntar `--cover` de `tools/epub-build/build_epub.py` a la v1 y renombrar la portada vieja como referencia retirada (no borrarla).
