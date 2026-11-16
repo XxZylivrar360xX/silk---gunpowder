@@ -1,5 +1,7 @@
 # Daniel "Danny" Hayes
 
+> **Meiko (CANON DEL AUTOR, 2026-11-15):** cuando Meiko entra al taller de Kal (Libro I, cap. 22), Danny la reconoce y se calla. Dentro de la casa de Kal ella **deja de venderle la heroína** y **lo acompaña las noches malas, en secreto**. Kal se entera por Danny después de enterrarla (Libro II). Ver [[11_Books/00_Arco_Meiko_Nakano]].
+
 > **DECISIÓN DEL AUTOR (2026-11-12), *Cuentas de Sangre*:** los de Meridian lo encuentran en la terraza del edificio empresarial de Kal (circunstancias PENDIENTES). Tras rehabilitarse, termina como **dueño del taller** cuando El Patio se disuelve. Ver [[11_Books/00_Libro_Mayor_Deudas_Saga]], E11.
 
 > **Numeración:** desde 2026-10-22 el Libro I usa numeración corrida definitiva (56 caps.); este documento cita la numeración anterior. Correspondencia en [[11_Books/Book_01_Mascaras_De_Cristal/00_Book_Map]].

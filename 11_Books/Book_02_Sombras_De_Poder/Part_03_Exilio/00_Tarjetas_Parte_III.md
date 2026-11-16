@@ -1,5 +1,7 @@
 # Tarjetas de la Parte III — Exilio (Fase 2)
 
+> **AJUSTES (CANON DEL AUTOR, 2026-11-15):** Meiko es **valet de Chiara** en el Monarch, no mesera del catering: donde aquí dice que sirve en sus eventos, léase que les estaciona los coches (lo que filtra sigue siendo lo que ve). En *Lo que queda* (39, POV Chiara) entra el **Camaro bajo la lona**; **lo que Danny le cuenta a Kal** de las noches malas pide un capítulo en POV Kal después del entierro (P: ubicación por decidir). Después del entierro Kal repara el Camaro y empieza el circuito mensual. Ver [[11_Books/00_Arco_Meiko_Nakano]].
+
 > **DECISIÓN DEL AUTOR (2026-11-12), para el bloque de los frenos:** los frenos los ordena Varek (se mantiene). **Corrado va al hospital:** Marisol, todavía dopada, ve a medias a un hombre mayor que entra a su cuarto y vuelve a desaparecer. Se lo menciona a Kal después; con los frenos ya descubiertos (T1), es gasolina para sus noches (T3). Colocación fina: por decidir (PROPUESTA: la mención cae entre T1 y T3). Chiara culpa a La Mesa de los frenos y esta vez se equivoca, el espejo del corral, donde acertó. Ver [[11_Books/Book_04_Cuentas_De_Sangre/00_Diseno_Complot_De_La_Mesa]].
 
 > **Fase 3 APROBADA (DECISIÓN DEL AUTOR, 2026-11-12):** varias tarjetas de esta Parte se funden. La numeración nueva y las fusiones (R0–R10) están en [[11_Books/Book_02_Sombras_De_Poder/00_Mapa_Boceto_A_Tarjetas]], que manda en el corte de capítulos; el contenido de cada tarjeta sigue valiendo.

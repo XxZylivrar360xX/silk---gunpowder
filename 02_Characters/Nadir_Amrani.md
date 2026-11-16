@@ -1,5 +1,7 @@
 # Nadir Amrani
 
+> **«Mei» (CANON DEL AUTOR, 2026-11-15):** Nadir le pone el apodo a Meiko en el taller (Libro I); ella lo corrige («Meiko») hasta que deja de hacerlo. Su «¡Mei, Mei, Mei, Mei!» en F2 cobra eso. Ver [[11_Books/00_Arco_Meiko_Nakano]].
+
 > **DECISIÓN DEL AUTOR (2026-11-12), *Cuentas de Sangre*:** tras la salida de Kal y Chiara, El Patio se disuelve y **Nadir se separa** (adónde: PENDIENTE). Ver [[11_Books/00_Libro_Mayor_Deudas_Saga]], E11.
 
 > **NUEVO CAUCE — NUEVO 46 (2026-11-08; [[98_Agent_Handoff/sessions/2026-11-08_claude_fase4_cap46_a_oscuras]]):** la grúa que Chiara ve bajar al sur la noche del convoy sigue siendo el trabajo que Nadir aceptó (nuevo 42), pero sin el sedán rojo: nada la ata a Crowe a la vista.

@@ -1,5 +1,7 @@
 # Tarjetas de la Parte II — Nieve y ceniza (Fase 2)
 
+> **NUEVO (CANON DEL AUTOR, 2026-11-15): la carrera de Meiko contra Kal.** Camaro del 67 contra el Peugeot rojo; La Isla, una vuelta; gana quien cruce primero el Puente de Piedra hacia Plaza Corona. Gana ella; el Camaro se muere en Plaza Corona y necesitan una grúa. **Ubicación recomendada (P):** entre *Lussia* (26) y *Nadie tiene prisa* (29), en POV Kal, antes de *Calle Corona* (30). La venta del Peugeot es un momento de Kal y Chiara que el autor ya tiene pensado (PENDIENTE). Ver [[11_Books/00_Arco_Meiko_Nakano]].
+
 > **Fase 3 APROBADA (DECISIÓN DEL AUTOR, 2026-11-12):** varias tarjetas de esta Parte se funden. La numeración nueva y las fusiones (R0–R10) están en [[11_Books/Book_02_Sombras_De_Poder/00_Mapa_Boceto_A_Tarjetas]], que manda en el corte de capítulos; el contenido de cada tarjeta sigue valiendo.
 >
 > **Estado:** DISEÑO del agente (Claude Code, 2026-11-12). Fase 2 de [[11_Books/Book_02_Sombras_De_Poder/00_Carretera_Libro_II]] (columna aprobada) y continuación de [[11_Books/Book_02_Sombras_De_Poder/Part_01_Territorio_Ajeno/00_Tarjetas_Parte_I]]. **No toca prosa, canon ni el boceto.** Mismo formato: trama, relación, por eso, saldo, POV y origen (C = canon o decisión vigente; P = propuesta del agente).

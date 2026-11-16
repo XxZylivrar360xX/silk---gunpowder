@@ -12,7 +12,7 @@ Lista de fondo: [[98_Agent_Handoff/BACKLOG#Libros II y III]]. Prosa en espera ha
 
 ## Lecturas del autor (Libro I)
 
-- **Arco de Meiko (DISEÑO, 2026-11-15): aprobar y contestar 7 preguntas** (máscara, Camaro, Danny, «Mei», calificaciones de valet, la carrera que gana, el yate): [[11_Books/00_Arco_Meiko_Nakano]]. Camino A, Zen Devil y la siembra del cap. 26 ya son decisión del autor: [[11_Books/Book_01_Mascaras_De_Cristal/00_Estudio_Entrada_Temprana_Meiko]]. Mientras tanto, audio del Libro I suspendido (6 caps. PENDIENTES).
+- **Arco de Meiko: aprobado con las siete respuestas del autor (2026-11-15)**: [[11_Books/00_Arco_Meiko_Nakano]]. Siguiente paso, la prosa del Libro I (caps. 9, 22, 24, 26, 30, 32, 34, 35, 38, 41 y 44). Quedan PENDIENTES del autor: la venta del Peugeot, dónde termina el ritual mensual de Kal y en qué capítulo Danny se lo cuenta a Kal: [[11_Books/Book_01_Mascaras_De_Cristal/00_Estudio_Entrada_Temprana_Meiko]]. Mientras tanto, audio del Libro I suspendido (6 caps. PENDIENTES).
 
 - **Lectura corrida por Parte (guarda 6; la Fase 4 se cerró el 2026-11-08, [[98_Agent_Handoff/sessions/2026-11-08_claude_cierre_fase4]]):** orden 10–19 → 20–32 → 33–39 → 40–47 (sólo costuras) → 1–9. Cerrar la fase no sella nada.
 
