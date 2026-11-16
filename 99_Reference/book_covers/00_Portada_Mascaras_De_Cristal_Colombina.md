@@ -1,6 +1,6 @@
 # Portada de *Máscaras de Cristal*: la Colombina tras el vidrio
 
-**Estado:** DISEÑO (2026-11-16). Concepto elegido por el autor; las imágenes generadas con estos prompts son referencia, no canon. Sustituye como dirección a [[99_Reference/book_covers/Mascaras_de_Cristal_VICTOR_PAZ.png]] (máscara veneciana de cristal rota + pistola), que se conserva.
+**Estado:** DECISIÓN DEL AUTOR (2026-11-16): concepto elegido y v1 aprobada como portada; las imágenes generadas con estos prompts son referencia, no canon. Sustituye a la portada anterior (máscara veneciana de cristal rota + pistola), retirada el 2026-11-16 y conservada en [[99_Reference/book_covers/Mascaras_de_Cristal_VICTOR_PAZ_v0_retirada.png]].
 
 ## Por qué este concepto
 
@@ -64,5 +64,5 @@ Es el más fiel al texto («Kal la vio por el espejo») y el más elegante. Su r
 
 ## Pendiente
 
-- El autor aprueba la v1 o pide ajustes.
-- Si la aprueba: apuntar `--cover` de `tools/epub-build/build_epub.py` a la v1 y renombrar la portada vieja como referencia retirada (no borrarla).
+- Escalado por IA de la base antes de la versión impresa (tapa blanda con lomo).
+- **Aprobada por el autor (2026-11-16):** la v1 es la portada del EPUB (`--cover` de `tools/epub-build/build_epub.py`). El PDF no lleva portada.

@@ -292,7 +292,7 @@ def main() -> None:
     parser.add_argument("--chapter", action="append",
                         help="Chapter path relative to --book; repeat to select chapters.")
     parser.add_argument("--lang", default="es")
-    parser.add_argument("--cover", default="99_Reference/book_covers/Mascaras_de_Cristal_VICTOR_PAZ.png")
+    parser.add_argument("--cover", default="99_Reference/book_covers/Mascaras_De_Cristal_Colombina_v1.png")
     parser.add_argument("--css", default="tools/epub-build/epub_style.css")
     parser.add_argument("--output-name", default="Mascaras_De_Cristal")
     parser.add_argument("--keep-manuscript", action="store_true")
