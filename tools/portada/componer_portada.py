@@ -1,13 +1,13 @@
-"""Compone la portada de *Mascaras de Cristal* sobre una imagen base.
+"""Compone las portadas de la saga sobre una imagen base.
 
 Uso (desde la raiz del vault):
-    python -B tools/portada/componer_portada.py [--base RUTA] [--salida RUTA]
+    python -B tools/portada/componer_portada.py [--libro mascaras|sombras] [--base RUTA] [--salida RUTA]
 
 Reproduce el sistema tipografico de la saga (referencia: *Voto de Ceniza*):
 titulo en capitales romanas tipo Trajan, plata cincelada, segunda linea con
 inicial alta; "DE" pequeno; rombos rojos en el eje; autor abajo entre
 filetes. Escala la base a 2560x4096 (KDP, 1:1.6).
-Ficha: 99_Reference/book_covers/00_Portada_Mascaras_De_Cristal_Colombina.md
+Fichas: 99_Reference/book_covers/00_Portada_*.md
 """
 from __future__ import annotations
 
@@ -145,17 +145,26 @@ def rombo(d: ImageDraw.ImageDraw, cx: float, cy: float, r: float) -> None:
 
 # ---------- composicion ----------
 
-def componer(base: Path, salida: Path) -> None:
+LIBROS = {
+    # clave: (linea 1, enlace, linea 2, numero romano, mancha en la esquina inferior izquierda)
+    "mascaras": ("MÁSCARAS", "DE", "CRISTAL", "I", True),
+    "sombras": ("SOMBRAS", "DE", "PODER", "II", False),
+}
+
+
+def componer(base: Path, salida: Path, linea1: str, enlace: str, linea2: str,
+             libro: str, con_mancha: bool) -> None:
     im = base_escalada(base)
     degradado(im, 0.0, 0.36, 0.55, 0.0)      # aire para el titulo
     degradado(im, 0.76, 0.97, 0.0, 0.93)     # franja del autor
-    mancha(im, 0.05, 1.0, 0.42, 0.75)        # esquina inferior izquierda
+    if con_mancha:
+        mancha(im, 0.05, 1.0, 0.42, 0.75)    # esquina inferior izquierda
 
     cx = W / 2
-    caja = texto_fino(im, piezas("SEDA Y PÓLVORA · LIBRO I", 66), 26, 290)
-    c1 = titulo(im, piezas("MÁSCARAS", 268), 22, 880)
-    caja_de = texto_fino(im, piezas("DE", 112), 20, c1[3] + 150, metal=True)
-    c2 = titulo(im, piezas("CRISTAL", 268, tam_inicial=336), 22, caja_de[3] + 300)
+    caja = texto_fino(im, piezas(f"SEDA Y PÓLVORA · LIBRO {libro}", 66), 26, 290)
+    c1 = titulo(im, piezas(linea1, 268), 22, 880)
+    caja_de = texto_fino(im, piezas(enlace, 112), 20, c1[3] + 150, metal=True)
+    c2 = titulo(im, piezas(linea2, 268, tam_inicial=336), 22, caja_de[3] + 300)
 
     capa = Image.new("RGBA", (W, H), (0, 0, 0, 0))
     d = ImageDraw.Draw(capa)
@@ -183,7 +192,9 @@ def componer(base: Path, salida: Path) -> None:
 
 if __name__ == "__main__":
     ap = argparse.ArgumentParser()
+    ap.add_argument("--libro", choices=sorted(LIBROS), default="mascaras")
     ap.add_argument("--base", default="99_Reference/book_covers/Mascaras_De_Cristal_Colombina_base.webp")
     ap.add_argument("--salida", default="99_Reference/book_covers/Mascaras_De_Cristal_Colombina_v1.png")
     a = ap.parse_args()
-    componer(Path(a.base), Path(a.salida))
+    l1, enlace, l2, num, con_mancha = LIBROS[a.libro]
+    componer(Path(a.base), Path(a.salida), l1, enlace, l2, num, con_mancha)

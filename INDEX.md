@@ -49,7 +49,7 @@ Mapa de navegación de *Seda y Pólvora*. Este índice apunta a las fuentes vige
 - [[99_Reference/Calibracion_Noche_Stavanger]] — referencias para [[11_Books/Book_02_Sombras_De_Poder/Part_04_Torna_A_Casa/00_Diseno_Noche_Stavanger]] (no canon).
 - [[99_Reference/character_art/anime/README]] — ilustraciones de personajes: estilo anime vigente desde 2026-10-30.
 - [[99_Reference/book_covers/00_Portada_Mascaras_De_Cristal_Colombina]] — rediseño de la portada del Libro I: la Colombina tras el vidrio (v1 aprobada, portada del EPUB).
-- [[99_Reference/book_covers/00_Portada_Sombras_De_Poder_Vela]] — rediseño de la portada del Libro II: la vela (DISEÑO, prompts; espera imagen).
+- [[99_Reference/book_covers/00_Portada_Sombras_De_Poder_Vela]] — rediseño de la portada del Libro II: la vela (v1 compuesta, espera aprobación).
 - [[99_Reference/kylia_puesta_en_escena/README]] — gesto y distancia de pareja para *Sombras de Poder* (Kylia, no canon).
 - [[tools/editorial/README]] · [[tools/epub-build/README]] · [[tools/pdf-build/README]] · [[tools/audiolibro/README]] — herramientas locales.
 

@@ -1,6 +1,6 @@
 # Portada de *Sombras de Poder*: la vela
 
-**Estado:** DISEÑO (2026-11-16). El autor eligió el concepto «la vela y el collar»; este archivo lo ajusta al canon (ver «Choque con el canon»). Las imágenes generadas son referencia, no canon. Sustituye como dirección a [[99_Reference/book_covers/Sombras_De_Poder_VICTOR_PAZ.png]] (ajedrez con la reina blanca caída), que se conserva hasta que se apruebe la nueva.
+**Estado:** DISEÑO (2026-11-16); v1 compuesta, espera aprobación. El autor eligió el concepto «la vela y el collar» y, tras el choque con el canon, el prompt A sin collar. Las imágenes generadas son referencia, no canon. Sustituye como dirección a [[99_Reference/book_covers/Sombras_De_Poder_VICTOR_PAZ.png]] (ajedrez con la reina blanca caída), que se conserva hasta que se apruebe la nueva.
 
 ## Por qué este concepto
 
@@ -56,7 +56,14 @@ ChatGPT regenera la imagen completa en cada edición y puede romper la perspecti
 
 Las mismas de [[99_Reference/book_covers/00_Portada_Mascaras_De_Cristal_Colombina]]: 2560 × 4096 para el ebook; tapa blanda cuando haya número de páginas; prueba de miniatura a 160 px.
 
+## v1 compuesta (2026-11-16)
+
+- **El autor eligió el prompt A (sin collar)** y pidió un fósforo de madera (largo; en la imagen salió de tamaño normal y se aceptó así).
+- **Base:** primera generación de ChatGPT, sin ediciones: [[99_Reference/book_covers/Sombras_De_Poder_Vela_base.webp]] (992 × 1586).
+- **Portada:** [[99_Reference/book_covers/Sombras_De_Poder_Vela_v1.png]] (2560 × 4096), con `python -B tools/portada/componer_portada.py --libro sombras --base 99_Reference/book_covers/Sombras_De_Poder_Vela_base.webp --salida 99_Reference/book_covers/Sombras_De_Poder_Vela_v1.png`. Misma tipografía que *Máscaras de Cristal*; «Poder» con inicial alta.
+- **Para la prosa (DISEÑO, no canon todavía):** si se escribe con qué enciende Chiara la vela, que sean fósforos de madera, como en la portada.
+
 ## Pendiente
 
-- El autor genera con A (o B) y elige.
-- Generalizar `tools/portada/componer_portada.py` para el título y la etiqueta del Libro II, y componer.
+- El autor aprueba la v1 o pide ajustes. La copia de lectura del Libro II (`tools/build_sombras.py`) no lleva portada; cuando la lleve, usar la v1 aprobada.
+- Escalado por IA de la base antes de la versión impresa.
