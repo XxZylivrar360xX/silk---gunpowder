@@ -1,6 +1,6 @@
 # Portada de *Voto de Ceniza*: la foto en la chimenea
 
-**Estado:** DISEÑO (2026-11-16); v1 compuesta, espera aprobación. El autor decidió conservar la imagen de [[99_Reference/book_covers/Voto_de_Ceniza_VICTOR_PAZ.png]] y rehacer sólo la tipografía.
+**Estado:** DECISIÓN DEL AUTOR (2026-11-16): v1 aprobada como portada. El autor decidió conservar la imagen de la portada original, retirada y conservada en [[99_Reference/book_covers/Voto_de_Ceniza_VICTOR_PAZ_v0_retirada.png]], y rehacer sólo la tipografía.
 
 ## Por qué se conserva la imagen
 
@@ -16,5 +16,5 @@
 
 ## Pendiente
 
-- El autor aprueba la v1. Al aprobarla, renombrar la original como `Voto_de_Ceniza_VICTOR_PAZ_v0_retirada.png` (no borrarla). El Libro III todavía no tiene build de EPUB.
+- Cuando el Libro III tenga build de EPUB, usar la v1 como portada.
 - Escalado por IA de la base antes de la versión impresa.
