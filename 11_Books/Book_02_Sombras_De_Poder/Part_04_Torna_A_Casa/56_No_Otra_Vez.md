@@ -65,7 +65,7 @@ Las velas estaban todas apagadas. Todas. Las del aparador, las de la repisa de l
 
 —Cariño, sono a casa.
 
-Lo dijo en voz alta, desde la entrada, con las llaves todavía en la mano, y esperó la palabra. Siempre había una. *Cocina*, con medio bocado en la boca. *Cochera*, desde abajo de un coche. *Despacho*, sin levantar la vista de los planos.
+Lo dijo más alto de lo que hacía falta, desde la entrada, con las llaves todavía en la mano, y esperó la palabra. Siempre había una. *Cocina*, con medio bocado en la boca. *Cochera*, desde abajo de un coche. *Despacho*, sin levantar la vista de los planos.
 
 Nadie le contestó.
 
