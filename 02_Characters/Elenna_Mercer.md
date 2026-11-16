@@ -61,6 +61,12 @@ En ese epílogo lleva la chamarra de mezclilla con cuello de borrego de Kal, cam
 
 No hereda marcas como inventario. No necesita la cicatriz de Kal, un lunar de Chiara ni una colección literal de piezas reconocibles. El contraste importante es más sencillo: **quieta puede recordar muchísimo a Kal; cuando sonríe o se ríe, Chiara aparece.**
 
+### Referencia visual en los Libros VI–VII (2026-11-16, DISEÑO)
+
+![[99_Reference/character_art/Elenna_Mercer_VII.png|360]]
+
+Elenna hacia los 25, policía de K9 fuera de servicio, con la chamarra de Kal y **Rex** (pastor alemán, canon) con su arnés. Complementa la lámina de los 21 ([[99_Reference/character_art/Elenna_Mercer.png]], su llegada en el V) y hace juego con las de Kal y Chiara en el VII. Referencia visual, no canon de detalle; manda lo escrito arriba.
+
 ## Infancia y adolescencia en Palermo — CANON DEL AUTOR (2026-10-04)
 
 *(2026-11-15: la familia termina en Boston, no en Palermo; ver [[11_Books/00_Diseno_Final_Boston_Y_La_Villa]].)* *Voto inverso, mismo día: después del IV viven en movimiento, sin casa fija; [[07_Ideas/El_Voto_Inverso]].*
