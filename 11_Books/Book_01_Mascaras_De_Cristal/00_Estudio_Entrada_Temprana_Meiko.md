@@ -2,6 +2,8 @@
 
 > **Estado:** ESTUDIO (2026-11-15), Claude Opus 5.5, por encargo del autor. **DECISIÓN DEL AUTOR (2026-11-15): camino A** (entra justo después del robo, sola; de día en el taller con Kal y de noche como valet de Chiara; Bonnie llega después, traída por ella). Los beats concretos de abajo son DISEÑO hasta que el autor los apruebe; siguen abiertas las preguntas 4 y 5. No se ha tocado la prosa. El audio del Libro I está suspendido por orden del autor.
 
+> **SUPERADO EN PARTE (2026-11-15):** el plan de beats de abajo lo sustituye el diseño completo del arco, [[11_Books/00_Arco_Meiko_Nakano]]. Cambios del autor: Kal no ofrece a Meiko en el cap. 26 (se siembra antes, en el cap. 24, y la idea es de Chiara), y Meiko corre en la carrera de máscaras como «la Zen Devil». Este estudio queda como antecedente del camino A.
+
 ## La idea del autor
 
 Para que la muerte de Meiko en el Libro II duela, tiene que entrar antes: en el Libro I, como **la primera de las nuevas integrantes** de la banda, con su arco laboral adelantado: **de día en el taller con Kal y de noche como valet con Chiara.**

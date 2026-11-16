@@ -12,7 +12,7 @@ Lista de fondo: [[98_Agent_Handoff/BACKLOG#Libros II y III]]. Prosa en espera ha
 
 ## Lecturas del autor (Libro I)
 
-- **Entrada temprana de Meiko: camino A DECIDIDO (2026-11-15).** Falta aprobar el plan de seis beats (caps. 22, 26, 30, 32, 34 y 35) y contestar las preguntas 4 (siembra en el cap. 9) y 5 (yate: catering o valet): [[11_Books/Book_01_Mascaras_De_Cristal/00_Estudio_Entrada_Temprana_Meiko]]. Mientras tanto, audio del Libro I suspendido (6 caps. PENDIENTES).
+- **Arco de Meiko (DISEÑO, 2026-11-15): aprobar y contestar 7 preguntas** (máscara, Camaro, Danny, «Mei», calificaciones de valet, la carrera que gana, el yate): [[11_Books/00_Arco_Meiko_Nakano]]. Camino A, Zen Devil y la siembra del cap. 26 ya son decisión del autor: [[11_Books/Book_01_Mascaras_De_Cristal/00_Estudio_Entrada_Temprana_Meiko]]. Mientras tanto, audio del Libro I suspendido (6 caps. PENDIENTES).
 
 - **Lectura corrida por Parte (guarda 6; la Fase 4 se cerró el 2026-11-08, [[98_Agent_Handoff/sessions/2026-11-08_claude_cierre_fase4]]):** orden 10–19 → 20–32 → 33–39 → 40–47 (sólo costuras) → 1–9. Cerrar la fase no sella nada.
 

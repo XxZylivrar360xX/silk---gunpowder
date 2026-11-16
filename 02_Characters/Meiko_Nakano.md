@@ -34,7 +34,7 @@ Valora a Kal, quiere a Bonnie y encuentra hogar en La Almendra, pero teme más a
 **Edad al abrir la novela:** 24.
 **Oficio:** corredora callejera; operadora de rutas pendiente.
 **Rol:** secundaria; núcleo de la organización.
-**Alias:** pendiente.
+**Alias:** **la Zen Devil** (CANON DEL AUTOR, 2026-11-15): así corre para los Devil Splicers, en un **Camaro del 67**; termina segunda en la carrera de máscaras (Libro I, cap. 9). Arco completo (DISEÑO, por aprobar): [[11_Books/00_Arco_Meiko_Nakano]].
 
 > **CANON DEL AUTOR (2026-10-03):** Meiko es quien le pone «Bonnie» a Roberta García. El apodo sobrevive a Meiko y dura toda la saga, porque la amistad era auténtica; su muerte se debe a sus propias malas decisiones. El apodo nace en la época de la banda de corredores, antes de El Patio, fuera de foco y de la prosa: Bonnie ya llega con él. Ver [[02_Characters/Bonnie_Garcia]].
 **Estado:** viva al abrir; muere en F2 (*Sombras de Poder*, Libro II): la apuñala un enemigo en la femoral y muere en El Patio (CANON DEL AUTOR 2026-11-07; se retiran la ejecución y el destierro de Bonnie).
@@ -128,7 +128,7 @@ Meiko sobrevive leyendo jerarquías. Antes de conducir, mira quién manda de ver
 
 Como conductora, debe tener una técnica distinta de Kal y Harper:
 
-> **PENDIENTE:** definir su estilo al volante. Recomendación: precisión fría, poca teatralidad, cero necesidad de lucirse.
+> **PENDIENTE:** definir su estilo al volante. Recomendación: precisión fría, poca teatralidad, cero necesidad de lucirse. **El alias «Zen Devil» (CANON, 2026-11-15) apunta ahí: calma al volante.**
 
 ---
 
