@@ -19,7 +19,9 @@ hito: H1 — El regreso a casa (movimientos 4 a 8)
 
 > **REUBICADO (2026-11-15, CANON DEL AUTOR: el voto inverso):** la Villa está en **un lote por Las Gemelas**, velada a los enemigos (centro → Las Gemelas: 50–70 min). **DISEÑO del agente en la reubicación:** «casi dos horas en lo que se hacía en una»; la carretera del norte entre abetos, con la ciudad en el espejo hasta que la tapa el primer cerro; el portón abierto y la cadena en el lodo (Kal nunca la deja así: primer aviso antes de la camioneta de Héctor); las once curvas; Camila pide una hora y Chiara le exige media (antes, cuarenta y veinte).
 >
-> **Ajuste del autor (2026-11-15), la llegada (CANON DEL AUTOR, redacción del agente):** como siempre que llega, Chiara le habla en voz alta: «Cariño, sono a casa.»; al no oír respuesta lo busca en la cochera, donde se pasa horas en los motores de sus coches, y en la cocina, donde suele estar picando algo; luego se asoma por la escalera: «¿Kal, llegaste ya?»; entonces lo ve en la piscina y sale. Líneas citadas literal. **DISEÑO dentro del ajuste:** la radio del garaje apagada (eco del 54), el capó del coche viejo, la tabla seca; las cortinas que se mueven las ve después de la escalera, y a Kal lo ve desde la sala, antes de salir. Ver [[07_Ideas/El_Voto_Inverso]] · [[05_Locations/La_Villa]] · [[98_Agent_Handoff/sessions/2026-11-15_claude_reubicacion_villa_54_56]].
+> **Ajuste del autor (2026-11-15), la llegada (CANON DEL AUTOR, redacción del agente):** como siempre que llega, Chiara le habla en voz alta: «Cariño, sono a casa.»; al no oír respuesta lo busca en la cochera, donde se pasa horas en los motores de sus coches, y en la cocina, donde suele estar picando algo; luego se asoma por la escalera: «¿Kal, llegaste ya?»; entonces lo ve en la piscina y sale. Líneas citadas literal. **DISEÑO dentro del ajuste:** el capó del coche viejo, la tabla seca; las cortinas que se mueven las ve después de la escalera, y a Kal lo ve desde la sala, antes de salir.
+>
+> **Segundo ajuste del autor (2026-11-15): la rutina de llegada es CANON** ([[06_Relationships/Kal_y_Chiara#CANON — La llegada: «sono a casa»]]). Ella siempre llega con «sono a casa», con mote o sin él (sin mote, día pesado); él contesta dónde está: «Cocina.», «Cochera.» o «Despacho.». Aplicado: Chiara espera la palabra y no llega; fuera la glosa de la cochera y la cocina. **Lectura (DISEÑO, confirmar):** el día más pesado del libro, ella dice el mote igual; no es descuido de la regla: pide el día normal. **Depende de una siembra** antes del 54 (PENDING); si se siembra, la línea que enumera las tres palabras puede adelgazar. Ver [[07_Ideas/El_Voto_Inverso]] · [[05_Locations/La_Villa]] · [[98_Agent_Handoff/sessions/2026-11-15_claude_reubicacion_villa_54_56]].
 
 # No otra vez
 
@@ -63,13 +65,13 @@ Las velas estaban todas apagadas. Todas. Las del aparador, las de la repisa de l
 
 —Cariño, sono a casa.
 
-Lo dijo como lo decía siempre que llegaba, en voz alta, desde la entrada, con las llaves todavía en la mano.
+Lo dijo en voz alta, desde la entrada, con las llaves todavía en la mano, y esperó la palabra. Siempre había una. *Cocina*, con medio bocado en la boca. *Cochera*, desde abajo de un coche. *Despacho*, sin levantar la vista de los planos.
 
 Nadie le contestó.
 
-Fue a la cochera. Era donde estaba casi siempre cuando no contestaba: horas con la cabeza metida en el motor de alguno de sus coches, con la radio del garaje murmurando, sin oír nada más. Encendió la luz. Las herramientas en el tablero, cada una en su silueta. El capó del coche viejo levantado, como él lo había dejado. La radio, apagada.
+Fue a la cochera. Encendió la luz. Las herramientas en el tablero, cada una en su silueta. El capó del coche viejo levantado, como él lo había dejado. Abajo no había nadie.
 
-Fue a la cocina. A veces lo encontraba ahí, de pie junto a la barra, picando algo con el cuchillo grande y comiéndoselo de la tabla antes de que llegara a ningún plato. La tabla estaba seca, recargada contra la pared. Nadie había tocado nada.
+Fue a la cocina. La tabla de picar estaba seca, recargada contra la pared.
 
 Volvió al pasillo y se asomó por la escalera, con una mano en el barandal, hacia el piso de arriba, a oscuras.
 

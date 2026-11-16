@@ -21,3 +21,9 @@
 ## Ajuste del autor: la llegada de Chiara (2026-11-15)
 
 **CANON DEL AUTOR (redacción del agente)** en el 56: Chiara entra y dice, como siempre, «Cariño, sono a casa.»; lo busca en la cochera (los motores) y en la cocina (picando algo); se asoma por la escalera: «¿Kal, llegaste ya?»; entonces ve las cortinas, el ventanal y a Kal en la piscina desde la sala, y sale. Se reordenó el tramo: la causa de las velas apagadas (el ventanal) se descubre después de la búsqueda. DISEÑO: radio del garaje apagada, capó levantado, tabla seca.
+
+## Segundo ajuste: la rutina de llegada es CANON (2026-11-15)
+
+**CANON DEL AUTOR**, registrado en [[06_Relationships/Kal_y_Chiara]] («La llegada: "sono a casa"»): ella llega con «sono a casa», con mote o sin él (sin mote, día pesado); él contesta «Cocina.» (medio bocado), «Cochera.» (debajo del coche) o «Despacho.» (planos de operaciones). La contraparte de él es cómica: «¡Mujer, ya llegó el hombre de la casa!» / la mesa / «¡¿Por qué?! ¿Por qué no está la cena en la mesa?» / «Mira que eres bobo.» (ortografía normalizada).
+
+**En el 56:** Chiara espera la palabra, que no llega; se quitó la glosa de la cochera y la cocina (y la radio del garaje). **Lectura DISEÑO por confirmar:** el día más pesado, ella dice el mote igual: pide el día normal. **Siembra pendiente** antes del 54; propuesta en U11 de las tarjetas de la Parte IV (y quizá U2, sin mote).

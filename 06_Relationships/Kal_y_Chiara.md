@@ -290,6 +290,34 @@ No es una escena: es un **hábito**, y es lo que se acumula durante cientos de p
 
 **Y es lo que desaparece en la Fase V.** Cuando este documento dice que "dejan de tener escenas pequeñas", lo que concretamente deja de ocurrir es esto: **él deja de ir a contarle el día.** Nadie lo dice. Sólo deja de pasar. Ver "La grieta", más abajo.
 
+### CANON — La llegada: «sono a casa» (CANON DEL AUTOR, 2026-11-15)
+
+Tienen una rutina para llegar a casa, y cada uno tiene su lado.
+
+**Cuando llega ella:** siempre empieza con «sono a casa», **con un mote cariñoso o sin él**. **Sin mote, el día fue pesado.** Kal contesta con una sola palabra, la de dónde está:
+
+- «Cocina.», con medio bocado en la boca;
+- «Cochera.», desde abajo del coche;
+- «Despacho.», cuando revisa en su escritorio los planos de las operaciones de la banda.
+
+**Cuando llega él**, la contraparte siempre es más cómica, muy Kal:
+
+> —¡Mujer, ya llegó el hombre de la casa!
+>
+> Ella se acerca al recibidor con las manos en la cintura y una expresión seria, mordiéndose la mejilla, con una ceja levantada. Él se acerca a la mesa, le da un golpecito y exclama:
+>
+> —¡¿Por qué?! ¿Por qué no está la cena en la mesa?
+>
+> Chiara pasa por detrás de él, caminando:
+>
+> —Mira que eres bobo.
+>
+> Y Kal se ríe, porque le gusta molestarla con esas cosas.
+
+(Ortografía normalizada; palabras del autor.)
+
+**Dónde paga:** en la noche de H1 (Libro II, cap. 56, archivo `56_No_Otra_Vez`), Chiara llega diciendo «Cariño, sono a casa.» y la palabra no llega; lo busca en la cochera, en la cocina y por la escalera («¿Kal, llegaste ya?») antes de verlo en la piscina. **Lectura (DISEÑO, por confirmar):** es el día más pesado del libro y ella dice el mote igual, porque pide el día normal. **Siembra pendiente:** la rutina tiene que verse al menos una vez antes del 54 (PENDING; propuesta en [[11_Books/Book_02_Sombras_De_Poder/Part_04_Torna_A_Casa/00_Tarjetas_Parte_IV]], U11).
+
 #### Cómo se construye la costumbre — CANON DEL AUTOR (2026-09-29)
 
 La intimidad no se construye sólo con confesiones o peligro. Antes de *Libros abiertos* (Cap. 25 (archivo 25)) tienen que haber acumulado mucho **conocimiento aparentemente inútil** sobre el otro. Saber qué pasó con las plantas de Nadir, que Walt no sabe usar el smartphone o que Chiara aguantó a un huésped insoportable **también es intimidad**, y es la infraestructura que vuelve creíble "te voy a contar la peor parte de mí": el lector debe pensar *claro que se cuentan esto; llevan medio libro contándose todo lo demás*.
