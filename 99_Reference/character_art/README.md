@@ -57,6 +57,13 @@ Fondo y hora (atardecer, palmeras) son DISEÑO: San Aurelio está en Oregon y la
 |---|---|
 | [[99_Reference/character_art/Michael_Ardizzone.png]] | [[02_Characters/Michael_Ardizzone]] — ~22 años; traje carbón con saco abrochado y corbata azul marino; ojos claros de Kal en un rostro Ardizzone largo y fino (decisiones del autor del mismo día) |
 
+## Incorporación 2026-11-16 — Kal y Chiara en el Libro VII
+
+| Imagen | Ficha y uso conceptual |
+|---|---|
+| [[99_Reference/character_art/Kal_Mercer_VII.png]] | [[02_Characters/Kal_Mercer]] — cerca de los 70; pelo y barba grises, camisa negra arremangada; envejecido según [[99_Reference/chapter_concepts/Reencuentro_Elenna.png]]. El tatuaje del antebrazo sale con dibujo: manda el canon (blackout) |
+| [[99_Reference/character_art/Chiara_Bellandi_VII.png]] | [[02_Characters/Chiara_Bellandi]] — sesenta y tantos; canas, aros dorados, abrigo color vino; envejecida según la misma imagen |
+
 ## Hojas iniciales
 
 ---

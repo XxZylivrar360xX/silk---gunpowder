@@ -80,6 +80,12 @@ Se viste como si el día pudiera terminar debajo de un coche, porque normalmente
 
 Desde 2026-10-30 (decisión del autor) las ilustraciones usan este estilo; esta lámina es la referencia de identidad. Láminas por capítulo, verificación y controles en [[99_Reference/character_art/anime/README]]. Las imágenes de abajo quedan como referencia histórica de vestuario y composición.
 
+## Referencia visual en el ciclo de Elenna — Libro VII (2026-11-16, DISEÑO)
+
+![[99_Reference/character_art/Kal_Mercer_VII.png|360]]
+
+Kal cerca de los 70 (41 al abrir la saga, ~A30 en el VII): pelo y barba grises, camisa negra arremangada, reloj de acero, botas. Sigue el envejecimiento de [[99_Reference/chapter_concepts/Reencuentro_Elenna.png]] (el hospital). **Discrepancia:** el tatuaje del antebrazo derecho sale con dibujo; manda el canon (blackout). Referencia visual, no canon de detalle.
+
 ## Referencia visual anterior — DISEÑO (2026-09-11)
 
 ![[99_Reference/character_props/Perfil_Kal_Mercer.png|360]]

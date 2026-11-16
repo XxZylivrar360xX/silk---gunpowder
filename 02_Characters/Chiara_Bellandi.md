@@ -83,6 +83,12 @@ El único tic que no controla: cuando algo la sorprende de verdad, se toca el an
 
 Desde 2026-10-30 (decisión del autor) las ilustraciones usan este estilo; esta lámina es la referencia de identidad. Láminas por capítulo, verificación y controles en [[99_Reference/character_art/anime/README]]. Las imágenes de abajo quedan como referencia histórica de vestuario y composición.
 
+## Referencia visual en el ciclo de Elenna — Libro VII (2026-11-16, DISEÑO)
+
+![[99_Reference/character_art/Chiara_Bellandi_VII.png|360]]
+
+Chiara en los sesenta y tantos: pelo oscuro con canas, recogido; aros dorados; labios rojos; abrigo largo color vino sobre blusa y pantalón negros. Sigue el envejecimiento de [[99_Reference/chapter_concepts/Reencuentro_Elenna.png]] (el hospital). Referencia visual, no canon de detalle; el lado del lunar sigue PENDIENTE.
+
 ## Referencia visual anterior — DISEÑO (2026-09-11)
 
 ![[99_Reference/character_props/Perfil_Chiara_Bellandi.png|360]]
