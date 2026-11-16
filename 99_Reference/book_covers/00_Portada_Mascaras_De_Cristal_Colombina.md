@@ -78,6 +78,8 @@ KDP pide **un solo archivo** con contraportada, lomo y portada, más 0.125 in de
 
 ### Tapa completa v1 (2026-11-16, provisional)
 
+**Diseño aprobado por el autor (2026-11-16).** Sólo queda ajustar el lomo al número real de páginas y exportar el PDF.
+
 - **Formato (DECISIÓN DEL AUTOR, 2026-11-16): 6 × 9 in.** En A5 el libro pasaba del límite de 828 páginas de KDP; 6 × 9 da unas 740 con la misma letra.
 - **Extensión:** [[99_Reference/book_covers/Mascaras_De_Cristal_Colombina_extension.webp]] (1536 × 1024). ChatGPT conservó la portada a la derecha; el script pega encima la base original y funde la costura (no se nota). En la contraportada el coche se ve redondeado; se aceptó así.
 - **Tapa:** [[99_Reference/book_covers/Mascaras_De_Cristal_Tapa_6x9_v1.png]] (4230 × 2775 px, 300 ppp = 14.1 × 9.25 in con sangrado), con `python -B tools/portada/componer_tapa.py --libro mascaras --paginas 740 --extension 99_Reference/book_covers/Mascaras_De_Cristal_Colombina_extension.webp --base 99_Reference/book_covers/Mascaras_De_Cristal_Colombina_base.webp --sinopsis 11_Books/Book_01_Mascaras_De_Cristal/00_Sinopsis_Contraportada.md --salida 99_Reference/book_covers/Mascaras_De_Cristal_Tapa_6x9_v1.png` (añadir `--guias RUTA.png` para ver corte, lomo y código de barras).
