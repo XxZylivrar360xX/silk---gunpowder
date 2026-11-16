@@ -31,6 +31,16 @@ Hoy Meiko es casi siempre **información**: rutas, horarios, cámaras, el dato d
 - **Su muerte cobra el núcleo:** «Perdóname, jefe.» es la primera vez que pide algo para ella, y llega tarde.
 - **Lo que el lector desea sin saberlo:** que alguna vez pase primero (ver motor 7).
 
+### Contrapeso: no todo en ella es dejar pasar (revisión externa, 2026-11-15; DISEÑO)
+
+El núcleo es su columna, no su única nota. Si todas sus decisiones lo expresan, deja de ser persona y se vuelve emblema. **Guarda:** por cada dos escenas que muestran el núcleo, al menos una lo contradice. Tiene que poder:
+
+- **Querer ganar.** Segunda en Kingsley le pesa, aunque lo niegue. La carrera contra Kal vale porque rompe el patrón, y eso sólo se nota si antes se le vio el hambre. *Propuesta:* en el 22, el «Llegué» se queda, pero algo la delata (pregunta quién llegó primero, o la Zen Devil tiene apuntado el tiempo del otro en la guantera).
+- **Ser egoísta.** Algo que quiere para ella y no comparte. *Propuesta:* el Camaro. No se lo presta a nadie: ni a Tyler ni a Bonnie, ni siquiera para mover el coche de lugar.
+- **Enojarse con Bonnie.** Las roomies se pelean de verdad, por algo chico y concreto, y no se arregla en la misma escena. *Propuesta (Libro II, Parte I):* Bonnie le mueve el asiento del Camaro, o le cuenta a alguien algo de ella sin permiso, y Meiko le deja de hablar dos días.
+- **Equivocarse sin que sea la traición.** Un error de oficio con costo, que no tenga nada que ver con Varek. *Propuesta:* le da a Kal una ruta mala, la primera, por confiarse, y le cuesta una multa o una grúa a medio camino.
+- **Disfrutar sin sacrificarse por nadie.** Un placer suyo que no es para nadie más. *Propuesta:* la primera vez que el Camaro arranca limpio, sola en la bahía de los domingos, se ríe en voz alta y nadie la ve (Kal la oye desde la oficina).
+
 ## Siete motores de cariño
 
 Cada motor es algo que vuelve. Cuando reaparece, avanza un paso; nunca se explica.
@@ -133,3 +143,13 @@ Dónde quedó cada beat (difiere del mapa de arriba donde lo indica la nota):
 - **Rima de lugar (para el autor, sin decidir):** en el Libro II, Tommaso choca en *Calle Corona* (cap. 30), rumbo al Puente de Piedra. Si la carrera va **antes** del cap. 30, el puente es primero la victoria de Meiko y luego el choque; si va **después**, ella gana justo donde Tommaso cayó. Recomiendo **antes**: la alegría primero, sin presagio.
 - **Ubicación recomendada (P):** Parte II del Libro II, entre el cap. 26 (*Lussia*) y el 29 (*Nadie tiene prisa*), cuando el Camaro ya está terminado y la deuda de Kaito ya está pagada (cap. 23), en POV Kal. La venta del Peugeot queda para el momento que el autor tiene pensado, **después** de la carrera.
 - **Ritual mensual:** empieza al mes de su muerte (Libro II, Parte IV) y es continuidad para los libros III y IV. Dónde termina, si termina, es **PENDIENTE del autor** (tras el IV, Kal y Chiara ya no pueden volver a San Aurelio).
+
+### El ritual cambia con Kal (revisión externa, 2026-11-15; DISEÑO, por aprobar)
+
+Un duelo idéntico durante años pierde fuerza; uno que cambia con quien lo lleva gana hondura. **Guarda:** cada vez que el ritual aparezca en página, algo es distinto, y la diferencia dice dónde está Kal. Propuesta de escalones:
+
+1. **Libro II, Parte IV (los primeros meses): solo y exacto.** Misma hora, misma vuelta. Se detiene en Plaza Corona donde el Camaro se murió y espera lo que tardó la grúa. Es repetición pura: todavía no la deja ir.
+2. **Libro III: alguien sube.** Una noche lleva a Chiara de copiloto. Ella no grita, como en Kingsley, o sí. Otra noche maneja Nadir y Kal va al lado, y es la primera vez que no la corre él.
+3. **Libro III o IV: el coche envejece.** El Camaro falla a medio circuito y Kal tiene que terminarlo a pie, o en grúa, como ella. El ritual deja de ser exacto y Kal lo acepta.
+4. **Libro IV: no puede ir.** La guerra o la cárcel se lo impiden un mes, y alguien del Patio lo hace por él sin que nadie se lo pida (Danny, si está limpio, cierra el hilo del motor 4). El duelo deja de ser sólo suyo.
+5. **Después del IV:** ya no pueden volver a San Aurelio. El ritual se transforma o se hereda (Elenna o Michael en los libros V–VII), o se termina con una última vuelta. **PENDIENTE del autor.**
