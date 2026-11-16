@@ -81,11 +81,11 @@ Camino que llevó a la base, con indicaciones del autor en cada paso:
 1. El v3 (pizarra blanca de cerca) acertó en las fotos de evidencia, pero el círculo y las flechas de plumón «no pueden volar»: el autor quiere **corcho con hilo rojo**.
 2. Edición: corcho, alfileres e hilo en lugar de plumón. Después: el hilo **tenso** (no flojo), alfileres en las cuatro esquinas de la foto central para que ningún hilo la cruce, **post-its** con notas a mano, el **Camaro del 67** (canon de Meiko), tres conexiones adyacentes (entierro–Camaro, fuente–base; la del loft no salió) y todas las piezas también hacia ellos, con **hilo físico atado a tachuelas** («EVITAR HILOS DIGITALES»).
 3. Edición final: alejar la cámara para dejar pared oscura arriba, donde va el título; sin título se ve rara, con título funciona.
+4. Última edición, a pedido del autor: el tablero montado en una **pared** de concreto oscuro, con **luz cenital** que cae sobre él (el halo queda bajo el título), y la foto de la fuente **enderezada** (salía en romboide), con el coche cambiado a un hatchback rojo de tres puertas de los noventa, sin logotipo.
 
 - **Base:** [[99_Reference/book_covers/Cuentas_De_Sangre_Tablero_base.webp]] (992 × 1586).
 - **Portada:** [[99_Reference/book_covers/Cuentas_De_Sangre_Tablero_v1.png]] (2560 × 4096), con `python -B tools/portada/componer_portada.py --libro cuentas --base 99_Reference/book_covers/Cuentas_De_Sangre_Tablero_base.webp --salida 99_Reference/book_covers/Cuentas_De_Sangre_Tablero_v1.png`. Tipografía de la saga con «LIBRO IV» y «Sangre» con inicial alta.
 - **Kal y Chiara:** de espaldas; 1.92 m y 1.80 m (con tacones casi a la par). Referencias adjuntas: Kal_Mercer_Invierno y Chiara_Bellandi (no la de invierno: pelo corto).
-- **Detalle no corregido:** el coche rojo de la fuente es un hatchback moderno, no un Peugeot 106 XSi; en el fotograma granulado casi no se nota.
 
 ## Pendiente
 
