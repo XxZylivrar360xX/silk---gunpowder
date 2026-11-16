@@ -8,7 +8,7 @@ Lista de fondo: [[98_Agent_Handoff/BACKLOG#Libros II y III]]. Prosa en espera ha
 
 - **Leer** 54–57 (notas del 2026-11-13) y el arco de Mei-Lin, 36–39, con el 38 rehecho el 2026-11-15; contestar sus preguntas: [[98_Agent_Handoff/sessions/2026-11-13_claude_arco_mei_lin]].
 - **Confirmar** los cuatro detalles de DISEÑO de la Villa reubicada en 54–56 (portón con cadena tras el desvío de las cascadas, vista a la ciudad, una hora al volante, Héctor conoce el camino): [[98_Agent_Handoff/sessions/2026-11-15_claude_reubicacion_villa_54_56]].
-- **Sembrar** (sin redactar): el papel de Elenna en el 23 (el 57 depende de él); el ritual de los chalecos (risa, velcro, imitan a Kal) en una operación previa que acabe bien, P: el 29; la llegada «sono a casa» antes del 54 (CANON 2026-11-15; plan de cinco siembras en las tarjetas, 16, 20, 39 [escrito], 41 sin mote y 50; espera tu visto bueno: [[06_Relationships/Kal_y_Chiara#CANON — La llegada: «sono a casa»]]).
+- **Sembrar** (sin redactar): el papel de Elenna en el 23 (el 57 depende de él); el ritual de los chalecos en el levantón, 29 (DECISIÓN DEL AUTOR, 2026-11-15; beats en su ficha); la llegada «sono a casa» antes del 54 (CANON 2026-11-15; plan de cinco siembras en las tarjetas, 16, 20, 39 [escrito], 41 sin mote y 50; espera tu visto bueno: [[06_Relationships/Kal_y_Chiara#CANON — La llegada: «sono a casa»]]).
 
 ## Lecturas del autor (Libro I)
 

@@ -17,7 +17,7 @@ hito: F2 — la muerte de Mei-Lin
 >
 > **Segunda versión: que duela por injusta (DECISIÓN DEL AUTOR, 2026-11-15).** El autor aprobó: pasan frente a una clínica de urgencias y no se detienen; ella misma defiende la regla («Por el hospital no. Los ata.»); muere por quedarse a cuidar al último en salir, que es Nadir; el «luego hablamos» de Nadir repite el «Después.» de Kal; la caja del dinero llega limpia junto a ella; la falsa esperanza cuando la sangre sale más despacio. **Lo que más duele es el silencio de después (DECISIÓN DEL AUTOR, 2026-11-15):** no hay la risa con la que, otras noches, se quitan los chalecos antibalas mientras cuentan lo épico que fue el jefe. **DISEÑO del agente:** la clínica de Canal Road (el Santa Aurelia está en Calle Corona y no queda en la ruta); el ritual sembrado en el lote (Tyler imita a Kal) y negado en el taller (el velcro); el chaleco intacto de Mei-Lin; el chico que llora mientras huye; Bonnie en El Patio con la radio, no en la operación; el cambio de turno de los Calderos como mala suerte, no filtración. **DISEÑO (2026-11-12, registrado por el autor):** la apuñala un Caldero joven sin nombre; Nadir sólo le ve la mano y la navaja retráctil con flamas verdes.
 >
-> **Guarda:** la operación no se pierde por una filtración de Mei-Lin; nada en la página lo sugiere. El forro de la camioneta se ve después del entierro (39), no aquí. **Siembra pendiente:** el ritual de los chalecos debe verse antes en una operación del Libro II que acabe bien (PENDIENTE; ver PENDING).
+> **Guarda:** la operación no se pierde por una filtración de Mei-Lin; nada en la página lo sugiere. El forro de la camioneta se ve después del entierro (39), no aquí. **Siembra:** el ritual de los chalecos y «¿Ya terminaste?» se siembran en el levantón (29), en POV de Chiara (DECISIÓN DEL AUTOR, 2026-11-15; ficha del 29 en la guía).
 
 # Perdóname, jefe
 
@@ -27,7 +27,7 @@ Nadir había hecho la cuenta tres veces en el camino. Cuarenta minutos para que 
 
 Le gustaban las cuentas porque cerraban. Esa noche no le cerraba ninguna, y no sabía cuál.
 
-Se estaban poniendo los chalecos. Kal los repartía de una caja de cartón, uno por uno, sin mirar las tallas porque ya las sabía, y cada quien se lo ajustaba debajo de la chaqueta con el ruido del velcro, que en el silencio del lote sonaba como tela que se rompe. Tyler se lo cerró de un tirón y se puso a contarle a Mei-Lin, con las manos, lo de la última vez: el estacionamiento de Kingsley, el coche que no arrancaba, Kal parado en medio con las llaves en la mano, preguntándole al tipo de la pistola si ya había terminado, como quien espera turno en una ventanilla. Tyler bajaba la voz para imitarlo, la ponía grave y plana, y se le escapaba la risa antes de terminar.
+Se estaban poniendo los chalecos. Kal los repartía de una caja de cartón, uno por uno, sin mirar las tallas porque ya las sabía, y cada quien se lo ajustaba debajo de la chaqueta con el ruido del velcro, que en el silencio del lote sonaba como tela que se rompe. Tyler se lo cerró de un tirón y se puso a contarle a Mei-Lin, con las manos, lo de febrero con los Calderos: Kal parado en medio, sin sacar el arma, preguntándole al tipo de la pistola si ya había terminado, como quien espera turno en una ventanilla. Tyler bajaba la voz para imitarlo, la ponía grave y plana, y se le escapaba la risa antes de terminar.
 
 —«¿Ya terminaste?» —dijo Tyler, con la voz de Kal—. Y el tipo con la pistola, Mei. El tipo con la pistola en la mano.
 

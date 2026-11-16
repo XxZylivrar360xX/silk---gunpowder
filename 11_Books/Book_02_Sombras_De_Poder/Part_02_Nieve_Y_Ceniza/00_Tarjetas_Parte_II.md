@@ -121,6 +121,7 @@
 ## Bloque 4 · El precio (feb A4) · 3 tarjetas
 
 ### P15 · Nadie tiene prisa — principios de feb · Chiara · el piso de juego del Monarch; los túneles o las vías muertas de Las Calderas — **el levantón (ubicación P, D8)**
+- **Siembra para el 38 (DECISIÓN DEL AUTOR, 2026-11-15):** el ritual de los chalecos (risas, velcro, Danny imita el «¿Ya terminaste?» de Kal, Kal levanta el índice) visto por Chiara desde fuera, con el secreto de la ejecución. Detalle en la ficha del 29 de [[11_Books/Book_02_Sombras_De_Poder/00_Guia_Redaccion_Capitulos]].
 - **Trama:** un hombre con un anillo en el meñique le dice al crupier «Nadie tiene prisa» y golpetea el paño. Chiara reconoce la frase del levantón (DECISIÓN DEL AUTOR 2026-10-26: la seña es una frase). «Claro, tesoro, yo me encargo»; se aparta y llama a Kal (C). Kal los embosca con el Patio ya consolidado y los interroga sin torturarlos; ella decide ir; Kal les perdona la vida, uno dice algo tan bajo que **Chiara toma el arma y lo ejecuta** (C). Son Calderos, músculo que Crowe alquila (C).
 - **Relación:** **el primer secreto que guardan juntos.** Durante toda la Parte se escondieron cosas el uno al otro; esto lo esconden los dos del mundo (P). Ella actúa en frío; él había perdonado. Guarda 1: Chiara decide, se equivoca y manda.
 - **Por eso:** los Calderos quedan en guerra abierta con el Patio, y el sobreviviente cuenta que «la mujer de Mercer ejecuta» (C). Crowe tiene ahora un motivo con nombre de mujer.
