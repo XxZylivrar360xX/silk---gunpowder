@@ -36,6 +36,7 @@
 - **Por eso:** *No como tú*. La doctrina nace de un costo y no de una declaración (orden 50 → 49 de la carretera, P).
 - **Saldo:** el Caldero está pagado y los muertos no. Ella edita la portada que mejor le sirve a Halbrook: «la violencia del sur alcanza a familias».
 - **POV (P):** Chiara, para que el golpe quede fuera de cuadro y se vea el costo desde el relato.
+- **Siembra de la llegada, 4 de 5: la regla sin mote (PROPUESTA, 2026-11-15; cap. 41):** la rutina «sono a casa» es CANON DEL AUTOR ([[06_Relationships/Kal_y_Chiara#CANON — La llegada: «sono a casa»]]). Ella vuelve de la redacción al amanecer, después de publicar a los muertos sin su nombre: «Sono a casa.», sin mote. Él sale de la cocina sin esperar a que lo llame. El narrador no explica la regla; la falta del mote es duelo y reproche a la vez, y queda cerca del 56 para que el lector la tenga fresca. *(Sustituye la propuesta del cap. 34: en T3 es Kal quien llega golpeado.)*
 
 ### U3 · No como tú — principios de ago · Kal · la oficina de Dario; el Patio
 - **Trama:** independencia ideológica de Dario (C). **P:** Dario lo felicita por el golpe («así se manda»), y Kal se oye a sí mismo en la boca de Dario. Ahí sale «no voy a dirigir la calle como tú» (formulación del plan; **la línea final la decide el autor**). La regla nueva es resultados con el menor costo humano posible (C), y va a fallar.
@@ -87,7 +88,7 @@
 - **Por eso:** las dos semanas del secreto.
 - **Saldo:** la copa vacía en la mano equivocada.
 - **POV (P):** Kal, de los dos que da el boceto («Kal o externo»), porque es él quien no ve.
-- **Siembra de la llegada (PROPUESTA, 2026-11-15):** la rutina de «sono a casa» es CANON DEL AUTOR ([[06_Relationships/Kal_y_Chiara#CANON — La llegada: «sono a casa»]]) y el 56 la cobra con el silencio. Aquí cabe entera y desde el lado que no ve: ella llega con mote y él contesta «Cocina.» con medio bocado, sin notar nada; o la contraparte cómica de él («¡Mujer, ya llegó el hombre de la casa!» / «Mira que eres bobo»). Además, **una llegada sin mote** en otra tarjeta de la Villa (propuesta: U2, la noche del Caldero), para que el lector aprenda la regla: en el 56 ella dice el mote en el peor día porque tiene miedo (CANON DEL AUTOR, 2026-11-15), y eso sólo se lee si la regla ya se vio.
+- **Siembra de la llegada, 5 de 5: la última normal (PROPUESTA, 2026-11-15; cap. 50):** la rutina «sono a casa» es CANON DEL AUTOR ([[06_Relationships/Kal_y_Chiara#CANON — La llegada: «sono a casa»]]) y el 56 la cobra con el silencio. Ella llega con mote, guardando el embarazo, y él contesta «Cocina.» con medio bocado, sin notar nada: el lado que no ve. Es la última vez antes del 56. Ahí ella dice el mote en el peor día porque tiene miedo (CANON DEL AUTOR, 2026-11-15), y eso se lee porque el cap. 41 ya mostró la regla.
 
 ### U12 · La fecha — fin de nov – principios de dic · Kal · el Patio; la cocina de Mabel — **señal 3 (el cigarro)**
 - **Trama (P):** a Kal le llega por la red de Dario un rumor de calle: dónde va a estar Crowe la noche de la tormenta. El rumor sale de los Bravos (C, fuera de página: Halbrook lo filtra). En la página es sólo un dato de la red (C). Kal fija la fecha. Walt pide ir y Kal acepta: ya no tiene condicional (U1). Esa misma tarde, en la cocina de Mabel, Chiara rechaza un cigarro: «Kal me dijo que era malo», en broma, como eco del Libro I (C).

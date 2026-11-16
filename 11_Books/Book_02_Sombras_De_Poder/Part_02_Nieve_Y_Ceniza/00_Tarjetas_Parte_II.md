@@ -47,6 +47,8 @@
 - **Relación:** el regalo de Kal es la noche de trabajo, un favor y no un objeto (DISEÑO). Ella acepta favores, no regalos.
 - **Por eso:** la cena.
 - **Saldo:** Tyler la esquiva todo el día (después del fuego que causó su error); lo cobra la tarjeta siguiente.
+- **Siembra de la llegada, 2 de 5: la contraparte cómica (PROPUESTA, 2026-11-15; cap. 20, POV de Kal):** CANON DEL AUTOR ([[06_Relationships/Kal_y_Chiara#CANON — La llegada: «sono a casa»]]). Kal llega a la Villa el 24 con ella cocinando desde la mañana para todo el taller: «¡Mujer, ya llegó el hombre de la casa!», el golpecito en la mesa, «¡¿Por qué?! ¿Por qué no está la cena en la mesa?», la ceja levantada, «Mira que eres bobo». Desde su POV se ve que la molesta porque le gusta. Es la versión entera de la broma; la paga el cap. 39, donde él llega del entierro y no la dice.
+
 
 ### P6 · Torna a casa — 24 dic noche → madrugada del 25 · **Kal (P: cambia el POV del diseño)** · la bodega; el patio de grúas
 - **Trama:** la cena, el juego, el abrazo de medianoche y el mismo detalle para todos; Tyler recibe lo mismo que los demás y esa igualdad es su absolución (C y DISEÑO). Kal sale al patio porque el calor le aprieta, a días del garaje (DISEÑO), y ve a Yun-Kai en el portón y a Mei-Lin gritándole que se largue. Al volver: «¿Todo bien?» / «Todo bien, jefe.» (C, segundo tiempo). Después Chiara sale con la caja y le da el collar a solas, afuera (C).

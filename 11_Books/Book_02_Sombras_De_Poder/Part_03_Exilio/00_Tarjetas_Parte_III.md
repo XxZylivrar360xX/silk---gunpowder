@@ -87,6 +87,7 @@
 - **DECISIÓN DEL AUTOR (2026-11-12):** «Lo siento, ¿vale?» se queda aquí, con otro sentido. Kal vuelve del entierro y encuentra a Chiara rota en el suelo de la Villa, con la foto de la cena de Navidad; se disculpa porque el código de su jerarquía costó una vida, y a ella le costó a Mei-Lin y a Bonnie. La opción P de arriba (disculparse por haberlo callado) queda debajo, sin decirse. Ficha: cap. 38 de [[11_Books/Book_02_Sombras_De_Poder/00_Guia_Redaccion_Capitulos]].
 - **Por eso:** la depresión. «Todo lo que llega se va o muere» (C) se siente y no se dice.
 - **Saldo:** la cuota de mayo a Varek, pagada por una mujer que acaba de ver adónde lleva pagarle.
+- **Siembra de la llegada, 3 de 5: se rompe el lado de él (2026-11-15; cap. 39, ya en BORRADOR, sin cambios):** la rutina «sono a casa» es CANON DEL AUTOR ([[06_Relationships/Kal_y_Chiara#CANON — La llegada: «sono a casa»]]). En [[11_Books/Book_02_Sombras_De_Poder/Part_03_Exilio/39_Lo_Que_Queda]] Kal llega del entierro «más despacio que nunca» y no dice su línea. Ya funciona sin tocar el texto, siempre que el cap. 20 haya sembrado la broma.
 
 > **Elipsis D · ~3 semanas (mayo → junio).** Salto corto. **Aterriza en la cuota de junio, que Chiara paga tarde por primera vez** (P): el reloj de ella también se descompone. El residuo: la casa vacía de La Almendra ya tiene otro inquilino.
 

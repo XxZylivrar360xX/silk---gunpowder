@@ -27,3 +27,7 @@
 **CANON DEL AUTOR**, registrado en [[06_Relationships/Kal_y_Chiara]] («La llegada: "sono a casa"»): ella llega con «sono a casa», con mote o sin él (sin mote, día pesado); él contesta «Cocina.» (medio bocado), «Cochera.» (debajo del coche) o «Despacho.» (planos de operaciones). La contraparte de él es cómica: «¡Mujer, ya llegó el hombre de la casa!» / la mesa / «¡¿Por qué?! ¿Por qué no está la cena en la mesa?» / «Mira que eres bobo.» (ortografía normalizada).
 
 **En el 56:** Chiara espera la palabra, que no llega; se quitó la glosa de la cochera y la cocina (y la radio del garaje). **Lectura DISEÑO por confirmar:** el día más pesado, ella dice el mote igual: pide el día normal. **Siembra pendiente** antes del 54; propuesta en U11 de las tarjetas de la Parte IV (y quizá U2, sin mote).
+
+## Plan de siembra de la llegada (PROPUESTA, 2026-11-15)
+
+Registrado en las tarjetas por orden del autor. Cinco apariciones: **16** (T19) el nacimiento en la casa nueva, con mote, «¡Despacho!» (alternativa: 17, T20); **20** (P5) la contraparte cómica entera, el 24 con ella cocinando; **39** (T9, ya escrito) Kal llega del entierro sin su línea; **41** (U2) la regla sin mote, al amanecer después de publicar a los muertos; **50** (U11) la última normal, «Cocina.». El 34 (T3), que se había propuesto para la regla sin mote, se descartó porque ahí es Kal quien llega golpeado.
