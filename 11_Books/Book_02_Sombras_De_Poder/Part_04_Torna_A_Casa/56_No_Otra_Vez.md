@@ -17,7 +17,9 @@ hito: H1 — El regreso a casa (movimientos 4 a 8)
 >
 > **DISEÑO del agente:** la camioneta de Héctor frente al garaje; el ventanal de la sala que Kal dejó abierto al salir a la piscina; Chiara se mete vestida al agua; el relato de Kal «mitad verdad, mitad cómico» (la guitarra que da un acorde, el perico de la señora del segundo piso, Mack Calderon, el malvavisco, los Bravos, la camioneta de Héctor; se salta la nave y a Crowe; las primeras anécdotas, recortadas el 2026-11-13 para que el relato no pese antes del deterioro); «Sigue. Per favore. Sigue.» (eco de su forma de pedirle historias en el Libro I); el teléfono de Kal con el nombre de Héctor, que nadie contesta (prepara la visita de Héctor del 57); el ancla del eco de Corrado, «Su padre, agachado frente a ella en la iglesia. Con esa misma calma.» (la frase se sembró el 2026-11-13, por orden del autor, en el recuerdo de la iglesia del cap. 12 del Libro I, *Roma Atrii*); el eco de Mei-Lin por Bonnie, sin nombres («unas manos que apretaron así, en el suelo de un patio, y no alcanzó»); el suero colgado del toallero; la lágrima sola al final.
 
-> **REUBICADO (2026-11-15, CANON DEL AUTOR: el voto inverso):** la Villa está en **un lote por Las Gemelas**, velada a los enemigos (centro → Las Gemelas: 50–70 min). **DISEÑO del agente en la reubicación:** «casi dos horas en lo que se hacía en una»; la carretera del norte entre abetos, con la ciudad en el espejo hasta que la tapa el primer cerro; el portón abierto y la cadena en el lodo (Kal nunca la deja así: primer aviso antes de la camioneta de Héctor); las once curvas; Camila pide una hora y Chiara le exige media (antes, cuarenta y veinte). Ver [[07_Ideas/El_Voto_Inverso]] · [[05_Locations/La_Villa]] · [[98_Agent_Handoff/sessions/2026-11-15_claude_reubicacion_villa_54_56]].
+> **REUBICADO (2026-11-15, CANON DEL AUTOR: el voto inverso):** la Villa está en **un lote por Las Gemelas**, velada a los enemigos (centro → Las Gemelas: 50–70 min). **DISEÑO del agente en la reubicación:** «casi dos horas en lo que se hacía en una»; la carretera del norte entre abetos, con la ciudad en el espejo hasta que la tapa el primer cerro; el portón abierto y la cadena en el lodo (Kal nunca la deja así: primer aviso antes de la camioneta de Héctor); las once curvas; Camila pide una hora y Chiara le exige media (antes, cuarenta y veinte).
+>
+> **Ajuste del autor (2026-11-15), la llegada (CANON DEL AUTOR, redacción del agente):** como siempre que llega, Chiara le habla en voz alta: «Cariño, sono a casa.»; al no oír respuesta lo busca en la cochera, donde se pasa horas en los motores de sus coches, y en la cocina, donde suele estar picando algo; luego se asoma por la escalera: «¿Kal, llegaste ya?»; entonces lo ve en la piscina y sale. Líneas citadas literal. **DISEÑO dentro del ajuste:** la radio del garaje apagada (eco del 54), el capó del coche viejo, la tabla seca; las cortinas que se mueven las ve después de la escalera, y a Kal lo ve desde la sala, antes de salir. Ver [[07_Ideas/El_Voto_Inverso]] · [[05_Locations/La_Villa]] · [[98_Agent_Handoff/sessions/2026-11-15_claude_reubicacion_villa_54_56]].
 
 # No otra vez
 
@@ -59,21 +61,37 @@ Encendió la luz.
 
 Las velas estaban todas apagadas. Todas. Las del aparador, las de la repisa de la chimenea, las del marco de la ventana del pasillo, las del plato en la mesa del comedor. Velas blancas, largas, con la mecha negra y un hilo de humo que todavía subía de algunas, torcido, y se deshacía. La cera había chorreado hacia un lado en todas, hacia el mismo lado, como si las hubiera empujado la misma mano.
 
-Las cortinas de la sala se movían.
+—Cariño, sono a casa.
+
+Lo dijo como lo decía siempre que llegaba, en voz alta, desde la entrada, con las llaves todavía en la mano.
+
+Nadie le contestó.
+
+Fue a la cochera. Era donde estaba casi siempre cuando no contestaba: horas con la cabeza metida en el motor de alguno de sus coches, con la radio del garaje murmurando, sin oír nada más. Encendió la luz. Las herramientas en el tablero, cada una en su silueta. El capó del coche viejo levantado, como él lo había dejado. La radio, apagada.
+
+Fue a la cocina. A veces lo encontraba ahí, de pie junto a la barra, picando algo con el cuchillo grande y comiéndoselo de la tabla antes de que llegara a ningún plato. La tabla estaba seca, recargada contra la pared. Nadie había tocado nada.
+
+Volvió al pasillo y se asomó por la escalera, con una mano en el barandal, hacia el piso de arriba, a oscuras.
+
+—¿Kal, llegaste ya?
+
+Arriba no se movió nada.
+
+Fue entonces cuando vio que las cortinas de la sala se movían.
 
 El ventanal que daba al jardín estaba abierto de par en par. Entraba la lluvia en diagonal y mojaba la madera del piso, y el aire frío entraba con ella y recorría la casa hasta el pasillo, y así se habían apagado, una por una, todas.
 
 En el umbral del ventanal había una sudadera gris tirada, ancha, que no era de Kal. La de Héctor. Más allá, sobre las baldosas mojadas del jardín, a la luz que venía de la piscina, unos tenis, uno de ellos de lado.
 
-Chiara caminó hacia el ventanal. No corrió. Las piernas no corrieron.
+La piscina tenía las luces encendidas, como todas las noches, y el agua se veía como siempre se veía desde la sala: un rectángulo azul en el jardín negro, con la lluvia picando la superficie. En la parte baja, al pie de la escalera, con el agua a la cintura, estaba él.
+
+Chiara salió al jardín. No corrió. Las piernas no corrieron.
 
 ***
 
-La piscina tenía las luces encendidas, como todas las noches, y el agua se veía de lejos como siempre se veía desde la sala: un rectángulo azul en el jardín negro, con la lluvia picando la superficie.
+De cerca, el agua no era azul.
 
-De cerca no era azul.
-
-Kal estaba en la parte baja, al pie de la escalera, con el agua a la cintura. Tenía la espalda contra el borde y la mano derecha en el costado, por debajo del agua, y con la izquierda se echaba agua en el pecho, despacio, una y otra vez, como quien se enjuaga el jabón en un río. Alrededor de él el agua estaba oscura. Una nube oscura que se abría desde su cintura y se iba aclarando hacia el centro, hacia el fondo iluminado, y que cada vez que él movía la mano se volvía a llenar.
+Kal tenía la espalda contra el borde y la mano derecha en el costado, por debajo del agua, y con la izquierda se echaba agua en el pecho, despacio, una y otra vez, como quien se enjuaga el jabón en un río. Alrededor de él el agua estaba oscura. Una nube oscura que se abría desde su cintura y se iba aclarando hacia el centro, hacia el fondo iluminado, y que cada vez que él movía la mano se volvía a llenar.
 
 Sobre el pecho, colgada del cuello, mojada, brillaba la placa.
 

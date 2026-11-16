@@ -17,3 +17,7 @@
 4. Héctor conoce el camino y el portón: es de los que pueden saberlo (velada para los enemigos, no para la familia).
 
 **Verificación:** `rg "Lomas"` sin resultados en `Part_04_Torna_A_Casa/`; diálogo canon intacto (sólo cambian cifras de Héctor y Camila, que eran DISEÑO).
+
+## Ajuste del autor: la llegada de Chiara (2026-11-15)
+
+**CANON DEL AUTOR (redacción del agente)** en el 56: Chiara entra y dice, como siempre, «Cariño, sono a casa.»; lo busca en la cochera (los motores) y en la cocina (picando algo); se asoma por la escalera: «¿Kal, llegaste ya?»; entonces ve las cortinas, el ventanal y a Kal en la piscina desde la sala, y sale. Se reordenó el tramo: la causa de las velas apagadas (el ventanal) se descubre después de la búsqueda. DISEÑO: radio del garaje apagada, capó levantado, tabla seca.
