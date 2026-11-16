@@ -12,7 +12,7 @@ Lista de fondo: [[98_Agent_Handoff/BACKLOG#Libros II y III]]. Prosa en espera ha
 
 ## Lecturas del autor (Libro I)
 
-- **Decidir la entrada temprana de Meiko** (5 preguntas; recomendado: entra justo después del robo, sola, taller con Kal y valet de Chiara): [[11_Books/Book_01_Mascaras_De_Cristal/00_Estudio_Entrada_Temprana_Meiko]]. Mientras tanto, audio del Libro I suspendido (6 caps. PENDIENTES).
+- **Entrada temprana de Meiko: camino A DECIDIDO (2026-11-15).** Falta aprobar el plan de seis beats (caps. 22, 26, 30, 32, 34 y 35) y contestar las preguntas 4 (siembra en el cap. 9) y 5 (yate: catering o valet): [[11_Books/Book_01_Mascaras_De_Cristal/00_Estudio_Entrada_Temprana_Meiko]]. Mientras tanto, audio del Libro I suspendido (6 caps. PENDIENTES).
 
 - **Lectura corrida por Parte (guarda 6; la Fase 4 se cerró el 2026-11-08, [[98_Agent_Handoff/sessions/2026-11-08_claude_cierre_fase4]]):** orden 10–19 → 20–32 → 33–39 → 40–47 (sólo costuras) → 1–9. Cerrar la fase no sella nada.
 

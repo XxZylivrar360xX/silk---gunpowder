@@ -4,6 +4,7 @@ El detalle se guarda una sola vez en notas de sesión. Este archivo es navegaci�
 
 ## Sesiones recientes
 
+- 2026-11-15: DECISIÓN DEL AUTOR: Meiko entra justo después del robo (camino A), sola; taller con Kal y valet de Chiara; Bonnie llega después, por ella. Plan de seis beats (DISEÑO) y notas en las fichas: [[11_Books/Book_01_Mascaras_De_Cristal/00_Estudio_Entrada_Temprana_Meiko]].
 - 2026-11-15: ESTUDIO: entrada temprana de Meiko en el Libro I (tres caminos; recomendado: justo después del robo, valet de Chiara por la desconfianza del cap. 25): [[11_Books/Book_01_Mascaras_De_Cristal/00_Estudio_Entrada_Temprana_Meiko]].
 - 2026-11-15: CANON DEL AUTOR: Mei-Lin pasa a ser japonesa y se llama **Meiko Nakano**, «Mei» de cariño (su hermano, Kaito); apariencia fijada (rostro inspirado en Yuko Araki, chongos o trenzas sin adornos); renombrado en todo el vault vivo y prompt anime: [[98_Agent_Handoff/sessions/2026-11-15_claude_mei_nakano_anime]].
 - 2026-11-15: Libro II, cap. 38 rehecho para que la muerte de Mei-Lin duela por injusta (DECISIÓN DEL AUTOR: clínica frente a la que no frenan, «Por el hospital no», espera a Nadir, el silencio de los chalecos); siembra pendiente del ritual: [[98_Agent_Handoff/sessions/2026-11-13_claude_arco_mei_lin]]

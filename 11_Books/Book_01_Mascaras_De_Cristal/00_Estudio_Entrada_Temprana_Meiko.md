@@ -1,6 +1,6 @@
 # Estudio: entrada temprana de Meiko en el Libro I
 
-> **Estado:** ESTUDIO (2026-11-15), Claude Opus 5.5, por encargo del autor. Nada de esto es canon todavía: es análisis y propuesta. No se ha tocado la prosa. El audio del Libro I está suspendido por orden del autor mientras se decide.
+> **Estado:** ESTUDIO (2026-11-15), Claude Opus 5.5, por encargo del autor. **DECISIÓN DEL AUTOR (2026-11-15): camino A** (entra justo después del robo, sola; de día en el taller con Kal y de noche como valet de Chiara; Bonnie llega después, traída por ella). Los beats concretos de abajo son DISEÑO hasta que el autor los apruebe; siguen abiertas las preguntas 4 y 5. No se ha tocado la prosa. El audio del Libro I está suspendido por orden del autor.
 
 ## La idea del autor
 
@@ -66,8 +66,27 @@ En la carrera de máscaras (cap. 9, `08`, Kingsley Field, H9) corre gente del no
 
 ## Preguntas para el autor
 
-1. ¿Camino A (entra justo después del robo)?
-2. ¿Valet de Chiara contratada directo porque Chiara deja de confiar en la contratista, con el aval de Kal?
-3. ¿Bonnie llega después, traída por Meiko?
-4. ¿Siembra en la carrera de máscaras del cap. 9 (capítulo TERMINADO)?
-5. ¿En el yate sigue en el catering o estaciona coches?
+1. ~~¿Camino A?~~ **Sí (DECISIÓN DEL AUTOR, 2026-11-15).**
+2. ~~¿Valet de Chiara con el aval de Kal?~~ Entra con el camino A.
+3. ~~¿Bonnie llega después, traída por Meiko?~~ Entra con el camino A.
+4. ¿Siembra en la carrera de máscaras del cap. 9 (capítulo TERMINADO)? **Abierta.**
+5. ¿En el yate sigue en el catering o estaciona coches? **Abierta.**
+
+## Plan de beats (DISEÑO, 2026-11-15; espera aprobación)
+
+Cuatro beats nuevos, todos **dentro de capítulos que ya existen** y cortos (300–700 palabras cada uno), más dos retoques. Nada del robo se escribe desde ella: sigue sin nombre y sin cara en los caps. 20–21.
+
+| # | Cap. (archivo) | POV | Beat | Qué siembra |
+|---|---|---|---|---|
+| 1 | 22 (`24b`), *Lo que cueste*, después de la Kawasaki de Nadir | Kal | **La entrada.** Días después, a las siete, una muchacha espera junto a la cortina del taller con las manos en los bolsillos de la chaqueta. Pide trabajo; de dónde viene, «del norte», y nada más. Kal no pregunta. La prueba: ajustarle la cadena floja a la Kawasaki de Nadir. Lo hace sin decir nada y sin lucirse. **Danny la reconoce y se calla** (ella le conseguía la droga; él la cubrió en el billar del cap. 16). Kal ve que Danny se calla y lo deja pasar. | El taller como casa; «jefe» todavía de trámite; la mentira de Danny gana un segundo filo. |
+| 2 | 26 (`26`), *Me encuentro bien* | Chiara | **La valet.** Desde la caja de Matteo, Chiara no se fía de los cuadernos de la contratista (cap. 25). Le pide a Kal a alguien de confianza para mover el Mercedes y su coche en las noches del Monarch. Kal: «Tengo a alguien.» Esa noche Meiko le recibe las llaves en la entrada; Chiara la lee como «la chica que mira las salidas». Se hablan de usted. | Chiara contrata a la valet del robo con el aval de Kal; la ironía queda fuera de la prosa. |
+| 3 | 30 (`32`), *Línea directa*, en «el ritmo de siempre» del taller | Kal | Una línea en el ritmo del taller (Meiko bajo un coche, o volviendo de su turno de noche con la ropa del Monarch) y un intercambio mínimo con Kal. | Doble turno a la vista; el cansancio. |
+| 4 | 32 (`34`), *A ti por mí*, la mañana de la ferretería | Kal | **El primer adelanto.** Antes de abrir, Meiko le pide a Kal un adelanto de sueldo. «¿Para qué?» «Cosas de familia.» Kal se lo da sin más preguntas. Nada de Kaito todavía. | El adelanto del Libro II llega «no por primera vez»; la deuda empieza a pesar. |
+| 5 | 34 (`36`), *También las mañanas* | Chiara | Retoque mínimo, opcional: una noche, al recibir el coche, Meiko le dice a Chiara un dato práctico del lote (quién se quedó tarde, qué salida está libre). | Oficio de mirar; lo que después le vale a Varek. |
+| 6 | 35 (`38`), *Al revés* | Kal | **Retoque obligatorio.** La línea «Había llegado hacía poco con Mei, las dos de una banda del norte…» pasa a ser de **Bonnie**, recién llegada porque Meiko la trajo. Meiko ya es de la casa. El yate depende de la pregunta 5. | La primera y la nueva. |
+
+**Retoques posteriores (Libro I):** caps. 41 (`45`) y 44 (`48`). Chiara ya conoce a Meiko y tiene su número; Bonnie no tiene que pasárselo «sin saber para qué». Chiara la llama directo, y eso pesa más. El resto del arco final se queda.
+
+**Libro II:** el doble turno pasa de «taller + catering» a «taller + valet» en las fichas y en los diseños. La prosa del Libro II no menciona el catering, así que no hay que tocarla.
+
+**Presupuesto:** cuatro beats de 300–700 palabras más los retoques suman unas 2,000–2,500 palabras al Libro I.

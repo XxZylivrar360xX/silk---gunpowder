@@ -1,5 +1,7 @@
 # Bonnie García
 
+> **DECISIÓN DEL AUTOR (2026-11-15):** Bonnie ya no entra a El Patio junto con Meiko: Meiko llega primero, sola, justo después del robo del Monarch, y **trae a Bonnie después** (cap. 35, noviembre A2). Las dos siguen viniendo de los Devil Splicers. Ver [[11_Books/Book_01_Mascaras_De_Cristal/00_Estudio_Entrada_Temprana_Meiko]].
+
 > **DECISIONES DEL AUTOR (2026-11-15, auditoría de destinos):** **Bonnie vuelve a San Aurelio como Bonnie García.** Se retira «Roberta Ardizzone» también del epílogo de las Tres Hermanas. Ver [[11_Books/00_Auditoria_Destinos_Elenna_Y_Michael]] §6.
 
 > **CANON DEL AUTOR (2026-11-15): el voto inverso.** La familia Mercer no termina en una casa fija: después del IV vive en movimiento (San Aurelio, Nueva York, Italia, Boston). PROPUESTA de la columna §4, no decidida: la familia se mueve unida mientras los niños crecen y **Boston, con Bonnie, es el ancla de la infancia.** La nota de abajo («la familia Mercer termina en Boston») queda matizada así. Que Bonnie vuelva a San Aurelio poco antes que Elenna, como la primera de la familia elegida que vuelve, es PROPUESTA de la columna (§4). Ver [[07_Ideas/El_Voto_Inverso]] · [[11_Books/00_Columna_Maestra_Ciclo_Elenna]].

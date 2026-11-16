@@ -1,4 +1,6 @@
 <!--
+
+> **DECISIÓN DEL AUTOR (2026-11-15) — entrada temprana de Meiko:** en el robo (caps. 20–21) sigue sin nombre y sin cara, y nunca ante Kal. **Después del robo** entra al taller de Kal (cap. 22) y pasa a ser valet de Chiara en el Monarch (cap. 26), contratada directo porque Chiara ya no se fía de la contratista; Bonnie llega después, por ella. La regla «nunca ante Kal hasta el Cap. 43» y «la línea de llegada con Bonnie» quedan superadas desde el cap. 22. Ver [[11_Books/Book_01_Mascaras_De_Cristal/00_Estudio_Entrada_Temprana_Meiko]].
 EPUB: EXCLUDE
 Documento de planeación, no capítulo narrativo.
 -->
