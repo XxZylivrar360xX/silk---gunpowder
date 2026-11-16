@@ -89,6 +89,6 @@ Cuatro beats nuevos, todos **dentro de capítulos que ya existen** y cortos (300
 
 **Retoques posteriores (Libro I):** caps. 41 (`45`) y 44 (`48`). Chiara ya conoce a Meiko y tiene su número; Bonnie no tiene que pasárselo «sin saber para qué». Chiara la llama directo, y eso pesa más. El resto del arco final se queda.
 
-**Libro II:** el doble turno pasa de «taller + catering» a «taller + valet» en las fichas y en los diseños. La prosa del Libro II no menciona el catering, así que no hay que tocarla.
+**Libro II:** el doble turno pasa de «taller + catering» a «taller + valet» en las fichas y en los diseños. ~~La prosa del Libro II no menciona el catering, así que no hay que tocarla.~~ **Corrección (2026-11-15):** sí lo menciona sin la palabra: «las charolas» en el cap. 37 (dos veces) y en el 39. Retoque pendiente, anotado en PENDING.
 
 **Presupuesto:** cuatro beats de 300–700 palabras más los retoques suman unas 2,000–2,500 palabras al Libro I.

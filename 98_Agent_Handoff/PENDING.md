@@ -4,6 +4,7 @@ Actualizado: 2026-11-15. Máximo 800 palabras; las decisiones de fondo van en [[
 
 ## *Sombras de Poder* (Libro II): decide el autor
 
+- **Meiko viva en el Libro II (revisión externa, 2026-11-15):** (1) la prosa del 37 (dos veces) y del 39 todavía la pone con **charolas** en las salas del Monarch; con el canon de valet tiene que verse desde la rampa (quién llega, con quién, a qué hora se va); (2) **por qué Kal la lleva al corralón** sabiendo que filtra no está en página (DISEÑO propuesto: la lleva para que no pueda filtrar; recoge los teléfonos con los chalecos y nadie sabe el lugar hasta llegar); (3) el ritual de los chalecos que el 38 cobra sólo existe en la guía: el 29 del II no tiene prosa; (4) faltan escenas de Meiko viva antes del 36 (Bonnie, Nadir y el embrague del Taurus en enero, Nochebuena, la carrera contra Kal): todo está en tarjetas. Escenas del Libro I compiladas para revisión: [[98_Agent_Handoff/sessions/2026-11-15_claude_escenas_meiko_libro_I_para_revision]].
 Lista de fondo: [[98_Agent_Handoff/BACKLOG#Libros II y III]]. Prosa en espera hasta cerrar el Libro I, salvo los caps. 36–39 y 54–57 (orden del autor). **57 caps. desde el 2026-11-13.** Abiertos: guía ([[11_Books/Book_02_Sombras_De_Poder/00_Guia_Redaccion_Capitulos]], DISEÑO); decisiones 2–13 de la carretera; elipsis de R9; «Mac a Almendra»; sembrar a Nat antes del 54.
 
 - **Leer** 54–57 (notas del 2026-11-13) y el arco de Meiko, 36–39, con el 38 rehecho el 2026-11-15; contestar sus preguntas: [[98_Agent_Handoff/sessions/2026-11-13_claude_arco_mei_lin]].
