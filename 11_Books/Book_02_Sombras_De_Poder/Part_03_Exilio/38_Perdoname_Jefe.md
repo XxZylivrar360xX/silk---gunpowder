@@ -19,6 +19,8 @@ hito: F2 — la muerte de Meiko
 >
 > **Guarda:** la operación no se pierde por una filtración de Meiko; nada en la página lo sugiere. El forro de la camioneta se ve después del entierro (39), no aquí. **Siembra:** el ritual de los chalecos y «¿Ya terminaste?» se siembran en el levantón (29), en POV de Chiara (DECISIÓN DEL AUTOR, 2026-11-15; ficha del 29 en la guía).
 
+> **TELÉFONOS EN LA CAJA (2026-11-15, revisión externa; prosa DISEÑO, espera lectura):** al repartir los chalecos, cada quien deja su teléfono apagado en la caja, «como siempre». Cobra la razón de Kal en el 37 para llevar a Meiko. Siembra del gesto: el levantón (29), con el ritual de los chalecos. Arco: [[11_Books/00_Arco_Meiko_Nakano]].
+
 # Perdóname, jefe
 
 El lote baldío de Canal Seco olía a agua estancada y a fritura. Del otro lado de la tapia de lámina, en el mercado de la noche, alguien freía algo en aceite viejo, y el humo pasaba por encima de la lámina y bajaba sobre las dos camionetas estacionadas con las luces apagadas. Eran las diez y cuarto. Faltaban cuarenta minutos.
@@ -27,7 +29,7 @@ Nadir había hecho la cuenta tres veces en el camino. Cuarenta minutos para que 
 
 Le gustaban las cuentas porque cerraban. Esa noche no le cerraba ninguna, y no sabía cuál.
 
-Se estaban poniendo los chalecos. Kal los repartía de una caja de cartón, uno por uno, sin mirar las tallas porque ya las sabía, y cada quien se lo ajustaba debajo de la chaqueta con el ruido del velcro, que en el silencio del lote sonaba como tela que se rompe. Tyler se lo cerró de un tirón y se puso a contarle a Meiko, con las manos, lo de febrero con los Calderos: Kal parado en medio, sin sacar el arma, preguntándole al tipo de la pistola si ya había terminado, como quien espera turno en una ventanilla. Tyler bajaba la voz para imitarlo, la ponía grave y plana, y se le escapaba la risa antes de terminar.
+Se estaban poniendo los chalecos. Kal los repartía de una caja de cartón, uno por uno, sin mirar las tallas porque ya las sabía; a cambio, cada quien echaba en la caja su teléfono apagado, como siempre, y se ajustaba el chaleco debajo de la chaqueta con el ruido del velcro, que en el silencio del lote sonaba como tela que se rompe. Tyler se lo cerró de un tirón y se puso a contarle a Meiko, con las manos, lo de febrero con los Calderos: Kal parado en medio, sin sacar el arma, preguntándole al tipo de la pistola si ya había terminado, como quien espera turno en una ventanilla. Tyler bajaba la voz para imitarlo, la ponía grave y plana, y se le escapaba la risa antes de terminar.
 
 —«¿Ya terminaste?» —dijo Tyler, con la voz de Kal—. Y el tipo con la pistola, Mei. El tipo con la pistola en la mano.
 

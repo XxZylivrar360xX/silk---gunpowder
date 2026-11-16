@@ -4,6 +4,7 @@ El detalle se guarda una sola vez en notas de sesión. Este archivo es navegaci�
 
 ## Sesiones recientes
 
+- 2026-11-15: Libro II, caps. 37–39 (revisión externa): lo que Meiko filtra se ve desde la rampa del Monarch, no con charolas (canon de valet); en el 37 queda en página por qué Kal la lleva al corralón («Prefiero tenerla donde la vea») y los teléfonos van a la caja de los chalecos (38; siembra añadida a la guía del 29): [[11_Books/00_Arco_Meiko_Nakano]].
 - 2026-11-15: Libro I, prosa BORRADOR del arco de Meiko: la Zen Devil (9), la entrada al taller (22), la siembra en el loft (24), la contratación en el lago (29, en lugar del 26), el primer «Mei» y el primer adelanto (30), la primera calificación (31) y retoques en 35, 38, 41 y 44: [[11_Books/00_Arco_Meiko_Nakano]].
 - 2026-11-15: CANON DEL AUTOR, las siete respuestas del arco de Meiko: máscara de diablo blanca lisa; Nadir le pone «Mei»; deja de venderle a Danny y lo acompaña; calificaciones de valet con Chiara; le gana a Kal la carrera Camaro contra Peugeot hasta el Puente de Piedra y Kal repite el circuito cada mes tras su muerte; el yate sigue en catering. Propagado a fichas y tarjetas del II: [[11_Books/00_Arco_Meiko_Nakano]].
 - 2026-11-15: CANON DEL AUTOR: Meiko corre como «la Zen Devil» (Camaro del 67, segunda en la carrera de máscaras); la valet del cap. 26 se siembra antes. DISEÑO del arco completo para que el lector la quiera (núcleo «la que deja pasar», siete motores, mapa de los Libros I y II): [[11_Books/00_Arco_Meiko_Nakano]].

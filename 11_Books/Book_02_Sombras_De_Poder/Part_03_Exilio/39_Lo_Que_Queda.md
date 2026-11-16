@@ -16,6 +16,8 @@ personajes: Chiara Bellandi, Bonnie García, Kal Mercer; en el entierro, Nadir, 
 >
 > **Guarda:** el narrador no explica el «lo siento» ni la absolución. Nadie nombra la regla. Que Chiara sabe lo que Kal calló queda debajo, sin decirse. Nada de la propia cuota de Chiara en voz alta: sólo en su cabeza, una vez.
 
+> **VALET (2026-11-15, revisión externa; canon de valet del autor; prosa DISEÑO, espera lectura):** «Sirviendo» → «Desde la rampa»; las charolas de plata pasan a las llaves del Lancia y a la calificación de valet del Libro I («propina de veinte, trato de dos»): lo que Meiko le susurraba a Chiara era lo mismo que veía para Varek. Arco: [[11_Books/00_Arco_Meiko_Nakano]].
+
 # Lo que queda
 
 Garrett había arreglado los papeles. Chiara no preguntó cómo.
@@ -154,15 +156,15 @@ Se sentó. Por primera vez desde que Chiara había llegado, se sentó, en el bor
 
 Chiara no se movió.
 
-—Lo que veía en el Monarch. Sirviendo. Quién llegaba. Con quién se sentaba usted. A qué hora se iba Kal. —Bonnie lo dijo sin bajar la voz, sin subirla, como si leyera una lista de piezas—. Por la deuda del hermano. Le dijeron que podía pagar en dinero o en plática. No tenía el dinero.
+—Lo que veía en el Monarch. Desde la rampa. Quién llegaba, en qué coche, con quién. A qué hora se iba usted. A qué hora se iba Kal. —Bonnie lo dijo sin bajar la voz, sin subirla, como si leyera una lista de piezas—. Por la deuda del hermano. Le dijeron que podía pagar en dinero o en plática. No tenía el dinero.
 
 En la mesa de centro estaban los folletos. Chiara los miraba y no los veía.
 
-Las salas del Monarch. Las mesas. Las charolas de plata pasando por detrás de su silla, una noche y otra, y una muchacha con el pelo recogido y la cara de quien todavía no decide si se queda, que le había dicho una vez, en un coche, que no era por dinero, y no había tomado el sobre.
+La rampa del Monarch. Las llaves del Lancia en otra mano, una noche y otra, «propina de veinte, trato de dos», y una muchacha con el pelo recogido y la cara de quien todavía no decide si se queda, que le había dicho una vez, en un coche, que no era por dinero, y no había tomado el sobre.
 
 Varek. A Varek.
 
-Chiara le pagaba a Varek cada mes una cuota que nadie conocía, una deuda vieja que él cobraba con cortesía y con intereses, y se la escondía a Kal. Y Varek, mientras tanto, la miraba de cerca por una charola. La misma ventanilla. Meiko había pagado lo mismo que ella, con otro nombre.
+Chiara le pagaba a Varek cada mes una cuota que nadie conocía, una deuda vieja que él cobraba con cortesía y con intereses, y se la escondía a Kal. Y Varek, mientras tanto, la veía entrar y salir por la puerta de su propio casino. La misma ventanilla. Meiko había pagado lo mismo que ella, con otro nombre.
 
 No lo dijo. Se le quedó en algún lugar detrás de los dientes, apretado.
 

@@ -16,6 +16,8 @@ personajes: Kal Mercer, Dario Varek, Nadir Amrani, Héctor Navarro, Meiko Nakano
 >
 > **Depende de capítulos sin redactar:** Lunar Pearl (26), la deuda de Kaito (23), la esquina perdida (35). La operación contra el corralón de los Calderos (D9) es el 38.
 
+> **VALET Y MOTIVO DEL CORRALÓN (2026-11-15, revisión externa; canon de valet del autor; prosa DISEÑO, espera lectura):** (1) lo que filtraba pasa de «lo que se ve con una charola» a «lo que se ve desde la rampa. Nadie mira a la que le recibe las llaves»; la noche en la Villa, «la rampa del Monarch. En las llaves»; (2) por qué va al corralón: Nadir pregunta «¿Y si le cuenta a Varek lo del jueves?»; Kal: ya lo sabe desde hace dos semanas, si lo iba a contar ya lo contó; «Prefiero tenerla donde la vea. Y los teléfonos van a la caja, como siempre» (la caja de los chalecos; siembra en el 29, ver la guía). Arco: [[11_Books/00_Arco_Meiko_Nakano]].
+
 # Lo del hermano
 
 El pétalo seguía en el borde de la barra cuatro días después. Se había secado y se había vuelto de un color de papel viejo, y nadie lo había tirado: Chiara porque no lo había visto, y Kal porque cada mañana, al servirse el café, lo veía y lo dejaba.
@@ -162,6 +164,10 @@ Kal ya lo había pensado en el coche. Lo había pensado de las dos maneras, vari
 
 —Va, Nadir. Si la saco, los muchachos preguntan por qué. Y lo que pregunten los muchachos lo sabe Varek el viernes. —Hizo una pausa—. Y es la que conoce las salidas del corralón. Las corrió. Cuando no había nadie.
 
+—¿Y si le cuenta a Varek lo del jueves?
+
+—Lo del jueves lo sabe desde hace dos semanas. Si se lo iba a contar, ya se lo contó. —Kal miró hacia el lote, hacia la bahía donde ella trabajaba—. Prefiero tenerla donde la vea. Y los teléfonos van a la caja, como siempre.
+
 Nadir abrió la boca para decir algo y la cerró. Se agachó, recogió la manzana del cajón, la miró, y la tiró hacia el lote, lejos, por encima de la cerca, sin fuerza.
 
 —Safi —dijo.
@@ -212,7 +218,7 @@ No era lo que esperaba. Había esperado una negativa, o llanto, o que se diera v
 
 Ella se encogió de hombros. Era el mismo gesto con el que explicaba las rutas, los horarios, los atajos que sabía.
 
-—Quién llegaba. Con quién se sentaba la señora. Quién se iba con quién. A qué hora llegaba usted, a qué hora se iba. —Hizo una pausa—. Lo que se ve con una charola en la mano. Nadie mira a la que lleva la charola.
+—Quién llegaba. En qué coche, con quién. Quién se iba con quién, y a qué hora. A qué hora llegaba usted, a qué hora se iba. —Hizo una pausa—. Lo que se ve desde la rampa. Nadie mira a la que le recibe las llaves.
 
 —¿Y lo del Patio?
 
@@ -306,7 +312,7 @@ Ella no preguntó más. Desde los frenos no preguntaba más que eso: el nombre d
 
 Kal se quedó mirando el techo. Por la ventana entraba un poco de luna, y se dibujaba en el techo un rectángulo pálido con la sombra de una rama de abeto partiéndolo en dos.
 
-Pensó en las salas del Monarch. En las charolas. En quién se sentaba con quién, y en quién lo veía, y en lo que Chiara iba a pensar de cada noche de los últimos tres meses, de cada mesa, de cada cara, si él se lo decía ahora: que en sus salas, con sus copas, alguien le contaba a Varek con quién se sentaba. Y pensó que no podía decírselo sin decirle también lo otro, todo lo otro, lo de la calle Fowler y lo de la plática y lo del jueves, y lo que iban a decidir después.
+Pensó en la rampa del Monarch. En las llaves. En quién llegaba con quién, y en quién lo veía llegar, y en lo que Chiara iba a pensar de cada noche de los últimos tres meses, de cada coche, de cada cara, si él se lo decía ahora: que en su propia puerta, la muchacha que le abría el Lancia le contaba a Varek quién entraba y con quién se iba. Y pensó que no podía decírselo sin decirle también lo otro, todo lo otro, lo de la calle Fowler y lo de la plática y lo del jueves, y lo que iban a decidir después.
 
 —Bien —dijo—. Están bien.
 
