@@ -36,6 +36,8 @@ Cabello negro, traje italiano de corte pulcro. Llega a San Aurelio en un Ferrari
 
 **DECISIÓN DEL AUTOR (2026-11-16): siempre de corbata y con el saco abrochado.** Contraste deliberado con Kal, que nunca acepta la corbata («lo único del traje que no acepta»): en Michael el deber se ve en la ropa.
 
+**DECISIÓN DEL AUTOR (2026-11-16): Michael tiene una versión de civil, la de después de dejar la mesa y su lugar en el Monarch, sobre todo para elegir a Iris (VII).** La corbata es de la silla. **DISEÑO:** que esa sea la primera vez que se le ve sin corbata; de civil sigue siendo él (nada de la ropa de Kal): camisa clara de lino con el cuello abierto, suéter de punto azul marino, pantalón chino.
+
 **Rasgos propios (DISEÑO, aprobados en la lámina, 2026-11-16):** no debe parecer una copia de Kal. Rostro largo y fino, pómulos altos, mandíbula definida pero estrecha, cejas negras rectas, cuello largo, hombros estrechos; los ojos con la forma almendrada de Chiara y el color de Kal. Expresión reservada, muy controlada.
 
 ![[99_Reference/character_art/Michael_Ardizzone.png|360]]

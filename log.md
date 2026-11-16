@@ -4,6 +4,7 @@ El detalle se guarda una sola vez en notas de sesión. Este archivo es navegaci�
 
 ## Sesiones recientes
 
+- 2026-11-16: DECISIÓN DEL AUTOR: Michael tiene versión de civil, la de después de dejar la mesa y el Monarch por Iris (VII); mientras ocupa la silla, siempre de corbata: [[02_Characters/Michael_Ardizzone]].
 - 2026-11-16: DECISIÓN DEL AUTOR: Michael siempre de corbata y saco abrochado (contraste con Kal); lámina semirrealista con rasgos propios, no copia de Kal: [[02_Characters/Michael_Ardizzone]], [[99_Reference/character_art/Michael_Ardizzone.png]].
 - 2026-11-16: DECISIÓN DEL AUTOR: apariencia de Michael (ojos azul claro de Kal, 1.88 m y delgado, siempre afeitado; pelo y rostro Ardizzone como DISEÑO): [[02_Characters/Michael_Ardizzone]].
 - 2026-11-16: DECISIÓN DEL AUTOR (Libro V): durante la academia de Elenna muere un policía (detalles PENDIENTES); nace de la portada nueva: [[11_Books/Book_05_Juramento_De_Hierro/00_Book_Map]], [[99_Reference/book_covers/00_Portada_Juramento_De_Hierro_Placa]].
