@@ -52,7 +52,7 @@ Una corrección por vez, empezando con «Keep this exact image, composition and 
 ## v1 compuesta (2026-11-16)
 
 - **Base:** segunda generación (prompt de la presa masiva), sin ediciones: [[99_Reference/book_covers/Hijos_Del_Silencio_Presa_base.webp]] (992 × 1586). Compuertas radiales, vertedor, casa de máquinas con transformadores, puerta del desfogue con la luz roja y la linterna; Elenna y Erin en un balcón mirador sobre el muro.
-- **Portada:** [[99_Reference/book_covers/Hijos_Del_Silencio_Presa_v1.png]] (2560 × 4096), con `python -B tools/portada/componer_portada.py --libro hijos --base 99_Reference/book_covers/Hijos_Del_Silencio_Presa_base.webp --salida 99_Reference/book_covers/Hijos_Del_Silencio_Presa_v1.png`. El enlace es «DEL»; «Silencio» con inicial alta; pie oscurecido hasta el borde (el río claro asomaba), como en el III y el V.
+- **Portada:** [[99_Reference/book_covers/Hijos_Del_Silencio_Presa_v1.png]] (2560 × 4096), con `python -B tools/portada/componer_portada.py --libro hijos --base 99_Reference/book_covers/Hijos_Del_Silencio_Presa_base.webp --salida 99_Reference/book_covers/Hijos_Del_Silencio_Presa_v1.png`. El enlace es «DEL»; «Silencio» con inicial alta; pie oscurecido hasta el borde (el río claro asomaba), como en el III y el V. A pedido del autor, «Silencio» sube 70 px (ajuste `subir` del script, sólo para el VI).
 
 ## Pendiente
 
