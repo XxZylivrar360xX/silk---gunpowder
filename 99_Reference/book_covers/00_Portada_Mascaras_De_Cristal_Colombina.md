@@ -72,7 +72,7 @@ Es el más fiel al texto («Kal la vio por el espejo») y el más elegante. Su r
 KDP pide **un solo archivo** con contraportada, lomo y portada, más 0.125 in de sangrado por lado. El ebook sigue usando sólo la portada.
 
 - **Método:** extender la imagen base hacia la izquierda (ChatGPT), pegar encima la portada original intacta en el panel derecho y fundir la costura; componer el lomo (título vertical, autor, número) y la contraportada (sinopsis, autor, hueco para el código de barras abajo a la derecha, unos 2 × 1.2 in).
-- **Sinopsis:** [[11_Books/Book_01_Mascaras_De_Cristal/00_Sinopsis_Contraportada]] (BORRADOR, espera al autor).
+- **Sinopsis:** [[11_Books/Book_01_Mascaras_De_Cristal/00_Sinopsis_Contraportada]] (CANON DEL AUTOR, aprobada el 2026-11-16; 172 palabras, un solo párrafo).
 - **Medidas:** dependen del tamaño de libro y del número de páginas. El PDF de lectura en A5 tiene 830 páginas y KDP admite 828 en tapa blanda: el interior de imprenta es otra maqueta y hay que decidirla. Lomo (crema) = páginas × 0.0025 in; ejemplo: 600 páginas → 1.5 in; A5 → portada completa de unos 13.4 × 8.5 in (4023 × 2556 px a 300 ppp), proporción cercana a 3:2.
 - **La extensión se pide con margen** y se recorta exacta cuando haya número de páginas.
 

@@ -1,6 +1,6 @@
 # Sinopsis de contraportada — *Máscaras de Cristal*
 
-**Estado:** BORRADOR (DISEÑO del agente, 2026-11-16); espera corrección del autor. Cuando el autor la apruebe, pasa a CANON DEL AUTOR y se compone en la contraportada de la portada completa (ver [[99_Reference/book_covers/00_Portada_Mascaras_De_Cristal_Colombina]]).
+**Estado:** CANON DEL AUTOR (aprobada el 2026-11-16). No reescribir sin orden del autor. Se compone en la contraportada de la portada completa (ver [[99_Reference/book_covers/00_Portada_Mascaras_De_Cristal_Colombina]]).
 
 **Reglas:** 150–200 palabras, presente, registro neutro; no pasa de la mitad del libro (nada de Camp Alder, Halbrook, el corral ni el final); sin nombres que el lector no necesita.
 
