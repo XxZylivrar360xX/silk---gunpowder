@@ -24,31 +24,51 @@ Fuera: caras de frente o reconocibles, armas, sangre literal, la silla, sellos d
 
 Pide siempre la imagen sin título ni autor; la tipografía se compone con [[tools/portada/componer_portada.py|el script de portada]].
 
-### A. El tablero (principal)
+### Primer intento (2026-11-16): lo que no funcionó
 
-> Cinematic book cover photograph, vertical 1:1.6. A federal investigators' cork evidence board in a dark office at night, lit only by a low desk lamp from below and to the side. The board is covered with grainy black-and-white surveillance photos, property documents, tagged keys and a city map, all connected by taut red strings pinned with brass pushpins. Every red string converges on one central photograph: a long-lens surveillance shot of a tall man with messy blond hair and a woman with long black hair down to the middle of her back, seen from behind, walking side by side away from the camera toward a bright doorway at dawn. Their faces are not visible. Shallow depth of field: the central photo and the strings around it in sharp focus, the edges of the board falling into darkness. The upper third of the image is dark and empty. Low-key, deep blacks, the red strings the only saturated color. No legible text, no agency seals or logos, no weapons, no blood.
+El prompt A original (corcho con hilo rojo radial) dio una base aceptable, pero el autor señaló dos fallas: **Kal y Chiara no se parecen a ellos** (él casi no le saca altura a ella) y **parece el tablero de un universitario, no una investigación federal**. Además, el tablero puede **contar la saga del I al III**. El prompt v2 sustituye al A.
 
-### B. El alfiler que cede (variante)
+### Guion del tablero (DISEÑO; lo que Meridian tendría)
 
-> Same scene. The pushpin holding the central photograph has been pulled half out, and the photo hangs slightly askew, the red strings pulled tight toward it as if it were about to come loose from the board.
+El tablero es la versión federal del expediente de fotos que Halbrook abre al bajar del helicóptero en el epílogo del Libro I ([[11_Books/Book_01_Mascaras_De_Cristal/00_Plan_Arco_Final_Sin_Kal]]). Sólo lo que Meridian puede saber: **nada de Elenna viva**.
 
-Añade la tensión de «¿pueden irse?». Úsala si A queda demasiado estática.
+| Libro | Hecho (canon) | En el tablero |
+|---|---|---|
+| I | El apagón de Camp Alder, pasada la medianoche; Halbrook saca a Kal y aterriza al alba en Kingsley Field | Foto aérea de una base con el perímetro a oscuras; helicóptero en una pista al amanecer |
+| I | La persecución de Collins: el Peugeot rojo y el giro de 360 en la fuente de Plaza Corona, grabado por la cámara del poste | Fotograma granulado de cámara de tráfico, con sello de hora, de un hatchback rojo derrapando alrededor de una fuente |
+| I | Keene, muerto en Plaza Corona por Volpi: «una muerte expuesta» | Escena del crimen nocturna en una plaza, cuerpo bajo una sábana, cinta policial |
+| I–II | El Tasador (Crowe): asesina a Boone, incendia el loft | Foto de vigilancia de un hombre corpulento con X roja; interior de un loft quemado |
+| II | Fabrizio, muerto en su apartamento al abrir el libro | Departamento con marcadores amarillos de evidencia |
+| II | Meiko: el Camaro; su entierro | Camaro negro; foto con teleobjetivo de un entierro (los federales fotografían a los asistentes) |
+| II | La tormenta: cae Crowe, escalada policial | Calle inundada de noche con luces de patrulla y SWAT |
+| III | Muerte pública de Halbrook (la ciudad cree que fue Kal o Nadir) | Recorte de prensa sobre la muerte de un general, titular ilegible |
+| Todo | La estructura de Kal y Chiara | Gráfico de vínculos impreso (organigrama con fotos tipo credencial y líneas rectas), transferencias, registros telefónicos con marcatexto, bolsas de evidencia con etiqueta de custodia |
 
-**Opcional, en A o B:** `a manila folder tab at the edge of the board labeled "MERIDIAN"`. Revisa la ortografía; si sale mal, pide quitarlo.
+Los muertos llevan una **X roja de plumón**; el rojo del concepto ya no es hilo sino **plumón y X**, como en una pizarra real. En el centro, la foto nueva: Kal y Chiara de espaldas, saliendo, con un círculo rojo y flechas que llegan desde el gráfico.
 
-**Negativos para cualquier generador:** `faces, frontal portrait, FBI seal, badge, government logo, gun, blood, chair, legible text, watermark, logo`.
+### Prompt v2 (principal)
+
+**Adjunta a ChatGPT** las referencias realistas [[99_Reference/character_art/Kal_Mercer.png]] y [[99_Reference/character_art/Chiara_Bellandi.png]] y dile: «Use the attached images only for body type, hair and clothing style of the two people seen from behind».
+
+> Cinematic book cover photograph, vertical 1:1.6. A federal organized-crime task force war room at night, almost dark, lit by the cold glow of a computer monitor and a single desk lamp. Filling the frame is a large white magnetic case board, worn and dense, the way real federal investigations look — not a cork board, no string. It holds: a printed link-analysis chart (boxes with small ID-style photos joined by straight black lines); a horizontal timeline of printed cards across the board; black-and-white evidence photos held by magnets; wire-transfer flowcharts and phone records marked with yellow highlighter; small evidence bags with chain-of-custody labels. Several photos are crossed out with a red marker X. Among the evidence photos: an aerial night shot of a military base with its perimeter lights dark; a helicopter on a small airfield at dawn; a grainy traffic-camera still with a timestamp of a small red hatchback drifting around a plaza fountain at night; a covered body in a plaza behind police tape; the burned-out interior of a loft; an apartment crime scene with yellow evidence markers; a black muscle car; a long-lens photo of a burial in a cemetery; a flooded street at night with police lights; a newspaper clipping with an illegible headline. In the center, larger than the rest and pinned on top as the newest item, a long-lens surveillance photo: a very tall, broad-shouldered man with messy blond hair, a dark jacket and boots, and a noticeably shorter, slender woman with long wavy black hair down to the middle of her back and an elegant dark coat, seen from behind, walking side by side away from the camera toward a bright doorway at dawn. A red marker circle surrounds this photo, and red marker arrows from the chart converge on it. All text on the board is small and illegible, except a printed header strip that reads "MERIDIAN". No faces visible, no agency seals, badges or logos, no weapons, no blood. The upper third of the image is dark (the wall above the board in shadow). Low-key, deep blacks; red marker and the dawn light in the central photo are the only warm accents.
+
+### Variante (si queda estática)
+
+> Same scene. One magnet holding the central photo has slipped, so the photo hangs askew, half free from the board.
+
+**Negativos:** `cork board, red string, pushpins, faces, frontal portrait, FBI seal, badge, government logo, gun, blood, chair, legible text other than MERIDIAN, watermark`.
 
 ### Cómo pedir correcciones
 
-Una corrección por vez, empezando con «Keep this exact image, composition and lighting. Only change…», y guarda cada versión buena antes de pedir otra.
+Esta vez conviene **generar de nuevo, no editar** la primera imagen: el cambio es de fondo. Después, una corrección por vez, empezando con «Keep this exact image, composition and lighting. Only change…», y guarda cada versión buena antes de pedir otra. Si el generador se satura con tantos elementos, quita primero los del Libro III y conserva el apagón, la cámara de Plaza Corona, el entierro y la foto central.
 
 ## Composición
 
-- La foto central entre el 50 % y el 72 % de la altura; los hilos abriéndose hacia los bordes.
+- La foto central entre el 50 % y el 72 % de la altura; la evidencia abriéndose hacia los bordes.
 - Tercio superior oscuro para el título; franja inferior oscura para el autor.
 - Tipografía de la saga, con «SEDA Y PÓLVORA · LIBRO IV»; «Sangre» con inicial alta.
 
 ## Pendiente
 
-- El autor genera con A (o B) y elige.
+- El autor genera con el prompt v2 (adjuntando las referencias) y elige.
 - Componer con `componer_portada.py` (falta añadir el Libro IV al script).
