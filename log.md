@@ -4,6 +4,7 @@ El detalle se guarda una sola vez en notas de sesión. Este archivo es navegaci�
 
 ## Sesiones recientes
 
+- 2026-11-16: DECISIÓN DEL AUTOR: apariencia de Michael (ojos azul claro de Kal, 1.88 m y delgado, siempre afeitado; pelo y rostro Ardizzone como DISEÑO): [[02_Characters/Michael_Ardizzone]].
 - 2026-11-16: DECISIÓN DEL AUTOR (Libro V): durante la academia de Elenna muere un policía (detalles PENDIENTES); nace de la portada nueva: [[11_Books/Book_05_Juramento_De_Hierro/00_Book_Map]], [[99_Reference/book_covers/00_Portada_Juramento_De_Hierro_Placa]].
 - 2026-11-15: revisión externa aplicada: parrilla de Kingsley armonizada (el Camaro en la segunda fila; caps. 9 y 22 del I); en el II, «No le había pedido nada nunca» → «Pedía lo justo, dónde dormir una semana, un adelanto, y nunca decía para qué», «un año» → «casi dos años» y la «primera vez» del 37 → «tantas mañanas» (36, 37, 39); sonrisa del lago aligerada: [[11_Books/00_Arco_Meiko_Nakano]].
 - 2026-11-15: APROBADOS POR EL AUTOR el contrapeso del núcleo de Meiko y los escalones del ritual de Kal; primer contrapeso en prosa (Libro I, cap. 22): «El primero salió una fila antes. La próxima, la fila es mía.»: [[11_Books/00_Arco_Meiko_Nakano]].

@@ -27,6 +27,13 @@
 
 Cabello negro, traje italiano de corte pulcro. Llega a San Aurelio en un Ferrari. Contraste completo con Elenna (rubia, mochila, cámara): ella sale a Kal, él a los Ardizzone.
 
+**DECISIONES DEL AUTOR (2026-11-16):**
+- **Ojos azul claro, los de Kal.** Es lo único Mercer que se le ve por fuera: pelo negro Ardizzone y la mirada del padre. Espejo de Elenna, rubia como Kal con los ojos almendrados de Chiara.
+- **1.88 m, delgado:** alto por los dos padres (Kal 1.92, Chiara 1.80), con la complexión vertical de Corrado, no la espalda ancha de Kal.
+- **Siempre afeitado,** impecable como su traje («el deber siempre es primero»); contraste con la barba corta de Kal.
+
+**DISEÑO (derivado del canon familiar, 2026-11-16):** pelo negro azabache, corto y peinado hacia atrás, como Corrado; rostro anguloso de Corrado (mandíbula marcada, nariz recta) con el subtono oliva de la piel de Chiara.
+
 ## Quién es
 
 - **Ardizzone por elección, Mercer por sangre y carácter.** El apellido del abuelo no se lo impusieron sus padres al nacer: lo eligió él, por el peso que tiene la familia en Italia. Sabe que por dentro es un Mercer. **Simetría:** Elenna Mercer lleva el apellido del padre y descubre cuánto Ardizzone hay en ella; Michael Ardizzone lleva por voluntad propia el del abuelo y sabe perfectamente cuánto Mercer hay en él.
