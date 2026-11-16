@@ -2,12 +2,18 @@
 
 Generada por `tools/audiolibro/build_audiobook.py`; no editar a mano. Tras cambiar la prosa de un capítulo, correr `--estado` para marcarlo PENDIENTE; la bandera se cierra sola cuando el script regenera ese audio.
 
-Actualizada: 2026-11-15 22:14. Al día: 41 de 47.
+Actualizada: 2026-11-15 23:10. Al día: 35 de 47.
 
 ## Pendientes
 
 | Cap. | Título | Estado | Motivo | Desde |
 |---|---|---|---|---|
+| 9 | Mandorla | PENDIENTE | cambió la prosa | 2026-11-15 23:10 |
+| 22 | Lo que cueste | PENDIENTE | cambió la prosa | 2026-11-15 23:10 |
+| 24 | Vienes conmigo | PENDIENTE | cambió la prosa | 2026-11-15 23:10 |
+| 29 | Vamos a casa | PENDIENTE | cambió la prosa | 2026-11-15 23:10 |
+| 30 | Línea directa | PENDIENTE | cambió la prosa | 2026-11-15 23:10 |
+| 31 | Lo único que es mío | PENDIENTE | cambió la prosa | 2026-11-15 23:10 |
 | 35 | Al revés | PENDIENTE | cambió la prosa | 2026-11-15 22:14 |
 | 36 | Mecánico | PENDIENTE | cambió la prosa | 2026-11-15 22:14 |
 | 38 | Nada | PENDIENTE | cambió la prosa | 2026-11-15 22:14 |
@@ -27,7 +33,7 @@ Actualizada: 2026-11-15 22:14. Al día: 41 de 47.
 | 6 | Sólo una cena | AL DIA | 2026-11-10 |
 | 7 | Ambos | AL DIA | 2026-11-05 |
 | 8 | La noche del ladrillo | AL DIA | 2026-11-04 |
-| 9 | Mandorla | AL DIA | 2026-11-10 |
+| 9 | Mandorla | PENDIENTE | 2026-11-10 |
 | 10 | Una pésima idea | AL DIA | 2026-11-13 |
 | 11 | La balanza | AL DIA | 2026-11-08 |
 | 12 | La invitada | AL DIA | 2026-11-10 |
@@ -40,16 +46,16 @@ Actualizada: 2026-11-15 22:14. Al día: 41 de 47.
 | 19 | Grazie | AL DIA | 2026-11-08 |
 | 20 | Algo más que dinero | AL DIA | 2026-11-10 |
 | 21 | La versión pública | AL DIA | 2026-11-10 |
-| 22 | Lo que cueste | AL DIA | 2026-11-08 |
+| 22 | Lo que cueste | PENDIENTE | 2026-11-08 |
 | 23 | Luces fuera | AL DIA | 2026-11-10 |
-| 24 | Vienes conmigo | AL DIA | 2026-11-08 |
+| 24 | Vienes conmigo | PENDIENTE | 2026-11-08 |
 | 25 | Libros abiertos | AL DIA | 2026-11-08 |
 | 26 | Me encuentro bien | AL DIA | 2026-11-08 |
 | 27 | Una silla | AL DIA | 2026-11-09 |
 | 28 | Media baraja | AL DIA | 2026-11-10 |
-| 29 | Vamos a casa | AL DIA | 2026-11-10 |
-| 30 | Línea directa | AL DIA | 2026-11-08 |
-| 31 | Lo único que es mío | AL DIA | 2026-11-08 |
+| 29 | Vamos a casa | PENDIENTE | 2026-11-10 |
+| 30 | Línea directa | PENDIENTE | 2026-11-08 |
+| 31 | Lo único que es mío | PENDIENTE | 2026-11-08 |
 | 32 | A ti por mí | AL DIA | 2026-11-10 |
 | 33 | Cambio de firmas | AL DIA | 2026-11-10 |
 | 34 | También las mañanas | AL DIA | 2026-11-08 |
@@ -69,6 +75,12 @@ Actualizada: 2026-11-15 22:14. Al día: 41 de 47.
 
 ## Historial
 
+- 2026-11-15 23:10 · Cap. 31 (33_Mas_De_La_Cuenta.md) · audio pendiente: cambió la prosa
+- 2026-11-15 23:10 · Cap. 30 (32_Linea_Directa.md) · audio pendiente: cambió la prosa
+- 2026-11-15 23:10 · Cap. 29 (31_Vamos_A_Casa.md) · audio pendiente: cambió la prosa
+- 2026-11-15 23:10 · Cap. 24 (24d_Vienes_Conmigo.md) · audio pendiente: cambió la prosa
+- 2026-11-15 23:10 · Cap. 22 (24b_Lo_Que_Cueste.md) · audio pendiente: cambió la prosa
+- 2026-11-15 23:10 · Cap. 9 (08_La_Carrera_De_Mascaras.md) · audio pendiente: cambió la prosa
 - 2026-11-15 22:14 · Cap. 46 (50_A_Oscuras.md) · audio pendiente: cambió la prosa
 - 2026-11-15 22:14 · Cap. 44 (48_Su_Nombre.md) · audio pendiente: cambió la prosa
 - 2026-11-15 22:14 · Cap. 41 (45_Ropa_Limpia.md) · audio pendiente: cambió la prosa

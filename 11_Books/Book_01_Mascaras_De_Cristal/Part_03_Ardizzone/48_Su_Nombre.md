@@ -27,6 +27,7 @@ DISEÑO del agente, pendiente de lectura:
 - No se nombra a Halbrook ni el señuelo; no se insinúa que Kal no irá en el convoy. Eddie Sosa queda fuera (opción para otro toque). Sin EPUB, commit ni push.
 Regla de diálogo 05 (2026-10-28, a pedido del autor; prosa DISEÑO, espera lectura): fuera «Es no», «¿Eso dijo?», «Para una ruta», el «Gracias» a Bonnie, «¿Por qué no por el Cutoff?», «¿Usted sabe lo que me está pidiendo?» / «Por eso vine en persona», «¿Cómo que no sabe?», el eco «Menos él», «¿Y lo otro?», «¿Para qué?» antes del Peugeot, «Nada más» y «Ya sé que no es por dinero». Sesión: 98_Agent_Handoff/sessions/2026-10-28_claude_regla05_su_nombre_cap54.md.
 Hilo del Tasador (2026-11-01, DECISIÓN DEL AUTOR: señales desde Chiara; prosa DISEÑO, espera lectura; plan [[11_Books/Book_01_Mascaras_De_Cristal/00_Plan_Hilo_Tasador]]): tras «Todo. Menos su hombre», Rafe dice que el gordo de la Almendra anda tasando el sur desde antes de Navidad (presta, sube cuotas, ofrece trabajitos) y que el muchacho del hielo le contestó a su enviado «sin preguntarme» (conserva lo brutal de la puerta trasera). Chiara no pregunta por La Almendra. El I no nombra a Crowe aquí.
+MEIKO, ENTRADA TEMPRANA (2026-11-15, DECISIÓN DEL AUTOR: camino A; prosa DISEÑO, espera lectura): Chiara ya tiene a Meiko (es su valet), así que no pide su número: «Necesito a Meiko el domingo. No para el coche.» Pide a través de Bonnie para que no sea una orden de la patrona. «Se lo mando» → «Le aviso». «Mei no le dice a nadie que no» se conserva y cobra el núcleo («la que deja pasar»). Arco: [[11_Books/00_Arco_Meiko_Nakano]].
 -->
 
 # Capítulo 44 — Su nombre
@@ -93,7 +94,7 @@ Buscó otro número.
 
 Bonnie contestó al cuarto timbre. Había ruido de cocina detrás, una sartén, una radio.
 
-—Necesito el número de Meiko.
+—Necesito a Meiko el domingo. No para el coche.
 
 Bonnie no contestó enseguida. La sartén dejó de sonar.
 
@@ -107,7 +108,7 @@ Chiara no contestó.
 
 El silencio duró lo suficiente para que la radio terminara una canción y empezara otra.
 
-—Se lo mando —dijo Bonnie. Y luego—: Señora. —Una pausa—. Mei no le dice a nadie que no.
+—Le aviso —dijo Bonnie. Y luego—: Señora. —Una pausa—. Mei no le dice a nadie que no.
 
 Chiara esperó a que dijera algo más. Bonnie colgó.
 

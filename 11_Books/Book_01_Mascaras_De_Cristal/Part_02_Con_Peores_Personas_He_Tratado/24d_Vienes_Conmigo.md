@@ -8,9 +8,10 @@ Decisiones del autor (2026-11-08): (1) la capa 2 de Nadir la recuerda Chiara aqu
 Se conserva literal (CANON DEL AUTOR): el diálogo del parador (integración del 2026-10-04), «Tú vienes conmigo», «El loft es sólo para uno», el beat del loft, el abrazo y el temblor de H12 (ahora desde dentro: ella entiende que lo que viene tras ella puede alcanzarlo a él), VC-01 (tarde en el Monarch y recogida en el túnel al anochecer), VC-03 (cómplices sin reproche), «Totalmente» con el pulgar en el anular (se apoya en la bala del pañuelo de [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/21b_Grazie]]), «Necesito un coche que no sea del Monarch / Conozco uno».
 No resolver: Kal NO se entera en el Libro I de que Nadir habló con Chiara (CANON DEL AUTOR 2026-10-01). La segunda mitad de la frase de la escalera («Lo que no sé es si contigo podría», DISEÑO) no se nombra aquí; se revela en el capítulo de la correa (terminal C).
 Costura de apertura: con el nuevo 23 (la mano sobre la sábana; Chiara ya sabe de Vento). Cierre: «Conozco uno» engancha con el nuevo 25 (C, venta del Lancia). Costura PROVISIONAL: depende del nuevo 25.
-Protagonistas: Chiara Bellandi, Kal Mercer. Apariciones: Dario Varek, Beatrice Varek (Trix), Héctor Navarro (memoria), Nadir Amrani y Enzo (memoria), Tommaso (mensaje). Mencionados: Kenji, Vivian, Ferreyra, Marta, Alessio.
+Protagonistas: Chiara Bellandi, Kal Mercer. Apariciones: Dario Varek, Beatrice Varek (Trix), Héctor Navarro (memoria), Nadir Amrani y Enzo (memoria), Tommaso (mensaje). Mencionados: Meiko (por Kal), Kenji, Vivian, Ferreyra, Marta, Alessio.
 Ventana temporal: jueves del alta (mañana en el hospital, tarde en el Monarch, noche en el parador y el loft), los cuatro días siguientes y la noche del regreso al Monarch.
 Lugares: Hospital Santa Aurelia (cuarto 221, calle de atrás), The Monarch (lobby, túnel este), parador de autopista al norte, La Casa (loft de Kal).
+SIEMBRA DE LA VALET (2026-11-15, DECISIÓN DEL AUTOR: Kal no puede ofrecer a Meiko de golpe en el 26, se siembra antes; prosa DISEÑO, espera lectura): en los cuatro días del loft, la tercera noche, Kal le cuenta a Chiara cosas del taller (la moto de Nadir en abonos, Danny, la muchacha nueva del Camaro que encontró el freno). «Meiko. Casi no habla.» / «Lo que le digas. Y lo que no.» / «Estaciona mejor que yo.» Chiara lo guarda. En el 26 la idea de contratarla es de ella. Arco: [[11_Books/00_Arco_Meiko_Nakano]].
 -->
 
 # Capítulo 24 — Vienes conmigo
@@ -420,6 +421,18 @@ Dos cuerpos en un cuarto a oscuras.
 ***
 
 Se quedó cuatro días. Kal le cambió el vendaje dos veces y no le preguntó nada que tuviera que ver con Palermo; ella no se lo agradeció en voz alta, y tampoco le pidió que dejara de hacerlo. Una tarde lo oyó hablar por teléfono en la cocina, en voz baja, con alguien del hipódromo, y oyó la palabra *enterrar* y la palabra *mañana*. No bajó. Él no se lo contó. Al día siguiente él olía a tierra y ella no le preguntó por qué.
+
+La tercera noche, con la tele apagada y la cabeza de ella todavía alta sobre las dos almohadas, él le contó cosas del taller para llenar lo que el silencio no llenaba. Que Nadir se había comprado una moto con dinero de la caja y la estaba pagando en abonos de doscientos. Que Danny había intentado cobrarle a un cliente una pieza que el cliente había traído en la mano. Que había una muchacha nueva, del norte, que llegó en un Camaro con un cilindro muerto y le encontró a la moto de Nadir el freno que él no había visto.
+
+—¿Cómo se llama?
+
+—Meiko. Casi no habla.
+
+—¿Y qué hace?
+
+—Lo que le digas. Y lo que no. —Kal lo pensó un momento, con la vista en el techo—. Estaciona mejor que yo.
+
+Chiara se rio, y reírse le dolió en la nuca, y lo guardó junto a las otras cosas que todavía no sabía para qué servían.
 
 Al quinto volvió al Monarch. Los hombres de Dario estaban donde decía la hoja de Kenji: uno en el lobby, otro junto al elevador privado y el tercero, el que Dario no había mencionado, en el estacionamiento de empleados, apoyado en el Mercedes de la empresa como si el Mercedes también fuera suyo.
 

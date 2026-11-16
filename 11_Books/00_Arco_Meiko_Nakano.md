@@ -74,6 +74,25 @@ Cada motor es algo que vuelve. Cuando reaparece, avanza un paso; nunca se explic
 | 41 (`45`), 44 (`48`) | Chiara | **Retoque obligatorio:** Chiara ya la conoce y tiene su número. El puente de un carril («el que llega primero pasa») cobra el núcleo. | núcleo |
 | 46–47 | Chiara | La foto del puente con las manos en los bolsillos: se conserva. | — |
 
+### Prosa del Libro I escrita (2026-11-15, BORRADOR; espera lectura)
+
+Dónde quedó cada beat (difiere del mapa de arriba donde lo indica la nota):
+
+| Cap. (archivo) | Qué se escribió |
+|---|---|
+| 9 (`08`) | La Zen Devil: el Camaro aparte en la grava, Tyler la nombra («Ésa sí se acuerda del guardaganado»), «el que salió derecho», sus luces en la recta. |
+| 22 (`24b`) | La entrada: el Camaro tosiendo, «Kingsley. Llegaste segunda.», el freno trasero en metal que Kal no vio, Danny se calla, la luz de la oficina prendida. |
+| 24 (`24d`) | La siembra: Kal le cuenta a Chiara del taller; «Estaciona mejor que yo». |
+| 26 (`26`) | **Sin cambios.** Es la mañana en que Kal desaparece: no aguanta una contratación. La bitácora de los valets que ya está escrita refuerza el motivo. |
+| 29 (`31`) | **La contratación pasa aquí, al lago:** Meiko devuelve el pez grande («Ninguno»); Chiara se sienta en la nevera de al lado: «sin el cuaderno»; «¿Usted iba en el Peugeot?» / «Iba gritando en el Peugeot». |
+| 30 (`32`) | El primer «Mei» de Nadir («Meiko.» / «Eso dije.») y **el primer adelanto** («Cosas de familia»; primer «jefe», de trámite). El adelanto se movió aquí desde el 32 para no romper el cierre de la Parte II. |
+| 31 (`33`) | La primera calificación: «Propina de veinte. Trato de dos.» / «Yo le doy uno.» / «Usted lo conoce más.» |
+| 32 (`34`) y 34 (`36`) | Sin cambios. |
+| 35 (`38`) | Bonnie, la recién llegada, traída por Meiko; «Desde agosto…»; el yate como turno extra por dinero. |
+| 38 (`42`) | El miedo vuelve; Chiara recuerda que Meiko le pedía irse antes de la una. |
+| 41 (`45`) | «Traje a Meiko» / «Ya lo sé». |
+| 44 (`48`) | «Necesito a Meiko el domingo. No para el coche.» |
+
 ## Lo que el Libro II ya tiene y qué cobra
 
 | Beat del Libro II (tarjetas) | Cobra |

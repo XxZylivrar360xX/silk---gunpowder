@@ -14,6 +14,7 @@ Función: cobra la mentira del 37 («—Nada.»). Bonnie encuentra la camioneta,
 - Cabello: Kal lo ve por primera vez al entrar, antes de la primera línea de F1; ninguno lo comenta.
 - F1: Kal en el sillón; Chiara recargada en la mesa, cruzando la sala. Kal se va; no se habla de terminar.
 - Se conserva literal: «—Nada.»; «—Sí. Te mentí.»; «Tenía que volver. Eso no cambió.»; línea canon «—Por mucho que yo esté enamorado de ti, soy fiel a mis convicciones, a mi gente y a mí mismo.»; «Ciao, tesoro»; la mano en la manija; «¿Buscas a alguien?» / «Entonces ya encontraste lo que buscabas».
+MEIKO, ENTRADA TEMPRANA (2026-11-15, DECISIÓN DEL AUTOR: camino A; prosa DISEÑO, espera lectura): Chiara ya conoce a Meiko (su valet desde el cap. 29). El miedo ya no es nuevo: «volvió a dormir en el Patio… ya se le estaba quitando; esta semana volvió». «Guardó el nombre» pasa a Chiara pensando en que Meiko llevaba tres noches pidiéndole irse antes de la una. Arco: [[11_Books/00_Arco_Meiko_Nakano]].
 -->
 
 # Capítulo 38 — Nada
@@ -74,9 +75,9 @@ Chiara no contestó de inmediato.
 
 Chiara no dijo nada. Bonnie tampoco, por un momento, y cuando siguió lo hizo más bajo, como quien entrega algo que no venía en el reporte.
 
-—Meiko está durmiendo en el Patio. Desde que se deshizo lo de allá arriba no quiere quedarse sola en ningún lado, y no dice por qué. Le pregunté dos veces. —Respiró—. Si alguien anda siguiendo a la gente que pregunta, yo no voy a ser la que se lo lleve hasta donde ella duerme.
+—Meiko volvió a dormir en el Patio. Cuando se deshizo lo de allá arriba no se quedaba sola en ningún lado, y ya se le estaba quitando; esta semana volvió. No dice por qué. Le pregunté dos veces. —Respiró—. Si alguien anda siguiendo a la gente que pregunta, yo no voy a ser la que se lo lleve hasta donde ella duerme.
 
-Chiara no sabía qué era «lo de allá arriba» y no lo preguntó. Guardó el nombre.
+Chiara no sabía qué era «lo de allá arriba» y no lo preguntó. Pensó en la rampa del Monarch, en que Meiko llevaba tres noches pidiéndole irse antes de la una, y en que ella se lo había concedido sin preguntar por qué.
 
 Chiara se quedó con el teléfono pegado a la oreja, mirando la ventana, las luces de San Aurelio abajo, todas encendidas como cualquier otra noche.
 

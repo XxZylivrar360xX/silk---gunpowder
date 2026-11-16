@@ -14,7 +14,7 @@ Mención de la denuncia del corral (2026-10-29, CANON DEL AUTOR: opción A con m
 Estado: BORRADOR — Capítulo 32 de la Parte II. Redactado 2026-09-20, Claude Code, encargo del autor. Cirugía editorial 2026-09-27 (E7 de [[98_Agent_Handoff/encargos/ENCARGO_Auditoria_Parte_II]]; registro en [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Caps_26-34_Parte_II]] § 9 parte 3): prolepsis final y salto a Chiara cortados, glosas del procedimiento cortadas, cronología interna ("Días después" / "dos semanas después"), coche de Lucia sin "sedán", bloque de DISEÑO metido en el comentario (el EPUB vigente todavía lo lleva impreso). E9 (2026-09-27): escena de Irene insertada tras "Lo archivó, junto con el resto, y volvió al taller." (cita por Walt, Canal Seco, Tomás cachea y cuenta el carro, Nadir sale de la mercancía, favor abierto aceptado sin regateo, "Ahora sí me debe, señor Mercer.", cola de Nadir "Porque ya alcanzó.") e hilo A en la coda ("¿Y el Canal Seco?"). Redacción del agente: BORRADOR/DISEÑO hasta lectura del autor. Sigue BORRADOR. Renumerado en cascada el mismo día tras la aprobación del autor: este capítulo pasó de nombre provisional (31b) a Cap. 32; La periferia pasó de 32 a 33; Mi pareja pasó de 33 a 34. Ver `98_Agent_Handoff/CURRENT_BRIEF.md` y `98_Agent_Handoff/PENDING.md` para el detalle de la integración.
 Frente 1, narrador (2026-10-06, SURGERY de [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Frente1_Narrador_Parte_II]], §7): 4 cortes (N32-1 a N32-4) y atribución de "Ahora sí me debe" a Irene; sigue BORRADOR.
 POV: Kal Mercer, único, sin excepción.
-Protagonistas: Kal Mercer, Lucia Varek. Aparición breve: Irene Salcedo y Tomas Vale (Canal Seco, E9), Walter Keegan (recado), Nadir Amrani (cola de Irene), Hector Navarro (taller), Chiara Bellandi (coda). Nombrados sin aparición: Eddie Sosa (Los Bravos de Santa Brigida), Rafael "Rafe" Dominguez (mencionado, no aparece), un tercero nuevo y menor: Portillo, dueño de un taller de neumáticos en Las Calderas (aparición mínima, sin diálogo directo, mencionado por Hector).
+Protagonistas: Kal Mercer, Lucia Varek. Aparición breve: Irene Salcedo y Tomas Vale (Canal Seco, E9), Walter Keegan (recado), Nadir Amrani (cola de Irene), Hector Navarro (taller), Meiko Nakano (taller), Chiara Bellandi (coda). Nombrados sin aparición: Eddie Sosa (Los Bravos de Santa Brigida), Rafael "Rafe" Dominguez (mencionado, no aparece), un tercero nuevo y menor: Portillo, dueño de un taller de neumáticos en Las Calderas (aparición mínima, sin diálogo directo, mencionado por Hector).
 Ventana temporal: arranca a la mañana siguiente del Cap. 31 (Vamos a casa: el sillón) y se extiende cerca de dos semanas (contacto, decision, resultado, segundo contacto: Lucia vuelve "dos semanas despues"). Sin fecha exacta. (Nota de continuidad con el Cap. 33 retirada 2026-09-27: el 33 ya dice "varios dias despues del Cap. 32".)
 Ubicacion dentro de Parte II: Cap. 32, entre el Cap. 31 (Vamos a casa) y el Cap. 33 (La periferia).
 Lugares: Almendra Towing (patio y oficina), el Canal Seco (puesto de abarrotes de Irene, E9), un tramo de calle en Las Calderas (mencionado, no escenificado), el loft de Kal en la Almendra (coda).
@@ -35,6 +35,7 @@ Funcion: DISEÑO NUEVO de esta sesion, a peticion del autor. Segundo escalon de 
 > **DISEÑO RESERVADO PARA PARTE III (2026-09-20, idea del autor, no escrito):** cuando Kal empiece a aparecer publica o semipublicamente como la persona que Dario usa para coordinar problemas entre bandas, Lucia empezara a encontrarse el nombre de Mercer en lugares extraños sin tener todavia un delito claro que ponerle encima. Ahi si, con evidencia acumulada de meses de linea directa sin que Kal la haya usado nunca para llegar a su padre, Lucia puede observarlo en voz alta: *"—Hay algo que no entiendo de usted. —La lista es larga. —Tiene contacto con mi padre. Tiene contacto conmigo. Nunca ha intentado utilizar uno para llegar al otro."* Kal: *"—Porque son dos relaciones distintas."* — declaracion sobre como Kal administra personas (no convierte automaticamente un vinculo en palanca sobre otro) que Lucia puede recordar años despues al preguntarse cuanto sabia Kal sobre Dario. No fijar capitulo ni fecha todavia; anotar tambien en `06_Relationships/Hitos.md` o `98_Agent_Handoff/PENDING.md` si se quiere proteger la idea para cuando se diseñe la Parte III.
 Regla de dialogo 05 (2026-10-28, Claude Code, encargo del autor; prosa DISENO, sigue BORRADOR): cinco cortes de eco/remate (Lucia en la oficina y en la segunda visita, coda con Chiara); detalle en 98_Agent_Handoff/sessions/2026-10-28_claude_regla05_linea_directa_cap37.md.
 Rocco (2026-10-22, decision del autor; prosa DISENO; sigue BORRADOR): Nadir le avienta la llave Allen en la acera; cuando Kal le quita lo de Irene, Rocco se la devuelve y Nadir no la recoge. Ficha: 02_Characters/Rocco.md.
+«MEI» (2026-11-15, CANON DEL AUTOR: Nadir le pone el apodo; prosa DISEÑO, espera lectura): en el ritmo del taller, Nadir le pide la llave de trece («Mei»), ella se la lanza sin sacar la cabeza del cofre: «Meiko.» / «Eso dije.» Primera vez del apodo. Escena nueva tras la cuota del Tasador: el primer adelanto («¿Me puede adelantar la semana?» / «¿Para qué?» / «Cosas de familia.»); Kal paga de la caja de lámina; primer «jefe», todavía de trámite. Movido aquí desde el cap. 32 (archivo 34) para no romper el cierre de la Parte II. Arco: [[11_Books/00_Arco_Meiko_Nakano]].
 -->
 
 # Capítulo 30 — Línea directa
@@ -49,7 +50,15 @@ Se sirvió el café frío que había sobrado de la noche anterior, lo tomó de p
 
 ***
 
-Almendra Towing a esa hora tenía el ritmo de siempre: una grúa saliendo con el motor todavía frío, Danny maldiciendo una batería que no quería arrancar, Héctor con una factura en una mano y un café en la otra, discutiendo con un proveedor de neumáticos que juraba haber mandado el pedido completo.
+Almendra Towing a esa hora tenía el ritmo de siempre: una grúa saliendo con el motor todavía frío, Danny maldiciendo una batería que no quería arrancar, Héctor con una factura en una mano y un café en la otra, discutiendo con un proveedor de neumáticos que juraba haber mandado el pedido completo. Al fondo, Meiko tenía medio cuerpo metido bajo el cofre de un Tercel.
+
+—Mei —le gritó Nadir desde la fosa—. La de trece.
+
+Ella estiró la mano hacia el carro de herramientas sin sacar la cabeza del cofre y le lanzó la llave de trece, que Nadir atrapó en el aire.
+
+—Meiko —dijo ella.
+
+—Eso dije.
 
 Kal llevaba media hora bajo un Corolla ajeno cuando oyó el coche entrar. No era una grúa, ni un cliente, ni la patrulla que pasaba los martes a revisar el convenio. Era un coche gris, sin marcas, conducido por alguien que no dudó dónde estacionarse.
 
@@ -288,6 +297,26 @@ A media mañana, con dos clientes esperando junto a la máquina de refrescos y D
 Danny se había callado en el capó del Tercel. Uno de los clientes miró a Kal y después miró a otro lado.
 
 Kal le preguntó qué día pasaban a cobrar. Sacó del bolsillo de atrás la libreta de los fiados, la que llevaba años guardando lo que el barrio le fiaba, y anotó la fecha en la última hoja, sola, arriba de todo, donde todavía no había nada.
+
+***
+
+Esa tarde, cuando se fueron los clientes, Meiko tocó con los nudillos el marco de la puerta de la oficina, como la primera noche.
+
+—¿Me puede adelantar la semana?
+
+Kal levantó la vista de la libreta. Llevaba mes y medio en el taller y no había faltado un día. Desde hacía dos semanas llegaba a las siete con el pelo todavía húmedo y la cara de alguien que había dormido cuatro horas, porque a esas horas, la noche anterior, todavía estaba entregando llaves en la rampa del Monarch.
+
+—¿Para qué?
+
+—Cosas de familia.
+
+Lo dijo como se dice una placa. Kal abrió el cajón de abajo del archivero, sacó la caja de lámina y contó la semana. Se la dio doblada en dos.
+
+—Gracias, jefe.
+
+Era la primera vez que le decía así. Sonó a trámite, como se lo decían los clientes.
+
+La oyó irse por el patio y oyó el Camaro arrancar en la calle con su cilindro enfermo. Volvió a la libreta. En la última hoja seguía la fecha del Tasador, sola, arriba de todo.
 
 ***
 

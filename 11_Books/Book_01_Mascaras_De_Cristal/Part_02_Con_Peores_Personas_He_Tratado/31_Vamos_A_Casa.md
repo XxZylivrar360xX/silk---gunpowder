@@ -10,7 +10,7 @@ PUESTA EN ESCENA (2026-10-06, encargo del autor, [[13_Auditorias/Book_01_Mascara
 Estado: BORRADOR — sexto capítulo de la Parte II; cierra el arco H5–H7 (no la Parte II: siguen 32–34). Pendiente de revisión del autor. Cirugía editorial 2026-09-27 (E7 de [[98_Agent_Handoff/encargos/ENCARGO_Auditoria_Parte_II]]; registro en [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Caps_26-34_Parte_II]] § 9 parte 3): POV de Chiara saneado, resumen del coche comprimido, glosas cortadas, Beretta .25 (primera aparición, vestidor) y gesto de la roca (P3). Sigue BORRADOR.
 Regla de diálogo 05 (2026-10-28, a pedido del autor; prosa DISEÑO; sigue BORRADOR): 12 cortes de eco/remate y turnos perdidos, detalle en [[98_Agent_Handoff/sessions/2026-10-28_claude_regla05_vamos_a_casa_cap36]]. Líneas canon intactas.
 Frente 1, narrador (2026-10-06, SURGERY de [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Frente1_Narrador_Parte_II]], §7): 2 cortes (N31-1, N31-2); sigue BORRADOR.
-Protagonistas: Chiara Bellandi (POV único). Grupo: Kal Mercer, Nadir Amrani, Daniel "Danny" Hayes, Héctor Navarro, Walter "Walt" Keegan, Harper Walker.
+Protagonistas: Chiara Bellandi (POV único). Grupo: Kal Mercer, Nadir Amrani, Daniel "Danny" Hayes, Héctor Navarro, Walter "Walt" Keegan, Harper Walker, Meiko Nakano.
 Ventana temporal: MISMO DÍA que los Caps. 28–30 (CANON DEL AUTOR — "hay que sanear, mi decisión es que sea el mismo día"). Ocurre la tarde-anochecer del día del regreso de Kal (Halbrook se lo llevó de la ciudad la madrugada anterior; Kal manejó de vuelta toda la noche): el día que Kal volvió golpeado al loft al amanecer, que fue a la mansión de Varek, que Kal y Chiara pactaron en Las Cascadas y que Kal reunió a su gente en El Patio. La pesca ya estaba acordada entre Nadir/Danny/Héctor/Walt/Kal al cierre de la coda del Cap. 30; la llamada de Kal a Chiara que abre este capítulo es la invitación personal a algo que el grupo ya decidió, no una convocatoria nueva. Kal sigue "recién molido": costillas y ceja de la paliza de Halbrook siguen activas.
 Lugares: AMPLIACIÓN (2026-09-16, encargo del autor): la geografía pasa de "río norte" a **el lago** — agua quieta, orilla de arena y piedra, apta para pesca y baño. Puede conservarse un recodo/entrada de agua más tranquila como detalle secundario, pero el cuerpo principal recreativo es el lago, no un río ni una desembocadura. Formación de roca cerca de la orilla para el atardecer, sin nombre fijado (PENDIENTE geográfico deliberado). **PENDIENTE DE RECONCILIAR (no resuelto en este encargo, sólo este capítulo):** otros documentos del vault (Book Map, Cadena de Eventos) todavía describen H7 como "el río norte"; revisar en sesión futura si corresponde actualizarlos o si el lago es un cuerpo de agua distinto dentro de la misma zona rural del norte.
 Función: CANON DEL AUTOR. Ejecuta H7 — El lago, cierre del arco H5–H7.
@@ -39,6 +39,7 @@ Continuidad:
 **CEMENTERIO (2026-10-08, CANON DEL AUTOR en estructura; prosa DISEÑO pendiente de lectura):** antes de la tienda de pesca, desvio a Camino Santa Lucia. Chiara ve a Kal comprar flores blancas sin saber para que; en el cementerio entiende. Es la primera vez que Kal va a la tumba de Michael desde que lo lloro (Cap. 25): la evitaba (Cap. 25:358: pasaba de largo la tercera hilera). Chiara es su resguardo: lo acompana hasta la tumba, le oye solo "Marisol esta bien" (paga el "Y decirle que Marisol esta bien" del 25) y se aparta; lo demas no lo presencia. Flores secas con liga morada: Marisol si venia (canon del 21: visita a Michael cuando algo la entristece). Ajustes de costura: fuera "ya en la carretera" en la pregunta por Nadir y "todavia tibios" en los sandwiches. Reemplaza el beat del Cap. 1 (retirado).
 Reconocimiento (2026-09-29, decision del autor): Chiara ubica a Harper como la muchacha de la maquina de La Esquina de Mabel del Cap. 4; Harper la reconocio desde el principio.
 **Siembra de la foto (2026-10-02, CANON DEL AUTOR; prosa DISEÑO del agente, pendiente de lectura):** al volver a la orilla, Kal y Chiara se quedan de la mano mirando la última luz; Héctor la fotografía sin avisar (sólo se ve que guarda el teléfono). Resuelto con el autor 2026-10-02: luz sobre el agua (no tras los árboles); la calavera de Kal no se ve en la foto. Paga en la apertura del Cap. 33 (el cuadro con moño) y en el Cap. 50 (monólogo; Chiara lo lleva al loft). Ver [[11_Books/Book_01_Mascaras_De_Cristal/00_Plan_Arco_Final_Sin_Kal]].
+MEIKO EN EL LAGO (2026-11-15, DECISIÓN DEL AUTOR: la valet se siembra antes y la idea es de Chiara; prosa DISEÑO, espera lectura). El beat de la contratación estaba previsto en el cap. 26, pero ese capítulo es la mañana en que Kal desaparece: ahí sólo refuerza el motivo (la bitácora de los valets camina de vuelta a Varek), y la contratación pasa aquí. Dos inserciones: (1) tras la competencia, Meiko pesca aparte, devuelve al agua uno que habría cerrado la discusión y contesta «Ninguno»; sólo Chiara lo ve; (2) tras la parrilla, Chiara se sienta en la nevera de al lado: «Kal dice que usted estaciona mejor que él.» / «Kal estaciona bien. Yo estaciono más rápido.»; el trato «sin el cuaderno»; «¿Usted iba en el Peugeot?» / «Iba gritando en el Peugeot.» Se tratan de usted. Arco: [[11_Books/00_Arco_Meiko_Nakano]].
 -->
 
 # Capítulo 29 — Vamos a casa
@@ -303,6 +304,14 @@ Chiara no insistió.
 
 Para cuando el sol empezó a bajar, el marcador seguía tan disputado como al principio, con Danny acusando a Nadir de contar dos veces el mismo pez y Nadir jurando por su madre que no, y nadie —ni siquiera Chiara, que en cualquier otro terreno hubiera cerrado la discusión en diez segundos con una versión que todos aceptaran— tuvo ningún interés real en resolverlo. La discusión, entendió, era el punto.
 
+Sólo una persona en la orilla no había entrado en la cuenta. Pescaba sola en las piedras del extremo, sin gritar números, con una chaqueta negra amarrada a la cintura y el pelo en dos chongos que el sol ponía casi rojos. La muchacha del taller, la del Camaro. Chiara la vio sacar uno que habría cerrado la discusión de una vez, más grande que todo lo de Nadir junto; la vio sostenerlo un segundo contra la luz, quitarle el anzuelo con cuidado y devolverlo al agua.
+
+—¡Meiko! —le gritó Nadir desde su tramo—. ¿Cuántos llevas?
+
+—Ninguno.
+
+Y volvió a lanzar. Chiara buscó a alguien más que lo hubiera visto. Nadie.
+
 ***
 
 Héctor golpeó la parrilla con la espátula y la competencia se suspendió sin que nadie la diera por terminada. Comieron de pie o sentados en las neveras, con los platos de cartón doblándose bajo el pescado.
@@ -316,6 +325,40 @@ Chiara se persignó antes de probar nada y bajó la cabeza un momento. A su lado
 Kal dejó el tenedor quieto sobre el plato. No lo levantó hasta que ella volvió a persignarse.
 
 Del otro lado de la parrilla, Danny ya iba por el segundo pescado.
+
+Meiko comía sentada en una nevera, un poco aparte, con el plato en las rodillas. Chiara fue a sentarse en la nevera de al lado. No le preguntó si podía.
+
+—Kal dice que usted estaciona mejor que él.
+
+Meiko siguió masticando. Tragó.
+
+—Kal estaciona bien. —Lo pensó—. Yo estaciono más rápido.
+
+—En el Monarch los coches los mueve una contratista. Llevan un cuaderno con la hora de todo lo que sale. —Chiara le quitó una espina al pescado con las uñas—. Necesito a alguien que me mueva el coche de noche y no lo anote en ningún cuaderno.
+
+Meiko la miró por primera vez de frente. Tenía los ojos muy oscuros y una manera de mirar que no se quedaba en la cara: pasaba a las manos, al plato, a la distancia que había entre las dos neveras.
+
+—¿De noche hasta qué hora?
+
+—Hasta lo que dure.
+
+—Aquí entro a las siete.
+
+—Ya lo sé.
+
+Meiko volvió al plato. Chiara esperó, que era lo que menos sabía hacer, y lo hizo bien.
+
+—Lo mismo que les paga a los de la contratista —dijo Meiko al final—. Sin el cuaderno.
+
+—Hecho. —Chiara se limpió los dedos en la servilleta de papel—. Usted es la del Camaro. En Kingsley.
+
+Meiko dejó de masticar.
+
+—¿Usted iba en el Peugeot?
+
+—Iba gritando en el Peugeot.
+
+A Meiko se le movió algo en la boca, apenas, del lado izquierdo, y se le quitó enseguida, como si no le hubiera pedido permiso.
 
 ***
 

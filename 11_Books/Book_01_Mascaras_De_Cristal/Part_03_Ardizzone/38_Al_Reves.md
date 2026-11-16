@@ -15,6 +15,7 @@ Lugares: el loft; Almendra Towing / El Patio; La Esquina de Mabel; Cedar Flats; 
 Función: la espera del capítulo es doble («qué significa Roma» y «quién mató a Vento») y se cobra junta en el salón del piano. La bandera falsa de Crowe funciona: el apellido le confirma a Kal lo que Chiara ya creía y lo manda a Italia. Blake cierra su hilo. El Patio crece alrededor de Kal.
 SUPERSEDIDO (DECISIÓN DEL AUTOR, 2026-11-12): el corral lo ordena La Mesa y lo ejecuta Volpi; Crowe no fue. La prosa no cambia. Ver [[11_Books/Book_04_Cuentas_De_Sangre/00_Diseno_Complot_De_La_Mesa]].
 audio PENDIENTE: archivo 38.
+MEIKO, ENTRADA TEMPRANA (2026-11-15, DECISIÓN DEL AUTOR: camino A; prosa DISEÑO, espera lectura): (1) la línea de llegada pasa a Bonnie, «traída por Meiko» dos semanas antes; Meiko ya es de la casa desde agosto (cap. 22); (2) «Hasta esa mañana no había tenido a quién preguntarle eso» → «Desde agosto, esas cosas ya no tenía que preguntárselas a nadie más»; (3) el yate: sigue en el catering (CANON DEL AUTOR), como turno extra porque esa noche el Monarch no la necesitaba y «el turno del barco era otro dinero». Arco: [[11_Books/00_Arco_Meiko_Nakano]].
 -->
 
 # Capítulo 35 — Al revés
@@ -87,7 +88,7 @@ Kal no contestó.
 
 —Safi —dijo Nadir, y volvió al mostrador.
 
-En la bahía del fondo había un sedán gris que la grúa había traído al amanecer y una chica con medio cuerpo bajo el capó. Bonnie. Había llegado hacía poco con Meiko, las dos de una banda del norte que ya no existía; Kal no había preguntado más y ninguna había ofrecido más. Desde entonces aparecían temprano, hacían lo que había y se iban sin que hiciera falta decirles a qué hora.
+En la bahía del fondo había un sedán gris que la grúa había traído al amanecer y una chica con medio cuerpo bajo el capó. Bonnie. Había llegado dos semanas antes, traída por Meiko, de la misma banda del norte que ya no existía; Kal no había preguntado más y ninguna de las dos había ofrecido más. Desde entonces aparecía temprano, hacía lo que había y se iba sin que hiciera falta decirle a qué hora.
 
 —El de la grúa dijo batería —dijo Bonnie, sin sacar la cabeza—. No es batería. Es la bomba.
 
@@ -109,7 +110,7 @@ Meiko estaba sentada en el guardafango de la camioneta de al lado con un café d
 
 —Por la Milla no, si es de noche. Ahí se para una patrulla desde las once. Por el acceso de carga se entra igual y nadie mira.
 
-Kal asintió. Hasta esa mañana no había tenido a quién preguntarle eso.
+Kal asintió. Desde agosto, esas cosas ya no tenía que preguntárselas a nadie más.
 
 —¿«Roma» te dice algo? —le preguntó a Bonnie, que ya se limpiaba las manos con un trapo salido de quién sabe dónde.
 
@@ -193,7 +194,7 @@ Cabían tres fiestas: la del Monarch cerca de la barra, con los Ferretti hablán
 
 Y Tyler junto a la mesa de los quesos, hablándole a la que llevaba la charola.
 
-Era Meiko. Camisa blanca, el pelo recogido, el delantal negro del catering que venía con el barco. Esa tarde Kal la había dejado bajo un Ford, con grasa hasta el codo. Tyler le decía algo y ella le sostenía la charola a la altura justa sin darle la cara, como si la charola fuera la que escuchaba. Cuando vio a Kal, no bajó los ojos. Le ofreció un queso como se lo habría ofrecido a cualquiera y siguió hacia la popa.
+Era Meiko. Camisa blanca, el pelo recogido, el delantal negro del catering que venía con el barco. Esa tarde Kal la había dejado bajo un Ford, con grasa hasta el codo; esa noche el Monarch no la necesitaba en la rampa, y el turno del barco era otro dinero. Tyler le decía algo y ella le sostenía la charola a la altura justa sin darle la cara, como si la charola fuera la que escuchaba. Cuando vio a Kal, no bajó los ojos. Le ofreció un queso como se lo habría ofrecido a cualquiera y siguió hacia la popa.
 
 Kal no dijo nada. Se lo guardó.
 

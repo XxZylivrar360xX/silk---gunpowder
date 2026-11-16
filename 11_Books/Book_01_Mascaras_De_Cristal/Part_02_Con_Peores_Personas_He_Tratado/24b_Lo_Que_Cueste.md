@@ -9,10 +9,11 @@ Se conserva (CANON DEL AUTOR, 2026-10-01): capa 1 (Kal se abre con Nadir: «para
 DISEÑO del agente: apertura por residuo de la factura doblada del 21 («La otra hoja que Kal dobló esa semana»); por qué cierra Krane sin la mentira (las carpetas de Garrett); Rivers ve la media hoja («No me lo ponga enfrente») / «Se lo pongo al lado»; Nadir: «Cuando sabes qué cargas, sabes cuánto pesa»; en el loft, Chiara cita el tanteo de Tommaso y dice que alguien va a querer algo por ese libro; «Lo cargaste porque yo te lo pedí. Tú eras lo que estaba a la mano».
 Pendiente de origen, a vigilar: la demanda de Hoover (el sobre, Rivers) ya no tiene arranque en página en los nuevos 11–21. El 05c planta el rumor de la mesa directiva; aquí se cuenta el resto en un párrafo.
 Costura de apertura: con el nuevo 21 (ya reconstruido). Cierre: el Lancia engancha con el nuevo 25 (de C, venta del Lancia). Costura PROVISIONAL: depende del nuevo 25.
-Protagonistas: Kal Mercer, Chiara Bellandi. Apariciones: Margaret Rivers, Garrett Cross, Jonathan Hoover, Giancarlo Krane, Nadir Amrani, Danny Hayes (fondo), la panadera (sin nombre). Mencionados: el hombre de la chaqueta café (de Crowe, sin nombre), Héctor Navarro.
-Ventana temporal: la semana siguiente al viernes del nuevo 21. Martes: acuerdo; jueves: Villani y taller de noche; viernes: la moto y la panadería; días después: el loft; la mañana siguiente: el Lancia.
+Protagonistas: Kal Mercer, Chiara Bellandi. Apariciones: Meiko Nakano (entra al taller), Margaret Rivers, Garrett Cross, Jonathan Hoover, Giancarlo Krane, Nadir Amrani, Danny Hayes (fondo), la panadera (sin nombre). Mencionados: el hombre de la chaqueta café (de Crowe, sin nombre), Héctor Navarro.
+Ventana temporal: la semana siguiente al viernes del nuevo 21. Martes: acuerdo; jueves: Villani y taller de noche; viernes: la moto y la panadería; lunes: llega Meiko; días después: el loft; la mañana siguiente: el Lancia.
 Lugares: tribunal civil de San Aurelio (sala de mediación, pasillo), Villani Motors, el taller de La Almendra, la panadería de la calle de Héctor, el loft.
 Craft: voz según 12_Craft_Policies/voice (Kal, Chiara, Nadir). Nadir: darija con moderación, la pregunta de dinero como arma, el silencio como alarma. Registro privado en semilla (pre-H16).
+ENTRADA DE MEIKO (2026-11-15, DECISIÓN DEL AUTOR: camino A; prosa DISEÑO, espera lectura): escena nueva entre la Kawasaki y el loft. El lunes, a las siete, el Camaro de Kingsley con un cilindro enfermo; «Kingsley. Llegaste segunda.» / «Llegué. Con las torretas atrás, eso ya es bastante.»; «Del norte» y nada más; Kal piensa en la casa vacía de Boone y no pregunta. Prueba: revisar la Kawasaki; ella encuentra el freno trasero en metal, lo que Kal no vio al ajustar la cadena. Danny la reconoce y se calla (CANON: ella le conseguía la heroína; lo cubrió en el billar). Pide quedarse a dormir esa semana; a la mañana siguiente la luz de la oficina sigue prendida. Arco: [[11_Books/00_Arco_Meiko_Nakano]].
 -->
 
 # Capítulo 22 — Lo que cueste
@@ -276,6 +277,64 @@ Kal dejó la bolsa sobre el mostrador.
 Kal le dio las gracias. Cruzó la calle con la bolsa de pan dulce y el periódico doblado bajo el brazo, y antes de tocar en casa de Héctor miró la esquina de la vulcanizadora, donde no había nadie, y la mantuvo un rato a la vista.
 
 A Nadir no le dijo nada. Esa tarde le ajustó la cadena de la Kawasaki en la banqueta del taller, mientras Nadir le explicaba con los dedos lo que iba a ahorrar en gasolina, y lo dejó hablar.
+
+***
+
+El lunes lo oyó antes de verlo. Un motor grande en ralentí frente a la cortina, a las siete menos cinco, con un cilindro que no daba y otro que daba de más.
+
+Era un Camaro viejo, negro salvo por una puerta en gris de primer. Kal lo conocía. Lo había tenido una fila adelante en Kingsley, en noviembre, y lo había visto despegarse en la recta como si los demás estuvieran estacionados.
+
+La muchacha estaba sentada en el guardafango, con las manos en los bolsillos de una chaqueta negra y el pelo recogido en dos chongos. Se paró cuando él se bajó del Peugeot. No se le acercó.
+
+—Kingsley —dijo Kal—. Llegaste segunda.
+
+—Llegué. —Se encogió de hombros—. Con las torretas atrás, eso ya es bastante.
+
+—¿Qué se te ofrece?
+
+—Trabajo.
+
+Kal subió la cortina. Ella no lo ayudó y no hizo como que iba a ayudarlo: se quedó donde estaba, mirando el patio, la grúa, el archivero de la oficina, la salida de atrás.
+
+—¿De dónde vienes?
+
+—Del norte.
+
+Esperó a que dijera más. No dijo más. Kal pensó en la casa vacía de Old Road Town que Danny le había leído en el periódico, en la chaqueta café que preguntaba por la familia de Nadir, y no preguntó nada.
+
+La Kawasaki estaba en la banqueta, donde Nadir la dejaba para que la vieran. Kal la señaló con la barbilla.
+
+—Revísala.
+
+Ella se agachó junto a la moto sin quitarse la chaqueta. No tocó la cadena; la miró, nada más, y pasó a otra cosa. Giró la rueda trasera con una mano y la escuchó, con la cabeza ladeada, como se escucha a alguien que habla bajo. Le tomó menos de lo que Kal había tardado el viernes en encontrar la llave del tamaño correcto.
+
+—La cadena, bien —dijo—. El freno de atrás, no. Ya le queda puro metal.
+
+Kal se agachó a su lado. Le quedaba puro metal.
+
+Danny llegó a las siete y veinte con dos cafés de la máquina de la esquina y los ojos chiquitos de no haber dormido. Vio a la muchacha junto a la moto y se detuvo en seco, un paso adentro de la cortina. Después siguió caminando. Dejó uno de los cafés sobre el banco de trabajo, el que era para Kal, y se fue directo a la fosa sin decir buenos días.
+
+Kal se dio cuenta de que Danny no la había vuelto a mirar. Danny miraba dos veces a todo el mundo.
+
+No preguntó eso tampoco.
+
+—El sueldo es por semana —le dijo a ella—. Si rompes algo, lo pagas. Si alguien te pregunta qué haces aquí, trabajas aquí.
+
+—Está bien.
+
+—¿Cómo te llamas?
+
+—Meiko.
+
+Esa tarde, cuando ya no quedaba nadie, ella tocó el marco de la puerta de la oficina con los nudillos.
+
+—¿Me puedo quedar aquí? Nada más esta semana.
+
+Kal miró el sillón donde Nadir había dormido con las botas puestas. Miró el Camaro, que seguía en la banqueta con su cilindro enfermo.
+
+—Hay una manta en el armario —dijo.
+
+A la mañana siguiente la luz de la oficina seguía prendida. Ella ya estaba en el patio, barriendo una mancha de aceite que no era suya, y Kal apagó el interruptor al pasar, sin comentar nada.
 
 ***
 

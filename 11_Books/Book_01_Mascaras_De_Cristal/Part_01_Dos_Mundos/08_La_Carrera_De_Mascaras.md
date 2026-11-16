@@ -11,6 +11,7 @@ Funcion: ejecutar H9 -- Kal saca a Chiara de su zona de confort y le presta una 
 Separacion 2026-10-23 (decision del autor): el capitulo termina en la carcajada de la carrera; la persecucion con Collins y el resto de la noche (escaner, Milla, Plaza Corona, Canal Seco, patio de vias, regreso al Monarch, la Colombina en el asiento, "quiero repetirla") pasan al Cap. 11, *Una pésima idea* (archivo 08b). La Funcion de arriba describe H9 completo, repartido entre los dos.
 Cobro del corral (2026-11-04, DISEÑO; sustituye el cobro de la ruleta del 2026-11-03): tras "Madonna, Kal", Chiara calla la paja y a Danny en el caballo; cobra "A Kal ni una palabra" del final del Cap. 8. "Danny contar vacas" (linea 95) le explica a ella "una vaca no cuenta". Danny ya rompio el secreto o lo rompera: Cap. 11.
 Mascara negra (2026-11-05, decision del autor; capitulo TERMINADO, el estado se conserva; prosa DISENO): en La Tramoya, "¿Y el malvavisco?" / "Te toca escoger". Kal deja el malvavisco para no dejar sola a Chiara.
+La Zen Devil (2026-11-15, CANON DEL AUTOR: Meiko corre para los Devil Splicers como «la Zen Devil», en un Camaro del 67, con máscara de diablo blanca lisa, y termina segunda; capítulo TERMINADO, el estado se conserva; prosa DISEÑO, pendiente de lectura): cuatro inserciones (el Camaro aparte en la grava; Tyler la nombra, «Ésa sí se acuerda del guardaganado»; el Camaro en la primera fila, «el que salió derecho»; sus luces traseras despegándose en la recta). Chiara se queda con el coche y con la máscara, no con la cara; no hay nombre. El resultado («segunda en Kingsley») se dice en el Cap. 22 (archivo 24b). Arco: [[11_Books/00_Arco_Meiko_Nakano]].
 -->
 
 # Capítulo 9 — Mandorla
@@ -213,6 +214,8 @@ Se bajaron. El aire olía a combustible quemado y a hierba seca. Alguien acelera
 
 Chiara hizo lo que sabía hacer en cualquier sala nueva: buscar quién mandaba. No lo encontró. En una junta del Monarch le habría bastado un minuto para ordenar la mesa por peso; aquí las jerarquías no se leían igual — el que importaba podía ser el del coche más feo, o el que no hablaba con nadie, o el chico de la sudadera que iba de grupo en grupo sin quedarse en ninguno.
 
+Había un coche al que nadie se acercaba. Un Camaro viejo, negro salvo por una puerta en gris de primer, estacionado un poco aparte, con el cofre cerrado, como si no tuviera nada que enseñarle a nadie. Recargada en la defensa, una figura delgada con chaqueta negra ya llevaba puesta la máscara: un diablo blanco, liso, sin ceño ni boca dibujada, con dos cuernos cortos que asomaban entre dos chongos de pelo oscuro. No saludaba. La gente que pasaba junto al Camaro le dejaba un metro más del que hacía falta.
+
 Kal no se apartó. No la llevó del brazo por el estacionamiento como un premio ni la dejó sola contra el coche. Se quedó a su lado, con la bolsa de papel bajo el brazo, saludando a la gente que había que saludar sin soltar la conversación que estaba teniendo con ella.
 
 El de la sudadera resultó ser el que importaba. Llegó caminando, joven — de esos que parecen tener siempre sueño, tres conversaciones a medias y una salida trasera ya pensada—, y miró el Peugeot antes de mirar a Kal.
@@ -235,7 +238,13 @@ Tyler asintió, sin pedir más, satisfecho con lo poco que le habían dado.
 
 Kal la miró un segundo de más. No dijo nada — pero algo en la comisura de la boca se le movió, el principio de una sonrisa que no llegó a completarse.
 
-—¿Salida por dónde? —le preguntó a Tyler.
+—¿Quién abre? —preguntó Kal.
+
+—Los de O.R.T. —Tyler movió la barbilla hacia el Camaro sin voltear—. La Zen Devil, en el sesenta y siete. Ésa sí se acuerda del guardaganado.
+
+Chiara volvió a mirar la máscara blanca. Seguía en el mismo sitio, sin gesto, y durante un segundo le pareció que también ella los estaba mirando a ellos.
+
+—¿Salida por dónde? —le preguntó Kal a Tyler.
 
 —Como siempre. —Tyler dibujó la ruta en el aire con el índice, un trazo largo y una curva al final, sin decir una sola calle en voz alta—. Y si aparecen luces, cada quien por su lado. No me esperen.
 
@@ -247,7 +256,7 @@ Nadie abrió la mano hacia ella como hacia un florero.
 
 Se subieron al coche. Chiara se abrochó el cinturón y sacó la Colombina de la bolsa; olía a plástico nuevo y a cartón. Se la ató detrás de la cabeza, tanteando el nudo sin espejo. A su lado, Kal ya se había puesto la suya — la cara negra sin gesto, mirando al frente, y por un segundo, con esa cosa puesta, fue un desconocido.
 
-Los alinearon en la carretera de a cuatro por hilera. Chiara contó tres filas por delante. Un tipo se paró en el asfalto con los brazos en alto, los bajó de golpe, y la hilera de adelante salió con un rugido que se sintió en el esternón.
+Los alinearon en la carretera de a cuatro por hilera. Chiara contó tres filas por delante. En la primera, a la izquierda, estaba el Camaro de la puerta gris. Un tipo se paró en el asfalto con los brazos en alto, los bajó de golpe, y la hilera de adelante salió con un rugido que se sintió en el esternón. El Camaro no fue el que más rugió. Fue el que salió derecho.
 
 Después les tocó a ellos.
 
@@ -259,7 +268,7 @@ Chiara hizo, al principio, lo que hacía siempre: observar, anticipar, calcular.
 
 Lo había visto antes de que ella terminara la frase. El volante se movió un dedo, nada más, y el hueco contra la reja dejó de existir.
 
-Iban a ciento cuarenta. La reja pasaba por la ventanilla como un solo trazo continuo.
+Iban a ciento cuarenta. La reja pasaba por la ventanilla como un solo trazo continuo. Muy adelante, dos luces traseras se despegaban del resto sin un solo coletazo; al pasar bajo la única lámpara de la recta, Chiara alcanzó a ver una puerta de otro color.
 
 Primero se le tensaron las manos sobre las rodillas. Después, cuando el tanque de agua se les vino encima demasiado rápido, se oyó decir su nombre — corto, seco, "Kal" — y el guardaganado nuevo pasó bajo el coche como un redoble y no como un choque, porque él ya sabía que estaba ahí. Después le dijo, en italiano, que esto era una locura, que rallentara, que nadie en su sano juicio tomaba una curva así.
 

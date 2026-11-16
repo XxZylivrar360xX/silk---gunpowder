@@ -67,10 +67,10 @@
     "08_La_Carrera_De_Mascaras.md": {
       "capitulo": 9,
       "titulo": "Mandorla",
-      "estado": "AL DIA",
-      "motivo": "",
+      "estado": "PENDIENTE",
+      "motivo": "cambió la prosa",
       "audio": "2026-11-10",
-      "desde": "2026-11-10 02:59"
+      "desde": "2026-11-15 23:10"
     },
     "08b_La_Sargenta.md": {
       "capitulo": 10,
@@ -171,10 +171,10 @@
     "24b_Lo_Que_Cueste.md": {
       "capitulo": 22,
       "titulo": "Lo que cueste",
-      "estado": "AL DIA",
-      "motivo": "",
+      "estado": "PENDIENTE",
+      "motivo": "cambió la prosa",
       "audio": "2026-11-08",
-      "desde": "2026-11-08 23:17"
+      "desde": "2026-11-15 23:10"
     },
     "24c_El_Corral.md": {
       "capitulo": 23,
@@ -187,10 +187,10 @@
     "24d_Vienes_Conmigo.md": {
       "capitulo": 24,
       "titulo": "Vienes conmigo",
-      "estado": "AL DIA",
-      "motivo": "",
+      "estado": "PENDIENTE",
+      "motivo": "cambió la prosa",
       "audio": "2026-11-08",
-      "desde": "2026-11-08 23:17"
+      "desde": "2026-11-15 23:10"
     },
     "25_Libros_Abiertos.md": {
       "capitulo": 25,
@@ -227,26 +227,26 @@
     "31_Vamos_A_Casa.md": {
       "capitulo": 29,
       "titulo": "Vamos a casa",
-      "estado": "AL DIA",
-      "motivo": "",
+      "estado": "PENDIENTE",
+      "motivo": "cambió la prosa",
       "audio": "2026-11-10",
-      "desde": "2026-11-09 23:09"
+      "desde": "2026-11-15 23:10"
     },
     "32_Linea_Directa.md": {
       "capitulo": 30,
       "titulo": "Línea directa",
-      "estado": "AL DIA",
-      "motivo": "",
+      "estado": "PENDIENTE",
+      "motivo": "cambió la prosa",
       "audio": "2026-11-08",
-      "desde": "2026-11-08 18:14"
+      "desde": "2026-11-15 23:10"
     },
     "33_Mas_De_La_Cuenta.md": {
       "capitulo": 31,
       "titulo": "Lo único que es mío",
-      "estado": "AL DIA",
-      "motivo": "",
+      "estado": "PENDIENTE",
+      "motivo": "cambió la prosa",
       "audio": "2026-11-08",
-      "desde": "2026-11-08 23:17"
+      "desde": "2026-11-15 23:10"
     },
     "34_Mi_Pareja.md": {
       "capitulo": 32,
@@ -4341,6 +4341,36 @@
     [
       "2026-11-15 22:14",
       "Cap. 46 (50_A_Oscuras.md)",
+      "audio pendiente: cambió la prosa"
+    ],
+    [
+      "2026-11-15 23:10",
+      "Cap. 9 (08_La_Carrera_De_Mascaras.md)",
+      "audio pendiente: cambió la prosa"
+    ],
+    [
+      "2026-11-15 23:10",
+      "Cap. 22 (24b_Lo_Que_Cueste.md)",
+      "audio pendiente: cambió la prosa"
+    ],
+    [
+      "2026-11-15 23:10",
+      "Cap. 24 (24d_Vienes_Conmigo.md)",
+      "audio pendiente: cambió la prosa"
+    ],
+    [
+      "2026-11-15 23:10",
+      "Cap. 29 (31_Vamos_A_Casa.md)",
+      "audio pendiente: cambió la prosa"
+    ],
+    [
+      "2026-11-15 23:10",
+      "Cap. 30 (32_Linea_Directa.md)",
+      "audio pendiente: cambió la prosa"
+    ],
+    [
+      "2026-11-15 23:10",
+      "Cap. 31 (33_Mas_De_La_Cuenta.md)",
       "audio pendiente: cambió la prosa"
     ]
   ]

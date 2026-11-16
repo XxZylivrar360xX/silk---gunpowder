@@ -44,6 +44,7 @@ Continuidad:
 - Documentos que quedarán desactualizados por este capítulo y que NO se tocan aquí (reportar, no ejecutar): [[02_Characters/Marisol_Grayson]] y [[02_Characters/Kenji_Oda]] (sección "relación fuera de foco" — este capítulo ya es el primer sembrado concreto del acercamiento en Libro I, falta anotarlo con referencia al Cap. 33); [[03_Factions/Red_Civil_de_Chiara]] (Kenji ya actúa aquí más allá de la caja/i Sussurri clásico, observando entorno por encargo directo); [[06_Relationships/Hitos]] (falta un hito o sub-hito para este capítulo, título de trabajo "La periferia"; hoy está en la Parte II, no en la apertura de la Parte III).
 **Pago de la ciabatta (2026-10-03, CANON DEL AUTOR):** el intercambio del pan ("Te pedí ciabatta." … "Yo sí.") se repite literal en la cena de Stavanger ([[11_Books/Book_02_Sombras_De_Poder/Part_04_Torna_A_Casa/Ya_Llego]], *Sombras de Poder*), y Kal lo cobra en la propuesta: "Ya llegó, y resultó ser la mujer que me regaña por llevar el pan equivocado que me encargó." No tocar estas réplicas sin revisar el pago.
 **Beat del cuadro (2026-10-02, CANON DEL AUTOR: gesto cotidiano, silencioso, con moño, sin exposición; prosa DISEÑO del agente, pendiente de lectura):** abre el capítulo en el penthouse, antes del Monarch. Paga la foto que Héctor toma sin avisar en el Cap. 31; vuelve en el Cap. 50. Kal durmió en el penthouse esa noche (confirmado por el autor 2026-10-02). Ver [[11_Books/Book_01_Mascaras_De_Cristal/00_Plan_Arco_Final_Sin_Kal]].
+CALIFICACIÓN DE VALET (2026-11-15, CANON DEL AUTOR: las calificaciones de valet con Chiara; prosa DISEÑO, espera lectura): escena nueva antes del loft. En la rampa, Meiko (valet de Chiara desde el cap. 29) tiene el Lancia esperando; un consejero de la mesa directiva le lanza las llaves al pecho: «Propina de veinte. Trato de dos.» / «Yo le doy uno.» / «Usted lo conoce más.» Primera calificación. Arco: [[11_Books/00_Arco_Meiko_Nakano]].
 -->
 
 # Capítulo 31 — Lo único que es mío
@@ -263,6 +264,18 @@ La bolsa seguía contra el cristal, donde la había dejado. La levantó y la lle
 De todo lo que había allá abajo, era lo único que había sido suyo.
 
 ***
+
+En la rampa de la entrada, Meiko ya tenía el Lancia esperando con el motor prendido, la camisa blanca de la noche metida en un pantalón negro y una gorra que no era de la contratista. Un hombre de traje le había lanzado las llaves de un BMW al pecho sin mirarla y se había ido hacia la puerta giratoria, hablando por teléfono.
+
+Meiko las atrapó contra la camisa. Esperó a que Chiara estuviera lo bastante cerca.
+
+—Propina de veinte —dijo, sin bajar la voz ni subirla—. Trato de dos.
+
+Chiara siguió con la vista la espalda del traje, que ya entraba al lobby. Lo conocía: un consejero de la mesa directiva que en las juntas la saludaba de beso.
+
+—Yo le doy uno.
+
+—Usted lo conoce más. —Meiko le sostuvo la puerta del Lancia—. Buenas noches, señora.
 
 Volvió al loft ya de noche, con el cansancio ordinario de un día ordinario encima, algo que después de la semana que habían tenido se sentía casi como un lujo. Dejó el bolso sobre la barra, junto a un par de sandalias suyas que llevaban ahí tiradas desde la noche anterior y que nadie se había molestado en mover, se quitó la chaqueta y la colgó sobre el respaldo de una silla donde ya colgaba otra.
 

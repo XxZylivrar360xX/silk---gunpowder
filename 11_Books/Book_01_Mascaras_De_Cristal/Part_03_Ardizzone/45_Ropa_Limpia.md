@@ -24,6 +24,7 @@ Función: "Su red". Chiara pasa de la vía institucional (nuevo 40) a la suya: i
 - No se nombra Halbrook, el expediente ni la incursión. Chiara evita el loft (va del Monarch a Kingsley y vuelve al Monarch).
 - Sin EPUB, commit ni push.
 - Regla de diálogo 05 (2026-10-28, DISEÑO, espera lectura): cortes de eco y turnos perdidos; [[98_Agent_Handoff/sessions/2026-10-28_claude_regla05_ropa_limpia_cap51]].
+MEIKO, ENTRADA TEMPRANA (2026-11-15, DECISIÓN DEL AUTOR: camino A; prosa DISEÑO, espera lectura): Chiara ya conoce a Meiko (su valet desde el cap. 29; en el lago supo que era la del Camaro de Kingsley). «Ella es Meiko» → «Traje a Meiko»; «La vi en el yate» → «Ya lo sé», que cobra el «Usted es la del Camaro. En Kingsley.» del cap. 29. Arco: [[11_Books/00_Arco_Meiko_Nakano]].
 -->
 
 # Capítulo 41 — Ropa limpia
@@ -270,9 +271,9 @@ El 28 Mabel no movió la cabeza. Puso la taza en la barra, se limpió las manos 
 
 Bonnie llegó al despacho esa noche a las once, y no llegó sola.
 
-—Ella es Meiko —dijo, desde la puerta—. Conoce Kingsley mejor que yo.
+—Traje a Meiko —dijo, desde la puerta—. Conoce Kingsley mejor que yo.
 
-—La vi en el yate —dijo Chiara.
+—Ya lo sé —dijo Chiara.
 
 Meiko asintió una vez. No se sentó. Caminó hasta el ventanal que daba al piso de juego y se quedó ahí, mirando las mesas desde arriba, con las manos en los bolsillos de una chaqueta de nailon que no era de su talla.
 
