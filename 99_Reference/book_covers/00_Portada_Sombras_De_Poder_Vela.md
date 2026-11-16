@@ -65,5 +65,5 @@ Las mismas de [[99_Reference/book_covers/00_Portada_Mascaras_De_Cristal_Colombin
 
 ## Pendiente
 
-- El autor aprueba la v1 o pide ajustes. La copia de lectura del Libro II (`tools/build_sombras.py`) no lleva portada; cuando la lleve, usar la v1 aprobada.
+- El autor aprueba la v1 o pide ajustes. Al aprobarla, apuntar `COVER` de `tools/build_sombras.py` (hoy, la portada del ajedrez en el EPUB de lectura) a la v1 y renombrar la vieja como retirada.
 - Escalado por IA de la base antes de la versión impresa.
