@@ -43,7 +43,7 @@
 | Menú de Palermo más los tamales de Mabel. | **Un platillo por persona** más los de Palermo, el *buccellato* de Marta y los tamales de Mabel (§4). |
 | La arancina: Chiara le pega en la mano con la cuchara de palo. | El golpe se queda, con una línea nueva: «La tuya es otra». Se cobra con la hamburguesa (§3). |
 | No hay escena a solas en la Villa. | Hamburguesa y malteada en el piso, el cinturón y el beso (§3). |
-| No hay amigo secreto. | Sorteo el 23 e intercambio el 24 a las 21:30 (§5). |
+| No hay amigo secreto. | Sorteo hacia el 10 de diciembre, recordatorio el 23 e intercambio el 24 a las 21:30 (§5). |
 | No hay Rocco ni Nat. | Rocco con moño. Nat de paso (§6). |
 
 ## 2. Línea de tiempo
@@ -51,10 +51,11 @@
 | Hora | Dónde | Qué pasa |
 |---|---|---|
 | *Semanas antes* | Por todas partes | Chiara hace las preguntas disfrazadas (§4). No va en escena: se descubre en la cena. Como mucho, un recuerdo de Kal de cuando le preguntó a él. |
+| *~10 dic* | Taller | **El sorteo del amigo secreto** (§5). Fuera de cuadro o en una línea de recuerdo. |
 | *21–22 dic* | Villa | Chiara cocina lo que aguanta: la masa de los *cuccidati* y del *buccellato*, la caponata y los fondos. |
 | **23 dic, 18:00** | Taller | La petición: «Tú no organizas. Tú cargas». Como está. |
 | 22:00–03:00 | Taller | El decorado. Como está. |
-| **03:10** | Taller | El sorteo del amigo secreto (§5), y después «Mercer. Llévatela». |
+| **03:10** | Taller | Danny recuerda el tope y Kal confiesa que no ha comprado nada (§5). Después, «Mercer. Llévatela». |
 | **24 dic, mañana** | Taller | Kal hace la guardia y llegan las camisas. Danny reparte por teléfono los papeles que faltan. |
 | 15:30 | Villa | «¡Mujer, ya llegó el hombre de la casa!». La cocina con Bonnie, Harper y Marisol. La arancina: «La tuya es otra». |
 | **16:30** | Villa | Llega el catering. A Kal le quitan la carga (§3). |
@@ -135,23 +136,24 @@
 **Para qué sirve.** Es la única forma de regalo que Kal entiende: todos dan, todos reciben y la cuenta cierra. Por eso acepta lo de Meiko sin incomodidad. A las 00:30 el collar le pesa justo porque no hubo papel en el casco con el nombre de ella. No se explica nunca.
 
 **Mecánica.**
-- **El sorteo, 23 dic a las 03:10:** lo decreta Danny («Es ley») y los papeles salen del casco de soldar de Héctor.
+- **El sorteo, hacia el 10 dic:** lo decreta Danny en el taller («Es ley») y los papeles salen del casco de soldar de Héctor. Tiene que ser unas dos semanas antes porque el bolígrafo y el dije se mandan grabar. Fuera de cuadro; en el 20 basta una línea de recuerdo.
+- **El 23 a las 03:10:** Danny recuerda el tope. Kal admite que no ha comprado nada y compra el termo el 24 en la mañana, entre guardia y guardia.
 - **El tope:** Nadir fija veinte dólares. «Garrett. Veinte quiere decir veinte.»
 - **Chiara entra:** «Usted también», como con las camisas.
 - **Lo único amañado:** Danny saca antes a Kal y a Chiara para que no se toquen entre ellos: «Eso no es secreto, es matrimonio».
-- **Los que faltan** reciben su papel de Danny por teléfono el 24. Danny sabe todos los pares y los va soltando sin querer. El único que guarda es el de Meiko, porque ella se lo hizo jurar.
+- **Los que faltan** reciben su papel de Danny por teléfono ese mismo día. Danny sabe todos los pares y los va soltando sin querer. El único que guarda es el de Meiko, porque ella se lo hizo jurar.
 - **El intercambio, 24 dic a las 21:30, antes de la lotería:** cada quien da una pista y los demás adivinan. Participan dieciséis personas; el turno de la tarde juega la lotería.
 
 ### Los pares
 
 | Da | Recibe | Regalo | Qué cambia o muestra | Origen |
 |---|---|---|---|---|
-| **Meiko** | **Kal** | Un aromatizante de pino para la grúa grande, con un ticket de valet del Monarch como tarjeta y JEFE escrito a mano. «Para la grande. Huele a Héctor.» Héctor: «Huele a trabajo». | Kal lo cuelga en el espejo de la grúa grande esa misma noche. Es ligero y cuesta poco, porque Meiko no tiene dinero. Es la siembra del «jefe». **Cuidado:** no volver a usar el pino en los caps. 36–39 sin decisión del autor. | Par del autor. El regalo es DISEÑO. |
-| **Kal** | **Héctor** | Un termo de acero, porque el de Héctor tiene veinte años y gotea. | «Éste no gotea.» «No.» «El otro tampoco goteaba.» Héctor se queda con los dos. Es el lazo de padre en antífona, sin decirlo. | Par del autor. El regalo es DISEÑO. |
-| **Nadir** | **Chiara** | Una calculadora de bolsillo con el ticket pegado. «Para la próxima ferretería.» | Es la cuenta de las luces del 23 («Te robaron»). Chiara: «Lo sé». La relación entre Nadir y Chiara, que chocó en el Libro I por el pago, se arregla en broma. | Par del autor. El regalo es DISEÑO. |
-| **Chiara** | **Marisol** | **Un bolígrafo grabado con «Grayson».** | Marisol estudia derecho y va a firmar como penalista, después como fiscal y al final como fiscal de distrito. Chiara le da el apellido como firma, que en ella es un gesto mayor (ver su regla del papel propio). La ironía de largo plazo no se señala. **Ojo:** es otro objeto grabado de Chiara en la misma noche que el collar. Se da en público, con el nombre y no con una frase; el collar sigue siendo el único con frase. | DECISIÓN DEL AUTOR |
-| **Marisol** | **Bonnie** | Un cochecito de metal a escala, como el de Bonnie, con una tarjeta a mano: «Abogada (casi). Si te detienen, llámame antes que a nadie». | Bonnie es corredora callejera. Es la incubación mínima y sin nombre de [[06_Relationships/Bonnie_y_Marisol]]: Bonnie se guarda la tarjeta y nadie lo nota. | Par del autor. El regalo es DISEÑO. |
-| **Walt** | **Meiko** | Unos guantes de manejo de piel, viejos y aceitados. | Le quedan. Es eco discreto de la «Zen Devil». Como el pino, no se reutiliza en los caps. 36–39 sin decisión del autor. | DISEÑO |
+| **Meiko** | **Kal** | **Un llavero con una bola 8** (DECISIÓN DEL AUTOR), por la partida de pool que ella casi gana y perdió al meter la 8 en la tronera equivocada. «Para que se acuerde de que casi le gano, jefe.» Kal lo pone en las llaves de la grúa grande. | Ver §5b. | DECISIÓN DEL AUTOR |
+| **Kal** | **Héctor** | **Un termo de acero**, porque el de Héctor tiene veinte años y gotea. «Éste no gotea.» «No.» «El otro tampoco goteaba.» Héctor lo guarda sin estrenar (DECISIÓN DEL AUTOR). | Ver §5b. | DECISIÓN DEL AUTOR |
+| **Nadir** | **Chiara** | **Una carta** (DECISIÓN DEL AUTOR), escrita a mano y sin precio. | Ver §5b. | DECISIÓN DEL AUTOR |
+| **Chiara** | **Marisol** | **Un bolígrafo grabado con «Grayson»**, que se da en público y rápido. | Ver §5b. | DECISIÓN DEL AUTOR |
+| **Marisol** | **Bonnie** | **Un dije con el nombre «Bonnie»** (DECISIÓN DEL AUTOR), que Chiara le ayudó a mandar a hacer. | Ver §5b. | DECISIÓN DEL AUTOR |
+| **Walt** | **Meiko** | Unos guantes de manejo de piel, viejos y aceitados. | Le quedan. Es eco discreto de la «Zen Devil». Como la bola 8, no se reutiliza en los caps. 36–39 sin decisión del autor. | DISEÑO |
 | **Harper** | **Danny** | Una gorra acolchada de mecánico, porque el 23 se pegó con el capó. | Danny se la pone toda la noche, y también en la foto. | DISEÑO |
 | **Héctor** | **Harper** | Unos guantes de trabajo de piel. | Harper trabaja sin guantes; también los trae sin guantes en el 23. Se los pone y asiente una vez. | DISEÑO |
 | **Danny** | **Nadir** | Un cochinito alcancía con una moneda adentro, «para que ahorres lo que te roban». | Nadir saca la moneda y la cuenta. | DISEÑO |
@@ -160,10 +162,51 @@
 | **Tyler** | **Ren** | Una cinta métrica nueva. | Ren la mide: «Le falta un milímetro». La guarda. | DISEÑO |
 | **Ren** | **Mabel** | Una baraja de lotería nueva, con el recibo de \$20.00 pegado. | Mabel dice que la vieja es mejor y se queda con las dos. | DISEÑO |
 | **Mabel** | **Garrett** | Una corbata navideña, «para que se quite la otra cuando venga aquí». | Garrett se cambia la corbata en la mesa. | DISEÑO |
-| **Garrett** | **Russ** | Una bufanda de cachemir que rompe el tope a la vista. | Nadir protesta. Garrett: «Es de veinte. De veinte por ciento». | DISEÑO |
+| **Garrett** | **Russ** | Una bufanda de cachemir que rompe el tope a la vista. | Una línea de montaje: Nadir ya protestó por el dije. | DISEÑO |
 | **Russ** | **Kenji** | Un libro de bolsillo, uno de los suyos, usado. | Va en el montaje. | DISEÑO |
 
-En la página van **cinco o seis pares**: Meiko a Kal, Kal a Héctor, Nadir a Chiara, Chiara a Marisol, Marisol a Bonnie y, si cabe, Garrett. El resto se cuenta en un párrafo de montaje.
+### 5b. Estudio de los pares del autor: ecos a largo plazo
+
+> El autor eligió estos cinco pares por lo que van a pagar en la saga, no por la noche misma. Cada regalo es chico y se olvida en la primera lectura, pero cobra en la relectura. Los ecos de abajo son **DISEÑO**: posibilidades que el regalo deja abiertas y que no fijan canon. Donde tocan una escena PENDIENTE del autor se dice.
+
+**Meiko → Kal: el llavero de la bola 8 (DECISIÓN DEL AUTOR)**
+- **El origen:** una partida de pool entre Kal y Meiko, antes de Navidad. Ella iba ganando, cantó la 8 y la metió en la tronera equivocada, así que perdió. «Se ahogó en una tronera equivocada.» **Hoy no existe en prosa**, hay que sembrarla (pregunta abierta). El lugar natural es el billar de atrás del Monarch del Libro I (cap. 16, archivo 17), donde Danny «la conoce de vista» y la cubre.
+- **Lo que carga:** la jugada buena con la decisión equivocada al final. Así es F2: Meiko filtra a Varek para salvarse y defiende la regla que la mata («Por el hospital no. Los ata.»). La bola no lo dice; se nota en la relectura.
+- **Las llaves:** Kal cuelga la bola 8 en las llaves de la grúa grande. Es eco discreto de su oficio de valet («Nadie mira a la que le recibe las llaves», 37).
+- **Ecos:** en el 36, «Hasta mañana, jefe»; en el 38, «Perdóname, jefe»; y el canon «era de los míos». Si Kal la quita después de F2 o no es PENDIENTE DEL AUTOR. Recomiendo que no la quite: es «era de los míos» hecho objeto.
+- **Sin presagio en la primera lectura:** es una broma entre dos que jugaron una partida.
+- **Regla de Kal:** la bola 8 no es metal grabado, y se acepta porque es un intercambio.
+
+**Kal → Héctor: el termo (DECISIÓN DEL AUTOR: lo guarda sin estrenar)**
+- **Lo que carga:** «El otro tampoco goteaba». Héctor es fiel a lo viejo, y lo viejo es él.
+- **Héctor** sigue usando el termo viejo y guarda el nuevo en su caja, en el casillero, «para cuando se acabe el otro».
+- **Eco en el III:** Héctor muere en la montaña después de H22 (la causa y la posición son PENDIENTE DEL AUTOR; esto no las fija). Kal encuentra el termo nuevo sin estrenar: Héctor guardaba lo nuevo para cuando se acabara lo viejo, y se acabó él primero. Lo que Kal haga con él (usarlo o dárselo a Nat, que Héctor crió) queda abierto.
+
+**Nadir → Chiara: la carta (DECISIÓN DEL AUTOR)**
+- **Lo que carga:** el hombre que le saca precio a todo regala lo único que no tiene precio. Con el tope de veinte dólares que él mismo impuso, su regalo cuesta cero. Nadir desconfió de Chiara antes de conocerla (canon). La grieta empezó cuando vio cómo lo mira ella cuando Kal no la ve (canon de 2026-10-17). La carta es esa grieta por escrito.
+- **En escena (POV Kal):** Kal no lee la carta. Ve a Chiara leerla aparte, de pie junto al sedán colgado, y doblarla. La guarda en el bolsillo de la camisa de cuadros, junto a la moneda de Mabel. No le dice nada a Nadir. Más tarde le sirve ponche sin preguntarle. Nadir no la mira.
+- **El papel:** es una hoja de cuaderno de cuentas, rayada en columnas. Chiara, que sólo escribe en papel propio, recibe una carta en el papel de Nadir.
+- **Contenido (DISEÑO, por aprobar; no se revela en el 20):** que la juzgó antes de conocerla; que vio cómo lo mira; y una sola petición, en su idioma de cuentas: **que con Kal las cuentas sean claras**, sin esconderle nada.
+- **Ironía de largo plazo:** Chiara ya le paga a Varek en secreto desde mayo (la libreta negra del 53). En el III, Kal y ella invierten en el Caldero sin decírselo a Nadir, y en el IV él lo descubre solo, lo cual alimenta su separación. Chiara rompe lo único que Nadir le pidió.
+- **Cobro (PENDIENTE DEL AUTOR):** propuesta: el lector lee la carta cuando Nadir se separa en el IV, porque Chiara la relee. Alternativa: que nunca se revele.
+
+**Chiara → Marisol: el bolígrafo «Grayson»**
+- **Lo que carga:** Grayson es el apellido de Michael, el amigo del ejército de Kal que murió de cáncer y dejó a Marisol a su cargo. El hijo de Kal y Chiara llevará su nombre.
+- **Beat de Kal:** en su POV, lee el grabado y piensa en Michael sin decirlo. Es el único momento de la noche en que aparece Michael.
+- **La línea posible de Chiara:** «Para que firmes con el tuyo.» Es su propia regla del papel propio («escribir en el papel de otro sería como firmar con el apellido de otro»), y viene de una mujer cuyo apellido no es del todo suyo. No se glosa.
+- **Eco de largo plazo:** Marisol firma como asistente, luego como penalista, luego como fiscal y al final como fiscal de distrito. Su distancia con Kal nace de su integridad de fiscal, porque sabe lo de Elenna. El instrumento de esa integridad se lo regaló Chiara. En el VI, la recusación de Marisol se puede firmar con ese bolígrafo (PENDIENTE DEL AUTOR).
+- **Riesgo:** es otro objeto grabado de Chiara la misma noche que el collar. Se resuelve dándolo en público, con un nombre y no con una frase.
+
+**Marisol → Bonnie: el dije «Bonnie» (DECISIÓN DEL AUTOR)**
+- **Lo que carga:** su nombre. Veinte años después, Bonnie será Roberta Ardizzone en lo público y «Bonnie» sólo en la intimidad. El dije guarda el nombre que sobrevive. Cobra cuando al fin estén juntas, en el VII.
+- **Chiara ayudó a mandarlo a hacer**, probablemente con el mismo joyero del collar. Marisol le da a Bonnie el nombre de la intimidad y, años después, Chiara la amadrina con el apellido Ardizzone. Los dos nombres de Bonnie vienen de esta mesa.
+- **La noche tiene un tema, sin decirlo:** nombres grabados. «Grayson» para Marisol, «Bonnie» para Bonnie y TORNA A CASA, la única frase, para Kal. Es la regla de la saga: cada uno hereda un nombre, no un poder.
+- **En escena (POV Kal):** Bonnie abre la cajita, lee su nombre y no dice nada, cosa rara en ella. Se lo pone ahí mismo. Marisol hace un chiste para que nadie lo note. Nadie lo nota, salvo Kenji, que sonríe sin entender por qué. **Kenji intacto**: no hay triángulo.
+- **Opción de relectura:** la cajita es negra y de bisagra, igual que la del collar. A las 00:30, Kal reconoce la caja.
+- **Ecos:** Bonnie se va a Boston con el dije después de F2; cría a Elenna con él puesto; en el V vuelve como Roberta Ardizzone, todavía con «Bonnie» al cuello.
+- **El tope:** el dije y el grabado pasan de veinte dólares. Nadir lo protesta. Marisol: «El grabado no cuenta». Sustituye el chiste de Garrett, que se queda en una línea de montaje.
+
+En la página van **los cinco pares del autor**: Meiko a Kal, Kal a Héctor, Nadir a Chiara, Chiara a Marisol y Marisol a Bonnie. El resto se cuenta en un párrafo de montaje.
 
 **Regla:** nadie le regala a Kal nada de metal ni nada grabado.
 
