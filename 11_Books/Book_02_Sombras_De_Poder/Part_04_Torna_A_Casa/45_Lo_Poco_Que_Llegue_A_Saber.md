@@ -16,7 +16,7 @@ personajes: Kal Mercer, Nadir Amrani, Chiara Bellandi; en las cartas, Dale Merce
 >
 > **DECISIONES DEL AUTOR en esta terminal (2026-11-16, «Todas recomendadas»):** las siete fechas (cuatro que Kal reconoce: el 1 de enero, la noche del arresto, la muerte de Ruth, el alistamiento; tres que no: el 15 de marzo, el 28 de agosto y la última, que entiende en la lápida); citas breves de las cartas y la séptima más larga; Kal no le pregunta a Walt; lo de Ingrid viva queda sin tocar; entrega por paquetería común; el cajón de la bodega; Kal no le dice a Chiara el nombre de Manfred; Dale sabe de una carta de Ingrid y que «contestó», sin decir qué; Kal se detiene antes del último párrafo y lo termina en la tumba; «Quiero ir» / fecha práctica; «llueve de lado»; «no le debas a nadie que sepa dónde duermes» y Crowe sin nombre; la rosa para Ruth y «Ya las leí.»; apertura con el residuo de la elipsis E. Detalle en [[98_Agent_Handoff/sessions/2026-11-16_claude_cap45_lo_poco_que_llegue_a_saber]].
 >
-> **PENDIENTE del autor (revisión del lote, 2026-11-16):** aquí Kal sigue pagándole a Crowe cada día 14 («Cada mes es más», «Él pregunta si vas tú»), pero la guía y las tarjetas de la Parte III dicen que deja de pagar en el 32 y que Crowe cobra desde entonces en daño. Si reanuda los pagos, el capítulo se queda y se ajustan la guía y las tarjetas; si no, se reescribe el «catorce». [[98_Agent_Handoff/sessions/2026-11-16_claude_lote1_integracion]]
+> **Resuelto (DECISIÓN DEL AUTOR, 2026-11-16, escenario 1):** Kal nunca deja de pagarle a Crowe; la entrega de cada día 14 de este capítulo se queda. Se ajustaron la guía y las tarjetas de las Partes II y III.
 >
 > **Guarda:** ninguna de las dos deudas (Crowe, Varek) se confiesa. Nada del anillo ni de la propuesta.
 

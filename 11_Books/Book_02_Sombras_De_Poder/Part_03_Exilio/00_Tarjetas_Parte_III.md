@@ -17,7 +17,7 @@
 **Continua, con un salto largo y uno corto** (regla 1): de mediados de febrero a junio A4. El bloque de los frenos es casi día a día (unas cuatro semanas); después viene el único salto de la Parte (~4–5 semanas, de fines de marzo a mediados de abril); F2 y su cola ocupan unas tres semanas, y un salto corto lleva a junio.
 
 **Los dos relojes de deuda cambian de moneda:**
-- **El de Kal se detiene, y por eso se vuelve guerra.** La séptima entrega a Crowe vencía la semana del choque y nadie la hizo (P17 de la Parte II). Kal no la paga porque Crowe es uno de sus escenarios. Desde aquí, Crowe deja de cobrar en pureza y empieza a cobrar en daño (P).
+- **El de Kal sigue corriendo (DECISIÓN DEL AUTOR, 2026-11-16, escenario 1).** La séptima entrega vence la semana del choque y Kal la paga, como todas, hasta la muerte de Crowe (55: «la había pagado puntual mes tras mes»). La guerra no nace de la deuda, sino de las noches en que Kal golpea a la gente de Crowe (T3), que Crowe cobra en daño: Kal le paga cada mes al hombre cuyos cobradores muele a golpes. *Antes (P): Kal dejaba de pagar y Crowe cobraba la deuda en daño.*
 - **El de Chiara sigue y crece.** Le pide a Dario un favor sobre su propio sabotaje (T2) y en mayo descubre que Meiko le pagaba al mismo hombre, por el mismo miedo (T9).
 
 **Motivo de la Parte (P): reglas que protegen y matan.** La regla de no decir (los dos callan su deuda en *Escenarios*), la de no ir al hospital desde una operación (mata a Meiko, C) y la del perdón (el hombre que Kal perdonó en el levantón la apuñala, P). La Parte II armaba la familia con regalos; la III la rompe con las reglas que la cuidaban.
@@ -27,10 +27,10 @@
 ## Bloque 1 · Los frenos (mediados de feb – fines de mar A4) · 5 tarjetas
 
 ### T1 · Vacío — días después del choque · Kal · Almendra Towing
-- **Trama:** llegan el Lancia y el Audi; Kal ve vacío el depósito del líquido de frenos: manipulado. La víctima fue Marisol, pero el objetivo era Chiara (C). **P:** esa semana vence la séptima entrega a Crowe, y Kal decide no pagarla «hasta saber». Es lo primero que hace con la furia: detener una deuda.
+- **Trama:** llegan el Lancia y el Audi; Kal ve vacío el depósito del líquido de frenos: manipulado. La víctima fue Marisol, pero el objetivo era Chiara (C). **DECISIÓN DEL AUTOR, 2026-11-16:** esa semana vence la séptima entrega a Crowe y Kal la paga, puntual, aunque Crowe es uno de sus escenarios: dejar de pagar sería confesar la cuenta. La furia se va a las noches (34). *Antes (P, superado por la DECISIÓN DEL AUTOR, 2026-11-16): no la pagaba «hasta saber».*
 - **Relación:** le dice a Chiara lo de los frenos esa misma noche (C: ella lo sabe y se lo cuenta a Tommaso). Por primera vez en el libro él le cuenta algo a tiempo. Lo que se guarda es el escenario que no puede decir sin confesar la cuenta: Crowe.
 - **Por eso:** *Escenarios*.
-- **Saldo:** el reloj de Crowe se para. El lector sabe que una deuda que no se paga no se cancela.
+- **Saldo:** el reloj de Crowe sigue corriendo: Kal le paga al hombre del que sospecha, y el lector lo sabe.
 
 ### T2 · Escenarios — fin de feb · Chiara · la Villa; la oficina de Dario; la cama vacía — **tic 6**
 - **Trama:** Chiara está convencida de que fue La Mesa; Kal no lo compra porque La Mesa sólo opera en San Aurelio si Varek lo permite (C). **P:** a la mañana siguiente Chiara va con Dario a preguntarle si La Mesa tuvo permiso. Dario no contesta. Dice que lo va a averiguar, y eso queda anotado en la cuenta. Esa noche Kal sale sin avisar; frente a la cama vacía, otra vez la vela tardía (C, tic 6).
@@ -46,7 +46,7 @@
 - **Saldo:** la frase existe y no llegó. Sin guiño del narrador (C).
 
 ### T4 · Primera plana — mar · Chiara · la redacción de *El Faro*
-- **Trama (P, columna):** Crowe cobra la deuda y las noches en daño: le queman una grúa a Almendra Towing y le dan una golpiza a un muchacho del Patio en una esquina del sur. Junto con los Calderos golpeados, *El Faro* lo tiene como nota de portada: «guerra en el sur». La fundación del benefactor da una declaración y el Ayuntamiento lo propone para una comisión de seguridad pública (Halbrook: benefactor → consultor, C).
+- **Trama (P, columna):** Crowe cobra las noches en daño (la deuda sigue al día; DECISIÓN DEL AUTOR, 2026-11-16): le queman una grúa a Almendra Towing y le dan una golpiza a un muchacho del Patio en una esquina del sur. Junto con los Calderos golpeados, *El Faro* lo tiene como nota de portada: «guerra en el sur». La fundación del benefactor da una declaración y el Ayuntamiento lo propone para una comisión de seguridad pública (Halbrook: benefactor → consultor, C).
 - **Relación:** **se entera por su periódico** de que Kal está en una guerra que no le contó: el motivo de la Parte I («se enteran el uno del otro por terceros») vuelve. No pregunta. Edita: saca a Almendra Towing de la nota y deja el marco de «bandas del sur». La cita de Halbrook se queda.
 - **Por eso:** su relato protege a Kal y, sin saberlo (D3), le da escenario al hombre de Crowe. Halbrook cosecha lo visible con la portada de ella.
 - **Saldo:** su firma bajo la comisión de Halbrook. Ella toma relato, y el relato también lo usan otros.

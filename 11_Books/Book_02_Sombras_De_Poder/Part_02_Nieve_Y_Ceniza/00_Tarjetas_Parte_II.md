@@ -140,7 +140,7 @@
 - **Trama:** Kal llega por preocupación y sufre el segundo ataque de pánico; Chiara se encierra con él en un armario de suministros médicos para calmarlo (C). Impotencia pura, no el hospital de H12 (C).
 - **Relación:** **el primer secreto de Kal que se rompe delante de ella.** No el de Crowe ni el de Halbrook: el del cuerpo. Ella no pregunta desde cuándo. Él no le dice que hubo un garaje.
 - **Por eso:** la Parte III: Kal busca al culpable.
-- **Saldo:** **FIN DE LA PARTE II.** La séptima entrega a Crowe vence esa semana, y nadie la hace.
+- **Saldo:** **FIN DE LA PARTE II.** La séptima entrega a Crowe vence esa semana, y Kal la hace, puntual, como todas (DECISIÓN DEL AUTOR, 2026-11-16: nunca deja de pagar).
 
 ---
 

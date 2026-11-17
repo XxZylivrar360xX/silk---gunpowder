@@ -148,7 +148,7 @@ Walt bajó el arma. Miró a Crowe en el suelo. No tenía ninguna cara que Kal le
 
 Lo dijo tranquilo, como se devuelve un cambio mal contado.
 
-Kal se quedó mirando a Crowe. Los ojos abiertos, la boca abierta en la mitad de una palabra. Tenía todavía la cabeza de malvavisco en la mano. Por un momento no sintió nada; después sintió la cuenta, la de cada mes, que acababa de cerrarse sola en el piso de concreto, y al mismo tiempo, debajo, la otra puerta, la del nombre, que se había cerrado con ella. Con el mismo tiro. Libre de una y sin la otra en el mismo segundo.
+Kal se quedó mirando a Crowe. Los ojos abiertos, la boca abierta en la mitad de una palabra. Tenía todavía la cabeza de malvavisco en la mano. Por un momento no sintió nada; después sintió la cuenta, la de cada mes, que acababa de cerrarse sola en el piso de concreto, y al mismo tiempo, debajo, la otra puerta, la del hombre del norte que había puesto la cifra, que se había cerrado con ella. Con el mismo tiro. Libre de una y sin la otra en el mismo segundo.
 
 —Walt.
 
@@ -236,7 +236,7 @@ Walt lo miró por primera vez en todo el día. Tenía los ojos rojos de lluvia o
 
 —No —dijo Kal.
 
-Walt asintió una vez. Volvió a tomar el trapo, aunque ya no tenía nada que secarse, y Kal entendió que eso era todo lo que iban a decirse ese día, y que lo otro, lo del nombre, lo del tiro, iba a seguir ahí en la mañana y en la mañana siguiente, entre los dos, con el banco en medio.
+Walt asintió una vez. Volvió a tomar el trapo, aunque ya no tenía nada que secarse, y Kal entendió que eso era todo lo que iban a decirse ese día, y que lo otro, el nombre que Crowe se había llevado, lo del tiro, iba a seguir ahí en la mañana y en la mañana siguiente, entre los dos, con el banco en medio.
 
 Se dio vuelta para irse. Y ahí estaba Héctor.
 

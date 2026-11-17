@@ -30,10 +30,15 @@ Guía (fichas 20, 23, 45, 52 y 53 marcadas; PENDIENTE del 23 resuelto: silencio)
 
 ## PENDIENTE del autor
 
-1. **Kal y los pagos a Crowe en la Parte IV.** El 45 lo tiene pagando cada día 14 en octubre A4; la guía y las tarjetas de la III dicen que deja de pagar en el 32 y Crowe cobra en daño, aunque la guía de la IV dice que la cuenta «muere con su acreedor». Marcado en la cabecera del 45. Si reanuda, se ajustan guía y tarjetas (y conviene mostrarlo en el 42 o el 43); si no, se reescribe el «catorce».
+1. ~~**Kal y los pagos a Crowe en la Parte IV.**~~ **Resuelto el 2026-11-17 (ver «Seguimiento»).** El 45 lo tiene pagando cada día 14 en octubre A4; la guía y las tarjetas de la III dicen que deja de pagar en el 32 y Crowe cobra en daño, aunque la guía de la IV dice que la cuenta «muere con su acreedor». Marcado en la cabecera del 45. Si reanuda, se ajustan guía y tarjetas (y conviene mostrarlo en el 42 o el 43); si no, se reescribe el «catorce».
 2. **Por confirmar:** la ironía del cuarto de seguridad (el 54 dice que Kal entró una sola vez; en el 53 entra esa mañana); la cuota de junio pagada tarde que da por hecha la libreta del 53 (P de la elipsis D); dónde se siembra a Nat (T4 propone el 41 y, de refuerzo, el 51).
 3. **Dependencias de capítulos sin redactar:** el 19 (garaje de atrás que da al callejón, el adelanto «para mi hermano», lo de Ruth), el 22 (la firma en Washington y el sobre de la fundación en la guantera).
 
 ## Para después (no hecho)
 
 Las listas «Para integrar» de las cuatro notas traen ajustes menores no aplicados: minucias DISEÑO en fichas de lugar (Casa Comunitaria, Almendra Towing, Iglesia Santa Lucía, La Villa, Cementerio Santa Lucía), Fe y Velas, la ficha de Meiko, las tarjetas P5–P11 y U6, U13–U14, el registro de huellas de Manfred y `--estado` del audiolibro (el del Libro II sigue bloqueado; ver PENDING).
+
+## Seguimiento (2026-11-17)
+
+- **DECISIÓN DEL AUTOR («Escenario 1»):** Kal **nunca deja de pagarle a Crowe**; la cuota mensual sigue hasta la muerte de Crowe, como ya decían el 45 y el 55. La guerra de la Parte III nace de las noches en que Kal golpea a la gente de Crowe, que Crowe cobra en daño, no de la deuda. Ajustados: guía (fichas 31, 32 y 35, cabecera de la Parte III), tarjetas de las Partes II (P17) y III (relojes, T1, T4), mapa de la Fase 3 (31 y 32, marcados como superados) y la cabecera del 45 (PENDIENTE cerrado).
+- **55, aclarado (a pedido del autor):** «la otra puerta, la del nombre» → «la del hombre del norte que había puesto la cifra»; «lo del nombre» → «el nombre que Crowe se había llevado». Stavanger le dio a Kal la madre; Crowe tenía la cadena (quién lo vendió). Los caps. 36–39 escritos no contradicen la variante.

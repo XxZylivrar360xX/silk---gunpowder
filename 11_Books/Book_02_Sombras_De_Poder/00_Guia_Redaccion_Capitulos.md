@@ -378,22 +378,22 @@ Calendario de dos años (5 ene A3 → dic A4), contado en bloques densos. Las el
 
 - **Función:** segunda llamada de atención, y esta vez Chiara lo ve. Kal llega por preocupación y sufre un ataque de pánico; Chiara se encierra con él en un armario de suministros médicos para calmarlo.
 - **Relación:** **el primer secreto de Kal que se rompe delante de ella.** No el de Crowe ni el de Halbrook: el del cuerpo. Ella no pregunta desde cuándo. Él no le dice que hubo un garaje.
-- **Saldo:** la séptima entrega a Crowe vence esa semana, y nadie la hace. **FIN DE LA PARTE II.**
+- **Saldo:** la séptima entrega a Crowe vence esa semana, y Kal la hace, puntual, como todas (DECISIÓN DEL AUTOR, 2026-11-16: nunca deja de pagar). **FIN DE LA PARTE II.**
 - **No hacer:** repetir el hospital de H12 (vigilancia y coartada). Aquí hay impotencia pura.
 
 ---
 
 ## Parte III — Exilio (32–40)
 
-*Rompe lo que la II volvió hogar. ¿Qué significa liderar cuando la decisión correcta destruye a tu propia gente? Es la Parte más corta: si necesita aire, la palanca natural es la extensión de la investigación nocturna (PENDIENTE del autor), no inventar trama. **Relojes:** el de Kal se detiene (no paga la séptima entrega) y se vuelve guerra; Crowe deja de cobrar en pureza y cobra en daño (P). El de Chiara crece y se descompone. **Fuentes:** [[06_Relationships/Momentos_de_Fractura#F2 - La muerte de Meiko y la salida de Bonnie|F2]] y [[06_Relationships/Momentos_de_Fractura#F3 - Los frenos|F3]] (CANON DEL AUTOR), [[02_Characters/Meiko_Nakano]] y [[02_Characters/Bonnie_Garcia]]. Lo retirado del F2 viejo (coartada, ejecución, destierro): [[97_Supersedido/F2_Ejecucion_Y_Destierro]].*
+*Rompe lo que la II volvió hogar. ¿Qué significa liderar cuando la decisión correcta destruye a tu propia gente? Es la Parte más corta: si necesita aire, la palanca natural es la extensión de la investigación nocturna (PENDIENTE del autor), no inventar trama. **Relojes:** el de Kal no se detiene: paga puntual cada mes hasta la muerte de Crowe, también mientras golpea de noche a su gente (DECISIÓN DEL AUTOR, 2026-11-16, escenario 1). Crowe cobra las noches en daño, no la deuda, y la guerra nace de ahí. El de Chiara crece y se descompone. **Fuentes:** [[06_Relationships/Momentos_de_Fractura#F2 - La muerte de Meiko y la salida de Bonnie|F2]] y [[06_Relationships/Momentos_de_Fractura#F3 - Los frenos|F3]] (CANON DEL AUTOR), [[02_Characters/Meiko_Nakano]] y [[02_Characters/Bonnie_Garcia]]. Lo retirado del F2 viejo (coartada, ejecución, destierro): [[97_Supersedido/F2_Ejecucion_Y_Destierro]].*
 
 ### Bloque 1 · Los frenos (mediados de feb – fin de mar A4)
 
 **32. Vacío** — días después del choque · Kal · Almendra Towing · *(39; III-T1)*
 
-- **Beats:** llegan el Lancia y el Audi; Kal ve vacío el depósito del líquido de frenos: manipulado. La víctima fue Marisol, pero el objetivo era Chiara. Es furia y combustible para su arco. **(P):** esa semana vence la séptima entrega a Crowe, y Kal decide no pagarla «hasta saber». Es lo primero que hace con la furia: detener una deuda.
+- **Beats:** llegan el Lancia y el Audi; Kal ve vacío el depósito del líquido de frenos: manipulado. La víctima fue Marisol, pero el objetivo era Chiara. Es furia y combustible para su arco. **(DECISIÓN DEL AUTOR, 2026-11-16):** esa semana vence la séptima entrega a Crowe y Kal la paga, puntual, aunque Crowe es uno de sus escenarios: dejar de pagar sería confesar la cuenta. La furia se va a las noches (34). *Antes (P, superado por la DECISIÓN DEL AUTOR, 2026-11-16): no la pagaba «hasta saber».*
 - **Relación:** le dice a Chiara lo de los frenos esa misma noche (C: ella lo sabe y se lo cuenta a Tommaso). Por primera vez en el libro le cuenta algo a tiempo. Lo que se guarda es el escenario que no puede decir sin confesar la cuenta: Crowe.
-- **Saldo:** el reloj de Crowe se para. El lector sabe que una deuda que no se paga no se cancela.
+- **Saldo:** el reloj de Crowe sigue corriendo: Kal le paga al hombre del que sospecha, y el lector lo sabe.
 
 **33. Escenarios** — fin de feb A4 · **Chiara** · la Villa; la oficina de Dario; la cama vacía · *(40 + la cama vacía del 41; III-T2)*
 
@@ -414,7 +414,7 @@ Calendario de dos años (5 ene A3 → dic A4), contado en bloques densos. Las el
 
 **35. El bastón** — mar A4 · Chiara · la redacción de *El Faro*; el hospital; el Monarch · *(*Primera plana* + 42; III-T4 + III-T5)*
 
-- **Beats (mañana, P):** Crowe cobra la deuda y las noches en daño: le queman una grúa a Almendra Towing y le dan una golpiza a un muchacho del Patio en una esquina del sur. Con los Calderos golpeados, *El Faro* lo tiene como nota de portada: «guerra en el sur». La fundación del benefactor da una declaración, y el Ayuntamiento propone a Halbrook para una comisión de seguridad pública (benefactor → consultor, C). Chiara **se entera por su periódico** de que Kal está en una guerra que no le contó. No pregunta. Edita: saca a Almendra Towing de la nota y deja el marco de «bandas del sur». La cita de Halbrook se queda.
+- **Beats (mañana, P):** Crowe cobra las noches en daño (la deuda sigue al día; DECISIÓN DEL AUTOR, 2026-11-16): le queman una grúa a Almendra Towing y le dan una golpiza a un muchacho del Patio en una esquina del sur. Con los Calderos golpeados, *El Faro* lo tiene como nota de portada: «guerra en el sur». La fundación del benefactor da una declaración, y el Ayuntamiento propone a Halbrook para una comisión de seguridad pública (benefactor → consultor, C). Chiara **se entera por su periódico** de que Kal está en una guerra que no le contó. No pregunta. Edita: saca a Almendra Towing de la nota y deja el marco de «bandas del sur». La cita de Halbrook se queda.
 - **Beats (tarde):** en el hospital hay un acercamiento ligero entre Tommaso y Marisol: respeto y afecto, sin romance. Ella no tiene padres, y él acaba de saber que amenazan a su esposa y a su hija. Ve en Kal un lado protector y paterno que no percibe en los negocios. Chiara le dice que el auto estaba saboteado. Tommaso decide irse de San Aurelio y cede su parte del Monarch a Chiara. Su línea con Meiko se cierra sola y nadie busca una filtración. **(P):** con el Monarch entero, Il Consorzio ya sólo le habla a ella y vuelve a preguntar por la oferta (Q24): es el motivo de los frenos, que el lector no conoce.
 - **Relación:** gana control y relato el mismo día, y pierde una persona. Kal no está en la escena: está en sus noches.
 - **Siembra (CANON 2026-10-14):** cómo conoce Tommaso tan de cerca el círculo de Kal sigue sin explicarse. Se va con el secreto.

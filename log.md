@@ -4,6 +4,7 @@ El detalle se guarda una sola vez en notas de sesión. Este archivo es navegaci�
 
 ## Sesiones recientes
 
+- 2026-11-17: DECISIÓN DEL AUTOR: Kal nunca deja de pagarle a Crowe en el Libro II (la guerra de la Parte III nace de las noches, no de la deuda); el 55 aclara que con Crowe muere el nombre de quien vendió a Kal: [[98_Agent_Handoff/sessions/2026-11-16_claude_lote1_integracion]].
 - 2026-11-16: Libro II, lote 1 de momentos clave en BORRADOR (caps. 20, 23, 45, 52 y 53; terminales gemelas), revisado e integrado; corregida la letra de Chiara en el 57; PENDIENTE: los pagos de Kal a Crowe en la Parte IV: [[98_Agent_Handoff/sessions/2026-11-16_claude_lote1_integracion]].
 - 2026-11-16: DECISIÓN DEL AUTOR: tapa blanda 6 × 9 in (A5 pasaba de 828 páginas). Tapa completa v1 del Libro I (contraportada con sinopsis, lomo, portada), provisional con 740 páginas: [[99_Reference/book_covers/00_Portada_Mascaras_De_Cristal_Colombina]]; script `tools/portada/componer_tapa.py`.
 - 2026-11-16: CANON DEL AUTOR: sinopsis de contraportada del Libro I aprobada (un párrafo, remate «En esta ciudad todo se paga. Lo suyo también.»): [[11_Books/Book_01_Mascaras_De_Cristal/00_Sinopsis_Contraportada]].

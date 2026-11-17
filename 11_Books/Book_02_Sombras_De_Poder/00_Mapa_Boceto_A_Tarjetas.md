@@ -61,13 +61,13 @@ Con los recortes de la **lista A** (mismo POV, capítulos contiguos) el libro qu
 | 28 | II-P14 · Kal; Chiara al final | 35 *Boletos de valet* + 36 *El millón* | Funde (ya en Fase 2) | Walt arriesga la audiencia de condicional (D11). El millón no paga a Crowe: pagarle sería firmar el robo. |
 | 29 | II-P15 · Chiara | — (idea del autor en [[11_Books/Book_02_Sombras_De_Poder/00_Diseno_Cobro_Del_Levanton]]) | **Nuevo** | El levantón (D8). Es el primer secreto que guardan juntos. Candidato para «Mac a Almendra» (ver Carga). |
 | 30 | II-P16 · Marisol | 37 *Calle Corona* · Marisol | Reusa | El motivo de los frenos (D5) queda fuera de página. |
-| 31 | II-P17 · Kal | 38 *El armario* · Kal | Reusa | La séptima entrega vence y nadie la paga. **Cierra la Parte II.** |
+| 31 | II-P17 · Kal | 38 *El armario* · Kal | Reusa | La séptima entrega vence y nadie la paga (*superado, DECISIÓN DEL AUTOR, 2026-11-16: Kal la paga*). **Cierra la Parte II.** |
 
 ## Parte III · Exilio (boceto 39–47 → nuevo 32–39)
 
 | Nuevo | Tarjeta · POV | Viene de | Verbo | Qué cambia |
 |---|---|---|---|---|
-| 32 | III-T1 · Kal | 39 *Vacío* · Kal | Reusa | Kal deja de pagar a Crowe «hasta saber». Le cuenta los frenos a Chiara a tiempo. |
+| 32 | III-T1 · Kal | 39 *Vacío* · Kal | Reusa | Kal deja de pagar a Crowe «hasta saber» (*superado, DECISIÓN DEL AUTOR, 2026-11-16: nunca deja de pagar*). Le cuenta los frenos a Chiara a tiempo. |
 | 33 | III-T2 · **Chiara** | 40 *Escenarios* · Kal y Chiara + la cama vacía del 41 | Reescribe (POV) y absorbe | El favor que Chiara le pide a Dario. Tic 6, frente a la cama vacía. |
 | 34 | III-T3 · Kal | 41 *El agua corriendo* · Kal | Reescribe | Los golpes caen sobre gente de Crowe. F3 queda intacto. Pierde el tic 6, que pasa al 33. |
 | 35 | III-T4 + III-T5 · Chiara | — (*Primera plana*, nueva en la Fase 2) + 42 *El bastón* · Chiara | **Funde (R6)** | En la mañana, la portada de la «guerra en el sur», editada por ella, y Halbrook en la comisión. En la tarde, Tommaso se va y le deja el Monarch. Gana control y relato el mismo día, y pierde una persona. |
