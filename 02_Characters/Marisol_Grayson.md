@@ -1,5 +1,7 @@
 # Marisol Grayson
 
+> **DECISIÓN DEL AUTOR (2026-11-17), *Sombras de Poder*:** Marisol y Bonnie ya son buenas amigas en el Libro II, con química visible; para Bonnie significa más, sin nombrarlo. En el amigo secreto de Navidad (cap. 20) Marisol le regala un dije con «Bonnie». Ver [[06_Relationships/Bonnie_y_Marisol]] · [[11_Books/Book_02_Sombras_De_Poder/Part_02_Nieve_Y_Ceniza/00_Diseno_Navidad_Completa]].
+
 > **DECISIONES DEL AUTOR (2026-11-15, auditoría de destinos):** **Marisol sabe que Elenna vive desde antes de sus cinco años** (la foto del porche; la escena exacta, PENDIENTE). **Eso mismo es la razón de su distancia con Kal:** como fiscal, no puede estar cerca de un fraude que conoce. La «integridad de fiscal» y el «Hola, Papá.» tienen una sola causa. La audiencia del V es un **cambio de nombre** de Ardizzone a Mercer; Marisol no deshace ningún fraude. Ver [[11_Books/00_Auditoria_Destinos_Elenna_Y_Michael]] §6.
 
 > **DECISIÓN DEL AUTOR (2026-11-15, matriz causal):** **su distancia de años con Kal es integridad de fiscal**: la fiscal de distrito no puede dejarse ver con un hombre al que un expediente federal todavía nombra. **El «Hola, Papá.» llega cuando el expediente ya no nombra a Kal.** Cuándo supo que Elenna vivía: PENDIENTE. Ver [[11_Books/00_Matriz_Causal_Saga]] §6.

@@ -4,6 +4,7 @@ El detalle se guarda una sola vez en notas de sesión. Este archivo es navegaci�
 
 ## Sesiones recientes
 
+- 2026-11-17: DECISIONES DEL AUTOR: pares del amigo secreto aprobados con ajustes (termo viejo regalo de Nat, carta de Nadir con «Señora:», orden alternado); Marisol y Bonnie ya son buenas amigas en el II y para Bonnie significa más: [[11_Books/Book_02_Sombras_De_Poder/Part_02_Nieve_Y_Ceniza/00_Diseno_Navidad_Completa]] · [[06_Relationships/Bonnie_y_Marisol]].
 - 2026-11-17: DECISIONES DEL AUTOR (Navidad del cap. 20 del Libro II): cena casera de Chiara con un platillo por persona y el *buccellato* de Marta; amigo secreto con regalos de eco de saga (bola 8 de Meiko a Kal, sembrada con una partida de pool en el 19; termo sin estrenar de Héctor; carta de Nadir que se lee en el IV; bolígrafo «Grayson»; dije «Bonnie»): [[11_Books/Book_02_Sombras_De_Poder/Part_02_Nieve_Y_Ceniza/00_Diseno_Navidad_Completa]].
 - 2026-11-17: DECISIÓN DEL AUTOR: Kal nunca deja de pagarle a Crowe en el Libro II (la guerra de la Parte III nace de las noches, no de la deuda); el 55 aclara que con Crowe muere el nombre de quien vendió a Kal: [[98_Agent_Handoff/sessions/2026-11-16_claude_lote1_integracion]].
 - 2026-11-16: Libro II, lote 1 de momentos clave en BORRADOR (caps. 20, 23, 45, 52 y 53; terminales gemelas), revisado e integrado; corregida la letra de Chiara en el 57; PENDIENTE: los pagos de Kal a Crowe en la Parte IV: [[98_Agent_Handoff/sessions/2026-11-16_claude_lote1_integracion]].

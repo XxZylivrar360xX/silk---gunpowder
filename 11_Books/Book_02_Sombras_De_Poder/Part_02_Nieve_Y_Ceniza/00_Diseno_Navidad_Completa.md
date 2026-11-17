@@ -148,39 +148,43 @@
 
 | Da | Recibe | Regalo | Qué cambia o muestra | Origen |
 |---|---|---|---|---|
-| **Meiko** | **Kal** | **Un llavero con una bola 8** (DECISIÓN DEL AUTOR), por la partida de pool que ella casi gana y perdió al meter la 8 en la tronera equivocada. «Para que se acuerde de que casi le gano, jefe.» Kal lo pone en las llaves de la grúa grande. | Ver §5b. | DECISIÓN DEL AUTOR |
+| **Meiko** | **Kal** | **Un llavero con una bola 8** (DECISIÓN DEL AUTOR), por la partida de pool que ella casi gana y perdió al meter la 8 en la tronera equivocada. Sólo dice: «Para la grande.» Kal entiende solo y lo pone en las llaves de la grúa grande. | Ver §5b. | DECISIÓN DEL AUTOR |
 | **Kal** | **Héctor** | **Un termo de acero**, porque el de Héctor tiene veinte años y gotea. «Éste no gotea.» «No.» «El otro tampoco goteaba.» Héctor lo guarda sin estrenar (DECISIÓN DEL AUTOR). | Ver §5b. | DECISIÓN DEL AUTOR |
 | **Nadir** | **Chiara** | **Una carta** (DECISIÓN DEL AUTOR), escrita a mano y sin precio. | Ver §5b. | DECISIÓN DEL AUTOR |
 | **Chiara** | **Marisol** | **Un bolígrafo grabado con «Grayson»**, que se da en público y rápido. | Ver §5b. | DECISIÓN DEL AUTOR |
 | **Marisol** | **Bonnie** | **Un dije con el nombre «Bonnie»** (DECISIÓN DEL AUTOR), que Chiara le ayudó a mandar a hacer. | Ver §5b. | DECISIÓN DEL AUTOR |
-| **Walt** | **Meiko** | Unos guantes de manejo de piel, viejos y aceitados. | Le quedan. Es eco discreto de la «Zen Devil». Como la bola 8, no se reutiliza en los caps. 36–39 sin decisión del autor. | DISEÑO |
-| **Harper** | **Danny** | Una gorra acolchada de mecánico, porque el 23 se pegó con el capó. | Danny se la pone el resto de la noche. No sale en la foto, que se toma antes del intercambio, y el cap. 39 la describe sin gorra. | DISEÑO |
+| **Walt** | **Meiko** | Unos dados de peluche para el retrovisor, rojos y enormes. | Meiko: «Ni loca», y los cuelga esa misma noche. Comedia sin eco: Meiko ya carga la bola 8 y no necesita otro objeto que duela después. | DECISIÓN DEL AUTOR (2026-11-17, ajuste aprobado) |
+| **Harper** | **Danny** | Una gorra acolchada de mecánico, porque el 23 se pegó con el capó. | Danny se la pone el resto de la noche. No sale en la foto, que se toma antes del intercambio, y el cap. 39 la describe sin gorra. | DECISIÓN DEL AUTOR (2026-11-17, ajuste aprobado) |
 | **Héctor** | **Harper** | **La llave de una de las casas de la Almendra que compró Kal** (DECISIÓN DEL AUTOR). «Ya puedes desalojar el cuarto del terreno.» | Ver §5b. | DECISIÓN DEL AUTOR |
-| **Danny** | **Nadir** | Un cochinito alcancía con una moneda adentro, «para que ahorres lo que te roban». | Nadir saca la moneda y la cuenta. | DISEÑO |
-| **Kenji** | **Walt** | Barajas retiradas del Monarch, perforadas «para que nadie le haga trampa». | Eco de Danny en la lotería. | DISEÑO |
-| **Bonnie** | **Tyler** | Una caja de calentadores de manos. | Tyler los usa en el asador, porque se la pasa afuera. | DISEÑO |
-| **Tyler** | **Ren** | Una cinta métrica nueva. | Ren la mide: «Le falta un milímetro». La guarda. | DISEÑO |
-| **Ren** | **Mabel** | Una baraja de lotería nueva, con el recibo de \$20.00 pegado. | Mabel dice que la vieja es mejor y se queda con las dos. | DISEÑO |
-| **Mabel** | **Garrett** | Una corbata navideña, «para que se quite la otra cuando venga aquí». | Garrett se cambia la corbata en la mesa. | DISEÑO |
-| **Garrett** | **Russ** | Una bufanda de cachemir que rompe el tope a la vista. | Una línea de montaje: Nadir ya protestó por el dije. | DISEÑO |
-| **Russ** | **Kenji** | Un libro de bolsillo, uno de los suyos, usado. | Va en el montaje. | DISEÑO |
+| **Danny** | **Nadir** | Algo para la Kawasaki verde: unos puños forrados para el invierno, «para que no te congeles en tus rutas». | Nadir pregunta cuánto costaron. Danny: «Menos que la moto». Es un piquete a lo de la caja de los tratos (Libro I, 24b), y Nadir lo aguanta. | DECISIÓN DEL AUTOR (2026-11-17, ajuste aprobado) |
+| **Kenji** | **Walt** | Barajas retiradas del Monarch, perforadas «para que nadie le haga trampa». | Eco de Danny en la lotería. **Peso:** Walt pasó años preso por una trampa de Crowe. Kenji no lo sabe y Walt sí: se queda viendo las barajas un segundo de más y dice «Gracias, muchacho». Nadie lo nota. | DECISIÓN DEL AUTOR (2026-11-17, ajuste aprobado) |
+| **Bonnie** | **Tyler** | Una caja de calentadores de manos. | Tyler los usa en el asador, porque se la pasa afuera. Montaje. | DECISIÓN DEL AUTOR (2026-11-17, ajuste aprobado) |
+| **Tyler** | **Ren** | Una cinta métrica nueva, porque Tyler perdió la de Ren hace un mes y nunca lo dijo. | Viven en la misma casa de la Almendra. Ren la mide: «Le falta un milímetro». La guarda. Es la disculpa que Tyler no sabe pedir. | DECISIÓN DEL AUTOR (2026-11-17, ajuste aprobado) |
+| **Ren** | **Mabel** | Una baraja de lotería nueva, con el recibo de \$20.00 pegado. | Mabel dice que la vieja es mejor y se queda con las dos. | DECISIÓN DEL AUTOR (2026-11-17, ajuste aprobado) |
+| **Mabel** | **Garrett** | Una corbata navideña, «para que se quite la otra cuando venga aquí». | Garrett se cambia la corbata en la mesa. | DECISIÓN DEL AUTOR (2026-11-17, ajuste aprobado) |
+| **Garrett** | **Russ** | Una bufanda de cachemir que rompe el tope a la vista. | Una línea de montaje: Nadir ya protestó por el dije. | DECISIÓN DEL AUTOR (2026-11-17, ajuste aprobado) |
+| **Russ** | **Kenji** | Un libro viejo sobre cómo llevar un hotel, de una venta de garaje, «para cuando te aburras de contar dinero ajeno». | Hoy es chiste: Kenji es gerente de caja del Monarch. Después es profecía: administrará la cadena hotelera de Kal y Chiara (CANON DEL AUTOR, 2026-10-03). Ver §5b. | DECISIÓN DEL AUTOR (2026-11-17, ajuste aprobado) |
 
 ### 5b. Estudio de los pares del autor: ecos a largo plazo
 
-> El autor eligió estos cinco pares por lo que van a pagar en la saga, no por la noche misma. Cada regalo es chico y se olvida en la primera lectura, pero cobra en la relectura. Los ecos de abajo son **DISEÑO**: posibilidades que el regalo deja abiertas y que no fijan canon. Donde tocan una escena PENDIENTE del autor se dice.
+> El autor eligió estos seis pares por lo que van a pagar en la saga, no por la noche misma. Cada regalo es chico y se olvida en la primera lectura, pero cobra en la relectura. Los ecos de abajo son **DISEÑO**: posibilidades que el regalo deja abiertas y que no fijan canon. Donde tocan una escena PENDIENTE del autor se dice.
 
 **Meiko → Kal: el llavero de la bola 8 (DECISIÓN DEL AUTOR)**
 - **El origen:** una partida de pool entre Kal y Meiko, antes de Navidad. Ella iba ganando, cantó la 8 y la metió en la tronera equivocada, así que perdió. «Se ahogó en una tronera equivocada.» **DECISIÓN DEL AUTOR (2026-11-17): se siembra en el cap. 19, POV Kal.** El mismo día del adelanto «para mi hermano», al cerrar, juegan en el billar de atrás del Monarch, el del Libro I (cap. 16, archivo 17), donde Danny «la conoce de vista». Lo de Ruth («Mi madre pagó cada apuesta de mi padre…») se dice sobre la mesa. Meiko lo escucha, falla la 8 y pierde.
 - **Lo que carga:** la jugada buena con la decisión equivocada al final. Así es F2: Meiko filtra a Varek para salvarse y defiende la regla que la mata («Por el hospital no. Los ata.»). La bola no lo dice; se nota en la relectura.
 - **Las llaves:** Kal cuelga la bola 8 en las llaves de la grúa grande. Es eco discreto de su oficio de valet («Nadie mira a la que le recibe las llaves», 37).
 - **Ecos:** en el 36, «Hasta mañana, jefe»; en el 38, «Perdóname, jefe»; y el canon «era de los míos». **DECISIÓN DEL AUTOR: Kal nunca la quita** de las llaves de la grúa, ni después de F2. Es «era de los míos» hecho objeto y nadie lo comenta.
+- **La línea (DECISIÓN DEL AUTOR (2026-11-17, ajuste aprobado)):** Meiko sólo dice «Para la grande.» No explica la partida; Kal entiende solo. Explicarla («para que se acuerde de que casi le gano») le quita el peso.
+- **La partida en el 19 es breve** (unas 500 palabras): el capítulo ya lleva a Harper, el adelanto, la Ronda, la entrega a Crowe y el pánico.
+- **Eco en la noche final (55):** la bola 8 aparece en las llaves de la grúa sin comentario.
 - **Sin presagio en la primera lectura:** es una broma entre dos que jugaron una partida.
 - **Regla de Kal:** la bola 8 no es metal grabado, y se acepta porque es un intercambio.
 
 **Kal → Héctor: el termo (DECISIÓN DEL AUTOR: lo guarda sin estrenar)**
 - **Lo que carga:** «El otro tampoco goteaba». Héctor es fiel a lo viejo, y lo viejo es él.
+- **El termo viejo tiene dueña (DECISIÓN DEL AUTOR (2026-11-17, ajuste aprobado)):** se lo regaló Nat cuando Héctor la criaba, con sus primeros ahorros, a los catorce o quince. Kal no lo sabe al comprar el nuevo. Por eso «El otro tampoco goteaba» quiere decir otra cosa, y esa misma noche Nat pasa por el taller (§6). No se explica: si acaso, Nat ve el termo nuevo en la caja y el viejo en la mano de Héctor, y no dice nada.
 - **Héctor** sigue usando el termo viejo y guarda el nuevo en su caja, en el casillero, «para cuando se acabe el otro».
-- **Eco en el III:** Héctor muere en la montaña después de H22 (la causa y la posición son PENDIENTE DEL AUTOR; esto no las fija). Kal encuentra el termo nuevo sin estrenar: Héctor guardaba lo nuevo para cuando se acabara lo viejo, y se acabó él primero. Lo que Kal haga con él (usarlo o dárselo a Nat, que Héctor crió) queda abierto.
+- **Eco en el III:** Héctor muere en la montaña después de H22 (la causa y la posición son PENDIENTE DEL AUTOR; esto no las fija). Kal encuentra el termo nuevo sin estrenar: Héctor guardaba lo nuevo para cuando se acabara lo viejo, y se acabó él primero. Lo natural es que Kal se lo dé a Nat: los dos termos, el que ella le regaló y el que él nunca estrenó (DISEÑO, por fijar en el III).
 
 **Héctor → Harper: la llave (DECISIÓN DEL AUTOR, 2026-11-17)**
 - **En escena (POV Kal):** Héctor le da una llave suelta, sin caja. «Ya puedes desalojar el cuarto del terreno.» Harper, seria, se queda mirando la llave. Se le escapa una lágrima y una mueca que casi fue sonrisa. Voltea a buscar a Kal y Kal, a la distancia, asiente. Al final abraza a Héctor.
@@ -191,6 +195,7 @@
 - **El cuarto (DECISIÓN DEL AUTOR, 2026-11-17):** es el cuarto de block con techo de lámina de la parcela del norte, el de *Tierra buena* (Libro I, hoy [[11_Books/Book_01_Mascaras_De_Cristal/Escenas_Eliminadas/19_Tierra_Buena]]). Kal se lo ofreció así: «Mientras la parcela sea tuya, el cuarto también, y no pagas renta». **El cuarto dependía del trabajo y la casa no depende de nada.** Ése es el regalo real, y no se dice.
 - **Siembra pendiente:** *Tierra buena* es escena eliminada. La parcela sigue viva en la prosa (cap. 31: «antes de que salga de la parcela»), pero el cuarto no. Hace falta una línea antes de Navidad que diga que Harper duerme ahí, por ejemplo en el 19 (beats de día, Harper) o en el decorado del 23.
 - **PENDIENTE DEL AUTOR:** cuál de las casas le toca y si sigue trabajando la parcela desde la Almendra.
+- **Siembra del cuarto (DECISIÓN DEL AUTOR (2026-11-17, ajuste aprobado)):** se hace. Propuesta: una línea en el 19, de día, cuando Harper llega con tierra en las botas y Kal sabe de dónde viene; o en el decorado del 23, cuando se ofrece a quedarse a cuidar el taller porque «el cuarto está igual de frío».
 
 **Nadir → Chiara: la carta (DECISIÓN DEL AUTOR)**
 - **Lo que carga:** el hombre que le saca precio a todo regala lo único que no tiene precio. Con el tope de veinte dólares que él mismo impuso, su regalo cuesta cero. Nadir desconfió de Chiara antes de conocerla (canon). La grieta empezó cuando vio cómo lo mira ella cuando Kal no la ve (canon de 2026-10-17). La carta es esa grieta por escrito.
@@ -199,24 +204,47 @@
 - **Contenido (DECISIÓN DEL AUTOR, 2026-11-17; no se revela en el 20):** que la juzgó antes de conocerla; que vio cómo lo mira; y una sola petición, en su idioma de cuentas: **que con Kal las cuentas sean claras**, sin esconderle nada.
 - **Ironía de largo plazo:** Chiara ya le paga a Varek en secreto desde mayo (la libreta negra del 53). En el III, Kal y ella invierten en el Caldero sin decírselo a Nadir, y en el IV él lo descubre solo, lo cual alimenta su separación. Chiara rompe lo único que Nadir le pidió.
 - **Cobro (DECISIÓN DEL AUTOR):** en el IV, cuando Nadir se separa tras descubrir lo del Caldero, Chiara la relee y el lector la lee con ella.
+- **La entrega (DECISIÓN DEL AUTOR (2026-11-17, ajuste aprobado)):** Nadir odia exponerse, así que se protege con humor. Su pista: «Es lo más barato que he regalado en mi vida». Cuando Chiara la saca, él ya está viendo otra cosa. Así la escena no se pone solemne en público.
+- **El saludo:** la carta abre con «Señora:», su apodo burlón canon. Es lo único que Kal alcanza a ver por encima.
+- **Segunda ironía:** Nadir le pide cuentas claras con Kal a la persona equivocada. El que esconde es Kal: Chiara no sabe que Crowe trabaja para la gente de Halbrook, y ése es el secreto de Kal en todo el libro (guía, D3). La carta pide en Chiara lo que falta en Kal.
 
 **Chiara → Marisol: el bolígrafo «Grayson»**
 - **Lo que carga:** Grayson es el apellido de Michael, el amigo del ejército de Kal que murió de cáncer y dejó a Marisol a su cargo. El hijo de Kal y Chiara llevará su nombre.
 - **Beat de Kal:** en su POV, lee el grabado y piensa en Michael sin decirlo. Es el único momento de la noche en que aparece Michael.
 - **La línea posible de Chiara:** «Para que firmes con el tuyo.» Es su propia regla del papel propio («escribir en el papel de otro sería como firmar con el apellido de otro»), y viene de una mujer cuyo apellido no es del todo suyo. No se glosa.
 - **Eco de largo plazo:** Marisol firma como asistente, luego como penalista, luego como fiscal y al final como fiscal de distrito. Su distancia con Kal nace de su integridad de fiscal, porque sabe lo de Elenna. El instrumento de esa integridad se lo regaló Chiara. En el VI, la recusación de Marisol se puede firmar con ese bolígrafo (PENDIENTE DEL AUTOR).
+- **Marisol sin réplica (DECISIÓN DEL AUTOR (2026-11-17, ajuste aprobado)):** es el único momento de la noche en que Marisol no tiene respuesta. Lee el grabado, abre la boca y la cierra. El siguiente regalo la salva.
 - **Riesgo:** es otro objeto grabado de Chiara la misma noche que el collar. Se resuelve dándolo en público, con un nombre y no con una frase.
 
 **Marisol → Bonnie: el dije «Bonnie» (DECISIÓN DEL AUTOR)**
-- **Lo que carga:** su nombre. Veinte años después, Bonnie será Roberta Ardizzone en lo público y «Bonnie» sólo en la intimidad. El dije guarda el nombre que sobrevive. Cobra cuando al fin estén juntas, en el VII.
-- **Chiara ayudó a mandarlo a hacer**, probablemente con el mismo joyero del collar. Marisol le da a Bonnie el nombre de la intimidad y, años después, Chiara la amadrina con el apellido Ardizzone. Los dos nombres de Bonnie vienen de esta mesa.
+- **Lo que carga:** su nombre. Bonnie se va a Boston después de F2 y vuelve a San Aurelio unos veinte años después **como Bonnie García** (DECISIÓN DEL AUTOR, 2026-11-15: se retira «Roberta Ardizzone»). El dije es el nombre que se va y el que vuelve. Cobra cuando al fin estén juntas, en el VII.
+- **La química ya existe (DECISIÓN DEL AUTOR, 2026-11-17):** en el Libro II Marisol y Bonnie ya son buenas amigas, con química visible: se pican, se cuidan y se entienden rápido. Para Marisol es amistad. Para Bonnie significa más, aunque no sepa nombrarlo. El dije es un regalo de amiga, y por eso a Bonnie le pega tanto. Ver [[06_Relationships/Bonnie_y_Marisol]].
+- **Chiara ayudó a mandarlo a hacer**, probablemente con el mismo joyero del collar. **Lo que Chiara intuye queda ambiguo (DECISIÓN DEL AUTOR (2026-11-17, ajuste aprobado)):** puede haber visto lo de Bonnie o sólo haber ayudado a una amiga. El texto no lo decide.
 - **La noche tiene un tema, sin decirlo:** nombres grabados. «Grayson» para Marisol, «Bonnie» para Bonnie y TORNA A CASA, la única frase, para Kal. Es la regla de la saga: cada uno hereda un nombre, no un poder.
-- **En escena (POV Kal):** Bonnie abre la cajita, lee su nombre y no dice nada, cosa rara en ella. Se lo pone ahí mismo. Marisol hace un chiste para que nadie lo note. Nadie lo nota, salvo Kenji, que sonríe sin entender por qué. **Kenji intacto**: no hay triángulo.
+- **El encuadre de Marisol (DECISIÓN DEL AUTOR (2026-11-17, ajuste aprobado)):** lo da con una broma de corredora, «para que te identifiquen en la cuneta». Así su lado se lee sólo como cariño de amiga, y el peso queda entero del lado de Bonnie.
+- **En escena (POV Kal):** Bonnie abre la cajita, lee su nombre y no dice nada, cosa rara en ella. Se lo pone ahí mismo. Marisol ya hizo el chiste antes de que la caja se abriera. Nadie lo nota, salvo Kenji, que sonríe sin entender por qué. **Kenji intacto**: no hay triángulo.
 - **Opción de relectura:** la cajita es negra y de bisagra, igual que la del collar. A las 00:30, Kal reconoce la caja.
-- **Ecos:** Bonnie se va a Boston con el dije después de F2; cría a Elenna con él puesto; en el V vuelve como Roberta Ardizzone, todavía con «Bonnie» al cuello.
+- **Ecos:** Bonnie se va a Boston con el dije después de F2; recibe a Elenna con él puesto; vuelve a San Aurelio todavía con «Bonnie» al cuello.
 - **El tope:** el dije y el grabado pasan de veinte dólares. Nadir lo protesta. Marisol: «El grabado no cuenta». Sustituye el chiste de Garrett, que se queda en una línea de montaje.
 
 En la página van **los seis pares del autor**: Meiko a Kal, Kal a Héctor, Héctor a Harper, Nadir a Chiara, Chiara a Marisol y Marisol a Bonnie. El resto se cuenta en un párrafo de montaje.
+
+### 5c. Orden del intercambio (DECISIÓN DEL AUTOR (2026-11-17, ajuste aprobado))
+
+Con la lágrima de Harper, la carta y el silencio de Bonnie, el intercambio se puede volver solemne. Danny dicta el orden sacando nombres otra vez del casco (y hace trampa, como siempre), así que se **alterna emotivo y cómico**:
+
+1. **Danny → Nadir** (cómico): Danny abre porque no aguanta. Los puños de la moto.
+2. **Héctor → Harper** (emotivo): la llave.
+3. **Harper → Danny** (cómico): Harper da justo después, con los ojos rojos, y le encasqueta la gorra sin ceremonia. Ella misma rompe su momento.
+4. **Nadir → Chiara** (emotivo, protegido): «Es lo más barato que he regalado en mi vida».
+5. **Kal → Héctor** (seco): el termo y la antífona.
+6. **Chiara → Marisol** (emotivo): el bolígrafo; Marisol sin réplica.
+7. **Mabel → Garrett** (cómico): Garrett se cambia la corbata en la mesa.
+8. **Marisol → Bonnie** (emotivo, protegido): la broma de la cuneta; Nadir protesta el tope; «El grabado no cuenta».
+9. **Montaje** (cómico): Garrett a Russ, Walt a Meiko, Kenji a Walt, Russ a Kenji, Tyler a Ren, Bonnie a Tyler, Ren a Mabel.
+10. **Meiko → Kal** (ligero con peso oculto): el último, porque es el único par que Danny guardó. «Para la grande.»
+
+**Russ → Kenji: el libro de hoteles (DECISIÓN DEL AUTOR (2026-11-17, ajuste aprobado)).** Hoy es chiste; meses después Kenji administra la cadena hotelera, y muere en Santa Lucía en el III. El libro puede pasar a Bonnie, que años después dirige (DISEÑO, por fijar). No se comenta en el 20.
 
 **Regla:** nadie le regala a Kal nada de metal ni nada grabado.
 
@@ -234,7 +262,7 @@ En la página van **los seis pares del autor**: Meiko a Kal, Kal a Héctor, Héc
 | **Danny** | Camisas, FELIZ, la estrella de cartón, el sorteo. Hace trampa. Se corta con el *buccellato*. | Macarrones | da a Nadir, recibe de Harper |
 | **Nadir** | Saca la cuenta de todo. El calentador. El tope. | Tajín | da a Chiara, recibe de Danny |
 | **Harper** | La escalera. La berenjena. La curva siete. | Pan de maíz | da a Danny, recibe de Héctor |
-| **Bonnie** | «Tengo turno.» Se sienta junto a Marisol. | *Chowder* | da a Tyler, recibe de Marisol |
+| **Bonnie** | «Tengo turno.» Se sienta junto a Marisol; se pican toda la cena como las amigas que ya son. | *Chowder* | da a Tyler, recibe de Marisol |
 | **Meiko** | Cinco tamales. Kaito. «Todo bien, jefe.» La caja sin abrir. | Curry | da a Kal, recibe de Walt |
 | **Tyler** | Esquiva a Chiara. El asador. La caja igual que todos. | Alitas | da a Ren, recibe de Bonnie |
 | **Ren** | El hilo. La camisa doblada. Los calentadores movidos dos centímetros. | *Jiaozi* | da a Mabel, recibe de Tyler |
@@ -274,4 +302,6 @@ En la página van **los seis pares del autor**: Meiko a Kal, Kal a Héctor, Héc
 
 ## 8. Pendiente
 
-- Leer y aprobar los platillos (§4) y los pares DISEÑO (§5). Después se reescribe el 20 (o el 20a y el 20b) con la skill `chapter-drafting`.
+- **Pares: aprobados con ajustes (2026-11-17).** Orden del intercambio en §5c.
+- Falta aprobar los platillos (§4). Después se reescribe el 20 (o el 20a y el 20b) con la skill `chapter-drafting`.
+- **Siembras previas al 20:** la partida de pool en el 19 (breve); el cuarto de Harper (19 o 23); la amistad visible de Marisol y Bonnie en los capítulos anteriores.
