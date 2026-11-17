@@ -2,6 +2,7 @@
 
 > **Estado:** DISEÑO del agente (2026-10-14), a partir de [[98_Agent_Handoff/ChatGPT/2026-10-14_encargo_navidad_almendra_towing]]. Las decisiones del autor de ese día van marcadas CANON DEL AUTOR. Todo lo demás es propuesta y **espera aprobación**. No autoriza prosa ni cambios en el boceto de capítulos ni en las fichas.
 > **Resuelto (DECISIÓN DEL AUTOR, 2026-11-16, «todo como recomiendas»):** las preguntas abiertas quedaron contestadas al redactar el cap. 20 (Tommaso no va; lotería y tombola; el regalo de Kal es la noche de trabajo; Kal sale por el calor y Chiara lo saca después; luces en el garaje de atrás; helada sin nieve; sin la mañana del 25; camisas de cuadros por idea de Danny). Detalle: [[98_Agent_Handoff/sessions/2026-11-16_claude_cap20_el_collar]].
+> **Ampliación (DISEÑO, 2026-11-17, espera al autor):** catering, hora a solas en la Villa, amigo secreto e inventario de presentes: [[11_Books/Book_02_Sombras_De_Poder/Part_02_Nieve_Y_Ceniza/00_Diseno_Navidad_Completa]].
 > **Manda:** [[11_Books/Book_02_Sombras_De_Poder/00_Plan_Cuatro_Partes]] (Parte II) y [[11_Books/Book_02_Sombras_De_Poder/00_Matriz_Temporal]].
 
 ## CANON DEL AUTOR (2026-10-14)
