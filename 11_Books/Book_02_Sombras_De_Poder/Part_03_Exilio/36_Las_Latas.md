@@ -14,7 +14,7 @@ personajes: Kal Mercer, Bonnie García, Meiko Nakano; al final, Chiara Bellandi
 >
 > **CANON (hechos):** Kal le enseña a Bonnie a disparar a latas; la práctica se abre a una conversación sobre familia y futuro; Kal les dice, en sentido, que si tienen un problema se lo digan y lo arreglan (sentido del autor, no diálogo literal). **DISEÑO del agente:** el huerto de almendros en flor y el empaque cerrado; que Chiara lo haya pedido; Meiko en el capó, que oye la oferta y no dice nada; Bonnie que menciona que Chiara y Marisol le hablan de estudiar; el tiro único de Meiko y «mi hermano»; la vuelta y la cena en la Villa. **Guarda:** ningún guiño a lo que viene. Lo que Meiko calla se lee aquí como timidez; el 37 lo relee.
 >
-> **Depende de capítulos sin redactar:** la grúa quemada y el muchacho golpeado (35); la deuda de Kaito pagada por Kal (23); la cena de Navidad (20). La prosa los toca como hechos ya ocurridos.
+> **Depende de capítulos sin redactar:** la grúa quemada y el muchacho golpeado (35); la deuda de Kaito pagada por Kal (23, BORRADOR desde 2026-11-16); la cena de Navidad (20, BORRADOR desde 2026-11-16). La prosa los toca como hechos ya ocurridos.
 
 > **ENTRADA TEMPRANA (2026-11-15, revisión externa):** «un año» → «casi dos años» (entra en ago–sep A2, Libro I cap. 22); «No le había pedido nada nunca» → «Pedía lo justo, dónde dormir una semana, un adelanto, y nunca decía para qué» (segunda pasada: pidió quedarse a dormir; la manta la ofreció Kal): pide soluciones prácticas y calla el problema. Arco: [[11_Books/00_Arco_Meiko_Nakano]].
 

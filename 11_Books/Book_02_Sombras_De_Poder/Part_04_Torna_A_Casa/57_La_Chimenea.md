@@ -104,7 +104,7 @@ Era de un papel color crema, grueso, con la orilla irregular. Olía a canela y a
 
 Fue hasta ella por detrás y le puso la manta en los hombros. Chiara no se sobresaltó. Se la cerró por delante con una mano y siguió mirando lo mismo.
 
-Kal desdobló el papel. En el centro, con tinta azul, en una letra inclinada que no le conocía, había una palabra. La leyó despacio, como leía las palabras que ella le enseñaba, sin saber dónde iba el acento.
+Kal desdobló el papel. En el centro, con tinta azul, con su letra inclinada, más despacio que en ninguna de sus notas, había una palabra. La leyó despacio, como leía las palabras que ella le enseñaba, sin saber dónde iba el acento.
 
 —¿Quién es Elenna?
 

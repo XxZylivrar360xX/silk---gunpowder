@@ -172,10 +172,10 @@ Fase 3 aprobada: [[11_Books/Book_02_Sombras_De_Poder/00_Mapa_Boceto_A_Tarjetas]]
 | I | 17 | *El benefactor* | 21 | T20 | Chiara |
 | II | 18 | *Veintitrés de noviembre* | 22 + 23 | P1 + P2 | Chiara |
 | II | 19 | *No cargues sola* | 24 + 25 | P3 + P4 | Kal |
-| II | 20 | *El collar* | 26 | P5 + P6 | Kal |
+| II | 20 | *El collar* | 26 | P5 + P6 | Kal (BORRADOR, 2026-11-16) |
 | II | 21 | *Año Nuevo* | 27 | P7 | Chiara |
 | II | 22 | *La carretera* | 28 | P8 | Kal |
-| II | 23 | *La vela tardía* | 29 + 30 | P9 + P10 | Kal |
+| II | 23 | *La vela tardía* | 29 + 30 | P9 + P10 | Kal (BORRADOR, 2026-11-16) |
 | II | 24 | *La jaula* | 31 | parte de P11 | Kal |
 | II | 25 | *Deséame suerte* | 32 | P11 | Kal → Chiara |
 | II | 26 | *Lussia* | 33 | P12 | Kal |
@@ -197,15 +197,15 @@ Fase 3 aprobada: [[11_Books/Book_02_Sombras_De_Poder/00_Mapa_Boceto_A_Tarjetas]]
 | IV | 42 | *Yo respondo* | 50 + 49 | U2 + U3, rehechas | Kal |
 | IV | 43 | *Las bandas* | 51 | U4 | Kal |
 | IV | 44 | *Mover la mirada* | 52 | U5 | Chiara |
-| IV | 45 | *Lo poco que llegué a saber* | 52b | U6 | Kal |
+| IV | 45 | *Lo poco que llegué a saber* | 52b | U6 | Kal (BORRADOR, 2026-11-16) |
 | IV | 46 | *Stavanger* | 53a | U7 | BORRADOR |
 | IV | 47 | *Henrik* | 53b | U8 | BORRADOR |
 | IV | 48 | *Ya llegó* | 53c | U9 | BORRADOR |
 | IV | 49 | *Llegar tarde* | 54 | U10 | externo |
 | IV | 50 | *Veintitrés de noviembre* | 55 | U11 | Kal |
 | IV | 51 | *La fecha* | — | U12 | Kal |
-| IV | 52 | *Santa Lucía* | 56 | U13 | Kal |
-| IV | 53 | *Torna a casa* | 57 | U14 | externo |
+| IV | 52 | *Santa Lucía* | 56 | U13 | Kal (BORRADOR, 2026-11-16) |
+| IV | 53 | *Torna a casa* | 57 | U14 | externo (BORRADOR, 2026-11-16) |
 | IV | 54 | *Dime, Amore* | 58 | U15 | Chiara (2026-11-12) |
 | IV | 55 | *De rodillas* | 59 | U16 | Kal |
 | IV | 56 | *No otra vez* | 60 | U17 | Chiara |

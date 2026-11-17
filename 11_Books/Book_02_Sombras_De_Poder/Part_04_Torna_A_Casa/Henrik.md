@@ -56,7 +56,7 @@ La prueba llegó después del segundo café, cuando Henrik se levantó sin anunc
 
 Sacó primero una hoja fotocopiada, con la letra apretada y nerviosa de alguien que escribe algo que le cuesta.
 
-—Ingrid escribió esto. Yo la ayudé con el inglés, porque el de ella no era bueno. Es de hace... —hizo la cuenta con los dedos, despacio— veintidós años.
+—Ingrid escribió esto. Yo la ayudé con el inglés, porque el de ella no era bueno. Es de hace... —hizo la cuenta con los dedos, despacio— treinta y cinco años.
 
 Kal tomó la hoja. No era el original — Henrik explicó, sin que se lo preguntara, que el original nunca volvió — pero era la copia que Ingrid había hecho a mano para sí misma antes de mandar la carta, porque no confiaba en que la fueran a devolver si alguna vez preguntaba por ella.
 

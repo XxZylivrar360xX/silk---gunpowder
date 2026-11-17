@@ -400,11 +400,11 @@ Chiara no se rio.
 
 Estaba de pie junto a la barra, donde había estado desde el principio, con el tazón de arroz todavía a un lado. No se había movido en todo el rato. Tenía la mano izquierda sobre la barra, y con el pulgar le daba vueltas a un anillo, el de la piedra verde, despacio, una vuelta y otra, sin mirarlo.
 
-—¿El martes? —dijo.
+—Esa noche —dijo.
 
-—El martes.
+—Esa noche.
 
-—El martes en la noche.
+—Cuando te escribí.
 
 —Sí.
 
@@ -428,23 +428,15 @@ Lo dijo en voz baja. No era para él.
 
 Kal no se movió de la mesa. Tenía las dos manos sobre la madera y no supo qué hacer con ellas, y las dejó ahí.
 
-Ella se quedó un rato más frente a la vela. Después se sentó en el banco de la barra, abrió su bolso, que estaba ahí desde que había llegado, y sacó una hoja de su papel. Kal lo conoció de lejos. Era el de ella, el de siempre, el de las notas: color crema, grueso, con la orilla irregular, como si cada hoja la hubieran arrancado a mano de algo más grande. Le había dejado notas en ese papel desde el principio, metidas en sobres, por debajo de una puerta, por una ranura, y Kal las conocía antes de abrirlas, por el olor. Canela. Vainilla.
+Ella se quedó un rato más frente a la vela. Después se sentó en el banco de la barra, sacó de su bolso una hoja de su papel, el de las notas que le dejaba desde el principio, crema y grueso, de orilla irregular, y escribió algo. Poco. Kal estaba a cinco metros, al otro lado de la vela, y no alcanzó a ver qué.
 
-Chiara sacó una pluma y escribió algo.
-
-Fue poco. Una línea, o menos. Kal estaba al otro lado de la cocina, a cinco metros, con la luz de la vela entre los dos, y no alcanzó a ver qué. Vio la mano de ella moverse sobre el papel, inclinada, despacio, como si dibujara. Vio que se detenía. Que no escribía nada más.
-
-Después dobló la hoja en dos, y otra vez en dos, y se quedó con ella en las manos.
-
-No la soltó. La tuvo así, doblada, entre los dedos, junto a la vela, un rato largo. Kal la miraba a ella y miraba el papel, y la llama entre los dos se movía apenas con el aire de la calefacción, y ella no levantó la vista ni una vez.
+Dobló la hoja y se quedó con ella entre los dedos, junto a la llama, un rato largo, sin levantar la vista.
 
 Kal no preguntó.
 
 Tuvo la pregunta en la boca, entera, y no la dijo. No porque no quisiera saber. Porque esa noche, delante de esa vela, no tenía derecho a preguntarle nada, él, que acababa de contarle una noche entera con las partes graciosas en su lugar y sin el miedo.
 
-Chiara acercó una esquina del papel a la llama.
-
-Prendió despacio. El fuego subió por el doblez, ennegreció la orilla, se comió el crema. Ella lo sostuvo hasta que le llegó cerca de los dedos y entonces lo dejó caer en el plato, junto a la vela, y el papel terminó de quemarse ahí, solo, enroscándose. A la cocina llegó un olor a canela quemada, dulce y amargo a la vez, que Kal no había olido nunca.
+Chiara acercó una esquina del papel a la llama y lo dejó terminar de quemarse en el plato. A la cocina llegó un olor a canela quemada que Kal no había olido nunca.
 
 Ella se quedó mirando la ceniza.
 

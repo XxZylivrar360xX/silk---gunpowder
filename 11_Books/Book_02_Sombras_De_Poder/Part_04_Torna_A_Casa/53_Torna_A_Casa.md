@@ -136,15 +136,9 @@ Chiara juntó las manos delante del pecho, sin entrelazar los dedos, una sobre l
 
 Lo dijo una vez, en voz baja. Se persignó.
 
-Después abrió el cajón de en medio del aparador. Adentro, junto a un costurero y a una caja de servilletas de tela, había un block de papel color crema, grueso, con la orilla irregular. Arrancó una hoja por el pliegue y tomó del mismo cajón una pluma de tinta azul.
+Después sacó del cajón del aparador una hoja color crema y una pluma, y escribió junto a la vela. Fue breve. Dobló la hoja por la mitad, con la uña.
 
-Se inclinó sobre el aparador, junto a la vela, y escribió. Fue breve. La mano se movió inclinada, sin detenerse, como en todas las hojas anteriores. Dejó la pluma en el cajón.
-
-Se quedó mirando la hoja. La luz de la vela le daba de lado y hacía que la tinta azul brillara todavía, húmeda.
-
-Dobló la hoja por la mitad, una vez, con la uña.
-
-La levantó. Acercó una esquina del papel a la llama.
+Acercó una esquina del papel a la llama.
 
 ***
 

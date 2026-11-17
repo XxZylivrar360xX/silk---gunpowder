@@ -281,6 +281,7 @@ Calendario de dos años (5 ene A3 → dic A4), contado en bloques densos. Las el
 
 **20. El collar** — 23–25 dic A3 · **Kal** · el taller y la bodega; la Villa; el patio de grúas · *(26; II-P5 + II-P6)*
 
+- **Redactado (BORRADOR, 2026-11-16, lote 1):** [[11_Books/Book_02_Sombras_De_Poder/Part_02_Nieve_Y_Ceniza/20_El_Collar]]; decisiones del autor en [[98_Agent_Handoff/sessions/2026-11-16_claude_cap20_el_collar]].
 - **Fuente:** [[11_Books/Book_02_Sombras_De_Poder/Part_02_Nieve_Y_Ceniza/00_Diseno_Navidad_Almendra_Towing]] (CANON del 2026-10-14 en sus ocho puntos). **POV:** Kal, en un solo capítulo (DECISIÓN DEL AUTOR, 2026-11-12, R10); la recomendación de POV Chiara del diseño queda superada.
 - **Función:** primera Navidad juntos. La placa de oro dice *Torna a casa*, en italiano, y es la promesa de que ella siempre lo esperará al volver de las «misiones».
 - **Beats:** Chiara pide ayuda a los mecánicos el 23; decoran de madrugada; el 24 cocina casi todo el día (C). El coche en el elevador convertido en árbol, la grúa de guardia que sale y vuelve, los tamales de Mabel (DISEÑO). El regalo de Kal es la noche de trabajo: un favor, no un objeto (DISEÑO). Tyler la esquiva todo el día, después del fuego que causó su error. En la cena, el juego, el abrazo de medianoche y el mismo detalle para todos, Tyler recibe lo mismo que los demás, y esa igualdad es su absolución. Kal sale al patio porque el calor le aprieta, a días del garaje, y ve a Kaito en el portón y a Meiko gritándole que se largue. Al volver: «¿Todo bien?» / «Todo bien, jefe.» (C, segundo tiempo). Después Chiara sale con la caja y le da el collar a solas, afuera.
@@ -309,6 +310,7 @@ Calendario de dos años (5 ene A3 → dic A4), contado en bloques densos. Las el
 
 **23. La vela tardía** — principios de ene A4 y días después · Kal · del norte al puerto; la bahía; la zona industrial; la Villa; un callejón de Varek · *(29 + 30; II-P9 + II-P10)*
 
+- **Redactado (BORRADOR, 2026-11-16, lote 1):** [[11_Books/Book_02_Sombras_De_Poder/Part_02_Nieve_Y_Ceniza/23_La_Vela_Tardia]]; decisiones del autor en [[98_Agent_Handoff/sessions/2026-11-16_claude_cap23_la_vela_tardia]].
 - **Función:** primera incursión como activo de campo de Dario. Sale **sin avisarle**, y la vela nace tarde.
 - **Beats (la bahía):** escolta cocaína del norte al puerto; un grupo rival sabe del cargamento; persecución; para perder a la policía se tiran con el coche a la bahía; nadan; Kal, Nadir, Harper y Danny se esconden por separado. Canon: Ren no fabricó este cargamento. **(P):** acepta porque, después de Washington, necesita que Dario lo considere indispensable: es el único paraguas que puede ponerse entre Halbrook y Nadir. Dario lo felicita, y Kal entiende que ahora le debe también a él.
 - **Beats (días después):** Kal le cuenta la bahía y la noche escondido; ella enciende la vela **después**, por un peligro que ya pasó. **Oración canon:** *«Dio, grazie per averlo riportato a casa.»*
@@ -318,7 +320,7 @@ Calendario de dos años (5 ene A3 → dic A4), contado en bloques densos. Las el
 - **Coda (C en sustancia):** la gente de Varek ya le cobra a Meiko lo de su hermano. Kal va por su cuenta y paga la deuda de Kaito. El hombre de Varek: «Lo del hermano queda saldado.» Kal lo oye, no pregunta y lo lee mal (tercer tiempo).
 - **Saldo:** un regalo sin precio que Meiko no sabe que recibió, y una frase que F2 cobra (37).
 - **Subtexto (no enunciar):** aquí empiezan los once meses en que Kal no pregunta.
-- **PENDIENTE:** si ella lo dice en una línea («La próxima vez, dímelo antes») o lo deja en silencio.
+- ~~**PENDIENTE:** si ella lo dice en una línea («La próxima vez, dímelo antes») o lo deja en silencio.~~ **Resuelto (DECISIÓN DEL AUTOR, 2026-11-16):** silencio; la regla cambia dentro de Kal y el 25 la cobra. El pago de Kaito es en el estacionamiento de la lavandería de la calle Fowler (manda el 37).
 
 **24. La jaula** — mediados de ene A4 · Kal · Almendra Towing, alrededor de un mapa · *(31; parte de II-P11)*
 
@@ -545,6 +547,7 @@ F2 se queda en la Parte III, y el final la cobra **con ecos, no de forma textual
 
 **45. Lo poco que llegué a saber** — oct A4 · Kal · el taller; la Villa; [[05_Locations/Cementerio_Santa_Lucia]] · *(52b; IV-U6)*
 
+- **Redactado (BORRADOR, 2026-11-16, lote 1):** [[11_Books/Book_02_Sombras_De_Poder/Part_04_Torna_A_Casa/45_Lo_Poco_Que_Llegue_A_Saber]]; decisiones del autor en [[98_Agent_Handoff/sessions/2026-11-16_claude_cap45_lo_poco_que_llegue_a_saber]].
 - **Fuente:** [[11_Books/Book_02_Sombras_De_Poder/Part_04_Torna_A_Casa/00_Diseno_Cartas_De_Dale]] (manda).
 - **Canon (2026-10-14):** llegan al taller, en un sobre de paquetería sin remitente, las siete cartas que Dale le escribió desde la cárcel (fechas aleatorias con significado para Dale). Las entrega Manfred Gabe, que las recibió de Walt: **primera aparición del nombre**, sin que Kal le vea la cara; Kal lo lee como un amigo más de su padre que nunca conoció. Kal las lee solo; después busca a Chiara para desahogarse de lo complicado que es ver esa parte de su padre. Antes del viaje, las devuelve a la tumba de Dale, que hasta ahora evitaba tocar. Detonan Stavanger; Crowe sale del detonante.
 - **Relación:** **dejan de esconderse, y empieza él.** Chiara escucha sin editar. **(P):** lo que él no le cuenta es la cuenta con Crowe; tampoco ella le cuenta la de Varek. Las dos deudas siguen en pie.
@@ -593,10 +596,12 @@ F2 se queda en la Parte III, y el final la cobra **con ecos, no de forma textual
 
 **52. Santa Lucía** — esa mañana (antes de las 11; DECISIÓN DEL AUTOR, 2026-11-13) · Kal · Iglesia Santa Lucía · *(56; IV-U13)*
 
+- **Redactado (BORRADOR, 2026-11-16, lote 1):** [[11_Books/Book_02_Sombras_De_Poder/Part_04_Torna_A_Casa/52_Santa_Lucia]]; decisiones del autor en [[98_Agent_Handoff/sessions/2026-11-16_claude_cap52_53_santa_lucia_torna_a_casa]].
 - **Canon:** va solo, enciende una vela y se sienta en una banca a mirar el altar y el Cristo en la cruz. No reza en voz alta ni habla con nadie, y no hay llamada. Es el miedo admitido sin convertirlo en acción: la contracara de un libro de «estoy bien».
 
 **53. Torna a casa** — antes de salir · externo · la Villa · *(57; IV-U14)* — **tic 9**
 
+- **Redactado (BORRADOR, 2026-11-16, lote 1):** [[11_Books/Book_02_Sombras_De_Poder/Part_04_Torna_A_Casa/53_Torna_A_Casa]]; decisiones del autor en [[98_Agent_Handoff/sessions/2026-11-16_claude_cap52_53_santa_lucia_torna_a_casa]].
 - **Canon:** Chiara le pone una mano en el pecho, sobre la placa: «—Torna a casa.». Enciende la vela. Kal cree que habla de los dos; ella sabe que habla de los tres. No hay línea sobre «nuestro hijo» ni se explica la asimetría.
 - **Tic 9:** escribe. La cámara corta antes de que lo queme: esta vez no lo quema, y el lector no lo sabe.
 - **Canon:** no se lo dice para que él vuelva por ella, no por el bebé. En relectura, «Perché ti amo con tutto il mio cuore» carga lo que se calló.
