@@ -154,7 +154,7 @@
 | **Chiara** | **Marisol** | **Un bolígrafo grabado con «Grayson»**, que se da en público y rápido. | Ver §5b. | DECISIÓN DEL AUTOR |
 | **Marisol** | **Bonnie** | **Un dije con el nombre «Bonnie»** (DECISIÓN DEL AUTOR), que Chiara le ayudó a mandar a hacer. | Ver §5b. | DECISIÓN DEL AUTOR |
 | **Walt** | **Meiko** | Unos guantes de manejo de piel, viejos y aceitados. | Le quedan. Es eco discreto de la «Zen Devil». Como la bola 8, no se reutiliza en los caps. 36–39 sin decisión del autor. | DISEÑO |
-| **Harper** | **Danny** | Una gorra acolchada de mecánico, porque el 23 se pegó con el capó. | Danny se la pone toda la noche, y también en la foto. | DISEÑO |
+| **Harper** | **Danny** | Una gorra acolchada de mecánico, porque el 23 se pegó con el capó. | Danny se la pone el resto de la noche. No sale en la foto, que se toma antes del intercambio, y el cap. 39 la describe sin gorra. | DISEÑO |
 | **Héctor** | **Harper** | **La llave de una de las casas de la Almendra que compró Kal** (DECISIÓN DEL AUTOR). «Ya puedes desalojar el cuarto del terreno.» | Ver §5b. | DECISIÓN DEL AUTOR |
 | **Danny** | **Nadir** | Un cochinito alcancía con una moneda adentro, «para que ahorres lo que te roban». | Nadir saca la moneda y la cuenta. | DISEÑO |
 | **Kenji** | **Walt** | Barajas retiradas del Monarch, perforadas «para que nadie le haga trampa». | Eco de Danny en la lotería. | DISEÑO |
@@ -188,7 +188,9 @@
 - **El tope:** la llave no se compró, así que no rompe los veinte dólares, y Nadir no dice nada. Es lo que más vale de la noche y lo que menos costó.
 - **El abrazo:** Harper es la que se deja abrazar «como un poste» a medianoche (prosa del 20). Con Héctor, dos horas antes, abraza de verdad, y es la única vez. A medianoche con Kal sigue siendo un poste. El contraste no se señala.
 - **Eco de largo plazo:** el mapa de reparto tiene PENDIENTE DEL AUTOR construir en el II–III el vínculo de Harper con Héctor para que cobre su disparo. Héctor muere en la montaña en el III y Harper mata a Halbrook al cierre del III. Esta llave es la raíz de ese vínculo: Héctor le dio casa. Lo que Harper hace en el III se puede leer, sin decirlo, como lo que se le hace a quien te dio casa.
-- **PENDIENTE DEL AUTOR:** qué es «el cuarto del terreno» (dónde vivía Harper hasta ahora; el vault no lo fija) y cuál de las casas le toca.
+- **El cuarto (DECISIÓN DEL AUTOR, 2026-11-17):** es el cuarto de block con techo de lámina de la parcela del norte, el de *Tierra buena* (Libro I, hoy [[11_Books/Book_01_Mascaras_De_Cristal/Escenas_Eliminadas/19_Tierra_Buena]]). Kal se lo ofreció así: «Mientras la parcela sea tuya, el cuarto también, y no pagas renta». **El cuarto dependía del trabajo y la casa no depende de nada.** Ése es el regalo real, y no se dice.
+- **Siembra pendiente:** *Tierra buena* es escena eliminada. La parcela sigue viva en la prosa (cap. 31: «antes de que salga de la parcela»), pero el cuarto no. Hace falta una línea antes de Navidad que diga que Harper duerme ahí, por ejemplo en el 19 (beats de día, Harper) o en el decorado del 23.
+- **PENDIENTE DEL AUTOR:** cuál de las casas le toca y si sigue trabajando la parcela desde la Almendra.
 
 **Nadir → Chiara: la carta (DECISIÓN DEL AUTOR)**
 - **Lo que carga:** el hombre que le saca precio a todo regala lo único que no tiene precio. Con el tope de veinte dólares que él mismo impuso, su regalo cuesta cero. Nadir desconfió de Chiara antes de conocerla (canon). La grieta empezó cuando vio cómo lo mira ella cuando Kal no la ve (canon de 2026-10-17). La carta es esa grieta por escrito.
