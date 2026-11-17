@@ -197,7 +197,7 @@ Calendario de dos años (5 ene A3 → dic A4), contado en bloques densos. Las el
 
 - **Función:** la deuda con Crowe descubre a Ren, producción de alta pureza: dinero de otra escala y mayor riesgo federal. Kal responde al fuego construyendo y paga la deuda «Quiero levantarlo» del Libro I.
 - **Beats:** Ren revela su capacidad. Kal compra el resto de las casas para el núcleo del Patio y el barrio se vuelve territorio. Cierra con la azotea: sillones, brasero, toldo, mamparas, decoraciones de cada uno, comida, descanso. El Patio tiene hogar colectivo antes de que el libro empiece a vaciarlo. **(P):** la pureza que paga a Crowe deja excedente, y nace el negocio propio del Patio.
-- **DISEÑO de reparto:** Bonnie y Meiko; la casa de Michael, ligada a Marisol; la vieja casa de Walt; Nadir y Danny; Tyler y Ren.
+- **DISEÑO de reparto:** Bonnie y Meiko; la casa de Michael, ligada a Marisol; la vieja casa de Walt; Nadir y Danny; Tyler y Ren. **DECISIÓN DEL AUTOR (2026-11-17):** una casa queda sin asignar y Harper la recibe en Navidad, de manos de Héctor (cap. 20, amigo secreto).
 - **Relación:** Kal construye para no hablar.
 - **Saldo:** primera entrega a Crowe. Crowe ve que el deudor compra la calle entera.
 - **No hacer:** procedimiento químico. Que la azotea se sienta diseñada por Kal: crece sola.

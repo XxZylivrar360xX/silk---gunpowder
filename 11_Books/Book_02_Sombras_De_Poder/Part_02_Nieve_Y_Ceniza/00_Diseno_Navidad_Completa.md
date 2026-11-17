@@ -155,7 +155,7 @@
 | **Marisol** | **Bonnie** | **Un dije con el nombre «Bonnie»** (DECISIÓN DEL AUTOR), que Chiara le ayudó a mandar a hacer. | Ver §5b. | DECISIÓN DEL AUTOR |
 | **Walt** | **Meiko** | Unos guantes de manejo de piel, viejos y aceitados. | Le quedan. Es eco discreto de la «Zen Devil». Como la bola 8, no se reutiliza en los caps. 36–39 sin decisión del autor. | DISEÑO |
 | **Harper** | **Danny** | Una gorra acolchada de mecánico, porque el 23 se pegó con el capó. | Danny se la pone toda la noche, y también en la foto. | DISEÑO |
-| **Héctor** | **Harper** | Unos guantes de trabajo de piel. | Harper trabaja sin guantes; también los trae sin guantes en el 23. Se los pone y asiente una vez. | DISEÑO |
+| **Héctor** | **Harper** | **La llave de una de las casas de la Almendra que compró Kal** (DECISIÓN DEL AUTOR). «Ya puedes desalojar el cuarto del terreno.» | Ver §5b. | DECISIÓN DEL AUTOR |
 | **Danny** | **Nadir** | Un cochinito alcancía con una moneda adentro, «para que ahorres lo que te roban». | Nadir saca la moneda y la cuenta. | DISEÑO |
 | **Kenji** | **Walt** | Barajas retiradas del Monarch, perforadas «para que nadie le haga trampa». | Eco de Danny en la lotería. | DISEÑO |
 | **Bonnie** | **Tyler** | Una caja de calentadores de manos. | Tyler los usa en el asador, porque se la pasa afuera. | DISEÑO |
@@ -182,6 +182,14 @@
 - **Héctor** sigue usando el termo viejo y guarda el nuevo en su caja, en el casillero, «para cuando se acabe el otro».
 - **Eco en el III:** Héctor muere en la montaña después de H22 (la causa y la posición son PENDIENTE DEL AUTOR; esto no las fija). Kal encuentra el termo nuevo sin estrenar: Héctor guardaba lo nuevo para cuando se acabara lo viejo, y se acabó él primero. Lo que Kal haga con él (usarlo o dárselo a Nat, que Héctor crió) queda abierto.
 
+**Héctor → Harper: la llave (DECISIÓN DEL AUTOR, 2026-11-17)**
+- **En escena (POV Kal):** Héctor le da una llave suelta, sin caja. «Ya puedes desalojar el cuarto del terreno.» Harper, seria, se queda mirando la llave. Se le escapa una lágrima y una mueca que casi fue sonrisa. Voltea a buscar a Kal y Kal, a la distancia, asiente. Al final abraza a Héctor.
+- **Por qué la da Héctor:** la casa es de Kal, que compró el resto de las casas para el núcleo en el cap. 11. En ese reparto Harper no tenía casa. Kal deja que Héctor la entregue, como paga lo de Kaito: sin que se lo agradezcan. El asentimiento a la distancia es lo único que se ve. A Héctor le salió Harper en el sorteo y Kal le dio la llave para que se la diera.
+- **El tope:** la llave no se compró, así que no rompe los veinte dólares, y Nadir no dice nada. Es lo que más vale de la noche y lo que menos costó.
+- **El abrazo:** Harper es la que se deja abrazar «como un poste» a medianoche (prosa del 20). Con Héctor, dos horas antes, abraza de verdad, y es la única vez. A medianoche con Kal sigue siendo un poste. El contraste no se señala.
+- **Eco de largo plazo:** el mapa de reparto tiene PENDIENTE DEL AUTOR construir en el II–III el vínculo de Harper con Héctor para que cobre su disparo. Héctor muere en la montaña en el III y Harper mata a Halbrook al cierre del III. Esta llave es la raíz de ese vínculo: Héctor le dio casa. Lo que Harper hace en el III se puede leer, sin decirlo, como lo que se le hace a quien te dio casa.
+- **PENDIENTE DEL AUTOR:** qué es «el cuarto del terreno» (dónde vivía Harper hasta ahora; el vault no lo fija) y cuál de las casas le toca.
+
 **Nadir → Chiara: la carta (DECISIÓN DEL AUTOR)**
 - **Lo que carga:** el hombre que le saca precio a todo regala lo único que no tiene precio. Con el tope de veinte dólares que él mismo impuso, su regalo cuesta cero. Nadir desconfió de Chiara antes de conocerla (canon). La grieta empezó cuando vio cómo lo mira ella cuando Kal no la ve (canon de 2026-10-17). La carta es esa grieta por escrito.
 - **En escena (POV Kal):** Kal no lee la carta. Ve a Chiara leerla aparte, de pie junto al sedán colgado, y doblarla. La guarda en el bolsillo de la camisa de cuadros, junto a la moneda de Mabel. No le dice nada a Nadir. Más tarde le sirve ponche sin preguntarle. Nadir no la mira.
@@ -206,7 +214,7 @@
 - **Ecos:** Bonnie se va a Boston con el dije después de F2; cría a Elenna con él puesto; en el V vuelve como Roberta Ardizzone, todavía con «Bonnie» al cuello.
 - **El tope:** el dije y el grabado pasan de veinte dólares. Nadir lo protesta. Marisol: «El grabado no cuenta». Sustituye el chiste de Garrett, que se queda en una línea de montaje.
 
-En la página van **los cinco pares del autor**: Meiko a Kal, Kal a Héctor, Nadir a Chiara, Chiara a Marisol y Marisol a Bonnie. El resto se cuenta en un párrafo de montaje.
+En la página van **los seis pares del autor**: Meiko a Kal, Kal a Héctor, Héctor a Harper, Nadir a Chiara, Chiara a Marisol y Marisol a Bonnie. El resto se cuenta en un párrafo de montaje.
 
 **Regla:** nadie le regala a Kal nada de metal ni nada grabado.
 
