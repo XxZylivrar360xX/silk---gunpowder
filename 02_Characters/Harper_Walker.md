@@ -1,4 +1,5 @@
 # Harper "Sparks" Walker
+
 > **DECISIÓN DEL AUTOR (2026-11-17), *Sombras de Poder*, cap. 20:** en el amigo secreto de Navidad, Héctor le da la llave de una de las casas de la Almendra que compró Kal («Ya puedes desalojar el cuarto del terreno»); se le escapa una lágrima, Kal asiente a la distancia y ella abraza a Héctor. Raíz del vínculo Harper–Héctor que cobra en el III. PENDIENTE: qué es «el cuarto del terreno». Ver [[11_Books/Book_02_Sombras_De_Poder/Part_02_Nieve_Y_Ceniza/00_Diseno_Navidad_Completa]].
 
 > **Numeración:** desde 2026-10-22 el Libro I usa numeración corrida definitiva (56 caps.); este documento cita la numeración anterior. Correspondencia en [[11_Books/Book_01_Mascaras_De_Cristal/00_Book_Map]].
