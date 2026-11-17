@@ -93,6 +93,8 @@ Ver [[02_Characters/Chiara_Bellandi]]: "la incomodidad empieza antes de que se c
 
 ### Trato y trayecto con Chiara (CANON DEL AUTOR, 2026-10-22)
 
+> **DECISIÓN DEL AUTOR (2026-11-17), *Sombras de Poder*, cap. 20:** en el amigo secreto de Navidad le da a Chiara una carta: la juzgó antes de conocerla, vio cómo lo mira cuando Kal no la ve, y le pide cuentas claras con Kal. No se revela en el 20; el lector la lee en el IV, cuando Nadir se separa y Chiara la relee. Ver [[11_Books/Book_02_Sombras_De_Poder/Part_02_Nieve_Y_Ceniza/00_Diseno_Navidad_Completa]].
+
 - **Usted hasta el atentado; tú después.** Se hablan de usted desde la ruleta del [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/06_Ambos|Cap. 7 (archivo 06)]] hasta el [[11_Books/Book_01_Mascaras_De_Cristal/Part_02_Con_Peores_Personas_He_Tratado/24b_Lo_Que_Cueste|24b]]. Después del corral (24c), Nadir la tutea y ella a él (31, 38, 46, 47). "Señora" se queda como apodo burlón suyo, también con tú.
 - **No es desprecio.** Nadir no la acepta del todo porque la ve como "una mujer de un mundo imposible para Kal": el de allá arriba (24b). En el 9 y el 10 se nota en la cortesía de huésped y en la objeción con costo, nunca en hostilidad.
 - **Secuencia de encuentros (DECISIÓN DEL AUTOR 2026-11-04):** la ruleta del Cap. 7 (archivo 06; primer encuentro, por el timbre del vestíbulo; rojo, dobla, verde), Gabriella's (Cap. 8: ella le ofrece un favor del Monarch) y el corral de esa madrugada (lo cobra para que Danny monte: «Salió barato»), la casa común (9-10), la terraza (24b), el lago (31), el yate (38), El Patio (46-47). Las discusiones de precios que "la hacían reír" (46) suceden fuera de cuadro.

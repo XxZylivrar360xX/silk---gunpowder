@@ -170,10 +170,10 @@
 > El autor eligió estos cinco pares por lo que van a pagar en la saga, no por la noche misma. Cada regalo es chico y se olvida en la primera lectura, pero cobra en la relectura. Los ecos de abajo son **DISEÑO**: posibilidades que el regalo deja abiertas y que no fijan canon. Donde tocan una escena PENDIENTE del autor se dice.
 
 **Meiko → Kal: el llavero de la bola 8 (DECISIÓN DEL AUTOR)**
-- **El origen:** una partida de pool entre Kal y Meiko, antes de Navidad. Ella iba ganando, cantó la 8 y la metió en la tronera equivocada, así que perdió. «Se ahogó en una tronera equivocada.» **Hoy no existe en prosa**, hay que sembrarla (pregunta abierta). El lugar natural es el billar de atrás del Monarch del Libro I (cap. 16, archivo 17), donde Danny «la conoce de vista» y la cubre.
+- **El origen:** una partida de pool entre Kal y Meiko, antes de Navidad. Ella iba ganando, cantó la 8 y la metió en la tronera equivocada, así que perdió. «Se ahogó en una tronera equivocada.» **DECISIÓN DEL AUTOR (2026-11-17): se siembra en el cap. 19, POV Kal.** El mismo día del adelanto «para mi hermano», al cerrar, juegan en el billar de atrás del Monarch, el del Libro I (cap. 16, archivo 17), donde Danny «la conoce de vista». Lo de Ruth («Mi madre pagó cada apuesta de mi padre…») se dice sobre la mesa. Meiko lo escucha, falla la 8 y pierde.
 - **Lo que carga:** la jugada buena con la decisión equivocada al final. Así es F2: Meiko filtra a Varek para salvarse y defiende la regla que la mata («Por el hospital no. Los ata.»). La bola no lo dice; se nota en la relectura.
 - **Las llaves:** Kal cuelga la bola 8 en las llaves de la grúa grande. Es eco discreto de su oficio de valet («Nadie mira a la que le recibe las llaves», 37).
-- **Ecos:** en el 36, «Hasta mañana, jefe»; en el 38, «Perdóname, jefe»; y el canon «era de los míos». Si Kal la quita después de F2 o no es PENDIENTE DEL AUTOR. Recomiendo que no la quite: es «era de los míos» hecho objeto.
+- **Ecos:** en el 36, «Hasta mañana, jefe»; en el 38, «Perdóname, jefe»; y el canon «era de los míos». **DECISIÓN DEL AUTOR: Kal nunca la quita** de las llaves de la grúa, ni después de F2. Es «era de los míos» hecho objeto y nadie lo comenta.
 - **Sin presagio en la primera lectura:** es una broma entre dos que jugaron una partida.
 - **Regla de Kal:** la bola 8 no es metal grabado, y se acepta porque es un intercambio.
 
@@ -186,9 +186,9 @@
 - **Lo que carga:** el hombre que le saca precio a todo regala lo único que no tiene precio. Con el tope de veinte dólares que él mismo impuso, su regalo cuesta cero. Nadir desconfió de Chiara antes de conocerla (canon). La grieta empezó cuando vio cómo lo mira ella cuando Kal no la ve (canon de 2026-10-17). La carta es esa grieta por escrito.
 - **En escena (POV Kal):** Kal no lee la carta. Ve a Chiara leerla aparte, de pie junto al sedán colgado, y doblarla. La guarda en el bolsillo de la camisa de cuadros, junto a la moneda de Mabel. No le dice nada a Nadir. Más tarde le sirve ponche sin preguntarle. Nadir no la mira.
 - **El papel:** es una hoja de cuaderno de cuentas, rayada en columnas. Chiara, que sólo escribe en papel propio, recibe una carta en el papel de Nadir.
-- **Contenido (DISEÑO, por aprobar; no se revela en el 20):** que la juzgó antes de conocerla; que vio cómo lo mira; y una sola petición, en su idioma de cuentas: **que con Kal las cuentas sean claras**, sin esconderle nada.
+- **Contenido (DECISIÓN DEL AUTOR, 2026-11-17; no se revela en el 20):** que la juzgó antes de conocerla; que vio cómo lo mira; y una sola petición, en su idioma de cuentas: **que con Kal las cuentas sean claras**, sin esconderle nada.
 - **Ironía de largo plazo:** Chiara ya le paga a Varek en secreto desde mayo (la libreta negra del 53). En el III, Kal y ella invierten en el Caldero sin decírselo a Nadir, y en el IV él lo descubre solo, lo cual alimenta su separación. Chiara rompe lo único que Nadir le pidió.
-- **Cobro (PENDIENTE DEL AUTOR):** propuesta: el lector lee la carta cuando Nadir se separa en el IV, porque Chiara la relee. Alternativa: que nunca se revele.
+- **Cobro (DECISIÓN DEL AUTOR):** en el IV, cuando Nadir se separa tras descubrir lo del Caldero, Chiara la relee y el lector la lee con ella.
 
 **Chiara → Marisol: el bolígrafo «Grayson»**
 - **Lo que carga:** Grayson es el apellido de Michael, el amigo del ejército de Kal que murió de cáncer y dejó a Marisol a su cargo. El hijo de Kal y Chiara llevará su nombre.
