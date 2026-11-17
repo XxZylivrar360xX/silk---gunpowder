@@ -42,6 +42,7 @@ El script reutiliza el recolector, la limpieza de metadata y las salvaguardas ed
 
 - Papel A5, márgenes de 18 mm arriba/abajo y 19 mm a los lados, cuerpo de 11 pt e interlineado 1.2.
 - Índice de partes y capítulos, paginación arábiga y créditos.
+- La primera página es la portada ilustrada (`--cover`, ruta relativa al vault; por defecto la v1 de *Máscaras de Cristal*; `--cover ""` la omite). El lanzador del Libro II pasa la suya.
 - La portada tipográfica identifica el archivo como **Borrador de lectura**. Se mantiene así mientras la prosa siga pendiente de revisión del autor.
 - No cambia el EPUB ni las fuentes del manuscrito.
 

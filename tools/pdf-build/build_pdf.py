@@ -75,6 +75,10 @@ def main() -> int:
     parser.add_argument("--output-name", default="Mascaras_De_Cristal")
     parser.add_argument("--paper", default="a5", help="Pandoc paper size (default: a5).")
     parser.add_argument("--draft-label", default="Borrador de lectura")
+    parser.add_argument(
+        "--cover", default="99_Reference/book_covers/Mascaras_De_Cristal_Colombina_v1.png",
+        help="Imagen de portada (ruta relativa al vault); cadena vacía para omitirla.",
+    )
     args = parser.parse_args()
     if Path(args.output_name).name != args.output_name or args.output_name in {".", ".."}:
         print("Error: --output-name debe ser un nombre de archivo simple.", file=sys.stderr)
@@ -131,7 +135,33 @@ def main() -> int:
         f"{excluded_count} notas internas excluidas."
     )
     credits = build_credits_typst(builder, args.title, args.author, args.year)
-    layout = (
+    cover_page = ""
+    if args.cover:
+        cover = (VAULT_ROOT / args.cover).resolve()
+        if not cover.is_file() or not cover.is_relative_to(VAULT_ROOT):
+            print(f"Error: no se encuentra la portada {args.cover} dentro del vault.", file=sys.stderr)
+            return 2
+        paper = {"letter": "us-letter"}.get(args.paper, args.paper)
+        try:  # opcional: JPEG reducido para no inflar el PDF con el PNG completo
+            from PIL import Image
+            TEMP_DIR.mkdir(parents=True, exist_ok=True)
+            reduced = TEMP_DIR / f"{args.output_name}.cover.jpg"
+            with Image.open(cover) as im:
+                im = im.convert("RGB")
+                im.thumbnail((1600, 2560), Image.LANCZOS)
+                im.save(reduced, quality=88, optimize=True)
+            cover = reduced
+        except ImportError:
+            pass
+        cover_ref = typst_string("/" + cover.relative_to(VAULT_ROOT).as_posix())
+        cover_page = (
+            f"#page(paper: {typst_string(paper)}, margin: 0pt, fill: black,"
+            " header: none, footer: none, numbering: none)[\n"
+            f"  #align(center + horizon)[#image({cover_ref}, height: 100%)]\n"
+            "]\n"
+            "#counter(page).update(1)\n"
+        )
+    layout = cover_page + (
         "#show heading.where(level: 1): it => {\n"
         "  set text(hyphenate: false)\n"
         "  pagebreak(weak: true)\n"
@@ -152,6 +182,7 @@ def main() -> int:
             "--toc",
             "--toc-depth=1",
             "--pdf-engine=typst",
+            f"--pdf-engine-opt=--root={VAULT_ROOT}",
             "-V", f"papersize={args.paper}",
             "-V", "fontsize=11pt",
             "-V", "linestretch=1.2",
@@ -168,6 +199,7 @@ def main() -> int:
         manuscript_path.unlink(missing_ok=True)
         credits_path.unlink(missing_ok=True)
         layout_path.unlink(missing_ok=True)
+        (TEMP_DIR / f"{args.output_name}.cover.jpg").unlink(missing_ok=True)
 
     print(f"PDF listo: {output_path}")
     return 0

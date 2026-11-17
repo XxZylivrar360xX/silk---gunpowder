@@ -63,7 +63,7 @@ def main() -> int:
     try:
         for output_format in formats:
             builder = VAULT_ROOT / "tools" / f"{output_format}-build" / f"build_{output_format}.py"
-            options = ["--cover", COVER] if output_format == "epub" else ["--paper", args.paper]
+            options = ["--cover", COVER] + ([] if output_format == "epub" else ["--paper", args.paper])
             subprocess.run(
                 [sys.executable, "-B", str(builder), *common, *options],
                 check=True, cwd=VAULT_ROOT,
