@@ -32,6 +32,9 @@
 4. **Consecuencia de tono:** como es el recuerdo más feliz, la noche no lleva sombra en la primera lectura. Los ecos (bola 8, termo, carta, dije) sólo pesan al releer. El narrador no adelanta nada.
 5. **El bolígrafo «Grayson» se mueve a la graduación de Marisol** (DECISIÓN DEL AUTOR (2026-11-17, tercera ronda); cap. 15, *Lentejuelas*, fin de oct A3). Ahí es más adecuado que Chiara le regale algo así. En Navidad, Chiara le da a Marisol otra cosa, más ligera (§5).
 6. **La hora a solas tiene la dirección del autor** (DECISIÓN DEL AUTOR (2026-11-17, tercera ronda); §3): dos adultos peligrosos, cansados y enamorados, sentados en el piso de una cocina, comportándose por fin como personas normales.
+7. **«Nat tenía razón»** (DECISIÓN DEL AUTOR (2026-11-18)): así queda la línea de los ojos al cierre del 20a (§3).
+8. **Chiara le regala a Marisol un cupcake de *blue velvet*** (DECISIÓN DEL AUTOR (2026-11-18)). En la universidad a Marisol le decían «Red Velvet Cupcake», por pequeña y pelirroja (§5b).
+9. **Se aligera el amigo secreto. El punto más sentimental de la noche es la foto** (DECISIÓN DEL AUTOR (2026-11-18)), la que después va sobre la chimenea de la Villa (§4b).
 - **Compatibilidad con el Libro I:** en el cap. 10 (archivo 10, *El loft del soltero*), Chiara «supo por Danny que Kal la había pasado en El Patio, con los muchachos y una bandeja de Mabel», y la Navidad del Libro I cae sin Kal (custodia, caps. 45–47). Se lee así: aquella Navidad **la pasó**, como una noche de trabajo con comida que le mandaron, y no la celebró. No contradice. Si el autor quiere que se lea sin duda, la línea del Libro I se puede ajustar, pero sólo con su orden.
 
 ## 1. Qué cambia y qué no
@@ -116,9 +119,9 @@
 5. **La malteada.** Un solo vaso y sin protocolo, como una pareja vieja y una pareja nueva al mismo tiempo. Se lo pelean.
 6. **La tierra.** Un poco de silencio y de cansancio. Ella recarga la cabeza en su hombro. El teléfono de Kal vibra una vez en la barra y él no se levanta. Es el único rastro del mundo duro de donde vienen, y por eso esta hora vale oro. No se nombra a Crowe. *(Va antes del beso, para que el beso y la línea de los ojos cierren la escena.)*
 7. **La mancha y el beso de verdad.** Ella le limpia una mancha del labio con el pulgar, y ahí se quedan demasiado cerca. El beso que sigue es el de verdad.
-8. **Los ojos (DECISIÓN DEL AUTOR, 2026-11-18).** Después del beso, ella lo mira fijo. Kal se queda muy quieto, mirándola. Luego dice: «Héctor tenía razón: sí que son diferentes según cómo los mires». Ella, confundida: «¿Qué?». Él: «Vámonos ya, o llegaremos tarde».
+8. **Los ojos (DECISIÓN DEL AUTOR, 2026-11-18).** Después del beso, ella lo mira fijo. Kal se queda muy quieto, mirándola. Luego dice: «Nat tenía razón: sí que son diferentes según cómo los mires». Ella, confundida: «¿Qué?». Él: «Vámonos ya, o llegaremos tarde».
    - **Callback** al Libro I, cap. 3 (*Los viejos días*), en la puerta del penal, antes de que salga Walt: Kal pregunta «¿Los ojos, según el color, brillan más?», Héctor dice «¿De qué hablas?», Nat contesta «Depende… De los ojos que los miren». Es el eco de los ojos verdes de Chiara del cap. 2. Chiara no estaba ahí y no puede entender: por eso el «¿Qué?» funciona, y Kal no se lo explica.
-   - **PENDIENTE DEL AUTOR (discrepancia con el canon del cap. 3):** en el Libro I quien contesta es **Nat**, no Héctor; Héctor sólo dice «¿De qué hablas?». Opciones: (a) «Nat tenía razón», que además siembra a Nat horas antes de que pase por el taller; (b) dejar «Héctor», como error de Kal, aunque él estaba ahí y difícilmente se equivocaría. La línea queda como la dictó el autor hasta que decida.
+   - **Resuelto (DECISIÓN DEL AUTOR (2026-11-18)):** dice «Nat», que es quien contestó en el cap. 3. Además nombra a Nat horas antes de que pase por el taller: Chiara todavía no la conoce, y el «¿Qué?» es doble.
 9. **La salida.** Se levantan, ella se sacude la harina de la camisa y bajan. Cierre del 20a: los dos bajando hacia la nave encendida.
 
 **Lo que no se hace:** que hablen «como adolescentes», bromas bobas, slapstick, puro azúcar. Tampoco se menciona *Ambos* ni se explica por qué la hamburguesa.
@@ -160,6 +163,18 @@
 
 **Regla.** No se glosa que Chiara se acordó de todos ni que «el lugar de la gente de Kal» es ahora también el suyo. Lo dicen los platos.
 
+## 4b. La foto: el punto más sentimental de la noche (DECISIÓN DEL AUTOR (2026-11-18))
+
+**Qué es.** La foto de Nochebuena con toda la banda (DECISIÓN DEL AUTOR, 2026-11-12). La toma Chiara con el teléfono de Kal, gritándoles que se junten, y ella no sale. Kal no mira al lente: mira por encima, a ella. Chiara la imprime en enero, en papel bueno, la pone en un marco de plata sobre la repisa de mármol de la chimenea de la Villa (39) y vuelve en el final (57).
+
+**Por qué es el pico.** En la primera Navidad que Kal celebra, éste es el momento en que la familia existe toda junta en un solo cuadro. Todo lo demás de la noche gira alrededor: la cena la prepara y el amigo secreto, ya aligerado, la sigue sin competirle.
+
+**Cómo se escribe (DISEÑO):**
+- **Cuándo:** a media cena, con los platos a medio terminar, como la describe el 39. Va antes del intercambio, y por eso Danny no lleva la gorra.
+- **Lo que ve Kal:** el desorden de juntarlos (Meiko prendida del brazo de Bonnie, Danny haciéndole cuernos a Nadir, Héctor con su sonrisa chica) y, arriba del teléfono, a Chiara gritando. No mira al lente porque la está mirando a ella. Es la imagen que el 39 describe desde fuera; el 20b la da desde dentro.
+- **Extensión:** un párrafo corto, el de más calor de la noche. No una escena.
+- **Compatibilidad con la regla del 2026-11-12** («pasa de largo, en una línea; nadie la mira después; no pesa como presagio»): se mantiene que **nadie la mira después y no hay presagio**. Lo que cambia es el peso en el momento: ya no es una línea de paso, sino el párrafo donde la noche llega a su punto más alto. El dolor lo pone el 39, no el 20.
+
 ## 5. El amigo secreto
 
 **Para qué sirve.** Es la única forma de regalo que Kal entiende: todos dan, todos reciben y la cuenta cierra. Por eso acepta lo de Meiko sin incomodidad. A las 00:30 el collar le pesa justo porque no hubo papel en el casco con el nombre de ella. No se explica nunca.
@@ -180,7 +195,7 @@
 | **Meiko** | **Kal** | **Un llavero con una bola 8** (DECISIÓN DEL AUTOR), por la partida de pool que ella casi gana y perdió al meter la 8 en la tronera equivocada. Sólo dice: «Para la grande.» Kal entiende solo y lo pone en las llaves de la grúa grande. | Ver §5b. | DECISIÓN DEL AUTOR |
 | **Kal** | **Héctor** | **Un termo de acero**, porque el de Héctor tiene veinte años y gotea. «Éste no gotea.» «No.» «El otro tampoco goteaba.» Héctor lo guarda sin estrenar (DECISIÓN DEL AUTOR). | Ver §5b. | DECISIÓN DEL AUTOR |
 | **Nadir** | **Chiara** | **Una carta** (DECISIÓN DEL AUTOR), escrita a mano y sin precio. | Ver §5b. | DECISIÓN DEL AUTOR |
-| **Chiara** | **Marisol** | **Por decidir; algo ligero.** Propuesta A: una copia de la llave del Audi de Kal, «para que dejes de pedírsela». Kal: «Es mi coche». Chiara: «Es tu coche. La llave es mía». Propuesta B: un juego de recipientes con tapa, «para que la caponata viaje en algo que no sean tus piernas». | El bolígrafo «Grayson» se movió a la graduación (cap. 15). Ver §5b. | DISEÑO, PENDIENTE DEL AUTOR |
+| **Chiara** | **Marisol** | **Un cupcake de *blue velvet*** (DECISIÓN DEL AUTOR (2026-11-18)), hecho por ella. En la universidad le decían «Red Velvet Cupcake», por pequeña y pelirroja. | Comedia. Ver §5b. | DECISIÓN DEL AUTOR (2026-11-18) |
 | **Marisol** | **Bonnie** | **Un dije con el nombre «Bonnie»** (DECISIÓN DEL AUTOR), que Chiara le ayudó a mandar a hacer. | Ver §5b. | DECISIÓN DEL AUTOR |
 | **Walt** | **Meiko** | Unos dados de peluche para el retrovisor, rojos y enormes. | Meiko: «Ni loca», y los cuelga esa misma noche. Comedia sin eco: Meiko ya carga la bola 8 y no necesita otro objeto que duela después. | DECISIÓN DEL AUTOR (2026-11-17, ajuste aprobado) |
 | **Harper** | **Danny** | Una gorra acolchada de mecánico, porque el 23 se pegó con el capó. | Danny se la pone el resto de la noche. No sale en la foto, que se toma antes del intercambio, y el cap. 39 la describe sin gorra. | DECISIÓN DEL AUTOR (2026-11-17, ajuste aprobado) |
@@ -216,7 +231,7 @@
 - **Eco en el III:** Héctor muere en la montaña después de H22 (la causa y la posición son PENDIENTE DEL AUTOR; esto no las fija). Kal encuentra el termo nuevo sin estrenar: Héctor guardaba lo nuevo para cuando se acabara lo viejo, y se acabó él primero. Lo natural es que Kal se lo dé a Nat: los dos termos, el que ella le regaló y el que él nunca estrenó (DISEÑO, por fijar en el III).
 
 **Héctor → Harper: la llave (DECISIÓN DEL AUTOR, 2026-11-17)**
-- **En escena (POV Kal):** Héctor le da una llave suelta, sin caja. «Ya puedes desalojar el cuarto del terreno.» Harper, seria, se queda mirando la llave. Se le escapa una lágrima y una mueca que casi fue sonrisa. Voltea a buscar a Kal y Kal, a la distancia, asiente. Al final abraza a Héctor.
+- **En escena (POV Kal):** Héctor le da una llave suelta, sin caja. «Ya puedes desalojar el cuarto del terreno.» Harper, seria, se queda mirando la llave. Le sale una mueca que casi fue sonrisa. Voltea a buscar a Kal y Kal, a la distancia, asiente. Abraza a Héctor un segundo, fuerte y torpe, y lo suelta. *(DECISIÓN DEL AUTOR (2026-11-18): se aligera el amigo secreto; sale la lágrima. El abrazo se queda porque es la raíz del III.)*
 - **Por qué la da Héctor:** la casa es de Kal, que compró el resto de las casas para el núcleo en el cap. 11. En ese reparto Harper no tenía casa. Kal deja que Héctor la entregue, como paga lo de Kaito: sin que se lo agradezcan. El asentimiento a la distancia es lo único que se ve. A Héctor le salió Harper en el sorteo y Kal le dio la llave para que se la diera.
 - **El tope:** la llave no se compró, así que no rompe los veinte dólares, y Nadir no dice nada. Es lo que más vale de la noche y lo que menos costó.
 - **El abrazo:** Harper es la que se deja abrazar «como un poste» a medianoche (prosa del 20). Con Héctor, dos horas antes, abraza de verdad, y es la única vez. A medianoche con Kal sigue siendo un poste. El contraste no se señala.
@@ -241,7 +256,13 @@
 - El bolígrafo grabado con «Grayson» ya no va en Navidad. Chiara se lo regala a Marisol en su graduación (cap. 15, *Lentejuelas*), que es donde un regalo así tiene sentido: el día en que Marisol empieza a firmar.
 - Lo que cargaba se conserva allá: el apellido de Michael; «Para que firmes con el tuyo» (regla del papel propio de Chiara); Kal lee el grabado y piensa en Michael sin decirlo; Marisol se queda sin réplica; el eco de su carrera hasta fiscal de distrito y la posible firma de la recusación en el VI (PENDIENTE DEL AUTOR).
 - **Ganancia:** se resuelve el riesgo de dos objetos grabados de Chiara la misma noche. En Navidad el único metal grabado de ella es el collar.
-- **En Navidad**, Chiara le da algo ligero (tabla, PENDIENTE DEL AUTOR). **Propuesta A, la llave del Audi:** cómica en la primera lectura; en la relectura, Marisol va en ese Audi cuando el Lancia de Chiara la embiste al cierre de la Parte II. Es un eco fuerte, quizá demasiado para una noche que se quiere ligera. **Propuesta B, los recipientes:** pura comedia, cobra el «No le confío la caponata a nadie que cobre» de la tarde.
+- **En Navidad: el cupcake de *blue velvet* (DECISIÓN DEL AUTOR (2026-11-18)).** Se descartan la llave del Audi y los recipientes.
+  - **El apodo:** en la Ashcombe a Marisol le decían «Red Velvet Cupcake», por pequeña (1.62 m, «pequeña y ligera») y pelirroja. Lo odia.
+  - **Cómo lo sabe Chiara (siembra, DISEÑO):** en la graduación (cap. 15), cuando dicen su nombre para *Palabras de la generación*, alguien de su generación grita «¡Red Velvet!» desde las gradas. Marisol sube al estrado fulminando la grada. Kal no lo había oído nunca. Chiara sí lo oye y lo guarda. Así, los dos regalos de Chiara a Marisol salen de la misma noche: el bolígrafo, que es serio, se da ahí, y el apodo se cobra en Navidad como broma.
+  - **Por qué azul:** el rojo era la de la universidad. La línea posible de Chiara: «Red velvet era la de la Ashcombe. Ya te graduaste». Es un ascenso en clave de chiste.
+  - **Lo hace ella**, de la misma masa de la cena casera: cuesta casi nada y respeta el tope. Nadir no protesta.
+  - **En escena (POV Kal):** Marisol lo abre y se pone del color del pastel que no es. «¿Quién te dijo?» Chiara: «Tu generación entera. A gritos». Kal ve el azul y, por el ritual de las puntas rubias que le parecen absurdas, le suelta a Marisol: «Ni se te ocurra». Ella se come el cupcake de dos mordidas, sin convidar.
+  - **Opción de eco (DISEÑO, por aprobar):** Bonnie oye el apodo y lo adopta, «Cupcake», y es la única que se lo dice después. Es la amistad con química del II y un apodo que puede volver en el VII. Si se toma, Marisol se lo tolera sólo a ella.
 
 **Marisol → Bonnie: el dije «Bonnie» (DECISIÓN DEL AUTOR)**
 - **Lo que carga:** su nombre. Bonnie se va a Boston después de F2 y vuelve a San Aurelio unos veinte años después **como Bonnie García** (DECISIÓN DEL AUTOR, 2026-11-15: se retira «Roberta Ardizzone»). El dije es el nombre que se va y el que vuelve. Cobra cuando al fin estén juntas, en el VII.
@@ -258,14 +279,14 @@ En la página van **los seis pares del autor**: Meiko a Kal, Kal a Héctor, Héc
 
 ### 5c. Orden del intercambio (DECISIÓN DEL AUTOR (2026-11-17, ajuste aprobado))
 
-Con la lágrima de Harper, la carta y el silencio de Bonnie, el intercambio se puede volver solemne. Danny dicta el orden sacando nombres otra vez del casco (y hace trampa, como siempre), así que se **alterna emotivo y cómico**:
+**DECISIÓN DEL AUTOR (2026-11-18): el intercambio es ligero; el pico de la noche ya pasó con la foto (§4b).** Lo que pesa (la llave, la carta y el dije) se da breve y protegido por humor. Danny dicta el orden sacando nombres otra vez del casco (y hace trampa, como siempre), así que se **alterna emotivo y cómico**:
 
 1. **Danny → Nadir** (cómico): Danny abre porque no aguanta. Los puños de la moto.
-2. **Héctor → Harper** (emotivo): la llave.
+2. **Héctor → Harper** (contenido): la llave, sin lágrima.
 3. **Harper → Danny** (cómico): Harper da justo después, con los ojos rojos, y le encasqueta la gorra sin ceremonia. Ella misma rompe su momento.
 4. **Nadir → Chiara** (emotivo, protegido): «Es lo más barato que he regalado en mi vida».
 5. **Kal → Héctor** (seco): el termo y la antífona.
-6. **Chiara → Marisol** (cómico): el regalo ligero que se decida.
+6. **Chiara → Marisol** (cómico): el cupcake de *blue velvet*.
 7. **Mabel → Garrett** (cómico): Garrett se cambia la corbata en la mesa.
 8. **Marisol → Bonnie** (emotivo, protegido): la broma de la cuneta; Nadir protesta el tope; «El grabado no cuenta».
 9. **Montaje** (cómico): Garrett a Russ, Walt a Meiko, Kenji a Walt, Russ a Kenji, Tyler a Ren, Bonnie a Tyler, Ren a Mabel.
@@ -326,8 +347,8 @@ Con la lágrima de Harper, la carta y el silencio de Bonnie, el intercambio se p
   - **20b:** de la cena al collar y la carretera.
 - **Cada uno cierra en alto:** el 20a, con los besos y los dos bajando hacia la nave encendida; el 20b, con el collar.
 - **Renumeración:** el Libro II pasa a **58 capítulos** y hay que renumerar del 21 en adelante (`Book_Map`, guía, tarjetas, matriz y notas que citan números). Se hace al redactar los dos capítulos. Los archivos pueden conservar su nombre con la convención del Libro I (20a, 20b).
-- **Qué aligerar (propuesta del agente; PENDIENTE DEL AUTOR):** sin tocar el dije, las hamburguesas ni la carta.
-  - **La llave de Harper:** se queda la mueca que casi fue sonrisa y el asentimiento de Kal; la lágrima se puede quitar. El abrazo a Héctor se queda, porque es la raíz del III.
+- **Qué se aligera (DECISIÓN DEL AUTOR (2026-11-18): aligerar el amigo secreto; aplicado):** sin tocar el dije, las hamburguesas ni la carta.
+  - **La llave de Harper:** se queda la mueca que casi fue sonrisa y el asentimiento de Kal; sale la lágrima. El abrazo a Héctor se queda, breve, porque es la raíz del III.
   - **El bolígrafo:** resuelto; se movió a la graduación (cap. 15).
   - **El termo:** se queda la antífona seca; lo de Nat no se ve en el 20 y vive sólo en el diseño, para el III.
   - **La bola 8:** ya es ligera; se queda como está.
