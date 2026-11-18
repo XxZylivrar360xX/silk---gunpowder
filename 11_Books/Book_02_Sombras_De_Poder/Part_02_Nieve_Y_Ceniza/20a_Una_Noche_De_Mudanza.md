@@ -446,9 +446,9 @@ Se miró en el vidrio de la ventana de la cocina, que ya estaba oscuro.
 
 Kal se desabrochó el suyo. Era el de siempre, de piel café, gastado en el doblez de la hebilla. Se lo pasó por detrás de la cintura, por encima de la camisa, y lo jaló hasta el último agujero. Le sobraba un palmo.
 
-Ella esperó. Él fue a la alacena del pasillo, la del cajón de los apagones, el de las velas, y volvió con un clavo largo y el martillo chico. Puso el cinturón sobre la tabla de picar, en la isla, midió con el pulgar contra la cintura de ella sin tocarla y clavó una vez, seco. El clavo atravesó la piel y se clavó en la tabla. Lo sacó con los dedos.
+Ella esperó. Él fue a la alacena del pasillo, la del cajón de los apagones, el de las velas, y volvió con un clavo largo y el martillo chico. Puso el cinturón sobre la tabla de picar, en la isla, midió con el pulgar contra la cintura de ella sin tocarla y le dio al clavo. El clavo se ladeó en la piel vieja. Kal lo enderezó con los dedos, dijo algo entre dientes y le dio otra vez, más fuerte de lo necesario. La tabla brincó. El clavo pasó. Lo sacó a tirones, y el agujero quedó chueco, con la piel levantada alrededor.
 
-Se arrodilló en el piso de la cocina para abrochárselo. Pasó la punta por la hebilla, metió el clavo de la hebilla en el agujero nuevo y el cinturón cerró justo, sin apretar y sin sobrar, a la altura de la cintura de ella y no un dedo más arriba o más abajo.
+Se arrodilló en el piso de la cocina para abrochárselo. Pasó la punta por la hebilla. El clavo de la hebilla no entró a la primera, porque el agujero nuevo era más chico que los otros, y Kal lo forzó con el pulgar hasta que pasó. El cinturón cerró a la altura de la cintura de ella, ni más arriba ni más abajo, con el agujero torcido a la vista y la punta colgándole casi hasta la cadera.
 
 Chiara se miró el cinturón. Lo miró a él, de rodillas.
 
