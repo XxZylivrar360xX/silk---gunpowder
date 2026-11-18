@@ -1,6 +1,8 @@
 # Harper "Sparks" Walker
 
 > **DECISIÓN DEL AUTOR (2026-11-17), *Sombras de Poder*, cap. 20:** en el amigo secreto de Navidad, Héctor le da la llave de una de las casas de la Almendra que compró Kal («Ya puedes desalojar el cuarto del terreno»); se le escapa una lágrima, Kal asiente a la distancia y ella abraza a Héctor. Raíz del vínculo Harper–Héctor que cobra en el III. El cuarto es el de block de la parcela del norte (*Tierra buena*, hoy escena eliminada); hay que resembrarlo en el Libro II antes de Navidad. Ver [[11_Books/Book_02_Sombras_De_Poder/Part_02_Nieve_Y_Ceniza/00_Diseno_Navidad_Completa]].
+>
+> **SUPERSEDIDO (DECISIÓN DEL AUTOR (2026-11-18)):** ya no hay amigo secreto y la llave no se entrega en Navidad. Su casa vuelve a ser PENDIENTE (cuál y cuándo). La línea «El cuarto está igual de frío» del 20a queda como textura.
 
 > **Numeración:** desde 2026-10-22 el Libro I usa numeración corrida definitiva (56 caps.); este documento cita la numeración anterior. Correspondencia en [[11_Books/Book_01_Mascaras_De_Cristal/00_Book_Map]].
 

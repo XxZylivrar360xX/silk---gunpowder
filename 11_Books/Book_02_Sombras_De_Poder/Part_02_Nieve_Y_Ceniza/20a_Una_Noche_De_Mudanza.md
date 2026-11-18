@@ -11,13 +11,13 @@ personajes: Kal Mercer, Chiara Bellandi, Héctor Navarro, Danny Hayes, Nadir Amr
 ---
 
 <!--
-Estado: BORRADOR del agente (Claude Code, 2026-11-18), para lectura del autor. Primera mitad del antiguo cap. 20 *El collar* (DECISIÓN DEL AUTOR, 2026-11-17: la Navidad se parte en 20a y 20b). Reescrito desde el BORRADOR del 2026-11-16 con [[11_Books/Book_02_Sombras_De_Poder/Part_02_Nieve_Y_Ceniza/00_Diseno_Navidad_Completa]]. Sigue en [[11_Books/Book_02_Sombras_De_Poder/Part_02_Nieve_Y_Ceniza/20b_El_Collar]].
+Estado: BORRADOR del agente (Claude Code, 2026-11-18), para lectura del autor. Sin amigo secreto desde el 2026-11-18 (DECISIÓN DEL AUTOR): salen el tope, las llamadas de Danny y la compra del termo. Primera mitad del antiguo cap. 20 *El collar* (DECISIÓN DEL AUTOR, 2026-11-17: la Navidad se parte en 20a y 20b). Reescrito desde el BORRADOR del 2026-11-16 con [[11_Books/Book_02_Sombras_De_Poder/Part_02_Nieve_Y_Ceniza/00_Diseno_Navidad_Completa]]. Sigue en [[11_Books/Book_02_Sombras_De_Poder/Part_02_Nieve_Y_Ceniza/20b_El_Collar]].
 
 CANON y DECISIONES DEL AUTOR que ejecuta: la petición del 23 y la decoración de madrugada («Tú no organizas. Tú cargas»; «Una noche de mudanza»); helada sin nieve; las luces del garaje de atrás; «Mercer. Llévatela»; las camisas de cuadros como idea de Danny; la llegada «¡Mujer, ya llegó el hombre de la casa!» con sus líneas textuales (siembra 2 de 5 de «sono a casa»); el catering del Monarch sólo transporta; Marisol baja la caponata en las piernas; la hora a solas en la Villa con la dirección del autor (2026-11-17: «dos adultos peligrosos, cansados y enamorados, sentados en el piso de una cocina, comportándose por fin como personas normales»): el cinturón y «Te he cargado», la hamburguesa y la malteada («Me dijiste "lo que sea"»), el piso contra el horno, el beso de verdad y la línea de los ojos, literal del autor (2026-11-18): «Nat tenía razón: sí que son diferentes según cómo los mires» / «¿Qué?» / «Vámonos ya, o llegaremos tarde». Callback al Libro I, cap. 3.
 
-DISEÑO del agente: el termo de Héctor que gotea (siembra del regalo del 20b); el recordatorio del tope a las 03:10 y Kal sin regalo; la siembra del cuarto de Harper en la parcela («El cuarto está igual de frío»); la compra del termo; la comedia de la carga con el jefe de banquetes; la curva siete pasa al chofer del catering; «La tuya es otra»; los beats menudos de la cocina (papa, cuchara, nuca, mancha, teléfono que vibra); la coda en la esquina de la lavandería.
+DISEÑO del agente: la siembra del cuarto de Harper en la parcela («El cuarto está igual de frío»); la comedia de la carga con el jefe de banquetes; la curva siete pasa al chofer del catering; «La tuya es otra»; los beats menudos de la cocina (papa, cuchara, nuca, mancha, teléfono que vibra); la coda en la esquina de la lavandería.
 
-Depende de capítulos sin redactar: el garaje (19), el adelanto «para mi hermano» y lo de Ruth (19), el incendio (10), el sorteo del amigo secreto (~10 dic, fuera de cuadro). La prosa los toca como hechos ya ocurridos y no los nombra.
+Depende de capítulos sin redactar: el garaje (19), el adelanto «para mi hermano» y lo de Ruth (19), el incendio (10). La prosa los toca como hechos ya ocurridos y no los nombra.
 -->
 
 # Una noche de mudanza
@@ -146,7 +146,7 @@ Nadie le contestó, y nadie tuvo que hacerlo. Héctor fue por otro tramo de luce
 
 Cuando Chiara lo conectó, el sedán se encendió entero, azul por debajo y amarillo por dentro de las luces, colgando en el aire como si estuviera en una vitrina. Alguien aplaudió. Kal no supo quién. Se dio cuenta de que él estaba sonriendo cuando vio que Héctor lo miraba.
 
-Héctor no dijo nada. Volvió a la escalera. Antes de subir se sirvió café del termo que tenía en el banco de las llaves, el de siempre, de acero mate con la tapa abollada, y lo dejó otra vez en su lugar. Del fondo del termo bajó una gota por el costado y fue a dar a la madera, junto al anillo café que había dejado la gota de la noche anterior, y la de la otra, y la de veinte inviernos.
+Héctor no dijo nada. Volvió a la escalera. Antes de subir se sirvió café del termo que tenía en el banco de las llaves, el de siempre, de acero mate con la tapa abollada, y lo dejó otra vez en su lugar.
 
 ***
 
@@ -238,29 +238,13 @@ No lo dijo de ninguna manera; nada más la apagó, y en el silencio que quedó t
 
 Danny fue el que rompió el silencio, porque alguien tenía que hacerlo.
 
-—Mañana es el amigo secreto. —Lo dijo a toda la nave, con las manos en la cintura—. Nadie se me olvide. El que llegue sin regalo lava las ollas de Mabel.
+—Mañana a las ocho. —Lo dijo a toda la nave, con las manos en la cintura—. Nadie se me olvide. El que llegue tarde lava las ollas de Mabel.
 
-—Veinte dólares —dijo Nadir desde la puerta de la oficina, con la chaqueta ya puesta—. Y alguien llámele a Garrett y dígale que veinte quiere decir veinte.
+—Las ollas las lavo yo —dijo Mabel—. Nadie toca mis ollas.
 
-—Garrett ya sabe.
+—Entonces el que llegue tarde no come.
 
-—Garrett nunca sabe.
-
-Danny se volteó hacia Kal. Lo miró de arriba abajo, despacio, como miraba un motor que hacía un ruido que no le gustaba.
-
-—Jefe.
-
-Kal no dijo nada.
-
-—Jefe. No ha comprado nada.
-
-—Mañana.
-
-—Mañana es el día. —Danny se llevó las dos manos a la cabeza, al chichón del capó—. Ni me diga quién le tocó, porque ya sé.
-
-—Tú sabes todos.
-
-—Sé todos menos uno. —Danny miró hacia Meiko, que se estaba poniendo la chaqueta junto a la compresora, y Meiko le sostuvo la mirada hasta que él la bajó—. Y ése me lo llevo a la tumba.
+Nadie le discutió eso.
 
 Harper fue la última en guardar la escalera chica. Kal la vio dudar en la puerta del almacén, con la llave del candado en la mano.
 
@@ -313,18 +297,6 @@ El 24 en la mañana hizo la guardia. No hubo nada: un cliente que quería saber 
 Eran siete, de cuadros, nuevas, todavía dobladas con los alfileres de la tienda. Las tendió en el mostrador de la oficina como quien tiende cartas.
 
 —Para los que no tienen —dijo—. Una para usted, jefe, porque las que tiene son feas. Una para la señora Chiara, una para Harper, que no va a querer pero se la va a poner, una para Bonnie, una para Mei, y una para Ren, que se la voy a dejar en su silla. Que la vea.
-
-Después se sentó en la orilla del escritorio y se puso a llamar por teléfono a los que no habían estado en el sorteo, uno por uno, para decirles a quién les había tocado. A cada uno le decía que era secreto. A cada uno, sin querer, le decía también algún otro.
-
-Al mediodía Kal cerró la oficina y fue a la ferretería de la Ochenta. Había gente comprando foquitos de repuesto y extensiones y cinta de aislar, con la cara de quien ya sabe que va a llegar tarde a algo. Kal recorrió el pasillo de las herramientas, el de las mangueras y el de la cocina, y en el de la cocina, en la repisa de abajo, había termos. Agarró el de acero, el que pesaba más, y le dio vuelta a la tapa dos veces para oír cómo cerraba. Cerraba bien. Costaba diecinueve con noventa.
-
-—¿Se lo envuelvo? —le preguntó la cajera.
-
-Kal miró el papel de regalo que tenía la muchacha detrás, en un rollo, rojo con renos blancos.
-
-—No.
-
-Se lo envolvió de todos modos, porque era Nochebuena y se le olvidó que él había dicho que no, y Kal no se lo dijo.
 
 ***
 

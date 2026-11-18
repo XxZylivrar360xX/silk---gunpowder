@@ -13,9 +13,9 @@ personajes: Kal Mercer, Chiara Bellandi, Héctor Navarro, Danny Hayes, Nadir Amr
 <!--
 Estado: BORRADOR del agente (Claude Code, 2026-11-18), para lectura del autor. Segunda mitad del antiguo cap. 20 *El collar* (DECISIÓN DEL AUTOR, 2026-11-17: la Navidad se parte en 20a y 20b). Reescrito desde el BORRADOR del 2026-11-16 con [[11_Books/Book_02_Sombras_De_Poder/Part_02_Nieve_Y_Ceniza/00_Diseno_Navidad_Completa]]. Viene de [[11_Books/Book_02_Sombras_De_Poder/Part_02_Nieve_Y_Ceniza/20a_Una_Noche_De_Mudanza]].
 
-CANON y DECISIONES DEL AUTOR que ejecuta: la Nochebuena en la nave; Dario y Tommaso no van; la cena casera de Chiara, un platillo por persona, con el *buccellato* de Marta al centro y los tamales y el ponche de Mabel; la foto, el punto más sentimental de la noche, tomada por Chiara con la cámara que le regaló Héctor, sin describir la imagen (la descripción es de Chiara en el 39); ella no sale y Kal mira por encima, a ella; el amigo secreto aligerado, con los pares y regalos del autor (Meiko → Kal, la bola 8, «Para la grande»; Kal → Héctor, el termo, «Éste no gotea» / «No» / «El otro tampoco goteaba», que Héctor guarda sin estrenar; Héctor → Harper, la llave de la casa, «Ya puedes desalojar el cuarto del terreno», sin lágrima, con el asentimiento de Kal y el abrazo; Nadir → Chiara, la carta, que no se lee; Chiara → Marisol, el cupcake de *blue velvet*, y Bonnie se queda con «Cupcake»; Marisol → Bonnie, el dije con su nombre, «El grabado no cuenta»); el remate de la correa («No se mueve nada»); Nat de paso; lotería y tombola con Mabel; Kaito en el portón, sólo Kal lo ve y no interviene; «—¿Todo bien?» / «—Todo bien, jefe.»; *cuccidati* en caja con el nombre de cada uno, también para Kal; Kal sale por el calor antes de medianoche y Chiara lo saca con un pretexto a las 00:30; el collar TORNA A CASA a solas y afuera, sin explicar su función, con las líneas del informe, la pronunciación corregida, el broche y la mano sobre la placa; «Cosas de familia»; sin la mañana del 25. Primera Navidad que Kal celebra: no se dice.
+CANON y DECISIONES DEL AUTOR que ejecuta: la Nochebuena en la nave; Dario y Tommaso no van; la cena casera de Chiara, un platillo por persona, con el *buccellato* de Marta al centro y los tamales y el ponche de Mabel; la foto, el punto más sentimental de la noche, tomada por Chiara con la cámara que le regaló Héctor, sin describir la imagen (la descripción es de Chiara en el 39); ella no sale y Kal mira por encima, a ella; sin amigo secreto (DECISIÓN DEL AUTOR, 2026-11-18): el juego en familia es la lotería; el único detalle aparte de Chiara es el cupcake de *blue velvet* para Marisol, y Bonnie se queda con «Cupcake»; quedan sueltos el dije (Marisol → Bonnie, en los abrazos), la carta de Nadir (al recibir su caja; no se lee) y la bola 8 de Meiko («Jefe, Nadir dice que odias la Navidad, pero espero que no odies mi obsequio también»); salen el termo y la llave de Harper; el remate de la correa («No se mueve nada»); Nat de paso; lotería y tombola con Mabel; Kaito en el portón, sólo Kal lo ve y no interviene; «—¿Todo bien?» / «—Todo bien, jefe.»; *cuccidati* en caja con el nombre de cada uno, también para Kal; Kal sale por el calor antes de medianoche y Chiara lo saca con un pretexto a las 00:30; el collar TORNA A CASA a solas y afuera, sin explicar su función, con las líneas del informe, la pronunciación corregida, el broche y la mano sobre la placa; el diálogo canon de las dos promesas y la vela (2026-11-18); sin la mañana del 25. Primera Navidad que Kal celebra: no se dice.
 
-DISEÑO del agente: el descubrimiento de los platillos por la mirada de Kal; la mecánica del intercambio (Danny saca los nombres del casco de soldar) y los pares de montaje; las pistas y réplicas menores; Nat y la venda; «¿Ésa es Nat?»; los ajustes de la lotería, el abrazo de medianoche y las cajas.
+DISEÑO del agente: el descubrimiento de los platillos por la mirada de Kal; «Me dio el adelanto, jefe. Estamos a mano»; las pistas y réplicas menores; Nat y la venda; «¿Ésa es Nat?»; los ajustes de la lotería, el abrazo de medianoche y las cajas.
 
 Depende de capítulos sin redactar o de microediciones: la partida de pool del 19 (la bola 8); la graduación del 15 (el apodo «Red Velvet»); la cámara de Héctor en el yate (Libro I, cap. 35). La prosa los toca como hechos ya ocurridos y no los nombra.
 -->
@@ -118,99 +118,7 @@ Ella se bajó de la silla, guardó la cámara en el bolso y ya estaba hablando d
 
 ***
 
-A las nueve y media, Danny se subió a una silla con el casco de soldar de Héctor en las manos.
-
-—El amigo secreto —anunció—. Es ley.
-
-—No es ley —dijo Héctor.
-
-—Es ley desde hace dos semanas.
-
-Hacía dos semanas, en el taller, Danny había sacado los papelitos de ese mismo casco, uno por uno, y antes de empezar había sacado el de Kal y el de Chiara y los había apartado, y había dicho «Ustedes dos no se pueden tocar, eso no es secreto, es matrimonio», y Chiara se había reído con la boca cerrada, y Kal no.
-
-Danny metió la mano en el casco.
-
-—Ahora saco quién da. El que da, da. —Sacó un papel. Lo leyó. Lo guardó en el bolsillo—. Doy yo.
-
-—Hiciste trampa —dijo Marisol.
-
-—Saqué mi nombre. Es el destino. —Se bajó de la silla con un paquete envuelto en periódico y se lo plantó en el pecho a Nadir—. Para tus rutas.
-
-Nadir lo abrió como se abre una cuenta que uno ya sabe que viene mal. Eran unos puños forrados, de los de motociclista, gruesos, para el manubrio. Los miró. Los apretó.
-
-—¿Cuánto costaron?
-
-—Menos que la moto.
-
-Nadir lo miró un segundo largo. Después se rió, una vez, por la nariz, y se los metió en las bolsas de la chaqueta, uno en cada una.
-
-Danny volvió a meter la mano en el casco.
-
-—Héctor.
-
-Héctor no se levantó de inmediato. Se terminó lo que tenía en la cuchara. Después se paró, cruzó la nave, sin paquete, sin bolsa, con las manos vacías, y se detuvo frente a Harper, que estaba sentada con la espalda derecha y el plato del pan de maíz limpio enfrente.
-
-Se metió la mano en el bolsillo de la camisa y sacó una llave. Una sola, sin llavero, sin caja, de las de puerta, todavía brillante de nueva copia. Se la puso en la mano.
-
-—Ya puedes desalojar el cuarto del terreno.
-
-Harper se quedó mirando la llave.
-
-No preguntó de dónde. Kal la vio entenderlo sin preguntar, en la mano abierta, en el peso que no tenía una llave: que el cuarto de block era de ella mientras la parcela fuera de ella, y que esto no era de ella mientras nada. Era de ella y ya. Se le movió la boca. No fue una sonrisa. Fue el lugar donde habría estado una.
-
-Levantó la vista. No hacia Héctor. Buscó por la nave, por encima de las cabezas, hasta que encontró a Kal, junto a la jarra del ponche.
-
-Kal asintió una vez.
-
-Harper se levantó y abrazó a Héctor. Fue un segundo. Fuerte y mal hecho, con los brazos demasiado arriba, como quien abraza algo que se le va a caer, y lo soltó tan rápido como lo había agarrado, y se volvió a sentar, y se guardó la llave en el bolsillo de la camisa de cuadros que Danny le había dado y que no iba a querer ponerse y se había puesto.
-
-Héctor se fue a su lugar. Se sentó. Agarró la cuchara.
-
-—Harper —dijo Danny, porque nadie más podía decir nada todavía.
-
-Harper se levantó otra vez. Agarró de abajo de su silla una bolsa de papel, cruzó la nave hasta Danny y le encasquetó en la cabeza, sin ceremonia, hasta las cejas, una gorra acolchada de mecánico, de las que tienen relleno por dentro.
-
-—Por el capó —dijo.
-
-Danny se tocó por primera vez el chichón de la noche anterior, debajo de la gorra. Se la acomodó. No se la quitó en lo que quedaba de la noche.
-
-—Nadir.
-
-Nadir se levantó con las manos en las bolsas, encima de los puños nuevos, y fue hasta Chiara sin apuro. Sacó del bolsillo de adentro de la chaqueta un papel doblado en cuatro.
-
-—Es lo más barato que he regalado en mi vida —dijo, a la nave, no a ella.
-
-Le dio el papel y ya estaba mirando otra cosa: el calentador, el techo, la cuenta de algo. Volvió a su lugar.
-
-Chiara no lo abrió en la mesa. Se levantó, fue hasta el sedán colgado, se paró debajo, junto a la columna, donde la luz de las tiras le caía amarilla, y lo desdobló. Era una hoja de cuaderno de cuentas, de las rayadas en columnas, arrancada por el borde. Kal, desde la jarra, sólo alcanzó a ver la primera línea, escrita a lápiz, con la letra apretada de Nadir, la de los recibos.
-
-*Señora:*
-
-No vio más. Vio a Chiara leerla, entera, sin mover la cara. La vio doblarla otra vez, por los mismos dobleces, y guardarla en el bolsillo de la camisa de cuadros, encima de la mancha de malteada. No volteó hacia Nadir. Volvió a la mesa.
-
-Nadir no la miró volver.
-
-—Kal —dijo Danny.
-
-Kal fue hasta el banco de las llaves, donde había dejado el paquete en la mañana, envuelto en papel rojo con renos blancos, y se lo dio a Héctor, que estaba sentado con el termo viejo junto al plato, el de acero mate con la tapa abollada.
-
-Héctor quitó el papel. Abrió la caja. Sacó el termo nuevo, lo pesó en la mano, le dio vuelta a la tapa dos veces para oír cómo cerraba.
-
-—Éste no gotea —dijo Kal.
-
-Héctor miró el termo nuevo. Miró el viejo, junto a su plato, con su anillo café en el mantel de Ida Pruitt.
-
-—No.
-
-Lo volvió a meter en la caja. Cerró la caja.
-
-—El otro tampoco goteaba.
-
-Se sirvió café del viejo. Kal no le discutió.
-
-—Chiara.
-
-Chiara fue hasta Marisol con una cajita de cartón blanco, de las de pastelería, de un solo hueco, y se la puso en las manos.
+Chiara no se sentó tampoco después de la foto. Fue a la oficina y volvió con una cajita de cartón blanco, de las de pastelería, de un solo hueco, y se la puso a Marisol en las manos, en la mesa, sin ceremonia, entre el plato y el vaso.
 
 —Red velvet era la de la Ashcombe —le dijo—. Ya te graduaste.
 
@@ -238,61 +146,31 @@ Kal vio el azul, y vio las puntas del pelo de Marisol, rubias, ese decolorado qu
 
 Marisol lo miró con los ojos entrecerrados, como quien anota algo para usarlo después. Se comió el cupcake en dos mordidas, sin convidar a nadie, ni a Kenji.
 
-—Mabel.
+Chiara ya estaba en otra mesa, levantando tapas.
 
-Mabel le dio a Garrett una caja chata envuelta en papel de estraza. Adentro había una corbata navideña, verde, con renos que tenían la nariz roja de lentejuela.
+Un rato después, cuando Kal volvía de la parrilla con la jarra llena, Meiko se le atravesó en el camino. Tenía algo chico en la mano, envuelto en una servilleta del Monarch.
 
-—Para que te quites la otra cuando vengas aquí.
+—Jefe, Nadir dice que odias la Navidad, pero espero que no odies mi obsequio también.
 
-Garrett se quitó la otra. Ahí, en la mesa, sin levantarse, deshizo el nudo de la de seda y se puso la de los renos, y se la anudó con el mismo nudo de siempre, de abogado, perfecto, y quedó peor, y Mabel se la acomodó con las dos manos y le dio dos palmadas en el pecho.
+Se lo puso en la mano libre. Estaba frío.
 
-—Marisol.
+Kal dejó la jarra en un banco y desenvolvió la servilleta. Era un llavero. Una bola de billar, negra, chica, con el ocho en un círculo blanco, colgada de una argolla.
 
-Marisol se limpió el betún azul de los dedos con la servilleta, sacó una cajita negra, chica, de bisagra, y se la puso a Bonnie enfrente, en la mesa, encima del plato del pan que le había quitado.
+La partida le volvió entera, sin pedirla: el billar de atrás del Monarch, la mesa con el paño gastado, ella dos bolas arriba, cantando la ocho con el taco ya en posición, segura, y la ocho entrando limpia, en la tronera de al lado de la que había cantado. Meiko mirándola caer como quien ve un coche ajeno pasarse un alto.
 
-—Para que te identifiquen en la cuneta —le dijo, antes de que la abriera.
+—No te compré nada —dijo Kal.
 
-Bonnie la abrió.
+—Me dio el adelanto, jefe. Estamos a mano.
 
-Era un dije, en una cadena delgada. Una placa chica, de plata, con un nombre grabado, en letra de molde.
+Ya se estaba dando la vuelta.
 
-*BONNIE.*
-
-Bonnie no dijo nada. Kal no la había visto nunca sin decir nada con algo enfrente; Bonnie siempre tenía algo que decir de lo que tenía enfrente, aunque fuera la bomba de agua. Lo leyó. Lo leyó otra vez. Sacó la cadena de la caja y se la puso ahí mismo, por encima de la cabeza, sin abrir el broche, y se metió la placa debajo de la camisa de cuadros.
-
-—Eso pasa de veinte dólares —dijo Nadir.
-
-—El grabado no cuenta —dijo Marisol.
-
-—El grabado es lo que más cuenta.
-
-—No en este tribunal.
-
-Kenji sonreía. Kal lo vio sonreír sin saber por qué sonreía, contento por las dos, mirando a Marisol y a Bonnie como se mira algo que funciona. Chiara, en la otra punta, no sonreía ni dejaba de sonreír. Miraba la cajita negra, vacía, en la mesa.
-
-Después ya fue todo más rápido. Garrett le dio a Russ una bufanda de cachemira que costaba lo que costaban todos los demás regalos juntos, y Nadir dijo «Garrett», y Garrett dijo «Ya protestaste por el dije, no te queda protesta». Walt le dio a Meiko unos dados de peluche para el retrovisor, rojos y enormes, y Meiko dijo «Ni loca», y se los colgó del cuello y no se los quitó. Kenji le dio a Walt dos barajas retiradas del Monarch, con el agujero de la perforadora en el centro de cada carta, «para que nadie le haga trampa», y Walt las sostuvo un segundo más de lo que se sostiene una baraja, y dijo «Gracias, muchacho», y se las guardó en el saco. Russ le dio a Kenji un libro viejo, de venta de garaje, con las esquinas dobladas, que se llamaba *Administración de hoteles y restaurantes*, «para cuando te aburras de contar dinero ajeno», y Kenji lo hojeó con la cara de quien recibe una broma que no entiende del todo y lo puso bajo el plato. Tyler le dio a Ren una cinta métrica nueva, de las buenas, de cinco metros, sin decirle por qué, y Ren la sacó, la midió contra la suya de memoria, dijo «Le falta un milímetro» y se la guardó en el bolsillo de la camisa blanca. Bonnie le dio a Tyler una caja de calentadores de manos, que Tyler abrió y usó en el asador lo que le quedó de noche. Ren le dio a Mabel una lotería nueva, con el recibo de veinte dólares exactos pegado por detrás con cinta, y Mabel dijo que la vieja era mejor y se quedó con las dos.
-
-Quedaba un papel en el casco. Danny lo sacó, lo leyó y se lo guardó sin decirlo, como si no lo hubiera sacado.
-
-—Mei.
-
-Meiko se levantó con los dados de peluche colgando del cuello. Fue hasta Kal, que seguía de pie junto a la jarra, y le puso en la mano algo chico, frío, envuelto en una servilleta del Monarch.
-
-Kal desenvolvió la servilleta. Era un llavero. Una bola de billar, negra, chica, con el ocho en un círculo blanco, colgada de una argolla.
-
-—Para la grande —dijo Meiko.
-
-Nada más. Ya se estaba dando la vuelta.
-
-Kal se quedó con la bola en la palma. La partida le volvió entera, sin pedirla: el billar de atrás del Monarch, la mesa con el paño gastado, ella dos bolas arriba, cantando la ocho con el taco ya en posición, segura, y la ocho entrando limpia, en la tronera de al lado de la que había cantado. Meiko mirándola caer como quien ve un coche ajeno pasarse un alto.
-
-Sacó del bolsillo las llaves de la grúa grande y le metió la argolla.
+Kal sacó del bolsillo las llaves de la grúa grande y le metió la argolla.
 
 ***
 
 A las diez y cuarto alguien partió por fin la rosca.
 
-Fue Danny, porque nadie más se atrevía, con un cuchillo del cajón de la oficina que no era para pan. La corteza estaba dura y el relleno blando, y el cuchillo patinó en la corteza y se le fue al dedo. No mucho. Lo suficiente para que la sangre cayera en el mantel de Ida Pruitt, y para que Danny dijera una palabra que hizo que Mabel le diera con la mano abierta en la nuca, por encima de la gorra nueva.
+Fue Danny, porque nadie más se atrevía, con un cuchillo del cajón de la oficina que no era para pan. La corteza estaba dura y el relleno blando, y el cuchillo patinó en la corteza y se le fue al dedo. No mucho. Lo suficiente para que la sangre cayera en el mantel de Ida Pruitt, y para que Danny dijera una palabra que hizo que Mabel le diera con la mano abierta en la nuca.
 
 Chiara ya estaba ahí con una servilleta, apretándole el dedo.
 
@@ -312,7 +190,7 @@ Nat le quitó la servilleta a Chiara sin pedírsela, le vio el dedo, le dijo que
 
 —No lo mojes.
 
-Héctor ya se había levantado. Le sirvió un plato de pozole y se lo dio de pie, sin preguntarle, y Nat lo recibió de pie y se lo comió de pie, a cucharadas rápidas, de turno. Walt, que estaba explicándole algo a Russ con las barajas perforadas, dejó de explicar. No se levantó. Se quedó mirándola comer.
+Héctor ya se había levantado. Le sirvió un plato de pozole y se lo dio de pie, sin preguntarle, y Nat lo recibió de pie y se lo comió de pie, a cucharadas rápidas, de turno. Walt, que estaba explicándole algo a Russ, dejó de explicar. No se levantó. Se quedó mirándola comer.
 
 Chiara se acercó a Kal, junto a la jarra.
 
@@ -384,7 +262,7 @@ Ganó Chiara la cuarta ronda. No gritó «lotería». Gritó, con el frijol toda
 
 —Lotería.
 
-—Así se dice —dijo Mabel, y fue a revisarle la tabla con el dedo, y la tenía bien, y le dio de premio una moneda de cincuenta centavos que sacó del delantal, que Chiara se guardó en el bolsillo de la camisa de cuadros, junto al papel de Nadir, como si fuera de oro.
+—Así se dice —dijo Mabel, y fue a revisarle la tabla con el dedo, y la tenía bien, y le dio de premio una moneda de cincuenta centavos que sacó del delantal, que Chiara se guardó en el bolsillo de la camisa de cuadros, encima de la mancha de malteada, como si fuera de oro.
 
 Fue entonces cuando le dio el calor.
 
@@ -410,7 +288,7 @@ Estaba del otro lado de la reja, bajo el reflector de la entrada, con las manos 
 
 Kal no se movió. Desde el estribo, en la sombra de la grúa, nadie lo veía.
 
-Meiko salió un minuto después, sin chaqueta, con la camisa de cuadros y los dados de peluche todavía colgados del cuello, con los brazos cruzados contra el frío, y caminó hasta el portón sin apurarse. No abrió la reja. Hablaron bajo. Kal no oía las palabras; oía el tono de él, suave, razonable, con risa adentro, y alcanzó a oír «nada más esta vez».
+Meiko salió un minuto después, sin chaqueta, con la camisa de cuadros y los brazos cruzados contra el frío, y caminó hasta el portón sin apurarse. No abrió la reja. Hablaron bajo. Kal no oía las palabras; oía el tono de él, suave, razonable, con risa adentro, y alcanzó a oír «nada más esta vez».
 
 —Lárgate, Kaito. —No lo dijo bajo. Se le quebró la voz en el nombre y no le importó—. Ya no. ¿Me oíste? No voy a pagar nada más por ti. Nada. Ni un dólar. Ni uno.
 
@@ -432,7 +310,7 @@ Kal se levantó y entró detrás de ella antes de que se acabara la ronda.
 
 A medianoche, Mabel apagó la radio, se paró en una silla y contó hacia atrás desde diez.
 
-Era costumbre del barrio, y Kal la conocía desde antes de saber contar, de verla por las ventanas de los vecinos: en Nochebuena, a las doce, se abrazaba uno con todos los que hubiera en el cuarto, uno por uno, sin saltarse a nadie, aunque fueran cien, aunque no se conocieran, aunque se odiaran. Chiara no la conocía. Kal la vio quedarse quieta cuando Mabel dijo «uno» y todos se pararon al mismo tiempo, y la vio entender un segundo después, cuando Danny cruzó la nave con los brazos abiertos desde la otra punta, con la gorra nueva y el dedo vendado, y la abrazó primero a ella, antes de que ella decidiera nada, levantándola un poco del piso.
+Era costumbre del barrio, y Kal la conocía desde antes de saber contar, de verla por las ventanas de los vecinos: en Nochebuena, a las doce, se abrazaba uno con todos los que hubiera en el cuarto, uno por uno, sin saltarse a nadie, aunque fueran cien, aunque no se conocieran, aunque se odiaran. Chiara no la conocía. Kal la vio quedarse quieta cuando Mabel dijo «uno» y todos se pararon al mismo tiempo, y la vio entender un segundo después, cuando Danny cruzó la nave con los brazos abiertos desde la otra punta, con el dedo vendado, y la abrazó primero a ella, antes de que ella decidiera nada, levantándola un poco del piso.
 
 Después fue todo el mundo. Kal abrazó a Walt, que le dio dos palmadas exactas en la espalda. A Nadir, que le dijo algo en árabe al oído. A Harper, que se dejó abrazar con los brazos pegados al cuerpo, como un poste, y cuando él ya la soltaba le dio una palmada en el hombro. A Meiko, que lo abrazó rápido y fuerte, y se fue al siguiente. A Ren, que extendió la mano primero y, como Kal no se la tomó, se dejó abrazar con la espalda derecha. A gente que conocía y a gente que no. A Mabel, que se bajó de la silla para abrazarlo y le dijo «Mijo» y nada más.
 
@@ -445,6 +323,28 @@ Héctor lo abrazó corto. Dos golpes con la mano abierta en la espalda, de los q
 —Héctor.
 
 Eso fue todo. Héctor lo soltó y se fue a buscar su plato.
+
+Marisol y Bonnie llegaron una a la otra al último, en la orilla de la mesa, porque las dos habían empezado por las puntas contrarias. Se abrazaron como se abrazaba la gente de ese barrio, con golpes en la espalda. Al soltarla, Marisol sacó del bolsillo una cajita negra, chica, de bisagra, y se la puso a Bonnie en la mano.
+
+—Para que te identifiquen en la cuneta.
+
+Bonnie la abrió.
+
+Era un dije, en una cadena delgada. Una placa chica, de plata, con un nombre grabado, en letra de molde.
+
+*BONNIE.*
+
+Bonnie no dijo nada. Kal no la había visto nunca sin decir nada con algo enfrente; Bonnie siempre tenía algo que decir de lo que tenía enfrente, aunque fuera la bomba de agua. Lo leyó. Lo leyó otra vez. Sacó la cadena de la caja y se la puso ahí mismo, por encima de la cabeza, sin abrir el broche, y se metió la placa debajo de la camisa de cuadros.
+
+—Esto no lo pagaste con propinas.
+
+—El grabado no cuenta.
+
+—El grabado es lo que más cuenta.
+
+—No en este tribunal.
+
+Chiara, al otro lado de la nave, con los brazos todavía abiertos para el siguiente abrazo, miraba la cajita negra, vacía, en la mano de Bonnie.
 
 Tyler se había movido toda la vuelta. Kal lo había visto ir de un abrazo a otro siempre en dirección contraria a donde estaba Chiara, como un planeta que no quiere cruzarse con otro, hasta que se acabaron los abrazos y quedó en la orilla, junto a la puerta lateral, sin haber llegado a ella.
 
@@ -476,11 +376,23 @@ Nadir la sopesó en la mano antes de abrirla. La abrió. Adentro había galletas
 
 —Nadir —dijo Chiara.
 
-Nadir se comió una. Dejó de preguntar.
+Nadir se comió una. Dejó de preguntar. Se metió la mano en el bolsillo de adentro de la chaqueta y sacó un papel doblado en cuatro, y se lo puso a Chiara encima de la torre de cajas que le quedaba.
+
+—Es lo más barato que he regalado en mi vida —dijo, a la nave, no a ella.
+
+Ya estaba mirando otra cosa: el calentador, el techo, la cuenta de algo. Volvió a su lugar.
+
+Chiara no lo abrió ahí. Dejó las cajas, fue hasta el sedán colgado, se paró debajo, junto a la columna, donde la luz de las tiras le caía amarilla, y lo desdobló. Era una hoja de cuaderno de cuentas, de las rayadas en columnas, arrancada por el borde. Kal, desde su lugar, sólo alcanzó a ver la primera línea, escrita a lápiz, con la letra apretada de Nadir, la de los recibos.
+
+*Señora:*
+
+No vio más. Vio a Chiara leerla, entera, sin mover la cara. La vio doblarla otra vez, por los mismos dobleces, y guardarla en el bolsillo de la camisa de cuadros, junto a la moneda de Mabel. No volteó hacia Nadir. Volvió a las cajas.
+
+Nadir no la miró volver.
 
 —Danny. Kenji. Marisol. Bonnie.
 
-Siguió. A cada uno le daba la caja de la misma manera: le decía el nombre, se la ponía en las manos y pasaba al siguiente. Héctor abrió la suya ahí mismo, se comió una galleta de un bocado mirando a Mabel a los ojos y se guardó la caja bajo el brazo, junto a la del termo, como si alguien se las fuera a quitar. Meiko tomó la suya con las dos manos y se quedó un momento leyendo su nombre, el largo, escrito entero, *Meiko*, y después se sentó con la caja en las piernas y no la abrió. Garrett la recibió con una pequeña inclinación de cabeza y los renos de lentejuela en el pecho. Ren dijo «gracias» con todas las letras.
+Siguió. A cada uno le daba la caja de la misma manera: le decía el nombre, se la ponía en las manos y pasaba al siguiente. Héctor abrió la suya ahí mismo, se comió una galleta de un bocado mirando a Mabel a los ojos y se guardó la caja bajo el brazo, como si alguien se la fuera a quitar. Meiko tomó la suya con las dos manos y se quedó un momento leyendo su nombre, el largo, escrito entero, *Meiko*, y después se sentó con la caja en las piernas y no la abrió. Garrett la recibió con una pequeña inclinación de cabeza. Ren dijo «gracias» con todas las letras.
 
 —Tyler.
 

@@ -79,6 +79,8 @@ Su presencia cambia la naturaleza de la escena.
 Héctor representa **al hombre que permaneció**, y es el que crió a Natalie mientras Walt no estaba.
 
 > **DECISIÓN DEL AUTOR (2026-11-17), *Sombras de Poder*, cap. 20:** el termo viejo de Héctor, el que gotea, se lo regaló Nat con sus primeros ahorros cuando él la criaba. En Navidad Kal le regala uno nuevo y Héctor lo guarda sin estrenar («El otro tampoco goteaba»). Ver [[11_Books/Book_02_Sombras_De_Poder/Part_02_Nieve_Y_Ceniza/00_Diseno_Navidad_Completa]].
+>
+> **SUPERSEDIDO en parte (DECISIÓN DEL AUTOR (2026-11-18)):** sin amigo secreto, Kal no le regala el termo nuevo a Héctor. El origen del termo viejo (regalo de Nat) queda como dato de ficha, sin escena.
 
 Kal representa **al niño que Walt conoció y que regresó convertido en adulto**.
 
