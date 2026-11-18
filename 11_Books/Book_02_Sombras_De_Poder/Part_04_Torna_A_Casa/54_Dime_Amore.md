@@ -10,6 +10,7 @@ localizacion: la Villa Candelaria (un lote por Las Gemelas, cerros del este-nore
 personajes: Chiara Bellandi, Camila Rivas, Natalie Keegan; por radio y teléfono, Kal Mercer y Walt Keegan
 ---
 
+<!--
 > **Estado:** BORRADOR del agente (Claude Code, 2026-11-13), tercera versión para lectura del autor (2026-11-13: aligerada la manipulación de *El Faro* y pulidas las transiciones del almacén; llamadas y cierre intactos). Fuera de `CHAPTERS` de `tools/build_sombras.py`: no entra al EPUB.
 >
 > **Ajuste del autor (2026-11-12):** la primera llamada ocurre en la Villa. Chiara está sola, sin más ruido que la lluvia; despierta de una siesta, abre la portátil, ve las transmisiones volverse virales y reconoce a Kal por **la máscara de malvavisco**; por eso llama. El enfrentamiento es en el sur. Después de la llamada, **ella arma el triaje**.
@@ -19,6 +20,7 @@ personajes: Chiara Bellandi, Camila Rivas, Natalie Keegan; por radio y teléfono
 > **CANON citado literal:** «Dime, Amore»; la segunda llamada completa (ortografía normalizada, «Ma dai»); «Todos están fuera, vamos a casa»; la frase al cielo. **PROVISIONAL:** «Te vi… con la cabeza de malvavisco» / «Nadie le dispara a un malvavisco» (frase de Danny, cap. 1 del Libro I, ahora en boca de Kal) y las líneas de la hamburguesa doble (siembra para el 57). **DISEÑO del agente:** el video del malvavisco y sus comentarios; las llaves del almacén (una mudanzera quebrada en Canal Seco que Chiara visitó en noviembre buscando bodega para el papel de *El Faro*); la única transmisión de Chiara por el canal abierto (prepara «Estuviste en radio», 56); la cinta de colores de Nat; el muerto bajo las mantas de mudanza; la versión del accidente de moto, dictada a la residente por boca de Camila (ya no se publica en *El Faro*), para el muchacho que va a Santa Aurelia; el protocolo de Halbrook leído en la transmisión; la línea de Walt por radio; Rafe avisando en septiembre que los Bravos van con Crowe (D12, P), y el eco de Meiko (Kal manda al hospital a uno con la pierna abierta, oído por Chiara).
 
 > **REUBICADO (2026-11-15, CANON DEL AUTOR: el voto inverso):** la Villa está en **un lote por Las Gemelas**, velada a los enemigos (centro → Las Gemelas: 50–70 min). **DISEÑO del agente en la reubicación:** Chiara despierta a la una y diez (antes, las dos y diez) para que la hora larga de bajada no empuje el almacén más allá de las 4:43; abetos en lugar de los arces de la calle; «desde un sofá en los cerros, a una hora del primer puente»; la bajada por la carretera del norte con la radio en el tres; Camila llega pocos minutos después que ella (antes, veinte). Ver [[07_Ideas/El_Voto_Inverso]] · [[05_Locations/La_Villa]] · [[98_Agent_Handoff/sessions/2026-11-15_claude_reubicacion_villa_54_56]].
+-->
 
 # Dime, Amore
 

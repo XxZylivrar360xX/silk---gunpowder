@@ -10,6 +10,7 @@ localizacion: un galpón de empaque cerrado al norte, pasando Cedar Flats; la 10
 personajes: Kal Mercer, Nadir Amrani, Harper Walker, Danny Hayes, Dario Varek, Chiara Bellandi; Meiko Nakano (vista de lejos); dos hombres de Varek
 ---
 
+<!--
 > **Estado:** BORRADOR del agente (Claude Code, terminal T2 del lote 1, 2026-11-16), para lectura del autor. Fuente: [[11_Books/Book_02_Sombras_De_Poder/00_Guia_Redaccion_Capitulos]], ficha del 23; tarjetas P9 y P10 de la [[11_Books/Book_02_Sombras_De_Poder/Part_02_Nieve_Y_Ceniza/00_Tarjetas_Parte_II|Parte II]].
 >
 > **CANON (hechos):** primera incursión de Kal como activo de campo de Dario; escolta cocaína del norte al puerto; un grupo rival sabe del cargamento; persecución; para perder a la policía se tiran con el coche a la bahía; Kal, Nadir, Harper y Danny se esconden por separado. Sale sin avisarle; ella enciende la vela **después**: *«Dio, grazie per averlo riportato a casa.»* Kal la ve escribir de lejos, no alcanza a leer y no pregunta; ella lo quema en la vela (tic 4). A Chiara no le duele que salga, sino que no le avisó. Kal paga la deuda de Kaito: *«Lo del hermano queda saldado.»*; no pregunta y lo lee mal. **Siembra obligatoria para el 57:** el papel crema, grueso, con olor a canela, doblado en las manos de ella junto a la vela, y él no pregunta.
@@ -17,6 +18,7 @@ personajes: Kal Mercer, Nadir Amrani, Harper Walker, Danny Hayes, Dario Varek, C
 > **DECISIONES DEL AUTOR (2026-11-16, «Acepto todas»):** Chiara no dice «La próxima vez, dímelo antes»: silencio. El motivo (P) se acepta: Kal necesita el paraguas de Dario entre Halbrook y Nadir; vive sólo en su cabeza. Kal ve a Meiko con dos hombres de Varek en la rampa del Monarch hacia las dos de la mañana; paga con su dinero, sin violencia, en la lavandería de la calle Fowler, el martes a las diez (manda el 37); sin cifra. El rival no tiene nombre. Kal revisa la placa del collar una vez. Detalle en [[98_Agent_Handoff/sessions/2026-11-16_claude_cap23_la_vela_tardia]].
 >
 > **DISEÑO del agente:** el galpón del norte, el camión de lechuga, el sedán gris; el corte en la 101 a la altura de Los Álamos; el muelle de la refinería; el autobús muerto del patio de chatarra; la gasolinera del amanecer; el teléfono en el arroz como detonante; las velas de apagón del cajón de la cocina y el plato de café.
+-->
 
 # La vela tardía
 

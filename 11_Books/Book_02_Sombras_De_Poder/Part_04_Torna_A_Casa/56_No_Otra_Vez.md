@@ -11,6 +11,7 @@ personajes: Chiara Bellandi, Kal Mercer, Natalie Keegan (al abrir), Camila Rivas
 hito: H1 — El regreso a casa (movimientos 4 a 8)
 ---
 
+<!--
 > **Estado:** BORRADOR del agente (Claude Code, 2026-11-13), tercera versión para lectura del autor (2026-11-13: revisión editorial de un subagente; calibración del autor: el cuerpo cobra y Walt deja huella). Fuera de `CHAPTERS` de `tools/build_sombras.py`: no entra al EPUB.
 >
 > **CANON citado literal (H1):** «Me encuentro bien.» / «No otra vez.»; «Cuéntamelo de principio a fin.» / «Estuviste en radio.» / «Lo estuve, pero quiero escucharte.»; el delirio con pausas («Tus ojos brillan.» / «Me gusta cuando brillan.» / «Deberías sonreír más, bella, cuando lo haces yo...» / «No te preocupes tanto por todo.»); «¿Por qué siempre te preocupas tanto? Lo ves, estoy bien.» / «Perché ti amo con tutto il mio cuore.»; «Volevo solo tornare a casa per mantenere la mia promessa, amore.». **CANON (hechos):** Chiara llega después que Kal y viene de dejar a Nat; las velas apagadas por una ventana abierta; el papel en su bolsillo; el agua muy oscura; el collar puesto, sin señalarlo; hospitales vigilados; Camila, que no sabe del embarazo; la grieta de la voz en el eco de Corrado y no antes; Kal no responde a la declaración; nadie más habla en los diálogos de la pareja; el embarazo no se revela ni se piensa.
@@ -22,6 +23,7 @@ hito: H1 — El regreso a casa (movimientos 4 a 8)
 > **Ajuste del autor (2026-11-15), la llegada (CANON DEL AUTOR, redacción del agente):** como siempre que llega, Chiara le habla en voz alta: «Cariño, sono a casa.»; al no oír respuesta lo busca en la cochera, donde se pasa horas en los motores de sus coches, y en la cocina, donde suele estar picando algo; luego se asoma por la escalera: «¿Kal, llegaste ya?»; entonces lo ve en la piscina y sale. Líneas citadas literal. **DISEÑO dentro del ajuste:** el capó del coche viejo, la tabla seca; las cortinas que se mueven las ve después de la escalera, y a Kal lo ve desde la sala, antes de salir.
 >
 > **Segundo ajuste del autor (2026-11-15): la rutina de llegada es CANON** ([[06_Relationships/Kal_y_Chiara#CANON — La llegada: «sono a casa»]]). Ella siempre llega con «sono a casa», con mote o sin él (sin mote, día pesado); él contesta dónde está: «Cocina.», «Cochera.» o «Despacho.». Aplicado: Chiara espera la palabra y no llega; fuera la glosa de la cochera y la cocina. **El mote (CANON DEL AUTOR, 2026-11-15):** el día más pesado del libro, ella dice el mote igual porque las alarmas le gritan y tiene miedo; romper la regla es la señal (sin glosa en página). **Depende de una siembra** antes del 54 (PENDING); si se siembra, la línea que enumera las tres palabras puede adelgazar. Ver [[07_Ideas/El_Voto_Inverso]] · [[05_Locations/La_Villa]] · [[98_Agent_Handoff/sessions/2026-11-15_claude_reubicacion_villa_54_56]].
+-->
 
 # No otra vez
 

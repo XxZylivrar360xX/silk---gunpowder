@@ -8,7 +8,9 @@ localizacion: Stavanger, Noruega
 personajes: Kal Mercer, Chiara Bellandi
 ---
 
+<!--
 > **Separación (DECISIÓN DEL AUTOR, 2026-11-07):** Stavanger, Henrik y la cabaña son capítulos distintos. Canon y notas del viaje: cabecera de [[11_Books/Book_02_Sombras_De_Poder/Part_04_Torna_A_Casa/Ya_Llego]].
+-->
 
 # Stavanger
 

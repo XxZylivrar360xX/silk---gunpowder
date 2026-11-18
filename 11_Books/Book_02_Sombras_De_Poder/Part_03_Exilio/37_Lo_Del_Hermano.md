@@ -10,6 +10,7 @@ localizacion: la oficina de Varek sobre el palco de propietarios del hipódromo 
 personajes: Kal Mercer, Dario Varek, Nadir Amrani, Héctor Navarro, Meiko Nakano; al final, Chiara Bellandi
 ---
 
+<!--
 > **Estado:** BORRADOR del agente (Claude Code, 2026-11-13), para lectura del autor. Segundo capítulo del arco de Meiko. Fuente: [[11_Books/Book_02_Sombras_De_Poder/00_Guia_Redaccion_Capitulos]], ficha del 37.
 >
 > **CANON (hechos):** «Lo del hermano queda saldado» (CANON 2026-11-07) es lo que delata a Meiko; Kal se lo dice sólo a Nadir y a Héctor; Héctor le pide calma porque es una niña que actuó por miedo (sentido del autor, no línea literal); Kal pospone el juicio hasta acabar la operación y se lo dice a Meiko; no se lo dice a Chiara. **DISEÑO del agente:** la reunión en el hipódromo; el dato con que Varek se delata («el primer tiro fue para un almendro», que Kal no le contó a Chiara); las razones para llevarla a la operación; la conversación nocturna completa con Meiko («Cuando usted lo dijo ya era tarde»; la pregunta de quién pagó; el «Jefe…» que Kal corta con «Después.»). **PENDIENTE que la prosa sostiene sin resolver:** qué filtró Meiko con exactitud, más allá de lo que veía sirviendo en las salas de Chiara. **Guarda:** nada del Lancia ni de los frenos; nada de Tommaso; Varek no queda probado más allá de que su gente sabe.
@@ -19,6 +20,7 @@ personajes: Kal Mercer, Dario Varek, Nadir Amrani, Héctor Navarro, Meiko Nakano
 > **VALET Y MOTIVO DEL CORRALÓN (2026-11-15, revisión externa; canon de valet del autor; prosa DISEÑO, espera lectura):** (1) lo que filtraba pasa de «lo que se ve con una charola» a «lo que se ve desde la rampa. Nadie mira a la que le recibe las llaves»; la noche en la Villa, «la rampa del Monarch. En las llaves»; (2) por qué va al corralón: Nadir pregunta «¿Y si le cuenta a Varek lo del jueves?»; Kal: ya lo sabe desde hace dos semanas, si lo iba a contar ya lo contó; «Prefiero tenerla donde la vea. Y los teléfonos van a la caja, como siempre» (la caja de los chalecos; siembra en el 29, ver la guía). Arco: [[11_Books/00_Arco_Meiko_Nakano]].
 
 > **ENTRADA TEMPRANA (2026-11-15, revisión externa):** «un año» → «casi dos años»; «donde la había visto sentada la primera vez» → «tantas mañanas» (la primera vez fue en la banqueta, sobre el Camaro, Libro I cap. 22). Arco: [[11_Books/00_Arco_Meiko_Nakano]].
+-->
 
 # Lo del hermano
 

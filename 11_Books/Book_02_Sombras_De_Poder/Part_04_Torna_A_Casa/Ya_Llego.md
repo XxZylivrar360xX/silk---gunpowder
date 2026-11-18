@@ -9,6 +9,7 @@ localizacion: Stavanger, Noruega (CANON DEL AUTOR 2026-10-02: ciudad de origen d
 personajes: Kal Mercer, Chiara Bellandi
 ---
 
+<!--
 > **CANONIZACIÓN (2026-10-02, decisión del autor).** Sale de `07_Ideas/Libro_01_Incubadora/` y entra al manuscrito del Libro II. Canon: el viaje, la revelación del origen con Chiara presente, Stavanger, Ingrid (madre; murió hace once años) y Henrik Solberg (tío materno), la propuesta con la línea de Anya ("Ya llegó.") y **la concepción de Elenna en este viaje** (no se señala en el texto). La prosa sigue BORRADOR y se revisará contra el Libro II cuando exista su mapa capítulo a capítulo.
 > - **El anillo (CANON DEL AUTOR, 2026-10-02):** "la joyería con Héctor" deja de ser una compra fuera de página: es **un robo a una joyería** con Héctor, Danny y Nadir, anterior a la boda de Mabel y Walt (el anillo ya va en la billetera). Ver [[01_Timeline/03_Libro_02_Sombras_De_Poder]], "El robo de la joyería". Las menciones de "la joyería" en este borrador deben leerse así; revisar la prosa cuando se redacte ese capítulo.
 > - **CANON DEL AUTOR (2026-10-02), línea del fiordo:** Chiara: "No. Pero puedo reconocer los detalles heredados en un rostro que veo cada mañana." (sustituye "No. Pero te conozco a ti."). Se retiró el párrafo de glosa que la seguía ("No explicó más que eso, y no hacía falta. Kal entendió…"): contradecía la línea nueva.
@@ -44,6 +45,7 @@ personajes: Kal Mercer, Chiara Bellandi
 > **Lo que sí se protegió sin tocar:** Dale no se rehabilita *(matizado por CANON DEL AUTOR 2026-10-14: sus cartas desde la cárcel son un arco de redención, sin absolución)*; Ruth conserva su lugar emocional aparte; Héctor no se reduce; no hay clisés vikingos; no hay foreshadowing de Elenna; el anillo no se compra en Noruega; la concepción no se señala en el texto.
 
 ---
+-->
 
 # Ya llegó
 

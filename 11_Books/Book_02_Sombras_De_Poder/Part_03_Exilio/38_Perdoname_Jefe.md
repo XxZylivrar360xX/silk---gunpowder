@@ -11,6 +11,7 @@ personajes: Nadir Amrani, Meiko Nakano, Kal Mercer, Bonnie García, Danny Hayes,
 hito: F2 — la muerte de Meiko
 ---
 
+<!--
 > **Estado:** BORRADOR del agente (Claude Code; 2026-11-13, segunda versión 2026-11-15), para lectura del autor. Tercer capítulo del arco de Meiko; ejecuta F2-A. Fuentes: [[06_Relationships/Momentos_de_Fractura#F2 - La muerte de Meiko y la salida de Bonnie|F2]] y [[11_Books/Book_02_Sombras_De_Poder/00_Guia_Redaccion_Capitulos]], ficha del 38.
 >
 > **CANON citado literal:** «¡Mei, Mei, Mei, Mei!»; «Perdóname, jefe.»; la respuesta de Kal, «—Eso ya no importa, estás aquí… con nosotros.» (CANON DEL AUTOR, 2026-11-13; ortografía normalizada). **CANON (hechos):** Nadir le dice a Meiko antes de empezar que está decepcionado; puñalada muy arriba del muslo que perfora la femoral; el torniquete improvisado no aguanta, por la anatomía y no por torpeza; la regla del Patio (nunca un hospital directo desde una operación) la lleva a El Patio; muere en manos de Nadir, con la banda alrededor; Bonnie le sostiene la mano y pide una ambulancia; los ojos miran a la nada y a Kal a la vez; otros chicos vuelven heridos y van después al hospital con una historia armada. Kal no llora.
@@ -20,6 +21,7 @@ hito: F2 — la muerte de Meiko
 > **Guarda:** la operación no se pierde por una filtración de Meiko; nada en la página lo sugiere. El forro de la camioneta se ve después del entierro (39), no aquí. **Siembra:** el ritual de los chalecos y «¿Ya terminaste?» se siembran en el levantón (29), en POV de Chiara (DECISIÓN DEL AUTOR, 2026-11-15; ficha del 29 en la guía).
 
 > **TELÉFONOS EN LA CAJA (2026-11-15, revisión externa; prosa DISEÑO, espera lectura):** al repartir los chalecos, cada quien deja su teléfono apagado en la caja, «como siempre». Cobra la razón de Kal en el 37 para llevar a Meiko. Siembra del gesto: el levantón (29), con el ritual de los chalecos. Arco: [[11_Books/00_Arco_Meiko_Nakano]].
+-->
 
 # Perdóname, jefe
 

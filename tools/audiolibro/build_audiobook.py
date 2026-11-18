@@ -43,6 +43,34 @@ BOOKS = {
     "Book_06_Hijos_Del_Silencio": ("Hijos del Silencio", "VI"),
     "Book_07_Camino_A_Casa": ("Camino a Casa", "VII"),
 }
+# Books whose Part_* folders still mix drafts with design notes: only these files
+# get audio, with the chapter number from the book map (their headings carry no
+# "Capítulo N"). Paths are relative to the book folder; the int is the chapter.
+SELECTIONS = {
+    "Book_02_Sombras_De_Poder": {
+        "total": 58,
+        "chapters": [
+            ("Part_01_Territorio_Ajeno/01_Hogar.md", 1),
+            ("Part_02_Nieve_Y_Ceniza/20a_Una_Noche_De_Mudanza.md", 20),
+            ("Part_02_Nieve_Y_Ceniza/20b_El_Collar.md", 21),
+            ("Part_02_Nieve_Y_Ceniza/23_La_Vela_Tardia.md", 24),
+            ("Part_03_Exilio/36_Las_Latas.md", 37),
+            ("Part_03_Exilio/37_Lo_Del_Hermano.md", 38),
+            ("Part_03_Exilio/38_Perdoname_Jefe.md", 39),
+            ("Part_03_Exilio/39_Lo_Que_Queda.md", 40),
+            ("Part_04_Torna_A_Casa/45_Lo_Poco_Que_Llegue_A_Saber.md", 46),
+            ("Part_04_Torna_A_Casa/Stavanger.md", 47),
+            ("Part_04_Torna_A_Casa/Henrik.md", 48),
+            ("Part_04_Torna_A_Casa/Ya_Llego.md", 49),
+            ("Part_04_Torna_A_Casa/52_Santa_Lucia.md", 53),
+            ("Part_04_Torna_A_Casa/53_Torna_A_Casa.md", 54),
+            ("Part_04_Torna_A_Casa/54_Dime_Amore.md", 55),
+            ("Part_04_Torna_A_Casa/55_De_Rodillas.md", 56),
+            ("Part_04_Torna_A_Casa/56_No_Otra_Vez.md", 57),
+            ("Part_04_Torna_A_Casa/57_La_Chimenea.md", 58),
+        ],
+    },
+}
 SAGA = "Seda y Pólvora"
 AUTHOR = "Víctor Paz"
 YEAR = "2026"
@@ -96,13 +124,19 @@ def apply_dictionary(text: str, rules: list[tuple[re.Pattern[str], str]]) -> str
 
 
 def speech_text(raw: str, rules: list[tuple[re.Pattern[str], str]],
-                part_title: str | None) -> tuple[str, str, str]:
+                part_title: str | None, number_override: int | None = None) -> tuple[str, str, str]:
     """Return (number, title, text to speak) for one chapter."""
     # build_epub drops "Capítulo N" from the heading, so read it from the source
-    heading = HEADING_RE.search(be.HTML_COMMENT_RE.sub("", raw))
-    if not heading:
+    source = be.HTML_COMMENT_RE.sub("", raw)
+    heading = HEADING_RE.search(source)
+    if heading:
+        number, title = heading.group(1), heading.group(2).strip()
+    elif number_override is not None and (plain := re.search(r"^#\s+(.+)$", source, re.MULTILINE)):
+        number, title = str(number_override), plain.group(1).strip()
+    else:
         raise ValueError("No encontré el encabezado '# Capítulo N — Título'.")
-    number, title = heading.group(1), heading.group(2).strip()
+    if number_override is not None:
+        number = str(number_override)
 
     prose = be.format_markdown(raw)
     body = prose.split("\n", 1)[1] if prose.startswith("# ") else prose
@@ -121,20 +155,36 @@ def speech_text(raw: str, rules: list[tuple[re.Pattern[str], str]],
     return number, title, apply_dictionary(text, rules)
 
 
-def collect_chapters(book_dir: Path) -> list[tuple[Path, str | None]]:
+def part_announcement(part_dir: Path) -> str:
+    pieces = part_dir.name.split("_")
+    ordinal = be.PART_ORDINALS.get(pieces[1], f"Parte {pieces[1]}")
+    title = be.PART_TITLES.get(part_dir.name, " ".join(pieces[2:]).capitalize())
+    return f"{ordinal}. {title}"
+
+
+def collect_chapters(book_dir: Path) -> list[tuple[Path, str | None, int | None]]:
     """Chapter files in EPUB order; the first of each part carries its title."""
-    chapters: list[tuple[Path, str | None]] = []
+    chapters: list[tuple[Path, str | None, int | None]] = []
+    selection = SELECTIONS.get(book_dir.name)
+    if selection:
+        announced: set[str] = set()
+        for relative, number in selection["chapters"]:
+            path = book_dir / relative
+            if not path.is_file():
+                raise SystemExit(f"Falta el capítulo seleccionado: {relative}")
+            part = path.parent.name
+            chapters.append((path, None if part in announced else part_announcement(path.parent),
+                             number))
+            announced.add(part)
+        return chapters
     for part_dir in sorted(d for d in book_dir.iterdir()
                            if d.is_dir() and d.name.lower().startswith("part_")):
-        pieces = part_dir.name.split("_")
-        ordinal = be.PART_ORDINALS.get(pieces[1], f"Parte {pieces[1]}")
-        title = be.PART_TITLES.get(part_dir.name, " ".join(pieces[2:]).capitalize())
-        announced = False
+        announced_part = False
         for path in sorted(part_dir.glob("*.md")):
             if be.is_epub_excluded(path.read_text(encoding="utf-8-sig")):
                 continue
-            chapters.append((path, None if announced else f"{ordinal}. {title}"))
-            announced = True
+            chapters.append((path, None if announced_part else part_announcement(part_dir), None))
+            announced_part = True
     return chapters
 
 
@@ -259,10 +309,10 @@ def main() -> None:
     manifest = json.loads(manifest_path.read_text(encoding="utf-8")) if manifest_path.exists() else {}
 
     chapters = []
-    for path, part_title in collect_chapters(book_dir):
+    for path, part_title, number_override in collect_chapters(book_dir):
         raw = path.read_text(encoding="utf-8-sig")
         try:
-            number, title, text = speech_text(raw, rules, part_title)
+            number, title, text = speech_text(raw, rules, part_title, number_override)
         except ValueError as error:
             raise SystemExit(f"{path.relative_to(VAULT_ROOT)}: {error}")
         chapters.append({
@@ -272,6 +322,7 @@ def main() -> None:
             "prose": hashlib.sha256(be.format_markdown(raw).encode()).hexdigest(),
         })
 
+    total = SELECTIONS.get(args.book, {}).get("total", len(chapters))
     wanted = set(args.chapters or [])
     missing = wanted - {chapter["number"] for chapter in chapters}
     if missing:
@@ -281,7 +332,7 @@ def main() -> None:
         cover = load_cover(args.book)
         for chapter in chapters:
             if chapter["target"].exists() and (not wanted or chapter["number"] in wanted):
-                tag_audio(chapter["target"], chapter, len(chapters), args.book, cover)
+                tag_audio(chapter["target"], chapter, total, args.book, cover)
                 print(f"  etiqueta  {chapter['target'].name}")
         return
 
@@ -305,7 +356,7 @@ def main() -> None:
         if record.get("file") and old != target and old.exists():
             old.unlink()  # chapter renamed or renumbered
         asyncio.run(synthesize(chapter["text"], args.voice, args.rate, target))
-        tag_audio(target, chapter, len(chapters), args.book, cover)
+        tag_audio(target, chapter, total, args.book, cover)
         manifest[chapter["source"]] = {
             "file": target.name, "hash": chapter["hash"], "prose": chapter["prose"],
             "date": datetime.date.today().isoformat(),

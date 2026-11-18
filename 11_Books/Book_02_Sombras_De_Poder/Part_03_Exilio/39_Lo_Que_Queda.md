@@ -10,6 +10,7 @@ localizacion: el Cementerio Santa Lucía; la casa de la reja verde en La Almendr
 personajes: Chiara Bellandi, Bonnie García, Kal Mercer; en el entierro, Nadir, Héctor, Walt, Mabel, Marisol, Danny, Tyler, Harper, Garrett
 ---
 
+<!--
 > **Estado:** BORRADOR del agente (Claude Code, 2026-11-13), para lectura del autor. Último capítulo del arco de Meiko. Fuentes: [[11_Books/Book_02_Sombras_De_Poder/00_Guia_Redaccion_Capitulos]], ficha del 39, y [[06_Relationships/Momentos_de_Fractura#F2 - La muerte de Meiko y la salida de Bonnie|F2]].
 >
 > **CANON citado literal:** «—Lo siento, ¿vale?» / «—No te martirices. Hiciste lo que debías hacer.» y el beso en la frente (DECISIÓN DEL AUTOR, 2026-11-12: se quedan con otro sentido y sin reescribirse); «Iba a decirle que sin importar lo que tuvo que hacer, era de los míos.» (CANON DEL AUTOR, 2026-11-13; ortografía normalizada). **CANON (hechos):** el forro de la camioneta lleno de sangre, después del entierro; nadie dice nada. Kal vuelve a la Villa y encuentra a Chiara rota en el suelo con la foto de la cena de Navidad. Kal no llora en todo el arco hasta decir esa línea. **DECISIONES DEL AUTOR (2026-11-13):** el corazón del capítulo es la plática de la tarde después del entierro: Chiara todavía le habla de planes y Bonnie le revela que no va a quedarse; en la misma plática le cuenta la traición de Meiko y que Kal la calló. Bonnie se va después del entierro. POV de Chiara. **DISEÑO del agente:** la casa de la reja verde con las cosas de Meiko; los folletos; la lata del centro que Bonnie aparta; «Pedí una ambulancia» como razón de Bonnie; que la foto esté en la repisa de mármol desde enero (el 57 la encuentra ahí); la tierra en las manos de Kal; que Kal le diga «amore» a nada.
@@ -19,6 +20,7 @@ personajes: Chiara Bellandi, Bonnie García, Kal Mercer; en el entierro, Nadir, 
 > **VALET (2026-11-15, revisión externa; canon de valet del autor; prosa DISEÑO, espera lectura):** «Sirviendo» → «Desde la rampa»; las charolas de plata pasan a las llaves del Lancia y a la calificación de valet del Libro I («propina de veinte, trato de dos»): lo que Meiko le susurraba a Chiara era lo mismo que veía para Varek. Arco: [[11_Books/00_Arco_Meiko_Nakano]].
 
 > **ENTRADA TEMPRANA (2026-11-15, revisión externa):** «En un año» → «En año y medio» (Bonnie llega en noviembre A2, Libro I cap. 35).
+-->
 
 # Lo que queda
 

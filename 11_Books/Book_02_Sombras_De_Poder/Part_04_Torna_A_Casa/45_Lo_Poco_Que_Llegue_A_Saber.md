@@ -10,6 +10,7 @@ localizacion: Almendra Towing (la vieja bodega de Dale), en la Almendra; la Vill
 personajes: Kal Mercer, Nadir Amrani, Chiara Bellandi; en las cartas, Dale Mercer, Ruth Mercer, Walt Keegan, Manfred Gabe, Ingrid
 ---
 
+<!--
 > **Estado:** BORRADOR del agente (Claude Code, terminal T3 del lote 1, 2026-11-16), para lectura del autor. Fuente que manda: [[11_Books/Book_02_Sombras_De_Poder/Part_04_Torna_A_Casa/00_Diseno_Cartas_De_Dale]]; ficha del 45 en [[11_Books/Book_02_Sombras_De_Poder/00_Guia_Redaccion_Capitulos]]; tarjeta U6.
 >
 > **CANON:** siete cartas de Dale desde la cárcel, en un sobre de paquetería sin remitente, al taller; Manfred Gabe aparece sólo como nombre y Kal no le ve la cara; Kal las lee solo, se desahoga con Chiara (que no las lee) y las devuelve a la tumba de Dale, que hasta ahora evitaba tocar; línea final de la última carta, textual.
@@ -19,6 +20,7 @@ personajes: Kal Mercer, Nadir Amrani, Chiara Bellandi; en las cartas, Dale Merce
 > **Resuelto (DECISIÓN DEL AUTOR, 2026-11-16, escenario 1):** Kal nunca deja de pagarle a Crowe; la entrega de cada día 14 de este capítulo se queda. Se ajustaron la guía y las tarjetas de las Partes II y III.
 >
 > **Guarda:** ninguna de las dos deudas (Crowe, Varek) se confiesa. Nada del anillo ni de la propuesta.
+-->
 
 # Lo poco que llegué a saber
 

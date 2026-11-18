@@ -10,6 +10,7 @@ localizacion: la Villa Candelaria (el dormitorio; la sala, a la luz del fuego)
 personajes: Kal Mercer, Chiara Bellandi; Camila Rivas y Héctor Navarro (sólo voces)
 ---
 
+<!--
 > **Estado:** BORRADOR del agente (Claude Code, 2026-11-13), cuarta versión para lectura del autor. Fuera de `CHAPTERS` de `tools/build_sombras.py`: no entra al EPUB.
 >
 > **DECISIONES DEL AUTOR (2026-11-13):** sin la cena, sin la hamburguesa comida y sin la conversación con Héctor. Kal recuerda la noche sólo en voces; Chiara, con él dormido, le dice que Camila se fue a tal hora y se quedó toda la noche, que Héctor vino, estuvo unos cuarenta minutos y se fue, que después viene a decirle todo lo que tiene que decir, «Descansa, amore mio, ya habrá tiempo... ya habrá tiempo.». **Reloj:** la operación empieza hacia las 11–12; Kal llega a la Villa hacia las 5–6 de la tarde; despierta a las 2–3 de la madrugada. **Las hamburguesas, empacadas sobre la mesa** (sin abrir; el autor las retoma al abrir *Voto de Ceniza*). Halbrook anuncia su candidatura (al Senado) y Kal lo lee en el teléfono al despertar. Chiara mira la foto de la banda desde el principio, sin revelarse; el libro termina en la foto.
@@ -19,6 +20,7 @@ personajes: Kal Mercer, Chiara Bellandi; Camila Rivas y Héctor Navarro (sólo v
 > **Microedición (2026-11-18, DECISIÓN DEL AUTOR):** la foto de Nochebuena se toma con la cámara que Héctor le regaló a Chiara, no con el teléfono de Kal, y en este capítulo (POV Kal) **no se describe**: la descripción es de Chiara en el 39. Sale el inventario de la foto; se queda la última línea de Kal mirándola. Ver [[11_Books/Book_02_Sombras_De_Poder/Part_02_Nieve_Y_Ceniza/00_Diseno_Navidad_Completa]] §4b.
 >
 > **DISEÑO del agente:** las voces (Camila contando, «otra»; Chiara en el teléfono; Héctor en la puerta: «Mercer.»); el reloj en 2:47; la aguja del suero tapada, sin el tubo (Camila la deja puesta para volver a conectarlo); la alerta de *El Faro* a las 10:20 p. m. y la frase de Halbrook («Yo voy a responder.»); «Nada de Walt.»; el recado de Mabel en la bolsa («para el malvavisco»); las expresiones de cada uno en la foto y que Kal, en la foto, mira por encima de la cámara a Chiara. **Chiara tomó la foto (DECISIÓN DEL AUTOR, 2026-11-13)**, con el teléfono de Kal. La fragilidad al bajar (se sienta a la mitad de la escalera y baja sentado). El papel se ancla en las notas del Libro I y en la vela tardía de enero: **cap. 23 del Libro II, «La vela tardía»** (todavía sin redactar; no es el cap. 23 del Libro I), que tiene que sembrarlo. **PENDIENTE de continuidad:** no se da por resuelto hasta que ese capítulo exista y se compruebe.
+-->
 
 # La chimenea
 

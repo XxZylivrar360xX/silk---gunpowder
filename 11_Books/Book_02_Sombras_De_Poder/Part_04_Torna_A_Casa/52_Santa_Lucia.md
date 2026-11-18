@@ -10,9 +10,11 @@ localizacion: la Villa Candelaria (un lote por Las Gemelas) y el camino del cerr
 personajes: Kal Mercer; Chiara Bellandi (dormida); una mujer mayor en las veladoras; feligreses de la primera misa
 ---
 
+<!--
 > **Estado:** BORRADOR del agente (Claude Code, terminal T4 del lote 1, 2026-11-16), para lectura del autor. Fuera de `CHAPTERS` de `tools/build_sombras.py`. Detalle en [[98_Agent_Handoff/sessions/2026-11-16_claude_cap52_53_santa_lucia_torna_a_casa]].
 >
 > **CANON:** Kal va solo esa mañana, antes de las 11; enciende una vela y se sienta en una banca a mirar el altar y el Cristo en la cruz; no reza en voz alta, no habla con nadie y no hay llamada; el miedo admitido sin convertirlo en acción. **DECISIONES DEL AUTOR (2026-11-16, «ve con tus recomendaciones»):** sale de la Villa a las 5:45 sin despertarla y vuelve antes de que ella despierte; Chiara no sabe que fue, y no queda huella señalada; la novena de Santa Lucía como textura, sin glosa; el saldo es la mujer de las veladoras con la marca del anillo y la etiqueta de cartón de Crowe; sin eco explícito de Meiko. **DISEÑO del agente:** la cadena del portón, que Kal cierra (rima con el 55, cuando la deja abierta); el teléfono apagado en el atrio; el Cristo retocado; la palabra que entiende de las oraciones de ella; los cipreses del cementerio sin entrar.
+-->
 
 # Santa Lucía
 

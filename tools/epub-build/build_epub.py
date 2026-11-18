@@ -112,10 +112,13 @@ def read_markdown(path: Path) -> str:
 
 
 def collect_folder(folder: Path, include_divider: bool,
-                   selected_files: set[Path] | None = None) -> list[str]:
+                   selected_files: dict[Path, int] | set[Path] | None = None) -> list[str]:
+    # A selection given as {path: position} keeps the order of the --chapter list.
+    order = selected_files if isinstance(selected_files, dict) else {}
     files = sorted(
-        p for p in folder.glob("*.md")
-        if p.is_file() and (selected_files is None or p.resolve() in selected_files)
+        (p for p in folder.glob("*.md")
+         if p.is_file() and (selected_files is None or p.resolve() in selected_files)),
+        key=lambda p: (order.get(p.resolve(), 0), p.name),
     )
     if not files:
         return []
@@ -138,7 +141,7 @@ def collect_folder(folder: Path, include_divider: bool,
 
 
 def collect_part_sections(book_dir: Path,
-                          selected_files: set[Path] | None = None) -> list[str]:
+                          selected_files: dict[Path, int] | set[Path] | None = None) -> list[str]:
     part_sections: list[str] = []
     part_dirs = sorted(
         d for d in book_dir.iterdir()
@@ -161,8 +164,8 @@ def collect_manuscript(book_dir: Path, include_front_matter: bool,
 
     selected_files = None
     if chapters is not None:
-        selected_files = set()
-        for chapter in chapters:
+        selected_files = {}
+        for position, chapter in enumerate(chapters):
             path = (book_dir / chapter).resolve()
             if (not path.is_file() or path.suffix.lower() != ".md"
                     or path.parent.parent != book_dir
@@ -173,7 +176,7 @@ def collect_manuscript(book_dir: Path, include_front_matter: bool,
                 )
             if path in selected_files:
                 raise SystemExit(f"Duplicate chapter: {chapter}")
-            selected_files.add(path)
+            selected_files[path] = position
 
     sections: list[str] = []
     part_sections = collect_part_sections(book_dir, selected_files=selected_files)

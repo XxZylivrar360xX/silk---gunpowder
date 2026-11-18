@@ -10,9 +10,11 @@ localizacion: la Villa Candelaria (un lote por Las Gemelas): la cochera, la coci
 personajes: Chiara Bellandi, Kal Mercer
 ---
 
+<!--
 > **Estado:** BORRADOR del agente (Claude Code, terminal T4 del lote 1, 2026-11-16), para lectura del autor. Fuera de `CHAPTERS` de `tools/build_sombras.py`. Detalle en [[98_Agent_Handoff/sessions/2026-11-16_claude_cap52_53_santa_lucia_torna_a_casa]].
 >
 > **CANON:** Chiara le pone una mano en el pecho, sobre la placa: «—Torna a casa.»; enciende la vela; Kal cree que habla de los dos y ella sabe que habla de los tres, sin que la prosa lo diga; nada de «nuestro hijo». **Tic 9:** escribe; la cámara corta antes de que lo queme (esta vez no lo quema; el lector no lo sabe hasta la manta del 57). **DECISIONES DEL AUTOR (2026-11-16, «ve con tus recomendaciones»):** nadie más en la Villa; Kal no contesta con palabras: pone su mano sobre la de ella, encima de la placa; no promete la cena ni pide vela; una mano en la placa y la otra en el cerillo, como lo recuerda el 55; oración en voz baja con la fórmula del ritual, *«Dio, proteggilo e riportalo a casa.»*; la radio entra al estudio envuelta en una manta de lana (el 54 la encuentra «debajo de una manta de lana doblada»); el chaleco y la cabeza de malvavisco no pasan por la Villa; cierre con la cuota de diciembre a Varek, sin mostrar cómo se paga (el disfraz). **DISEÑO del agente:** la banda del coche viejo que chillaba desde marzo; la grasa en la oreja; la lasaña fría del recipiente; «Hoy no vengo a comer.» / «Ya sé.»; la libreta de tapas negras con diecinueve renglones; el sobre junto a las llaves del almacén con su etiqueta de cartón.
+-->
 
 # Torna a casa
 
