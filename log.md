@@ -4,6 +4,7 @@ El detalle se guarda una sola vez en notas de sesión. Este archivo es navegaci�
 
 ## Sesiones recientes
 
+- 2026-11-18: DECISIONES DEL AUTOR: Héctor le regala la cámara a Chiara en su cumpleaños (H16, Libro I cap. 34); la descripción de la foto de Nochebuena es de Chiara en el 39 y el 57 (POV Kal) va sin descripción: [[11_Books/Book_02_Sombras_De_Poder/Part_02_Nieve_Y_Ceniza/00_Diseno_Navidad_Completa]].
 - 2026-11-18: DECISIONES DEL AUTOR: Bonnie se queda con «Cupcake» para Marisol; la foto de Nochebuena se toma con la cámara que Héctor le regaló a Chiara (ya no con el teléfono de Kal) y el 20b no describe posiciones, que quedan para el 57: [[11_Books/Book_02_Sombras_De_Poder/Part_02_Nieve_Y_Ceniza/00_Diseno_Navidad_Completa]].
 - 2026-11-18: DECISIONES DEL AUTOR (Navidad del Libro II): «Nat tenía razón» cierra la hora a solas; Chiara le regala a Marisol un cupcake de *blue velvet* (en la Ashcombe le decían «Red Velvet Cupcake»); se aligera el amigo secreto y la foto es el punto más sentimental de la noche: [[11_Books/Book_02_Sombras_De_Poder/Part_02_Nieve_Y_Ceniza/00_Diseno_Navidad_Completa]].
 - 2026-11-17: DECISIONES DEL AUTOR: el bolígrafo «Grayson» pasa de la Navidad a la graduación de Marisol (cap. 15 del Libro II); dirección de la hora a solas de Kal y Chiara en la Villa («dos adultos peligrosos, cansados y enamorados… comportándose por fin como personas normales»): [[11_Books/Book_02_Sombras_De_Poder/Part_02_Nieve_Y_Ceniza/00_Diseno_Navidad_Completa]].

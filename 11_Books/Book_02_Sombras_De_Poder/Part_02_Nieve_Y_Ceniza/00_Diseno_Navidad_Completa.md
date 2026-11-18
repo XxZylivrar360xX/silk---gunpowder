@@ -36,7 +36,8 @@
 8. **Chiara le regala a Marisol un cupcake de *blue velvet*** (DECISIÓN DEL AUTOR (2026-11-18)). En la universidad a Marisol le decían «Red Velvet Cupcake», por pequeña y pelirroja (§5b).
 9. **Se aligera el amigo secreto. El punto más sentimental de la noche es la foto** (DECISIÓN DEL AUTOR (2026-11-18)), la que después va sobre la chimenea de la Villa (§4b).
 10. **Bonnie se queda con «Cupcake»** (DECISIÓN DEL AUTOR (2026-11-18)): es la única que se lo dice después, y veinte años más tarde le sacará al lector una risa con nostalgia (§5b).
-11. **La foto se toma con la cámara que Héctor le regaló a Chiara**, no con el teléfono de Kal, y **en el 20b no se describe dónde estaba cada uno**: eso queda para el último capítulo, en la viveza de los ojos de Kal (§4b).
+11. **La foto se toma con la cámara que Héctor le regaló a Chiara en su cumpleaños (H16)**, no con el teléfono de Kal (§4b).
+12. **La foto se reparte por POV** (DECISIÓN DEL AUTOR (2026-11-18), segunda respuesta; sustituye la idea anterior de dejar la imagen al último capítulo): **la descripción es de Chiara, en el 39**, y así se ve la otra parte. **En el 20b y en el 57, POV Kal, no hay descripción.**
 - **Compatibilidad con el Libro I:** en el cap. 10 (archivo 10, *El loft del soltero*), Chiara «supo por Danny que Kal la había pasado en El Patio, con los muchachos y una bandeja de Mabel», y la Navidad del Libro I cae sin Kal (custodia, caps. 45–47). Se lee así: aquella Navidad **la pasó**, como una noche de trabajo con comida que le mandaron, y no la celebró. No contradice. Si el autor quiere que se lea sin duda, la línea del Libro I se puede ajustar, pero sólo con su orden.
 
 ## 1. Qué cambia y qué no
@@ -169,7 +170,10 @@
 
 **Qué es.** La foto de Nochebuena con toda la banda (DECISIÓN DEL AUTOR, 2026-11-12). **La toma Chiara con la cámara que Héctor le regaló** (DECISIÓN DEL AUTOR (2026-11-18); sustituye «con el teléfono de Kal» del 2026-11-13). Grita que se junten y ella no sale. Kal no mira al lente: mira por encima, a ella. Chiara la imprime en enero, la pone en un marco de plata sobre la repisa de mármol de la chimenea de la Villa (39) y vuelve en el último capítulo (57).
 
-**La regla (DECISIÓN DEL AUTOR (2026-11-18)): en el 20b no se describe dónde estaba cada uno.** Quién se reía, quién se agachó, quién salió a medias, todo eso es del último capítulo, en la viveza de los ojos de Kal. En el 20b la foto es **el gesto de tomarla**, no la imagen.
+**La regla (DECISIÓN DEL AUTOR (2026-11-18)): la foto se reparte por POV.**
+- **20b, POV Kal: sin descripción.** La foto es el gesto de tomarla, no la imagen.
+- **39, POV Chiara: la descripción.** Quién se reía, quién se agachó, quién salió a medias. Es la otra parte: lo que Kal no vio porque la estaba mirando a ella. Se queda como está en la prosa, salvo el teléfono.
+- **57, POV Kal: sin descripción.** Kal ve la foto en la repisa y no la inventaría. Lo único que puede quedarse es él mismo: «No miraba a la cámara. Miraba un poco por encima, a ella», que es el cobro de la última línea (PENDIENTE DEL AUTOR si también sale).
 
 **Cómo se escribe en el 20b (DISEÑO):**
 - **Cuándo:** a media cena, con los platos a medio terminar. Va antes del intercambio.
@@ -178,14 +182,13 @@
 - **El peso:** es el párrafo de más calor de la noche porque Kal está dentro de algo por primera vez, no por lo que la foto muestra. Sin presagio, y nadie la mira después.
 - **El regalo de Héctor:** que la cámara sea de Héctor amarra la foto con él, que muere en el III. La foto que va sobre la chimenea la hizo posible el hombre que permaneció.
 
-**Origen de la cámara (PENDIENTE DEL AUTOR).** Hoy no existe en el vault. Opciones:
-- **(a)** Se la regaló en su cumpleaños (H16, Libro I, apertura de la Parte III). Hay que sembrarla en la prosa del Libro I.
-- **(b)** Se la regaló en el Libro II, antes de Navidad, sin ocasión, y hay que sembrarla en un capítulo de las Partes I–II.
+**Origen de la cámara (DECISIÓN DEL AUTOR (2026-11-18)): Héctor se la regala en su cumpleaños, H16**, [[11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/36_Tambien_Las_Mananas|Libro I, cap. 34 (archivo 36)]]. Héctor ya está en la escena de las caballerizas («Buenas noches, señora. Feliz cumpleaños»), sentado en la paca de heno tras el traslado de la yegua. Ahí cabe el regalo, chico y sin ceremonia. **Siembra pendiente en la prosa del Libro I.**
 - **Tipo (DISEÑO):** propongo una cámara vieja de rollo. Nadie ve la foto hasta que Chiara manda revelar el rollo en enero, así que «nadie la mira después» se vuelve literal. Si es de rollo, el 39 diría «la había mandado revelar en enero» en lugar de «imprimido».
 
 **Prosa ya escrita que hay que ajustar** (microedición al redactar el 20a y el 20b, para regenerar una sola vez):
-- **39, *Lo que queda*:** «sonriendo hacia el teléfono de Kal, que ella sostenía en alto» → la cámara de Héctor. Además, el 39 ya describe posiciones desde los ojos de Chiara (Meiko en el centro prendida de Bonnie, Danny haciéndole cuernos a Nadir, Héctor con su sonrisa chica), y eso le adelanta al 57 parte de su imagen. PENDIENTE DEL AUTOR: si el 39 se recorta a lo que Chiara siente (el marco frío, «como si pudieran con el mundo») y deja toda la imagen al 57.
-- **57, *La chimenea*:** «con el teléfono de él en alto» → con la cámara de Héctor en alto.
+- **Libro I, cap. 34 (archivo 36):** sembrar la cámara de Héctor en la escena de las caballerizas.
+- **39, *Lo que queda*:** «sonriendo hacia el teléfono de Kal, que ella sostenía en alto» → la cámara de Héctor. La descripción de posiciones **se queda** (DECISIÓN DEL AUTOR (2026-11-18)).
+- **57, *La chimenea*:** quitar la descripción de la foto (los párrafos de Héctor y Walt, Danny y Nadir, Garrett, Harper, Tyler, Russ, Ren, Meiko y Bonnie) y cambiar «con el teléfono de él en alto» por la cámara de Héctor. Se queda la línea final de Kal mirándola, salvo que el autor diga otra cosa.
 
 ## 5. El amigo secreto
 
