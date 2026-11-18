@@ -21,6 +21,17 @@
 8. **Nat Keegan entra de paso** en la cena, para sembrarla antes del cap. 54.
 9. **Extensión:** si el capítulo queda demasiado cargado, se parte en dos. El primero va de los preparativos hasta Kal y Chiara en la Villa; el segundo es la cena y el resto (§7).
 
+## DECISIONES DEL AUTOR (2026-11-17, segunda ronda): dos capítulos y el recuerdo más feliz de Kal
+
+1. **Son dos capítulos:** el 20a y el 20b (§7). Ya no es condicional.
+2. **El recuerdo más feliz de Kal.** Kal nunca había celebrado la Navidad, y ésta es la primera. La noche tiene tres tiempos y cada uno sube sobre el anterior:
+   - **El coqueteo casero con Chiara:** hamburguesas, malteadas y unos cuantos besos en la Villa (cierra el 20a).
+   - **La cena en familia en el taller:** es un hito sólo para Kal. Nadie más sabe que es su primera Navidad, y no se dice en voz alta.
+   - **El collar TORNA A CASA:** cierra con broche de oro (cierra el 20b).
+3. **Se aligera un poco la carga sentimental.** Se quedan fijos **el dije de Bonnie, las hamburguesas y la carta de Nadir**. Qué se aligera del resto es PENDIENTE DEL AUTOR (propuesta del agente en §7).
+4. **Consecuencia de tono:** como es el recuerdo más feliz, la noche no lleva sombra en la primera lectura. Los ecos (bola 8, termo, carta, dije) sólo pesan al releer. El narrador no adelanta nada.
+- **Compatibilidad con el Libro I:** en el cap. 10 (archivo 10, *El loft del soltero*), Chiara «supo por Danny que Kal la había pasado en El Patio, con los muchachos y una bandeja de Mabel», y la Navidad del Libro I cae sin Kal (custodia, caps. 45–47). Se lee así: aquella Navidad **la pasó**, como una noche de trabajo con comida que le mandaron, y no la celebró. No contradice. Si el autor quiere que se lea sin duda, la línea del Libro I se puede ajustar, pero sólo con su orden.
+
 ## 1. Qué cambia y qué no
 
 **Sigue igual (CANON):**
@@ -294,14 +305,21 @@ Con la lágrima de Harper, la carta y el silencio de Bonnie, el intercambio se p
 ## 7. Extensión y partición
 
 - **Cálculo.** El 20 tiene hoy unas 8,600 palabras. Este diseño suma unas 3,500: la Villa a solas, el descubrimiento de los platillos, el amigo secreto y Nat. Recortando el diálogo de la plataforma y la salida de la grúa, se llega a unas **11,500**.
-- **DECISIÓN DEL AUTOR:** si queda demasiado cargado, se parte:
+- **DECISIÓN DEL AUTOR (2026-11-17, segunda ronda): se parte.** Ya no es condicional:
   - **20a:** de los preparativos hasta Kal y Chiara en la Villa, es decir, del 23 hasta el beso y la bajada al taller. Cierra con los dos bajando y la nave encendida desde la esquina de la lavandería, una imagen que ya existe y se puede mover aquí.
   - **20b:** de la cena al collar y la carretera.
-- **Recomendación del agente:** decidirlo al redactar. Si el 20a pasa de unas 4,500 palabras, se parte. El Libro II pasaría a **58 capítulos** y habría que renumerar del 21 en adelante (archivos, `Book_Map`, guía, tarjetas, matriz y las notas que citan números).
+- **Cada uno cierra en alto:** el 20a, con los besos y los dos bajando hacia la nave encendida; el 20b, con el collar.
+- **Renumeración:** el Libro II pasa a **58 capítulos** y hay que renumerar del 21 en adelante (`Book_Map`, guía, tarjetas, matriz y notas que citan números). Se hace al redactar los dos capítulos. Los archivos pueden conservar su nombre con la convención del Libro I (20a, 20b).
+- **Qué aligerar (propuesta del agente; PENDIENTE DEL AUTOR):** sin tocar el dije, las hamburguesas ni la carta.
+  - **La llave de Harper:** se queda la mueca que casi fue sonrisa y el asentimiento de Kal; la lágrima se puede quitar. El abrazo a Héctor se queda, porque es la raíz del III.
+  - **El bolígrafo:** pasa a un beat breve. Kal lee el grabado y sigue, sin «Para que firmes con el tuyo».
+  - **El termo:** se queda la antífona seca; lo de Nat no se ve en el 20 y vive sólo en el diseño, para el III.
+  - **La bola 8:** ya es ligera; se queda como está.
+  - **Nat:** de paso y práctica: la venda y nada más.
 - **Riesgo de catálogo.** Platillos, amigo secreto, lotería, cajas, Nat, Kaito y collar en una sola noche. Por eso sólo se ven cinco o seis pares, los platillos se descubren por la mirada de Kal y no uno por uno, y la lotería se queda como está.
 
 ## 8. Pendiente
 
 - **Pares: aprobados con ajustes (2026-11-17).** Orden del intercambio en §5c.
-- Falta aprobar los platillos (§4). Después se reescribe el 20 (o el 20a y el 20b) con la skill `chapter-drafting`.
+- Falta decidir qué se aligera (§7) y aprobar los platillos (§4). Después se reescribe el 20 (o el 20a y el 20b) con la skill `chapter-drafting`.
 - **Siembras previas al 20:** la partida de pool en el 19 (breve); el cuarto de Harper (19 o 23); la amistad visible de Marisol y Bonnie en los capítulos anteriores.

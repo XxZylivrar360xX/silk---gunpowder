@@ -63,6 +63,8 @@ Se lo dice a Chiara la primera noche, acordándose de Afganistán. Es lo más os
 
 **El estilo cambia con el libro.** En la etapa temprana: chaqueta de mezclilla con cuello de borrego **sin camisa debajo**. Es un marcador de época — cuando el atuendo de Kal empiece a cambiar, el lector tiene que poder fechar en qué momento del ascenso está sin que nadie se lo diga.
 
+> **DECISIÓN DEL AUTOR (2026-11-17), *Sombras de Poder*, caps. 20a y 20b:** la Navidad del Libro II es **el recuerdo más feliz de Kal** y la primera que celebra; antes la había pasado, nunca celebrado. Son tres tiempos: el coqueteo casero con Chiara (hamburguesas, malteadas y besos en la Villa), la cena en familia en el taller (un hito sólo para él, que nadie nombra) y el collar TORNA A CASA. Ver [[11_Books/Book_02_Sombras_De_Poder/Part_02_Nieve_Y_Ceniza/00_Diseno_Navidad_Completa]].
+
 **Y, desde cierta Navidad, un collar.** Una placa de oro grabada: **TORNA A CASA**. No se lo quita nunca — ni para trabajar, ni para dormir, ni para meterse a una piscina desangrándose. Es el único objeto de la novela que importa, y para un hombre que casi no usa joyas, llevar algo al cuello ya lo dice todo. Ver [[06_Relationships/Kal_y_Chiara]], "El ritual".
 
 Se viste como si el día pudiera terminar debajo de un coche, porque normalmente termina así: oscuro, holgado, botas. Cuando lo obligan a ponerse traje se ve bien y se siente disfrazado, y **se le nota exactamente cuánto lo odia** — dato que Chiara aprende a usar y después a proteger. En la primera noche del Monarch llega con **traje azul ajustado y tenis blancos**, presentable sin entregar del todo el cuerpo al disfraz.

@@ -281,6 +281,8 @@ Calendario de dos años (5 ene A3 → dic A4), contado en bloques densos. Las el
 
 **20. El collar** — 23–25 dic A3 · **Kal** · el taller y la bodega; la Villa; el patio de grúas · *(26; II-P5 + II-P6)*
 
+> **DECISIÓN DEL AUTOR (2026-11-17):** se parte en **20a** (preparativos y la Villa: hamburguesas, malteadas y besos) y **20b** (la cena en familia, el amigo secreto y el collar). Es el recuerdo más feliz de Kal y su primera Navidad celebrada. Se aligera un poco la carga sentimental; el dije de Bonnie, las hamburguesas y la carta de Nadir se quedan. Renumerar del 21 en adelante al redactar. Ver [[11_Books/Book_02_Sombras_De_Poder/Part_02_Nieve_Y_Ceniza/00_Diseno_Navidad_Completa]].
+
 - **Redactado (BORRADOR, 2026-11-16, lote 1):** [[11_Books/Book_02_Sombras_De_Poder/Part_02_Nieve_Y_Ceniza/20_El_Collar]]; decisiones del autor en [[98_Agent_Handoff/sessions/2026-11-16_claude_cap20_el_collar]].
 - **Fuente:** [[11_Books/Book_02_Sombras_De_Poder/Part_02_Nieve_Y_Ceniza/00_Diseno_Navidad_Almendra_Towing]] (CANON del 2026-10-14 en sus ocho puntos). **POV:** Kal, en un solo capítulo (DECISIÓN DEL AUTOR, 2026-11-12, R10); la recomendación de POV Chiara del diseño queda superada.
 - **Función:** primera Navidad juntos. La placa de oro dice *Torna a casa*, en italiano, y es la promesa de que ella siempre lo esperará al volver de las «misiones».
