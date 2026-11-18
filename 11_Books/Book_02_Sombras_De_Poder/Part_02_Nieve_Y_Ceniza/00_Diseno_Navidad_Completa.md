@@ -1,7 +1,8 @@
 # Diseño: la Navidad completa (cap. 20, *El collar*)
 
 > **Estado:** DISEÑO del agente (2026-11-17) por encargo del autor: «diseñar la Navidad completa». Cubre el decorado del taller, la cocina en la Villa con un momento cómico y romántico antes de bajar, el catering que lleva todo, la cena, los juegos (sobre todo el amigo secreto) y el inventario de presentes. **Las respuestas del autor del mismo día ya están integradas** y van marcadas como DECISIÓN DEL AUTOR; el resto es DISEÑO. No toca la prosa: el cap. 20 sigue en BORRADOR hasta que se reescriba con esto.
-> **Manda:** el CANON y las DECISIONES DEL AUTOR de [[11_Books/Book_02_Sombras_De_Poder/Part_02_Nieve_Y_Ceniza/00_Diseno_Navidad_Almendra_Towing]] (historial y canon de 2026-10-14) y la ficha del 20 en [[11_Books/Book_02_Sombras_De_Poder/00_Guia_Redaccion_Capitulos]]. Prosa actual: [[11_Books/Book_02_Sombras_De_Poder/Part_02_Nieve_Y_Ceniza/20_El_Collar]].
+> **Redactado (2026-11-18):** [[11_Books/Book_02_Sombras_De_Poder/Part_02_Nieve_Y_Ceniza/20a_Una_Noche_De_Mudanza]] y [[11_Books/Book_02_Sombras_De_Poder/Part_02_Nieve_Y_Ceniza/20b_El_Collar]] (BORRADOR). Microediciones hechas: el yate (Libro I, cap. 35: Héctor, la cámara, el clic), el 39 (la cámara) y el 57 (la cámara; sin descripción). Quedan pendientes las siembras en capítulos sin redactar: la partida de pool (19), el apodo en la graduación (15), el llavero al abrir el II y la amistad de Marisol y Bonnie antes del 20.
+> **Manda:** el CANON y las DECISIONES DEL AUTOR de [[11_Books/Book_02_Sombras_De_Poder/Part_02_Nieve_Y_Ceniza/00_Diseno_Navidad_Almendra_Towing]] (historial y canon de 2026-10-14) y la ficha del 20 en [[11_Books/Book_02_Sombras_De_Poder/00_Guia_Redaccion_Capitulos]]. Prosa actual: [[11_Books/Book_02_Sombras_De_Poder/Part_02_Nieve_Y_Ceniza/20b_El_Collar]].
 
 ## DECISIONES DEL AUTOR (2026-11-17)
 
@@ -49,7 +50,7 @@
 - La lotería y la tombola.
 - Todos reciben el mismo detalle: *cuccidati* en caja con su nombre, también Kal.
 - Kaito llega al portón y sólo Kal lo ve.
-- Chiara toma la foto con el teléfono de Kal.
+- Chiara toma la foto (con la cámara de Héctor desde 2026-11-18; antes, el teléfono de Kal).
 - Kal llega gritando «¡Mujer, ya llegó el hombre de la casa!» (siembra 2 de 5).
 - El collar se da a solas, afuera, a las 00:30, con la mano sobre la placa.
 - El regalo de Kal es la noche de trabajo.

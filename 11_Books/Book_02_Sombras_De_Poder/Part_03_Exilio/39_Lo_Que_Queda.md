@@ -222,7 +222,7 @@ Chiara estaba en el suelo. No se acordaba de cuándo se había sentado. Se acord
 
 La había bajado de la repisa. Después estaba en el suelo, con la espalda contra el sillón y la foto en las piernas, y el marco frío en las manos.
 
-Meiko en el centro. Riéndose con los ojos cerrados y la cabeza echada hacia atrás, con un tamal a medio comer en una mano y la otra prendida del brazo de Bonnie. Bonnie agachada, con el pelo en la cara y la boca abierta a medio grito. Danny haciéndole cuernos a Nadir. Nadir riéndose. Héctor con su sonrisa chica. Todos, apretados, sonriendo hacia el teléfono de Kal, que ella sostenía en alto, gritándoles que se juntaran. Como si pudieran con el mundo. Como si nadie les hubiera dicho todavía cuánto costaba.
+Meiko en el centro. Riéndose con los ojos cerrados y la cabeza echada hacia atrás, con un tamal a medio comer en una mano y la otra prendida del brazo de Bonnie. Bonnie agachada, con el pelo en la cara y la boca abierta a medio grito. Danny haciéndole cuernos a Nadir. Nadir riéndose. Héctor con su sonrisa chica. Todos, apretados, sonriendo hacia la cámara de Héctor, que ella sostenía en alto, gritándoles que se juntaran. Como si pudieran con el mundo. Como si nadie les hubiera dicho todavía cuánto costaba.
 
 Había llorado tanto que ya no lloraba. Le salía otra cosa, un ruido seco, desde abajo, cada tanto, que no era llanto y no paraba.
 

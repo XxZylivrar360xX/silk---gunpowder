@@ -4,7 +4,7 @@ Fecha: 2026-11-16 · Agente: Claude Code (Opus 5.5), terminal T1 · Reglas: [[98
 
 ## Archivo
 
-- [[11_Books/Book_02_Sombras_De_Poder/Part_02_Nieve_Y_Ceniza/20_El_Collar]] — `estado: BORRADOR`, POV Kal único. **~8,150 palabras de prosa** (8,600 con frontmatter y bloque de estado): un poco por encima de las ~8,000 de la ficha, después de recortar unas 750. Si el autor lo quiere más corto, el corte natural es la madrugada del 24, como preveía el diseño.
+- [[11_Books/Book_02_Sombras_De_Poder/Part_02_Nieve_Y_Ceniza/20b_El_Collar]] — `estado: BORRADOR`, POV Kal único. **~8,150 palabras de prosa** (8,600 con frontmatter y bloque de estado): un poco por encima de las ~8,000 de la ficha, después de recortar unas 750. Si el autor lo quiere más corto, el corte natural es la madrugada del 24, como preveía el diseño.
 - No toqué ningún otro archivo. Nada de git, nada de regenerar y nada de `--estado` del audiolibro.
 
 ## Fuentes leídas

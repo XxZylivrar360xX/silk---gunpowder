@@ -4,7 +4,7 @@ Fecha: 2026-11-16 · Agente: Claude Code (terminal principal) · Encargo del aut
 
 | Terminal | Capítulo(s) | POV | Archivo que crea |
 |---|---|---|---|
-| T1 | 20 *El collar* | Kal | `11_Books/Book_02_Sombras_De_Poder/Part_02_Nieve_Y_Ceniza/20_El_Collar.md` |
+| T1 | 20 *El collar* | Kal | `11_Books/Book_02_Sombras_De_Poder/Part_02_Nieve_Y_Ceniza/20b_El_Collar.md` |
 | T2 | 23 *La vela tardía* | Kal | `11_Books/Book_02_Sombras_De_Poder/Part_02_Nieve_Y_Ceniza/23_La_Vela_Tardia.md` |
 | T3 | 45 *Lo poco que llegué a saber* | Kal | `11_Books/Book_02_Sombras_De_Poder/Part_04_Torna_A_Casa/45_Lo_Poco_Que_Llegue_A_Saber.md` |
 | T4 | 52 *Santa Lucía* y 53 *Torna a casa* | Kal / externo | `.../Part_04_Torna_A_Casa/52_Santa_Lucia.md` y `53_Torna_A_Casa.md` |

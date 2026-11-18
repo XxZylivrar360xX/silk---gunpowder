@@ -8,7 +8,7 @@ Cinco capítulos en BORRADOR, fuera de `CHAPTERS` (no se regeneran):
 
 | Cap. | Archivo | POV | Nota de la terminal |
 |---|---|---|---|
-| 20 | [[11_Books/Book_02_Sombras_De_Poder/Part_02_Nieve_Y_Ceniza/20_El_Collar]] | Kal | [[98_Agent_Handoff/sessions/2026-11-16_claude_cap20_el_collar]] |
+| 20 | [[11_Books/Book_02_Sombras_De_Poder/Part_02_Nieve_Y_Ceniza/20b_El_Collar]] | Kal | [[98_Agent_Handoff/sessions/2026-11-16_claude_cap20_el_collar]] |
 | 23 | [[11_Books/Book_02_Sombras_De_Poder/Part_02_Nieve_Y_Ceniza/23_La_Vela_Tardia]] | Kal | [[98_Agent_Handoff/sessions/2026-11-16_claude_cap23_la_vela_tardia]] |
 | 45 | [[11_Books/Book_02_Sombras_De_Poder/Part_04_Torna_A_Casa/45_Lo_Poco_Que_Llegue_A_Saber]] | Kal | [[98_Agent_Handoff/sessions/2026-11-16_claude_cap45_lo_poco_que_llegue_a_saber]] |
 | 52 | [[11_Books/Book_02_Sombras_De_Poder/Part_04_Torna_A_Casa/52_Santa_Lucia]] | Kal | [[98_Agent_Handoff/sessions/2026-11-16_claude_cap52_53_santa_lucia_torna_a_casa]] |

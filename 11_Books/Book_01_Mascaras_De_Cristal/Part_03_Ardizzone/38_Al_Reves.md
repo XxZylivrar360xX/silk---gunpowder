@@ -8,7 +8,8 @@ DISEÑO de esta versión: la bala sacada del tablón de la cerca; el molde del a
 Costura de apertura: cerrada con el nuevo 34 (archivo 36, BORRADOR): Chiara programa la cafetera la noche en que firma las invitaciones (miércoles 24) y a la mañana siguiente, el jueves 25 nov (Acción de Gracias), apoya el sobre contra ella antes de irse al Monarch.
 Costura de cierre: deja listo el nuevo 36. Salen esa noche, Kal ya sospecha de la Mesa por un apellido y Kal sabe por Chiara que Valenti dijo «Mercer» en Cuesta Bonita.
 Protagonista: Kal Mercer (POV único, tercera persona cercana).
-Personajes con diálogo: Kal, Chiara, Nadir Amrani, Danny Hayes, Bonnie García, Meiko Nakano, Tyler Brooks, Mabel Ortiz, el armero de Cedar Flats (sin nombre), Rudy (el chofer de Kingsley), Blake Stanton, Marisol Grayson.
+Microedición (2026-11-18, DECISIÓN DEL AUTOR; prosa DISEÑO): Héctor está en el yate y le regala a Chiara una cámara («Para que traiga fotos»); su primera foto es Kal en la baranda de estribor, viendo el mar, sin notarlo (en POV de Kal sólo se oye un clic). Con esa cámara toma la foto de Nochebuena del Libro II ([[11_Books/Book_02_Sombras_De_Poder/Part_02_Nieve_Y_Ceniza/00_Diseno_Navidad_Completa]] §4b).
+Personajes con diálogo: Kal, Chiara, Héctor Navarro, Nadir Amrani, Danny Hayes, Bonnie García, Meiko Nakano, Tyler Brooks, Mabel Ortiz, el armero de Cedar Flats (sin nombre), Rudy (el chofer de Kingsley), Blake Stanton, Marisol Grayson.
 Cameos sin diálogo: el jefe de seguridad del Monarch, Kenji Oda, Harper Walker, el capitán del Departamento, los Ferretti, Tommaso Lusardi, el piloto.
 Ventana temporal: jueves 25 nov, Acción de Gracias (carta, taller y La Esquina); primera semana de diciembre (la bala); viernes 10 dic, de las ocho de la noche a la una menos algo de la madrugada del sábado (yate y Kingsley).
 Lugares: el loft; Almendra Towing / El Patio; La Esquina de Mabel; Cedar Flats; un motel de la Milla; la marina de [[05_Locations/San_Aurelio|La Isla]] (cubierta, popa, muelle, salón con piano); terminal privada de [[05_Locations/Norte_Rural_de_San_Aurelio|Kingsley Field]].
@@ -190,13 +191,19 @@ El viernes, a las ocho, el barco ya tenía la fiesta encendida: la pasarela ilum
 
 Kal llevaba el traje oscuro que ella le había elegido esa tarde y lo llevaba como un préstamo. No era el anfitrión. Entró con los suyos y se quedó con los suyos, y supo dónde estaba ella en todo momento sin mirarla una sola vez.
 
-Cabían tres fiestas: la del Monarch cerca de la barra, con los Ferretti hablándole a Tommaso de flores; la del capitán del Departamento en la popa, con sus tenientes y los hombres que un capitán siempre trae; y en la cubierta abierta la franela a cuadros debajo de sacos que no eran de nadie, Harper midiendo el agua desde la baranda, Nadir con un plato en cada mano.
+Cabían tres fiestas: la del Monarch cerca de la barra, con los Ferretti hablándole a Tommaso de flores; la del capitán del Departamento en la popa, con sus tenientes y los hombres que un capitán siempre trae; y en la cubierta abierta la franela a cuadros debajo de sacos que no eran de nadie, Harper midiendo el agua desde la baranda, Nadir con un plato en cada mano, Héctor sentado en una banca, aparte de la música, con la gorra en la rodilla y un vaso de agua mineral que le duraba desde las ocho.
 
 Y Tyler junto a la mesa de los quesos, hablándole a la que llevaba la charola.
 
 Era Meiko. Camisa blanca, el pelo recogido, el delantal negro del catering que venía con el barco. Esa tarde Kal la había dejado bajo un Ford, con grasa hasta el codo; esa noche el Monarch no la necesitaba en la rampa, y el turno del barco era otro dinero. Tyler le decía algo y ella le sostenía la charola a la altura justa sin darle la cara, como si la charola fuera la que escuchaba. Cuando vio a Kal, no bajó los ojos. Le ofreció un queso como se lo habría ofrecido a cualquiera y siguió hacia la popa.
 
 Kal no dijo nada. Se lo guardó.
+
+Más tarde, cuando Chiara pasó junto a la banca, Héctor se levantó. Kal estaba a dos pasos, con Danny. Héctor sacó del bolsillo del saco una cámara, vieja, negra, con la correa de cuero gastada en la hebilla, sin caja y sin papel, y se la puso a ella en las manos.
+
+—Para que traiga fotos —le dijo.
+
+Chiara la miró. Le dio vuelta, despacio, como giraba los anillos. Iba a decir algo y Héctor ya se había vuelto a sentar, con la gorra en la rodilla.
 
 Bonnie no estaba en la cubierta. Estaba de pie en el rellano donde se juntaban la escalera del salón y el pasillo de la pasarela, la espalda contra un mamparo, sin plato, mirando la escalera, después la pasarela, después la escalera otra vez. No había entrado a la fiesta. Había entrado al barco.
 
@@ -519,6 +526,8 @@ Ella abrió los ojos. Kal le vio pasar por la cara tres o cuatro objeciones, ord
 Cuando abrieron la puerta del salón, el viento y la música entraron de golpe.
 
 La fiesta se fue terminando sin que nadie decidiera cuándo. En la baranda de popa, Kenji Oda, sin el chaleco del Monarch por una vez, le dijo algo a Marisol, y Marisol se quedó quieta medio segundo, cosa que no hacía nunca, antes de irse en el coche de alguien gritándole a Kal desde la pasarela que la llamara. Meiko recogía copas de la baranda sin mirar a nadie.
+
+Kal se quedó un rato solo en la baranda de estribor, con los antebrazos apoyados en el barandal frío, mirando el agua negra y las luces de la costa que se movían en ella. No pensaba en nada. Detrás de él, en algún lado de la cubierta, sonó un clic, chico, como el de una puerta de coche que se cierra lejos. No volteó.
 
 Nadie sabía que se despedían de algo. Sólo ella. Y él.
 

@@ -452,7 +452,7 @@ El objeto resuelve tres problemas de golpe:
 - **Ella no lo regaló como joya.** Kal casi no usa joyas — un arete y nada más. Que aceptara algo al cuello ya dice todo.
 - **La última aparición del libro tiene que rimar con la primera** y significar otra cosa.
 
-> **Redactado (BORRADOR, 2026-11-16):** la escena de la primera Navidad es el cap. 20 del Libro II, [[11_Books/Book_02_Sombras_De_Poder/Part_02_Nieve_Y_Ceniza/20_El_Collar]] (lleva la siembra 2 de 5 de «sono a casa»). *Antes:* **PENDIENTE, HITO:** la escena de la primera Navidad. Cómo se lo da, y por qué él no lo convierte en transacción. Ver [[06_Relationships/Hitos]].
+> **Redactado (BORRADOR, 2026-11-16):** la escena de la primera Navidad son los caps. 20–21 del Libro II, [[11_Books/Book_02_Sombras_De_Poder/Part_02_Nieve_Y_Ceniza/20a_Una_Noche_De_Mudanza]] y [[11_Books/Book_02_Sombras_De_Poder/Part_02_Nieve_Y_Ceniza/20b_El_Collar]] (lleva la siembra 2 de 5 de «sono a casa»). *Antes:* **PENDIENTE, HITO:** la escena de la primera Navidad. Cómo se lo da, y por qué él no lo convierte en transacción. Ver [[06_Relationships/Hitos]].
 
 **Descartado:** *"¿Te llevo?"*, propuesta previa del agente. El canon trajo algo mejor y no hacen falta dos rituales compitiendo. Se conserva la idea de que **ella no contesta a sus ofrecimientos, simplemente se sube** — como manía suelta, no como ritual.
 
