@@ -442,7 +442,7 @@ Se la dio.
 
 Kal la abrió. La bisagra estaba dura y crujió en el frío.
 
-Adentro, sobre terciopelo negro, había una cadena delgada de oro y una placa rectangular, chica, del tamaño de la última falange de un pulgar, con las orillas redondeadas. Tenía letras grabadas. Inclinó la caja hacia el reflector para leerlas.
+Adentro, sobre terciopelo negro, había una placa de identificación, de las del ejército. La misma forma que Kal había traído colgada del cuello años enteros, rectangular, con las esquinas redondeadas y el borde doblado hacia adentro, sólo que de oro, y en una cadena delgada de oro en lugar de la de bolitas. Conoció la forma antes de saber qué decía. Donde iban el apellido, el número y el tipo de sangre, tenía otras letras grabadas. Inclinó la caja hacia el reflector para leerlas.
 
 —*Tornacasa* —leyó.
 

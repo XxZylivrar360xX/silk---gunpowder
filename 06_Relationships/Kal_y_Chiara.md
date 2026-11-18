@@ -402,6 +402,9 @@ Ver [[04_Concepts/Quien_Decide_Quien_Soy]] y [[06_Relationships/Hitos]], H4.
 
 **El ritual del libro es un objeto.** Un collar con una placa de oro grabada:
 
+> **CANON DEL AUTOR (2026-11-18), la forma:** la placa es una placa de identificación militar (*dog tag*) de oro, en cadena de oro; donde irían el nombre, el número y el tipo de sangre lleva grabado **TORNA A CASA**. Ver [[11_Books/Book_02_Sombras_De_Poder/Part_02_Nieve_Y_Ceniza/20b_El_Collar]].
+
+
 > **TORNA A CASA**
 
 Regalo de la primera Navidad que pasaron juntos. El mensaje, dicho sin decirse: **ella siempre lo va a estar esperando después de las "misiones" de su organización.**
