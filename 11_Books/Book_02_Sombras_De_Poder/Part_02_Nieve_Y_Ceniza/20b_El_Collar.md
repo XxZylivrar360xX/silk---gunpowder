@@ -330,17 +330,17 @@ Marisol y Bonnie llegaron una a la otra al último, en la orilla de la mesa, por
 
 Bonnie la abrió.
 
-Era un dije, en una cadena delgada. Una placa chica, de plata, con un nombre grabado, en letra de molde.
+Era un dije, en una cadena delgada. No era una placa. Era el nombre mismo, recortado en plata, letra por letra, en letra de molde, las letras pegadas unas a otras.
 
 *BONNIE.*
 
-Bonnie no dijo nada. Kal no la había visto nunca sin decir nada con algo enfrente; Bonnie siempre tenía algo que decir de lo que tenía enfrente, aunque fuera la bomba de agua. Lo leyó. Lo leyó otra vez. Sacó la cadena de la caja y se la puso ahí mismo, por encima de la cabeza, sin abrir el broche, y se metió la placa debajo de la camisa de cuadros.
+Bonnie no dijo nada. Kal no la había visto nunca sin decir nada con algo enfrente; Bonnie siempre tenía algo que decir de lo que tenía enfrente, aunque fuera la bomba de agua. Lo leyó. Lo leyó otra vez. Sacó la cadena de la caja y se la puso ahí mismo, por encima de la cabeza, sin abrir el broche, y se metió el nombre debajo de la camisa de cuadros.
 
 —Esto no lo pagaste con propinas.
 
-—El grabado no cuenta.
+—El nombre no cuenta.
 
-—El grabado es lo que más cuenta.
+—El nombre es lo que más cuenta.
 
 —No en este tribunal.
 
