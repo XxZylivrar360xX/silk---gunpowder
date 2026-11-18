@@ -1,5 +1,7 @@
 # Bonnie García
 
+> **DECISIÓN DEL AUTOR (2026-11-18):** desde la Navidad del Libro II, Bonnie le dice **«Cupcake»** a Marisol (del «Red Velvet Cupcake» de la universidad); es la única a quien Marisol se lo tolera, y vuelve intacto veinte años después. Ver [[06_Relationships/Bonnie_y_Marisol]].
+
 > **DECISIÓN DEL AUTOR (2026-11-17), *Sombras de Poder*:** Marisol y Bonnie ya son buenas amigas en el Libro II, con química visible; para Bonnie significa más, sin nombrarlo. En el amigo secreto de Navidad (cap. 20) Marisol le regala un dije con «Bonnie». Ver [[06_Relationships/Bonnie_y_Marisol]] · [[11_Books/Book_02_Sombras_De_Poder/Part_02_Nieve_Y_Ceniza/00_Diseno_Navidad_Completa]].
 
 > **DECISIÓN DEL AUTOR (2026-11-15):** Bonnie ya no entra a El Patio junto con Meiko: Meiko llega primero, sola, justo después del robo del Monarch, y **trae a Bonnie después** (cap. 35, noviembre A2). Las dos siguen viniendo de los Devil Splicers. Ver [[11_Books/Book_01_Mascaras_De_Cristal/00_Estudio_Entrada_Temprana_Meiko]].

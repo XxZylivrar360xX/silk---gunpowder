@@ -35,6 +35,8 @@
 7. **«Nat tenía razón»** (DECISIÓN DEL AUTOR (2026-11-18)): así queda la línea de los ojos al cierre del 20a (§3).
 8. **Chiara le regala a Marisol un cupcake de *blue velvet*** (DECISIÓN DEL AUTOR (2026-11-18)). En la universidad a Marisol le decían «Red Velvet Cupcake», por pequeña y pelirroja (§5b).
 9. **Se aligera el amigo secreto. El punto más sentimental de la noche es la foto** (DECISIÓN DEL AUTOR (2026-11-18)), la que después va sobre la chimenea de la Villa (§4b).
+10. **Bonnie se queda con «Cupcake»** (DECISIÓN DEL AUTOR (2026-11-18)): es la única que se lo dice después, y veinte años más tarde le sacará al lector una risa con nostalgia (§5b).
+11. **La foto se toma con la cámara que Héctor le regaló a Chiara**, no con el teléfono de Kal, y **en el 20b no se describe dónde estaba cada uno**: eso queda para el último capítulo, en la viveza de los ojos de Kal (§4b).
 - **Compatibilidad con el Libro I:** en el cap. 10 (archivo 10, *El loft del soltero*), Chiara «supo por Danny que Kal la había pasado en El Patio, con los muchachos y una bandeja de Mabel», y la Navidad del Libro I cae sin Kal (custodia, caps. 45–47). Se lee así: aquella Navidad **la pasó**, como una noche de trabajo con comida que le mandaron, y no la celebró. No contradice. Si el autor quiere que se lea sin duda, la línea del Libro I se puede ajustar, pero sólo con su orden.
 
 ## 1. Qué cambia y qué no
@@ -165,15 +167,25 @@
 
 ## 4b. La foto: el punto más sentimental de la noche (DECISIÓN DEL AUTOR (2026-11-18))
 
-**Qué es.** La foto de Nochebuena con toda la banda (DECISIÓN DEL AUTOR, 2026-11-12). La toma Chiara con el teléfono de Kal, gritándoles que se junten, y ella no sale. Kal no mira al lente: mira por encima, a ella. Chiara la imprime en enero, en papel bueno, la pone en un marco de plata sobre la repisa de mármol de la chimenea de la Villa (39) y vuelve en el final (57).
+**Qué es.** La foto de Nochebuena con toda la banda (DECISIÓN DEL AUTOR, 2026-11-12). **La toma Chiara con la cámara que Héctor le regaló** (DECISIÓN DEL AUTOR (2026-11-18); sustituye «con el teléfono de Kal» del 2026-11-13). Grita que se junten y ella no sale. Kal no mira al lente: mira por encima, a ella. Chiara la imprime en enero, la pone en un marco de plata sobre la repisa de mármol de la chimenea de la Villa (39) y vuelve en el último capítulo (57).
 
-**Por qué es el pico.** En la primera Navidad que Kal celebra, éste es el momento en que la familia existe toda junta en un solo cuadro. Todo lo demás de la noche gira alrededor: la cena la prepara y el amigo secreto, ya aligerado, la sigue sin competirle.
+**La regla (DECISIÓN DEL AUTOR (2026-11-18)): en el 20b no se describe dónde estaba cada uno.** Quién se reía, quién se agachó, quién salió a medias, todo eso es del último capítulo, en la viveza de los ojos de Kal. En el 20b la foto es **el gesto de tomarla**, no la imagen.
 
-**Cómo se escribe (DISEÑO):**
-- **Cuándo:** a media cena, con los platos a medio terminar, como la describe el 39. Va antes del intercambio, y por eso Danny no lleva la gorra.
-- **Lo que ve Kal:** el desorden de juntarlos (Meiko prendida del brazo de Bonnie, Danny haciéndole cuernos a Nadir, Héctor con su sonrisa chica) y, arriba del teléfono, a Chiara gritando. No mira al lente porque la está mirando a ella. Es la imagen que el 39 describe desde fuera; el 20b la da desde dentro.
-- **Extensión:** un párrafo corto, el de más calor de la noche. No una escena.
-- **Compatibilidad con la regla del 2026-11-12** («pasa de largo, en una línea; nadie la mira después; no pesa como presagio»): se mantiene que **nadie la mira después y no hay presagio**. Lo que cambia es el peso en el momento: ya no es una línea de paso, sino el párrafo donde la noche llega a su punto más alto. El dolor lo pone el 39, no el 20.
+**Cómo se escribe en el 20b (DISEÑO):**
+- **Cuándo:** a media cena, con los platos a medio terminar. Va antes del intercambio.
+- **Lo que sí se ve:** Chiara saca la cámara de Héctor. Héctor la ve sacarla y no dice nada, pero Kal lo nota. Ella grita que se junten y se juntan de golpe, sin acomodarse. Kal, detrás de todos, mira por encima de la cámara, a ella. El flash.
+- **Lo que no se ve:** la composición, las caras, las posturas. Sólo el ruido de juntarse y el flash.
+- **El peso:** es el párrafo de más calor de la noche porque Kal está dentro de algo por primera vez, no por lo que la foto muestra. Sin presagio, y nadie la mira después.
+- **El regalo de Héctor:** que la cámara sea de Héctor amarra la foto con él, que muere en el III. La foto que va sobre la chimenea la hizo posible el hombre que permaneció.
+
+**Origen de la cámara (PENDIENTE DEL AUTOR).** Hoy no existe en el vault. Opciones:
+- **(a)** Se la regaló en su cumpleaños (H16, Libro I, apertura de la Parte III). Hay que sembrarla en la prosa del Libro I.
+- **(b)** Se la regaló en el Libro II, antes de Navidad, sin ocasión, y hay que sembrarla en un capítulo de las Partes I–II.
+- **Tipo (DISEÑO):** propongo una cámara vieja de rollo. Nadie ve la foto hasta que Chiara manda revelar el rollo en enero, así que «nadie la mira después» se vuelve literal. Si es de rollo, el 39 diría «la había mandado revelar en enero» en lugar de «imprimido».
+
+**Prosa ya escrita que hay que ajustar** (microedición al redactar el 20a y el 20b, para regenerar una sola vez):
+- **39, *Lo que queda*:** «sonriendo hacia el teléfono de Kal, que ella sostenía en alto» → la cámara de Héctor. Además, el 39 ya describe posiciones desde los ojos de Chiara (Meiko en el centro prendida de Bonnie, Danny haciéndole cuernos a Nadir, Héctor con su sonrisa chica), y eso le adelanta al 57 parte de su imagen. PENDIENTE DEL AUTOR: si el 39 se recorta a lo que Chiara siente (el marco frío, «como si pudieran con el mundo») y deja toda la imagen al 57.
+- **57, *La chimenea*:** «con el teléfono de él en alto» → con la cámara de Héctor en alto.
 
 ## 5. El amigo secreto
 
@@ -262,7 +274,7 @@
   - **Por qué azul:** el rojo era la de la universidad. La línea posible de Chiara: «Red velvet era la de la Ashcombe. Ya te graduaste». Es un ascenso en clave de chiste.
   - **Lo hace ella**, de la misma masa de la cena casera: cuesta casi nada y respeta el tope. Nadir no protesta.
   - **En escena (POV Kal):** Marisol lo abre y se pone del color del pastel que no es. «¿Quién te dijo?» Chiara: «Tu generación entera. A gritos». Kal ve el azul y, por el ritual de las puntas rubias que le parecen absurdas, le suelta a Marisol: «Ni se te ocurra». Ella se come el cupcake de dos mordidas, sin convidar.
-  - **Opción de eco (DISEÑO, por aprobar):** Bonnie oye el apodo y lo adopta, «Cupcake», y es la única que se lo dice después. Es la amistad con química del II y un apodo que puede volver en el VII. Si se toma, Marisol se lo tolera sólo a ella.
+  - **Bonnie se queda con «Cupcake» (DECISIÓN DEL AUTOR (2026-11-18)).** Lo oye esa noche y lo adopta. Desde entonces es la única que se lo dice, y Marisol sólo a ella se lo tolera. Es la amistad con química del II hecha apodo. **Eco:** veinte años después, cuando Bonnie vuelve, el «Cupcake» regresa intacto, y al lector que viene desde aquí le saca una risa con nostalgia. Momento exacto en el V–VII: PENDIENTE DEL AUTOR.
 
 **Marisol → Bonnie: el dije «Bonnie» (DECISIÓN DEL AUTOR)**
 - **Lo que carga:** su nombre. Bonnie se va a Boston después de F2 y vuelve a San Aurelio unos veinte años después **como Bonnie García** (DECISIÓN DEL AUTOR, 2026-11-15: se retira «Roberta Ardizzone»). El dije es el nombre que se va y el que vuelve. Cobra cuando al fin estén juntas, en el VII.
