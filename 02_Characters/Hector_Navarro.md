@@ -1,6 +1,6 @@
 # Héctor Navarro
 
-> **DECISIÓN DEL AUTOR (2026-11-18):** en el cumpleaños de Chiara (H16, [[11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/36_Tambien_Las_Mananas|Libro I, cap. 34 (archivo 36)]]) Héctor le regala una cámara. Con ella Chiara toma la foto de Nochebuena del Libro II, la que termina sobre la chimenea de la Villa. Siembra pendiente en la prosa. Ver [[11_Books/Book_02_Sombras_De_Poder/Part_02_Nieve_Y_Ceniza/00_Diseno_Navidad_Completa]] §4b.
+> **DECISIÓN DEL AUTOR (2026-11-18):** en la fiesta del yate ([[11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/38_Al_Reves|Libro I, cap. 35 (archivo 38), *Al revés*]]) Héctor le regala a Chiara una cámara, «para que traiga fotos» de Italia. Con ella toma la foto de Nochebuena del Libro II, la que termina sobre la chimenea de la Villa. Siembra pendiente: Héctor todavía no está en la prosa del yate. Ver [[11_Books/Book_02_Sombras_De_Poder/Part_02_Nieve_Y_Ceniza/00_Diseno_Navidad_Completa]] §4b.
 
 > **DECISIÓN DEL AUTOR (2026-11-12), *Sombras de Poder*:** Héctor dice por primera vez su tesis («no sostenerlo con el cuerpo; construirlo para poder dejar de sostenerlo») después del ataque de pánico de Kal en *Nieve y ceniza*, de pasada y sin que nadie la subraye. La cobra *Cuentas de Sangre*. Ver [[11_Books/00_Libro_Mayor_Deudas_Saga]], E1.
 

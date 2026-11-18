@@ -36,7 +36,7 @@
 8. **Chiara le regala a Marisol un cupcake de *blue velvet*** (DECISIÓN DEL AUTOR (2026-11-18)). En la universidad a Marisol le decían «Red Velvet Cupcake», por pequeña y pelirroja (§5b).
 9. **Se aligera el amigo secreto. El punto más sentimental de la noche es la foto** (DECISIÓN DEL AUTOR (2026-11-18)), la que después va sobre la chimenea de la Villa (§4b).
 10. **Bonnie se queda con «Cupcake»** (DECISIÓN DEL AUTOR (2026-11-18)): es la única que se lo dice después, y veinte años más tarde le sacará al lector una risa con nostalgia (§5b).
-11. **La foto se toma con la cámara que Héctor le regaló a Chiara en su cumpleaños (H16)**, no con el teléfono de Kal (§4b).
+11. **La foto se toma con la cámara que Héctor le regaló a Chiara en la fiesta del yate** (Libro I, cap. 35; corrige «en su cumpleaños»), no con el teléfono de Kal (§4b).
 12. **La foto se reparte por POV** (DECISIÓN DEL AUTOR (2026-11-18), segunda respuesta; sustituye la idea anterior de dejar la imagen al último capítulo): **la descripción es de Chiara, en el 39**, y así se ve la otra parte. **En el 20b y en el 57, POV Kal, no hay descripción.**
 - **Compatibilidad con el Libro I:** en el cap. 10 (archivo 10, *El loft del soltero*), Chiara «supo por Danny que Kal la había pasado en El Patio, con los muchachos y una bandeja de Mabel», y la Navidad del Libro I cae sin Kal (custodia, caps. 45–47). Se lee así: aquella Navidad **la pasó**, como una noche de trabajo con comida que le mandaron, y no la celebró. No contradice. Si el autor quiere que se lea sin duda, la línea del Libro I se puede ajustar, pero sólo con su orden.
 
@@ -182,11 +182,21 @@
 - **El peso:** es el párrafo de más calor de la noche porque Kal está dentro de algo por primera vez, no por lo que la foto muestra. Sin presagio, y nadie la mira después.
 - **El regalo de Héctor:** que la cámara sea de Héctor amarra la foto con él, que muere en el III. La foto que va sobre la chimenea la hizo posible el hombre que permaneció.
 
-**Origen de la cámara (DECISIÓN DEL AUTOR (2026-11-18)): Héctor se la regala en su cumpleaños, H16**, [[11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/36_Tambien_Las_Mananas|Libro I, cap. 34 (archivo 36)]]. Héctor ya está en la escena de las caballerizas («Buenas noches, señora. Feliz cumpleaños»), sentado en la paca de heno tras el traslado de la yegua. Ahí cabe el regalo, chico y sin ceremonia. **Siembra pendiente en la prosa del Libro I.**
+**Origen de la cámara (DECISIÓN DEL AUTOR (2026-11-18), corregido): Héctor se la regala en la fiesta del yate**, [[11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/38_Al_Reves|Libro I, cap. 35 (archivo 38), *Al revés*]], viernes 10 de diciembre del año 1. Es la velada de despedida que Chiara da «antes de partir a Italia», así que la cámara tiene una razón obvia: que traiga fotos. Héctor hoy no aparece en la prosa del yate (sólo se dice que «varios de los nuestros» tienen invitación); hay que sembrarlo ahí.
+
+**La primera foto (DECISIÓN DEL AUTOR (2026-11-18)).** Con esa cámara, esa misma noche, Chiara toma su primera foto: **Kal recargado en la baranda de estribor, viendo el mar, sin darse cuenta.** La baranda de estribor ya existe en la prosa del yate («Kal lo vio desde la baranda de estribor»); la foto va en un momento en que Kal está solo y mirando el agua, no en el de Blake.
+
+**El llavero (DECISIÓN DEL AUTOR (2026-11-18)).** Al empezar el Libro II, esa foto está en un llavero que Chiara carga siempre en sus llaves. Discreto: no se le ve la cara al hombre que ama, sólo a un hombre de espaldas o de perfil contra el mar. **Oculto a simple vista.** Nadie que lo vea sabe quién es.
+- **Por qué funciona (DISEÑO):** es el método de Chiara en todo el libro, ella toma relato y guarda lo suyo a la vista de todos. Y es el espejo de Kal: él carga en sus llaves la bola 8 de Meiko; ella, a él.
+- **Eco posible (DISEÑO):** en el 39, Chiara deja «las llaves en el cuenco» al llegar. El llavero puede estar ahí, sin comentario.
+- **Arco de la cámara:** primera foto, Kal solo frente al mar (yate, Libro I); la foto de Nochebuena, todos juntos (20b). De uno a todos. La segunda va sobre la chimenea; la primera, en sus llaves.
+- **Verificar al redactar (PENDIENTE):** el autor dijo «empezando el libro 1»; se entiende **Libro II**, porque el yate ocurre al final del Libro I. Si quiso decir otra cosa, corregir.
+
 - **Tipo (DISEÑO):** propongo una cámara vieja de rollo. Nadie ve la foto hasta que Chiara manda revelar el rollo en enero, así que «nadie la mira después» se vuelve literal. Si es de rollo, el 39 diría «la había mandado revelar en enero» en lugar de «imprimido».
 
 **Prosa ya escrita que hay que ajustar** (microedición al redactar el 20a y el 20b, para regenerar una sola vez):
-- **Libro I, cap. 34 (archivo 36):** sembrar la cámara de Héctor en la escena de las caballerizas.
+- **Libro I, cap. 35 (archivo 38), el yate:** poner a Héctor en la fiesta; que le dé la cámara a Chiara («para que traiga fotos»); y la primera foto, Kal en la baranda de estribor viendo el mar, sin notarlo.
+- **Libro II, apertura:** el llavero con esa foto en las llaves de Chiara (una línea de siembra).
 - **39, *Lo que queda*:** «sonriendo hacia el teléfono de Kal, que ella sostenía en alto» → la cámara de Héctor. La descripción de posiciones **se queda** (DECISIÓN DEL AUTOR (2026-11-18)).
 - **57, *La chimenea*:** quitar la descripción de la foto (los párrafos de Héctor y Walt, Danny y Nadir, Garrett, Harper, Tyler, Russ, Ren, Meiko y Bonnie) y cambiar «con el teléfono de él en alto» por la cámara de Héctor. Se queda la línea final de Kal mirándola, salvo que el autor diga otra cosa.
 
