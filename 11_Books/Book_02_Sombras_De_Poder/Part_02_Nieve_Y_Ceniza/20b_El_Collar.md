@@ -526,18 +526,6 @@ No se la dio todavía. La tuvo un momento en las dos manos, sobre las rodillas, 
 
 —Es de oro —dijo—. No se oxida con el agua salada ni con el aceite del taller. Lo pregunté.
 
-No se la dio todavía.
-
-—Lo mandé hacer en octubre. Fui a recogerlo en noviembre y se lo regresé al joyero.
-
-—¿Por qué?
-
-—Le había puesto otra cosa.
-
-—¿Qué cosa?
-
-—Algo peor. —Lo dijo mirando los coches, no a él—. Le pagué el doble para que lo borrara y no se lo dije a nadie. Ahora tú sabes. Si se lo cuentas a Danny, te mato.
-
 Se la dio.
 
 Kal la abrió. La bisagra estaba dura y crujió en el frío.
@@ -560,15 +548,9 @@ Kal se quedó mirando la placa. *Casa* era igual. No necesitaba que nadie le dij
 
 Esperó.
 
-Tenía la caja abierta en la mano y esperaba lo que venía después. No sabía qué. Algo. Se quedó con la caja abierta, quieto, y el reflector le pegaba a la placa, y el ruido de la fiesta seguía detrás de la lámina, y Chiara estaba a su lado, con las manos dentro de las mangas del abrigo, mirando las filas de coches blancos con *FELIZ* escrito en el parabrisas.
+Tenía la caja abierta en la mano y esperaba lo que venía después. No sabía qué. Algo. La cifra, la condición, lo que fuera a costar. Se quedó con la caja abierta, quieto, y el reflector le pegaba a la placa, y el ruido de la fiesta seguía detrás de la lámina, y Chiara estaba a su lado, con las manos dentro de las mangas del abrigo, mirando las filas de coches blancos con *FELIZ* escrito en el parabrisas.
 
 No vino nada después.
-
-—Yo no te… —dijo Kal.
-
-No terminó. No supo cómo terminaba. Ella no le preguntó cómo terminaba.
-
-—Hace frío —dijo ella.
 
 Kal sacó la cadena de la caja. Era más ligera de lo que parecía. Encontró las dos puntas y trató de cerrarla detrás del cuello, a ciegas, con los dedos tiesos de frío, y el broche era muy chico, y no lo encontraba, y la cadena se le resbalaba.
 
@@ -582,23 +564,55 @@ La placa le cayó sobre el esternón, por encima de la camiseta, debajo de la ca
 
 Chiara volvió a dar la vuelta y se paró enfrente de él. Él seguía sentado en el estribo; así, de pie, ella le quedaba a la altura. Levantó la mano, sin guante, con las uñas color vino, y la puso abierta sobre su pecho, encima de la placa, encima de la camisa, y la dejó ahí.
 
-No dijo nada más. Kal tampoco.
+—Yo no te… —dijo Kal.
 
-Se quedaron así. Detrás de la lámina, Mabel cantó la estrella.
+No terminó. No supo cómo terminaba.
+
+—Recuerdo que no te gusta la Navidad, y no espero nada en regreso, *amore*. —No le quitó la mano del pecho—. No lo veas como una deuda. Es más un recordatorio de que ahora hay alguien que te espera al otro lado de tus actividades nocturnas.
+
+—No todas son nocturnas. —Kal bajó la vista a la mano de ella—. Pero entiendo el punto.
+
+—«Actividades nocturnas» fue la versión amable. La placa la mandé hacer en octubre, y en noviembre se la regresé al joyero.
+
+—¿Por qué?
+
+—Le había puesto otra cosa.
+
+—¿Qué cosa?
+
+—Algo peor. —Lo dijo mirando los coches, no a él—. Le pagué el doble para que lo borrara y no se lo dije a nadie. Si se lo cuentas a Danny, te mato.
+
+A Kal se le movió la boca. No llegó a sonrisa.
+
+Ella dejó de mirar los coches.
+
+—Kal, en serio. He vivido mi vida entera escuchando y haciendo promesas a hombres que se marchan o ya no están para cumplirlas. Permíteme esta vez cumplir una de esas promesas.
+
+Detrás de la lámina alguien gritó una carta y treinta personas protestaron al mismo tiempo. Kal no la oyó. La miraba a ella, que lo miraba a él con la cara seria, de frente, a la altura de los ojos, con la nariz roja de frío.
+
+—No puedo prometer que voy a volver —dijo—. Pero sí puedo prometer que buscaré la forma de siempre volver. Sin importar si allá afuera me persiguen adversarios o desconocidos intentan evitarlo, lo haré. Tienes mi palabra.
+
+Ella tardó en contestar. La mano en el pecho de él no se movió.
+
+—Y tienes la mía. De que sin importar la situación, tan irreal o peculiar como siempre sueles volverlas…
+
+Se rieron los dos, bajo, sin querer, y el aliento se les juntó en una sola nube entre las caras.
+
+—…siempre habrá una vela que cuide de ti de mi lado.
+
+Kal levantó la mano y la puso encima de la de ella, sobre la placa. Después la bajó, con la de ella adentro, y se quedaron así, con las manos agarradas sobre la rodilla de él.
+
+La puerta lateral se abrió. Salió la luz amarilla de la nave, larga, hasta la mitad del patio, y Danny detrás de ella, con la cubeta del hielo, gritando hacia adentro que ya no había, que nadie le había dicho que ya no había. Estaba a diez pasos. Vació el agua en la grava, junto al asador. Bastaba con que levantara la cabeza.
+
+No hacían eso. No con gente. Ninguno de los dos soltó.
+
+Danny volvió a entrar, todavía discutiendo, y la puerta se cerró detrás de él, y el patio volvió a quedar a oscuras.
+
+Detrás de la lámina, Mabel cantó la estrella.
 
 ***
 
 Volvieron a entrar por la puerta lateral, primero ella y después él, y nadie volteó. Danny estaba parado en una silla tratando de convencer a todos de que la estrella de cartón del sedán tenía que ir en la punta de la antena y no a la mitad. Walt había ganado una ronda y Mabel le estaba revisando la tabla con el dedo, casilla por casilla, buscando manchas. Héctor tenía un plato que no era el suyo. En la mesa del centro, Meiko le enseñaba a Bonnie cómo se jugaban dos tablas a la vez, con la caja de galletas abierta junto al codo, y se reía de algo que había dicho Bonnie, con la cabeza hacia atrás. Nadir le cuidaba los frijoles a Marisol mientras Marisol iba por ponche. Tyler, junto a Danny, le sostenía la silla.
-
-Se quedaron en la orilla, junto a la puerta, donde no llegaba la luz de las bahías. Ella a su izquierda.
-
-Kal no supo quién empezó. La mano de ella estaba junto a la suya y después estaba en la suya, todavía fría del patio, y él la cerró.
-
-No hacían eso. No con gente. No a tres metros de ellos, que los conocían de memoria y no habrían tenido piedad. Bastaba con que uno volteara. Danny, desde la silla. Marisol, con el ponche. Cualquiera. Kal no la soltó.
-
-Nadie volteó.
-
-Danny ganó lo de la antena y pegó un grito, y todos aplaudieron, y ella le apretó la mano una vez y la soltó, y se fue a la mesa del centro a sentarse junto a Bonnie, como si viniera del baño.
 
 Kal se abrochó dos botones de la camisa de cuadros. Agarró la jarra del ponche donde la había dejado. Estaba vacía. Fue a llenarla.
 

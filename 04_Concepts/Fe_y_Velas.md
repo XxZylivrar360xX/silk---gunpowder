@@ -49,6 +49,8 @@ La oración no necesita escribirse completa cada vez. La frase interna del ritua
 
 El ritual nace después de [[06_Relationships/Momentos_de_Fractura]], **F4 - Año Nuevo en Washington**.
 
+> **CANON DEL AUTOR (2026-11-18): la vela se promete en Navidad.** Al darle el collar, Chiara le promete que «siempre habrá una vela que cuide de ti de mi lado» ([[11_Books/Book_02_Sombras_De_Poder/Part_02_Nieve_Y_Ceniza/20b_El_Collar]]). La primera vela encendida sigue siendo la tardía, después de la incursión ([[11_Books/Book_02_Sombras_De_Poder/Part_02_Nieve_Y_Ceniza/23_La_Vela_Tardia]]): llega tarde a una promesa ya hecha.
+
 > **PENDIENTE (2026-11-07):** la causa del viaje se rediseña; Anya retirada ([[97_Supersedido/Anya_Voronina]]).
 
 Kal viaja a Washington, D.C. para reunirse con [[97_Supersedido/Anya_Voronina|Anya Voronina (retirada)]], la contacto rusa que consiguió los papeles de [[02_Characters/Nadir_Amrani]]. Lo hace por deuda, en Año Nuevo y cumpleaños suyo, justo cuando Chiara esperaba pasar con él su primer Año Nuevo juntos. (Noche separada **restaurada por el autor, 2026-09-26**: Chiara, ebria y sola en el penthouse tras la fiesta del Monarch; Kal vuelve en auto esa misma noche. Ver [[97_Supersedido/Anya_Voronina]].) **La primera vela nace días después (canon 2026-09-26),** cuando Kal le cuenta su primera incursión para Dario: la escolta de cocaína, el rival, el coche en la bahía.
