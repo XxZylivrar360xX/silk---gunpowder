@@ -386,67 +386,47 @@ Ganó Chiara la cuarta ronda. No gritó «lotería». Gritó, con el frijol toda
 
 —Así se dice —dijo Mabel, y fue a revisarle la tabla con el dedo, y la tenía bien, y le dio de premio una moneda de cincuenta centavos que sacó del delantal, que Chiara se guardó en el bolsillo de la camisa de cuadros, junto al papel de Nadir, como si fuera de oro.
 
-Fue entonces cuando a Kal empezó a apretarle.
+Fue entonces cuando le dio el calor.
 
 No pasó nada. Estaba sentado, por primera vez en la noche, con la tabla enfrente y un frijol en los dedos. Mabel cantó una carta. Danny se rió. El calentador de la esquina hacía su ruido de soplete. El bebé del turno, por fin despierto, lloraba en algún lado, no mucho. Había treinta personas en una nave de lámina con cuatro calentadores, y el ponche hervía en su parrilla, y alguien había abierto la segunda botella de Garrett, y hacía calor. Mucho. De golpe.
 
 Se le cerró algo debajo del esternón, como una mano.
 
-Dejó el frijol en la mesa. Se levantó sin que se le notara la prisa: agarró una bandeja vacía, como quien va a llevarla, y la dejó en el primer banco que encontró, y salió por la puerta lateral al patio.
+La conocía. Era la de la otra noche, la del garaje, nada más que más chica, y esta vez sabía lo que era y de dónde se agarraba. No quería irse. Quería aire. Dejó el frijol en la mesa. Agarró una bandeja vacía, como quien va a llevarla, la dejó en el primer banco que encontró y salió por la puerta lateral al patio.
 
 ***
 
 El frío le pegó en la cara como agua.
 
-Se quedó junto a la puerta, con la espalda contra la lámina, respirando. Adentro, la voz de Mabel cantaba otra carta y treinta personas se reían de algo, amortiguado, como si estuvieran en otro edificio. Afuera no había nada: las filas de coches blancos de escarcha, el asador abandonado con las brasas ya grises, el vapor de su propio aliento subiendo y deshaciéndose bajo los reflectores. El cielo estaba limpio y negro. No iba a nevar. Hacía demasiado frío para nevar.
+Se quedó junto a la puerta, con la espalda contra la lámina, respirando. Afuera no había nada: las filas de coches blancos de escarcha, el asador abandonado con las brasas ya grises, el vapor de su propio aliento subiendo y deshaciéndose bajo los reflectores. El cielo estaba limpio y negro. No iba a nevar. Hacía demasiado frío para nevar.
 
-Caminó hasta la grúa grande, que estaba junto a la reja desde la noche anterior, y se sentó en el estribo. El metal estaba helado. Le atravesó los pantalones. Lo agradeció. En el bolsillo, las llaves de la grúa le pesaban un poco más que la mañana, por la bola.
+Caminó hasta la grúa grande, que estaba junto a la reja desde la noche anterior, y se sentó en el estribo. El metal estaba helado. Le atravesó los pantalones. Lo agradeció.
 
-Contó. No supo qué contaba. Respiraciones, o coches, o los eslabones de la cadena enrollada en el malacate. Al rato, la mano debajo del esternón aflojó un dedo, y después otro.
+Adentro, la voz de Mabel cantaba otra carta y treinta personas se reían de algo, amortiguado por la lámina. La risa de Danny se oía sola por encima de las demás, como siempre, un poco tarde, como si le hubieran tenido que explicar el chiste. Kal se puso a contarlas. Iba en la cuarta cuando la mano debajo del esternón aflojó un dedo. En la sexta ya podía respirar entero, y se quedó sentado nada más porque se estaba bien ahí, oyéndolos.
 
 Fue entonces cuando vio al hombre en el portón.
 
-Estaba del otro lado de la reja, en la acera, bajo el reflector de la entrada, con las manos en los bolsillos de una chaqueta demasiado delgada para esa noche. Era flaco, mayor que ella, no mucho, con el pelo negro largo atrás y una sonrisa que no se le quitaba, de las que se ponen antes de pedir algo que ya se pidió muchas veces. No tocó. No llamó. Esperó, mirando hacia las puertas iluminadas de las bahías, hasta que el hijo de uno de los del turno, que había salido a orinar entre los coches, lo vio, y el hombre le dijo algo a través de la reja, y el muchacho asintió y entró corriendo a la nave.
+Estaba del otro lado de la reja, bajo el reflector de la entrada, con las manos en los bolsillos de una chaqueta demasiado delgada para esa noche y una sonrisa de las que se ponen antes de pedir algo que ya se pidió muchas veces. No tocó. Esperó hasta que el hijo de uno de los del turno, que había salido a orinar entre los coches, lo vio, y el hombre le dijo algo a través de la reja, y el muchacho entró corriendo a la nave.
 
 Kal no se movió. Desde el estribo, en la sombra de la grúa, nadie lo veía.
 
-Meiko salió un minuto después. Venía sin chaqueta, con la camisa de cuadros que Danny le había dado y los brazos cruzados contra el frío, y los dados de peluche todavía colgados del cuello, y caminó hasta el portón sin apurarse. No abrió la reja. Se quedó de su lado.
+Meiko salió un minuto después, sin chaqueta, con la camisa de cuadros y los dados de peluche todavía colgados del cuello, con los brazos cruzados contra el frío, y caminó hasta el portón sin apurarse. No abrió la reja. Hablaron bajo. Kal no oía las palabras; oía el tono de él, suave, razonable, con risa adentro, y alcanzó a oír «nada más esta vez».
 
-Hablaron bajo al principio. Kal no oía las palabras; oía el tono. El de él, suave, razonable, con risa adentro. El de ella, nada: no contestaba, o contestaba una sílaba. El hombre se acercó a la reja. Metió los dedos entre los barrotes. Kal alcanzó a oír «nada más esta vez» y «me dijeron que hasta el lunes», y oyó el nombre de ella, el corto, dicho como lo decían los que la querían.
+—Lárgate, Kaito. —No lo dijo bajo. Se le quebró la voz en el nombre y no le importó—. Ya no. ¿Me oíste? No voy a pagar nada más por ti. Nada. Ni un dólar. Ni uno.
 
-—Lárgate —dijo Meiko.
+El hombre se quedó un momento más. Después se dio la vuelta y se fue caminando por la calle Almendra, hacia la esquina de la lavandería, sin voltear.
 
-No lo dijo bajo.
-
-—Mei…
-
-—Lárgate, Kaito. —Se le quebró la voz en el nombre y no le importó—. Ya no. ¿Me oíste? No voy a pagar nada más por ti. Nada. Ni un dólar. Ni uno.
-
-El hombre sacó los dedos de la reja. Dejó de sonreír, y sin la sonrisa se le veía la cara de alguien mucho más cansado, mucho más joven, y Kal pensó, sin querer pensarlo, que se le parecía a ella en los ojos.
-
-—Me van a…
-
-—No me importa. —Meiko dio un paso atrás. Le temblaba todo, de frío o de lo otro—. No me importa. Vete. Vete ya.
-
-El hombre se quedó un momento más. Miró hacia adentro, hacia las luces, hacia el sedán colgado en su bahía con su estrella de cartón. Después se dio la vuelta y se fue caminando por la calle Almendra, con las manos otra vez en los bolsillos, hacia la esquina de la lavandería, sin voltear.
-
-Meiko se quedó en el portón. Kal la vio respirar. La vio limpiarse la cara con la manga de la camisa de cuadros, rápido, de un lado y del otro, como quien se quita grasa. La vio quedarse quieta, mirando la calle vacía por donde se había ido su hermano, con los brazos cruzados, hasta que dejó de temblar o hasta que decidió que ya no temblaba.
-
-Después se volvió hacia el taller, y en el camino pasó junto a la grúa, y lo vio.
-
-Se detuvo. No se sorprendió, o no se le notó. Se miraron un segundo, ella de pie, él en el estribo, en la sombra.
+Meiko se limpió la cara con la manga, rápido, de un lado y del otro, como quien se quita grasa. Al volver pasó junto a la grúa, y lo vio, y se detuvo.
 
 —¿Todo bien? —dijo Kal.
 
-Meiko asintió. Se descruzó los brazos.
+Meiko se descruzó los brazos.
 
 —Todo bien, jefe.
 
-No lo dijo como lo decía cuando pedía un adelanto. Siguió de largo, abrió la puerta lateral, y por un momento salió el calor de adentro, y la voz de Mabel, y una carcajada de Danny, y después la puerta se cerró.
+No lo dijo como lo decía cuando pedía un adelanto. Siguió de largo y abrió la puerta lateral, y por un momento salió el calor de adentro, y la voz de Mabel cantando el gallo, y una carcajada de Danny, la séptima.
 
-Kal se quedó en el estribo. La mano debajo del esternón se había ido. No supo cuándo.
-
-Miró un rato más la calle Almendra. No pasó nadie. Después se levantó, se sacudió el frío de los pantalones y volvió a entrar.
+Kal se levantó y entró detrás de ella antes de que se acabara la ronda.
 
 ***
 
@@ -546,6 +526,18 @@ No se la dio todavía. La tuvo un momento en las dos manos, sobre las rodillas, 
 
 —Es de oro —dijo—. No se oxida con el agua salada ni con el aceite del taller. Lo pregunté.
 
+No se la dio todavía.
+
+—Lo mandé hacer en octubre. Fui a recogerlo en noviembre y se lo regresé al joyero.
+
+—¿Por qué?
+
+—Le había puesto otra cosa.
+
+—¿Qué cosa?
+
+—Algo peor. —Lo dijo mirando los coches, no a él—. Le pagué el doble para que lo borrara y no se lo dije a nadie. Ahora tú sabes. Si se lo cuentas a Danny, te mato.
+
 Se la dio.
 
 Kal la abrió. La bisagra estaba dura y crujió en el frío.
@@ -555,6 +547,10 @@ Adentro, sobre terciopelo negro, había una cadena delgada de oro y una placa re
 —*Tornacasa* —leyó.
 
 —Torna a casa. —Chiara se lo dijo despacio, mirándole la boca—. Son dos aes. *Torna. A.* Una no se come a la otra.
+
+—En el mío se la come.
+
+—En el tuyo se comen todo. Por eso estás aprendiendo el mío.
 
 —Torna a casa.
 
@@ -592,26 +588,30 @@ Se quedaron así. Detrás de la lámina, Mabel cantó la estrella.
 
 ***
 
-Volvieron a entrar por la puerta lateral, primero ella y después él, y nadie volteó. Danny estaba parado en una silla tratando de convencer a todos de que la estrella de cartón del sedán tenía que ir en la punta de la antena y no a la mitad. Walt había ganado una ronda y Mabel le estaba revisando la tabla con el dedo, casilla por casilla, buscando manchas. Héctor tenía un plato que no era el suyo.
+Volvieron a entrar por la puerta lateral, primero ella y después él, y nadie volteó. Danny estaba parado en una silla tratando de convencer a todos de que la estrella de cartón del sedán tenía que ir en la punta de la antena y no a la mitad. Walt había ganado una ronda y Mabel le estaba revisando la tabla con el dedo, casilla por casilla, buscando manchas. Héctor tenía un plato que no era el suyo. En la mesa del centro, Meiko le enseñaba a Bonnie cómo se jugaban dos tablas a la vez, con la caja de galletas abierta junto al codo, y se reía de algo que había dicho Bonnie, con la cabeza hacia atrás. Nadir le cuidaba los frijoles a Marisol mientras Marisol iba por ponche. Tyler, junto a Danny, le sostenía la silla.
+
+Se quedaron en la orilla, junto a la puerta, donde no llegaba la luz de las bahías. Ella a su izquierda.
+
+Kal no supo quién empezó. La mano de ella estaba junto a la suya y después estaba en la suya, todavía fría del patio, y él la cerró.
+
+No hacían eso. No con gente. No a tres metros de ellos, que los conocían de memoria y no habrían tenido piedad. Bastaba con que uno volteara. Danny, desde la silla. Marisol, con el ponche. Cualquiera. Kal no la soltó.
+
+Nadie volteó.
+
+Danny ganó lo de la antena y pegó un grito, y todos aplaudieron, y ella le apretó la mano una vez y la soltó, y se fue a la mesa del centro a sentarse junto a Bonnie, como si viniera del baño.
 
 Kal se abrochó dos botones de la camisa de cuadros. Agarró la jarra del ponche donde la había dejado. Estaba vacía. Fue a llenarla.
-
-En la mesa del centro, Meiko le enseñaba a Bonnie cómo se jugaban dos tablas a la vez. Tenía la caja de galletas abierta junto al codo y ya le faltaban tres. Se reía de algo que había dicho Bonnie, con la cabeza hacia atrás.
 
 Kal sirvió ponche. Lo llevó a las mesas, vaso por vaso. Nadie le vio nada debajo de la camisa. Nadie preguntó por qué había salido.
 
 A las tres, en el Peugeot, subiendo por la carretera del norte, con la calefacción a lo más alto y las bandejas vacías tintineando en el asiento de atrás, Chiara habló con los ojos cerrados.
 
-—Meiko salió un rato. Antes de las doce. Volvió con la cara roja.
-
-—Por el frío.
-
-—Mm. —No abrió los ojos—. ¿Pasó algo?
+—Mañana te enseño a abrir el broche.
 
 Kal miró la carretera. La helada brillaba en el asfalto bajo los faros, como sal.
 
-—Cosas de familia —dijo.
+—¿Para qué?
 
-Ella no preguntó más. Se durmió antes del desvío de las cascadas, con la cabeza contra la ventana y la moneda de cincuenta centavos de Mabel todavía en el bolsillo de la camisa de cuadros.
+Ella no contestó. Sonrió, sin abrir los ojos, y se durmió antes del desvío de las cascadas, con la cabeza contra la ventana y la moneda de cincuenta centavos de Mabel todavía en el bolsillo de la camisa de cuadros.
 
 Kal hizo las once curvas en segunda. En la siete, donde el camino se ladeaba hacia afuera por el agua, bajó un poco más la velocidad, sin pensarlo. Llevaba la mano izquierda en el volante. La derecha la tenía en el pecho, por encima de la camisa, y no se acordaba de haberla puesto ahí.
