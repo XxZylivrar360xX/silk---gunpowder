@@ -114,9 +114,12 @@
 3. **Los pequeños delitos.** Ella le dice que no toque algo y él lo toca. Ella le da un golpecito con la cuchara. Él le roba una papa, un sorbo y, cuando ella está de espaldas volteando la carne, un beso en la nuca, como si no pudiera evitarlo. Ella finge molestarse y se nota que está feliz.
 4. **El piso.** Él se sienta en el piso casi por inercia, con la espalda contra el horno tibio. Ella termina sentándose a su lado con los dos platos. Comen con las manos.
 5. **La malteada.** Un solo vaso y sin protocolo, como una pareja vieja y una pareja nueva al mismo tiempo. Se lo pelean.
-6. **La mancha.** Ella le limpia una mancha del labio con el pulgar, y ahí se quedan demasiado cerca. El beso que sigue es el de verdad.
-7. **La tierra.** Un poco de silencio y de cansancio. Ella recarga la cabeza en su hombro. El teléfono de Kal vibra una vez en la barra y él no se levanta. Es el único rastro del mundo duro de donde vienen, y por eso esta hora vale oro. No se nombra a Crowe.
-8. **La salida.** Se levantan, ella se sacude la harina de la camisa y bajan. Cierre del 20a: los dos bajando hacia la nave encendida.
+6. **La tierra.** Un poco de silencio y de cansancio. Ella recarga la cabeza en su hombro. El teléfono de Kal vibra una vez en la barra y él no se levanta. Es el único rastro del mundo duro de donde vienen, y por eso esta hora vale oro. No se nombra a Crowe. *(Va antes del beso, para que el beso y la línea de los ojos cierren la escena.)*
+7. **La mancha y el beso de verdad.** Ella le limpia una mancha del labio con el pulgar, y ahí se quedan demasiado cerca. El beso que sigue es el de verdad.
+8. **Los ojos (DECISIÓN DEL AUTOR, 2026-11-18).** Después del beso, ella lo mira fijo. Kal se queda muy quieto, mirándola. Luego dice: «Héctor tenía razón: sí que son diferentes según cómo los mires». Ella, confundida: «¿Qué?». Él: «Vámonos ya, o llegaremos tarde».
+   - **Callback** al Libro I, cap. 3 (*Los viejos días*), en la puerta del penal, antes de que salga Walt: Kal pregunta «¿Los ojos, según el color, brillan más?», Héctor dice «¿De qué hablas?», Nat contesta «Depende… De los ojos que los miren». Es el eco de los ojos verdes de Chiara del cap. 2. Chiara no estaba ahí y no puede entender: por eso el «¿Qué?» funciona, y Kal no se lo explica.
+   - **PENDIENTE DEL AUTOR (discrepancia con el canon del cap. 3):** en el Libro I quien contesta es **Nat**, no Héctor; Héctor sólo dice «¿De qué hablas?». Opciones: (a) «Nat tenía razón», que además siembra a Nat horas antes de que pase por el taller; (b) dejar «Héctor», como error de Kal, aunque él estaba ahí y difícilmente se equivocaría. La línea queda como la dictó el autor hasta que decida.
+9. **La salida.** Se levantan, ella se sacude la harina de la camisa y bajan. Cierre del 20a: los dos bajando hacia la nave encendida.
 
 **Lo que no se hace:** que hablen «como adolescentes», bromas bobas, slapstick, puro azúcar. Tampoco se menciona *Ambos* ni se explica por qué la hamburguesa.
 
