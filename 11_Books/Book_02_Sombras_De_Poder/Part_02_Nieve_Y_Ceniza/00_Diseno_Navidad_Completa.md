@@ -14,7 +14,7 @@
 7. **Amigo secreto con los pares del autor:**
    - Nadir le regala a Chiara.
    - Marisol le regala a Bonnie.
-   - Chiara le regala a Marisol un **bolígrafo grabado con «Grayson»**.
+   - ~~Chiara le regala a Marisol un **bolígrafo grabado con «Grayson»**.~~ *(Movido a la graduación de Marisol, cap. 15 *Lentejuelas*: DECISIÓN DEL AUTOR (2026-11-17, tercera ronda).)*
    - Kal le regala a Héctor.
    - Meiko le regala a Kal.
    - Los demás pares quedan a cargo del agente (§5).
@@ -30,6 +30,8 @@
    - **El collar TORNA A CASA:** cierra con broche de oro (cierra el 20b).
 3. **Se aligera un poco la carga sentimental.** Se quedan fijos **el dije de Bonnie, las hamburguesas y la carta de Nadir**. Qué se aligera del resto es PENDIENTE DEL AUTOR (propuesta del agente en §7).
 4. **Consecuencia de tono:** como es el recuerdo más feliz, la noche no lleva sombra en la primera lectura. Los ecos (bola 8, termo, carta, dije) sólo pesan al releer. El narrador no adelanta nada.
+5. **El bolígrafo «Grayson» se mueve a la graduación de Marisol** (DECISIÓN DEL AUTOR (2026-11-17, tercera ronda); cap. 15, *Lentejuelas*, fin de oct A3). Ahí es más adecuado que Chiara le regale algo así. En Navidad, Chiara le da a Marisol otra cosa, más ligera (§5).
+6. **La hora a solas tiene la dirección del autor** (DECISIÓN DEL AUTOR (2026-11-17, tercera ronda); §3): dos adultos peligrosos, cansados y enamorados, sentados en el piso de una cocina, comportándose por fin como personas normales.
 - **Compatibilidad con el Libro I:** en el cap. 10 (archivo 10, *El loft del soltero*), Chiara «supo por Danny que Kal la había pasado en El Patio, con los muchachos y una bandeja de Mabel», y la Navidad del Libro I cae sin Kal (custodia, caps. 45–47). Se lee así: aquella Navidad **la pasó**, como una noche de trabajo con comida que le mandaron, y no la celebró. No contradice. Si el autor quiere que se lea sin duda, la línea del Libro I se puede ajustar, pero sólo con su orden.
 
 ## 1. Qué cambia y qué no
@@ -94,20 +96,33 @@
   - Kal se queda en el recibidor con las manos vacías, como un hombre que llegó de visita a su propia casa.
 - **La curva siete:** Harper se la advierte al chofer, y el chofer contesta que lleva doce años manejando banquetes. En la cena, la caponata (que bajó en las piernas de Marisol) llega intacta y una charola llega movida de una esquina. Nadie dice nada. Harper mira la charola y luego a Kal.
 
-### A solas (17:00–18:15): primero cómica, después romántica
+### A solas (17:00–18:15): desarme (DECISIÓN DEL AUTOR (2026-11-17, tercera ronda))
 
-1. **La hamburguesa (DECISIÓN DEL AUTOR).**
-   - Con la casa vacía, Chiara pone en la plancha una hamburguesa hecha a mano y licúa una malteada.
-   - Kal pregunta por qué, si abajo hay comida para treinta. Ella contesta: «Me dijiste "lo que sea"». Así fue como contestó él a la pregunta disfrazada, semanas antes, que tampoco recordaba como pregunta.
-   - Ella se sienta en el piso de la cocina, con la espalda contra el horno todavía tibio y el delantal manchado, y él se sienta a su lado. Comen ahí, con la malteada pasando de mano en mano.
-   - Es la única comida de la noche que no va en la mesa del taller. No se menciona *Ambos*.
-2. **El cinturón y el beso (DECISIÓN DEL AUTOR).**
-   - Chiara se prueba la camisa de cuadros de Danny y le queda enorme. «Necesito un cinturón para que esto parezca ropa».
-   - Kal se quita el suyo y le sobra un palmo. Del cajón de los apagones (el mismo de las velas del 23) saca un clavo y un martillo, y abre un agujero nuevo en su propio cinturón sobre la tabla de picar. Se arrodilla y se lo abrocha. El agujero queda exacto.
-   - Ella: «¿Cómo supiste dónde?». Él, todavía de rodillas: «Te he cargado».
-   - Ella lo besa con la cara manchada de harina. (Las líneas son DISEÑO y se ajustan al redactar.)
-   - **Remate:** Kal baja sin cinturón, con una correa de amarre de nylon que encuentra en la cochera. En la cena, Danny: «Jefe, ¿trae un amarre de carga de cinturón?». Kal: «No se mueve nada».
-   - **Lógica:** el cinturón es un préstamo, no un regalo, así que respeta la regla de ella. Ella pasa la noche con algo de él en la cintura y a las 00:30 él recibe algo de ella en el pecho. La prosa ya tiene «un cinturón de piel encima que la convertía en otra cosa»; esto le da origen.
+**La brújula del autor.** «Dos adultos peligrosos, cansados y enamorados, sentados en el piso de una cocina, comportándose por fin como personas normales.» No son dos treintañeros actuando como jóvenes: son dos adultos muy cargados que, por una hora, se permiten la ligereza que no tuvieron cuando les tocaba. Parece adolescencia recuperada. Kal nunca tuvo esa adolescencia, y Chiara nunca tuvo una cocina así, tranquila, con alguien a quien besar entre una hamburguesa y una malteada. **La escena no dice «mira qué jóvenes son», sino «mira qué seguros se sienten juntos para poder ser así de simples».** Nada de esto se escribe; se muestra.
+
+**La energía.** No es sensual desde el primer segundo. Es una mezcla de coqueteo doméstico, hambre real, cansancio bonito, intimidad improvisada y unos cuantos besos robados entre bromas. No es inmadurez: es desarme.
+
+**Cómo se ven.**
+- **Chiara:** con el delantal sobre la camisa grande de cuadros, que todavía se siente medio prestada y medio íntima. Harina o salsa en la mano o en la mejilla. El pelo suelto, de casa, no arreglado.
+- **Kal:** agotado pero suave. Entra con ese humor tonto que sólo le sale cuando está cómodo. Primero se queda apoyado en el marco de la cocina, mirándola trabajar. Luego se sienta en el piso con ella, como si fuera el lugar más natural del mundo.
+
+**La comida.** No es bonita ni gourmet de foto. Es casera, rica, un poco imperfecta y muy real: pan suave apenas tostado, carne jugosa, queso derritiéndose y una malteada espesa que comparten casi peleándose el vaso. Las papas, si van, son de sartén. Lo importante no es la mejor hamburguesa del mundo: **Chiara hizo para Kal exactamente lo que a él le sabe a consuelo.**
+
+**Secuencia (DISEÑO sobre la dirección del autor; las líneas se ajustan al redactar):**
+1. **La camisa y el cinturón (DECISIÓN DEL AUTOR anterior).** Chiara se pone la camisa de cuadros y le queda enorme: «Necesito un cinturón para que esto parezca ropa». Kal le presta el suyo, abre un agujero nuevo con clavo y martillo del cajón de los apagones, se arrodilla y se lo abrocha. «¿Cómo supiste dónde?» «Te he cargado.» Se juega tierno y callado, no como gag. Es el primer beso, corto.
+2. **El marco de la puerta.** Ella se pone el delantal y prende la plancha. Él se apoya en el marco y la mira. Pregunta por qué cocina otra cosa si abajo hay comida para treinta. «Me dijiste "lo que sea".»
+3. **Los pequeños delitos.** Ella le dice que no toque algo y él lo toca. Ella le da un golpecito con la cuchara. Él le roba una papa, un sorbo y, cuando ella está de espaldas volteando la carne, un beso en la nuca, como si no pudiera evitarlo. Ella finge molestarse y se nota que está feliz.
+4. **El piso.** Él se sienta en el piso casi por inercia, con la espalda contra el horno tibio. Ella termina sentándose a su lado con los dos platos. Comen con las manos.
+5. **La malteada.** Un solo vaso y sin protocolo, como una pareja vieja y una pareja nueva al mismo tiempo. Se lo pelean.
+6. **La mancha.** Ella le limpia una mancha del labio con el pulgar, y ahí se quedan demasiado cerca. El beso que sigue es el de verdad.
+7. **La tierra.** Un poco de silencio y de cansancio. Ella recarga la cabeza en su hombro. El teléfono de Kal vibra una vez en la barra y él no se levanta. Es el único rastro del mundo duro de donde vienen, y por eso esta hora vale oro. No se nombra a Crowe.
+8. **La salida.** Se levantan, ella se sacude la harina de la camisa y bajan. Cierre del 20a: los dos bajando hacia la nave encendida.
+
+**Lo que no se hace:** que hablen «como adolescentes», bromas bobas, slapstick, puro azúcar. Tampoco se menciona *Ambos* ni se explica por qué la hamburguesa.
+
+**El remate de la correa** (DECISIÓN DEL AUTOR anterior) se queda, pero pasa al 20b: Kal baja sin cinturón, con una correa de amarre de nylon de la cochera. Danny: «Jefe, ¿trae un amarre de carga de cinturón?». Kal: «No se mueve nada». En la cocina no hay gag; la comedia es del taller.
+
+**Lógica del cinturón:** es un préstamo, no un regalo, así que respeta la regla de ella. Ella pasa la noche con algo de él en la cintura, y a las 00:30 él recibe algo de ella en el pecho.
 
 ## 4. La cena: un platillo por persona
 
@@ -147,7 +162,7 @@
 **Para qué sirve.** Es la única forma de regalo que Kal entiende: todos dan, todos reciben y la cuenta cierra. Por eso acepta lo de Meiko sin incomodidad. A las 00:30 el collar le pesa justo porque no hubo papel en el casco con el nombre de ella. No se explica nunca.
 
 **Mecánica.**
-- **El sorteo, hacia el 10 dic:** lo decreta Danny en el taller («Es ley») y los papeles salen del casco de soldar de Héctor. Tiene que ser unas dos semanas antes porque el bolígrafo y el dije se mandan grabar. Fuera de cuadro; en el 20 basta una línea de recuerdo.
+- **El sorteo, hacia el 10 dic:** lo decreta Danny en el taller («Es ley») y los papeles salen del casco de soldar de Héctor. Tiene que ser unas dos semanas antes porque el dije se manda grabar. Fuera de cuadro; en el 20 basta una línea de recuerdo.
 - **El 23 a las 03:10:** Danny recuerda el tope. Kal admite que no ha comprado nada y compra el termo el 24 en la mañana, entre guardia y guardia.
 - **El tope:** Nadir fija veinte dólares. «Garrett. Veinte quiere decir veinte.»
 - **Chiara entra:** «Usted también», como con las camisas.
@@ -162,7 +177,7 @@
 | **Meiko** | **Kal** | **Un llavero con una bola 8** (DECISIÓN DEL AUTOR), por la partida de pool que ella casi gana y perdió al meter la 8 en la tronera equivocada. Sólo dice: «Para la grande.» Kal entiende solo y lo pone en las llaves de la grúa grande. | Ver §5b. | DECISIÓN DEL AUTOR |
 | **Kal** | **Héctor** | **Un termo de acero**, porque el de Héctor tiene veinte años y gotea. «Éste no gotea.» «No.» «El otro tampoco goteaba.» Héctor lo guarda sin estrenar (DECISIÓN DEL AUTOR). | Ver §5b. | DECISIÓN DEL AUTOR |
 | **Nadir** | **Chiara** | **Una carta** (DECISIÓN DEL AUTOR), escrita a mano y sin precio. | Ver §5b. | DECISIÓN DEL AUTOR |
-| **Chiara** | **Marisol** | **Un bolígrafo grabado con «Grayson»**, que se da en público y rápido. | Ver §5b. | DECISIÓN DEL AUTOR |
+| **Chiara** | **Marisol** | **Por decidir; algo ligero.** Propuesta A: una copia de la llave del Audi de Kal, «para que dejes de pedírsela». Kal: «Es mi coche». Chiara: «Es tu coche. La llave es mía». Propuesta B: un juego de recipientes con tapa, «para que la caponata viaje en algo que no sean tus piernas». | El bolígrafo «Grayson» se movió a la graduación (cap. 15). Ver §5b. | DISEÑO, PENDIENTE DEL AUTOR |
 | **Marisol** | **Bonnie** | **Un dije con el nombre «Bonnie»** (DECISIÓN DEL AUTOR), que Chiara le ayudó a mandar a hacer. | Ver §5b. | DECISIÓN DEL AUTOR |
 | **Walt** | **Meiko** | Unos dados de peluche para el retrovisor, rojos y enormes. | Meiko: «Ni loca», y los cuelga esa misma noche. Comedia sin eco: Meiko ya carga la bola 8 y no necesita otro objeto que duela después. | DECISIÓN DEL AUTOR (2026-11-17, ajuste aprobado) |
 | **Harper** | **Danny** | Una gorra acolchada de mecánico, porque el 23 se pegó con el capó. | Danny se la pone el resto de la noche. No sale en la foto, que se toma antes del intercambio, y el cap. 39 la describe sin gorra. | DECISIÓN DEL AUTOR (2026-11-17, ajuste aprobado) |
@@ -219,19 +234,17 @@
 - **El saludo:** la carta abre con «Señora:», su apodo burlón canon. Es lo único que Kal alcanza a ver por encima.
 - **Segunda ironía:** Nadir le pide cuentas claras con Kal a la persona equivocada. El que esconde es Kal: Chiara no sabe que Crowe trabaja para la gente de Halbrook, y ése es el secreto de Kal en todo el libro (guía, D3). La carta pide en Chiara lo que falta en Kal.
 
-**Chiara → Marisol: el bolígrafo «Grayson»**
-- **Lo que carga:** Grayson es el apellido de Michael, el amigo del ejército de Kal que murió de cáncer y dejó a Marisol a su cargo. El hijo de Kal y Chiara llevará su nombre.
-- **Beat de Kal:** en su POV, lee el grabado y piensa en Michael sin decirlo. Es el único momento de la noche en que aparece Michael.
-- **La línea posible de Chiara:** «Para que firmes con el tuyo.» Es su propia regla del papel propio («escribir en el papel de otro sería como firmar con el apellido de otro»), y viene de una mujer cuyo apellido no es del todo suyo. No se glosa.
-- **Eco de largo plazo:** Marisol firma como asistente, luego como penalista, luego como fiscal y al final como fiscal de distrito. Su distancia con Kal nace de su integridad de fiscal, porque sabe lo de Elenna. El instrumento de esa integridad se lo regaló Chiara. En el VI, la recusación de Marisol se puede firmar con ese bolígrafo (PENDIENTE DEL AUTOR).
-- **Marisol sin réplica (DECISIÓN DEL AUTOR (2026-11-17, ajuste aprobado)):** es el único momento de la noche en que Marisol no tiene respuesta. Lee el grabado, abre la boca y la cierra. El siguiente regalo la salva.
-- **Riesgo:** es otro objeto grabado de Chiara la misma noche que el collar. Se resuelve dándolo en público, con un nombre y no con una frase.
+**Chiara → Marisol: el bolígrafo se fue a la graduación (DECISIÓN DEL AUTOR (2026-11-17, tercera ronda))**
+- El bolígrafo grabado con «Grayson» ya no va en Navidad. Chiara se lo regala a Marisol en su graduación (cap. 15, *Lentejuelas*), que es donde un regalo así tiene sentido: el día en que Marisol empieza a firmar.
+- Lo que cargaba se conserva allá: el apellido de Michael; «Para que firmes con el tuyo» (regla del papel propio de Chiara); Kal lee el grabado y piensa en Michael sin decirlo; Marisol se queda sin réplica; el eco de su carrera hasta fiscal de distrito y la posible firma de la recusación en el VI (PENDIENTE DEL AUTOR).
+- **Ganancia:** se resuelve el riesgo de dos objetos grabados de Chiara la misma noche. En Navidad el único metal grabado de ella es el collar.
+- **En Navidad**, Chiara le da algo ligero (tabla, PENDIENTE DEL AUTOR). **Propuesta A, la llave del Audi:** cómica en la primera lectura; en la relectura, Marisol va en ese Audi cuando el Lancia de Chiara la embiste al cierre de la Parte II. Es un eco fuerte, quizá demasiado para una noche que se quiere ligera. **Propuesta B, los recipientes:** pura comedia, cobra el «No le confío la caponata a nadie que cobre» de la tarde.
 
 **Marisol → Bonnie: el dije «Bonnie» (DECISIÓN DEL AUTOR)**
 - **Lo que carga:** su nombre. Bonnie se va a Boston después de F2 y vuelve a San Aurelio unos veinte años después **como Bonnie García** (DECISIÓN DEL AUTOR, 2026-11-15: se retira «Roberta Ardizzone»). El dije es el nombre que se va y el que vuelve. Cobra cuando al fin estén juntas, en el VII.
 - **La química ya existe (DECISIÓN DEL AUTOR, 2026-11-17):** en el Libro II Marisol y Bonnie ya son buenas amigas, con química visible: se pican, se cuidan y se entienden rápido. Para Marisol es amistad. Para Bonnie significa más, aunque no sepa nombrarlo. El dije es un regalo de amiga, y por eso a Bonnie le pega tanto. Ver [[06_Relationships/Bonnie_y_Marisol]].
 - **Chiara ayudó a mandarlo a hacer**, probablemente con el mismo joyero del collar. **Lo que Chiara intuye queda ambiguo (DECISIÓN DEL AUTOR (2026-11-17, ajuste aprobado)):** puede haber visto lo de Bonnie o sólo haber ayudado a una amiga. El texto no lo decide.
-- **La noche tiene un tema, sin decirlo:** nombres grabados. «Grayson» para Marisol, «Bonnie» para Bonnie y TORNA A CASA, la única frase, para Kal. Es la regla de la saga: cada uno hereda un nombre, no un poder.
+- **La noche tiene un tema, sin decirlo:** nombres grabados. «Bonnie» para Bonnie y TORNA A CASA, la única frase, para Kal; «Grayson» ya se dio en la graduación. Es la regla de la saga: cada uno hereda un nombre, no un poder.
 - **El encuadre de Marisol (DECISIÓN DEL AUTOR (2026-11-17, ajuste aprobado)):** lo da con una broma de corredora, «para que te identifiquen en la cuneta». Así su lado se lee sólo como cariño de amiga, y el peso queda entero del lado de Bonnie.
 - **En escena (POV Kal):** Bonnie abre la cajita, lee su nombre y no dice nada, cosa rara en ella. Se lo pone ahí mismo. Marisol ya hizo el chiste antes de que la caja se abriera. Nadie lo nota, salvo Kenji, que sonríe sin entender por qué. **Kenji intacto**: no hay triángulo.
 - **Opción de relectura:** la cajita es negra y de bisagra, igual que la del collar. A las 00:30, Kal reconoce la caja.
@@ -249,7 +262,7 @@ Con la lágrima de Harper, la carta y el silencio de Bonnie, el intercambio se p
 3. **Harper → Danny** (cómico): Harper da justo después, con los ojos rojos, y le encasqueta la gorra sin ceremonia. Ella misma rompe su momento.
 4. **Nadir → Chiara** (emotivo, protegido): «Es lo más barato que he regalado en mi vida».
 5. **Kal → Héctor** (seco): el termo y la antífona.
-6. **Chiara → Marisol** (emotivo): el bolígrafo; Marisol sin réplica.
+6. **Chiara → Marisol** (cómico): el regalo ligero que se decida.
 7. **Mabel → Garrett** (cómico): Garrett se cambia la corbata en la mesa.
 8. **Marisol → Bonnie** (emotivo, protegido): la broma de la cuneta; Nadir protesta el tope; «El grabado no cuenta».
 9. **Montaje** (cómico): Garrett a Russ, Walt a Meiko, Kenji a Walt, Russ a Kenji, Tyler a Ren, Bonnie a Tyler, Ren a Mabel.
@@ -312,7 +325,7 @@ Con la lágrima de Harper, la carta y el silencio de Bonnie, el intercambio se p
 - **Renumeración:** el Libro II pasa a **58 capítulos** y hay que renumerar del 21 en adelante (`Book_Map`, guía, tarjetas, matriz y notas que citan números). Se hace al redactar los dos capítulos. Los archivos pueden conservar su nombre con la convención del Libro I (20a, 20b).
 - **Qué aligerar (propuesta del agente; PENDIENTE DEL AUTOR):** sin tocar el dije, las hamburguesas ni la carta.
   - **La llave de Harper:** se queda la mueca que casi fue sonrisa y el asentimiento de Kal; la lágrima se puede quitar. El abrazo a Héctor se queda, porque es la raíz del III.
-  - **El bolígrafo:** pasa a un beat breve. Kal lee el grabado y sigue, sin «Para que firmes con el tuyo».
+  - **El bolígrafo:** resuelto; se movió a la graduación (cap. 15).
   - **El termo:** se queda la antífona seca; lo de Nat no se ve en el 20 y vive sólo en el diseño, para el III.
   - **La bola 8:** ya es ligera; se queda como está.
   - **Nat:** de paso y práctica: la venda y nada más.
