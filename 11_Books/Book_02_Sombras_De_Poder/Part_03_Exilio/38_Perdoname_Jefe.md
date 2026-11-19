@@ -20,6 +20,8 @@ hito: F2 — la muerte de Meiko
 >
 > **Guarda:** la operación no se pierde por una filtración de Meiko; nada en la página lo sugiere. El forro de la camioneta se ve después del entierro (39), no aquí. **Siembra:** el ritual de los chalecos y «¿Ya terminaste?» se siembran en el levantón (29), en POV de Chiara (DECISIÓN DEL AUTOR, 2026-11-15; ficha del 29 en la guía).
 
+> **LA CAMIONETA CON MÁS AIRE (DECISIÓN DEL AUTOR, 2026-11-18; prosa del agente, BORRADOR, espera lectura):** menos cuentas y más de ella. Antes de «¿Sigue enojado?», Meiko pregunta si Nadir metió el pie en la zanja (lo último que le preocupa es él: el núcleo de «la que deja pasar», sin tocar que «Perdóname, jefe» sea lo primero que pide para ella). Nadir le habla del Camaro y del domingo para mantenerla despierta, y ella contesta «Llegué primera» (cobra la carrera, que ahora va al final del 37). Corrige la ruta («Por Canal no. Por Fowler es más corto.») y Kal obedece sin decir nada. Calibración no canon: la muerte de Lexie Grey, por mecanismo y nunca por contenido.
+
 > **TELÉFONOS EN LA CAJA (2026-11-15, revisión externa; prosa DISEÑO, espera lectura):** al repartir los chalecos, cada quien deja su teléfono apagado en la caja, «como siempre». Cobra la razón de Kal en el 37 para llevar a Meiko. Siembra del gesto: el levantón (29), con el ritual de los chalecos. Arco: [[11_Books/00_Arco_Meiko_Nakano]].
 -->
 
@@ -149,9 +151,9 @@ Y arrancó.
 
 ***
 
-Nadir contó.
+Al principio, Nadir contó.
 
-No quería contar y contó, porque no sabía hacer otra cosa con la cabeza cuando las manos estaban ocupadas, y las manos estaban ocupadas. La camioneta brincaba en los baches de Las Calderas y él apretaba. Salieron a Canal Road y él apretaba. Meiko tenía frío. Le temblaba la mandíbula como cuando alguien sale del agua en invierno.
+Contó porque no sabía hacer otra cosa con la cabeza cuando las manos estaban ocupadas: los baches de Las Calderas, los semáforos de Canal Road, cuánta sangre cabe en una persona. Después se le acabaron los números y se quedó con ella. La camioneta brincaba y él apretaba. Meiko tenía frío. Le temblaba la mandíbula como cuando alguien sale del agua en invierno.
 
 —Tengo frío —dijo.
 
@@ -170,6 +172,34 @@ Nadir vio la luz roja pasarle a Meiko por la cara, despacio, de la frente a la b
 Adelante, Kal no volvió la cabeza. Tenía las manos en el volante a las diez y diez, quietas, como en un examen de manejo, y la aguja del velocímetro no bajaba.
 
 Harper hablaba por teléfono en voz baja, con la doctora o con alguien, dando la dirección del taller, la entrada de atrás.
+
+Meiko tenía los ojos en el techo. Después los bajó, despacio, hasta encontrarlo.
+
+—¿Metió el pie?
+
+Nadir no entendió.
+
+—En la zanja. —Le costaba. Tomaba aire entre las palabras como quien sube una escalera—. ¿Lo metió?
+
+—No. —Tuvo que tragar—. No lo metí, Mei. Pasé por donde me dijiste.
+
+—Bien.
+
+Lo dijo con la satisfacción de una ruta que había salido como ella la dijo. Cerró los ojos. Nadir se inclinó sobre ella y le habló, porque si le hablaba ella tenía que oírlo, y si lo oía no se dormía.
+
+—El domingo le cambiamos la manguera al Camaro. Una buena, no esa porquería que le pusiste. Héctor me contó. Que te quedaste tirada en Plaza Corona.
+
+Ella abrió los ojos.
+
+—Llegué primera.
+
+—Ya sé que llegaste primera. Lo sabe todo el taller. Héctor se lo cuenta a los clientes.
+
+Algo se le movió en la boca, una sola vez, hacia arriba.
+
+—Por Canal no —dijo—. Por Fowler es más corto.
+
+Nadir levantó la vista. Adelante, Kal la había oído. No dijo nada. En el siguiente cruce puso la direccional, aunque no había nadie detrás a quien avisarle, y dio la vuelta en Fowler.
 
 Meiko le apretó la muñeca a Nadir. Tenía la mano fría y pegajosa.
 

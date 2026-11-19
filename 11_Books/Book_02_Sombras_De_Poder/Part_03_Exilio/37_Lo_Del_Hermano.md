@@ -19,6 +19,8 @@ personajes: Kal Mercer, Dario Varek, Nadir Amrani, Héctor Navarro, Meiko Nakano
 
 > **VALET Y MOTIVO DEL CORRALÓN (2026-11-15, revisión externa; canon de valet del autor; prosa DISEÑO, espera lectura):** (1) lo que filtraba pasa de «lo que se ve con una charola» a «lo que se ve desde la rampa. Nadie mira a la que le recibe las llaves»; la noche en la Villa, «la rampa del Monarch. En las llaves»; (2) por qué va al corralón: Nadir pregunta «¿Y si le cuenta a Varek lo del jueves?»; Kal: ya lo sabe desde hace dos semanas, si lo iba a contar ya lo contó; «Prefiero tenerla donde la vea. Y los teléfonos van a la caja, como siempre» (la caja de los chalecos; siembra en el 29, ver la guía). Arco: [[11_Books/00_Arco_Meiko_Nakano]].
 
+> **LA CARRERA (DECISIÓN DEL AUTOR, 2026-11-18; prosa del agente, BORRADOR, espera lectura):** la carrera que Meiko le gana a Kal (CANON del 2026-11-15: Camaro contra Peugeot, La Isla, Puente de Piedra, Plaza Corona, el Camaro se muere y hay grúa) pasa de la Parte II a este capítulo, el miércoles antes del corralón, cuando Kal ya sabe de la filtración. Es lo que Kal no le dice («era de los míos» queda para el 39). DISEÑO del agente: los veintiséis minutos de la grúa (siembra del ritual mensual), «Mañana a las diez. En Canal Seco.» en lugar de lo que iba a decir, y que Kal la sigue de regreso sin rebasarla. La venta del Peugeot sigue PENDIENTE del autor: sólo se dice que lo piensa. Arco: [[11_Books/00_Arco_Meiko_Nakano]].
+
 > **ENTRADA TEMPRANA (2026-11-15, revisión externa):** «un año» → «casi dos años»; «donde la había visto sentada la primera vez» → «tantas mañanas» (la primera vez fue en la banqueta, sobre el Camaro, Libro I cap. 22). Arco: [[11_Books/00_Arco_Meiko_Nakano]].
 -->
 
@@ -323,3 +325,107 @@ Pensó en la rampa del Monarch. En las llaves. En quién llegaba con quién, y e
 Chiara respiró hondo contra su hombro y se quedó dormida en pocos minutos, como se dormía cuando él llegaba.
 
 Kal no. Se quedó con los ojos abiertos, mirando el rectángulo del techo. En algún momento de la madrugada se levantó viento en los cerros, y la sombra de la rama se movió en el techo de un lado a otro, despacio, y después se quedó quieta.
+
+***
+
+El miércoles, pasadas las once, el Camaro estaba afuera de la bahía del fondo, con el capó cerrado.
+
+Kal lo vio desde la oficina. Habían pasado dos días desde la noche de la bomba de agua, dos días en que Meiko había llegado a su hora, había hecho lo suyo y se había ido sin pasar por la oficina, y en que él no la había buscado. Ahora estaba ahí, recostada en la puerta del coche, con los brazos cruzados, mirando el capó.
+
+Salió.
+
+—Ya está —dijo ella, antes de que él preguntara nada.
+
+Kal rodeó el Camaro. Le pasó la mano por el guardabarros, donde la pintura había quedado pareja, sin ondas, y se agachó a mirar abajo. Todavía goteaba algo, poco, una mancha del tamaño de una moneda.
+
+—Es de la manguera vieja —dijo ella—. Ya la cambié. Es lo que quedaba adentro.
+
+—Hay que probarlo.
+
+—Ya lo probé.
+
+—En esta calle no se prueba nada. —Se enderezó—. Hay que subirlo arriba de noventa y ver qué hace.
+
+—Ya es suficiente, jefe.
+
+Lo dijo sin mirarlo, con la vista en el coche. Kal conocía ese tono. Era el mismo con el que le decía que por la vía directa no.
+
+Miró el Peugeot, estacionado junto a la cerca, rojo bajo la lámpara del lote. Llevaba semanas pensando en venderlo y no se lo había dicho a nadie.
+
+—La Isla —dijo—. Una vuelta. El primero que cruce el Puente de Piedra hasta Plaza Corona.
+
+Meiko lo miró por fin. Lo miró un rato, y Kal vio que hacía la cuenta: el Peugeot y el Camaro, la vuelta y el puente, el jueves y lo de después. Vio que la cuenta no le cerraba y que le daba igual.
+
+—¿Usted contra mí?
+
+—Si te da miedo…
+
+Ella ya estaba abriendo la puerta.
+
+***
+
+A esa hora La Isla era otra ciudad. De día era valet y vidrio y gente que no miraba a quién le entregaba las llaves; pasada la medianoche, el bulevar que le daba la vuelta estaba vacío, con los semáforos en amarillo intermitente y, del lado de afuera, el mar negro golpeando el rompeolas. En la punta, el Monarch brillaba como un barco al que ya nadie iba a subir.
+
+Salieron del estacionamiento de la marina lado a lado. No hubo señal. Meiko bajó la ventanilla, lo miró por encima del techo del Peugeot y arrancó, y Kal arrancó un segundo después. Ese segundo fue lo único que le regaló en toda la noche.
+
+En las curvas de la punta, el Peugeot era mejor coche y Kal lo sabía manejar. Se le fue por dentro en la primera, y en la segunda, y en el espejo vio los faros redondos del Camaro quedarse atrás, pegados, sin intentar nada. Ella no se le ponía al lado. Esperaba. Kal había corrido contra mucha gente y casi toda quería pasar en las curvas. Ella no. Ella se quedaba detrás, en su estela, como quien deja pasar a alguien en una puerta, y él tardó media vuelta en entender que no lo estaba dejando pasar: lo estaba dejando cansarse.
+
+En la recta larga de Punta Dorada, el Camaro salió de detrás.
+
+Kal oyó el motor antes de verlo. Un motor que dos años atrás había llegado al taller tosiendo, enfermo, con la mitad de las piezas de otro coche, y que ahora sonaba entero, grave, de una sola pieza, como sonaban los motores cuando alguien los había armado con paciencia un domingo tras otro. Lo vio aparecer en la ventanilla del copiloto, a la par, y adelantarse un palmo, y otro. Meiko iba con las dos manos en el volante y la cara quieta, sin voltear.
+
+Le ganó la entrada del puente por medio coche.
+
+El Puente de Piedra eran cinco kilómetros de lámparas en fila sobre el agua, y Kal hundió el pie hasta el fondo y el Peugeot dio todo lo que tenía, que era mucho, y no alcanzó. El Camaro se le iba despacio, un metro, otro metro, con las luces traseras cada vez más chicas en el parabrisas, y Kal se dio cuenta, a mitad del puente, de que había dejado de intentar alcanzarla y nada más la estaba mirando irse.
+
+Del otro lado estaba Calle Corona, con los semáforos en amarillo, y al fondo la plaza.
+
+Ella llegó primero.
+
+***
+
+El Camaro se detuvo junto a la plaza, frente a la fuente, con las dos llantas de la derecha casi sobre la acera. Kal se estacionó atrás. Antes de que apagara el Peugeot, el motor del Camaro hizo un ruido como de tos, dos veces, y se calló. Por las rendijas del capó empezó a salir vapor, blanco, al aire frío.
+
+Kal se bajó. Meiko seguía sentada al volante, con las manos donde las había tenido todo el puente.
+
+Se estaba riendo.
+
+No como se reía con Bonnie, de lado, con la boca cerrada. Tenía la frente apoyada en el volante y los hombros le temblaban, y la risa le salía entera, en voz alta, sin taparse, como Kal no se la había oído nunca, salvo una vez, un domingo, desde la oficina, cuando el Camaro arrancó limpio por primera vez y ella creyó que estaba sola.
+
+—Primera —dijo, sin levantar la cabeza.
+
+—Primera.
+
+—Llegué primera, jefe.
+
+—Ya te oí.
+
+Abrió el capó. El vapor le dio en la cara. La manguera nueva se había zafado de la abrazadera y el agua seguía saliendo, y Kal la vio y no dijo nada, porque ella ya lo sabía, y porque se estaba riendo otra vez detrás de él.
+
+Llamó al taller. Héctor contestó al segundo timbre y no preguntó nada más que dónde.
+
+Mientras esperaban se sentaron en el borde de la fuente, con el Camaro humeando enfrente y la plaza vacía alrededor: el kiosco con las luces apagadas, las ventanas del Ayuntamiento oscuras, un hombre que barría la esquina de la calle y que se detuvo a mirarlos y siguió barriendo. El agua de la fuente sonaba detrás de ellos. Meiko tenía las manos en los bolsillos de la chaqueta y miraba el coche. Ya no se reía, pero todavía le quedaba algo en la cara.
+
+Kal había visto el reloj cuando colgó. No supo por qué lo había visto.
+
+—Mei.
+
+Ella lo miró.
+
+Kal tenía algo en la boca. Lo tuvo un momento, con ella mirándolo, en el borde de la fuente, y no supo por dónde se empezaba eso. Por dónde se empezaba algo que no era una ruta ni un precio ni una orden.
+
+—Mañana a las diez —dijo—. En Canal Seco.
+
+—Ya sé.
+
+Volvió a mirar el Camaro.
+
+Las luces de la grúa aparecieron al final de Calle Corona. Kal vio el reloj otra vez: veintiséis minutos. Héctor se bajó despacio, por la pierna mala, miró el vapor, miró la manguera, la miró a ella.
+
+—¿Ganaste, niña?
+
+—Primera.
+
+Héctor se rió por la nariz, una vez, y fue a enganchar el coche.
+
+Ella se fue en la cabina de la grúa, con Héctor. Kal los siguió en el Peugeot todo el camino de regreso, por Calle Corona y por la Almendra, detrás del Camaro que iba arriba de la plataforma con la nariz levantada, como un caballo que no había querido entrar a la recta. No lo rebasó en ningún momento. Había lugar. No lo rebasó.
