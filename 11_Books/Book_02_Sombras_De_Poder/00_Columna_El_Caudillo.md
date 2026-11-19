@@ -192,11 +192,16 @@ Ya era canon en [[02_Characters/Corrado_Ardizzone]] (decisión del 2026-11-12, p
 
 1. **Halbrook es el artífice indirecto de Lunar Pearl.** Facilita los medios para que Kal robe el Lussia y así enemistarlo a largo plazo con Varek. **Por eso lo sacó de Camp Alder en el Libro I:** lo necesita como una pieza en movimiento en su tablero. (Se suma a los motivos ya canon: ver hasta dónde llega Kal y leer el nombre del expediente.)
 2. **Kal esconde el Lussia en la casa de las chicas, y los Calderos se lo llevan** la noche en que muere Meiko.
-3. **El Lussia vuelve en la montaña del Libro III.** Con Héctor ya en el suelo, Halbrook lo arroja al pasto junto a él, antes de parcharse, y dice (línea del autor; tildes y puntuación del agente):
+3. **El Lussia vuelve en la montaña del Libro III.** Halbrook mata a Héctor, como ya está planeado. Junto al cadáver, con Kal de rodillas y Harper en shock en el suelo, le arroja el Lussia como algo insignificante y le dice (línea del autor; tildes y puntuación del agente):
 
    > «Tómalo, y corre… Quizá todavía alcances a llegar a Santa Lucía.»
 
-   Implica que la montaña va antes que Santa Lucía y que Halbrook sale herido de la montaña (quién lo hiere: PENDIENTE).
+   Ahí Kal entiende que algo pasó en la iglesia. **Nadie hiere a Halbrook** (corrección del autor, 2026-11-18: el agente había leído mal). Santa Lucía ocurre en paralelo (CANON del III).
+4. **Aún más vil (idea del autor, 2026-11-18):** la banda leal a Halbrook que asalta la iglesia, hiere a Chiara y mata a Kenji deja el Lussia para que se manche con la sangre de Chiara. **Por confirmar con el autor** cómo se concilia con el punto 3: la lectura del agente es que la piedra que Halbrook arroja en la montaña ya viene manchada con la sangre de Chiara, y por eso Kal entiende sin que nadie se lo diga.
+5. **Kal está solo esa noche (DECISIÓN DEL AUTOR, 2026-11-18; todo organizado por Halbrook y al mismo tiempo):**
+   - **Nadir** se queda varado en el norte: gente de Halbrook le desbiela el motor del Taurus, y no puede llegar a la ciudad ni moverse.
+   - **Ren y Tyler** reciben una golpiza de una pandilla de enmascarados.
+   - **Danny**: alguien le provoca una sobredosis. Sobrevive, y es la última vez que consume antes de entrar a rehabilitación al final del Libro III.
 
 **Cómo facilita Lunar Pearl sin tocarlo (DISEÑO, su método canon: «elimina las demás direcciones disponibles»):**
 
@@ -213,8 +218,9 @@ Ya era canon en [[02_Characters/Corrado_Ardizzone]] (decisión del 2026-11-12, p
 | Abr A4, F2 | Los Calderos → Crowe (CANON: se lo llevan) | Crowe tiene la joya de Dario: la corona del caudillo |
 | Antes de la tormenta (propuesta) | Crowe → Halbrook | Crowe se la entrega a la gente de Halbrook como prueba de que puede ocupar la silla de Dario. Halbrook se la queda y decide soltarlo: le da a la filtración por los Bravos un detonante concreto |
 | Libro III | Halbrook | Lo guarda todo el libro |
-| Libro III, la montaña (CANON) | A los pies de Kal, junto a Héctor | «Tómalo, y corre…» |
+| Libro III, Santa Lucía (idea del autor, por conciliar) | En la iglesia, en la sangre de Chiara | La banda de Halbrook la deja manchar |
+| Libro III, la montaña (CANON) | Arrojado junto al cadáver de Héctor, frente a Kal | «Tómalo, y corre…» |
 
 **Lo que dice la piedra en la montaña:** que el robo, la enemistad con Varek, la muerte de Mei y la de Héctor pasaron por la misma mano. Kal no necesita que se lo expliquen.
 
-**PENDIENTE del autor:** quién hiere a Halbrook en la montaña; si Kal recoge la piedra y qué hace con ella; si Varek llega a saber, antes de su arresto en el III, quién le robó el Lussia.
+**PENDIENTE del autor:** cómo se concilian la piedra en la iglesia y la piedra en la montaña; si Kal recoge la piedra y qué hace con ella; si Varek llega a saber, antes de su arresto en el III, quién le robó el Lussia.
