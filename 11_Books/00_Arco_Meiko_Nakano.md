@@ -184,7 +184,7 @@ Sustituye la puesta en escena de F2 en [[11_Books/Book_02_Sombras_De_Poder/Part_
 
 **Pierde respecto del borrador anterior:** el callejón, la zanja, «¿Metió el pie?» y la camioneta del 38 (escritos el 2026-11-18). El POV de Nadir pasa a Bonnie: sus dos capítulos (4 y 38) abren y cierran a Mei, y hay que declararlo como interludio en el plan del libro.
 
-**Los Calderos se llevan el Lussia (DECISIÓN DEL AUTOR, 2026-11-18: «crea consecuencias reales»).** Guarda (DISEÑO): la piedra no comparte página con su muerte; Kal encuentra el escondite vacío después (39 o más adelante). Ruta del Lussia hasta el Libro III: [[11_Books/Book_02_Sombras_De_Poder/00_Columna_El_Caudillo]], «El Lussia».
+**Los Calderos se llevan el Lussia (DECISIÓN DEL AUTOR, 2026-11-18: «crea consecuencias reales»).** Guarda (DISEÑO): la piedra no comparte página con su muerte; Kal encuentra el escondite vacío después; **no lo revisa hasta después del funeral (DECISIÓN DEL AUTOR, 2026-11-19)**: por el radio no se menciona el calentador (39 o más adelante). Ruta del Lussia hasta el Libro III: [[11_Books/Book_02_Sombras_De_Poder/00_Columna_El_Caudillo]], «El Lussia».
 
 **Mei frente a Nadir (DECISIÓN DEL AUTOR, 2026-11-19):** no basta «Ya sé»: Mei reconoce que falló, ofrece pagarlo y le da algo útil (DISEÑO: el tope de la salida de atrás, «Lo de Varek fui yo. Esto también.»). En la destilería: «¿Frenaron antes del poste?».
 
