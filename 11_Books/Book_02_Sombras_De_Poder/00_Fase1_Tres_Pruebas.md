@@ -1,6 +1,6 @@
 # Fase 1 del Libro II: las tres pruebas (58 → 47)
 
-> **Estado:** **APROBADA por el autor (2026-11-18) con una condición: que se respeten las reglas de [[12_Craft_Policies/README|craft policies]].** La revisión contra esas reglas (al final, «Ajuste por craft policies») corrige el resultado: **48 capítulos**, o 47 con una decisión pendiente. Lo demás es DISEÑO del agente. Arranque APROBADO (DECISIÓN DEL AUTOR, 2026-11-18). Aplica a los 58 capítulos vigentes las tres pruebas del [[11_Books/Book_01_Mascaras_De_Cristal/00_Plan_Nuevo_Cauce|nuevo cauce del Libro I]] contra la columna nueva: [[11_Books/Book_02_Sombras_De_Poder/00_Columna_El_Caudillo]]. **No renombra archivos ni cambia la numeración** hasta que el autor apruebe; la tabla vigente sigue en [[11_Books/Book_02_Sombras_De_Poder/00_Book_Map]]. Meta del autor: 45–47.
+> **Estado:** **APROBADA por el autor (2026-11-18) con una condición: que se respeten las reglas de [[12_Craft_Policies/README|craft policies]].** La revisión contra esas reglas (al final, «Ajuste por craft policies») corrige el resultado: **48 capítulos (DECISIÓN DEL AUTOR, 2026-11-18: «48 me sirve»; *Sin público* se queda).** Lo demás es DISEÑO del agente. Arranque APROBADO (DECISIÓN DEL AUTOR, 2026-11-18). Aplica a los 58 capítulos vigentes las tres pruebas del [[11_Books/Book_01_Mascaras_De_Cristal/00_Plan_Nuevo_Cauce|nuevo cauce del Libro I]] contra la columna nueva: [[11_Books/Book_02_Sombras_De_Poder/00_Columna_El_Caudillo]]. **No renombra archivos ni cambia la numeración** hasta que el autor apruebe; la tabla vigente sigue en [[11_Books/Book_02_Sombras_De_Poder/00_Book_Map]]. Meta del autor: 45–47.
 
 ## Las pruebas, con la columna nueva
 
@@ -163,7 +163,7 @@ Revisión contra [[12_Craft_Policies/Arquitectura_De_Perspectiva]] (reglas 2, 3,
 
 **Tic 7:** sigue fuera (*Lentejuelas* y *El benefactor* quedan seguidos). **Tics 4 y 5:** la excepción de las dos velas sigue propuesta.
 
-### Para bajar a 47 sin romper reglas (PENDIENTE del autor)
+### Para bajar a 47 sin romper reglas (DESCARTADO: el autor se queda en 48)
 
 - **a) *Sin público* entra en *El millón*.** Es la que pide la regla 4 (Harper es POV de un solo uso). Harper da la señal por radio y le cuenta a Kal lo que vio. Se pierde la ironía de que ella vea el engaño completo mientras él está bajo tierra. El robo queda en tres capítulos.
 - **b) Declarar *Stavanger* entero (~6,400) como excepción de escena grande.** La regla 6 lo permite si se nombra en el plan, pero choca con la de estaciones (dos esperas).
