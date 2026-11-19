@@ -101,7 +101,9 @@ Eso lo vuelve una pieza perfecta para San Aurelio: el crimen aquí es logística
 
 > **PENDIENTE:** qué error comete por ser joven y cuánto cuesta.
 
-> **PENDIENTE:** si conduce, organiza o ambas; y qué tan bueno es detrás del volante.
+> ~~**PENDIENTE:** si conduce, organiza o ambas; y qué tan bueno es detrás del volante.~~ Conduce: ver abajo. Sigue PENDIENTE si además organiza.
+
+> **DECISIÓN DEL AUTOR (2026-11-19):** las chicas (Bonnie, Meiko, Harper) y Tyler son quienes normalmente manejan los coches rápidos de salida, los que sacan a quienes participan en las operaciones; por debajo de Kal son los mejores conductores del Patio. Primera prosa: Libro II, cap. 38.
 
 ---
 

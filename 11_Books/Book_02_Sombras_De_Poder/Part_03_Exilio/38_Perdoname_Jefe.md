@@ -14,11 +14,11 @@ hito: F2 — la muerte de Meiko
 <!--
 > **Estado:** BORRADOR del agente (Claude Code), tercera versión (2026-11-19), para lectura del autor. Sustituye por completo la segunda versión (corralón, callejón y traslado a El Patio en POV de Nadir), que queda en el historial de git. Tercer capítulo del arco de Meiko; ejecuta F2. Diseño y decisiones: [[11_Books/00_Arco_Meiko_Nakano]], «F2 rehecho: el robo en la casa»; ruta del Lussia: [[11_Books/Book_02_Sombras_De_Poder/00_Columna_El_Caudillo]], «El Lussia».
 >
-> **DECISIONES DEL AUTOR (2026-11-18/19):** los Calderos entran a la casa de las chicas creyendo que es de Kal, por el Lussia, que Kal escondió ahí, y se lo llevan; el traslado va de la Almendra a la destilería de Walt; Bonnie está presente; la llamada a medianoche a Chiara porque hace falta un médico; POV de Bonnie; antes de la operación, en la casa común, Kal dice que Mei no va (todavía tiene dudas) y ahí cabe lo de Nadir; Bonnie no va por un resfriado con fiebre que le vuelve a ratos; el límite de palabras no importa si la lectura lo justifica. **(2026-11-19, segunda ronda):** la regla de los teléfonos se queda, pero los muchachos se comunican por radio; Bonnie abre el canal y Kal decide (corta la operación); Mei no contesta «Ya sé» a Nadir: reconoce que falló, ofrece pagarlo y le da algo útil, porque esa falla no es todo lo que es.
+> **DECISIONES DEL AUTOR (2026-11-18/19):** los Calderos entran a la casa de las chicas creyendo que es de Kal, por el Lussia, que Kal escondió ahí, y se lo llevan; el traslado va de la Almendra a la destilería de Walt; Bonnie está presente; la llamada a medianoche a Chiara porque hace falta un médico; POV de Bonnie; antes de la operación, en la casa común, Kal dice que Mei no va (todavía tiene dudas) y ahí cabe lo de Nadir; Bonnie no va por un resfriado con fiebre que le vuelve a ratos; el límite de palabras no importa si la lectura lo justifica. **(2026-11-19, segunda ronda):** la regla de los teléfonos se queda, pero los muchachos se comunican por radio; Bonnie abre el canal y Kal decide (corta la operación); Mei no contesta «Ya sé» a Nadir: reconoce que falló, ofrece pagarlo y le da algo útil, porque esa falla no es todo lo que es. **(2026-11-19, tercera ronda):** las chicas y Tyler son quienes normalmente manejan los coches rápidos de salida, que sacan a los que participan en la operación; por debajo de Kal son los mejores al volante. Bonnie conoce el radio de memoria.
 >
 > **CANON citado literal:** «¡Mei, Mei, Mei, Mei!»; «Perdóname, jefe.»; «—Eso ya no importa, estás aquí… con nosotros.» (CANON DEL AUTOR, 2026-11-13; ortografía normalizada). **CANON (hechos) que se conserva:** Nadir le dice antes de la operación que está decepcionado; puñalada muy arriba del muslo, en la femoral; el torniquete improvisado no aguanta, por la anatomía; ella misma defiende no ir al hospital («Por el hospital no. Los ata.»); muere en manos de Nadir, con la banda alrededor; Bonnie le sostiene la mano y pide una ambulancia; los ojos miran a la nada y a Kal a la vez; Kal no llora; el silencio de los chalecos.
 >
-> **DISEÑO del agente:** los dos hábitos de Mei sin explicar (la luz del pasillo y la puerta con doble llave, que deja al muchacho sin otra salida que pasar junto a ella); ella se pega a la pared para dejarlo pasar y él la apuñala al pasar; el calentador que Kal «arregló» en febrero (la piedra no se nombra); «Dijiste que te rozó. No te rozó.»; la patrulla en sentido contrario; «¿Tienes fiebre?» y «Cuando vuelvas, apágala»; Camila: «Hace media hora era un hospital. Ahora es esto.»; Chiara ya armando la versión; Nadir le da a Mei el radio de repuesto («Escucha. No hables.»); el tope antes del poste, el dato de Mei que Nadir usa para sacar a todos y que ella oye por el radio; Kal manda a Bonnie con Chiara («Ella sabe a quién») y corta la operación; «¿Frenaron antes del poste?». **Por revisar al propagar:** que el corralón quede cortado a medias (la esquina de Canal Seco) en los capítulos siguientes.
+> **DISEÑO del agente:** los dos hábitos de Mei sin explicar (la luz del pasillo y la puerta con doble llave, que deja al muchacho sin otra salida que pasar junto a ella); ella se pega a la pared para dejarlo pasar y él la apuñala al pasar; el calentador que Kal «arregló» en febrero (la piedra no se nombra); «Dijiste que te rozó. No te rozó.»; la patrulla en sentido contrario; «¿Tienes fiebre?» y «Cuando vuelvas, apágala»; Camila: «Hace media hora era un hospital. Ahora es esto.»; Chiara ya armando la versión; Nadir le da a Mei el radio de Bonnie, que se quedó en el cargador («Escucha. No hables.»); esa noche faltan dos de los coches de salida y Nadir lleva la de atrás; el tope antes del poste, el dato de Mei que Nadir usa para sacar a todos y que ella oye por el radio; Kal manda a Bonnie con Chiara («Ella sabe a quién») y corta la operación; «¿Frenaron antes del poste?». **Por revisar al propagar:** que el corralón quede cortado a medias (la esquina de Canal Seco) en los capítulos siguientes.
 >
 > **Guardas:** nada en la página sugiere que la filtración de Mei la mató; el Lussia no se nombra (Kal encuentra el escondite vacío después); el muchacho no tiene nombre ni cara; los Calderos no se nombran en la casa.
 -->
@@ -29,7 +29,7 @@ La fiebre le volvía cada dos horas, más o menos. Bonnie ya le había agarrado 
 
 La casa común olía a café recalentado y a grasa de botas. En la mesa larga, la de las cenas de los domingos, estaba la caja de cartón con los chalecos, los radios en fila en su cargador, cada uno con su lucecita verde, y al lado una caja de zapatos donde iban cayendo los teléfonos apagados. Kal repartía sin mirar las tallas. Cada quien echaba su teléfono en la caja chica y se llevaba un chaleco y un radio, como quien cambia una ficha a la entrada de un lugar. Tyler se cerró el suyo de un tirón, con ese ruido de velcro que en la cocina sonaba a tela rota, y se puso a imitar a Kal para Danny: la voz grave y plana, la mano quieta en el aire, «¿Ya terminaste?». Se le escapó la risa antes del final, como siempre.
 
-Bonnie estaba en el sillón de la esquina, con una manta sobre las rodillas y un té que Héctor le había hecho y que sabía a limón y a algo más. No iba. Nunca iba a esas cosas, y esa noche menos: al llegar, Kal le había puesto la mano en la frente dos segundos y había dicho «Tú te quedas», sin que ella preguntara nada.
+Bonnie estaba en el sillón de la esquina, con una manta sobre las rodillas y un té que Héctor le había hecho y que sabía a limón y a algo más. Esa noche no iba, y no se acordaba de la última que se hubiera perdido. Los coches de salida, los rápidos, los que esperaban con el motor prendido para sacar a los demás cuando algo se torcía, los llevaban ellas, Mei, Harper y ella, y Tyler; por debajo de Kal no había nadie en el Patio que manejara mejor. Pero al llegar, Kal le había puesto la mano en la frente dos segundos y había dicho «Tú te quedas», sin que ella preguntara nada, y su radio, el de la cinta azul en la antena, se había quedado en el cargador.
 
 Mei estaba de pie junto a la caja de los chalecos, esperando el suyo, con la chaqueta cerrada y el teléfono apagado en la mano.
 
@@ -45,11 +45,13 @@ Mei no preguntó por qué. Bonnie lo vio desde el sillón, con los bordes muy ma
 
 Kal ya estaba con Harper, hablando de la camioneta.
 
-—¿Y la salida de atrás? —preguntó Bonnie desde el sillón—. ¿Quién la conoce?
+—¿Y la salida de atrás? —preguntó Bonnie desde el sillón—. ¿Quién la lleva?
 
 Kal la miró desde la mesa. Tardó un segundo de más en contestar.
 
-—Nadir.
+—Nadir. Tyler, la de enfrente. Harper, la camioneta.
+
+Eran tres coches para lo que siempre habían sido cuatro, y uno de los tres lo llevaba alguien que no se había sentado nunca en el de salida. Bonnie lo pensó y no lo dijo.
 
 Nadir no estaba con los demás. Estaba en la cocina, recostado en el fregadero, con un chicle en la boca que no masticaba, y cuando Kal dijo su nombre no levantó la vista. Después de un rato salió, cruzó el cuarto sin mirar a nadie y se paró frente a Mei, junto a la puerta.
 
@@ -73,7 +75,7 @@ Nadir se detuvo con la mano en la puerta.
 
 —Lo de Varek fui yo —dijo Mei, y se encogió de hombros—. Esto también.
 
-Nadir la miró un rato largo. Después volvió a la mesa, sacó del cargador el último radio, el de repuesto, le giró la perilla hasta el dos y se lo puso a Mei en la mano.
+Nadir la miró un rato largo. Después volvió a la mesa, sacó del cargador el radio que había quedado, el de la cinta azul, el de Bonnie, le giró la perilla hasta el dos y se lo puso a Mei en la mano.
 
 —Escucha —dijo—. No hables.
 
@@ -201,13 +203,15 @@ Bonnie la soltó y volvió a apretar con las manos.
 
 El radio.
 
-Bonnie se lo sacó a Mei del bolsillo con una mano, sin soltar con la otra. Estaba tibio y pegajoso. No sabía usarlos. Nunca iba.
+Bonnie se lo sacó a Mei del bolsillo con una mano, sin soltar con la otra. Estaba tibio y pegajoso. Era el suyo; le sintió la cinta de la antena con los dedos.
 
-—El botón de un lado —dijo Mei, con los ojos cerrados—. Aprietas para hablar. Sueltas para oír. Súbele.
+—Está en el dos —dijo Mei, con los ojos cerrados.
 
-Bonnie le subió. Salió un silbido y después nada, el ruido de fondo de un canal abierto, como de mar. Apretó.
+—Ya sé.
 
-—Kal. —No supo qué más se decía—. Kal, es Bonnie.
+Le subió el volumen con el pulgar, sin mirarlo, como cien veces desde el asiento del coche de salida. Salió un silbido y después nada, el ruido de fondo de un canal abierto, como de mar. Apretó.
+
+—Kal. —En ese canal se hablaba con claves y la fiebre se las había borrado, igual que los números—. Kal, es Bonnie.
 
 Soltó. El mar. Volvió a apretar.
 
@@ -485,7 +489,7 @@ Bonnie no soltó la mano.
 
 Nadie se quitó el chaleco.
 
-Otras noches era lo mejor. Llegaban al taller con la adrenalina todavía en las manos y se los quitaban ahí mismo, entre risas, con el velcro sonando por todas partes, y alguien empezaba a contar lo que había hecho el jefe, y Danny ponía la voz grave y plana, y Tyler se doblaba de risa, y Kal no decía nada y en algún momento, sin voltear, levantaba el índice. Bonnie nunca iba a esas cosas, pero las oía después, desde la oficina, y le gustaban.
+Otras noches era lo mejor. Llegaban al taller con la adrenalina todavía en las manos y se los quitaban ahí mismo, entre risas, con el velcro sonando por todas partes, y alguien empezaba a contar lo que había hecho el jefe, y Danny ponía la voz grave y plana, y Tyler se doblaba de risa, y Kal no decía nada y en algún momento, sin voltear, levantaba el índice. Bonnie llegaba de las últimas, porque el coche de salida era el último en irse, y se quitaba el suyo todavía con el temblor del volante en las manos, y Mei, a su lado, ya se estaba riendo de algo.
 
 Esa noche estaban de pie, o sentados en las cajas de botellas, o recostados en las barricas, con los chalecos puestos, cerrados. Nadie quería ser el primero. Al final Harper se llevó la mano al costado y buscó la orilla del velcro. Tiró.
 

@@ -177,6 +177,8 @@ Ese aprendizaje la vuelve peligrosa de una forma nueva: una corredora que aprend
 
 > **PENDIENTE:** qué situación difícil reconduce por primera vez usando lo que Chiara le enseñó.
 
+> **DECISIÓN DEL AUTOR (2026-11-19):** las chicas (Bonnie, Meiko, Harper) y Tyler son quienes normalmente manejan los coches rápidos de salida, los que sacan a quienes participan en las operaciones; por debajo de Kal son los mejores conductores del Patio. Primera prosa: Libro II, cap. 38.
+
 > **PENDIENTE:** si Meiko quiere salir también o si eso crea tensión entre ellas.
 
 > **RESUELTO DE ARQUITECTURA (2026-08-31; corregido por CANON DEL AUTOR 2026-09-13):** durante el resguardo en Italia vive como **Roberta Ardizzone**, bajo la protección del apellido de Chiara. **PENDIENTES:** mecanismo documental, cobertura legal, apoyos y localización exacta. *(Superado 2026-11-07: Bonnie está en Boston; «Elenna Serra» e Italia, retiradas.)*

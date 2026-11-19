@@ -132,6 +132,8 @@ Como conductora, debe tener una técnica distinta de Kal y Harper:
 
 > **PENDIENTE:** definir su estilo al volante. Recomendación: precisión fría, poca teatralidad, cero necesidad de lucirse. **El alias «Zen Devil» (CANON, 2026-11-15) apunta ahí: calma al volante.**
 
+> **DECISIÓN DEL AUTOR (2026-11-19):** las chicas (Bonnie, Meiko, Harper) y Tyler son quienes normalmente manejan los coches rápidos de salida, los que sacan a quienes participan en las operaciones; por debajo de Kal son los mejores conductores del Patio. Primera prosa: Libro II, cap. 38.
+
 ---
 
 ## Reglas duras del personaje
