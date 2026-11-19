@@ -170,6 +170,8 @@ Las dos preparan el incendio como cuota escalada y la caída como consecuencia d
 
 ## Relación con [[02_Characters/Dario_Varek]]
 
+> **DECISIÓN DEL AUTOR (2026-11-18), Libro II:** con las rutas de Il Consorzio, Crowe cree que puede tomar el lugar de Dario como caudillo del crimen. La ambición se la alimentan los intermediarios de Halbrook, que lo sacrifica en la tormenta. Los Calderos lo siguen a ciegas. Ver [[11_Books/Book_02_Sombras_De_Poder/00_Columna_El_Caudillo]]. *(Superada aquí la línea vieja de que Crowe nunca sabe que conecta con el origen de Kal: lo revela en la tormenta.)*
+
 **CANON.** Hacen negocios indirectamente, pero **no son aliados.**
 
 | Varek ve al Tasador como | El Tasador ve a Varek como |

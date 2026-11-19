@@ -144,10 +144,29 @@ La propuesta de fusiones de la primera ronda (de 58 a 51 sin costo, a 47 con cos
 4. **La coalición de H1** (Bravos con Crowe y Dario) pasa a ser alianza táctica con traición pendiente de los dos lados, y Halbrook la usa para la filtración.
 5. **Amanda.** Crowe la mató (CANON en la tormenta) y el motivo sigue PENDIENTE. Si toca el ascenso de Crowe (Walt como el último hombre que le dijo que no), refuerza la columna.
 
-## 10. Para el autor
+## 10. Respuestas del autor (2026-11-18)
 
-1. ¿Apruebas que Halbrook alimente la ambición de Crowe y lo sacrifique cuando ya cumplió?
-2. ¿Te sirve la regla de presencia de Halbrook (un escalón público al cierre de cada Parte, nunca la mano)?
-3. ¿Los Calderos por el corralón (Kal les quitó el pan, Crowe los sostuvo)?
-4. ¿Las tres razones de Manfred, y la siembra de la deuda «que no era dinero» en las cartas?
-5. ¿Arranco la Fase 1 (las tres pruebas sobre los 58 capítulos) con meta de 45–47?
+1. **Halbrook alimenta la ambición de Crowe y lo sacrifica: APROBADO (DECISIÓN DEL AUTOR).**
+2. **Regla de presencia de Halbrook (un escalón público al cierre de cada Parte, nunca la mano): APROBADA (DECISIÓN DEL AUTOR).**
+3. **Los Calderos siguen a Crowe por el corralón: APROBADO (DECISIÓN DEL AUTOR).** Sigue PENDIENTE si Mack Calderon necesita una deuda personal.
+4. **Manfred:** el autor pidió ver las tres razones y la siembra antes de decidir. Abajo, cómo caen en la página.
+5. **Fase 1: APROBADO arrancarla** con meta de 45–47: [[11_Books/Book_02_Sombras_De_Poder/00_Fase1_Tres_Pruebas]].
+
+### Manfred en la página (PROPUESTA, espera al autor)
+
+Manfred nunca se ve. Las tres razones se leen sólo por sus residuos:
+
+| Razón | Dónde se ve | Cómo |
+|---|---|---|
+| 1. El hijo repite al padre | La boda de Walt y Mabel (*Diez segundos*, POV Chiara) | Es día de cuota. Kal se aparta con un sobre y vuelve sin él; Chiara lo ve de lejos y no pregunta. Walt también lo ve, y deja el vaso. Nadie dice nada. Manfred está entre los invitados sin que la cámara lo distinga (no se describe a nadie). |
+| 2. La hija en la mira | Ya en página: «la mujer de Mercer ejecuta» (el levantón) y la guerra con los Calderos | Nada nuevo. El lector ya lo sabe; Manfred también, por Walt. |
+| 3. Las rutas | Nunca en página | Sólo para el autor. |
+| La entrega | Elipsis E (residuo, CANON: sobre sin remitente en el taller) | El sobre lleva semanas sin abrirse cuando Kal lo abre en *Lo poco que llegué a saber*. |
+
+**La siembra en la carta (opciones, en la voz de Dale: torpe, datos antes que sentimientos, frases cortas):**
+
+- a) «A Silas le debía algo que no era dinero. Nunca terminé de pagarlo.»
+- b) «Lo de Silas no era plata. Eso no se paga.»
+- c) «Le pagué a Silas con diecisiete años y todavía le debo.» (dice más: liga la cárcel con la deuda).
+
+**Dónde (P):** en la carta del **15 de marzo**, una de las fechas que Kal no reconoce (DECISIÓN DEL AUTOR, 2026-11-16). En la tormenta, Crowe le dice el *cómo* y deja caer cuándo: el 15 de marzo es el día en que el bebé llegó a casa de Dale y Ruth. La fecha y la línea se cobran a la vez. Requiere ajustar la prosa del 45 (BORRADOR) y del 55, sólo con orden del autor.

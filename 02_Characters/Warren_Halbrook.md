@@ -270,7 +270,9 @@ La política es la consecuencia lógica de su filosofía: convertir *"las estruc
 
 Poder externo sobre Kal. **Halbrook NO pisa San Aurelio** hasta el último capítulo: llega en el Cap. 47 (archivo 50b), al alba posterior al apagón (supersesión 2026-10-01). Antes llega por convocatorias, reuniones fuera de la ciudad, órdenes, llamadas, logística, influencia institucional y Camp Alder. Tiene rango, información, coerción, acceso institucional y capacidad clandestina; todavía no necesita legitimidad pública. Camp Alder planta, sin revelarlo, la llave política. **No sobreexponer su filosofía:** el lector ve partes del hombre antes de entender el sistema.
 
-### *Sombras de Poder* (Libro II) — la observación
+### *Sombras de Poder* (Libro II) — el tablero (antes: la observación)
+
+> **DECISIÓN DEL AUTOR (2026-11-18):** Halbrook es el villano del II. Observa *y* mueve: empieza a acomodar las piezas para activar la Guerra de los Tres y cimentar su camino al Senado. Alimenta la ambición de Crowe (las rutas, la silla de Dario) y lo sacrifica cuando ya cumplió; cada Parte cierra con él un escalón público más alto, nunca con su mano en página. Crowe es ruin y despreciable; Halbrook es el que le arrebatará casi todo a Kal. Ver [[11_Books/Book_02_Sombras_De_Poder/00_Columna_El_Caudillo]].
 
 > **CANON DEL AUTOR (2026-10-13): H1.** Halbrook cosecha. Conoce a Kal y sabe que no podrá evitar salvar a todos; **filtra a Dario, indirectamente y sin que Dario lo sepa, dónde estará Crowe**, mediante un rumor de calle que sale de [[03_Factions/Los_Bravos_de_Santa_Brigida|Los Bravos]] (mecanismo CANON DEL AUTOR, 2026-10-13). Dario manda a Volpi. La escalada policial de esa noche es su mandato como rostro de la seguridad pública. Ver [[11_Books/Book_02_Sombras_De_Poder/00_Plan_Cuatro_Partes]] («El final»).
 

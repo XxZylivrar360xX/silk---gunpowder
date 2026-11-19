@@ -9,6 +9,8 @@
 **Cabeza:** Marina "Mack" Calderon.  
 **Estado al abrir la novela:** operan bajo el clima de [[02_Characters/Dario_Varek]], sin ser parte limpia de su organización.
 
+> **DECISIÓN DEL AUTOR (2026-11-18), Libro II:** son de Crowe en la página y lo siguen a ciegas. Motivo aprobado: el convenio de Rowe con Almendra Towing (Libro I, cap. 9) le quitó el negocio a su corralón, y Crowe los sostuvo (deudas, abogados, entierros, dinero a las familias). Gratitud al Tasador, rencor a Mercer. Rompen con Crowe cuando Kal responde por los suyos sin cobrar y llegan los últimos con las bandas. Ver [[11_Books/Book_02_Sombras_De_Poder/00_Columna_El_Caudillo]].
+
 ---
 
 ## Qué hace
