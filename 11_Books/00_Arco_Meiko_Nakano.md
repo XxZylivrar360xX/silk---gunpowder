@@ -176,15 +176,17 @@ Sustituye la puesta en escena de F2 en [[11_Books/Book_02_Sombras_De_Poder/Part_
 - **La confesión a Bonnie.** Esa noche, solas, Mei le cuenta a Bonnie la filtración y por qué la dejaron fuera. Así Bonnie sabe lo que le cuenta a Chiara en el 39.
 - **Los Calderos llegan por la operación.** Un vigía ve salir las camionetas del Patio rumbo a Las Calderas y avisa que la calle quedó sola. Crowe llega a la casa sin la filtración: un diamante rojo sólo lo mueve él, la calle dice que Lunar Pearl fue de Mercer y la casa con la luz prendida toda la noche parece la vigilada. **Guarda:** nada en la página sugiere que el soplo de Mei la mató («Lo de Lunar Pearl no. Eso no.», 37).
 - **El homicidio involuntario.** Entran a una casa que creían vacía. Mei sorprende a un muchacho de unos quince años (de una familia que se quedó sin trabajo con el corralón) que necesita salir; ella está entre él y la puerta. Empuja con la navaja de flamas verdes y se va llorando. La herida se revela despacio («me rozó»).
-- **Nadie contesta.** Bonnie llama a Kal, a Nadir y a todos: los teléfonos están apagados en la caja (la regla de Kal). Contesta Chiara. Chiara llama a **Camila Rivas**, elige la destilería y llama a Walt, que llega con su camioneta. No van al hospital: los vecinos ya llamaron a la policía por el robo, y en la casa está lo que buscaban. Mei: «Por el hospital no. Los ata.»
+- ~~**Nadie contesta.** Bonnie llama a Kal, a Nadir y a todos: los teléfonos están apagados en la caja (la regla de Kal). Contesta Chiara. Chiara llama a **Camila Rivas**, elige la destilería y llama a Walt, que llega con su camioneta. No van al hospital: los vecinos ya llamaron a la policía por el robo, y en la casa está lo que buscaban. Mei: «Por el hospital no. Los ata.»~~ **SUPERADO (DECISIÓN DEL AUTOR, 2026-11-19):** la regla de los teléfonos se queda, pero la banda usa radios; Nadir le da a Mei el de repuesto. Bonnie abre el canal; Kal decide: corta la operación y la manda con Chiara («Ella sabe a quién»). Nadir saca a todos por el tope que Mei le dio y ella lo oye por el radio.
 - **El traslado al revés.** La patrulla pasa en sentido contrario, con las luces, rumbo a la casa. Bonnie, con fiebre, va atrás con ella y le habla del Camaro y de que llegó primera.
 - **La destilería.** Camila trabaja; la banda llega con los chalecos puestos (encontraron la casa abierta y la sangre). Nadir toma la presión; «¿Sigue enojado?» / «Luego hablamos». Kal llega para «Perdóname, jefe». Después nadie se quita el chaleco.
-- **Culpa de Kal, triple:** su operación vació la calle, su regla apagó los teléfonos y su escondite metió el diamante en la casa.
+- **Culpa de Kal, triple:** su operación vació la calle, la dejó fuera (y con ella las salidas) y su escondite metió el diamante en la casa. Los teléfonos ya no pesan: hubo radio, y la ayuda igual llegó tarde.
 - **Camila** llega al mundo del Patio con una muerte por miedo a dejar rastro: su tema. Lo cobra en H1.
 
 **Pierde respecto del borrador anterior:** el callejón, la zanja, «¿Metió el pie?» y la camioneta del 38 (escritos el 2026-11-18). El POV de Nadir pasa a Bonnie: sus dos capítulos (4 y 38) abren y cierran a Mei, y hay que declararlo como interludio en el plan del libro.
 
 **Los Calderos se llevan el Lussia (DECISIÓN DEL AUTOR, 2026-11-18: «crea consecuencias reales»).** Guarda (DISEÑO): la piedra no comparte página con su muerte; Kal encuentra el escondite vacío después (39 o más adelante). Ruta del Lussia hasta el Libro III: [[11_Books/Book_02_Sombras_De_Poder/00_Columna_El_Caudillo]], «El Lussia».
+
+**Mei frente a Nadir (DECISIÓN DEL AUTOR, 2026-11-19):** no basta «Ya sé»: Mei reconoce que falló, ofrece pagarlo y le da algo útil (DISEÑO: el tope de la salida de atrás, «Lo de Varek fui yo. Esto también.»). En la destilería: «¿Frenaron antes del poste?».
 
 **Abierto:** ajustes del 39 (Chiara estuvo en la destilería).
 
