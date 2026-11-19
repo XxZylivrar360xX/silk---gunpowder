@@ -201,6 +201,8 @@ Ya era canon en [[02_Characters/Corrado_Ardizzone]] (decisión del 2026-11-12, p
    - **La recuperación es el anzuelo de Halbrook (DECISIÓN DEL AUTOR, 2026-11-18; resuelve el PENDIENTE del III «motivo exacto de la presencia de Chiara y Kenji en Santa Lucía»).** La entrega es en Santa Lucía; Chiara va con Kenji. Lo consigue y le dice a Kal que lo tiene. Esa misma noche la banda de Halbrook asalta la iglesia, mata a Kenji, le da dos tiros y se lleva la piedra empapada. Ella cree que ganó; era la cita que Halbrook le puso.
    - **Por qué lo quiere (DECISIÓN DEL AUTOR, 2026-11-18):** con Varek en prisión, el Lussia es un objeto que alguien compraría a buen precio: una fortuna suficiente para comprar su boleto de salida hacia Elenna. Por eso, desangrándose en el suelo de la iglesia, pensar en su pequeña cobra sentido: la incertidumbre de no volver a verla, sobre todo después de perderse sus primeros pasos (cobra el video de Bonnie, CANON del III). La piedra que le iba a devolver a su hija es la que Halbrook le arroja a Kal con su sangre.
    - *(Superada la propuesta del agente de que la comprara para borrar la prueba de Lunar Pearl; puede quedar como razón secundaria si el autor quiere.)*
+   - **El comprador y la filtración (DECISIÓN DEL AUTOR, 2026-11-18):** desde Italia, **Tommaso ofrece comprarlo**, porque la joya pertenece legítimamente a los Lusardi desde hace generaciones y se creía perdida; ofrece además ayudar a Chiara en el proceso. **Usan un vendedor intermediario que filtra que Bellandi estará ahí.** Así el anzuelo no lo planta Halbrook: lo aprovecha, porque sus fuentes cuestan y a veces le traen esto.
+   - **PENDIENTE del autor:** la banda que apoya a Halbrook en el asalto a la iglesia; quién es el intermediario; cómo pasó la joya de los Lusardi a Dario (choca con el canon de que el Lussia «le dio nombre» a Lucía: ver la propuesta en la sesión del 2026-11-18).
 5. **Kal está solo esa noche (DECISIÓN DEL AUTOR, 2026-11-18; todo organizado por Halbrook y al mismo tiempo):**
    - **Nadir** se queda varado en el norte: gente de Halbrook le desbiela el motor del Taurus, y no puede llegar a la ciudad ni moverse.
    - **Ren y Tyler** reciben una golpiza de una pandilla de enmascarados.
@@ -227,4 +229,4 @@ Ya era canon en [[02_Characters/Corrado_Ardizzone]] (decisión del 2026-11-12, p
 
 **Lo que dice la piedra en la montaña:** que el robo, la enemistad con Varek, la muerte de Mei y la de Héctor pasaron por la misma mano. Kal no necesita que se lo expliquen.
 
-**PENDIENTE del autor:** quién se la ofrece a Chiara y a qué precio; si Kal recoge la piedra y qué hace con ella; si Varek llega a saber, antes de su arresto en el III, quién le robó el Lussia.
+**PENDIENTE del autor:** cómo llega la piedra de Halbrook (o de quien la tenga tras la tormenta) al intermediario; si Kal recoge la piedra y qué hace con ella; si Varek llega a saber, antes de su arresto en el III, quién le robó el Lussia.
