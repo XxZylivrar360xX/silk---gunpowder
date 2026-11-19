@@ -19,7 +19,7 @@ personajes: Kal Mercer, Dario Varek, Nadir Amrani, Héctor Navarro, Meiko Nakano
 
 > **VALET Y MOTIVO DEL CORRALÓN (2026-11-15, revisión externa; canon de valet del autor; prosa DISEÑO, espera lectura):** (1) lo que filtraba pasa de «lo que se ve con una charola» a «lo que se ve desde la rampa. Nadie mira a la que le recibe las llaves»; la noche en la Villa, «la rampa del Monarch. En las llaves»; (2) por qué va al corralón: Nadir pregunta «¿Y si le cuenta a Varek lo del jueves?»; Kal: ya lo sabe desde hace dos semanas, si lo iba a contar ya lo contó; «Prefiero tenerla donde la vea. Y los teléfonos van a la caja, como siempre» (la caja de los chalecos; siembra en el 29, ver la guía). Arco: [[11_Books/00_Arco_Meiko_Nakano]].
 
-> **LA CARRERA (DECISIÓN DEL AUTOR, 2026-11-18; prosa del agente, BORRADOR, espera lectura):** la carrera que Meiko le gana a Kal (CANON del 2026-11-15: Camaro contra Peugeot, La Isla, Puente de Piedra, Plaza Corona, el Camaro se muere y hay grúa) pasa de la Parte II a este capítulo, el miércoles antes del corralón, cuando Kal ya sabe de la filtración. Es lo que Kal no le dice («era de los míos» queda para el 39). DISEÑO del agente: los veintiséis minutos de la grúa (siembra del ritual mensual), «Mañana a las diez. En Canal Seco.» en lugar de lo que iba a decir, y que Kal la sigue de regreso sin rebasarla. La venta del Peugeot sigue PENDIENTE del autor: sólo se dice que lo piensa. Arco: [[11_Books/00_Arco_Meiko_Nakano]].
+> **LA CARRERA (DECISIÓN DEL AUTOR, 2026-11-18; prosa del agente, BORRADOR, espera lectura):** la carrera que Meiko le gana a Kal (CANON del 2026-11-15: Camaro contra Peugeot, La Isla, Puente de Piedra, Plaza Corona, el Camaro se muere y hay grúa) pasa de la Parte II a este capítulo, el miércoles antes del corralón, cuando Kal ya sabe de la filtración. Es lo que Kal no le dice («era de los míos» queda para el 39). DISEÑO del agente: los veintiséis minutos de la grúa (siembra del ritual mensual), «Mañana a las nueve. En la casa común.» en lugar de lo que iba a decir (el jueves, en la casa común, la deja fuera: 38), y que Kal la sigue de regreso sin rebasarla. La venta del Peugeot sigue PENDIENTE del autor: sólo se dice que lo piensa. Arco: [[11_Books/00_Arco_Meiko_Nakano]].
 
 > **ENTRADA TEMPRANA (2026-11-15, revisión externa):** «un año» → «casi dos años»; «donde la había visto sentada la primera vez» → «tantas mañanas» (la primera vez fue en la banqueta, sobre el Camaro, Libro I cap. 22). Arco: [[11_Books/00_Arco_Meiko_Nakano]].
 -->
@@ -414,7 +414,7 @@ Ella lo miró.
 
 Kal tenía algo en la boca. Lo tuvo un momento, con ella mirándolo, en el borde de la fuente, y no supo por dónde se empezaba eso. Por dónde se empezaba algo que no era una ruta ni un precio ni una orden.
 
-—Mañana a las diez —dijo—. En Canal Seco.
+—Mañana a las nueve —dijo—. En la casa común.
 
 —Ya sé.
 

@@ -2,7 +2,7 @@
 
 Generada por `tools/audiolibro/build_audiobook.py`; no editar a mano. Tras cambiar la prosa de un capítulo, correr `--estado` para marcarlo PENDIENTE; la bandera se cierra sola cuando el script regenera ese audio.
 
-Actualizada: 2026-11-18 22:58. Al día: 18 de 18.
+Actualizada: 2026-11-19 00:33. Al día: 18 de 18.
 
 ## Pendientes
 
@@ -17,9 +17,9 @@ Ninguno: todos los audios corresponden a la prosa actual.
 | 21 | El collar | AL DIA | 2026-11-18 |
 | 24 | La vela tardía | AL DIA | 2026-11-18 |
 | 37 | Las latas | AL DIA | 2026-11-18 |
-| 38 | Lo del hermano | AL DIA | 2026-11-18 |
-| 39 | Perdóname, jefe | AL DIA | 2026-11-18 |
-| 40 | Lo que queda | AL DIA | 2026-11-18 |
+| 38 | Lo del hermano | AL DIA | 2026-11-19 |
+| 39 | Perdóname, jefe | AL DIA | 2026-11-19 |
+| 40 | Lo que queda | AL DIA | 2026-11-19 |
 | 46 | Lo poco que llegué a saber | AL DIA | 2026-11-18 |
 | 47 | Stavanger | AL DIA | 2026-11-18 |
 | 48 | Henrik | AL DIA | 2026-11-18 |

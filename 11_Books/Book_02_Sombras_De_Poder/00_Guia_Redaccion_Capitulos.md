@@ -92,7 +92,7 @@ Calendario de dos años (5 ene A3 → dic A4), contado en bloques densos. Las el
 | 14 | la calle | El apodo nace afuera; Kal no puede verse bautizado. |
 | 27 | Harper | Su cálculo falló en el 26 y ella da la señal: ve completo el engaño que Kal, bajo tierra, no ve. Corta una racha larga de capítulos de Kal. |
 | 30 | Marisol | Paga el choque y ve venir la Lancia de Chiara. Desde fuera el choque sigue pareciendo destino; al volante, Tommaso rozaría el sabotaje. |
-| 38 | Nadir | Carga las manos; Kal, el perdón. |
+| 38 | ~~Nadir~~ **Bonnie** (DECISIÓN DEL AUTOR, 2026-11-18; interludio declarado) | F2 rehecho: el robo en la casa de las chicas, la llamada a Chiara y la destilería. Bonnie está presente, pierde más y se va; sus dos capítulos (5 y 38, numeración de 58) abren y cierran a Meiko. Ver [[11_Books/00_Arco_Meiko_Nakano]], «F2 rehecho». |
 
 **Descartados:** Tommaso en el 30 y el 35: su interioridad tendría que esquivar la línea con Meiko; el 35 queda para Chiara, que recibe su parte del Monarch. Walt en el 55: su cabeza explicaría lo de Amanda, que el lector tiene que deducir junto a Kal, y el capítulo es la revelación del origen de Kal. Meiko, Dario, Halbrook y Volpi, nunca. La Parte IV no lleva invitados: la mirada externa del 49 y el 53 cuida el embarazo, no le presta la voz a nadie.
 

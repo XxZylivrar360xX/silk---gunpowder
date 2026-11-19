@@ -15,6 +15,8 @@ personajes: Chiara Bellandi, Bonnie García, Kal Mercer; en el entierro, Nadir, 
 >
 > **CANON citado literal:** «—Lo siento, ¿vale?» / «—No te martirices. Hiciste lo que debías hacer.» y el beso en la frente (DECISIÓN DEL AUTOR, 2026-11-12: se quedan con otro sentido y sin reescribirse); «Iba a decirle que sin importar lo que tuvo que hacer, era de los míos.» (CANON DEL AUTOR, 2026-11-13; ortografía normalizada). **CANON (hechos):** el forro de la camioneta lleno de sangre, después del entierro; nadie dice nada. Kal vuelve a la Villa y encuentra a Chiara rota en el suelo con la foto de la cena de Navidad. Kal no llora en todo el arco hasta decir esa línea. **DECISIONES DEL AUTOR (2026-11-13):** el corazón del capítulo es la plática de la tarde después del entierro: Chiara todavía le habla de planes y Bonnie le revela que no va a quedarse; en la misma plática le cuenta la traición de Meiko y que Kal la calló. Bonnie se va después del entierro. POV de Chiara. **DISEÑO del agente:** la casa de la reja verde con las cosas de Meiko; los folletos; la lata del centro que Bonnie aparta; «Pedí una ambulancia» como razón de Bonnie; que la foto esté en la repisa de mármol desde enero (el 57 la encuentra ahí); la tierra en las manos de Kal; que Kal le diga «amore» a nada.
 >
+> **AJUSTE AL F2 REHECHO (2026-11-19; prosa del agente, BORRADOR):** Chiara estuvo en la destilería (el brazo que sostuvo el suero); el forro es el del asiento de atrás de la camioneta de Walt, y quien no se acerca es Bonnie; Bonnie le pidió la ambulancia a Chiara por teléfono y Mei dijo que no; Mei le contó la filtración a Bonnie esa noche (antes, Nadir); la luz del pasillo sigue prendida («Cuando vuelvas, apágala», 38); Bonnie menciona el calentador sin saber qué había (el Lussia no se nombra).
+>
 > **Guarda:** el narrador no explica el «lo siento» ni la absolución. Nadie nombra la regla. Que Chiara sabe lo que Kal calló queda debajo, sin decirse. Nada de la propia cuota de Chiara en voz alta: sólo en su cabeza, una vez.
 
 > **VALET (2026-11-15, revisión externa; canon de valet del autor; prosa DISEÑO, espera lectura):** «Sirviendo» → «Desde la rampa»; las charolas de plata pasan a las llaves del Lancia y a la calificación de valet del Libro I («propina de veinte, trato de dos»): lo que Meiko le susurraba a Chiara era lo mismo que veía para Varek. Arco: [[11_Books/00_Arco_Meiko_Nakano]].
@@ -42,7 +44,7 @@ Bonnie estaba en primera fila, sola. Nadie se había parado a su lado. No porque
 
 Kal estaba enfrente, del otro lado del hoyo. No había dicho una palabra desde que llegaron. Tenía la cara de las mañanas en el taller.
 
-No hubo cura. Mabel dijo algo, corto, que Chiara no oyó bien porque el viento cambió en ese momento y se llevó las palabras hacia los cipreses. Después bajaron la caja. Era de madera clara, sencilla, y la bajaron con unas cintas, despacio, cuatro de los muchachos, y cuando tocó el fondo hizo un ruido sordo que Chiara sintió en las plantas de los pies.
+No hubo cura. Mabel dijo algo, corto, que Chiara no oyó bien porque el viento cambió en ese momento y se llevó las palabras hacia los cipreses. Después bajaron la caja. Era de madera clara, sencilla, y la bajaron con unas cintas, despacio, cuatro de los muchachos, y cuando tocó el fondo hizo un ruido sordo que Chiara sintió en las plantas de los pies. Le dolía el brazo derecho, desde el hombro, desde hacía una semana, y sabía de qué: de sostener una bolsa de suero en alto, más alto, sin bajarla, en una nave que olía a maíz.
 
 Los trabajadores del cementerio se acercaron con las palas. Kal levantó la mano.
 
@@ -56,19 +58,19 @@ No había llorado. Chiara lo había mirado todo el tiempo. Tenía tierra hasta l
 
 El forro lo vieron al salir.
 
-La camioneta de Harper estaba estacionada en la calle, frente a la reja, y Harper abrió la puerta de atrás para meter las palas que no eran del cementerio, las que habían traído del taller por si acaso. Abrió la puerta y se quedó quieta.
+La camioneta de Walt estaba estacionada en la calle, frente a la reja, y Walt abrió la puerta de atrás para meter las palas que no eran del cementerio, las que habían traído del taller por si acaso. Abrió la puerta y se quedó quieto.
 
-Chiara estaba a unos pasos, con Marisol. Lo vio por encima del hombro de Harper.
+Chiara estaba a unos pasos, con Marisol. Lo vio por encima del hombro de Walt.
 
-La alfombra gris del piso de la camioneta, el forro, ya no era gris. Era negra de un lado a otro, tiesa, con una forma, y en las orillas, donde se había secado más delgado, de un color café que Chiara no iba a poder ver en ninguna otra cosa sin acordarse. Alguien lo había limpiado. Se notaba que alguien había pasado un trapo, muchas veces, con jabón de pasta, y que no había servido.
+El forro del asiento de atrás, que era de tela gris, ya no era gris. Era negro de un lado a otro, tieso, con una forma, y en las orillas, donde se había secado más delgado, de un color café que Chiara no iba a poder ver en ninguna otra cosa sin acordarse. Alguien lo había limpiado. Se notaba que alguien había pasado un trapo, muchas veces, con jabón de pasta, y que no había servido.
 
-Los muchachos se fueron acercando. Uno por uno, como habían tomado las palas. Se pararon detrás de Harper y miraron. Nadie dijo nada.
+Los muchachos se fueron acercando. Uno por uno, como habían tomado las palas. Se pararon detrás de Walt y miraron. Nadie dijo nada.
 
-Chiara no miró el forro. Miró las caras. Danny, que apretó la boca y se dio vuelta. Tyler, que se quitó los lentes oscuros y se los volvió a poner. Garrett, que se aflojó la corbata con un dedo, despacio, como si le apretara de pronto. Nadir no se acercó. Se quedó junto a la reja con las manos en los bolsillos y no miró hacia la camioneta, y Chiara entendió que Nadir ya lo había visto, que Nadir había estado ahí adentro.
+Chiara no miró el forro. Miró las caras. Danny, que apretó la boca y se dio vuelta. Tyler, que se quitó los lentes oscuros y se los volvió a poner. Garrett, que se aflojó la corbata con un dedo, despacio, como si le apretara de pronto. Bonnie no se acercó. Se quedó junto a la reja con las manos en los bolsillos y no miró hacia la camioneta, y Chiara entendió que Bonnie ya lo había visto, que Bonnie había ido ahí adentro, con la cabeza de Meiko en las piernas.
 
 No eran caras de quien ve sangre. Esos muchachos habían visto sangre. Eran caras de quien abre la puerta del cuarto de alguien de la casa y encuentra la cama hecha.
 
-Harper metió las palas encima del forro, con cuidado, sin que tocaran la mancha, y cerró la puerta.
+Walt metió las palas encima del forro, con cuidado, sin que tocaran la mancha, y cerró la puerta.
 
 ***
 
@@ -82,9 +84,9 @@ Bonnie le abrió antes de que tocara. La había visto venir por la ventana.
 
 Bonnie se hizo a un lado para dejarla pasar.
 
-Adentro, la casa olía a encerrado y a café recalentado. Era chica: una sala con un sillón y una televisión, una cocina abierta, un pasillo con dos puertas. Una de las puertas estaba abierta. La otra, cerrada.
+Adentro, la casa olía a encerrado y a café recalentado. Era chica: una sala con un sillón y una televisión, una cocina abierta, un pasillo con dos puertas. Una de las puertas estaba abierta. La otra, cerrada. La luz del pasillo estaba prendida, a las cuatro de la tarde.
 
-Chiara no miró la puerta cerrada. Miró lo que había afuera de ella, que era peor. Una chaqueta negra con capucha colgada en el respaldo de una silla del comedor. Unos tenis en la entrada, junto a los de Bonnie, más chicos. Una taza en el escurridor con una marca de labial casi borrada en el borde. En la mesa de la cocina, el teléfono de Meiko, apagado, con la pantalla estrellada en una esquina. Y en el suelo, junto al refrigerador, una caja de cartón con latas de aceite agujereadas, llenas de tornillos.
+Chiara no miró la puerta cerrada. Miró lo que había afuera de ella, que era peor. Una chaqueta negra con capucha colgada en el respaldo de una silla del comedor. Unos tenis en la entrada, junto a los de Bonnie, más chicos. Una taza en el escurridor con una marca de labial casi borrada en el borde. En la mesa de la cocina, el teléfono de Meiko, apagado, boca abajo. Y en el suelo, junto al refrigerador, una caja de cartón con latas de aceite agujereadas, llenas de tornillos.
 
 —Siéntese —dijo Bonnie.
 
@@ -140,11 +142,11 @@ Chiara levantó la vista.
 
 Bonnie no se había movido. Estaba de pie junto a la mesa de la cocina, junto al teléfono apagado, y hablaba en el orden en que habían pasado las cosas, con pausas cortas, como contaba siempre.
 
-—Estaba en la oficina del taller con la radio. Oí que venían. Oí que traían a alguien. Salí. —Una pausa—. Estaba en el suelo. Pedí una ambulancia. Se la pedí a todos. Se la pedí a Kal. Nadie llamó.
+—Se la pedí a usted. Por teléfono. —Una pausa—. Usted dijo que la iba a llamar, y Mei dijo que no, y usted le hizo caso. Después se la pedí a todos, en la destilería. Se la pedí a Kal. Nadie llamó.
 
 —Bonnie…
 
-—No los culpo. —Lo dijo de inmediato, antes de que Chiara pudiera decir otra cosa—. Sé por qué. Nadie va al hospital desde una operación. Eso lo sé desde antes del Patio. Lo sabía Mei. Así es. —Bajó la vista, por primera vez, al suelo, a los tenis de la entrada—. Pero yo la pedí. Y si me quedo, un día voy a ser yo la que no llama. Y no quiero.
+—No la culpo. —Lo dijo de inmediato, antes de que Chiara pudiera decir otra cosa—. Sé por qué. La casa es de Kal. Nadie del Patio llega a un hospital con una herida así sin que alguien pregunte de dónde. Lo sabía Mei. Ella dijo que no. —Bajó la vista, por primera vez, al suelo, a los tenis de la entrada—. Pero la doctora dijo que hacía media hora era un hospital. Yo la oí. Y si me quedo, un día voy a ser yo la que no llama. Y no quiero.
 
 Chiara no dijo nada. No había nada en el segundo párrafo para eso.
 
@@ -156,7 +158,7 @@ Afuera pasó un coche despacio, con la música alta, y la música entró por la 
 
 Se sentó. Por primera vez desde que Chiara había llegado, se sentó, en el borde de la silla del comedor, la que tenía la chaqueta negra en el respaldo, como quien no piensa quedarse. Puso las manos sobre las rodillas.
 
-—Nadir me lo dijo anoche. No podía cargarlo solo. Me lo dijo a mí porque yo le tenía la mano. —Una pausa—. Mei le pasaba cosas a la gente de Varek. Desde enero.
+—Mei me lo dijo. Esa noche, en la sala, antes. —Una pausa—. Le pasaba cosas a la gente de Varek. Desde enero.
 
 Chiara no se movió.
 
@@ -176,13 +178,15 @@ No lo dijo. Se le quedó en algún lugar detrás de los dientes, apretado.
 
 Chiara la miró.
 
-—Desde la semana pasada. Desde lo de las latas. Varek le dijo algo en el hipódromo y él se dio cuenta. Se lo dijo a Nadir y a Héctor. A nadie más. —Bonnie hizo una pausa—. Iban a decidir qué hacer con ella después del corralón.
+—Varek le dijo algo en el hipódromo y él se dio cuenta. Ella me dijo que Kal ya sabía. Que le dijo «después». —Bonnie hizo una pausa—. Iban a decidir qué hacer con ella después del corralón. Por eso esa noche no fue. Por eso estaba en la casa.
 
 —Después del corralón.
 
-—Sí.
+—Sí. —Bonnie miró hacia el pasillo, hacia la luz—. Y fueron directo al calentador. El que Kal arregló en febrero. Para que conste.
 
-Chiara se acordó de la noche del corralón, la víspera. De Kal desvistiéndose a oscuras del otro lado de la cama. «Lo del jueves.» De su propia voz, ya medio dormida contra su hombro: «¿Cómo están las chicas?» Y de él, mirando el techo, diciendo «Bien. Están bien».
+Chiara no entendió eso último. Lo guardó, como guardaba una cifra que todavía no cuadraba con nada.
+
+Chiara se acordó de una noche de esa semana, la del lunes. De Kal desvistiéndose a oscuras del otro lado de la cama. «Lo del jueves.» De su propia voz, ya medio dormida contra su hombro: «¿Cómo están las chicas?» Y de él, mirando el techo, diciendo «Bien. Están bien».
 
 No dijo nada de eso tampoco.
 
@@ -204,7 +208,7 @@ Chiara se levantó. Recogió los folletos de la mesa de centro, uno por uno, y l
 
 —Gracias, señora.
 
-Se quedaron de pie, las dos, en la sala chica, con la puerta cerrada al fondo del pasillo.
+Se quedaron de pie, las dos, en la sala chica, con la puerta cerrada al fondo del pasillo y la luz prendida encima.
 
 Chiara quería abrazarla. No sabía si Bonnie se dejaba abrazar. En año y medio no la había visto dejarse, no la había visto pedirlo, no la había visto acercarse a nadie más que a Meiko, y a Meiko la había agarrado del brazo en una foto, a medio grito, como si se estuviera cayendo. Chiara se acercó un paso. Bonnie no se movió.
 
@@ -242,7 +246,7 @@ Kal se quedó en la entrada un rato largo. Después entró. Se arrodilló delant
 
 Lo dijo bajito. Sin fondo. Mirando la foto, no a ella.
 
-Chiara levantó la vista. Lo miró. Supo, mirándolo, todo lo que sabía desde las cuatro de la tarde: la semana, el hipódromo, Nadir y Héctor, el «Bien, están bien» hacia el techo. Supo que él no sabía que ella lo sabía. Lo tuvo en la boca, entero, como una cifra, y lo dejó ahí.
+Chiara levantó la vista. Lo miró. Supo, mirándolo, todo lo que sabía desde las cuatro de la tarde: la semana, el hipódromo, el «después», la noche en que no la dejó ir, el «Bien, están bien» hacia el techo. Supo que él no sabía que ella lo sabía. Lo tuvo en la boca, entero, como una cifra, y lo dejó ahí.
 
 —No te martirices. Hiciste lo que debías hacer.
 
