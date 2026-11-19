@@ -155,3 +155,36 @@ Un duelo idéntico durante años pierde fuerza; uno que cambia con quien lo llev
 3. **Libro III o IV: el coche envejece.** El Camaro falla a medio circuito y Kal tiene que terminarlo a pie, o en grúa, como ella. El ritual deja de ser exacto y Kal lo acepta.
 4. **Libro IV: no puede ir.** La guerra o la cárcel se lo impiden un mes, y alguien del Patio lo hace por él sin que nadie se lo pida (Danny, si está limpio, cierra el hilo del motor 4). El duelo deja de ser sólo suyo.
 5. **Después del IV:** ya no pueden volver a San Aurelio. El ritual se transforma o se hereda (Elenna o Michael en los libros V–VII), o se termina con una última vuelta. **PENDIENTE del autor.**
+
+## F2 rehecho: el robo en la casa (DECISIONES DEL AUTOR, 2026-11-18)
+
+Sustituye la puesta en escena de F2 en [[11_Books/Book_02_Sombras_De_Poder/Part_03_Exilio/38_Perdoname_Jefe]] (el corralón, el callejón y el traslado a El Patio). Lo que no cambia: muere la noche de una operación; «Perdóname, jefe.» y la respuesta de Kal; el grito de Nadir; Bonnie pide la ambulancia; el silencio de los chalecos; Kal no llora hasta el 39.
+
+**Decidido por el autor:**
+
+1. **Los Calderos entran a la casa de las chicas creyendo que es de Kal**, para robar algo.
+2. **El motor es el Lussia.** **Está en la casa porque Kal lo escondió ahí** (opción b): nadie buscaría un diamante rojo en la casa de dos muchachas del valet.
+3. **El traslado se invierte:** de la Almendra hacia un lugar seguro con médico, la **destilería de Walt**.
+4. **Bonnie está presente**, y eso alimenta su partida.
+5. **La llamada a medianoche a Chiara**, con urgencia, porque hace falta un médico: la involucra de golpe.
+6. **POV del 38: Bonnie.**
+7. **Antes de la operación**, los chicos se alistan en la casa común con las chicas presentes. **Kal dice que Mei no va**, porque todavía tiene dudas. Ahí cabe lo de Nadir (la decepción). **Bonnie no va porque tiene un resfriado**: puede caminar, pero la fiebre le vuelve a ratos.
+
+**DISEÑO del agente (espera lectura):**
+
+- **El 37 no cambia.** El miércoles Kal le dice «Mañana a las diez. En Canal Seco.»; el jueves, delante de todos, la deja fuera. La carrera fue el sí y la casa común es la duda. El lector sabe por qué; Bonnie no.
+- **La confesión a Bonnie.** Esa noche, solas, Mei le cuenta a Bonnie la filtración y por qué la dejaron fuera. Así Bonnie sabe lo que le cuenta a Chiara en el 39.
+- **Los Calderos llegan por la operación.** Un vigía ve salir las camionetas del Patio rumbo a Las Calderas y avisa que la calle quedó sola. Crowe llega a la casa sin la filtración: un diamante rojo sólo lo mueve él, la calle dice que Lunar Pearl fue de Mercer y la casa con la luz prendida toda la noche parece la vigilada. **Guarda:** nada en la página sugiere que el soplo de Mei la mató («Lo de Lunar Pearl no. Eso no.», 37).
+- **El homicidio involuntario.** Entran a una casa que creían vacía. Mei sorprende a un muchacho de unos quince años (de una familia que se quedó sin trabajo con el corralón) que necesita salir; ella está entre él y la puerta. Empuja con la navaja de flamas verdes y se va llorando. La herida se revela despacio («me rozó»).
+- **Nadie contesta.** Bonnie llama a Kal, a Nadir y a todos: los teléfonos están apagados en la caja (la regla de Kal). Contesta Chiara. Chiara llama a **Camila Rivas**, elige la destilería y llama a Walt, que llega con su camioneta. No van al hospital: los vecinos ya llamaron a la policía por el robo, y en la casa está lo que buscaban. Mei: «Por el hospital no. Los ata.»
+- **El traslado al revés.** La patrulla pasa en sentido contrario, con las luces, rumbo a la casa. Bonnie, con fiebre, va atrás con ella y le habla del Camaro y de que llegó primera.
+- **La destilería.** Camila trabaja; la banda llega con los chalecos puestos (encontraron la casa abierta y la sangre). Nadir toma la presión; «¿Sigue enojado?» / «Luego hablamos». Kal llega para «Perdóname, jefe». Después nadie se quita el chaleco.
+- **Culpa de Kal, triple:** su operación vació la calle, su regla apagó los teléfonos y su escondite metió el diamante en la casa.
+- **Camila** llega al mundo del Patio con una muerte por miedo a dejar rastro: su tema. Lo cobra en H1.
+
+**Pierde respecto del borrador anterior:** el callejón, la zanja, «¿Metió el pie?» y la camioneta del 38 (escritos el 2026-11-18). El POV de Nadir pasa a Bonnie: sus dos capítulos (4 y 38) abren y cierran a Mei, y hay que declararlo como interludio en el plan del libro.
+
+**Los Calderos se llevan el Lussia (DECISIÓN DEL AUTOR, 2026-11-18: «crea consecuencias reales»).** Guarda (DISEÑO): la piedra no comparte página con su muerte; Kal encuentra el escondite vacío después (39 o más adelante). Ruta del Lussia hasta el Libro III: [[11_Books/Book_02_Sombras_De_Poder/00_Columna_El_Caudillo]], «El Lussia».
+
+**Abierto:** ajustes del 39 (Chiara estuvo en la destilería).
+

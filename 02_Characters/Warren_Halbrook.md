@@ -272,6 +272,8 @@ Poder externo sobre Kal. **Halbrook NO pisa San Aurelio** hasta el último capí
 
 ### *Sombras de Poder* (Libro II) — el tablero (antes: la observación)
 
+> **DECISIÓN DEL AUTOR (2026-11-18), el Lussia:** Halbrook facilita indirectamente que Kal robe el Lussia en Lunar Pearl para enemistarlo a largo plazo con Varek; **por eso lo sacó de Camp Alder**: lo necesita como pieza en movimiento. Los Calderos se llevan la piedra la noche de F2. En la montaña del III, con Héctor en el suelo, se la arroja a Kal antes de parcharse: «Tómalo, y corre… Quizá todavía alcances a llegar a Santa Lucía.» Ver [[11_Books/Book_02_Sombras_De_Poder/00_Columna_El_Caudillo]], «El Lussia».
+
 > **DECISIÓN DEL AUTOR (2026-11-18):** Halbrook es el villano del II. Observa *y* mueve: empieza a acomodar las piezas para activar la Guerra de los Tres y cimentar su camino al Senado. Alimenta la ambición de Crowe (las rutas, la silla de Dario) y lo sacrifica cuando ya cumplió; cada Parte cierra con él un escalón público más alto, nunca con su mano en página. Crowe es ruin y despreciable; Halbrook es el que le arrebatará casi todo a Kal. Ver [[11_Books/Book_02_Sombras_De_Poder/00_Columna_El_Caudillo]].
 
 > **CANON DEL AUTOR (2026-10-13): H1.** Halbrook cosecha. Conoce a Kal y sabe que no podrá evitar salvar a todos; **filtra a Dario, indirectamente y sin que Dario lo sepa, dónde estará Crowe**, mediante un rumor de calle que sale de [[03_Factions/Los_Bravos_de_Santa_Brigida|Los Bravos]] (mecanismo CANON DEL AUTOR, 2026-10-13). Dario manda a Volpi. La escalada policial de esa noche es su mandato como rostro de la seguridad pública. Ver [[11_Books/Book_02_Sombras_De_Poder/00_Plan_Cuatro_Partes]] («El final»).

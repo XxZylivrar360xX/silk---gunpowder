@@ -172,6 +172,8 @@ Una sola operación, dos frentes físicos, tres golpes relacionales.
 
 **Montaña:** Héctor y Harper dentro del frente. Héctor pide a Kal elegir a Harper. Kal intenta elegir a Héctor. **Halbrook mata a Héctor.** Harper sobrevive. Kal no dispara en esta secuencia. Residuo: *"Yo dije su nombre."*
 
+> **CANON DEL AUTOR (2026-11-18), el Lussia:** con Héctor ya en el suelo, Halbrook arroja el Lussia al pasto junto a él, antes de parcharse, y dice: «Tómalo, y corre… Quizá todavía alcances a llegar a Santa Lucía.» La montaña va antes que Santa Lucía; Halbrook sale herido (quién lo hiere: PENDIENTE). Origen de la piedra: [[11_Books/Book_02_Sombras_De_Poder/00_Columna_El_Caudillo]], «El Lussia».
+
 **Santa Lucía (en paralelo):** Chiara es el objetivo. **Kenji muere.** Chiara recibe dos disparos (vientre y muslo), sobrevive crítica y entra en coma (unas 2–3 semanas, canon del autor 2026-09-28; la elección y la ejecución de Halbrook caen dentro de ese tramo). El ataque es de Halbrook, **no de Il Consorzio**. En shock, en el suelo de la iglesia, el recuerdo que puede cerrar su conciencia es el video de Elenna dando sus primeros pasos.
 
 Relación causal y orden fino montaña ↔ Santa Lucía: **PENDIENTE.**

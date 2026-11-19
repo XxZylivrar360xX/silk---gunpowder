@@ -185,3 +185,36 @@ Ya era canon en [[02_Characters/Corrado_Ardizzone]] (decisión del 2026-11-12, p
 **Qué hace en la columna.** Es la bisagra del capítulo *El armario* fundido con *Vacío* (Fase 1): del pánico de Kal a la sospecha. Por lo que cuenta Marisol, Kal revisa el auto y encuentra el sabotaje. Una sola espera: *¿fue accidente?* Después alimenta las noches de matón y los *Escenarios*. Es la primera huella de Manfred en el II, antes de las cartas.
 
 **PENDIENTE del autor:** si Marisol, que en libros posteriores trata al «señor Gabe», lo reconoce algún día (posible cobro en el IV, cuando se revela que fue él).
+
+## El Lussia: la pieza que recorre el tablero (DECISIONES DEL AUTOR, 2026-11-18)
+
+**Decidido por el autor:**
+
+1. **Halbrook es el artífice indirecto de Lunar Pearl.** Facilita los medios para que Kal robe el Lussia y así enemistarlo a largo plazo con Varek. **Por eso lo sacó de Camp Alder en el Libro I:** lo necesita como una pieza en movimiento en su tablero. (Se suma a los motivos ya canon: ver hasta dónde llega Kal y leer el nombre del expediente.)
+2. **Kal esconde el Lussia en la casa de las chicas, y los Calderos se lo llevan** la noche en que muere Meiko.
+3. **El Lussia vuelve en la montaña del Libro III.** Con Héctor ya en el suelo, Halbrook lo arroja al pasto junto a él, antes de parcharse, y dice (línea del autor; tildes y puntuación del agente):
+
+   > «Tómalo, y corre… Quizá todavía alcances a llegar a Santa Lucía.»
+
+   Implica que la montaña va antes que Santa Lucía y que Halbrook sale herido de la montaña (quién lo hiere: PENDIENTE).
+
+**Cómo facilita Lunar Pearl sin tocarlo (DISEÑO, su método canon: «elimina las demás direcciones disponibles»):**
+
+- **Pone la piedra en la vitrina.** La exhibición del Lussia en Lunar Pearl sale de su circuito de beneficencia: Dario la presta por vanidad, para presumir la joya que lleva el nombre de su hija. Halbrook no le dice nada a nadie; sólo la pone donde Kal la vea.
+- **Le cierra las otras salidas a Kal.** La correa de Nadir en F4 (*La carretera*) aprieta justo cuando Kal necesita dejar el sueldo de Dario y la deuda con Crowe. El robo («algo que sea suyo», el millón) queda como la única puerta.
+- **Nada en la página lo prueba.** El lector sólo lo puede reconstruir en la montaña, cuando la piedra cae en el pasto.
+
+**Ruta del Lussia (DISEÑO salvo lo marcado):**
+
+| Cuándo | Dónde está | Qué hace |
+|---|---|---|
+| Ene A4, Lunar Pearl | Kal | Lo roba; nadie lo puede comprar, porque un diamante rojo sólo lo mueve el Tasador |
+| Ene–abr A4 | Escondido en la casa de las chicas (CANON) | La luz prendida de Mei hace que la casa parezca la vigilada |
+| Abr A4, F2 | Los Calderos → Crowe (CANON: se lo llevan) | Crowe tiene la joya de Dario: la corona del caudillo |
+| Antes de la tormenta (propuesta) | Crowe → Halbrook | Crowe se la entrega a la gente de Halbrook como prueba de que puede ocupar la silla de Dario. Halbrook se la queda y decide soltarlo: le da a la filtración por los Bravos un detonante concreto |
+| Libro III | Halbrook | Lo guarda todo el libro |
+| Libro III, la montaña (CANON) | A los pies de Kal, junto a Héctor | «Tómalo, y corre…» |
+
+**Lo que dice la piedra en la montaña:** que el robo, la enemistad con Varek, la muerte de Mei y la de Héctor pasaron por la misma mano. Kal no necesita que se lo expliquen.
+
+**PENDIENTE del autor:** quién hiere a Halbrook en la montaña; si Kal recoge la piedra y qué hace con ella; si Varek llega a saber, antes de su arresto en el III, quién le robó el Lussia.
