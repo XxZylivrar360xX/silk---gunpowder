@@ -1,6 +1,6 @@
 # Fase 1 del Libro II: las tres pruebas (58 → 47)
 
-> **Estado:** DISEÑO del agente, espera al autor. Arranque APROBADO (DECISIÓN DEL AUTOR, 2026-11-18). Aplica a los 58 capítulos vigentes las tres pruebas del [[11_Books/Book_01_Mascaras_De_Cristal/00_Plan_Nuevo_Cauce|nuevo cauce del Libro I]] contra la columna nueva: [[11_Books/Book_02_Sombras_De_Poder/00_Columna_El_Caudillo]]. **No renombra archivos ni cambia la numeración** hasta que el autor apruebe; la tabla vigente sigue en [[11_Books/Book_02_Sombras_De_Poder/00_Book_Map]]. Meta del autor: 45–47.
+> **Estado:** **APROBADA por el autor (2026-11-18) con una condición: que se respeten las reglas de [[12_Craft_Policies/README|craft policies]].** La revisión contra esas reglas (al final, «Ajuste por craft policies») corrige el resultado: **48 capítulos**, o 47 con una decisión pendiente. Lo demás es DISEÑO del agente. Arranque APROBADO (DECISIÓN DEL AUTOR, 2026-11-18). Aplica a los 58 capítulos vigentes las tres pruebas del [[11_Books/Book_01_Mascaras_De_Cristal/00_Plan_Nuevo_Cauce|nuevo cauce del Libro I]] contra la columna nueva: [[11_Books/Book_02_Sombras_De_Poder/00_Columna_El_Caudillo]]. **No renombra archivos ni cambia la numeración** hasta que el autor apruebe; la tabla vigente sigue en [[11_Books/Book_02_Sombras_De_Poder/00_Book_Map]]. Meta del autor: 45–47.
 
 ## Las pruebas, con la columna nueva
 
@@ -120,3 +120,52 @@
 5. ¿Te quedas en 47 o bajas a 46 con *Señor Militar*?
 
 Con la aprobación: se propaga la numeración (Book_Map, matriz temporal, guía, placeholders, `tools/build_sombras.py` y `SELECTIONS` del audio) y se rehace la guía de redacción con la columna nueva.
+
+---
+
+## Ajuste por craft policies (2026-11-18)
+
+Revisión contra [[12_Craft_Policies/Arquitectura_De_Perspectiva]] (reglas 2, 3, 4 y 6) y [[12_Craft_Policies/staging_rules/06-capitulo-de-estaciones]]. **Este ajuste manda sobre la tabla y el resultado de arriba.**
+
+### Lo que no pasa
+
+| Movimiento | Regla | Problema | Ajuste |
+|---|---|---|---|
+| F4 en un capítulo con dos POV (22 + 23) | Perspectiva 2: un cambio de POV sólo si pasa la estafeta; si el segundo abre un objetivo nuevo, es otro capítulo | Las dos mitades son simultáneas: Washington no es la reacción a la fiesta | **Se deshace.** *Año Nuevo* y *La carretera* quedan separados. La siembra II de Tommaso sigue en *Año Nuevo* |
+| *Stavanger* + *Henrik* + *Ya llegó* en uno | Perspectiva 6: franja de 2,500 a 5,000 palabras; estaciones: dos esperas | Los tres suman ~6,400 palabras y dos recompensas (el origen y la propuesta) | **Se queda en dos:** *Stavanger* + *Henrik* (~2,600: una espera, el origen) y *Ya llegó* (~3,800: la propuesta). Sólo se juntan dos archivos, sin reescribir |
+| *Señor Militar* se queda (POV de la calle) | Perspectiva 4: un POV de un solo uso se convierte a Kal o a Chiara | Es un POV de un solo uso | **Sale a residuo** (era la opción para 46): el apodo llega por *El Faro*, y Chiara lee la cita del «experto» antes de la gala, en *El benefactor* |
+
+### Lo que pasa con cuidado (una sola espera por capítulo)
+
+- ***La lluvia* (+ *El farol*).** La espera es qué hará Chiara con lo que sabe. En el torneo, la calle que le debe le dice que Kal mueve la carga del Tasador, y lo de Walt es la misma red (el pub le debe a Crowe). De día guarda un secreto; de noche se ofende por otro.
+- ***Queremos esta* (+ *Capacidad*).** La espera es la pregunta que dejó el fuego: si Kal va a decir la verdad. Construir es la evasión y la Villa es el cobro (la media confesión). Riesgo de largo: la azotea va en una escena, no en un recorrido.
+- ***El benefactor* (+ *El otro Dario*).** La conversación sobre Dario antes de salir es el arranque de la gala, no otro objetivo.
+- ***Deséame suerte* (+ *La jaula*).** Una espera: el golpe.
+- ***El armario* (+ *Vacío*).** Una espera: *¿fue accidente?* La bisagra es la escena del hospital (Manfred disfrazado; Marisol se lo cuenta a Kal), que lleva de la sospecha a revisar el auto.
+- ***Diez segundos* (+ *Una sola frase*).** Mabel dice la frase la mañana de la boda, mientras se arreglan, y no semanas antes: la frase arma los diez segundos. La depresión de Chiara después de Meiko entra como residuo. La llamada y la vela siguen siendo la coda. Es el capítulo con más riesgo de pasar de 5,000: si al redactarlo no cabe, se declara excepción o *Una sola frase* vuelve a ser capítulo.
+- ***Veintitrés de noviembre* (+ *La fecha*).** Una espera: si ella va a decirlo. La copa y, días después, la fecha y Walt. Queda una sola señal (la copa).
+
+### Notas que ya existían (no las crea esta fase)
+
+- **Regla 3 (nadie pasa más de tres capítulos sin narrar):** después de Stavanger, Chiara no narra hasta *Dime, Amore* (siete capítulos). Lo pide el canon del embarazo («ninguna aparición en POV de Chiara con interioridad»). Hay que declararlo como bloque en el plan del libro, como el arco sin Kal del I.
+- **Regla 4:** los invitados de la guía (Bonnie, Harper, Marisol, Nadir y el externo) están declarados en el plan, pero la regla pide interludios breves. *Perdóname, jefe* (Nadir, BORRADOR) tiene unas 5,000 palabras. No se toca aquí; queda anotado.
+
+### Resultado ajustado: 48 capítulos
+
+| Parte | Caps. |
+|---|---|
+| I · Territorio ajeno | 1–12 |
+| II · Nieve y ceniza | 13–26 |
+| III · Exilio | 27–33 |
+| IV · Torna a casa | 34–48 |
+
+1 *Hogar* · 2 *Con su letra* · 3 *El barrio ajeno* · 4 *La Almendra* · 5 *La primera cuota* · 6 *La lluvia* · 7 *El error de Tyler* · 8 *Fuga de gas* · 9 *Queremos esta* · 10 *Encubierto* · 11 *Lentejuelas* · 12 *El benefactor* · 13 *Veintitrés de noviembre* · 14 *No cargues sola* · 15 *Una noche de mudanza* · 16 *El collar* · 17 *Año Nuevo* · 18 *La carretera* · 19 *La vela tardía* · 20 *Deséame suerte* · 21 *Lussia* · 22 *Sin público* · 23 *El millón* · 24 *Nadie tiene prisa* · 25 *Calle Corona* · 26 *El armario* · 27 *Escenarios* · 28 *El agua corriendo* · 29 *El bastón* · 30 *Las latas* · 31 *Lo del hermano* · 32 *Perdóname, jefe* · 33 *Lo que queda* · 34 *Diez segundos* · 35 *Yo respondo* · 36 *Las bandas* · 37 *Mover la mirada* · 38 *Lo poco que llegué a saber* · 39 *Stavanger* · 40 *Ya llegó* · 41 *Llegar tarde* · 42 *Veintitrés de noviembre* · 43 *Santa Lucía* · 44 *Torna a casa* · 45 *Dime, Amore* · 46 *De rodillas* · 47 *No otra vez* · 48 *La chimenea*.
+
+**Tic 7:** sigue fuera (*Lentejuelas* y *El benefactor* quedan seguidos). **Tics 4 y 5:** la excepción de las dos velas sigue propuesta.
+
+### Para bajar a 47 sin romper reglas (PENDIENTE del autor)
+
+- **a) *Sin público* entra en *El millón*.** Es la que pide la regla 4 (Harper es POV de un solo uso). Harper da la señal por radio y le cuenta a Kal lo que vio. Se pierde la ironía de que ella vea el engaño completo mientras él está bajo tierra. El robo queda en tres capítulos.
+- **b) Declarar *Stavanger* entero (~6,400) como excepción de escena grande.** La regla 6 lo permite si se nombra en el plan, pero choca con la de estaciones (dos esperas).
+
+**Recomendación del agente:** quedarse en 48 o tomar la a. La b rompe una regla.

@@ -149,10 +149,10 @@ La propuesta de fusiones de la primera ronda (de 58 a 51 sin costo, a 47 con cos
 1. **Halbrook alimenta la ambición de Crowe y lo sacrifica: APROBADO (DECISIÓN DEL AUTOR).**
 2. **Regla de presencia de Halbrook (un escalón público al cierre de cada Parte, nunca la mano): APROBADA (DECISIÓN DEL AUTOR).**
 3. **Los Calderos siguen a Crowe por el corralón: APROBADO (DECISIÓN DEL AUTOR).** Sigue PENDIENTE si Mack Calderon necesita una deuda personal.
-4. **Manfred:** el autor pidió ver las tres razones y la siembra antes de decidir. Abajo, cómo caen en la página.
+4. **Manfred: APROBADO (DECISIÓN DEL AUTOR, 2026-11-18)** con las tres razones, sus residuos en la página y la **opción c** de la carta: «Le pagué a Silas con diecisiete años y todavía le debo.», en la carta del 15 de marzo. Falta llevarlo a la prosa del 45 y del 55 (BORRADOR).
 5. **Fase 1: APROBADO arrancarla** con meta de 45–47: [[11_Books/Book_02_Sombras_De_Poder/00_Fase1_Tres_Pruebas]].
 
-### Manfred en la página (PROPUESTA, espera al autor)
+### Manfred en la página (APROBADO, 2026-11-18)
 
 Manfred nunca se ve. Las tres razones se leen sólo por sus residuos:
 
@@ -170,3 +170,18 @@ Manfred nunca se ve. Las tres razones se leen sólo por sus residuos:
 - c) «Le pagué a Silas con diecisiete años y todavía le debo.» (dice más: liga la cárcel con la deuda).
 
 **Dónde (P):** en la carta del **15 de marzo**, una de las fechas que Kal no reconoce (DECISIÓN DEL AUTOR, 2026-11-16). En la tormenta, Crowe le dice el *cómo* y deja caer cuándo: el 15 de marzo es el día en que el bebé llegó a casa de Dale y Ruth. La fecha y la línea se cobran a la vez. Requiere ajustar la prosa del 45 (BORRADOR) y del 55, sólo con orden del autor.
+
+### Manfred en el hospital (DECISIÓN DEL AUTOR, 2026-11-12; detalles 2026-11-18)
+
+Ya era canon en [[02_Characters/Corrado_Ardizzone]] (decisión del 2026-11-12, punto 2): tras los frenos, Corrado va al hospital; Marisol, todavía dopada, lo ve a medias, no lo reconoce, y él vuelve a desaparecer. En el IV se puede revelar que fue él. El autor añade (2026-11-18):
+
+- **Entra buscando a su hija, creyendo que está herida.** La noticia dice que chocó el Lancia de Bellandi; él no sabe que manejaba Tommaso.
+- **Va disfrazado:** sombrero y barba falsa.
+- **Se encuentra con Marisol.** Ella lo ve, pero sigue aturdida por los sedantes.
+- **Marisol se lo cuenta a Kal**, y eso le alimenta los nervios y el enojo: alguien quiso hacerle daño a alguien, haya sido a Chiara o a Marisol.
+
+**Cómo cumple las reglas de Corrado (DISEÑO).** Ni Kal ni Chiara le ven la cara. En primera lectura no se lee como pista de que vive, sino como **amenaza**: el lector y Kal creen que el del sombrero vino a terminar el trabajo o a ver qué tanto falló. Es el desvío que la regla pide (la anomalía apunta a otro lado). Marisol, sedada, es testigo inseguro: nadie le cree del todo, ni ella misma.
+
+**Qué hace en la columna.** Es la bisagra del capítulo *El armario* fundido con *Vacío* (Fase 1): del pánico de Kal a la sospecha. Por lo que cuenta Marisol, Kal revisa el auto y encuentra el sabotaje. Una sola espera: *¿fue accidente?* Después alimenta las noches de matón y los *Escenarios*. Es la primera huella de Manfred en el II, antes de las cartas.
+
+**PENDIENTE del autor:** si Marisol, que en libros posteriores trata al «señor Gabe», lo reconoce algún día (posible cobro en el IV, cuando se revela que fue él).

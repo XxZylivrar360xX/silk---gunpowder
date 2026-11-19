@@ -106,7 +106,7 @@ Obligaciones que deja el cierre de *Máscaras de Cristal* y que este libro tiene
 
 ---
 
-> **Huellas de Manfred (CANON DEL AUTOR, 2026-10-04):** Corrado, como Manfred Gabe, deja en este libro pocos rastros civiles que, en el cuadro grande, inclinan un resultado hacia Kal o Chiara. Nunca le ven la cara; nunca funcionan como pista de que vive. Reglas en [[02_Characters/Corrado_Ardizzone]], "La verdad". Registro de huellas: **1) las cartas de Dale** (Parte IV; CANON DEL AUTOR, 2026-10-14): Manfred le entrega a Kal las cartas que Dale le escribió desde la cárcel; primera aparición del nombre, sin cara; detonan Stavanger ([[11_Books/Book_02_Sombras_De_Poder/Part_04_Torna_A_Casa/00_Diseno_Cartas_De_Dale]]). Las demás, PENDIENTES.
+> **Huellas de Manfred (CANON DEL AUTOR, 2026-10-04):** Corrado, como Manfred Gabe, deja en este libro pocos rastros civiles que, en el cuadro grande, inclinan un resultado hacia Kal o Chiara. Nunca le ven la cara; nunca funcionan como pista de que vive. Reglas en [[02_Characters/Corrado_Ardizzone]], "La verdad". Registro de huellas: **0) el hospital** (feb A4, tras los frenos; DECISIÓN DEL AUTOR 2026-11-12, detalles 2026-11-18): Manfred, con sombrero y barba falsa, entra buscando a Chiara creyéndola herida y se encuentra con Marisol, sedada; ella se lo cuenta a Kal y alimenta su sospecha ([[11_Books/Book_02_Sombras_De_Poder/00_Columna_El_Caudillo]]). **1) las cartas de Dale** (Parte IV; CANON DEL AUTOR, 2026-10-14): Manfred le entrega a Kal las cartas que Dale le escribió desde la cárcel; primera aparición del nombre, sin cara; detonan Stavanger ([[11_Books/Book_02_Sombras_De_Poder/Part_04_Torna_A_Casa/00_Diseno_Cartas_De_Dale]]). Las demás, PENDIENTES.
 
 ## Estructura por Partes
 
