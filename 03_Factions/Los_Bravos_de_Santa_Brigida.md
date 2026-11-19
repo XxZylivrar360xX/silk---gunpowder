@@ -2,6 +2,8 @@
 
 *Ficha de Facción — banda menor del sur*
 
+> **DECISIÓN DEL AUTOR (2026-11-19), *Voto de Ceniza*:** con Dario preso, **asaltan Santa Lucía para Halbrook**: matan a Kenji, hieren a Chiara y se llevan el Lussia empapado en su sangre. Cobra el pacto de Chiara con Rafe (Libro I). Ya fueron el canal de Halbrook en el II (el rumor de la tormenta). Ver [[11_Books/Book_02_Sombras_De_Poder/00_Columna_El_Caudillo]], «El Lussia».
+>
 > **CANON DEL AUTOR (2026-11-07), Guerra de los Tres:** bando de Dario. Ver [[03_Factions/Mapa_de_Conflicto_Activo#Bandos en la Guerra de los Tres (*Voto de Ceniza*) — CANON DEL AUTOR (2026-11-07)]].
 
 **Qué es:** banda de protección, bares, cobros y músculo alrededor de Santa Brígida.  

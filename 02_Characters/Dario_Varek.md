@@ -30,6 +30,8 @@
 
 ---
 
+> **DECISIÓN DEL AUTOR (2026-11-19):** el Lussia, la joya que según él le dio nombre a su hija Lucía, era un diamante rojo de los Lusardi que se creía perdido; Dario se quedó con él y lo rebautizó. Cómo y cuándo: PENDIENTE. Ver [[11_Books/Book_02_Sombras_De_Poder/00_Columna_El_Caudillo]], «El Lussia».
+
 ## Quién es
 
 **Políticamente correcto y criminalmente despiadado.** Ésas son las dos mitades y no se contradicen: es un hombre de formas impecables cuya corrección es el instrumento con el que hace lo que hace. Nunca levanta la voz, nunca dice nada citable, nunca queda mal en una habitación.

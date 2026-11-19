@@ -33,6 +33,8 @@
 
 ---
 
+> **DECISIÓN DEL AUTOR (2026-11-18/19):** el Lussia era un diamante rojo de los Lusardi, perdido hace generaciones; Dario se quedó con él y lo rebautizó. En *Voto de Ceniza*, desde Italia, Tommaso ofrece comprárselo a Chiara y ayudarla; el vendedor intermediario filtra la cita a Halbrook. Ver [[11_Books/Book_02_Sombras_De_Poder/00_Columna_El_Caudillo]], «El Lussia».
+
 ## Quien es
 
 Tommaso Lusardi no necesita mencionar a Alessio para traerlo a la habitacion. Su apellido basta.
