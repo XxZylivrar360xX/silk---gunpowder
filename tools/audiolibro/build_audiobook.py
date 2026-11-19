@@ -220,7 +220,10 @@ async def synthesize(text: str, voice: str, rate: str, target: Path) -> None:
 def load_cover(book: str) -> bytes | None:
     """The book's cover as a small JPEG, or None if there is no cover yet."""
     stem = book.split("_", 2)[-1].lower()
-    found = [p for p in COVERS_DIR.glob("*.png") if p.stem.lower().startswith(stem + "_")]
+    # Front cover only: skip retired versions and the full 6x9 wrap (tapa).
+    found = sorted(p for p in COVERS_DIR.glob("*.png")
+                   if p.stem.lower().startswith(stem + "_")
+                   and "retirada" not in p.stem.lower() and "_tapa_" not in p.stem.lower())
     if not found:
         print(f"  sin portada para {book} en {COVERS_DIR.relative_to(VAULT_ROOT)}")
         return None
