@@ -197,7 +197,8 @@ Ya era canon en [[02_Characters/Corrado_Ardizzone]] (decisión del 2026-11-12, p
    > «Tómalo, y corre… Quizá todavía alcances a llegar a Santa Lucía.»
 
    Ahí Kal entiende que algo pasó en la iglesia. **Nadie hiere a Halbrook** (corrección del autor, 2026-11-18: el agente había leído mal). Santa Lucía ocurre en paralelo (CANON del III).
-4. **Aún más vil (idea del autor, 2026-11-18):** la banda leal a Halbrook que asalta la iglesia, hiere a Chiara y mata a Kenji deja el Lussia para que se manche con la sangre de Chiara. **Por confirmar con el autor** cómo se concilia con el punto 3: la lectura del agente es que la piedra que Halbrook arroja en la montaña ya viene manchada con la sangre de Chiara, y por eso Kal entiende sin que nadie se lo diga.
+4. **Aún más vil (idea del autor, 2026-11-18):** la banda leal a Halbrook que asalta la iglesia, hiere a Chiara y mata a Kenji deja el Lussia para que se manche con la sangre de Chiara. **Conciliado (DECISIÓN DEL AUTOR, 2026-11-18):** la piedra que Halbrook arroja en la montaña **ya viene llena de la sangre de Chiara**. Para que tenga sentido antes: **Chiara logró recuperar el Lussia y le dijo a Kal que lo tenía**; horas después, Halbrook se lo arroja con sangre, en la cara, sabiendo quién lo tenía.
+   - **Propuesta del agente (resuelve el PENDIENTE del III «motivo exacto de la presencia de Chiara y Kenji en Santa Lucía»):** la recuperación es el anzuelo de Halbrook. A Chiara le llega que el Lussia está a la venta y que la entrega es en Santa Lucía; va con Kenji a comprarlo para borrar la única prueba de que Kal hizo Lunar Pearl (como borró la grabación en el I). Lo consigue, llama a Kal: lo tiene. Esa misma noche la banda de Halbrook asalta la iglesia, mata a Kenji, le da dos tiros y se lleva la piedra empapada. Ella cree que ganó; era la cita que Halbrook le puso.
 5. **Kal está solo esa noche (DECISIÓN DEL AUTOR, 2026-11-18; todo organizado por Halbrook y al mismo tiempo):**
    - **Nadir** se queda varado en el norte: gente de Halbrook le desbiela el motor del Taurus, y no puede llegar a la ciudad ni moverse.
    - **Ren y Tyler** reciben una golpiza de una pandilla de enmascarados.
@@ -218,9 +219,10 @@ Ya era canon en [[02_Characters/Corrado_Ardizzone]] (decisión del 2026-11-12, p
 | Abr A4, F2 | Los Calderos → Crowe (CANON: se lo llevan) | Crowe tiene la joya de Dario: la corona del caudillo |
 | Antes de la tormenta (propuesta) | Crowe → Halbrook | Crowe se la entrega a la gente de Halbrook como prueba de que puede ocupar la silla de Dario. Halbrook se la queda y decide soltarlo: le da a la filtración por los Bravos un detonante concreto |
 | Libro III | Halbrook | Lo guarda todo el libro |
-| Libro III, Santa Lucía (idea del autor, por conciliar) | En la iglesia, en la sangre de Chiara | La banda de Halbrook la deja manchar |
+| Libro III, antes de Santa Lucía (propuesta) | Halbrook → a la venta, como anzuelo | Chiara lo recupera y le dice a Kal que lo tiene (CANON) |
+| Libro III, Santa Lucía (CANON) | En la iglesia, en la sangre de Chiara | La banda de Halbrook se la lleva manchada |
 | Libro III, la montaña (CANON) | Arrojado junto al cadáver de Héctor, frente a Kal | «Tómalo, y corre…» |
 
 **Lo que dice la piedra en la montaña:** que el robo, la enemistad con Varek, la muerte de Mei y la de Héctor pasaron por la misma mano. Kal no necesita que se lo expliquen.
 
-**PENDIENTE del autor:** cómo se concilian la piedra en la iglesia y la piedra en la montaña; si Kal recoge la piedra y qué hace con ella; si Varek llega a saber, antes de su arresto en el III, quién le robó el Lussia.
+**PENDIENTE del autor:** si la recuperación es el anzuelo (propuesta); si Kal recoge la piedra y qué hace con ella; si Varek llega a saber, antes de su arresto en el III, quién le robó el Lussia.
