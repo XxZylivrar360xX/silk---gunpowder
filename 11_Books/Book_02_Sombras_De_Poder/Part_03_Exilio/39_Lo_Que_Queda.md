@@ -15,7 +15,7 @@ personajes: Chiara Bellandi, Bonnie García, Kal Mercer; en el entierro, Nadir, 
 >
 > **CANON citado literal:** «—Lo siento, ¿vale?» / «—No te martirices. Hiciste lo que debías hacer.» y el beso en la frente (DECISIÓN DEL AUTOR, 2026-11-12: se quedan con otro sentido y sin reescribirse); «Iba a decirle que sin importar lo que tuvo que hacer, era de los míos.» (CANON DEL AUTOR, 2026-11-13; ortografía normalizada). **CANON (hechos):** el forro de la camioneta lleno de sangre, después del entierro; nadie dice nada. Kal vuelve a la Villa y encuentra a Chiara rota en el suelo con la foto de la cena de Navidad. Kal no llora en todo el arco hasta decir esa línea. **DECISIONES DEL AUTOR (2026-11-13):** el corazón del capítulo es la plática de la tarde después del entierro: Chiara todavía le habla de planes y Bonnie le revela que no va a quedarse; en la misma plática le cuenta la traición de Meiko y que Kal la calló. Bonnie se va después del entierro. POV de Chiara. **DISEÑO del agente:** la casa de la reja verde con las cosas de Meiko; los folletos; la lata del centro que Bonnie aparta; «Pedí una ambulancia» como razón de Bonnie; que la foto esté en la repisa de mármol desde enero (el 57 la encuentra ahí); la tierra en las manos de Kal; que Kal le diga «amore» a nada.
 >
-> **AJUSTE AL F2 REHECHO (2026-11-19; prosa del agente, BORRADOR):** Chiara estuvo en la destilería (el brazo que sostuvo el suero); el forro es el del asiento de atrás de la camioneta de Walt, y quien no se acerca es Bonnie; Bonnie le pidió la ambulancia a Chiara por teléfono y Mei dijo que no; Mei le contó la filtración a Bonnie esa noche (antes, Nadir); la luz del pasillo sigue prendida («Cuando vuelvas, apágala», 38); Bonnie menciona el calentador sin saber qué había (el Lussia no se nombra).
+> **AJUSTE AL F2 REHECHO (2026-11-19; prosa del agente, BORRADOR):** Chiara estuvo en la destilería (el brazo que sostuvo el suero); el forro es el del asiento de atrás de la camioneta de Walt, y quien no se acerca es Bonnie; Bonnie le pidió la ambulancia a Kal por el radio y Mei dijo que no; Kal llamó a Chiara (ajuste del 2026-11-19, cuarta ronda); Mei le contó la filtración a Bonnie esa noche (antes, Nadir); la luz del pasillo sigue prendida («Cuando vuelvas, apágala», 38); Bonnie menciona el calentador sin saber qué había (el Lussia no se nombra).
 >
 > **Guarda:** el narrador no explica el «lo siento» ni la absolución. Nadie nombra la regla. Que Chiara sabe lo que Kal calló queda debajo, sin decirse. Nada de la propia cuota de Chiara en voz alta: sólo en su cabeza, una vez.
 
@@ -142,11 +142,11 @@ Chiara levantó la vista.
 
 Bonnie no se había movido. Estaba de pie junto a la mesa de la cocina, junto al teléfono apagado, y hablaba en el orden en que habían pasado las cosas, con pausas cortas, como contaba siempre.
 
-—Se la pedí a usted. Por teléfono. —Una pausa—. Usted dijo que la iba a llamar, y Mei dijo que no, y usted le hizo caso. Después se la pedí a todos, en la destilería. Se la pedí a Kal. Nadie llamó.
+—Se la pedí a Kal. Por el radio. —Una pausa—. Mei dijo que no, y él le hizo caso, y le habló a usted. Después se la pedí a todos, en la destilería. A usted también. Nadie llamó.
 
 —Bonnie…
 
-—No la culpo. —Lo dijo de inmediato, antes de que Chiara pudiera decir otra cosa—. Sé por qué. La casa es de Kal. Nadie del Patio llega a un hospital con una herida así sin que alguien pregunte de dónde. Lo sabía Mei. Ella dijo que no. —Bajó la vista, por primera vez, al suelo, a los tenis de la entrada—. Pero la doctora dijo que hacía media hora era un hospital. Yo la oí. Y si me quedo, un día voy a ser yo la que no llama. Y no quiero.
+—No los culpo. —Lo dijo de inmediato, antes de que Chiara pudiera decir otra cosa—. Sé por qué. La casa es de Kal. Nadie del Patio llega a un hospital con una herida así sin que alguien pregunte de dónde. Lo sabía Mei. Ella dijo que no. —Bajó la vista, por primera vez, al suelo, a los tenis de la entrada—. Pero la doctora dijo que hacía media hora era un hospital. Yo la oí. Y si me quedo, un día voy a ser yo la que no llama. Y no quiero.
 
 Chiara no dijo nada. No había nada en el segundo párrafo para eso.
 
