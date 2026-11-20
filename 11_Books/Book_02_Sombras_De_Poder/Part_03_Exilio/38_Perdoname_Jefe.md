@@ -21,6 +21,7 @@ hito: F2 — la muerte de Meiko
 > **DISEÑO del agente:** ~~los dos hábitos de Mei como trampa del muchacho; ella se pega a la pared para dejarlo pasar; el calentador de la casa de las chicas~~ (SUPERADO, quinta ronda); la luz del pasillo y la doble llave como hábitos sin explicar; Mei confiesa a Bonnie lo de Lunar Pearl («Les dije que fuimos nosotros. Que yo manejaba.»); la linterna que se detiene donde está la estufa vieja; Nadir: «Khoya. ¿Por una casa?» y Kal no contesta; Mei, que deja pasar cuando es para ella, no deja pasar al que le robó a Héctor (sin decirse); «Se me fue»; «No. Tú sácalos»; «Saco a los muchachos y voy»; «Dijiste que te rozó. No te rozó.»; la patrulla en sentido contrario; «¿Tienes fiebre?» y «Cuando vuelvas, apágala»; Camila: «Hace media hora era un hospital. Ahora es esto.»; Chiara ya armando la versión; Nadir le da a Mei el radio de Bonnie, que se quedó en el cargador («Escucha. No hables.»); esa noche faltan dos de los coches de salida y Nadir lleva la de atrás; el tope antes del poste, el dato de Mei que Nadir usa para sacar a todos y que ella oye por el radio; Kal pregunta en ráfaga, rompe el protocolo, pasa a Bonnie al canal tres y le deja el botón apretado para que oiga la llamada; «Se arregla»; el desechable de la llamada de después (el único teléfono que sale a una operación, con un solo número, marcado de memoria); sale con el último; «¿Frenaron antes del poste?». **Por revisar al propagar:** que el corralón quede cortado a medias (la esquina de Canal Seco) en los capítulos siguientes.
 >
 > **Guardas:** ~~nada en la página sugiere que la filtración de Mei la mató~~ (retirada, DECISIÓN DEL AUTOR 2026-11-19: la cadena confesión → mudanza → robo queda a la vista del lector desde el 37, pero ningún personaje la dice); el Lussia no se nombra y por el radio nadie dice qué hay en casa de Héctor (Kal no revisa el escondite hasta después del funeral, DECISIÓN DEL AUTOR 2026-11-19); el muchacho no tiene nombre ni cara; los Calderos no se nombran en la casa.
+> **LECTURA EXTERNA (2026-11-19, ocho observaciones; prosa del agente, BORRADOR, espera lectura):** (2) Antes de bajar del porche, Bonnie le ve a Mei la cara de hacer la cuenta (la cerca vacía, el radio, el muchacho); la persecución nace de «Te lo voy a pagar», sin heroísmo. (3) En la esquina espera un coche sin luces con una sola calavera, la derecha (el del martes, 37); no se detiene por el muchacho. (4) En la destilería la doctora pide sangre y ofrece llevarla a urgencias; Mei dice que no con la cabeza, Bonnie dice que sí, y **Chiara decide: «Aquí»** (DISEÑO; alternativa: que Chiara difiera a Kal). Gasa a presión añadida a la técnica. (7) Fuera «Kal no lloró.»
 -->
 
 # Perdóname, jefe
@@ -205,15 +206,19 @@ Y por el pasillo de tierra entre las dos casas, del lado de la calle, salió cor
 
 Era un muchacho. Bonnie lo vio entero un segundo, debajo del farol: más chico que Mei, flaco, con una sudadera oscura y la capucha puesta, la cara en sombra. Se había quedado en la puerta de enfrente, vigilando la calle, y los suyos se habían ido por atrás sin él, y había salido por el único lado que le quedaba, hacia la luz, hacia ellas.
 
+Mei lo miró. Bonnie la vio mirar la cerca del fondo, donde ya no había nadie; el radio en su mano, lleno de motores que estaban lejos; y otra vez al muchacho. Le conocía esa cara. Era la de hacer la cuenta antes de una ruta, la que Mei ponía en el coche de salida con el motor prendido. La vio cerrarle.
+
 Mei bajó del porche.
 
-No lo pensó. Bonnie se lo vio en el cuerpo, como se lo había visto cien veces al bajarse del coche de salida cuando alguien no llegaba. El muchacho la vio y torció hacia la calle, y Mei cortó por el jardín y lo alcanzó en la reja, debajo del farol, y lo agarró del brazo.
+Bajó como se bajaba del coche de salida cuando alguien no llegaba: sin cerrar la puerta. El muchacho la vio y torció hacia la calle, y Mei cortó por el jardín y lo alcanzó en la reja, debajo del farol, y lo agarró del brazo.
 
 Fue un segundo. Menos. Él se dio vuelta con el brazo agarrado, y la otra mano le subió y le bajó una sola vez, rápido, de abajo hacia arriba, casi sin fuerza, como quien empuja una puerta para abrirse paso. Algo brilló bajo el farol. Bonnie vio el mango: pintado, con flamas verdes.
 
 Mei hizo un ruido. «Ah.» Como cuando uno pisa un escalón que no estaba. Y lo soltó.
 
 El muchacho se fue calle abajo, y Bonnie lo oyó hasta la esquina. No los pasos: otra cosa. Un ruido de garganta, cortado, el de alguien que llora mientras corre. «No, no, no», decía, o algo así, a nadie.
+
+En la esquina arrancó un coche que Bonnie no había visto, con las luces apagadas. No se detuvo por él. Al doblar frenó, y se le prendió atrás una sola luz roja, la derecha.
 
 Después no se oyó nada más que los perros, y el radio en la mano de Mei, todavía con todo el volumen, lleno de motores.
 
@@ -443,7 +448,7 @@ La pusieron en los sacos. La doctora se arrodilló, cortó la mezclilla con unas
 
 —Femoral —dijo.
 
-Le sacó la correa de trinquete como quien quita una cosa que estorba y puso en su lugar otra cosa, una banda negra con una varilla, más arriba, en un lugar donde Bonnie no había sabido que hubiera más arriba. Giró la varilla. Mei gritó, por primera vez en toda la noche, un grito corto que rebotó en el techo alto y en las barricas. La doctora siguió girando.
+Le metió gasa en la herida, a presión, con dos dedos, y siguió metiendo. Le sacó la correa de trinquete como quien quita una cosa que estorba y puso en su lugar otra cosa, una banda negra con una varilla, más arriba, en un lugar donde Bonnie no había sabido que hubiera más arriba. Giró la varilla. Mei gritó, por primera vez en toda la noche, un grito corto que rebotó en el techo alto y en las barricas. La doctora siguió girando.
 
 —Tú —le dijo a Bonnie, sin mirarla—. Aquí. Las dos manos. Con el peso.
 
@@ -469,9 +474,31 @@ La doctora no contestó. Siguió trabajando. Después, sin levantar la vista de 
 
 —¿Cuánto tiempo tenemos? —preguntó Chiara.
 
-—Hace media hora era un hospital. —La doctora volvió a ajustar la varilla—. Ahora es esto.
+—Hace media hora era un hospital. —La doctora volvió a ajustar la varilla—. Ahora es esto. Necesita sangre, y yo no traigo sangre.
 
-Chiara no dijo nada. Sostuvo la bolsa más alto.
+Levantó la vista por primera vez, hacia Chiara.
+
+—Urgencias está a doce minutos. Si me dice que sí, la subimos a la camioneta y voy con ella. No sé si llega. Aquí no llega.
+
+Chiara miró a Mei.
+
+Mei tenía los ojos abiertos. Había oído. Movió la cabeza contra los sacos, una vez, apenas, de un lado al otro.
+
+—Sí —dijo Bonnie—. Dígale que sí.
+
+Nadie le contestó. Chiara miró hacia la puerta grande, hacia la grava, donde todavía no se oía ninguna camioneta. Walt esperaba junto a la puerta con las llaves en la mano.
+
+—Señora —dijo Bonnie.
+
+Chiara bajó la vista a la doctora.
+
+—Aquí —dijo.
+
+La doctora la sostuvo con los ojos un segundo. Después volvió a la pierna.
+
+—Entonces no me pregunte después si llegaba.
+
+Chiara sostuvo la bolsa más alto.
 
 ***
 
@@ -547,9 +574,7 @@ Chiara le puso una mano en la espalda. Bonnie no se volteó. Tenía la mano de M
 
 ***
 
-Kal no lloró.
-
-Bonnie lo vio después, cuando pudo ver otra cosa. Se había levantado y estaba de pie junto a los sacos, mirando a Mei, con la cara de siempre, la de las mañanas en el taller, la de cuando un motor no tenía arreglo y había que decírselo al dueño. Estuvo así un rato. Luego se agachó, le cerró los ojos con dos dedos y se volvió a levantar.
+Bonnie vio a Kal después, cuando pudo ver otra cosa. Se había levantado y estaba de pie junto a los sacos, mirando a Mei, con la cara de siempre, la de las mañanas en el taller, la de cuando un motor no tenía arreglo y había que decírselo al dueño. Estuvo así un rato. Luego se agachó, le cerró los ojos con dos dedos y se volvió a levantar.
 
 Y empezó a dar órdenes.
 

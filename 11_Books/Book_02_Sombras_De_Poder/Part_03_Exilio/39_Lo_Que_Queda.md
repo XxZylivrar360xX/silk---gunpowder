@@ -22,6 +22,7 @@ personajes: Chiara Bellandi, Bonnie García, Kal Mercer; en el entierro, Nadir, 
 > **VALET (2026-11-15, revisión externa; canon de valet del autor; prosa DISEÑO, espera lectura):** «Sirviendo» → «Desde la rampa»; las charolas de plata pasan a las llaves del Lancia y a la calificación de valet del Libro I («propina de veinte, trato de dos»): lo que Meiko le susurraba a Chiara era lo mismo que veía para Varek. Arco: [[11_Books/00_Arco_Meiko_Nakano]].
 
 > **ENTRADA TEMPRANA (2026-11-15, revisión externa):** «En un año» → «En año y medio» (Bonnie llega en noviembre A2, Libro I cap. 35).
+> **LECTURA EXTERNA (2026-11-19, ocho observaciones; prosa del agente, BORRADOR, espera lectura):** (5) La camioneta: Walt le abre la puerta de atrás a Marisol, por las muletas; había tapado el asiento con una cobija porque el forro nuevo no llegaba, y la cobija se corrió en las curvas (lo sabían Walt y Bonnie). (4) Bonnie: «se la pedí a usted»; la doctora le ofreció la camioneta a Chiara. (6) Tras «Hiciste lo que debías hacer», la mano de Chiara al hombro derecho (el de la bolsa de suero): no es absolución completa; también se lo dice a sí misma. (7) Poda: «No había llorado», «No arregló nada», la explicación del llanto y las frases finales sobre lo que Chiara sabe. Queda pendiente el pulido de diálogos del 39 con el autor.
 -->
 
 # Lo que queda
@@ -52,13 +53,15 @@ Los trabajadores se detuvieron. Kal se quitó la chaqueta, se la dio a Héctor, 
 
 Tardaron mucho. Chiara no se movió. Kal no soltó la pala ni una vez. Cuando el hoyo estuvo lleno, aplanó la tierra con el revés, dos veces, con cuidado, como se aplana el cemento fresco de una acera, y le devolvió la pala al trabajador.
 
-No había llorado. Chiara lo había mirado todo el tiempo. Tenía tierra hasta los codos y la camisa pegada a la espalda, y la cara de siempre.
+Chiara lo había mirado todo el tiempo. Tenía tierra hasta los codos y la camisa pegada a la espalda, y la cara de siempre.
 
 ***
 
 El forro lo vieron al salir.
 
-La camioneta de Walt estaba estacionada en la calle, frente a la reja, y Walt abrió la puerta de atrás para meter las palas que no eran del cementerio, las que habían traído del taller por si acaso. Abrió la puerta y se quedó quieto.
+La camioneta de Walt estaba estacionada en la calle, frente a la reja. Walt se había ofrecido a llevar a Marisol, por las muletas, y le abrió la puerta de atrás. Abrió y se quedó quieto, con la mano en la manija.
+
+En la mañana había echado encima del asiento una cobija de cuadros, metida por las orillas; el forro nuevo no llegaba hasta el lunes. En las curvas de Calle Corona la cobija se había corrido hasta el piso.
 
 Chiara estaba a unos pasos, con Marisol. Lo vio por encima del hombro de Walt.
 
@@ -70,7 +73,7 @@ Chiara no miró el forro. Miró las caras. Danny, que apretó la boca y se dio v
 
 No eran caras de quien ve sangre. Esos muchachos habían visto sangre. Eran caras de quien abre la puerta del cuarto de alguien de la casa y encuentra la cama hecha.
 
-Walt metió las palas encima del forro, con cuidado, sin que tocaran la mancha, y cerró la puerta.
+Walt levantó la cobija del piso y la volvió a meter por las orillas, despacio, sin tocar la mancha. Cerró la puerta de atrás y le abrió a Marisol la de adelante.
 
 ***
 
@@ -142,11 +145,11 @@ Chiara levantó la vista.
 
 Bonnie no se había movido. Estaba de pie junto a la mesa de la cocina, junto al teléfono apagado, y hablaba en el orden en que habían pasado las cosas, con pausas cortas, como contaba siempre.
 
-—Iba a llamarla yo. Del mío. —Una pausa—. Mei me agarró la mano y dijo que no. Después se la pedí a todos, en la destilería. A usted también. Nadie llamó.
+—Iba a llamarla yo. Del mío. —Una pausa—. Mei me agarró la mano y dijo que no. Después, en la destilería, se la pedí a usted. Y a todos. Nadie llamó.
 
 —Bonnie…
 
-—No los culpo. —Lo dijo de inmediato, antes de que Chiara pudiera decir otra cosa—. Sé por qué. La policía ya venía, por lo de al lado. Nadie del Patio llega a un hospital con una herida así sin que alguien pregunte de dónde. Lo sabía Mei. Ella dijo que no. —Bajó la vista, por primera vez, al suelo, a los tenis de la entrada—. Pero la doctora dijo que hacía media hora era un hospital. Yo la oí. Y si me quedo, un día voy a ser yo la que no llama. Y no quiero.
+—No los culpo. —Lo dijo de inmediato, antes de que Chiara pudiera decir otra cosa—. Sé por qué. La policía ya venía, por lo de al lado. Nadie del Patio llega a un hospital con una herida así sin que alguien pregunte de dónde. Lo sabía Mei. Ella dijo que no. —Bajó la vista, por primera vez, al suelo, a los tenis de la entrada—. Pero la doctora le dijo a usted que todavía la podía subir a la camioneta. Yo la oí. Y si me quedo, un día voy a ser yo la que no llama. Y no quiero.
 
 Chiara no dijo nada. No había nada en el segundo párrafo para eso.
 
@@ -248,11 +251,13 @@ Kal se quedó en la entrada un rato largo. Después entró. Se arrodilló delant
 
 Lo dijo bajito. Sin fondo. Mirando la foto, no a ella.
 
-Chiara levantó la vista. Lo miró. Supo, mirándolo, todo lo que sabía desde las cuatro de la tarde: la semana, el hipódromo, el «después», la noche en que no la dejó ir, el «Bien, están bien» hacia el techo. Supo que él no sabía que ella lo sabía. Lo tuvo en la boca, entero, como una cifra, y lo dejó ahí.
+Chiara levantó la vista. Lo miró. Tenía en la boca todo lo de las cuatro de la tarde: el hipódromo, el «después», la noche en que no la dejó ir. Lo dejó ahí.
 
 —No te martirices. Hiciste lo que debías hacer.
 
-Kal cerró los ojos. Se inclinó hacia ella y le dio un beso en la frente. Se quedó así, con los labios contra su frente, un momento largo. No arregló nada.
+Se le había ido la mano al hombro derecho, al que le dolía desde la destilería. La bajó.
+
+Kal cerró los ojos. Se inclinó hacia ella y le dio un beso en la frente. Se quedó así, con los labios contra su frente, un momento largo.
 
 Después se sentó a su lado, en el suelo, con la espalda contra el sillón, hombro con hombro. Chiara le pasó la foto. Él la sostuvo con las dos manos, con la tierra en los nudillos, sobre las rodillas.
 
@@ -268,11 +273,11 @@ Se detuvo. Chiara esperó.
 
 Y entonces lloró.
 
-No lo anunció. Empezó con los hombros. Chiara lo sintió antes de verlo, contra su propio hombro, un temblor que subía de algún lugar muy hondo y que él estaba aguantando y que ya no se podía aguantar. Después le salió el aire de golpe, roto, y se dobló sobre la foto, sobre las rodillas, con la cara entre las manos y la tierra del cementerio en las manos, y lloró como Chiara no lo había visto llorar nunca, ni en la noche de Michael, con un ruido que no tenía palabras y que no se detenía.
+No lo anunció. Empezó con los hombros. Chiara lo sintió antes de verlo, contra su propio hombro, un temblor que él estaba aguantando y que ya no se podía aguantar. Después le salió el aire de golpe, roto, y se dobló sobre la foto, con la cara entre las manos y la tierra del cementerio en las manos, con un ruido que no tenía palabras y que no se detenía.
 
 Chiara lo abrazó. Le rodeó la espalda con los dos brazos y apoyó la cara en su nuca, y lo sostuvo así, doblado, con la foto aplastada entre sus rodillas y su pecho.
 
-Ella ya lo sabía. Lo de enero, lo de la plática, lo de la ventanilla. Lo había sabido toda la tarde y lo había cargado sola hasta la repisa de la chimenea, y ahora lo tenía contra la boca, en la nuca de él, y no lo dijo. Iban a decidir después del corralón. Y él ya había decidido.
+Lo de enero, lo de la plática, lo de la ventanilla: lo tenía contra la boca, en la nuca de él. No lo dijo.
 
 —Amore —dijo Chiara, contra su pelo. Sólo eso. No supo a quién se lo decía.
 

@@ -4,7 +4,7 @@ El detalle se guarda una sola vez en notas de sesión. Este archivo es navegaci�
 
 ## Sesiones recientes
 
-- 2026-11-19: DECISIÓN DEL AUTOR: Halbrook manda el robo de la casa de Héctor (dato del Tasador, vigilancia de las casas) y se queda el Lussia; Varek lo sigue dando por perdido; Kal sospecha de Crowe. Venta del III por el joyero de Crowe; Kal cierra la venta a Tommaso tras la montaña (dinero para Elenna); Dario compró la piedra sabiendo que era de los Lusardi. Cadena de custodia: [[11_Books/00_Cadena_De_Custodia_Lussia]].
+- 2026-11-19: DECISIÓN DEL AUTOR: Halbrook manda el robo de la casa de Héctor (dato del Tasador, vigilancia de las casas) y se queda el Lussia; Varek lo sigue dando por perdido; Kal sospecha de Crowe. Venta del III por el joyero de Crowe; Kal cierra la venta a Tommaso tras la montaña (dinero para Elenna); Dario compró la piedra sabiendo que era de los Lusardi. Cadena de custodia: [[11_Books/00_Cadena_De_Custodia_Lussia]]. Lectura externa en 37–39 (DISEÑO): Kal deja fuera a Mei tras la carrera; coche de una sola calavera; Chiara decide «Aquí» en la destilería.
 
 - 2026-11-19: DECISIONES DEL AUTOR: Meiko filtró Lunar Pearl (no sólo la rampa); primer roce Kal–Varek; el Lussia pasa a casa de Héctor y el robo de F2 es ahí; 37–39 reescritos en BORRADOR: [[98_Agent_Handoff/sessions/2026-11-19_claude_filtracion_lunar_pearl]].
 

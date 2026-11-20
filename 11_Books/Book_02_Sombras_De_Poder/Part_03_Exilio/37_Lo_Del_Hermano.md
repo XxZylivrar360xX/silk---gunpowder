@@ -24,6 +24,7 @@ personajes: Kal Mercer, Dario Varek, Nadir Amrani, Héctor Navarro, Meiko Nakano
 > **FILTRACIÓN REHECHA (DECISIÓN DEL AUTOR, 2026-11-19, sobre propuestas del agente que el autor aprobó):** lo de la rampa y la sesión de tiros no basta para que Kal lo considere filtración propia. Lo que Mei filtró, coaccionada, es que **Lunar Pearl fue el Patio**: en marzo le preguntan si ella manejaba y dice que sí. La rampa queda como el primer paso, con el que la engancharon; Lunar Pearl, lo que le sacaron cuando dejaron de cobrarle el dinero. Es el **primer roce entre Kal y Varek**: Varek suelta un dato que sólo sabía quien iba en el coche («la vuelta de más a la punta») y le pide la piedra «sin preguntas»; Kal niega. **Por qué Varek no lo mata** (Héctor lo dice en página): un muerto no devuelve nada; quiere su piedra, no a Kal; mientras no la tenga, Kal está vivo, «y ella también». **Kal muda el Lussia** de la casa de las chicas (donde vive Mei, el primer lugar donde buscarían) a la de **Héctor, al lado**: para llevarlo no pisa la calle; nadie mira la casa de al lado, miran la de la luz prendida; nadie le roba a un viejo. La estufa de leña de Héctor, «desde que se fue ella». Héctor: «En la casa de las niñas. Muchacho.» y «No me digas cuándo». Un coche pasa despacio la noche de la mudanza (siembra; no se explica). **Se retira la guarda** «nada sugiere que el soplo de Mei la mató»: la cadena confesión → mudanza → robo queda a la vista del lector, sin que nadie la diga. **DISEÑO:** la vuelta de más (Mei la decidió sola porque Harper no había dado la señal) se siembra en el cap. de Lunar Pearl al redactarlo; Chiara no sabía el plan, así que no es la fuente.
 >
 > **ENTRADA TEMPRANA (2026-11-15, revisión externa):** «un año» → «casi dos años»; «donde la había visto sentada la primera vez» → «tantas mañanas» (la primera vez fue en la banqueta, sobre el Camaro, Libro I cap. 22). Arco: [[11_Books/00_Arco_Meiko_Nakano]].
+> **LECTURA EXTERNA (2026-11-19, ocho observaciones; prosa del agente, BORRADOR, espera lectura):** (1) Kal cambia de decisión después de la carrera: saca de la caja el chaleco y el radio de Mei, sin decirlo (en el 38, ella lo lee como castigo; el lector sabe que es para protegerla). (3) El coche del martes tiene una calavera fundida, la izquierda: es el mismo que espera en la esquina la noche del robo (38). Vínculo verificable traslado → vigilancia; se cobra después (cadena del Lussia).
 -->
 
 # Lo del hermano
@@ -406,7 +407,7 @@ Héctor no había mirado la estufa ni una vez.
 
 —No me digas.
 
-Kal salió por donde había entrado. En la calle, un coche pasó despacio, con las luces bajas, y dio la vuelta en la esquina. Kal esperó en la sombra de la cerca hasta que el ruido del motor se perdió, y se perdió.
+Kal salió por donde había entrado. En la calle, un coche pasó despacio, con las luces bajas. Al dar la vuelta en la esquina frenó, y Kal le vio las calaveras: una sola prendida, la derecha. Kal esperó en la sombra de la cerca hasta que el ruido del motor se perdió, y se perdió.
 
 ***
 
@@ -511,3 +512,13 @@ Las luces de la grúa aparecieron al final de Calle Corona. Kal vio el reloj otr
 Héctor se rió por la nariz, una vez, y fue a enganchar el coche.
 
 Ella se fue en la cabina de la grúa, con Héctor. Kal los siguió en el Peugeot todo el camino de regreso, por Calle Corona y por la Almendra, detrás del Camaro que iba arriba de la plataforma con la nariz levantada, como un caballo que no había querido entrar a la recta. No lo rebasó en ningún momento. Había lugar. No lo rebasó.
+
+***
+
+Cuando la grúa se fue, Kal no entró al taller. Caminó a la casa común.
+
+La caja de los chalecos estaba en la mesa larga, lista para el jueves, y los radios en su cargador, en fila, cada uno con su cinta en la antena. Kal sacó del cargador el de la cinta roja. Después buscó en la caja el chaleco chico, el que tenía MEI en la etiqueta, escrito con plumón en las letras torcidas de Tyler, y lo sacó también.
+
+Los puso en el anaquel de arriba, detrás de los botes de café, donde nadie buscaba nada.
+
+Se quedó un rato de pie junto a la mesa, con la caja abierta. Después contó los chalecos que quedaban, como los contaba siempre, y cerró la caja.

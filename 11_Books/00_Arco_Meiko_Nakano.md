@@ -202,5 +202,17 @@ Sustituye la puesta en escena de F2 en [[11_Books/Book_02_Sombras_De_Poder/Part_
 
 Detalle de la sesión: [[98_Agent_Handoff/sessions/2026-11-19_claude_filtracion_lunar_pearl]].
 
+**Lectura externa (2026-11-19; ocho observaciones aplicadas en 37–39 como DISEÑO, espera lectura del autor):**
+
+- **Mei fuera de la operación (37→38):** después de la carrera Kal saca de la caja el chaleco y el radio de Mei, sin decirlo. La deja fuera para protegerla; ella lo lee como castigo («Por eso»). Ninguno de los dos se entera de lo que pensó el otro.
+- **La persecución (38):** Bonnie le ve a Mei la cara de hacer la cuenta antes de bajar del porche. Nace de «Te lo voy a pagar», no de heroísmo; la herida sigue siendo accidental.
+- **¿Cómo supieron? (37–38):** el coche de una sola calavera (ver [[11_Books/00_Cadena_De_Custodia_Lussia]]).
+- **El hospital (38):** la doctora pide sangre y ofrece urgencias; Mei dice que no con la cabeza, Bonnie dice que sí, y **Chiara decide: «Aquí»** (DISEÑO; alternativa: que difiera a Kal y nadie decida). Por eso en el 39 Bonnie le dice «se la pedí a usted», y el «Hiciste lo que debías hacer» también se lo dice Chiara a sí misma (la mano al hombro de la bolsa de suero).
+- **La camioneta (39):** la cobija que se corrió en las curvas; Walt le abre a Marisol.
+- **Poda (38–39):** fuera «Kal no lloró», «No había llorado», «No arregló nada» y las glosas sobre lo que Chiara sabe. El llanto en la Villa queda intacto.
+- **Para la última edición:** proteger a la Mei competitiva y burlona de *Las latas* y de la carrera; no sumar más gestos de despedida.
+- **El centro del arco (lectura externa, para cuidarlo):** Kal promete que lo que se comparte se arregla, pero guarda, posterga («después») y carga solo; Mei hace lo mismo. Se parecen más de lo que alcanzan a ver. Cada decisión debe parecer inevitable para el personaje aunque el desenlace fuera evitable.
+- **Pendiente con el autor:** pulir los diálogos del 39 para que los dos reconozcan, entre el dolor, que perdieron a alguien amado.
+
 **Abierto:** ajustes del 39 (Chiara estuvo en la destilería).
 
