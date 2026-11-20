@@ -340,6 +340,12 @@ Marisol estaba sentada en un banco de la isla, con una copa de vino que nadie m�
 
 Marisol le tiró una cáscara de ajo a la espalda. Bonnie no se la quitó.
 
+—Chiara —dijo, todavía de espaldas—. Esto hace burbujas nada más de un lado. ¿Le bajo o así va?
+
+—Así va. Muévele por abajo.
+
+Bonnie le movió por abajo.
+
 En el horno había dos bandejas grandes de algo que tenía pasta en forma de anillos, carne, arvejas y una costra dorada encima, y en la barra, sobre papel de estraza, decenas de bolas doradas del tamaño de un puño, ya fritas, enfriándose en filas. Junto a ellas, en una rejilla, había una rosca grande, oscura, con cortes en la superficie y algo de fruta confitada encima, que olía a higo y a una especia que él no sabía nombrar. Kal agarró una de las bolas. Chiara le pegó en la mano con la cuchara de palo antes de que la levantara del papel, sin voltear, como si tuviera ojos en la nuca.
 
 —Ésas son contadas.

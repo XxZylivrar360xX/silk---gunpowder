@@ -12,7 +12,7 @@ Taller y calle: bomba, batería, capó, rampa, estacionamiento subterráneo, pla
 
 ## Lo que nunca dice
 
-No se disculpa por el orden en que hizo las cosas («Ya se lo dije a Kal.»). No presume lo que hizo bien («Lo perdí», sin orgullo). No adorna el miedo ni lo nombra. No le habla de *tú* a Chiara. No promete: informa.
+No se disculpa por el orden en que hizo las cosas («Ya se lo dije a Kal.»). No presume lo que hizo bien («Lo perdí», sin orgullo). No adorna el miedo ni lo nombra. No le habla de *usted* a Chiara en el Libro II (siembra natural en el 20a, la cocina de la Villa: «Chiara… ¿Le bajo o así va?»). No promete: informa.
 
 ## Comportamiento físico al hablar
 

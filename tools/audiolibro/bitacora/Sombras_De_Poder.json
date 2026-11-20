@@ -11,10 +11,10 @@
     "20a_Una_Noche_De_Mudanza.md": {
       "capitulo": 20,
       "titulo": "Una noche de mudanza",
-      "estado": "AL DIA",
-      "motivo": "",
+      "estado": "PENDIENTE",
+      "motivo": "cambió la prosa",
       "audio": "2026-11-18",
-      "desde": "2026-11-18 09:00"
+      "desde": "2026-11-20 00:36"
     },
     "20b_El_Collar.md": {
       "capitulo": 21,
@@ -169,6 +169,11 @@
     [
       "2026-11-20 00:23",
       "Cap. 37 (36_Las_Latas.md)",
+      "audio pendiente: cambió la prosa"
+    ],
+    [
+      "2026-11-20 00:36",
+      "Cap. 20 (20a_Una_Noche_De_Mudanza.md)",
       "audio pendiente: cambió la prosa"
     ]
   ]
