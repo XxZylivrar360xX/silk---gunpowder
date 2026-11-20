@@ -11,10 +11,10 @@
     "20a_Una_Noche_De_Mudanza.md": {
       "capitulo": 20,
       "titulo": "Una noche de mudanza",
-      "estado": "PENDIENTE",
-      "motivo": "cambió la prosa",
-      "audio": "2026-11-18",
-      "desde": "2026-11-20 00:36"
+      "estado": "AL DIA",
+      "motivo": "",
+      "audio": "2026-11-20",
+      "desde": "2026-11-20 09:03"
     },
     "20b_El_Collar.md": {
       "capitulo": 21,
@@ -35,34 +35,34 @@
     "36_Las_Latas.md": {
       "capitulo": 37,
       "titulo": "Las latas",
-      "estado": "PENDIENTE",
-      "motivo": "cambió la prosa",
-      "audio": "2026-11-18",
-      "desde": "2026-11-20 00:23"
+      "estado": "AL DIA",
+      "motivo": "",
+      "audio": "2026-11-20",
+      "desde": "2026-11-20 09:03"
     },
     "37_Lo_Del_Hermano.md": {
       "capitulo": 38,
       "titulo": "Lo del hermano",
-      "estado": "PENDIENTE",
-      "motivo": "cambió la prosa",
-      "audio": "2026-11-19",
-      "desde": "2026-11-19 09:33"
+      "estado": "AL DIA",
+      "motivo": "",
+      "audio": "2026-11-20",
+      "desde": "2026-11-20 09:03"
     },
     "38_Perdoname_Jefe.md": {
       "capitulo": 39,
       "titulo": "Perdóname, jefe",
-      "estado": "PENDIENTE",
-      "motivo": "cambió la prosa",
-      "audio": "2026-11-19",
-      "desde": "2026-11-19 09:33"
+      "estado": "AL DIA",
+      "motivo": "",
+      "audio": "2026-11-20",
+      "desde": "2026-11-20 09:03"
     },
     "39_Lo_Que_Queda.md": {
       "capitulo": 40,
       "titulo": "Lo que queda",
-      "estado": "PENDIENTE",
-      "motivo": "cambió la prosa",
-      "audio": "2026-11-19",
-      "desde": "2026-11-19 09:33"
+      "estado": "AL DIA",
+      "motivo": "",
+      "audio": "2026-11-20",
+      "desde": "2026-11-20 09:03"
     },
     "45_Lo_Poco_Que_Llegue_A_Saber.md": {
       "capitulo": 46,
@@ -175,6 +175,31 @@
       "2026-11-20 00:36",
       "Cap. 20 (20a_Una_Noche_De_Mudanza.md)",
       "audio pendiente: cambió la prosa"
+    ],
+    [
+      "2026-11-20 09:03",
+      "Cap. 20 (20a_Una_Noche_De_Mudanza.md)",
+      "audio regenerado"
+    ],
+    [
+      "2026-11-20 09:03",
+      "Cap. 37 (36_Las_Latas.md)",
+      "audio regenerado"
+    ],
+    [
+      "2026-11-20 09:03",
+      "Cap. 38 (37_Lo_Del_Hermano.md)",
+      "audio regenerado"
+    ],
+    [
+      "2026-11-20 09:03",
+      "Cap. 39 (38_Perdoname_Jefe.md)",
+      "audio regenerado"
+    ],
+    [
+      "2026-11-20 09:03",
+      "Cap. 40 (39_Lo_Que_Queda.md)",
+      "audio regenerado"
     ]
   ]
 }
