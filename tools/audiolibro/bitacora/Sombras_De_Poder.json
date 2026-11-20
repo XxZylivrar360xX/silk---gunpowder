@@ -35,10 +35,10 @@
     "36_Las_Latas.md": {
       "capitulo": 37,
       "titulo": "Las latas",
-      "estado": "AL DIA",
-      "motivo": "",
+      "estado": "PENDIENTE",
+      "motivo": "cambió la prosa",
       "audio": "2026-11-18",
-      "desde": "2026-11-18 11:59"
+      "desde": "2026-11-20 00:23"
     },
     "37_Lo_Del_Hermano.md": {
       "capitulo": 38,
@@ -164,6 +164,11 @@
     [
       "2026-11-19 09:33",
       "Cap. 40 (39_Lo_Que_Queda.md)",
+      "audio pendiente: cambió la prosa"
+    ],
+    [
+      "2026-11-20 00:23",
+      "Cap. 37 (36_Las_Latas.md)",
       "audio pendiente: cambió la prosa"
     ]
   ]

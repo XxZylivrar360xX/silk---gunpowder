@@ -427,6 +427,7 @@ Calendario de dos años (5 ene A3 → dic A4), contado en bloques densos. Las el
 - **Siembra (CANON 2026-10-14):** cómo conoce Tommaso tan de cerca el círculo de Kal sigue sin explicarse. Se va con el secreto.
 - **Saldo:** su firma bajo la comisión de Halbrook: ella toma relato, y el relato también lo usan otros. El bastón sale por la puerta del Monarch.
 - **Por calibrar:** la relación Tommaso–Marisol (lo pide el plan).
+- **Siembra obligatoria para el 39 (2026-11-20; DISEÑO de la escena, la obligación la pidió el autor):** al llegar al cuarto de Marisol, Chiara encuentra a Mei sentada en la silla de la ventana, con el control de la cama desarmado en las rodillas: lo abre con una moneda, porque sólo subía. Marisol se ríe de algo que Mei dijo. Al ver a Chiara, Mei lo cierra, lo prueba (la cama baja), dice «Ya quedó» y se va antes de que nadie le pregunte nada. Chiara no le pregunta. Nada del mar (eso lo cuenta Marisol en el entierro) y ningún aire de despedida: es la Mei mañosa y competitiva. **Cobro:** en el 39, «Lo desarmó con una moneda», y el «nunca le pregunté qué le gustaba» de Chiara.
 
 > **Elipsis C (fin de mar → mediados de abr, ~4–5 semanas).** El único salto largo de la Parte. **Aterriza en la guerra con Crowe hecha rutina:** Chiara lleva días insistiendo en que Kal les enseñe a disparar a las chicas. Residuo: la primavera en plena flor contra el duelo, Marisol con muletas, el Monarch con una sola dueña y una esquina del sur que ya no es del Patio.
 
@@ -483,6 +484,8 @@ Calendario de dos años (5 ene A3 → dic A4), contado en bloques densos. Las el
 > **Elipsis D (mayo → junio, ~3 semanas).** **Aterriza en la cuota de junio, que Chiara paga tarde por primera vez** (P): su reloj también se descompone. Residuo: la casa vacía de La Almendra ya tiene otro inquilino.
 >
 > **Dentro de la elipsis (DECISIONES DEL AUTOR, 2026-11-19, «el después»; fuera de página):** el domingo se va Bonnie (Chiara le da los folletos antes de que se suba); Kal va a ver a Kaito y le dice la verdad en persona, sin los detalles que le cargarían culpa (no la deuda como causa, no la navaja): Mei murió por defender la casa de un vecino, la enterraron los suyos frente al mar, y él responde. Kal revisa la estufa de Héctor y la encuentra vacía (se recuerda en el 42). **DISEÑO:** si el autor quiere ver a Kaito en página, cabe como recuerdo de Kal en el 42.
+
+> **El encubrimiento sigue abierto (2026-11-20; ver [[11_Books/00_Arco_Meiko_Nakano]]):** la versión de Garrett «se aguanta», no cierra. Candidatos para la Parte IV (DISEÑO): la renuncia de Mei que Chiara redacta para la nómina del Monarch; alguien que sigue marcando el teléfono enterrado; la gente de Varek preguntando en la rampa por su informante; Kaito pidiendo los detalles. Al menos uno vuelve en la Parte IV.
 
 **40. Una sola frase** — jun A4 · Chiara · la cocina de Mabel (DISEÑO) · *(47; III-T10)*
 

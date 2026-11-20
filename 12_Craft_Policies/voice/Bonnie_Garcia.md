@@ -8,7 +8,7 @@ Frases cortas, sin saludo ni preámbulo («Encontré la camioneta.»). Cuenta lo
 
 ## Vocabulario
 
-Taller y calle: bomba, batería, capó, rampa, estacionamiento subterráneo, placa, remolque. Con Chiara, siempre *usted* y «Señora»; con Meiko, el diminutivo «Mei». Ningún tecnicismo de negocio ni palabra de salón.
+Taller y calle: bomba, batería, capó, rampa, estacionamiento subterráneo, placa, remolque. Con Chiara, de *tú* y por su nombre (DECISIÓN DEL AUTOR, 2026-11-20: la calidez de una hija que no dice «mamá»; en el Libro I, al conocerla, era *usted*); con Kal, *usted* y «jefe»; con Meiko, el diminutivo «Mei». Ningún tecnicismo de negocio ni palabra de salón.
 
 ## Lo que nunca dice
 
@@ -25,7 +25,7 @@ Frente a Meiko: Bonnie reporta y protege; Meiko mide rutas y pregunta para qué.
 ## Bajo presión
 
 - **Asustada:** narra la persecución en orden, con pausas más cortas cada vez; el miedo sólo se nota en la respiración y en que no da detalles de lo que dijo ella («Algo. No importa qué.»).
-- **Afectuosa:** una pregunta corta y directa («¿Está bien usted?»). A Mei la protege con su nombre: «Mei.» basta para frenarla; ante otros la defiende con un hecho («Mei no le dice a nadie que no.»).
+- **Afectuosa:** una pregunta corta y directa («¿Estás bien?», a Chiara; «¿Está bien usted?», a Kal). Con Chiara se deja cuidar sin decirlo y le dice primero a ella lo que no le ha dicho a nadie («Eres la primera»). A Mei la protege con su nombre: «Mei.» basta para frenarla; ante otros la defiende con un hecho («Mei no le dice a nadie que no.»).
 - **Relación con el silencio:** lo aguanta; no llena huecos.
 - **Arma conversacional preferida:** la pregunta lógica que deja a la otra sin coartada («Allá también tiene jefe, entonces.»).
 - Enfadada, herida, mintiendo: sin evidencia todavía; no completar por simetría.
@@ -40,4 +40,4 @@ Frente a Meiko: Bonnie reporta y protege; Meiko mide rutas y pregunta para qué.
 
 ## Línea genérica a evitar
 
-«No se preocupe, señora, yo me encargo de todo.» Es una promesa tranquilizadora. Bonnie no consuela ni promete: dice qué pasó y pregunta lo que falta.
+«No te preocupes, yo me encargo de todo.» Es una promesa tranquilizadora. Bonnie no consuela ni promete: dice qué pasó y pregunta lo que falta.

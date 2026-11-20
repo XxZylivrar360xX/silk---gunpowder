@@ -22,6 +22,7 @@ hito: F2 — la muerte de Meiko
 >
 > **Guardas:** ~~nada en la página sugiere que la filtración de Mei la mató~~ (retirada, DECISIÓN DEL AUTOR 2026-11-19: la cadena confesión → mudanza → robo queda a la vista del lector desde el 37, pero ningún personaje la dice); el Lussia no se nombra y por el radio nadie dice qué hay en casa de Héctor (Kal no revisa el escondite hasta después del funeral, DECISIÓN DEL AUTOR 2026-11-19); el muchacho no tiene nombre ni cara; los Calderos no se nombran en la casa.
 > **LECTURA EXTERNA (2026-11-19, ocho observaciones; prosa del agente, BORRADOR, espera lectura):** (2) Antes de bajar del porche, Bonnie le ve a Mei la cara de hacer la cuenta (la cerca vacía, el radio, el muchacho); la persecución nace de «Te lo voy a pagar», sin heroísmo. (3) En la esquina espera un coche sin luces con una sola calavera, la derecha (el del martes, 37); no se detiene por el muchacho. (4) En la destilería la doctora pide sangre y ofrece llevarla a urgencias; Mei dice que no con la cabeza, Bonnie dice que sí, y **Chiara decide: «Aquí»** (DISEÑO; alternativa: que Chiara difiera a Kal). Gasa a presión añadida a la técnica. (7) Fuera «Kal no lloró.»
+> **DECISIÓN DEL AUTOR (2026-11-20):** Bonnie le habla de tú a Chiara y la llama por su nombre, con la calidez de una hija que no dice «mamá» (en el Libro I, al conocerla, le hablaba de usted; con Kal sigue el usted y el «jefe»).
 -->
 
 # Perdóname, jefe
@@ -484,11 +485,11 @@ Chiara miró a Mei.
 
 Mei tenía los ojos abiertos. Había oído. Movió la cabeza contra los sacos, una vez, apenas, de un lado al otro.
 
-—Sí —dijo Bonnie—. Dígale que sí.
+—Sí —dijo Bonnie—. Dile que sí.
 
 Nadie le contestó. Chiara miró hacia la puerta grande, hacia la grava, donde todavía no se oía ninguna camioneta. Walt esperaba junto a la puerta con las llaves en la mano.
 
-—Señora —dijo Bonnie.
+—Chiara —dijo Bonnie.
 
 Chiara bajó la vista a la doctora.
 
@@ -564,7 +565,7 @@ Lo gritó. Héctor llegó por detrás y le puso una mano en el hombro, y despué
 
 Bonnie le agarró la mano a Mei, la que estaba encima de la manta, con las dos suyas.
 
-—Una ambulancia —dijo. Nadie se movió—. ¡Una ambulancia! ¡Llamen una ambulancia! ¡Señora! ¡Kal!
+—Una ambulancia —dijo. Nadie se movió—. ¡Una ambulancia! ¡Llamen una ambulancia! ¡Chiara! ¡Kal!
 
 Kal no se movió. La doctora se quitó los guantes, despacio, uno y después el otro, y los dejó en el piso, al lado del maletín. Chiara bajó la bolsa de suero.
 

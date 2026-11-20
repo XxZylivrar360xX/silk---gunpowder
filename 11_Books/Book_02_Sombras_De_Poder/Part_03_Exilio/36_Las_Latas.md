@@ -18,6 +18,7 @@ personajes: Kal Mercer, Bonnie García, Meiko Nakano; al final, Chiara Bellandi
 > **Depende de capítulos sin redactar:** la grúa quemada y el muchacho golpeado (35); la deuda de Kaito pagada por Kal (23, BORRADOR desde 2026-11-16); la cena de Navidad (20, BORRADOR desde 2026-11-16). La prosa los toca como hechos ya ocurridos.
 
 > **ENTRADA TEMPRANA (2026-11-15, revisión externa):** «un año» → «casi dos años» (entra en ago–sep A2, Libro I cap. 22); «No le había pedido nada nunca» → «Pedía lo justo, dónde dormir una semana, un adelanto, y nunca decía para qué» (segunda pasada: pidió quedarse a dormir; la manta la ofreció Kal): pide soluciones prácticas y calla el problema. Arco: [[11_Books/00_Arco_Meiko_Nakano]].
+> **DECISIÓN DEL AUTOR (2026-11-20):** Bonnie le habla de tú a Chiara y la llama por su nombre, con la calidez de una hija que no dice «mamá» (en el Libro I, al conocerla, le hablaba de usted; con Kal sigue el usted y el «jefe»).
 -->
 
 # Las latas
@@ -122,13 +123,13 @@ Kal tardó en contestar. Se acordaba del lugar, un patio de chatarra detrás de 
 
 Bonnie no preguntó más. Le dio otra mordida al sándwich, masticó, tragó.
 
-—La señora dice que podría estudiar.
+—Chiara dice que podría estudiar.
 
 Lo dijo mirando las latas que quedaban en la cerca, como quien da un dato que se le había olvidado reportar.
 
 —¿Estudiar qué?
 
-—No sé. Eso dice ella que es lo primero: saber qué. Ella y Marisol. —Se encogió de hombros—. Marisol dice que ingeniería, porque los motores. La señora dice que no tiene que ser lo que ya sé hacer. Que puede ser cualquier cosa. Que lo importante es que sea mío.
+—No sé. Eso dice ella que es lo primero: saber qué. Ella y Marisol. —Se encogió de hombros—. Marisol dice que ingeniería, porque los motores. Chiara dice que no tiene que ser lo que ya sé hacer. Que puede ser cualquier cosa. Que lo importante es que sea mío.
 
 —¿Y tú qué dices?
 

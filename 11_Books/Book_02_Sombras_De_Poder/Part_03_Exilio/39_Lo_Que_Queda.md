@@ -22,6 +22,7 @@ personajes: Chiara Bellandi, Kal Mercer, Bonnie García; Nadir, Danny, Tyler, Ha
 > **DISEÑO del agente (espera lectura):** Mei en la mesa larga de las cenas de los domingos; la caja de zapatos con los teléfonos (el de Mei es el único que nadie recoge); Héctor encuentra detrás de los botes de café el radio de cinta roja y el chaleco con MEI (los que Kal apartó en el 37) y Kal se los quita sin decir nada; Héctor va a dar la cara a la policía en su casa y vuelve con «Un vidrio»; Bonnie le habla a Marisol («Cupcake»); Russ trae a Marisol, conoce el camino y da la hora exacta; la bellota del encino doblado por el viento; lo que Marisol cuenta del hospital (Mei le arreglaba el control de la cama; «porque no se le puede ganar»); el sol sale por los cerros y lo primero que toca es el mar; Chiara toma la foto de la repisa al pasar; Chiara no le dice a Kal que Mei creyó que la dejaba fuera como castigo.
 >
 > **Guarda:** el narrador no explica el llanto ni la culpa. Nadie nombra la regla. El Lussia no aparece. Ningún personaje dice en voz alta qué se llevaron de casa de Héctor.
+> **DECISIONES DEL AUTOR (2026-11-20):** Bonnie le habla de tú a Chiara (cocina reescrita: «¿Tú sabías?», «Eres la primera», «Si me quedo, me voy a parecer a ti», la frente en el hombro). El encubrimiento no se da por cerrado: Garrett avisa que la versión sólo «se aguanta» (nómina, casero, el teléfono). Fuera «No dijo para qué» tras la bellota: el gesto de Marisol queda sin explicar.
 -->
 
 # Lo que queda
@@ -84,7 +85,7 @@ Hablaron en la cabecera, bajo. Chiara estaba a dos metros y oyó pedazos.
 
 Garrett la miró y asintió, una vez, como quien tacha una línea.
 
-—Lo que no se puede es que alguien la reporte —siguió—. Si alguien de afuera la busca, la busca con la policía. Hay que hablar con la familia antes de que la familia hable con nadie.
+—Lo que no se puede es que alguien la reporte —siguió—. Si alguien de afuera la busca, la busca con la policía. Hay que hablar con la familia antes de que la familia hable con nadie. —Se pasó la mano por la boca—. Y esto no se cierra hoy. Hoy se aguanta. Va a preguntar la nómina, el casero, el que le hablaba a ese teléfono. Cada vez que pregunten, la misma respuesta, y de la misma boca.
 
 —Al hermano se lo digo yo —dijo Kal.
 
@@ -112,23 +113,27 @@ Bonnie estaba en la cocina, en el fregadero.
 
 Chiara no la había visto entrar. Tenía las manos bajo el chorro de agua, todavía rojas hasta las muñecas, porque en la destilería nadie le había dicho que se las lavara y ella no se había acordado. Se tallaba con el jabón de trastes, sin fuerza, y la sangre seca no se iba de los pliegues de los nudillos ni de debajo de las uñas, y en la palma izquierda tenía atravesada la marca del trinquete, morada.
 
-Chiara dejó el bolso en la silla. Se arremangó la blusa. Le tomó a Bonnie las manos bajo el agua y se las lavó, con las suyas, como se las habría lavado a una niña, entre los dedos, debajo de las uñas con la uña propia. Bonnie la dejó.
+Chiara dejó el bolso en la silla. Se arremangó la blusa. Le tomó a Bonnie las manos bajo el agua y se las lavó con las suyas, entre los dedos, debajo de las uñas con la uña propia. Bonnie la dejó. Cuando el pulgar de Chiara pasó por la marca morada de la palma, Bonnie cerró la mano un poco, y la volvió a abrir.
+
+—¿Te duele?
+
+—No sé.
 
 El agua salía rosa. Después salió clara.
 
 —Le hablé a Marisol —dijo Bonnie, mirando el agua—. Del mío. Cuando llegamos.
 
-—Está bien.
+—Hiciste bien.
 
-—Le dije que si podía venir. Le dije… —Bonnie respiró—. Le dije «Cupcake, ¿puedes venir?». Y no me preguntó para qué.
+—Le dije «Cupcake, ¿puedes venir?». —Bonnie respiró—. Y no me preguntó para qué.
 
-Chiara cerró la llave. Le pasó un trapo limpio. Bonnie se secó despacio, dedo por dedo, y se quedó con el trapo en las manos.
+Chiara cerró la llave. No le soltó las manos. Se las envolvió en un trapo limpio y se las secó ella, dedo por dedo, como se las habría secado a una niña, y Bonnie la dejó también eso.
 
-—Mei me lo dijo —dijo—. Anoche, en la sala. Antes.
+—Mei me lo dijo —dijo Bonnie—. Anoche, en la sala. Antes.
 
 Chiara esperó.
 
-—Le pasaba cosas a la gente de Varek. Desde enero. —Bonnie lo dijo bajo, sin mirarla, en el orden en que habían pasado las cosas, como contaba siempre—. Lo que veía en el Monarch, desde la rampa. Quién llegaba, en qué coche, con quién. A qué hora se iba usted. A qué hora se iba Kal. Por la deuda del hermano. Le dijeron que podía pagar en dinero o en plática, y no tenía el dinero. —Una pausa—. Y en marzo le preguntaron por Lunar Pearl. Les dijo que habíamos sido nosotros. Que ella manejaba.
+—Le pasaba cosas a la gente de Varek. Desde enero. —Lo dijo bajo, sin mirarla, en el orden en que habían pasado las cosas, como contaba siempre—. Lo que veía desde la rampa del Monarch. Quién llegaba, en qué coche, con quién. A qué hora te ibas tú. A qué hora se iba Kal. Por la deuda del hermano. Le dijeron que podía pagar en dinero o en plática, y no tenía el dinero. —Una pausa—. Y en marzo le preguntaron por Lunar Pearl. Les dijo que habíamos sido nosotros. Que ella manejaba.
 
 Chiara se apoyó en la orilla del fregadero.
 
@@ -140,11 +145,19 @@ Chiara le pagaba a Varek cada mes una cuota que nadie conocía, una deuda vieja 
 
 No lo dijo.
 
-—Kal lo sabía —dijo Bonnie.
+—¿Tú sabías? —preguntó Bonnie.
 
-Chiara la miró.
+Lo preguntó mirándola, por primera vez desde la destilería. No era una acusación. Era la pregunta de alguien que necesita que una sola cosa de la noche sea como creía.
 
-—Varek le dijo algo en el hipódromo, y él se dio cuenta. Ella me dijo que Kal ya sabía. Que le dijo «después». —Bonnie dobló el trapo en dos—. Iban a decidir qué hacer con ella después del corralón. Por eso anoche no fue. Por eso estaba en la casa.
+—No.
+
+Bonnie le creyó. Asintió, despacio.
+
+—Kal sí.
+
+Chiara no dijo nada.
+
+—Varek le dijo algo en el hipódromo, y él se dio cuenta. Ella me dijo que Kal ya sabía. Que le dijo «después». —Bonnie sacó las manos del trapo y lo dobló en dos—. Iban a decidir qué hacer con ella después del corralón. Por eso anoche no fue. Por eso estaba en la casa.
 
 Chiara se acordó de una noche de esa misma semana. De Kal desvistiéndose a oscuras del otro lado de la cama. «Lo del jueves.» De su propia voz, ya medio dormida contra su hombro: «¿Cómo están las chicas?» Y de él, mirando el techo, diciendo «Bien. Están bien».
 
@@ -156,15 +169,15 @@ No dijo nada de eso tampoco.
 
 Lo dijo igual que lo otro. Sin preámbulo.
 
-—A Boston. Con mis papás. —Dejó el trapo en la orilla del fregadero, doblado—. Todavía no les he dicho. Pero me voy.
+—A Boston. Con mis papás. —Dejó el trapo en la orilla del fregadero, doblado—. Todavía no les he dicho. Eres la primera.
 
 —Bonnie…
 
-—Se la pedí a usted. —Bonnie levantó la vista por fin—. La ambulancia. Allá. Y usted dijo «aquí».
+—Te la pedí a ti. —Bonnie levantó la vista—. La ambulancia. Allá. Te dije que le dijeras que sí. Y dijiste «aquí».
 
 Chiara no se movió.
 
-—No la culpo. Sé por qué. Mei dijo que no, y la policía ya estaba al lado, y nadie del Patio llega a un hospital con una herida así sin que alguien pregunte de dónde. Lo sé. —Bonnie bajó la vista a sus manos limpias—. Pero yo la oí, a la doctora. Y si me quedo, un día voy a ser yo la que dice «aquí». Y no quiero.
+—No te culpo. Sé por qué. Mei dijo que no, y la policía estaba al lado, y nadie del Patio llega a un hospital con una herida así sin que alguien pregunte de dónde. Lo sé. Yo también sé hacer la cuenta. —Se miró las manos limpias—. Por eso me voy. Si me quedo, me voy a parecer a ti. Y un día voy a ser yo la que dice «aquí».
 
 En el bolso, colgado de la silla, Chiara llevaba unos folletos doblados en dos. De la universidad estatal, de un instituto técnico, de una escuela de ingeniería de fuera del estado con fotos de laboratorios. Llevaba una semana cargándolos sin encontrar el momento.
 
@@ -172,7 +185,7 @@ No los sacó.
 
 —Está bien —dijo. Y después, porque eso no alcanzaba—: Está bien, tesoro.
 
-Bonnie asintió. Se quedaron las dos en la cocina, de pie, frente al fregadero, con el café de Héctor hirviendo solo en la estufa, porque Héctor no había vuelto.
+Bonnie no se movió. Después dio el medio paso que faltaba y le recargó la frente en el hombro derecho, el que le dolía desde la destilería. Chiara no se quitó. Le puso la mano en la nuca, en el pelo todavía tieso de la noche, y se quedaron así, frente al fregadero, con el café de Héctor hirviendo solo en la estufa, porque Héctor no había vuelto.
 
 ***
 
@@ -279,8 +292,6 @@ Se calló. Miró hacia el borde, hacia abajo, donde se oía.
 —Así que aquí está. Enfrente de lo único que no le podía ganar.
 
 Después se soltó del brazo de Bonnie. Metió la mano en la bolsa del abrigo y sacó lo que había recogido debajo del encino. Era una bellota. Chica, café, con su sombrerito todavía puesto. Marisol no se agachó; no podía. La puso sobre la tierra, a la cabecera, y la empujó con la punta de goma de la muleta, despacio, hasta que la tierra se la tragó. Después aplanó encima con la misma punta, una vez.
-
-No dijo para qué.
 
 Bonnie se quedó mirando el lugar donde había entrado la bellota. Chiara le vio la cara y no la pudo mirar más.
 
