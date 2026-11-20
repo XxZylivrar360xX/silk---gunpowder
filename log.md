@@ -4,6 +4,10 @@ El detalle se guarda una sola vez en notas de sesión. Este archivo es navegaci�
 
 ## Sesiones recientes
 
+- 2026-11-19: DECISIÓN DEL AUTOR: Halbrook manda el robo de la casa de Héctor (dato del Tasador, vigilancia de las casas) y se queda el Lussia; Varek lo sigue dando por perdido; Kal sospecha de Crowe. Venta del III por el joyero de Crowe; Kal cierra la venta a Tommaso tras la montaña (dinero para Elenna); Dario compró la piedra sabiendo que era de los Lusardi. Cadena de custodia: [[11_Books/00_Cadena_De_Custodia_Lussia]].
+
+- 2026-11-19: DECISIONES DEL AUTOR: Meiko filtró Lunar Pearl (no sólo la rampa); primer roce Kal–Varek; el Lussia pasa a casa de Héctor y el robo de F2 es ahí; 37–39 reescritos en BORRADOR: [[98_Agent_Handoff/sessions/2026-11-19_claude_filtracion_lunar_pearl]].
+
 - 2026-11-18: PROSA (BORRADOR): la Navidad del Libro II queda en dos capítulos, *Una noche de mudanza* (20, archivo 20a) y *El collar* (21, archivo 20b); el Libro II pasa a 58 caps. (los archivos conservan su nombre; del 21 en adelante, capítulo = archivo + 1). Microediciones: Héctor, la cámara y el clic de la primera foto en el yate (Libro I, cap. 35); la cámara en el 39 y el 57 (que pierde la descripción de la foto): [[11_Books/Book_02_Sombras_De_Poder/Part_02_Nieve_Y_Ceniza/00_Diseno_Navidad_Completa]].
 - 2026-11-18: DECISIONES DEL AUTOR: Héctor le regala la cámara a Chiara en la fiesta del yate (Libro I, cap. 35); su primera foto es Kal en la baranda de estribor viendo el mar, que ella lleva en un llavero desde el arranque del II; la descripción de la foto de Nochebuena es de Chiara en el 39 y el 57 (POV Kal) va sin descripción: [[11_Books/Book_02_Sombras_De_Poder/Part_02_Nieve_Y_Ceniza/00_Diseno_Navidad_Completa]].
 - 2026-11-18: DECISIONES DEL AUTOR: Bonnie se queda con «Cupcake» para Marisol; la foto de Nochebuena se toma con la cámara que Héctor le regaló a Chiara (ya no con el teléfono de Kal) y el 20b no describe posiciones, que quedan para el 57: [[11_Books/Book_02_Sombras_De_Poder/Part_02_Nieve_Y_Ceniza/00_Diseno_Navidad_Completa]].

@@ -26,7 +26,7 @@
    Chiara enciende la vela y reza en el penthouse: *«Dio, fa' che torni a casa… e che non faccia niente di stupido. Ti raccomando soprattutto la seconda.»* (CANON DEL AUTOR 2026-10-13: «Dios, ve que vuelva a casa… y que no haga algo tonto, te encargo más lo segundo.») **El capítulo termina ahí.**
 4. **Chiara no conoce los detalles del plan**, para no incriminarla y dejarle una salida. Ella misma se sorprende cuando salen por la bodega del casino.
 5. **Las bandas amigas son los Breakwater Saints.**
-6. **Meiko no le cuenta nada a Varek** todavía.
+6. ~~**Meiko no le cuenta nada a Varek** todavía.~~ **SUPERADO (DECISIÓN DEL AUTOR, 2026-11-19):** en marzo, coaccionada, le confirma a la gente de Varek que Lunar Pearl fue el Patio y que ella manejaba (cap. 37). Sembrar aquí la **vuelta de más a la punta**, que Meiko decide sola porque Harper no ha dado la señal: es el dato con que Varek se delata. Ver [[11_Books/00_Arco_Meiko_Nakano]].
 7. **Walt los espera en la salida del Monarch**, sin permiso de Chiara.
 8. **No hay heridos.** El enfrentamiento con la policía se resuelve con llantas ponchadas y patrullas inhabilitadas.
 
@@ -58,7 +58,7 @@ DISEÑO, inspirado en los túneles de Shanghái de Portland. El Monarch está co
 | **Héctor** | Reconocimiento como cliente; durante el golpe, voz en la radio con el escáner policial | Un viejo que busca un anillo de aniversario «para una mujer que se fue» no levanta sospechas | Su coartada es su herida |
 | **Nadir** | Adentro con Kal; cuando llega la policía, inhabilita las patrullas sin herir a nadie | Si alguien se pone heroico, lo resuelve sin sangre | Confianza ciega, que F2 va a cobrar |
 | **Danny** | Fabrica los autos gemelos (mismo modelo y color, techo marcado igual para que el helicóptero los lea desde arriba); adentro, manos de mecánico | Sin gemelos no hay señuelos | Su consumo como riesgo latente |
-| **Meiko** | Volante del auto del golpe | Conducción fría: hacerse ver sin dejarse atrapar | No le cuenta a Varek; hace más cruel el F2 |
+| **Meiko** | Volante del auto del golpe | Conducción fría: hacerse ver sin dejarse atrapar | ~~No le cuenta a Varek~~ Lo que maneja es lo que después confiesa (2026-11-19) |
 | **Harper** | Desde una azotea de Punta Dorada marca helicóptero y patrullas; da la señal de soltar los señuelos | Sin ella, los señuelos salen a destiempo | Primer trabajo grande como operadora de campo |
 | **Tyler** | Enlace con los Saints y los pilotos de los señuelos | La red y la confianza de los pilotos son suyas | Ya perdió el cargamento de Crowe en la Parte I: aquí se redime |
 | **Bonnie** | Lee el local, el personal y la calle | Aplica la lección de Chiara del §6 | Payoff de su aprendizaje; lo que pierde en F2 |
@@ -130,7 +130,7 @@ En la fase 6, entre las vitrinas de Lunar Pearl, Kal queda frente a la bandeja d
 1. **Calendario fino:** cuántos días o semanas después de la incursión, y su relación con el choque.
 2. **¿Qué pasa con el Lussia?** Un diamante rojo famoso no se puede vender entero. ¿Lo cortan, Kal lo guarda, lo devuelve o queda escondido para un payoff posterior? ¿El millón sale del resto de la exhibición?
 3. **¿Quién compra el botín?** Ya no puede ser Dario. ¿Hay un reducidor fuera de San Aurelio? ¿Los Saints?
-4. **¿Dario sospecha de Kal?** ¿Lo pone a investigar el robo? Kal buscando a los ladrones de Dario sería la ironía más fuerte de la Parte. ¿El seguro paga y Dario no pierde dinero, sólo orgullo?
+4. **RESUELTO en parte (2026-11-19):** Dario sabe desde marzo, por Meiko, y se lo deja ver a Kal en el 37; le pide la piedra sin preguntas. ~~**¿Dario sospecha de Kal?**~~ ¿Lo pone a investigar el robo? Kal buscando a los ladrones de Dario sería la ironía más fuerte de la Parte. ¿El seguro paga y Dario no pierde dinero, sólo orgullo?
 5. **¿Qué ganan los Saints?**
 6. **¿Cómo se entera Chiara de la salida?** ¿Qué hace cuando entiende que el diamante es de Dario?
 7. **¿Qué le dice Walt al equipo** al final del túnel?

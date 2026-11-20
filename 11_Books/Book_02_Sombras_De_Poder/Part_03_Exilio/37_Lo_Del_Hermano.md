@@ -6,14 +6,14 @@ libro: Sombras de Poder (Libro II), Parte III — Exilio
 capitulo: 37
 pov: Kal Mercer, único
 ventana_temporal: finales de abril A4, cuatro días después de las latas; de la mañana a la noche
-localizacion: la oficina de Varek sobre el palco de propietarios del hipódromo del Monarch; el galpón de Almendra Towing; El Patio, de noche; la Villa Candelaria
+localizacion: la oficina de Varek sobre el palco de propietarios del hipódromo del Monarch; el galpón de Almendra Towing; El Patio, de noche; la Villa Candelaria; la casa de la reja verde y la de Héctor, al lado, de noche
 personajes: Kal Mercer, Dario Varek, Nadir Amrani, Héctor Navarro, Meiko Nakano; al final, Chiara Bellandi
 ---
 
 <!--
 > **Estado:** BORRADOR del agente (Claude Code, 2026-11-13), para lectura del autor. Segundo capítulo del arco de Meiko. Fuente: [[11_Books/Book_02_Sombras_De_Poder/00_Guia_Redaccion_Capitulos]], ficha del 37.
 >
-> **CANON (hechos):** «Lo del hermano queda saldado» (CANON 2026-11-07) es lo que delata a Meiko; Kal se lo dice sólo a Nadir y a Héctor; Héctor le pide calma porque es una niña que actuó por miedo (sentido del autor, no línea literal); Kal pospone el juicio hasta acabar la operación y se lo dice a Meiko; no se lo dice a Chiara. **DISEÑO del agente:** la reunión en el hipódromo; el dato con que Varek se delata («el primer tiro fue para un almendro», que Kal no le contó a Chiara); las razones para llevarla a la operación; la conversación nocturna completa con Meiko («Cuando usted lo dijo ya era tarde»; la pregunta de quién pagó; el «Jefe…» que Kal corta con «Después.»). **PENDIENTE que la prosa sostiene sin resolver:** qué filtró Meiko con exactitud, más allá de lo que veía sirviendo en las salas de Chiara. **Guarda:** nada del Lancia ni de los frenos; nada de Tommaso; Varek no queda probado más allá de que su gente sabe.
+> **CANON (hechos):** «Lo del hermano queda saldado» (CANON 2026-11-07) es lo que delata a Meiko; Kal se lo dice sólo a Nadir y a Héctor; Héctor le pide calma porque es una niña que actuó por miedo (sentido del autor, no línea literal); Kal pospone el juicio hasta acabar la operación y se lo dice a Meiko; no se lo dice a Chiara. **DISEÑO del agente:** la reunión en el hipódromo; ~~el dato con que Varek se delata («el primer tiro fue para un almendro», que Kal no le contó a Chiara)~~ (SUPERADO 2026-11-19, ver abajo); las razones para llevarla a la operación; la conversación nocturna completa con Meiko («Cuando usted lo dijo ya era tarde»; la pregunta de quién pagó; el «Jefe…» que Kal corta con «Después.»). ~~**PENDIENTE que la prosa sostiene sin resolver:** qué filtró Meiko con exactitud, más allá de lo que veía sirviendo en las salas de Chiara.~~ (RESUELTO 2026-11-19: Lunar Pearl.) **Guarda:** nada del Lancia ni de los frenos; nada de Tommaso; Varek no queda probado más allá de que su gente sabe.
 >
 > **Depende de capítulos sin redactar:** Lunar Pearl (26), la deuda de Kaito (23, BORRADOR desde 2026-11-16), la esquina perdida (35). La operación contra el corralón de los Calderos (D9) es el 38.
 
@@ -21,6 +21,8 @@ personajes: Kal Mercer, Dario Varek, Nadir Amrani, Héctor Navarro, Meiko Nakano
 
 > **LA CARRERA (DECISIÓN DEL AUTOR, 2026-11-18; prosa del agente, BORRADOR, espera lectura):** la carrera que Meiko le gana a Kal (CANON del 2026-11-15: Camaro contra Peugeot, La Isla, Puente de Piedra, Plaza Corona, el Camaro se muere y hay grúa) pasa de la Parte II a este capítulo, el miércoles antes del corralón, cuando Kal ya sabe de la filtración. Es lo que Kal no le dice («era de los míos» queda para el 39). DISEÑO del agente: los veintiséis minutos de la grúa (siembra del ritual mensual), «Mañana a las nueve. En la casa común.» en lugar de lo que iba a decir (el jueves, en la casa común, la deja fuera: 38), y que Kal la sigue de regreso sin rebasarla. La venta del Peugeot sigue PENDIENTE del autor: sólo se dice que lo piensa. Arco: [[11_Books/00_Arco_Meiko_Nakano]].
 
+> **FILTRACIÓN REHECHA (DECISIÓN DEL AUTOR, 2026-11-19, sobre propuestas del agente que el autor aprobó):** lo de la rampa y la sesión de tiros no basta para que Kal lo considere filtración propia. Lo que Mei filtró, coaccionada, es que **Lunar Pearl fue el Patio**: en marzo le preguntan si ella manejaba y dice que sí. La rampa queda como el primer paso, con el que la engancharon; Lunar Pearl, lo que le sacaron cuando dejaron de cobrarle el dinero. Es el **primer roce entre Kal y Varek**: Varek suelta un dato que sólo sabía quien iba en el coche («la vuelta de más a la punta») y le pide la piedra «sin preguntas»; Kal niega. **Por qué Varek no lo mata** (Héctor lo dice en página): un muerto no devuelve nada; quiere su piedra, no a Kal; mientras no la tenga, Kal está vivo, «y ella también». **Kal muda el Lussia** de la casa de las chicas (donde vive Mei, el primer lugar donde buscarían) a la de **Héctor, al lado**: para llevarlo no pisa la calle; nadie mira la casa de al lado, miran la de la luz prendida; nadie le roba a un viejo. La estufa de leña de Héctor, «desde que se fue ella». Héctor: «En la casa de las niñas. Muchacho.» y «No me digas cuándo». Un coche pasa despacio la noche de la mudanza (siembra; no se explica). **Se retira la guarda** «nada sugiere que el soplo de Mei la mató»: la cadena confesión → mudanza → robo queda a la vista del lector, sin que nadie la diga. **DISEÑO:** la vuelta de más (Mei la decidió sola porque Harper no había dado la señal) se siembra en el cap. de Lunar Pearl al redactarlo; Chiara no sabía el plan, así que no es la fuente.
+>
 > **ENTRADA TEMPRANA (2026-11-15, revisión externa):** «un año» → «casi dos años»; «donde la había visto sentada la primera vez» → «tantas mañanas» (la primera vez fue en la banqueta, sobre el Camaro, Libro I cap. 22). Arco: [[11_Books/00_Arco_Meiko_Nakano]].
 -->
 
@@ -58,21 +60,31 @@ Varek lo escuchó con la vista en la pista. Cuando Kal terminó, tardó en conte
 
 Kal no contestó. Varek tampoco esperaba que contestara. Abajo, un caballo tordillo se había negado a entrar a la recta y el mozo lo hacía girar en círculos, con paciencia, sin pegarle.
 
-—La ciudad está nerviosa, señor Mercer. Usted sale de noche. Le queman grúas. A sus muchachos los dejan en las aceras. —Lo dijo como quien lee un reporte de clima—. Y ahora, me dicen, les enseña a tirar a las niñas.
+—Fue una noche muy bonita para la policía —dijo Varek—. El helicóptero, el puente cerrado, los coches iguales saliendo por todas partes. La repitieron una semana. —Giró la taza otro cuarto de vuelta—. Me dicen que los que lo hicieron no salieron de la isla. Que esa misma noche se tomaron una copa en mi casino, entre mis mesas, mientras afuera los buscaban.
 
 Kal mantuvo las manos donde estaban, sobre las rodillas.
 
-—Es un país libre.
-
-—Lo es. —Varek por fin lo miró, el tiempo exacto, y volvió a la pista—. Me dicen también que la puntería no es lo suyo. Que el primer tiro fue para un almendro.
+—Me dicen también que la muchacha que manejaba le dio una vuelta de más a la punta. —Varek por fin lo miró, el tiempo exacto, y volvió a la pista—. Para que el helicóptero no se perdiera.
 
 El tordillo entró por fin a la recta. Salió al galope, con el mozo pegado al cuello, y pasó frente al ventanal con un ruido que el vidrio volvió sordo.
 
 —No sé quién le cuenta esas cosas —dijo Kal.
 
-—No importa quién. —Varek juntó los papeles, les dio un golpe contra la mesa para emparejarlos, los dejó a un lado—. Lo que importa es que me las cuentan. Yo veo lo que pasa en mi ciudad, señor Mercer. No se lo digo como amenaza. Se lo digo para que no se sorprenda cuando lo vea.
+—No importa quién. —Varek juntó los papeles, les dio un golpe contra la mesa para emparejarlos, los dejó a un lado—. Lo que importa es que me las cuentan.
 
-Se puso de pie. Kal se puso de pie. Varek le dio la mano como se cierra un acuerdo que ya estaba decidido antes de la reunión.
+Abajo, la máquina volvió a pasar por la recta, borrando las huellas del tordillo.
+
+—Mi hija se llama como esa piedra, señor Mercer. El nombre se lo puse yo. —No cambió la voz—. No le estoy preguntando nada. Si le preguntara, usted me diría que no sabe, y yo tendría que decidir si le creo, y no tengo ganas de decidir eso esta mañana. Le digo sólo esto: si un día, en su ciudad, se topa con una piedra roja, me la trae. Y yo no le voy a preguntar de dónde.
+
+—No sé de qué piedra me habla.
+
+—Claro que no.
+
+Se puso de pie. Kal se puso de pie.
+
+—Yo veo lo que pasa en mi ciudad, señor Mercer. No se lo digo como amenaza. Se lo digo para que no se sorprenda cuando lo vea.
+
+Le dio la mano como se cierra un acuerdo que ya estaba decidido antes de la reunión.
 
 —Haga lo del corralón —dijo—. Sin titulares.
 
@@ -82,9 +94,11 @@ En el estacionamiento del hipódromo había sol, y gente del establo que fumaba 
 
 Se pasó la mano por la cara.
 
-No se lo había dicho a Chiara. Eso fue lo primero que pensó, y lo pensó con un alivio que le dio vergüenza en cuanto lo sintió. A Chiara le había contado las cinco latas, la pistola por la culata, que Meiko tiraba mejor que él. No le había contado el almendro. Bonnie le había dado al árbol en el primer tiro, y había bajado la pistola despacio, y había dicho «Le di al árbol», y él había repetido «Le diste al árbol», y nadie más había estado ahí para oírlo. Él. Bonnie. Meiko, en el capó.
+Una vuelta de más.
 
-Bonnie no. Lo supo antes de pensarlo, como sabía que un motor no tenía la falla donde el dueño decía. Bonnie se lo había dicho todo siempre, a él, en el orden en que pasaba, y lo que no le decía a él no se lo decía a nadie.
+No había salido en el noticiero. El noticiero había repetido una semana el helicóptero, el foco blanco clavado en la rampa de Punta Dorada, los coches iguales saliendo por todas partes, y desde arriba una vuelta de más a la punta era igual a cualquier otra vuelta. La sabía quien iba en el coche. Él adelante. Nadir y Danny atrás, agarrados de lo que podían. Harper en la azotea, que había tardado en dar la señal; Héctor en el radio, que había preguntado qué pasaba. Y la que manejaba, que había visto el reloj y había decidido sola, sin preguntarle, darle otra vuelta a la isla con el foco encima, riéndose bajito.
+
+Chiara no. Chiara no había sabido nada del plan; él se había cuidado de eso para dejarle una salida. Lo pensó con un alivio que le dio vergüenza en cuanto lo sintió.
 
 Afuera, un hombre del establo pasó junto al coche con dos baldes de agua que se le derramaban un poco a cada paso. Kal lo siguió con la vista sin verlo.
 
@@ -106,7 +120,7 @@ Después lo encendió y manejó a la Almendra.
 
 Héctor estaba donde estaba siempre a esa hora, bajo el alero del galpón, con una pierna estirada sobre un cajón de repuestos y un termo de café entre las botas. Nadir estaba con él, de pie, recostado en la pared de lámina, comiéndose una manzana a mordidas grandes mientras le contaba algo con la mano libre, algo de un precio, porque contaba con los dedos. Se callaron los dos cuando vieron la cara de Kal.
 
-Kal no se sentó. Se quedó de pie frente a ellos, a la sombra, y lo contó. El hipódromo, el almendro, la lavandería de la calle Fowler. Lo contó en el orden en que había pasado, sin sacar conclusiones, y la conclusión se quedó en el aire sin que nadie la dijera, como se quedaba el olor del aceite quemado en el galpón.
+Kal no se sentó. Se quedó de pie frente a ellos, a la sombra, y lo contó. El hipódromo, la vuelta de más, la lavandería de la calle Fowler. Lo contó en el orden en que había pasado, sin sacar conclusiones, y la conclusión se quedó en el aire sin que nadie la dijera, como se quedaba el olor del aceite quemado en el galpón.
 
 Nadir había dejado de masticar a la mitad. Tenía la manzana en la mano y no se la llevaba a la boca. Kal lo conocía desde hacía años y no lo había visto quedarse quieto más de diez segundos más que dos o tres veces. Ésta era una.
 
@@ -121,6 +135,12 @@ Nadir había dejado de masticar a la mitad. Tenía la manzana en la mano y no se
 —¿Cuánto le pagan?
 
 —No sé, Nadir.
+
+Nadir se le quedó mirando.
+
+—Lunar Pearl —dijo. No era pregunta—. Varek sabe lo de Lunar Pearl.
+
+—Sabe que fuimos. —Kal se miró las manos—. Sabe cómo.
 
 Nadir asintió despacio. Miró la manzana. La puso sobre el cajón, junto a la pierna de Héctor, con cuidado, como si fuera de vidrio.
 
@@ -137,6 +157,10 @@ Kal no contestó.
 —No sé todavía.
 
 —Sí sabes. —Héctor dejó el termo entre las botas—. Sabes lo que haría el de los caballos. Lo sabes porque llevas años viéndolo hacerlo. Lo que no sabes es si lo vas a hacer tú.
+
+—Si Varek estuviera seguro —dijo Kal—, no salgo de ese cuarto.
+
+—Sí sales. —Héctor ni lo pensó—. Un muerto no devuelve nada. Quiere su piedra, muchacho, no a ti. Mientras no la tenga, estás vivo. —Se acomodó la pierna sobre el cajón—. Y ella también.
 
 Desde el lote llegaba el ruido de un compresor que alguien había dejado prendido. Kal lo oía arrancar y detenerse.
 
@@ -180,7 +204,39 @@ Nadir abrió la boca para decir algo y la cerró. Se agachó, recogió la manzan
 
 —Y nadie más lo sabe —dijo Kal—. Ni los muchachos. Ni Bonnie.
 
-Héctor asintió una vez. Nadir no asintió, pero tampoco dijo que no.
+Héctor asintió una vez. Nadir no asintió, pero tampoco dijo que no. Se fue hacia el lote sin despedirse.
+
+Kal se quedó bajo el alero.
+
+—Lo que no se vendió —dijo.
+
+Héctor no preguntó qué.
+
+—No puede seguir donde está.
+
+—¿Dónde está?
+
+—Si saben lo de la vuelta, saben dónde vive ella. —Kal miró hacia la calle, hacia donde quedaba, a dos cuadras, la casa de la reja verde—. Y donde vive ella es el primer lugar donde uno busca.
+
+Héctor tardó en entender. Cuando entendió, cerró los ojos un momento.
+
+—En la casa de las niñas —dijo, bajo—. Muchacho.
+
+—Ya sé.
+
+—¿Ya sabes? —Héctor abrió los ojos—. ¿Y ahora qué quieres?
+
+—Tu casa. —Kal no apartó la vista—. Está al lado. Para llevarla no tengo que pisar la calle. Y nadie mira la casa de al lado; miran la que tiene la luz prendida toda la noche.
+
+Héctor se rió por la nariz, sin ganas. Se miró la camisa, la de cuadros, la de toda la semana, con la manga zurcida en el codo.
+
+—A mí nadie me roba, muchacho. Mírame.
+
+—Por eso.
+
+Héctor se quedó callado un rato. Enroscó la tapa del termo, la desenroscó, la volvió a enroscar.
+
+—La estufa de leña —dijo al fin—. La de la cocina. No la prendo desde que se fue ella. Tiene una tapa atrás, con cuatro tornillos. —Volvió a estirar la pierna—. Y no me digas cuándo. No quiero saber cuándo.
 
 ***
 
@@ -204,13 +260,13 @@ Kal siguió limpiando la bomba.
 
 Meiko no contestó.
 
-—Me preguntó por las latas. —Le dio la vuelta a la pieza—. Me dijo que el primer tiro de Bonnie fue para un almendro.
+—Me habló de Lunar Pearl. —Le dio la vuelta a la pieza—. Me dijo que la que manejaba le dio una vuelta de más a la punta. Para que el helicóptero no se perdiera.
 
 El perro del lote de al lado se levantó, se sacudió y se volvió a acostar. Se oyó el tintineo de la placa en el collar.
 
 Meiko estuvo callada un rato largo. No miraba a Kal. Miraba la llanta debajo de su mano, y con el pulgar le iba siguiendo una grieta del hule, despacio, hacia un lado y hacia el otro.
 
-—No le dije de Bonnie —dijo al fin—. Le dije del árbol.
+—No fue por el helicóptero —dijo al fin—. Fue porque Harper no había dado la señal.
 
 Kal dejó de limpiar.
 
@@ -226,9 +282,15 @@ Ella se encogió de hombros. Era el mismo gesto con el que explicaba las rutas, 
 
 —Quién llegaba. En qué coche, con quién. Quién se iba con quién, y a qué hora. A qué hora llegaba usted, a qué hora se iba. —Hizo una pausa—. Lo que se ve desde la rampa. Nadie mira a la que le recibe las llaves.
 
-—¿Y lo del Patio?
+—¿Y Lunar Pearl?
 
-—Poco. Lo que preguntaban. —Pensó—. Lo de Lunar Pearl no. Eso no. —Lo dijo mirándolo, la única vez que lo miró de frente en toda la noche, y después volvió a la llanta—. Lo de las latas me lo preguntaron. Querían saber qué hacía usted los martes.
+El pulgar se detuvo en la grieta.
+
+—En marzo. —Lo dijo plano—. La calle ya decía que había sido usted. Ellos no querían saberlo; ya lo sabían. Querían que se los dijera alguien que hubiera estado. —Lo miró, la única vez que lo miró de frente en toda la noche—. Me preguntaron si yo manejaba. Les dije que sí.
+
+—¿Qué más?
+
+—Lo del casino. La copa, abajo, mientras nos buscaban. La vuelta. —Volvió a la llanta—. No dije quién más iba. No me lo preguntaron.
 
 Kal dejó la bomba sobre el banco. Dobló el trapo en dos, y otra vez en dos, y lo dejó al lado.
 
@@ -318,13 +380,33 @@ Ella no preguntó más. Desde los frenos no preguntaba más que eso: el nombre d
 
 Kal se quedó mirando el techo. Por la ventana entraba un poco de luna, y se dibujaba en el techo un rectángulo pálido con la sombra de una rama de abeto partiéndolo en dos.
 
-Pensó en la rampa del Monarch. En las llaves. En quién llegaba con quién, y en quién lo veía llegar, y en lo que Chiara iba a pensar de cada noche de los últimos tres meses, de cada coche, de cada cara, si él se lo decía ahora: que en su propia puerta, la muchacha que le abría el Lancia le contaba a Varek quién entraba y con quién se iba. Y pensó que no podía decírselo sin decirle también lo otro, todo lo otro, lo de la calle Fowler y lo de la plática y lo del jueves, y lo que iban a decidir después.
+Pensó en la rampa del Monarch. En las llaves. En quién llegaba con quién, y en quién lo veía llegar, y en lo que Chiara iba a pensar de cada noche de los últimos tres meses, de cada coche, de cada cara, si él se lo decía ahora: que en su propia puerta, la muchacha que le abría el Lancia le contaba a Varek quién entraba y con quién se iba; y que Varek sabía desde marzo quién le había sacado de la vitrina la piedra con el nombre de su hija, y le seguía dando la mano a Kal con la misma cortesía. Y pensó que no podía decírselo sin decirle también lo otro, todo lo otro, lo de la calle Fowler y lo de la plática y lo del jueves, y lo que iban a decidir después.
 
 —Bien —dijo—. Están bien.
 
 Chiara respiró hondo contra su hombro y se quedó dormida en pocos minutos, como se dormía cuando él llegaba.
 
 Kal no. Se quedó con los ojos abiertos, mirando el rectángulo del techo. En algún momento de la madrugada se levantó viento en los cerros, y la sombra de la rama se movió en el techo de un lado a otro, despacio, y después se quedó quieta.
+
+***
+
+El martes, a las once de la noche, las chicas estaban en la rampa del Monarch, y la casa de la reja verde tenía la luz del pasillo prendida, como siempre.
+
+Kal entró con la llave de todos. No prendió nada. Fue al cuarto de lavar con la luz que llegaba del pasillo, se arrodilló frente al calentador y le quitó la tapa: cuatro tornillos, los mismos que había apretado un domingo de febrero mientras Bonnie le pasaba las llaves de la caja. Lo que buscaba estaba donde lo había dejado, al fondo, envuelto en un trapo de taller. No lo desenvolvió. Se lo metió en la chaqueta, volvió a poner la tapa y apretó los cuatro tornillos, uno por uno, parejo.
+
+Salió por la puerta de atrás. Entre el patio de las chicas y el de Héctor había una cerca de alambre baja, con un hueco al pie que habían abierto los perros, y Kal pasó por el hueco sin tocar el alambre. La puerta de la cocina de Héctor no tenía llave. Nunca tenía.
+
+Héctor estaba sentado a la mesa, a oscuras, con la pierna mala estirada sobre otra silla. No se levantó. Miraba la ventana.
+
+Kal le quitó la tapa a la estufa. Cuatro tornillos, duros de óxido. Metió el trapo hasta el fondo, detrás de la parrilla, en la ceniza vieja, y volvió a poner la tapa.
+
+Héctor no había mirado la estufa ni una vez.
+
+—Ya —dijo Kal.
+
+—No me digas.
+
+Kal salió por donde había entrado. En la calle, un coche pasó despacio, con las luces bajas, y dio la vuelta en la esquina. Kal esperó en la sombra de la cerca hasta que el ruido del motor se perdió, y se perdió.
 
 ***
 

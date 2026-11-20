@@ -70,12 +70,14 @@
 - **Saldo:** Kal ve callada a Meiko y lo lee como timidez.
 
 ### T7 · Lo del hermano — días después · Kal · una reunión con Dario (el paraguas); El Patio
+- **SUPERADO EN PARTE (DECISIÓN DEL AUTOR, 2026-11-19):** lo que delata a Meiko ya no son las latas, sino Lunar Pearl: Varek suelta la vuelta de más y le pide la piedra a Kal (primer roce); Kal muda el Lussia a casa de Héctor. Ver [[11_Books/00_Arco_Meiko_Nakano]].
 - **Trama (P, el hecho que la expone):** Dario, todavía humillado por Lunar Pearl, le recuerda a Kal que lo ve todo y le menciona, de pasada, que ahora enseña a tirar a las niñas. En las latas sólo estaban Kal, Bonnie y Meiko. «Lo del hermano queda saldado» le cae de golpe (C): el hombre de Varek sabía que Kal había pagado por el hermano de Meiko. Kal se lo dice sólo a Nadir y a Héctor; Héctor le pide calma, porque es una niña que actuó por miedo; Kal pospone el juicio hasta acabar la operación y se lo dice a Meiko; Nadir, decepcionado, también se lo dice antes de empezar (C).
 - **Relación:** **no se lo dice a Chiara (P).** Meiko sirve en los eventos de ella (C); lo que filtró sale de esas salas. Es el secreto más caro de Kal en la Parte.
 - **Por eso:** la operación (D9, P) es contra el corralón de los Calderos en Las Calderas: recuperar la esquina que Crowe le quitó al Patio en T4. Ya estaba planeada, y por eso el juicio espera a que termine.
 - **Saldo:** el ruido de Varek sube y no pasa de ruido (C). **Guarda:** lo que Meiko filtró no incluye el Lancia (Tommaso lo pidió prestado ese mismo día, C), así que F2 no prueba los frenos. Kal no puede encarar a Dario sin revelar que lo sabe.
 
 ### T8 · Perdóname, jefe — fin de abr – principios de mayo · Nadir (P, invitado de la Parte) · el corralón; la camioneta; El Patio
+- **SUPERADO (DECISIONES DEL AUTOR, 2026-11-18/19):** POV de Bonnie; el robo en casa de Héctor, el radio, la destilería. Ver [[11_Books/00_Arco_Meiko_Nakano]].
 - **Trama:** F2-A completo (C): la puñalada en la femoral, el torniquete que no aguanta, la regla del Patio, la muerte en El Patio en manos de Nadir («¡Mei, Mei, Mei, Mei!»), Bonnie pidiendo una ambulancia, «Perdóname, jefe.» y los ojos que miran a la nada y a Kal a la vez. Otros chicos vuelven heridos y van después al hospital con una historia armada, lo que trae preguntas y policías de Varek (C, DISEÑO). **P (quién la apuñala):** el Caldero que sobrevivió al levantón, el que Kal perdonó y que contó que «la mujer de Mercer ejecuta» (P15 de la Parte II).
 - **Relación:** Nadir carga las manos y Kal, el perdón. Lo último que Nadir le dio fue su decepción (DISEÑO).
 - **Por eso, corregido (DECISIÓN DEL AUTOR, 2026-11-12):** F2 no le enseña a Kal que «perdonar mata»; produce el duelo de la banda, que en el cap. 41 se mueve sin él (Nadir). El texto P que sigue queda como historial.

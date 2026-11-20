@@ -6,7 +6,7 @@ libro: Sombras de Poder (Libro II), Parte III — Exilio
 capitulo: 38
 pov: Bonnie García, único (interludio declarado)
 ventana_temporal: el jueves, finales de abril A4; de las nueve de la noche a la madrugada
-localizacion: la casa común de La Almendra; la casa de la reja verde (la casa de las chicas); la camioneta de Walt; la destilería de Walt, junto a las vías, sobre el Canal Seco
+localizacion: la casa común de La Almendra; la casa de la reja verde (la casa de las chicas) y la de Héctor, al lado; la camioneta de Walt; la destilería de Walt, junto a las vías, sobre el Canal Seco
 personajes: Bonnie García, Meiko Nakano, Kal Mercer, Nadir Amrani, Tyler Brooks, Danny Hayes, Harper Walker, Héctor Navarro, Chiara Bellandi (al teléfono y en la destilería), Walt Keegan, Camila Rivas
 hito: F2 — la muerte de Meiko
 ---
@@ -14,13 +14,13 @@ hito: F2 — la muerte de Meiko
 <!--
 > **Estado:** BORRADOR del agente (Claude Code), tercera versión (2026-11-19), para lectura del autor. Sustituye por completo la segunda versión (corralón, callejón y traslado a El Patio en POV de Nadir), que queda en el historial de git. Tercer capítulo del arco de Meiko; ejecuta F2. Diseño y decisiones: [[11_Books/00_Arco_Meiko_Nakano]], «F2 rehecho: el robo en la casa»; ruta del Lussia: [[11_Books/Book_02_Sombras_De_Poder/00_Columna_El_Caudillo]], «El Lussia».
 >
-> **DECISIONES DEL AUTOR (2026-11-18/19):** los Calderos entran a la casa de las chicas creyendo que es de Kal, por el Lussia, que Kal escondió ahí, y se lo llevan; el traslado va de la Almendra a la destilería de Walt; Bonnie está presente; la llamada a medianoche a Chiara porque hace falta un médico; POV de Bonnie; antes de la operación, en la casa común, Kal dice que Mei no va (todavía tiene dudas) y ahí cabe lo de Nadir; Bonnie no va por un resfriado con fiebre que le vuelve a ratos; el límite de palabras no importa si la lectura lo justifica. **(2026-11-19, segunda ronda):** la regla de los teléfonos se queda, pero los muchachos se comunican por radio; Bonnie abre el canal y Kal decide (corta la operación); Mei no contesta «Ya sé» a Nadir: reconoce que falló, ofrece pagarlo y le da algo útil, porque esa falla no es todo lo que es. **(2026-11-19, tercera ronda):** las chicas y Tyler son quienes normalmente manejan los coches rápidos de salida, que sacan a los que participan en la operación; por debajo de Kal son los mejores al volante. Bonnie conoce el radio de memoria. **(2026-11-19, cuarta ronda):** quien llama a Chiara es Kal, todavía en modo jefe; ella contesta con el ritual, él no lo sigue y ella entiende; Chiara operativa: «¿Estás herido?» / «Es para Mei.» / «Dame unos minutos. Mándame el punto de encuentro.»; Kal corta y avienta el celular al asiento del copiloto; el celular existe sin romper su regla. (Ritual, DECISIÓN DEL AUTOR 2026-11-19: con el tiempo el saludo va por turno; quien contesta primero dice «Ciao, bello/bella» y quien devuelve, «Ciao, bellissimo/bellissima». Chiara contesta «Ciao, bello»; Kal no devuelve «Ciao, bellissima».)
+> **DECISIONES DEL AUTOR (2026-11-18/19):** los Calderos entran a la casa de las chicas creyendo que es de Kal, por el Lussia, que Kal escondió ahí, y se lo llevan; el traslado va de la Almendra a la destilería de Walt; Bonnie está presente; la llamada a medianoche a Chiara porque hace falta un médico; POV de Bonnie; antes de la operación, en la casa común, Kal dice que Mei no va (todavía tiene dudas) y ahí cabe lo de Nadir; Bonnie no va por un resfriado con fiebre que le vuelve a ratos; el límite de palabras no importa si la lectura lo justifica. **(2026-11-19, segunda ronda):** la regla de los teléfonos se queda, pero los muchachos se comunican por radio; Bonnie abre el canal y Kal decide (corta la operación); Mei no contesta «Ya sé» a Nadir: reconoce que falló, ofrece pagarlo y le da algo útil, porque esa falla no es todo lo que es. **(2026-11-19, tercera ronda):** las chicas y Tyler son quienes normalmente manejan los coches rápidos de salida, que sacan a los que participan en la operación; por debajo de Kal son los mejores al volante. Bonnie conoce el radio de memoria. **(2026-11-19, cuarta ronda):** quien llama a Chiara es Kal, todavía en modo jefe; ella contesta con el ritual, él no lo sigue y ella entiende; Chiara operativa: «¿Estás herido?» / «Es para Mei.» / «Dame unos minutos. Mándame el punto de encuentro.»; Kal corta y avienta el celular al asiento del copiloto; el celular existe sin romper su regla. **(2026-11-19, quinta ronda, DECISIÓN DEL AUTOR):** el robo es en la **casa de Héctor**, al lado, donde Kal mudó el Lussia en el 37; Mei oye un vidrio, ve linternas, abre el radio con el volumen alto: «¿Ya volvieron?» / Kal: «Por este canal no.» / «Kal, hay alguien en casa de Héctor. Parece que le están robando.» (la única vez que no le dice «jefe»); Kal: «No entres», que va para allá, y a todos: «Nos retiramos. Todos de regreso a la Almendra. Ya.»; los ladrones oyen el radio y corren; Mei persigue al muchacho, lo agarra del brazo y en ese segundo ocurre el navajazo; él se va en pánico, llorando; en la casa Bonnie ve la sangre en la mezclilla, toma el teléfono para la ambulancia y Mei dice que no (la policía ya viene por el robo de al lado); Bonnie por el radio, con angustia: «Mei está herida. Su pierna está sangrando mucho.»; Kal, manejando, le da indicaciones y consigue a alguien: la llamada con Chiara y la destilería; Walt está en su casa y lleva a las chicas en su camioneta. (Ritual, DECISIÓN DEL AUTOR 2026-11-19: con el tiempo el saludo va por turno; quien contesta primero dice «Ciao, bello/bella» y quien devuelve, «Ciao, bellissimo/bellissima». Chiara contesta «Ciao, bello»; Kal no devuelve «Ciao, bellissima».)
 >
 > **CANON citado literal:** «¡Mei, Mei, Mei, Mei!»; «Perdóname, jefe.»; «—Eso ya no importa, estás aquí… con nosotros.» (CANON DEL AUTOR, 2026-11-13; ortografía normalizada). **CANON (hechos) que se conserva:** Nadir le dice antes de la operación que está decepcionado; puñalada muy arriba del muslo, en la femoral; el torniquete improvisado no aguanta, por la anatomía; ella misma defiende no ir al hospital («Por el hospital no. Los ata.»); muere en manos de Nadir, con la banda alrededor; Bonnie le sostiene la mano y pide una ambulancia; los ojos miran a la nada y a Kal a la vez; Kal no llora; el silencio de los chalecos.
 >
-> **DISEÑO del agente:** los dos hábitos de Mei sin explicar (la luz del pasillo y la puerta con doble llave, que deja al muchacho sin otra salida que pasar junto a ella); ella se pega a la pared para dejarlo pasar y él la apuñala al pasar; el calentador que Kal «arregló» en febrero (la piedra no se nombra); «Dijiste que te rozó. No te rozó.»; la patrulla en sentido contrario; «¿Tienes fiebre?» y «Cuando vuelvas, apágala»; Camila: «Hace media hora era un hospital. Ahora es esto.»; Chiara ya armando la versión; Nadir le da a Mei el radio de Bonnie, que se quedó en el cargador («Escucha. No hables.»); esa noche faltan dos de los coches de salida y Nadir lleva la de atrás; el tope antes del poste, el dato de Mei que Nadir usa para sacar a todos y que ella oye por el radio; Kal pregunta en ráfaga, rompe el protocolo, alza la voz por única vez («¡Cortamos!»), pasa a Bonnie al canal tres y le deja el botón apretado para que oiga la llamada; «Se arregla»; el desechable de la llamada de después (el único teléfono que sale a una operación, con un solo número, marcado de memoria); sale con el último; «¿Frenaron antes del poste?». **Por revisar al propagar:** que el corralón quede cortado a medias (la esquina de Canal Seco) en los capítulos siguientes.
+> **DISEÑO del agente:** ~~los dos hábitos de Mei como trampa del muchacho; ella se pega a la pared para dejarlo pasar; el calentador de la casa de las chicas~~ (SUPERADO, quinta ronda); la luz del pasillo y la doble llave como hábitos sin explicar; Mei confiesa a Bonnie lo de Lunar Pearl («Les dije que fuimos nosotros. Que yo manejaba.»); la linterna que se detiene donde está la estufa vieja; Nadir: «Khoya. ¿Por una casa?» y Kal no contesta; Mei, que deja pasar cuando es para ella, no deja pasar al que le robó a Héctor (sin decirse); «Se me fue»; «No. Tú sácalos»; «Saco a los muchachos y voy»; «Dijiste que te rozó. No te rozó.»; la patrulla en sentido contrario; «¿Tienes fiebre?» y «Cuando vuelvas, apágala»; Camila: «Hace media hora era un hospital. Ahora es esto.»; Chiara ya armando la versión; Nadir le da a Mei el radio de Bonnie, que se quedó en el cargador («Escucha. No hables.»); esa noche faltan dos de los coches de salida y Nadir lleva la de atrás; el tope antes del poste, el dato de Mei que Nadir usa para sacar a todos y que ella oye por el radio; Kal pregunta en ráfaga, rompe el protocolo, pasa a Bonnie al canal tres y le deja el botón apretado para que oiga la llamada; «Se arregla»; el desechable de la llamada de después (el único teléfono que sale a una operación, con un solo número, marcado de memoria); sale con el último; «¿Frenaron antes del poste?». **Por revisar al propagar:** que el corralón quede cortado a medias (la esquina de Canal Seco) en los capítulos siguientes.
 >
-> **Guardas:** nada en la página sugiere que la filtración de Mei la mató; el Lussia no se nombra y por el radio no se menciona el calentador (Kal no revisa el escondite hasta después del funeral, DECISIÓN DEL AUTOR 2026-11-19); el muchacho no tiene nombre ni cara; los Calderos no se nombran en la casa.
+> **Guardas:** ~~nada en la página sugiere que la filtración de Mei la mató~~ (retirada, DECISIÓN DEL AUTOR 2026-11-19: la cadena confesión → mudanza → robo queda a la vista del lector desde el 37, pero ningún personaje la dice); el Lussia no se nombra y por el radio nadie dice qué hay en casa de Héctor (Kal no revisa el escondite hasta después del funeral, DECISIÓN DEL AUTOR 2026-11-19); el muchacho no tiene nombre ni cara; los Calderos no se nombran en la casa.
 -->
 
 # Perdóname, jefe
@@ -87,7 +87,7 @@ Bonnie se quedó mirando la puerta. Le volvió el frío por la espalda. Pensó q
 
 ***
 
-La casa de la reja verde estaba a dos cuadras. Caminaron sin hablar. Mei le abrió la reja, le abrió la puerta, cerró por dentro con llave y después volvió a echar la llave, la segunda vuelta, como hacía siempre, como si una no alcanzara. Prendió la luz del pasillo. Esa luz no se apagaba nunca: desde lo de Boone, Mei no dormía con la casa a oscuras, y Bonnie había dejado de preguntar hacía mucho.
+La casa de la reja verde estaba a dos cuadras. Caminaron sin hablar. La de al lado, la de Héctor, estaba a oscuras: Héctor iba esa noche en una de las camionetas, con su escáner y su radio. Mei le abrió la reja, le abrió la puerta, cerró por dentro con llave y después volvió a echar la llave, la segunda vuelta, como hacía siempre, como si una no alcanzara. Prendió la luz del pasillo. Esa luz no se apagaba nunca: desde lo de Boone, Mei no dormía con la casa a oscuras, y Bonnie había dejado de preguntar hacía mucho.
 
 Bonnie se acostó en el sillón de la sala con la manta y el té frío. Mei se sentó en el suelo, con la espalda contra el sillón y las rodillas recogidas, donde Bonnie no le veía la cara, sólo la nuca y el pelo. Puso el radio en el piso, junto a la rodilla, con el volumen bajo.
 
@@ -101,13 +101,19 @@ Mei tardó en contestar. Afuera pasó un coche despacio y la luz de sus faros se
 
 Bonnie no dijo nada. Aguantó el silencio, como aguantaba siempre los silencios, y esperó a que llegara lo demás. Llegó en el orden en que había pasado, porque Mei contaba así cuando por fin contaba: Kaito y lo que debía, los dos hombres a la salida del Monarch a las dos de la mañana, la familia que quedaba, el dinero o la plática. La rampa. Las llaves. Quién llegaba con quién.
 
-—¿Lo mío también? —preguntó Bonnie.
+—¿Nada más eso? —preguntó Bonnie.
 
-—Lo del árbol. —Mei movió un poco la cabeza contra el sillón—. No dije que fuiste tú. Dije del árbol.
+Mei tardó.
 
-Bonnie se acordó del almendro, del tronco recibiendo el tiro, de la voz de Kal repitiéndolo. Le había parecido una de las cosas buenas de ese mes.
+—En marzo me preguntaron por Lunar Pearl.
 
-—Da igual —dijo.
+Bonnie se quedó quieta debajo de la manta. Ella había estado en la calle esa noche, frente a la vitrina, leyendo a los guardias.
+
+—¿Y?
+
+—Les dije que fuimos nosotros. —Mei movió un poco la cabeza contra el sillón—. Que yo manejaba.
+
+Bonnie no dijo nada. Pensó en el helicóptero, en el foco blanco encima del coche, en Mei dándole una vuelta de más a la punta mientras Harper no contestaba, y en la risa que se le oía por el radio. Le había parecido la mejor noche del invierno.
 
 —¿Kal qué dijo?
 
@@ -137,51 +143,95 @@ Se levantó con el radio en la mano. Bonnie la vio ir por el pasillo, debajo de 
 
 ***
 
-La despertó el frío.
+La despertó un vidrio.
 
-No supo cuánto había dormido. La sala estaba a oscuras y la luz del pasillo seguía prendida, y del fondo de la casa, de la cocina o del cuarto de lavar, venía un ruido que no era de la casa: metal contra metal, chico, paciente, como alguien que desatornilla algo con cuidado de no despertar a nadie.
+No supo cuánto había dormido. La sala estaba a oscuras y la luz del pasillo seguía prendida. El ruido había venido de afuera, chico y seco: un vidrio que se rompe de un solo golpe y cae en pedazos sobre algo blando. En el patio de al lado ladró un perro, dos veces, y se calló.
 
-Bonnie se quedó quieta. El corazón le pegaba en los oídos.
+Mei estaba en la ventana.
 
-Se oyó una voz, de hombre, muy baja, que no entendió. Otra le contestó. Una linterna se movía en el cuarto de lavar; se veía el reflejo pasar por la puerta de la cocina, de un lado a otro. Ahí estaba el calentador. Bonnie se acordó, sin querer acordarse, de Kal en febrero, un domingo, con la caja de herramientas y la tapa del calentador en el suelo, diciendo que ya estaba, que había sido el termostato, que nadie lo tocara.
+De pie, descalza, con la chaqueta encima de la camiseta de dormir, como si no se hubiera acostado. Apartaba la cortina con dos dedos. En la otra mano tenía el radio. Bonnie se levantó con la manta encima y llegó a su lado, con el frío de la fiebre metido en la espalda.
 
-Se levantó despacio. Le temblaban las piernas, de la fiebre o de lo otro. Llegó al borde del pasillo.
+La casa de Héctor estaba a oscuras, como tenía que estar. Pero adentro, detrás de la ventana de la cocina, se movía una luz. Una linterna. Pasó de un lado al otro, se detuvo, y otra la cruzó.
 
-Mei ya estaba ahí.
+Mei abrió la puerta. Quitó las dos vueltas de llave sin mirar y salió al porche, y Bonnie salió detrás, hasta el umbral. Desde el porche se veía el costado de la casa de Héctor, el pasillo de tierra entre las dos rejas, la ventana de la cocina con un hueco negro en una esquina donde antes había vidrio.
 
-Estaba de pie en el pasillo, debajo de la luz, descalza, con la chaqueta encima de la camiseta de dormir, como si no se hubiera acostado. El radio le asomaba del bolsillo, con la perilla del volumen hasta abajo. Miraba hacia la cocina. No miraba a Bonnie.
+Mei le subió el volumen al radio con el pulgar, todo, y apretó.
 
-En la cocina alguien dijo «Ya» y la linterna se apagó, y hubo pasos rápidos, dos, tres hombres, y el golpe de la puerta de atrás contra la pared, y un perro que empezó a ladrar en el patio de al lado, y luego otro. Se iban. Se iban por atrás.
+—¿Ya volvieron?
 
-Y del cuarto de la entrada, el de las cajas, el que daba a la puerta principal, salió corriendo alguien más.
+Soltó. Salió el mar, fuerte, en el porche. Y después la voz de Kal, cortada, con un motor detrás:
 
-Era un muchacho. Bonnie lo vio entero un segundo, debajo de la luz del pasillo: más chico que Mei, flaco, con una sudadera oscura y la capucha puesta, la cara en sombra. Se había quedado en la entrada, vigilando la puerta de la calle, y ahora la puerta de la calle estaba cerrada con dos vueltas de llave y los suyos se habían ido por atrás, y entre él y la puerta de atrás estaba el pasillo, y en el pasillo estaba Mei.
+—Por este canal no.
 
-Mei se pegó a la pared.
+Mei miró la linterna. Se había quedado quieta en un lugar, al fondo de la cocina, abajo, donde estaba la estufa vieja. Bonnie la vio tomar aire una sola vez. Apretó.
 
-Bonnie lo vio. Mei se hizo a un lado, de espaldas contra la pared del pasillo, para dejarlo pasar. El pasillo era angosto, cabía uno y medio, y ella le dejó el uno.
+—Kal, hay alguien en casa de Héctor. Parece que le están robando.
 
-El muchacho pasó corriendo. Al pasar junto a ella, la mano le subió y le bajó una sola vez, rápido, de abajo hacia arriba, casi sin fuerza, como quien empuja una puerta para abrirse paso. Algo brilló en la mano. Bonnie vio el mango, a la luz del pasillo: pintado, con flamas verdes.
+Bonnie lo oyó y lo volvió a oír por dentro. Kal. No jefe. En casi dos años no le había oído a Mei decirle por su nombre.
 
-Mei hizo un ruido. «Ah.» Como cuando uno pisa un escalón que no estaba.
+Soltó. El mar duró un segundo de más.
 
-El muchacho siguió por la cocina y salió por la puerta de atrás, y Bonnie lo oyó brincar la barda del patio, y lo oyó del otro lado, corriendo por el callejón, y oyó otra cosa: un ruido de garganta, cortado, el de alguien que llora mientras corre.
+—No entres —dijo Kal.
 
-Después no se oyó nada más que los perros.
+—No.
+
+—Voy para allá.
+
+Otro segundo. Después la voz de Kal otra vez, ya no para ella, para todos, la misma con la que repartía chalecos:
+
+—Nos retiramos. Todos de regreso a la Almendra. Ya.
+
+El canal se llenó de golpe. Alguien dijo «¿qué?», cortado. Tyler dijo «jefe», con la pregunta adentro. Y Nadir, más claro que los otros:
+
+—Khoya. ¿Por una casa?
+
+Kal no contestó eso.
+
+—Ya.
+
+Nadir no preguntó más. Cuando volvió a hablar, ya era para los demás:
+
+—Por atrás. Por el tope. Luces apagadas, y frenen antes del poste.
+
+Mei bajó la vista al radio. Seguía en su mano con todo el volumen, voces encimadas, motores, puertas, y en la cara, a la luz del farol, tenía algo que Bonnie no supo nombrar y que se parecía al orgullo.
+
+—Antes del poste —dijo, bajito, a un radio que nadie estaba apretando—. No después.
+
+Al lado, la linterna se apagó.
+
+Se apagó de golpe, como se apaga una cosa cuando alguien oye algo. La puerta de atrás de Héctor pegó contra la pared. Hubo pasos en la grava del patio, dos, tres hombres, y el alambre de la cerca del fondo sonó como suena cuando alguien se le cuelga encima. Se iban por atrás.
+
+Y por el pasillo de tierra entre las dos casas, del lado de la calle, salió corriendo alguien más.
+
+Era un muchacho. Bonnie lo vio entero un segundo, debajo del farol: más chico que Mei, flaco, con una sudadera oscura y la capucha puesta, la cara en sombra. Se había quedado en la puerta de enfrente, vigilando la calle, y los suyos se habían ido por atrás sin él, y había salido por el único lado que le quedaba, hacia la luz, hacia ellas.
+
+Mei bajó del porche.
+
+No lo pensó. Bonnie se lo vio en el cuerpo, como se lo había visto cien veces al bajarse del coche de salida cuando alguien no llegaba. El muchacho la vio y torció hacia la calle, y Mei cortó por el jardín y lo alcanzó en la reja, debajo del farol, y lo agarró del brazo.
+
+Fue un segundo. Menos. Él se dio vuelta con el brazo agarrado, y la otra mano le subió y le bajó una sola vez, rápido, de abajo hacia arriba, casi sin fuerza, como quien empuja una puerta para abrirse paso. Algo brilló bajo el farol. Bonnie vio el mango: pintado, con flamas verdes.
+
+Mei hizo un ruido. «Ah.» Como cuando uno pisa un escalón que no estaba. Y lo soltó.
+
+El muchacho se fue calle abajo, y Bonnie lo oyó hasta la esquina. No los pasos: otra cosa. Un ruido de garganta, cortado, el de alguien que llora mientras corre. «No, no, no», decía, o algo así, a nadie.
+
+Después no se oyó nada más que los perros, y el radio en la mano de Mei, todavía con todo el volumen, lleno de motores.
 
 ***
 
-—Me rozó —dijo Mei.
+—Se me fue —dijo Mei.
 
-Seguía de pie. Tenía una mano en la cadera, del lado izquierdo, y con la otra se apoyaba en la pared. Miró hacia la cocina, hacia el cuarto de lavar, y Bonnie siguió su mirada: en el piso, a la luz del pasillo que llegaba hasta ahí, estaba la tapa del calentador, y los tornillos, cuatro, alineados al lado, como los pone alguien que piensa volver a atornillar.
+Volvió caminando por el jardín, despacio. Subió el escalón del porche. Tenía una mano en la cadera, del lado izquierdo, y con la otra le bajó por fin el volumen al radio y se lo metió en el bolsillo de la chaqueta.
 
-Mei no dijo nada del calentador. Dio un paso hacia la sala.
+—Me rozó. No es nada.
+
+Bonnie la hizo entrar. Mei dio un paso en el pasillo, debajo de la luz, y otro.
 
 Al segundo paso se le dobló la pierna.
 
 Bonnie la agarró antes de que llegara al suelo y bajaron juntas, despacio, hasta quedar sentadas en el piso del pasillo, debajo de la luz. Mei tenía la espalda contra la pared y la mano en la cadera. Respiraba rápido.
 
-—Me rozó —repitió—. No es nada. Fue el susto.
+—Me rozó —repitió—. Fue el susto.
 
 Bonnie le apartó la mano.
 
@@ -195,6 +245,22 @@ Mei se miró la pierna. Se quedó mirándola un momento, y Bonnie le vio en la c
 
 Bonnie apretó con las dos manos. La sangre le salió entre los dedos.
 
+—Una ambulancia. —Lo dijo para ella misma. Soltó con una mano y buscó el teléfono en la bolsa de la sudadera; era el único de la casa que no estaba en la caja de zapatos. Lo desbloqueó con el pulgar manchado—. Una ambulancia, Mei.
+
+Mei le agarró la muñeca.
+
+—No.
+
+—Mei…
+
+—Por el hospital no. —Respiró—. Al lado acaban de robar. Ya llamaron, ya vienen. Llega una muchacha acuchillada a urgencias a la misma hora, de la casa de junto… —Cerró los ojos—. Los ata.
+
+—Te estás…
+
+—Los ata, Bon.
+
+No le soltó la muñeca hasta que Bonnie dejó el teléfono en el piso.
+
 Había una correa de trinquete en la caja de herramientas de la entrada, la que usaban para amarrar cosas al techo del Camaro. Bonnie la fue a buscar a gatas, sin soltar la vista de Mei, y volvió, y se la pasó por debajo de la pierna, arriba, lo más arriba que pudo. No había más arriba. La herida estaba donde se acababa la pierna. Apretó el trinquete una vez, dos, tres, y Mei echó la cabeza hacia atrás contra la pared y no gritó, y la correa resbaló sobre la mezclilla mojada y se fue hacia abajo, sobre la herida, y la sangre siguió saliendo por los lados como si la correa no estuviera.
 
 Bonnie la soltó y volvió a apretar con las manos.
@@ -203,25 +269,11 @@ Bonnie la soltó y volvió a apretar con las manos.
 
 El radio.
 
-Bonnie se lo sacó a Mei del bolsillo con una mano, sin soltar con la otra. Estaba tibio y pegajoso. Era el suyo; le sintió la cinta de la antena con los dedos.
+Bonnie se lo sacó a Mei del bolsillo con una mano, sin soltar con la otra. Estaba tibio y pegajoso. Era el suyo; le sintió la cinta de la antena con los dedos. Le subió el volumen con el pulgar, sin mirarlo, como cien veces desde el asiento del coche de salida, y apretó.
 
-—Está en el dos —dijo Mei, con los ojos cerrados.
+—Kal. —En ese canal se hablaba con claves y la fiebre se las había borrado, igual que los números. Se le quebró la voz y no la arregló—. Mei está herida. Su pierna está sangrando mucho.
 
-—Ya sé.
-
-Le subió el volumen con el pulgar, sin mirarlo, como cien veces desde el asiento del coche de salida. Salió un silbido y después nada, el ruido de fondo de un canal abierto, como de mar. Apretó.
-
-—Kal. —En ese canal se hablaba con claves y la fiebre se las había borrado, igual que los números—. Kal, es Bonnie.
-
-Soltó. El mar. Volvió a apretar.
-
-—Kal.
-
-—Aquí. —La voz de Kal, entrecortada, de muy lejos, con un motor detrás.
-
-—Entraron a la casa. Apuñalaron a Mei. —Se le acabó el aire. Soltó el botón sin querer y lo volvió a apretar—. Se fueron. Eran tres o cuatro. Ya no están.
-
-Soltó.
+Soltó. El canal, que estaba lleno de motores, se quedó callado de golpe, como si todos hubieran soltado el botón al mismo tiempo.
 
 —¿Dónde? —Kal, sin clave, sin nada—. ¿Dónde la tiene, Bonnie?
 
@@ -233,47 +285,21 @@ Soltó.
 
 —¿Cuánto hace?
 
-—No sé. Diez minutos.
+—No sé. Cinco minutos. Diez.
 
 —¿Habla?
 
-—Sí.
+—Sí. —Bonnie apretó el botón con el pulgar y la pierna con lo demás—. Dice que al hospital no.
 
-Bonnie oyó el motor. Y por debajo, otra cosa: alguien que respiraba cerca de un radio sin apretarlo del todo. Mei abrió los ojos y miró el radio en la mano de Bonnie.
+—Ya sé. —No tardó nada—. Yo consigo a alguien.
 
-—Kal —dijo Bonnie—. Una ambulancia.
-
-Mei levantó la mano. No alcanzó el radio. Le agarró a Bonnie la muñeca y se la bajó, despacio, hasta tenerlo junto a la boca, y Bonnie apretó el botón por ella.
-
-—Jefe. —Respiró—. Por el hospital no. Los ata.
-
-Bonnie soltó. Mei le volvió a jalar la muñeca. Bonnie apretó.
-
-—La casa es suya. Llegan aquí y ven todo. —Cerró los ojos—. Los ata.
-
-El canal se quedó abierto y sin nadie. El motor, el metal, la respiración. Duró.
-
-Después, una voz rápida, que no era la de Kal:
+Por debajo del mar, una voz rápida que no era la de Kal:
 
 —Voy yo.
 
 Nadir.
 
-—No. —Kal—. Tú tienes la de atrás.
-
-Otro silencio, más corto. Y después Kal, a todos, con una voz que Bonnie no le había oído nunca por radio, porque Kal no gritaba por radio, no gritaba nunca:
-
-—¡Cortamos! ¡Todos fuera! ¡Ahora!
-
-Alguien dijo algo que se cortó. Alguien más dijo «jefe». Y Nadir, por encima de los dos:
-
-—Por atrás. Por el tope. Luces apagadas, y frenen antes del poste.
-
-Bonnie miró a Mei. Tenía la cabeza contra la pared y los ojos en el radio, y en la cara, debajo de lo blanco, algo que Bonnie no supo nombrar y que se parecía al orgullo.
-
-—Antes del poste —dijo Mei, bajito, a un radio que nadie estaba apretando—. No después.
-
-—Bonnie. —Kal otra vez, ya con la voz de siempre—. Al tres.
+—No. Tú sácalos. —Y otra vez para ella, más cerca del radio—: Bonnie. Al tres.
 
 Bonnie giró la perilla con el pulgar, tres clics, sin mirar. En el tres no había nadie. Sólo el mar, más limpio.
 
@@ -327,13 +353,13 @@ Bonnie se quedó con el mar.
 
 Nada. Después, al rato, el canal otra vez, y la voz de Kal con el motor detrás:
 
-—Walt va por ustedes. Cuatro minutos. A la destilería. —Una pausa—. Ahí va a estar el médico.
+—Walt está en su casa. Va por ustedes. Cuatro minutos. A la destilería. —Una pausa—. Ahí va a estar el médico.
 
 —¿Y tú?
 
-—Salgo con el último.
+—Saco a los muchachos y voy.
 
-A lo lejos empezó una sirena. Bonnie la oyó acercarse por la avenida, y en la casa de enfrente se prendió una luz, y luego otra en la de al lado. Alguien había llamado por los perros, por el portazo, por los hombres en el patio. Venían.
+A lo lejos empezó una sirena. Bonnie la oyó acercarse por la avenida, y en la casa de enfrente se prendió una luz, y luego otra en la de al lado. Alguien había llamado por el vidrio, por los perros, por los hombres en el patio de Héctor. Venían.
 
 —Kal. —Bonnie apretó—. La policía.
 
@@ -343,13 +369,13 @@ Bonnie dejó el radio en el piso, junto a la pierna de Mei, en el tres, abierto,
 
 ***
 
-Walt llegó en pantalón de pijama y botas de trabajo, con una chaqueta de mezclilla encima, y no preguntó nada más que por dónde. Por dónde la cargaban, por dónde salían. Abrió la puerta principal con las dos vueltas de llave de Mei, la levantó del piso con un brazo debajo de las rodillas y otro debajo de la espalda, como quien carga una caja que no se puede voltear, y Bonnie salió detrás sin quitarle las manos de la pierna, encorvada, caminando de lado.
+Walt llegó en pantalón de pijama y botas de trabajo, con una chaqueta de mezclilla encima, y no preguntó nada más que por dónde. Por dónde la cargaban, por dónde salían. Entró por la puerta, que nadie había vuelto a cerrar, la levantó del piso con un brazo debajo de las rodillas y otro debajo de la espalda, como quien carga una caja que no se puede voltear, y Bonnie salió detrás sin quitarle las manos de la pierna, encorvada, caminando de lado.
 
 La subieron al asiento de atrás de la camioneta. Mei quedó acostada a lo largo, con la cabeza en las piernas de Bonnie, y Bonnie se torció para alcanzar la herida y apretar. Walt arrancó.
 
 Al dar la vuelta en la avenida pasaron las luces.
 
-Venían en sentido contrario, despacio, sin sirena ya, rojas y azules, una patrulla y detrás otra. Iban hacia la casa. Pasaron junto a la camioneta, a dos metros, y las luces entraron por las ventanillas y le pasaron a Mei por la cara, de la frente a la barbilla, rojo, azul, rojo, y Bonnie vio que Mei las veía. Que tenía los ojos abiertos y miraba el techo de la camioneta pintado de esos colores, y que sabía adónde iban y adónde no iba ella.
+Venían en sentido contrario, despacio, sin sirena ya, rojas y azules, una patrulla y detrás otra. Iban hacia la casa de Héctor. Pasaron junto a la camioneta, a dos metros, y las luces entraron por las ventanillas y le pasaron a Mei por la cara, de la frente a la barbilla, rojo, azul, rojo, y Bonnie vio que Mei las veía. Que tenía los ojos abiertos y miraba el techo de la camioneta pintado de esos colores, y que sabía adónde iban y adónde no iba ella.
 
 Después las luces se quedaron atrás y el techo volvió a estar oscuro.
 
@@ -549,7 +575,7 @@ En el fondo de la nave, en el fregadero de lámina donde Walt lavaba las piezas 
 
 Walt le trajo una cobija y se la puso en los hombros sin decir nada. Bonnie no se había dado cuenta de que estaba temblando.
 
-Pensó en la casa. En la reja verde, en las dos vueltas de llave que ya nadie iba a dar, en el pasillo. Pensó en la luz del pasillo, prendida, sola, con la policía entrando y saliendo debajo de ella, con la tapa del calentador en el piso del cuarto de lavar y los cuatro tornillos alineados al lado.
+Pensó en la casa. En la reja verde, abierta, debajo del farol, en las dos vueltas de llave que ya nadie iba a dar. Pensó en la luz del pasillo, prendida, sola, y en las patrullas paradas en la casa de al lado, con las linternas entrando y saliendo por la puerta de Héctor.
 
 Cuando vuelvas, apágala.
 

@@ -33,7 +33,7 @@
 
 ---
 
-> **DECISIÓN DEL AUTOR (2026-11-18/19):** el Lussia era un diamante rojo de los Lusardi, perdido hace generaciones; Dario se quedó con él y lo rebautizó. En *Voto de Ceniza*, desde Italia, Tommaso ofrece comprárselo a Chiara y ayudarla; el vendedor intermediario filtra la cita a Halbrook. Ver [[11_Books/Book_02_Sombras_De_Poder/00_Columna_El_Caudillo]], «El Lussia».
+> **DECISIÓN DEL AUTOR (2026-11-18/19):** el Lussia era un diamante rojo de los Lusardi, perdido hace generaciones; Dario se quedó con él y lo rebautizó. En *Voto de Ceniza*, desde Italia, Tommaso ofrece comprárselo a Chiara y ayudarla; ~~el vendedor intermediario filtra la cita a Halbrook~~ **(DECISIÓN DEL AUTOR, 2026-11-19):** el vendedor es el joyero de Crowe, que vende para Halbrook sin saberlo. Dario compró la piedra sabiendo que era de los Lusardi: es la cuenta vieja de Tommaso. Después de la montaña, Kal le cierra la venta y la piedra vuelve a la familia. Ver [[11_Books/00_Cadena_De_Custodia_Lussia]]. Ver [[11_Books/Book_02_Sombras_De_Poder/00_Columna_El_Caudillo]], «El Lussia».
 
 ## Quien es
 

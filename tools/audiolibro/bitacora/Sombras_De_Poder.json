@@ -43,26 +43,26 @@
     "37_Lo_Del_Hermano.md": {
       "capitulo": 38,
       "titulo": "Lo del hermano",
-      "estado": "AL DIA",
-      "motivo": "",
+      "estado": "PENDIENTE",
+      "motivo": "cambió la prosa",
       "audio": "2026-11-19",
-      "desde": "2026-11-18 11:59"
+      "desde": "2026-11-19 09:33"
     },
     "38_Perdoname_Jefe.md": {
       "capitulo": 39,
       "titulo": "Perdóname, jefe",
-      "estado": "AL DIA",
-      "motivo": "",
+      "estado": "PENDIENTE",
+      "motivo": "cambió la prosa",
       "audio": "2026-11-19",
-      "desde": "2026-11-18 11:59"
+      "desde": "2026-11-19 09:33"
     },
     "39_Lo_Que_Queda.md": {
       "capitulo": 40,
       "titulo": "Lo que queda",
-      "estado": "AL DIA",
-      "motivo": "",
+      "estado": "PENDIENTE",
+      "motivo": "cambió la prosa",
       "audio": "2026-11-19",
-      "desde": "2026-11-18 11:59"
+      "desde": "2026-11-19 09:33"
     },
     "45_Lo_Poco_Que_Llegue_A_Saber.md": {
       "capitulo": 46,
@@ -150,6 +150,21 @@
       "2026-11-01 01:15",
       "-",
       "bitácora iniciada"
+    ],
+    [
+      "2026-11-19 09:33",
+      "Cap. 38 (37_Lo_Del_Hermano.md)",
+      "audio pendiente: cambió la prosa"
+    ],
+    [
+      "2026-11-19 09:33",
+      "Cap. 39 (38_Perdoname_Jefe.md)",
+      "audio pendiente: cambió la prosa"
+    ],
+    [
+      "2026-11-19 09:33",
+      "Cap. 40 (39_Lo_Que_Queda.md)",
+      "audio pendiente: cambió la prosa"
     ]
   ]
 }

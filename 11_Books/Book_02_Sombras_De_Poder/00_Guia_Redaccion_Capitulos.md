@@ -92,7 +92,7 @@ Calendario de dos años (5 ene A3 → dic A4), contado en bloques densos. Las el
 | 14 | la calle | El apodo nace afuera; Kal no puede verse bautizado. |
 | 27 | Harper | Su cálculo falló en el 26 y ella da la señal: ve completo el engaño que Kal, bajo tierra, no ve. Corta una racha larga de capítulos de Kal. |
 | 30 | Marisol | Paga el choque y ve venir la Lancia de Chiara. Desde fuera el choque sigue pareciendo destino; al volante, Tommaso rozaría el sabotaje. |
-| 38 | ~~Nadir~~ **Bonnie** (DECISIÓN DEL AUTOR, 2026-11-18; interludio declarado) | F2 rehecho: el robo en la casa de las chicas, la llamada a Chiara y la destilería. Bonnie está presente, pierde más y se va; sus dos capítulos (5 y 38, numeración de 58) abren y cierran a Meiko. Ver [[11_Books/00_Arco_Meiko_Nakano]], «F2 rehecho». |
+| 38 | ~~Nadir~~ **Bonnie** (DECISIÓN DEL AUTOR, 2026-11-18; interludio declarado) | F2 rehecho: el robo ~~en la casa de las chicas~~ en la casa de Héctor, al lado (2026-11-19), el radio, la llamada a Chiara y la destilería. Bonnie está presente, pierde más y se va; sus dos capítulos (5 y 38, numeración de 58) abren y cierran a Meiko. Ver [[11_Books/00_Arco_Meiko_Nakano]], «F2 rehecho». |
 
 **Descartados:** Tommaso en el 30 y el 35: su interioridad tendría que esquivar la línea con Meiko; el 35 queda para Chiara, que recibe su parte del Monarch. Walt en el 55: su cabeza explicaría lo de Amanda, que el lector tiene que deducir junto a Kal, y el capítulo es la revelación del origen de Kal. Meiko, Dario, Halbrook y Volpi, nunca. La Parte IV no lleva invitados: la mirada externa del 49 y el 53 cuida el embarazo, no le presta la voz a nadie.
 
@@ -476,6 +476,7 @@ Calendario de dos años (5 ene A3 → dic A4), contado en bloques densos. Las el
 - **Saldo:** la cuota de mayo a Varek, pagada por una mujer que acaba de ver adónde lleva pagarle. «Todo lo que llega se va o muere» se siente y no se dice.
 - **Ecos en el final:** la foto y este suelo vuelven en la noche de H1, sólo como recuerdo de Kal y de Chiara (ver la Parte IV, «Meiko en el final»).
 - **Redactado (BORRADOR, 2026-11-13):** [[11_Books/Book_02_Sombras_De_Poder/Part_03_Exilio/39_Lo_Que_Queda]]. La foto está en la repisa de mármol desde enero.
+- **La estufa (DECISIÓN DEL AUTOR, 2026-11-19):** antes de volver a la Villa, Kal revisa la estufa de Héctor y la encuentra vacía (fuera de página). Chiara le ve ceniza en el puño de la camisa y no pregunta.
 
 > **Elipsis D (mayo → junio, ~3 semanas).** **Aterriza en la cuota de junio, que Chiara paga tarde por primera vez** (P): su reloj también se descompone. Residuo: la casa vacía de La Almendra ya tiene otro inquilino.
 
@@ -527,6 +528,7 @@ F2 se queda en la Parte III, y el final la cobra **con ecos, no de forma textual
 - **Relación:** a la mañana siguiente, *El Faro* publica a los muertos; Chiara editó la nota sin el nombre del Patio, y la portada es la que mejor le sirve a Halbrook: «la violencia del sur alcanza a familias». Esa noche Kal se lo cuenta todo: es el primer secreto de la Parte que se suelta.
 - **Nadir (DECISIÓN DEL AUTOR):** su grieta entre la persona y la organización se vuelve acto. Es el primer paso de la separación voluntaria de Nadir, que se irá cumpliendo a lo largo de la saga.
 - **La trenza:** los chicos le callaron a Kal lo que Kal les enseñó a callar. Nadie lo dice.
+- **La piedra (DECISIÓN DEL AUTOR, 2026-11-19, sexta ronda; beat: DISEÑO):** en la oficina de Dario, Varek sigue dando el Lussia por perdido, sin acusar. Kal entiende que Dario no robó la estufa de Héctor (la encontró vacía la noche del entierro) y que hubo un tercero que sabía; piensa en el Tasador y no lo dice. Línea de Dario (DISEÑO del agente; el autor descartó la que nombraba a Lucía): «En mi ciudad no ha aparecido ninguna piedra roja, señor Mercer. Me extraña.» Ver [[11_Books/00_Cadena_De_Custodia_Lussia]].
 - **Saldo:** el Caldero, vivo. Kal pierde el paraguas de Dario justo cuando las bandas van a necesitar uno. Dario empieza a verlo como una variable y no como un activo (siembra de la orden a Volpi, fuera de página).
 - **No hacer:** que sea venganza de Kal; que el narrador justifique o condene a los chicos; que Kal use a Meiko como argumento en voz alta.
 - **El Caldero (DISEÑO, 2026-11-12; [[11_Books/Book_03_Voto_De_Ceniza/00_Diseno_El_Caldero_En_La_Oficina]]):** el Patio no sabe su nombre; lo encuentra preguntando por «el de la navaja verde». **Guardas:** el Caldero no ve a Kal y Kal no le ve la cara; Nadir sí se la ve. Esa noche, cuando Kal se lo cuenta todo a Chiara, ella oye lo de las flamas verdes. Vuelve en *Voto de Ceniza*, en el despacho de Kal, y se cobra con Nadir en el IV.

@@ -188,5 +188,19 @@ Sustituye la puesta en escena de F2 en [[11_Books/Book_02_Sombras_De_Poder/Part_
 
 **Mei frente a Nadir (DECISIÓN DEL AUTOR, 2026-11-19):** no basta «Ya sé»: Mei reconoce que falló, ofrece pagarlo y le da algo útil (DISEÑO: el tope de la salida de atrás, «Lo de Varek fui yo. Esto también.»). En la destilería: «¿Frenaron antes del poste?».
 
+**Filtración y robo rehechos (DECISIONES DEL AUTOR, 2026-11-19, quinta ronda; propuestas del agente aprobadas):**
+
+- **Qué filtró.** La rampa del Monarch y las latas no bastan para que Kal lo vea como filtración propia. Coaccionada por la deuda de Kaito, Mei empezó con la rampa (enero) y, cuando dejaron de cobrarle el dinero, le sacaron Lunar Pearl (marzo): le preguntaron si ella manejaba y dijo que sí; contó el casino y la vuelta de más, no nombres. Supera el «Lo de Lunar Pearl no. Eso no.» del 37 y el «Meiko no le cuenta nada a Varek» del diseño del robo.
+- **Primer roce Kal–Varek (37).** En el hipódromo Varek suelta lo que sólo sabía quien iba en el coche: la copa en su casino y «la muchacha que manejaba le dio una vuelta de más a la punta», y pide la piedra «sin preguntas» («Mi hija se llama como esa piedra»). Kal niega. Kal descarta a Chiara (no sabía el plan) y le cae «Lo del hermano».
+- **Por qué Varek no lo mata** (Héctor, en página): un muerto no devuelve nada; mientras Varek no tenga la piedra, Kal está vivo, «y ella también».
+- **La mudanza (37).** El martes, con las chicas en el Monarch, Kal saca el Lussia del calentador de la casa de la reja verde (donde vive Mei: el primer lugar donde buscarían) y lo mete en la estufa de leña de Héctor, al lado, por el hueco de la cerca, sin pisar la calle. Héctor: «En la casa de las niñas. Muchacho.» / «No me digas cuándo.» Pasa un coche despacio (siembra sin explicar; ~~DISEÑO: un vigía de los Calderos~~ **sexta ronda, 2026-11-19:** la vigilancia de Halbrook, que manda a los ladrones; ver [[11_Books/00_Cadena_De_Custodia_Lussia]]).
+- **El robo (38) es en casa de Héctor** (CANON del autor en su secuencia): vidrio, linternas; Mei por el radio con el volumen alto: «¿Ya volvieron?» / «Por este canal no.» / «Kal, hay alguien en casa de Héctor. Parece que le están robando.» (la única vez que no le dice «jefe»); «No entres»; «Nos retiramos. Todos de regreso a la Almendra. Ya.»; los ladrones oyen el radio y corren; Mei persigue al muchacho y lo agarra del brazo; el navajazo; él se va en pánico, llorando. Bonnie ve la sangre, toma el teléfono para la ambulancia, Mei dice que no; Bonnie por el radio: «Mei está herida. Su pierna está sangrando mucho.»; Kal da indicaciones, llama a Chiara; Walt, que está en su casa, las lleva a la destilería. **DISEÑO:** Nadir: «Khoya. ¿Por una casa?» y Kal no contesta; «Tú sácalos»; «Saco a los muchachos y voy» (por eso llega el último). Mei, que deja pasar cuando es para ella, no deja pasar al que le robó a Héctor (no se dice).
+- **Guarda retirada:** la cadena confesión → mudanza → robo queda a la vista del lector desde el 37; ningún personaje la dice. Héctor ve su estufa abierta y no se lo dice a Kal; Kal no pregunta ni revisa hasta la noche del entierro (39, fuera de página: la ceniza en el puño).
+- **Lo que deja de valer:** el calentador de la casa de las chicas como escondite la noche del robo, la doble llave como trampa del muchacho, Mei pegada a la pared, «¡Cortamos!», «Jefe. Por el hospital no.» por el radio, el almendro como delator.
+- **Cobro de saga:** la piedra pasa por la casa de Héctor, que muere en la montaña junto a ella.
+- **Por revisar al propagar:** la vuelta de más (Mei la decide sola porque Harper no dio la señal) debe sembrarse en el capítulo de Lunar Pearl (placeholder 26_Lussia) al redactarlo.
+
+Detalle de la sesión: [[98_Agent_Handoff/sessions/2026-11-19_claude_filtracion_lunar_pearl]].
+
 **Abierto:** ajustes del 39 (Chiara estuvo en la destilería).
 

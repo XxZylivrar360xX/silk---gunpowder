@@ -30,7 +30,7 @@
 
 ---
 
-> **DECISIÓN DEL AUTOR (2026-11-19):** el Lussia, la joya que según él le dio nombre a su hija Lucía, era un diamante rojo de los Lusardi que se creía perdido; Dario se quedó con él y lo rebautizó. Cómo y cuándo: PENDIENTE. Ver [[11_Books/Book_02_Sombras_De_Poder/00_Columna_El_Caudillo]], «El Lussia».
+> **DECISIÓN DEL AUTOR (2026-11-19):** el Lussia, la joya que según él le dio nombre a su hija Lucía, era un diamante rojo de los Lusardi que se creía perdido; Dario se quedó con él y lo rebautizó. **Cómo (DECISIÓN DEL AUTOR, 2026-11-19):** lo robaron en Italia hace décadas; Dario lo compró en América sabiendo de quién era y lo rebautizó al nacer Lucía para lavarlo en público. Después de F2 sigue dándolo por perdido (cap. 42). Ver [[11_Books/00_Cadena_De_Custodia_Lussia]]. Ver [[11_Books/Book_02_Sombras_De_Poder/00_Columna_El_Caudillo]], «El Lussia».
 
 ## Quién es
 

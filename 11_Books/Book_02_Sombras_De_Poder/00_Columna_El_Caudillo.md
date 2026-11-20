@@ -191,7 +191,7 @@ Ya era canon en [[02_Characters/Corrado_Ardizzone]] (decisión del 2026-11-12, p
 **Decidido por el autor:**
 
 1. **Halbrook es el artífice indirecto de Lunar Pearl.** Facilita los medios para que Kal robe el Lussia y así enemistarlo a largo plazo con Varek. **Por eso lo sacó de Camp Alder en el Libro I:** lo necesita como una pieza en movimiento en su tablero. (Se suma a los motivos ya canon: ver hasta dónde llega Kal y leer el nombre del expediente.)
-2. **Kal esconde el Lussia en la casa de las chicas, y los Calderos se lo llevan** la noche en que muere Meiko.
+2. **Kal esconde el Lussia en la casa de las chicas, y los Calderos se lo llevan** la noche en que muere Meiko. **Ajuste (DECISIÓN DEL AUTOR, 2026-11-19):** tras el roce con Varek (cap. 37), Kal lo muda a la **casa de Héctor**, al lado, en la estufa de leña; ahí lo roban. La piedra pasa por la casa del hombre que muere junto a ella en la montaña. **Sexta ronda (DECISIÓN DEL AUTOR, 2026-11-19):** los ladrones los manda **Halbrook**: el Tasador le pasa el dato, él vigila las casas y se queda con la piedra. Varek la sigue dando por perdida; Kal sospecha de Crowe. Cadena completa: [[11_Books/00_Cadena_De_Custodia_Lussia]].
 3. **El Lussia vuelve en la montaña del Libro III.** Halbrook mata a Héctor, como ya está planeado. Junto al cadáver, con Kal de rodillas y Harper en shock en el suelo, le arroja el Lussia como algo insignificante y le dice (línea del autor; tildes y puntuación del agente):
 
    > «Tómalo, y corre… Quizá todavía alcances a llegar a Santa Lucía.»
@@ -202,9 +202,9 @@ Ya era canon en [[02_Characters/Corrado_Ardizzone]] (decisión del 2026-11-12, p
    - **Por qué lo quiere (DECISIÓN DEL AUTOR, 2026-11-18):** con Varek en prisión, el Lussia es un objeto que alguien compraría a buen precio: una fortuna suficiente para comprar su boleto de salida hacia Elenna. Por eso, desangrándose en el suelo de la iglesia, pensar en su pequeña cobra sentido: la incertidumbre de no volver a verla, sobre todo después de perderse sus primeros pasos (cobra el video de Bonnie, CANON del III). La piedra que le iba a devolver a su hija es la que Halbrook le arroja a Kal con su sangre.
    - *(Superada la propuesta del agente de que la comprara para borrar la prueba de Lunar Pearl; puede quedar como razón secundaria si el autor quiere.)*
    - **El comprador y la filtración (DECISIÓN DEL AUTOR, 2026-11-18):** desde Italia, **Tommaso ofrece comprarlo**, porque la joya pertenece legítimamente a los Lusardi desde hace generaciones y se creía perdida; ofrece además ayudar a Chiara en el proceso. **Usan un vendedor intermediario que filtra que Bellandi estará ahí.** Así el anzuelo no lo planta Halbrook: lo aprovecha, porque sus fuentes cuestan y a veces le traen esto.
-   - **La joya era de los Lusardi (DECISIÓN DEL AUTOR, 2026-11-19, sobre propuesta del agente):** Dario se quedó con el diamante rojo perdido de los Lusardi y lo rebautizó; «Lussia» suena a «Lusardi». La versión oficial (la joya que le dio nombre a su hija Lucía) tapa un robo, y Tommaso carga una cuenta muy vieja con Dario. Cómo y cuándo pasó la joya a Dario: PENDIENTE del autor.
+   - **La joya era de los Lusardi (DECISIÓN DEL AUTOR, 2026-11-19, sobre propuesta del agente):** Dario se quedó con el diamante rojo perdido de los Lusardi y lo rebautizó; «Lussia» suena a «Lusardi». La versión oficial (la joya que le dio nombre a su hija Lucía) tapa un robo, y Tommaso carga una cuenta muy vieja con Dario. Cómo y cuándo pasó la joya a Dario: **RESUELTO (DECISIÓN DEL AUTOR, 2026-11-19):** la robaron en Italia hace décadas; Dario la compró en América sabiendo de quién era y la rebautizó al nacer Lucía para lavarla.
    - **El asalto a Santa Lucía lo hacen los Bravos de Santa Brígida (DECISIÓN DEL AUTOR, 2026-11-19).** Con Dario preso, la banda que era su herramienta de presión queda sin patrón y Halbrook la usa; ya fue su canal en el II (el rumor que mató a Crowe). Cobra la deuda del Libro I: el pacto de Chiara con Rafe. La banda con la que pactó es la que la deja desangrándose.
-   - **PENDIENTE del autor:** quién es el intermediario.
+   - **PENDIENTE del autor:** quién es el intermediario. **RESUELTO (DECISIÓN DEL AUTOR, 2026-11-19):** la pone en venta Halbrook, por el **joyero de Crowe** (el viejo tasador de joyas que heredó su circuito), que vende sin saber para quién; por él sabe Halbrook que Bellandi irá. Supera «el anzuelo no lo planta Halbrook: lo aprovecha». Después de la montaña, **Kal cierra la venta**: la piedra vuelve a los Lusardi y el dinero, a Elenna. Ver [[11_Books/00_Cadena_De_Custodia_Lussia]].
 5. **Kal está solo esa noche (DECISIÓN DEL AUTOR, 2026-11-18; todo organizado por Halbrook y al mismo tiempo):**
    - **Nadir** se queda varado en el norte: gente de Halbrook le desbiela el motor del Taurus, y no puede llegar a la ciudad ni moverse.
    - **Ren y Tyler** reciben una golpiza de una pandilla de enmascarados.
@@ -216,19 +216,20 @@ Ya era canon en [[02_Characters/Corrado_Ardizzone]] (decisión del 2026-11-12, p
 - **Le cierra las otras salidas a Kal.** La correa de Nadir en F4 (*La carretera*) aprieta justo cuando Kal necesita dejar el sueldo de Dario y la deuda con Crowe. El robo («algo que sea suyo», el millón) queda como la única puerta.
 - **Nada en la página lo prueba.** El lector sólo lo puede reconstruir en la montaña, cuando la piedra cae en el pasto.
 
-**Ruta del Lussia (DISEÑO salvo lo marcado):**
+**Ruta del Lussia (DISEÑO salvo lo marcado; resumen; manda [[11_Books/00_Cadena_De_Custodia_Lussia]]):**
 
 | Cuándo | Dónde está | Qué hace |
 |---|---|---|
 | Ene A4, Lunar Pearl | Kal | Lo roba; nadie lo puede comprar, porque un diamante rojo sólo lo mueve el Tasador |
-| Ene–abr A4 | Escondido en la casa de las chicas (CANON) | La luz prendida de Mei hace que la casa parezca la vigilada |
-| Abr A4, F2 | Los Calderos → Crowe (CANON: se lo llevan) | Crowe tiene la joya de Dario: la corona del caudillo |
-| Antes de la tormenta (propuesta) | Crowe → Halbrook | Crowe se la entrega a la gente de Halbrook como prueba de que puede ocupar la silla de Dario. Halbrook se la queda y decide soltarlo: le da a la filtración por los Bravos un detonante concreto |
-| Libro III | Halbrook | Lo guarda todo el libro |
+| Ene–abr A4 | Escondido en la casa de las chicas (CANON), en el calentador | La luz prendida de Mei hace que la casa parezca la vigilada |
+| Abr A4, el martes antes del corralón (CANON 2026-11-19) | Casa de Héctor, en la estufa de leña | Varek ya sabe (Meiko confesó Lunar Pearl en marzo); Kal lo saca de la casa donde vive ella |
+| Abr A4, F2 | Los Calderos → **Halbrook** (DECISIÓN DEL AUTOR, sexta ronda: él los manda; Crowe no la toca) | ~~Crowe tiene la joya de Dario: la corona del caudillo~~ |
+| ~~Antes de la tormenta (propuesta)~~ | ~~Crowe → Halbrook~~ | SUPERADO (2026-11-19) |
+| Resto del II y el III | Halbrook | La guarda; Varek la da por perdida; Kal sospecha de Crowe y, muerto Crowe, la piedra no aparece |
 | Libro III, antes de Santa Lucía (propuesta) | Halbrook → a la venta, como anzuelo | Chiara lo recupera y le dice a Kal que lo tiene (CANON) |
 | Libro III, Santa Lucía (CANON) | En la iglesia, en la sangre de Chiara | La banda de Halbrook se la lleva manchada |
 | Libro III, la montaña (CANON) | Arrojado junto al cadáver de Héctor, frente a Kal | «Tómalo, y corre…» |
 
 **Lo que dice la piedra en la montaña:** que el robo, la enemistad con Varek, la muerte de Mei y la de Héctor pasaron por la misma mano. Kal no necesita que se lo expliquen.
 
-**PENDIENTE del autor:** cómo llega la piedra de Halbrook (o de quien la tenga tras la tormenta) al intermediario; si Kal recoge la piedra y qué hace con ella; si Varek llega a saber, antes de su arresto en el III, quién le robó el Lussia.
+~~**PENDIENTE del autor:** cómo llega la piedra de Halbrook al intermediario; si Kal recoge la piedra y qué hace con ella~~ (RESUELTOS, DECISIÓN DEL AUTOR, 2026-11-19, en [[11_Books/00_Cadena_De_Custodia_Lussia]]); ~~si Varek llega a saber, antes de su arresto en el III, quién le robó el Lussia~~ (RESUELTO, DECISIÓN DEL AUTOR 2026-11-19: lo sabe desde marzo del II, por Meiko, y se lo deja ver a Kal en el cap. 37; es el primer roce entre los dos). **Encaja con el punto 1:** Halbrook quería enemistarlos; la confesión coaccionada de Meiko se lo da sin que él intervenga.
