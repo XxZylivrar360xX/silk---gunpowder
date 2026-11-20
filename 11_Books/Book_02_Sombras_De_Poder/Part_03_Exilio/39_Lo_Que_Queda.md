@@ -5,282 +5,423 @@ estado: BORRADOR
 libro: Sombras de Poder (Libro II), Parte III — Exilio
 capitulo: 39
 pov: Chiara Bellandi, único
-ventana_temporal: principios de mayo A4, el día del entierro de Meiko; de la mañana a la medianoche
-localizacion: el Cementerio Santa Lucía; la casa de la reja verde en La Almendra; la Villa Candelaria
-personajes: Chiara Bellandi, Bonnie García, Kal Mercer; en el entierro, Nadir, Héctor, Walt, Mabel, Marisol, Danny, Tyler, Harper, Garrett
+ventana_temporal: principios de mayo A4, la madrugada después de la muerte de Meiko: de la destilería al amanecer en la costa norte, y la mañana en la Villa
+localizacion: la destilería de Walt; la casa común de La Almendra; la carretera de la costa norte, pasando Los Álamos; una cornisa sobre el mar; la Villa Candelaria
+personajes: Chiara Bellandi, Kal Mercer, Bonnie García; Nadir, Danny, Tyler, Harper, Héctor, Walt, Garrett, Russ, Marisol
 ---
 
 <!--
-> **Estado:** BORRADOR del agente (Claude Code, 2026-11-13), para lectura del autor. Último capítulo del arco de Meiko. Fuentes: [[11_Books/Book_02_Sombras_De_Poder/00_Guia_Redaccion_Capitulos]], ficha del 39, y [[06_Relationships/Momentos_de_Fractura#F2 - La muerte de Meiko y la salida de Bonnie|F2]].
+> **Estado:** BORRADOR del agente (Claude Code, 2026-11-19, reescritura completa), para lectura del autor. Último capítulo del arco de Meiko. Fuentes: [[11_Books/00_Arco_Meiko_Nakano]], «Después de F2»; [[11_Books/Book_02_Sombras_De_Poder/00_Guia_Redaccion_Capitulos]], ficha del 39.
 >
-> **CANON citado literal:** «—Lo siento, ¿vale?» / «—No te martirices. Hiciste lo que debías hacer.» y el beso en la frente (DECISIÓN DEL AUTOR, 2026-11-12: se quedan con otro sentido y sin reescribirse); «Iba a decirle que sin importar lo que tuvo que hacer, era de los míos.» (CANON DEL AUTOR, 2026-11-13; ortografía normalizada). **CANON (hechos):** el forro de la camioneta lleno de sangre, después del entierro; nadie dice nada. Kal vuelve a la Villa y encuentra a Chiara rota en el suelo con la foto de la cena de Navidad. Kal no llora en todo el arco hasta decir esa línea. **DECISIONES DEL AUTOR (2026-11-13):** el corazón del capítulo es la plática de la tarde después del entierro: Chiara todavía le habla de planes y Bonnie le revela que no va a quedarse; en la misma plática le cuenta la traición de Meiko y que Kal la calló. Bonnie se va después del entierro. POV de Chiara. **DISEÑO del agente:** la casa de la reja verde con las cosas de Meiko; los folletos; la lata del centro que Bonnie aparta; «Pedí una ambulancia» como razón de Bonnie; que la foto esté en la repisa de mármol desde enero (el 57 la encuentra ahí); la tierra en las manos de Kal; que Kal le diga «amore» a nada.
+> **DECISIONES DEL AUTOR (2026-11-19, «el después»):** no hay hospital ni aviso de un cuerpo: la policía en el barrio es lo que no puede pasar. Llevan a Mei a la casa común, donde la banda hace su duelo, cada quien a su forma. La logística del cuerpo la llevan Garrett y Russ; a Russ lo llama Danny, y el capítulo sólo oye lo que dice Danny («Todos están mal aquí y necesitamos a alguien que no lo esté»). Kal, en shock, administra la versión y sigue siendo el líder. Entierro privado al amanecer, sólo la banda, en una cornisa alta de la costa norte, donde el oleaje no la devuelve. **CANON NUEVO:** a Mei le gustaba el mar. Habla Marisol, que sabe lo que hacen los muchachos y nunca lo dice; planta algo pequeño en la tumba (cobro: veinte años después, Bonnie y Marisol vuelven con flores). Chiara se entera de la traición en la cocina de la casa común, por Bonnie. Lo del hospital es compartido: Chiara dijo «Aquí». De regreso, Kal y Chiara llegan juntos a la Villa en silencio. **Líneas del autor (literal; tildes y puntuación del agente):** «—Fue una noche horrenda.» / «—Sí, sí que lo fue.» / ella le extiende la mano: «—Hay que ir a descansar.» / él asiente; en la escalera, él se detiene, sosteniéndole fuerte la mano, ella delante: «—Está muerta. Mei está muerta. Oh. Mei está muerta.» Ahí se rompe. Arriba, los dos en el suelo; Chiara sostiene la foto de Navidad. Kal habla de lo que siente sólo con ella; el diálogo del suelo no es ping-pong. A Kaito se lo dice Kal en persona (fuera de este capítulo).
 >
-> **AJUSTE AL F2 REHECHO (2026-11-19; prosa del agente, BORRADOR):** Chiara estuvo en la destilería (el brazo que sostuvo el suero); el forro es el del asiento de atrás de la camioneta de Walt, y quien no se acerca es Bonnie; Bonnie le pidió la ambulancia a Kal por el radio y Mei dijo que no; Kal llamó a Chiara (ajuste del 2026-11-19, cuarta ronda); Mei le contó la filtración a Bonnie esa noche (antes, Nadir); la luz del pasillo sigue prendida («Cuando vuelvas, apágala», 38); ~~Bonnie menciona el calentador sin saber qué había~~ **(quinta ronda, 2026-11-19):** el robo fue en casa de Héctor; Bonnie iba a llamar la ambulancia de su teléfono y Mei se lo impidió; Mei filtró Lunar Pearl y Chiara entiende que Varek sabe que fue Kal; Bonnie menciona que en casa de Héctor sólo abrieron la estufa vieja, sin saber qué había (el Lussia no se nombra).
+> **SE RETIRA (DECISIÓN DEL AUTOR):** «—Lo siento, ¿vale?» / «—No te martirices. Hiciste lo que debías hacer.»; el Cementerio Santa Lucía y el certificado de Garrett; la plática de la tarde en la casa de la reja verde; el forro visto al salir del entierro; la ceniza en el puño de Kal (la revisión de la estufa pasa a otro día, fuera de página).
 >
-> **Guarda:** el narrador no explica el «lo siento» ni la absolución. Nadie nombra la regla. Que Chiara sabe lo que Kal calló queda debajo, sin decirse. Nada de la propia cuota de Chiara en voz alta: sólo en su cabeza, una vez.
-
-> **VALET (2026-11-15, revisión externa; canon de valet del autor; prosa DISEÑO, espera lectura):** «Sirviendo» → «Desde la rampa»; las charolas de plata pasan a las llaves del Lancia y a la calificación de valet del Libro I («propina de veinte, trato de dos»): lo que Meiko le susurraba a Chiara era lo mismo que veía para Varek. Arco: [[11_Books/00_Arco_Meiko_Nakano]].
-
-> **ENTRADA TEMPRANA (2026-11-15, revisión externa):** «En un año» → «En año y medio» (Bonnie llega en noviembre A2, Libro I cap. 35).
-> **LECTURA EXTERNA (2026-11-19, ocho observaciones; prosa del agente, BORRADOR, espera lectura):** (5) La camioneta: Walt le abre la puerta de atrás a Marisol, por las muletas; había tapado el asiento con una cobija porque el forro nuevo no llegaba, y la cobija se corrió en las curvas (lo sabían Walt y Bonnie). (4) Bonnie: «se la pedí a usted»; la doctora le ofreció la camioneta a Chiara. (6) Tras «Hiciste lo que debías hacer», la mano de Chiara al hombro derecho (el de la bolsa de suero): no es absolución completa; también se lo dice a sí misma. (7) Poda: «No había llorado», «No arregló nada», la explicación del llanto y las frases finales sobre lo que Chiara sabe. Queda pendiente el pulido de diálogos del 39 con el autor.
+> **SE CONSERVA:** «Iba a decirle que sin importar lo que tuvo que hacer, era de los míos.» (CANON DEL AUTOR, 2026-11-13), ahora en el suelo, después de la escalera; la foto de Navidad de la repisa de mármol; las palas y Kal aplanando la tierra; los folletos; la ida de Bonnie a Boston; «si me quedo, un día voy a ser yo la que no llama»; la cuota de Chiara sólo en su cabeza, una vez.
+>
+> **DISEÑO del agente (espera lectura):** Mei en la mesa larga de las cenas de los domingos; la caja de zapatos con los teléfonos (el de Mei es el único que nadie recoge); Héctor encuentra detrás de los botes de café el radio de cinta roja y el chaleco con MEI (los que Kal apartó en el 37) y Kal se los quita sin decir nada; Héctor va a dar la cara a la policía en su casa y vuelve con «Un vidrio»; Bonnie le habla a Marisol («Cupcake»); Russ trae a Marisol, conoce el camino y da la hora exacta; la bellota del encino doblado por el viento; lo que Marisol cuenta del hospital (Mei le arreglaba el control de la cama; «porque no se le puede ganar»); el sol sale por los cerros y lo primero que toca es el mar; Chiara toma la foto de la repisa al pasar; Chiara no le dice a Kal que Mei creyó que la dejaba fuera como castigo.
+>
+> **Guarda:** el narrador no explica el llanto ni la culpa. Nadie nombra la regla. El Lussia no aparece. Ningún personaje dice en voz alta qué se llevaron de casa de Héctor.
 -->
 
 # Lo que queda
 
-Garrett había arreglado los papeles. Chiara no preguntó cómo.
+La sacaron de la destilería a las dos y diez.
 
-Sabía que había un certificado, porque Garrett se lo había dicho la noche anterior por teléfono, en su voz de juntas, como quien confirma que llegó una entrega: el certificado estaba, la funeraria estaba, el cementerio estaba, a las diez. No dijo qué decía el certificado. Chiara no preguntó. Había aprendido en esa ciudad que había preguntas que no se hacían porque la respuesta te volvía parte del papel, y había pensado, al colgar, que hacía un año esa idea le habría parecido una cobardía, y que ahora le parecía un trámite.
+Tyler había ido a dar la vuelta por la Almendra en su coche, despacio, con la radio prendida como cualquier muchacho que vuelve tarde, y había regresado diciendo que las patrullas ya no estaban. Que en la casa de Héctor quedaba una cinta amarilla en la reja y un vidrio tapado con cartón, nada más. Kal lo oyó sin voltear. Después dijo dos nombres y los dos se acercaron a los sacos.
 
-El Cementerio Santa Lucía estaba en el borde de Calle Corona, donde la ciudad de los bancos se acababa y empezaban los barrios de abajo. Era chico, viejo, con cipreses flacos y grava clara, y a esa hora de la mañana tenía el ruido lejano del bulevar y el de un trabajador que barría hojas en otra hilera sin levantar la vista. La tumba estaba al fondo, en una esquina nueva, donde todavía había más pasto que lápidas.
+La envolvieron en la sábana que Walt bajó de la oficina, y encima la manta de Bonnie, la de cuadros, la que Bonnie había traído sin darse cuenta desde la casa. La cargaron entre Nadir y Danny, con cuidado de que no se le doblara nada, como se carga a alguien dormido, y Bonnie iba detrás, con una mano en la manta, sin apretar ya.
 
-Eran muchos. Chiara no esperaba que fueran tantos.
+Chiara los siguió hasta la puerta grande. Le dolía el brazo derecho desde el hombro hasta la muñeca, de sostener la bolsa en alto, y no se había dado cuenta hasta que tuvo el brazo vacío.
 
-Estaban los del Patio, todos, con camisas limpias que no eran suyas o que no se ponían nunca, de pie en semicírculo alrededor del hoyo, con las manos cruzadas al frente como les habían enseñado en algún otro entierro. Danny con el antebrazo vendado debajo de la manga. Tyler con un moretón amarillo en la sien y lentes oscuros que le había prestado alguien. Harper derecha, sin lentes, con los ojos secos. Garrett con corbata negra. Estaban Walt y Mabel, del brazo, Mabel con una flor blanca en la mano que había cortado de algún jardín y que apretaba demasiado. Estaba Marisol, con las muletas, de pie porque no había querido sentarse en la silla plegable que alguien le trajo. Estaban Héctor, con la gorra en la mano, y Nadir, a su lado, muy cerca, como si Héctor lo estuviera sosteniendo sin tocarlo.
-
-Los niños del Patio, pensó Chiara, y la frase, que había sido suya y privada y un poco burlona, se le quedó atorada en algún lugar entre el pecho y la garganta.
-
-El hermano no vino. Chiara lo buscó. Lo había visto una sola vez, en Nochebuena, afuera del portón del taller, bajo la luz del patio, y lo habría reconocido. Buscó entre las lápidas, en la reja de la entrada, en los coches estacionados en la calle. No estaba.
-
-Bonnie estaba en primera fila, sola. Nadie se había parado a su lado. No porque no quisieran: Chiara lo entendió al verla, la forma en que tenía los hombros, el espacio que había alrededor de ella. Era un espacio que había hecho ella. Tenía puesta una chaqueta de mezclilla que le quedaba grande en los hombros, y Chiara tardó en darse cuenta de que no era suya.
-
-Kal estaba enfrente, del otro lado del hoyo. No había dicho una palabra desde que llegaron. Tenía la cara de las mañanas en el taller.
-
-No hubo cura. Mabel dijo algo, corto, que Chiara no oyó bien porque el viento cambió en ese momento y se llevó las palabras hacia los cipreses. Después bajaron la caja. Era de madera clara, sencilla, y la bajaron con unas cintas, despacio, cuatro de los muchachos, y cuando tocó el fondo hizo un ruido sordo que Chiara sintió en las plantas de los pies. Le dolía el brazo derecho, desde el hombro, desde hacía una semana, y sabía de qué: de sostener una bolsa de suero en alto, más alto, sin bajarla, en una nave que olía a maíz.
-
-Los trabajadores del cementerio se acercaron con las palas. Kal levantó la mano.
-
-Los trabajadores se detuvieron. Kal se quitó la chaqueta, se la dio a Héctor, se arremangó la camisa y tomó una de las palas. Nadir tomó la otra. Después Danny le quitó la suya a uno de los trabajadores, con el brazo vendado, y Tyler, y Harper, y uno por uno los del Patio se fueron turnando las tres palas, sin hablar, mientras el trabajador que barría hojas en la otra hilera dejaba de barrer y se quedaba mirándolos, apoyado en la escoba.
-
-Tardaron mucho. Chiara no se movió. Kal no soltó la pala ni una vez. Cuando el hoyo estuvo lleno, aplanó la tierra con el revés, dos veces, con cuidado, como se aplana el cemento fresco de una acera, y le devolvió la pala al trabajador.
-
-Chiara lo había mirado todo el tiempo. Tenía tierra hasta los codos y la camisa pegada a la espalda, y la cara de siempre.
+La subieron al asiento de atrás de la camioneta de Walt. Bonnie se subió primero y se acomodó la cabeza de Mei en las piernas, igual que a la ida. Kal se sentó adelante, junto a Walt. Nadie le dijo a Chiara en qué coche iba; se subió al suyo y siguió las luces de la camioneta por la grava, por el camino de tierra, por la avenida vacía, con las dos manos en el volante y el brazo derecho temblándole un poco, como si todavía cargara algo.
 
 ***
 
-El forro lo vieron al salir.
+La casa común tenía todas las luces prendidas.
 
-La camioneta de Walt estaba estacionada en la calle, frente a la reja. Walt se había ofrecido a llevar a Marisol, por las muletas, y le abrió la puerta de atrás. Abrió y se quedó quieto, con la mano en la manija.
+Alguien había quitado de la mesa larga la caja de los chalecos y el cargador de los radios, y los había dejado en el suelo, contra la pared. En la mesa sólo quedaba la caja de zapatos con los teléfonos. Tyler la abrió y empezó a repartirlos sin decir nada, uno por uno, a cada quien el suyo, como se devuelven las llaves a la salida de un lugar. La regla de la caja ya no servía para nada. Danny tomó el suyo y no lo prendió. Harper tomó el suyo. Cuando la caja quedó vacía, quedaba uno: boca abajo, al fondo, con la funda verde. Tyler lo miró y no lo sacó. Dejó la caja abierta en la orilla de la mesa.
 
-En la mañana había echado encima del asiento una cobija de cuadros, metida por las orillas; el forro nuevo no llegaba hasta el lunes. En las curvas de Calle Corona la cobija se había corrido hasta el piso.
+Después extendieron otra sábana sobre la mesa y la acostaron ahí.
 
-Chiara estaba a unos pasos, con Marisol. Lo vio por encima del hombro de Walt.
+La mesa de las cenas de los domingos. Chiara había comido en esa mesa. Se había sentado en esa misma esquina, la del lado de la ventana, mientras Mei le pasaba las tortillas por encima de la cabeza de Danny y Danny protestaba. Se quedó parada en la puerta, con el bolso todavía colgado del hombro, sin saber dónde ponerse.
 
-El forro del asiento de atrás, que era de tela gris, ya no era gris. Era negro de un lado a otro, tieso, con una forma, y en las orillas, donde se había secado más delgado, de un color café que Chiara no iba a poder ver en ninguna otra cosa sin acordarse. Alguien lo había limpiado. Se notaba que alguien había pasado un trapo, muchas veces, con jabón de pasta, y que no había servido.
+Cada uno se fue poniendo en algún lugar.
 
-Los muchachos se fueron acercando. Uno por uno, como habían tomado las palas. Se pararon detrás de Walt y miraron. Nadie dijo nada.
+Tyler mojó una toalla chica en el fregadero de la cocina, con agua tibia, y volvió, y le limpió a Mei la cara. Despacio, desde la frente, como se limpia un vidrio que puede rayarse. Le limpió una mancha que tenía en la barbilla y otra cerca de la oreja. Después le deshizo lo que le quedaba del chongo, que se le había corrido hacia un lado en la camioneta, y le acomodó el pelo con los dedos, hacia atrás, y le hizo una trenza floja, mal hecha, que se le iba deshaciendo por abajo. No la terminó. Se quedó con la punta de la trenza en la mano.
 
-Chiara no miró el forro. Miró las caras. Danny, que apretó la boca y se dio vuelta. Tyler, que se quitó los lentes oscuros y se los volvió a poner. Garrett, que se aflojó la corbata con un dedo, despacio, como si le apretara de pronto. Bonnie no se acercó. Se quedó junto a la reja con las manos en los bolsillos y no miró hacia la camioneta, y Chiara entendió que Bonnie ya lo había visto, que Bonnie había ido ahí adentro, con la cabeza de Meiko en las piernas.
+Nadir se sentó en una silla junto a la cabecera y no se movió de ahí. Tenía las manos limpias, rojas de tanto tallarlas, abiertas sobre las rodillas.
 
-No eran caras de quien ve sangre. Esos muchachos habían visto sangre. Eran caras de quien abre la puerta del cuarto de alguien de la casa y encuentra la cama hecha.
+Harper se sentó en el suelo, contra la pared, junto al cargador de los radios. Sacó los radios de la caja donde alguien los había echado y empezó a meterlos en el cargador, uno por uno, en su ranura, y cada uno prendía su lucecita verde. Contaba. Chiara le vio mover los labios. Cuando llegó al final, faltaban dos ranuras. Harper se quedó mirándolas. Volvió a contar.
 
-Walt levantó la cobija del piso y la volvió a meter por las orillas, despacio, sin tocar la mancha. Cerró la puerta de atrás y le abrió a Marisol la de adelante.
+Danny no aguantó adentro. Salió al porche y se sentó en el escalón, de espaldas a la puerta, con el teléfono en la mano.
 
-***
+Walt se quedó afuera, junto a su camioneta. No entró en toda la noche.
 
-La casa de la reja verde estaba a dos cuadras del taller. Chiara fue a pie, a las cuatro de la tarde, sola. Se había cambiado la ropa del entierro por unos pantalones y una blusa sin mangas y se había recogido el pelo, y en el bolso llevaba unos folletos doblados en dos que llevaba una semana cargando sin saber cuándo sacarlos.
+Héctor puso café. Fue a la cocina, sacó la olla grande, la de las cenas, la llenó de agua y la puso en la estufa, y se quedó parado frente a la flama azul. Cuando el agua empezó a hervir, se estiró hacia el anaquel de arriba, a los botes de café, y movió uno.
 
-Bonnie le abrió antes de que tocara. La había visto venir por la ventana.
+Detrás había un radio. Uno con una cinta roja en la antena. Y un chaleco chico, doblado.
 
-—Señora.
+Héctor los bajó. Desdobló el chaleco a medias y le vio la etiqueta, y Chiara, desde la puerta de la cocina, alcanzó a ver lo que decía, en plumón, en unas letras torcidas: MEI.
 
-—Ciao, tesoro.
+Héctor no dijo nada. Se dio vuelta con las dos cosas en las manos y buscó a Kal.
 
-Bonnie se hizo a un lado para dejarla pasar.
+Kal estaba en la cabecera de la mesa larga, hablando por teléfono, bajo, con la mano libre apoyada en la madera, junto al pie de Mei. Vio a Héctor. Vio lo que Héctor traía. Colgó sin despedirse, cruzó el cuarto, entró a la cocina y le quitó a Héctor el radio y el chaleco, sin brusquedad, como quien le quita a alguien una herramienta que no es para eso. Los volvió a poner en el anaquel, detrás del bote, y acomodó el bote para que no se vieran.
 
-Adentro, la casa olía a encerrado y a café recalentado. Era chica: una sala con un sillón y una televisión, una cocina abierta, un pasillo con dos puertas. Una de las puertas estaba abierta. La otra, cerrada. La luz del pasillo estaba prendida, a las cuatro de la tarde.
+Héctor lo miró hacer. Después volvió a la olla.
 
-Chiara no miró la puerta cerrada. Miró lo que había afuera de ella, que era peor. Una chaqueta negra con capucha colgada en el respaldo de una silla del comedor. Unos tenis en la entrada, junto a los de Bonnie, más chicos. Una taza en el escurridor con una marca de labial casi borrada en el borde. En la mesa de la cocina, el teléfono de Meiko, apagado, boca abajo. Y en el suelo, junto al refrigerador, una caja de cartón con latas de aceite agujereadas, llenas de tornillos.
-
-—Siéntese —dijo Bonnie.
-
-Chiara se sentó en el sillón. Bonnie no se sentó. Se quedó de pie junto a la mesa de la cocina, con las manos en los bolsillos de la chaqueta de mezclilla que le quedaba grande, la que había llevado al entierro.
-
-—¿Quiere café?
-
-—No, grazie.
-
-Bonnie asintió. Se quedaron un rato así.
-
-Chiara había ensayado lo que iba a decir. Lo había ensayado en la ducha, en el coche, en la cama la noche anterior, con los ojos abiertos en lo oscuro mientras Kal no llegaba. Lo había ensayado como ensayaba una junta difícil: el primer párrafo, por si no servía, y otro por si el primero no servía. No había ensayado esa casa. La taza. Los tenis.
-
-Empezó por el primero.
-
-Sacó los folletos del bolso. Los desdobló sobre la mesa de centro, uno al lado del otro, como extendía los papeles del Monarch en la isla de la cocina. Eran de la universidad estatal, la del campus de la avenida Lamond, y de un instituto técnico del este de la ciudad, y uno de una escuela de ingeniería de fuera del estado, que Marisol había conseguido y que tenía fotos de laboratorios con muchachos de bata y lentes de seguridad sonriendo hacia la cámara.
-
-—No tiene que ser ahora —dijo Chiara—. Ni este semestre. Me explico: no te estoy pidiendo que decidas nada. Pero el plazo de inscripción para otoño se cierra en junio, y yo pensé que, si querías, podíamos ir a verla. La estatal. Un sábado. Para que la veas por dentro.
-
-Bonnie miraba los folletos.
-
-—Marisol dice que ingeniería, por los motores, y puede ser, pero no tiene que ser. Puede ser cualquier cosa. Y no tienes que dejar el taller: puedes seguir en el taller los fines de semana, si quieres, o en el Monarch, en la oficina, conmigo. Hay un programa de becas para trabajadores que nadie usa, lo vi la semana pasada, y si no alcanza, alcanza. Eso no es problema. —Se oyó hablar y no se detuvo—. Y había pensado, Bonnie, si quieres, que… que no tienes que quedarte aquí. En esta casa. Si no quieres. En la Villa hay un cuarto. Hay tres. Y no tienes que…
-
-—Señora.
-
-Chiara se calló.
-
-Bonnie había sacado las manos de los bolsillos. Las tenía a los lados, quietas.
-
-—No me voy a quedar.
-
-Lo dijo como decía que no era la batería, que era la bomba. Sin preámbulo y sin adjetivos.
-
-Chiara la miró. Abrió la boca para decir algo, el segundo párrafo, el que había preparado por si el primero no servía, y no le salió nada.
-
-—Me voy —dijo Bonnie—. A Boston. Con mis papás. El domingo.
-
-—El domingo.
-
-—Ya hablé con ellos. Ya compré el boleto. —Hizo una pausa—. Voy a estudiar. Lo que usted dijo. Lo que usted y Marisol me dijeron. Que tenía que ser mío. —Miró los folletos en la mesa de centro—. Pero allá.
-
-Chiara bajó la vista a los folletos. Los laboratorios, los muchachos de bata. Los había extendido uno al lado del otro y no supo, de pronto, qué hacer con las manos, y se tocó el collar, la cadena fina, y la soltó.
-
-—Allá —repitió.
-
-—Aquí no puedo.
-
-—Bonnie…
-
-—Pedí una ambulancia.
-
-Chiara levantó la vista.
-
-Bonnie no se había movido. Estaba de pie junto a la mesa de la cocina, junto al teléfono apagado, y hablaba en el orden en que habían pasado las cosas, con pausas cortas, como contaba siempre.
-
-—Iba a llamarla yo. Del mío. —Una pausa—. Mei me agarró la mano y dijo que no. Después, en la destilería, se la pedí a usted. Y a todos. Nadie llamó.
-
-—Bonnie…
-
-—No los culpo. —Lo dijo de inmediato, antes de que Chiara pudiera decir otra cosa—. Sé por qué. La policía ya venía, por lo de al lado. Nadie del Patio llega a un hospital con una herida así sin que alguien pregunte de dónde. Lo sabía Mei. Ella dijo que no. —Bajó la vista, por primera vez, al suelo, a los tenis de la entrada—. Pero la doctora le dijo a usted que todavía la podía subir a la camioneta. Yo la oí. Y si me quedo, un día voy a ser yo la que no llama. Y no quiero.
-
-Chiara no dijo nada. No había nada en el segundo párrafo para eso.
-
-Afuera pasó un coche despacio, con la música alta, y la música entró por la ventana y se fue.
+Chiara no supo qué había visto. Lo guardó.
 
 ***
 
-—Hay otra cosa —dijo Bonnie—. Para que conste.
+Garrett llegó a las tres menos diez, en su coche, con el traje de la tarde anterior y sin corbata. Se quedó un momento en la entrada, mirando la mesa, y Chiara le vio la cara hacer lo que hacía en las juntas cuando un número era peor de lo que esperaba: nada. Después se acercó a Kal.
 
-Se sentó. Por primera vez desde que Chiara había llegado, se sentó, en el borde de la silla del comedor, la que tenía la chaqueta negra en el respaldo, como quien no piensa quedarse. Puso las manos sobre las rodillas.
+Hablaron en la cabecera, bajo. Chiara estaba a dos metros y oyó pedazos.
 
-—Mei me lo dijo. Esa noche, en la sala, antes. —Una pausa—. Le pasaba cosas a la gente de Varek. Desde enero.
+—…para los demás, se fue —decía Garrett—. Una oferta fuera, una prima en otro estado, lo que sea más aburrido. Lo aburrido nadie lo revisa. La casa sigue pagada hasta junio. En el Monarch…
 
-Chiara no se movió.
+—El Monarch lo arreglo yo —dijo Chiara.
 
-—Lo que veía en el Monarch. Desde la rampa. Quién llegaba, en qué coche, con quién. A qué hora se iba usted. A qué hora se iba Kal. —Bonnie lo dijo sin bajar la voz, sin subirla, como si leyera una lista de piezas—. Por la deuda del hermano. Le dijeron que podía pagar en dinero o en plática. No tenía el dinero. —Una pausa—. Y en marzo le preguntaron por Lunar Pearl. Les dijo que habíamos sido nosotros. Que ella manejaba.
+Garrett la miró y asintió, una vez, como quien tacha una línea.
 
-En la mesa de centro estaban los folletos. Chiara los miraba y no los veía.
+—Lo que no se puede es que alguien la reporte —siguió—. Si alguien de afuera la busca, la busca con la policía. Hay que hablar con la familia antes de que la familia hable con nadie.
 
-La rampa del Monarch. Las llaves del Lancia en otra mano, una noche y otra, «propina de veinte, trato de dos», y una muchacha con el pelo recogido y la cara de quien todavía no decide si se queda, que le había dicho una vez, en un coche, que no era por dinero, y no había tomado el sobre.
+—Al hermano se lo digo yo —dijo Kal.
 
-Varek. A Varek.
+—Kal…
 
-Varek sabía lo de Lunar Pearl. Sabía de quién era la mano que le había sacado de la vitrina la piedra con el nombre de su hija, y Kal seguía subiendo al palco del hipódromo, y seguía bajando entero.
+—Yo.
 
-Chiara le pagaba a Varek cada mes una cuota que nadie conocía, una deuda vieja que él cobraba con cortesía y con intereses, y se la escondía a Kal. Y Varek, mientras tanto, la veía entrar y salir por la puerta de su propio casino. La misma ventanilla. Meiko había pagado lo mismo que ella, con otro nombre.
+Garrett no insistió. Dijo otra cosa, de la casa de Héctor: que el dueño tenía que aparecer esa misma noche, ir a su casa, ver qué faltaba y llamar él mismo a la comisaría. Que un viejo al que le rompen la cocina y no aparece hasta el otro día es un viejo del que alguien pregunta dónde estaba. Que había estado en el taller, de guardia, con la grúa, esperando una llamada que nunca llegó. Héctor lo oyó desde la estufa. Se secó las manos en el pantalón, agarró su chaqueta del perchero y salió sin despedirse de nadie, despacio, por la pierna mala.
 
-No lo dijo. Se le quedó en algún lugar detrás de los dientes, apretado.
+Kal le dio la espalda a la mesa y se quedó mirando la ventana. Chiara le vio la nuca, los hombros. Tenía la voz de siempre. Había dado cada orden de la noche con la voz de siempre, sin subirla, sin cambiarle una palabra a nada, y Chiara empezó a entender que esa voz era lo único que lo tenía de pie.
+
+Afuera, en el escalón del porche, Danny hablaba por teléfono. Chiara lo oía por la puerta abierta, sólo a él.
+
+—Russ. —Una pausa larga—. No. No, escúchame. No estoy borracho. —Otra pausa—. Es Mei. —Danny se pasó la mano por la cara—. No. Ya no. —El silencio fue largo—. No sé. Al norte, a algún lado. No sé, Russ, por eso te hablo. —Se le quebró algo y lo dejó quebrado—. Todos están mal aquí y necesitamos a alguien que no lo esté.
+
+Escuchó. Asintió aunque nadie lo veía.
+
+—En la casa común. Sí. —Y después, más bajo—: Gracias, viejo.
+
+Colgó. Se quedó sentado en el escalón, con el teléfono en las dos manos, mirando la calle. Danny, que no se callaba nunca, que le ponía voz a todo y a todos, no volvió a entrar.
+
+***
+
+Bonnie estaba en la cocina, en el fregadero.
+
+Chiara no la había visto entrar. Tenía las manos bajo el chorro de agua, todavía rojas hasta las muñecas, porque en la destilería nadie le había dicho que se las lavara y ella no se había acordado. Se tallaba con el jabón de trastes, sin fuerza, y la sangre seca no se iba de los pliegues de los nudillos ni de debajo de las uñas, y en la palma izquierda tenía atravesada la marca del trinquete, morada.
+
+Chiara dejó el bolso en la silla. Se arremangó la blusa. Le tomó a Bonnie las manos bajo el agua y se las lavó, con las suyas, como se las habría lavado a una niña, entre los dedos, debajo de las uñas con la uña propia. Bonnie la dejó.
+
+El agua salía rosa. Después salió clara.
+
+—Le hablé a Marisol —dijo Bonnie, mirando el agua—. Del mío. Cuando llegamos.
+
+—Está bien.
+
+—Le dije que si podía venir. Le dije… —Bonnie respiró—. Le dije «Cupcake, ¿puedes venir?». Y no me preguntó para qué.
+
+Chiara cerró la llave. Le pasó un trapo limpio. Bonnie se secó despacio, dedo por dedo, y se quedó con el trapo en las manos.
+
+—Mei me lo dijo —dijo—. Anoche, en la sala. Antes.
+
+Chiara esperó.
+
+—Le pasaba cosas a la gente de Varek. Desde enero. —Bonnie lo dijo bajo, sin mirarla, en el orden en que habían pasado las cosas, como contaba siempre—. Lo que veía en el Monarch, desde la rampa. Quién llegaba, en qué coche, con quién. A qué hora se iba usted. A qué hora se iba Kal. Por la deuda del hermano. Le dijeron que podía pagar en dinero o en plática, y no tenía el dinero. —Una pausa—. Y en marzo le preguntaron por Lunar Pearl. Les dijo que habíamos sido nosotros. Que ella manejaba.
+
+Chiara se apoyó en la orilla del fregadero.
+
+La rampa del Monarch. Las llaves del Lancia en otra mano, una noche y otra, «propina de veinte, trato de dos», y una muchacha con el pelo recogido que le había dicho una vez, en un coche, que no era por dinero, y no había tomado el sobre.
+
+A Varek.
+
+Chiara le pagaba a Varek cada mes una cuota que nadie conocía, una deuda vieja que él cobraba con cortesía y con intereses, y se la escondía a Kal. Y Varek, mientras tanto, la veía entrar y salir por la puerta de su propio casino. La misma ventanilla. Mei había pagado lo mismo que ella, con otro nombre.
+
+No lo dijo.
 
 —Kal lo sabía —dijo Bonnie.
 
 Chiara la miró.
 
-—Varek le dijo algo en el hipódromo y él se dio cuenta. Ella me dijo que Kal ya sabía. Que le dijo «después». —Bonnie hizo una pausa—. Iban a decidir qué hacer con ella después del corralón. Por eso esa noche no fue. Por eso estaba en la casa.
+—Varek le dijo algo en el hipódromo, y él se dio cuenta. Ella me dijo que Kal ya sabía. Que le dijo «después». —Bonnie dobló el trapo en dos—. Iban a decidir qué hacer con ella después del corralón. Por eso anoche no fue. Por eso estaba en la casa.
 
-—Después del corralón.
+Chiara se acordó de una noche de esa misma semana. De Kal desvistiéndose a oscuras del otro lado de la cama. «Lo del jueves.» De su propia voz, ya medio dormida contra su hombro: «¿Cómo están las chicas?» Y de él, mirando el techo, diciendo «Bien. Están bien».
 
-—Sí. —Bonnie miró hacia el pasillo, hacia la luz—. Y en casa de Héctor no se llevaron nada. La tele, el radio, todo ahí. Nada más le abrieron la estufa vieja, la que no prende. Héctor lo dijo. Para que conste.
-
-Chiara no entendió eso último. Lo guardó, como guardaba una cifra que todavía no cuadraba con nada.
-
-Chiara se acordó de una noche de esa semana, la del lunes. De Kal desvistiéndose a oscuras del otro lado de la cama. «Lo del jueves.» De su propia voz, ya medio dormida contra su hombro: «¿Cómo están las chicas?» Y de él, mirando el techo, diciendo «Bien. Están bien».
+Y del radio de la cinta roja detrás del bote de café, y de la mano de Kal acomodando el bote para que no se viera.
 
 No dijo nada de eso tampoco.
 
-Bonnie se levantó de la silla. Fue a la cocina, se agachó junto al refrigerador y sacó de la caja de cartón una lata de aceite agujereada. No tenía tornillos. Era la única que no tenía. La había apartado de las otras, Chiara se dio cuenta, la había dejado arriba, encima de las demás, vacía.
+—Me voy —dijo Bonnie.
 
-—Ésta es la de ella —dijo Bonnie—. La del centro. Le dio sin acomodarse los pies.
+Lo dijo igual que lo otro. Sin preámbulo.
 
-Se quedó con la lata en la mano, mirándola. Le dio una vuelta. Por el agujero de entrada, del tamaño de una moneda chica, entraba la luz de la ventana.
+—A Boston. Con mis papás. —Dejó el trapo en la orilla del fregadero, doblado—. Todavía no les he dicho. Pero me voy.
 
-—Me la voy a llevar.
+—Bonnie…
 
-—Claro —dijo Chiara. Se le rompió la voz en la segunda sílaba y la recompuso, como recomponía un informe—. Claro que te la llevas.
+—Se la pedí a usted. —Bonnie levantó la vista por fin—. La ambulancia. Allá. Y usted dijo «aquí».
 
-Bonnie asintió. Dejó la lata en la mesa de la cocina, junto al teléfono apagado de Meiko, y volvió a meter las manos en los bolsillos de la chaqueta que le quedaba grande.
+Chiara no se movió.
 
-Chiara se levantó. Recogió los folletos de la mesa de centro, uno por uno, y los dobló otra vez en dos. Después no supo qué hacer con ellos. Los dejó sobre el brazo del sillón.
+—No la culpo. Sé por qué. Mei dijo que no, y la policía ya estaba al lado, y nadie del Patio llega a un hospital con una herida así sin que alguien pregunte de dónde. Lo sé. —Bonnie bajó la vista a sus manos limpias—. Pero yo la oí, a la doctora. Y si me quedo, un día voy a ser yo la que dice «aquí». Y no quiero.
 
-—Quédatelos —dijo—. Por si allá… Por si te sirven para comparar.
+En el bolso, colgado de la silla, Chiara llevaba unos folletos doblados en dos. De la universidad estatal, de un instituto técnico, de una escuela de ingeniería de fuera del estado con fotos de laboratorios. Llevaba una semana cargándolos sin encontrar el momento.
 
-—Gracias, señora.
+No los sacó.
 
-Se quedaron de pie, las dos, en la sala chica, con la puerta cerrada al fondo del pasillo y la luz prendida encima.
+—Está bien —dijo. Y después, porque eso no alcanzaba—: Está bien, tesoro.
 
-Chiara quería abrazarla. No sabía si Bonnie se dejaba abrazar. En año y medio no la había visto dejarse, no la había visto pedirlo, no la había visto acercarse a nadie más que a Meiko, y a Meiko la había agarrado del brazo en una foto, a medio grito, como si se estuviera cayendo. Chiara se acercó un paso. Bonnie no se movió.
-
-Chiara la abrazó.
-
-Bonnie se quedó quieta, con las manos en los bolsillos. Después sacó una. La puso en la espalda de Chiara, plana, sin apretar, como cerraba un capó.
-
-—¿Está bien usted? —preguntó, contra su hombro.
-
-Chiara no contestó.
+Bonnie asintió. Se quedaron las dos en la cocina, de pie, frente al fregadero, con el café de Héctor hirviendo solo en la estufa, porque Héctor no había vuelto.
 
 ***
 
-En la Villa, a las once de la noche, todas las luces estaban apagadas menos la de la sala.
+Héctor volvió a las tres y media.
 
-Chiara estaba en el suelo. No se acordaba de cuándo se había sentado. Se acordaba de haber llegado, de haber dejado las llaves en el cuenco, de haber pasado frente a la chimenea y de haberse detenido. En la repisa de mármol estaba la foto, la que había imprimido en enero, en papel bueno, y puesto en un marco de plata sin decirle a nadie, la de Nochebuena en el taller: todos los muchachos apretados frente a los bancos de trabajo, con las camisas de cuadros y los platos a medio terminar, y el coche del elevador detrás, convertido en árbol.
+Entró por la cocina, dejó la chaqueta en el perchero y apagó la flama del café, que se había consumido a la mitad. Nadir levantó la cabeza desde la silla de la cabecera.
 
-La había bajado de la repisa. Después estaba en el suelo, con la espalda contra el sillón y la foto en las piernas, y el marco frío en las manos.
+—¿Y?
 
-Meiko en el centro. Riéndose con los ojos cerrados y la cabeza echada hacia atrás, con un tamal a medio comer en una mano y la otra prendida del brazo de Bonnie. Bonnie agachada, con el pelo en la cara y la boca abierta a medio grito. Danny haciéndole cuernos a Nadir. Nadir riéndose. Héctor con su sonrisa chica. Todos, apretados, sonriendo hacia la cámara de Héctor, que ella sostenía en alto, gritándoles que se juntaran. Como si pudieran con el mundo. Como si nadie les hubiera dicho todavía cuánto costaba.
+Héctor se sirvió una taza. No se la tomó.
 
-Había llorado tanto que ya no lloraba. Le salía otra cosa, un ruido seco, desde abajo, cada tanto, que no era llanto y no paraba.
+—Un vidrio —dijo.
 
-Oyó el coche.
+Nadie le preguntó más. Kal lo miró desde la ventana un momento, y Héctor no le devolvió la mirada.
 
-Oyó la puerta. Las llaves en el cuenco, el ruido que hacían siempre. Los pasos en el pasillo, despacio, más despacio que nunca. Se detuvieron en la entrada de la sala.
+***
 
-Chiara no levantó la vista. Tenía la foto en las piernas.
+Russ llegó a las cuatro menos cuarto, y no llegó solo.
 
-Kal se quedó en la entrada un rato largo. Después entró. Se arrodilló delante de ella, en el suelo, y Chiara le vio las manos: la tierra del cementerio todavía en los pliegues de los nudillos y debajo de las uñas, aunque se notaba que se las había lavado, que se las había lavado muchas veces. En el puño de la camisa traía una mancha gris, de ceniza vieja. No le preguntó.
+Chiara oyó el coche y después el bastón en los escalones del porche, el golpe seco de la punta de goma en cada uno. Danny se levantó del escalón para dejarlo pasar. Russ le puso la mano en el hombro al pasar, un segundo, sin mirarlo, y entró. Era un hombre grande, con un bigote tupido que le tapaba la boca, una gorra que se quitó en la puerta y una cara que no se movía. Se paró en la entrada y miró la mesa larga. Lo miró todo: la sábana, la trenza deshecha, Nadir, Harper en el suelo. Chiara le vio contar.
 
-Él miró la foto. Ella lo vio mirarla. Lo vio buscar a Meiko en el centro y encontrarla, y lo vio quedarse ahí.
+Detrás de él, despacio, entró Marisol, con las muletas.
 
-—Lo siento, ¿vale?
+Kal se dio vuelta desde la ventana. La vio. Se le quedó la cara quieta, y después algo se le movió en la mandíbula.
 
-Lo dijo bajito. Sin fondo. Mirando la foto, no a ella.
+—¿Quién le habló?
 
-Chiara levantó la vista. Lo miró. Tenía en la boca todo lo de las cuatro de la tarde: el hipódromo, el «después», la noche en que no la dejó ir. Lo dejó ahí.
+—Yo —dijo Bonnie desde la puerta de la cocina.
 
-—No te martirices. Hiciste lo que debías hacer.
+Kal la miró. La miró un rato largo, a Bonnie, y Bonnie le sostuvo la mirada con las manos limpias a los lados. Kal no dijo nada. Lo dejó pasar.
 
-Se le había ido la mano al hombro derecho, al que le dolía desde la destilería. La bajó.
+Marisol cruzó el cuarto. Le costaba; las muletas resbalaban un poco en el piso de mosaico, y nadie se acercó a ayudarla porque se notaba que no quería. Llegó a la mesa. Miró a Mei. Miró la trenza que Tyler no había terminado. No miró a Kal ni una vez. Se quedó de pie junto a la mesa, apoyada en las muletas, y le puso a Mei la mano en el pelo, encima de la trenza, y la dejó ahí.
 
-Kal cerró los ojos. Se inclinó hacia ella y le dio un beso en la frente. Se quedó así, con los labios contra su frente, un momento largo.
+Russ ya estaba con Kal, en la ventana. Hablaba poco y exacto, y Chiara lo oyó entero porque no bajaba la voz para nada.
 
-Después se sentó a su lado, en el suelo, con la espalda contra el sillón, hombro con hombro. Chiara le pasó la foto. Él la sostuvo con las dos manos, con la tierra en los nudillos, sobre las rodillas.
+—Al norte. Por la Vía de las Refinerías, pasando Los Álamos, treinta y ocho kilómetros. Hay un camino de terracería que sale a la derecha antes del segundo puente. Sube. Arriba la tierra es firme, y el agua no llega ni con tormenta. —Se tocó el bigote—. Lo conozco.
 
-Estuvieron así mucho tiempo. La casa estaba en silencio. En la cocina, el refrigerador arrancó y se detuvo.
+—¿De dónde? —preguntó Kal.
 
-—Iba a decirle —dijo Kal.
+Russ no contestó eso.
 
-Se detuvo. Chiara esperó.
+—Una hora y diez con la camioneta cargada. El sol sale a las cinco cincuenta. Si salimos a las cuatro y media, llegamos con luz para cavar y sin luz para que nadie nos vea desde la carretera. —Miró a Kal—. Metro y medio. Menos no.
 
-Él miraba la foto. Tenía el pulgar sobre el vidrio, al lado de la cara de Meiko, sin tocarla.
+Kal asintió.
 
-—Iba a decirle que sin importar lo que tuvo que hacer, era de los míos.
+—Las palas del taller —dijo—. Las tres.
 
-Y entonces lloró.
+—Ya están en la camioneta de Walt —dijo Russ—. Se las pedí al subir.
 
-No lo anunció. Empezó con los hombros. Chiara lo sintió antes de verlo, contra su propio hombro, un temblor que él estaba aguantando y que ya no se podía aguantar. Después le salió el aire de golpe, roto, y se dobló sobre la foto, con la cara entre las manos y la tierra del cementerio en las manos, con un ruido que no tenía palabras y que no se detenía.
+***
 
-Chiara lo abrazó. Le rodeó la espalda con los dos brazos y apoyó la cara en su nuca, y lo sostuvo así, doblado, con la foto aplastada entre sus rodillas y su pecho.
+Salieron a las cuatro y media.
 
-Lo de enero, lo de la plática, lo de la ventanilla: lo tenía contra la boca, en la nuca de él. No lo dijo.
+La bajaron de la mesa con la sábana de abajo, entre seis, y la llevaron a la camioneta. Bonnie se subió atrás, otra vez, y se acomodó la cabeza de Mei en las piernas, encima de la manta. En el último momento regresó corriendo a la casa, entró, y salió con algo en la mano que Chiara no alcanzó a ver, y se lo metió en el bolsillo de la chaqueta de mezclilla. La caja de zapatos se había quedado vacía en la orilla de la mesa.
 
-—Amore —dijo Chiara, contra su pelo. Sólo eso. No supo a quién se lo decía.
+Kal llegó al coche de Chiara. Abrió la puerta del conductor sin preguntar y se sentó, y Chiara se subió del otro lado. Él no prendió la radio. Ella no le dijo nada.
 
-Afuera, en el jardín, empezó a llover, muy poco, una lluvia de primavera, fina, que no se oía en el techo y sólo se veía en el vidrio de la ventana, contra la luz de la sala, bajando.
+Era una caravana chica: el coche de Russ adelante, con Marisol; la camioneta de Walt; ellos; las dos camionetas del Patio atrás, con las luces bajas. Salieron de la Almendra por calles que Chiara no conocía y tomaron la avenida hacia el norte, y después la Vía de las Refinerías, que a esa hora no tenía nada: las torres apagadas de Los Álamos, las chimeneas negras contra un cielo que todavía no era nada, los tanques oxidados, las rejas de alambre con letreros que nadie leía. Después ni eso. La carretera se pegó a la costa y a la derecha empezaron los cerros y a la izquierda, abajo, se oía algo que no se veía.
 
-Se quedaron en el suelo hasta que se apagó la lámpara del jardín, que tenía temporizador, a la una. Después se quedaron a oscuras.
+Kal manejaba con las dos manos. No habló en todo el camino. Chiara lo miró una vez, de lado, y tenía la cara de las mañanas en el taller.
+
+Antes del segundo puente, el coche de Russ puso la direccional.
+
+***
+
+El camino de terracería subía entre matorrales, con piedras sueltas que golpeaban abajo del coche, y terminaba en una explanada de tierra y pasto ralo sobre el mar. No había nada. Una cerca de alambre caída, de algún rancho que ya no existía, y un encino solo, viejo, doblado hacia tierra por el viento de muchos años, con el tronco torcido como alguien que camina contra una tormenta.
+
+Ya se veía. El cielo había pasado de negro a gris, y del gris salían las cosas una por una: el borde de la cornisa, el pasto, las caras. Y abajo, lejos, muy abajo, el mar. Se oía golpear contra las piedras, y a esa altura el ruido llegaba despacio, tarde, como si viniera de otro lugar.
+
+Russ escogió el sitio. Caminó con el bastón hasta un punto entre el encino y el borde, lejos del borde, y clavó la punta del bastón en la tierra.
+
+—Aquí.
+
+Cavaron por turnos. Kal agarró la primera pala y Nadir la segunda, y Danny le quitó la tercera a Walt antes de que Walt pudiera empezar. La tierra era dura arriba y con piedras, y después más blanda, y después otra vez dura. Se fueron turnando las tres palas sin hablar: Tyler, Harper, Danny otra vez, Walt, Nadir. Kal no soltó la suya. Cavó todo el tiempo, sin cambiar el ritmo, con la camisa pegada a la espalda en el frío de la madrugada.
+
+Marisol se había alejado. Chiara la vio caminar con las muletas, despacio, por el pasto, hasta el encino, y quedarse un rato debajo. La vio agacharse, con mucho trabajo, apoyada en una muleta, y recoger algo del suelo. Se lo guardó en la bolsa del abrigo y volvió.
+
+Metro y medio. Russ lo midió con el bastón.
+
+La bajaron con dos cinchas de la grúa, despacio, envuelta en la sábana y en la manta de cuadros. Cuando tocó el fondo no hizo ruido. Bonnie se quedó en la orilla, mirando hacia abajo, con una mano en el bolsillo de la chaqueta, apretando lo que había traído de la casa, y después lo sacó. Era el teléfono de funda verde. Se agachó y lo dejó caer adentro, junto a la manta.
+
+Nadie dijo nada.
+
+Después la taparon. Eso fue más rápido. Kal echó la última tierra y la aplanó con el revés de la pala, dos veces, con cuidado, como se aplana el cemento fresco de una acera. Después se enderezó y se quedó con la pala en la mano, mirando la tierra, sin soltarla.
+
+Nadie sabía qué hacer. Estaban de pie alrededor, en un círculo chueco, con las manos sucias, y se oía el mar abajo, tarde. Chiara miró a Kal. Kal miraba la tierra. Tenía la boca cerrada.
+
+Fue Marisol.
+
+Dio un paso hacia adelante con las muletas y se paró a la cabecera de la tierra recién aplanada. Bonnie se le acercó sin que nadie se lo pidiera y la sostuvo del codo.
+
+—Yo no la conocí como ustedes —dijo Marisol. Tenía la voz baja, pero el viento estaba a favor y se la llevaba hacia ellos—. No sé lo que… —Se detuvo. No miró a Kal—. No sé muchas cosas. Pero fue a verme al hospital. Después de lo del coche. Dos veces.
+
+Nadie se movió.
+
+—No platicaba mucho. Se sentaba en la silla de la ventana. La primera vez se pasó la hora arreglándome el control de la cama, que no servía, que nada más subía. Lo desarmó con una moneda. Cuando se fue, ya bajaba. —Algo le movió la boca a Marisol, casi una risa—. La segunda vez le pregunté qué le gustaba. Porque yo no sabía nada de ella, y ella ya sabía cómo funcionaba mi cama. Se quedó pensando, como si fuera pregunta de examen. Y dijo que el mar.
+
+Harper bajó la cabeza.
+
+—Le pregunté por qué —dijo Marisol—. Y me dijo: «Porque no se le puede ganar». Y se rió.
+
+Se calló. Miró hacia el borde, hacia abajo, donde se oía.
+
+—Así que aquí está. Enfrente de lo único que no le podía ganar.
+
+Después se soltó del brazo de Bonnie. Metió la mano en la bolsa del abrigo y sacó lo que había recogido debajo del encino. Era una bellota. Chica, café, con su sombrerito todavía puesto. Marisol no se agachó; no podía. La puso sobre la tierra, a la cabecera, y la empujó con la punta de goma de la muleta, despacio, hasta que la tierra se la tragó. Después aplanó encima con la misma punta, una vez.
+
+No dijo para qué.
+
+Bonnie se quedó mirando el lugar donde había entrado la bellota. Chiara le vio la cara y no la pudo mirar más.
+
+En ese momento salió el sol. Salió por detrás de ellos, por los cerros, y la luz pasó por encima de sus cabezas y de la cornisa sin tocarlos, y lo primero que tocó fue el mar. Se prendió entero, de golpe, de un lado a otro, hasta donde se acababa. Desde arriba se veía todo.
+
+Chiara lloró ahí. No se dio cuenta de cuándo había empezado. Lloró sin ruido, con la cara mojada en el viento frío, de pie junto a Kal, que no lloró, que seguía con la pala en la mano, mirando la tierra.
+
+Al rato, Kal le dio la pala a Russ. Russ la tomó.
+
+Se fueron yendo de dos en dos, de tres en tres, hacia los coches, sin despedirse. Bonnie se quedó al último, con Marisol del brazo, y Chiara las vio desde el coche, chiquitas, de pie junto a la tierra y el encino, con el mar prendido atrás. Después Bonnie le dijo algo a Marisol al oído, y Marisol asintió, y caminaron juntas hacia el coche de Russ, despacio, al paso de las muletas.
+
+***
+
+El regreso fue en silencio.
+
+Kal manejó. Chiara miraba la carretera. Pasaron otra vez por Los Álamos, ya con luz, y las torres de las refinerías eran sólo torres oxidadas, y había un camión de basura en una esquina y un hombre que paseaba un perro, y la ciudad empezaba a hacer lo que hacía todas las mañanas como si nada. Pasaron el centro. Subieron por la carretera de los cerros, entre los abetos, con el sol ya alto y frío. Kal no prendió la radio. Ella no le dijo nada. No había nada que decir que cupiera en el coche.
+
+La reja de la Villa se abrió. Kal estacionó frente a la puerta y apagó el motor, y se quedaron los dos sentados un momento, oyendo cómo se enfriaba.
+
+Adentro, la casa olía a cerrado. En el sillón seguía el libro que Chiara había dejado abierto cuando sonó el teléfono, boca abajo. Kal dejó las llaves en el cuenco, con el ruido de siempre. Chiara dejó el bolso en el suelo, junto a la puerta, con los folletos adentro.
+
+Al pasar frente a la chimenea se detuvo. En la repisa de mármol estaba la foto, la que había imprimido en enero, en papel bueno, y puesto en un marco de plata sin decirle a nadie: la de Nochebuena en el taller. La bajó. No supo por qué. La sostuvo contra el pecho.
+
+Se volteó hacia Kal. Él estaba parado a la mitad de la sala, con las manos sucias de tierra a los lados, como si no supiera dónde estaba.
+
+—Fue una noche horrenda —dijo Chiara.
+
+—Sí. —Kal tardó—. Sí que lo fue.
+
+Ella le extendió la mano. Él se la tomó. Tenía los dedos fríos y ásperos de tierra.
+
+—Hay que ir a descansar.
+
+Kal asintió.
+
+Subieron. Ella iba adelante, con la foto en una mano y la mano de él en la otra, y él venía detrás, un escalón abajo, y la escalera de madera crujía en los lugares de siempre. A la mitad, Chiara sintió que la mano de él se cerraba. Fuerte. Más fuerte. Se detuvo, porque él se había detenido.
+
+Se volteó.
+
+Kal estaba parado en el escalón, con la cabeza baja, sosteniéndole la mano con una fuerza que le dolía.
+
+—Está muerta —dijo.
+
+Chiara no se movió.
+
+—Mei está muerta. —La voz se le fue por un lado. Levantó la cabeza y la miró, y Chiara no le había visto nunca esa cara—. Oh. Mei está muerta.
+
+Y entonces se rompió.
+
+Se le dobló algo por dentro y lo siguió el cuerpo. Se le aflojaron las piernas en el escalón y Chiara soltó la foto sobre la escalera para agarrarlo con las dos manos, y no pudo con él, y bajaron juntos, despacio, hasta quedar sentados en la madera, él un escalón abajo, con la cara contra su vientre y los brazos alrededor de su cintura, y ella encima, rodeándole la cabeza. Lloró de golpe, con un ruido que no tenía palabras.
+
+Chiara lo sostuvo. Le costaba; pesaba, y temblaba entero, y ella tenía el brazo derecho todavía dolido de la bolsa de suero. Lo sostuvo igual. Le pasó la mano por la nuca, por el pelo, por la tierra que tenía en el pelo.
+
+—Amore —dijo—. Aquí estoy.
+
+La foto se había quedado en el escalón de arriba, boca arriba, con el sol de la ventana de la escalera encima. Desde donde estaba, con la cabeza de Kal contra ella, Chiara veía a Mei en el centro, riéndose con los ojos cerrados y un tamal en la mano.
+
+***
+
+Arriba, en el cuarto, se sentaron en el suelo, contra la cama.
+
+No se acostaron. Ninguno de los dos lo propuso. Se sentaron en la alfombra, hombro con hombro, con la espalda contra el colchón, y Chiara tenía la foto en las piernas. Por la ventana entraba la mañana, ya completa, y se oían pájaros en los abetos.
+
+Kal tenía los ojos rojos y la cara quieta otra vez, pero era otra quietud. Miraba la foto.
+
+Estuvieron así mucho tiempo.
+
+—Me ganó el miércoles —dijo Kal.
+
+Chiara esperó.
+
+—En el puente. Le di la vuelta por La Isla para cansarla y la que me cansó fue ella. En las curvas se quedaba atrás, pegada, sin intentar nada, y yo creí que la estaba dejando atrás. —Se pasó el pulgar por los nudillos, donde tenía la tierra—. Me pasó en la recta. Llegó primera a la plaza y se puso a reírse con la frente en el volante. Nunca la había oído reírse así. Nunca.
+
+Hizo una pausa.
+
+—Ahí decidí que no iba. En la fuente. El coche echando vapor y ella riéndose detrás de mí. Lo de Varek ya lo había decidido para el otro lado: que fuera, que la tuviera donde la viera. Y luego la oí reírse y pensé que si algo salía mal en el corralón… —Se detuvo—. La dejé en la casa para que no le pasara nada.
+
+Chiara no dijo nada.
+
+Pensó en Bonnie, en la cocina, doblando un trapo en dos: «Por eso anoche no fue». Pensó en el radio de la cinta roja detrás del bote de café, y en la mano de Kal acomodando el bote. Supo lo que Mei había creído, sentada en el suelo de la sala con el radio en el piso, con el volumen bajo.
+
+Lo tuvo en la boca. No se lo dio.
+
+—La doctora me preguntó —dijo, en cambio.
+
+Kal volteó.
+
+—Si la subíamos a la camioneta. A urgencias. Dijo que a lo mejor no llegaba, pero que ahí no llegaba. —Chiara miraba la foto—. Tú no habías llegado. Mei dijo que no con la cabeza. Bonnie me dijo que sí, que le dijera que sí. Y yo miré la puerta y no estabas, y dije «aquí».
+
+—Yo habría dicho lo mismo.
+
+—Ya lo sé. —Le tembló la voz y la dejó temblar—. Por eso lo dije. Pensé: que no tenga que decirlo él. Escogí rápido, Kal. Como escojo en el Monarch, cuando hay que escoger entre dos cosas malas y una cuesta menos. Y no era el Monarch.
+
+Kal la miró un rato largo.
+
+—No escogiste sola —dijo—. Ella te dijo que no. —Bajó la vista a sus manos—. Y lo dijo porque se lo enseñé yo. Esa regla es mía. La aprendió de mí, como aprendió todo lo demás, mirándome. —Se le cerró la garganta y siguió—. Se la aprendió mejor que nadie.
+
+Chiara le buscó la mano y se la apretó, encima de la alfombra, entre los dos.
+
+—Bonnie te contó —dijo Kal. No era pregunta.
+
+—En la cocina. Todo. Lo de enero. Lo del hermano. Lo de Lunar Pearl. —Chiara tragó—. Y que tú lo sabías.
+
+—Desde el hipódromo. —Kal cerró los ojos—. Te lo iba a decir.
+
+—Después del corralón.
+
+Lo dijo sin filo. Kal se quedó con los ojos cerrados.
+
+—Después del corralón —repitió.
+
+Afuera, un pájaro se posó en el barandal de la ventana y se fue.
+
+—Iba a ir el viernes —dijo Kal—. A la casa. Me iba a sentar en el escalón del porche, como me sentaba con Bonnie a revisarle los números, y la iba a esperar. Ya lo tenía pensado. Lo que le iba a decir. —Abrió los ojos y miró la foto, a Mei en el centro—. Iba a decirle que sin importar lo que tuvo que hacer, era de los míos.
+
+Esta vez no se rompió. Se le llenaron los ojos y lo dejó, y le corrió por la cara sin que hiciera nada por pararlo, y siguió mirando la foto.
+
+Chiara se recargó en su hombro.
+
+—Me abría la puerta del coche —dijo, al rato—. Todas las noches, en la rampa. La primera vez que le quise dar propina, no la quiso. Me dijo que no era por dinero. Y yo le creí. —Se rió, un ruido chico, roto—. En esa rampa le creía a ella y a nadie más. Y me calificaba a los clientes en voz baja, mientras me abría: «propina de veinte, trato de dos». Nunca se equivocó con uno.
+
+Pasó el dedo por el vidrio del marco, sin tocar la cara de Mei.
+
+—Yo nunca le pregunté nada a ella. Qué le gustaba. Ni eso. Marisol sí. —Se le quebró al final—. Marisol se lo preguntó en un hospital, y yo que la veía todas las noches…
+
+Kal le pasó el brazo por los hombros.
+
+—Y Bonnie se va —dijo Chiara—. A Boston.
+
+—Hace bien.
+
+—Ya sé que hace bien. —Chiara se limpió la cara con el dorso de la mano—. Traigo en el bolso unos folletos de la universidad desde hace una semana, Kal. La estatal. Un instituto técnico. Iba a llevarla a ver la estatal un sábado, por dentro, para que viera los laboratorios. Había pensado en el cuarto de arriba, el que da al jardín. —Se detuvo—. Hoy no se los di. No pude.
+
+Kal no contestó en seguida.
+
+—Dáselos el domingo —dijo—. Antes de que se suba. Allá también hay universidades, y ella no va a preguntar cuáles son buenas. Tú sí sabes.
+
+Chiara lo miró.
+
+—El domingo —dijo Chiara.
+
+Él se inclinó y le dio un beso en la frente. Se quedó así, con los labios contra su frente, un momento largo, y Chiara cerró los ojos.
+
+Después se quedaron en el suelo, con la foto entre los dos, mientras la mañana avanzaba por la alfombra hasta llegarles a los pies. Ninguno se levantó a cerrar las cortinas.

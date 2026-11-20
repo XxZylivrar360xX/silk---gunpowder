@@ -4,6 +4,8 @@
 
 *Seda y Pólvora — Ficha de Personaje*
 
+> **DECISIONES DEL AUTOR, 2026-11-19, «el después»:** la madrugada después de F2, Danny lo llama («Todos están mal aquí y necesitamos a alguien que no lo esté») y llega a la casa común con Marisol. Conoce una cornisa en la costa norte, pasando Los Álamos, y no dice de dónde; da la hora exacta y la profundidad («Metro y medio. Menos no.»). Es el que no está mal. Ver [[11_Books/00_Arco_Meiko_Nakano]].
+
 **Nacionalidad:** estadounidense  
 **Edad al abrir la novela:** cuarenta y tantos (mayor que Danny); pendiente exacta  
 **Oficio:** veterano retirado; aspirante político municipal  

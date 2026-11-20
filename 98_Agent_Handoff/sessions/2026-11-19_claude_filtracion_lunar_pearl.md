@@ -21,6 +21,8 @@
 
 **Lectura externa (ocho observaciones), aplicada como DISEÑO en 37–39:** Kal saca el chaleco y el radio de Mei después de la carrera; el gesto de hacer la cuenta antes de la persecución; el coche de una sola calavera (37 y 38) como vínculo verificable con la vigilancia de Halbrook; en la destilería, Chiara decide «Aquí» frente a la oferta de urgencias de la doctora; la camioneta del 39 (la cobija corrida); la mano de Chiara al hombro; poda de glosas sobre el llanto. Detalle en [[11_Books/00_Arco_Meiko_Nakano]]. Queda el pulido de diálogos del 39 con el autor.
 
+**El después de F2 (DECISIONES DEL AUTOR, 2026-11-19, «el después»):** 39 reescrito completo como una sola noche: casa común, Garrett y Russ (lo llama Danny), Chiara se entera por Bonnie en la cocina, el «aquí» compartido, entierro al amanecer en la costa norte (habla Marisol, la bellota, a Mei le gustaba el mar), la escalera («Está muerta. Mei está muerta.») y el suelo con la foto. Se retiran «Lo siento, ¿vale?» / «No te martirices…», el cementerio y la ceniza. Kal le dice la verdad a Kaito fuera de página. Cobro: Bonnie y Marisol vuelven veinte años después. Detalle en [[11_Books/00_Arco_Meiko_Nakano]].
+
 **Sin regenerar** EPUB, PDF ni audio, por orden del autor: primero da su retroalimentación sobre el flujo.
 
 **Pendientes**

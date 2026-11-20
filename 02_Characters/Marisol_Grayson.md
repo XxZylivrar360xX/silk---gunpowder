@@ -1,5 +1,7 @@
 # Marisol Grayson
 
+> **DECISIONES DEL AUTOR, 2026-11-19, «el después»:** en la madrugada después de F2, Bonnie la llama («Cupcake, ¿puedes venir?») y no pregunta para qué. Llega con Russ a la casa común, no mira a Kal, y en el entierro al amanecer, en una cornisa de la costa norte, **es la que habla**: Mei la visitó dos veces en el hospital después del choque y le dijo que le gustaba el mar «porque no se le puede ganar». Planta una bellota con la punta de la muleta. Sabe lo que hacen los muchachos y no lo nombra («No sé muchas cosas»). **Cobro:** veinte años después vuelve con Bonnie a llevarle flores; la bellota ya es un encino. Ver [[11_Books/00_Arco_Meiko_Nakano]].
+
 > **DECISIÓN DEL AUTOR (2026-11-18):** desde la Navidad del Libro II, Bonnie le dice **«Cupcake»** a Marisol (del «Red Velvet Cupcake» de la universidad); es la única a quien Marisol se lo tolera, y vuelve intacto veinte años después. Ver [[06_Relationships/Bonnie_y_Marisol]].
 
 > **DECISIÓN DEL AUTOR (2026-11-18):** en la Universidad Ashcombe le decían **«Red Velvet Cupcake»**, por pequeña y pelirroja; lo odia. Se siembra en su graduación (cap. 15 del Libro II) y Chiara se lo cobra en Navidad con un cupcake de *blue velvet* (cap. 20b). Ver [[11_Books/Book_02_Sombras_De_Poder/Part_02_Nieve_Y_Ceniza/00_Diseno_Navidad_Completa]].

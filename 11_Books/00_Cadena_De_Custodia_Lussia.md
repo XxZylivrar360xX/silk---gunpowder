@@ -48,11 +48,11 @@
 | Personaje | Sabe | Desde | No sabe |
 |---|---|---|---|
 | **Varek** | Que Kal y el Patio robaron la piedra; que Mei manejaba | Marzo A4 (Meiko) | Que pasó por la estufa de Héctor; que la tiene Halbrook. **Después de F2 la sigue dando por perdida** y se la sigue pidiendo a Kal |
-| **Kal** | Que la estufa quedó vacía; que Varek no la tiene; que los ladrones eran gente de la línea de Crowe | La noche del entierro (39, fuera de página); cap. 42 | Que la tiene Halbrook, hasta la montaña |
+| **Kal** | Que la estufa quedó vacía; que Varek no la tiene; que los ladrones eran gente de la línea de Crowe | Días después de F2 (elipsis D, fuera de página); cap. 42 | Que la tiene Halbrook, hasta la montaña |
 | **Héctor** | Que guardó algo de Kal; que le abrieron la estufa | Cap. 37; noche de F2 | Qué era (no quiso saber). No le dice nada a Kal. Muere junto a la piedra |
 | **Mei** | Lo que confesó | Marzo | La mudanza. Muere sin saber que el robo fue por la piedra |
-| **Bonnie** | Que en casa de Héctor sólo abrieron la estufa vieja | Noche de F2 | Qué había. Se lo dice a Chiara «para que conste» (cap. 39) |
-| **Chiara** | La frase de Bonnie, sin entenderla; en el III, la piedra misma | Cap. 39; Libro III | Que la mano que se la vende es la que se la quita |
+| **Bonnie** | Que robaron la casa de Héctor | Noche de F2 | Qué había (ya no le dice nada a Chiara de la estufa; 39 reescrito) |
+| **Chiara** | Nada de la piedra en el II; en el III, la piedra misma | Libro III | Que la mano que se la vende es la que se la quita |
 | **Crowe** | Que la piedra nunca pasó por él; que mandó a sus Calderos a un encargo | Feb–abr A4 | Para qué la quería Halbrook. Muere callado |
 | **Halbrook** | Todo | — | Que Kal y Varek, al apretarse, se la entregaron |
 
@@ -61,8 +61,8 @@
 - **26 *Lussia* (sin redactar):** sembrar la vuelta de más, que Mei decide sola porque Harper no ha dado la señal, y la copa en el casino.
 - **37 (escrito):** no cambia. El coche despacio del martes queda sin explicar en la página; detrás está la vigilancia de Halbrook. Ya no son los Calderos: ellos son las manos, no los ojos.
 - **38 (escrito):** no cambia. Nadie en la página dice quién mandó a los ladrones.
-- **39 (escrito):** Bonnie: «Nada más le abrieron la estufa vieja». Se añade la ceniza en el puño de Kal.
-- **39, la noche del entierro (DECISIÓN DEL AUTOR, 2026-11-19):** antes de volver a la Villa, Kal revisa la estufa y la encuentra vacía, fuera de página. Héctor no dice nada. En la Villa, Chiara le ve una mancha de ceniza en el puño de la camisa y no pregunta (aplicado en la prosa).
+- **39 (reescrito, 2026-11-19):** ~~Bonnie: «Nada más le abrieron la estufa vieja»; la ceniza~~ Héctor: «Un vidrio». Chiara no recibe ninguna siembra de la piedra en el II.
+- ~~**39, la noche del entierro:** Kal revisa la estufa; la ceniza en el puño~~ **SUPERADO (DECISIONES DEL AUTOR, 2026-11-19, «el después»):** el 39 es una sola noche y Kal vuelve directo de la costa a la Villa. Kal revisa la estufa días después, fuera de página (elipsis D), y se recuerda en el 42. En el 39 Héctor vuelve de su casa con «Un vidrio» y no le devuelve la mirada a Kal.
 - **42 *Yo respondo*, la oficina de Dario (DECISIÓN DEL AUTOR, 2026-11-19; línea: DISEÑO del agente, el autor descartó la que nombraba a Lucía porque no son tan cercanos):** la estufa vacía se recuerda en una línea. Dario, al final de la reunión y sin acusar: «En mi ciudad no ha aparecido ninguna piedra roja, señor Mercer. Me extraña.» Kal entiende que Dario no la tiene, y que alguien más sabía de la estufa. Piensa en el Tasador. Al casarse con el golpe fallido de los chicos contra la casa de empeño de Crowe, la duda de Kal sobre el Tasador **no se dice en voz alta**: le pone un motivo privado a la guerra contra Crowe (43 en adelante) sin convertirla en venganza por Mei.
 - **La tormenta y la muerte de Crowe (II, Parte IV):** si queda algún registro de lo que deja Crowe, la piedra no está. **DISEÑO:** una línea de Kal o de Walt, nada más.
 - **Libro III:** la venta, Santa Lucía y la montaña, según la columna.
