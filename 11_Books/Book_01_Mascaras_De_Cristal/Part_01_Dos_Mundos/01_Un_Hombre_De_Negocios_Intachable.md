@@ -9,6 +9,7 @@ DISENO del agente, fuera del plan, a confirmar: orden Keene, llamada, Gelsomino,
 AUTOR (2026-11-05, tras la primera version): los tenis los pone Marisol (energia de hombre, no de proveedor); Blake sin nombrar al volante de la 31 (redaccion DISENO).
 Reglas 05 y 06 (2026-11-05, encargo del autor; DISENO): nota en 98_Agent_Handoff/sessions/2026-11-05_claude_cap01_desde_cero.md.
 AUTOR (2026-11-06, tras su lectura): transiciones de noche a Keene y de Mabel a la casa; Nadir, llamada; despedida con beso en la frente y "Ese eres tu". Redaccion DISENO, misma nota.
+Cirugia de la lectura (2026-11-21; 13_Auditorias/Book_01_Mascaras_De_Cristal/Cirugia_Lectura_Libro_I.md): recortadas las replicas infladas por los barridos (Marisol con la carta, "Y ya", "Lo se", "Hasta entonces"); Nadir pide no hablar por telefono; linea de logica del Peugeot (placas, nadie le ha visto la cara) antes de sacarlo a probar el pedal. DISENO, espera lectura.
 -->
 
 # Capítulo 1 — Un hombre de negocios intachable
@@ -17,7 +18,7 @@ A las siete de la tarde del sábado, con el sol cayéndoles de lado a las lámin
 
 No la vio venir. Había buscado el tensor de la banda, se había agachado, se le había abierto la chaqueta de mezclilla, y ya había dos dedos adentro.
 
-—Cárcel del condado —dijo Marisol, y ya lo estaba abriendo.
+—Cárcel del condado —dijo Marisol, y ya estaba abriendo el sobre.
 
 —Dámela. Viene a mi nombre.
 
@@ -51,13 +52,13 @@ Kal encontró la tuerca.
 
 —El lunes.
 
-Marisol dejó de caminar el tiempo justo para hacer la cuenta, y Kal vio que la guardaba para después.
+Marisol le miró el bolsillo de la chaqueta, de donde la había sacado.
 
 —¿Nat ya sabe?
 
 —Estuvo en la audiencia. Le pedí que me lo dejara a mí.
 
-—Claro que le pediste. Tú pides que te dejen las cosas y luego las cargas en la chaqueta hasta que se arrugan. —Alisó la hoja contra el capó con la palma, para que él la viera—. ¿Héctor?
+—Claro que le pediste. —Alisó la hoja contra el capó con la palma, para que él viera cómo se había arrugado—. ¿Héctor?
 
 —Mañana.
 
@@ -309,7 +310,7 @@ Kal miró la taza intacta.
 
 Keene puso un dedo sobre la hoja y la giró un cuarto de vuelta, sin leerla.
 
-—Anoche, en el Puerto Viejo, un sujeto con una cabeza de malvavisco me dejó dos unidades fuera de servicio. Le estoy citando. Esto lo va a leer el alcalde. —Levantó el dedo—. Y usted viene un domingo a hablarme de renta mensual.
+—Anoche, en el Puerto Viejo, un sujeto con una cabeza de malvavisco me dejó dos unidades fuera de servicio. Cito el parte. Esto lo va a leer el alcalde. —Levantó el dedo—. Y usted viene un domingo a hablarme de renta mensual.
 
 Kal se tomó un momento. Le ardían los ojos.
 
@@ -353,17 +354,17 @@ Kal miró el semáforo que acababa de ponerse en rojo.
 
 —Conseguí tres meses.
 
-—Hamdulillah. Al menos con eso tenemos ingreso fijo para las máquinas de pintura. —Algo de metal cayó del otro lado y Nadir no lo levantó—. ¿Cuántas unidades? No, espera, no me digas. Pocas, y con el puerco revisando cada factura, yak.
+—Hamdulillah. Al menos con eso tenemos ingreso fijo para las máquinas de pintura. —Algo de metal cayó del otro lado y Nadir no lo levantó—. Lo demás me lo cuentas en persona, khoya. Este teléfono tiene más orejas que el puerco.
 
 —¿Sigues con eso de la estética de los autos?
 
 —¿Estás bromeando o qué? Un auto no es perfecto hasta que no lo mejoras con un buen alerón y una mano buena de pintura.
 
-—Un auto es perfecto cuando no te falla al tomar una curva cerrada, y eso no lo logra la pintura.
+—Un auto es perfecto cuando no te falla al tomar una curva cerrada, y eso no te lo da la pintura.
 
 —Es fácil para ti decirlo. Además, eso sólo pasó una vez, safi. Mi Taurus ya se recuperó de los rayones de ese malvado arbusto.
 
-Kal soltó una risa breve, que le dolió en las costillas.
+Kal soltó una risa breve, la primera desde el muelle.
 
 —Voy al Gelsomino. ¿Te llevo algo?
 
@@ -371,7 +372,7 @@ Kal soltó una risa breve, que le dolió en las costillas.
 
 Los chicos.
 
-—Hasta entonces. Paso primero con Mabel.
+—Hasta entonces.
 
 Dejó el teléfono en el soporte y esperó a que cambiara el semáforo.
 
@@ -407,7 +408,7 @@ Detrás del taller, bajo el techito de lámina, Danny dormía en un sillón de t
 
 —¿Y ya?
 
-—Y ya. Lo de anoche ya se lo cobró la carretera.
+—Y ya.
 
 A Nadir se le movió la mandíbula, buscando un número que decir, y no lo encontró.
 
@@ -427,13 +428,13 @@ Héctor sacó una llave Allen del bolsillo de la camisa, la miró a contraluz y 
 
 —Confías mucho en un hombre que cuenta dinero ajeno.
 
-—Héctor, a Garrett le confiaría mi vida. Como ya le he hecho muchas veces.
+—Héctor, a Garrett le confiaría mi vida. Como ya lo he hecho muchas veces.
 
 Héctor no se rio.
 
 —Eso fue con Russell.
 
-Kal no le discutió. Sacó la carta del bolsillo interior y se la tendió por encima de la cerca, sin decir qué era. Héctor miró el sobre antes de mirarlo a él.
+Kal no le discutió. Sacó la carta del bolsillo interior y se la tendió por encima de la cerca. Héctor miró el sobre antes de mirarlo a él.
 
 —Es de Walt. El juez aprobó la libertad condicional. Va a salir. Mañana.
 
@@ -543,7 +544,7 @@ Kal salió con las bolsas contra el pecho. En la acera de Mabel todavía había 
 
 La casa quedaba a dos cuadras del taller, y estaba de paso. Marisol no estaba. Kal dejó un recipiente en la mesa de la cocina, junto a Procesal Penal, y le mandó un texto desde el porche: *Te dejé comida.*
 
-En la oficina tampoco había nadie; Nadir seguía atrás, junto al sillón, con la sopa guardada. Kal dejó las bolsas en el escritorio y volvió al Ford, que seguía con el capó abierto desde la noche anterior. Lo terminó. Después le cambió el líquido de frenos al Peugeot, que salió negro y oliendo a quemado. Cuando acabó, el sol les caía otra vez de lado a las láminas.
+En la oficina tampoco había nadie; Nadir seguía atrás, junto al sillón, con la sopa guardada. Kal dejó las bolsas en el escritorio y volvió al Ford, que seguía con el capó abierto desde la noche anterior. Lo terminó. Después le cambió el líquido de frenos al Peugeot, que salió negro y oliendo a quemado. Cuando acabó, el sol les caía otra vez de lado a las láminas. Las placas de la noche volvieron a la caja de herramientas y las de diario, a la defensa. Nadie le había visto nunca la cara debajo del hule. Cualquiera con juicio lo habría dejado un mes bajo la lona.
 
 Sacó el Peugeot para probar el pedal, con la canción baja, y en la primera cuadra le vibró el teléfono.
 
@@ -559,7 +560,7 @@ Sacó el Peugeot para probar el pedal, con la canción baja, y en la primera cua
 
 Kal frenó frente a un porche que había reparado más veces que el dueño. El pedal contestó donde debía.
 
-—Lo sé. Por eso te dije que no.
+—Lo sé.
 
 Apagó el motor, y la canción se cortó a medio verso.
 
