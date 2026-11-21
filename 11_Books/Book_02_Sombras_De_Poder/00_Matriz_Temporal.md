@@ -57,7 +57,7 @@ El libro dura **unos dos años: del 5 de enero del año 3 al invierno del año 4
 | **III — Exilio** | Después del choque | feb–mar A4 | fin de invierno | Kal investiga de noche; vuelve golpeado y dice «Te amo» sin que Chiara lo oiga (F3, reescrita 2026-10-14); Tommaso se retira | 27–29 |
 | | F2 | mar–may A4 | primavera | Meiko y Bonnie el mismo día. La primavera en plena flor contra la pérdida | elipsis C; 30–33 |
 | | **Cierre: la boda se planea** | may–jun A4 | primavera | Depresión de Chiara; la frase de Mabel; Chiara organiza la boda. **Desde el 2026-11-21 la Parte III cierra en el 33 (el después de F2) y esto entra como residuo y mañana de la boda en el 34** | elipsis D; 34 |
-| **IV — Torna a casa** | Boda de Mabel y Walt | **jul A4** | verano | Terraza del Monarch; «Te amo.»; el anillo ya en la billetera | 34 |
+| **IV — Torna a casa** | Boda de Mabel y Walt | **fines de jun A4** (DECISIÓN DEL AUTOR, 2026-11-21: así la elipsis D queda en ~7 semanas y la primavera sigue siendo la única larga) | verano | Terraza del Monarch; «Te amo.»; el anillo ya en la billetera | 34 |
 | | Doctrina | jul–ago A4 | verano | Independencia ideológica de Dario; el golpe fallido con muertos | 34–35 |
 | | Las bandas al límite | sep A4 | principios de otoño | Las bandas, hartas de los cobros del Tasador, van con Kal; él acepta sin pedirle permiso a Dario (DISEÑO, columna de Crowe por confirmar). La operación se prepara, no estalla | 36 |
 | | Las cartas de Dale | ago–oct A4 | fin del verano, otoño | Manfred Gabe las entrega tras la boda; Kal las lee solo, habla con Chiara y las devuelve a la tumba antes del viaje (CANON DEL AUTOR, 2026-10-14) | 37–38 |

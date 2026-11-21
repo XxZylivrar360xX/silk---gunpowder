@@ -46,7 +46,7 @@ El lector no sabe **qué** escribe Chiara hasta que Kal lee el papel en voz alta
 - **Kal tampoco piensa «un nombre»:** en su POV de la vela tardía ve que ella escribe algo, nada más.
 - **Fuera del manuscrito:** la palabra puede aparecer en metadata y notas, pero nunca en texto exportable (EPUB/PDF) antes de la chimenea. Verificado el 2026-10-13: la prosa de los Libros I y II no la menciona.
 
-Reglas (DISEÑO): nunca en dos capítulos seguidos ni en el mismo capítulo que una señal del embarazo. Kal sólo la ve escribir en la vela tardía; las demás veces no está o está mirando a otro lado. **Sólo se conserva el papel de H1:** cada uno de los otros se destruye de una manera distinta, y esa variación es la escalada. Con diez apariciones en dos años (contando la 8-b), cada una cabe en un párrafo y ninguna recibe foco. Si pesan demasiado, la primera en recortarse es la 7.
+Reglas (DISEÑO): nunca en dos capítulos seguidos ni en el mismo capítulo que una señal del embarazo. **Excepción declarada (DECISIÓN DEL AUTOR, 2026-11-21):** los tics 4 y 5 (caps. 19 y 20 de la numeración de 48) van seguidos porque son un par a propósito: la vela tardía y la vela a tiempo. Kal sólo la ve escribir en la vela tardía; las demás veces no está o está mirando a otro lado. **Sólo se conserva el papel de H1:** cada uno de los otros se destruye de una manera distinta, y esa variación es la escalada. Con diez apariciones en dos años (contando la 8-b), cada una cabe en un párrafo y ninguna recibe foco. Si pesan demasiado, la primera en recortarse es la 7.
 
 | # | Parte | Fecha | Momento | Soporte y destino del papel | POV |
 |---|---|---|---|---|---|
@@ -76,7 +76,7 @@ Todo cae entre noviembre y diciembre A4, en la Parte IV. Una señal por capítul
 1. **Llega tarde** a una reunión de la operación contra Crowe (mañana, ~18–20 nov). Lo excusa con *El Faro*. Nadie insiste. Es síntoma: ella todavía no sabe qué le pasa.
    - **El documento y el tic (8-b, ~22 nov):** ver la tabla del nombre. No cuenta como señal suelta: es el cruce de los dos hilos.
 2. **El cumpleaños (23 nov):** es la primera noche que lo sabe. El vino es identidad, así que no lo rechaza. Acepta la copa, brinda y la deja; al final de la noche **Kal se la termina** sin pensarlo. Nadie lo anota, ni el narrador.
-3. **El cigarro:** alguien le ofrece uno (Harper, Walt o un socio) y ella dice que Kal le dijo que era malo. Eco del Cap. 50, en tono de broma.
+3. ~~**El cigarro:** alguien le ofrece uno (Harper, Walt o un socio) y ella dice que Kal le dijo que era malo. Eco del Cap. 50, en tono de broma.~~ **Sale (DECISIÓN DEL AUTOR, 2026-11-21):** con 48 capítulos no queda lugar sin romper la regla de una señal por capítulo.
 4. **La comida:** pide algo distinto o deja algo a medias en una cena del Patio. Puede ir cerca de Thanksgiving o quitarse si ya sobra.
 
 - **El disfraz en POV de Chiara:** piensa en «lo que tiene que decirle» y el lector lo carga a la cuenta con Dario, que ya tiene fecha de cobro rumbo a H1. *(2026-11-15, DECISIÓN DEL AUTOR: Varek cobra la cuenta con Chiara desde la cárcel en el VII, por Iris; cómo se concilia con este cobro en el II, PENDIENTE del autor; [[07_Ideas/El_Voto_Inverso]].)*

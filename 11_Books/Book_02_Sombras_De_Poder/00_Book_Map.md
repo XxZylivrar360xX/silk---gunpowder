@@ -153,7 +153,7 @@ En prosa BORRADOR (2026-11-21): los capítulos marcados así en la tabla de abaj
 >
 > **Bloque sin Chiara (DISEÑO, regla 3 de [[12_Craft_Policies/Arquitectura_De_Perspectiva]]):** de *Stavanger* (39) a *Torna a casa* (44), Chiara no narra: lo pide el canon del embarazo («ninguna aparición en POV de Chiara con interioridad»). Se declara como bloque, igual que el arco sin Kal del Libro I.
 >
-> **Abierto (espera al autor):** la excepción de los tics 4 y 5 en capítulos seguidos (19 y 20, las dos velas); la señal 3 (el cigarro) sale o pasa al 41. El tic 7 salió de *Lentejuelas*.
+> **Resuelto (DECISIONES DEL AUTOR, 2026-11-21):** los tics 4 y 5 van seguidos (19 y 20, las dos velas) como excepción declarada; la señal 3 (el cigarro) sale; la boda de Walt pasa a fines de junio (elipsis D, ~7 semanas). El tic 7 salió de *Lentejuelas*. **Beats por capítulo con la columna nueva** (DISEÑO, espera lectura): [[11_Books/Book_02_Sombras_De_Poder/00_Estructura_48_Capitulos]].
 
 | Parte | Cap. | Título de trabajo | Absorbe | POV | Archivo | Antes (58) |
 |---|---|---|---|---|---|---|
