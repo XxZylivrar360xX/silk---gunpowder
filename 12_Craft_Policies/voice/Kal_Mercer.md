@@ -4,9 +4,22 @@
 >
 > **NUEVO CAUCE (2026-11-08; [[98_Agent_Handoff/sessions/2026-11-08_claude_propagacion_parte_II]]):** el archivo 28 se retiró y la conversación del loft pasó entera al **nuevo 27** ([[11_Books/Book_01_Mascaras_De_Cristal/Part_02_Con_Peores_Personas_He_Tratado/29_El_Patio_Ajeno|Una silla]], POV Kal). Las anclas *(Cap. 27 (archivo 29))* de esta ficha se leen hoy como **nuevo 27 (archivo 29)**; las muestras siguen en la prosa salvo las que dependían de la amenaza vieja de Varek, que salieron (CANON DEL AUTOR): «soy su puta… sirvienta», «Así que recalculé», la corte marcial, «tenía que ser yo», «me dijo que me alejara de ti» y «Que yo no puedo estar aquí… apartarme». El parte de Chiara ya no pasa por el taller: Varek la recibió en el hipódromo.
 
+## Replanteamiento 2026-11-21: economia, no mutismo
+
+> Por orden del autor, tras prohibir el ping-pong (DISENO del agente; espera lectura). Evaluacion que lo motiva: [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Dialogos_Cortos_Libro_I]]. **Manda sobre cualquier linea de abajo que lo contradiga.** Lo CANON DEL AUTOR de esta ficha (tic del volante, mano por la cara) no cambia.
+
+**Principio nuevo: Kal es corto sobre si mismo y largo sobre el mundo.** Lo que calla es lo suyo: el miedo, el origen, el costo, lo que siente. Lo que sabe lo dice entero y con gusto: motores, rutas, precios, la calle, la gente, la ciudad, como se hace una cosa. Ahi habla en frases completas, con humor seco y detalle de oficio, sin pedir permiso.
+
+1. **La respuesta corta siempre entrega algo.** Un dato, un objeto, una hora, un nombre: "Una cerca." si; "Mas o menos." no, cuando lo sabe. El monosilabo solo ("Si.", "No.") vale cuando es una decision que cambia la escena.
+2. **Esquiva hablando, no callando.** Para no tocar lo suyo cambia de tema con otra historia, una cuenta o una instruccion (desvio, contrapregunta, anecdota de otro). El silencio es recurso de excepcion, no su manera de contestar.
+3. **Cuenta el lo que vivio.** Si la escena necesita el relato de algo que hizo Kal, lo cuenta Kal, a su manera (como parte de trabajo, sin adjetivos sobre si mismo). Otro puede contar solo lo que Kal no ve de si mismo (su inmovilidad en el hospital, lo que le costo).
+4. **No provoca interrogatorios.** Si Kal contesta corto, el otro no encadena preguntas para sacarle lo demas: sigue con su propia agenda, o Kal suelta el resto por su cuenta una linea despues.
+5. **Raciones de los recursos secos.** "Chiara." como bisagra: una vez por capitulo y solo antes de lo serio. Repeticion como muro, "Ok. Listo." y cierre seco: una vez por pelea. "Lo se" / "Ya se" como replica completa: evitar.
+6. **La longitud es el termometro de la confianza.** Con rival o mesa, cortesia plana y medida (puede ser breve, nunca monosilabica por sistema). Con su gente, suelto y largo cuando se habla de trabajo. Con Chiara, cada Parte del libro un poco mas largo: el lector debe notar que con ella habla como con nadie.
+
 ## Cadencia y sintaxis
 
-Frases cortas o medianas. Contesta lo necesario y guarda el resto. Si se alarga, suele ser para resolver algo practico, no para explicarse. *(Cap. 27 (archivo 29))* Su parrafo mas largo con Chiara es un alegato logistico sobre la seguridad de ella ("La gente con la que llegaste a esta ciudad ya se lavo las manos..."), nunca sobre lo que siente.
+Frases medianas, completas; cortas cuando el contenido es suyo (ver el replanteamiento de arriba). Si se alarga, suele ser para resolver algo practico o contar algo de oficio, no para explicarse. *(Cap. 27 (archivo 29))* Su parrafo mas largo con Chiara es un alegato logistico sobre la seguridad de ella ("La gente con la que llegaste a esta ciudad ya se lavo las manos..."), nunca sobre lo que siente.
 
 Observa primero. Con extraños pregunta poco. **Matiz (Cap. 27 (archivo 29)):** con Chiara, cuando le falta informacion y el riesgo es de ella, interroga: preguntas cortas encadenadas, a menudo con su nombre al final ("¿Que problema hubo, Chiara?", "¿Y esto que es, Chiara? ¿Donde te metiste?", "¿Cuando?", "¿Y por que no vas antes?"). La pregunta es su forma de tomar el control de la escena.
 
@@ -51,7 +64,7 @@ Trabaja mientras habla: limpia una pieza, revisa una factura, abre una puerta, s
 
 > DISEÑO del agente sobre lineas del libro; **aprobado por el autor como piloto (2026-10-04)**: se usa como vara de escritura y se sigue ajustando con prosa real. Las anclas citan capitulos BORRADOR o TERMINADO; "sin ancla" = propuesta a discutir, no regla. Si funciona, se replica en el resto del reparto.
 
-**Principio:** Kal siente con las manos y con logistica; la palabra llega al final o no llega. A mas emocion, menos palabras y mas accion practica. Unica excepcion: el desarme (Cap. 25 (archivo 25)), cuando alguien lo sostiene y habla en bloques largos, "como se dicen las cosas que ya se dijeron muchas veces por dentro".
+**Principio:** Kal siente con las manos y con logistica; la palabra sobre lo que siente llega al final o no llega. A mas emocion, menos palabras **sobre la emocion**, no menos palabras: la conversacion sigue por el lado practico (la ruta, el plan, la pieza, la anecdota de otro). *(Afinado 2026-11-21; antes: "A mas emocion, menos palabras y mas accion practica", que producia replicas monosilabicas en cualquier registro.)* Unica excepcion: el desarme (Cap. 25 (archivo 25)), cuando alguien lo sostiene y habla en bloques largos, "como se dicen las cosas que ya se dijeron muchas veces por dentro".
 
 ### Arbol de decision (antes de escribir la linea)
 
@@ -70,9 +83,9 @@ Trabaja mientras habla: limpia una pieza, revisa una factura, abre una puerta, s
 | Feliz | Seca, seria; sostiene el chiste sin reirse | Dato exacto como remate ("Era fiscal", "mis calcetas son blancas"); nunca dice que esta contento | Cara seria sostenida demasiado; el remate va con un gesto (levanta el indice: "Vendedor del mes") | 7, 8, 25 |
 | Emocionado | Mas larga de lo normal, en relato | Cuenta anecdotas de otros con detalle (Danny, Nadir, "Batman"); ofrece la salida antes de entrar ("si quieres que de la vuelta, la doy") | El entusiasmo sale por persona interpuesta; volante en una sola mano | 8 |
 | Triste | Dato sin fondo; frase pareada ("Tardo menos de lo que uno cree y mas de lo que uno aguanta") | Baja de categoria ("Lo demas son frases"); evita "me duele" | La voz "se queda sin fondo"; el pulgar por la cicatriz "como quien señala una herramienta"; llora sin anunciarlo, primero con los hombros | 25 |
-| Preocupado | Preguntas cortas encadenadas, con el nombre al final | Logistica de seguridad ("¿Donde te vas a quedar?"); la orden se le escapa | Interroga; ironia que cita a la otra ("Un motel, dice ella") | 24c, 28 |
+| Preocupado | Dos o tres preguntas, con el nombre al final, y despues su plan dicho entero (afinado 2026-11-21) | Logistica de seguridad ("¿Donde te vas a quedar?"); la orden se le escapa | Interroga; ironia que cita a la otra ("Un motel, dice ella") | 24c, 28 |
 | Esceptico | No discute; pregunta el precio | "No se que gana"; "Lo demas son frases"; con rival, cortesia sin arista | Mira el telefono o la pieza, no al otro | 24b, 25, 24c |
-| Pensativo | Contesta tarde o no contesta | Nada; deja que la pregunta "se hunda sola" | Ordena objetos sin necesidad (llaves por tamaño, "No hacia falta moverla") | 24b, 25 |
+| Pensativo | Contesta tarde, pero contesta con algo concreto (afinado 2026-11-21) | Nada; deja que la pregunta "se hunda sola" | Ordena objetos sin necesidad (llaves por tamaño, "No hacia falta moverla") | 24b, 25 |
 | Disperso | Minima, de tramite | "Estoy esperando una llamada"; no dice de quien | Mira el telefono "como si le debiera dinero" (Nadir lo nota) | 24b |
 | Agobiado | Repeticion como muro; cierre seco | "No se ni como estoy" x2; "Ok. Listo."; autoborrado ("No voy a ser mas un problema para ti") | Busca algo solido (fregadero, barra) y habla a la madera; se va a la accion | 28 |
 | Aterrorizado | Hielo con el rival; con ella, la frase mas larga y tierna que tiene | "Te vas a mejorar, ¿vale?"; "Duerme. Yo me quedo." | Inmovilidad: no se mueve de la silla dos dias (lo cuenta Hector, no el) | 24c |
