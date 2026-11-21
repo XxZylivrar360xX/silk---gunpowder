@@ -71,7 +71,7 @@ Era impecable, aburrida y enseñable.
 
 Eso la irritó un poco menos de lo que la tranquilizó.
 
-Le transfirió el pago desde una cuenta operativa menor del Monarch y guardó el archivo en una carpeta que no se llamaba Mercer. Después se quedó mirando la pantalla.
+Le transfirió el pago desde una cuenta operativa menor del Monarch y guardó el archivo en una carpeta que no se llamaba Mercer.
 
 La factura decía todo lo que había pasado en la rampa salvo lo único que a ella le interesaba.
 
@@ -337,7 +337,7 @@ Desde que había llegado a San Aurelio, Chiara había oído a varios hombres en 
 
 —¿Le importaría mancharse las manos?
 
-Kal se miró las manos. Esa noche no tenían grasa; alguien las había tallado con cepillo hasta debajo de las uñas.
+Kal se miró las manos. Esa noche no tenían grasa; alguien las había frotado con cepillo hasta debajo de las uñas.
 
 —Me las mancho desde los catorce, señora Bellandi.
 
@@ -401,7 +401,7 @@ Lo dijo como se dice de una apuesta perdida. Chiara entendió la cuenta que él 
 
 —Fui a su despedida.
 
-Kal la miró un momento largo, como si acabara de cambiar de lugar una pieza que él ya había dado por perdida. No dijo nada.
+Kal la miró un momento largo, como si acabara de cambiar de lugar una pieza que él ya había dado por perdida.
 
 —Su nombre en mi factura —dijo Chiara—. ¿Ya es otro momento?
 
@@ -413,7 +413,7 @@ Kal miró los lentes doblados junto a su mano.
 
 —Esta mañana no me lo había preguntado dos veces.
 
-Él se levantó primero, guardó los lentes en el bolsillo interior sin ponérselos y le tendió la mano por encima de la mesa. Esta vez fue ella quien tardó en soltarla. Medio segundo. Ninguno de los dos lo mencionó.
+Él se levantó primero, guardó los lentes en el bolsillo interior sin ponérselos y le tendió la mano por encima de la mesa. Esta vez fue ella quien tardó en soltarla. Medio segundo.
 
 —Conozco la salida —dijo Kal.
 
@@ -433,7 +433,7 @@ La silla de él seguía separada de la mesa, en el ángulo en que la había deja
 
 A Blake le contestó tarde.
 
-Respondió en un minuto, con una hora y un lugar, como si los días de silencio hubieran sido idea suya.
+Él respondió en un minuto, con una hora y un lugar, como si los días de silencio hubieran sido idea suya.
 
 Pasó por ella un viernes a las nueve, en un coche particular lavado esa misma tarde, y se estacionó en la entrada principal, donde el valet tuvo que pedirle dos veces que se moviera. Blake se movió medio metro.
 
@@ -511,7 +511,7 @@ Subió sola. En el elevador se miró en el espejo de bronce, se corrigió con el
 
 El martes conoció el departamento de Blake.
 
-Era un tercer piso en el Distrito Marino, con vista al estacionamiento de un supermercado, una pantalla más ancha que el sofá y, en un librero sin libros, tres trofeos de tiro de la academia. Él le enseñó los trofeos antes que la cocina. En el refrigerador había cerveza, salsa picante y medio limón.
+Era un tercer piso en el Distrito Marino, con vista al estacionamiento de un supermercado, una pantalla más ancha que el sofá y, en una estantería sin libros, tres trofeos de tiro de la academia. Él le enseñó los trofeos antes que la cocina. En el refrigerador había cerveza, salsa picante y medio limón.
 
 Chiara pidió un taxi pasadas las dos. Blake ya dormía, boca abajo, con un brazo fuera de la cama. Ella se vistió sin prender la luz y no le dejó nota.
 
@@ -525,7 +525,7 @@ Cinco minutos después, un hombre del puerto que no debía estar en la lista aba
 
 Chiara bajó con una carpeta. Traía la orden de compra que había armado esa mañana con la bitácora de vigilancia: todos los accesos de la rampa, vaciados en un solo pago de servicios externos a nombre de Almendra Towing. Remolque, arranque, flete, tarifa por acto. Diecinueve renglones desde la noche del Mercedes, y en ninguno decía *lobby*. Cada uno traía al margen la misma nota de seguridad, *visitante no programado, autorizado en sitio*, y las excepciones se acumulan hasta que alguien se sienta a contarlas.
 
-La había archivado entre el contrato de lavandería y el de hielo, donde nadie leía porque nadie quería. El nombre de Kal no quedaba en ningún lugar donde no estuviera también el de una empresa de toallas. Aun así, antes de mandarla se había quedado un segundo con el cursor encima: era su firma sobre la palabra *Almendra*, en un registro que otros también leían.
+La había archivado entre el contrato de lavandería y el de hielo, donde nadie leía porque nadie quería. El nombre de Kal no quedaba en ningún lugar donde no estuviera también el de una empresa de toallas. Aun así, antes de mandarla se había quedado con el cursor encima: era su firma sobre la palabra *Almendra*, en un registro que otros también leían.
 
 Lo encontró cerrando el capó del coche. El hombro derecho le dio un piquete y lo giró una vez, sin hacerle caso.
 
@@ -651,7 +651,7 @@ Chiara lo llenó con lo que venía en la licencia municipal y lo devolvió sin s
 
 Esa noche, antes de apagar la computadora, le escribió a Kal.
 
-**Bellandi:** La rueda del carrito se rompió.
+**La rueda del carrito se rompió.**
 
 No contestó.
 
@@ -705,7 +705,7 @@ No supo bien para qué hasta que estuvo ahí.
 
 El niño abrió la boca para contestar, vio a Kal y se fue para atrás, hasta quedar medio escondido detrás de la rodilla de Chiara. Kal se vio como debía de verlo él: un hombre del tamaño de una puerta, con una cicatriz en la cara.
 
-Chiara levantó la vista. Lo reconoció sin cambiar la cara, le sostuvo la mirada lo que dura un saludo y la devolvió al niño. Kal entendió el orden y no dijo nada.
+Chiara levantó la vista. Lo reconoció sin cambiar la cara, le sostuvo la mirada lo que dura un saludo y la devolvió al niño. Kal entendió el orden.
 
 Se agachó. El hombro le dio un tirón; apoyó la mano izquierda en el piso y bajó hasta quedar más abajo que ella, más abajo que el niño.
 

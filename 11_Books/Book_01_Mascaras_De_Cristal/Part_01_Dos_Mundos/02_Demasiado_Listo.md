@@ -245,7 +245,7 @@ En otra mesa del lobby, dos hombres de traje local fingieron revisar documentos 
 
 Entonces llegó Dario Varek.
 
-No entró con prisa. No la necesitaba. La gente del lobby ajustó su volumen antes de que él hablara, como si una mano invisible hubiera bajado el sonido de la habitación.
+No entró con prisa. No la necesitaba. La gente del lobby ajustó su volumen antes de que él hablara.
 
 Traje oscuro, postura impecable. Era calvo, y la cabeza la llevaba como llevaba el traje: limpia, cuidada, sin nada que pidiera disculpas. La quemadura le tomaba el lado derecho de la cara. Empezaba arriba de la sien, donde la piel del cráneo cambiaba de textura sin aviso, bajaba por la mejilla hasta el filo de la mandíbula y se perdía bajo el cuello de la camisa. No era una línea, como las cicatrices que Chiara conocía en hombres de ese oficio, sino una superficie: piel más lisa que la otra, de un rosa pálido y tirante, que la luz del lobby hacía brillar un poco. El párpado de ese lado cerraba un instante más tarde. No llevaba barba que la cubriera ni giraba la cabeza para dar el perfil sano. El resto era rostro de hombre que había aprendido a parecer tranquilo en fotografías.
 
@@ -279,7 +279,7 @@ Chiara escuchó el clic.
 
 La primera reunión empezó sin Kal Mercer.
 
-La sala privada del Monarch era, en el papel, el despacho principal de Matteo, el administrador con mayor participación entre los socios operativos, aunque puertas adentro todos se hicieran llamar directores por igual. Dario era distinto: dueño, no administrador, y por eso entraba a cualquier despacho del edificio como si ya fuera suyo, sin necesitar uno propio.
+La sala privada del Monarch era, en el papel, el despacho principal de Matteo, el administrador con mayor participación entre los socios operativos, aunque puertas adentro todos se hicieran llamar directores por igual. Dario era distinto: dueño, no administrador, y por eso entraba a cualquier despacho del edificio sin necesitar uno propio.
 
 Quedaba en el segundo nivel, detrás de una puerta de madera oscura que no tenía letrero. A la izquierda, una cava con barra de bebidas ocupaba el muro entero. A la derecha, un sillón de piel demasiado caro para sentarse en él sin pensarlo dos veces. Las luces se mantenían bajas incluso de día, como si el cuarto ya hubiera decidido que ahí siempre era de noche. Un ventanal cubría el ochenta por ciento del piso de juego de abajo, construido para que quien estuviera arriba pudiera ver perder dinero a quien estuviera abajo; esa tarde sólo mostraba técnicos revisando máquinas, alfombra nueva, un hombre de seguridad caminando líneas que nadie más había dibujado. El casino no estaba abierto de verdad, pero ya practicaba su manera de mirar. Detrás de un panel sin picaporte visible, un elevador privado conectaba el despacho directamente con el penthouse, el lobby y el estacionamiento subterráneo, sin pasar por ningún pasillo que un huésped pudiera caminar por accidente.
 
@@ -449,7 +449,7 @@ Matteo lo vio contar.
 
 Kal siguió contando.
 
-Matteo sonrió, pero miró hacia la entrada como si esperara a alguien. Algo en él había cambiado. Una espera mínima. Una pequeña demora que no era logística.
+Matteo sonrió, pero miró hacia la entrada como si esperara a alguien. Una pequeña demora que no era logística.
 
 Kal no preguntó quién era la signora.
 
@@ -459,7 +459,7 @@ Estaba afuera, bajo la marquesina, con un cigarro entre los dedos. El abrigo cor
 
 Tenía rasgos italianos de una claridad que no necesitaba volverse decorativa: nariz recta, boca quieta, piel templada por otro sol. Las cejas oscuras le bajaban por dentro, hacia el centro, aunque nadie le estuviera hablando. Los ojos almendrados, verdes por dentro y oscuros en el borde, no parecían esperar. Parecían estar decidiendo qué clase de lugar era antes de permitirle terminar de existir.
 
-Había otros tres fumando cerca: un hombre con corbata floja, una mujer del área de eventos y un huésped que no sabía dónde poner las manos. Ninguno ocupaba el espacio como ella. Chiara no estaba apartada de la entrada. La entrada parecía haber aceptado rodearla.
+Había otros tres fumando cerca: un hombre con corbata floja, una mujer del área de eventos y un huésped que no sabía dónde poner las manos. Ninguno ocupaba el espacio como ella. Ella no estaba apartada de la entrada. La entrada parecía haber aceptado rodearla.
 
 Kal había leído habitaciones toda su vida.
 
@@ -507,7 +507,7 @@ Chiara soltó la mano de Kal.
 
 —Entonces no la hagamos esperar.
 
-Entraron juntos, pero no como grupo. Matteo iba adelante, hablando de la ruta como si las cámaras no estuvieran siguiendo cada paso. Chiara caminó a su lado sin tocarlo. Kal quedó medio paso atrás, lo suficiente para no fingir pertenencia y no bastante para parecer escolta.
+Entraron juntos, pero no como grupo. Matteo iba adelante, hablando de la ruta como si las cámaras no estuvieran siguiendo cada paso. Chiara caminó a su lado sin tocarlo. Kal quedó medio paso atrás, lo suficiente para no fingir pertenencia.
 
 En el pasillo, el olor del casino cambió. Menos flores. Más alfombra nueva, electricidad caliente, barniz, café de oficina y hielo derretido en un balde de servicio. Kal contó dos puertas con cerradura magnética, una escalera de emergencia a la izquierda, una cámara escondida en el detector de humo y una salida de carga que no aparecía en la ruta amable de Matteo.
 
@@ -683,8 +683,6 @@ Kal asintió una vez.
 
 —Claro.
 
-No vendió más. No pidió otra oportunidad. No ofreció bajar el precio.
-
 Matteo lo acompañó hacia la puerta con una prisa social que intentaba convertir el rechazo en pausa.
 
 —Lo llamo mañana. Esto es normal, así son las primeras juntas, Tommaso es así con todos…
@@ -811,7 +809,7 @@ La Almendra dormía a medias, que era la única forma en que ese barrio dormía.
 
 Kal metió el coche sin encender las luces del patio.
 
-El despacho olía a papel viejo, metal, café frío y el aceite que se quedaba en la madera aunque uno pintara encima. Era el mismo cuarto de block de la mañana, pero de noche parecía más pequeño. En una esquina, junto al archivero, estaba el catre donde dormía cuando no valía la pena cruzar la ciudad ni inventar una casa que todavía no tenía. Una manta gris, una almohada plana, una bolsa de ropa limpia debajo. No era hogar. Era una respuesta temporal que llevaba demasiado tiempo contestando.
+El despacho olía a papel viejo, metal, café frío y el aceite que se quedaba en la madera aunque uno pintara encima. Era el mismo cuarto de block de la mañana, pero de noche parecía más pequeño. En una esquina, junto al archivero, estaba el catre donde dormía cuando no valía la pena inventar una casa que todavía no tenía. Una manta gris, una almohada plana, una bolsa de ropa limpia debajo. No era hogar. Era una respuesta temporal que llevaba demasiado tiempo contestando.
 
 Dejó las llaves del Peugeot sobre el escritorio.
 
@@ -819,7 +817,7 @@ El sonido fue mínimo. Aun así llenó el cuarto.
 
 Se quitó el saco y lo colgó en el respaldo de la silla. Después la camisa, despacio, porque el cuello le había marcado la piel. La dejó doblada sobre una caja de recibos, no por orden, sino porque la ropa buena todavía le parecía algo que podía arruinarse con sólo tocar el lugar equivocado.
 
-En camiseta blanca, con los zapatos junto al catre y los calcetines todavía puestos, se tumbó boca arriba.
+En camiseta blanca, con los tenis junto al catre y los calcetines todavía puestos, se tumbó boca arriba.
 
 El techo tenía una grieta fina que empezaba encima de la lámpara y se perdía hacia la pared de la ventana. Kal la había visto cientos de veces. Esa noche la siguió como si fuera una ruta nueva.
 

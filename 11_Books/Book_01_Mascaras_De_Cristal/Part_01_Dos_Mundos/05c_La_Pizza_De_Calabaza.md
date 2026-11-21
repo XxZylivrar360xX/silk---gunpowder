@@ -476,7 +476,7 @@ Debajo de la mesa, Rocco movió la cola contra el zapato de Kal sin despertarse.
 
 Chiara repasó con el pulgar el filo de una uña, y paró a la mitad.
 
-—No sé qué buscaba.
+—No sé qué buscaba —dijo Kal.
 
 Ella miró hacia la calle y tardó en volver.
 
@@ -611,8 +611,6 @@ Kal sostuvo el volante.
 Él la miró.
 
 —No.
-
-La palabra quedó entre los dos como una mentira elegante.
 
 Chiara cerró la puerta.
 

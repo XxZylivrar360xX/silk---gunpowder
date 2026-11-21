@@ -23,7 +23,7 @@ No la vio venir. Había buscado el tensor de la banda, se había agachado, se le
 
 —Tienes grasa hasta los codos.
 
-Era pequeña y ligera, con el pelo pelirrojo recogido sin cuidado y una chaqueta militar que le quedaba grande, con las mangas dobladas dos veces. Leía como hacía casi todo: rápido y caminando. Al pasar junto al banco de trabajo le bajó con el codo el volumen al radio, que tocaba *The World Is Yours* porque Danny le había metido un disco el año en que Kal volvió, y el disco ya no salía.
+Era pequeña y ligera, con el pelo rojo recogido sin cuidado y una chaqueta militar que le quedaba grande, con las mangas dobladas dos veces. Leía como hacía casi todo: rápido y caminando. Al pasar junto al banco de trabajo le bajó con el codo el volumen al radio, que tocaba *The World Is Yours* porque Danny le había metido un disco el año en que Kal volvió, y el disco ya no salía.
 
 —Cuatro años con la misma canción. Ya se la sabe hasta el perro.
 
@@ -45,7 +45,7 @@ Kal no necesitaba ver la hoja. Llevaba cinco días en esa chaqueta.
 >
 > **Walt**
 
-—¿Walt? ¿El papá de Nat? —Levantó un dedo sin levantar la vista—. Lo sueltan. Kal, lo sueltan. ¿Este lunes? ¿Y tú aquí con las manos en un Ford? ¿Cuándo te llegó?
+—¿Walt? ¿El papá de Nat? —Levantó un dedo sin despegar los ojos de la hoja—. Lo sueltan. Kal, lo sueltan. ¿Este lunes? ¿Y tú aquí con las manos en un Ford? ¿Cuándo te llegó?
 
 Kal encontró la tuerca.
 
@@ -109,7 +109,7 @@ Marisol fue doblando los dedos.
 
 —Un taller, dos grúas y un contrato que no te han firmado. —La sonrisa había vuelto a su lugar—. Un hombre de negocios intachable.
 
-Sabía que no todo lo que pasaba por ese patio traía recibo. Había crecido lo bastante cerca para saberlo. Nunca había preguntado hasta dónde, y Kal pagaba una residencia para que no le hiciera falta.
+Sabía que no todo lo que pasaba por ese patio traía recibo. Nunca había preguntado hasta dónde, y Kal pagaba una residencia para que no le hiciera falta.
 
 —La lista —dijo ella.
 
@@ -145,7 +145,7 @@ Eran un par de cuadras. Se fue a pie, con las botas sonando otra vez, y en el po
 
 —Adiós, Marisol.
 
-Kal se quedó con la lista en la pantalla. Eso lo había sacado de su padre: pedir siempre de más, nunca lo que necesitaba, para que el otro escogiera. Los libros, sí. La lámpara, también. Las botas aguantaban otro invierno; la chaqueta, no. Marcó cuatro.
+Kal se quedó con la lista en la pantalla. Eso Marisol lo había sacado de su padre: pedir siempre de más, nunca lo que necesitaba, para que el otro escogiera. Los libros, sí. La lámpara, también. Las botas aguantaban otro invierno; la chaqueta, no. Marcó cuatro.
 
 En el banco, debajo de una taza, estaba el recibo que le tocaba ese mes: seis mil ochocientos de matrícula, libros y una residencia que cobraba como si las paredes supieran leer. *Responsable de pago: K. Mercer. Parentesco:* y una raya. Con lo de esa noche llegaba al semestre siguiente.
 
@@ -255,7 +255,7 @@ El 106 arrancó como un coche ajeno, con la nariz al aire y las cajas golpeándo
 
 Al final de los tablones, una torreta.
 
-La treinta y uno se había sacado la reja de la aduana y venía con un faro de menos. Se paró atravesada en la boca del muelle, de un derrape, con la puerta ya abriéndose y el rubio saliendo por ella, frente al primer contenedor. El hueco era el que había dejado él, que no lo había medido. Kal sí: un metro setenta, quizá, con la esquina del contenedor un poco más adentro arriba que abajo. El 106 no llegaba a uno sesenta. Esa cuenta la hacía todos los días con una grúa, para meter un gancho entre dos coches mal estacionados. Pero un gancho se podía parar, y él llevaba Hollis hasta el techo y un pedal que ya no le contestaba.
+La treinta y uno se había soltado de la reja de la aduana y venía con un faro de menos. Se paró atravesada en la boca del muelle, de un derrape, con la puerta ya abriéndose y el rubio saliendo por ella, frente al primer contenedor. El hueco era el que había dejado él, que no lo había medido. Kal sí: un metro setenta, quizá, con la esquina del contenedor un poco más adentro arriba que abajo. El 106 no llegaba a uno sesenta. Esa cuenta la hacía todos los días con una grúa, para meter un gancho entre dos coches mal estacionados. Pero un gancho se podía parar, y él llevaba Hollis hasta el techo y un pedal que ya no le contestaba.
 
 No frenó.
 
@@ -521,7 +521,7 @@ Matteo lo miró dos segundos y se rio con ganas. Se puso de pie y sacó la carte
 
 —Las seis órdenes del señor van por mi cuenta.
 
-—Ya están pagadas —dijo Mabel, sin levantar la vista de la caja.
+—Ya están pagadas —dijo Mabel.
 
 No lo estaban. Matteo guardó la cartera con la sonrisa de un hombre que acaba de aprender algo caro, y siguió hablando hasta que la campanita le cortó el resto.
 
@@ -541,7 +541,7 @@ Mabel le llenó la taza y se inclinó sobre el mostrador.
 
 Kal tomó la taza y miró la calle por la ventana.
 
-—No dije por dónde sale el coche.
+—No dije por dónde sale el coche —dijo Mabel.
 
 Esta vez Kal sí la miró. Mabel volvió a limpiar una mancha que no existía.
 
@@ -551,7 +551,7 @@ Esta vez Kal sí la miró. Mabel volvió a limpiar una mancha que no existía.
 
 Kal salió con las bolsas contra el pecho. En la acera de Mabel todavía había parquímetros; de ahí para adentro, nadie que los cobrara. Avenida Almendra tenía su cara de domingo por la tarde: talleres con la cortina a medio subir, humo de carbón detrás de una cerca, unos niños que le pegaban con un tubo a una pelota contra el taller de llantas y un hombre lavando una camioneta con la manguera del vecino, que le levantó la barbilla a Kal sin soltarla.
 
-La casa quedaba a dos cuadras del taller, y le quedaba de paso. Marisol no estaba. Kal dejó un recipiente en la mesa de la cocina, junto a Procesal Penal, y le mandó un texto desde el porche: *Te dejé comida.*
+La casa quedaba a dos cuadras del taller, y estaba de paso. Marisol no estaba. Kal dejó un recipiente en la mesa de la cocina, junto a Procesal Penal, y le mandó un texto desde el porche: *Te dejé comida.*
 
 En la oficina tampoco había nadie; Nadir seguía atrás, junto al sillón, con la sopa guardada. Kal dejó las bolsas en el escritorio y volvió al Ford, que seguía con el capó abierto desde la noche anterior. Lo terminó. Después le cambió el líquido de frenos al Peugeot, que salió negro y oliendo a quemado. Cuando acabó, el sol les caía otra vez de lado a las láminas.
 

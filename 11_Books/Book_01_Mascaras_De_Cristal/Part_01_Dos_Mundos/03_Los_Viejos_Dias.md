@@ -164,7 +164,7 @@ Walt la miró, luego miró su cara.
 
 Kal bajó la mano. Walt lo abrazó.
 
-Olía a jabón institucional, tela guardada y aire que no había elegido todavía. Cuando se apartó, le tocó la mejilla con dos dedos, cerca de la cicatriz, sin llegar a tocarla.
+Olía a jabón institucional, tela guardada y aire que no había elegido todavía. Cuando se apartó, le acercó dos dedos a la mejilla, cerca de la cicatriz, sin llegar a tocarla.
 
 —Tu padre hacía esa cara cuando quería que nadie notara que estaba contento.
 
@@ -184,7 +184,7 @@ Walt miró adentro.
 
 —La libertad te ablanda el estándar, Navarro.
 
-Walt miró entonces las letras de la sudadera de su hija. Ya lo sabía; se lo había contado ella por teléfono y en la audiencia. Pero una cosa era saberlo al otro lado de una mesa y otra verlo escrito en su pecho a media acera.
+Walt miró entonces las letras de la sudadera de su hija. Ya lo sabía; se lo había contado ella por teléfono y en la audiencia.
 
 —Bomberos.
 
@@ -196,7 +196,7 @@ Natalie sacó del bolsillo de la sudadera una caja pequeña y se la puso en la m
 
 —Ya tiene mi número, el de Héctor y el de Kal. Nada más.
 
-Walt abrió la caja. El teléfono era un rectángulo negro sin un solo botón. Lo sostuvo como se sostiene un animal que uno no sabe si muerde.
+Walt abrió la caja. El teléfono era un rectángulo negro sin un solo botón. Lo sostuvo lejos del cuerpo.
 
 —¿Dónde se marca?
 
@@ -204,7 +204,7 @@ Natalie le pasó el pulgar por la pantalla y el vidrio se encendió.
 
 —Ahí.
 
-Walt se quedó mirando la luz. Después miró el estacionamiento: el Corolla, la camioneta de Héctor y, al final de la fila, el Peugeot rojo.
+Walt miró la luz un momento. Después, el estacionamiento: el Corolla, la camioneta de Héctor y, al final de la fila, el Peugeot rojo.
 
 —¿Eso es tuyo?
 
@@ -410,7 +410,7 @@ Natalie le tomó la mano, le limpió la tierra de los dedos con la manga de la s
 
 Walt se quedó con eso un rato. Después abrió la bolsa de plástico y buscó entre los papeles doblados hasta dar con un sobre sin estampilla, con las esquinas gastadas de tanto cambiarlo de lugar. Tenía el nombre de Jim escrito con la misma letra inclinada de siempre. No tenía dirección.
 
-Se agachó otra vez y lo dejó apoyado contra la piedra. Tomó una piedra del camino y la puso encima, para que no se lo llevara el viento.
+Se agachó otra vez y lo dejó apoyado contra la piedra. Tomó un guijarro del camino y la puso encima, para que no se lo llevara el viento.
 
 Nadie le preguntó qué decía.
 
@@ -444,7 +444,7 @@ Walt vio todo. Vio también lo demás: que la barbería ahora compartía la fach
 
 —Por eso lo digo así. Para que no se le suba.
 
-El Corolla entró primero y se estacionó junto al portón, en el único cajón que nadie usaba. Natalie no preguntó si podía. Bajó, le rascó la cabeza a Rocco, que dormía a la sombra de la grúa dos, y el perro se levantó por ella, y eso que no traía nada de comer. Desde el elevador, Omar le gritó algo; ella le contestó preguntándole por su mamá, y él le contestó que ya había salido del hospital, y ella dijo *te dije*, y los dos se rieron de algo que Walt no alcanzó a saber.
+El Corolla entró primero y se estacionó junto al portón, en el único lugar que nadie usaba. Natalie no preguntó si podía. Bajó, le rascó la cabeza a Rocco, que dormía a la sombra de la grúa dos, y el perro se levantó por ella, y eso que no traía nada de comer. Desde el elevador, Omar le gritó algo; ella le contestó preguntándole por su mamá, y él le contestó que ya había salido del hospital, y ella dijo *te dije*, y los dos se rieron de algo que Walt no alcanzó a saber.
 
 Walt se quedó en la entrada del patio con la bolsa de plástico en la mano.
 
@@ -514,7 +514,7 @@ Se sorbió la nariz y se la frotó con el dorso de la mano.
 
 Se rio solo. Nadir miró a Kal. Kal siguió comiendo.
 
-Natalie dejó la lata en la mesa y miró a Danny un segundo más de lo necesario, con la misma atención con la que Kal suponía que miraba a quien subía a una ambulancia: primero los ojos, después las manos. Danny lo sintió. Le pasó un brazo por los hombros desde atrás y le dio un beso ruidoso en la cabeza.
+Natalie dejó la lata en la mesa y miró a Danny un segundo más de lo necesario: primero los ojos, después las manos. Danny lo sintió. Le pasó un brazo por los hombros desde atrás y le dio un beso ruidoso en la cabeza.
 
 —Nat, mi amor. ¿Sigues salvando gente?
 

@@ -36,7 +36,7 @@ Lo que le interesaba no era quién había disparado. Era el calendario.
 
 Un casino que abría al día siguiente necesitaba que la palabra San Aurelio significara costa, dinero nuevo y un fin de semana caro. Desde esa mañana significaba un jefe de policía con tres tiros en la plaza principal. Cada nota que se escribiera sobre el Monarch en las próximas semanas iba a llevar esa fotografía pegada detrás aunque nadie la imprimiera, y los invitados de fuera no cancelarían por miedo: cancelarían porque cancelar los hacía verse prudentes.
 
-Quien lo hizo eligió la plaza, la hora y la banca. Eso no era rabia. Era un comunicado escrito en otro alfabeto, publicado encima del suyo.
+Quien lo hizo eligió la plaza, la hora y la banca. Era un comunicado escrito en otro alfabeto, publicado encima del suyo.
 
 A las diez ya estaba en la sala de administración del Monarch, con una carpeta nueva para contestarlo.
 
@@ -86,7 +86,7 @@ Matteo soltó una risa. Tommaso no.
 
 —Nadie. Por eso se diseña.
 
-Tenía otra respuesta. La noche anterior se había levantado de una mesa de ese mismo edificio, con traje azul y tenis blancos, diciendo que su nombre iba en la factura, y esa gente le había agradecido el tiempo. No la dijo.
+Tenía otra respuesta. La noche anterior, un hombre se había levantado de una mesa de ese mismo edificio, con traje azul y tenis blancos, diciendo que su nombre iba en la factura, y esa gente le había agradecido el tiempo. No la dijo.
 
 —Qué cómodo.
 
@@ -188,13 +188,13 @@ Calle Corona tenía juzgados, bancos viejos, oficinas municipales, cafeterías c
 
 El taxi no pudo pasar de la esquina del Ayuntamiento. Un agente de tránsito desviaba coches con la mano, sin silbato, y el chofer dijo algo del jefe de policía en el tono con que se comenta el clima. Se ofreció a dar la vuelta y llevarla de vuelta por el puente.
 
-Ya había tomado el aire que vino a tomar. Pero llevaba desde las siete leyendo a ese muerto en una pantalla, en palabras que alguien había escogido, y ahí afuera la ciudad lo estaba pasando sin locutor.
+Ya había tomado el aire que había venido a tomar. Pero llevaba desde las siete leyendo a ese muerto en una pantalla, en palabras que alguien había escogido, y ahí afuera la ciudad lo estaba pasando sin locutor.
 
 Chiara pagó y bajó.
 
 Caminó sin prisa, en sentido contrario a la plaza. La banca no le interesaba; para eso había fotos. Palermo sabía empujar desde los balcones. Nueva York desde la acera. San Aurelio empujaba desde los bordes: una patrulla mal estacionada, una mujer vendiendo flores frente a un edificio público, un hombre con traje barato que no dejaba de mirar su teléfono, una reportera acomodándose el cabello antes de salir en vivo.
 
-En las dos aceras la gente se había detenido sin que nadie se lo pidiera. Una mujer con una bolsa de mandado. Dos abogados con el saco en el brazo. Un repartidor con el casco puesto. Nadie sabía bien si debía quedarse, y nadie se iba.
+En las dos aceras la gente se había detenido sin que nadie se lo pidiera. Una mujer con una bolsa de compras. Dos abogados con el saco en el brazo. Un repartidor con el casco puesto. Nadie sabía bien si debía quedarse, y nadie se iba.
 
 Del lado de la Central, los policías estaban formados a lo largo de la acera, de uniforme, con una banda negra cruzada sobre la placa. No eran todos los de la ciudad; eran los suficientes para que la calle pareciera más angosta. Miraban un punto en el aire y esperaban, y la gente esperaba con ellos.
 
@@ -429,8 +429,6 @@ Después llegaron sus amigos y dejó de ser bueno en eso.
 Blake lo corrigió tarde.
 
 —Chiara.
-
-La corrección no fue defensa sino presentación de propiedad.
 
 Chiara sonrió con la medida exacta para no convertir la noche en incidente. Ésa era una habilidad vieja: dejar que un hombre creyera que la habitación seguía intacta mientras ella ya había cambiado de puerta.
 
@@ -942,7 +940,7 @@ A los veinte minutos de la llamada entró una grúa azul. No el Peugeot. Las luc
 
 La grúa no tenía nada elegante. Por eso funcionaba. El guardia de la entrada de carga la vio pasar, leyó el logo de Almendra Towing y decidió que aquello era explicación suficiente. Chiara conocía el mecanismo: el mundo legal estaba lleno de objetos que venían con permiso incorporado. Uniformes, carpetas, llaves maestras, camiones de mantenimiento.
 
-Kal bajó con una tabla de trabajo en la mano. Overol de trabajo, guantes metidos en el bolsillo trasero, las botas sin prisa sobre el concreto aceitoso. Arriba del cierre le asomaba el cuello de una sudadera negra que no iba con nada.
+Kal bajó con una tabla de trabajo en la mano. Overol, guantes metidos en el bolsillo trasero, las botas sin prisa sobre el concreto aceitoso. Arriba del cierre le asomaba el cuello de una sudadera negra que no iba con nada.
 
 La vio en la puerta. No cambió de ritmo.
 
@@ -1020,7 +1018,7 @@ Kal levantó la vista.
 
 —Pensé que era suyo.
 
-La frase no sonó fuerte. No hizo falta. El guardia más joven miró al suelo.
+La frase no sonó fuerte. El guardia más joven miró al suelo.
 
 Matteo salió al fin, con la cara de quien venía a arreglar una escena que ya estaba siendo arreglada por alguien que no debería estar ahí. Chiara salió detrás de él.
 
