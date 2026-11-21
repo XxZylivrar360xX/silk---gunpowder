@@ -2,7 +2,7 @@
 
 Generada por `tools/audiolibro/build_audiobook.py`; no editar a mano. Tras cambiar la prosa de un capítulo, correr `--estado` para marcarlo PENDIENTE; la bandera se cierra sola cuando el script regenera ese audio.
 
-Actualizada: 2026-11-20 09:03. Al día: 18 de 18.
+Actualizada: 2026-11-21 10:47. Al día: 17 de 17.
 
 ## Pendientes
 
@@ -13,23 +13,22 @@ Ninguno: todos los audios corresponden a la prosa actual.
 | Cap. | Título | Estado | Audio generado |
 |---|---|---|---|
 | 1 | Hogar | AL DIA | 2026-11-01 |
-| 20 | Una noche de mudanza | AL DIA | 2026-11-20 |
-| 21 | El collar | AL DIA | 2026-11-18 |
-| 24 | La vela tardía | AL DIA | 2026-11-18 |
-| 37 | Las latas | AL DIA | 2026-11-20 |
-| 38 | Lo del hermano | AL DIA | 2026-11-20 |
-| 39 | Perdóname, jefe | AL DIA | 2026-11-20 |
-| 40 | Lo que queda | AL DIA | 2026-11-20 |
-| 46 | Lo poco que llegué a saber | AL DIA | 2026-11-18 |
-| 47 | Stavanger | AL DIA | 2026-11-18 |
-| 48 | Henrik | AL DIA | 2026-11-18 |
-| 49 | Ya llegó | AL DIA | 2026-11-18 |
-| 53 | Santa Lucía | AL DIA | 2026-11-18 |
-| 54 | Torna a casa | AL DIA | 2026-11-18 |
-| 55 | Dime, Amore | AL DIA | 2026-11-18 |
-| 56 | De rodillas | AL DIA | 2026-11-18 |
-| 57 | No otra vez | AL DIA | 2026-11-18 |
-| 58 | La chimenea | AL DIA | 2026-11-18 |
+| 15 | Una noche de mudanza | AL DIA | 2026-11-21 |
+| 16 | El collar | AL DIA | 2026-11-21 |
+| 19 | La vela tardía | AL DIA | 2026-11-21 |
+| 30 | Las latas | AL DIA | 2026-11-21 |
+| 31 | Lo del hermano | AL DIA | 2026-11-21 |
+| 32 | Perdóname, jefe | AL DIA | 2026-11-21 |
+| 33 | Lo que queda | AL DIA | 2026-11-21 |
+| 38 | Lo poco que llegué a saber | AL DIA | 2026-11-21 |
+| 39 | Stavanger | AL DIA | 2026-11-21 |
+| 40 | Ya llegó | AL DIA | 2026-11-21 |
+| 43 | Santa Lucía | AL DIA | 2026-11-21 |
+| 44 | Torna a casa | AL DIA | 2026-11-21 |
+| 45 | Dime, Amore | AL DIA | 2026-11-21 |
+| 46 | De rodillas | AL DIA | 2026-11-21 |
+| 47 | No otra vez | AL DIA | 2026-11-21 |
+| 48 | La chimenea | AL DIA | 2026-11-21 |
 
 ## Historial
 
