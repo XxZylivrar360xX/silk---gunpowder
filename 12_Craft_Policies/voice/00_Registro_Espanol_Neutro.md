@@ -6,11 +6,14 @@ Se aplica al redactar ([[12_Craft_Policies/Redaccion_De_Capitulos]], sección Re
 
 ## Excepciones de voz
 
-- **Rafe y Mabel:** barrio de California (habla chicana). «Nomás», «pendejo», «banqueta», «troca», «parquear», «parking», «la jura», «jalar» (= trabajar) y similares se conservan en su boca.
+- **Rafe y Mabel:** barrio de California (habla chicana). «Nomás», «banqueta», «troca», «parquear», «parking», «la jura», «jalar» (= trabajar) y similares se conservan en su boca, **sin groserías fuertes** (DECISIÓN DEL AUTOR, 2026-11-21).
 - **Dana Collins:** argentina; voseo suave y algún giro rioplatense, sin caricatura (CANON DEL AUTOR, 2026-10-18).
 - **Chiara:** italiano ocasional; su español es neutro.
 - **Nadir:** darija/francés ocasional; nunca jerga mexicana ([[12_Craft_Policies/voice/Nadir_Amrani]]).
 - **Travis Pruitt y Cody Lambert (Devil Splicers):** «plata» por dinero se conserva en su boca (decisión del autor, 2026-10-28; Cap. 20 (archivo 22a)).
+- **Sin otras marcas de voz mexicanas (DECISIÓN DEL AUTOR, 2026-11-21):** «güero», «pendejada», «me vale» y *sussurros* se neutralizan también en diálogo.
+- **Groserías (DECISIÓN DEL AUTOR, 2026-11-21):** las groserías mexicanas fuertes se sustituyen por alternativas que conserven la intención de la línea y sean menos gratuitas. Vale para todo el reparto, incluidas las excepciones de arriba.
+- **Mexicanismos de objeto y oficio (DECISIÓN DEL AUTOR, 2026-11-21):** se neutralizan en narración y se conservan en diálogo como voz (tabla de abajo, segunda parte).
 - Diálogo canon del autor no se neutraliza sin orden explícita (H21, Cap. 32 (archivo 34): «piscina» y «me da igual» por orden del autor, 2026-10-12).
 
 ## Glosario aplicado
@@ -47,6 +50,38 @@ Se aplica al redactar ([[12_Craft_Policies/Redaccion_De_Capitulos]], sección Re
 | orillarse | detenerse |
 | regresar la llamada | devolver la llamada |
 | me agarra (= me encuentra) | me encuentra |
+
+**Ampliación del 2026-11-21 (AUDIT pre-sellado del Libro I).** En narración se sustituyen siempre; en diálogo, sólo los de las dos últimas filas y las groserías.
+
+| Evitar (narración) | Usar |
+|---|---|
+| charola | bandeja |
+| chongo | moño |
+| desarmador | destornillador |
+| mandil | delantal |
+| tarja | fregadero |
+| unicel | poliestireno, espuma |
+| calcetas | calcetines |
+| bocina (altavoz) | altavoz, parlante |
+| medallón (del coche) | luneta |
+| reflejantes | reflectores |
+| gafete | credencial, identificación |
+| espectacular (anuncio) | valla publicitaria |
+| tallar (frotar) | frotar, restregar |
+| chueco | torcido |
+| reversa | marcha atrás |
+| terracería | camino de tierra |
+| defensa (del coche) | parachoques |
+| regresar (= devolver) | devolver (regresar = volver se conserva) |
+| reclusorio | penal, cárcel |
+| camión (de pasajeros) | autobús |
+| güero | rubio |
+| *sussurros* | susurros |
+| encimera (peninsular) | barra, cubierta |
+| bordillo (peninsular) | borde de la acera |
+| coger (peninsular; malsonante en América) | tomar, agarrar |
+
+Se conservan como lugares de la trama: la vulcanizadora, la llantera y el corralón.
 
 ## Se conservan (panlatinoamericanos)
 

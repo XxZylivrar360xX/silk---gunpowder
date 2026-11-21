@@ -21,6 +21,7 @@ En una escena compartida, el otro protagonista se lee por conducta: lo que hace,
 ## Excepciones declaradas del Libro I
 
 - Arco final sin Kal: Chiara es dueña de los capítulos de ese tramo ([[11_Books/Book_01_Mascaras_De_Cristal/00_Plan_Arco_Final_Sin_Kal]]).
+- **Parte I, caps. 2, 4, 5, 7 y 9 (DECISIÓN DEL AUTOR, 2026-11-21):** se sellan con POV por secciones; el cambio sólo ocurre en un `***`, nunca dentro de una sección ([[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Presellado_Libro_I]], D3).
 - Epílogo de Halbrook (Cap. 47, archivo 50b; antes Cap. 56): interludio declarado.
 - **PENDIENTE del autor:** si el bloque del Monarch (hoy Caps. 23–27) conserva cámaras ajenas como interludio.
 
