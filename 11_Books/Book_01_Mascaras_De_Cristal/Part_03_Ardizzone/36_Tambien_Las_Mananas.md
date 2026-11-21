@@ -176,7 +176,7 @@ Chiara no dijo nada durante un momento largo. No había vuelto a bajar a las cab
 
 —¿En Kingsley Field?
 
-—Cuatro horas detrás de ella. Cercas de alambre, un canal de riego, terrenos de no sé quién. La encontramos comiéndose una vid en un viñedo que no era el de usted.
+—Cuatro horas detrás de ella. Cercas de alambre, un canal de riego, terrenos de no sé quién. La encontramos comiéndose una vid en un viñedo ajeno.
 
 Chiara miró a Kal. Kal miraba la yegua.
 
@@ -220,7 +220,7 @@ En el coche, de camino a la Almendra, Kal manejaba con la izquierda. La derecha 
 
 —Una cerca.
 
-Lo dijo sin pensarlo, como se dice lo que es verdad. Chiara asintió. La cerca era de ella: de Stella, del viñedo que no era el suyo, de Héctor sentándose una vez. Los nudillos de la derecha no. Ésos ya los traía en el fregadero, antes del avión, antes de todo, y él no los había mencionado, y ella tampoco iba a hacerlo.
+Lo dijo sin pensarlo, como se dice lo que es verdad. Chiara asintió. La cerca era de ella: de Stella, del viñedo ajeno, de Héctor sentándose una vez. Los nudillos de la derecha no. Ésos ya los traía en el fregadero, antes del avión, antes de todo, y él no los había mencionado, y ella tampoco iba a hacerlo.
 
 —Héctor estaba cansado —dijo.
 
@@ -264,7 +264,7 @@ Era pequeña, de madera sin pulir, del tamaño de una mano cerrada. Kal la puso 
 
 Adentro había una sola llave, sin llavero, con la superficie ya desgastada de uso. No era una copia nueva para la ocasión: era la de siempre, la que él usaba todos los días.
 
-—Ya pasas las noches ahí —dijo—. Quiero que pases también las mañanas, si estás de acuerdo.
+—Ya pasas las noches aquí —dijo—. Quiero que pases también las mañanas, si estás de acuerdo.
 
 Chiara se quedó mirando la llave en la palma de su mano y sintió cómo algo se ordenaba detrás de los ojos con la misma precisión con la que ordenaba cualquier otra cosa —una versión, un nombre, un favor sin cobrar—, sólo que esta vez el orden le dolía un poco al formarse. El remolque vacío, enseñado primero como broma. Un caballo entero, perseguido medio día por terreno abierto, para que no fuera Vento pero tampoco cualquier otro caballo. Una botella que había entrado a esa casa de madrugada, con él, y que le había costado algo que prefería no preguntarle. Y esto último, lo más pequeño de los tres, lo más callado.
 
@@ -298,7 +298,7 @@ Cerró la caja, encajó el tablón, que crujió en dos tiempos, y subió a dormi
 
 ***
 
-Las invitaciones llegaron el miércoles, en sobres de papel grueso, cien en total, todos con la misma letra impersonal de imprenta. *La señora Bellandi la invita a una velada a bordo, el viernes diez, en la costa.* Nada de cumpleaños. Ningún nombre propio en el cuerpo del texto —sólo fecha, hora, muelle—, porque a Chiara nunca le había hecho falta un motivo para reunir a la ciudad correcta en el lugar correcto.
+Las invitaciones llegaron el miércoles, en sobres de papel grueso, cien en total, todos con la misma letra impersonal de imprenta. *La señora Bellandi tiene el gusto de invitarle a una velada a bordo, el viernes diez, en la costa.* Nada de cumpleaños. Ningún otro nombre en el cuerpo del texto —sólo fecha, hora, muelle—, porque a Chiara nunca le había hecho falta un motivo para reunir a la ciudad correcta en el lugar correcto.
 
 Las firmó una por una en el escritorio de Matteo, con la misma rúbrica rápida que ahora firmaba también lo de él.
 

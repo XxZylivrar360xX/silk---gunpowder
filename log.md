@@ -4,6 +4,7 @@ El detalle se guarda una sola vez en notas de sesión. Este archivo es navegaci�
 
 ## Sesiones recientes
 
+- 2026-11-21: Libro I, DECISIONES DEL AUTOR D10–D12 aplicadas (líneas dudosas, datos menores, extensión de ~207k aceptada): [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Presellado_Libro_I]].
 - 2026-11-21: Libro I, cirugía de continuidad pre-sellado aplicada (edad de Kal, apodo único del Peugeot, llamada de tarde, intervalos de la Parte I, Halbrook, y unos 40 arreglos de una línea): [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Presellado_Libro_I]].
 - 2026-11-21: Libro I, DECISIONES DEL AUTOR D1–D9 y cirugía mecánica aplicada en los 47 caps. (norma ortotipográfica, rayas, glosario ampliado, groserías); audio suspendido: [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Presellado_Libro_I]].
 - 2026-11-21: Libro I, AUDIT pre-sellado de los 47 caps. (sin tocar prosa): estructura terminada; ~113 bloqueadores (mayoría mecánicos), 20 de continuidad, D1–D12 para el autor: [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Presellado_Libro_I]].

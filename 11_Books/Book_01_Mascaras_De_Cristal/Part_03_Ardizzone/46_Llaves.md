@@ -292,7 +292,7 @@ Había vuelto a salir de la oficina. Nadie lo había oído abrir la puerta.
 
 Nadie dijo nada. Nadir pasó una página del libro.
 
-—Estudia derecho —dijo Garrett—. Le faltan seis meses para las prácticas. Lo primero que va a querer es el cargo, el número de expediente y una ventanilla. —Se acomodó los lentes—. Y si no se lo damos, va a ir a buscarlo ella. A la base. Con su cara y su nombre.
+—Estudia derecho —dijo Garrett—. Está por empezar las prácticas. Lo primero que va a querer es el cargo, el número de expediente y una ventanilla. —Se acomodó los lentes—. Y si no se lo damos, va a ir a buscarlo ella. A la base. Con su cara y su nombre.
 
 —No va a ir a ninguna base —dijo Héctor.
 

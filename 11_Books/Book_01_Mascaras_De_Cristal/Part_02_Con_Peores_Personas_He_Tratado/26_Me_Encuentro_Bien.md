@@ -239,7 +239,7 @@ Lo de la tarde no lo pensó: lo hizo, como se hace la segunda mitad de una cuent
 
 Si había gente de fuera preguntando por Kal en el barrio, la gente de dentro sabía quién. Y la gente de dentro que más ganaba si a Kal le pasaba algo tenía un nombre que él mismo le había dado, el día anterior, en el estacionamiento de Villani, con las llaves del Lancia en la mano y la voz de vendedor: los Bravos movían algo por la glorieta del sur, coches entrando y saliendo de una de las casas grandes, y si ella algún día tenía forma de echarle un ojo, la agencia se lo iba a agradecer. Lo había dicho como se dice lo del aceite cada cinco mil kilómetros. Ella se lo había guardado igual.
 
-El Lancia no le servía. El Lancia ya estaba en una bitácora, con su hora y su rampa, y quien preguntaba por ella con la educación con que preguntaba sabía leer bitácoras. El Peugeot de Kal seguía en el hueco junto al loft, donde él lo dejaba cuando salía en el Audi, con las llaves en el cuenco de la entrada.
+El Lancia no le servía. El Lancia ya estaba en esa bitácora, la de los valets, con su hora y su rampa, y quien preguntaba por ella con la educación con que preguntaba sabía leer bitácoras. El Peugeot de Kal seguía en el hueco junto al loft, donde él lo dejaba cuando salía en el Audi, con las llaves en el cuenco de la entrada.
 
 En un taller de la Almendra que no hacía preguntas, por un precio que tampoco las hizo, el Peugeot rojo dejó de ser rojo en tres horas: un vinil gris sin nombre, mate, y unas placas que no eran de nadie que ella conociera. A las cuatro estaba estacionada en la curva alta de la glorieta del sur, en la sombra de un plátano, con el motor apagado y la cámara en las rodillas, mirando una casa grande con el portón de rejas.
 

@@ -485,7 +485,7 @@ Caminaron de vuelta hacia los coches sin apuro, dejando que el agua se quedara a
 
 —Nada. —No sonó a nada. Sonó exactamente a lo contrario—. El pantalón.
 
-—El punto era mantenerte enfocado.
+—La idea era mantenerte enfocado.
 
 —Es la segunda vez el día de hoy que has fallado. —Lo dijo con la misma voz plana con la que había negociado con Varek, lo cual, viniendo de él, era casi una declaración—. ¿Debo preocuparme?
 

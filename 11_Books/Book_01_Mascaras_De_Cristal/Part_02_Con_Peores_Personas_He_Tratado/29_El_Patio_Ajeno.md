@@ -219,7 +219,9 @@ No contestó. Se quedó mirando las fotos, que eran lo único de la conversació
 
 No lo entendía. No podía entenderlo, y él no iba a darle con qué.
 
-—Pero también entiendo que no puedo hacer nada. —Se tocó el costado sin darse cuenta—. ¿Dónde te vas a quedar? El casino ya no es seguro.
+Kal se tocó el costado sin darse cuenta.
+
+—Pero también entiendo que no puedo hacer nada. ¿Dónde te vas a quedar? El casino ya no es seguro.
 
 —¿Hablaste con Walt?
 

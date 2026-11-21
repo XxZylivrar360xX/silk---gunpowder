@@ -687,7 +687,7 @@ No vendió más. No pidió otra oportunidad. No ofreció bajar el precio.
 
 Matteo lo acompañó hacia la puerta con una prisa social que intentaba convertir el rechazo en pausa.
 
-—Te llamo mañana. Esto es normal, así son las primeras juntas, Tommaso es así con todos…
+—Lo llamo mañana. Esto es normal, así son las primeras juntas, Tommaso es así con todos…
 
 —Está bien, Matteo.
 

@@ -576,7 +576,7 @@ El Corolla salió sin tocar el claxon. Walt lo siguió con la vista desde la mes
 
 Kal miró el teléfono antes de volver a la oficina.
 
-Nada del Monarch. Matteo había dicho *te llamo mañana*, y mañana ya era hoy, y eran casi las dos. Si Matteo llamaba antes de las dos, el anticipo se devolvía.
+Nada del Monarch. Matteo había dicho *lo llamo mañana*, y mañana ya era hoy, y eran casi las dos. Si Matteo llamaba antes de las dos, el anticipo se devolvía.
 
 En la oficina dejó el teléfono bocabajo sobre el escritorio. Nadir cerró la puerta. Danny se sentó sobre el archivero, Héctor en la silla de visitas. Walt se quedó en el marco, con un café en la mano, y nadie le pidió que se fuera.
 
