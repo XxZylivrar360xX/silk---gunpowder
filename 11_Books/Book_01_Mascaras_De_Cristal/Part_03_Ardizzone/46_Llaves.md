@@ -60,7 +60,7 @@ Chiara no contestó. Se detuvo a mitad del Patio, entre la grúa y el capó, don
 
 Debajo del sedán, la llave hizo un ruido corto contra algo y se calló.
 
-—Págaselos —dijo Chiara.
+—Págaselos —dijo Chiara—. Danny apostó bien, y tú lo sabías.
 
 Nadir sonrió con media boca, sin nada de gracia.
 
@@ -176,7 +176,7 @@ Chiara caminó hasta la camioneta. Se paró frente a Nadir, a un brazo de distan
 
 Nadir parpadeó.
 
-—¿Quién plancha qué?
+—¿Quién plancha qué? Wallah, señora, dígamelo en números.
 
 Chiara no se lo explicó.
 
@@ -204,11 +204,11 @@ Danny se levantó del suelo por fin. Se limpió las manos en los jeans, que no s
 
 —Varek mandó a preguntar —dijo—. Por las cajas.
 
-—¿Quién vino?
+—¿Quién vino? Varek no pregunta en persona.
 
 —Un tipo. Viene en un Audi negro, se para ahí enfrente, donde está su coche ahora, y no se baja. Baja la ventanilla y pregunta por Kal. —Danny se rascó el cuello, sobre las raíces del tatuaje—. Dos veces. Anteayer y ayer. Le dije que Kal no estaba. Ayer me preguntó cuándo iba a estar y le dije que no sabía. —Se encogió de hombros—. No sabía.
 
-—¿Dónde están?
+—¿Y las cajas dónde están?
 
 Danny miró a Héctor. Héctor movió la barbilla una vez, hacia abajo.
 
@@ -222,7 +222,7 @@ Garrett había vuelto a la puerta de la oficina. Tenía los brazos cruzados y el
 
 —Ese acuerdo era con Kal —dijo—. No sabemos qué más hablaron los dos, ni qué esperaba Varek de él además de las cajas. Si alguien que no es Kal se sienta con Varek, Varek va a cobrar lo que crea que puede cobrar. No lo que se acordó.
 
-—Lo sé.
+—Lo sé. Y Varek va a notar que no conozco el precio en cuanto me siente enfrente.
 
 Garrett esperó. No era un hombre que preguntara dos veces; dejaba la pregunta abierta hasta que el otro se cansaba de verla ahí.
 
@@ -230,9 +230,9 @@ Garrett esperó. No era un hombre que preguntara dos veces; dejaba la pregunta a
 
 Danny miró otra vez a Héctor. Esta vez Héctor no hizo nada con la barbilla. Siguió mirando a Chiara.
 
-—A esta hora —repitió Danny.
+—A esta hora —repitió Danny, como quien se lo anota en la mano—. Y si pregunta por Kal de todos modos, le digo que hable con la señora.
 
-Chiara no se lo repitió. Danny asintió y volvió al sedán. Garrett se quedó un momento más en la puerta, con los brazos cruzados, y después entró a la oficina y cerró. A través del vidrio, Chiara lo vio sentarse, abrir una carpeta de pasta gris y empezar a escribir.
+Chiara no se lo corrigió. Danny asintió y volvió al sedán. Garrett se quedó un momento más en la puerta, con los brazos cruzados, y después entró a la oficina y cerró. A través del vidrio, Chiara lo vio sentarse, abrir una carpeta de pasta gris y empezar a escribir.
 
 ***
 
@@ -250,11 +250,11 @@ Chiara miró la llave en la palma callosa de Héctor.
 
 —Eso no fue lo que le pregunté.
 
-—Ya sé.
+Chiara no levantó la vista de la llave.
 
 Héctor esperó un momento con la mano abierta. Después cerró los dedos sobre la llave y se la guardó otra vez en el bolsillo de la camisa.
 
-—Cada dos días —dijo.
+—Cada dos días —dijo—. Eso sí lo puedo hacer.
 
 —Y que no le dé el sol de la tarde.
 
@@ -296,7 +296,7 @@ Nadie dijo nada. Nadir pasó una página del libro.
 
 —No va a ir a ninguna base —dijo Héctor.
 
-—Usted la conoce.
+—Usted la conoce. Yo conozco a los que estudian derecho, y ninguno se queda en su casa esperando un papel.
 
 Héctor no lo contradijo.
 
@@ -332,7 +332,7 @@ Del otro lado arrancó un autobús. Marisol no dijo nada hasta que el motor se a
 
 —¿Por qué?
 
-—No lo sé.
+—No lo sé. Nadie me lo ha querido decir, y he preguntado en lugares donde normalmente me contestan.
 
 —¿Qué cargo? —La voz se le había ido para adentro—. Tiene que haber un cargo. Un número de expediente. Si es federal, tiene que haber una oficina que…
 
@@ -344,7 +344,7 @@ Chiara dejó pasar eso. Del otro lado de la tapia se encendió otro poste.
 
 —Está vivo —dijo—. Eso sí lo sé. El lunes y el martes, seguro.
 
-—¿Cómo?
+—¿Cómo lo sabes, si no hay ni visitas?
 
 —No te lo puedo decir.
 
@@ -352,7 +352,7 @@ Chiara dejó pasar eso. Del otro lado de la tapia se encendió otro poste.
 
 —Ninguna.
 
-—Ninguna.
+—Ninguna. Tiene dos, y las dos están en el Patio.
 
 Ruido de calle, una puerta que se abría y se cerraba, y después nada. Marisol se había detenido en alguna parte.
 
@@ -366,7 +366,7 @@ Marisol tardó en contestar.
 
 —Quiero ir a la base.
 
-—Ya sé.
+—Lo sé. Yo también quiero.
 
 —Tengo derecho a preguntar. Cualquiera tiene derecho a…
 
@@ -374,7 +374,7 @@ Marisol tardó en contestar.
 
 —Eso lo dijo Garrett.
 
-—Lo dijo Garrett.
+—Lo dijo Garrett. Yo nada más lo repito con mejor acento.
 
 —Se nota.
 
@@ -384,6 +384,6 @@ Chiara casi sonrió. Del otro lado se oyó una respiración larga, de las que se
 
 —Aunque sea feo.
 
-—Aunque sea feo.
+—Aunque sea feo. Te lo prometo.
 
 Marisol colgó sin despedirse. Chiara se quedó con el teléfono de Héctor contra la oreja un momento más, oyendo nada, la espalda contra la puerta de la camioneta lavada, hasta que el último poste de la calle de atrás terminó de encenderse.

@@ -57,13 +57,11 @@ Un chico junto a la cerca. Un papel doblado en cuatro. «Eso no te lo voy a deci
 
 Almendra Towing abría igual en Acción de Gracias; en la carretera, los feriados eran de choques. El patio ya tenía movimiento cuando llegó: una grúa saliendo, el radio de la oficina sonando bajo, Danny agachado junto a un motor con las manos negras hasta la muñeca.
 
-—Buenos, jefe.
-
-—Buenos.
+—Buenos, jefe. Ya van dos de la carretera, y no son ni las ocho.
 
 Una mujer de la cuadra de Esparza lo esperaba junto a la puerta con los brazos cruzados y la queja ensayada. Antes la habría atendido él, ahí mismo. Esta vez miró hacia el fondo.
 
-—Nadir.
+—Nadir. Atiéndela tú.
 
 Nadir dejó el fajo que contaba y fue hacia ella. Kal siguió hacia la oficina. Sobre el escritorio había tres recados en la letra de Danny; uno era de un taller de Cedar Flats que preguntaba por «el de la Almendra que arregla lo que nadie quiere tocar». Hacía un año no le habría llegado ninguno. Se lo devolvió a Danny con dos preguntas al margen.
 
@@ -107,7 +105,7 @@ Meiko estaba sentada en el guardafango de la camioneta de al lado con un café d
 
 —¿Por la Milla?
 
-—Todavía no sé.
+—Todavía no sé. Tyler no ha dicho la hora, y sin la hora no hay ruta.
 
 —Por la Milla no, si es de noche. Ahí se para una patrulla desde las once. Por el acceso de carga se entra igual y nadie mira.
 
@@ -121,7 +119,7 @@ Meiko se llevó el café a la boca con la cara de quien prefiere no preguntar qu
 
 A la una, La Esquina tenía la cortina a medio bajar y un cartel escrito a mano: CERRADO — THANKSGIVING. PLATOS DE 12 A 3. La fila salía hasta la acera. Mabel lo vio por encima de las cabezas y no le cobró nada, ni el plato ni lo otro: los pavos habían llegado el martes, pagados, y ninguno de los dos lo iba a mencionar.
 
-—¿Y la señora?
+—¿Y la señora? ¿Tampoco hoy la dejan comer?
 
 —En el Monarch. Hoy está lleno.
 
@@ -133,7 +131,7 @@ Danny lo alcanzó al final de la tarde, los dos contra el mismo camión.
 
 —Vino un tipo a mediodía. No era de aquí. Preguntó si le podíamos conseguir coca para venderla en el barrio.
 
-—¿Qué le dijiste?
+—¿Qué le dijiste? Y no me digas que le diste precio.
 
 —Que te preguntara a ti. ¿Qué le digo si vuelve?
 
@@ -159,11 +157,11 @@ El viejo sacó la bala de la bolsa con dos dedos y la puso bajo la lupa del banc
 
 —Ésta es mía.
 
-—¿Cómo sabe?
+—¿Cómo sabe? En tres lados me dijeron que plomo es plomo.
 
 —El molde tiene la ranura chueca. Lo hice yo, mal, hace once años, y nunca lo cambié. —Se la devolvió—. Vendí una caja de éstas a finales del verano. A uno que no regateó, que es lo primero que noto.
 
-—¿De aquí?
+—¿Se acuerda del que la compró?
 
 —Un chofer. De esos que hacen mandados en Kingsley. Llevaba gorra de una agencia de renta de autos.
 
@@ -173,7 +171,7 @@ No hizo falta asustarlo. Kal se sentó de copiloto y Rudy se puso a hablar con l
 
 —Me pagaron por recoger una caja y dejarla aquí. Cuarto doce. Eso fue todo.
 
-—¿Quién te pagó?
+—¿Quién te pagó? Y no me digas que un sobre por debajo de la puerta.
 
 —Al que se la dejé no lo había visto nunca. No era de aquí. Grandote, callado. Abrió la puerta con el teléfono en la oreja y ni me miró. —Rudy tragó—. Le dijo a alguien que ya tenía todo. Y luego dijo para quién. Un apellido. Lo dijo como se dice el nombre del patrón.
 
@@ -257,7 +255,7 @@ Lo dijo sin detenerse y sin mirarlo. Blake se quedó un paso atrás y tuvo que a
 
 —Qué cómodo.
 
-—Sí.
+—Mucho. Cuidado con ese escalón, que las tablas están flojas.
 
 Al final del muelle, donde las tablas se volvían concreto y empezaba el estacionamiento de la marina, Kal se detuvo y metió las manos en los bolsillos.
 
@@ -275,9 +273,9 @@ Kal se apartó de la baranda y le tendió la mano, con la palma abierta hacia ar
 
 —Ven.
 
-—¿A dónde?
+—¿A dónde? Tengo cien invitados allá afuera, Kal.
 
-—Ven.
+—Ven. Los cien se cuidan solos cinco minutos.
 
 ***
 
@@ -301,7 +299,7 @@ Afuera, la música de la cubierta parecía llegar de mucho más lejos.
 
 —Desde antes. —No la miró todavía—. Hace mucho.
 
-—Kal.
+—Kal. Tú tocas el piano.
 
 —Es un piano. —Ahora sí la miró. Estaba sentada en el brazo del sillón con las manos juntas, sin aplaudir, con una cara que él no le conocía—. No es nada.
 
@@ -315,7 +313,7 @@ Ella abrió la boca y la cerró.
 
 Chiara cruzó el salón y se sentó a su lado en el banco, sin tocarlo, los dos frente al mismo teclado.
 
-—¿Qué era?
+—¿Qué era? Lo he oído en algún lado.
 
 —Schumann. *Träumerei*.
 
@@ -325,11 +323,7 @@ Chiara cruzó el salón y se sentó a su lado en el banco, sin tocarlo, los dos 
 
 Ella no insistió. Se quedaron un rato sentados así, y Kal notó que no había nada en el cuarto que tuviera que vigilar.
 
-—Ya que estamos contando secretos —dijo.
-
-—¿Sí?
-
-—Roma.
+—Ya que estamos contando secretos —dijo—. Roma.
 
 La vio sonreír de lado y dejar de sonreír.
 
@@ -345,7 +339,7 @@ Fue hasta el bolso que había dejado en el sillón y volvió con un papel de los
 
 *ROMA.*
 
-—Ya lo sé —dijo Kal.
+—Ya lo sé —dijo Kal—. La leí veinte veces esta mañana, con el café enfriándose.
 
 —Léelo al revés.
 
@@ -357,7 +351,7 @@ No tardó. Giró la palabra dentro de la cabeza, que es nada, y después se qued
 
 Ninguno dijo nada durante un rato.
 
-—¿Y Atrii?
+—¿Y Atrii? Ése no sale al revés; lo intenté.
 
 Chiara se sentó otra vez a su lado.
 
@@ -389,7 +383,7 @@ Ella tardó en reconocer la pregunta: la del auto, frente a las puertas de vidri
 
 —De nada. Ahora, de nada.
 
-—Entonces ya está.
+—Entonces ya está. Si lo demás te pesa, me pasas la mitad.
 
 —Tengo que sostenerlo mañana también. —Giró la pulsera en la muñeca—. Y pasado.
 
@@ -401,17 +395,13 @@ Kal no dijo nada. Ella le puso la palma en el hombro, sin apretar.
 
 Chiara retiró la mano primero. Despacio, como quien sale de un cuarto tibio a uno frío porque allá hay algo que hacer.
 
-—Hay otra cosa.
+—Hay otra cosa. Ésta no la traje para la fiesta.
 
 Kal vio cómo se le enderezaba la espalda antes de que terminara la frase, y la suya se enderezó igual. No dijo *qué*. Esperó.
 
 Ella fue por segunda vez al bolso. Esta vez sacó, de la bolsa interior, un pañuelo de lino blanco doblado en cuatro, y lo puso sobre la tapa del piano con la inicial hacia arriba. Una *C* en hilo azul oscuro, pequeña, en una esquina.
 
-—En julio. Al salir de Santa Lucía.
-
-—¿Julio?
-
-—Antes del corral.
+—En julio. Al salir de Santa Lucía. —Siguió antes de que él preguntara—. Antes del corral.
 
 —Me llevaron a Cuesta Bonita. Valenti, en persona. —No bajó la vista—. Me preguntó si estaba aquí para servir a la mesa de sus socios o para armarme una propia, y después cambió al español para decirme una frase que no era suya: «Pon tu casa en orden, señora Ardizzone, o hablaremos de este Mercer tuyo.»
 
@@ -423,7 +413,7 @@ Kal miró el pañuelo. Julio. La escalera, el agua al cuello. Las veces que ella
 
 —Lo del agua al cuello —dijo—. En la escalera. No era que te fueras a ir. Era que te ibas a ir para que no me tocaran.
 
-—Algo así.
+—Algo así. Dicho por ti suena más noble de lo que fue.
 
 —Eso no se hace, Chiara. Esconderle algo así a alguien para cuidarlo.
 
@@ -437,7 +427,7 @@ La bala rodó hasta el centro de su mano y se quedó ahí.
 
 La miró sin prisa. La tomó entre el índice y el pulgar, la giró, y la volvió a dejar sobre el lino. Latón entero, sin disparar, sin ninguna marca que no tuviera cualquier caja de cualquier tienda.
 
-—Es corriente.
+—Es corriente. Latón de caja, de los que vende cualquier tienda.
 
 —¿Eso qué significa?
 
@@ -447,7 +437,7 @@ La otra estaba en un cajón de la Almendra, deformada contra un tablón, con un 
 
 —Lo del corral lo busqué —dijo, sin mirarla—. Meses.
 
-—Lo sé.
+—Lo sé. Se te notaba en cómo dejabas las llaves.
 
 —Esto no lleva a nadie. Pero el que lo mandó, sí.
 
@@ -491,7 +481,7 @@ Kal miró la tapa del piano, donde había estado el pañuelo.
 
 —Tengo ganas de que ya estés de vuelta. Que esto se quede en un recuerdo y ya.
 
-—Yo también.
+—Yo también. Un recuerdo de los que se cuentan en una cena, y ya.
 
 Kal se levantó del banco sin apuro y se quedó de pie frente a ella, a un metro, sin acortarlo.
 
@@ -515,7 +505,7 @@ Kal asintió como si le hubieran dado la hora de una cita.
 
 —Necesitas pasaporte. —Ya no era la voz de antes; era la de las juntas, la que hacía listas cuando lo demás no se dejaba ordenar—. ¿Dónde lo tienes?
 
-—En el loft.
+—En el loft. En el cajón de abajo, con los papeles del Audi.
 
 —Entonces hay que pasar por el loft antes, y que esté vigente, porque en Palermo nadie te va a sellar nada por simpático, y si está vencido…
 

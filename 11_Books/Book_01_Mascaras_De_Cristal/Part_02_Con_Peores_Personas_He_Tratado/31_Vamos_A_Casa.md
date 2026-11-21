@@ -107,7 +107,7 @@ Bajaron juntos. El Audi los sacó del Monarch hacia una tarde que no se parecía
 
 —¿Y la pesca?
 
-—Idea de Nadir.
+—Idea de Nadir. Dice que con las costillas así lo único que puedo hacer es estar parado en el agua, y que a eso se le llama pescar.
 
 Chiara miró pasar el paisaje. No hizo más preguntas. La mañana seria había terminado, o eso parecía.
 
@@ -163,7 +163,7 @@ Ya de vuelta en el coche, con las bolsas en el asiento trasero, Kal preguntó, s
 
 —Comiste, ¿verdad?
 
-—No.
+—No. Ni me había acordado.
 
 No pareció sorprenderle. Señaló la guantera con la mano libre.
 
@@ -251,7 +251,7 @@ Héctor estaba sentado en una silla plegable con una gorra vieja calada hasta la
 
 —Señorita Bellandi. —Ni se levantó—. Espero que traiga hambre, porque si no come, éste —señaló con la barbilla hacia Danny— se va a comer su parte y la mía.
 
-—Traigo hambre.
+—Traigo hambre. Y a Danny no le pienso dejar nada.
 
 —Entonces ya le caigo mejor que hace un minuto.
 
@@ -421,7 +421,7 @@ El agua, mucho más fría ahí que en la orilla, le cortó el aire y se le meti�
 
 —Eso —dijo ella, apartándose el pelo de la cara— fue una declaración de guerra.
 
-—La declaraste tú.
+—La declaraste tú. Yo nada más estaba parado aquí, con dos costillas de menos.
 
 Ella le tiró agua a la cara con la mano abierta, sin previo aviso, y él respondió igual, y por un rato no hubo ninguna conversación que valiera la pena tener por encima del ruido de las salpicaduras y de la risa de los dos.
 

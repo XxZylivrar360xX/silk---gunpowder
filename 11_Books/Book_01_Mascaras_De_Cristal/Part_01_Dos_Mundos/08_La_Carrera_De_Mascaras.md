@@ -37,7 +37,7 @@ Chiara se rio: una sílaba, casi sin querer.
 
 —¿Atrapado, atrapado?
 
-—Atrapado.
+—Atrapado. Con alguien que te pone la mano en el hombro y te pregunta cómo te llamas.
 
 —Dos veces en la questura, de adolescente, en Palermo. —Lo dijo despacio, midiendo cuánto contar—. Una por una Vespa que no era mía. Otra por estar en una plaza que los carabinieri estaban despejando y no correr lo suficientemente rápido. Mi padre mandó al mismo abogado las dos veces y las dos veces estaba en casa para la cena. Nada que valiera una carpeta.
 
@@ -69,7 +69,7 @@ Kal metió primera y salió del callejón sin prisa, como quien no quiere desper
 
 —Vamos al norte —dijo, ya en la avenida—. A Kingsley Field. Hay gente que corre por las carreteras de servicio, de madrugada, y hoy hay algo. Yo corro a veces.
 
-—A veces.
+—A veces. Lo dices como dice mi contador «pequeñas diferencias».
 
 —Seguido. —Cambió de carril—. Te lo digo ahora para que si quieres que dé la vuelta, la doy y vamos a cenar.
 
@@ -93,11 +93,11 @@ Chiara giró la cabeza despacio.
 
 La tarjeta de la acera, pensó Chiara. Así que eso era.
 
-—¿Y?
+—¿Y qué hacía Dario en una parcela a medianoche?
 
 —Y esperamos veinte minutos con las luces apagadas, oyendo a Danny contar vacas. Y entonces se abre la puerta del granero y sale Dario. —Tenía el volante en una sola mano—. Gabardina negra hasta aquí. Capucha. Y una máscara de plata. Brillante. De las que reflejan.
 
-—No.
+—No. ¿Dario Varek, con máscara?
 
 —Sí. Con la capucha encima. Se para en la luz de los faros y la máscara nos regresa los faros a la cara. Héctor se tapa los ojos. Y Danny, en voz alta, con la ventana abajo: «¿Ése es el cliente o el jefe final?»
 
@@ -129,19 +129,13 @@ Adentro olía a naftalina y a cartón viejo. Había pelucas en cabezas de polies
 
 Chiara tuvo que mirar hacia las pelucas.
 
-—Todo lo que ve.
+—Todo lo que ve —dijo el dueño, desde atrás del mostrador—. Lo que brilla está en el otro cuarto.
 
 Kal recorrió el panel de un vistazo y descolgó una máscara negra, lisa, de plástico mate, sin una sola línea que quisiera decir algo. Sin cejas dibujadas, sin boca, sin gesto. Una cara que no era una cara. Se la probó de espaldas al espejo, no de frente, y con eso le bastó: no buscaba parecer otro. Buscaba que no supieran quién era.
 
 —¿Y el malvavisco? —dijo Chiara.
 
-—Se quedó en el coche.
-
-—¿Por?
-
-Kal le señaló el panel con la barbilla.
-
-—Te toca escoger.
+—Se quedó en el coche, en la guantera, donde siempre. —Kal le señaló el panel con la barbilla—. Hoy te toca escoger a ti.
 
 Chiara fue más despacio. Pasó la mano por una hilera de antifaces simples, de esos que se atan con un cordón y no cubren más que los ojos, y no se detuvo en ninguno. Siguió hasta una máscara negra de media cara, con el borde superior levantado en dos curvas suaves sobre las cejas y una línea limpia bajando por el pómulo. Versión de tienda —el plástico se notaba, la pintura tenía un brillo barato en los bordes—, pero tenía forma. Cubría lo que había que cubrir y, aun así, alguien la había diseñado para que se viera bien.
 
@@ -151,7 +145,7 @@ Se la probó frente al espejo. Ésa.
 
 —Una Colombina.
 
-—¿Una qué?
+Kal esperó la explicación con la máscara negra todavía en la mano.
 
 —Cubre lo que tiene que cubrir. —Se la bajó y la sostuvo del cordón—. Vámonos.
 
@@ -223,7 +217,7 @@ El de la sudadera resultó ser el que importaba. Llegó caminando, joven —de e
 
 —El Peugeot. —Después levantó la vista—. Pensé que este mes no venías, Mac.
 
-—Cambié de idea.
+—Cambié de idea. Le puse balatas nuevas el jueves y había que probarlas en algún lado.
 
 Nadie ahí lo llamaba Kal. Chiara lo armó un segundo tarde: las iniciales al revés. Eme, ka. Mac.
 
@@ -245,7 +239,7 @@ Kal la miró un segundo de más. No dijo nada, pero algo en la comisura de la bo
 
 Chiara volvió a mirar la máscara blanca. Seguía en el mismo sitio, sin gesto, y durante un segundo le pareció que también ella los estaba mirando a ellos.
 
-—¿Salida por dónde? —le preguntó Kal a Tyler.
+—¿Y la salida? ¿La misma del mes pasado? —le preguntó Kal a Tyler.
 
 —Como siempre. —Tyler dibujó la ruta en el aire con el índice, un trazo largo y una curva al final, sin decir una sola calle en voz alta—. Y si aparecen luces, cada quien por su lado. No me esperen.
 

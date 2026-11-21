@@ -56,11 +56,7 @@ El aire de afuera olía a sal y a algo frito de algún puesto callejero tres cal
 
 Blake salió detrás de ella dos minutos después.
 
-—¿Todo bien?
-
-—Perfecto.
-
-—Te ves cansada.
+—¿Todo bien? —Se paró a su lado y miró la misma calle, como si hubiera algo que ver—. El capitán ya preguntó por ti dos veces. Le dije que estabas al teléfono con Italia. Te ves cansada.
 
 —Estoy fumando, Blake. Se ve así.
 
@@ -226,7 +222,7 @@ Entre el ruido de la fiesta y la gente vestida igual, Chiara se apartó con Kal 
 
 —¿Y Héctor cuenta como amigo o como supervisión? —preguntó ella.
 
-—Las dos.
+—Las dos. Depende de quién maneje de regreso.
 
 Nadir y Danny se habían quedado cerca de la barra, discutiendo en voz baja sobre cuál de los dos iba a atreverse a pedir algo que no supieran pronunciar. Héctor los vigilaba desde una distancia prudente, con la cara de un hombre que ha visto suficientes fiestas ajenas como para no esperar nada de ninguna.
 
@@ -234,7 +230,7 @@ Kal la miró un segundo más de lo que había mirado la fiesta.
 
 —Traes la sonrisa de las juntas.
 
-—¿Cuál sonrisa?
+—Es la única que traje.
 
 Kal se enderezó, se llevó una mano al pecho y bajó la voz un tono.
 
@@ -244,7 +240,7 @@ La erre arrastrada, la vocal final estirada, un acento que no existía en ningú
 
 Chiara le dio en el brazo con el dorso de la mano.
 
-—Así no hablo.
+—Así no hablo. Así no habla nadie.
 
 Kal no bajó la mano del pecho.
 
@@ -460,7 +456,7 @@ Danny recorrió el pasillo de los boxes con las manos en la espalda, como en un 
 
 —Ése está asegurado por más de lo que vale su taller.
 
-—¿Y aquél?
+—¿Y aquél? Aquél tiene cara de que muerde, pero con cariño.
 
 Chiara siguió caminando.
 
@@ -500,7 +496,7 @@ Chiara lo llevó de la cuerda, al paso, pegada a la cerca. Fue media vuelta ente
 
 —Russ —dijo Danny, sin voltear, como si fuera a espantarlo—. Russ. Mírame.
 
-—Te estoy mirando.
+—Te estoy mirando. Desde que te subiste.
 
 —Con caballos, Russ.
 

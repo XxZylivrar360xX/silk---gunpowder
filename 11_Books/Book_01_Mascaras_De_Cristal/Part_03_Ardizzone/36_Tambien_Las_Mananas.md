@@ -44,9 +44,9 @@ Kal estaba de espaldas, con las mangas subidas hasta el codo. Se frotaba las man
 
 Él la oyó en el último escalón. No volteó.
 
-—Vuelve a dormir.
+—Vuelve a dormir. Todavía no hay luz.
 
-—Ya estoy despierta.
+—Ya estoy despierta. Me despertó el agua.
 
 Cerró la llave. Se secó con el trapo de la cocina, que no era para eso, y lo dobló sobre el borde del fregadero con la mancha hacia abajo. Tenía raspados los nudillos de la derecha. En la izquierda, nada.
 
@@ -58,7 +58,7 @@ Tampoco preguntó de quién era. Desde Las Gemelas sabía para quién trabajaba 
 
 —¿Hoy?
 
-—Hoy.
+—Hoy. Salimos en media hora, y en la noche estoy de vuelta.
 
 Le dio un beso en la frente, con la cara todavía fría del agua, y se cambió de camisa junto a la escalera. Antes de salir pasó al fondo de la planta baja. Chiara oyó el tablón suelto, el que crujía en dos tiempos, levantarse y volver a su lugar. Después la puerta.
 
@@ -82,7 +82,7 @@ Tommaso pasó a las once, sin flores. Se quedó en la puerta del despacho, que e
 
 —Bellandi. Feliz cumpleaños.
 
-—Gracias, Tommaso.
+—Gracias, Tommaso. No sabía que en Palermo llevaban esa cuenta.
 
 Le miró el anular antes que la cara, y después el cajón de la derecha, como si supiera cuál era. Giró el anillo de sello.
 
@@ -214,7 +214,7 @@ En el coche, de camino a la Almendra, Kal manejaba con la izquierda. La derecha 
 
 —¿Cuatro horas? —preguntó ella.
 
-—Más o menos.
+—Cuatro y algo. Héctor las cuenta desde la rampa; yo, desde que se nos fue. —Movió los dedos de la derecha sobre la pierna, sin levantarla—. Es lista, la condenada. Cada vez que la teníamos contra una cerca, le encontraba el hilo flojo. El canal lo brincó como si lo hubiera hecho toda la vida, y yo como si no.
 
 —¿Y la mejilla?
 
@@ -222,7 +222,7 @@ En el coche, de camino a la Almendra, Kal manejaba con la izquierda. La derecha 
 
 Lo dijo sin pensarlo, como se dice lo que es verdad. Chiara asintió. La cerca era de ella: de Stella, del viñedo ajeno, de Héctor sentándose una vez. Los nudillos de la derecha no. Ésos ya los traía en el fregadero, antes del avión, antes de todo, y él no los había mencionado, y ella tampoco iba a hacerlo.
 
-—Héctor estaba cansado —dijo.
+—Héctor estaba cansado —dijo—. Más de lo que quiso que yo viera.
 
 —Héctor siempre está cansado.
 
@@ -276,7 +276,7 @@ Kal la miró fijo, leyendo mal el silencio.
 
 —¿Faltó más, verdad? Lo sabía.
 
-Chiara negó con la cabeza. La voz no le salió a tiempo, y él siguió de largo sobre el silencio.
+—No.
 
 —Puedo conseguir algo más. Si esto no fue sufici—
 

@@ -80,7 +80,7 @@ Claude Code es el maintainer principal del repositorio. Codex apoya con mantenim
 - Al crear archivo relevante, enlazar en `INDEX.md`.
 - Al cerrar cambio sustantivo, actualizar `98_Agent_Handoff/CURRENT_BRIEF.md`; si cambia canon o continuidad, tambien `log.md`.
 - Commit y push a `develop` al terminar cada tarea, con la skill `regenerar-y-subir` (autorizado por el autor, 2026-11-09). Nunca a `main`, nunca `--force`. A mitad de tarea, no.
-- **Dialogo ping-pong PROHIBIDO (DECISION DEL AUTOR, 2026-11-21):** las interacciones son conversaciones, no intercambios de remates cortos. Umbral y herramientas en `12_Craft_Policies/dialogue_rules/05-esticomitia-de-una-sola-voz.md`; detector `tools/editorial/pingpong_audit.py`. Vale para prosa nueva y revisada.
+- **Dialogo ping-pong PROHIBIDO (DECISION DEL AUTOR, 2026-11-21):** las interacciones son conversaciones, no intercambios de remates cortos. Umbral y herramientas en `12_Craft_Policies/dialogue_rules/05-esticomitia-de-una-sola-voz.md`; detector `tools/editorial/pingpong_audit.py`. Vale para prosa nueva y revisada. Complemento: regla 06 «Replica minima» (`12_Craft_Policies/dialogue_rules/06-replica-minima.md`; maximo 25 % de replicas de ≤3 palabras por capitulo; `--cortas`).
 - Para auditoria, microedicion o verificacion editorial de prosa, usar la skill `editorial-surgery` y las politicas bajo `12_Craft_Policies/editorial/`.
 
 ## Regeneracion De EPUB y PDF

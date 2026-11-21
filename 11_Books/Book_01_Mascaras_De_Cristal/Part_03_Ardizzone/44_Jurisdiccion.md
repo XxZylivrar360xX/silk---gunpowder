@@ -49,19 +49,15 @@ Chiara dejó la taza en la mesa. La dejó con cuidado, junto al marco.
 
 —La municipal. Se quedó atrás para que pudiéramos irnos. Un agente se le echó encima por un lado que él no estaba mirando. Lo vimos desde arriba.
 
-—¿Está herido?
+—¿Está herido? Y si lo vieron desde arriba, ¿cómo sabe que es la municipal y no otra gente?
 
-—Se movía. Es todo lo que vi.
+—Se movía. Es todo lo que vi. Lo otro lo sé por Garrett, que trae su radio. Cuando bajamos en la playa la oímos: un detenido, rumbo a una comisaría del norte. Detenido, Bellandi. No otra cosa.
 
-—¿Cómo sabe que es la municipal?
-
-—Garrett trae su radio. Cuando bajamos en la playa la oímos: un detenido, rumbo a una comisaría del norte. Detenido, Bellandi. No otra cosa.
-
-—¿Bajo qué cargo?
+—Necesito el cargo, Héctor. Sin cargo no hay fianza, y sin fianza no hay abogado que sirva.
 
 —Tampoco sé eso. —Una pausa, del tipo que a Héctor no le gustaba dejar—. Nadir se bajó por él. Lo subí yo, a la fuerza. En la playa nos dijimos lo que había que decirse, y Garrett le dio un puñetazo a la puerta del helicóptero que alguien va a tener que pagar. Ahora Nadir quiere ir a la comisaría. Le dije que no. Si va, lo meten con él.
 
-—Hiciste bien.
+—Hiciste bien. Si Nadir se presenta en esa comisaría, mañana tengo que sacar a dos.
 
 —¿Usted puede hacer algo?
 
@@ -117,11 +113,7 @@ Krane no dijo nada mientras ella le contaba lo poco que había: la comisaría, l
 
 A mediodía Krane llamó desde el estacionamiento de la comisaría. No lo había visto.
 
-—Dicen que está procesado. Dicen que no pueden darme acceso todavía. El sargento de guardia es muy amable y no me ha dicho una sola cosa que yo pueda usar. —Se oía viento, el golpe de una puerta de coche—. A mí nadie me trata bien en una comisaría, Chiara. Cuando lo hacen, es porque están esperando una llamada de alguien que no es de la ciudad.
-
-—¿De quién?
-
-—Eso es lo único que no me quieren decir.
+—Dicen que está procesado. Dicen que no pueden darme acceso todavía. El sargento de guardia es muy amable y no me ha dicho una sola cosa que yo pueda usar. —Se oía viento, el golpe de una puerta de coche—. A mí nadie me trata bien en una comisaría, Chiara. Cuando lo hacen, es porque están esperando una llamada de alguien que no es de la ciudad. Y de quién, eso es lo único que no me quieren decir.
 
 Chiara no se sentó. Desde el ventanal del despacho se veía el piso del casino, las mesas de la mañana casi vacías, un crupier acomodando fichas que nadie iba a jugar hasta la noche.
 
@@ -147,13 +139,9 @@ Chiara dejó pasar la pregunta.
 
 La llamada volvió cuarenta minutos después. Para entonces el abogado mayor había conseguido, con dos llamadas a casas de gente del ayuntamiento y un favor que el Monarch tenía guardado desde antes de que ella llegara, que un asistente del fiscal municipal confirmara el nombre del oficial que había hecho el arresto. Un nombre. Chiara lo tenía escrito en una hoja que no le servía para nada.
 
-—Chiara. —Rowe había bajado la voz—. Si fuera mío, ya estaría hablando contigo de fianza. No es mío.
+—Chiara. —Rowe había bajado la voz—. Si fuera mío, ya estaría hablando contigo de fianza. No es mío. Hay una solicitud de custodia de la base. Entró esta madrugada. Ya no es un asunto de esta oficina.
 
-—¿De quién es?
-
-—Hay una solicitud de custodia de la base. Entró esta madrugada. Ya no es un asunto de esta oficina.
-
-—¿Qué significa eso?
+—Dímelo como se lo dirías a alguien que no estudió leyes, Katherine. ¿Qué significa?
 
 —Que yo no tengo nada que firmar. —Una pausa breve, política—. Te debo una, Chiara. Y no me alcanza para pagártela con esto. Lo siento de verdad. Era un hombre encantador.
 
@@ -199,7 +187,7 @@ Chiara no preguntó cómo. Krane se lo dijo igual.
 
 Chiara miraba la ciudad por la ventana del despacho, las mismas luces de siempre empezando a encenderse contra la tarde.
 
-—¿Adónde?
+—¿Adónde? A esa hora nadie sale de una comisaría sin que alguien firme.
 
 —El papel dice «reclamación federal». No dice adónde. No hace falta que lo diga.
 

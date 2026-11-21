@@ -57,7 +57,7 @@ Chiara cerró la carpeta despacio, sin la prisa que él pudiera leer.
 
 —La familia Ardizzone va a tener un lugar en San Aurelio. Una ciudad modesta, en Oregon. Usted la conocerá pronto.
 
-—¿Un lugar?
+—¿Un lugar? En mi experiencia, un lugar es algo que se le quita a alguien.
 
 —Un socio de allá necesitaba respaldo. A cambio, ofreció lo que Il Consorzio necesitaba en esa costa. Il Consorzio aceptó.
 
@@ -129,7 +129,7 @@ Ella dejó que la abrazara. Un segundo menos de lo que él habría querido, un s
 
 Matteo se detuvo medio paso.
 
-—Les avisé —repitió.
+—Les avisé —repitió, más para él que para ella—. Con dos días de anticipación.
 
 Chiara no dijo nada. Él volvió a caminar, un poco más rápido.
 
@@ -139,11 +139,7 @@ Caminaron hacia la salida privada, donde el vidrio mostraba la pista y, más all
 
 Chiara no cambió el paso.
 
-—¿Tommaso Lusardi?
-
-—Sí.
-
-—Qué considerado de ustedes poner todos los muertos en la misma mesa.
+—¿Tommaso Lusardi? —No esperó el sí—. Qué considerado de ustedes poner todos los muertos en la misma mesa.
 
 Matteo bajó la voz.
 
@@ -155,7 +151,7 @@ Matteo esperó una respuesta que no llegó, y se fue a terreno seguro.
 
 —Fabrizio preguntó si sigues odiando el merlot. Pedí que lo sacaran de la suite.
 
-—Sigo.
+—Sigo. Fabrizio lo sabe; lo pregunta para tener de qué hablar.
 
 El coche esperaba afuera: negro, limpio, con un chofer que miró a Matteo antes de mirar a Chiara.
 
@@ -211,7 +207,7 @@ Ella le permitió besarle ambas mejillas.
 
 —¿Comiste? Lo del avión no cuenta. No, no comiste, se te ve en la cara, y no me digas que sí porque eso ya me lo dijiste en tres aeropuertos. —Bajó la voz, como si Palermo pudiera oírlos desde ahí—. Tu madre me mataría. A mí, no a ti. A ti te lo perdona todo.
 
-—Fabrizio.
+—Fabrizio. Comí en el avión, y sí cuenta.
 
 —Ya, ya.
 
@@ -319,7 +315,7 @@ Dario abrió una carpeta sin prisa.
 
 Chiara levantó la vista.
 
-—¿Lo revisaste?
+—¿Lo revisaste, o nada más te cayó bien?
 
 —Lo conocí hoy. En una cafetería del barrio. Ya sé, ya sé. Pero escúchenme.
 
@@ -393,7 +389,7 @@ El cochecito quedaba ridículo entre sedanes negros, camionetas blindadas y depo
 
 —Señor, nosotros podemos—
 
-—No.
+—No. Éste nada más me obedece a mí.
 
 Lo dijo sin dureza. El muchacho entendió de todos modos y retrocedió con una sonrisa profesional herida.
 
@@ -431,7 +427,7 @@ Hizo ademán de llevarlo adentro, pero no cruzó la puerta.
 
 Kal miró el vidrio, las cámaras pequeñas sobre las columnas, los guardias con saco que miraban manos antes que caras, la puerta de servicio mal disimulada detrás de un arreglo floral demasiado grande.
 
-—¿Quién decidió eso?
+—¿Quién decidió eso? A mí siempre me toca la de carga.
 
 —Ellos.
 
@@ -673,8 +669,6 @@ La reunión había terminado aunque nadie se hubiera levantado.
 
 Kal asintió una vez.
 
-—Claro.
-
 Matteo lo acompañó hacia la puerta con una prisa social que intentaba convertir el rechazo en pausa.
 
 —Lo llamo mañana. Esto es normal, así son las primeras juntas, Tommaso es así con todos…
@@ -727,7 +721,7 @@ Tommaso salió sin despedirse de Elise. Fabrizio esperó a que la puerta se cerr
 
 —No te conviene pelear ésta el primer día —dijo en voz baja.
 
-—No estoy peleando.
+—No estoy peleando. Estoy tomando nota.
 
 Fabrizio la conocía lo bastante para no creerle. Le puso una mano en el hombro y no dijo nada.
 
@@ -767,7 +761,7 @@ Un camión lo rebasó por la izquierda y el Peugeot se sacudió con el aire. Kal
 
 —Todos ven el traje, khoya. Un traje así lo ve hasta un ciego, por el ruido.
 
-—Ella no.
+—Ella no. Me vio los zapatos.
 
 —Wallah. Perdiste un contrato con un casino, khoya, con un casino, y me llamas para hablarme de una mujer que no vio tu traje. ¿Por lo menos estaba guapa?
 
@@ -783,7 +777,7 @@ Del otro lado no se oyó nada. Ni una cuenta, ni una burla.
 
 —Khoya. Te pregunté si estaba guapa.
 
-—Ya te contesté.
+—Ya te contesté. Dos veces.
 
 —Eso sale más caro.
 

@@ -8,6 +8,7 @@ Uso:
   python tools/editorial/pingpong_audit.py                 # Libro I
   python tools/editorial/pingpong_audit.py --book 2
   python tools/editorial/pingpong_audit.py --min 5 --maxw 14 RUTA.md ...
+  python tools/editorial/pingpong_audit.py --cortas      # regla 06: % de replicas de <=3 palabras
 """
 import argparse
 import glob
@@ -63,14 +64,41 @@ def scan(path, minrun, maxw):
     return found
 
 
+def short_share(path, maxw=3):
+    total = short = 0
+    with open(path, encoding="utf-8") as fh:
+        for raw in fh:
+            t = raw.strip()
+            if t.startswith("—"):
+                total += 1
+                if spoken(t)[0] <= maxw:
+                    short += 1
+    return total, short
+
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("files", nargs="*")
     ap.add_argument("--book", default="1", choices=sorted(BOOKS))
     ap.add_argument("--min", type=int, default=5)
     ap.add_argument("--maxw", type=int, default=14)
+    ap.add_argument("--cortas", action="store_true",
+                    help="regla 06: porcentaje de replicas de <=3 palabras por archivo")
+    ap.add_argument("--vara", type=int, default=25)
     a = ap.parse_args()
     files = a.files or book_files(a.book)
+    if a.cortas:
+        over = 0
+        for f in files:
+            total, short = short_share(f)
+            if not total:
+                continue
+            pct = 100 * short / total
+            mark = "  <-- sobre la vara" if pct > a.vara else ""
+            over += bool(mark)
+            print(f"{os.path.relpath(f, ROOT)}: {short}/{total} = {pct:.0f}%{mark}")
+        print(f"TOTAL: {over} archivos sobre la vara de {a.vara}%")
+        return 1 if over else 0
     total = nfiles = 0
     for f in files:
         hits = scan(f, a.min, a.maxw)

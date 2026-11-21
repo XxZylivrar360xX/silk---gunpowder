@@ -83,15 +83,11 @@ Chiara esperó.
 
 Chiara no lo interrumpió. Había aprendido, con este hombre en particular, que interrumpir era la forma más rápida de que dejara de hablar.
 
-—Fue él quien me sacó de la ciudad. No Varek. —Se lo dijo directo—. Me llamaron a las tres de la mañana, desde un número de otro estado. A las seis había un coche para mí en el estacionamiento sur. Llevé el mío.
+—Fue él quien me sacó de la ciudad. No Varek. —Se lo dijo directo—. Me llamaron a las tres de la mañana, desde un número de otro estado. A las seis había un coche para mí en el estacionamiento sur. Llevé el mío. Al noreste, pasando Kingsley. Cuatro horas.
 
-—¿Adónde?
+Movió apenas los dedos sobre la rodilla, como si contara postes.
 
-—Al noreste, pasando Kingsley. Cuatro horas. Un sitio que en los mapas sale como campo. —Movió apenas los dedos sobre la rodilla, como si contara postes—. Una oficina con un escritorio de metal y un calendario de llantas atrasado tres meses. Él de pie, junto a un archivero.
-
-—¿Qué quería?
-
-—Que vuelva a trabajar para él. O que entregue a Nadir. —Kal no suavizó ninguna de las dos—. Me enseñó una hoja. El nombre completo de Nadir, su país, el día que entró. Dijo que hoy es un expediente limpio y que está a un sello de dejar de serlo. Que no hay favor ni dinero que lo arregle. Que es un papel, y que los papeles los mueve él. Tiene con qué hacer que a Nadir lo saquen del país en una semana, y lo sabe, y me lo dijo como si me estuviera haciendo el favor de explicármelo.
+—Un sitio que en los mapas sale como campo. Una oficina con un escritorio de metal y un calendario de llantas atrasado tres meses. Él de pie, junto a un archivero. Quería que vuelva a trabajar para él. O que entregue a Nadir. —Kal no suavizó ninguna de las dos—. Me enseñó una hoja. El nombre completo de Nadir, su país, el día que entró. Dijo que hoy es un expediente limpio y que está a un sello de dejar de serlo. Que no hay favor ni dinero que lo arregle. Que es un papel, y que los papeles los mueve él. Tiene con qué hacer que a Nadir lo saquen del país en una semana, y lo sabe, y me lo dijo como si me estuviera haciendo el favor de explicármelo.
 
 Chiara oyó el nombre de Nadir y lo dejó pasar sin tocarlo, por ahora. Había otra pregunta delante.
 
@@ -107,7 +103,7 @@ No dijo más. Chiara no le pidió más. Había hombres que se cerraban cuando un
 
 —Dijo que no me persigue —siguió Kal—. Que perseguir es caro y hace ruido. Que soy un riesgo pendiente, y que los riesgos pendientes se administran.
 
-—¿El sedán? —preguntó Chiara.
+—¿Y el sedán de la Almendra? —preguntó Chiara.
 
 Kal no fingió no saber de qué hablaba.
 
@@ -135,11 +131,7 @@ Kal sostuvo la mirada un segundo, midiendo si eso era una evasiva o un turno. De
 
 —¿Y los golpes?
 
-—Un recordatorio. —Kal se llevó la mano a la ceja sin darse cuenta y la bajó al ver que ella lo notaba—. No un castigo. Así los administra: mide exactamente cuánto hace falta para que uno entienda dónde está parado, y ni un gramo más. Él ni siquiera estaba en el cuarto. Se fue antes. Desde el pasillo me dijo que manejara con cuidado, que me iba a doler el costado en las curvas.
-
-—¿Te dolió?
-
-—En todas.
+—Un recordatorio. —Kal se llevó la mano a la ceja sin darse cuenta y la bajó al ver que ella lo notaba—. No un castigo. Así los administra: mide exactamente cuánto hace falta para que uno entienda dónde está parado, y ni un gramo más. Él ni siquiera estaba en el cuarto. Se fue antes. Desde el pasillo me dijo que manejara con cuidado, que me iba a doler el costado en las curvas. —Se tocó el costado, por si quedaba duda—. Me dolió en todas.
 
 Chiara no sonrió. Casi.
 
@@ -181,7 +173,7 @@ Kal tardó en entender la pregunta. Cuando la entendió, tardó más.
 
 —Le rompiste la boca y no sabes cómo se llama.
 
-—No.
+—No. Sé cuánto pesaba y de qué lado cargaba la pistola.
 
 Chiara asintió. No agregó nada y tampoco retiró la pregunta. La dejó ahí, sobre la piedra, entre los dos, y vio que él no encontraba dónde ponerla.
 
@@ -203,7 +195,7 @@ Chiara lo miró un momento.
 
 —No le pediste la silla.
 
-—No.
+Kal negó con un dedo, sin levantar la mano de la rodilla.
 
 —Hiciste que te la ofreciera.
 
@@ -235,13 +227,9 @@ No era pregunta, y Kal no la contestó.
 
 Se quedaron con eso un momento, el agua llenando el silencio entre una frase y la siguiente.
 
-—Hubo algo más —dijo Kal, al fin—. Varek quería que Bellandi también entrara.
+—Hubo algo más —dijo Kal, al fin—. Varek quería que Bellandi también entrara. Como fuente. —Lo dijo sin dulcificarlo—. Le dije que no.
 
 Chiara no se movió.
-
-—¿Como qué?
-
-—Como fuente. —Lo dijo sin dulcificarlo—. Le dije que no.
 
 —¿Por qué?
 
@@ -259,7 +247,7 @@ Kal esperó.
 
 —La multa no me la regaló —dijo Chiara—. Cuando subí a su oficina, encima del palco, creía que él te tenía. No te tenía. Lo que tenía era ese papel en un cajón, del coche que lleva una semana estacionándose en tu esquina, y no me dijo cómo lo consiguió. —Soltó el arete—. Me lo cobró.
 
-—¿Cuánto?
+—¿Y cuánto te cobró por un papel?
 
 —No le puso cifra. Le debo una. A mi nombre, no a nombre del Monarch. Todavía no sabe cuál. Cuando lo sepa, me la pide.
 
@@ -271,7 +259,7 @@ Kal no dijo nada. Chiara lo vio armarlo, despacio, en la cara, sin que la cara h
 
 —Y él sabía lo del otro.
 
-—Y nosotros no.
+—Y nosotros no. Ni se nos ocurrió preguntarnos.
 
 El agua siguió cayendo de las dos alturas sobre la misma poza. A Chiara le pareció, por un segundo, una imagen demasiado exacta, y la apartó.
 
@@ -299,7 +287,7 @@ Chiara lo miró, sorprendida a medias. Horas antes esas mismas fotografías hab�
 
 —En el Lancia.
 
-—¿Puedo verlas?
+—¿Puedo verlas otra vez? Esta vez sin gritarte.
 
 Fue por el sobre y volvió, y se sentaron con las copias extendidas sobre la piedra plana, sujetas con dos guijarros para que el viento del cañón no se las llevara. Kal las miró de nuevo, más despacio que la primera vez, y esta vez habló mientras miraba.
 
@@ -321,7 +309,7 @@ Kal se quedó con eso.
 
 —Entonces nunca necesitabas ir tú.
 
-—No.
+—Casi nunca. Para eso los tengo.
 
 —¿Y por qué fuiste?
 
@@ -367,11 +355,7 @@ Kal la miró.
 
 Algo en cómo lo dijo hizo que Chiara bajara la fotografía que tenía en la mano.
 
-—Mencionó, de paso, a una pelirroja de un taller universitario. Discutían permisos de uso de suelo con un profesor. Dijo que tenía razón.
-
-—¿Y?
-
-—Es Marisol.
+—Mencionó, de paso, a una pelirroja de un taller universitario. Discutían permisos de uso de suelo con un profesor. Dijo que tenía razón. —Dejó que el agua llenara un momento—. Es Marisol.
 
 —¿Por qué crees que es ella? Pelirrojas hay muchas.
 
@@ -429,7 +413,7 @@ Chiara lo pensó apenas un segundo.
 
 —Alrededor —repitió Kal.
 
-—Ya sé.
+—Ya sé que suena a lo mismo. No lo es.
 
 Ninguno de los dos lo deshizo. Kal asintió una vez. Nada más.
 

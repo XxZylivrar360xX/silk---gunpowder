@@ -92,7 +92,7 @@ El hombre la miró por primera vez como si hubiera algo que mirar. Después subi
 
 Nadir se despertó con el ruido de la puerta de la oficina. Garrett la había abierto. Nadir se enderezó en el sillón, se pasó la mano por la cara, vio el libro de cuentas en el regazo y lo cerró como si alguien lo hubiera sorprendido leyendo algo ajeno.
 
-—¿Qué hora es?
+—¿Qué hora es? Dime que no dormí hasta mañana.
 
 —Las cinco —dijo Garrett—. Del mismo día.
 
@@ -100,7 +100,7 @@ Nadir se despertó con el ruido de la puerta de la oficina. Garrett la había ab
 
 Nadir se levantó tan rápido que el libro se le cayó al piso. No lo recogió. Salió al Patio todavía con la marca del vinil en la mejilla.
 
-—¿Y?
+—¿Y qué quería? Los de Audi no vienen a recoger nada, señora. Vienen a dar citas.
 
 —Esta noche —dijo Chiara—. A las nueve, en el puerto. Varek quiere las cajas y quiere hablar.
 
@@ -110,7 +110,7 @@ Chiara no se lo negó.
 
 —¿Cuánto?
 
-—No sé todavía.
+—No sé todavía. Por eso voy: para que me lo diga a la cara y no por un chofer.
 
 Nadir se volvió hacia Héctor.
 
@@ -188,7 +188,7 @@ El hombre del Audi bajó la escalera y cerró una puerta abajo. Dario le señal�
 
 —Su grúa está afuera —dijo.
 
-—La de Kal.
+—La de Kal. Yo nada más la pedí prestada.
 
 —La del señor Mercer. Con un coche arriba. Muy discreto. —Volvió a mirar hacia la calle, donde no se veía nada desde ahí—. ¿Están completas? —No esperó a que le contestara—. Lo sé. Mercer cumple. —Lo dijo sin calor, como se dice de una máquina que no falla—. Me dijo el diecinueve y el diecinueve entró. Mi gente lo esperó en la playa hasta que oyó la radio. Me dijo completas y van a estar completas. Lo único que no me dijo fue que yo iba a esperar doce días.
 
@@ -223,10 +223,6 @@ Chiara no contestó. Dario no esperó a que contestara.
 —¿Cuánto?
 
 —No es dinero. Dinero tengo. —Lo dijo sin mirarla, mirándose las manos—. El taller de Mercer tiene grúas. Tiene un patio con portón y un hombre que sabe de papeles. Tiene muchachos en la Almendra que conocen el sur mejor que mi gente, y que mi gente no puede conocer sin que el sur se dé cuenta. —Levantó la vista—. Por un tiempo, cuando haga falta mover algo, se mueve. Cuando haga falta guardar algo, se guarda. Nada que no hayan hecho antes.
-
-—¿Cuánto tiempo?
-
-—El que haga falta.
 
 —No.
 
@@ -324,7 +320,7 @@ Los faros se encendieron cuando la grúa dobló, pero el coche no la siguió. Av
 
 Traía una carpeta de pasta gris, cerrada con una liga. La de la tarde anterior.
 
-—¿Qué es? —preguntó Chiara.
+—¿Y eso? —preguntó Chiara—. No me diga que ahora también me trae facturas.
 
 —Lo que tiene su nombre cerca del de él.
 
@@ -394,7 +390,7 @@ Chiara no dijo nada. Del otro lado se oyó una direccional, el tic-tac seco, y d
 
 —El martes en la noche —dijo Lucía—. Lo sacan del estado. Por tierra, no por aire, eso es lo que dice la solicitud de apoyo que le llegó a la estatal para despejar la ruta del condado. No tengo hora. No tengo destino. No tengo quién lo firma.
 
-—¿Cuándo lo sabe?
+—¿Y la hora, cuándo la sabe? Sin la hora no tengo nada.
 
 —No sé si lo voy a saber. —Una pausa, de las que Lucía dejaba para ver qué las llenaba. Chiara no la llenó—. Esto no debería decírselo, señora Bellandi. Se lo digo porque es lo único que tengo, y prefiero que lo tenga usted a que no lo tenga nadie.
 

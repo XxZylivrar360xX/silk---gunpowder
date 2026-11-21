@@ -44,7 +44,7 @@ A las tres cuarenta y cuatro ya no estaban.
 
 —Por la escalera de servicio. —El guardia señaló otra ventana de la pared de monitores, una franja gris donde no pasaba nada—. Ésa no los agarra. Tiene un punto ciego desde el descanso hasta la puerta del lote de atrás.
 
-—¿Desde cuándo?
+—¿Y desde cuándo tenemos un punto ciego en la escalera de servicio?
 
 El guardia no supo contestar.
 
@@ -70,7 +70,7 @@ Kal contestó al segundo timbre, con la voz de alguien que todavía no estaba de
 
 —Tengo un problema —dijo ella, caminando por el pasillo de administración—. Y necesito que sea tuyo antes de que sea del casino.
 
-—Habla.
+—Habla. Ya estoy vestido.
 
 —Entraron a la caja de Matteo hace un cuarto de hora. Dos hombres. Con la combinación.
 
@@ -84,7 +84,7 @@ Del otro lado, un cajón. Unas llaves.
 
 —Viene. Entra por la carga.
 
-—Voy.
+—Voy. En veinte minutos estoy en la bahía.
 
 No preguntó qué papeles. Colgó él primero.
 
@@ -176,9 +176,7 @@ El cuarto olía a café recalentado. Charles puso el video sin sentarse. Chiara 
 
 Un auto oscuro, bajo, saliendo hacia la costera sur sin luces. Doce segundos en pantalla, a contraluz de la lámpara de sodio del lote. No se veían las placas.
 
-—¿Otra vez?
-
-Charles lo retrocedió. Esta vez Chiara miró la pantalla, para ver lo que él estaba mirando, y tardó en encontrarlo. No era el auto. Era la curva de la salida: el auto la tomaba abierta, sin frenar, sin un solo destello en las luces de freno, como alguien que conocía ese lote de noche. Ella había visto el video dos veces y había visto a dos hombres y una caja. Él lo había visto dos veces y había visto a alguien que ya había estado ahí.
+Kal señaló la pantalla con la barbilla, y Charles lo retrocedió. Esta vez Chiara miró la pantalla, para ver lo que él estaba mirando, y tardó en encontrarlo. No era el auto. Era la curva de la salida: el auto la tomaba abierta, sin frenar, sin un solo destello en las luces de freno, como alguien que conocía ese lote de noche. Ella había visto el video dos veces y había visto a dos hombres y una caja. Él lo había visto dos veces y había visto a alguien que ya había estado ahí.
 
 Kal no dijo nada.
 
@@ -196,9 +194,7 @@ Charles miró a Chiara. Ella no hizo nada, ni un gesto, y eso le bastó. Buscó 
 
 Mientras esperaban, Kal leyó la pared. Junto a la puerta, a un palmo del hombro de Chiara, había un pizarrón blanco con los turnos de la semana, nombres a marcador azul en tres columnas. Él bajó por la de la noche sin prisa y se detuvo en el único nombre tachado, una raya gruesa, de las que se hacen apretando. El mismo nombre estaba escrito otra vez en la columna del día.
 
-Chiara sabía cuál era sin mirarlo. Lo miró igual.
-
-—¿Ése?
+Chiara sabía cuál era sin mirarlo. Lo miró igual. Kal puso el dedo junto al nombre tachado, sin tocar la tinta.
 
 —Lo cambié de turno. —Charles no se dio vuelta—. Asunto aparte.
 
@@ -226,9 +222,7 @@ El muchacho levantó la vista hacia el candelabro del lobby y se le olvidó baja
 
 —Voss.
 
-Él se dio vuelta.
-
-—¿Subjefa?
+Él se dio vuelta, con la mano todavía en la visera de la gorra.
 
 —Al oficial Stanton también le gustaba mucho este lobby —dijo Lucía, sin levantar la voz—. Traiga la libreta del auto.
 
@@ -258,7 +252,7 @@ Lucía sacó una libreta del bolsillo interior de la chaqueta, una de verdad, de
 
 —Y una grúa. —Cerró la libreta—. Si su grúa levanta un auto que se parezca a ése, señor Mercer, me llama a mí. No a la señora Bellandi.
 
-—Entendido.
+—Entendido. A usted primero.
 
 Lucía lo sostuvo con la mirada un poco más de lo cómodo. Después se dio vuelta hacia Chiara y le pidió el despacho.
 
@@ -440,15 +434,13 @@ Kal la esperó en el pasillo de servicio, junto al elevador de carga, con la car
 
 —Ferreyra. —Chiara miró hacia el fondo del pasillo, donde no había nadie—. Uno de sus guardias. Argentino. Llevaba semanas apareciéndoseme en los pasillos más de lo que su turno explicaba, hasta que Charles lo hizo disculparse delante de mí. Lo pasó al día. Ahora me saluda de lejos.
 
-—¿Anoche?
+—¿Y anoche? Un guardia que se pasea de más se sabe los puntos ciegos mejor que el que los puso.
 
 —No estaba. Ya lo vi en la lista de turnos, antes de que Charles la imprimiera para la junta. Si alguien la cambia, tengo la mía.
 
 Kal asintió. Se cambió la carpeta de brazo.
 
-—¿Y Kenji?
-
-—Kenji no fue.
+—Kenji no fue —dijo ella—, por si te lo estabas preguntando.
 
 —Ya lo dijiste allá adentro.
 
@@ -456,11 +448,7 @@ Kal asintió. Se cambió la carpeta de brazo.
 
 Llegó el elevador de carga. Un muchacho de la lavandería salió empujando un carrito de toallas y los saludó a los dos con la cabeza. Kal le detuvo la puerta.
 
-—Tengo una copia del video —dijo, cuando el carrito dobló la esquina—. Del auto.
-
-—¿Qué ves?
-
-—Todavía nada. Danny va a ver más.
+—Tengo una copia del video —dijo, cuando el carrito dobló la esquina—. Del auto. Todavía no veo nada que no haya visto Charles, pero Danny se sabe los coches por cómo toman una curva. Va a ver más.
 
 Chiara no le preguntó cuándo. Se dio vuelta hacia su oficina, y él se metió en el elevador.
 

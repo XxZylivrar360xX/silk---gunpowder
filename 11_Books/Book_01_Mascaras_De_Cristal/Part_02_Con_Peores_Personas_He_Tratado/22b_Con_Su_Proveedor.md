@@ -23,11 +23,7 @@ Danny había visto el video once veces cuando Kal colgó con Chiara.
 
 Estaba sentado en el archivero de la oficina del taller, con la computadora de las facturas en las rodillas y la memoria de la feria de seguridad colgándole del costado como un llavero. Junto al teclado había medio sándwich de la mañana con una sola mordida.
 
-—Llamaron —dijo Kal—. Se llevaron algo que no es dinero, y lo quieren vender.
-
-—¿Qué cosa?
-
-—No sé.
+—Llamaron —dijo Kal—. Se llevaron algo que no es dinero, y lo quieren vender. No me preguntes qué: no pregunté.
 
 Nadir levantó la vista de la mesa, donde llevaba una hora peleándose con la factura de un proveedor de pintura. Hizo una cuenta con los dedos contra la madera, una sola, y siguió con la factura.
 
@@ -117,7 +113,7 @@ Kal no se movió del escritorio. Esa frase también era para él.
 
 Chiara lo sostuvo con la mirada. Danny abrió la boca para decir algo del café y la volvió a cerrar.
 
-—¿Cuánto, señor Amrani?
+—¿Cuánto, señor Amrani? Una cifra, por favor, no una queja.
 
 —Tres mil. Por cabeza y por noche. Si hay segunda noche, otra vez tres mil.
 
@@ -125,7 +121,7 @@ Lo dijo sin pensarlo, como si el número lo hubiera traído escrito desde el Can
 
 Kal se volvió hacia los dos.
 
-—¿Quieren entrar?
+—¿Quieren entrar? Aquí nadie está obligado.
 
 Nadir lo miró un momento. Después se le movieron otra vez las manos: dobló la factura de la pintura en cuatro, sin necesidad.
 
@@ -143,13 +139,9 @@ Nadir lo miró un momento. Después se le movieron otra vez las manos: dobló la
 
 A las tres en punto el teléfono de Chiara vibró encima del escritorio. Ella contestó con su apellido, escuchó dos segundos y le pasó el teléfono a Kal sin decir nada más que «Desde ahora habla con el señor».
 
-—¿Y usted quién es? —La misma voz joven de la mañana, ya sin trapo en la boca.
+—¿Y usted quién es? —La misma voz joven de la mañana, ya sin trapo en la boca—. ¿Policía?
 
-—El que va a ir.
-
-—¿Policía?
-
-—Si fuera policía, no estaría hablando con usted por teléfono. —Kal se sentó en la orilla del escritorio, de espaldas a la pantalla—. Trabajo para el casino. Y el casino no los quiere presos.
+—El que va a ir. Si fuera policía, no estaría hablando con usted por teléfono. —Kal se sentó en la orilla del escritorio, de espaldas a la pantalla—. Trabajo para el casino. Y el casino no los quiere presos.
 
 Del otro lado, nada. Un motor, lejos.
 
@@ -163,11 +155,7 @@ La voz se rio sin ganas.
 
 —¿Y la plata?
 
-—Allá hablamos de la plata.
-
-—¿Allá dónde?
-
-—El martes. A la una de la madrugada. La gasolinera cerrada del camino viejo, antes de la cuesta. Vengan en lo que vinieron. Yo llevo con qué irse.
+—De la plata hablamos allá. El martes. A la una de la madrugada. La gasolinera cerrada del camino viejo, antes de la cuesta. Vengan en lo que vinieron. Yo llevo con qué irse.
 
 Silencio otra vez. Kal oyó al otro tapar el teléfono y hablar con alguien.
 
@@ -179,11 +167,7 @@ Colgaron primero ellos. Kal le devolvió el teléfono a Chiara.
 
 Ella se puso los lentes y tomó el bolso. En la puerta se detuvo, con la mano en el marco.
 
-—Kal. El libro.
-
-Él estaba mirando otra vez el Civic congelado en la pantalla.
-
-—No lo abras —dijo ella.
+—Kal. —Él estaba mirando otra vez el Civic congelado en la pantalla—. El libro. Si llega a tus manos, no lo abras.
 
 Kal no le preguntó por qué. Asintió una vez, sin voltear, y Chiara salió al patio, donde el cliente de la máquina de refrescos ya se había ido.
 
@@ -195,7 +179,7 @@ Irene estaba en la misma silla plegable, con la misma libreta abierta en las pie
 
 —Señor Mercer. ¿Viene a pagar o a pedir?
 
-—A pagar.
+—A pagar. Con lo que tengo, que no es todo.
 
 Ella pasó hojas hacia atrás, sin prisa, hasta encontrar una. Puso el dedo debajo de una línea.
 
@@ -215,7 +199,7 @@ Irene levantó la vista por primera vez. Lo midió como medía un bulto antes de
 
 —Los Devil Splicers —repitió, y lo escribió, letra por letra, como quien da de alta a un proveedor nuevo—. ¿Desde cuándo lo sabe?
 
-—Desde ayer.
+—Desde ayer en la tarde.
 
 —Y viene hoy.
 
@@ -241,7 +225,7 @@ Danny le cambió la perilla de la palanca por una calavera de metal fundido que 
 
 —Así sí —dijo, y le dio una palmada al techo—. Así sí parece de ellos.
 
-—¿Vienes? —preguntó Nadir.
+—¿Vienes, o te quedas a cuidarle el teléfono a la señora? —preguntó Nadir.
 
 —Yo me quedo, jefe. —Danny se lo dijo a Kal, aunque no era Kal el que había preguntado—. Alguien tiene que estar aquí si llama la señora. Y mañana a las siete entra el Ford del licenciado, y si el elevador no está libre se pone como se pone, ya sabes cómo es, la otra vez me tuvo media hora hablándome de su cuñado…
 
@@ -354,9 +338,9 @@ Colgó ella. Nadir seguía mirando la cuesta.
 
 Kal lo dejó en la esquina de la vulcanizadora, a dos cuadras del taller. Nadir no se acercaba a una comisaría ni de pasajero, y nadie en la grúa lo dijo en voz alta.
 
-—El jueves —dijo Nadir, con la puerta abierta.
+—El jueves —dijo Nadir, con la puerta abierta—. Y en efectivo, khoya. La factura del casino la veo cuando a la señora se le antoje firmarla.
 
-—El jueves.
+Kal levantó dos dedos del volante.
 
 ***
 
@@ -408,11 +392,7 @@ Lucía siguió escribiendo un momento más. Después levantó la vista y se la s
 
 Kal no contestó. En la caseta, el radio pidió una segunda unidad para la curva del Mirador.
 
-—El reporte del casino dice ochenta y dos mil cuatrocientos dólares. —Lucía pasó la hoja—. Si en esa mochila hay ochenta y dos mil cuatrocientos, voy a tener un problema con el que no contaba.
-
-—¿Cuál?
-
-—Que nunca he visto regresar entero un dinero robado. Siempre falta algo. Una cena, unas llantas, una deuda vieja que alguien corrió a pagar esa misma noche.
+—El reporte del casino dice ochenta y dos mil cuatrocientos dólares. —Lucía pasó la hoja—. Si en esa mochila hay ochenta y dos mil cuatrocientos, voy a tener un problema con el que no contaba. —Lo dejó un momento ahí, a ver si él preguntaba cuál, y él no preguntó—. Nunca he visto regresar entero un dinero robado. Siempre falta algo. Una cena, unas llantas, una deuda vieja que alguien corrió a pagar esa misma noche.
 
 —Va a haber que contarlo.
 
@@ -454,9 +434,9 @@ A ella se le escapó algo que no llegó a ser risa.
 
 —Cobra el jueves. Tres mil, como quedamos. Danny también.
 
-—Danny no fue.
+—Danny no fue al camino viejo.
 
-—Danny vio el video.
+—Danny vio el video once veces. Sin él no sabíamos ni de qué cuesta bajaban.
 
 Chiara se acomodó las dos bolsas contra el pecho. Arriba, en el Paseo, pasaba el camión de la basura, y el ruido llegaba a la bahía rebotando en las paredes de concreto.
 
@@ -464,15 +444,11 @@ Chiara se acomodó las dos bolsas contra el pecho. Arriba, en el Paseo, pasaba e
 
 —¿Qué te preguntó?
 
-—La hora.
+—La hora. Y escribió la de mi llamada debajo de mi nombre, la una cincuenta y dos, donde yo la viera.
 
 Chiara asintió despacio, como quien guarda una cifra para sumarla después.
 
-—Tommaso retiró lo de Kenji —dijo—. Ayer, a las cuatro. Se paró en mi puerta, lo dijo y se fue.
-
-—¿Así nada más?
-
-—Tommaso no retira nada, Kal. Cambia una cosa por otra. —Miró hacia el elevador, que seguía abierto, esperándola—. Y cuando la cambia, ya trae la otra en el bolsillo.
+—Tommaso retiró lo de Kenji —dijo—. Ayer, a las cuatro. Se paró en mi puerta, lo dijo y se fue, así nada más. —Se acomodó las bolsas contra el pecho—. Y Tommaso no retira nada, Kal. Cambia una cosa por otra. —Miró hacia el elevador, que seguía abierto, esperándola—. Y cuando la cambia, ya trae la otra en el bolsillo.
 
 —¿Qué trae?
 
@@ -492,7 +468,7 @@ Era una nota de media columna, en la página de la ciudad. El robo del Monarch, 
 
 —Roy Boone —leyó Danny, y se pasó el dorso de la mano por la nariz—. El de allá arriba. El que manda. Dice que narcóticos fue por él a las seis y encontró la puerta abierta. El clóset vacío. Ni la camioneta.
 
-—Se fue.
+—Se fue. Con tiempo, si se llevó la camioneta.
 
 —Eso dice. —Danny leyó el párrafo otra vez, moviendo los labios, y Kal lo vio leerlo una tercera vez antes de doblar el periódico—. En O.R.T. nadie se va así, jefe. Allá la gente se va cuando ya no tiene a quién venderle.
 

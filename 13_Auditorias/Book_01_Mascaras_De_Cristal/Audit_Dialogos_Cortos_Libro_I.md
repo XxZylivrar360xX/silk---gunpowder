@@ -14,7 +14,7 @@
 
 1. **La voz de Kal se volvió la voz del libro.** La regla 05 ya lo advertía: casi todo suena a Kal. Nadir y Héctor salen más secos que él, aunque sus fichas dicen otra cosa (Nadir «calcula en voz alta y cobra»; Héctor da partes). La sequedad debería distinguir a Kal y hoy no distingue a nadie.
 2. **La respuesta corta de Kal fabrica interrogatorios.** Si Kal da poco, el otro tiene que preguntar, y la escena se vuelve pregunta–respuesta (los 225 pares). Chiara queda de interrogadora, cuando su ficha la quiere dando partes y versiones. Ejemplo, cap. 36: «—¿Cuatro horas? / —Más o menos. / —¿Y la mejilla? / —Una cerca.»
-3. **Kal no cuenta lo que vive.** La ficha manda que otros cuenten por él («lo cuenta Héctor, no él»). En el 36, Héctor narra la búsqueda de Stella, el regalo de Kal, y Kal se queda con «Feliz cumpleaños», «Héctor» y «Más o menos». Así, en escenas que son suyas, Kal se vuelve pasivo.
+3. **Kal no cuenta lo que vive.** La ficha manda que otros cuenten por él («lo cuenta Héctor, no él»). En el 36 que Héctor narre la búsqueda de Stella es CANON DEL AUTOR (2026-11-08) y se queda; el problema es lo que le toca a Kal después, en el coche: «Más o menos». En otras escenas que son suyas, Kal se vuelve pasivo de la misma manera.
 4. **Los recursos secos se volvieron tics.** El nombre como bisagra sale 27 veces («Kal.» / «Chiara.»), el «Sí» o el «No» solos 74, y «Lo sé» y «Ya sé» 20. Cada uno funciona como golpe, pero repetido deja de ser golpe.
 5. **Lo que sí funciona**, y se conserva:
    - la réplica corta con dato concreto («Una cerca.», «Era fiscal»);

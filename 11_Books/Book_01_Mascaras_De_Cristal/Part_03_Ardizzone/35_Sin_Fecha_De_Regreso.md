@@ -80,7 +80,7 @@ Chiara sonrió sin que él pudiera verla.
 
 Detrás de su voz había un compresor y algo que sonaba a llanta rodando contra concreto. Chiara cerró los ojos un segundo e imaginó el patio entero a esa hora: la grúa a medio subir, Nadir con las manos manchadas hasta la muñeca, Kal con el teléfono sostenido entre la oreja y el hombro para no soltar lo que tuviera en las manos.
 
-—¿Qué haces? —preguntó él, y algo en su tono cambió, se acomodó un grado.
+—¿Qué haces? —preguntó él, y algo en su tono cambió, se acomodó un grado—. Tú no llamas a esta hora.
 
 Chiara miró la taza fría.
 
@@ -88,25 +88,23 @@ Chiara miró la taza fría.
 
 Del otro lado, el compresor se detuvo. O Kal se movió lejos de él. No hubo pausa dramática, sólo el tipo de silencio que dejaba alguien acomodando una noticia en el lugar donde le tocaba ir.
 
-—¿Cuándo?
-
 —Anoche. Encontré esto esta mañana. —Levantó la nota, aunque él no pudiera verla tampoco—. Es su hermano, Elio. Dejó de contestarle y faltó a dos compromisos que nunca falta. Matteo tuvo que ir a Génova a buscarlo. No dice cuándo vuelve.
 
 Kal no dijo nada durante un segundo largo. Chiara conocía ese silencio: era el mismo que usaba con los proveedores nerviosos, el que dejaba que el otro llenara con más de lo que había planeado decir. Con ella no funcionaba, y él lo sabía, y aun así a veces lo hacía por costumbre.
 
 Esta vez ella tampoco lo llenó.
 
-—Voy para allá —dijo por fin.
+—Voy para allá —dijo por fin—. Nadir puede cerrar solo; para eso le pago.
 
 —No hace falta.
 
 Se oyó algo golpear metal —una herramienta dejada donde no iba, tal vez— y después la voz de Kal otra vez, más cerca del teléfono.
 
-—Dame media hora.
+—Dame media hora. Me cambio la camisa y salgo.
 
 Chiara iba a decir que estaba bien, que no había prisa, que Matteo llevaba media vida resolviendo cosas para que otros no tuvieran que hacerlo y que a ella no le costaba trabajo cubrir un par de días. No dijo nada de eso.
 
-—Te veo ahora —dijo Kal.
+—Te veo ahora —dijo Kal—. No te muevas de ahí.
 
 Se quedó callada más tiempo del que hacía falta. No porque no supiera qué decir —sabía exactamente qué decir, y eso era lo raro— sino porque quería quedarse un segundo más dentro de la frase antes de que el resto del día volviera a entrar.
 
@@ -126,7 +124,7 @@ Kal no llevaba el overol del taller —se había cambiado de camisa, al menos, a
 
 —Qué abrupto —dijo, ya adentro, sin preámbulo.
 
-—Su hermano desapareció.
+—Su hermano desapareció, Kal. A eso yo no le diría abrupto.
 
 —No digo que no tenga una razón.
 
@@ -136,11 +134,7 @@ Se acercó al escritorio y levantó la nota sin pedir permiso, la leyó en el ti
 
 Chiara cerró la agenda.
 
-—No.
-
-Kal esperó.
-
-—No suele dejar cosas a medias —dijo ella—. Es de los que confirman la reserva dos veces y llegan quince minutos antes a todo.
+—No —dijo ella—. No suele dejar cosas a medias. Es de los que confirman la reserva dos veces y llegan quince minutos antes a todo.
 
 —Entonces esto no es de él.
 
@@ -164,9 +158,9 @@ El teléfono del despacho sonó antes de que pudiera volver a sentarse en el bor
 
 Kal la observaba desde el otro lado del escritorio, con las manos metidas en los bolsillos, sin acercarse a ninguna de las carpetas que ella había apilado.
 
-—¿Qué necesitas? —preguntó.
+—¿Qué necesitas? —preguntó—. Tengo la grúa libre hasta las cuatro, y a Nadir, aunque él diga que no.
 
-—Nada todavía.
+—Nada todavía. Pregúntame mañana, que hoy no sé ni qué me falta.
 
 Miró las carpetas. Después la miró a ella.
 
@@ -182,7 +176,7 @@ Antes de que pudiera colgar del todo, alguien de recepción llamó desde el otro
 
 —Dario ya sabe —dijo, cuando por fin colgó, sin que Kal preguntara—. Le mandaron copia de todo esta mañana. No ha dicho nada.
 
-—¿Eso es normal?
+—¿Eso es normal? En la Almendra, si a Nadir le falta un muchacho un día, a mediodía ya lo sabe toda la calle.
 
 —Es Dario. —Cerró la agenda—. Mientras la mesa siga sirviendo café a la hora que debe, a Dario no le importa quién la ponga.
 
@@ -190,7 +184,7 @@ Kal se acercó por fin, no al escritorio, sino a ella, y le puso la mano en la n
 
 —Tengo que volver —dijo él—. Le prometí a Nadir que no lo iba a dejar solo con el inventario toda la tarde.
 
-—Ve.
+—Ve. Aquí no hay nada que no se arregle por teléfono.
 
 —¿Estarás bien?
 
@@ -274,7 +268,7 @@ Chiara no se volteó hacia el mueble de nogal. No le hizo falta.
 
 —Mientras el signor Bellacorte atiende a su familia.
 
-—Y si tarda.
+—Y si tarda. Los asuntos de familia no traen fecha.
 
 —Entonces lo guarda usted más tiempo. —No había impaciencia en la frase, ni otra cosa—. No es una carga nueva, signora. Es la misma casa, con menos gente adentro.
 

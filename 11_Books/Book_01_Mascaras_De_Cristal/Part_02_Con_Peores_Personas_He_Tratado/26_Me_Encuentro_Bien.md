@@ -183,11 +183,7 @@ Era verificable. Era el tipo de explicación que no se da si es falsa, porque se
 
 —Kal salió de la ciudad esta madrugada —dijo—. Por la de Kingsley.
 
-—El señor Mercer.
-
-—Sí.
-
-—Y usted pensó que lo tengo yo.
+—El señor Mercer. —Le corrigió el nombre de pila como había repetido la hora, para dejarlo en su sitio—. Y usted pensó que lo tengo yo.
 
 No lo preguntó. Lo dejó sobre el escritorio, junto a las tazas, y esperó a que ella lo negara. Chiara no lo negó.
 

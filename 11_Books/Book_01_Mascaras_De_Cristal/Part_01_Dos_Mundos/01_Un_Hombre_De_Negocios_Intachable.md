@@ -19,7 +19,7 @@ No la vio venir. Había buscado el tensor de la banda, se había agachado, se le
 
 —Cárcel del condado —dijo Marisol, y ya lo estaba abriendo.
 
-—Dámela.
+—Dámela. Viene a mi nombre.
 
 —Tienes grasa hasta los codos.
 
@@ -77,7 +77,7 @@ Cuando volvió a hablar, había bajado la voz.
 
 —¿Saliendo de la cárcel? Déjalo comer primero, Kal. Que se bañe.
 
-—Saliendo.
+—Saliendo. Diez años comió a la hora que le dijeron; una mañana más no lo mata.
 
 Marisol lo miró un momento y volvió al papel.
 
@@ -93,7 +93,7 @@ Kal le dio media vuelta a la tuerca.
 
 —No te pregunté eso. Cuatro años aquí, a cuarenta minutos de carretera. ¿Qué, te da miedo verlo viejo?
 
-—Algo así.
+—Algo así. Dicen que allá adentro se envejece de golpe.
 
 No era eso. La dejó creerlo: salía más barato que lo otro.
 
@@ -371,9 +371,7 @@ Kal soltó una risa breve, que le dolió en las costillas.
 
 Los chicos.
 
-—Vale. Hasta entonces.
-
-—Hasta entonces.
+—Hasta entonces. Paso primero con Mabel.
 
 Dejó el teléfono en el soporte y esperó a que cambiara el semáforo.
 
@@ -409,7 +407,7 @@ Detrás del taller, bajo el techito de lámina, Danny dormía en un sillón de t
 
 —¿Y ya?
 
-—Y ya.
+—Y ya. Lo de anoche ya se lo cobró la carretera.
 
 A Nadir se le movió la mandíbula, buscando un número que decir, y no lo encontró.
 
@@ -555,13 +553,13 @@ Sacó el Peugeot para probar el pedal, con la canción baja, y en la primera cua
 
 —Mateo, entonces. Y vas con el traje, yak, el de los negocios, y van a pensar que llegaste a venderles autopartes. ¿Quieres que vaya?
 
-—No.
+—No. Matteo me invitó a mí, no a la Almendra entera.
 
 —No pregunté si necesitabas.
 
 Kal frenó frente a un porche que había reparado más veces que el dueño. El pedal contestó donde debía.
 
-—Lo sé.
+—Lo sé. Por eso te dije que no.
 
 Apagó el motor, y la canción se cortó a medio verso.
 
@@ -577,7 +575,7 @@ Traía una camisa que acababa de planchar, con el cuello tieso de un lado y una 
 
 —¿Tú? ¿A un casino? ¿Tú, que no le compras un boleto de rifa ni a la iglesia?
 
-—Negocios.
+—Negocios. Voy a cenar, no a jugar.
 
 —Ayer en sábado, hoy en domingo. Vas a batir un récord. —Señaló con el tenedor hacia el pasillo—. Camina.
 

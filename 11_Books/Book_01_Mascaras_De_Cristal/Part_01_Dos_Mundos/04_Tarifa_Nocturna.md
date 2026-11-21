@@ -58,7 +58,7 @@ Fabrizio se quitó las gafas.
 
 —Diez por ciento limpio.
 
-—Exactamente.
+—Exactamente. Limpio, con recibo y con el nombre de un patrocinador encima.
 
 Tommaso miró la carpeta.
 
@@ -140,7 +140,7 @@ Tommaso recuperó la pluma y acercó la otra carpeta, la lista de la apertura, c
 
 —Dice que conoce a Dario —dijo Matteo—. Lo dijo dos veces en la cata, y a la segunda ya se lo creía hasta él.
 
-—¿Y lo conoce? —preguntó Chiara.
+—¿Y lo conoce, o sólo lo repite? —preguntó Chiara.
 
 —Todos los que piden tres mesas conocen a Dario.
 
@@ -152,7 +152,7 @@ Fabrizio se inclinó hacia ella cuando Tommaso empezó a leer la proyección.
 
 —Sal de aquí una hora. Come algo, camina hasta el muelle y vuelve. Si te quedas, vas a contestarle cada número, y él va a seguir dándote números hasta la noche.
 
-—Estoy trabajando.
+—Estoy trabajando. Para eso me trajeron, ¿no?
 
 —Por eso. —Fabrizio no sonreía—. No le regales el resto del día.
 
@@ -268,15 +268,13 @@ No le ofreció la mano. Le mostró el nombre en la placa con el pulgar, encima d
 
 —Chiara.
 
-—¿Sólo Chiara?
+—¿Sólo Chiara? Así se presentan las que no piensan volver.
 
 —Por ahora.
 
 Blake apoyó el codo en el respaldo de la silla de enfrente sin sentarse.
 
-—¿Italia?
-
-—Sí.
+—Italia. No me digas nada: Italia. Se te oye en las erres.
 
 —Estuve en Roma una vez.
 
@@ -292,7 +290,7 @@ Detrás de la caja, Mabel dejó de mover las manos.
 
 La sonrisa se le quedó quieta. Miró el vidrio, y la acera del otro lado.
 
-—¿Nos estabas viendo?
+—¿Nos estabas viendo desde aquí?
 
 —Me cerraron la calle.
 
@@ -312,7 +310,7 @@ Blake levantó la vista. Por primera vez la miró a ella y no al efecto que esta
 
 —Ése sí —dijo él—. Ésos dos eran patrulla juntos cuando yo iba a la primaria. —Se encogió de hombros—. Los de adelante saludaban para la alcaldía. Los de en medio, para la tele. Los que se fueron antes de que acabara, para que nadie los viera irse.
 
-—¿Y tú?
+—¿Y tú, para quién saludabas?
 
 —Yo para la tele. Ya te dije que practiqué.
 
@@ -364,11 +362,11 @@ Blake no era eso, pero podía servir de imitación barata.
 
 La sonrisa de Blake se abrió demasiado rápido.
 
-—Diez.
+—A las diez. Antes de las diez nadie llega.
 
 —Mándame la dirección.
 
-—Necesitaría tu número.
+—Para eso necesitaría tu número.
 
 Chiara lo miró en silencio.
 
@@ -396,7 +394,7 @@ Se lo ofreció en la puerta una mujer de unos cincuenta, de suéter, con una caj
 
 —¿Lo conocías, mija?
 
-—No.
+—No. Vine a ver quién sí.
 
 La mujer le prendió el listón en la solapa de todos modos.
 
@@ -410,7 +408,7 @@ Antes de llegar a la mesa, Blake se inclinó hacia ella.
 
 —El de la camisa azul te va a preguntar si conoces a alguien de la mafia. No lo dice en serio; lo dice porque no sabe hablar con nadie que no haya crecido a diez cuadras de aquí. El de atrás va a jurar que estuvo en Sicilia. Estuvo en Cancún.
 
-—¿Y tú?
+—¿Y qué vas a jurar tú?
 
 —Yo ya gasté mi frase de Roma. Me quedé sin material.
 
@@ -418,7 +416,7 @@ Acertó en las dos predicciones antes de que terminaran de sentarse.
 
 Después llegaron sus amigos y dejó de ser bueno en eso.
 
-—La italiana —dijo uno.
+—Así que ésta es la italiana —dijo uno.
 
 Blake lo corrigió tarde.
 
@@ -478,7 +476,7 @@ Matteo.
 
 No contestó en la mesa. Caminó hacia el pasillo de los baños, donde el bar se volvía un murmullo detrás de la pared.
 
-—Dime.
+—Dime, Matteo. Estoy en un velorio.
 
 —Tenemos un problema.
 
@@ -490,11 +488,7 @@ Chiara cerró los ojos un segundo.
 
 —¿Su coche?
 
-—Bloqueando carga. Lo dejó atravesado frente a la rampa, con las llaves puestas, y el camión de la lavandería lleva veinte minutos esperando en la calle.
-
-—¿Valet lo recibió?
-
-—Sí.
+—Bloqueando carga. Lo dejó atravesado frente a la rampa, con las llaves puestas, y el camión de la lavandería lleva veinte minutos esperando en la calle. El valet se lo recibió, si es lo que vas a preguntar.
 
 —Entonces el coche sí aparece. Sólo está donde no debe.
 
@@ -534,7 +528,7 @@ Blake apareció en el pasillo con dos vasos.
 
 —Estaba atendiendo una llamada.
 
-—Peor.
+—Peor. A esta hora, las llamadas son del trabajo o de otro.
 
 Le ofreció un vaso. Ella no lo tomó.
 
@@ -574,7 +568,7 @@ Seguía de negro. Habían vuelto hacia las nueve y media y llevaba dos horas ent
 
 —No.
 
-—Tres y medio.
+—Tres y medio. Y la mano de obra la pongo yo.
 
 —Eso es el cable de la dos. Se me zafó una cadena con treinta mil dólares colgando. Esa cadena no la arregla una mano de pintura.
 
@@ -596,7 +590,7 @@ Kal dejó la pluma y giró el hombro derecho, despacio. Seguía tronando donde s
 
 —Ponte hielo —dijo Nadir.
 
-—Luego.
+—Luego. Primero la hoja.
 
 —Eso dijiste en la descarga. —Metió el plato al microondas sin mirarlo—. Y allá también decías luego, todas las noches, hasta la noche en que te lo tuve que acomodar yo, contra una litera, con un trapo en la boca para que no gritaras.
 
@@ -604,7 +598,7 @@ Kal dejó la pluma y giró el hombro derecho, despacio. Seguía tronando donde s
 
 —Porque tenías el trapo. —Apretó el botón—. Ese trapo me costó dos cigarros.
 
-—Tú no fumas.
+—Tú no fumas. Nunca te vi uno en la boca, ni en el patio.
 
 —Por eso. Eran para vender. —Metió el dinero en la caja y la cerró con el talón de la mano—. Con los intereses de dos cigarros, khoya, ya me debes la máquina.
 
@@ -612,7 +606,7 @@ Kal se sentó. Fue lo más parecido a darle la razón.
 
 El microondas pitó. Nadir le puso el plato enfrente, le acomodó la cuchara del lado derecho, lo pensó y la cambió al izquierdo. Después se apoyó en el marco de la puerta y lo dejó comer tres cucharadas.
 
-—¿Dónde está Danny?
+—¿Dónde está Danny? No lo oigo.
 
 —Se bañó y se fue con Russ. Dijo que a dormir.
 
@@ -632,13 +626,13 @@ Danny saltó de la cabina sin apagar el motor.
 
 —Son las once y media.
 
-—Por eso. Despierto.
+—Por eso. A esta hora tú ya colgaste las llaves.
 
 Del lado del copiloto bajó Russ: primero el bastón, después la pierna mala, después el resto, sin prisa y sin pedirle la mano a nadie. Traía guantes de trabajo, un bigote tan tupido que le tapaba el labio de arriba y la cara de un hombre que ya había tenido esa discusión en el camino y la había perdido.
 
 —Mercer.
 
-—Russ.
+—Russ. ¿Tú también venías de dormir?
 
 Nadir, que había salido detrás de él, rodeó la plataforma una vez, despacio, como si alguien le fuera a pedir precio.
 
@@ -664,11 +658,7 @@ Russ señaló a Danny con el bastón, sin mirarlo.
 
 —¿De dónde lo sacaron?
 
-—De una gasolinera cerrada en la 101, al norte, fuera de cualquier barrio. —Russ se acomodó el peso sobre el bastón—. La cámara no sirve desde marzo; lo sé porque fui a ver, tres semanas seguidas. Lo vacían los martes a las nueve. Faltan nueve horas.
-
-—¿Había alguien?
-
-—Nadie. La gasolinera cerró en verano. El cajero es del banco, y el banco lo sigue llenando como si alguien fuera a cargar gasolina.
+—De una gasolinera cerrada en la 101, al norte, fuera de cualquier barrio. —Russ se acomodó el peso sobre el bastón—. La cámara no sirve desde marzo; lo sé porque fui a ver, tres semanas seguidas. Lo vacían los martes a las nueve. Faltan nueve horas. Y no había nadie: la gasolinera cerró en verano. El cajero es del banco, y el banco lo sigue llenando como si alguien fuera a cargar gasolina.
 
 —Ni un vidrio, jefe —dijo Danny—. No me dejó romper ni un vidrio. Tres semanas yendo a ver una máquina, como si fuera a cambiar de lugar. Yo lo hubiera hecho la primera.
 
@@ -678,7 +668,7 @@ Russ señaló a Danny con el bastón, sin mirarlo.
 
 —No te soporto.
 
-—Es su forma.
+—Es su forma de decir que sí, jefe.
 
 Kal miró el pedazo de acera.
 
@@ -702,15 +692,15 @@ Kal se quedó mirando la cara del cartón más tiempo del que merecía.
 
 —Si alguien ve esa grúa con un cartón en la puerta, no me buscan a mí. Los buscan a ustedes dos. —Le dio una mordida a la tortilla—. Al corralón. Al fondo, bajo lona. Nadie lo abre hasta que yo diga.
 
-—¿Y cuándo dices? —preguntó Danny.
+—¿Y cuándo es eso, jefe? —preguntó Danny.
 
 —Cuando la grúa dos traiga su logo y no una cara.
 
-—Te dije —murmuró Russ.
+—Te dije que la cara sobraba —murmuró Russ.
 
 —Tú querías que le pusiera bigote. No lo dijiste, Russ, pero te vi la cara cuando le estaba haciendo los ojos. Te vi pensarlo.
 
-—Nunca dije eso.
+—Nunca dije eso. Dije que estaba mal hecha.
 
 Russ cerró los ojos un segundo, como quien cuenta hasta un número muy alto. Danny ya no lo estaba viendo. Miraba el cajero, con su pedazo de acera, como si le faltara algo.
 
@@ -756,13 +746,9 @@ Kal abrió la puerta de la cabina, por tener algo que hacer con la mano, y sacó
 
 —Estacionamiento de empleados del Monarch. Bloqueando carga. Cliente vetado. Amenazó a una mesera y está intentando hacer ruido.
 
-—¿Policía?
+—¿Hay policía? ¿Y seguridad del hotel?
 
-—No.
-
-—¿Seguridad?
-
-—Presente e inútil.
+—Policía, no. Seguridad, presente e inútil.
 
 Apoyó la tabla en la puerta de la azul y escribió *Monarch* con la pluma atada al clip.
 
@@ -792,7 +778,7 @@ Se la leyó despacio, letras y números, en el inglés más plano que debía de 
 
 —¿Cuánto cobra?
 
-—Luego vemos.
+—Luego vemos. Primero el coche.
 
 —Luego no.
 
@@ -808,7 +794,7 @@ En la pantalla quedó un número sin nombre, un minuto con doce segundos. Lo gua
 
 Cuando volvió a salir de la oficina traía en la mano las llaves de la azul, y Danny se calló a media palabra, que no le pasaba seguido.
 
-—¿Y eso?
+—¿Y eso? ¿Las llaves de la azul, a esta hora?
 
 —Tengo un arrastre.
 
@@ -830,7 +816,7 @@ Se lo puso encima de lo negro. El cierre le costó dos intentos.
 
 —Mercedes.
 
-—¿Eso es sí?
+—¿Eso es un sí, khoya?
 
 —Eso es Mercedes. —Kal señaló la plataforma con las llaves—. Y dejen lugar al frente del corralón. Ése va con factura.
 
@@ -902,7 +888,7 @@ El taxi la dejó en la rampa de servicio catorce minutos después de la llamada.
 
 Matteo la esperaba en el marco de la puerta de carga, con la corbata floja y el teléfono todavía en la mano. La luz blanca de la puerta le marcaba las ojeras. No había salido. Varga tenía un teléfono levantado y Matteo no pensaba regalarle su cara.
 
-—¿Viene?
+—¿Viene él, o manda a alguien?
 
 —Dijo veinte minutos.
 
@@ -931,8 +917,6 @@ Fue con el guardia más viejo.
 —¿Responsable de carga?
 
 El hombre señaló hacia una puerta.
-
-—Adentro.
 
 —Que salga.
 
@@ -1002,7 +986,7 @@ La frase no sonó fuerte. El guardia más joven miró al suelo.
 
 Matteo salió al fin, con la cara de quien venía a arreglar una escena que ya estaba siendo arreglada por alguien que no debería estar ahí. Chiara salió detrás de él.
 
-—Señor Mercer —dijo Matteo.
+—Señor Mercer —dijo Matteo—. Llegó rápido.
 
 —Necesito autorización del inmueble para retirar vehículo obstruyendo carga.
 

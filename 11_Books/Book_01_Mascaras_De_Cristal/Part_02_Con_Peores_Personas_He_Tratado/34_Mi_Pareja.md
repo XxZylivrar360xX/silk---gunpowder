@@ -40,7 +40,7 @@ La destilería olía a maíz cocido y a madera nueva y, a esa hora de la tarde, 
 
 Walt se acercó una etiqueta a los ojos, la alejó, la volvió a acercar.
 
-—Dos —concedió.
+—Dos —concedió—. Y yo que pensé que era estilo.
 
 —Y el año está mal. El Monarch no sirve whisky de un año que todavía no pasa.
 
@@ -52,7 +52,7 @@ Walt no discutió. Walt nunca discutía una cuenta bien hecha. Levantó la vista
 
 —Llegó tu chofer.
 
-—Llegó temprano —dijo Chiara sin voltear.
+—Llegó temprano —dijo Chiara sin voltear—. Que espere; esto no se va a corregir solo.
 
 —La viuda volvió a llamar —siguió Walt, a nadie en particular, mientras apilaba las etiquetas malas—. Quiere la barrica entera con el nombre del difunto. Y quiere que se la lleve yo. A cenar.
 
@@ -72,7 +72,7 @@ Walt asintió hacia Kal, una sola vez, con la misma cara con que perdía y ganab
 
 —Mercer.
 
-—Walt.
+—Walt. La viuda tiene buen gusto, por lo menos.
 
 ***
 
@@ -512,11 +512,11 @@ Dejó de contar. No servía de nada saber por dónde había salido.
 
 Pagó con dos billetes de cien y no esperó el cambio. El hombre se lo quiso poner en la mano y Kal negó con la cabeza.
 
-—Por el recado.
+—Quédeselo. Por el recado.
 
 —Yo sólo se lo paso, Mercer. Yo no…
 
-—Ya sé.
+—Ya sé que no. En esta calle nadie le dice que no al Tasador.
 
 Salió con la caja bajo el brazo. Del otro lado de la calle, frente a la lavandería de monedas, había un auto gris estacionado con el motor prendido. Kal lo conocía. Tenía los vidrios de atrás polarizados, pero no tanto como para no ver el bulto que llenaba el asiento y la mano gorda levantada a la altura de la oreja. Crowe hablaba por teléfono. Hablaba poco y no miraba hacia la ferretería: miraba hacia arriba, hacia nada, como quien está escuchando a alguien que manda más que él.
 

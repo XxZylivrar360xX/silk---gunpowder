@@ -112,7 +112,7 @@ Chiara no dijo nada. Pensó en lo poco que avisa un corazón antes de fallar del
 
 —Los llamé. A los dos. Nada.
 
-—Raro.
+—Nadir no deja sonar un teléfono dos veces. Ni dormido.
 
 Walt no dijo más que eso, pero se quedó mirando el teléfono un rato largo, y Chiara vio que el silencio de Nadir le pesaba de otra manera que el de Kal. No le preguntó por qué.
 
@@ -144,7 +144,7 @@ El de la vulcanizadora salió de su taller limpiándose las manos en un trapo an
 
 Chiara se quedó con la llave en la palma. Era la primera que alguien le daba en ese barrio.
 
-—Gracias.
+—Gracias. Se la regreso en cuanto Héctor pueda abrir solo.
 
 —No es nada. —Ya se iba—. Usted lo levantó del suelo.
 
@@ -288,7 +288,7 @@ Chiara no preguntó nada. Algo se le movió en la boca, y lo contuvo.
 
 —Lo dijiste como quien memoriza a un testigo.
 
-—Es un nombre.
+—Es un nombre. Lo apunté por si un día hay que ir a remolcarlo.
 
 —También me preguntó por la casa —dijo él, después de un rato—. La de mis papás. Quiere ir a verla.
 
@@ -298,11 +298,7 @@ Kal asintió.
 
 Chiara no apartó los ojos del camino. Lo había contado sin que ella se lo preguntara, y en Kal eso era casi abrir una puerta.
 
-—Y aprendí una palabra que no puedo pronunciar. —Hizo una mueca—. Ella se rio como quince minutos seguidos.
-
-—¿Qué palabra?
-
-—Balayage.
+—Y aprendí una palabra que no puedo pronunciar. —Hizo una mueca—. *Balayage*. Ella se rio como quince minutos seguidos.
 
 La sonrisa que Chiara traía guardada desde lo de Diego ya no encontró dónde esconderse.
 

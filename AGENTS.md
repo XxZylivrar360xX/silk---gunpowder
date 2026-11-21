@@ -109,4 +109,4 @@ Es una sugerencia breve al final, no un bloqueo: si el usuario quiere seguir, se
 - El territorio y el relato deben avanzar juntos.
 - La violencia tiene que cambiar una relación o una estructura; si no, sobra.
 - La ciudad se escribe como un lugar concreto, nunca como decorado genérico.
-- **Diálogo ping-pong prohibido (DECISIÓN DEL AUTOR, 2026-11-21):** las interacciones son conversaciones. Umbral en `12_Craft_Policies/dialogue_rules/05-esticomitia-de-una-sola-voz.md`; detector `tools/editorial/pingpong_audit.py`.
+- **Diálogo ping-pong prohibido (DECISIÓN DEL AUTOR, 2026-11-21):** las interacciones son conversaciones. Umbral en `12_Craft_Policies/dialogue_rules/05-esticomitia-de-una-sola-voz.md`; detector `tools/editorial/pingpong_audit.py`. Complemento: regla 06 «Réplica mínima» (`12_Craft_Policies/dialogue_rules/06-replica-minima.md`), con la ficha de Kal replanteada («corto sobre sí mismo, largo sobre el mundo»).

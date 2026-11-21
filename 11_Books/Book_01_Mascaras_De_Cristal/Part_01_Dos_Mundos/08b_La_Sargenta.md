@@ -396,7 +396,7 @@ Kal le buscó la cara antes que nada: la frente, la sien del lado de la ventanil
 
 —No me pegué —dijo ella.
 
-—No pregunté.
+—No pregunté. Revisaba el cinturón: después de un frenón así se traban y no sueltan.
 
 —Lo estabas preguntando con toda la cara.
 
@@ -406,7 +406,7 @@ Se quedaron un rato sin decir nada, mirando la oscuridad entre las filas de lám
 
 —Esto fue una pésima idea —dijo Chiara.
 
-—Sí.
+—Sí. —Kal palmeó el tablero, que seguía tibio—. Y la luz trasera no me la cubre nadie.
 
 El motor siguió tictaqueando.
 

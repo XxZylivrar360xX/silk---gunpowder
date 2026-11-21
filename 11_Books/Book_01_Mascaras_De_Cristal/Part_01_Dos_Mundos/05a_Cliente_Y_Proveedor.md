@@ -89,7 +89,7 @@ Chiara no le devolvió el saludo. Se le quedó atorado entre el café y lo que d
 
 —¿Algo más, señora Bellandi?
 
-—Varga no volvió.
+—Varga no volvió. Seguridad estuvo pendiente toda la noche, por si acaso.
 
 —Al casino no. Al corralón sí. Hoy a las diez, por el Mercedes.
 
@@ -101,7 +101,7 @@ Ella no había pensado en el coche. Seguía siendo de Varga, en un patio de Kal,
 
 —Y usted va a estar ahí. Con él del otro lado de una ventanilla, a las diez de la mañana, después de lo de anoche.
 
-—Es un corralón.
+—Es un corralón. Hay una ventanilla, un vidrio y Nadir cobrando del otro lado.
 
 Lo dijo como si eso lo explicara todo, y para él a lo mejor lo explicaba.
 
@@ -249,7 +249,7 @@ El despacho estaba en penumbra, sólo con la lámpara del aparador encendida. Ab
 
 —Esto lo niveló alguien a mano.
 
-—¿Es un cumplido?
+—¿Eso es un cumplido, o un presupuesto?
 
 —Es lo mejor que tiene el edificio. Lo único que no intenta parecer otra cosa.
 
@@ -273,7 +273,7 @@ Chiara dejó pasar un segundo más de lo cómodo.
 
 —En la caja, cambiando fichas. Usted lo esperaba en el estacionamiento; llevaba cuarenta minutos ahí. —No esperó a que él preguntara cómo lo sabía—. Le pregunté si había ganado. Me dijo que eso no se le pregunta a un caballero. Le pregunté cómo había llegado al Monarch y me dijo que de copiloto.
 
-—¿Cuánto cambió?
+—¿Cuánto cambió? Lo que diga él no cuenta; cuenta la ventanilla.
 
 —Ciento cuarenta dólares, en fichas de cinco. Las contó dos veces en la ventanilla.
 
@@ -379,7 +379,7 @@ Ella tachó la cifra de valet y escribió *naviera* en el margen. Tardó más de
 
 —Treinta días. —Kal miró la hoja tachada—. Y yo que le firmé un contrato a ese viejo para que se lo llevara la parca al día siguiente.
 
-—¿Keene?
+—¿Keene? ¿Qué le firmó?
 
 —Seis patrullas, tres meses. Firmó la primera hoja.
 
@@ -387,7 +387,7 @@ Lo dijo como se dice de una apuesta perdida. Chiara entendió la cuenta que él 
 
 —No está perdido. Está sin dueño. —Se recostó en la silla—. La que manda ahora no se deja ver; si la busca usted esta semana, va a parecer que vino a cobrarle al muerto. Pero hay una teniente del turno de noche que vive en la calle. Ésa sabe qué patrulla se le muere a media persecución.
 
-—¿Cómo sabe eso?
+—¿Cómo sabe eso? Ésa no sale en los periódicos.
 
 —Fui a su despedida.
 
@@ -469,7 +469,7 @@ De regreso, en un semáforo de la costera, Blake tamborileó sobre el volante.
 
 —El domingo no puedo.
 
-—¿Trabajas?
+—¿Trabajas? ¿En domingo? Ni los de narcóticos trabajan en domingo.
 
 —Monto. A caballo. Hay un hipódromo detrás del Monarch, y los domingos no corre nadie.
 
@@ -479,7 +479,7 @@ Chiara miró por la ventanilla.
 
 —El domingo no puedo, Blake.
 
-—Bueno. Otro.
+—Bueno. Otro domingo, entonces.
 
 La dejó en la entrada principal pasada la medianoche. Se bajó, rodeó el coche, le abrió la puerta, y cuando ella se enderezó en la acera, la besó.
 
@@ -529,11 +529,7 @@ Era una bisagra. Pesaba más de lo que parecía.
 
 —La puerta no estuvo en la reunión. —Kal se metió la carpeta bajo el brazo—. Nadir va a imprimir esto dos veces. Una es para la pared.
 
-—¿Qué le dijo? —preguntó Chiara.
-
-—¿A Nadir?
-
-—Al del puerto.
+—¿Y al del puerto qué le dijo? —preguntó Chiara.
 
 —Que la batería no era el problema.
 
@@ -609,7 +605,7 @@ Tommaso se acomodó el puño de la camisa sin prisa y dejó de girar el anillo.
 
 Chiara no se movió.
 
-—¿Y?
+—¿Y qué le dijiste?
 
 —Le di la versión.
 
@@ -687,7 +683,7 @@ Se agachó. El hombro le dio un tirón; apoyó la mano izquierda en el piso y ba
 
 —¿Eres policía? —preguntó el niño.
 
-—No.
+—No. Manejo una grúa. Los policías me llaman cuando un coche estorba.
 
 —¿Y eso? —Señaló la cicatriz con un dedo, sin acercarse.
 
@@ -873,7 +869,7 @@ Afuera, en Plaza Corona, se habían prendido los faroles. Kal le dio vuelta a su
 
 No había pregunta que eso contestara.
 
-—¿Y Héctor?
+—¿Y Héctor qué dice?
 
 —Le quiere comprar uno de botones. Walt dice que es un insulto.
 

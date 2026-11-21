@@ -14,9 +14,9 @@ El primer coche del convenio fue un Civic gris con el parabrisas estrellado y el
 
 El encargado del corralón le entregó las llaves sin levantarse de la silla de plástico. Tenía un radio pegado a la oreja y no lo apagó. Miró la grúa, la calcomanía nueva de la fiscalía en la puerta, todavía con las burbujas debajo, y la miró más tiempo que a Kal.
 
-—¿Ahora ustedes?
+—¿Ahora la fiscalía les da los coches a ustedes?
 
-—Ahora nosotros.
+—Desde esta semana. —Kal le puso la hoja de custodia en la rodilla, junto al radio—. Fírmeme la salida, que el traslado empieza en su reja.
 
 —Suerte.
 
@@ -46,7 +46,7 @@ Llevaba semanas llamándola a las seis, cuando ella volvía. Ese domingo esperó
 
 Ella contestó al segundo timbre, ya en casa, ya con la voz en su lugar.
 
-—¿Pasó algo?
+—¿Pasó algo? Es domingo, y son las ocho.
 
 —No. —Kal se limpió una mano en el pantalón—. ¿Cuántos años tiene?
 
@@ -122,13 +122,11 @@ Lo que tenía delante era un golpe del tamaño de una moneda en la cabeza de una
 
 Se levantó. Rowe estaba descalza, con una mejilla roja hasta la oreja y la correa de una bolsa cortada colgándole del hombro, sin la bolsa.
 
-—¿Y usted?
+—¿Y a usted qué le hicieron?
 
 —Se quedaron con mi bolsa. Y me dejaron un recado.
 
-—¿Qué recado?
-
-Rowe se lo repitió palabra por palabra, como se repite una declaración.
+Se lo repitió palabra por palabra, como se repite una declaración.
 
 —*Las joyas pesan más en la balanza.* —Lo miró—. A ella le hablaron de usted. Del rubio de la grúa. ¿Le dice algo, señor Mercer?
 
@@ -172,7 +170,7 @@ A Crowe lo iba a cobrar cuando se pudiera. Pero Crowe no le había partido el la
 
 —Esguince de segundo grado —dijo la doctora, que atendía a media Almendra sin pedir seguro y a la otra media sin pedir nombre—. Puede haber una fisura chica que todavía no se ve. Férula tres semanas, no cargar nada, hielo. Nada de manejar. —Le levantó el párpado a Chiara con el pulgar y le pasó una lucecita por los ojos, uno y otro—. Y conmoción leve. El labio cierra solo. Que no duerma sola esta noche: alguien que la despierte cada tres horas y le pregunte cómo se llama. Si vomita o no lo reconoce a usted, al hospital, con nombre o sin nombre.
 
-—Cada tres horas —repitió Kal.
+—Cada tres horas —repitió Kal—. La despierto yo.
 
 Chiara no contestó. Había sacado la lima de la bolsa con la mano izquierda y, mientras la doctora le ajustaba las correas de la férula, se limaba la uña rota del índice derecho, despacio, con una atención que no le había dedicado al dolor en toda la mañana.
 
@@ -200,9 +198,9 @@ Lo dijo hacia el parabrisas. Ella lo dejó quedarse ahí un momento, con la fér
 
 —¿Quién?
 
-—Alguien del barrio.
+—Alguien del barrio. De los que cobran cuota en las calles donde yo trabajo.
 
-—Kal.
+—Kal, la muñeca es mía. El nombre también.
 
 —No te lo voy a dar. —Por fin la miró—. Todavía no puedo hacer nada con él. Tú sí querrías.
 
@@ -256,7 +254,7 @@ Kal la llevó él. Era el único cuarto del segundo piso que no tenía dueño: s
 
 Chiara se sentó en la cama, con la férula sobre las rodillas, y lo miró como si esperara que dijera algo más. Kal no tenía nada más. Cruzó el cuarto, revisó el pestillo de la ventana, que no hacía falta revisar, y acercó la silla a la cama por el lado izquierdo, donde ella la alcanzaba sin la férula. Tomó la almohada de la silla para ponérsela bajo el brazo y se detuvo con ella en las manos.
 
-—¿Puedo?
+—¿Te acomodo eso? La doctora dijo que la muñeca va más arriba que el codo.
 
 Ella tardó en asentir. Kal le acomodó la almohada bajo la férula sin tocarle más que la funda. Después bajó a desenganchar el Mercedes.
 
@@ -326,9 +324,9 @@ Kal la oyó antes de verla. Una Harley negra, vieja y limpia. Walt frenó a medi
 
 Entró a la cancha a vuelta de rueda y apagó la moto junto a la malla. Miró el balón quieto, el radio apagado, a los muchachos, y al final a Kal.
 
-—¿Qué quería?
+—¿Qué quería el Tasador en tu cancha?
 
-—Disculparse.
+—Disculparse. Dice que lo del callejón no es su estilo: él mandó una cachetada y la escoria se quiso cobrar el resto.
 
 Walt colgó el casco del manubrio.
 

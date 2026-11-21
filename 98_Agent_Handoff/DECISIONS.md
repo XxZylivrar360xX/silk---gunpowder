@@ -4,7 +4,7 @@ Máximo 800 palabras; conservar sólo decisiones operativas recientes y enlaces 
 
 ## 2026-11-21 — Diálogo ping-pong prohibido
 
-**DECISIÓN DEL AUTOR:** desde hoy quedan prohibidos los diálogos ping-pong en toda la saga; las interacciones entre personajes se escriben como conversaciones. Se revocan las excepciones de la regla 05 y de la regla de puesta en escena 04. Umbral (cinco o más réplicas seguidas de ≤14 palabras habladas) y detector: [[12_Craft_Policies/dialogue_rules/05-esticomitia-de-una-sola-voz]], `tools/editorial/pingpong_audit.py`. Libro I en reescritura.
+**DECISIÓN DEL AUTOR:** desde hoy quedan prohibidos los diálogos ping-pong en toda la saga; las interacciones entre personajes se escriben como conversaciones. Se revocan las excepciones de la regla 05 y de la regla de puesta en escena 04. Umbral (cinco o más réplicas seguidas de ≤14 palabras habladas) y detector: [[12_Craft_Policies/dialogue_rules/05-esticomitia-de-una-sola-voz]], `tools/editorial/pingpong_audit.py`. **Complemento (mismo día):** regla 06 «Réplica mínima» (máximo 25 % de réplicas de ≤3 palabras por capítulo fuera de la acción) y ficha de Kal replanteada: [[12_Craft_Policies/dialogue_rules/06-replica-minima]].
 
 ## 2026-11-21 — Libro II en 48 capítulos (propagado)
 

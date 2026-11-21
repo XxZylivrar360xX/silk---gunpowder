@@ -36,7 +36,7 @@ No corrió. Cruzó el patio con el paso de alguien que llevaba haciendo ese mism
 
 —Sei dimagrita —dijo él, apartándola apenas para mirarla, con la clase de reproche que sólo se permite quien tiene derecho a hacerlo.
 
-—No es cierto.
+—No es cierto. Peso lo mismo que en agosto.
 
 —No discuto contigo desde que tenías diez años. No voy a empezar ahora.
 
@@ -48,7 +48,7 @@ Kal la reconoció porque era la misma que él hacía cien veces al día en El Pa
 
 —Usted debe ser Mercer —dijo, en un inglés cuidado, con acento marcado pero sin dudas.
 
-—Kal.
+—Kal. Lo de Mercer es para las facturas.
 
 —Ettore. —El apretón fue firme y breve, ni una prueba de fuerza ni una cortesía vacía—. Bienvenido a la casa de Chiara.
 
@@ -280,7 +280,7 @@ Un número internacional, sin nombre guardado. Dos timbres. Cuando contestó no 
 
 No conocía la voz. Era educada, de oficina, sin un acento que dijera de dónde, la voz de alguien acostumbrado a leer recados ajenos sin que se le notara cuáles le gustaban.
 
-—¿Quién habla?
+—¿Quién habla? Este número no lo tiene casi nadie.
 
 —Alguien que le pasa un recado. —No dejó pausa para que Kal lo aceptara o no—. La ventana de la que hablaron se está por abrir. Antes de lo que se pensaba. Lo quieren disponible en cuanto haya fecha. No en dos semanas. Disponible.
 
@@ -310,7 +310,7 @@ Chiara no preguntó por qué. Lo miró con la taza a medio camino de la boca, y 
 
 Kal no le preguntó para qué lo necesitaba. No le dijo *ven conmigo*.
 
-—Sácame un boleto.
+—Sácame un boleto. El primero que salga, aunque haga escala en todos lados.
 
 —Me quedo un par de días más —dijo Chiara, después de un silencio que a Kal le pareció más largo de lo que probablemente fue—. Hay cosas aquí que todavía no terminé.
 
@@ -328,7 +328,7 @@ Ettore lo llevó al aeropuerto. Chiara se despidió en el patio, junto al pozo s
 
 —Siempre.
 
-—No es cierto.
+—No es cierto. Tú no te cuidas: te reparas después, que no es lo mismo.
 
 —No —dijo Kal—. Pero suena bien.
 
@@ -338,7 +338,7 @@ En el coche, Ettore manejó mirando el camino, y sólo en la terminal, mientras 
 
 —Ella va a estar bien.
 
-—Lo sé.
+—Lo sé. Tiene el avión, y lo tiene a usted.
 
 —No se lo decía a usted. —Ettore lo miró, sin dureza esta vez—. Me lo decía a mí.
 
@@ -360,7 +360,7 @@ No salió nadie más.
 
 Marisol bajó la vista a la maleta, una, no dos, y después la subió a la cara de Kal, y por un segundo no dijo nada, cosa que en ella equivalía a un párrafo entero.
 
-—Hola —dijo Kal.
+—Hola —dijo Kal—. No tenías que venir hasta acá.
 
 —Hola. —Se apartó del coche para abrirle el maletero—. ¿Y bien?
 
@@ -380,7 +380,7 @@ El coche olía a ambientador de pino y a comida rápida de hacía dos días. Mar
 
 —¿Cómo estuvo?
 
-—Largo.
+—Largo. Allá las carreteras tienen más curvas que la Ruta de Milla, y todas van para arriba.
 
 Marisol esperó un momento y después preguntó por Walt y el alambique, y Kal contestó eso con la facilidad de siempre. Cuando entraron a la Almendra le pidió que lo dejara en el Patio, no en el loft.
 
@@ -396,7 +396,7 @@ El taller tenía el ruido de siempre: una grúa maniobrando marcha atrás, un mo
 
 —Ahí está —dijo, todavía al teléfono, y colgó—. Wallah, pensé que te ibas a quedar a vivir allá.
 
-—¿Cómo va todo?
+—¿Qué se juntó mientras no estaba?
 
 —Va. —Nadir señaló con la barbilla hacia el fondo—. Llegó gente nueva de Cedar Flats preguntando otra vez por ti, sin nombre, como siempre. Los mandé con Danny.
 
@@ -428,7 +428,7 @@ Meiko no levantó la vista enseguida. Cuando lo hizo, lo pensó un segundo, no m
 
 —Por la vía directa no. Los Marcadores están contando gente en la esquina de la Ruta de Milla desde el mediodía. Carrera de esta noche, apuestas grandes. A las seis ya se movieron todos al circuito y pasa limpio.
 
-—¿Cómo lo sabes?
+—¿Y tú cómo sabes a qué hora se mueven los Marcadores?
 
 —Siempre es a esa hora —dijo ella, ya otra vez en el teléfono.
 
@@ -436,11 +436,9 @@ Kal no preguntó más. En la oficina le dijo a Nadir que mandara el camión a la
 
 Encontró a Héctor bajo el alero del galpón, con una pierna estirada sobre un cajón y un vaso de algo que no era café.
 
-—Volviste —dijo Héctor, sin abrir del todo los ojos.
-
 Kal se apoyó en el poste de al lado.
 
-—¿Y ella?
+—Volviste —dijo Héctor, sin abrir del todo los ojos—. ¿Y ella?
 
 —Se quedó un par de días más. En la villa.
 
@@ -462,9 +460,9 @@ Un número que no tenía guardado.
 
 Kal lo leyó dos veces sin que la cara le cambiara. Después lo borró, se guardó el teléfono y tardó un momento en volver a encontrar el renglón de la hoja.
 
-—¿Qué? —preguntó Nadir, que lo conocía lo suficiente para notar el segundo de más.
+—¿Qué, khoya? —preguntó Nadir, que lo conocía lo suficiente para notar el segundo de más—. Pusiste la cara de cuando un cliente paga con cheque.
 
-—Trabajo.
+—Trabajo. Del que no entra en esa hoja.
 
 Nadir volvió a la hoja. Kal le dijo que la firmara él y salió a la calle con el teléfono en la mano. Camp Alder ya tenía fecha. Faltaba cerrar con Varek.
 
@@ -478,7 +476,7 @@ Un silencio corto, del tipo que en Dario Varek no significaba distracción sino 
 
 —Señor Mercer.
 
-—Tengo fecha.
+—Tengo fecha, señor Varek. Me la acaban de confirmar.
 
 —¿Cuándo?
 
@@ -486,7 +484,7 @@ Un silencio corto, del tipo que en Dario Varek no significaba distracción sino 
 
 —Habrá suficiente ruido del otro lado del perímetro para mover atención —dijo Dario—. Cuando empiece, tendrá su ventana.
 
-—¿Y su gente?
+—¿Y su gente? Si la mía entra, quiero saber con quién se va a cruzar.
 
 —Mi gente va a estar ocupada en otro lado esa noche. La suya entra sola. —Una pausa, exacta—. Así quedamos, ¿no?
 
@@ -524,7 +522,7 @@ Comieron sentados en el capó de un auto que no era de nadie en particular, con 
 
 —Ya lo sé. Empezando por ti.
 
-—Yo pago.
+—Yo pago. Te remolco gratis de aquí a que te jubiles.
 
 —Tú *inventas* cómo pagar tus favores. —Se metió la papa a la boca, satisfecha—. Es distinto.
 

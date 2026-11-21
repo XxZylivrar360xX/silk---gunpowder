@@ -46,11 +46,7 @@ El trapo se detuvo.
 
 Mabel dejó la mano quieta encima y miró hacia la puerta, donde una de las familias por fin estaba saliendo, con los niños por delante y el papá contando el cambio. La campanita sonó. Mabel siguió mirando la puerta después de que se cerró.
 
-—Rafe vivía a dos casas de mi mamá —dijo—. En la cuadra de la tortillería, la que se quemó. Tenía doce años y ya cobraba. A los otros niños, por dejarlos jugar en la banqueta.
-
-—¿Y le pagaban?
-
-—Todos. —Mabel empezó a doblar el trapo en cuatro, despacio—. Yo también.
+—Rafe vivía a dos casas de mi mamá —dijo—. En la cuadra de la tortillería, la que se quemó. Tenía doce años y ya cobraba. A los otros niños, por dejarlos jugar en la banqueta. Y le pagaban todos. —Mabel empezó a doblar el trapo en cuatro, despacio—. Yo también.
 
 Del otro lado de la barra alguien pidió la cuenta. Mabel no se movió. Uno de los meseros, un muchacho flaco que Chiara no había visto antes, fue a cobrar en su lugar.
 
@@ -64,7 +60,7 @@ Chiara tomó un trago de café. No estaba quemado esta vez. Mabel la vio tomarlo
 
 —Le llevo la razón —dijo Mabel—. A ti no te llevo. Si quiere verte, te dice dónde, y tú vas solita, porque yo no voy a sentarme en ninguna mesa con Rafe Domínguez a mis años. ¿Me entiendes?
 
-—Sí.
+—Sí. Sola, y a la hora que él diga.
 
 —Y si te dice que no, es no.
 
@@ -98,7 +94,7 @@ Bonnie contestó al cuarto timbre. Había ruido de cocina detrás, una sartén, 
 
 Bonnie no contestó enseguida. La sartén dejó de sonar.
 
-—¿Para qué?
+—¿Para qué, si no es para el coche?
 
 Chiara no contestó.
 
@@ -136,7 +132,7 @@ Delante había un puente viejo, de concreto, angosto, con barandales bajos manch
 
 —Aquí todos frenan —dijo Meiko—. Los camiones de la cementera, las patrullas, los de la base. No caben dos. El que llega primero pasa y el otro espera.
 
-—¿Cómo lo sabe?
+—¿Eso de dónde lo sabe usted?
 
 —Corríamos aquí. De noche, cuando no había trenes. —Se encogió de hombros—. El que frenaba menos en el puente ganaba.
 
@@ -190,13 +186,13 @@ Chiara lo probó. Mezcal, y del bueno, aunque la botella no lo dijera. Rafe la v
 
 Rafe no dejó de sonreír, pero dejó de moverse.
 
-—Un hombre.
+—Un hombre. Usted no viene por poco, ¿verdad?
 
 —Lo quiero fuera de ese traslado.
 
 —Camp Alder. —Rafe lo dijo despacio, como quien prueba un vino que le sirvieron sin preguntarle—. Eso es federal, señora.
 
-—Sí.
+—Sí. Por eso no se lo pedí a un abogado.
 
 La mujer de la libreta escribió algo. Una línea corta. Rafe no la miró.
 

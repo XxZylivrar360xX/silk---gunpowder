@@ -82,7 +82,7 @@ No dio más. Le tendió la carpeta.
 
 Kal la abrió sobre el capó del Corolla, entre una llave inglesa y un filtro de aceite usado, y pasó las hojas sin apuro: tarifas, tiempos de respuesta, la misma letra pequeña de siempre. Firmó donde tenía que firmar. Ella observó cómo lo hacía, no lo que firmaba.
 
-—¿Algo más?
+—¿Algo más? Si es la tarifa nocturna, está en la hoja tres, igual que el año pasado.
 
 —Un par de detalles. ¿Tiene un minuto donde no compita con su mecánico?
 
@@ -162,7 +162,7 @@ Kal no preguntó para qué.
 
 —¿Voy contigo?
 
-—No.
+—No. Si llego acompañado, Irene va a pensar que vengo a negociar.
 
 Walt asintió y se llevó el café a la oficina.
 
@@ -204,7 +204,7 @@ Del otro lado de la lona, alguien regateaba el precio de unas naranjas y iba per
 
 No dijo más. Tomás tampoco.
 
-—¿Qué quiere? —preguntó Kal.
+—¿Qué quiere? —preguntó Kal—. Si es dinero, dígame la cifra y nos ahorramos la tarde.
 
 —Nada que usted no pueda dar. —Irene abrió la libreta otra vez—. Su muchacho ya no carga nada mío. Desde hoy.
 
@@ -236,7 +236,7 @@ Nadir dejó de girar la llave.
 
 —¿Desde cuándo? Irene no suelta a nadie a medio trato, khoya. Ni a su madre.
 
-—Desde hoy.
+—Desde hoy. Las noches que eran de ella las haces conmigo, en la grúa.
 
 Nadir esperó a que siguiera, y Kal no siguió.
 
@@ -282,7 +282,7 @@ Llegó al loft a las tres y diez. Había una luz en la cocina. Chiara estaba sen
 
 —¿Un arrastre?
 
-—Un arrastre.
+—Un sedán, del muelle de carga. Olía a pescado hasta en el volante.
 
 Ella le miró las manos. Kal se las lavó en el fregadero aunque las traía limpias, se las secó con el trapo y lo dejó doblado en el borde. Chiara no preguntó de quién. Dejó la taza en la isla y subió primero.
 
@@ -336,13 +336,9 @@ Días después, cerrando la caja, Héctor lo comentó sin levantar la vista de l
 
 —El Tasador mandó a uno de los suyos a la llantera. A preguntar quién le había arreglado lo de los jueves a Portillo.
 
-—¿Y Portillo?
+—¿Y Portillo qué les dijo?
 
-—Dijo que no sabía. —Héctor firmó una hoja y pasó a la siguiente—. Después le preguntaron cuánto le habían cobrado.
-
-—¿Y?
-
-—Nada. Eso contestó. —Dejó la pluma sobre el escritorio—. Al muchacho no le gustó la respuesta.
+—Que no sabía. —Héctor firmó una hoja y pasó a la siguiente—. Después le preguntaron cuánto le habían cobrado, y contestó que nada. Eso, nada. —Dejó la pluma sobre el escritorio—. Al muchacho no le gustó la respuesta.
 
 Kal no dijo nada. Héctor tampoco. Los dos estaban pensando en Calle Corona.
 
@@ -354,7 +350,7 @@ Lucia volvió al taller dos semanas después de la primera visita, cerca del cie
 
 Kal no discutió el punto. Estaba limpiando una llave que ya estaba limpia.
 
-—¿Y ahora qué?
+—¿Y ahora qué? ¿Viene a cobrar o a dar las gracias?
 
 —Ahora nada. Un arma menos en la calle, una extorsión que ya puedo sostener y un expediente que aguanta una revisión. Eso no significa que confíe en usted.
 
@@ -388,11 +384,11 @@ Chiara estaba en la cocina, descalza, con el pelo recogido a medias y una copa d
 
 Chiara no bajó la copa de inmediato.
 
-—¿Por?
+—¿A cambio de qué? Esa mujer no regala ni la hora.
 
 —Le di algo sobre un problema de Los Bravos. Sirvió. Ella quiso que sirviera otra vez, más rápido.
 
-—¿Un problema tuyo?
+—¿Un problema tuyo, o uno que te encontraste en la calle?
 
 —De alguien que no me debe nada. —Se encogió de hombros, casi—. Se resolvió sin que Héctor tuviera que romperle nada a nadie.
 
@@ -412,7 +408,7 @@ Chiara lo dejó pasar, de momento, como se deja pasar una cifra que se va a revi
 
 Kal tardó lo que tarda en dejar unas llaves en su sitio.
 
-—Arrastres.
+—Arrastres. De noche se descomponen más coches de los que crees, y los de la noche pagan doble.
 
 Chiara asintió una vez, despacio, como quien firma de recibido algo que no piensa dar por bueno. No dijo nada más. Bebió lo que quedaba en la copa, la dejó en el fregadero y se acercó a él sin prisa.
 

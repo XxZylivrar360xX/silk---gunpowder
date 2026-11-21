@@ -38,13 +38,9 @@ Lo preguntó antes de saludar. Kal levantó la vista desde el piso con una tuerc
 
 Kal enroscó la tuerca con los dedos antes de buscar la llave.
 
-—Le vendió un alternador a un tipo de la Isla. Le sirvió té, le dio de comer, le preguntó por los hijos. Tres horas.
+—Le vendió un alternador a un tipo de la Isla. Le sirvió té, le dio de comer, le preguntó por los hijos. Tres horas. Y el tipo se fue con el alternador, un frasco de salsa y sin saber cuánto había pagado.
 
-—¿Y?
-
-—Y el tipo se fue con el alternador, un frasco de salsa y sin saber cuánto había pagado.
-
-—¿Cuánto pagó?
+—¿Y cuánto pagó, al final?
 
 —El doble. —Apretó la última vuelta—. Y le dio las gracias.
 
@@ -58,7 +54,7 @@ Kal miró hacia la puerta de carga, por donde se oía, lejos, el mar.
 
 —Una del lado de la ciudad. Ahora se queja de las sirenas.
 
-—¿Y mañana?
+—¿Y mañana? Por ese lado pasa la basura a las seis.
 
 —Mañana le mando fruta. La fruta no hace ruido.
 
@@ -82,11 +78,11 @@ El compresor se apagó. En el silencio, Kal habló como si ésa fuera la noticia
 
 —Danny terminó el Mustang. En una noche.
 
-—Eso es bueno.
+—¿En una noche? En el hotel tengo pintores que tardan una semana en una puerta.
 
 —Y como le sobró noche, pintó las líneas del patio. Todas. Nadie se lo pidió.
 
-—¿Rectas?
+—¿Y le quedaron rectas?
 
 —Más o menos. Héctor ya se estacionó chueco dos veces, por respeto.
 
@@ -110,7 +106,7 @@ Afuera dónde, ella no lo dijo. El domingo siguiente volvió a llamar a las seis
 
 Una noche, después de que una máquina de hielo se rindiera y el proveedor intentara cobrar la urgencia de algo que él mismo había dejado mal montado, Kal apareció en la oficina administrativa con una bolsa de papel manchada de grasa por una esquina.
 
-—No ha cenado.
+—No ha cenado. Abajo me dijeron que no ha bajado en todo el día.
 
 Chiara levantó la vista de una lista de invitados.
 
@@ -212,7 +208,7 @@ El muchacho del piso llegó primero, con su chaleco y sin una sola pregunta. Los
 
 —Ese botón no sirve desde la remodelación.
 
-—Ahora lo sabemos.
+—Ahora lo sabemos. Once veces lo supimos.
 
 —No toquen nada.
 
@@ -220,7 +216,7 @@ Los llevó por el pasillo, sin encender más que lo necesario, y les señaló un
 
 —Wallah. Ésta es mejor que las de abajo.
 
-—Es la misma.
+—Es la misma. Salieron todas del mismo lote.
 
 —Ésta no la ha tocado nadie.
 
@@ -268,7 +264,7 @@ No por comodidad, por supervivencia. Los tacones rojos esperaban junto al escrit
 
 Kal tocó el marco de la puerta.
 
-—¿Mal día?
+—¿Mal día? Los zapatos dicen que sí.
 
 Ella miró sus pies descalzos y luego a él.
 
@@ -317,8 +313,6 @@ Chiara dejó la pluma.
 Por primera vez en varios días logró sorprenderla. No ofenderla, eso habría sido más fácil. Sorprenderla de verdad, justo en el punto donde la mujer que administraba todas sus versiones entendía que alguien acababa de pedir acceso a la versión sin producir.
 
 Kal lo vio y sonrió apenas.
-
-—Fue pregunta.
 
 Chiara cruzó los brazos.
 
@@ -382,7 +376,7 @@ Hendricks se fue antes de las seis y media, con manguera nueva, una factura a no
 
 Kal miró la lona, que ya tenía forma. Miró el reloj. Miró la puerta de la grúa, donde no había nada que reclamar.
 
-—¿Y cuándo dices? —preguntó Danny.
+—¿Y ahora cuándo dices, jefe? —preguntó Danny.
 
 Kal se quitó la chaqueta y descolgó un overol.
 
@@ -440,9 +434,9 @@ Chiara le quitó la bolsa pequeña, la abrió, la olió y la volvió a cerrar.
 
 —Me mintió por esto.
 
-—Poquito.
+—Poquito. Lo demás era verdad: sí tenía algo que resolver.
 
-—¿Hace cuánto?
+—¿Hace cuánto que la guardas?
 
 —Una semana larga. —Se encogió de hombros—. ¿Y usted?
 
@@ -464,7 +458,7 @@ Terminaron sentados en el suelo de la sala, con la espalda contra el sofá que n
 
 —Esto es ridículo.
 
-—Sí.
+Kal le dio la razón con la boca llena.
 
 —Dos adultos en el piso para no manchar los muebles de un penthouse que ninguno de los dos paga.
 
@@ -510,7 +504,7 @@ Kal apoyó la cadera en la barra y esperó. Con él, esperar era una forma de pr
 
 —Cuando tenía seis años me dieron una cámara de video para una fiesta. Una de esas viejas, que pesaban como un ladrillo. Me pasé la noche entera grabando desde un rincón, con un ojo cerrado, seria, seria, seria, para que todo saliera derecho. Un niño, Fabrizio, me sacó a bailar y me pisó los pies media hora. Yo no bajé la cámara.
 
-—Muy tú.
+—Muy tú. Seguro el video salió derecho.
 
 —Aspetta. —Levantó un dedo—. Mi padre me vio, se acercó y me dijo dos cosas. Que en la vida no se baila concentrada. Y que una Ardizzone baila aunque le pisen los pies.
 
@@ -550,7 +544,7 @@ La sala de cine tenía sillones demasiado grandes y una pantalla que bajaba del 
 
 —Pon algo —dijo ella—. Algo tuyo.
 
-—¿Yo?
+—¿Yo? Lo mío es de radio de grúa, no de sala de cine.
 
 —Tú trajiste la cena y la droga. Yo pongo el inmueble.
 

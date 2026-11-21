@@ -22,7 +22,7 @@ Vibró sobre el banco de trabajo al caer la tarde, entre la caja de tornillos y 
 
 Contestó con la llave inglesa todavía en la mano.
 
-—Dime.
+—Dime. Tengo el guardabarros a medias.
 
 Silencio del otro lado. Después, una voz de hombre, tranquila, casi cordial, en un tono que no encajaba con nada de lo que Kal esperaba oír salir de ese teléfono.
 
@@ -240,7 +240,7 @@ Lugar, hora aproximada, cómo la encontró. Kal se lo dio en el orden en que el 
 
 Voss tecleó *disparo*, y después *animal (equino)*, y se quedó mirando la pantalla como si las dos palabras no debieran ir en el mismo renglón.
 
-—¿Oyó el tiro?
+—¿Oyó el tiro? Desde donde estaba, digo.
 
 —Estaba en el taller.
 
@@ -250,7 +250,7 @@ Voss tecleó *disparo*, y después *animal (equino)*, y se quedó mirando la pan
 
 Voss escribió *mecánico* y no preguntó más.
 
-—¿Le faltó algo?
+—¿Y le faltó algo, que usted sepa?
 
 —El teléfono. La cartera. —Kal dejó pasar el tiempo justo de alguien que hace memoria—. Y un reloj de mujer. Caro.
 
@@ -306,7 +306,7 @@ Kal le devolvió la pluma a Voss.
 
 Ella se rio por la nariz, una sola vez, y bajó los ojos a la hoja que Voss acababa de sellar.
 
-—¿Y esto?
+—¿Y esto qué es, Voss?
 
 —Asalto en el hipódromo del Monarch, teniente —dijo Voss—. La señora Bellandi.
 
@@ -314,7 +314,7 @@ La teniente dejó de jugar. No cambió nada en la postura; cambió algo en la bo
 
 —¿Cómo está?
 
-—Viva.
+—Viva —dijo Kal—. Sedada, con un golpe en la cabeza que todavía no saben qué tan hondo es.
 
 Asintió despacio. Se enderezó del mostrador y recogió la carpeta que le había dejado a Voss, aunque no hacía falta.
 

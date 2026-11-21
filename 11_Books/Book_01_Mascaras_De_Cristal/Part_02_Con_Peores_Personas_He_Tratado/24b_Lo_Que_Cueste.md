@@ -49,7 +49,7 @@ Rivers salió a las once y diez con una hoja en la mano.
 
 Kal leyó el párrafo dos veces.
 
-—¿Por qué cerró?
+—¿Por qué cerró? Ayer Hoover juraba que iba hasta la corte.
 
 —Porque anoche Krane leyó las carpetas del señor Cross y vio lo mismo que iba a ver el juez. —Rivers guardó la pluma en el saco—. Esto es mejor que un fallo. Un fallo se apela.
 
@@ -65,7 +65,7 @@ Hoover se fue sin contestar.
 
 Kal alcanzó a Krane en el pasillo, junto a los elevadores. Krane llevaba la carpeta fina bajo el brazo y el abrigo doblado sobre el otro, y esperaba el elevador como si también le hubieran cobrado la espera. Kal arrancó media hoja de la libreta que le había pedido prestada a Garrett, anotó un número y se la tendió.
 
-—¿Qué es esto?
+—¿Y esto qué es?
 
 —Un teléfono. El día que te canses de defender a gente como Hoover, marca. Tengo trabajo para alguien que arma una historia falsa mejor que la verdadera.
 
@@ -91,13 +91,13 @@ La persiana se levantó a medias con un ruido de lámina y entró Nadir agachán
 
 —*Safi*, *safi*. Mañana. —Colgó—. ¿Cenaste?
 
-—No.
+—No. Se me fue la hora con la Ford.
 
 —Ya sé que no. —Dejó la bolsa junto a la caja de tornillos, al lado del teléfono de Kal, y le dio un vistazo al teléfono como quien comprueba el precio de algo en un aparador—. Tortillas de las de la señora Ruiz. Dos de pollo, una de queso. La de queso es mía, la de pollo grande es tuya, la de pollo chica también es tuya porque te ves feo.
 
 Kal no salió del capó.
 
-—Gracias.
+—Gracias. Ahorita salgo, nada más aprieto esto.
 
 —Gracias nada. Me las debes. —Se sentó en un banco con las piernas abiertas, desenvolvió la de queso y se la llevó a la boca, y con la mano libre empezó a contar con los dedos contra la madera—. Hoover. La cifra de la abogada. Tu parte en efectivo, más la inversión, más lo retenido. —Masticó—. Quitas a la abogada, que cobra como si el juez fuera ella. Quitas lo que se le debe a Garrett por los papeles. Quitas lo de Villani. Te queda, más o menos…
 
@@ -117,11 +117,7 @@ Ahí estaba. Kal sacó la cabeza del capó por primera vez.
 
 —El de la bolsa del supermercado. El que cargaste debajo del brazo toda la noche y no abriste. Ése. —Nadir se limpió la boca con el dorso de la mano—. ¿Cuánto nos va a costar?
 
-—No sé.
-
-—No sabes.
-
-—No sé qué tiene.
+—No sé. No sé ni qué tiene.
 
 —*Wallah*, eso es peor. Cuando sabes qué cargas, sabes cuánto pesa. Cuando no sabes, pesa lo que diga el que sí sabe, el día que él diga. —Volvió a contar con los dedos, ahora sin número, sólo por el gesto—. La subjefa te apuntó la hora. El italiano del casino lee tus facturas. Y la señora no te dijo qué era. Esa gente no regala nada. Ni la hora.
 
@@ -165,7 +161,7 @@ Kal asintió despacio, sin sorpresa.
 
 —No te voy a mentir para que duermas tranquilo, *khoya*. No confío en ella. No me gustó desde antes de verla, y cuando la vi tampoco, y cuando vivió en la casa con nosotros menos. No es que sea mala. —Levantó una mano, cortando algo que Kal no había dicho—. Es que no es de aquí. Ella sube y baja de sitios que nosotros sólo vemos desde abajo. Y la gente de esos sitios, cuando se cae, no se cae sola.
 
-—Lo sé.
+—Lo sé. Me lo has dicho desde el primer día.
 
 —Sí. Tú lo sabes todo y haces lo que quieres. —Recogió la tortilla, la miró, la volvió a dejar—. Pero escúchame bien, porque lo voy a decir una vez y después no lo vuelvo a decir. Lo que tú decidas, eso es. Es ley. Tú eres el jefe. —Una pausa corta—. Y eres mi hermano. Si tú dices que ella, es ella. Yo me trago lo que piense.
 
@@ -227,13 +223,11 @@ Kal sacó la cartera, contó de su dinero lo que faltaba, lo metió en la caja y
 
 —Ya sé.
 
-—En abonos. Doscientos por semana. Trescientos cuando… —Se interrumpió—. Cuando se pueda. Y con interés, khoya. El que cobre el banco, el que tú digas, pero con interés, porque si no es un regalo y yo no te pedí un regalo.
+—En abonos. Doscientos por semana. Trescientos cuando… —Se interrumpió—. Cuando se pueda.
 
 —Doscientos está bien.
 
-Nadir esperó la otra mitad de la respuesta, la del interés, con la cuenta ya hecha en la cara. No llegó.
-
-—Así me sale caro —dijo al fin.
+—Me sale caro.
 
 —Te sale lo que costó.
 
@@ -267,13 +261,11 @@ Le cobró. Cuando Kal tomó la bolsa, ella no le soltó el cambio todavía.
 
 —El martes vino uno a preguntar por su socio —dijo—. El que cuenta con los dedos.
 
-Kal dejó la bolsa sobre el mostrador.
-
-—¿Qué quería?
+Kal dejó la bolsa sobre el mostrador y esperó.
 
 —De dónde era. Cuánto llevaba aquí. Si tenía familia, y dónde. —Le puso las monedas en la mano, una por una—. Dijo que era del seguro. Traía una chaqueta café, de las buenas, y no compró nada.
 
-—¿Qué le dijo?
+—¿Y usted qué le dijo?
 
 —Que yo vendo pan. —La panadera se limpió las manos en el delantal—. Aquí nadie sabe nada de nadie, señor Mercer. Para ustedes, menos.
 
@@ -297,7 +289,7 @@ Esperó un segundo.
 
 —El primero salió una fila antes —dijo, sin cambiar de cara—. No fue el coche. Ese día ya traía un cilindro que no daba, y aun así. La próxima, la fila es mía.
 
-—¿Qué se te ofrece?
+—¿Qué se te ofrece? Si es el cilindro, te lo oigo desde aquí.
 
 —Trabajo.
 
@@ -311,7 +303,7 @@ Esperó a que dijera más. No dijo más. Kal pensó en la casa vacía de Old Roa
 
 La Kawasaki estaba en la acera, donde Nadir la dejaba para que la vieran. Kal la señaló con la barbilla.
 
-—Revísala.
+—Revísala. A ver qué le encuentras.
 
 Ella se agachó junto a la moto sin quitarse la chaqueta. No tocó la cadena; la miró, nada más, y pasó a otra cosa. Giró la rueda trasera con una mano y la escuchó, con la cabeza ladeada, como se escucha a alguien que habla bajo. Le tomó menos de lo que Kal había tardado el viernes en encontrar la llave del tamaño correcto.
 

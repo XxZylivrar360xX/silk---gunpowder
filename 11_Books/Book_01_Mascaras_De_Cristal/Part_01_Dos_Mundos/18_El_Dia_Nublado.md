@@ -26,15 +26,11 @@ El chiste del campo de golf llevaba semanas rodando entre ellos.
 
 Había empezado una noche en el penthouse, cuando Chiara comentó que el club del norte había cambiado de dueño y Kal no levantó la vista del plato.
 
-—Ya lo sé.
+—Ya lo sé. El martes le arrastré los carritos al dueño viejo.
 
 Ella dejó el tenedor.
 
-—¿Tienes un porcentaje?
-
-—No.
-
-—¿Seguro?
+—¿Tienes un porcentaje? Y no me digas que no, Kal, porque cuando dices que no así de rápido es que sí.
 
 —Un nueve por ciento. —Se sirvió agua—. Pero es del estacionamiento, no del campo. No es lo mismo.
 
@@ -62,7 +58,7 @@ Kal no preguntó. Lo guardó donde guardaba las cosas que no eran suyas todavía
 
 —Mercer —dijo Enzo, desde la barra, sin sorprenderse—. Por la puerta de enfrente. Alguien te va a acusar de estar civilizándote.
 
-—No te acostumbres.
+—No te acostumbres. Atrás hay un charco desde marzo.
 
 No preguntó por ninguna mesa. Cruzó directo a la de Chiara y se sentó frente a ella como si llevara ahí toda la tarde, como si la reserva hubiera sido suya desde el principio. Chiara no dijo nada al respecto, ni una ceja, ni una pregunta, lo cual, viniendo de ella, era casi una bienvenida formal.
 
@@ -140,7 +136,7 @@ Chiara no tardó nada. Un polo negro, que Kal aceptó sin mirarlo, y unos pantal
 
 —Cumplen el código, y tú dijiste que íbamos a jugar con mis reglas. —Chiara le acomodó el gancho sobre el brazo como quien entrega un expediente—. Camisa oscura, pantalón claro. No lo inventé yo, lo inventaron unos escoceses aburridos hace doscientos años.
 
-—Son blancos.
+—Son blancos. Yo me paso el día debajo de los coches, Chiara. En el taller esto dura limpio hasta que alguien estornuda.
 
 Ella no contestó eso. Levantó las cejas y esperó, y Kal entendió que ya había perdido.
 
@@ -150,7 +146,7 @@ Kal, por su parte, ya traía la de ella: una falda de golf que había sacado de 
 
 —Gente que no se agacha. —Del otro lado de la cortina hubo un silencio corto, de tela, mientras ella extendía la falda a contraluz—. *Madonna.* Esto no es una falda, Kal, es una opinión. Es demasiado corta.
 
-—Es reglamentaria —dijo Kal, desde adentro.
+—Es reglamentaria —dijo Kal, desde adentro—. Lo dice el letrero de junto, con todo y tabla de centímetros.
 
 La oyó volverse hacia el dependiente.
 
@@ -178,11 +174,11 @@ Entonces le sostuvo una boina frente a la cara, con las dos manos, como una ofre
 
 —No.
 
-—Es parte del conjunto.
+—Es parte del conjunto. Los escoceses aburridos también la usaban.
 
-—No.
+—Los escoceses aburridos no tenían que volver el jueves, de boina, al club donde el martes arrastraron carritos. —Le quitó la boina de las manos con dos dedos y la colgó él mismo en el perchero.
 
-Ella la devolvió al perchero sin insistir. Ya había ganado los pantalones.
+Ella no insistió. Ya había ganado los pantalones.
 
 ***
 
@@ -202,7 +198,7 @@ La chica le acercó la bolsa por encima del mostrador, con el brazo estirado tod
 
 —El estacionamiento tiene vigilancia, señor.
 
-—Ya sé.
+—Ya sé. El nueve por ciento de esa vigilancia es mío.
 
 Chiara tuvo que darse la vuelta. Cargó su propia bolsa al hombro y caminó hacia el primer hoyo sin esperarlo, y Kal la siguió con la misma facilidad con la que la seguía siempre.
 
@@ -228,7 +224,7 @@ Chiara hizo la cuenta en silencio, con esa rapidez que sólo tienen las personas
 
 —Siete años.
 
-—¿Perdón?
+Kal se apoyó en el palo y esperó.
 
 —Nada. —Pero algo en su cara decía que no era nada, y Kal, un segundo después, ya había hecho la misma cuenta.
 
@@ -300,7 +296,7 @@ Chiara metió el palo en la bolsa, y lo sacó, y lo volvió a meter.
 
 Kal se paró en seco.
 
-—¿De la gasolinera?
+—¿De la gasolinera? ¿La de la Novena, la que vende el aceite rebajado?
 
 —Vienen en una caja de plástico. Están bien. —Y luego, más bajo, ya caminando—: No le digas a Enzo.
 

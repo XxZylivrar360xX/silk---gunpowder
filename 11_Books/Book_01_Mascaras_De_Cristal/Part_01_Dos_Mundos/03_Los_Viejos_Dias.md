@@ -44,7 +44,7 @@ El teléfono vibró contra la madera.
 
 Héctor.
 
-—Ya lo vi —dijo Kal.
+—Ya lo vi —dijo Kal—. Nadir me lo mandó sin texto, que en él es como gritar.
 
 —No te llamo por eso.
 
@@ -52,7 +52,7 @@ La voz le salió más áspera de lo normal, pero no rota. Héctor no se rompía 
 
 —Walt. Sale a las diez. Paso por ti, y no me salgas con una grúa, que hoy las grúas son de Omar.
 
-—Ya estoy afuera.
+—Ya estoy afuera. Agárrame en la esquina de Mabel.
 
 No estaba afuera. Héctor dejó pasar el tiempo justo para que los dos lo supieran.
 
@@ -86,7 +86,7 @@ Apoyada en el capó de un Corolla gris, con los brazos cruzados, Natalie Keegan 
 
 Héctor le ofreció la bolsa a Kal. Kal tomó una concha sin preguntar. Ése era el tipo de cariño que los tres aceptaban: comida pasada de mano en mano sin convertirla en escena.
 
-—¿Era para Walt? —preguntó Kal.
+—¿No era para Walt? —preguntó Kal, con la boca llena.
 
 —Para mí. Si quería pan, que no se metiera diez años.
 
@@ -174,17 +174,17 @@ Héctor le dio la bolsa de papel sin decir qué era. Walt la abrió y miró aden
 
 —Diez años y me recibes con una concha fría.
 
-—Está tibia.
+—Está tibia. Vino en la camioneta con la calefacción puesta.
 
 —La libertad te ablanda el estándar, Navarro.
 
 Walt miró entonces las letras de la sudadera de su hija. Ya lo sabía; se lo había contado ella por teléfono y en la audiencia.
 
-—Bomberos.
+—Bomberos. En la sudadera se lee distinto.
 
 —Hace cuatro meses. Paramédica primero; lo de la manguera vino después, porque faltaba gente.
 
-—Cuatro meses.
+Walt asintió despacio, contando hacia atrás.
 
 Natalie sacó del bolsillo de la sudadera una caja pequeña y se la puso en la mano.
 
@@ -196,13 +196,13 @@ Walt abrió la caja. El teléfono era un rectángulo negro sin un solo botón. L
 
 Natalie le pasó el pulgar por la pantalla y el vidrio se encendió.
 
-—Ahí.
+—Ahí. Y para colgar, igual. No tiene más ciencia.
 
 Walt miró la luz un momento. Después, el estacionamiento: el Corolla, la camioneta de Héctor y, al final de la fila, el Peugeot rojo.
 
 —¿Eso es tuyo?
 
-—Sí —dijo Kal.
+—Sí —dijo Kal—. Ayer le cambié el líquido de frenos; salió negro. Lo demás va por costumbre.
 
 —Me voy contigo. Quiero ver en qué maneja un hombre que ya no me pide permiso.
 
@@ -222,11 +222,11 @@ La radio entró a media nota: Plaza Corona, investigación en curso, el Departam
 
 —¿Keene?
 
-—Jefe de policía.
+—Jefe de policía. Tres tiros en una banca de Plaza Corona, antes de que abrieran los juzgados.
 
 —Cuando entré ponía multas afuera del estadio. A mí me puso dos. —Escuchó hasta que la nota se terminó y bajó el volumen—. ¿Quién lo mató?
 
-—No se sabe.
+—No se sabe. En la barbería ya lo están decidiendo.
 
 Walt apagó la radio.
 
@@ -268,7 +268,7 @@ Walt no se arrodilló. No lloró, al menos no de la manera que se nota desde lej
 
 —Pedí el permiso dos veces —dijo, sin voltear—. Para el entierro.
 
-—Ya sé —dijo Natalie.
+—Ya sé —dijo Natalie—. Las dos veces te dijeron que no.
 
 —Me dijiste que le daba el sol.
 
@@ -406,7 +406,7 @@ Nadie le preguntó qué decía.
 
 —Vámonos de aquí.
 
-—¿Al barrio? —preguntó Héctor.
+—¿Al barrio? —preguntó Héctor—. Nadir puso sopa desde las siete.
 
 —A donde sea que haya ruido.
 
@@ -428,7 +428,7 @@ Walt vio todo. Vio también lo demás: que la barbería ahora compartía la fach
 
 —*Almendra Towing* —leyó.
 
-—Es del niño —dijo Héctor.
+—Es del niño —dijo Héctor—. El letrero también, y se nota.
 
 —El niño tiene cuarenta y uno —dijo Walt.
 
@@ -440,23 +440,19 @@ Walt se quedó en la entrada del patio con la bolsa de plástico en la mano.
 
 Natalie entró a la oficina, sacó una Coca del refrigerador de Kal sin pedirla, dejó las llaves en la taza del escritorio donde había otras llaves suyas y volvió a salir abriendo la lata con los dientes, cosa que su madre le había prohibido a los ocho años.
 
-—¿Quieres algo? —le preguntó a su padre.
+—¿Quieres algo? —le preguntó a su padre—. Hay Coca, y la cerveza de Kal, que no te la recomiendo.
 
 Walt negó con la cabeza. La miraba.
 
 Kal entendió lo que estaba mirando. No el taller. A su hija moviéndose en un lugar que había aprendido a quererla sin él.
 
-—Viene los domingos —dijo Kal—. Cuando no tiene guardia.
-
-—¿Desde cuándo?
-
-—Desde siempre.
+—Viene los domingos —dijo Kal—. Cuando no tiene guardia. Desde antes de que yo pusiera el portón.
 
 Walt asintió como quien firma algo sin leerlo porque ya sabe lo que dice.
 
 Nadir salió del fondo del taller limpiándose las manos en un trapo. Había convertido la noticia en comida, como hacía con todas: sobre una mesa plegable, entre la grúa dos y la pared, había una olla de sopa roja con garbanzos, un kilo de tortillas de Mabel todavía en su papel y pan que no venía de ninguna panadería del barrio.
 
-—Señor Keegan.
+—Señor Keegan. Bienvenido. Hay sopa, y hay de sobra.
 
 Le dio la mano y después se la llevó al pecho.
 
@@ -470,7 +466,7 @@ Walt miró el gesto.
 
 —Cuido que no se mueran de hambre, y que no regalen el trabajo. Las dos cosas cuestan más de lo que parece, señor Keegan.
 
-—Es cierto —dijo Natalie desde el refrigerador.
+—Es cierto —dijo Natalie desde el refrigerador—. La primera vez me cobró la Coca.
 
 Walt lo midió como había medido a Kal en la acera, buscando qué había debajo. Nadir le sostuvo la mirada sin endurecerla, que era lo más difícil, y señaló la olla.
 
@@ -508,7 +504,7 @@ Natalie dejó la lata en la mesa y miró a Danny un segundo más de lo necesario
 
 —Nat, mi amor. ¿Sigues salvando gente?
 
-—Unos cuantos.
+—Unos cuantos. Los que llaman diciendo que no es nada.
 
 —Deja algunos para mí.
 
@@ -524,7 +520,7 @@ Walt dejó la cuchara.
 
 —Me estás mintiendo.
 
-—Te lo juro.
+—Te lo juro. Y en lata sale más caro, que es lo que no entiendo.
 
 —Diez años no alcanzan para eso.
 
@@ -536,7 +532,7 @@ A la una y media, Natalie miró el reloj.
 
 —Entro a las dos.
 
-—¿Hasta qué hora? —preguntó Walt.
+—¿Y sales a qué hora? —preguntó Walt.
 
 —Hasta mañana a las dos. Veinticuatro horas; si hay un incendio grande, más. —Lo dijo como se dicen las cosas que ya no se discuten—. Así son las guardias.
 
@@ -578,7 +574,7 @@ Danny dejó de mover la pierna.
 
 Danny soltó un silbido largo. Héctor no se movió.
 
-—¿Por qué hoy? —preguntó Nadir.
+—¿Y por qué hoy, khoya? —preguntó Nadir—. Treinta mil no se pagan por un lunes cualquiera.
 
 Kal señaló el teléfono bocabajo sobre el escritorio.
 
@@ -658,7 +654,7 @@ Walt no sonrió. Pero algo en la boca se le movió apenas.
 
 —¿A qué hora? —preguntó Nadir.
 
-—Cuando oscurezca.
+—Cuando oscurezca. La recogemos en la tarde, y el Buick no sale de día.
 
 ***
 
@@ -680,7 +676,7 @@ Kal se detuvo con el cierre de la sudadera a medio subir.
 
 —Al portón. No se bajó del coche. —Nadir tiró del cordón—. Parece que quiere hablar contigo de algo. No mencionó qué.
 
-—¿El del casino? —preguntó Danny.
+—¿El del casino? ¿El de la cara? —Danny se llevó la mano a la mejilla derecha sin darse cuenta.
 
 —Magnate. Puerto. Casino —dijo Kal—. Todo el mundo habla de él como si fuera clima.
 

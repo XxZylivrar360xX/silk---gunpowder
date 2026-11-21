@@ -120,7 +120,7 @@ Era bueno. Chiara no lo dijo.
 
 —La casa la levantó una familia de madereros en mil novecientos once. Trajeron a un arquitecto de Boston que quería hacer una casa inglesa. No le salió. Le salió esto, que es mejor. —Se sentó en el otro sillón y cruzó una pierna—. En Nueva York le hablé de un edificio que nacía viejo por copiar demasiado. Éste es el caso contrario.
 
-—Lo recuerdo.
+—Lo recuerdo. El de la calle 57. Y un cuarteto en el Lincoln Center, esa misma semana.
 
 —Me alegra. Usted escucha.
 

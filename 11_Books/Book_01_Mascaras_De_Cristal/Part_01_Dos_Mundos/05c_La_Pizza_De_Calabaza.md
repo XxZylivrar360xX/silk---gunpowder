@@ -56,7 +56,7 @@ Kal se enderezó.
 
 —Entonces es el contrato. —Abrió la carpeta—. Si hay algo en las condiciones que no le…
 
-—Tampoco.
+—Tampoco. El contrato está bien; lo leí dos veces.
 
 Ella cerró la carpeta y lo miró como lo había mirado en la junta del primer día, buscando por dónde iba a entrar el precio.
 
@@ -84,9 +84,7 @@ Kal asintió. Tardó en saber qué hacer con las manos después de que le dijera
 
 —Por aquí entran las toallas, señor Mercer. —Subió un escalón del muelle—. En la entrada principal. Bajo la marquesina.
 
-—Bajo la marquesina —repitió él.
-
-—A las ocho.
+—Bajo la marquesina —repitió él—. A las ocho.
 
 Subió otro escalón y se volvió, con la carpeta otra vez contra el pecho.
 
@@ -148,7 +146,7 @@ Héctor lo miró de arriba abajo.
 
 Kal bajó la vista. Camiseta, jeans, botas, grasa en la muñeca.
 
-—No.
+—No. Tengo una camisa.
 
 Héctor siguió mirándolo. Rocco también.
 
@@ -158,7 +156,7 @@ Danny bañó al perro en el lavadero del patio, con jabón de manos y la manguer
 
 —¿Y a dónde va mi perro, que hay que bañarlo dos veces? Porque él no ha firmado nada, jefe, y tiene derecho a saber.
 
-—Al casino.
+—Al casino. Va de acompañante.
 
 —¿Al casino? A mí me sacan del estacionamiento, y yo me baño. Casi siempre.
 
@@ -184,8 +182,6 @@ El vendedor lo observó con una sonrisa fija.
 
 —Eso estoy revisando.
 
-—Claro.
-
 La camioneta olía a cuero, aromatizante caro y plástico demasiado limpio. Kal se sentó al volante y cerró la puerta. El interior era cómodo de una manera que le parecía sospechosa. Demasiado silencio, demasiada asistencia, demasiadas pantallas diciéndole cosas que él prefería sentir con las manos.
 
 La rentó de todos modos.
@@ -200,9 +196,7 @@ Rocco lo esperaba en el patio con un pañuelo rojo en el cuello y la dignidad co
 
 Héctor salió al patio, miró la camioneta y luego a Kal.
 
-—¿Rentada?
-
-—Sí.
+—Rentada —dijo Kal, antes de que preguntara—. Hasta el domingo, con seguro.
 
 Héctor le dio la vuelta despacio, le pateó una llanta y se asomó por el vidrio a las pantallas del tablero.
 
@@ -258,9 +252,7 @@ Kal miró a Rocco.
 
 Rowe le levantó una ceja a Chiara. Chiara se la levantó a Kal.
 
-—¿El perro?
-
-—Sí.
+—El perro quería saludar —repitió ella, para que constara.
 
 Ya era tarde para cualquier otro plan. Kal se agachó junto a Rocco.
 
@@ -442,7 +434,7 @@ Fue Kal quien sacó a los de la entrada.
 
 —Vienen a jugar baccarat a la mesa seis. Ella pierde sin cambiar la cara y deja propina igual. Él gana y se lo cuenta al crupier, a la mesera y a quien esté en la mesa de al lado. La primera vez bajé a conocerlos. —Bebió—. Al enemigo hay que tenerlo cerca.
 
-—¿Son enemigos?
+—¿Son enemigos? De lejos parecían clientes que pagan a tiempo.
 
 —Todavía no. Por eso. Tengo un casino nuevo en una ciudad donde el jefe de policía amaneció muerto en una banca. Si la fiscalía va a mirar mi edificio, prefiero que lo mire desde una mesa que yo le puse, con una copa que pagué yo.
 
@@ -506,7 +498,7 @@ Kal los fue contando con los dedos sobre el mantel.
 
 —El lote. El taller. Las grúas. —Se quedó con el cuarto dedo levantado—. Y estoy pensando en una empresa de seguridad.
 
-—¿De seguridad?
+—¿De seguridad? ¿Usted, de traje, en una caseta?
 
 —Legítima. Licencia, uniformes, seguro. Gente de la Almendra que ya sabe pararse en una puerta. —Bajó la mano—. Si la concreto, ¿le interesaría? Podría ofrecerle seguridad al casino. De la que se puede enseñar.
 

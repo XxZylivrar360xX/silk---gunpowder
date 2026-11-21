@@ -50,7 +50,7 @@ El Patio ya tenía movimiento. Nadir estaba con Danny junto a la grúa, contando
 
 —Ahí está —dijo Nadir, sin levantar del todo la vista—. Pensé que ibas a quedarte dormido, khoya.
 
-—No dormí.
+—No dormí. La caldera del loft estuvo pateando toda la noche.
 
 —Se te nota. —Nadir se limpió las manos en un trapo que ya no limpiaba nada—. Danny ya revisó lo que había que revisar. Garrett llega a las cuatro. Dijo que antes no tiene sentido.
 
@@ -102,7 +102,7 @@ Nadir lo pensó. Kal casi podía verlo hacer la cuenta: lo que valía una carpet
 
 —Safi —dijo—. Pero si se quejan, se quejan contigo.
 
-—Conmigo.
+—Conmigo. Ya saben dónde queda el taller.
 
 Desde el capó, Héctor los había visto hablar sin oír nada. Siguió mirando la calle.
 

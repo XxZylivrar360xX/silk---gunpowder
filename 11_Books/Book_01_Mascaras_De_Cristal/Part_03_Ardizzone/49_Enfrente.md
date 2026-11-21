@@ -120,7 +120,7 @@ Después Valenti dejó la taza en el plato con un sonido pequeño y exacto.
 
 —Usted me llamó, signora.
 
-—Sí.
+—Sí. Es la primera vez que uso ese número.
 
 Él esperó. No la ayudó.
 
@@ -236,13 +236,13 @@ Sacó de la bolsa un tóper de vidrio con tapa azul y lo puso encima del reporte
 
 —Ya cené.
 
-—¿Qué cenaste?
+—¿Qué cenaste? Y no me digas café, que el café no se mastica.
 
 Chiara no contestó. Fabrizio miró el escritorio: la carpeta de la nómina, el billete doblado, el lápiz junto al teléfono.
 
-—Ése es mío.
+—Ese lápiz es mío. Te lo presté para firmar una cosa, y mira.
 
-—Ya no.
+Chiara lo guardó en el cajón.
 
 —Ya, ya. —Se rio, una risa corta, y miró la ventana, el letrero dorado del hotel de enfrente encendido sobre el Paseo—. Aquí no. Aquí comes como si te fueran a cobrar el plato. ¿Sigue siendo tuya la terraza?
 
@@ -278,7 +278,7 @@ Chiara no le dijo nada. Comió otro bocado. Fabrizio miró el puerto y la dejó 
 
 —Alguien. —No discutió—. Giada perdió un diente la semana pasada y quería saber si el ratón de aquí paga en dólares o en euros. Ganó Giada: en euros, porque el diente es italiano. —Se rio—. Nico quiere ser portero de hotel cuando sea grande. Por los guantes.
 
-—Es buen oficio.
+—Es buen oficio. En la puerta de un hotel se ve llegar a todo el mundo.
 
 —Eso le dije.
 

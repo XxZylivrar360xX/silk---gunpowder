@@ -79,11 +79,7 @@ Kenji las tomó y empezó a contar billetes que no hacían falta para dos fichas
 
 —Dígamelo así.
 
-—Los del norte son contratistas. Mantenimiento, cocina, transporte. —Puso un billete encima de otro—. Uno se quejaba de las camisas. Dice que desde la primavera la base ya no lava la ropa adentro. La manda a una lavandería del Alder Cutoff, junto a la pista de carga, y se la regresan con tanto almidón que le raspa el cuello.
-
-—¿Y los demás?
-
-—Se rieron. El de al lado le dijo que no se quejara, que ahora hasta a los del calabozo les planchan la ropa.
+—Los del norte son contratistas. Mantenimiento, cocina, transporte. —Puso un billete encima de otro—. Uno se quejaba de las camisas. Dice que desde la primavera la base ya no lava la ropa adentro. La manda a una lavandería del Alder Cutoff, junto a la pista de carga, y se la regresan con tanto almidón que le raspa el cuello. Los demás se rieron. El de al lado le dijo que no se quejara, que ahora hasta a los del calabozo les planchan la ropa.
 
 Kenji le pasó los billetes por la ranura. Cincuenta, exactos.
 
@@ -107,9 +103,9 @@ Chiara se sentó ahí.
 
 Los de la barra no levantaron la cabeza. El taxista terminó su café, dejó una moneda y se fue. La campanita sonó otra vez, más cansada.
 
-—¿Quién le dijo? —preguntó Chiara.
+—No sabía que llevaba la cuenta —dijo Chiara.
 
-—Nadie. Él desayuna aquí. Si no desayuna aquí, está enfermo o está en otro lado, y no se enferma. —Mabel acomodó las rebanadas en una bandeja con la punta del cuchillo—. Y Nadir vino el otro día a comprar cigarros. Nadir no fuma.
+—No la llevo. Él desayuna aquí. Si no desayuna aquí, está enfermo o está en otro lado, y no se enferma. —Mabel acomodó las rebanadas en una bandeja con la punta del cuchillo—. Y Nadir vino el otro día a comprar cigarros. Nadir no fuma.
 
 Chiara tomó un trago de café. Estaba quemado. Lo tomó igual.
 
@@ -121,11 +117,7 @@ Mabel siguió cortando. La rebanada cayó sobre la anterior, igual de delgada.
 
 El cuchillo se detuvo sobre la tabla. Mabel no lo soltó; se quedó con él en la mano y con la otra apoyada en el jamón, y por un momento la única cosa que se movía detrás del mostrador fue el vapor de la cafetera.
 
-—Lavanderías del Norte —dijo—. La de la tapia azul. Ahí plancha mi comadre.
-
-—¿Desde cuándo?
-
-—Desde que cerraron la de hospital donde planchó veinte años. —Mabel dejó el cuchillo—. Rosaura Quintero. Trabaja de noche. Sale a las cinco y media y llega aquí a las seis y media por un café, cuando no está muy cansada. Hoy no vino.
+—Lavanderías del Norte —dijo—. La de la tapia azul. Ahí plancha mi comadre desde que cerraron la de hospital donde planchó veinte años. —Mabel dejó el cuchillo—. Rosaura Quintero. Trabaja de noche. Sale a las cinco y media y llega aquí a las seis y media por un café, cuando no está muy cansada. Hoy no vino.
 
 —¿Usted podría hablarle?
 
@@ -191,13 +183,9 @@ El muchacho dudó.
 
 —La otra tarde, antes de que yo entrara. Mi compañero del turno de día me lo comentó. El señor Mercer subió, como siempre, sin anunciarse, porque a él ya no se le anuncia. Y bajó a los cinco minutos. —Se aclaró la garganta—. Seguridad dice que no llegó a tocar. Como usted no llamó para nada, pensamos que ya lo sabía.
 
-—¿Qué tarde?
+—¿Qué tarde, y a qué hora?
 
-Él se lo dijo. La víspera.
-
-—¿A qué hora?
-
-—Pasadas las siete, según el registro.
+Él se lo dijo. La víspera, pasadas las siete, según el registro.
 
 Chiara no se movió del mostrador. El muchacho la miraba esperando algo que le permitiera volver a sentarse.
 
@@ -355,7 +343,7 @@ Chiara no se lo negó. Rosaura la miró de arriba abajo, sin prisa, como quien r
 
 —Yo no le voy a decir nada de lo que hay allá adentro —dijo Rosaura—. No sé lo que hay allá adentro. Nunca he entrado. Los camiones van y vienen y a mí me llegan las bolsas.
 
-—Lo entiendo.
+Chiara asintió.
 
 —Las del calabozo llegan aparte. Una bolsa por cabeza, con una etiqueta de plástico amarrada, con el apellido y un número. Son pocas. Ocho, diez, a veces menos. Las lavamos aparte, las planchamos aparte, y regresan en el camión de la mañana en la misma bolsa con la misma etiqueta. —Le dio una fumada al cigarro—. Antenoche había una etiqueta nueva. Anoche también.
 

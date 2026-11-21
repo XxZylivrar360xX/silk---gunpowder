@@ -93,7 +93,7 @@ Varek sabiendo por dónde había salido. No era bueno y no era lo peor. Varek ya
 
 —Que tenía a Vivian en un vuelo de las seis. Que si quería, le pedía a la torre la hora del despegue. —Chiara se cruzó de brazos dentro de las mangas que le sobraban—. Que él no te tenía. Y me enseñó una multa.
 
-—Una multa.
+—Varek no enseña nada que no quiera que veas.
 
 —De tránsito. De la policía de aquí. —Se le fue la mirada a la ventana, a la cortina—. Un sedán oscuro con una luz de freno fundida, en la calle de El Patio, a las dos de la madrugada de anteayer. Placas de Virginia. Un coche de renta a nombre de una empresa que tiene una oficina en Virginia y un teléfono que no contesta nadie. Dijo: «No es mío y no es de aquí».
 
@@ -185,7 +185,7 @@ Kal dejó las fotos en la barra, alineadas, como si alinearlas fuera a cambiar a
 
 —No deberías haber sido tú.
 
-—Salieron bien.
+—Salieron bien. La placa se lee, y los horarios los revisé dos veces.
 
 Le puso un dedo encima a la placa legible, la que ella había esperado una hora entera, y no le discutió eso.
 
@@ -225,7 +225,7 @@ Kal se tocó el costado sin darse cuenta.
 
 —¿Hablaste con Walt?
 
-—Todavía no.
+—Todavía no. A Walt las cosas se le dicen de frente, y hoy no traigo cara para eso.
 
 —Me dijo que no me preocupara por nada. —Bajó la vista a las fotos—. Que no quería volver a verte metido en cosas más grandes de las que puedes cargar. Me lo dijo a mí, Kal, como si yo fuera una de esas cosas.
 
@@ -233,7 +233,7 @@ Kal no contestó eso.
 
 —Escúchame. —Dio un paso hacia ella, el primero suyo—. Hay que buscarte un sitio. Para que pases todo esto y arregles la mierda que tienes con la gente con la que te mueves. Porque escúchame: no son los tuyos. Varek no es tu socio.
 
-—No lo sé…
+—No lo sé… Hasta ayer creía que sí.
 
 —A mí me lo dejó muy claro, en el hospital. La tregua era por lo que te hicieron en su hipódromo, no por ti. Eres algo suyo que le rompieron. Y tú me acabas de decir lo mismo con sus palabras. —Señaló hacia el norte, hacia ningún lado—. La hija, la que trabaja con él…
 
@@ -381,15 +381,9 @@ Varek no cambió la expresión. El hombre se retiró. Kal no preguntó: no sabí
 
 Tardó, aun así, medio segundo de más en hablar.
 
-—Necesito una puerta —dijo.
+—Necesito una puerta —dijo—. La de Camp Alder.
 
-Varek levantó el vaso sin beber y lo giró despacio, dejando que el hielo sonara contra el vidrio.
-
-—¿Cuál?
-
-—Camp Alder.
-
-El nombre no hizo ruido. Pero algo en el patio cambió un grado, como cuando pasa una nube fina delante del sol y nadie mira hacia arriba para confirmarlo.
+Varek levantó el vaso sin beber y lo giró despacio, dejando que el hielo sonara contra el vidrio. El nombre no hizo ruido. Pero algo en el patio cambió un grado, como cuando pasa una nube fina delante del sol y nadie mira hacia arriba para confirmarlo.
 
 —¿Qué hay dentro?
 
@@ -495,11 +489,7 @@ Lo dijo sin subir la voz, con la misma rapidez con que había dicho Camp Alder.
 
 —¿Por qué no? —Varek no sonaba ofendido; sonaba interesado, que era peor—. Bellandi escucha cosas por las que otros pagarían. Clientes, empresarios, políticos con la guardia baja delante de una copa que ella misma les sirve. Sería un activo excelente.
 
-—Precisamente.
-
-—¿Precisamente qué?
-
-—Usted quiere sentarla en la mesa. —Kal midió cada palabra, plana, sin nada debajo que se pudiera agarrar—. Yo prefiero que siga escuchando a la gente que cree que ella no está sentada en ninguna.
+—Precisamente por eso. —Kal midió cada palabra, plana, sin nada debajo que se pudiera agarrar—. Usted quiere sentarla en la mesa. Yo prefiero que siga escuchando a la gente que cree que ella no está sentada en ninguna.
 
 Algo se movió en la cara de Varek, como cuando alguien reconoce una jugada que habría querido pensar primero.
 

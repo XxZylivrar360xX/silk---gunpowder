@@ -127,7 +127,7 @@ Chiara pensó en una ventana de segundo piso que daba a un estacionamiento. En u
 
 Fue la voz de la recepción, la de los grandes apostadores que perdían, y Blake la reconoció. Se tocó la placa con el pulgar, como para recordarle con quién hablaba, y se puso la gorra.
 
-—Tú sabrás.
+—Tú sabrás. Pero en El Relevo ya lo sabe todo el mundo, y yo no voy a ser el último en enterarme.
 
 Cruzó el lobby sin mirar atrás y se fue a pie hacia Calle Corona. Chiara salió por la puerta de carga, donde Danny la esperaba con el motor encendido.
 
@@ -147,7 +147,7 @@ Había luz y voces bajas. Desde ahí veía media cocina: el codo de Kal sobre el
 
 Kal terminó de anotar una cifra y cerró el libro. Abrió una libreta más chica, de pastas blandas, y escribió algo en la última hoja.
 
-—¿Cuánto les queda?
+—¿Y cuánto les queda a los que dejaron de venir? De comida, digo.
 
 —A los seis, mucho. —La tuerca dejó de moverse—. A los otros ocho ya se les acabó.
 
@@ -169,11 +169,11 @@ No era mucho. Era lo que tenía.
 
 Estaban en la mesa larga. Nadir servía unos metros más allá, con la atención exagerada de quien finge no escuchar. Chiara había dejado el tenedor en el plato y miraba el salero sin tocarlo.
 
-—¿Qué?
+—Depende. Si es cargar algo, búscate a Danny.
 
 —Compré una casa. Está vacía. Necesito distribuirla.
 
-—¿Dónde?
+—¿Dónde? ¿Y para qué, si tienes esta casa?
 
 —Aquí cerca. Un loft para soltero. Algo funcional. No necesito mucho.
 
@@ -183,7 +183,7 @@ Chiara levantó la mirada. Por un segundo pensó en decirle lo que había oído 
 
 —No hace falta que vayas. Te mando fotos y medidas.
 
-—¿Fotos?
+—¿Fotos? Una foto no te dice dónde pega el sol a las cinco.
 
 —Hay polvo. Clavos. Una escalera que no sé si aguanta.
 
@@ -227,7 +227,7 @@ Arriba entró al primer cuarto, volvió al pasillo y se asomó por la ventana in
 
 —¿Quién va a venir? ¿Por la puerta de atrás también?
 
-—Los muchachos.
+—Los muchachos. Danny, Nadir, Héctor cuando se le descompone la camioneta. Gente que entra sin tocar.
 
 Contestó la primera pregunta y dejó la segunda donde estaba. Sacó la cinta métrica y midió el marco de la ventana, que ya había medido.
 
@@ -253,7 +253,7 @@ Kal no dijo nada, y su silencio duró más que la mentira.
 
 —No sabía cómo se llamaba hace un segundo —admitió, y se tocó la sien sin darse cuenta—. Todo lo que sé de obras lo aprendí en italiano. En español me falta media ferretería.
 
-—Se arregla.
+—Se arregla. La ferretería en español te la presto yo.
 
 Bajaron. Chiara se paró en medio de la sala y giró despacio sobre sí misma. Sin el piso de arriba, los ventanales podían empujar la luz hasta la cocina. La escalera, en vez de cortar el centro, podía correr abierta contra un muro lateral, y el dormitorio quedaría suspendido sobre la parte trasera, visible desde abajo sólo hasta la barandilla. Kal siguió con los ojos la ruta que ella dibujaba con el dedo.
 
@@ -273,9 +273,7 @@ Kal lo apuntó en el folleto de la inmobiliaria. Después señaló el muro inter
 
 —Los muchachos comen.
 
-—Claro.
-
-No sonrió. No le hacía falta.
+Chiara no sonrió. No le hacía falta.
 
 Arriba, Kal abrió la puerta trasera antes de que ella pudiera tocarla. El balcón estaba comido por la intemperie: dos tablas hinchadas y una barandilla que se movía con el viento.
 
@@ -297,7 +295,7 @@ Esa tarde llamó a la empresa que había hecho dos ampliaciones del Monarch y co
 
 Kal recorrió las partidas con un dedo y se detuvo en una hoja que no venía de la empresa. La había escrito ella, con la izquierda, con la letra de alguien que firma con la otra mano. *Materiales: depósito de Ochoa, calle del canal. Peones: de la Almendra. Pago por adelantado, cada lunes.*
 
-—¿Y esto?
+—¿Y esta hoja? No es de la empresa.
 
 —Una condición.
 
@@ -307,9 +305,9 @@ Kal recorrió las partidas con un dedo y se detuvo en una hoja que no venía de 
 
 Nadir hizo otra cuenta con los dedos contra la cubierta, ésa sin decirla, y volvió a la olla. Kal pasó a la última hoja. Era la revisión de cargas del arquitecto, con el sello de pagado.
 
-—Esto también.
+—¿Esto también lo pagaste?
 
-—Ya está.
+—Ya está. El arquitecto cobra al sellar.
 
 —La estructura la pago yo. Lo que carga, lo que sostiene la casa. En lo demás opina lo que quieras, pero eso va a mi nombre.
 
@@ -349,7 +347,7 @@ Chiara se quedó quieta. Después se llevó la mano a la oreja y ajustó un aret
 
 —En mis cuentas queda como deuda.
 
-—Anótala.
+—Anótala. Y ponle fecha: las deudas sin fecha no se cobran nunca.
 
 Kal tomó el bolígrafo.
 
@@ -391,15 +389,15 @@ Era un hombre bajo, de manos grandes, con la camisa de manga corta abotonada has
 
 —Le sigo surtiendo, señora. Pero de aquí en adelante cobro al entregar.
 
-—¿Hice algo mal?
+—¿Hice algo mal? Le pagué antes de que me lo pidiera.
 
 —Pagó antes. —Lo dijo como quien da el precio de un bulto de arena—. El lunes me subieron la cuota. Por la competencia, me dijeron.
 
-—¿Qué competencia?
+—¿Competencia de quién? Yo no le vendo block a nadie.
 
 —En la Almendra el dinero que entra pasa por una sola ventanilla. El suyo no pasó.
 
-—¿Cuánto le subieron?
+—¿Cuánto le subieron? Dígame la cifra exacta.
 
 Le dijo la cifra. No era mucha. Era, redondeada hacia arriba, la décima parte de lo que ella le había pagado en tres semanas, como si alguien hubiera leído sus facturas con más cuidado que el jefe de obra.
 
@@ -525,7 +523,7 @@ A la mañana siguiente estaba en el baño del mezzanine, poniendo su cepillo de 
 
 —Ésa no —dijo Kal desde la cocina.
 
-—¿Por qué?
+—¿Por qué? Es la única limpia, jefe, las otras traen aceite hasta el asa.
 
 Se oyó un gabinete y una taza contra la cubierta.
 

@@ -20,7 +20,7 @@ Chiara lo notó una noche en el casino, antes de que él dijera nada.
 
 —Estás en otro lado.
 
-—Estoy aquí.
+—Estoy aquí. Pensando en una transmisión que no quiere entrar en tercera.
 
 —Estás aquí y en otro lado.
 
@@ -30,7 +30,7 @@ Fue ella la que llamó dos días después, sin excusa de negocios, sin pretexto 
 
 —Bolos —dijo, como si la palabra sola explicara todo—. Hay una bolera en la playa. Nunca he ido a una.
 
-—¿Nunca?
+—¿Nunca? Si es lo único abierto en la playa después de las diez.
 
 —En Palermo no hay bolos, Kal. Hay bochas, y las juegan los viejos.
 
@@ -46,7 +46,7 @@ El muchacho del mostrador les cambió los zapatos sin levantar la vista. Chiara 
 
 Chiara levantó uno por el cordón, a la altura de los ojos de Kal, como prueba de algo.
 
-—Póntelos, Bellandi.
+—Póntelos, Bellandi. Los rocían con algo después de cada uso; mejor no preguntes con qué.
 
 Se los puso. Con la bola fue peor: los agujeros no estaban hechos para uñas como las suyas. Probó de un lado, probó del otro, y al final se quitó los anillos uno por uno y se los fue dejando a Kal en la palma, sin mirarlo, como quien deja las llaves al entrar a su casa.
 
@@ -72,7 +72,7 @@ Kal no la oyó. Se había ido hasta la pantalla a ver el siete escrito junto a s
 
 Ella tiró de nuevo. Canal. Otra vez, canal. Para la cuarta bola ya se estaba riendo de sí misma, algo que Kal no recordaba haberle visto nunca: reírse de perder, no de ganar.
 
-—Eres malísima.
+—Eres malísima. De verdad: nunca había visto a nadie tirar al canal con tan buena postura.
 
 —Ya sé. —No podía parar—. Ya sé, ya sé. Enséñame, ¿no? Para algo te traje.
 
@@ -84,7 +84,7 @@ Chiara tiró. Cayeron cuatro pinos.
 
 —¡Cuatro! —Se giró con las dos manos arriba—. ¡Cuatro, Kal!
 
-—Ahí está.
+—Ahí está. La flecha no miente.
 
 La señora de la pista de al lado, que llevaba dos nietos y ninguna prisa, aplaudió también.
 
@@ -108,7 +108,7 @@ Después la bajó. Chiara se acomodó el pelo. Kal se puso a mirar la pantalla c
 
 —Te gané —dijo ella al rato.
 
-—Me ganaste.
+—Me ganaste. Por dos pinos, y uno se cayó de lástima.
 
 La señora de al lado los miraba con la cara de quien ya ha visto esto antes y sabe cómo termina.
 
@@ -138,13 +138,9 @@ Kal se quedó con la hamburguesa a medio camino.
 
 Se lo contó igual. Un Buick con el cárter partido en la Novena antes de las ocho. La casa de repuestos de la Novena, que desde la cuota nueva cerraba a las seis y ya no fiaba. Harper, en su primera semana fuera de la barra de Mabel, caminando las doce hectáreas del norte y llamándolo a mediodía para decirle que la tierra era buena y el agua no era suya. Walt llamándolo dos veces para preguntarle cómo se mandaba una foto, y la foto, al final, del techo de la destilería. Y en la noche una mujer que le ganó en los bolos con zapatos rentados, después de tirar cinco bolas seguidas al canal.
 
-—Tres.
+—Tres —dijo ella, con la boca llena—. Tres al canal y una que rozó el pino de la esquina, que en cualquier país civilizado cuenta.
 
-—Cinco.
-
-—Tres, Kal.
-
-—Lo vi en la pantalla.
+—Cinco. Lo vi en la pantalla.
 
 Ella se rio con la boca llena y se le apoyó en el hombro, por el frío, dijo. Nadie le había preguntado. Se chupó la sal del pulgar, un anillo después del otro brillándole con la luz del malecón, y se quedó así, sin acomodarse nada.
 
@@ -168,7 +164,7 @@ Se giró hacia ella con una mirada de incredulidad tan bien fingida que por un s
 
 —¿Perdón?
 
-—Ya me oíste.
+—Ya me oíste. Cosa de jóvenes locos, y de hombres que se creen jóvenes.
 
 —No me digas que tú…
 
@@ -246,7 +242,7 @@ La botella que habían comprado era un Chiaretto de Bardolino, rosado de verdad,
 
 —Tengo una regla —dijo, con la copa todavía en la mano, sin beber—. Nunca miento en lo pequeño.
 
-—Lo sé.
+—Lo sé. Es de las pocas reglas tuyas que todavía no me has cobrado.
 
 —Entonces te digo la verdad de lo pequeño. —Dejó la copa sin haber tomado nada—. No quiero que esta noche se termine todavía.
 

@@ -71,7 +71,7 @@ Arrancó.
 
 Antes de salir del último pueblo Marisol cambió la emisora tres veces sin dejar ninguna. En el semáforo dijo «Oye», y cuando Kal la miró ya estaba mirando por la ventanilla.
 
-—Qué.
+—Qué. Faltan once kilómetros para el desvío, si es eso.
 
 —Nada. Que no te pases el desvío.
 
@@ -263,7 +263,7 @@ Marisol levantó la cabeza de golpe.
 
 —¿Qué fue eso?
 
-—Nada.
+—Nada. Me quemé con el leño.
 
 —Eso no fue nada. Eso sonó a idioma. —Se enderezó, ya sin dejarlo ir—. Dijiste «dai». Eso es italiano.
 
@@ -339,11 +339,7 @@ Kal no se sentó. Se quedó de pie frente a ella, entre la piedra y el agua, has
 
 —Por qué reprobaste.
 
-—Porque no estudié. —No buscó excusas—. Y falté.
-
-—Cuántas clases.
-
-—Seis.
+—Porque no estudié. —No buscó excusas—. Y falté. Seis clases, antes de que me lo preguntes.
 
 —Las notas me dan igual. Una nota se recupera. —No subió la voz. Marisol se quedó quieta de todos modos—. Me miraste a la cara y me dijiste que ibas bien. A mí.
 
