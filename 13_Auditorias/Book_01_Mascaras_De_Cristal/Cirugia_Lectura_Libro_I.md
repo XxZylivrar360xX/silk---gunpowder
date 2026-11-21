@@ -18,6 +18,20 @@ Plan de trabajo, en marcha desde el 2026-11-21 (DECISIÓN DEL AUTOR sobre el mé
 
 **Regla aprendida (2026-11-21):** al alargar una réplica, el añadido trae un dato o una acción, nunca una explicación de lo que ya se vio.
 
+## Lecciones de los barridos del 2026-11-21 (leer antes de empezar)
+
+1. **Herramientas** (desde la raíz; `-I -X utf8` evita errores de codificación en Windows):
+   - `python -I -X utf8 tools/editorial/canon_check.py ARCHIVO.md` compara contra HEAD y avisa si se perdió una cita protegida; `--contra <commit>` compara contra otra versión.
+   - `python -I -X utf8 tools/editorial/pingpong_audit.py ARCHIVO.md` detecta ping-pong; con `--cortas` mide las réplicas de ≤3 palabras (regla 06).
+2. **Límite del revisor:** no detecta las notas que protegen una escena entera sin citar líneas («la moto de Nadir, literal salvo la primera frase»; «Literales: la llamada, el Penthouse…»; «la escena de Collins»). En los barridos de hoy esas escenas se tocaron y hubo que restaurarlas: la moto del 22 (24b), cuatro escenas del 34 (36) y Collins en el 33 (35). **Antes de editar, leer el encabezado completo y listar a mano las escenas literales.**
+3. **No repartir la edición en agentes paralelos.** Los forks perdieron canon tres veces: la ciabatta del 31, «¿Depende de qué?» del 3 y «El dentista no tiene un casino» del 4. Los agentes sirven para leer (el segundo lector), no para editar.
+4. **Las réplicas infladas de hoy** están listadas por capítulo en la lectura corrida: se recortan o se revierten. Detalles inventados por los barridos, por verificar: ver [[98_Agent_Handoff/sessions/2026-11-21_claude_pingpong_libro_I]].
+5. **Excepciones aprobadas** (reglas 05 y 06; no se tocan): los ojos del 3, la vela del 13, «Ladro» del 31, los dos tramos de H21 del 32 («Chiaraaa…» y «Mi pareja»), la moto de Nadir del 22 y la llave del 34.
+6. **Eco entre libros:** la ciabatta del 31 se repite literal en *Ya llegó* (Libro II). Si se toca una, se toca la otra.
+7. **Capítulo no es archivo.** La tabla de abajo da la equivalencia. La lectura corrida usa número de capítulo y, entre paréntesis, el prefijo de archivo; las notas de sesión de hoy a veces usan el prefijo. Las líneas citadas son de la prosa del 2026-11-21 y pueden haberse movido.
+8. **Otra sesión puede estar editando el Libro I.** El 2026-11-21 lo hizo «Editorial Libro 1». Correr `git status` antes de abrir cada archivo y no tocar lo que aparezca modificado sin saber de quién es.
+9. **Audio del Libro I suspendido** hasta cerrar esta cirugía (28 de 47 caps. al día). EPUB y PDF se regeneran al cerrar cada Parte con la skill `regenerar-y-subir`; mientras tanto, commit por capítulo sin regenerar.
+
 ## Decisiones transversales (DECISIÓN DEL AUTOR, 2026-11-21)
 
 1. **Luz en invierno** (41, 42, 45 y 47): se conservan las horas y se corrige lo que se ve. En el 47, «hacia las 5, primeras luces» pasa a «todavía de noche», y la primera luz llega después, dentro de la escena.

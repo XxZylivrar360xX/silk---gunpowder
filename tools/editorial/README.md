@@ -96,3 +96,11 @@ python tools/editorial/pingpong_audit.py             # Libro I
 python tools/editorial/pingpong_audit.py --book 2    # Libro II
 python tools/editorial/pingpong_audit.py RUTA.md --min 5 --maxw 14
 ```
+
+## Revisor de canon (2026-11-21)
+
+`canon_check.py`, solo lectura y sin dependencias. Tras editar prosa, compara contra HEAD (o `--contra <commit>`) y avisa si una cita protegida aparece menos veces. Toma las citas de Hitos, DECISIONS, Kal_y_Chiara, los Book_Map y las notas de canon o literal del propio archivo. No detecta las notas que protegen escenas enteras sin citarlas: esas se leen en el encabezado.
+
+```
+python -I -X utf8 tools/editorial/canon_check.py ARCHIVO.md [...]
+```
