@@ -22,6 +22,7 @@ Sin insinuacion de Dario sobre Keene (2026-11-03, DECISION DEL AUTOR): antes de 
 Continuidad (2026-11-04, encargo del autor; DISENO, pendiente de lectura; el estado se conserva): fuera "Guardo el telefono"; al entrar a la oficina Kal lo deja bocabajo sobre el escritorio, con lo que "Kal senalo el telefono bocabajo" y el eco de Walt en el escalon quedan iguales y este ultimo mejora (Walt lo vio desde el marco). La audiencia queda con mesa, no con vidrio: "al otro lado de una mesa". Detalle: 98_Agent_Handoff/sessions/2026-11-04_claude_detalles_caps02_03.md.
 Decisiones del autor (2026-11-04; redaccion DISENO, pendiente de lectura): la perra flaca es Rocco ("y eso que no traia nada de comer", rima con el Cap. 1; fuera "cosa que no hacia por nadie"). El Monarch era la salida de Kal: "Si Matteo llamaba antes de las dos, el anticipo se devolvia". La hierba se recoge en la tarde y va en el Buick de noche, lo que acorta el trabajo y deja a Danny tiempo para el cajero (ver Cap. 4).
 Fixer rusa (2026-11-07, CANON DEL AUTOR): Anya queda retirada; la contacto rusa de Afganistán es una fixer sin nombre y sin romance. Se quita «y no siempre por trabajo».
+Cirugia de la lectura (2026-11-21; BORRADOR, espera lectura): replicas infladas recortadas, Mabel y liquido de frenos fuera, replica del dinero recortada con el recibo de Marisol en narracion, «o cobras la proteccion, o la pagas», «entre los otros jefes» (decisiones del autor). Detalle: 98_Agent_Handoff/sessions/2026-11-21_claude_cirugia_lectura_cap03.md.
 -->
 
 # Capítulo 3 — Lo que no cambió
@@ -30,7 +31,7 @@ El lunes, Kal despertó antes de que sonara el teléfono, con la misma incomodid
 
 El catre no perdonaba el traje de la noche anterior. La camisa azul seguía doblada sobre la caja de recibos y el saco colgaba del respaldo de la silla como si también estuviera cansado de fingir. La grieta del techo seguía ahí. No había aprendido nada durante la noche.
 
-En el celular había seis mensajes y un enlace que Nadir le había mandado sin texto. Eso ya era texto suficiente.
+En el celular había seis mensajes y un enlace que Nadir le había mandado sin texto.
 
 **Encuentran ejecutado al jefe de policía Raymond Keene en Plaza Corona.**
 
@@ -52,9 +53,9 @@ La voz le salió más áspera de lo normal, pero no rota. Héctor no se rompía 
 
 —Walt. Sale a las diez. Paso por ti, y no me salgas con una grúa, que hoy las grúas son de Omar.
 
-—Ya estoy afuera. Agárrame en la esquina de Mabel.
+—Ya estoy afuera. Te veo allá.
 
-No estaba afuera. Héctor dejó pasar el tiempo justo para que los dos lo supieran.
+No estaba afuera. Héctor dejó pasar el tiempo justo para que se notara.
 
 —Te dije que pasaba por ti.
 
@@ -122,7 +123,7 @@ No parecía un hombre libre. Todavía no. Parecía un hombre al que acababan de 
 
 Llevaba una camisa gris demasiado grande, pantalón oscuro, zapatos sin brillo y una bolsa de plástico con papeles doblados, una libreta, un cepillo de dientes y lo que el estado consideraba pertenencias. El pelo le había salido más blanco de lo que Kal recordaba. La espalda seguía recta. Eso sí.
 
-Héctor se apartó del coche. Natalie no.
+Héctor se hizo a un lado. Natalie no se despegó del coche.
 
 Walt la vio a ella primero.
 
@@ -170,7 +171,7 @@ Walt apartó los dedos.
 
 —Y tampoco le salía.
 
-Héctor le dio la bolsa de papel sin decir qué era. Walt la abrió y miró adentro como miraba todo ese día, primero lo que había cambiado: el papel, el sello de la panadería, el azúcar partida.
+Héctor le dio la bolsa de papel sin decir qué era. Walt la abrió y miró adentro.
 
 —Diez años y me recibes con una concha fría.
 
@@ -182,7 +183,7 @@ Walt miró entonces las letras de la sudadera de su hija. Ya lo sabía; se lo ha
 
 —Bomberos. En la sudadera se lee distinto.
 
-—Hace cuatro meses. Paramédica primero; lo de la manguera vino después, porque faltaba gente.
+—Hace cuatro meses. Antes, sólo la ambulancia.
 
 Walt asintió despacio, contando hacia atrás.
 
@@ -198,11 +199,7 @@ Natalie le pasó el pulgar por la pantalla y el vidrio se encendió.
 
 —Ahí. Y para colgar, igual. No tiene más ciencia.
 
-Walt miró la luz un momento. Después, el estacionamiento: el Corolla, la camioneta de Héctor y, al final de la fila, el Peugeot rojo.
-
-—¿Eso es tuyo?
-
-—Sí —dijo Kal—. Ayer le cambié el líquido de frenos; salió negro. Lo demás va por costumbre.
+Walt miró la luz un momento. Después, el estacionamiento: el Corolla, la camioneta de Héctor y, al final de la fila, el Peugeot rojo. Miró a Kal, y Kal no dijo que no.
 
 —Me voy contigo. Quiero ver en qué maneja un hombre que ya no me pide permiso.
 
@@ -222,9 +219,9 @@ La radio entró a media nota: Plaza Corona, investigación en curso, el Departam
 
 —¿Keene?
 
-—Jefe de policía. Tres tiros en una banca de Plaza Corona, antes de que abrieran los juzgados.
+—Jefe de policía. Ayer me firmó un contrato.
 
-—Cuando entré ponía multas afuera del estadio. A mí me puso dos. —Escuchó hasta que la nota se terminó y bajó el volumen—. ¿Quién lo mató?
+—Cuando entré ponía multas afuera del estadio. —Escuchó hasta que la nota se terminó y bajó el volumen—. ¿Quién lo mató?
 
 —No se sabe. En la barbería ya lo están decidiendo.
 
@@ -280,7 +277,7 @@ Walt asintió, como si eso fuera lo que había venido a comprobar.
 
 —Desde que dos soldados tocaron la puerta. —Natalie miraba la piedra—. Tardaron tres días en pasarte al teléfono.
 
-—Tres días. —Lo dijo como quien regresa el cambio—. Tres días lo tuviste tú sola en la casa.
+—Tres días.
 
 —Comió —dijo Héctor, detrás de ellos—. Yo la vi.
 
@@ -294,7 +291,7 @@ Walt se quedó callado un momento largo.
 
 —¿Fue rápido?
 
-Eran dos palabras. Kal llevaba cuatro años sin pisar la sala de visitas de esa cárcel para no oírlas del otro lado de una mesa.
+Eran dos palabras. Por no oírlas del otro lado de una mesa, Kal nunca había pisado la sala de visitas de esa cárcel.
 
 Tardó en contestar.
 
@@ -322,7 +319,7 @@ Encontró a Jim esa noche, fumando solo detrás de las carpas de suministro.
 
 Jim no se dio la vuelta enseguida.
 
-—¿Vas a entregarlo? —Le ofreció la cajetilla por encima del hombro, sin voltear todavía—. Si lo vas a entregar, fúmate uno antes. En la carpa del capitán no dejan.
+—¿Vas a entregarlo? —Le ofreció la cajetilla por encima del hombro—. Si lo vas a entregar, fúmate uno antes. En la carpa del capitán no dejan.
 
 —Todavía no he decidido qué voy a hacer con él.
 
@@ -400,7 +397,7 @@ Natalie le tomó la mano, le limpió la tierra de los dedos con la manga de la s
 
 Walt se quedó con eso un rato. Después abrió la bolsa de plástico y buscó entre los papeles doblados hasta dar con un sobre sin estampilla, con las esquinas gastadas de tanto cambiarlo de lugar. Tenía el nombre de Jim escrito con la misma letra inclinada de siempre. No tenía dirección.
 
-Se agachó otra vez y lo dejó apoyado contra la piedra. Tomó un guijarro del camino y la puso encima, para que no se lo llevara el viento.
+Se agachó otra vez y lo dejó apoyado contra la piedra. Tomó un guijarro del camino y lo puso encima, para que no se lo llevara el viento.
 
 Nadie le preguntó qué decía.
 
@@ -434,7 +431,7 @@ Walt vio todo. Vio también lo demás: que la barbería ahora compartía la fach
 
 —Por eso lo digo así. Para que no se le suba.
 
-El Corolla entró primero y se estacionó junto al portón, en el único lugar que nadie usaba. Natalie no preguntó si podía. Bajó, le rascó la cabeza a Rocco, que dormía a la sombra de la grúa dos, y el perro se levantó por ella, y eso que no traía nada de comer. Desde el elevador, Omar le gritó algo; ella le contestó preguntándole por su mamá, y él le contestó que ya había salido del hospital, y ella dijo *te dije*, y los dos se rieron de algo que Walt no alcanzó a saber.
+El Corolla entró primero y se estacionó junto al portón, en el único lugar que nadie usaba. Natalie no preguntó si podía. Bajó, le rascó la cabeza a Rocco, que dormía a la sombra de la grúa dos, y el perro se levantó por ella, y eso que no traía nada de comer. Desde el elevador, Omar le gritó algo; ella le contestó preguntándole por su mamá, y él le dijo que ya había salido del hospital, y ella dijo *te dije*, y los dos se rieron de algo que Walt no alcanzó a saber.
 
 Walt se quedó en la entrada del patio con la bolsa de plástico en la mano.
 
@@ -534,7 +531,7 @@ A la una y media, Natalie miró el reloj.
 
 —¿Y sales a qué hora? —preguntó Walt.
 
-—Hasta mañana a las dos. Veinticuatro horas; si hay un incendio grande, más. —Lo dijo como se dicen las cosas que ya no se discuten—. Así son las guardias.
+—Hasta mañana a las dos. Veinticuatro horas, y si hay un incendio grande, más. Así son las guardias.
 
 Walt no dijo nada. Kal vio pasar por su cara algo que no llegó a ser objeción.
 
@@ -558,7 +555,7 @@ El Corolla salió sin tocar el claxon. Walt lo siguió con la vista desde la mes
 
 Kal miró el teléfono antes de volver a la oficina.
 
-Nada del Monarch. Matteo había dicho *lo llamo mañana*, y mañana ya era hoy, y eran casi las dos. Si Matteo llamaba antes de las dos, el anticipo se devolvía.
+Nada del Monarch. Matteo había dicho *lo llamo mañana*, mañana ya era hoy y eran casi las dos, la hora que Kal se había puesto: si Matteo llamaba antes, el anticipo se devolvía.
 
 En la oficina dejó el teléfono bocabajo sobre el escritorio. Nadir cerró la puerta. Danny se sentó sobre el archivero, Héctor en la silla de visitas. Walt se quedó en el marco, con un café en la mano, y nadie le pidió que se fuera.
 
@@ -568,7 +565,7 @@ Danny dejó de mover la pierna.
 
 —Un cargamento de hierba. Lo recogemos esta tarde en una bodega del norte y esta noche va a Nueve Puentes. Lo recibe la gente de Maya Ríos.
 
-—¿Cuadra Nueve? —Nadir ya estaba haciendo la cuenta con los dedos contra el escritorio—. Una hora de ida con la grúa cargada, otra de regreso, y la gasolina la ponemos nosotros, yak. ¿Cuánto?
+—¿Cuadra Nueve? —Nadir ya estaba haciendo la cuenta con los dedos contra el escritorio—. Una hora de ida con la grúa cargada, otra de regreso, y la gasolina la ponemos nosotros. ¿Cuánto?
 
 —Treinta mil. La mitad ya está en la caja.
 
@@ -578,7 +575,7 @@ Danny soltó un silbido largo. Héctor no se movió.
 
 Kal señaló el teléfono bocabajo sobre el escritorio.
 
-—Porque desde anoche nadie sabe qué patrulla pasa por dónde. En una semana alguien lo va a volver a saber.
+—Porque desde esta mañana nadie sabe qué patrulla pasa por dónde. En una semana alguien lo va a volver a saber.
 
 —¿Y de quién es la hierba?
 
@@ -610,7 +607,7 @@ Nadie se rio. Walt no apartó los ojos de Kal.
 
 —Sé quién paga.
 
-Walt no contestó. Esperó con el café a medio camino, y dejó que en el cuarto se oyera solo lo que Kal acababa de decir.
+Walt no contestó. Esperó con el café a medio camino, y dejó que en el cuarto se oyera sólo lo que Kal acababa de decir.
 
 —No trabajo para él —dijo Kal—. Le hago un trabajo.
 
@@ -620,11 +617,13 @@ El cuarto se quedó sin ruido. Hasta Danny.
 
 Kal le sostuvo la mirada. No se defendió. Walt tampoco insistió; no había dicho eso para ganar nada.
 
-—Hasta las dos estuve esperando otra llamada —dijo Kal al fin—. Un casino del centro: arrastres con contrato, con factura, de los que se pueden enseñar. No llamaron. —Miró el teléfono bocabajo sobre el escritorio, sin tocarlo—. Omar cobra el viernes, a la grúa dos le está fallando la transmisión y el portón no se paga solo. Con eso la Almendra vuelve a estar en el juego. Con el dinero de él. Es el único dinero que me va a dar gusto gastar.
+—Le di hasta las dos a un casino de la Isla —dijo Kal al fin—. No han llamado. Omar cobra el viernes y al cable de la grúa dos no le queda un mes. —Miró el teléfono bocabajo, sin tocarlo—. Con eso la Almendra vuelve a estar en el juego. Con el dinero de él. Es el único dinero que me va a dar gusto gastar.
+
+No dijo lo del recibo que seguía en el banco del taller, debajo de la taza.
 
 —¿Gastar en qué?
 
-—En una empresa de seguridad. De las que tienen papeles. —Kal se encogió de hombros—. En el sur, o proteges, o te protegen.
+—En una empresa de seguridad. De las que tienen papeles. —Kal se encogió de hombros—. En el sur, o cobras la protección, o la pagas.
 
 Walt lo pensó con el café en la mano.
 
@@ -632,7 +631,7 @@ Walt lo pensó con el café en la mano.
 
 Kal no se lo había pedido.
 
-—Quiero mantenerme afuera. Legal es el camino más corto por ahora. —Walt se encogió de hombros y se frotó la barbilla—. Y si hay problema, respondo. No dije que me volví santo, sólo dije que aprendí a leer formularios.
+—Quiero mantenerme afuera. Legal es el camino más corto por ahora. —Walt se frotó la barbilla—. Y si hay problema, respondo. No dije que me volví santo, sólo dije que aprendí a leer formularios.
 
 Héctor se levantó de la silla.
 
@@ -654,7 +653,7 @@ Walt no sonrió. Pero algo en la boca se le movió apenas.
 
 —¿A qué hora? —preguntó Nadir.
 
-—Cuando oscurezca. La recogemos en la tarde, y el Buick no sale de día.
+—Cuando oscurezca. El Buick no sale de día.
 
 ***
 
@@ -682,11 +681,11 @@ Kal se detuvo con el cierre de la sudadera a medio subir.
 
 Terminó de subir el cierre.
 
-—Cuídense de Dario Varek. Si pueden evitar deberle favores, mejor. No he escuchado cosas buenas de él con los otros líderes. Nadie lo dice completo, pero todos se enderezan cuando sale el nombre.
+—Cuídense de Dario Varek. Si pueden evitar deberle favores, mejor. No he escuchado cosas buenas de él entre los otros jefes. Nadie lo dice completo, pero todos se enderezan cuando sale el nombre.
 
 Nadir levantó la vista de la bota.
 
-—¿Le debes algo? Porque un hombre así no va a un portón de la Almendra a pasear, khoya. Va a cobrar o va a prestar, y prestar sale más caro.
+—¿Le debes algo? Un hombre así no va a un portón de la Almendra a pasear.
 
 —No.
 
@@ -718,6 +717,6 @@ Walt miró hacia la esquina de la ferretería. La luz roja de la cámara parpade
 
 No dijo nada más.
 
-Kal subió a la grúa. Nadir se sentó a su lado; Danny, en medio, con la rodilla otra vez en marcha. Kal encendió las luces, como cualquier grúa que sale a trabajar un lunes en la noche.
+Kal subió a la grúa. Nadir subió del otro lado; Danny, en medio, con la rodilla otra vez en marcha. Kal encendió las luces, como cualquier grúa que sale a trabajar un lunes en la noche.
 
 En el espejo lateral, Walt seguía en el escalón. No levantó la mano. Se quedó mirando, como se mira una calle que uno conocía, hasta que la grúa dobló la esquina.
