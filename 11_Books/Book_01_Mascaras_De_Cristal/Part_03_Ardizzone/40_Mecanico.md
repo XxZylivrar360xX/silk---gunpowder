@@ -174,7 +174,7 @@ Valenti miró a Kal.
 
 Valenti lo sostuvo con la mirada un segundo, como esperando el resto, y cuando no llegó ningún resto asintió una vez, con algo que en otro hombre habría sido una sonrisa completa y en él fue apenas el principio de una. Livia volvió la cara hacia Chiara. Valenti también.
 
-Chiara respondió con la versión que Kal ya la había visto construir en tantas salas: una redistribución ordenada, una ausencia temporal cubierta, nada que no pudiera explicarse en una frase. No mintió en nada verificable. Sólo eligió qué decir primero, qué dejar para el final y qué no decir en absoluto.
+Chiara respondió con la versión que Kal ya le había visto construir en tantas salas: una redistribución ordenada, una ausencia temporal cubierta, nada que no pudiera explicarse en una frase. No mintió en nada verificable. Sólo eligió qué decir primero, qué dejar para el final y qué no decir en absoluto.
 
 Livia escuchó con la cabeza ligeramente inclinada. Cuando Chiara terminó, dejó pasar dos segundos.
 
@@ -282,7 +282,7 @@ No conocía la voz. Era educada, de oficina, sin un acento que dijera de dónde,
 
 —¿Quién habla?
 
-—Alguien que le pasa un recado. —No dejó pausa para que Kal lo aceptara o no—. La ventana que hablaron se está por abrir. Antes de lo que se pensaba. Lo quieren disponible en cuanto haya fecha. No en dos semanas. Disponible.
+—Alguien que le pasa un recado. —No dejó pausa para que Kal lo aceptara o no—. La ventana de la que hablaron se está por abrir. Antes de lo que se pensaba. Lo quieren disponible en cuanto haya fecha. No en dos semanas. Disponible.
 
 —Estoy en Italia.
 
@@ -290,7 +290,7 @@ No conocía la voz. Era educada, de oficina, sin un acento que dijera de dónde,
 
 Colgó.
 
-*Sargento.* En San Aurelio nadie lo llamaba así. Lo llamaban así los que venían de parte de Halbrook, y Halbrook no marcaba en persona: mandaba voces con buenos modales que sabían su rango y no daban el suyo. La cortesía no cambiaba nada. Era la misma forma en que colgaba Dario, la misma en que colgaba cualquier hombre que hablaba con Kal sólo cuando necesitaba algo de él.
+*Sargento.* En San Aurelio nadie lo llamaba así. Lo llamaban así los que venían de parte de Halbrook, y él no marcaba en persona: mandaba voces con buenos modales que sabían su rango y no daban el suyo. La cortesía no cambiaba nada. Era la misma forma en que colgaba Dario, la misma en que colgaba cualquier hombre que hablaba con Kal sólo cuando necesitaba algo de él.
 
 Se quedó con el teléfono en la mano, en la oscuridad de la habitación, con la respiración pareja de Chiara al otro lado de la cama. Dormida, o fingiendo; no lo sabía, y no iba a preguntarlo.
 

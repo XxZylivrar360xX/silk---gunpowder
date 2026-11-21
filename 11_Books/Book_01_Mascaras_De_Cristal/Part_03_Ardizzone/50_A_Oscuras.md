@@ -104,7 +104,7 @@ Puso la direccional por costumbre. La dejó parpadear. En el semáforo de la esq
 
 En el semáforo siguiente tomó el teléfono del asiento del copiloto.
 
-Bajó por los nombres con el pulgar. Héctor, que no sabía nada del sur y no podía saberlo. Kenji. Lucía Varek, el número directo, el de verdad. Bonnie. Meiko, que había echado a caminar hacia el sur con las manos en los bolsillos. Mabel, a quien acababa de dejar con la caja abierta. No había en la lista un nombre al que no le hubiera pedido algo esa semana. Los que no estaban en la lista —un número de Manhattan escrito a lápiz, una bodega con techo de madera en el Puerto Viejo— también ya le habían contestado.
+Bajó por los nombres con el pulgar. Héctor, que no sabía nada del sur y no podía saberlo. Kenji. Lucía Varek, el número directo, el de verdad. Bonnie. Meiko, que había echado a caminar hacia el sur con las manos en los bolsillos. Mabel, a quien acababa de dejar con la caja abierta. No había en la lista un nombre al que no le hubiera pedido algo esa semana. Los que no estaban en la lista —un número de Manhattan con una hora a lápiz debajo, una bodega con techo de madera en el Puerto Viejo— también ya le habían contestado.
 
 Y Garrett, con un mensaje de las cinco que no había abierto: *Si no vuelve, ¿qué hago con esto?*
 

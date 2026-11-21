@@ -19,7 +19,7 @@ Parrilla armonizada (2026-11-15, revisión externa): «una fila adelante» → �
 
 # Capítulo 22 — Lo que cueste
 
-La otra hoja que Kal dobló esa semana fue media página de la libreta de Garrett, el martes, en un pasillo del tribunal civil.
+La otra hoja que Kal arrancó la semana siguiente fue media página de la libreta de Garrett, el martes, en un pasillo del tribunal civil.
 
 La audiencia estaba citada para las diez. A las nueve y cuarto, Giancarlo Krane salió de la sala de mediación del tercer piso, buscó a Margaret Rivers por encima de las bancas y le pidió cinco minutos «para hablar de números en vez de principios». Los cinco minutos fueron dos horas. Kal las pasó en una banca de madera junto a la ventana, con Garrett al lado, que releía por tercera vez la caja de archivo que había traído de Villani: las transferencias, las pérdidas que el lote había declarado y las que no, los recibos del dinero que Kal había puesto cuando el terreno todavía era un baldío con una caseta.
 
@@ -343,7 +343,7 @@ A la mañana siguiente la luz de la oficina seguía prendida. Ella ya estaba en 
 
 ***
 
-Días después, en el loft, Chiara llegó con una botella de tinto y la carpeta del Monarch bajo el brazo, y Kal supo antes de abrirle que algo pesaba más de lo normal, porque la carpeta venía cerrada y ella nunca traía las cosas cerradas.
+Días después, en el loft, Chiara llegó con una botella de tinto y la carpeta del Monarch bajo el brazo, y Kal supo al abrirle que algo pesaba más de lo normal, porque la carpeta venía cerrada y ella nunca traía las cosas cerradas.
 
 No preguntó. Sacó dos copas, puso a calentar lo que había dejado Mabel, y la dejó instalarse en el banco de la isla, del lado que daba a la escalera.
 

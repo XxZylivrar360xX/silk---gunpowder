@@ -44,7 +44,7 @@ Chiara se sentó en la silla que no era suya.
 
 La nota seguía en el cajón de arriba, donde ella misma la había guardado: *Elio desapareció. Tengo que volver a Génova.* Debajo, la promesa de llamar cuando supiera algo. No había llamado. Chiara cerró el cajón sin volver a leerla.
 
-Sobre el escritorio había tres carpetas que en cualquier otra semana habrían llegado directamente a manos de Matteo: una aprobación de nómina para la sala privada, pendiente desde hacía cuatro días; un contrato de mantenimiento del sistema de climatización que alguien había firmado a medias, esperando la segunda firma que nadie sabía a quién pedirle ahora; y una llamada, ya registrada dos veces en la libreta de la recepción, de un proveedor de licores preguntando a quién debía facturarle desde que «el señor Bellacorte» había dejado de contestar.
+Sobre el escritorio había tres asuntos que en cualquier otra semana habrían llegado directamente a manos de Matteo: una aprobación de nómina para la sala privada, pendiente desde hacía cuatro días; un contrato de mantenimiento del sistema de climatización que alguien había firmado a medias, esperando la segunda firma que nadie sabía a quién pedirle ahora; y una llamada, ya registrada dos veces en la libreta de la recepción, de un proveedor de licores preguntando a quién debía facturarle desde que «el señor Bellacorte» había dejado de contestar.
 
 Firmó la nómina. Dejó el contrato para el día siguiente. Le devolvió la llamada al proveedor ella misma.
 

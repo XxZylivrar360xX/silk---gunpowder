@@ -18,7 +18,7 @@ Lo último que vio fue a Kal acercando la silla a la cama, con las botas todaví
 
 El patrón de la vulcanizadora estaba junto a los elevadores, con la gorra en una mano y un termo en la otra.
 
-No era alto. Tenía las uñas negras por mucho que se las hubiera tallado para venir, y la camisa de trabajo abotonada hasta el cuello. Tres semanas antes le había prohibido a su chico acercarse a la casa común mientras ella durmiera ahí. Chiara se lo había oído contar a Nadir desde la escalera, sin que nadie supiera que estaba en ella.
+No era alto. Tenía las uñas negras por mucho que se las hubiera tallado para venir, y la camisa de trabajo abotonada hasta el cuello. Meses antes le había prohibido a su chico acercarse a la casa común mientras ella durmiera ahí. Chiara se lo había oído contar a Nadir desde la escalera, sin que nadie supiera que estaba en ella.
 
 —Para don Héctor. —Le tendió el termo a ella—. Lo hizo mi señora. El de aquí no sirve.
 

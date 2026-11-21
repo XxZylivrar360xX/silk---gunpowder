@@ -218,7 +218,7 @@ Kal había subido detrás de ella por la escalera de servicio y se quedó a la d
 
 Las puertas giratorias dieron media vuelta y entró la subjefa Varek.
 
-No llevaba uniforme. Llevaba lo mismo que en la sala de interrogatorios: pantalón oscuro, chaqueta, el pelo recogido, y ese aire de quien sí lleva uniforme aunque no se le vea. Detrás de ella venía un oficial muy joven, de uniforme completo, con las llaves de la patrulla todavía en la mano.
+No llevaba uniforme. Llevaba lo mismo que en la sala de espera del Santa Aurelia: pantalón oscuro, chaqueta, el pelo recogido, y ese aire de quien sí lleva uniforme aunque no se le vea. Detrás de ella venía un oficial muy joven, de uniforme completo, con las llaves de la patrulla todavía en la mano.
 
 El muchacho levantó la vista hacia el candelabro del lobby y se le olvidó bajarla. Después la bajó, y encontró a Chiara.
 

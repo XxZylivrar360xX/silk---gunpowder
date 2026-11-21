@@ -304,7 +304,7 @@ Esa tarde, cuando se fueron los clientes, Meiko tocó con los nudillos el marco 
 
 —¿Me puede adelantar la semana?
 
-Kal levantó la vista de la libreta. Llevaba mes y medio en el taller y no había faltado un día. Desde hacía dos semanas llegaba a las siete con el pelo todavía húmedo y la cara de alguien que había dormido cuatro horas, porque a esas horas, la noche anterior, todavía estaba entregando llaves en la rampa del Monarch.
+Kal levantó la vista de la libreta. Llevaba mes y medio en el taller y no había faltado un día. Desde la semana anterior llegaba a las siete con el pelo todavía húmedo y la cara de alguien que había dormido cuatro horas, porque a esas horas, la noche anterior, todavía estaba entregando llaves en la rampa del Monarch.
 
 —¿Para qué?
 

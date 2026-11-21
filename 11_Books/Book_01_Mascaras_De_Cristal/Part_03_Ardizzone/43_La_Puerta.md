@@ -170,7 +170,7 @@ Las armas pesaban más de lo que se veían. La primera carga salió como salen l
 
 Nadir soltó una risa corta, sin aire, y se tapó la boca con el dorso del guante.
 
-Kal miró hacia los almacenes y después al helicóptero. Con eso ya tenía lo que Halbrook quería de verdad. Lo que había en las cajas era lo de Varek, y Varek las quería completas, y lo que no se subiera ahora se quedaba en un estante para la próxima vez que alguien le mandara a Crowe por ellas.
+Kal miró hacia los almacenes y después al helicóptero. Con eso ya tenía lo que de verdad lo habían mandado a buscar. Lo que había en las cajas era lo de Varek, y Varek las quería completas, y lo que no se subiera ahora se quedaba en un estante para la próxima vez que alguien le mandara a Crowe por ellas.
 
 —Una más —dijo.
 

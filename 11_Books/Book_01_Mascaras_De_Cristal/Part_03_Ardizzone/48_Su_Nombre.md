@@ -120,7 +120,7 @@ Meiko la esperaba el domingo a las tres en una gasolinera de la autopista del no
 
 Chiara siguió derecho.
 
-Dejaron atrás Kingsley Field por la izquierda, de día más feo que de noche: hangares de lámina sin pintar, una cerca larga con alambre en la punta, un avión de carga con las compuertas abiertas como una boca. Pasaron la salida del Alder Cutoff, y el letrero verde de CAMP ALDER, y Chiara no volteó a verlo. Cuatro millas después, Meiko le señaló una desviación sin letrero, una carretera de dos carriles que se metía entre campos de sorgo cortado.
+Dejaron atrás Kingsley Field por la derecha, de día más feo que de noche: hangares de lámina sin pintar, una cerca larga con alambre en la punta, un avión de carga con las compuertas abiertas como una boca. Pasaron la salida del Alder Cutoff, y el letrero verde de CAMP ALDER, y Chiara no volteó a verlo. Cuatro millas después, Meiko le señaló una desviación sin letrero, una carretera de dos carriles que se metía entre campos de sorgo cortado.
 
 —La del condado —dijo—. Sale por atrás de la base, por la puerta de los proveedores, y baja hasta la interestatal sin pasar por ningún pueblo. El Cutoff llega a la autopista junto al aeropuerto. Ahí la aduana tiene cámaras en cada poste. —Meiko miraba por la ventanilla, no a Chiara—. Si lo quieren sacar sin que lo vea nadie, van por aquí.
 

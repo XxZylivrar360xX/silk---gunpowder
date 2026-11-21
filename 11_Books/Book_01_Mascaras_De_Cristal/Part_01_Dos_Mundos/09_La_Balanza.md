@@ -42,9 +42,9 @@ No era nada que se pudiera señalar. Los mensajes le llegaban un día después. 
 
 El domingo llamó a las ocho.
 
-Llevaba semanas llamándola a las seis, antes de que ella saliera. Ese domingo esperó. Estaba en el taller con la cortina a medio subir, con el compresor llenando el tanque y la radio de Danny mal sintonizada en una estación de rancheras que nadie había elegido, y marcó a las ocho en punto.
+Llevaba semanas llamándola a las seis, cuando ella volvía. Ese domingo esperó. Estaba en el taller con la cortina a medio subir, con el compresor llenando el tanque y la radio de Danny mal sintonizada en una estación de rancheras que nadie había elegido, y marcó a las ocho en punto.
 
-Ella contestó al segundo timbre, ya despierta, ya con la voz en su lugar.
+Ella contestó al segundo timbre, ya en casa, ya con la voz en su lugar.
 
 —¿Pasó algo?
 
@@ -118,7 +118,7 @@ Le miró la muñeca sin tocarla, de un lado y del otro, como miraba una pieza an
 
 Se quedó mirándolo.
 
-Lo que tenía delante era un golpe del tamaño de una moneda en la cabeza de una mujer que la semana anterior se había reído de él en la galería de un túnel, y lo que sintió no tenía calor. Bajó como baja una cortina de local, y él la dejó bajar.
+Lo que tenía delante era un golpe del tamaño de una moneda en la cabeza de una mujer que unas semanas antes se había reído con él en un patio de vías, y lo que sintió no tenía calor. Bajó como baja una cortina de local, y él la dejó bajar.
 
 Se levantó. Rowe estaba descalza, con una mejilla roja hasta la oreja y la correa de una bolsa cortada colgándole del hombro, sin la bolsa.
 

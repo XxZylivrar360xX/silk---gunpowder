@@ -502,7 +502,7 @@ Walt se dejó abrazar con la bolsa de plástico todavía en una mano.
 
 Kal no dijo nada.
 
-—¿Y las pastillas de freno del Ford? —preguntó Nadir.
+—¿Y las pastillas de la treinta y uno? —preguntó Nadir.
 
 Danny tenía las manos vacías.
 

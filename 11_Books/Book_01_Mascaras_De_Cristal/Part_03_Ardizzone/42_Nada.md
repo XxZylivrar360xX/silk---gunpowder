@@ -117,7 +117,7 @@ Le había preguntado directamente por Matteo. Ella le había contestado con una 
 
 Fue al baño, se quitó el maquillaje del día frente al espejo con movimientos que no necesitaban que ella estuviera pensando en ellos, y se detuvo un segundo mirando el cabello corto que todavía seguía sorprendiéndola cada vez que se encontraba de frente con su propio reflejo. No se peinó de más. No se cambió de ropa por él. Se quedó con lo que ya tenía puesto, un pantalón cómodo y una blusa de estar en casa, porque cambiarse habría sido admitir que estaba preparando algo, y no había nada que preparar.
 
-Se sirvió el vaso de agua que llevaba una hora sin tocar y esperó.
+Se bebió el vaso de agua que llevaba una hora sin tocar y esperó.
 
 ***
 

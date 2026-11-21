@@ -40,7 +40,7 @@ Frente 1, narrador, Parte I (2026-10-05, SURGERY aprobada por el autor y rebasad
 
 # Capítulo 25 — Libros abiertos
 
-La costra había quedado detrás de la oreja, bajo el pelo; en la sien sólo asomaba una sombra amarilla que la base cubría. Chiara se la buscó igual en el espejo del despacho y se puso las gafas oscuras, aunque iba a pasar la tarde bajo techo.
+La costra había quedado en la nuca, detrás de la oreja, bajo el pelo; en la sien sólo asomaba una sombra amarilla que la base cubría. Chiara se la buscó igual en el espejo del despacho y se puso las gafas oscuras, aunque iba a pasar la tarde bajo techo.
 
 Necesitaba un coche que no fuera del Monarch. No uno mejor: uno que no saliera en ninguna bitácora. El Mercedes de la empresa lo movían los valets de la contratista, y cada salida quedaba anotada con hora y destino en un cuaderno que cualquiera con una propina podía leer. Desde la noche de la caja de Matteo, Chiara no se fiaba de ningún cuaderno que llevaran los valets.
 
@@ -154,7 +154,7 @@ La pregunta le llegó por un lado que no esperaba. Había preparado la cara para
 
 Dejó pasar un segundo, con el agua moviéndose despacio contra el pecho.
 
-—La última que me contó terminó distinto. Yo tenía quince, ya grande para que me arroparan. Me arropó de todos modos y me dijo: *«Un giorno, bambina mia, capirai il prezzo di reggere il mondo sulle tue spalle. Ma non dimenticare mai: la chiave è non farlo da sola.»* —Lo repitió después en español, despacio—. Algún día, mi amada niña, entenderás el precio que tiene sostener el mundo en tus hombros. Sólo no olvides que la clave está en no hacerlo sola. —No la entendí entonces. Pensé que hablaba de crecer, nada más.
+—La última que me contó terminó distinto. Yo tenía quince, ya grande para que me arroparan. Me arropó de todos modos y me dijo: *«Un giorno, bambina mia, capirai il prezzo di reggere il mondo sulle tue spalle. Ma non dimenticare mai: la chiave è non farlo da sola.»* —Lo repitió después en español, despacio—. Algún día, mi amada niña, entenderás el precio que tiene sostener el mundo en tus hombros. Sólo no olvides que la clave está en no hacerlo sola. No la entendí entonces. Pensé que hablaba de crecer, nada más.
 
 Kal se quedó con la mano quieta contra el borde, sin mover el agua.
 
@@ -282,7 +282,7 @@ No le explicó cómo se había enterado; nunca lo explicaba. Chiara esperó el r
 
 Colgó antes de que ella contestara.
 
-Se quedó con el teléfono contra la oreja un segundo más. Dario no regalaba nada: lo que daba de gratis lo apuntaba en su libro, y ella sabía cómo se llevaba ese libro. *Gente de fuera.* Pensó en el corral. Pensó en «ellos». Una semana antes le habían abierto la cabeza contra una cerca, y ahora alguien quería saber dónde dormía.
+Se quedó con el teléfono contra la oreja un segundo más. Dario no regalaba nada: lo que daba de gratis lo apuntaba en su libro, y ella sabía cómo se llevaba ese libro. *Gente de fuera.* Pensó en el corral. Pensó en «ellos». Una semana antes le habían abierto la cabeza junto a una cerca, y ahora alguien quería saber dónde dormía.
 
 Del pasillo llegaron pasos descalzos, mojados, sobre la madera.
 
@@ -370,7 +370,7 @@ Tardó en seguir.
 
 —¿Preso por lo mismo?
 
-—Por robar mercancía que ni él recuerda bien de dónde. —Media sonrisa, la primera desde que empezó a hablar—. Dos hombres en la misma celda por razones que no tenían nada que ver.
+—Por robar mercancía que ni él recuerda bien de dónde. —Media sonrisa—. Dos hombres en la misma celda por razones que no tenían nada que ver.
 
 Se frotó las manos, despacio, una contra otra.
 

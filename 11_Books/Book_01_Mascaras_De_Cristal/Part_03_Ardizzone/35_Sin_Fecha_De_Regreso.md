@@ -140,7 +140,7 @@ Chiara cerró la agenda.
 
 Kal esperó.
 
-—No suele dejar cosas a medias —dijo ella—. Es de los que confirman la reserva dos veces y llega quince minutos antes a todo.
+—No suele dejar cosas a medias —dijo ella—. Es de los que confirman la reserva dos veces y llegan quince minutos antes a todo.
 
 —Entonces esto no es de él.
 

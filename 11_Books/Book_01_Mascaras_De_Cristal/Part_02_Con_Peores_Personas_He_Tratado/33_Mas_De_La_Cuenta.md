@@ -53,7 +53,7 @@ El cuadro estaba en la mesa cuando salió del cuarto, junto a su taza, como si s
 
 La orilla del lago, la última luz. Dos espaldas, una bolsa y una mochila, las manos juntas. Nadie en la foto sabía que había una foto.
 
-Kal había llegado pasadas las tres. Ella lo oyó lavarse las manos en el baño de visitas, el agua corriendo más de lo que tarda nadie en lavarse las manos, y después el peso de él del otro lado de la cama. No le había preguntado. A las siete ya se había ido al taller.
+Otra noche de arrastre: Kal había llegado pasadas las tres. Ella lo oyó lavarse las manos en el baño de visitas, el agua corriendo más de lo que tarda nadie en lavarse las manos, y después el peso de él del otro lado de la cama. No le había preguntado. A las siete ya se había ido al taller.
 
 Chiara le quitó el moño, lo dobló una vez y lo guardó en el cajón de los cubiertos. El cuadro lo dejó donde estaba.
 
@@ -213,7 +213,7 @@ Chiara sintió algo parecido a reconocerse ahí, aunque no lo dijo.
 
 Kenji seguía con el cajón a medio cerrar, un billete de veinte asomado que nadie había terminado de guardar. Se dio cuenta al mismo tiempo que Chiara, y lo cerró con un movimiento breve, casi automático, sin dejar de mirar a Marisol.
 
-—¿Ibas a seguir mirándome sin decir nada? —preguntó Marisol— ¿Si no te hubiera encontrado yo primero?
+—¿Ibas a seguir mirándome sin decir nada? —preguntó Marisol—. ¿Si no te hubiera encontrado yo primero?
 
 —No lo sé —dijo Kenji, y sonó como la verdad, no como una respuesta ensayada—. No había llegado a esa parte del plan.
 

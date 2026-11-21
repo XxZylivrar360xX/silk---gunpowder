@@ -143,7 +143,7 @@ Se llevó las botellas a la camioneta. Las botas de cazador sonaron parejas sobr
 
 En el Monarch, Chiara hizo lo que sabía hacer.
 
-No preguntó por Kal. Preguntó por los coches. La bitácora de los valets la llevaba un muchacho de Cedar Flats que le debía el turno de noche desde el verano, y se la enseñó en la caseta sin preguntar para qué, con el índice sobre las horas para que ella no tuviera que buscarlas. Ella misma, el día anterior, había comprado un coche para no salir en esas páginas.
+No preguntó por Kal. Preguntó por los coches. La bitácora de los valets la llevaba un muchacho de Cedar Flats que le debía el turno de noche desde junio, y se la enseñó en la caseta sin preguntar para qué, con el índice sobre las horas para que ella no tuviera que buscarlas. Ella misma, el día anterior, había comprado un coche para no salir en esas páginas.
 
 A las cinco y cuatro, el coche de la dirección general había salido por la rampa norte. Sin chofer anotado. Destino, la casilla en blanco.
 

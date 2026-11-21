@@ -63,7 +63,7 @@ No llevaba uniforme. Pantalón oscuro, una chaqueta sin insignias, cerrada hasta
 
 No miró al hombre del traje. Miró hacia el sur.
 
-Desde ahí se veía la ciudad entera bajando hacia el agua, las Lomas primero, luego el centro, luego las calles bajas del sur, donde los postes se seguían apagando de dos en dos. Al fondo, contra la línea gris del puerto, las grúas del patio se recortaban como algo que alguien hubiera dejado a medio armar.
+Desde ahí se veía la ciudad entera bajando hacia el agua, las Lomas primero, luego el centro, luego las calles bajas del sur, donde los postes se seguían apagando de dos en dos. Al fondo, contra la línea gris del puerto, las grúas del Patio se recortaban como algo que alguien hubiera dejado a medio armar.
 
 Lo miró todo. No el conjunto: cada parte. Cuando ese hombre miraba algo, no le quedaba atención para ninguna otra cosa.
 

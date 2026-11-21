@@ -226,7 +226,7 @@ Fue ella la que inventó el castigo.
 
 Kal perdió el primer hoyo y contestó cuántos años tenía de verdad.
 
-—Cuarenta y uno.
+—Cuarenta y dos.
 
 Chiara hizo la cuenta en silencio, con esa rapidez que sólo tienen las personas que llevan años cuidando fechas ajenas.
 

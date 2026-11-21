@@ -254,7 +254,7 @@ Chiara lo miró con la ceja otra vez levantada, la misma del remolque, y Kal agu
 
 Chiara se rio, una risa corta que le salió antes de que pudiera decidir si debía.
 
-Nadie preguntó de dónde había salido la botella. Chiara le vio los nudillos de la derecha sobre la manta gris, los del fregadero, y decidió, como con el rasguño de la mejilla, que había cosas que no necesitaba saber esa noche.
+Nadie preguntó de dónde había salido la botella. Chiara le vio los nudillos de la derecha sobre la manta gris, los del fregadero.
 
 ***
 

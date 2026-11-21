@@ -366,7 +366,7 @@ Kal bajó el Civic despacio. Le quitó las cadenas y las enrolló en el piso, co
 
 En la caseta, el radio del sargento hablaba solo. Un choque sin heridos en la costera. Una alarma en una farmacia del centro, falsa. Una unidad que pedía el número de una grúa municipal, y el sargento se lo dictó sin dejar de mirar el crucigrama.
 
-A las dos y treinta y dos entró una voz que Kal conocía. La había oído el domingo en el Monarch, preguntando por una lámina en el fondo de una caja.
+A las dos y treinta y dos entró una voz que Kal conocía. La había oído el domingo en el lobby del Monarch, ofreciéndole café a Chiara.
 
 —Central, unidad catorce. Detengo vehículo en el camino viejo, curva de abajo del Mirador. Monte Carlo color vino. Las placas salen dadas de baja. Dos ocupantes.
 

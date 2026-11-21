@@ -55,7 +55,7 @@ En el penthouse, en un cajón que no era el de las cartas, ya había otros papel
 
 Esperó a que la chaqueta café doblara la esquina. Después subió a la oficina y escribió.
 
-La férula llevaba una semana en un cajón y la letra le salía más lenta, pero suya, inclinada siempre hacia el mismo lado. Por dentro, cuatro líneas: el coche, la pregunta, los días. Por fuera, apretado, ROMA ATRII. Lo dobló en cuatro, lo metió en una carpeta de cierres y lo bajó ella misma.
+La férula llevaba semanas en un cajón y la letra le salía más lenta, pero suya, inclinada siempre hacia el mismo lado. Por dentro, cuatro líneas: el coche, la pregunta, los días. Por fuera, apretado, ROMA ATRII. Lo dobló en cuatro, lo metió en una carpeta de cierres y lo bajó ella misma.
 
 —Para El Patio —le dijo a Kenji—. Hoy.
 

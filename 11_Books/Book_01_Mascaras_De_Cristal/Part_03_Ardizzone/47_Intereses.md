@@ -168,7 +168,7 @@ Antes de irse, cruzó el Patio hasta el mostrador, sacó las llaves de Nadir del
 
 ***
 
-Terminal Road olía a diesel y a sal vieja. A esa hora la ruta de muelles seguía viva: camiones de doble remolque formados frente a la aduana con las luces de posición encendidas, montacargas cruzando de una bodega a otra con un pitido de marcha atrás que no se callaba nunca, hombres de chaleco naranja fumando junto a las rejas y mirando el reloj: era el último turno del año. Las grúas del puerto, las de verdad, las que levantaban contenedores, estaban quietas contra el cielo, con una luz roja en la punta de cada pluma. Desde ahí la grúa grande del Patio, que en la Almendra era la máquina más grande de cualquier calle, parecía un juguete.
+Terminal Road olía a diésel y a sal vieja. A esa hora la ruta de muelles seguía viva: camiones de doble remolque formados frente a la aduana con las luces de posición encendidas, montacargas cruzando de una bodega a otra con un pitido de marcha atrás que no se callaba nunca, hombres de chaleco naranja fumando junto a las rejas y mirando el reloj: era el último turno del año. Las grúas del puerto, las de verdad, las que levantaban contenedores, estaban quietas contra el cielo, con una luz roja en la punta de cada pluma. Desde ahí la grúa grande del Patio, que en la Almendra era la máquina más grande de cualquier calle, parecía un juguete.
 
 Chiara la vio por el retrovisor del Lancia cuando dio vuelta hacia las bodegas: los faros altos, el gancho recogido, un sedán blanco amarrado sobre la plataforma con las llantas calzadas. Detrás, a dos cuadras, un coche gris que no se acercó más.
 

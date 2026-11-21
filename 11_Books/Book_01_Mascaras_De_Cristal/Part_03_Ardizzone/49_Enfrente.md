@@ -94,7 +94,7 @@ En la recepción no tuvo que decir su nombre. El recepcionista levantó el telé
 
 La suite de la esquina tenía la puerta entornada.
 
-Valenti estaba sentado en uno de los dos sillones junto a la mesa baja, con su taza ya servida. Llevaba un traje gris oscuro sin corbata y el pelo, más gris que en Palermo, cortado igual. Se puso de pie cuando ella tocó con los nudillos en el marco, aunque la puerta estaba abierta.
+Valenti estaba sentado en uno de los dos sillones junto a la mesa baja, con su taza ya servida. Llevaba un traje gris oscuro sin corbata y el pelo gris, cortado igual que en Palermo. Se puso de pie cuando ella tocó con los nudillos en el marco, aunque la puerta estaba abierta.
 
 —Signora Ardizzone. Pase, por favor.
 
@@ -106,11 +106,11 @@ Por la ventana se veía el Monarch completo. No la entrada, que desde el piso on
 
 Chiara no lo sabía.
 
-—A éste lo restauraron hace tres años con mucho cuidado. Las columnas no son de mármol, pero el que las pintó sabía lo que hacía. —Bebió un trago—. Al suyo le pusieron una torre encima. Es una buena torre. Pero copia. —Esperó una pregunta que no llegó y contestó igual—: Lo que cree que es una ciudad grande. —Valenti dejó la taza en el plato, sin ruido todavía—. Esta mañana di un paseo por el puerto viejo. Los almacenes. Tienen unos techos de madera que en Génova costarían una fortuna. Alguien debería restaurarlos antes de que alguien los tire.
+—A éste lo restauraron hace tres años con mucho cuidado. Las columnas no son de mármol, pero el que las pintó sabía lo que hacía. —Bebió un trago—. Al suyo le pusieron una torre encima. Es una buena torre. Pero copia. —Esperó una pregunta que no llegó y contestó igual—: Lo que cree que es una ciudad grande. —Valenti dejó la taza en el plato, sin ruido todavía—. Esta mañana di un paseo por el Puerto Viejo. Los almacenes. Tienen unos techos de madera que en Génova costarían una fortuna. Alguien debería restaurarlos antes de que alguien los tire.
 
 Chiara tomó su taza. El café estaba bueno. Lo tomó como se toma algo en una casa ajena, con la taza cerca del plato.
 
-—El viernes estuve en el puerto viejo —dijo.
+—El viernes estuve en el Puerto Viejo —dijo.
 
 —¿Sí? Entonces sabe de qué hablo.
 

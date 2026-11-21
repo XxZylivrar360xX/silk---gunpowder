@@ -283,7 +283,7 @@ A las ocho y media dejó de buscar, porque tenía una cita.
 
 A las nueve del domingo, sin haber dormido, Kal Mercer le vendía frenos al Departamento de Policía de San Aurelio.
 
-El chief lo recibía ese día porque entre semana el Ayuntamiento no lo dejaba en paz. La oficina de Raymond Keene estaba al fondo de un pasillo con demasiadas fotos enmarcadas, y Calle Corona, allá abajo, tenía la cara lavada de los domingos. Keene no se levantó. Traía la camisa planchada y la corbata floja, y tenía una taza de café que no había tocado y una hoja encima de todas las carpetas.
+El jefe lo recibía ese día porque entre semana el Ayuntamiento no lo dejaba en paz. La oficina de Raymond Keene estaba al fondo de un pasillo con demasiadas fotos enmarcadas, y Calle Corona, allá abajo, tenía la cara lavada de los domingos. Keene no se levantó. Traía la camisa planchada y la corbata floja, y tenía una taza de café que no había tocado y una hoja encima de todas las carpetas.
 
 Kal leía al revés desde los doce años. *Mercury sin registro, muelle 5. Mercancía en el agua. Dos individuos a pie, no localizados.*
 
@@ -345,7 +345,7 @@ Kal tomó la carpeta.
 
 Una patrulla que entraba cada martes al taller de la Almendra dejaba de ser sospecha. Y una Crown Victoria que entraba chillando iba a salir frenando como nueva, con su firma en la hoja.
 
-Dobló hacia Paseo Corona con la ventanilla abajo y pulsó el número otra vez, sin esperar nada. Contestaron entre estática y una herramienta neumática.
+Dobló hacia Calle Corona con la ventanilla abajo y pulsó el número otra vez, sin esperar nada. Contestaron entre estática y una herramienta neumática.
 
 —Hermano, voy saliendo de la comisaría.
 

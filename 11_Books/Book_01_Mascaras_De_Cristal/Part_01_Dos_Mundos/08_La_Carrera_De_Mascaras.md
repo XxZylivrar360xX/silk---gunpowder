@@ -61,7 +61,7 @@ Chiara se detuvo un momento en el escalón.
 
 —Sí.
 
-No hubo explicación, y ella tampoco la pidió. Lo había armado sola días atrás, en el asiento trasero de un taxi, con un ladrillo clavándosele en la cadera: el coche del que Blake presumía derrotas, el que se le escapaba a media comisaría cerca de Kingsley Field, el terror de la policía del que nadie había visto la cara. Siempre había sido éste. Siempre había sido él.
+No hubo explicación, y ella tampoco la pidió. Lo había armado sola días atrás, en el asiento trasero de un taxi, con un ladrillo clavándosele en la cadera: el coche del que Blake presumía derrotas, el que se le escapaba a media comisaría cerca de Kingsley Field, y el malvavisco de las historias de Kal eran el mismo.
 
 Abrió la puerta y se subió.
 

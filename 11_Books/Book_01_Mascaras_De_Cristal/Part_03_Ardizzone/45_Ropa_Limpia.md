@@ -263,7 +263,7 @@ El 26, Mabel movió la cabeza.
 
 El 27, Lucía no llamó, y Krane llamó para decirle que no había nada nuevo, y que ésa era una forma de noticia.
 
-El 28 Mabel no movió la cabeza. Puso la taza en la barra, se limpió las manos en el delantal y se inclinó sobre el mostrador.
+El 28, Mabel no movió la cabeza. Puso la taza en la barra, se limpió las manos en el delantal y se inclinó sobre el mostrador.
 
 —Dice que mañana —dijo, bajo—. A la salida del turno, del lado de la tapia que da al Cutoff, no en la entrada. Y que no llegues en ese carro tuyo.
 

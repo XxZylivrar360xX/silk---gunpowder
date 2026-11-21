@@ -12,7 +12,7 @@ Función: Kal paga la bodega sin Héctor y queda debiéndole a Irene un nombre; 
 
 El lunes, a las seis y diez, Kal volvió a marcar desde el patio del taller, con el café todavía sin tocar sobre el capó de la grúa chica. *Nadir. Deja recado; si es de dinero, la cifra primero.* Colgó antes del tono. Danny ni siquiera tenía buzón: sonaba hasta cortarse.
 
-Desde el viernes. Desde el viernes los dos sin contestar, y él en un cerro con el teléfono apagado en la guantera, contando piedras planas.
+Desde el viernes. Desde el viernes los dos sin contestar, y él en un cerro con el teléfono apagado en el fondo de una mochila, contando piedras planas.
 
 Walt llegó a las siete, en la Harley, y se lo dijo en la puerta del taller, sin darle vueltas.
 
@@ -134,7 +134,7 @@ Héctor lo miró desde el asiento.
 
 —Ése no es mío.
 
-El patrón de la vulcanizadora ya venía cruzando, limpiándose las manos en un trapo. Kal lo conocía de toda la vida, de pasarle llantas y de no pasarle nada más; era el mismo que tres semanas antes le había prohibido a su chico acercarse a la casa común mientras Chiara durmiera ahí. Nadir se lo había contado en la cocina, divertido, y Kal lo había dejado pasar.
+El patrón de la vulcanizadora ya venía cruzando, limpiándose las manos en un trapo. Kal lo conocía de toda la vida, de pasarle llantas y de no pasarle nada más; era el mismo que meses antes le había prohibido a su chico acercarse a la casa común mientras Chiara durmiera ahí. Nadir se lo había contado en la cocina, como reproche, y Kal lo había dejado pasar.
 
 —Don Héctor. —Se quitó la gorra—. Mi chico se lo puso el viernes en la noche. Quedó abierto cuando se lo llevaron.
 
@@ -256,7 +256,7 @@ Nadir no asintió. Se quedó quieto, con las manos quietas, que en él era raro.
 
 —Te íbamos a avisar, khoya. —No lo dijo como reproche. Lo dijo como se dice una cifra—. Pero tú te ibas al cerro con el teléfono apagado, y el tuerto bebe los viernes.
 
-Kal sostuvo eso sin moverse. El teléfono apagado en la guantera. Las piedras planas. Seis a cuatro.
+Kal sostuvo eso sin moverse. El teléfono apagado en el fondo de la mochila. Las piedras planas. Seis a cuatro.
 
 No se defendió. No tenía con qué.
 

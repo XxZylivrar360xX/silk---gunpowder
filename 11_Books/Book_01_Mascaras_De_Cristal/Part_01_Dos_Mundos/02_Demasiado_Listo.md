@@ -397,7 +397,7 @@ Pensó que un casino nuevo tenía algo indecente: fingía experiencia antes de h
 
 A las nueve menos seis, Kal estacionó el Peugeot 106 XSi rojo frente al Monarch y dejó las llaves en su bolsillo antes de que el valet pudiera abrir la mano.
 
-El cochecito quedaba ridículo entre sedanes negros, camionetas blindadas y deportivos que brillaban como relojes caros. Era bajo, compacto, reacondicionado con una paciencia que no se podía comprar en concesionaria. En la calle lo llamaban el terror de la policía. En la marquesina del Monarch parecía una grosería pintada de rojo.
+El cochecito quedaba ridículo entre sedanes negros, camionetas blindadas y deportivos que brillaban como relojes caros. Era bajo, compacto, reacondicionado con una paciencia que no se podía comprar en concesionaria. La policía lo llamaba el malvavisco del Peugeot. En la marquesina del Monarch parecía una grosería pintada de rojo.
 
 —Señor, nosotros podemos—
 

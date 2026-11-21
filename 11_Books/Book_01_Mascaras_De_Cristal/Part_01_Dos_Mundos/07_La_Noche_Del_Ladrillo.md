@@ -66,7 +66,7 @@ Blake salió detrás de ella dos minutos después.
 
 Él no insistió. Nunca insistía en las preguntas que de verdad importaban, y ella ya había aprendido a leer eso como un alivio disfrazado de descuido.
 
-Fue entonces cuando pasó por la calle lo que en el Departamento llamaban, medio en broma y medio no, *el terror de la policía*: un Peugeot 106 XSi reacondicionado, rojo, con un motor que sonaba mejor de lo que cualquier coche de esa edad tenía derecho a sonar.
+Fue entonces cuando pasó por la calle lo que en el Departamento llamaban, medio en broma y medio no, *el malvavisco del Peugeot*: un 106 XSi reacondicionado, rojo, con un motor que sonaba mejor de lo que cualquier coche de esa edad tenía derecho a sonar.
 
 Blake se enderezó como si el coche le hubiera activado algo.
 
@@ -354,7 +354,7 @@ Eso fue lo último que necesitó oír.
 
 Se dio la vuelta antes de que él pudiera contestar, levantó la mano hacia la calle y un taxi se detuvo con una suerte que no merecía esa noche.
 
-Santa Brígida quedaba lejos del Monarch. El ladrillo se le clavaba en la cadera con cada bache del camino, y antes de llegar a la 101 ya lo había armado: el coche del que Blake presumía derrotas, el terror de la policía del que nadie había visto la cara, era el mismo que acababa de entrar a un callejón con cuatro hombres mal vestidos. Se rio una vez, por la nariz. El chofer la miró por el espejo.
+Santa Brígida quedaba lejos del Monarch. El ladrillo se le clavaba en la cadera con cada bache del camino, y antes de llegar a la 101 ya lo había armado: el coche del que Blake presumía derrotas, el malvavisco del Peugeot del que Kal le había hablado, era el mismo que acababa de entrar a un callejón con cuatro hombres mal vestidos. Se rio una vez, por la nariz. El chofer la miró por el espejo.
 
 Eran más de las dos cuando entró al penthouse. No encendió más que la lámpara de la habitación. Sacó el ladrillo del bolso antes que nada y se quedó mirándolo en la mano. Levantó una ceja. Lo dejó en la mesa de noche del otro lado de la cama, la que no usaba.
 

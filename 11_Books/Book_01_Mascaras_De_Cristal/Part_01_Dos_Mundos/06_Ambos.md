@@ -576,7 +576,7 @@ Chiara escuchó sin hablar. No entendió cada palabra y no le hizo falta: había
 
 —Es lo que oigo cuando manejo —dijo Kal—. Casi siempre de noche, cuando la ciudad ya cerró y las calles son mías un rato.
 
-Le tradujo lo que pudo, sin cuidar mucho la letra, más el tono que las frases: alguien que no tiene nada y habla como si ya lo tuviera todo, porque decirlo en voz alta es la mitad de conseguirlo. Y de ahí se soltó a contarle lo otro, que ella no había pedido y él no solía dar: las carreras en la recta de Kingsley Field, de madrugada, con la pista marcada por los faros de los que iban a apostar. El Peugeot rojo. Que en la calle lo llamaban el terror de la policía y que casi nadie sabía quién iba dentro.
+Le tradujo lo que pudo, sin cuidar mucho la letra, más el tono que las frases: alguien que no tiene nada y habla como si ya lo tuviera todo, porque decirlo en voz alta es la mitad de conseguirlo. Y de ahí se soltó a contarle lo otro, que ella no había pedido y él no solía dar: las carreras en la recta de Kingsley Field, de madrugada, con la pista marcada por los faros de los que iban a apostar. El Peugeot rojo. Que casi nadie sabía quién iba dentro.
 
 —¿Y la policía? ¿Cómo te dice la policía?
 

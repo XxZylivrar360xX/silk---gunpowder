@@ -192,7 +192,7 @@ Empezó por el hipódromo, antes de que amaneciera del todo.
 
 Alguien había echado una lona verde encima de Vento, sin amarrarla, y el viento de la madrugada le había levantado una esquina. Por lo demás, todo estaba como lo había dejado: la lámpara todavía encendida sobre la puerta de las caballerizas, las marcas de las ruedas de la ambulancia en la tierra, el portón del corral con el pasador echado. Nadie había venido a ver nada. La única patrulla de la noche se había quedado en urgencias.
 
-Kal se paró donde había estado el caballo y miró hacia donde miraba el caballo cuando cayó. La cerca del corral estaba a un paso. En el tercer tablón desde abajo, a la altura del pecho de un animal grande, había un agujero que no estaba el viernes: la madera abierta hacia adentro, astillada en una estrella pequeña y limpia, todavía clara en el centro, donde no le había dado la intemperie.
+Kal se paró donde había estado el caballo y miró hacia donde miraba el caballo cuando cayó. La cerca del corral estaba a un paso. En el tercer tablón desde abajo, a la altura del pecho de un animal grande, había un agujero: la madera abierta hacia adentro, astillada en una estrella pequeña y limpia, todavía clara en el centro, donde no le había dado la intemperie.
 
 Se agachó. Pasó el pulgar por las astillas sin meterlo en el agujero.
 
@@ -300,7 +300,7 @@ La teniente bajó la voz, lo justo para que Voss tuviera que hacer como que no o
 
 —Eso no se lo diga a su fiscal.
 
-—No le digo nada a nadie. Lo compro, ya te dije. —El *te* se le escapó, o no se le escapó; no lo corrigió.—. Es que estaba tan limpio que daba lástima pisarlo.
+—No le digo nada a nadie. Lo compro, ya te dije. —El *te* se le escapó, o no se le escapó; no lo corrigió—. Es que estaba tan limpio que daba lástima pisarlo.
 
 Kal le devolvió la pluma a Voss.
 
