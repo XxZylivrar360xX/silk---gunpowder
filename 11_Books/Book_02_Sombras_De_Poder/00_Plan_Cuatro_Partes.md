@@ -220,7 +220,7 @@ Sigue abierto: **coalición de H1**; extensión y desenlace de la investigación
 
 ## Pendientes heredados (no resolver por conveniencia)
 
-Mecanismo legal del Monarch; identidad de la estructura italiana (§22); golpe exacto de la Parte I y su lugar; ~~cartas de Dale tras la caída de Crowe~~ (resuelto 2026-10-14: detonan Stavanger); motivo y mecanismo del asesinato de Amanda; composición de la coalición de H1; progresión institucional de Halbrook; cobro de la deuda de Chiara con Dario; el golpe fallido con muertos de la Parte IV; el calendario fino del año.
+Mecanismo legal del Monarch; identidad de la estructura italiana (§22); golpe exacto de la Parte I y su lugar; ~~cartas de Dale tras la caída de Crowe~~ (resuelto 2026-10-14: detonan Stavanger); ~~motivo del asesinato de Amanda~~ (resuelto 2026-11-21: iba a reabrir el caso de Walt; ver la columna); si Crowe estuvo en el asalto; composición de la coalición de H1; progresión institucional de Halbrook; cobro de la deuda de Chiara con Dario; el golpe fallido con muertos de la Parte IV; el calendario fino del año.
 
 ---
 

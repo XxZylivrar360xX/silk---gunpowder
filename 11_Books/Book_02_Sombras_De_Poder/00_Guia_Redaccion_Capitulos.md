@@ -658,7 +658,7 @@ F2 se queda en la Parte III, y el final la cobra **con ecos, no de forma textual
   - **(P):** Héctor sabía y no se lo dijo a Chiara: deuda posible para *Voto de Ceniza*.
 - **Las cartas ya se leyeron (45):** dicen dónde; Crowe dice cómo.
 - **Walt (CANON DEL AUTOR, 2026-11-13):** está en la Almendra; es quien conduce los autos que sacan a los heridos y por eso se cruza en el triaje del 54 con Chiara, Camila y Nat.
-- **PENDIENTE:** motivo y mecanismo del asesinato de Amanda; si en la Almendra se ve la fricción entre Kal y Walt.
+- **Amanda,** motivo (DECISIÓN DEL AUTOR, 2026-11-21): Amanda iba a reabrir el caso de Walt con un cuarto abogado y la prueba de la barreta movida; Crowe manda a recoger los papeles y ella muere resistiéndose. Nadie lo sabe en la página (columna §10.5). **PENDIENTE:** si Crowe estuvo en el asalto o lo mandó; si en la Almendra se ve la fricción entre Kal y Walt.
 
 **47. No otra vez** (antes 56) — esa madrugada · Chiara · la Villa · *(60; IV-U17)*
 

@@ -108,7 +108,7 @@ Necesitan un motivo de fuerza, no de miedo: el miedo no da lealtad ciega. La pro
 
 **El arco en página (todo existe; cambia el *por eso*):** el levantón (29: sangre con el Patio; «la mujer de Mercer ejecuta») → los golpes nocturnos (35) → Meiko (38: la apuñala un Caldero) → el golpe de los chicos (43: Kal **responde por los suyos ante los Calderos**, sin escalar; el primer hombre que responde sin cobrar) → las bandas (44: los Calderos llegan los últimos, CANON) → en el III, bando de Kal (CANON de su ficha; Halbrook usa sus colores en el coche bomba).
 
-**PENDIENTE del autor:** si Mack Calderon necesita además una deuda personal con Crowe (un hijo, un hermano preso).
+**La deuda de Mack (DECISIÓN DEL AUTOR, 2026-11-21): un hermano preso.** Crowe le paga a su hermano el abogado, la cantina y la protección adentro. Por eso romper con Crowe le cuesta a Mack algo que no cuesta a los demás, y por eso los Calderos llegan los últimos con las bandas: ella pone en la mesa al hermano. Es lo que hay detrás de «o déjamelo a mí» y de «su derecho» en la tormenta, aunque Kal lo diga en broma. En la página basta una línea, sin escena nueva (DISEÑO: en la reunión de las bandas o al darle la mano a Kal). **PENDIENTE:** nombre del hermano, su delito y qué pasa con él cuando Crowe cae.
 
 ## 7. Manfred y las cartas: el motivo de la entrega (PROPUESTA)
 
@@ -142,14 +142,16 @@ La propuesta de fusiones de la primera ronda (de 58 a 51 sin costo, a 47 con cos
 2. **La ficha de Crowe** dice en una sección vieja que Crowe nunca sabe que conecta con el origen de Kal; ya lo superaron el retcon del 2026-09-19 y la revelación de la tormenta.
 3. **La ficha de Los Calderos** dice que operan «bajo el clima de Dario». En el II operan bajo Crowe y Dario los tolera.
 4. **La coalición de H1** (Bravos con Crowe y Dario) pasa a ser alianza táctica con traición pendiente de los dos lados, y Halbrook la usa para la filtración.
-5. **Amanda.** Crowe la mató (CANON en la tormenta) y el motivo sigue PENDIENTE. Si toca el ascenso de Crowe (Walt como el último hombre que le dijo que no), refuerza la columna.
+5. **Amanda.** Crowe la mató (CANON en la tormenta). **Motivo: DECISIÓN DEL AUTOR (2026-11-21), ver §10.**
 
 ## 10. Respuestas del autor (2026-11-18)
 
 1. **Halbrook alimenta la ambición de Crowe y lo sacrifica: APROBADO (DECISIÓN DEL AUTOR).**
 2. **Regla de presencia de Halbrook (un escalón público al cierre de cada Parte, nunca la mano): APROBADA (DECISIÓN DEL AUTOR).**
-3. **Los Calderos siguen a Crowe por el corralón: APROBADO (DECISIÓN DEL AUTOR).** Sigue PENDIENTE si Mack Calderon necesita una deuda personal.
+3. **Los Calderos siguen a Crowe por el corralón: APROBADO (DECISIÓN DEL AUTOR).** Mack, además, tiene un hermano preso a cuenta de Crowe (DECISIÓN DEL AUTOR, 2026-11-21; §6).
 4. **Manfred: APROBADO (DECISIÓN DEL AUTOR, 2026-11-18)** con las tres razones, sus residuos en la página y la **opción c** de la carta: «Le pagué a Silas con diecisiete años y todavía le debo.», en la carta del 15 de marzo. Llevado a la prosa del 45 y del 55 (archivos; caps. 38 y 46) el 2026-11-21, con orden del autor.
+5. **Amanda: iba a reabrir el caso de Walt (DECISIÓN DEL AUTOR, 2026-11-21).** Con Walt preso, Amanda consiguió un cuarto abogado (los tres primeros se habían echado atrás) y la prueba de que la barreta se movió de lugar. Crowe manda a recoger los papeles: es el asalto en la Almendra; ella se resiste y muere. Es el espejo de Dale: él pagó con silencio y ella se negó a callar. Murió por sacar a Walt. **Nadie lo sabe en la página:** Walt sólo entiende, por la línea cortada, que fue Crowe; ni él ni Kal conocen el porqué, y a Natalie se le oculta todo (CANON). El motivo es del autor y sostiene la columna desde abajo: la década de Crowe en la Almendra empieza con la muerte de la mujer que no se dejó cobrar silencio. **PENDIENTE:** si Crowe estuvo en el asalto o lo mandó (la línea «Ya perdiste a una esposa» funciona con las dos).
+6. **Mack Calderon: hermano preso a cuenta de Crowe (DECISIÓN DEL AUTOR, 2026-11-21).** Ver §6.
 5. **Fase 1: APROBADO arrancarla** con meta de 45–47: [[11_Books/Book_02_Sombras_De_Poder/00_Fase1_Tres_Pruebas]].
 
 ### Manfred en la página (APROBADO, 2026-11-18)

@@ -2,6 +2,10 @@
 
 Máximo 800 palabras; conservar sólo decisiones operativas recientes y enlaces a sus fuentes. El historial íntegro anterior al corte está en [[98_Agent_Handoff/archive/2026-09-21_DECISIONS]]; las del 2026-11-01, en [[98_Agent_Handoff/archive/2026-11-08_DECISIONS]]; las del 2026-11-04 al 2026-11-06, en [[98_Agent_Handoff/archive/2026-11-09_DECISIONS_retiradas]]; la Fase 3 del Libro II, en [[98_Agent_Handoff/archive/2026-11-21_DECISIONS_retiradas]]. Archivar entradas antiguas antes de retirarlas.
 
+## 2026-11-21 — Columna del Libro II: Mack y Amanda
+
+**DECISIÓN DEL AUTOR:** Mack Calderon sigue a Crowe también por un hermano preso que Crowe sostiene; Amanda murió porque iba a reabrir el caso de Walt. Ninguno de los dos motivos se explica en la página. Fuente: [[98_Agent_Handoff/sessions/2026-11-21_claude_columna_mack_amanda]].
+
 ## 2026-11-21 — Cirugía de la lectura corrida (Libro I)
 
 **DECISIÓN DEL AUTOR:** el método es capítulo por capítulo, del 1 al 47, con verificación doble y un commit por capítulo. Hay siete decisiones transversales: la luz de invierno se corrige y se conservan las horas; Chiara tutea a Meiko y Meiko le habla de usted; el Peugeot lleva una línea de lógica y en el 35 Kal va en el Audi; la redundancia entre POV se reduce a una línea; se marca el salto a junio; Kal le pasa el parte a Nadir en el 21; hay un gesto entre los Varek en el 20. Detalle: [[13_Auditorias/Book_01_Mascaras_De_Cristal/Cirugia_Lectura_Libro_I]].

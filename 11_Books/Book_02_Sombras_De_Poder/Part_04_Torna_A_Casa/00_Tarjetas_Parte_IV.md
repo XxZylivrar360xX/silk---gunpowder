@@ -10,7 +10,7 @@
 >
 > **Fuentes que mandan en su escena:** el final en [[11_Books/Book_02_Sombras_De_Poder/00_Plan_Cuatro_Partes]] («El final», CANON DEL AUTOR); [[11_Books/Book_02_Sombras_De_Poder/Part_04_Torna_A_Casa/00_Diseno_Cartas_De_Dale]]; [[11_Books/Book_02_Sombras_De_Poder/Part_04_Torna_A_Casa/00_Diseno_Noche_Stavanger]] (directiva: el libro se construye para cobrar esa noche); [[11_Books/Book_02_Sombras_De_Poder/00_Diseno_Nombre_Y_Embarazo]] (tics 8, 8-b y 9; señales); [[06_Relationships/Hitos]] (H1). Para la noche final valen las fichas de los caps. 50–55 (boceto 56–61) de [[11_Books/Book_02_Sombras_De_Poder/00_Guia_Redaccion_Capitulos]]. **La prosa BORRADOR de Stavanger, *Henrik* y *Ya llegó* manda y no se toca.**
 >
-> **Supuestos abiertos:** D3 (Chiara no sabe que Crowe es de Halbrook), D10 (el golpe fallido), D11 (Walt) y D12 (los Bravos) van con la opción recomendada y marcados P. Siguen PENDIENTES del autor: la línea exacta de «No como tú», el mecanismo del asesinato de Amanda y el diálogo de la chimenea.
+> **Supuestos abiertos:** D3 (Chiara no sabe que Crowe es de Halbrook), D10 (el golpe fallido), D11 (Walt) y D12 (los Bravos) van con la opción recomendada y marcados P. Siguen PENDIENTES del autor: la línea exacta de «No como tú», si Crowe estuvo en el asalto a Amanda (el motivo se decidió el 2026-11-21: iba a reabrir el caso de Walt) y el diálogo de la chimenea.
 
 ## Reloj de la Parte
 

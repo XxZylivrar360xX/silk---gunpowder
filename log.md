@@ -4,6 +4,7 @@ El detalle se guarda una sola vez en notas de sesión. Este archivo es navegaci�
 
 ## Sesiones recientes
 
+- 2026-11-21: Libro II, DECISIONES DEL AUTOR de la columna: Mack Calderon con un hermano preso a cuenta de Crowe; Amanda murió por reabrir el caso de Walt: [[98_Agent_Handoff/sessions/2026-11-21_claude_columna_mack_amanda]]
 - 2026-11-21: Lectura corrida del Libro I por el agente (seis tramos, solo lectura): [[13_Auditorias/Book_01_Mascaras_De_Cristal/Lectura_Corrida_Libro_I_2026-11-21]]
 - 2026-11-21: DECISIÓN DEL AUTOR: regla 07 «Réplica que se debe» y seis réplicas largas aplicadas en los caps. 3, 15, 18, 32 y 33 del Libro I, BORRADOR: [[13_Auditorias/Book_01_Mascaras_De_Cristal/Propuesta_Replicas_Largas_Libro_I]]
 - 2026-11-21: DECISIÓN DEL AUTOR: regla 06 «Réplica mínima»; barrido del Libro I (de 33 % a 26 % de réplicas de ≤3 palabras), BORRADOR: [[98_Agent_Handoff/sessions/2026-11-21_claude_pingpong_libro_I]]

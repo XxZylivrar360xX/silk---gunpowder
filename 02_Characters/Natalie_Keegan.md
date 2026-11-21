@@ -500,6 +500,8 @@ Hay un parentesco visible con Walt sin que sea una copia de él.
 > **RESUELTO EN PARTE (CANON DEL AUTOR, 2026-10-13):** **Silas Crowe mató a Amanda.** Walt lo descubre de forma indirecta, por una frase de Crowe, y lo ejecuta al final de la tormenta de *Sombras de Poder* (ver [[02_Characters/Walter_Keegan]]).
 >
 > **RESUELTO (CANON DEL AUTOR, 2026-10-13):** fue **un asalto de Crowe que salió mal, en La Almendra**. **Natalie no lo sabe ni lo sabrá:** Walt y Kal se lo ocultan. Plan anterior retirado: [[97_Supersedido/Fichas_Detalles_Menores#Natalie Keegan]].
+>
+> **Motivo (DECISIÓN DEL AUTOR, 2026-11-21):** Amanda iba a reabrir el caso de Walt: consiguió un cuarto abogado y la prueba de que la barreta se movió de lugar. Crowe mandó a recoger los papeles; ella se resistió y murió. Nadie lo sabe en la página (ni Walt ni Kal conocen el porqué). PENDIENTE: si Crowe estuvo en el asalto o lo mandó. Ver [[11_Books/Book_02_Sombras_De_Poder/00_Columna_El_Caudillo]] §10.
 
 ---
 

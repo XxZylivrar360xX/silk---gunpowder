@@ -76,6 +76,8 @@ Y eso abre toda una relación con el pasado de la familia Mercer que hasta ahora
 ## Su historia con [[02_Characters/Silas_Crowe]]
 
 > **CANON DEL AUTOR (2026-10-13):** **Walt ejecuta a Crowe** al final de la operación de la tormenta (*Sombras de Poder*, Parte IV), cuando Kal ya lo dejó con vida. Crowe, de rodillas, le dice: *«Ya perdiste a una esposa, así que cuida de tu cocinera, uno nunca sabe cuándo la muert...»* Así Walt entiende que Crowe mató a Amanda (un asalto que salió mal en La Almendra; CANON DEL AUTOR, 2026-10-13). **Walt y Kal se lo ocultan a Natalie: no lo sabe ni lo sabrá.** Después del disparo, sólo dice: *«A nadie le importa tu opinión, gordo hijo de puta.»* **Fricción futura (CANON DEL AUTOR, 2026-10-13):** Kal lo había dejado vivo porque Crowe acababa de revelarle que lo conoció antes de que fuera un Mercer. Walt mata al único hombre que sabía de dónde vino Kal. Ver [[11_Books/Book_02_Sombras_De_Poder/00_Plan_Cuatro_Partes]].
+>
+> **Motivo (DECISIÓN DEL AUTOR, 2026-11-21):** Amanda iba a reabrir el caso de Walt: consiguió un cuarto abogado y la prueba de que la barreta se movió de lugar. Crowe mandó a recoger los papeles; ella se resistió y murió. Nadie lo sabe en la página (ni Walt ni Kal conocen el porqué). PENDIENTE: si Crowe estuvo en el asalto o lo mandó. Ver [[11_Books/Book_02_Sombras_De_Poder/00_Columna_El_Caudillo]] §10.
 
 **No es que el Tasador lo haya "incriminado" sin más. Son supervivientes de dos modelos criminales distintos del barrio.**
 

@@ -362,7 +362,7 @@
 - **Beats:** tras años de cobros, las bandas llegan con Kal y él acepta sin pedirle permiso a Dario. La Ronda del Canal primero (oyó «todavía no» en el 14); Cuadra Nueve, porque Crowe recluta sus muchachos (13); los Marcadores ponen las ruedas; **los Calderos, los últimos**, porque Kal respondió por los suyos (35) y Crowe es peor. Nadir ve a Kal darle la mano a Mack Calderon, con el de la navaja vivo en esa banda, y no dice nada. Rafe se lo hace saber a Chiara en privado, por el pacto del Libro I (P, D12): primera grieta.
 - **Trenza:** el beso de salir de casa es rutina; nadie lo señala.
 - **Saldo → por eso:** respeto, no lealtad. La operación tiene ejército; Halbrook, un sur que observar.
-- **PENDIENTE:** si Mack Calderon necesita una deuda personal con Crowe.
+- **Mack Calderon (DECISIÓN DEL AUTOR, 2026-11-21):** un hermano preso a cuenta de Crowe (abogado, cantina, protección); romperle le cuesta y por eso los Calderos llegan los últimos. Una línea en página; nombre y delito PENDIENTES. Ver [[11_Books/Book_02_Sombras_De_Poder/00_Columna_El_Caudillo]] §6.
 
 **37. Mover la mirada** — fin de sep – principios de oct A4 · Chiara · *El Faro*; la ciudad; la rampa del Monarch · `44_Mover_La_Mirada` (45) — **escalón IV de Halbrook**
 
@@ -427,7 +427,7 @@
 - **Escrito (BORRADOR).** Crowe le revela que lo conoció antes de que fuera un Mercer; *«Ya perdiste a una esposa, así que cuida de tu cocinera, uno nunca sabe cuándo la muert...»*; Walt dispara: *«A nadie le importa tu opinión, gordo hijo de puta.»*; el golpe en el costado (Volpi, velado); Héctor y el chaleco.
 - **Columna:** **C** cae; **H** lo entregó; **V** dispara.
 - **Hecho (2026-11-21):** Crowe deja caer el 15 de marzo («Ese día no vino a jugar. El único.») y Kal lo une con la carta. **(P, cadena):** una línea de Kal o de Walt sobre que la piedra no estaba con Crowe.
-- **PENDIENTE:** motivo y mecanismo del asesinato de Amanda.
+- **Amanda,** motivo (DECISIÓN DEL AUTOR, 2026-11-21): Amanda iba a reabrir el caso de Walt con un cuarto abogado y la prueba de la barreta movida; Crowe manda a recoger los papeles y ella muere resistiéndose. Nadie lo sabe en la página (columna §10.5). **PENDIENTE:** si Crowe estuvo en el asalto o lo mandó.
 
 **47. No otra vez** — esa madrugada · Chiara · la Villa · `56_No_Otra_Vez` (57)
 
