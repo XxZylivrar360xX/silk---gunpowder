@@ -6,7 +6,7 @@ Estado: BORRADOR (lo nuevo es DISEÑO del agente; espera lectura del autor).
 Sale: el domingo en el box con Vento vivo (Vento muere en el nuevo 23).
 Decisiones del autor (2026-11-08): (1) beat corto de duelo en el Monarch, antes del corredor: el caballerango sube la cabezada y la hoja del programa; el origen de Vento (North Wind Rising, la lista de venta, comprado con su dinero, «le dejé el viento», el trato) se cuenta por dentro de Chiara, en pasado; se conserva el título; (2) una línea en la coda: «Si Marisol lo encontró, Vivian también puede»; Chiara no le quita la tarea a Kenji.
 DISEÑO del agente: apertura por residuo del nuevo 30 (Kal llega pasadas las tres de un arrastre y se lava las manos de más; ella no pregunta); la bolsa de estraza motiva que Chiara mire hacia abajo desde el corredor; la cabezada en el gancho detrás de la puerta y la hoja bajo los sellos; «ni lo que ella misma le debía al dueño de esa mesa»; «Kenji sigue» / «Ya» (invierte el «Ya» de Chiara al cerrar el 30).
-Se conserva literal: el cuadro con moño, la escena de la caja (diálogo Kenji–Marisol íntegro), el cigarro, la ciabatta (pago en Stavanger), «Ladro», «Assaggia», la coda de Marisol hasta «La suficiente para preocuparme. No la suficiente para escoger por ella.» y «tú cubres su turno» (el nuevo 32 abre con «Cubro su turno»).
+Se conserva literal: el cuadro con moño, la escena de la caja (diálogo Kenji–Marisol íntegro), el cigarro, la ciabatta (pago en Stavanger; reescrita sin ping-pong por DECISIÓN DEL AUTOR del 2026-11-21, con las líneas ancla intactas), «Ladro», «Assaggia» (reescrita sin ping-pong, misma DECISIÓN), la coda de Marisol hasta «La suficiente para preocuparme. No la suficiente para escoger por ella.» y «tú cubres su turno» (el nuevo 32 abre con «Cubro su turno»).
 Costura de apertura: con el nuevo 30 (existe). Costura PROVISIONAL: depende del nuevo 27 (Vivian menciona a «la pelirroja» en el patio de Varek; la silla). Costura PROVISIONAL: depende del nuevo 28 (Kal le cuenta lo de Marisol en las cascadas y Chiara nombra a Kenji para mirar la periferia de Vivian; los dos saben que le deben a Varek). Cierre: engancha con el nuevo 32 (existe), sin cambios.
 La metadata de abajo es histórica: sus números de capítulo son de numeraciones anteriores; la nota «Vuelta al corral» quedó superada (ver arriba).
 
@@ -42,7 +42,7 @@ Continuidad:
 - VEHÍCULOS: no aplica — Chiara no sale del Monarch hasta el corte de escena hacia el loft; no se especifica cómo llega, evitando fijar vehículo sin necesidad narrativa (fijado para la Parte II: Chiara en el Lancia; Kal en el Audi desde el Cap. 31).
 - Registro privado Kal/Chiara: mismo nivel post-H7 — se comportan como pareja sin etiqueta formal, calidez de conducta, italiano suelto de Chiara.
 - Documentos que quedarán desactualizados por este capítulo y que NO se tocan aquí (reportar, no ejecutar): [[02_Characters/Marisol_Grayson]] y [[02_Characters/Kenji_Oda]] (sección "relación fuera de foco" — este capítulo ya es el primer sembrado concreto del acercamiento en Libro I, falta anotarlo con referencia al Cap. 33); [[03_Factions/Red_Civil_de_Chiara]] (Kenji ya actúa aquí más allá de la caja/i Sussurri clásico, observando entorno por encargo directo); [[06_Relationships/Hitos]] (falta un hito o sub-hito para este capítulo, título de trabajo "La periferia"; hoy está en la Parte II, no en la apertura de la Parte III).
-**Pago de la ciabatta (2026-10-03, CANON DEL AUTOR):** el intercambio del pan ("Te pedí ciabatta." … "Yo sí.") se repite literal en la cena de Stavanger ([[11_Books/Book_02_Sombras_De_Poder/Part_04_Torna_A_Casa/Ya_Llego]], *Sombras de Poder*), y Kal lo cobra en la propuesta: "Ya llegó, y resultó ser la mujer que me regaña por llevar el pan equivocado que me encargó." No tocar estas réplicas sin revisar el pago.
+**Pago de la ciabatta (2026-10-03, CANON DEL AUTOR; reescrito sin ping-pong por DECISIÓN DEL AUTOR del 2026-11-21: líneas ancla «Te pedí ciabatta», «Ese está mejor», «No veo cómo eso mejora tu argumento», «Yo sí»; *Ya llegó* espeja el texto nuevo):** el intercambio del pan ("Te pedí ciabatta." … "Yo sí.") se repite literal en la cena de Stavanger ([[11_Books/Book_02_Sombras_De_Poder/Part_04_Torna_A_Casa/Ya_Llego]], *Sombras de Poder*), y Kal lo cobra en la propuesta: "Ya llegó, y resultó ser la mujer que me regaña por llevar el pan equivocado que me encargó." No tocar estas réplicas sin revisar el pago.
 **Beat del cuadro (2026-10-02, CANON DEL AUTOR: gesto cotidiano, silencioso, con moño, sin exposición; prosa DISEÑO del agente, pendiente de lectura):** abre el capítulo en el penthouse, antes del Monarch. Paga la foto que Héctor toma sin avisar en el Cap. 31; vuelve en el Cap. 50. Kal durmió en el penthouse esa noche (confirmado por el autor 2026-10-02). Ver [[11_Books/Book_01_Mascaras_De_Cristal/00_Plan_Arco_Final_Sin_Kal]].
 CALIFICACIÓN DE VALET (2026-11-15, CANON DEL AUTOR: las calificaciones de valet con Chiara; prosa DISEÑO, espera lectura): escena nueva antes del loft. En la rampa, Meiko (valet de Chiara desde el cap. 29) tiene el Lancia esperando; un consejero de la mesa directiva le lanza las llaves al pecho: «Propina de veinte. Trato de dos.» / «Yo le doy uno.» / «Usted lo conoce más.» Primera calificación. Arco: [[11_Books/00_Arco_Meiko_Nakano]].
 -->
@@ -295,21 +295,13 @@ Cerró la ventana, se subió las mangas y empezó a sacar lo que hacía falta pa
 
 Encontró la bolsa de pan sobre la barra y la abrió sin pensarlo mucho, hasta que vio lo que había adentro.
 
-—Kal.
-
-—¿Qué?
-
-—Te pedí ciabatta.
+—Kal, te pedí ciabatta. —Sacó la barra y la sostuvo en alto, como una prueba que nadie había pedido—. Una sola cosa te encargué, y era el pan.
 
 —Ese está mejor.
 
-—Ése te gusta más.
+—Ése te gusta más a ti, que no es lo mismo. —Le dio vuelta a la barra buscándole el defecto, y no se lo encontró, cosa que tampoco ayudaba—. Me explico: yo pido una cosa, tú traes otra, y la que traes resulta ser la tuya. No veo cómo eso mejora tu argumento.
 
-—Exacto.
-
-Chiara lo miró.
-
-—No veo cómo eso mejora tu argumento.
+Kal le dio un trago a la cerveza sin apurarse, con la calma de quien ya ganó y lo sabe.
 
 —Yo sí.
 
@@ -341,21 +333,17 @@ No lo intentó de nuevo con el queso, al menos no enseguida. Se quedó apoyado c
 
 —Assaggia —dijo Chiara, al rato, acercándole la cuchara con salsa.
 
-Kal la miró un segundo antes de probar, calculando.
+Kal la miró un segundo antes de probar, calculando, como si la palabra pudiera traer algo escondido.
 
 —¿Eso qué fue?
 
-—Prueba. Assaggia.
+—Prueba. Assaggia. —Le sostuvo la cuchara a la altura de la boca, con la otra mano abajo para que no goteara—. Es lo que dice cualquier nonna antes de que le contestes. No es pregunta. Tú contestas que está buena y pides más.
 
 —Assaggia —repitió, aplastando la primera «a» contra la segunda de una manera que no se parecía a nada.
 
-—No así.
+—No así. Así suena a orden militar.
 
-—¿Así cómo?
-
-—Como si fuera una orden militar.
-
-Probó de todos modos, sin corregir el acento.
+Probó de todos modos, sin corregir el acento, y se tomó su tiempo con la salsa, como se lo tomaba con un motor que hacía un ruido que no le gustaba.
 
 —Le falta sal.
 
@@ -363,11 +351,7 @@ Chiara no le creyó por principio. Probó ella misma.
 
 Le faltaba sal.
 
-—Manca sale —dijo, más para sí misma que para él.
-
-—¿Y eso?
-
-—Que tenías razón. No hace falta que lo repitas.
+—Manca sale —dijo, más para sí misma que para él, y echó la sal sin medirla—. Que tenías razón, antes de que lo preguntes. Y no hace falta que lo repitas.
 
 Kal lo repitió de todos modos, con la misma solemnidad excesiva de antes, y esta vez ninguno de los dos fingió que no le daba risa.
 

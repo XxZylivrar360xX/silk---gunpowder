@@ -274,23 +274,15 @@ Era mentira, y los dos lo sabían. Pero el camino de tierra no era el loft, y Ch
 
 Marcó el primer número que encontró en la lista de recientes. Danny contestó antes del segundo timbre, a un volumen que hacía innecesario cualquier altavoz.
 
-—¡Jefe! ¿Ya viste lo de la cera?
+—¡Jefe! ¿Ya viste lo de la cera? Te iba a llamar yo, fíjate, tenía el teléfono en la mano. El de la refaccionaria ya mandó precio y está de ladrón, pero si le digo que es para ti…
 
-—Danny. Te llamo por otra cosa.
+—Danny. Te llamo por otra cosa. ¿Conoces a Chiara?
 
-—¿Qué otra cosa? Si te iba a llamar yo.
+—¿Cómo no voy a conocer a la señora? *Ciao, tesoro* —canturreó Danny, y Chiara tuvo que voltear hacia la ventana—. Si es la única que te contesta cuando te enojas. ¿Qué pasó? ¿Está bien?
 
-—¿Conoces a Chiara?
+—Está bien. Está aquí. Pues llevamos un tiempo… —Kal miró el volante, como si ahí estuviera el resto de la frase— conociéndonos. Y estoy… muy contento.
 
-—¿Cómo no voy a conocer a la señora? *Ciao, tesoro* —canturreó Danny, y Chiara tuvo que voltear hacia la ventana.
-
-—Bueno. Pues llevamos un tiempo… conociéndonos.
-
-—¿Ah, sí? No me digas.
-
-—Sí. Y estoy… muy contento.
-
-—Ajá. ¿Y a mí qué me importa, jefe?
+—Ajá. —Del otro lado se oyó una llave de cruz que caía al piso y alguien que la levantaba sin prisa—. No me digas. ¿Y a mí qué me importa, jefe?
 
 —Eso. Exactamente eso te ibas a preguntar.
 
@@ -362,19 +354,15 @@ Kal tardó. Puso las dos manos en el volante, a las diez y diez, como en un exam
 
 —Yo nunca he tenido que ponerle nombre a algo así —dijo—. Ni voz, ni forma, ni nada. Y no sé qué quieres tú. No me quiero tirar a una piscina vacía.
 
-—¿Qué te da miedo?
+—¿Qué te da miedo? —preguntó Chiara, y esta vez no había burla en la pregunta.
 
-—Ser demasiado.
-
-—¿Demasiado qué?
-
-—Intenso.
+—Ser demasiado. —Tardó en encontrar la otra palabra, y cuando la encontró no le gustó—. Intenso.
 
 Chiara parpadeó.
 
-—¿Tú? ¿Intenso?
+—¿Tú? ¿Intenso? —Se le escapó media risa—. Kal, tú contestas el teléfono con una sílaba.
 
-—Por eso quería ver por dónde ibas tú. Para no ser yo el único.
+—Con una sílaba, sí. —Se pasó la mano por la nuca—. Lo que traigo no cabe en una sílaba, y no sé qué hace la gente con lo que no cabe. Por eso quería ver por dónde ibas tú. Para no ser yo el único.
 
 —Kal. —Chiara señaló el teléfono sobre su rodilla—. Le colgaste a Varek para seguir esta conversación. Estoy en tu coche, en un camino que no sale en ningún mapa, y dejé a Walt solo con cuarenta etiquetas malas para irme contigo. ¿Y todavía quieres saber si la piscina tiene agua?
 

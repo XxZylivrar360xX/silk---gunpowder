@@ -17,9 +17,8 @@
 
 Caja de aceite de Russ y camión de la lavandería (4); «A mí me puso dos» de Walt sobre Keene y Nat «a esa hora» en la tumba (3); «tres personas que no se conocían entre sí» (12); Chiara aprendió de obras en italiano y Nadir «un tercio más» (10); «tarifa nocturna» del patrullero (8b); «En mi familia me dirían que no sé negociar» (7).
 
-## Residual (PENDIENTE del autor)
+## Residual (DECISIÓN DEL AUTOR, 2026-11-21)
 
-- Canon que es ping-pong por diseño: los ojos del 3 (103–113); ciabatta/Ladro/Assaggia del 33; H21 del 34 (247–261 y la llamada a Nadir, 409–419).
-- Material del autor del 2026-10-04 en el 34 (inicio de la llamada de Danny, 277–295; «Ser demasiado / ¿Demasiado qué? / Intenso», 365–377): tratado como canon por prudencia.
-- 12 *Roma Atrii* 226–244 (el recuerdo de Corrado y la vela): encabezado «cerrado 2026-10-27, no reintervenir».
-- Libro II sin barrer.
+- **Quedan como excepción:** los ojos del 3; la vela del 12; «Ladro» del 33; H21 del 34 («Chiaraaa…» y «Mi pareja»).
+- **Reescritos por orden del autor:** la ciabatta y «Assaggia» del 33; el inicio de la llamada de Danny y «Intenso» del 34. La ciabatta conserva sus líneas ancla, y *Ya llegó* (Libro II) espeja el texto nuevo para que el pago siga literal.
+- Libro II sin barrer (51 tramos).

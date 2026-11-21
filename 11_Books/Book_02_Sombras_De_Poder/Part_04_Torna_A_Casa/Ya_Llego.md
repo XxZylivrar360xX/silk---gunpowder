@@ -18,7 +18,7 @@ personajes: Kal Mercer, Chiara Bellandi
 > - **Sin caja (CANON DEL AUTOR, 2026-10-02):** el anillo va suelto en la billetera; Kal lo saca de ahí. Ajustadas las tres menciones de la caja y "cartera" → "billetera".
 > - **CANON DEL AUTOR (2026-10-03), la respuesta:** Chiara: "Kal Mercer, la comparto, compartí y compartiré esa vida peligrosa y divertida contigo." (sustituye "Sí."). Se retiró la réplica de Kal ("Sí —repitió él…"); la escena cierra en su mano sobre la de ella.
 > - **El beso (CANON DEL AUTOR, 2026-10-03):** ya no va después de "Ya llegó.": la vida le sirve el momento sin buscarlo y Kal ejecuta; se levanta por el anillo en el acto. El beso pasa a después de ponerle el anillo.
-> - **El pan (CANON DEL AUTOR, 2026-10-03):** la ciabatta deja el final y pasa a la cena, como callback literal del Cap. 37 del Libro I (*Lo único que es mío*, arch. 33; antes *Más de la cuenta*; la cena en el loft): mismas réplicas, mismos papeles; la única variación es que ahora ella le pasa la mitad más grande. Tras "Ya llegó.", Kal: "Ya llegó, y resultó ser la mujer que me regaña por llevar el pan equivocado que me encargó."; Chiara cree que bromea; el anillo le sacude el tablero a la mujer que controla las versiones (se muestra desde Kal: la vio abrir la boca y volver a cerrarla; DISEÑO). Salió del final la glosa "Kal entendió… No el origen. / Lo otro.".
+> - **El pan (CANON DEL AUTOR, 2026-10-03; espejado el 2026-11-21 con la versión sin ping-pong del Libro I, DECISIÓN DEL AUTOR):** la ciabatta deja el final y pasa a la cena, como callback literal del Cap. 37 del Libro I (*Lo único que es mío*, arch. 33; antes *Más de la cuenta*; la cena en el loft): mismas réplicas, mismos papeles; la única variación es que ahora ella le pasa la mitad más grande. Tras "Ya llegó.", Kal: "Ya llegó, y resultó ser la mujer que me regaña por llevar el pan equivocado que me encargó."; Chiara cree que bromea; el anillo le sacude el tablero a la mujer que controla las versiones (se muestra desde Kal: la vio abrir la boca y volver a cerrarla; DISEÑO). Salió del final la glosa "Kal entendió… No el origen. / Lo otro.".
 > - ~~**PENDIENTE (autor):** detonante del viaje (la caída de Silas ya no puede ser previa);~~ **Detonante resuelto (CANON DEL AUTOR, 2026-10-14):** las cartas de Dale desde la cárcel, entregadas por Manfred Gabe; Kal las devuelve a la tumba antes del viaje. Crowe sale del detonante. Ver [[11_Books/Book_02_Sombras_De_Poder/Part_04_Torna_A_Casa/00_Diseno_Cartas_De_Dale]]. Al redactar: Kal ya trae esas cartas cuando Henrik le enseña la respuesta administrativa de Dale a Ingrid; el pasaje "buscando algo que no encontró" cambia de sentido (prosa sin tocar). **Sigue PENDIENTE:** número y título definitivo del capítulo.
 
 > **Separación (DECISIÓN DEL AUTOR, 2026-11-07):** este archivo es sólo el capítulo de la cabaña. La llegada pasó a [[11_Books/Book_02_Sombras_De_Poder/Part_04_Torna_A_Casa/Stavanger]] y la casa de Henrik, el muelle y el regreso, a [[11_Books/Book_02_Sombras_De_Poder/Part_04_Torna_A_Casa/Henrik]]. Las notas de abajo valen para los tres.
@@ -57,19 +57,13 @@ Chiara calentó algo de la despensa — sopa, pan, lo que había — y comieron 
 
 Al sacar el pan, Chiara se detuvo con la bolsa en la mano.
 
-—Kal.
+—Kal, te pedí ciabatta. —Sacó la barra y la sostuvo en alto, como una prueba que nadie había pedido—. Una sola cosa te encargué, y era el pan.
 
-—¿Qué?
+—Ese está mejor.
 
-—Te pedí ciabatta.
+—Ése te gusta más a ti, que no es lo mismo. —Le dio vuelta a la barra buscándole el defecto, y Kal vio el momento exacto en que no se lo encontró—. Me explico: yo pido una cosa, tú traes otra, y la que traes resulta ser la tuya. No veo cómo eso mejora tu argumento.
 
-—Ése está mejor.
-
-—Ése te gusta más.
-
-—Exacto.
-
-—No veo cómo eso mejora tu argumento.
+Kal no se apuró. Dejó que la chimenea tronara una vez.
 
 —Yo sí.
 
