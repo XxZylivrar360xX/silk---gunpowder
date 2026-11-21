@@ -19,10 +19,10 @@ Plan: [[13_Auditorias/Book_01_Mascaras_De_Cristal/Cirugia_Lectura_Libro_I]]. Arc
 ## Reportado, sin tocar
 
 - Tina (canon): «Non la sto macchiando» (¿«lo», por *il muro*?).
+- «¿Quién manda la ciudad?» (¿calco de Chiara o errata por «en la ciudad»?); Tommaso le habla de usted a Matteo; «Va bene» frente a «No dijo que aceptaba»; «verdes por dentro, oscuros en el borde» dos veces; «Ya te contesté. Dos veces.» (añadido del barrido; quitarlo sube la regla 06 por encima de la vara).
+- «Ésta premia…» sin antecedente cercano: línea protegida, se deja.
 
 ## Decisiones del autor (mismo día, aplicadas)
 
 - Fabrizio sólo baja la voz: sale «como si Palermo pudiera oírlos desde ahí» (hacía leer viva a Marta); «Tu madre me mataría» se queda.
 - Tina: la respuesta de Chiara a «¿Y ésta ya no te gusta?» pasa al italiano: «—Sì. Questa mi piace davvero tanto, ma voglio una casa più grande.» (antes «Sí. Ésta me gusta de verdad mucho.»).
-- «¿Quién manda la ciudad?» (¿calco de Chiara o errata por «en la ciudad»?); Tommaso le habla de usted a Matteo; «Va bene» frente a «No dijo que aceptaba»; «verdes por dentro, oscuros en el borde» dos veces; «Ya te contesté. Dos veces.» (añadido del barrido; quitarlo sube la regla 06 por encima de la vara).
-- «Ésta premia…» sin antecedente cercano: línea protegida, se deja.
