@@ -19,6 +19,7 @@ Puente Nueva York-Palermo (2026-10-22, observacion del autor sobre la llegada nu
 Continuidad de la sala (2026-11-04, encargo del autor; DISEÑO, pendiente de lectura; el estado se conserva): "un dueño que no estaria en la junta" se adelantaba al anuncio de Dario; se queda el trio con "ya la tenia en inventario" y la idea pasa a despues del anuncio ("Chiara lo archivo con lo demas"). De pie o sentados: Kal es "el primero que se sento" y los demas lo siguen, asi conservan su sentido "nadie se hubiera levantado", "sentada en una mesa", "Matteo no volvio a sentarse" y "Se levanto". Ajustes de la misma revision: "alrededor de la mesa" (no escritorio) y Matteo toca "el borde de la mesa" (no el respaldo). Detalle: 98_Agent_Handoff/sessions/2026-11-04_claude_detalles_caps02_03.md.
 Decisiones del autor (2026-11-04; redaccion DISEÑO, pendiente de lectura; levantan lo protegido en Audit_Caps_01-03 §6 para estos puntos): fuera el sorteo y sus replicas, hasta "Sus aspiraciones son altas" (sin cobro desde 2026-09-30); la pregunta de Chiara por el porcentaje entra tras "Kal espero". La lectura de Kal desde Chiara pasa a observable para Kal ("Parecia saber que Kal no estaba jugando"). En la tina, "una habitacion podia mirarla de vuelta", que el recuerdo no cumplia, pasa a "le dijeron que cualquier casa bastaba".
 Tenis (2026-11-05, decision del autor; capitulo TERMINADO, el estado se conserva): "la unica concesion que se habia permitido" pasa a "idea de Marisol" (Cap. 1).
+Cirugia de la lectura (2026-11-21; BORRADOR, espera lectura): recortadas las replicas infladas por los barridos de dialogo; restituida "Yo no he visto veinte como el" y "¿Un lugar?" (Consigliere literal); fuera los tenis que Nadir no vio y "le mande el coche"; Kal ve la pintura como maquillaje (cap. 1); Elise por la credencial en POV de Kal. Detalle: 98_Agent_Handoff/sessions/2026-11-21_claude_cirugia_lectura_cap02.md.
 -->
 
 # Capítulo 2 — Demasiado listo
@@ -57,7 +58,7 @@ Chiara cerró la carpeta despacio, sin la prisa que él pudiera leer.
 
 —La familia Ardizzone va a tener un lugar en San Aurelio. Una ciudad modesta, en Oregon. Usted la conocerá pronto.
 
-—¿Un lugar? En mi experiencia, un lugar es algo que se le quita a alguien.
+—¿Un lugar?
 
 —Un socio de allá necesitaba respaldo. A cambio, ofreció lo que Il Consorzio necesitaba en esa costa. Il Consorzio aceptó.
 
@@ -103,7 +104,7 @@ El jet rodó hasta los hangares de aviación privada, lejos de la terminal. Migr
 
 Cuando le devolvió el pasaporte, le sonrió de vuelta.
 
-No porque le hiciera gracia. Porque la gente que cree tener una ventanilla suele necesitarla.
+No porque le hiciera gracia. Porque la gente que cree tener un mostrador suele necesitarlo.
 
 El otro oficial abrió la maleta grande, levantó dos capas de ropa con la punta de los dedos y la cerró sin tocar la pequeña.
 
@@ -129,7 +130,7 @@ Ella dejó que la abrazara. Un segundo menos de lo que él habría querido, un s
 
 Matteo se detuvo medio paso.
 
-—Les avisé —repitió, más para él que para ella—. Con dos días de anticipación.
+—Les avisé —repitió—. Con dos días de anticipación.
 
 Chiara no dijo nada. Él volvió a caminar, un poco más rápido.
 
@@ -205,13 +206,11 @@ Ella le permitió besarle ambas mejillas.
 
 —Fabrizio.
 
-—¿Comiste? Lo del avión no cuenta. No, no comiste, se te ve en la cara, y no me digas que sí porque eso ya me lo dijiste en tres aeropuertos. —Bajó la voz, como si Palermo pudiera oírlos desde ahí—. Tu madre me mataría. A mí, no a ti. A ti te lo perdona todo.
+—¿Comiste? Lo del avión no cuenta. No, no comiste, se te ve en la cara. —Bajó la voz, como si Palermo pudiera oírlos desde ahí—. Tu madre me mataría.
 
 —Fabrizio. Comí en el avión, y sí cuenta.
 
-—Ya, ya.
-
-Retrocedió medio paso, riéndose. La risa de él era real. También era útil. Un viejo amigo en una habitación nueva le daba a Chiara una coordenada que nadie más podía comprar.
+Él retrocedió medio paso, riéndose. La risa de él era real. También era útil. Un viejo amigo en una habitación nueva le daba a Chiara una coordenada que nadie más podía comprar.
 
 Tommaso Lusardi estaba tres pasos detrás.
 
@@ -245,7 +244,7 @@ Le dio la mano a Fabrizio, a Tommaso, a Matteo. Cuando llegó a Chiara, la miró
 
 —Signora Bellandi. Me alegra que haya llegado bien. San Aurelio puede ser confusa al principio.
 
-—Me dijeron que venía a dirigir, señor Varek, no a orientarme. Pero le agradezco el mapa.
+—Me dijeron que venía a dirigir, señor Varek.
 
 Varek sostuvo una sonrisa educada.
 
@@ -401,7 +400,7 @@ Odiaba el azar con una calma que había aprendido a no enseñar.
 
 No era moral. La moral habría sido más fácil de explicar. Lo que le daba asco era la serenidad con la que una habitación entera aceptaba que algo valiera más o menos por caer del lado correcto. Una ficha, una carta, un cuerpo, un nombre. El casino lo llamaba suerte porque la palabra precio habría espantado a los clientes.
 
-Y aun así había venido. Nadir ya andaba metiendo pintura y alerones en los coches del barrio; detrás de la estética venían las carreras de madrugada, el tuneo, los clientes que pagaban por correr lo que nadie más tenía. Esa gente no se juntaba en la Almendra. Se juntaba bajo marquesinas como ésa. Para llegarles hacía falta dinero de otra escala y un nombre que entrara por la puerta principal.
+Y aun así había venido. Nadir ya andaba metiendo pintura y alerones en los coches del barrio. A Kal la pintura le seguía pareciendo maquillaje, pero detrás de la estética venían las carreras de madrugada, el tuneo, los clientes que pagaban por correr lo que nadie más tenía. Esa gente no se juntaba en la Almendra. Se juntaba bajo marquesinas como ésa. Para llegarles hacía falta dinero de otra escala y un nombre que entrara por la puerta principal.
 
 Se acomodó el saco del traje azul.
 
@@ -513,7 +512,7 @@ Tommaso giraba un anillo de sello en el dedo, una vuelta y otra, sin mirárselo.
 
 Kal no les dio nada que leer de vuelta.
 
-Fabrizio Rinaldi saludó con una cordialidad amplia, Tommaso Lusardi con una cortesía que no gastaba calor. Elise, la mujer del bolígrafo, abrió una página nueva.
+Fabrizio saludó con una cordialidad amplia, Tommaso con una cortesía que no gastaba calor. La mujer de la carpeta, Elise según la credencial, abrió una página nueva.
 
 —Señor Mercer —dijo Tommaso—. Gracias por venir.
 
@@ -527,15 +526,15 @@ Fue el primero que se sentó. Los demás se fueron sentando después, cada uno c
 
 —Nueve es nueve.
 
-Fabrizio sonrió y se inclinó sobre la mesa, encantado de tener por fin algo que contar.
+Fabrizio sonrió y se inclinó sobre la mesa.
 
-—Matteo nos lo advirtió. Dijo: «Va a llegar a las nueve en punto, va a decir algo así y ustedes van a creer que es grosero. No es grosero. Es mecánico». Con esas palabras.
+—Matteo nos lo advirtió: que iba a llegar a las nueve en punto y que iba a decir algo así.
 
 —Matteo habla demasiado.
 
 Matteo se llevó una mano al pecho.
 
-—Me hieren en mi propia casa. Y después de que le mandé el coche.
+—Me hieren en mi propia casa.
 
 Chiara lo miró. Parecía saber que Kal no estaba jugando al gracioso; le estaba quitando brillo a la mesa para ver qué quedaba debajo.
 
@@ -561,7 +560,7 @@ Kal miró la mesa antes de contestar.
 
 —Hable en general.
 
-Kal se tomó un momento. De casinos en general no sabía nada que sirviera en esa mesa.
+Kal se tomó un momento.
 
 —En general, no sé. De coches, sí.
 
@@ -689,13 +688,13 @@ La puerta se cerró detrás de él.
 
 Matteo no volvió a sentarse.
 
-—Podemos usarlo. Ya lo vieron: entró, se sentó antes que nadie y en diez minutos sabía más del edificio que el jefe de seguridad. Y eso que no le dimos plano. Yo digo que…
+—Podemos usarlo. En diez minutos sabía más del edificio que el jefe de seguridad, y eso que no le dimos plano. Yo digo que…
 
 —Podemos usar a veinte como él —dijo Tommaso.
 
 Chiara dejó que la frase respirara antes de tocarla.
 
-—Entonces que mañana traigan a uno, y los comparamos. Yo me quedo con el que llegue a las nueve en punto.
+—Yo no he visto veinte como él.
 
 Tommaso giró apenas la cabeza.
 
@@ -743,15 +742,15 @@ Nadir contestó al primer tono.
 
 —No hay contrato.
 
-—¿Por el traje? Wallah, el azul con los tenis blancos… No te lo dije, khoya, pero lo pensé muy fuerte.
+—¿Por el traje? Te lo dije, yak: con el de los negocios iban a pensar que les vendías autopartes.
 
 —Por listo. «Demasiado listo», dijo uno.
 
-—¿Y eso allá es insulto? Aquí al listo le pagan más. Aquí el tonto es el que paga. —Se le oyó dejar algo de metal en una mesa—. ¿Y a ti te molestó? Porque si no te molestó, no sé para qué me llamas desde la carretera con esa voz, yak.
+—¿Y eso allá es insulto? Aquí al listo le pagan más. Aquí el tonto es el que paga. —Se le oyó dejar algo de metal en una mesa—. ¿Y a ti te molestó? Porque si no te molestó, no sé para qué me llamas desde la carretera con esa voz.
 
 —No. Desconfían de lo que funciona rápido. Yo también.
 
-Un camión lo rebasó por la izquierda y el Peugeot se sacudió con el aire. Kal tardó en contestar.
+Un camión lo rebasó por la izquierda y el Peugeot se sacudió con el aire. Kal tardó en seguir.
 
 —Había una mujer en la mesa. Preguntó por el porcentaje antes que nadie.
 
@@ -759,11 +758,11 @@ Un camión lo rebasó por la izquierda y el Peugeot se sacudió con el aire. Kal
 
 —Nada. No lo vio.
 
-—Todos ven el traje, khoya. Un traje así lo ve hasta un ciego, por el ruido.
+—Todos ven el traje. Un traje así lo ve hasta un ciego, por el ruido.
 
 —Ella no. Me vio los zapatos.
 
-—Wallah. Perdiste un contrato con un casino, khoya, con un casino, y me llamas para hablarme de una mujer que no vio tu traje. ¿Por lo menos estaba guapa?
+—Wallah. Perdiste un contrato con un casino, con un casino, khoya, y me llamas para hablarme de una mujer que no vio tu traje. ¿Por lo menos estaba guapa?
 
 Kal miró la carretera.
 

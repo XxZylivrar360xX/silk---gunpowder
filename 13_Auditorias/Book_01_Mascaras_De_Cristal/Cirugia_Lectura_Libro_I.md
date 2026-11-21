@@ -51,7 +51,6 @@ Plan de trabajo, en marcha desde el 2026-11-21 (DECISIÓN DEL AUTOR sobre el mé
 ## Seguimiento
 
 **Arrastres para capítulos siguientes** (vistos al operar uno anterior; se atienden al llegar a su capítulo):
-- Cap. 2: Nadir no puede conocer los tenis blancos; «le mandé el coche».
 - Cap. 3: «pastillas de freno del Ford» choca con el 1 (las pastillas fueron de la treinta y uno, en marzo).
 - Cap. 4: el segundo pleito de la pintura con Nadir no debe repetir el del 1.
 - Cap. 9: el malvavisco va debajo del asiento (cap. 1), no en la guantera.
@@ -59,8 +58,8 @@ Plan de trabajo, en marcha desde el 2026-11-21 (DECISIÓN DEL AUTOR sobre el mé
 
 | Cap. | Título | Archivo | Transversal | Estado | Commit |
 |---|---|---|---|---|---|
-| 1 | Un hombre de negocios intachable | `01_Un_Hombre_De_Negocios_Intachable` | Peugeot (línea de lógica) | hecho, BORRADOR | ver git log |
-| 2 | Demasiado listo | `02_Demasiado_Listo` |  | pendiente | |
+| 1 | Un hombre de negocios intachable | `01_Un_Hombre_De_Negocios_Intachable` | Peugeot (línea de lógica) | hecho, BORRADOR | `1938c39` |
+| 2 | Demasiado listo | `02_Demasiado_Listo` |  | hecho, BORRADOR | ver git log |
 | 3 | Lo que no cambió | `03_Los_Viejos_Dias` |  | pendiente | |
 | 4 | Tarifa nocturna | `04_Tarifa_Nocturna` |  | pendiente | |
 | 5 | Cliente y proveedor | `05a_Cliente_Y_Proveedor` |  | pendiente | |
