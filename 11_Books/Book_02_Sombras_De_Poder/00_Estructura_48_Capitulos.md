@@ -377,7 +377,7 @@
 
 - **Escrito (BORRADOR).** Las siete cartas de Dale; Kal las lee solo, busca a Chiara para desahogarse y las devuelve a la tumba. Línea canon: *«Lamento haberte arrebatado tu origen, te devuelvo lo poco que llegué a saber, no fui un padre para ti, pero eso no cambia que sí me importabas. -Dale»*
 - **Columna:** **C**, la deuda más vieja: las cartas dicen dónde; Crowe dirá cómo (46).
-- **Debe (APROBADO, falta llevarlo a la prosa con orden del autor):** en la carta del 15 de marzo, «Le pagué a Silas con diecisiete años y todavía le debo.»
+- **Hecho (2026-11-21):** la carta del 15 de marzo cierra con «Le pagué a Silas con diecisiete años y todavía le debo.»; con Chiara, Kal sigue diciendo «Eso es toda la carta».
 - **Trenza:** dejan de esconderse, y empieza él. Las dos deudas siguen en pie.
 
 **39. Stavanger** — fines de oct A4 (~25) · Kal · Stavanger · `Stavanger` (47 + 48; con *Henrik*, juntados sin reescribir)
@@ -426,7 +426,7 @@
 
 - **Escrito (BORRADOR).** Crowe le revela que lo conoció antes de que fuera un Mercer; *«Ya perdiste a una esposa, así que cuida de tu cocinera, uno nunca sabe cuándo la muert...»*; Walt dispara: *«A nadie le importa tu opinión, gordo hijo de puta.»*; el golpe en el costado (Volpi, velado); Héctor y el chaleco.
 - **Columna:** **C** cae; **H** lo entregó; **V** dispara.
-- **Debe (APROBADO, con orden del autor):** que Crowe deje caer el 15 de marzo (el día en que el bebé llegó a casa de Dale y Ruth). **(P, cadena):** una línea de Kal o de Walt sobre que la piedra no estaba con Crowe.
+- **Hecho (2026-11-21):** Crowe deja caer el 15 de marzo («Ese día no vino a jugar. El único.») y Kal lo une con la carta. **(P, cadena):** una línea de Kal o de Walt sobre que la piedra no estaba con Crowe.
 - **PENDIENTE:** motivo y mecanismo del asesinato de Amanda.
 
 **47. No otra vez** — esa madrugada · Chiara · la Villa · `56_No_Otra_Vez` (57)

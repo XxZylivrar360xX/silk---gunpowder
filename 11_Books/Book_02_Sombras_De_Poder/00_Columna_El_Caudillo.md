@@ -149,7 +149,7 @@ La propuesta de fusiones de la primera ronda (de 58 a 51 sin costo, a 47 con cos
 1. **Halbrook alimenta la ambición de Crowe y lo sacrifica: APROBADO (DECISIÓN DEL AUTOR).**
 2. **Regla de presencia de Halbrook (un escalón público al cierre de cada Parte, nunca la mano): APROBADA (DECISIÓN DEL AUTOR).**
 3. **Los Calderos siguen a Crowe por el corralón: APROBADO (DECISIÓN DEL AUTOR).** Sigue PENDIENTE si Mack Calderon necesita una deuda personal.
-4. **Manfred: APROBADO (DECISIÓN DEL AUTOR, 2026-11-18)** con las tres razones, sus residuos en la página y la **opción c** de la carta: «Le pagué a Silas con diecisiete años y todavía le debo.», en la carta del 15 de marzo. Falta llevarlo a la prosa del 45 y del 55 (BORRADOR).
+4. **Manfred: APROBADO (DECISIÓN DEL AUTOR, 2026-11-18)** con las tres razones, sus residuos en la página y la **opción c** de la carta: «Le pagué a Silas con diecisiete años y todavía le debo.», en la carta del 15 de marzo. Llevado a la prosa del 45 y del 55 (archivos; caps. 38 y 46) el 2026-11-21, con orden del autor.
 5. **Fase 1: APROBADO arrancarla** con meta de 45–47: [[11_Books/Book_02_Sombras_De_Poder/00_Fase1_Tres_Pruebas]].
 
 ### Manfred en la página (APROBADO, 2026-11-18)

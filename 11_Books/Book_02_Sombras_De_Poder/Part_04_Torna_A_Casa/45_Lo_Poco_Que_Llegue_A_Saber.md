@@ -20,6 +20,8 @@ personajes: Kal Mercer, Nadir Amrani, Chiara Bellandi; en las cartas, Dale Merce
 > **Resuelto (DECISIÓN DEL AUTOR, 2026-11-16, escenario 1):** Kal nunca deja de pagarle a Crowe; la entrega de cada día 14 de este capítulo se queda. Se ajustaron la guía y las tarjetas de las Partes II y III.
 >
 > **Guarda:** ninguna de las dos deudas (Crowe, Varek) se confiesa. Nada del anillo ni de la propuesta.
+>
+> **Manfred, carta c (DECISIÓN DEL AUTOR, 2026-11-18; llevada a la prosa con orden del autor, 2026-11-21):** la carta del 15 de marzo cierra con «Le pagué a Silas con diecisiete años y todavía le debo.» (escrita el último año preso). Kal la lee como la deuda vieja del padre y no entiende la fecha; con Chiara sigue diciendo «Eso es toda la carta»: la omisión es suya. La fecha se cobra en el cap. 46 (archivo 55).
 -->
 
 # Lo poco que llegué a saber
@@ -122,9 +124,13 @@ La lección, también, palabra por palabra, como se la decía con la boca llena,
 
 *Llovió. La camioneta del pan se quedó en el patio y le entró agua por la puerta de atrás porque el empaque está podrido. Le pedí empaque al custodio y me dijo que eso no es prioridad. Le puse cinta. Va a aguantar.*
 
+*Le pagué a Silas con diecisiete años y todavía le debo.*
+
 *D.*
 
-Eso era todo. Kal le dio vuelta a la hoja por si había algo atrás. No había. Volvió a la fecha. El quince de marzo no era nada. No era el cumpleaños de Ruth. No era el arresto ni la boda de ellos, que no sabía cuándo había sido. No era nada que él supiera. Dale había escrito la fecha arriba como escribía las demás, y abajo había puesto la lluvia y la cinta y que ese día no jugó, y se lo había guardado.
+Kal le dio vuelta a la hoja por si había algo atrás. No había. Volvió al último renglón. Diecisiete años: la había escrito al final, entonces, el último año. Y Silas, con el nombre de pila, como se nombra a un compadre. Kal le pagaba a ese hombre el catorce de cada mes y nunca le había dicho Silas. Todavía le debo. Diecisiete años adentro, y todavía.
+
+Volvió a la fecha. El quince de marzo no era nada. No era el cumpleaños de Ruth. No era el arresto ni la boda de ellos, que no sabía cuándo había sido. No era nada que él supiera. Dale había escrito la fecha arriba como escribía las demás, y abajo había puesto la lluvia y la cinta y que ese día no jugó, y se lo había guardado.
 
 Hoy no jugué. Kal no se acordaba de un solo día en la casa de la Almendra en que Dale no hubiera jugado. Se acordaba de días en que perdía y días en que no perdía, que no era lo mismo que ganar.
 
