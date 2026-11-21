@@ -206,7 +206,11 @@ Kal no dijo nada por un rato. Abajo, entre la Almendra y las vías, había una c
 
 —Mis padres. Dale y Ruth.
 
-No dijo mucho al principio. Que Dale nunca fue un padre amoroso, que nunca fingió serlo tampoco, pero que le enseñó todo lo que sabía de sobrevivir en una calle que no perdonaba nada. Que lo que Dale quería de verdad era el juego, cualquier mesa donde se pudiera perder lo de la semana, y que lo perdía. Que Ruth sí fue una madre. Que lo fue de verdad, hasta que el juego de Dale empezó a comérselo todo y ella se fue perdiendo detrás de él, cubriéndolo, persiguiéndolo, pagándole lo que debía con lo que no tenían, hasta que no quedó mucho de la mujer que había sido; sólo la sombra, todavía moviéndose. Que el día que salió Walt, mientras los demás volvían a los coches, él se había quedado a dejarle a Ruth una rosa blanca. Que la lápida de Dale, al lado, no la tocó. Ni la grava de ese lado.
+Tardó en seguir. Cuando siguió, lo dijo como se dice un inventario.
+
+—Dale nunca fue un padre de esos, y tampoco fingió serlo. Me enseñó a cambiar una llanta antes de que yo supiera leer bien, y a no decirle a nadie dónde vivíamos. Eso es lo que me dejó, y es bastante en esa calle. Lo demás se lo jugaba: cartas, perros, cualquier mesa donde se pudiera perder lo de la semana. Mi mamá iba detrás pagando lo que él perdía con lo que no teníamos. Primero la renta, después lo que se pudiera vender. —Movió con la bota una piedra suelta del borde—. Por eso en tu casino no me siento a ninguna mesa. No es por los números.
+
+De Ruth dijo menos. Que sí fue una madre, de verdad, hasta que el juego de Dale empezó a comérselo todo y ella se fue perdiendo detrás de él, cubriéndolo, persiguiéndolo, hasta que no quedó mucho de la mujer que había sido; sólo la sombra, todavía moviéndose. Que el día que salió Walt, mientras los demás volvían a los coches, él se había quedado a dejarle a Ruth una rosa blanca. Que la lápida de Dale, al lado, no la tocó. Ni la grava de ese lado.
 
 —El único recuerdo que tengo de los dos juntos —dijo, mirando abajo, hacia las vías, y no a ella— es el día que se lo llevaron.
 

@@ -184,9 +184,9 @@ Chiara no contestó enseguida.
 
 —Hay cosas de donde vengo que él no conoce —dijo al final, mirando algún punto de la sábana en vez de a él—. Cosas que si las conociera, tal vez no me miraría igual. No sé si es justo arrastrarlo a eso sin que él sepa lo que arrastra.
 
-Héctor gruñó.
+Héctor hizo un ruido con la garganta.
 
-—¿Y él qué no le ha contado a usted?
+—Walt dice que el viernes usted le dio la dirección dos veces a la ambulancia, en orden, y que no soltó la mano de este viejo hasta que lo subieron. Eso no se aprende en un casino. —Se acomodó contra la almohada despacio, como quien no quiere que le cobren el movimiento—. Él tampoco viene de un convento. Lo que usted trae de su lado, él lo conoce del suyo, con otros nombres y peor pagado. Arrastrarlo, dice. —Gruñó otra vez—. ¿Y él qué no le ha contado a usted?
 
 Chiara no contestó. Se quedó otro rato, hablando de nada, hasta que se acabó la hora de visitas. En la puerta de la sala de espera, el de la vulcanizadora le preguntó a ella cómo seguía don Héctor, y otra vez se fue sin sentarse. Chiara salió con una pregunta que no era suya y que no se pudo quitar de encima en todo el camino.
 

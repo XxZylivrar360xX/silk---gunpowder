@@ -620,7 +620,7 @@ El cuarto se quedó sin ruido. Hasta Danny.
 
 Kal le sostuvo la mirada. No se defendió. Walt tampoco insistió; no había dicho eso para ganar nada.
 
-—Con eso la Almendra vuelve a estar en el juego —dijo Kal al fin—. Con el dinero de él. Es el único dinero que me va a dar gusto gastar.
+—Hasta las dos estuve esperando otra llamada —dijo Kal al fin—. Un casino del centro: arrastres con contrato, con factura, de los que se pueden enseñar. No llamaron. —Miró el teléfono bocabajo sobre el escritorio, sin tocarlo—. Omar cobra el viernes, a la grúa dos le está fallando la transmisión y el portón no se paga solo. Con eso la Almendra vuelve a estar en el juego. Con el dinero de él. Es el único dinero que me va a dar gusto gastar.
 
 —¿Gastar en qué?
 

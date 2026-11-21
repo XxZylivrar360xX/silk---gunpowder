@@ -1,6 +1,6 @@
 # Réplicas largas que faltan (Libro I)
 
-2026-11-21. PROPUESTA del agente; espera decisión del autor y **no se aplicó a la prosa**. Es el contrapeso de la regla 06 «Réplica mínima»: dónde un personaje necesita hablar largo (contar lo vivido, rendir cuentas de una decisión que costó o decir lo que siente en su idioma). Antecedente: [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Dialogos_Cortos_Libro_I]].
+2026-11-21. **APLICADA el mismo día por DECISIÓN DEL AUTOR** (las cinco y la opcional; en la 6 «Miró el papel sin tocarlo» pasó a «Miró por fin la nota, sin tocarla» y el remate a «te dejó dicho por escrito qué hacer», por continuidad). La regla 07 quedó redactada en [[12_Craft_Policies/dialogue_rules/07-replica-que-se-debe]]. Prosa en BORRADOR, espera lectura. Es el contrapeso de la regla 06 «Réplica mínima»: dónde un personaje necesita hablar largo (contar lo vivido, rendir cuentas de una decisión que costó o decir lo que siente en su idioma). Antecedente: [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Dialogos_Cortos_Libro_I]].
 
 ## Método
 

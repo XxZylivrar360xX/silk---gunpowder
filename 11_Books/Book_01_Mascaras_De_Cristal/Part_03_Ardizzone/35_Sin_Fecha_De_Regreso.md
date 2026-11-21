@@ -146,7 +146,7 @@ Eso lo detuvo un momento.
 
 Se quedó mirando la agenda cerrada bajo la mano de Chiara, no la nota. Al mueble de nogal no lo miró. No lo había mirado ni una vez desde que entró.
 
-—Yo también me habría ido —dijo por fin—. Si fuera mi hermano.
+—Yo también me habría ido —dijo por fin—. Si fuera mi hermano. Si a Nadir lo llaman a las tres de la mañana de donde sea, yo no dejo carta: me entero de dónde está y salgo, y que alguien se acuerde de cerrar el taller ya es pedir mucho. —Miró por fin la nota, sin tocarla—. Él por lo menos te dejó dicho por escrito qué hacer.
 
 Chiara asintió. No le dio otra versión.
 

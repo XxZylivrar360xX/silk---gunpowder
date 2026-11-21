@@ -340,7 +340,7 @@ Lo dijo con la cara seria, devolviéndole una frase de otra tarde nublada.
 
 —¿Te da alergia? La palabra.
 
-—Tú fuiste la que no quiso ponerle nombre a nada —dijo Kal—. Entonces, ¿qué lugar me deja eso a mí?
+—Tú fuiste la que no quiso ponerle nombre a nada —dijo Kal—. Y lo respeté. Pero hoy Walt te avisó que llegó tu chofer, y tú no lo corregiste, y yo tampoco, porque no sé con qué palabra se corrige eso. En el Monarch soy el de la grúa. Con Walt, el chofer. Entonces, ¿qué lugar me deja eso a mí?
 
 Chiara se tocó el arete izquierdo, que no se había movido.
 
@@ -348,7 +348,7 @@ Chiara se tocó el arete izquierdo, que no se había movido.
 
 —Claro. Porque en esta ciudad nadie sospecha nada. Entramos al Monarch soltando feromonas por la alfombra y la gente es idiota.
 
-—Una cosa es lo que la gente piense. Otra es lo que se dice. —Lo miró de frente—. Y no te pido que lo digas. Te pregunto si quieres. No estás obligado a nada, Kal. Yo tampoco. Pero tampoco puede ser esto.
+—Una cosa es lo que la gente piense. Otra es lo que se dice. —Lo miró de frente—. Y lo otro, ya que estamos: lo que no tiene nombre no se pierde delante de nadie. Si nunca lo decíamos, yo nunca iba a tener que explicarle a nadie por qué se acabó. Eso no era para protegerte a ti. —Se detuvo—. Y no te pido que lo digas. Te pregunto si quieres. No estás obligado a nada, Kal. Yo tampoco. Pero tampoco puede ser esto.
 
 Kal tardó. Puso las dos manos en el volante, a las diez y diez, como en un examen de manejo.
 
