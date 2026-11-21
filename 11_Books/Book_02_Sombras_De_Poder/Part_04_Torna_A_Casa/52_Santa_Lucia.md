@@ -3,7 +3,7 @@ title: "Santa Lucía"
 type: capitulo
 estado: BORRADOR
 libro: Sombras de Poder (Libro II), Parte IV — Torna a casa
-capitulo: 52
+capitulo: 43 (archivo 52; numeración de 48, 2026-11-21)
 pov: Kal Mercer, único
 ventana_temporal: la mañana de la tormenta (~6–8 dic A4), de las 5:40 a las 8 a. m., antes del 53 y de la operación (11–12)
 localizacion: la Villa Candelaria (un lote por Las Gemelas) y el camino del cerro; la carretera del norte; Iglesia Santa Lucía (entre Calle Corona y los barrios que bajan a La Almendra)

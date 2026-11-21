@@ -3,7 +3,7 @@ title: "Dime, Amore"
 type: capitulo
 estado: BORRADOR
 libro: Sombras de Poder (Libro II), Parte IV — Torna a casa
-capitulo: 54
+capitulo: 45 (archivo 54; numeración de 48, 2026-11-21)
 pov: Chiara Bellandi, único
 ventana_temporal: la tarde de la tormenta (~6–8 dic A4; la operación empieza hacia las 11–12; «Todos están fuera» a las 4:43 p. m.), después de la muerte de Crowe
 localizacion: la Villa Candelaria (un lote por Las Gemelas, cerros del este-noreste, a una hora de la ciudad); el almacén del sur (Canal Seco), San Aurelio

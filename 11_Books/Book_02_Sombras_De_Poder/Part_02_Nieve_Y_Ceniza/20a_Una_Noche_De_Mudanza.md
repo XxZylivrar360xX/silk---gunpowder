@@ -3,7 +3,7 @@ title: "Una noche de mudanza"
 type: capitulo
 estado: BORRADOR
 libro: Sombras de Poder (Libro II), Parte II — Nieve y ceniza
-capitulo: 20 (archivo 20a; primera mitad de la Navidad)
+capitulo: 15 (archivo 20a; primera mitad de la Navidad; numeración de 48, 2026-11-21)
 pov: Kal Mercer, único
 ventana_temporal: 23 dic A3, fin de turno → 24 dic A3, 18:30; helada sin nieve
 localizacion: Almendra Towing (el taller, la bodega, el garaje de atrás, el patio de grúas); la vía de servicio de la interestatal, a la altura de la cementera; la ferretería de la Ochenta; la Villa Candelaria (recibidor, cocina)

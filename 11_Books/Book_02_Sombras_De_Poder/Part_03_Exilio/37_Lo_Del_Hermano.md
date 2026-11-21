@@ -3,7 +3,7 @@ title: "Lo del hermano"
 type: capitulo
 estado: BORRADOR
 libro: Sombras de Poder (Libro II), Parte III — Exilio
-capitulo: 37
+capitulo: 31 (archivo 37; numeración de 48, 2026-11-21)
 pov: Kal Mercer, único
 ventana_temporal: finales de abril A4, cuatro días después de las latas; de la mañana a la noche
 localizacion: la oficina de Varek sobre el palco de propietarios del hipódromo del Monarch; el galpón de Almendra Towing; El Patio, de noche; la Villa Candelaria; la casa de la reja verde y la de Héctor, al lado, de noche

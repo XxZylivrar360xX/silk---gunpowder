@@ -143,9 +143,74 @@ Desarrollo completo, Parte por Parte, en [[01_Timeline/03_Libro_02_Sombras_De_Po
 
 ## Capítulos
 
-En prosa BORRADOR: [[11_Books/Book_02_Sombras_De_Poder/Part_01_Territorio_Ajeno/01_Hogar]] (Cap. 1, título fijado por el autor el 2026-10-10), [[11_Books/Book_02_Sombras_De_Poder/Part_04_Torna_A_Casa/Stavanger]], [[11_Books/Book_02_Sombras_De_Poder/Part_04_Torna_A_Casa/Henrik]] y [[11_Books/Book_02_Sombras_De_Poder/Part_04_Torna_A_Casa/Ya_Llego]] (tres capítulos sin número, separados el 2026-11-07; prosa pendiente de lectura del autor). Las Partes II y III todavía no tienen capítulos escritos. El plan de la reconciliación sigue documentado en [[11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/00_Plan_Cierre_Parte_III]] (sección del antiguo Cap. 45). Carpetas (renombradas el 2026-10-12): `Part_01_Territorio_Ajeno/` (Hogar), `Part_02_Nieve_Y_Ceniza/` y `Part_03_Exilio/` (vacías) y `Part_04_Torna_A_Casa/` (*Ya llegó*).
+En prosa BORRADOR (2026-11-21): los capítulos marcados así en la tabla de abajo; los demás son placeholders. *Stavanger* y *Henrik* son desde el 2026-11-21 un solo archivo, [[11_Books/Book_02_Sombras_De_Poder/Part_04_Torna_A_Casa/Stavanger]] (Cap. 39), y [[11_Books/Book_02_Sombras_De_Poder/Part_04_Torna_A_Casa/Ya_Llego]] es el 40. El plan de la reconciliación sigue documentado en [[11_Books/Book_01_Mascaras_De_Cristal/Part_03_Ardizzone/00_Plan_Cierre_Parte_III]] (sección del antiguo Cap. 45). Carpetas (renombradas el 2026-10-12): `Part_01_Territorio_Ajeno/` (Hogar), `Part_02_Nieve_Y_Ceniza/` y `Part_03_Exilio/` (vacías) y `Part_04_Torna_A_Casa/` (*Ya llegó*).
 
-### Numeración vigente: 58 capítulos (DECISIÓN DEL AUTOR, 2026-11-12; 57 desde el 2026-11-13; 58 desde el 2026-11-18)
+### Numeración vigente: 48 capítulos (DECISIÓN DEL AUTOR, 2026-11-18; propagada el 2026-11-21)
+
+> **Fase 1 aprobada** ([[11_Books/Book_02_Sombras_De_Poder/00_Fase1_Tres_Pruebas]], «Ajuste por craft policies»): las tres pruebas contra [[11_Books/Book_02_Sombras_De_Poder/00_Columna_El_Caudillo]] bajan el libro de 58 a 48 capítulos. **Partes:** I = 1–12, II = 13–26, III = 27–33, IV = 34–48. **Los archivos conservan su nombre** (como en el Libro I): la columna «Archivo» manda para encontrarlo. Las fusiones caen sobre placeholders, que se retiraron; sólo *Stavanger* y *Henrik* se juntaron en un archivo, sin reescribir. Los documentos fechados antes del 2026-11-21 usan la numeración de 58 (o anteriores); la columna «Antes» da la equivalencia.
+>
+> **Placeholders:** al redactar un capítulo se escribe en su archivo y se borra la marca `PLACEHOLDER`. La copia de lectura (`tools/build_sombras.py`) lleva los 48 en orden; el audio (`SELECTIONS` en `tools/audiolibro/build_audiobook.py`) sólo los redactados.
+>
+> **Bloque sin Chiara (DISEÑO, regla 3 de [[12_Craft_Policies/Arquitectura_De_Perspectiva]]):** de *Stavanger* (39) a *Torna a casa* (44), Chiara no narra: lo pide el canon del embarazo («ninguna aparición en POV de Chiara con interioridad»). Se declara como bloque, igual que el arco sin Kal del Libro I.
+>
+> **Abierto (espera al autor):** la excepción de los tics 4 y 5 en capítulos seguidos (19 y 20, las dos velas); la señal 3 (el cigarro) sale o pasa al 41. El tic 7 salió de *Lentejuelas*.
+
+| Parte | Cap. | Título de trabajo | Absorbe | POV | Archivo | Antes (58) |
+|---|---|---|---|---|---|---|
+| I | 1 | *Hogar* | — | Kal → Chiara (BORRADOR) | `01_Hogar` | 1 |
+| I | 2 | *Con su letra* | roces con Tommaso de *Bellandi* | Chiara | `02_Con_Su_Letra` | 2 + 3 |
+| I | 3 | *El barrio ajeno* | — | Kal | `04_El_Barrio_Ajeno` | 4 |
+| I | 4 | *La Almendra* | la humillación de Tommaso por Dario (*Bellandi*) | Bonnie | `05_La_Almendra` | 5 |
+| I | 5 | *La primera cuota* | Q24 (*Bellandi*) | Chiara | `06_La_Primera_Cuota` | 6 |
+| I | 6 | *La lluvia* | *El farol* | Chiara | `08_La_Lluvia` | 7 + 8 |
+| I | 7 | *El error de Tyler* | — | Kal | `09_El_Error_De_Tyler` | 9 |
+| I | 8 | *Fuga de gas* | — | Chiara | `10_Fuga_De_Gas` | 10 |
+| I | 9 | *Queremos esta* | *Capacidad* | Kal | `12_Queremos_Esta` | 11 + 12 |
+| I | 10 | *Encubierto* | el apodo por *El Faro* (residuo de *Señor Militar*) | Kal | `13_Encubierto` | 13 (+ 14) |
+| I | 11 | *Lentejuelas* | — (sale el tic 7) | según el borrador | `15_Lentejuelas` | 15 |
+| I | 12 | *El benefactor* | *El otro Dario*; la cita del «experto» (residuo de *Señor Militar*); «Kal se entera por Tommaso» | Chiara | `17_El_Benefactor` | 16 + 17 |
+| II | 13 | *Veintitrés de noviembre* | — | Chiara | `18_Veintitres_De_Noviembre` | 18 |
+| II | 14 | *No cargues sola* | — | Kal | `19_No_Cargues_Sola` | 19 |
+| II | 15 | *Una noche de mudanza* | — | Kal (BORRADOR) | `20a_Una_Noche_De_Mudanza` | 20 |
+| II | 16 | *El collar* | — | Kal (BORRADOR) | `20b_El_Collar` | 21 |
+| II | 17 | *Año Nuevo* | — | Chiara | `21_Ano_Nuevo` | 22 |
+| II | 18 | *La carretera* | — | Kal | `22_La_Carretera` | 23 |
+| II | 19 | *La vela tardía* | — | Kal (BORRADOR) | `23_La_Vela_Tardia` | 24 |
+| II | 20 | *Deséame suerte* | *La jaula* | Kal → Chiara | `25_Deseame_Suerte` | 25 + 26 |
+| II | 21 | *Lussia* | — | Kal | `26_Lussia` | 27 |
+| II | 22 | *Sin público* | — | Harper | `27_Sin_Publico` | 28 |
+| II | 23 | *El millón* | — | Kal; Chiara al final | `28_El_Millon` | 29 |
+| II | 24 | *Nadie tiene prisa* | — | Chiara | `29_Nadie_Tiene_Prisa` | 30 |
+| II | 25 | *Calle Corona* | — | Marisol | `30_Calle_Corona` | 31 |
+| II | 26 | *El armario* | *Vacío* (Kal descubre el sabotaje y se lo cuenta) | Kal | `31_El_Armario` | 32 + 33 |
+| III | 27 | *Escenarios* | — | Chiara | `33_Escenarios` | 34 |
+| III | 28 | *El agua corriendo* | — | Kal | `34_El_Agua_Corriendo` | 35 |
+| III | 29 | *El bastón* | — | Chiara | `35_El_Baston` | 36 |
+| III | 30 | *Las latas* | — | Kal (BORRADOR) | `36_Las_Latas` | 37 |
+| III | 31 | *Lo del hermano* | — | Kal (BORRADOR) | `37_Lo_Del_Hermano` | 38 |
+| III | 32 | *Perdóname, jefe* | — | Bonnie (BORRADOR) | `38_Perdoname_Jefe` | 39 |
+| III | 33 | *Lo que queda* | — | Chiara (BORRADOR) | `39_Lo_Que_Queda` | 40 |
+| IV | 34 | *Diez segundos* | *Una sola frase* (Mabel la dice la mañana de la boda) | Chiara | `41_Diez_Segundos` | 41 + 42 |
+| IV | 35 | *Yo respondo* | — | Kal | `42_Yo_Respondo` | 43 |
+| IV | 36 | *Las bandas* | — | Kal | `43_Las_Bandas` | 44 |
+| IV | 37 | *Mover la mirada* | — | Chiara | `44_Mover_La_Mirada` | 45 |
+| IV | 38 | *Lo poco que llegué a saber* | — | Kal (BORRADOR) | `45_Lo_Poco_Que_Llegue_A_Saber` | 46 |
+| IV | 39 | *Stavanger* | *Henrik* (archivos juntados, sin reescribir) | Kal (BORRADOR) | `Stavanger` | 47 + 48 |
+| IV | 40 | *Ya llegó* | — | Kal (BORRADOR) | `Ya_Llego` | 49 |
+| IV | 41 | *Llegar tarde* | — | externo | `49_Llegar_Tarde` | 50 |
+| IV | 42 | *Veintitrés de noviembre* | *La fecha* (queda una señal: la copa) | Kal | `50_Veintitres_De_Noviembre` | 51 + 52 |
+| IV | 43 | *Santa Lucía* | — | Kal (BORRADOR) | `52_Santa_Lucia` | 53 |
+| IV | 44 | *Torna a casa* | — | externo (BORRADOR) | `53_Torna_A_Casa` | 54 |
+| IV | 45 | *Dime, Amore* | — | Chiara (BORRADOR) | `54_Dime_Amore` | 55 |
+| IV | 46 | *De rodillas* | — | Kal (BORRADOR) | `55_De_Rodillas` | 56 |
+| IV | 47 | *No otra vez* | — | Chiara (BORRADOR) | `56_No_Otra_Vez` | 57 |
+| IV | 48 | *La chimenea* | — | DISEÑO (BORRADOR) | `57_La_Chimenea` | 58 |
+
+**De 58 a 48:** 1→1 · 2–3→2 · 4→3 · 5→4 · 6→5 · 7–8→6 · 9→7 · 10→8 · 11–12→9 · 13→10 · 14→residuo (10 y 12) · 15→11 · 16–17→12 · 18–21→13–16 · 22→17 · 23→18 · 24→19 · 25–26→20 · 27–32→21–26 (32 absorbe 33) · 33→26 · 34–40→27–33 · 41–42→34 · 43–46→35–38 · 47–48→39 · 49→40 · 50→41 · 51–52→42 · 53–58→43–48.
+
+<details><summary>Numeración de 58 (2026-11-18 a 2026-11-21) y anteriores</summary>
+
+### Numeración de 58 capítulos (DECISIÓN DEL AUTOR, 2026-11-12; 57 desde el 2026-11-13; 58 desde el 2026-11-18)
 
 > **Placeholders (DECISIÓN DEL AUTOR, 2026-11-18):** todos los capítulos sin redactar tienen ya su archivo en su Parte, con el título de trabajo y la nota «Capítulo pendiente de redacción». Nombre: el número de archivo (igual al capítulo hasta el 19; capítulo menos uno desde el 22) y el título sin tildes. **Al redactar un capítulo se escribe en su placeholder**, sin crear otro archivo, y se borra la marca `PLACEHOLDER` del comentario. La copia de lectura (`tools/build_sombras.py`) lleva los 58 en orden; el audio (`SELECTIONS` en `tools/audiolibro/build_audiobook.py`) sólo los redactados, y cada capítulo nuevo se suma ahí. Stavanger, Henrik y Ya llegó (caps. 47–49) conservan su nombre sin número.
 
@@ -218,6 +283,7 @@ Fase 3 aprobada: [[11_Books/Book_02_Sombras_De_Poder/00_Mapa_Boceto_A_Tarjetas]]
 
 **Del boceto al nuevo** (numeración de 57, anterior al 2026-11-18; del 21 en adelante súmese uno): 1→1 · 2→2 · 3→3 · 4–5→4 · 6–7→5 · 8–9→6 · 10→9 · 11→10 · 12–14→11 · 15→12 · 16–17→13 · 18→14 · 19→15 · 20→16 · 21→17 · 22–23→18 · 24–25→19 · 26→20 · 27→21 · 28→22 · 29–30→23 · 31→24 · 32→25 · 33→26 · 34→27 · 35–36→28 · 37→30 · 38→31 · 39→32 · 40→33 · 41→34 · 42→35 · 43→36 · 44→37 · 45→retirado · 46→38 · 47→39 · 48→40 · 49→41 · 50→40–41 (partido) · 51→42 · 52→43 · 52b→44 · 53a–c→45–47 · 54→48 · 55→49 · 56–61→51–56. Sin equivalente en el boceto: 7, 8, 29 y 50.
 
+</details>
 
 ## Escenas en reserva
 

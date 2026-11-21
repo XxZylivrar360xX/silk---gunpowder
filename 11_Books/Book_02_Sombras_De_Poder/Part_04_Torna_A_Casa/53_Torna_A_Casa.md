@@ -3,7 +3,7 @@ title: "Torna a casa"
 type: capitulo
 estado: BORRADOR
 libro: Sombras de Poder (Libro II), Parte IV — Torna a casa
-capitulo: 53
+capitulo: 44 (archivo 53; numeración de 48, 2026-11-21)
 pov: externo (sin interioridad de ningún personaje)
 ventana_temporal: la mañana de la tormenta (~6–8 dic A4), de las 9:20 a poco después de las 10:30 a. m.; Kal sale hacia las 9:45 rumbo al taller (la operación empieza hacia las 11–12)
 localizacion: la Villa Candelaria (un lote por Las Gemelas): la cochera, la cocina, el pasillo del aparador, el estudio, la sala

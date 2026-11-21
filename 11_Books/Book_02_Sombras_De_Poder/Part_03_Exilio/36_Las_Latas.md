@@ -3,7 +3,7 @@ title: "Las latas"
 type: capitulo
 estado: BORRADOR
 libro: Sombras de Poder (Libro II), Parte III — Exilio
-capitulo: 36
+capitulo: 30 (archivo 36; numeración de 48, 2026-11-21)
 pov: Kal Mercer, único
 ventana_temporal: mediados de abril A4, una tarde entre semana
 localizacion: un huerto de almendros abandonado junto a un empaque cerrado, a las afueras de Cedar Flats; la carretera de vuelta; la Villa Candelaria

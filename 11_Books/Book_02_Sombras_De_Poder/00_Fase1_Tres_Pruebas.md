@@ -1,5 +1,7 @@
 # Fase 1 del Libro II: las tres pruebas (58 → 47)
 
+> **PROPAGADA (2026-11-21):** la numeración de 48 está en [[11_Books/Book_02_Sombras_De_Poder/00_Book_Map]], la guía, la matriz temporal, los placeholders, `tools/build_sombras.py` y `SELECTIONS` del audio. Se retiraron los placeholders fundidos y *Stavanger* y *Henrik* quedaron en un solo archivo, sin reescribir. Sigue abierta la excepción de los tics 4 y 5 y la señal 3; falta rehacer la guía con la columna nueva.
+>
 > **Estado:** **APROBADA por el autor (2026-11-18) con una condición: que se respeten las reglas de [[12_Craft_Policies/README|craft policies]].** La revisión contra esas reglas (al final, «Ajuste por craft policies») corrige el resultado: **48 capítulos (DECISIÓN DEL AUTOR, 2026-11-18: «48 me sirve»; *Sin público* se queda).** Lo demás es DISEÑO del agente. Arranque APROBADO (DECISIÓN DEL AUTOR, 2026-11-18). Aplica a los 58 capítulos vigentes las tres pruebas del [[11_Books/Book_01_Mascaras_De_Cristal/00_Plan_Nuevo_Cauce|nuevo cauce del Libro I]] contra la columna nueva: [[11_Books/Book_02_Sombras_De_Poder/00_Columna_El_Caudillo]]. **No renombra archivos ni cambia la numeración** hasta que el autor apruebe; la tabla vigente sigue en [[11_Books/Book_02_Sombras_De_Poder/00_Book_Map]]. Meta del autor: 45–47.
 
 ## Las pruebas, con la columna nueva

@@ -4,6 +4,7 @@ El detalle se guarda una sola vez en notas de sesión. Este archivo es navegaci�
 
 ## Sesiones recientes
 
+- 2026-11-21: Libro II en **48 caps.** (Fase 1 propagada: Book_Map, guía, matriz, placeholders, build y audio; nueve placeholders fundidos retirados; *Stavanger* y *Henrik* en un archivo): [[98_Agent_Handoff/sessions/2026-11-21_claude_propagacion_48_libro_II]]
 - 2026-11-20: DECISIÓN DEL AUTOR: Bonnie le habla de tú a Chiara (36, 38, 39; cocina del 39 reescrita). Siembra de la visita de Mei a Marisol en el 35; el encubrimiento de la muerte queda abierto para la Parte IV: [[98_Agent_Handoff/sessions/2026-11-19_claude_filtracion_lunar_pearl]].
 - 2026-11-19: DECISIÓN DEL AUTOR: Halbrook manda el robo de la casa de Héctor (dato del Tasador, vigilancia de las casas) y se queda el Lussia; Varek lo sigue dando por perdido; Kal sospecha de Crowe. Venta del III por el joyero de Crowe; Kal cierra la venta a Tommaso tras la montaña (dinero para Elenna); Dario compró la piedra sabiendo que era de los Lusardi. Cadena de custodia: [[11_Books/00_Cadena_De_Custodia_Lussia]]. Lectura externa en 37–39 (DISEÑO): Kal deja fuera a Mei tras la carrera; coche de una sola calavera; Chiara decide «Aquí» en la destilería. El después de F2: 39 reescrito (casa común, Russ, entierro al amanecer en la costa norte, habla Marisol, la bellota, «Está muerta. Mei está muerta.»); se retiran «Lo siento, ¿vale?» y «No te martirices».
 

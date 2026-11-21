@@ -1,6 +1,10 @@
 # Decisiones recientes
 
-Máximo 800 palabras; conservar sólo decisiones operativas recientes y enlaces a sus fuentes. El historial íntegro anterior al corte está en [[98_Agent_Handoff/archive/2026-09-21_DECISIONS]]; las del 2026-11-01, en [[98_Agent_Handoff/archive/2026-11-08_DECISIONS]]; las del 2026-11-04 al 2026-11-06, en [[98_Agent_Handoff/archive/2026-11-09_DECISIONS_retiradas]]. Archivar entradas antiguas antes de retirarlas.
+Máximo 800 palabras; conservar sólo decisiones operativas recientes y enlaces a sus fuentes. El historial íntegro anterior al corte está en [[98_Agent_Handoff/archive/2026-09-21_DECISIONS]]; las del 2026-11-01, en [[98_Agent_Handoff/archive/2026-11-08_DECISIONS]]; las del 2026-11-04 al 2026-11-06, en [[98_Agent_Handoff/archive/2026-11-09_DECISIONS_retiradas]]; la Fase 3 del Libro II, en [[98_Agent_Handoff/archive/2026-11-21_DECISIONS_retiradas]]. Archivar entradas antiguas antes de retirarlas.
+
+## 2026-11-21 — Libro II en 48 capítulos (propagado)
+
+**DECISIÓN DEL AUTOR (2026-11-18), propagada el 2026-11-21:** la Fase 1 ([[11_Books/Book_02_Sombras_De_Poder/00_Fase1_Tres_Pruebas]]) deja el Libro II en **48 capítulos**: I = 1–12, II = 13–26, III = 27–33, IV = 34–48. Los archivos conservan su nombre (tabla y equivalencias en [[11_Books/Book_02_Sombras_De_Poder/00_Book_Map]]); nueve placeholders fundidos se retiraron y *Stavanger* y *Henrik* son un solo archivo, sin reescribir. Abiertos: la excepción de los tics 4 y 5 seguidos y la señal 3. Detalle: [[98_Agent_Handoff/sessions/2026-11-21_claude_propagacion_48_libro_II]].
 
 ## 2026-11-17 — Kal nunca deja de pagarle a Crowe (Libro II)
 
@@ -17,10 +21,6 @@ Máximo 800 palabras; conservar sólo decisiones operativas recientes y enlaces 
 ## 2026-11-12 — «Lo siento, ¿vale?» y Meiko en el final
 
 **DECISIÓN DEL AUTOR:** F2 se queda en la Parte III. El final del Libro II la cobra con ecos de Kal y Chiara (recuerdos de Meiko o de aquel día), no con venganza ni de forma textual. «Lo siento, ¿vale?» va en el cap. 38: Kal vuelve del entierro y encuentra a Chiara rota en el suelo de la Villa, con la foto de la cena de Navidad (todos los chicos sonriendo). Kal se disculpa porque el código de su jerarquía costó una vida, y a Chiara le costó a Meiko y a Bonnie. La foto se siembra en el cap. 20. Resuelto el golpe fallido en la entrada de arriba. Fuente: [[11_Books/Book_02_Sombras_De_Poder/00_Guia_Redaccion_Capitulos]].
-
-## 2026-11-12 — Fase 3 del Libro II
-
-**DECISIÓN DEL AUTOR:** se aprueban las listas A y B de recortes de [[11_Books/Book_02_Sombras_De_Poder/00_Mapa_Boceto_A_Tarjetas]]. El Libro II queda en **55 capítulos**: Parte I 1–17, II 18–31, III 32–39 y IV 40–55. Entra R0 (*La jaula* separa los tics 4 y 5). La Nochebuena va en un solo capítulo, en POV de Kal (R10); la junta de sillas vacías, en POV de Bonnie (R2); la montaña, en POV de Kal (R5). Siguen abiertos la elipsis de R9 y «Mac a Almendra». Fuente: [[98_Agent_Handoff/sessions/2026-11-12_claude_carretera_libro_ii]].
 
 ## 2026-11-12 — Reloj del Libro II
 

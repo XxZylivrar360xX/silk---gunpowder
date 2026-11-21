@@ -1,6 +1,8 @@
-# Sombras de Poder — Guía de redacción por capítulos (56)
+# Sombras de Poder — Guía de redacción por capítulos (48)
 
-> **Estado:** DISEÑO del agente (Claude Code, 2026-11-12), rehecho desde las tarjetas de la Fase 2 con la numeración de 55 que el autor aprobó ese mismo día ([[11_Books/Book_02_Sombras_De_Poder/00_Mapa_Boceto_A_Tarjetas]]), que pasó a 56 cuando el golpe fallido se partió en dos capítulos (40 y 41; DECISIÓN DEL AUTOR, 2026-11-12). Sustituye a la guía de 64 capítulos ([[97_Supersedido/Boceto_Lista_Capitulos_64]], 2026-10-13). De ella conserva sin cambios las reglas, las líneas canon, los «no hacer» y los PENDIENTE. Fechas, POV y lugares son DISEÑO y pueden moverse. Lo marcado **CANON** viene de las fuentes rectoras y no se reinterpreta; las **líneas canon** se citan textuales y sólo admiten ajustes de puntuación. Lo marcado **PENDIENTE** no se rellena al redactar. **(P)** marca una propuesta del agente que sigue abierta en las decisiones 2–13 de la carretera.
+> **Numeración de 48 (2026-11-21; Fase 1, DECISIÓN DEL AUTOR, 2026-11-18):** [[11_Books/Book_02_Sombras_De_Poder/00_Fase1_Tres_Pruebas]]. Las fichas, las Partes y las tablas de arriba ya llevan el número de 48; cada ficha dice entre paréntesis su número anterior («antes N», numeración de 57, igual a la del archivo). **Dentro del texto de las fichas, las referencias a otros capítulos («el 26», «del 41») siguen en la numeración anterior:** se traducen con el «antes N» de cada ficha o con la tabla de [[11_Books/Book_02_Sombras_De_Poder/00_Book_Map]]. Las fichas de capítulos fundidos se conservan tachadas, como material del capítulo que las absorbe. **Pendiente:** rehacer la guía con la columna nueva ([[11_Books/Book_02_Sombras_De_Poder/00_Columna_El_Caudillo]]: Halbrook villano, Crowe caudillo de la calle); hasta entonces, si una ficha contradice la columna o la Fase 1, mandan ellas.
+>
+> **Estado (anterior):** DISEÑO del agente (Claude Code, 2026-11-12), rehecho desde las tarjetas de la Fase 2 con la numeración de 55 que el autor aprobó ese mismo día ([[11_Books/Book_02_Sombras_De_Poder/00_Mapa_Boceto_A_Tarjetas]]), que pasó a 56 cuando el golpe fallido se partió en dos capítulos (40 y 41; DECISIÓN DEL AUTOR, 2026-11-12). Sustituye a la guía de 64 capítulos ([[97_Supersedido/Boceto_Lista_Capitulos_64]], 2026-10-13). De ella conserva sin cambios las reglas, las líneas canon, los «no hacer» y los PENDIENTE. Fechas, POV y lugares son DISEÑO y pueden moverse. Lo marcado **CANON** viene de las fuentes rectoras y no se reinterpreta; las **líneas canon** se citan textuales y sólo admiten ajustes de puntuación. Lo marcado **PENDIENTE** no se rellena al redactar. **(P)** marca una propuesta del agente que sigue abierta en las decisiones 2–13 de la carretera.
 >
 > **Bloqueo vigente:** no hay prosa nueva de *Sombras de Poder* hasta cerrar el Libro I, salvo encargo explícito del autor. Esta guía prepara la redacción; no la autoriza.
 
@@ -31,12 +33,12 @@ Calendario de dos años (5 ene A3 → dic A4), contado en bloques densos. Las el
 
 | Elipsis | Entre | Salta | Aterriza en |
 |---|---|---|---|
-| A · la primavera | 5 → 6 | ~10 semanas (la única larga) | la primera cuota de Varek |
-| B · la mudanza | 12 → 13 | ~4 semanas | la montaña |
-| C | 35 → 36 | ~4–5 semanas | la guerra con Crowe hecha rutina |
-| D | 39 → 40 | ~3 semanas | la cuota de junio, pagada tarde |
-| E | 42 → 43 | ~6 semanas | las bandas |
-| F | 48 → 49 | ~3 semanas | la señal 1 |
+| A · la primavera | 4 → 5 | ~10 semanas (la única larga) | la primera cuota de Varek |
+| B · la mudanza | 9 → 10 | ~4 semanas | la montaña |
+| C | 29 → 30 | ~4–5 semanas | la guerra con Crowe hecha rutina |
+| D | 33 → 34 | ~3 semanas | la cuota de junio, pagada tarde |
+| E | 35 → 36 | ~6 semanas | las bandas |
+| F | 40 → 41 | ~3 semanas | la señal 1 |
 
 ## Reglas de prosa propias de este libro
 
@@ -56,7 +58,7 @@ Calendario de dos años (5 ene A3 → dic A4), contado en bloques densos. Las el
 - **La liberación de Kal.** Kal sólo sabe: luces, bolsa de tela y loft. La revelación es de *Voto de Ceniza*; aquí sólo caben piezas que prueben que hay una explicación concreta.
 - **El tiro de H1.** Kal no sospecha en todo el libro que no fue del tiroteo.
 - **La filtración del final (CANON 2026-10-14).** No hay nada en página de Halbrook filtrando la ubicación de Crowe ni de Dario mandando a Volpi. Si algo asoma, es un dato de la red de Dario y nada más.
-- **La línea Tommaso → Meiko (CANON 2026-10-14).** No se muestra en ningún momento, ni antes ni durante F2. La única huella es que Tommaso empieza a conocer el círculo de Kal más íntimamente que Chiara, delante de ella y sin explicación (una vez por Parte: 16, 21 y 35).
+- **La línea Tommaso → Meiko (CANON 2026-10-14).** No se muestra en ningún momento, ni antes ni durante F2. La única huella es que Tommaso empieza a conocer el círculo de Kal más íntimamente que Chiara, delante de ella y sin explicación (una vez por Parte: 12, 17 y 29).
 - **Crowe y Halbrook (P, D3).** Chiara no sabe que Crowe trabaja para la gente de Halbrook; es el secreto de Kal en todo el libro.
 
 > **Principio (autor, 2026-10-14):** los secretos se protegen para que cobren en las revelaciones cuando llegue la tragedia. Siembra sin explicar; nadie comenta la anomalía; ningún POV la resuelve antes de tiempo.
@@ -77,38 +79,38 @@ Calendario de dos años (5 ene A3 → dic A4), contado en bloques densos. Las el
 
 | Parte | Caps. | Calendario | Función | Motivo (P) | Cierra en |
 |---|---|---|---|---|---|
-| I — Territorio ajeno | 1–17 | 5 ene – principios nov A3 | Expansión | Se enteran el uno del otro por terceros | La gala: «—Conocí a Warren Halbrook.» |
-| II — Nieve y ceniza | 18–31 | 23 nov A3 – feb A4 | Pertenencia por fuera, deterioro por dentro | Regalos contra cobros | El choque y el armario del hospital |
-| III — Exilio | 32–40 | feb – jun A4 | Fractura y costo del mando | Reglas que protegen y matan | La planeación de la boda |
-| IV — Torna a casa | 41–57 | jul – dic A4 (antes del 25) | Emancipación y guerra inevitable | Dejar de esconderse | «Sono incinta.» |
+| I — Territorio ajeno | 1–12 | 5 ene – principios nov A3 | Expansión | Se enteran el uno del otro por terceros | La gala: «—Conocí a Warren Halbrook.» |
+| II — Nieve y ceniza | 13–26 | 23 nov A3 – feb A4 | Pertenencia por fuera, deterioro por dentro | Regalos contra cobros | El choque y el armario del hospital |
+| III — Exilio | 27–33 | feb – may A4 | Fractura y costo del mando | Reglas que protegen y matan | El después de F2: el entierro y la plática con Bonnie |
+| IV — Torna a casa | 34–48 | jul – dic A4 (antes del 25) | Emancipación y guerra inevitable | Dejar de esconderse | «Sono incinta.» |
 
-**Leyenda de las fichas:** fecha · POV · lugar · *(boceto N; tarjeta)*. **Tic** = aparición del nombre (numeración de [[11_Books/Book_02_Sombras_De_Poder/00_Diseno_Nombre_Y_Embarazo]]): 1 (2), 2 (6), 7 (15), 3 (17), 4 (23), 5 (25), 6 (33), 8 (41), 8-b (49) y 9 (53). **Señal** = señal del embarazo: 1 (49), 2 (50) y 3 (51).
+**Leyenda de las fichas:** fecha · POV · lugar · *(boceto N; tarjeta)*. **Tic** = aparición del nombre (numeración de [[11_Books/Book_02_Sombras_De_Poder/00_Diseno_Nombre_Y_Embarazo]]): 1 (2), 2 (5), 3 (12), 4 (19), 5 (20), 6 (27), 8 (34), 8-b (41) y 9 (44); el tic 7 salió de *Lentejuelas* (Fase 1), y los tics 4 y 5 quedan seguidos (las dos velas: excepción propuesta, espera al autor). **Señal** = señal del embarazo: 1 (41) y 2 (42, la copa); la 3 (el cigarro) sale o pasa al 41 (espera al autor).
 
 **POV ajenos (DISEÑO, 2026-10-14; actualizado 2026-11-12).** El libro es de Kal y Chiara. Otra cabeza entra sólo si es la que más paga la escena o si el POV de la pareja tendría que mentir para cuidar un secreto. Uno o dos por Parte, sin repetir invitado:
 
 | Cap. | POV | Por qué |
 |---|---|---|
-| 5 | Bonnie | Meiko tiene que ser alguien antes de F2, y sólo Bonnie la ve de cerca. Bonnie no sabe nada, así que su POV no esconde nada. La junta vista desde fuera cumple la regla de Chiara («se siente y no se verbaliza»). Lo que siente por Marisol no se nombra. |
-| 14 | la calle | El apodo nace afuera; Kal no puede verse bautizado. |
-| 27 | Harper | Su cálculo falló en el 26 y ella da la señal: ve completo el engaño que Kal, bajo tierra, no ve. Corta una racha larga de capítulos de Kal. |
-| 30 | Marisol | Paga el choque y ve venir la Lancia de Chiara. Desde fuera el choque sigue pareciendo destino; al volante, Tommaso rozaría el sabotaje. |
-| 38 | ~~Nadir~~ **Bonnie** (DECISIÓN DEL AUTOR, 2026-11-18; interludio declarado) | F2 rehecho: el robo ~~en la casa de las chicas~~ en la casa de Héctor, al lado (2026-11-19), el radio, la llamada a Chiara y la destilería. Bonnie está presente, pierde más y se va; sus dos capítulos (5 y 38, numeración de 58) abren y cierran a Meiko. Ver [[11_Books/00_Arco_Meiko_Nakano]], «F2 rehecho». |
+| 4 | Bonnie | Meiko tiene que ser alguien antes de F2, y sólo Bonnie la ve de cerca. Bonnie no sabe nada, así que su POV no esconde nada. La junta vista desde fuera cumple la regla de Chiara («se siente y no se verbaliza»). Lo que siente por Marisol no se nombra. |
+| ~~14~~ | ~~la calle~~ | ~~El apodo nace afuera; Kal no puede verse bautizado.~~ **Sale (Fase 1):** POV de un solo uso; *Señor Militar* pasa a residuo del 10 y el 12. |
+| 22 | Harper | Su cálculo falló en el 21 y ella da la señal: ve completo el engaño que Kal, bajo tierra, no ve. Corta una racha larga de capítulos de Kal. |
+| 25 | Marisol | Paga el choque y ve venir la Lancia de Chiara. Desde fuera el choque sigue pareciendo destino; al volante, Tommaso rozaría el sabotaje. |
+| 32 | ~~Nadir~~ **Bonnie** (DECISIÓN DEL AUTOR, 2026-11-18; interludio declarado) | F2 rehecho: el robo ~~en la casa de las chicas~~ en la casa de Héctor, al lado (2026-11-19), el radio, la llamada a Chiara y la destilería. Bonnie está presente, pierde más y se va; sus dos capítulos (4 y 32) abren y cierran a Meiko. Ver [[11_Books/00_Arco_Meiko_Nakano]], «F2 rehecho». |
 
-**Descartados:** Tommaso en el 30 y el 35: su interioridad tendría que esquivar la línea con Meiko; el 35 queda para Chiara, que recibe su parte del Monarch. Walt en el 55: su cabeza explicaría lo de Amanda, que el lector tiene que deducir junto a Kal, y el capítulo es la revelación del origen de Kal. Meiko, Dario, Halbrook y Volpi, nunca. La Parte IV no lleva invitados: la mirada externa del 49 y el 53 cuida el embarazo, no le presta la voz a nadie.
+**Descartados:** Tommaso en el 25 y el 29: su interioridad tendría que esquivar la línea con Meiko; el 29 queda para Chiara, que recibe su parte del Monarch. Walt en el 46: su cabeza explicaría lo de Amanda, que el lector tiene que deducir junto a Kal, y el capítulo es la revelación del origen de Kal. Meiko, Dario, Halbrook y Volpi, nunca. La Parte IV no lleva invitados: la mirada externa del 41 y el 44 cuida el embarazo, no le presta la voz a nadie.
 
 ---
 
-## Parte I — Territorio ajeno (1–17)
+## Parte I — Territorio ajeno (1–12)
 
 *Kal aprende a coordinar bajo el techo de Dario; Chiara convierte recursos en estructura; el Patio crece. Deudas del Libro I que se cobran aquí: «Quiero levantarlo»; Rowe y Marisol, en suave; la primera cuota de la cuenta con Dario; Rafe y los Bravos, de lado; Lucía y el FBI; North Guard y Eagle Eye visibles (supervisor: Charles); Halbrook se instala y todavía no cobra. Tres bloques: **Las sillas** (1–5), **La cuenta** (6–12) y **El ruido** (13–17).*
 
 ### Bloque 1 · Las sillas (5 ene – mediados de mar A3)
 
-**1. Hogar** — 5–6 ene A3 · Kal → Chiara · el loft de La Almendra · *(boceto 1; I-T1)*
+**1. Hogar** (antes 1) — 5–6 ene A3 · Kal → Chiara · el loft de La Almendra · *(boceto 1; I-T1)*
 
 - Escrito (BORRADOR, pase completo). Esta guía no lo toca. Ella calla a Dario, a Lucía y a Rafe (ya en la prosa); él no menciona a Crowe ni la orden de Camp Alder, porque nadie pregunta. Tiene dos POV: se decide en la relectura. Residuo para el 2: «Fabrizio está muerto.»
 
-**2. Con su letra** — ene A3, heladas · Chiara · comisaría; su oficina del Monarch · *(2; I-T2)*
+**2. Con su letra** (antes 2) — ene A3, heladas · Chiara · comisaría; su oficina del Monarch · *(2; I-T2)*
 
 - **Función:** la primera silla vacía; el poder empieza a llegarle por pérdida.
 - **Beats:** Lucía le pide identificar el cuerpo. La ciudad baraja una hipótesis de asesino serial (la composición evoca a Keene). Le llegan los expedientes de Fabrizio, con su letra. Primer reordenamiento: las funciones de Fabrizio y Matteo empiezan a concentrarse en ella. Tommaso, vivo y activo.
@@ -120,7 +122,7 @@ Calendario de dos años (5 ene A3 → dic A4), contado en bloques densos. Las el
 - **No hacer:** insinuar a Volpi o el motivo (Fabrizio iba a hablar). Fabrizio le abrió la puerta a alguien conocido; eso no se dice.
 - **PENDIENTE:** mecanismo legal del Monarch.
 
-**3. Bellandi** — ene–feb A3 · Chiara · el Monarch · *(3; I-T3)*
+**~~3.~~ Bellandi** — **se reparte (Fase 1): los roces con Tommaso van al 2; la humillación por Dario, a la junta del 4; Q24, al 5; «Kal se entera por Tommaso», al 12.** Ficha conservada como material — ene–feb A3 · Chiara · el Monarch · *(3; I-T3)*
 
 - **Función:** frente funcional sin amistad.
 - **Beats:** roces con Tommaso (reproches por Alessio, desconfianza, duda de la versión de Chiara). Dario lo humilla y le recorta margen; Chiara lo registra. Ambos ven lo mismo: Dario se está volviendo una bomba de tiempo. **(P, D5):** Chiara le contesta a Il Consorzio sobre la oferta del Monarch (Q24). Propuesta: no lo acepta como regalo de la mesa; avanza comprando la parte de Tommaso con la estructura que Il Consorzio le facilita. Gana el casino sin deberle la corona a nadie, y Varek se queda mirando.
@@ -130,7 +132,7 @@ Calendario de dos años (5 ene A3 → dic A4), contado en bloques densos. Las el
 - **No hacer (CANON 2026-10-14):** mostrar el reclutamiento de Meiko por Tommaso, ni aquí ni después.
 - **PENDIENTE (D5):** qué contesta Chiara.
 
-**4. El barrio ajeno** — feb A3 · Kal · bahía de valet del Monarch; el taller; Calle Almendra · *(4 + 5 + §9b; I-T4 + I-T5)* — **detonante**
+**3. El barrio ajeno** (antes 4) — feb A3 · Kal · bahía de valet del Monarch; el taller; Calle Almendra · *(4 + 5 + §9b; I-T4 + I-T5)* — **detonante**
 
 - **Función:** Kal entra a la red de Crowe con los ojos abiertos. Ren entra por abajo; curva: `valet → dealer → capacidad técnica → proveedor → Patio`.
 - **Beats:** Kal descubre al valet nuevo vendiendo una bolsa pequeña a un cliente y lo intercepta antes de que llegue a Kenji; lo lee como dealer menor. **(P):** el producto es de Crowe: la red del Tasador ya entró al casino de la mujer que le arruinó el robo. Así descubre que, durante los dieciséis días que estuvo preso, sus clientes y su calle trabajaron para Crowe. El Tasador le ofrece carga y Kal **la acepta por los clientes nuevos** (C, 2026-11-01). Sabe desde el 39 del Libro I que Crowe es de la gente de Halbrook y que le quitó el lote (C 1A); Crowe todavía no sabe que fue él (D2). En vez de entregar a Ren, lo mete a su órbita. Se ve el trabajo cotidiano de Kal coordinando bajo Dario (North Guard, Eagle Eye).
@@ -140,7 +142,7 @@ Calendario de dos años (5 ene A3 → dic A4), contado en bloques densos. Las el
 - **No hacer:** revelar ya la capacidad de producción de Ren (eso es el 11).
 - **Nota:** Marisol a escala (boceto 5) pasa al 15 y la siembra del Audi, al 18.
 
-**5. La Almendra** — mar A3 · **Bonnie** · un salón del Monarch; la casa de las roomies en Calle Almendra · *(6 + 7; I-T6 + I-T7)*
+**4. La Almendra** (antes 5) — mar A3 · **Bonnie** · un salón del Monarch; la casa de las roomies en Calle Almendra · *(6 + 7; I-T6 + I-T7)*
 
 - **Título (DISEÑO, 2026-10-14):** provisional; se renombra con el hábito o la manía de Meiko cuando se decida, para que F2 lo cobre.
 - **Función:** Bonnie aprende otra clase de poder, y Meiko se vuelve alguien antes de F2. Sin esta relación, F2 se vuelve atajo; el robo paga la lección (Bonnie lee al personal de Lunar Pearl, 25).
@@ -154,7 +156,7 @@ Calendario de dos años (5 ene A3 → dic A4), contado en bloques densos. Las el
 
 ### Bloque 2 · La cuenta (fin de may – principios de sep A3)
 
-**6. La primera cuota** — fin de may A3 · Chiara · su oficina del Monarch; la redacción de *El Faro* · *(8 + 9; I-T8)*
+**5. La primera cuota** (antes 6) — fin de may A3 · Chiara · su oficina del Monarch; la redacción de *El Faro* · *(8 + 9; I-T8)*
 
 - **Función:** instala la cuenta con Dario como *el* secreto de Chiara, que es el disfraz del embarazo en la Parte IV. Arranca su reloj: la cuota uno.
 - **Beats:** Dario usa la deuda del Cap. 43 (archivo 47) del Libro I, presiona el Monarch y es condescendiente, con cortesía e intereses y sin amenaza. Chiara paga sola una primera cuota pequeña y la oculta; parece que terminó, pero era sólo la primera. Mientras le debe, con Garrett y Krane le corta el flujo de efectivo sucio al casino. Esa misma tarde firma la segunda participación de *El Faro*: farándula, sociedad, hoteles, beneficencia y eventos; aprende que la atención pública es un recurso finito. Con una mano paga silencio; con la otra compra voz.
@@ -163,7 +165,7 @@ Calendario de dos años (5 ene A3 → dic A4), contado en bloques densos. Las el
 - **Saldo:** Varek sabe que ella puede pagar. Por eso, cuando sepa de la carga de Kal, no podrá reclamarle sin mentir.
 - **PENDIENTE:** el dueño actual del diario.
 
-**7. El farol** — jun A3 · Chiara · el torneo del Monarch · *(nuevo; I-T9)*
+**~~7.~~ El farol** — **se funde en el 6, *La lluvia* (Fase 1).** Ficha conservada como material — jun A3 · Chiara · el torneo del Monarch · *(nuevo; I-T9)*
 
 - **Función:** el arco de Walt entra a la columna.
 - **Beats:** Chiara lleva sola el torneo que antes organizaba con Fabrizio: otra función absorbida. Walt juega en secreto para juntar el dinero del pub, y Tommaso marcó su nombre en la lista. Material: [[11_Books/Book_01_Mascaras_De_Cristal/Escenas_Eliminadas/11_El_Farol]] y su plan (C del 2026-10-29, por recalendarizar). **(P):** el dueño del pub vende rápido porque le debe al Tasador; Walt hereda esa cuota y no la va a pagar. Es la semilla de «cuida de tu cocinera».
@@ -171,21 +173,21 @@ Calendario de dos años (5 ene A3 → dic A4), contado en bloques densos. Las el
 - **Saldo:** Walt entra al radar de Crowe; Tommaso tiene una lista con un nombre que no debía estar.
 - **Abierto (D11):** la audiencia y el pub pueden ir aquí o después del robo. Recomendado: después, para que el robo le cueste a Walt la condicional que está a punto de terminar.
 
-**8. La lluvia** — jun A3 · Chiara · Bellandi Ridge · *(nuevo; I-T10)*
+**6. La lluvia** (antes 8) — jun A3 · Chiara · Bellandi Ridge · *(nuevo; I-T10)*
 
 - **Función:** los dos secretos frente a frente; la escena más trenzada de la Parte.
 - **Beats:** Chiara se entera de que Kal mueve la carga del Tasador (C, §9b). **(P):** se lo cuenta la calle que le debe a ella desde lo de Héctor, no Kal. Discuten bajo la lluvia, y **la ofendida es ella** (C).
 - **Relación:** él no dice lo de Halbrook; ella no dice lo de Varek y oculta a la vez su cuenta con Dario (C).
 - **Saldo:** se van a dormir sin arreglarlo. Kal se queda con la carga, por los clientes y por orgullo, y eso hace suyo el error de Tyler.
 
-**9. El error de Tyler** — jul A3, calor extremo · Kal · ruta del cargamento; territorio de Crowe · *(10; I-T11)*
+**7. El error de Tyler** (antes 9) — jul A3, calor extremo · Kal · ruta del cargamento; territorio de Crowe · *(10; I-T11)*
 
 - **Función:** la doctrina en contraste. Crowe: alguien falla, alguien paga. Kal: alguien falla bajo mi mando, yo respondo.
 - **Beats:** Tyler pierde el cargamento de cocaína de Crowe por un fallo comprensible dentro de una operación de riesgo, no por estupidez. Kal asume la deuda ante Crowe. Es la primera presencia fuerte de Crowe en el libro: el Tasador tasa. **(P, D2):** Crowe ata cabos: dos lotes perdidos cerca de Mercer.
 - **Relación:** no se lo cuenta a Chiara: después de la lluvia ya no puede admitirlo.
 - **Saldo:** Crowe, en persona: «Esto ya no es una carga. Es una cuenta.» (línea P, se puede quitar). **Arranca el reloj de Kal.**
 
-**10. Fuga de gas** — ago A3, ola de calor · Chiara (DISEÑO) · el loft; después, el penthouse · *(11; I-T12)* — **primer punto de giro**
+**8. Fuga de gas** (antes 10) — ago A3, ola de calor · Chiara (DISEÑO) · el loft; después, el penthouse · *(11; I-T12)* — **primer punto de giro**
 
 - **Función:** H8 (incendio y mentira). Absorber la deuda de todos convierte a Kal en el lugar donde aterrizan los castigos.
 - **Beats:** Crowe cobra quemando el loft y exige reponer el cargamento con alta pureza. Arden cuatro cosas: la casa de Dale y Ruth, el trabajo de Chiara, el primer hogar de los dos y la palabra «casa». La caja fuerte y su contenido sobreviven (siembra de H14). **(P):** el fuego cobra dos cuentas (Tyler y la sospecha del lote), y la reposición no es una entrega sino una cuota mensual en pureza hasta que Crowe diga basta.
@@ -193,7 +195,7 @@ Calendario de dos años (5 ene A3 → dic A4), contado en bloques densos. Las el
 - **Saldo:** la deuda es de pureza, y la pureza es Ren. Se mudan al penthouse (por confirmar).
 - **PENDIENTE:** mecanismo del incendio, amenaza exacta y cobro de la mentira.
 
-**11. Capacidad** — fin de ago – sep A3 · Kal · donde trabaja Ren; Calle Almendra; la azotea de Almendra Towing · *(12 + 13 + 14; I-T13)*
+**~~11.~~ Capacidad** — **se funde en el 9, *Queremos esta* (Fase 1).** Ficha conservada como material — fin de ago – sep A3 · Kal · donde trabaja Ren; Calle Almendra; la azotea de Almendra Towing · *(12 + 13 + 14; I-T13)*
 
 - **Función:** la deuda con Crowe descubre a Ren, producción de alta pureza: dinero de otra escala y mayor riesgo federal. Kal responde al fuego construyendo y paga la deuda «Quiero levantarlo» del Libro I.
 - **Beats:** Ren revela su capacidad. Kal compra el resto de las casas para el núcleo del Patio y el barrio se vuelve territorio. Cierra con la azotea: sillones, brasero, toldo, mamparas, decoraciones de cada uno, comida, descanso. El Patio tiene hogar colectivo antes de que el libro empiece a vaciarlo. **(P):** la pureza que paga a Crowe deja excedente, y nace el negocio propio del Patio.
@@ -202,7 +204,7 @@ Calendario de dos años (5 ene A3 → dic A4), contado en bloques densos. Las el
 - **Saldo:** primera entrega a Crowe. Crowe ve que el deudor compra la calle entera.
 - **No hacer:** procedimiento químico. Que la azotea se sienta diseñada por Kal: crece sola.
 
-**12. Queremos esta** — principios de sep A3 · Kal · cuatro propiedades; la Villa · *(15; I-T14)*
+**9. Queremos esta** (antes 12) — principios de sep A3 · Kal · cuatro propiedades; la Villa · *(15; I-T14)*
 
 - **Función:** nace la casa de los dos, centro de recuerdos para H1.
 - **Beats:** recorren cuatro propiedades. En una, con ecos de Palermo sin ser réplica, Chiara empieza a imaginar sin darse cuenta: jardines, habitaciones, limoneros. Kal deja de evaluar la casa y la mira a ella. Mudanza.
@@ -214,7 +216,7 @@ Calendario de dos años (5 ene A3 → dic A4), contado en bloques densos. Las el
 
 ### Bloque 3 · El ruido (oct – principios de nov A3)
 
-**13. Encubierto** — oct A3, hojas · Kal · la montaña; el punto de la venta; la extracción · *(16 + 17; I-T15 + I-T16)*
+**10. Encubierto** (antes 13) — oct A3, hojas · Kal · la montaña; el punto de la venta; la extracción · *(16 + 17; I-T15 + I-T16)*
 
 - **Función:** un hito de confianza sin número de H y el primer hilo federal. La deuda produce el FBI.
 - **Beats:** rodada de montaña. Los demás hacen la variante extrema en bici; Kal y Chiara saltan en tándem (él controla y ella va con arnés de pasajero). Ella puede echarse atrás y no lo hace porque confía en Kal. **(P):** en la montaña, el teléfono de Kal no tiene señal. Bajan de noche, con once llamadas: mientras él no contestaba, Danny cerró una venta grande con un cliente nuevo. El cliente era un encubierto del FBI; la operación se rompe; el agente queda herido leve; Kal coordina la extracción; alguien pronuncia el nombre real de Danny. **(P):** el producto es el excedente de la pureza de Crowe.
@@ -222,13 +224,13 @@ Calendario de dos años (5 ene A3 → dic A4), contado en bloques densos. Las el
 - **Saldo:** el agente sobrevive y puede volver; los federales tienen un nombre. La cercanía de Lucía con Kal empieza a tener precio institucional, y Kal cambia su forma de andar por el sur.
 - **POV:** Kal (DECISIÓN DEL AUTOR, 2026-11-12, R5). **Orden:** la montaña, antes de que el FBI oscurezca el tramo.
 
-**14. Señor Militar** — oct A3 · **la calle** · los barrios del sur · *(18; I-T17)*
+**~~14.~~ Señor Militar** — **sale a residuo (Fase 1, regla 4 de perspectiva): el apodo llega por *El Faro* en el 10 y Chiara lee la cita del «experto» en el 12.** Ficha conservada como material — oct A3 · **la calle** · los barrios del sur · *(18; I-T17)*
 
 - **Función:** Kal se vuelve la cara visible de la autoridad de Dario en el sur antes de admitir que esa figura existe.
 - **Beats:** tras el FBI cambia su forma de recorrer ciertos barrios: capucha, pasamontañas, maquillaje negro alrededor de los ojos, botas de combate. La calle lo bautiza: `el militar → Señor Militar`. **(P):** en una de esas noches, alguien de una banda dice que el Tasador sube cuotas «por la competencia»: las bandas empiezan a comparar. *El Faro* publica la cita anónima de «un experto en seguridad consultado por el ayuntamiento» sobre «el militar» del sur, y Chiara la aprueba sin saber de quién es.
 - **Saldo:** el sur tiene dos señores; la ciudad, un experto sin nombre.
 
-**15. Lentejuelas** — fin de oct A3, antes de la gala (CANON 2026-10-14) · POV según el borrador · el penthouse; el salón de la ceremonia · *(19; I-T18)*
+**11. Lentejuelas** (antes 15) — fin de oct A3, antes de la gala (CANON 2026-10-14) · POV según el borrador · el penthouse; el salón de la ceremonia · *(19; I-T18)*
 
 - **Fuente:** [[07_Ideas/La_Graduacion_De_Marisol]] (prosa BORRADOR; manda en la escena).
 - **Canon de la apertura:** Chiara se arregla en el penthouse; vestido negro de lentejuelas, cabello recogido, labios de rojo oscuro. Narración del autor: «Kal guardó ese momento en un lugar que ni él sabía que podía almacenar recuerdos, como una fotografía en el alma.» Línea: «—Las estrellas deben estar hablando del brillo que les robaste esta noche.» Es la excepción en el registro de Kal; después vuelve a ser seco. El pensamiento detrás no se escribe.
@@ -241,7 +243,7 @@ Calendario de dos años (5 ene A3 → dic A4), contado en bloques densos. Las el
 - **Orden fino:** el tic 7 no puede ir en capítulo seguido del tic 3 (17); el 16 los separa.
 - **No hacer:** comprimir su carrera. El salto fuerte (paralegal en la fiscalía) es de *Voto de Ceniza*.
 
-**16. El otro Dario** — fin de oct A3 · Kal y Chiara en casa · la Villa; el Monarch · *(20; I-T19)*
+**~~16.~~ El otro Dario** — **se funde en el 12, *El benefactor* (Fase 1): la verdad a medias sobre Dario, antes de salir a la gala.** Ficha conservada como material — fin de oct A3 · Kal y Chiara en casa · la Villa; el Monarch · *(20; I-T19)*
 
 - **Función:** la grieta. Con Kal, Dario es modesto, razonable y paga; con Chiara, sofocante. En casa hay dos relatos.
 - **Beats:** Tommaso empieza a ceder poder societario y Chiara avanza hacia la mayoría del Monarch (P: el fruto del 3).
@@ -250,7 +252,7 @@ Calendario de dos años (5 ene A3 → dic A4), contado en bloques densos. Las el
 - **No hacer:** un Kal que no le cree.
 - **PENDIENTE:** la estructura italiana que facilita el control (Il Consorzio, La Comisión u otra; D5). No fusionar instituciones.
 
-**17. El benefactor** — fin de oct – principios de nov A3 · Chiara · el salón de la gala (Galería Saints); después, la Villa · *(21; I-T20)*
+**12. El benefactor** (antes 17) — fin de oct – principios de nov A3 · Chiara · el salón de la gala (Galería Saints); después, la Villa · *(21; I-T20)*
 
 - **Tic 3 (antes de salir):** en la Villa, entre el maquillaje y el vestido, con Kal esperando abajo. Lo quema en el lavabo con el encendedor de sus cigarros: la llama llega antes que la vela.
 - **Beats:** primera vez como cara pública del Monarch. Halbrook es un benefactor educado, contenido, observador y cómodo en sociedad. Conversan y bailan antes de que ella sepa quién es. Kenji lo presenta: «Warren Halbrook». Ella conoce el nombre por Las Gemelas (Libro I) y nunca le había visto la cara. El efecto buscado es *este cabrón; lo había olvidado*, sin escribirlo así. **(P, D4):** el benefactor habla del Monarch como edificio histórico y pregunta por «los archivos de la casa». Ella lo oye como cortesía; el lector, como las rutas.
@@ -259,11 +261,11 @@ Calendario de dos años (5 ene A3 → dic A4), contado en bloques densos. Las el
 
 ---
 
-## Parte II — Nieve y ceniza (18–31)
+## Parte II — Nieve y ceniza (13–26)
 
 *Es cálida por fuera e inquietante por dentro. Hay que invertir tiempo real en Héctor, Walt, Danny, Nadir, Harper, Bonnie, Meiko y Ren: la calidez prepara el daño. Kal se vuelve demasiado funcional y se quiebra por dentro; Chiara detecta que se guarda cosas. Le sigue contando los hechos, no el miedo. **Reloj:** continua, unas 13 semanas, sin elipsis largas; los saltos caen en un poste o en un cobro. Los relojes de deuda corren en silencio: entregas a Crowe (la cuarta en noviembre, la quinta la noche del garaje, la sexta la semana del robo) y cuotas de Chiara (diciembre y febrero).*
 
-**18. Veintitrés de noviembre** — 23 nov A3 y Thanksgiving → principios de dic · Chiara · la Villa; la azotea; Calle Almendra · *(22 + 23; II-P1 + II-P2)*
+**13. Veintitrés de noviembre** (antes 18) — 23 nov A3 y Thanksgiving → principios de dic · Chiara · la Villa; la azotea; Calle Almendra · *(22 + 23; II-P1 + II-P2)*
 
 - **Función:** el Patio acepta a Chiara como de la casa. Es su primer cumpleaños en la Villa, en el aniversario de la mudanza de H16. Y Kal entra en piloto automático: resuelve, coordina, dice «estoy bien» y se vuelve eficiente a costa de sí mismo.
 - **Beats:** **(P):** esa semana Kal hace la cuarta entrega a Crowe y llega tarde a la azotea. Ella lo ve llegar y no pregunta dónde estaba; él dice «estoy bien» sin que nadie le haya preguntado, y es la primera vez que suena en el libro. Semanas después, Marisol lo ve desde fuera y se lo dice a Chiara con sarcasmo. Siembra para el 30: Marisol se lleva el Audi de Kal diga él que sí o que no, y él siempre cede.
@@ -271,7 +273,7 @@ Calendario de dos años (5 ene A3 → dic A4), contado en bloques densos. Las el
 - **Saldo:** Chiara se propone la Nochebuena como algo que él no tenga que resolver.
 - **Rima:** el 50 repite la fecha un año después, con un secreto.
 
-**19. No cargues sola** — dic A3 (hasta ~20–21 dic) · Kal · donde entrenan; el taller de día; el garaje del taller, a solas · *(24 + 25; II-P3 + II-P4)*
+**14. No cargues sola** (antes 19) — dic A3 (hasta ~20–21 dic) · Kal · donde entrenan; el taller de día; el garaje del taller, a solas · *(24 + 25; II-P3 + II-P4)*
 
 - **Función:** maestro y pupila, no hija sustituta. La ironía es que Kal le dice que no cargue sola mientras él lo hace, y esa noche se quiebra solo.
 - **Beats (día):** Harper. Siembra: Harper ve al jefe usándose como herramienta hasta romperse; así Chiara no parece exagerar después. Meiko le pide un adelanto «para mi hermano», y Kal le cuenta lo de Ruth: «Mi madre pagó cada apuesta de mi padre. No lo salvó. Nada más se fue perdiendo ella.» Le da el adelanto de todos modos (C, primer tiempo). **DECISIÓN DEL AUTOR (2026-11-17):** al cerrar juegan pool en el billar de atrás del Monarch; lo de Ruth se dice sobre la mesa y Meiko, que iba ganando, mete la 8 en la tronera equivocada y pierde. La partida va breve (unas 500 palabras). Siembra también el cuarto de Harper en la parcela, si no va en el 23. Se cobra con su regalo de Navidad, la bola 8 ([[11_Books/Book_02_Sombras_De_Poder/Part_02_Nieve_Y_Ceniza/00_Diseno_Navidad_Completa]] §5b). **(P):** alguien de la Ronda del Canal le pide ayuda contra las cuotas del Tasador. Kal no puede, porque él mismo le debe, y dice «todavía no».
@@ -282,7 +284,7 @@ Calendario de dos años (5 ene A3 → dic A4), contado en bloques densos. Las el
 - **No hacer:** diagnóstico ni explicación. Es cuerpo y recomposición.
 - **Opción (PENDIENTE):** si el garaje es el del taller, tres noches después Kal cuelga luces en el mismo sitio, y sólo el lector lo reconoce ([[11_Books/Book_02_Sombras_De_Poder/Part_02_Nieve_Y_Ceniza/00_Diseno_Navidad_Almendra_Towing]]).
 
-**20–21. Una noche de mudanza / El collar** (archivos 20a y 20b) — 23–25 dic A3 · **Kal** · el taller y la bodega; la Villa; el patio de grúas · *(26; II-P5 + II-P6)*
+**15–16. Una noche de mudanza / El collar** (archivos 20a y 20b; antes 20–21) — 23–25 dic A3 · **Kal** · el taller y la bodega; la Villa; el patio de grúas · *(26; II-P5 + II-P6)*
 
 > **Redactados (BORRADOR, 2026-11-18):** [[11_Books/Book_02_Sombras_De_Poder/Part_02_Nieve_Y_Ceniza/20a_Una_Noche_De_Mudanza]] (del 23 a la bajada de la Villa) y [[11_Books/Book_02_Sombras_De_Poder/Part_02_Nieve_Y_Ceniza/20b_El_Collar]] (de la cena a la carretera), desde [[11_Books/Book_02_Sombras_De_Poder/Part_02_Nieve_Y_Ceniza/00_Diseno_Navidad_Completa]]. Desde aquí, el número de capítulo es el del archivo más uno.
 
@@ -298,14 +300,14 @@ Calendario de dos años (5 ene A3 → dic A4), contado en bloques densos. Las el
 - **No hacer:** explicar el peso futuro de la placa o su función. Meiko: presente, normal y querida, sin ningún gesto que se lea como presagio.
 - **Medida:** si pasa de unas 8,000 palabras, se revisa (el diseño preveía partirlo en la madrugada del 24).
 
-**21. Año Nuevo** — 31 dic A3 – 1 ene A4 · Chiara · la fiesta del Monarch; el penthouse · *(27; II-P7)*
+**17. Año Nuevo** (antes 21) — 31 dic A3 – 1 ene A4 · Chiara · la fiesta del Monarch; el penthouse · *(27; II-P7)*
 
 - **Función:** F4, la mitad de ella. Fiesta del Monarch; se emborracha y termina sola en el penthouse, donde el piano que le compró por su cumpleaños lo espera. El 1 lo pasa deprimida viendo películas.
 - **Canon (plan, textual):** «la ausencia de Chiara pesa porque Kal ya no sabe pedir «quédate». No es culpa de ella.» Esa ausencia se lee desde él (22), no se explica aquí. Ella no sabe por qué no está.
 - **Siembra de Tommaso de la Parte II (P):** en la fiesta de su casino, delante de Chiara, Tommaso sabe del círculo de Kal algo que ella no sabe. Nadie lo comenta.
 - **Saldo:** el piano, tapado, en la sala.
 
-**22. La carretera** — 31 dic – 2 ene · Kal · Washington; la carretera; el penthouse · *(28; II-P8)*
+**18. La carretera** (antes 22) — 31 dic – 2 ene · Kal · Washington; la carretera; el penthouse · *(28; II-P8)*
 
 - **Función:** F4, la mitad de él.
 - **Causa (P, D6):** Halbrook cobra la correa por primera vez. Los papeles de Nadir siguen en manos de su gente (Crowe se los pasó, C del Libro I). Tras la gala, la fundación del benefactor anuncia un **programa de readaptación para veteranos**, y Nadir aparece en la lista de casos «por revisar». Kal va solo a Washington el 31 a firmar como responsable de Nadir, para que no vaya él. Se conservan Washington, el programa y el gancho de Halbrook del F4 viejo, sin Anya ([[97_Supersedido/Anya_Voronina]]). En el hotel le da vueltas al collar, hace la maleta y vuelve en auto esa misma noche; por eso tarda.
@@ -315,7 +317,7 @@ Calendario de dos años (5 ene A3 → dic A4), contado en bloques densos. Las el
 - **Saldo:** el sobre del programa de veteranos, guardado en la guantera. Kal vuelve sabiendo que Halbrook lo tiene por Nadir y que necesita un paraguas.
 - **No hacer:** Chiara con celos simples.
 
-**23. La vela tardía** — principios de ene A4 y días después · Kal · del norte al puerto; la bahía; la zona industrial; la Villa; un callejón de Varek · *(29 + 30; II-P9 + II-P10)*
+**19. La vela tardía** (antes 23) — principios de ene A4 y días después · Kal · del norte al puerto; la bahía; la zona industrial; la Villa; un callejón de Varek · *(29 + 30; II-P9 + II-P10)*
 
 - **Redactado (BORRADOR, 2026-11-16, lote 1):** [[11_Books/Book_02_Sombras_De_Poder/Part_02_Nieve_Y_Ceniza/23_La_Vela_Tardia]]; decisiones del autor en [[98_Agent_Handoff/sessions/2026-11-16_claude_cap23_la_vela_tardia]].
 - **Función:** primera incursión como activo de campo de Dario. Sale **sin avisarle**, y la vela nace tarde.
@@ -329,14 +331,14 @@ Calendario de dos años (5 ene A3 → dic A4), contado en bloques densos. Las el
 - **Subtexto (no enunciar):** aquí empiezan los once meses en que Kal no pregunta.
 - ~~**PENDIENTE:** si ella lo dice en una línea («La próxima vez, dímelo antes») o lo deja en silencio.~~ **Resuelto (DECISIÓN DEL AUTOR, 2026-11-16):** silencio; la regla cambia dentro de Kal y el 25 la cobra. El pago de Kaito es en el estacionamiento de la lavandería de la calle Fowler (manda el 37).
 
-**24. La jaula** — mediados de ene A4 · Kal · Almendra Towing, alrededor de un mapa · *(31; parte de II-P11)*
+**~~24.~~ La jaula** — **se funde en el 20, *Deséame suerte* (Fase 1): el mapa de día, la noche, la vela.** Ficha conservada como material — mediados de ene A4 · Kal · Almendra Towing, alrededor de un mapa · *(31; parte de II-P11)*
 
 - **Función:** primera operación autónoma, contra lo que Dario más presume. Lunar Pearl exhibe el **Lussia**, el diamante rojo de Dario que le dio nombre a su hija Lucia. Además separa los tics 4 y 5 (R0).
 - **Beats:** alguien dice «en La Isla no se roba» y Kal pregunta por qué. De La Isla no se sale: puente, ferry y lanchas de los Saints. La respuesta es no salir y desaparecer dentro del casino de Dario. Walt, de mala gana, dibuja la capa vieja de los túneles; Kal pone encima la boca del Monarch que Chiara le mostró en el Libro I (Cap. 23, archivo 24c). Es la primera vez que el Patio entero rodea un mapa. Kal reparte y nadie sobra.
 - **Motivo (P, D7):** después de Washington y la bahía, Kal está en manos de tres: la cuenta de Crowe, el paraguas de Dario y los papeles de Halbrook. Quiere una sola cosa que sea suya, dinero que nadie sepa que existe. La primera regla de Dario que pregunta «por qué» es la semilla de «no como tú».
 - **Regla del reparto:** si quitas a alguien y el plan funciona igual, no tiene función suficiente.
 
-**25. Deséame suerte** — fin de ene A4, noche despejada y helada · Kal → Chiara al cierre · La Isla; el penthouse · *(32; II-P11)*
+**20. Deséame suerte** (antes 25) — fin de ene A4, noche despejada y helada · Kal → Chiara al cierre · La Isla; el penthouse · *(32; II-P11)*
 
 - **Beats:** Héctor va dos veces como cliente; la segunda le muestran la bandeja de anillos de compromiso y sale triste de verdad. Bonnie lee al personal (cobra el 5); Harper cronometra el helicóptero; Meiko recorre la ruta de día; Danny arma los gemelos; Tyler cierra con los Breakwater Saints; Ren deja ropa y boletos; Walt baja a su tramo. El control de Kal es real y también es piloto automático.
 - **Relación:** **la vela a tiempo**, la primera verdad dicha antes del peligro.
@@ -344,20 +346,20 @@ Calendario de dos años (5 ene A3 → dic A4), contado en bloques densos. Las el
 - **Tic 5:** escribe y lo quema, junto a la vela. El cierre es la vela, no el papel.
 - **Canon:** Chiara no conoce el plan; es su salida legal.
 
-**26. Lussia** — esa noche · Kal · Lunar Pearl · *(33; II-P12)*
+**21. Lussia** (antes 26) — esa noche · Kal · Lunar Pearl · *(33; II-P12)*
 
 - **Beats:** Kal, Nadir y Danny adentro; la prosa salta del pulso al resultado. Se llevan el Lussia y la exhibición. Algo sale mal (propuesta: una patrulla fuera del cálculo de Harper); Nadir y Danny ponchan llantas e inhabilitan patrullas. **Sin heridos.**
 - **El anillo (paga H4):** frente a la bandeja, Kal toma un anillo, no lo mete en la bolsa y lo guarda en la billetera. Nadie lo ve, o lo ve Nadir y calla. Es el único objeto que no se vende: el secreto más dulce del libro.
 - **Canon:** Meiko no le cuenta nada a Varek de esto.
 - **Saldo (P, D7):** el Lussia en la bolsa es el problema que nadie pensó: en San Aurelio, un diamante rojo sólo lo mueve el Tasador.
 
-**27. Sin público** — esa noche · **Harper** · La Isla de punta a punta; bajo tierra · *(34; II-P13)*
+**22. Sin público** (antes 27) — esa noche · **Harper** · La Isla de punta a punta; bajo tierra · *(34; II-P13)*
 
 - **Beats:** la persecución más temeraria de San Aurelio en quince años. Cierran el puente y la policía se relaja. Meiko se deja ver desde el aire hasta la rampa de la obra de Punta Dorada; el foco del helicóptero se clava en esa boca. Harper da la señal y los gemelos salen a la vez por las rampas de los Saints. A los de la fiesta los paran: «se metieron a los túneles a beber sin público»; a la pareja, «teniendo intimidad en el túnel». Ninguno lleva nada. El equipo deja el auto y camina por el pasaje de los años veinte.
 - **Saldo:** el foco del helicóptero clavado en una boca vacía.
 - **No hacer:** POV de Meiko: su interioridad abriría la línea con Varek antes de tiempo. En el POV de Harper, nada sobre Halbrook ni sobre tiro de precisión ([[12_Craft_Policies/revelations/SAGA_LEVEL]]).
 
-**28. El millón** — madrugada y días después · Kal; Chiara al final · túnel este; bahía de carga; piso de juego; la azotea de Almendra Towing · *(35 + 36; II-P14)*
+**23. El millón** (antes 28) — madrugada y días después · Kal; Chiara al final · túnel este; bahía de carga; piso de juego; la azotea de Almendra Towing · *(35 + 36; II-P14)*
 
 - **Beats (madrugada):** Walt los espera al final del túnel, sin permiso de Chiara: el viejo barrio recibe a la sangre nueva. **(P, D11):** su audiencia de condicional está cerca y la arriesga (sustituye «rompe su voto de libertad condicional» del boceto). Ren los lleva a la zona de servicio, se cambian y suben al piso de juego entre la una y las dos. Afuera hay sirenas; adentro, fichas y música. Chiara se sorprende de que salgan por su bodega: él usó sin pedírselo algo que ella le mostró. Su ignorancia la protege. Al alba reabren el puente y salen con boletos de valet entre cientos de huéspedes.
 - **Beats (días después):** primera celebración del Patio como familia criminal. El noticiero repite la persecución; la policía queda humillada y eso le da a Halbrook un argumento. Dario perdió el diamante de su hija en su isla, y los ladrones desaparecieron en su casino. **USD 1,000,000** intacto como Plan B (payoff en *Cuentas de Sangre*).
@@ -365,7 +367,7 @@ Calendario de dos años (5 ene A3 → dic A4), contado en bloques densos. Las el
 - **Saldo:** el Lussia escondido, sin comprador. Dario, humillado, empieza a preguntarse quién; la línea de Varek responde.
 - **PENDIENTE:** lo que dice Walt; cómo se entera Chiara; destino del Lussia (D7); quién compra el botín; si Dario sospecha o pone a Kal a investigar; qué ganan los Saints; si Lucia se entera.
 
-**29. Nadie tiene prisa** — principios de feb A4 · Chiara · el piso de juego del Monarch; los túneles o las vías muertas de Las Calderas · *(nuevo; II-P15)*
+**24. Nadie tiene prisa** (antes 29) — principios de feb A4 · Chiara · el piso de juego del Monarch; los túneles o las vías muertas de Las Calderas · *(nuevo; II-P15)*
 
 - **Fuente:** [[11_Books/Book_02_Sombras_De_Poder/00_Diseno_Cobro_Del_Levanton]] (idea del autor; ubicación P, D8).
 - **Beats:** un hombre con un anillo en el meñique le dice al crupier «Nadie tiene prisa» y golpetea el paño. Chiara reconoce la frase del levantón (DECISIÓN DEL AUTOR, 2026-10-26: la seña es una frase). «Claro, tesoro, yo me encargo»; se aparta y llama a Kal. Kal los embosca con el Patio ya consolidado y los interroga sin torturarlos; ella decide ir; Kal les perdona la vida; uno dice algo tan bajo que **Chiara toma el arma y lo ejecuta**. Son Calderos, músculo que Crowe alquila (C).
@@ -374,14 +376,14 @@ Calendario de dos años (5 ene A3 → dic A4), contado en bloques densos. Las el
 - **Abierto:** «Mac a Almendra» (escenas en reserva) como candidato (P), antes de la emboscada.
 - **Siembra obligatoria para el 38: el ritual de los chalecos (DECISIÓN DEL AUTOR, 2026-11-15; la escena es DISEÑO).** **Añadido (2026-11-15, DISEÑO):** la misma caja de cartón de donde Kal reparte los chalecos recibe los teléfonos apagados de todos; el 37 («los teléfonos van a la caja, como siempre») y el 38 lo cobran, así que el 29 tiene que mostrarlo. En la emboscada, Kal, sin sacar el arma, le pregunta al Caldero de la pistola «¿Ya terminaste?». Después, en el taller, los muchachos, que no vieron la ejecución, se quitan los chalecos entre risas, con el velcro sonando por todas partes. Danny pone la voz grave y plana para imitar a Kal («¿Ya terminaste?»), Tyler se dobla de risa, Harper dice que no fue así, que fue peor, y Kal, colgando su chaleco, levanta el índice sin voltear. Chiara lo ve desde la orilla de la bahía, con el secreto recién hecho, sin reírse: la risa de ellos es la versión que el mundo va a contar. Ningún guiño a lo que viene. **Cobro:** en el 38, nadie se quita el chaleco y sólo suena el velcro de Harper.
 
-**30. Calle Corona** — mediados de feb A4 · **Marisol** · Calle Corona, rumbo al Puente de Piedra · *(37; II-P16)*
+**25. Calle Corona** (antes 30) — mediados de feb A4 · **Marisol** · Calle Corona, rumbo al Puente de Piedra · *(37; II-P16)*
 
 - **Beats:** a Tommaso le destrozan el auto por vandalismo en el estacionamiento del casino y Chiara le presta su Lancia (el sedán discreto de Villani Motors). En un cruce, Tommaso pierde el control y choca contra el Audi de Kal, que maneja Marisol (iba a ver a Chiara, fuera de foco). Marisol sale con fractura de tibia; Tommaso, con una pierna que lo deja con bastón para siempre.
 - **Fuera de página (P, D5):** Varek ordenó los frenos con un motivo propio: lo que Chiara le contestó a Il Consorzio sobre el Monarch (3). El robo de su diamante no es el motivo, o no el único, para que Kal no cargue con esto.
 - **Saldo:** «el destino fue el culpable», para ellos y para el lector.
 - **No hacer:** mostrar el sabotaje o a Volpi.
 
-**31. El armario** — esa noche · Kal · Hospital Santa Aurelia · *(38; II-P17)*
+**26. El armario** (antes 31) — esa noche · Kal · Hospital Santa Aurelia · *(38; II-P17)*
 
 - **Función:** segunda llamada de atención, y esta vez Chiara lo ve. Kal llega por preocupación y sufre un ataque de pánico; Chiara se encierra con él en un armario de suministros médicos para calmarlo.
 - **Relación:** **el primer secreto de Kal que se rompe delante de ella.** No el de Crowe ni el de Halbrook: el del cuerpo. Ella no pregunta desde cuándo. Él no le dice que hubo un garaje.
@@ -390,19 +392,19 @@ Calendario de dos años (5 ene A3 → dic A4), contado en bloques densos. Las el
 
 ---
 
-## Parte III — Exilio (32–40)
+## Parte III — Exilio (27–33)
 
 *Rompe lo que la II volvió hogar. ¿Qué significa liderar cuando la decisión correcta destruye a tu propia gente? Es la Parte más corta: si necesita aire, la palanca natural es la extensión de la investigación nocturna (PENDIENTE del autor), no inventar trama. **Relojes:** el de Kal no se detiene: paga puntual cada mes hasta la muerte de Crowe, también mientras golpea de noche a su gente (DECISIÓN DEL AUTOR, 2026-11-16, escenario 1). Crowe cobra las noches en daño, no la deuda, y la guerra nace de ahí. El de Chiara crece y se descompone. **Fuentes:** [[06_Relationships/Momentos_de_Fractura#F2 - La muerte de Meiko y la salida de Bonnie|F2]] y [[06_Relationships/Momentos_de_Fractura#F3 - Los frenos|F3]] (CANON DEL AUTOR), [[02_Characters/Meiko_Nakano]] y [[02_Characters/Bonnie_Garcia]]. Lo retirado del F2 viejo (coartada, ejecución, destierro): [[97_Supersedido/F2_Ejecucion_Y_Destierro]].*
 
 ### Bloque 1 · Los frenos (mediados de feb – fin de mar A4)
 
-**32. Vacío** — días después del choque · Kal · Almendra Towing · *(39; III-T1)*
+**~~32.~~ Vacío** — **se funde en el 26, *El armario*, de la Parte II (Fase 1): Kal descubre el sabotaje y se lo cuenta.** Ficha conservada como material — días después del choque · Kal · Almendra Towing · *(39; III-T1)*
 
 - **Beats:** llegan el Lancia y el Audi; Kal ve vacío el depósito del líquido de frenos: manipulado. La víctima fue Marisol, pero el objetivo era Chiara. Es furia y combustible para su arco. **(DECISIÓN DEL AUTOR, 2026-11-16):** esa semana vence la séptima entrega a Crowe y Kal la paga, puntual, aunque Crowe es uno de sus escenarios: dejar de pagar sería confesar la cuenta. La furia se va a las noches (34). *Antes (P, superado por la DECISIÓN DEL AUTOR, 2026-11-16): no la pagaba «hasta saber».*
 - **Relación:** le dice a Chiara lo de los frenos esa misma noche (C: ella lo sabe y se lo cuenta a Tommaso). Por primera vez en el libro le cuenta algo a tiempo. Lo que se guarda es el escenario que no puede decir sin confesar la cuenta: Crowe.
 - **Saldo:** el reloj de Crowe sigue corriendo: Kal le paga al hombre del que sospecha, y el lector lo sabe.
 
-**33. Escenarios** — fin de feb A4 · **Chiara** · la Villa; la oficina de Dario; la cama vacía · *(40 + la cama vacía del 41; III-T2)*
+**27. Escenarios** (antes 33) — fin de feb A4 · **Chiara** · la Villa; la oficina de Dario; la cama vacía · *(40 + la cama vacía del 41; III-T2)*
 
 - **Beats:** Chiara está convencida de que fue La Mesa. Kal no lo compra: según la red de Varek, La Mesa sólo opera en San Aurelio si Varek lo permite. Arma varios escenarios (La Mesa, la calle, Crowe, otros) y empieza a desconfiar de todos. **(P):** a la mañana siguiente Chiara va con Dario a preguntarle si La Mesa tuvo permiso. Dario no contesta; dice que lo va a averiguar, y eso queda anotado en la cuenta. Esa noche Kal sale sin avisar.
 - **Tic 6:** Chiara frente a la cama vacía, porque Kal salió sin avisar: otra vez la vela tardía.
@@ -411,7 +413,7 @@ Calendario de dos años (5 ene A3 → dic A4), contado en bloques densos. Las el
 - **POV (P):** la conversación pasa a Chiara para equilibrar la Parte; la duda de Kal sobre Varek va al 34, en su cabeza.
 - **No hacer:** deducción de detective («nada de Batman»), ni que el razonamiento llegue a señalar a Varek con prueba. Esta sospecha sin cerrar siembra la enemistad de *Voto de Ceniza*.
 
-**34. El agua corriendo** — fin de feb – principios de mar A4 · Kal · las calles del sur, de noche; la cocina de la Villa · *(41; III-T3)* — **F3**
+**28. El agua corriendo** (antes 34) — fin de feb – principios de mar A4 · Kal · las calles del sur, de noche; la cocina de la Villa · *(41; III-T3)* — **F3**
 
 - **Beats:** Kal sale de noche a investigar por su cuenta como matón de calle: es un Kal mucho más dudoso moralmente. **(P):** los golpes caen sobre gente de Crowe (cobradores y Calderos), porque Crowe es el escenario que no puede decir en voz alta, y Varek, el que no puede tocar: es su paraguas desde la bahía. En parte es un blanco equivocado. Varek es el que más ruido le hace, sin prueba ni certeza, y eso lo hace dudar de sí mismo (C).
 - **F3, el «Te amo» (CANON DEL AUTOR, 2026-10-14; [[06_Relationships/Momentos_de_Fractura#F3 - Los frenos]]):** Kal vuelve golpeado de una de esas noches. Chiara lo atiende en silencio, atenta a los golpes y furiosa. Él lleva todo el día con la idea en la cabeza: los frenos eran para ella. Lo suelta mientras ella está de espaldas en el lavabo, exprimiendo el trapo con el agua corriendo: «Te amo.» **Ella no lo oye; el lector sí.** Ella vuelve y le dice que se quede quieto; él no lo repite. POV de Kal o neutro, nunca de Chiara. Lugar: la cocina de la Villa (DISEÑO), no el baño, para no gastar el escenario de H1.
@@ -419,7 +421,7 @@ Calendario de dos años (5 ene A3 → dic A4), contado en bloques densos. Las el
 - **Saldo:** la frase existe y no llegó, sin guiño del narrador. Chiara nota que algo cambió y no sabe qué. Crowe se cobra las noches (35).
 - **PENDIENTE:** extensión y desenlace de la investigación.
 
-**35. El bastón** — mar A4 · Chiara · la redacción de *El Faro*; el hospital; el Monarch · *(*Primera plana* + 42; III-T4 + III-T5)*
+**29. El bastón** (antes 35) — mar A4 · Chiara · la redacción de *El Faro*; el hospital; el Monarch · *(*Primera plana* + 42; III-T4 + III-T5)*
 
 - **Beats (mañana, P):** Crowe cobra las noches en daño (la deuda sigue al día; DECISIÓN DEL AUTOR, 2026-11-16): le queman una grúa a Almendra Towing y le dan una golpiza a un muchacho del Patio en una esquina del sur. Con los Calderos golpeados, *El Faro* lo tiene como nota de portada: «guerra en el sur». La fundación del benefactor da una declaración, y el Ayuntamiento propone a Halbrook para una comisión de seguridad pública (benefactor → consultor, C). Chiara **se entera por su periódico** de que Kal está en una guerra que no le contó. No pregunta. Edita: saca a Almendra Towing de la nota y deja el marco de «bandas del sur». La cita de Halbrook se queda.
 - **Beats (tarde):** en el hospital hay un acercamiento ligero entre Tommaso y Marisol: respeto y afecto, sin romance. Ella no tiene padres, y él acaba de saber que amenazan a su esposa y a su hija. Ve en Kal un lado protector y paterno que no percibe en los negocios. Chiara le dice que el auto estaba saboteado. Tommaso decide irse de San Aurelio y cede su parte del Monarch a Chiara. Su línea con Meiko se cierra sola y nadie busca una filtración. **(P):** con el Monarch entero, Il Consorzio ya sólo le habla a ella y vuelve a preguntar por la oferta (Q24): es el motivo de los frenos, que el lector no conoce.
@@ -435,7 +437,7 @@ Calendario de dos años (5 ene A3 → dic A4), contado en bloques densos. Las el
 
 > **Arco de Meiko en cuatro capítulos (DECISIÓN DEL AUTOR, 2026-11-13).** El antiguo 36 se parte en *Las latas* (36) y *Lo del hermano* (37); de ahí en adelante todo sube uno y el libro queda en **57 capítulos** (Parte III = 32–40, Parte IV = 41–57). Documentos fechados antes citan la numeración de 56. El mismo día el autor fijó la respuesta de Kal a «Perdóname, jefe», que Bonnie se va después del entierro, que el corazón del 39 es la plática de Chiara con Bonnie (POV de Chiara) y la línea con la que Kal se quiebra. Sesión: [[98_Agent_Handoff/sessions/2026-11-13_claude_arco_mei_lin]].
 
-**36. Las latas** — mediados de abr A4 · Kal · un descanso apartado, a las afueras, cerca de Cedar Flats · *(las latas; III-T6)*
+**30. Las latas** (antes 36) — mediados de abr A4 · Kal · un descanso apartado, a las afueras, cerca de Cedar Flats · *(las latas; III-T6)*
 
 - **Beats (C de la ficha de Bonnie):** Bonnie no sabe disparar y Kal acepta enseñarle (Chiara lleva días insistiendo en que les enseñe a las chicas: residuo de la elipsis C). Tiran a latas y la práctica se abre a una conversación sobre familia y futuro. Kal les transmite que si tienen un problema se lo digan y lo arreglan (sentido, no diálogo literal). **(P):** Meiko está ahí, sentada en el cofre, porque va adonde va Bonnie; oye la oferta y no dice nada. Bonnie cuenta, de pasada, que Chiara y Marisol le hablan de estudiar (semilla de Boston). Kal ve callada a Meiko y lo lee como timidez.
 - **El vínculo (DISEÑO):** es la última tarde buena y la que construye a Meiko con Kal, que es a quien pide perdón. Algo concreto entre los dos, sin presagio: Bonnie la reta y Meiko tira una sola vez y pega; Kal le pregunta dónde aprendió y ella dice que con su hermano, lo único que Kaito le enseñó que sirviera. Kal no pregunta más. Ella no sabe que Kal pagó esa deuda; él no lo dice.
@@ -443,7 +445,7 @@ Calendario de dos años (5 ene A3 → dic A4), contado en bloques densos. Las el
 - **No hacer:** ningún guiño del narrador a lo que viene, ni una Meiko a punto de confesar.
 - **Redactado (BORRADOR, 2026-11-13):** [[11_Books/Book_02_Sombras_De_Poder/Part_03_Exilio/36_Las_Latas]]. Detalle y preguntas de los cuatro capítulos: [[98_Agent_Handoff/sessions/2026-11-13_claude_arco_mei_lin]].
 
-**37. Lo del hermano** — días después · Kal · la oficina de Dario; el taller con Nadir y Héctor; El Patio, de noche · *(43; III-T7)*
+**31. Lo del hermano** (antes 37) — días después · Kal · la oficina de Dario; el taller con Nadir y Héctor; El Patio, de noche · *(43; III-T7)*
 
 - **Beats (P):** Dario, todavía humillado por Lunar Pearl, le recuerda a Kal que lo ve todo y le menciona, de pasada, que ahora enseña a tirar a las niñas. En las latas sólo estaban Kal, Bonnie y Meiko. «Lo del hermano queda saldado» le cae de golpe (CANON 2026-11-07): el hombre de Varek sabía que Kal había pagado por el hermano de Meiko. Kal se lo dice sólo a Nadir y a Héctor; Héctor le pide calma, porque es una niña que actuó por miedo; Kal pospone el juicio hasta acabar la operación.
 - **El centro (DISEÑO):** Kal y Meiko, solos, en El Patio. Él no la acusa con pruebas: le dice lo de Dario y espera. Ella no lo niega. Lo que filtró es lo que veía sirviendo en las salas de Chiara (quién se sentaba con quién, quién llegaba con Kal). Por qué: cuando Kaito dejó de pagar, la gente de Varek le ofreció cambiar la deuda por plática; después dejaron de cobrarle el dinero y siguieron cobrándole la plática. Ahí entiende quién pagó; Kal no lo confirma. Kal le dice que su destino se decide al acabar la operación y que hasta entonces hace su trabajo. Va sabiendo que la descubrieron (ficha).
@@ -454,7 +456,7 @@ Calendario de dos años (5 ene A3 → dic A4), contado en bloques densos. Las el
 - **Lo que no se dice todavía:** qué le habría dicho Kal al acabar la operación. Lo dice en el 39.
 - **Redactado (BORRADOR, 2026-11-13):** [[11_Books/Book_02_Sombras_De_Poder/Part_03_Exilio/37_Lo_Del_Hermano]].
 
-**38. Perdóname, jefe** — fin de abr – principios de may A4 · **Nadir** · el corralón; la camioneta; El Patio · *(44; III-T8)* — **F2**
+**32. Perdóname, jefe** (antes 38) — fin de abr – principios de may A4 · **Nadir** · el corralón; la camioneta; El Patio · *(44; III-T8)* — **F2**
 
 - **Apertura (C, se mueve aquí desde el 37):** Nadir, decepcionado, se lo dice a Meiko antes de empezar. Es lo último que le da.
 - **Beats (F2-A, CANON DEL AUTOR 2026-11-07):** la puñalada en la femoral, el torniquete que no aguanta, la regla del Patio de no ir al hospital desde una operación, la muerte en El Patio en manos de Nadir («¡Mei, Mei, Mei, Mei!»), Bonnie pidiendo una ambulancia, «Perdóname, jefe.» y los ojos que miran a la nada y a Kal a la vez. Otros chicos vuelven heridos y van después al hospital con una historia armada, lo que trae preguntas y policías de Varek (DISEÑO). ~~**(P):** la apuñala el Caldero que sobrevivió al levantón, el que Kal perdonó (29).~~ **DISEÑO (2026-11-12, el autor pidió registrarlo):** la apuñala un Caldero joven, sin nombre en la página, distinto del perdonado, porque así puede volver en *Voto de Ceniza* sin reconocerlos. **Siembra:** Nadir ve en su mano una navaja retráctil con flamas verdes; es lo único que se le queda, no la cara. Ver [[11_Books/Book_03_Voto_De_Ceniza/00_Diseno_El_Caldero_En_La_Oficina]].
@@ -464,7 +466,7 @@ Calendario de dos años (5 ene A3 → dic A4), contado en bloques densos. Las el
 - **Que duela por injusta (DECISIÓN DEL AUTOR, 2026-11-15; segunda versión aplicada):** pasan frente a la clínica de urgencias de Canal Road (DISEÑO; el Santa Aurelia no queda en la ruta) y no frenan; Meiko misma dice «Por el hospital no. Los ata.» y Kal no la contradice; muere por quedarse a esperar a Nadir, el último en salir, para que no meta el pie en la zanja; Nadir le contesta «Luego hablamos» (eco del «Después.» del 37); la caja del dinero viaja limpia junto a ella; falsa esperanza («Ya está parando»). **Lo que más duele es el silencio de después (DECISIÓN DEL AUTOR):** nadie se quita el chaleco entre risas ni cuenta lo épico que fue el jefe; sólo suena el velcro de Harper. **Siembra obligatoria:** el ritual de los chalecos tiene que verse antes en una operación que acabe bien (P: el levantón, 29).
 - **Saldo:** el juicio pospuesto nunca se dicta (DISEÑO). **Por eso (DECISIÓN DEL AUTOR, 2026-11-12):** el duelo de la banda. En el 42, Nadir y los chicos se mueven sin Kal contra los Calderos. (Antes, P: Kal aprendía que perdonar mata e iba él por el Caldero; se retiró para no volver venganza la muerte de Meiko.)
 
-**39. Lo que queda** — mayo A4, ~~el día del entierro~~ **la madrugada después de F2, hasta la mañana** · **Chiara** (DECISIÓN DEL AUTOR, 2026-11-13; antes Kal) · ~~el entierro; la casa de La Almendra; la Villa, de noche~~ la destilería; la casa común; una cornisa de la costa norte al amanecer; la Villa · *(46; III-T9)*
+**33. Lo que queda** (antes 39) — mayo A4, ~~el día del entierro~~ **la madrugada después de F2, hasta la mañana** · **Chiara** (DECISIÓN DEL AUTOR, 2026-11-13; antes Kal) · ~~el entierro; la casa de La Almendra; la Villa, de noche~~ la destilería; la casa común; una cornisa de la costa norte al amanecer; la Villa · *(46; III-T9)*
 
 - **REESCRITO (DECISIONES DEL AUTOR, 2026-11-19, «el después»):** una sola noche: la casa común (Garrett y Russ con la logística; Chiara se entera por Bonnie en la cocina), el entierro al amanecer en la costa norte (habla Marisol; la bellota), y la Villa (la escalera: «Está muerta. Mei está muerta.»; el suelo con la foto). Se retiran «Lo siento, ¿vale?» / «No te martirices…». **Lo de abajo, salvo lo que coincide, queda SUPERADO.** Detalle: [[11_Books/00_Arco_Meiko_Nakano]], «El después de F2».
 
@@ -487,7 +489,7 @@ Calendario de dos años (5 ene A3 → dic A4), contado en bloques densos. Las el
 
 > **El encubrimiento sigue abierto (2026-11-20; ver [[11_Books/00_Arco_Meiko_Nakano]]):** la versión de Garrett «se aguanta», no cierra. Candidatos para la Parte IV (DISEÑO): la renuncia de Mei que Chiara redacta para la nómina del Monarch; alguien que sigue marcando el teléfono enterrado; la gente de Varek preguntando en la rampa por su informante; Kaito pidiendo los detalles. Al menos uno vuelve en la Parte IV.
 
-**40. Una sola frase** — jun A4 · Chiara · la cocina de Mabel (DISEÑO) · *(47; III-T10)*
+**~~40.~~ Una sola frase** — **se funde en el 34, *Diez segundos*, de la Parte IV (Fase 1): Mabel dice la frase la mañana de la boda; la depresión entra como residuo.** Ficha conservada como material — jun A4 · Chiara · la cocina de Mabel (DISEÑO) · *(47; III-T10)*
 
 - **Beats:** la depresión de Chiara. Mabel le dice la frase y le encarga planear su boda con Walt para sacarla de ahí. La planeación es trabajo de recuperación. **(P):** Walt está en la cocina, y lo que se dice de su condicional va según D11.
 - **Línea canon de Mabel (no reescribir):** *«Cuando pasas una vida entera, buscando el amor que toque a tu puerta casi siempre te marchitas en la espera, pero cuando el amor es el que llega, lo reconoces como tuyo, lo vives como propio, y entiendes que debes cuidarlo y protegerlo cuando su sola compañía te arranca del pecho una sola frase...»*
@@ -496,7 +498,7 @@ Calendario de dos años (5 ene A3 → dic A4), contado en bloques densos. Las el
 
 ---
 
-## Parte IV — Torna a casa (41–57)
+## Parte IV — Torna a casa (34–48)
 
 *Kal deja de ser la cara de Dario en la calle: primero en lo ideológico y después en lo territorial. Regla de Kal: resultados con el menor costo humano posible. Va a fallar. Crowe es el martillo; Dario y Halbrook, las estructuras. **Relojes (P):** la cuenta de Kal con Crowe no se confiesa en este libro y muere con su acreedor; las cuotas de Chiara a Varek siguen hasta el final como disfraz del embarazo y pasan a *Voto de Ceniza*. **Fuentes:** el final en [[11_Books/Book_02_Sombras_De_Poder/00_Plan_Cuatro_Partes]] (CANON DEL AUTOR), [[11_Books/Book_02_Sombras_De_Poder/Part_04_Torna_A_Casa/00_Diseno_Cartas_De_Dale]], [[11_Books/Book_02_Sombras_De_Poder/Part_04_Torna_A_Casa/00_Diseno_Noche_Stavanger]] y [[06_Relationships/Hitos]] (H1).*
 
@@ -516,7 +518,7 @@ F2 se queda en la Parte III, y el final la cobra **con ecos, no de forma textual
 
 ### Bloque 1 · El costo (jul – principios de ago A4)
 
-**41. Diez segundos** — jul A4, calor → fin de jul · Chiara · terraza del Monarch; la Villa, de noche · *(48 + 50; IV-U1 + IV-U2)* — **tic 8**
+**34. Diez segundos** (antes 41) — jul A4, calor → fin de jul · Chiara · terraza del Monarch; la Villa, de noche · *(48 + 50; IV-U1 + IV-U2)* — **tic 8**
 
 - **Beats (la boda):** antes de la boda le muestra a Kal la decoración. Kal, de camisa negra, camina hacia el altar diciendo que las flores y la alfombra están mal alineadas; ella lo espera con un vestido blanco casual de un hombro. Durante unos diez segundos se imagina esperándolo en el altar; oye la frase con la voz de Mabel y la completa en susurro: «Te amo.». **Kal no lo oye (CANON DEL AUTOR, 2026-10-14).** Desecha la idea de casarse con Kal. Él ya trae el anillo en la billetera; el narrador no lo subraya. **(P, D11):** la condicional de Walt terminó esa primavera; la boda lo celebra sin decirlo.
 - **Espejo con F3 (34):** allá Kal, golpeado, dice «Te amo» y Chiara no lo oye; aquí ella lo dice y él no lo oye. Cada uno se lo dice una vez sin que el otro lo escuche, antes de Stavanger. El narrador no señala la rima.
@@ -525,7 +527,7 @@ F2 se queda en la Parte III, y el final la cobra **con ecos, no de forma textual
 - **Tic 8:** la vela, a tiempo. Es la última vez que es «sólo» eso, y nada lo marca.
 - **Saldo:** el capítulo termina en la vela; ella no sabe a qué fue. La sequía sigue: él llega y ella duerme.
 
-**42. Yo respondo** — fin de jul – principios de ago A4 · Kal · una casa de empeño de Crowe en el sur; el territorio de los Calderos; la oficina de Dario · *(50 + 49; IV-U2 + IV-U3, rehechas)* — título de trabajo
+**35. Yo respondo** (antes 42) — fin de jul – principios de ago A4 · Kal · una casa de empeño de Crowe en el sur; el territorio de los Calderos; la oficina de Dario · *(50 + 49; IV-U2 + IV-U3, rehechas)* — título de trabajo
 
 - **Función (DECISIÓN DEL AUTOR, 2026-11-12):** el golpe fallido sin que Kal lo ordene, y la independencia ideológica de Dario. Sustituye la propuesta anterior (Kal yendo por el Caldero), que habría sido una venganza por Meiko.
 - **Beats:** **Nadir** organiza a los chicos, sin decirle a Kal, en un movimiento contra los Calderos para cobrar a Meiko. Es la banda que aprendió a moverse sin Kal al final del Libro I. **(P):** el blanco es la casa de empeño de Crowe donde se esconde el Caldero que la apuñaló. Kal se entera demasiado tarde. Llega cuando ya salió mal: mueren inocentes, la familia que vive arriba del local, y quizá perpetradores (C del plan). **Ningún chico muere; hay heridos. El Caldero sobrevive** (DECISIÓN DEL AUTOR). Kal llega a tiempo para sacarlos. Técnica fuera de cuadro.
@@ -545,7 +547,7 @@ F2 se queda en la Parte III, y el final la cobra **con ecos, no de forma textual
 
 ### Bloque 2 · El Tasador y las cartas (mediados de sep – ~25 oct A4)
 
-**43. Las bandas** — mediados de sep A4 · Kal · el territorio de las bandas; Almendra Towing · *(51; IV-U4)*
+**36. Las bandas** (antes 43) — mediados de sep A4 · Kal · el territorio de las bandas; Almendra Towing · *(51; IV-U4)*
 
 - **Función:** la independencia territorial de Dario.
 - **Beats:** tras años de cobros del Tasador, las bandas llegan al límite y van con Kal; él acepta sin pedirle permiso a Dario. La operación se prepara, no estalla. Se gana la simpatía hasta de bandas enemigas: fue el único con pelotas para enfrentar al Tasador.
@@ -554,14 +556,14 @@ F2 se queda en la Parte III, y el final la cobra **con ecos, no de forma textual
 - **Relación:** el beso «de salir de casa» es rutina; nadie lo señala.
 - **Saldo:** respeto, no lealtad. La operación contra Crowe tiene ejército, y Halbrook, un sur que observar.
 
-**44. Mover la mirada** — fin de sep – principios de oct A4 · Chiara · *El Faro*; la ciudad · *(52; IV-U5)*
+**37. Mover la mirada** (antes 44) — fin de sep – principios de oct A4 · Chiara · *El Faro*; la ciudad · *(52; IV-U5)*
 
 - **Función:** Chiara consolida infraestructura pública; Kal reúne respeto, que no es lealtad automática. Halbrook avanza de consultor a rostro de la seguridad pública.
 - **Beats (P):** en un acto de su fundación, Halbrook le estrecha la mano a Kal delante de una cámara, y la foto sale en la sección de sociedad de *El Faro*. Chiara la deja correr: no tiene por qué no (D3). Dario le da su respuesta sobre los frenos: «fue La Mesa, y ese hombre ya no existe». Otra cuota.
 - **Relación:** ella cree que lo de los frenos quedó cerrado y no puede decirle a Kal cómo lo sabe. Él sigue con su ruido. Ahora creen dos versiones distintas del mismo atentado.
 - **Saldo:** la cuenta de Varek, pagada por una respuesta falsa (velado: nada en página dice que lo sea). *(2026-11-15, DECISIÓN DEL AUTOR: Varek cobra la cuenta con Chiara desde la cárcel en el VII, por Iris; cómo se concilia con este cobro en el II, PENDIENTE del autor; [[07_Ideas/El_Voto_Inverso]].)* **Semilla DISEÑO:** la foto acaba en la chimenea (57).
 
-**45. Lo poco que llegué a saber** — oct A4 · Kal · el taller; la Villa; [[05_Locations/Cementerio_Santa_Lucia]] · *(52b; IV-U6)*
+**38. Lo poco que llegué a saber** (antes 45) — oct A4 · Kal · el taller; la Villa; [[05_Locations/Cementerio_Santa_Lucia]] · *(52b; IV-U6)*
 
 - **Redactado (BORRADOR, 2026-11-16, lote 1):** [[11_Books/Book_02_Sombras_De_Poder/Part_04_Torna_A_Casa/45_Lo_Poco_Que_Llegue_A_Saber]]; decisiones del autor en [[98_Agent_Handoff/sessions/2026-11-16_claude_cap45_lo_poco_que_llegue_a_saber]].
 - **Fuente:** [[11_Books/Book_02_Sombras_De_Poder/Part_04_Torna_A_Casa/00_Diseno_Cartas_De_Dale]] (manda).
@@ -570,7 +572,7 @@ F2 se queda en la Parte III, y el final la cobra **con ecos, no de forma textual
 - **Línea canon, final de la última carta:** *«Lamento haberte arrebatado tu origen, te devuelvo lo poco que llegué a saber, no fui un padre para ti, pero eso no cambia que sí me importabas. -Dale»*
 - **No hacer:** voz de terapia en las cartas; absolución en voz alta; que Chiara las lea; cualquier pista de que Manfred es alguien más que un civil.
 
-**46. Stavanger · 47. Henrik · 48. Ya llegó** — fines de oct A4 (~25; CANON 2026-10-14), Noruega, frío y luz gris · Stavanger · *(53a–c; IV-U7–U9)*
+**39. Stavanger (con *Henrik*) · 40. Ya llegó** (antes 46–48; *Stavanger* y *Henrik* juntados en un archivo el 2026-11-21) — fines de oct A4 (~25; CANON 2026-10-14), Noruega, frío y luz gris · Stavanger · *(53a–c; IV-U7–U9)*
 
 - **Tres capítulos (DECISIÓN DEL AUTOR, 2026-11-07):** [[11_Books/Book_02_Sombras_De_Poder/Part_04_Torna_A_Casa/Stavanger]] (la llegada), [[11_Books/Book_02_Sombras_De_Poder/Part_04_Torna_A_Casa/Henrik]] (la casa, las cartas, la fotografía, el muelle y «¿Este era mi hogar?») y [[11_Books/Book_02_Sombras_De_Poder/Part_04_Torna_A_Casa/Ya_Llego]] (la cabaña). Prosa BORRADOR; manda. Los archivos conservan su nombre.
 - **Canon:** el recuerdo de Collins (antes Anya; 2026-11-07): «Llegará el día en que llegue la persona que te haga creer.» / «¿Y ahora qué piensas?» / «Ya llegó.», y un beso. La propuesta y el origen de Kal. La concepción de Elenna, sin señalarse.
@@ -581,7 +583,7 @@ F2 se queda en la Parte III, y el final la cobra **con ecos, no de forma textual
 
 ### Bloque 3 · El último secreto (~18 nov – ~6 dic A4)
 
-**49. Llegar tarde** — ~18–22 nov A4 · externo; nunca Chiara con interioridad · la reunión de la operación contra Crowe; su oficina · *(54; IV-U10)* — **señal 1; tic 8-b**
+**41. Llegar tarde** (antes 49) — ~18–22 nov A4 · externo; nunca Chiara con interioridad · la reunión de la operación contra Crowe; su oficina · *(54; IV-U10)* — **señal 1; tic 8-b**
 
 - **Señal 1 (~18–20 nov):** Chiara llega tarde a una reunión de mañana y lo excusa con *El Faro*. Nadie insiste. Es síntoma: todavía no sabe qué le pasa.
 - **Fuera de página (CANON 2026-10-14):** tres pruebas de embarazo y un examen médico, con un médico de fuera del círculo (no Camila).
@@ -589,14 +591,14 @@ F2 se queda en la Parte III, y el final la cobra **con ecos, no de forma textual
 - **Disfraz:** el lector carga la gravedad del documento a la cuenta con Dario (6), que lleva dos Partes creciendo a la vista, o al *Faro*.
 - **No hacer:** que la cámara entre en su cabeza; que la escena cierre el capítulo; nombrar el resultado; que el documento se asocie a algo médico (membrete, sobre de clínica).
 
-**50. Veintitrés de noviembre** — 23 nov A4 · Kal · la Villa · *(55; IV-U11)* — **señal 2**
+**42. Veintitrés de noviembre** (antes 50) — 23 nov A4 · Kal · la Villa · *(55; IV-U11)* — **señal 2**
 
 - **Señal 2:** es la primera noche que lo sabe. El vino es identidad, así que no lo rechaza: acepta la copa, brinda y la deja. Al final de la noche Kal se la termina sin pensarlo. Nadie lo anota, ni el narrador.
 - **Rima (18, P):** hace un año, en esta misma fecha, él dijo «estoy bien» sin que nadie le preguntara. Ahora es ella la que calla, y él no lo nota. El narrador no compara.
 - **POV (P):** Kal, porque es él quien no ve.
 - **Saldo:** la copa vacía en la mano equivocada.
 
-**51. La fecha** — fin de nov – principios de dic A4 · Kal · el Patio; la cocina de Mabel · *(nuevo; IV-U12)* — **señal 3**
+**~~51.~~ La fecha** — **se funde en el 42, *Veintitrés de noviembre* (Fase 1): queda una sola señal, la copa.** Ficha conservada como material — fin de nov – principios de dic A4 · Kal · el Patio; la cocina de Mabel · *(nuevo; IV-U12)* — **señal 3**
 
 - **Beats:** por la red de Dario corre un rumor de calle: dónde va a estar Crowe la noche de la tormenta. En la página es sólo un dato de la red. **Las bandas fijan la fecha sin Kal** (DECISIÓN DEL AUTOR, 2026-11-12). Kal no puede pararlas, y decide ir para que nadie se quede atrás: la línea del 42 no se rompe, se cumple bajo fuego (canon de H1: «Kal saca a los suyos, a rivales y a civiles»; «Todos están fuera, vamos a casa»). Walt pide ir y Kal acepta: ya no tiene condicional (41).
 - **Señal 3, el cigarro:** esa misma tarde, en la cocina de Mabel, alguien le ofrece uno y Chiara lo rechaza: «Kal me dijo que era malo», en broma, como eco del Cap. 46 (archivo 50) del Libro I. Él lo lee como broma.
@@ -610,12 +612,12 @@ F2 se queda en la Parte III, y el final la cobra **con ecos, no de forma textual
 
 *Caps. 52–57: una sola noche hasta el amanecer y la chimenea. Orden fino por confirmar.*
 
-**52. Santa Lucía** — esa mañana (antes de las 11; DECISIÓN DEL AUTOR, 2026-11-13) · Kal · Iglesia Santa Lucía · *(56; IV-U13)*
+**43. Santa Lucía** (antes 52) — esa mañana (antes de las 11; DECISIÓN DEL AUTOR, 2026-11-13) · Kal · Iglesia Santa Lucía · *(56; IV-U13)*
 
 - **Redactado (BORRADOR, 2026-11-16, lote 1):** [[11_Books/Book_02_Sombras_De_Poder/Part_04_Torna_A_Casa/52_Santa_Lucia]]; decisiones del autor en [[98_Agent_Handoff/sessions/2026-11-16_claude_cap52_53_santa_lucia_torna_a_casa]].
 - **Canon:** va solo, enciende una vela y se sienta en una banca a mirar el altar y el Cristo en la cruz. No reza en voz alta ni habla con nadie, y no hay llamada. Es el miedo admitido sin convertirlo en acción: la contracara de un libro de «estoy bien».
 
-**53. Torna a casa** — antes de salir · externo · la Villa · *(57; IV-U14)* — **tic 9**
+**44. Torna a casa** (antes 53) — antes de salir · externo · la Villa · *(57; IV-U14)* — **tic 9**
 
 - **Redactado (BORRADOR, 2026-11-16, lote 1):** [[11_Books/Book_02_Sombras_De_Poder/Part_04_Torna_A_Casa/53_Torna_A_Casa]]; decisiones del autor en [[98_Agent_Handoff/sessions/2026-11-16_claude_cap52_53_santa_lucia_torna_a_casa]].
 - **Canon:** Chiara le pone una mano en el pecho, sobre la placa: «—Torna a casa.». Enciende la vela. Kal cree que habla de los dos; ella sabe que habla de los tres. No hay línea sobre «nuestro hijo» ni se explica la asimetría.
@@ -624,7 +626,7 @@ F2 se queda en la Parte III, y el final la cobra **con ecos, no de forma textual
 
 > **Orden de la noche (CANON DEL AUTOR, 2026-11-12; supersede el orden anterior, en el que la tormenta iba antes de Crowe y el 54 era de Kal):** Crowe muere **antes** de «Dime, Amore». El arco entra *in medias res*: cuando el lector llega, todo ya se fue al diablo y la noche es salir vivos. La ejecución de Crowe es la causa del caos (bandas dispersas, policía, transmisiones en vivo), y se reconstruye después, en el recuerdo de Kal (55). Secuencia: **54 Chiara** (triaje, «Dime, Amore», radio, segunda llamada) → **55 Kal** (el camino a la Almendra y el recuerdo de Crowe; Héctor y el chaleco) → **56 Chiara** (la Villa). Un POV por capítulo; sin cambio en el número de capítulos.
 
-**54. Dime, Amore** — la tormenta · **Chiara** · el almacén del sur (triaje) · *(58; IV-U15)*
+**45. Dime, Amore** (antes 54) — la tormenta · **Chiara** · el almacén del sur (triaje) · *(58; IV-U15)*
 
 - **Redactado (BORRADOR, 2026-11-13):** [[11_Books/Book_02_Sombras_De_Poder/Part_04_Torna_A_Casa/54_Dime_Amore]]. **Ajustes del autor (CANON, 2026-11-12/13):** la primera llamada ocurre en la Villa (Chiara sola, siesta, transmisiones virales, la máscara de malvavisco); líneas de velas, «¿O no, bella?», el «regresa», la cena y el radio del canal tres; después ella arma el triaje. Detalle en [[98_Agent_Handoff/sessions/2026-11-13_claude_cap53_dime_amore]].
 - **Entrada (CANON DEL AUTOR, 2026-11-12):** *in medias res*. Crowe ya está muerto (el lector no lo sabe; a lo sumo, un «reportan un muerto» en la transmisión, sin nombre). Todo es organizar: extracciones, triaje, el caos con la policía.
@@ -640,7 +642,7 @@ F2 se queda en la Parte III, y el final la cobra **con ecos, no de forma textual
 - **Cierre (CANON DEL AUTOR, 2026-11-12):** Chiara sale de la bodega, mira al cielo y dice: «—¿Qué fue lo que hice para enamorarme de él? No me contestes.». Nat se acerca y se van juntas al apartamento de Nat; por eso Chiara llega a la Villa después que Kal.
 - **Eco de Meiko (DISEÑO):** ver «Meiko en el final», al abrir la Parte IV.
 
-**55. De rodillas** — esa noche, de regreso · **Kal** · el camino a la ciudad (recuerdo: el frente sur); la Almendra · *(59; IV-U16)*
+**46. De rodillas** (antes 55) — esa noche, de regreso · **Kal** · el camino a la ciudad (recuerdo: el frente sur); la Almendra · *(59; IV-U16)*
 
 - **Redactado (BORRADOR, 2026-11-13):** [[11_Books/Book_02_Sombras_De_Poder/Part_04_Torna_A_Casa/55_De_Rodillas]]; detalle en [[98_Agent_Handoff/sessions/2026-11-13_claude_cap54_de_rodillas]].
 - **Marco (CANON DEL AUTOR, 2026-11-12):** Kal maneja solo hacia la Almendra (la llamada con Chiara ya ocurrió y no se repite) y recuerda lo que pasó con Crowe. El foco no es la operación, sino lo que esa noche le dejó: la herida y Walt.
@@ -656,7 +658,7 @@ F2 se queda en la Parte III, y el final la cobra **con ecos, no de forma textual
 - **Walt (CANON DEL AUTOR, 2026-11-13):** está en la Almendra; es quien conduce los autos que sacan a los heridos y por eso se cruza en el triaje del 54 con Chiara, Camila y Nat.
 - **PENDIENTE:** motivo y mecanismo del asesinato de Amanda; si en la Almendra se ve la fricción entre Kal y Walt.
 
-**56. No otra vez** — esa madrugada · Chiara · la Villa · *(60; IV-U17)*
+**47. No otra vez** (antes 56) — esa madrugada · Chiara · la Villa · *(60; IV-U17)*
 
 - **Redactado (BORRADOR, 2026-11-13):** [[11_Books/Book_02_Sombras_De_Poder/Part_04_Torna_A_Casa/56_No_Otra_Vez]]; detalle y preguntas en [[98_Agent_Handoff/sessions/2026-11-13_claude_cap55_no_otra_vez]].
 - **Antes de la Villa (CANON DEL AUTOR, 2026-11-12):** la segunda llamada, la frase al cielo y la salida con Nat cierran el 54. Si el 56 abre en el camino, Chiara viene de dejar a Nat.
@@ -667,7 +669,7 @@ F2 se queda en la Parte III, y el final la cobra **con ecos, no de forma textual
 - **La médica (DECISIÓN DEL AUTOR, 2026-11-13):** en el 55 nadie promete ni menciona a Camila; la urgencia de que llegue es del 56.
 - **No hacer:** que ella revele el embarazo; ni «no puedes morirte ahora; ni siquiera sabes» como diálogo o pensamiento.
 
-**57. La chimenea** — tras dormir · DISEÑO · la Villa, sólo a la luz del fuego · *(61; IV-U18)*
+**48. La chimenea** (antes 57) — tras dormir · DISEÑO · la Villa, sólo a la luz del fuego · *(61; IV-U18)*
 
 - **Reloj y forma (DECISIÓN DEL AUTOR, 2026-11-13):** la noche final ocurre de mediodía a madrugada: operación desde las 11–12; «Todos están fuera» a las 4:43 p. m.; Kal en la Villa hacia las 5–6 p. m.; despierta a las 2–3 a. m. **Sin cena ni hamburguesa comida ni conversación con Héctor:** Kal recuerda la noche en voces; Chiara le habla dormido («Ya habrá tiempo... ya habrá tiempo.»); las hamburguesas quedan empacadas sobre la mesa para *Voto de Ceniza*. La iglesia del 52 pasa a la mañana.
 - ~~**Canon:** la normalidad doméstica (hamburguesa doble) y después la chimenea.~~ (sustituido por la línea anterior) El papel cae de la manta: «¿Quién es Elenna?» / «Antes era sólo un nombre.» / «Sono incinta.»: el último secreto de ella, dicho. **No es el fin:** sigue la secuencia canon del 2026-10-02 en [[01_Timeline/03_Libro_02_Sombras_De_Poder]] («Cierre del Libro II: reveal en la chimenea»): Kal despierta de noche, ella frente al fuego, la manta, «Voy... vamos a ser...», la carga y se marea, Chiara grita «¡No, no, no, no, no!» al ser cargada (DECISIÓN DEL AUTOR, 2026-11-13), «¡Mierda!» / «¡Kal!», abrazo lento, y **la última imagen es la foto de los chicos de la banda en la cena de Navidad, sobre la repisa de mármol, descrita a detalle con la expresión de cada uno (DECISIÓN DEL AUTOR, 2026-11-13; sustituye a «Kal mira la ciudad» de la línea temporal)** (corregido el 2026-11-13: la guía decía «FIN.» y el agente cortó el capítulo ahí).

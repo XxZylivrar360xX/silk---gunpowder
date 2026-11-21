@@ -3,7 +3,7 @@ title: "Lo que queda"
 type: capitulo
 estado: BORRADOR
 libro: Sombras de Poder (Libro II), Parte III — Exilio
-capitulo: 39
+capitulo: 33 (archivo 39; numeración de 48, 2026-11-21)
 pov: Chiara Bellandi, único
 ventana_temporal: principios de mayo A4, la madrugada después de la muerte de Meiko: de la destilería al amanecer en la costa norte, y la mañana en la Villa
 localizacion: la destilería de Walt; la casa común de La Almendra; la carretera de la costa norte, pasando Los Álamos; una cornisa sobre el mar; la Villa Candelaria

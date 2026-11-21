@@ -3,7 +3,7 @@ title: "De rodillas"
 type: capitulo
 estado: BORRADOR
 libro: Sombras de Poder (Libro II), Parte IV — Torna a casa
-capitulo: 55
+capitulo: 46 (archivo 55; numeración de 48, 2026-11-21)
 pov: Kal Mercer, único
 ventana_temporal: el anochecer de la tormenta (~6–8 dic A4, entre las 4:45 y las 6:30 p. m.; sale de la Almendra hacia las 5:30 y la carretera le lleva una hora), después de «Todos están fuera, vamos a casa»; recuerdo de la nave de Crowe
 localizacion: la carretera de regreso (la del norte y el camino del cerro hacia Las Gemelas); recuerdo: la nave de las prendas de Crowe, Nueve Puentes; Almendra Towing, La Almendra

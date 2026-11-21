@@ -3,7 +3,7 @@ title: "Lo poco que llegué a saber"
 type: capitulo
 estado: BORRADOR
 libro: Sombras de Poder (Libro II), Parte IV — Torna a casa
-capitulo: 45
+capitulo: 38 (archivo 45; numeración de 48, 2026-11-21)
 pov: Kal Mercer, único
 ventana_temporal: octubre A4, unos diez días antes de Stavanger (~25 oct); un jueves en el taller y esa noche en la Villa; el domingo siguiente en el cementerio
 localizacion: Almendra Towing (la vieja bodega de Dale), en la Almendra; la Villa Candelaria; el Cementerio Santa Lucía

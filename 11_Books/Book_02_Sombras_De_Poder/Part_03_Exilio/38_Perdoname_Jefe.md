@@ -3,7 +3,7 @@ title: "Perdóname, jefe"
 type: capitulo
 estado: BORRADOR
 libro: Sombras de Poder (Libro II), Parte III — Exilio
-capitulo: 38
+capitulo: 32 (archivo 38; numeración de 48, 2026-11-21)
 pov: Bonnie García, único (interludio declarado)
 ventana_temporal: el jueves, finales de abril A4; de las nueve de la noche a la madrugada
 localizacion: la casa común de La Almendra; la casa de la reja verde (la casa de las chicas) y la de Héctor, al lado; la camioneta de Walt; la destilería de Walt, junto a las vías, sobre el Canal Seco

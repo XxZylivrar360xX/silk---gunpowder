@@ -3,7 +3,7 @@ title: "El collar"
 type: capitulo
 estado: BORRADOR
 libro: Sombras de Poder (Libro II), Parte II — Nieve y ceniza
-capitulo: 21 (archivo 20b; segunda mitad de la Navidad)
+capitulo: 16 (archivo 20b; segunda mitad de la Navidad; numeración de 48, 2026-11-21)
 pov: Kal Mercer, único
 ventana_temporal: 24 dic A3, 20:00 → madrugada del 25 dic A3; helada sin nieve
 localizacion: Almendra Towing (la nave, el patio de grúas y el portón); la carretera del norte y el camino de la Villa Candelaria

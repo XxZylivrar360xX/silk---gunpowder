@@ -3,7 +3,7 @@ title: "No otra vez"
 type: capitulo
 estado: BORRADOR
 libro: Sombras de Poder (Libro II), Parte IV — Torna a casa
-capitulo: 56
+capitulo: 47 (archivo 56; numeración de 48, 2026-11-21)
 pov: Chiara Bellandi, único
 ventana_temporal: la noche de la tormenta (~6–8 dic A4; Kal llega a la Villa hacia las 6:30 p. m., Chiara pasadas las 7)
 localizacion: la carretera del norte y el camino del cerro, por Las Gemelas; la Villa Candelaria (la sala, la piscina, el baño y el dormitorio de los dos)

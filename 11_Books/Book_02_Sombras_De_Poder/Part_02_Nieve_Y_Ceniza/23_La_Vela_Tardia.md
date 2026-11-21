@@ -3,7 +3,7 @@ title: "La vela tardía"
 type: capitulo
 estado: BORRADOR
 libro: Sombras de Poder (Libro II), Parte II — Nieve y ceniza
-capitulo: 23
+capitulo: 19 (archivo 23; numeración de 48, 2026-11-21)
 pov: Kal Mercer, único
 ventana_temporal: principios de enero A4 (la noche de la bahía, hacia el 6–7 ene); la noche siguiente; tres días después; el martes de la semana siguiente
 localizacion: un galpón de empaque cerrado al norte, pasando Cedar Flats; la 101 por Los Álamos; el muelle viejo de las refinerías y el patio de chatarra; la oficina de Varek sobre el palco de propietarios del hipódromo; la rampa del valet del Monarch; la Villa Candelaria; el estacionamiento de la lavandería de la calle Fowler

@@ -128,7 +128,7 @@ Necesitan un motivo de fuerza, no de miedo: el miedo no da lealtad ciega. La pro
 
 ## 8. Qué cambia en la cuenta
 
-Con dos antagonistas con objetivo, la prueba de la trenza tiene contra qué medirse. El siguiente paso (Fase 1) es pasar los 58 capítulos por las tres pruebas, como en el I. Ahora la prueba de trama pregunta: **¿qué mueve Crowe en la calle o Halbrook en el tablero?**
+Con dos antagonistas con objetivo, la prueba de la trenza tiene contra qué medirse. El siguiente paso (Fase 1) es pasar los 58 capítulos por las tres pruebas, como en el I. **Hecho:** 48 capítulos, aprobados el 2026-11-18 y propagados el 2026-11-21 ([[11_Books/Book_02_Sombras_De_Poder/00_Fase1_Tres_Pruebas]]). Ahora la prueba de trama pregunta: **¿qué mueve Crowe en la calle o Halbrook en el tablero?**
 
 - **Entran a la columna sin cambiar de lugar:** el FBI y Señor Militar (escalón de Halbrook), la gala, F4 (la correa), el robo (la policía humillada), la portada de la guerra, la foto; las cartas y Stavanger (la deuda más vieja); Meiko (consecuencia de Crowe); el levantón, el golpe de los chicos y las bandas.
 - **Tienen que encontrar su *por eso* o fundirse:** graduación, el otro Dario, Año Nuevo, la vela tardía, la jaula, Calle Corona, *Escenarios*, Mabel, la boda.
