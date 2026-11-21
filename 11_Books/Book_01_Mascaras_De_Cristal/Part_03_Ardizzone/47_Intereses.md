@@ -68,7 +68,7 @@ Héctor la miró un momento más, con la cara de quien hace una cuenta y no le d
 
 Chiara sí sabía. Lo había visto en el círculo de la pantalla, la tarde anterior, sobre el pelo cobrizo: una gorra que no era de Marisol. No dijo nada. Sacó un cigarro, lo miró, y lo volvió a guardar sin encenderlo, porque en el Patio nadie fumaba cerca del compresor.
 
----
+***
 
 El Audi llegó a las cinco en punto.
 
@@ -94,7 +94,7 @@ El hombre del Audi era más joven de lo que esperaba, de traje gris sin corbata,
 
 El hombre la miró por primera vez como si hubiera algo que mirar. Después subió la ventanilla sin contestar, y el Audi se fue despacio por la calle, sin acelerar, pasando junto al hombre de la escoba, que ese día no estaba barriendo y se metió a su tienda en cuanto lo vio venir.
 
----
+***
 
 Nadir se despertó con el ruido de la puerta de la oficina. Garrett la había abierto. Nadir se enderezó en el sillón, se pasó la mano por la cara, vio el libro de cuentas en el regazo y lo cerró como si alguien lo hubiera sorprendido leyendo algo ajeno.
 
@@ -142,13 +142,13 @@ Chiara no le contestó.
 
 —Yo manejo la grúa —dijo Danny.
 
-Nadir ya estaba buscando su chamarra en el perchero de la oficina.
+Nadir ya estaba buscando su chaqueta en el perchero de la oficina.
 
 —Yo voy —dijo Héctor.
 
 —Usted se queda —dijo Chiara—. Con el teléfono.
 
-Héctor la miró como había mirado a Nadir el día anterior, cuando le dijo "díselo": largo, sin bajar los ojos. Chiara se la sostuvo.
+Héctor la miró como había mirado a Nadir el día anterior, cuando le dijo «díselo»: largo, sin bajar los ojos. Chiara se la sostuvo.
 
 —Si la niña llama esta noche —dijo—, que alguien le conteste.
 
@@ -166,9 +166,9 @@ Antes de irse, cruzó el Patio hasta el mostrador, sacó las llaves de Nadir del
 
 —Para mañana —dijo Chiara—. Hoy va en la grúa.
 
----
+***
 
-Terminal Road olía a diesel y a sal vieja. A esa hora la ruta de muelles seguía viva: camiones de doble remolque formados frente a la aduana con las luces de posición encendidas, montacargas cruzando de una bodega a otra con un pitido de reversa que no se callaba nunca, hombres de chaleco naranja fumando junto a las rejas y mirando el reloj: era el último turno del año. Las grúas del puerto, las de verdad, las que levantaban contenedores, estaban quietas contra el cielo, con una luz roja en la punta de cada pluma. Desde ahí la grúa grande del Patio, que en La Almendra era la máquina más grande de cualquier calle, parecía un juguete.
+Terminal Road olía a diesel y a sal vieja. A esa hora la ruta de muelles seguía viva: camiones de doble remolque formados frente a la aduana con las luces de posición encendidas, montacargas cruzando de una bodega a otra con un pitido de marcha atrás que no se callaba nunca, hombres de chaleco naranja fumando junto a las rejas y mirando el reloj: era el último turno del año. Las grúas del puerto, las de verdad, las que levantaban contenedores, estaban quietas contra el cielo, con una luz roja en la punta de cada pluma. Desde ahí la grúa grande del Patio, que en la Almendra era la máquina más grande de cualquier calle, parecía un juguete.
 
 Chiara la vio por el retrovisor del Lancia cuando dio vuelta hacia las bodegas: los faros altos, el gancho recogido, un sedán blanco amarrado sobre la plataforma con las llantas calzadas. Detrás, a dos cuadras, un coche gris que no se acercó más.
 
@@ -208,7 +208,7 @@ Chiara no se movió.
 
 —Claro que sí. Por eso vino sola. —Dario la miró y luego miró otra vez los muelles—. Camp Alder no es San Aurelio. Lo que pasa adentro de esa reja no lo arregla nadie de esta ciudad. Ni yo.
 
-Lo dijo sin pena y sin orgullo, como un hombre que conoce el tamaño de su casa. Abajo, en el muelle, un montacargas pitó en reversa y se calló.
+Lo dijo sin pena y sin orgullo, como un hombre que conoce el tamaño de su casa. Abajo, en el muelle, un montacargas pitó al retroceder y se calló.
 
 —Entonces hablemos de las cajas —dijo Chiara.
 
@@ -220,7 +220,7 @@ Dario se apartó del ventanal. Rodeó el escritorio sin prisa, pasó la mano por
 
 Dario sonrió apenas.
 
-—Puedo. Y su grúa se regresa a La Almendra con lo que trae adentro del coche, y se queda ahí, con tres hombres a los que la base va a ir a buscar tarde o temprano. —Lo dijo como quien da el parte del clima—. No se lo recomiendo.
+—Puedo. Y su grúa se regresa a la Almendra con lo que trae adentro del coche, y se queda ahí, con tres hombres a los que la base va a ir a buscar tarde o temprano. —Lo dijo como quien da el parte del clima—. No se lo recomiendo.
 
 Chiara no contestó. Dario no esperó a que contestara.
 
@@ -228,7 +228,7 @@ Chiara no contestó. Dario no esperó a que contestara.
 
 —¿Cuánto?
 
-—No es dinero. Dinero tengo. —Lo dijo sin mirarla, mirándose las manos—. El taller de Mercer tiene grúas. Tiene un patio con portón y un hombre que sabe de papeles. Tiene muchachos en La Almendra que conocen el sur mejor que mi gente, y que mi gente no puede conocer sin que el sur se dé cuenta. —Levantó la vista—. Por un tiempo, cuando haga falta mover algo, se mueve. Cuando haga falta guardar algo, se guarda. Nada que no hayan hecho antes.
+—No es dinero. Dinero tengo. —Lo dijo sin mirarla, mirándose las manos—. El taller de Mercer tiene grúas. Tiene un patio con portón y un hombre que sabe de papeles. Tiene muchachos en la Almendra que conocen el sur mejor que mi gente, y que mi gente no puede conocer sin que el sur se dé cuenta. —Levantó la vista—. Por un tiempo, cuando haga falta mover algo, se mueve. Cuando haga falta guardar algo, se guarda. Nada que no hayan hecho antes.
 
 —¿Cuánto tiempo?
 
@@ -302,7 +302,7 @@ Dario no se volvió. Siguió mirando hacia la calle, hacia donde el portón empe
 
 —De mí, no —dijo.
 
----
+***
 
 Bajó la escalera de metal sin agarrarse del barandal. El hombre del Audi le abrió la puerta de la bodega y se apartó para dejarla pasar, y esta vez inclinó la cabeza, apenas, un grado.
 
@@ -374,7 +374,7 @@ Se subió al coche. Bajó la ventanilla, pero no dijo nada más; esperó a que e
 
 Sobre la bahía reventó un cohete, adelantado por horas. Nadie en el muelle levantó la cabeza.
 
----
+***
 
 El primero de enero amaneció nublado sobre el centro. Desde el despacho de Chiara, en el Monarch, se veía el Paseo Pacífica todavía mojado de la lluvia de la madrugada, confeti pegado en las juntas de la acera, los toldos de los cafés recogidos, un camión de reparto descargando cajas de agua mineral frente al hotel de enfrente.
 

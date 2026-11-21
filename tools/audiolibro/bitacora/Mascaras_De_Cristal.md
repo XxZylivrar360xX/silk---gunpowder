@@ -2,66 +2,155 @@
 
 Generada por `tools/audiolibro/build_audiobook.py`; no editar a mano. Tras cambiar la prosa de un capítulo, correr `--estado` para marcarlo PENDIENTE; la bandera se cierra sola cuando el script regenera ese audio.
 
-Actualizada: 2026-11-18 08:43. Al día: 47 de 47.
+Actualizada: 2026-11-21 10:55. Al día: 3 de 47.
 
 ## Pendientes
 
-Ninguno: todos los audios corresponden a la prosa actual.
+| Cap. | Título | Estado | Motivo | Desde |
+|---|---|---|---|---|
+| 1 | Un hombre de negocios intachable | PENDIENTE | cambió la prosa | 2026-11-21 10:55 |
+| 2 | Demasiado listo | PENDIENTE | cambió la prosa | 2026-11-21 10:55 |
+| 3 | Lo que no cambió | PENDIENTE | cambió la prosa | 2026-11-21 10:55 |
+| 4 | Tarifa nocturna | PENDIENTE | cambió la prosa | 2026-11-21 10:55 |
+| 5 | Cliente y proveedor | PENDIENTE | cambió la prosa | 2026-11-21 10:55 |
+| 6 | Sólo una cena | PENDIENTE | cambió la prosa | 2026-11-21 10:55 |
+| 7 | Ambos | PENDIENTE | cambió la prosa | 2026-11-21 10:55 |
+| 8 | La noche del ladrillo | PENDIENTE | cambió la prosa | 2026-11-21 10:55 |
+| 9 | Mandorla | PENDIENTE | cambió la prosa | 2026-11-21 10:55 |
+| 10 | Una pésima idea | PENDIENTE | cambió la prosa | 2026-11-21 10:55 |
+| 11 | La balanza | PENDIENTE | cambió la prosa | 2026-11-21 10:55 |
+| 13 | Roma Atrii | PENDIENTE | cambió la prosa | 2026-11-21 10:55 |
+| 14 | Con miedo y todo | PENDIENTE | cambió la prosa | 2026-11-21 10:55 |
+| 15 | Yo lo llevo | PENDIENTE | cambió la prosa | 2026-11-21 10:55 |
+| 16 | Canal Seco | PENDIENTE | cambió la prosa | 2026-11-21 10:55 |
+| 17 | Día nublado | PENDIENTE | cambió la prosa | 2026-11-21 10:55 |
+| 18 | En lo pequeño | PENDIENTE | cambió la prosa | 2026-11-21 10:55 |
+| 20 | Algo más que dinero | PENDIENTE | cambió la prosa | 2026-11-21 10:55 |
+| 21 | La versión pública | PENDIENTE | cambió la prosa | 2026-11-21 10:55 |
+| 22 | Lo que cueste | PENDIENTE | cambió la prosa | 2026-11-21 10:55 |
+| 23 | Luces fuera | PENDIENTE | cambió la prosa | 2026-11-21 10:55 |
+| 24 | Vienes conmigo | PENDIENTE | cambió la prosa | 2026-11-21 10:55 |
+| 25 | Libros abiertos | PENDIENTE | cambió la prosa | 2026-11-21 10:55 |
+| 26 | Me encuentro bien | PENDIENTE | cambió la prosa | 2026-11-21 10:55 |
+| 27 | Una silla | PENDIENTE | cambió la prosa | 2026-11-21 10:55 |
+| 28 | Media baraja | PENDIENTE | cambió la prosa | 2026-11-21 10:55 |
+| 29 | Vamos a casa | PENDIENTE | cambió la prosa | 2026-11-21 10:55 |
+| 30 | Línea directa | PENDIENTE | cambió la prosa | 2026-11-21 10:55 |
+| 31 | Lo único que es mío | PENDIENTE | cambió la prosa | 2026-11-21 10:55 |
+| 32 | A ti por mí | PENDIENTE | cambió la prosa | 2026-11-21 10:55 |
+| 33 | Cambio de firmas | PENDIENTE | cambió la prosa | 2026-11-21 10:55 |
+| 34 | También las mañanas | PENDIENTE | cambió la prosa | 2026-11-21 10:55 |
+| 35 | Al revés | PENDIENTE | cambió la prosa | 2026-11-21 10:55 |
+| 36 | Mecánico | PENDIENTE | cambió la prosa | 2026-11-21 10:55 |
+| 37 | Reclamable | PENDIENTE | cambió la prosa | 2026-11-21 10:55 |
+| 38 | Nada | PENDIENTE | cambió la prosa | 2026-11-21 10:55 |
+| 39 | Expediente sellado | PENDIENTE | cambió la prosa | 2026-11-21 10:55 |
+| 41 | Ropa limpia | PENDIENTE | cambió la prosa | 2026-11-21 10:55 |
+| 42 | Navajas y tinta | PENDIENTE | cambió la prosa | 2026-11-21 10:55 |
+| 43 | Una cuenta abierta | PENDIENTE | cambió la prosa | 2026-11-21 10:55 |
+| 44 | Su nombre | PENDIENTE | cambió la prosa | 2026-11-21 10:55 |
+| 45 | Por si vuelve | PENDIENTE | cambió la prosa | 2026-11-21 10:55 |
+| 46 | A oscuras | PENDIENTE | cambió la prosa | 2026-11-21 10:55 |
+| 47 | La tierra bajo sus botas | PENDIENTE | cambió la prosa | 2026-11-21 10:55 |
 
 ## Capítulos
 
 | Cap. | Título | Estado | Audio generado |
 |---|---|---|---|
-| 1 | Un hombre de negocios intachable | AL DIA | 2026-11-06 |
-| 2 | Demasiado listo | AL DIA | 2026-11-05 |
-| 3 | Lo que no cambió | AL DIA | 2026-11-10 |
-| 4 | Tarifa nocturna | AL DIA | 2026-11-04 |
-| 5 | Cliente y proveedor | AL DIA | 2026-11-03 |
-| 6 | Sólo una cena | AL DIA | 2026-11-10 |
-| 7 | Ambos | AL DIA | 2026-11-05 |
-| 8 | La noche del ladrillo | AL DIA | 2026-11-04 |
-| 9 | Mandorla | AL DIA | 2026-11-16 |
-| 10 | Una pésima idea | AL DIA | 2026-11-13 |
-| 11 | La balanza | AL DIA | 2026-11-08 |
+| 1 | Un hombre de negocios intachable | PENDIENTE | 2026-11-06 |
+| 2 | Demasiado listo | PENDIENTE | 2026-11-05 |
+| 3 | Lo que no cambió | PENDIENTE | 2026-11-10 |
+| 4 | Tarifa nocturna | PENDIENTE | 2026-11-04 |
+| 5 | Cliente y proveedor | PENDIENTE | 2026-11-03 |
+| 6 | Sólo una cena | PENDIENTE | 2026-11-10 |
+| 7 | Ambos | PENDIENTE | 2026-11-05 |
+| 8 | La noche del ladrillo | PENDIENTE | 2026-11-04 |
+| 9 | Mandorla | PENDIENTE | 2026-11-16 |
+| 10 | Una pésima idea | PENDIENTE | 2026-11-13 |
+| 11 | La balanza | PENDIENTE | 2026-11-08 |
 | 12 | La invitada | AL DIA | 2026-11-10 |
-| 13 | Roma Atrii | AL DIA | 2026-11-13 |
-| 14 | Con miedo y todo | AL DIA | 2026-11-10 |
-| 15 | Yo lo llevo | AL DIA | 2026-11-08 |
-| 16 | Canal Seco | AL DIA | 2026-11-10 |
-| 17 | Día nublado | AL DIA | 2026-11-10 |
-| 18 | En lo pequeño | AL DIA | 2026-11-10 |
+| 13 | Roma Atrii | PENDIENTE | 2026-11-13 |
+| 14 | Con miedo y todo | PENDIENTE | 2026-11-10 |
+| 15 | Yo lo llevo | PENDIENTE | 2026-11-08 |
+| 16 | Canal Seco | PENDIENTE | 2026-11-10 |
+| 17 | Día nublado | PENDIENTE | 2026-11-10 |
+| 18 | En lo pequeño | PENDIENTE | 2026-11-10 |
 | 19 | Grazie | AL DIA | 2026-11-08 |
-| 20 | Algo más que dinero | AL DIA | 2026-11-10 |
-| 21 | La versión pública | AL DIA | 2026-11-10 |
-| 22 | Lo que cueste | AL DIA | 2026-11-16 |
-| 23 | Luces fuera | AL DIA | 2026-11-10 |
-| 24 | Vienes conmigo | AL DIA | 2026-11-16 |
-| 25 | Libros abiertos | AL DIA | 2026-11-08 |
-| 26 | Me encuentro bien | AL DIA | 2026-11-08 |
-| 27 | Una silla | AL DIA | 2026-11-09 |
-| 28 | Media baraja | AL DIA | 2026-11-10 |
-| 29 | Vamos a casa | AL DIA | 2026-11-16 |
-| 30 | Línea directa | AL DIA | 2026-11-16 |
-| 31 | Lo único que es mío | AL DIA | 2026-11-16 |
-| 32 | A ti por mí | AL DIA | 2026-11-10 |
-| 33 | Cambio de firmas | AL DIA | 2026-11-10 |
-| 34 | También las mañanas | AL DIA | 2026-11-08 |
-| 35 | Al revés | AL DIA | 2026-11-18 |
-| 36 | Mecánico | AL DIA | 2026-11-16 |
-| 37 | Reclamable | AL DIA | 2026-11-10 |
-| 38 | Nada | AL DIA | 2026-11-16 |
-| 39 | Expediente sellado | AL DIA | 2026-11-10 |
+| 20 | Algo más que dinero | PENDIENTE | 2026-11-10 |
+| 21 | La versión pública | PENDIENTE | 2026-11-10 |
+| 22 | Lo que cueste | PENDIENTE | 2026-11-16 |
+| 23 | Luces fuera | PENDIENTE | 2026-11-10 |
+| 24 | Vienes conmigo | PENDIENTE | 2026-11-16 |
+| 25 | Libros abiertos | PENDIENTE | 2026-11-08 |
+| 26 | Me encuentro bien | PENDIENTE | 2026-11-08 |
+| 27 | Una silla | PENDIENTE | 2026-11-09 |
+| 28 | Media baraja | PENDIENTE | 2026-11-10 |
+| 29 | Vamos a casa | PENDIENTE | 2026-11-16 |
+| 30 | Línea directa | PENDIENTE | 2026-11-16 |
+| 31 | Lo único que es mío | PENDIENTE | 2026-11-16 |
+| 32 | A ti por mí | PENDIENTE | 2026-11-10 |
+| 33 | Cambio de firmas | PENDIENTE | 2026-11-10 |
+| 34 | También las mañanas | PENDIENTE | 2026-11-08 |
+| 35 | Al revés | PENDIENTE | 2026-11-18 |
+| 36 | Mecánico | PENDIENTE | 2026-11-16 |
+| 37 | Reclamable | PENDIENTE | 2026-11-10 |
+| 38 | Nada | PENDIENTE | 2026-11-16 |
+| 39 | Expediente sellado | PENDIENTE | 2026-11-10 |
 | 40 | No puedo sacarlo | AL DIA | 2026-11-10 |
-| 41 | Ropa limpia | AL DIA | 2026-11-16 |
-| 42 | Navajas y tinta | AL DIA | 2026-11-10 |
-| 43 | Una cuenta abierta | AL DIA | 2026-11-10 |
-| 44 | Su nombre | AL DIA | 2026-11-16 |
-| 45 | Por si vuelve | AL DIA | 2026-11-08 |
-| 46 | A oscuras | AL DIA | 2026-11-16 |
-| 47 | La tierra bajo sus botas | AL DIA | 2026-11-08 |
+| 41 | Ropa limpia | PENDIENTE | 2026-11-16 |
+| 42 | Navajas y tinta | PENDIENTE | 2026-11-10 |
+| 43 | Una cuenta abierta | PENDIENTE | 2026-11-10 |
+| 44 | Su nombre | PENDIENTE | 2026-11-16 |
+| 45 | Por si vuelve | PENDIENTE | 2026-11-08 |
+| 46 | A oscuras | PENDIENTE | 2026-11-16 |
+| 47 | La tierra bajo sus botas | PENDIENTE | 2026-11-08 |
 
 ## Historial
 
+- 2026-11-21 10:55 · Cap. 47 (50b_La_Tierra_Bajo_Sus_Botas.md) · audio pendiente: cambió la prosa
+- 2026-11-21 10:55 · Cap. 46 (50_A_Oscuras.md) · audio pendiente: cambió la prosa
+- 2026-11-21 10:55 · Cap. 45 (49_Enfrente.md) · audio pendiente: cambió la prosa
+- 2026-11-21 10:55 · Cap. 44 (48_Su_Nombre.md) · audio pendiente: cambió la prosa
+- 2026-11-21 10:55 · Cap. 43 (47_Intereses.md) · audio pendiente: cambió la prosa
+- 2026-11-21 10:55 · Cap. 42 (46_Llaves.md) · audio pendiente: cambió la prosa
+- 2026-11-21 10:55 · Cap. 41 (45_Ropa_Limpia.md) · audio pendiente: cambió la prosa
+- 2026-11-21 10:55 · Cap. 39 (43_La_Puerta.md) · audio pendiente: cambió la prosa
+- 2026-11-21 10:55 · Cap. 38 (42_Nada.md) · audio pendiente: cambió la prosa
+- 2026-11-21 10:55 · Cap. 37 (41_La_Otra_Mitad.md) · audio pendiente: cambió la prosa
+- 2026-11-21 10:55 · Cap. 36 (40_Mecanico.md) · audio pendiente: cambió la prosa
+- 2026-11-21 10:55 · Cap. 35 (38_Al_Reves.md) · audio pendiente: cambió la prosa
+- 2026-11-21 10:55 · Cap. 34 (36_Tambien_Las_Mananas.md) · audio pendiente: cambió la prosa
+- 2026-11-21 10:55 · Cap. 33 (35_Sin_Fecha_De_Regreso.md) · audio pendiente: cambió la prosa
+- 2026-11-21 10:55 · Cap. 32 (34_Mi_Pareja.md) · audio pendiente: cambió la prosa
+- 2026-11-21 10:55 · Cap. 31 (33_Mas_De_La_Cuenta.md) · audio pendiente: cambió la prosa
+- 2026-11-21 10:55 · Cap. 30 (32_Linea_Directa.md) · audio pendiente: cambió la prosa
+- 2026-11-21 10:55 · Cap. 29 (31_Vamos_A_Casa.md) · audio pendiente: cambió la prosa
+- 2026-11-21 10:55 · Cap. 28 (30_Media_Baraja.md) · audio pendiente: cambió la prosa
+- 2026-11-21 10:55 · Cap. 27 (29_El_Patio_Ajeno.md) · audio pendiente: cambió la prosa
+- 2026-11-21 10:55 · Cap. 26 (26_Me_Encuentro_Bien.md) · audio pendiente: cambió la prosa
+- 2026-11-21 10:55 · Cap. 25 (25_Libros_Abiertos.md) · audio pendiente: cambió la prosa
+- 2026-11-21 10:55 · Cap. 24 (24d_Vienes_Conmigo.md) · audio pendiente: cambió la prosa
+- 2026-11-21 10:55 · Cap. 23 (24c_El_Corral.md) · audio pendiente: cambió la prosa
+- 2026-11-21 10:55 · Cap. 22 (24b_Lo_Que_Cueste.md) · audio pendiente: cambió la prosa
+- 2026-11-21 10:55 · Cap. 21 (22b_Con_Su_Proveedor.md) · audio pendiente: cambió la prosa
+- 2026-11-21 10:55 · Cap. 20 (22a_La_Cifra.md) · audio pendiente: cambió la prosa
+- 2026-11-21 10:55 · Cap. 18 (20_El_Mirador.md) · audio pendiente: cambió la prosa
+- 2026-11-21 10:55 · Cap. 17 (18_El_Dia_Nublado.md) · audio pendiente: cambió la prosa
+- 2026-11-21 10:55 · Cap. 16 (17_Cuentas_Claras.md) · audio pendiente: cambió la prosa
+- 2026-11-21 10:55 · Cap. 15 (15_El_Porton.md) · audio pendiente: cambió la prosa
+- 2026-11-21 10:55 · Cap. 14 (14_La_Regla_Del_Telefono.md) · audio pendiente: cambió la prosa
+- 2026-11-21 10:55 · Cap. 13 (12_Roma_Atrii.md) · audio pendiente: cambió la prosa
+- 2026-11-21 10:55 · Cap. 11 (09_La_Balanza.md) · audio pendiente: cambió la prosa
+- 2026-11-21 10:55 · Cap. 10 (08b_La_Sargenta.md) · audio pendiente: cambió la prosa
+- 2026-11-21 10:55 · Cap. 9 (08_La_Carrera_De_Mascaras.md) · audio pendiente: cambió la prosa
+- 2026-11-21 10:55 · Cap. 8 (07_La_Noche_Del_Ladrillo.md) · audio pendiente: cambió la prosa
+- 2026-11-21 10:55 · Cap. 7 (06_Ambos.md) · audio pendiente: cambió la prosa
+- 2026-11-21 10:55 · Cap. 6 (05c_La_Pizza_De_Calabaza.md) · audio pendiente: cambió la prosa
+- 2026-11-21 10:55 · Cap. 5 (05a_Cliente_Y_Proveedor.md) · audio pendiente: cambió la prosa
+- 2026-11-21 10:55 · Cap. 4 (04_Tarifa_Nocturna.md) · audio pendiente: cambió la prosa
+- 2026-11-21 10:55 · Cap. 3 (03_Los_Viejos_Dias.md) · audio pendiente: cambió la prosa
+- 2026-11-21 10:55 · Cap. 2 (02_Demasiado_Listo.md) · audio pendiente: cambió la prosa
+- 2026-11-21 10:55 · Cap. 1 (01_Un_Hombre_De_Negocios_Intachable.md) · audio pendiente: cambió la prosa
 - 2026-11-16 00:34 · Cap. 46 (50_A_Oscuras.md) · audio regenerado
 - 2026-11-16 00:34 · Cap. 44 (48_Su_Nombre.md) · audio regenerado
 - 2026-11-16 00:34 · Cap. 41 (45_Ropa_Limpia.md) · audio regenerado

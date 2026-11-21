@@ -73,7 +73,7 @@ Colgó y marcó el número de Kal por costumbre. Sonó cinco veces antes del sil
 
 No dejó ninguno.
 
----
+***
 
 Para las nueve y media de ese domingo, los dos abogados del Monarch estaban en el despacho que había sido de Matteo, con ropa de fin de semana, haciendo llamadas que normalmente hacían por contratos de licor y demandas de proveedores. Chiara no les explicó quién era el hombre. Los dos lo conocían de vista; ninguno preguntó.
 
@@ -89,7 +89,7 @@ El mayor encontró el registro antes de las once: nombre, hora de ingreso, una c
 
 Chiara ya tenía uno. Giancarlo Krane había perdido contra Kal en una sala de mediación, se había quedado con el número que Kal le dejó junto a los elevadores en media hoja de libreta, y desde entonces le llevaba a ella los asuntos que no quería en manos del casino.
 
----
+***
 
 Krane contestó al primer timbre, como si ya tuviera el teléfono en la mano.
 
@@ -111,9 +111,9 @@ Krane no dijo nada mientras ella le contaba lo poco que había: la comisaría, l
 
 —Lo que pidan.
 
-—No vuelva a decir eso en voz alta. Ni a mí. El que dice "lo que pidan" les acaba de decir cuánto pedir. —Ya iba caminando; se le oía en la voz—. La llamo cuando lo vea.
+—No vuelva a decir eso en voz alta. Ni a mí. El que dice «lo que pidan» les acaba de decir cuánto pedir. —Ya iba caminando; se le oía en la voz—. La llamo cuando lo vea.
 
----
+***
 
 A mediodía Krane llamó desde el estacionamiento de la comisaría. No lo había visto.
 
@@ -129,7 +129,7 @@ Chiara no se sentó. Desde el ventanal del despacho se veía el piso del casino,
 
 —Úselo hoy. Mañana ya no va a valer lo mismo.
 
----
+***
 
 Katherine Rowe contestó al cuarto timbre, desde su casa. Detrás había una televisión, y alguien la bajó. La voz, de todos modos, era la cálida que se usa para las fotos.
 
@@ -159,7 +159,7 @@ La llamada volvió cuarenta minutos después. Para entonces el abogado mayor hab
 
 Chiara no le corrigió el tiempo verbal. Le dio las gracias y colgó.
 
----
+***
 
 Quedaba una persona en el estado con más autoridad que Rowe, y jugaba baccarat en su casino los viernes.
 
@@ -187,7 +187,7 @@ Colgó él primero.
 
 Chiara se quedó con el teléfono en la mano. Había elegido a Rivers por esa enemistad, para que nadie en la fiscalía del estado le hiciera un favor a Kal sin cobrárselo. Nunca había pensado en el día en que el favor lo necesitara ella.
 
----
+***
 
 Krane llamó a media tarde. Por primera vez desde la mañana, no sonaba como si fuera ganando.
 
@@ -201,7 +201,7 @@ Chiara miraba la ciudad por la ventana del despacho, las mismas luces de siempre
 
 —¿Adónde?
 
-—El papel dice "reclamación federal". No dice adónde. No hace falta que lo diga.
+—El papel dice «reclamación federal». No dice adónde. No hace falta que lo diga.
 
 —Consígame ese papel. Todo lo que tenga un sello.
 
@@ -223,7 +223,7 @@ Llamó al número del Departamento y pidió que localizaran a la subjefa Lucía 
 
 Le devolvieron la llamada en once minutos. Una voz de mujer, sin nombre ni saludo, le dio una dirección y una hora.
 
----
+***
 
 El local estaba a dos calles de la comisaría central: mesas de fórmica, café que nadie iba a elogiar, un televisor sin volumen en la esquina. Lucía llegó sin uniforme, con una carpeta que no abrió en toda la conversación, y se sentó frente a Chiara sin ofrecerle la mano.
 

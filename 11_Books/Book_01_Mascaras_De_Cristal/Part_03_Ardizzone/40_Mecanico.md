@@ -20,7 +20,7 @@ audio PENDIENTE: archivo 40 (y el 39, que sale del audiolibro).
 
 # Capítulo 36 — Mecánico
 
-El aire de Palermo entraba húmedo por la ventanilla abierta del coche que los recogió en el aeropuerto. Ya era de noche; en las curvas de la colina el aire refrescaba, y Kal se cerraba la chaqueta. Chiara llevaba la cabeza apoyada contra el vidrio y había dejado de hablar en algún punto entre el último semáforo de la ciudad y la primera curva, no de cansancio. Había dormido poco en el avión, y él menos, y ninguno de los dos había vuelto a mencionar el yate. La ciudad se quedó abajo, encendida y apretada contra el mar, y el camino empezó a subir entre paredes de piedra seca y olivos que llevaban ahí más tiempo del que cualquier cosa llevaba en pie en La Almendra.
+El aire de Palermo entraba húmedo por la ventanilla abierta del coche que los recogió en el aeropuerto. Ya era de noche; en las curvas de la colina el aire refrescaba, y Kal se cerraba la chaqueta. Chiara llevaba la cabeza apoyada contra el vidrio y había dejado de hablar en algún punto entre el último semáforo de la ciudad y la primera curva, no de cansancio. Había dormido poco en el avión, y él menos, y ninguno de los dos había vuelto a mencionar el yate. La ciudad se quedó abajo, encendida y apretada contra el mar, y el camino empezó a subir entre paredes de piedra seca y olivos que llevaban ahí más tiempo del que cualquier cosa llevaba en pie en la Almendra.
 
 Chiara se incorporó antes de que él viera nada que anunciara que habían llegado.
 
@@ -54,7 +54,7 @@ Kal la reconoció porque era la misma que él hacía cien veces al día en El Pa
 
 No dijo *mi casa*. No dijo *nuestra casa*. Kal entendió sin que nadie se lo explicara que ese hombre llevaba media vida cuidando algo que no era suyo con más cuidado del que la mayoría de la gente le pone a lo que sí lo es.
 
----
+***
 
 Adentro, Chiara se movió distinto. Dejó el bolso en una mesa junto a la puerta sin mirar si había una mesa junto a la puerta, subió dos escalones que crujían pisando donde no crujían, saludó en italiano a una mujer que salió de la cocina secándose las manos en el delantal y la dejó abrazarla como se abraza a alguien que se fue niña y volvió con otra cara. Torció por un pasillo antes de que Kal hubiera terminado de registrar que había tres posibles.
 
@@ -76,7 +76,7 @@ Ettore asintió una vez y siguió de largo hacia la cocina. Kal registró que la
 
 En la cena, Ettore le preguntó por el vuelo y si el pescado le gustaba, con una corrección impecable. Ninguna pregunta sobre quién era, qué hacía, de dónde venía. Eso ya le decía algo.
 
----
+***
 
 Al día siguiente Chiara lo despertó temprano con una taza de café en la mano y ropa que no era la de San Aurelio: un suéter fino, pantalones claros, botines, el pelo suelto, una chaqueta ligera sobre el brazo. No se vestía para una sala. Se vestía como él cuando se ponía las botas de siempre en vez del traje.
 
@@ -112,7 +112,7 @@ Por las risas que siguieron a la traducción, a Kal le pareció que habían ente
 
 Chiara no contestó enseguida. Siguió caminando, con una mano rozando los sarmientos podados a su paso, y algo en su cara cambió de una manera que Kal no supo si ella quería que él viera. Después señaló un árbol solo en medio de la ladera, torcido por el viento de tantos años, y le contó por qué nadie lo había cortado nunca, y siguieron caminando.
 
----
+***
 
 La temperatura cambió al día siguiente, antes de que nadie dijera una palabra.
 
@@ -144,7 +144,7 @@ Valenti señaló dos sillas. Una, junto a la mesa, para Chiara. La otra, un poco
 
 Nadie lo dijo en voz alta. Kal se sentó donde le señalaron.
 
----
+***
 
 Valenti habló primero de otra cosa, de un cuarteto que había escuchado en Roma la semana anterior. Chiara le siguió el paso con la misma soltura. Livia dio una opinión sobre el cuarteto que Valenti corrigió con humor seco.
 
@@ -156,7 +156,7 @@ Nadie dijo el nombre. Kal tampoco. No había manera de preguntarlo ahí sin que 
 
 Valenti dejó la taza en el plato, con un sonido pequeño y exacto, y el tono de la sala cambió sin que cambiara el volumen de nadie.
 
-—Il Consorzio ha tomado nota de algunos asuntos en San Aurelio —dijo, mirando su propia taza—. Desde que el señor Bellacorte dejó el Monarch, hay... movimiento. Rumores de información que circula. De activos que se reúnen. —Levantó la vista—. Quien no conoce bien la forma en que se administra una casa podría preguntarse si la casa Ardizzone sigue teniendo quien la administre.
+—Il Consorzio ha tomado nota de algunos asuntos en San Aurelio —dijo, mirando su propia taza—. Desde que el señor Bellacorte dejó el Monarch, hay… movimiento. Rumores de información que circula. De activos que se reúnen. —Levantó la vista—. Quien no conoce bien la forma en que se administra una casa podría preguntarse si la casa Ardizzone sigue teniendo quien la administre.
 
 —La casa Ardizzone tiene quien la administre —dijo Chiara, sin apuro—. Yo.
 
@@ -190,7 +190,7 @@ Silencio.
 
 Valenti metió la mano en el bolsillo interior del saco, sacó una libreta pequeña, de cuero gastado, y escribió algo. No lo leyó en voz alta. Cerró la libreta y la guardó.
 
----
+***
 
 Chiara se movió antes de que nadie dijera nada más.
 
@@ -202,7 +202,7 @@ Valenti inclinó la cabeza, aceptando la aclaración con la misma cortesía con 
 
 No la vio dudar. Chiara había medido la distancia exacta entre él y esa mesa y la había cerrado en una frase, y Kal, otra vez contra la pared, otra vez sin que nadie le dirigiera la palabra, no pudo leer si lo había hecho por él o en contra de él. La sala había dejado de mirarlo como lo miraba un minuto antes. No supo si eso era alivio o pérdida. Las dos cosas le llegaron juntas.
 
----
+***
 
 Fue Livia quien trajo la fotografía. No la anunció: la tenía sobre la mesa, boca abajo, debajo de su propia taza, como si llevara ahí toda la reunión esperando el momento, y la giró con un dedo hacia Chiara.
 
@@ -222,7 +222,7 @@ Chiara dejó que el silencio corriera un segundo más de lo cómodo y después p
 
 La fotografía siguió ahí, boca arriba, entre las tazas. Kal sabía lo que había detrás de ese vestido: las manos en los hombros, el cajón del escritorio, la noche que Chiara le había contado sin adorno. Lo que no sabía era qué quería Livia poniéndola sobre la mesa, ni qué le estaba cobrando. Desde donde estaba sentado, sólo pudo ver que Chiara no volvió a mirarla.
 
----
+***
 
 La reunión terminó como había empezado: con Valenti hablando de otra cosa mientras los acompañaba a la puerta. Livia se despidió de Chiara con otro beso en cada mejilla y no volvió a mirar a Kal.
 
@@ -234,7 +234,7 @@ En el coche de regreso, Chiara se sentó con las manos sobre el regazo, mirando 
 
 No dijo nada más en todo el camino.
 
----
+***
 
 Esa noche Chiara se disculpó temprano y subió antes de la cena, algo que no había hecho ni una vez desde que llegaron. Kal se quedó en el patio con una copa que no terminó, escuchando el pozo seco no hacer ningún ruido y al perro de antes ladrar, esta vez sí, a algo real.
 
@@ -270,7 +270,7 @@ Ettore se levantó despacio, con las rodillas de alguien que llevaba demasiados 
 
 Se fue con el mismo paso contado con el que había cruzado el patio el primer día, y Kal se quedó solo con la copa y una frase que no se iba a ir a ninguna parte.
 
----
+***
 
 El teléfono le vibró pasada la medianoche, con la casa ya a oscuras.
 
@@ -296,7 +296,7 @@ Se quedó con el teléfono en la mano, en la oscuridad de la habitación, con la
 
 No tenía fecha todavía. Bajó el brillo de la pantalla y buscó los vuelos de regreso.
 
----
+***
 
 Se lo dijo por la mañana, mientras ella tomaba café en la cocina y Ettore se ocupaba de algo en el patio.
 
@@ -320,7 +320,7 @@ No dijo cuáles. Kal no preguntó.
 
 —Estoy bien —dijo ella, otra vez con esa voz que ya no le sonaba a la de ella.
 
----
+***
 
 Ettore lo llevó al aeropuerto. Chiara se despidió en el patio, junto al pozo seco, con un abrazo que duró un poco más de lo normal y ningún beso que necesitara ocultarse de nadie, porque ya no había nadie de la Mesa mirando.
 
@@ -348,7 +348,7 @@ El vuelo salía al anochecer, con una escala que Kal no se molestó en recordar.
 
 Cuando el avión despegó, Palermo se quedó abajo, blanca contra el mar oscuro, y Kal cerró los ojos antes de que la ventanilla dejara de mostrar nada reconocible.
 
----
+***
 
 El sol bajo de las tres de la tarde le pegaba de lado a Kingsley Field. Salió por las puertas correderas de la terminal comercial con una sola maleta, la etiqueta de la aerolínea todavía colgando del asa, y se quedó un segundo entrecerrando los ojos, buscando un coche entre los que esperaban con carteles y los que esperaban sin ellos.
 
@@ -382,7 +382,7 @@ El coche olía a ambientador de pino y a comida rápida de hacía dos días. Mar
 
 —Largo.
 
-Marisol esperó un momento y después preguntó por Walt y el alambique, y Kal contestó eso con la facilidad de siempre. Cuando entraron a La Almendra le pidió que lo dejara en el Patio, no en el loft.
+Marisol esperó un momento y después preguntó por Walt y el alambique, y Kal contestó eso con la facilidad de siempre. Cuando entraron a la Almendra le pidió que lo dejara en el Patio, no en el loft.
 
 —Treinta horas de aeropuertos y vas a trabajar.
 
@@ -390,9 +390,9 @@ Marisol esperó un momento y después preguntó por Walt y el alambique, y Kal c
 
 —Eso es trabajar, Kal. —Lo miró un segundo, con algo que no llegó a ser pregunta—. Te veo en la noche. Traigo comida, porque conociéndote no vas a comprar nada que no sea café.
 
----
+***
 
-El taller tenía el ruido de siempre: una grúa maniobrando en reversa, un motor que tosía antes de prender, el radio bajo en la oficina. Nadir lo vio desde el mostrador y levantó la mano sin soltar el teléfono.
+El taller tenía el ruido de siempre: una grúa maniobrando marcha atrás, un motor que tosía antes de prender, el radio bajo en la oficina. Nadir lo vio desde el mostrador y levantó la mano sin soltar el teléfono.
 
 —Ahí está —dijo, todavía al teléfono, y colgó—. Wallah, pensé que te ibas a quedar a vivir allá.
 
@@ -438,7 +438,7 @@ Encontró a Héctor bajo el alero del galpón, con una pierna estirada sobre un 
 
 —Volviste —dijo Héctor, sin abrir del todo los ojos.
 
-Kal se recargó en el poste de al lado.
+Kal se apoyó en el poste de al lado.
 
 —¿Y ella?
 
@@ -452,7 +452,7 @@ Héctor no dijo nada durante un momento. Después abrió los ojos y lo miró de 
 
 Héctor sostuvo la mirada un segundo más. Después volvió a cerrar los ojos.
 
----
+***
 
 El teléfono le vibró cerca de las cinco, mientras revisaba con Nadir una hoja de gastos que no cuadraba.
 
@@ -506,7 +506,7 @@ Del otro lado hubo un silencio corto.
 
 Kal volvió adentro, y lo primero que hizo fue buscar a Nadir con la mirada, y después a Héctor, calculando quién de los dos iba a necesitar saber qué, y cuándo.
 
----
+***
 
 Marisol lo encontró así, revisando con Nadir una lista que no tenía nada que ver con grúas, cuando volvió al Patio ya de noche con dos bolsas de comida colgando de una mano.
 
@@ -532,7 +532,7 @@ Kal no contestó eso, y ella lo dejó pasar. Arrugó la bolsa vacía y la tiró 
 
 —¿Vamos a tu casa? Traje helado también, y no pienso comérmelo aquí con este frío.
 
----
+***
 
 El loft estaba oscuro cuando llegaron, y Kal encendió las luces de la cocina con la misma mano que llevaba meses haciéndolo. La cafetera seguía donde Chiara la dejaba siempre. En el vaso del baño, su cepillo de dientes seguía junto al de él.
 
@@ -540,7 +540,7 @@ Kal sirvió el helado en dos platos porque Marisol se negó a comerlo directo de
 
 Salieron al balcón después, con las chaquetas puestas, porque Marisol quería ver el barrio y afuera empezaba a soplar el viento de siempre a esa hora.
 
-Desde ahí se veía La Almendra entera: los techos bajos de lámina y teja vieja, el Patio de Almendra Towing con una sola luz encendida al fondo, la calle Esparza con dos coches estacionados de cualquier manera, un perro cruzando sin apuro y, más lejos, hacia la Ronda Exterior, las luces de un camión pasando despacio. Sonaba una radio en alguna casa, muy baja, y alguien golpeaba algo metálico en un taller que ya debería estar cerrado.
+Desde ahí se veía la Almendra entera: los techos bajos de lámina y teja vieja, el Patio de Almendra Towing con una sola luz encendida al fondo, la calle Esparza con dos coches estacionados de cualquier manera, un perro cruzando sin apuro y, más lejos, hacia la Ronda Exterior, las luces de un camión pasando despacio. Sonaba una radio en alguna casa, muy baja, y alguien golpeaba algo metálico en un taller que ya debería estar cerrado.
 
 Marisol se apoyó en la baranda, con los brazos cruzados sobre el metal frío.
 

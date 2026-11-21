@@ -4,6 +4,7 @@ El detalle se guarda una sola vez en notas de sesión. Este archivo es navegaci�
 
 ## Sesiones recientes
 
+- 2026-11-21: Libro I, DECISIONES DEL AUTOR D1–D9 y cirugía mecánica aplicada en los 47 caps. (norma ortotipográfica, rayas, glosario ampliado, groserías); audio suspendido: [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Presellado_Libro_I]].
 - 2026-11-21: Libro I, AUDIT pre-sellado de los 47 caps. (sin tocar prosa): estructura terminada; ~113 bloqueadores (mayoría mecánicos), 20 de continuidad, D1–D12 para el autor: [[13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Presellado_Libro_I]].
 - 2026-11-21: Libro II, beats de los 48 con la columna nueva (DISEÑO, espera lectura) y nueve DECISIONES DEL AUTOR (boda de Walt a fines de junio; sale la señal 3; tics 4–5 seguidos; Calderos, Lussia, rutas, Nat y encubrimiento): [[11_Books/Book_02_Sombras_De_Poder/00_Estructura_48_Capitulos]]
 - 2026-11-21: Libro II en **48 caps.** (Fase 1 propagada: Book_Map, guía, matriz, placeholders, build y audio; nueve placeholders fundidos retirados; *Stavanger* y *Henrik* en un archivo): [[98_Agent_Handoff/sessions/2026-11-21_claude_propagacion_48_libro_II]]

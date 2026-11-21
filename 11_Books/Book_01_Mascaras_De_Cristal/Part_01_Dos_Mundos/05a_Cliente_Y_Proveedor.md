@@ -299,7 +299,7 @@ Chiara dejó la carpeta sobre la mesa, sin abrirla.
 
 Por un segundo, el hombre que contaba las puertas de cada edificio que pisaba no supo qué hacer con la cara. Luego algo se le aflojó en la boca, debajo de los lentes, como si estuviera oyendo la voz con que Walt lo había dicho.
 
-—Viejo cabrón —dijo, en voz baja.
+—Viejo zorro —dijo, en voz baja.
 
 —Pero honesto —dijo Chiara.
 
@@ -395,7 +395,7 @@ Ella tachó la cifra de valet y escribió *naviera* en el margen. Tardó más de
 
 Lo dijo como se dice de una apuesta perdida. Chiara entendió la cuenta que él ya había hecho: una firma de un muerto, en un escritorio vacío, iba a pasar ahora por más ojos que los del muerto.
 
-—No está perdido. Está sin dueño. —Se recargó en la silla—. La que manda ahora no se deja ver; si la busca usted esta semana, va a parecer que vino a cobrarle al muerto. Pero hay una teniente del turno de noche que vive en la calle. Ésa sabe qué patrulla se le muere a media persecución.
+—No está perdido. Está sin dueño. —Se recostó en la silla—. La que manda ahora no se deja ver; si la busca usted esta semana, va a parecer que vino a cobrarle al muerto. Pero hay una teniente del turno de noche que vive en la calle. Ésa sabe qué patrulla se le muere a media persecución.
 
 —¿Cómo sabe eso?
 
@@ -449,7 +449,7 @@ Blake la siguió con la vista.
 
 Chiara subió. No le dijo para quién más trabajaban esas grúas.
 
-Cenaron en el Distrito Marino, en un lugar de manteles de papel y pescado bueno. Durante el primer plato Blake fue el de la cafetería: contó una persecución que había terminado con un hombre de setenta años atorado en la ventana de un baño, y la contó en contra de sí mismo, sin heroísmo, y Chiara se rió de verdad.
+Cenaron en el Distrito Marino, en un lugar de manteles de papel y pescado bueno. Durante el primer plato Blake fue el de la cafetería: contó una persecución que había terminado con un hombre de setenta años atorado en la ventana de un baño, y la contó en contra de sí mismo, sin heroísmo, y Chiara se rio de verdad.
 
 Después entraron tres policías de uniforme, a cenar antes del turno. Venían detrás de una mujer de cabello corto y lacio, castaño con algo de cobre bajo las lámparas, que no tuvo que pedir mesa.
 
@@ -571,7 +571,7 @@ Un carrito de lavandería pasó detrás de ellos con una rueda chillando. Kal lo
 
 —Ése sí se lo puedo facturar.
 
-Esta vez sí se rió. Fue breve, y recuperó la cara antes de que el gesto se volviera demasiado privado.
+Esta vez sí se rio. Fue breve, y recuperó la cara antes de que el gesto se volviera demasiado privado.
 
 —Lo del puerto no se lo estoy pidiendo por factura.
 
@@ -847,7 +847,7 @@ Kal se dio cuenta porque el principio iba para otro lado.
 
 —Éste sí.
 
-Kyle se rió con lo de las naranjas.
+Kyle se rio con lo de las naranjas.
 
 Llevaban veinte minutos en la banca cuando la radio del guardia crujió. Escuchó, contestó algo corto y lo dijo sin mirar a Kal.
 

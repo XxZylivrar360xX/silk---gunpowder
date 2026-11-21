@@ -62,7 +62,7 @@ La llevó al fondo, donde el Lancia oscuro esperaba bajo la luz correcta: italia
 
 Él le contestó con una sonrisa de vendedor, de las que no comprometen a nada. Chiara tuvo que mirar el coche para no reírse.
 
-Un vendedor de la casa —camisa con el logo, gafete, treinta y pocos— se acercó desde los escritorios con la sonrisa lista para sumarse a una venta grande. Kal no lo miró.
+Un vendedor de la casa —camisa con el logo, credencial, treinta y pocos— se acercó desde los escritorios con la sonrisa lista para sumarse a una venta grande. Kal no lo miró.
 
 —Yo la atiendo, Marco. Gracias.
 
@@ -88,11 +88,11 @@ Firmaron la compraventa en un escritorio de vidrio, con la misma seriedad con la
 
 Chiara levantó la vista. No a Marco.
 
-—Me lo recomendó mi...
+—Me lo recomendó mi…
 
 La otra palabra se le quedó en la boca. No la dijo. Se detuvo lo justo para que no pareciera duda, y lo justo para que Kal, del otro lado del vidrio, dejara de mover la pluma un instante.
 
-—...amigo.
+—…amigo.
 
 —¿Tiene nombre su amigo? Por la comisión.
 
@@ -112,7 +112,7 @@ El jacuzzi del penthouse llevaba media hora encendido cuando por fin se metieron
 
 —Todavía no puedo creer que hicieras la voz de vendedor —dijo, con la cabeza contra el borde.
 
-—Tú preguntaste por el mantenimiento como si de verdad fueras a pagarlo. Y casi te delatas cuando dijiste "un taller de la Almendra que conozco". Una clienta de verdad no conoce talleres en la Almendra.
+—Tú preguntaste por el mantenimiento como si de verdad fueras a pagarlo. Y casi te delatas cuando dijiste «un taller de la Almendra que conozco». Una clienta de verdad no conoce talleres en la Almendra.
 
 —Una clienta de verdad, no. —Movió el agua con un dedo—. Yo sí.
 
@@ -120,7 +120,7 @@ Se rieron los dos del numerito. El silencio que vino después no fue incómodo.
 
 —¿Cómo quedaste con Dario después del hospital? —preguntó Chiara—. Nunca me lo contaste entero.
 
-—Lo de las armas ya lo sabes. —Kal giró la copa por el tallo, sin beber—. Lo que no te conté es lo que me dijo antes de salir: "La tregua es por lo que le pasó, señor Mercer. No por ella." Con esas palabras.
+—Lo de las armas ya lo sabes. —Kal giró la copa por el tallo, sin beber—. Lo que no te conté es lo que me dijo antes de salir: «La tregua es por lo que le pasó, señor Mercer. No por ella.» Con esas palabras.
 
 Chiara se quedó quieta.
 
@@ -142,7 +142,7 @@ Lo vio guardar la frase en el sitio donde él guardaba lo resuelto, con la misma
 
 Kal no lo repitió, y no pidió más.
 
-—Cuando los federales armaron la redada que selló el destino de Corrado Ardizzone —dijo, al final, mirando el agua—. Todo fue tan preciso, tan organizado, como si fuera una puesta en escena y mi padre fuera el único que nunca sostuvo el libreto. Recuerdo lo que me dijo: "Tesoro mio, no temas, yo me hago cargo de esto." Le susurró a Ettore otras cosas que yo no pude escuchar, y lo único que recuerdo después de eso fue el encabezado en los periódicos locales la mañana siguiente: el capo de la famiglia Ardizzone había fallecido: los federales abrieron fuego y su cuerpo cayó por la ladera de la villa junto al mirador que daba a la costa en Mondello. Los federales anunciaron el deceso y luego Il Consorzio repitió la misma versión, palabra por palabra. Nunca hubo un cuerpo que poner junto al de mi madre. Esa cuenta la pago yo sola, cada año. Estoy segura que fue La Mesa la que orquestó la caída de mi padre. El porqué, aun a la fecha, no lo sé.
+—Cuando los federales armaron la redada que selló el destino de Corrado Ardizzone —dijo, al final, mirando el agua—. Todo fue tan preciso, tan organizado, como si fuera una puesta en escena y mi padre fuera el único que nunca sostuvo el libreto. Recuerdo lo que me dijo: «Tesoro mio, no temas, yo me hago cargo de esto.» Le susurró a Ettore otras cosas que yo no pude escuchar, y lo único que recuerdo después de eso fue el encabezado en los periódicos locales la mañana siguiente: el capo de la famiglia Ardizzone había fallecido: los federales abrieron fuego y su cuerpo cayó por la ladera de la villa junto al mirador que daba a la costa en Mondello. Los federales anunciaron el deceso y luego Il Consorzio repitió la misma versión, palabra por palabra. Nunca hubo un cuerpo que poner junto al de mi madre. Esa cuenta la pago yo sola, cada año. Estoy segura que fue La Mesa la que orquestó la caída de mi padre. El porqué, aun a la fecha, no lo sé.
 
 No dio fechas. Kal tampoco se las pidió.
 
@@ -154,7 +154,7 @@ La pregunta le llegó por un lado que no esperaba. Había preparado la cara para
 
 Dejó pasar un segundo, con el agua moviéndose despacio contra el pecho.
 
-—La última que me contó terminó distinto. Yo tenía quince, ya grande para que me arroparan. Me arropó de todos modos y me dijo: *"Un giorno, bambina mia, capirai il prezzo di reggere il mondo sulle tue spalle. Ma non dimenticare mai: la chiave è non farlo da sola."* —Lo repitió después en español, despacio—. Algún día, mi amada niña, entenderás el precio que tiene sostener el mundo en tus hombros. Solo no olvides que la clave está en no hacerlo sola. —No la entendí entonces. Pensé que hablaba de crecer, nada más.
+—La última que me contó terminó distinto. Yo tenía quince, ya grande para que me arroparan. Me arropó de todos modos y me dijo: *«Un giorno, bambina mia, capirai il prezzo di reggere il mondo sulle tue spalle. Ma non dimenticare mai: la chiave è non farlo da sola.»* —Lo repitió después en español, despacio—. Algún día, mi amada niña, entenderás el precio que tiene sostener el mundo en tus hombros. Sólo no olvides que la clave está en no hacerlo sola. —No la entendí entonces. Pensé que hablaba de crecer, nada más.
 
 Kal se quedó con la mano quieta contra el borde, sin mover el agua.
 
@@ -218,7 +218,7 @@ Kal no se movió.
 
 Los dedos se le cerraron despacio bajo la palma de él.
 
-—Yo ya tenía el arma en la mano. Y él ni la miró. Me miró a mí, completamente seguro de que no iba a hacer nada, porque yo sabía cómo funcionaba el mundo al que pertenecía. —Tragó—. Lo último que me dijo fue: *"Questo è un mandato divino. Dio lo sa. E anch'io."*
+—Yo ya tenía el arma en la mano. Y él ni la miró. Me miró a mí, completamente seguro de que no iba a hacer nada, porque yo sabía cómo funcionaba el mundo al que pertenecía. —Tragó—. Lo último que me dijo fue: *«Questo è un mandato divino. Dio lo sa. E anch'io.»*
 
 No lo tradujo. Vio en la cara de Kal que había entendido *Dio*, y que con eso le alcanzaba.
 
@@ -292,7 +292,7 @@ Kal traía la otra bata. Se detuvo en la puerta de la sala, la buscó, la encont
 
 Tardó en mirarlo.
 
-—Lo siento. —Se pasó una mano por el pelo mojado—. No sé por qué te cuento esto así como así. Es sólo que...
+—Lo siento. —Se pasó una mano por el pelo mojado—. No sé por qué te cuento esto así como así. Es sólo que…
 
 No terminó. Él esperó a ver si quería terminarla, y cuando entendió que no, habló.
 
@@ -344,7 +344,7 @@ El ventanal devolvía la ciudad a medio apagar. Él no la miraba.
 
 Chiara no le dijo que no había sido su culpa. Le puso una mano en la rodilla y la dejó ahí.
 
-—Pensé que era una frase —dijo, muy bajo—. Aquella noche, en el vestidor. "Yo soy la muerte caminando."
+—Pensé que era una frase —dijo, muy bajo—. Aquella noche, en el vestidor. «Yo soy la muerte caminando.»
 
 Kal no la corrigió.
 

@@ -80,7 +80,7 @@ Kal lo levantó, lo giró, le pasó la uña por el canto. Se lo acercó al oído
 
 —Ya la usó. Las tres.
 
-Kal se rió de verdad, corto, y Chiara se quedó mirando eso más de lo que miró el vino.
+Kal se rio de verdad, corto, y Chiara se quedó mirando eso más de lo que miró el vino.
 
 Enzo se acercó cuando la luz gris ya empezaba a espesarse hacia el gris más oscuro que en esta ciudad hacía las veces de noche.
 
@@ -198,7 +198,7 @@ Kal sopesó uno en la mano, midiendo el peso.
 
 —¿Y es verdad que estos se usan para partirle la cabeza a alguien, o eso es sólo mito de película?
 
-Chiara se rió, sin escandalizarse. La chica del mostrador se rió también, un segundo tarde y con menos convicción, mirando la puerta como si calculara qué tan rápido podía llamar a seguridad si hacía falta.
+Chiara se rio, sin escandalizarse. La chica del mostrador se rio también, un segundo tarde y con menos convicción, mirando la puerta como si calculara qué tan rápido podía llamar a seguridad si hacía falta.
 
 —Es broma —le dijo Kal, con las manos en alto—. Si tuviera que elegir, prefiero un bate de béisbol.
 
@@ -468,6 +468,6 @@ Kal esperó a que no pudiera oírlo para hablar, muy bajo.
 
 —Yo también tengo miedo, Chiara. Por primera vez en años me pregunto si hay un futuro que sea mío.
 
-Recargó la cabeza contra la de ella y se quedó con eso, despierto, un rato largo. Después se durmió también, y no quedó más que la lluvia contra el ventanal.
+Apoyó la cabeza contra la de ella y se quedó con eso, despierto, un rato largo. Después se durmió también, y no quedó más que la lluvia contra el ventanal.
 
 Nadie llamó a eso una cita.

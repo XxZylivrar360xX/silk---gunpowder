@@ -137,6 +137,16 @@ Estas cuatro cosas dependen de la decisión D1 y se pueden aplicar por script co
 - **D9:** se respeta la regla de cada capítulo. En el 36 (40:293) queda una sola mención de Halbrook («…de parte de Halbrook, y él no marcaba en persona»). En el 39 (43:173) el nombre sale («lo que habían venido a buscar» o similar).
 - **D10–D12:** quedan abiertas; no bloquean la cirugía.
 
+## Cirugía mecánica aplicada (SURGERY, 2026-11-21)
+
+Aplicada en los 47 caps. con D1 y D2, sin tocar contenido:
+
+- **Fase A, por script:** 101 separadores `---` pasan a `***`; 78 `...` a `…`; 68 «rió» a «rio»; 38 pares de comillas rectas a «», con "" sólo anidadas; 26 «La Almendra» a «la Almendra» a media frase.
+- **Rayas a la inglesa, caso por caso:** 16 incisos pareados se pegaron (`—inciso—`). Los 40 sueltos pasaron a coma, punto y coma, dos puntos o raya de cierre, según la frase. Se dejaron a propósito los letreros y pantallas («MERCER, K. — CONSULTORIO 6», «CERRADO — THANKSGIVING») y el mensaje de 07:95. De paso salió la negrita de **Beatrice Varek** (24c:161).
+- **Tildes:** 6 «solo» adverbiales pasan a «sólo» (los otros 86 son adjetivos y se quedan); 22 demostrativos con función de pronombre reciben tilde.
+- **Glosario y groserías:** 140 sustituciones en narración: bandeja, credencial, moño, parachoques, capó, maletero, acera, tapia, lámpara/bombilla, luneta, marcha atrás, delantal, fregadero, altavoz, barra, ducha, chaqueta, destornillador, frotar, torcido, devolver, entre otras. En diálogo se neutralizaron «reclusorio», «güero», «me vale» (2:892 → «me sirve»), «nomás» del mensajero (34:537), «regresar la llamada» y «avienta» de Walt. Las groserías quedaron así: «Viejo cabrón» → «Viejo zorro» (05a:302), «pendejada» → «estupidez» (05c:217) y «pendejo» → «tonto» en Rafe (48:247).
+- **Se conservan:** los mexicanismos de objeto en diálogo (la «charola» y el «gafete» de 02:604, las «calcetas» del 7, los «regresar» con valor de devolver en diálogo), el habla de Rafe y Mabel (banqueta 48:49, nomás), *i Sussurri* como nombre italiano de la red de Chiara (sólo se neutralizó el híbrido «sussurros»), «recámara» de arma, «foco» con sentido de enfoque o reflector, y las groserías panhispánicas («mierda», «carajo», «hijo de puta», «mi puto teléfono»).
+
 ## Patrones transversales (candidatos, no bloqueadores)
 
 - Tics globales (detector): «como si» 288, «no contestó» 101, «no dijo nada» 99, «levantó la vista» 59, «se quedó mirando» 37, «un segundo de más» 18. Las mayores concentraciones están en el 2 («como si» 21, «demasiado» 21, antítesis «No era X. Era Y.») y en el 38 (siete «exact-», seis «no dijo nada»).

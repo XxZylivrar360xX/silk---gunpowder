@@ -45,7 +45,7 @@ Sonrisa del lago aligerada (2026-11-15, revisión externa): sin la acotación «
 
 # Capítulo 29 — Vamos a casa
 
-La tarde en el Monarch fue una sucesión de cosas pequeñas que había que resolver antes de que se acumularan: una versión que corregir, un empleado con una pregunta de vestuario, un papelito doblado que uno de sus sussurros le hizo llegar con un nombre que todavía no significaba nada. Chiara lo fue archivando todo, cada cosa en su sitio, con la misma cabeza que esa mañana había estado sentada sobre una piedra escuchando el nombre de un general.
+La tarde en el Monarch fue una sucesión de cosas pequeñas que había que resolver antes de que se acumularan: una versión que corregir, un empleado con una pregunta de vestuario, un papelito doblado que uno de sus susurros le hizo llegar con un nombre que todavía no significaba nada. Chiara lo fue archivando todo, cada cosa en su sitio, con la misma cabeza que esa mañana había estado sentada sobre una piedra escuchando el nombre de un general.
 
 El teléfono sonó a media tarde, mientras firmaba algo que no iba a leer dos veces.
 
@@ -55,7 +55,7 @@ El teléfono sonó a media tarde, mientras firmaba algo que no iba a leer dos ve
 
 Chiara se quedó con el teléfono pegado a la oreja un segundo de más, sin saber qué hacer con la idea antes de decir nada.
 
-—¿A pescar? ¿Yo... a... pescar?
+—¿A pescar? ¿Yo… a… pescar?
 
 —Sí. A pescar. —Sonó divertido, no burlón.
 
@@ -77,7 +77,7 @@ Chiara ni siquiera se avergonzó del todo.
 
 —Nunca he ido a pescar —dijo, como si eso lo explicara todo, porque lo explicaba—. ¿Qué se usa cuando vas a pescar?
 
-Kal se rió. No de ella. Con ella, aunque ella todavía no se estuviera riendo.
+Kal se rio. No de ella. Con ella, aunque ella todavía no se estuviera riendo.
 
 —¿Tienes un short de mezclilla?
 
@@ -197,15 +197,15 @@ Hubo un silencio del otro lado, exactamente un segundo más largo de lo necesari
 
 Kal no dijo que sí. No dijo que no.
 
-—Estoy pasando por un puente —dijo, con una seriedad completamente falsa—. Se... corta...
+—Estoy pasando por un puente —dijo, con una seriedad completamente falsa—. Se… corta…
 
 —No hay ningún puente en esta carretera, Kal.
 
-—Krrr. Shhh. No te... escucho...
+—Krrr. Shhh. No te… escucho…
 
 Colgó.
 
-El coche se quedó en silencio un momento. Chiara lo miró. Kal la miró a ella. Fue ella quien se rió primero, y él la siguió, y por un rato ninguno de los dos dijo nada más sobre el tema.
+El coche se quedó en silencio un momento. Chiara lo miró. Kal la miró a ella. Fue ella quien se rio primero, y él la siguió, y por un rato ninguno de los dos dijo nada más sobre el tema.
 
 ***
 
@@ -249,13 +249,13 @@ Chiara no alcanzó a contestar: Rocco ya le estaba oliendo las botas.
 
 Héctor estaba sentado en una silla plegable con una gorra vieja calada hasta las cejas, vigilando la parrilla.
 
-—Señorita Bellandi. —Ni se levantó—. Espero que traiga hambre, porque si no come, este —señaló con la barbilla hacia Danny— se va a comer su parte y la mía.
+—Señorita Bellandi. —Ni se levantó—. Espero que traiga hambre, porque si no come, éste —señaló con la barbilla hacia Danny— se va a comer su parte y la mía.
 
 —Traigo hambre.
 
 —Entonces ya le caigo mejor que hace un minuto.
 
-Walt estaba un poco apartado, cerca de una nevera propia con etiquetas escritas a mano, y cuando la vio llegar la miró un momento más largo de lo que hacía falta para un saludo, con esa atención suya de quien está haciendo una cuenta. Después asintió, una sola vez, y volvió a lo que estaba haciendo — acomodar botellas, comprobar que el hielo aguantara el día—, sin decir nada más.
+Walt estaba un poco apartado, cerca de una nevera propia con etiquetas escritas a mano, y cuando la vio llegar la miró un momento más largo de lo que hacía falta para un saludo, con esa atención suya de quien está haciendo una cuenta. Después asintió, una sola vez, y volvió a lo que estaba haciendo —acomodar botellas, comprobar que el hielo aguantara el día—, sin decir nada más.
 
 Chiara siguió caminando hacia la orilla.
 
@@ -267,13 +267,13 @@ Kal estaba metido hasta las rodillas en el agua, con una caña en una mano y la 
 
 —Me dijeron que me iba a mojar. No mentiste.
 
-Kal no le discutió. Le tendió una caña de más, de las que había traído de repuesto, y le mostró, sin hacer un discurso de ello, cómo sostener el carrete y soltar el hilo en el momento justo del lanzamiento. El primer intento de Chiara cayó a medio metro de sus propios pies, y Kal se rió, sin burla, y se lo mostró otra vez, más despacio. Al tercer intento el hilo salió limpio y lejos, y ella sintió una satisfacción completamente desproporcionada para el logro. Se metió al agua con las botas puestas hasta que el fondo cambió de textura y decidió que las botas podían esperar en la orilla.
+Kal no le discutió. Le tendió una caña de más, de las que había traído de repuesto, y le mostró, sin hacer un discurso de ello, cómo sostener el carrete y soltar el hilo en el momento justo del lanzamiento. El primer intento de Chiara cayó a medio metro de sus propios pies, y Kal se rio, sin burla, y se lo mostró otra vez, más despacio. Al tercer intento el hilo salió limpio y lejos, y ella sintió una satisfacción completamente desproporcionada para el logro. Se metió al agua con las botas puestas hasta que el fondo cambió de textura y decidió que las botas podían esperar en la orilla.
 
 ***
 
 La competencia empezó sin que nadie la declarara oficialmente. Fue Nadir quien primero gritó un número desde su tramo de la orilla, y Danny quien lo discutió, y al cabo de un rato todos —incluido Héctor, que juraba que no iba a mojarse la caña por nada del mundo y terminó con los pantalones enrollados hasta la rodilla— llevaban una cuenta que nadie se ponía de acuerdo en cómo sumar.
 
-—Ese no cuenta —dijo Danny, señalando algo diminuto que Nadir sostenía con orgullo excesivo—. Eso es una sardina con aspiraciones.
+—Ése no cuenta —dijo Danny, señalando algo diminuto que Nadir sostenía con orgullo excesivo—. Eso es una sardina con aspiraciones.
 
 —Cuenta. Tiene aletas, tiene cola, entró al agua vivo y salió muerto. Es pez. —Nadir lo sostuvo más alto, como prueba en un juicio—. Wallah, si no cuenta el mío, tampoco cuenta el de Kal, que se lo robó a una garza.
 
@@ -281,7 +281,7 @@ La competencia empezó sin que nadie la declarara oficialmente. Fue Nadir quien 
 
 —La garza estaba ahí parada, esperando, y tú llegaste con la caña. Eso es competencia desleal.
 
-Chiara, con tres peces propios que a esas alturas ya nadie recordaba bien cómo contar, se rió más fuerte de lo que llevaba riéndose en semanas, y Héctor, desde la orilla, sin levantar la vista de su propia caña, dijo que en cuarenta años de pescar en ese lago nunca había visto una discusión tan tonta ganar tanto tiempo.
+Chiara, con tres peces propios que a esas alturas ya nadie recordaba bien cómo contar, se rio más fuerte de lo que llevaba riéndose en semanas, y Héctor, desde la orilla, sin levantar la vista de su propia caña, dijo que en cuarenta años de pescar en ese lago nunca había visto una discusión tan tonta ganar tanto tiempo.
 
 —Entonces cuenta el suyo, Héctor —le gritó Nadir—. Usted es el juez.
 
@@ -299,13 +299,13 @@ En enero ella había estado eligiendo sofás para la casa de él.
 
 —No dijiste nada.
 
-—Es solo un día más.
+—Es sólo un día más.
 
 Chiara no insistió.
 
 Para cuando el sol empezó a bajar, el marcador seguía tan disputado como al principio, con Danny acusando a Nadir de contar dos veces el mismo pez y Nadir jurando por su madre que no, y nadie —ni siquiera Chiara, que en cualquier otro terreno hubiera cerrado la discusión en diez segundos con una versión que todos aceptaran— tuvo ningún interés real en resolverlo. La discusión, entendió, era el punto.
 
-Sólo una persona en la orilla no había entrado en la cuenta. Pescaba sola en las piedras del extremo, sin gritar números, con una chaqueta negra amarrada a la cintura y el pelo en dos chongos que el sol ponía casi rojos. La muchacha del taller, la del Camaro. Chiara la vio sacar uno que habría cerrado la discusión de una vez, más grande que todo lo de Nadir junto; la vio sostenerlo un segundo contra la luz, quitarle el anzuelo con cuidado y devolverlo al agua.
+Sólo una persona en la orilla no había entrado en la cuenta. Pescaba sola en las piedras del extremo, sin gritar números, con una chaqueta negra amarrada a la cintura y el pelo en dos moños que el sol ponía casi rojos. La muchacha del taller, la del Camaro. Chiara la vio sacar uno que habría cerrado la discusión de una vez, más grande que todo lo de Nadir junto; la vio sostenerlo un segundo contra la luz, quitarle el anzuelo con cuidado y devolverlo al agua.
 
 —¡Meiko! —le gritó Nadir desde su tramo—. ¿Cuántos llevas?
 
@@ -369,7 +369,7 @@ Chiara sí. Desde la parrilla los veía chicos, de perfil contra el agua. Nadir 
 
 El viento venía del lago y le traía pedazos.
 
-—... debajo del nombre de Varek, khoya. Mi nombre debajo del suyo. Y me lo cuentas en el taller, con la silla ya puesta.
+—… debajo del nombre de Varek, khoya. Mi nombre debajo del suyo. Y me lo cuentas en el taller, con la silla ya puesta.
 
 Kal dijo algo que no llegó.
 
@@ -377,7 +377,7 @@ Kal dijo algo que no llegó.
 
 Héctor le puso a Chiara otro pedazo de pescado en el plato. Ella lo dejó ahí.
 
-—... es mi cuenta, no la tuya. Yo sé lo que cuesta un sello. A ti nadie te saca de aquí con un sello.
+—… es mi cuenta, no la tuya. Yo sé lo que cuesta un sello. A ti nadie te saca de aquí con un sello.
 
 Kal no contestó. Desde la parrilla no se oía nada más, pero Chiara reconoció la postura, la misma de esa mañana en la piedra: la mano en el costado, la mirada en el agua, ningún argumento. Nadir esperó también. Después dijo algo corto, le dio la espalda y volvió por la arena, moviendo ya las manos otra vez.
 
@@ -403,7 +403,7 @@ Chiara se aferró a su cuello con las dos manos.
 
 —Peor. Yo araño y muerdo.
 
-Kal se rió, una carcajada corta y de verdad.
+Kal se rio, una carcajada corta y de verdad.
 
 —Kal Mercer, no vayas a soltarme.
 
@@ -447,7 +447,7 @@ Chiara tomó aire para decir algo y lo soltó.
 
 —Gracias por venir.
 
-Ella levantó la cabeza de su hombro lo justo para mirarlo, y Kal ya la estaba mirando a ella. Esta vez no hubo torpeza ninguna — no como la primera, en el mirador, cuando ninguno de los dos sabía todavía qué estaba permitido—; fue corto, tranquilo, sin nada que demostrar ni que apurar, y a Chiara le supo, sin poder explicarse por qué, a algo parecido a estar en casa.
+Ella levantó la cabeza de su hombro lo justo para mirarlo, y Kal ya la estaba mirando a ella. Esta vez no hubo torpeza ninguna —no como la primera, en el mirador, cuando ninguno de los dos sabía todavía qué estaba permitido—; fue corto, tranquilo, sin nada que demostrar ni que apurar, y a Chiara le supo, sin poder explicarse por qué, a algo parecido a estar en casa.
 
 ***
 
@@ -459,13 +459,13 @@ Cuando se dieron la vuelta, Héctor se guardaba el teléfono en el bolsillo de l
 
 —Última carga —anunció Walt, cerrando su nevera—, o nos agarra la noche en el camino.
 
-Fueron subiendo al coche de cada quien entre despedidas cortas, gritos de "el sábado en el taller" y la promesa de Nadir de que la próxima vez iba a traer una báscula para que nadie pudiera discutirle el marcador. Chiara se despidió de todos con un abrazo, incluida Harper, que lo recibió con una sorpresa breve y después lo devolvió sin comentarios, y volvió al Audi con Kal.
+Fueron subiendo al coche de cada quien entre despedidas cortas, gritos de «el sábado en el taller» y la promesa de Nadir de que la próxima vez iba a traer una báscula para que nadie pudiera discutirle el marcador. Chiara se despidió de todos con un abrazo, incluida Harper, que lo recibió con una sorpresa breve y después lo devolvió sin comentarios, y volvió al Audi con Kal.
 
 ***
 
 El camino de vuelta fue callado. La radio sonaba baja, la calefacción a tope les fue secando la ropa poco a poco, y las luces de los otros coches se fueron perdiendo una por una en las bifurcaciones hasta que quedaron solos en la carretera, con el olor a lago todavía metido en la piel y en el pelo.
 
-La ciudad apareció despacio, primero como un resplandor contra las nubes bajas y después como calles de verdad, semáforos, gente. El ruido del día — la pesca, las risas, el agua — se fue quedando atrás con cada cuadra, hasta que sólo quedaron ellos dos y el motor.
+La ciudad apareció despacio, primero como un resplandor contra las nubes bajas y después como calles de verdad, semáforos, gente. El ruido del día —la pesca, las risas, el agua— se fue quedando atrás con cada cuadra, hasta que sólo quedaron ellos dos y el motor.
 
 Kal dobló hacia el barrio sin que ella tuviera que decirle la dirección.
 

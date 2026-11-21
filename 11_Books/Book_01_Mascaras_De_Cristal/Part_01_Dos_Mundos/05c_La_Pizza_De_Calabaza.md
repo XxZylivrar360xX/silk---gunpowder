@@ -158,7 +158,7 @@ Héctor siguió mirándolo. Rocco también.
 
 Kal sintió que había cometido un error táctico.
 
-Danny bañó al perro en el lavadero del patio, con jabón de manos y la manguera de lavar defensas.
+Danny bañó al perro en el lavadero del patio, con jabón de manos y la manguera de lavar parachoques.
 
 —¿Y a dónde va mi perro, que hay que bañarlo dos veces? Porque él no ha firmado nada, jefe, y tiene derecho a saber.
 
@@ -214,7 +214,7 @@ Kal se sorprendió.
 
 —¿Bien?
 
-—Si fuera tuya, tendría que preguntarte de dónde sacaste esa pendejada.
+—Si fuera tuya, tendría que preguntarte de dónde sacaste esa estupidez.
 
 ***
 
@@ -244,7 +244,7 @@ No venía de rojo. Esa noche llevaba negro, líneas limpias, tacones que podían
 
 A su izquierda caminaba una mujer de cincuenta y tantos, traje gris perla, el pelo corto y canoso de alguien que hacía años había decidido no gastar mañanas en teñírselo. A su derecha, un hombre de sesenta y tantos, barba y cabello blancos, abrigo de lana y la sonrisa de las fotos oficiales puesta incluso para el valet.
 
-Kal los reconoció a los dos antes de terminar de entender en qué se había metido. A ella la había visto en los noticieros de Plaza Corona, detrás de un atril con el escudo del condado: Katherine Rowe, fiscal de distrito. A él, en espectaculares de una campaña que nadie se había tomado la molestia de quitar: Edward Connors, fiscal general del estado.
+Kal los reconoció a los dos antes de terminar de entender en qué se había metido. A ella la había visto en los noticieros de Plaza Corona, detrás de un atril con el escudo del condado: Katherine Rowe, fiscal de distrito. A él, en vallas publicitarias de una campaña que nadie se había tomado la molestia de quitar: Edward Connors, fiscal general del estado.
 
 Se puso de pie despacio. Rocco no.
 
@@ -288,7 +288,7 @@ Connors miró la huella.
 
 —Funciona mejor con tortilla —dijo Kal, porque algo había que decir.
 
-Rowe se rió. Fue una risa corta y seca, de pasillo de juzgado, y no la escondió.
+Rowe se rio. Fue una risa corta y seca, de pasillo de juzgado, y no la escondió.
 
 Un sedán oscuro se detuvo detrás de la camioneta. Rowe besó a Chiara en la mejilla y después se volvió hacia Kal. No le dio la mano. Le apretó el brazo, arriba, por encima del codo, a través de la tela del traje, y no lo soltó enseguida.
 
@@ -330,7 +330,7 @@ Chiara se quedó mirando al esqueleto: el bigote de marcador, el delantal, la bo
 
 —En Palermo los muertos les traen regalos a los niños. La noche del primero al dos de noviembre. Te dejan dulces debajo de la cama y una muñeca de azúcar pintada, y en la mañana te dicen que te los trajeron tus muertos. —Subió otro escalón—. Yo escondía la muñeca para que me durara. Me duraba hasta que la encontraban las hormigas.
 
-Kal no supo qué se contestaba a eso. Miró la calabaza del escalón siguiente, que tenía la boca chueca.
+Kal no supo qué se contestaba a eso. Miró la calabaza del escalón siguiente, que tenía la boca torcida.
 
 —Si prefiere, nos pone mesa adentro.
 
@@ -364,7 +364,7 @@ Chiara tomó la copa de agua.
 
 Kal todavía no tenía la respuesta cuando Enzo subió la escalera como si la hubiera alfombrado él.
 
-Kal lo conocía de cocina: mandil manchado, trapo al hombro, la boca llena de opiniones sobre el espresso. Esa noche traía chaleco negro, una servilleta blanca doblada sobre el antebrazo, el pelo peinado con algo que brillaba y una postura que Kal no le había visto nunca. Se detuvo junto a la mesa a la distancia exacta de un mesero con treinta años en Milán.
+Kal lo conocía de cocina: delantal manchado, trapo al hombro, la boca llena de opiniones sobre el espresso. Esa noche traía chaleco negro, una servilleta blanca doblada sobre el antebrazo, el pelo peinado con algo que brillaba y una postura que Kal no le había visto nunca. Se detuvo junto a la mesa a la distancia exacta de un mesero con treinta años en Milán.
 
 —Buonasera, signora. —Una inclinación de cabeza para ella. Otra, más honda, para él—. Señor Mercer. Siempre un honor.
 
@@ -386,7 +386,7 @@ Kal aguantó medio segundo. No le alcanzó. La risa se le escapó por la nariz y
 
 Chiara se llevó la servilleta a la boca, muy despacio, como si se estuviera limpiando algo que no estaba ahí.
 
-Enzo se volvió hacia ella con la carta de vinos abierta sobre la palma. Le recomendó un Nero d'Avola "de la casa de un primo" y un Barolo que costaba lo mismo que una transmisión. Ella olió el primero, no lo aprobó del todo y lo pidió de todos modos. Enzo lo celebró como si lo hubiera elegido el Papa.
+Enzo se volvió hacia ella con la carta de vinos abierta sobre la palma. Le recomendó un Nero d'Avola «de la casa de un primo» y un Barolo que costaba lo mismo que una transmisión. Ella olió el primero, no lo aprobó del todo y lo pidió de todos modos. Enzo lo celebró como si lo hubiera elegido el Papa.
 
 —Y esta noche, signora, la especialidad de la casa. —Hizo una pausa que quería ser solemne—. Pizza de calabaza.
 
@@ -426,7 +426,7 @@ Kal tardó un segundo en entender que se acordaba.
 
 —Dice que así sabe que sigue afuera.
 
-Le contó también de las plantas de Nadir, que Nadir llamaba medicinales y Héctor llamaba evidencia, y del mediodía en que Walt supo cuánto costaba un refresco y dejó la cuchara como si le hubieran dado una mala noticia. Ella quiso saber qué plantas. Él no le dijo. Ella se rió igual.
+Le contó también de las plantas de Nadir, que Nadir llamaba medicinales y Héctor llamaba evidencia, y del mediodía en que Walt supo cuánto costaba un refresco y dejó la cuchara como si le hubieran dado una mala noticia. Ella quiso saber qué plantas. Él no le dijo. Ella se rio igual.
 
 Después se quedó con el tenedor quieto sobre el plato.
 
@@ -592,7 +592,7 @@ Rocco levantó la cabeza y ladró dos veces, con la cola golpeando la pata de la
 
 —No, no, no. No digas que sí.
 
-Chiara se rió, y esta vez no se tapó la boca.
+Chiara se rio, y esta vez no se tapó la boca.
 
 ***
 

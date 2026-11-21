@@ -38,9 +38,9 @@ Función: ejecuta [[06_Relationships/Hitos#H16 — El cumpleaños / la mudanza o
 
 La despertó el agua.
 
-No el ruido de la regadera, que en ese loft sonaba como una tubería con opiniones, sino el del fregadero de la cocina, corriendo a esa hora en que la luz de las ventanas altas todavía no decidía de qué color iba a ser. Chiara se quedó quieta un momento, con la mano en el lado de la cama que seguía frío, y después bajó descalza, sin prender nada.
+No el ruido de la ducha, que en ese loft sonaba como una tubería con opiniones, sino el del fregadero de la cocina, corriendo a esa hora en que la luz de las ventanas altas todavía no decidía de qué color iba a ser. Chiara se quedó quieta un momento, con la mano en el lado de la cama que seguía frío, y después bajó descalza, sin prender nada.
 
-Kal estaba de espaldas, con las mangas subidas hasta el codo. Se tallaba las manos bajo el chorro con el jabón de los platos, despacio, entre los dedos, en los nudillos, como quien limpia una pieza antes de devolverla. El agua se iba por el desagüe rosada y después, poco a poco, menos rosada. Junto a la puerta había dos botas con más lodo seco del que daba una calle de la Almendra en noviembre.
+Kal estaba de espaldas, con las mangas subidas hasta el codo. Se frotaba las manos bajo el chorro con el jabón de los platos, despacio, entre los dedos, en los nudillos, como quien limpia una pieza antes de devolverla. El agua se iba por el desagüe rosada y después, poco a poco, menos rosada. Junto a la puerta había dos botas con más lodo seco del que daba una calle de la Almendra en noviembre.
 
 Él la oyó en el último escalón. No volteó.
 
@@ -66,7 +66,7 @@ No le había dicho feliz cumpleaños.
 
 Ella subió, se metió en la cama del lado de él, que seguía frío también, y no se volvió a dormir.
 
----
+***
 
 En el Monarch nadie se olvidaba de nada. Era una de las cosas que pagaba.
 
@@ -110,7 +110,7 @@ Kal no escribió en todo el día. Eso no era raro; Kal escribía como quien mand
 
 A las siete subió al Penthouse a cambiarse para nada. No tenía planes. Nadie le había preguntado si tenía planes.
 
----
+***
 
 Contestó al tercer timbre, ya sin zapatos y pensando en poco más.
 
@@ -136,7 +136,7 @@ Kal no le peleó el chiste. Tenía el día entero en la voz.
 
 —Quédate ahí. Voy por ti.
 
----
+***
 
 Cuando Kal abrió la puerta del Penthouse veinte minutos después, Chiara lo vio antes de que él dijera nada: el saco con una mancha de tierra seca en toda la manga izquierda, la camisa por fuera del pantalón en un punto, un rasguño fino cruzándole la mejilla que no tenía esa mañana. Los nudillos de la derecha, los mismos del fregadero, y ahora también tierra en los de la izquierda.
 
@@ -164,7 +164,7 @@ Héctor estaba sentado sobre una paca de heno junto al primer box, con una piern
 
 —Héctor. ¿Usted también?
 
-—Yo vine a cuidar que este no se perdiera. —Señaló el box con la barbilla—. La de ahí sí se perdió.
+—Yo vine a cuidar que éste no se perdiera. —Señaló el box con la barbilla—. La de ahí sí se perdió.
 
 La yegua los miraba por encima de la reja de madera, blanca, todavía inquieta, con una brizna de paja colgándole de las crines. Kal no la había puesto en el box del fondo. Ése seguía vacío.
 
@@ -182,13 +182,13 @@ Chiara miró a Kal. Kal miraba la yegua.
 
 —¿Y usted corrió cuatro horas?
 
-—Caminé rápido. —Héctor se acomodó la pierna con las dos manos, sin hacer gestos—. Me senté una vez. Este se quedó en cuclillas enfrente como si yo fuera a salir corriendo también, y así perdimos veinte minutos.
+—Caminé rápido. —Héctor se acomodó la pierna con las dos manos, sin hacer gestos—. Me senté una vez. Éste se quedó en cuclillas enfrente como si yo fuera a salir corriendo también, y así perdimos veinte minutos.
 
 —Héctor —dijo Kal.
 
 —Ya me voy. —Se levantó en dos tiempos, apoyándose en la reja, y se puso la gorra—. Le dije que no sabe cargar un caballo sin que se le escape algo, señora. Y no me refería al animal.
 
-Se fue por el pasillo sin despedirse más. Lo oyeron arrancar la camioneta afuera y pelear con la reversa del remolque.
+Se fue por el pasillo sin despedirse más. Lo oyeron arrancar la camioneta afuera y pelear con la marcha atrás del remolque.
 
 Chiara se acercó al box despacio. La yegua bajó la cabeza hacia ella, le olió los dedos, el reloj, la manga. Antes de pensarlo, Chiara le puso la mano en el cuello, en la base de la crin, y la bajó despacio, a favor del pelo. Una vez y otra. La yegua soltó el aire por la nariz.
 
@@ -208,7 +208,7 @@ Ella lo pensó un momento, con la mano quieta contra el pelaje tibio.
 
 —Stella —repitió Kal, hacia la yegua, como si se la presentara.
 
----
+***
 
 En el coche, de camino a la Almendra, Kal manejaba con la izquierda. La derecha la llevaba sobre la pierna, abierta, sin apoyarla en el volante.
 
@@ -232,9 +232,9 @@ Lo dijo sin pensarlo, como se dice lo que es verdad. Chiara asintió. La cerca e
 
 —Mañana le llevo el desayuno.
 
-Chiara se recargó en la ventanilla. En la Almendra ya casi no quedaban luces, y él tomó la vuelta del taller sin frenar del todo, como quien llega a su casa.
+Chiara se apoyó en la ventanilla. En la Almendra ya casi no quedaban luces, y él tomó la vuelta del taller sin frenar del todo, como quien llega a su casa.
 
----
+***
 
 Ya en el loft, con Chiara todavía oliendo un poco a establo y Kal sin haberse cambiado el traje porque a esas alturas ya no tenía sentido, él la llevó al fondo de la planta baja, se puso en cuclillas y levantó el tablón suelto. Crujió en dos tiempos, como en la mañana. La segunda sorpresa estaba acostada en el hueco, junto a la caja de acero: una botella envuelta en una manta gris, metida ahí de prisa, sin ninguna puesta en escena.
 
@@ -256,7 +256,7 @@ Chiara se rio, una risa corta que le salió antes de que pudiera decidir si deb�
 
 Nadie preguntó de dónde había salido la botella. Chiara le vio los nudillos de la derecha sobre la manta gris, los del fregadero, y decidió, como con el rasguño de la mejilla, que había cosas que no necesitaba saber esa noche.
 
----
+***
 
 La cajita llegó al final, cuando Chiara ya empezaba a pensar que los regalos habían terminado.
 
@@ -288,7 +288,7 @@ Se calló.
 
 Kal no sonrió del todo. Hizo algo más cercano a relajar la mandíbula, un gesto que en cualquier otro hombre habría pasado inadvertido y que Chiara, para entonces, sabía leer mejor que una frase completa.
 
----
+***
 
 Más tarde, cuando Kal ya dormía y el loft estaba en silencio salvo por el motor lejano de algún auto en la calle, Chiara bajó con la caja de las joyas que nunca usaba en público —las que su madre le había dejado, las que no cabían en ninguna versión de sí misma que hubiera construido hasta ahora— y las guardó en la caja de acero bajo el tablón suelto. Ya había ahí un sobre con escrituras, algo de efectivo que no era ni completamente suyo ni completamente de él, y la llave sobrante de un auto que ninguno de los dos manejaba.
 
@@ -296,7 +296,7 @@ Lo otro se quedaba en el Monarch, detrás del mueble de nogal, con su liga roja 
 
 Cerró la caja, encajó el tablón, que crujió en dos tiempos, y subió a dormir. La llave nueva ya estaba en su llavero, junto a las otras.
 
----
+***
 
 Las invitaciones llegaron el miércoles, en sobres de papel grueso, cien en total, todos con la misma letra impersonal de imprenta. *La señora Bellandi la invita a una velada a bordo, el viernes diez, en la costa.* Nada de cumpleaños. Ningún nombre propio en el cuerpo del texto —sólo fecha, hora, muelle—, porque a Chiara nunca le había hecho falta un motivo para reunir a la ciudad correcta en el lugar correcto.
 
@@ -312,7 +312,7 @@ De todos los que abrirían una carta suya esa semana, él era el único que no t
 
 Guardó el sobre de Kal aparte, separado de la pila, antes de mandar el resto.
 
----
+***
 
 Esa noche programó la cafetera por primera vez, y a la mañana siguiente se despertó antes que él para comprobar que funcionaba. Funcionaba. Sacó la taza de él y la dejó junto a la máquina.
 

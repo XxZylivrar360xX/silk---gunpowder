@@ -24,19 +24,19 @@ Llevaba el cabello corto, apenas rozándole los hombros. El abrigo vino iba sobr
 
 —¿A casa, señora Bellandi?
 
-Chiara sintió, sin buscarlas, las llaves en el fondo del bolso — las del loft, entre las demás, un peso que no había cambiado en meses.
+Chiara sintió, sin buscarlas, las llaves en el fondo del bolso: las del loft, entre las demás, un peso que no había cambiado en meses.
 
 —Al Monarch —dijo—. Torre Norte.
 
 El chofer no preguntó nada más. Cerró la puerta y el coche arrancó hacia la ciudad, con las luces de San Aurelio empezando a encenderse contra un cielo que todavía no había decidido si era de día o de noche.
 
----
+***
 
 El penthouse la recibió con el silencio particular de un sitio que llevaba tiempo sin usarse para nada más que guardar cosas: la calefacción puesta en el mínimo, las cortinas a medio abrir por el servicio de limpieza que entraba una vez por semana sin que nadie se lo pidiera dos veces. Chiara dejó la maleta junto a la puerta y no encendió más luces de las necesarias.
 
 Se cambió el abrigo por algo de trabajo y bajó al Monarch antes de que terminara de anochecer.
 
----
+***
 
 La oficina que había sido de Matteo seguía teniendo su nombre en la puerta. Nadie lo había quitado, ni por descuido ni por respeto; simplemente nadie había tenido tiempo de decidir qué hacer con una placa cuando el hombre detrás de ella podía volver cualquier semana, o ninguna.
 
@@ -44,7 +44,7 @@ Chiara se sentó en la silla que no era suya.
 
 La nota seguía en el cajón de arriba, donde ella misma la había guardado: *Elio desapareció. Tengo que volver a Génova.* Debajo, la promesa de llamar cuando supiera algo. No había llamado. Chiara cerró el cajón sin volver a leerla.
 
-Sobre el escritorio había tres carpetas que en cualquier otra semana habrían llegado directamente a manos de Matteo: una aprobación de nómina para la sala privada, pendiente desde hacía cuatro días; un contrato de mantenimiento del sistema de climatización que alguien había firmado a medias, esperando la segunda firma que nadie sabía a quién pedirle ahora; y una llamada, ya registrada dos veces en la libreta de la recepción, de un proveedor de licores preguntando a quién debía facturarle desde que "el señor Bellacorte" había dejado de contestar.
+Sobre el escritorio había tres carpetas que en cualquier otra semana habrían llegado directamente a manos de Matteo: una aprobación de nómina para la sala privada, pendiente desde hacía cuatro días; un contrato de mantenimiento del sistema de climatización que alguien había firmado a medias, esperando la segunda firma que nadie sabía a quién pedirle ahora; y una llamada, ya registrada dos veces en la libreta de la recepción, de un proveedor de licores preguntando a quién debía facturarle desde que «el señor Bellacorte» había dejado de contestar.
 
 Firmó la nómina. Dejó el contrato para el día siguiente. Le devolvió la llamada al proveedor ella misma.
 
@@ -62,7 +62,7 @@ Colgó antes de que ella terminara de decir que no había más que decir.
 
 Chiara se quedó con el teléfono todavía en la mano, mirando la puerta con el nombre de Matteo, y tachó la mantelería de la lista.
 
----
+***
 
 Fue la carpeta de Génova la que no le cuadró.
 
@@ -82,7 +82,7 @@ La persona obvia para pedirle que siguiera esa camioneta era Kal.
 
 No lo llamó.
 
----
+***
 
 El teléfono sonó cerca de las nueve, cuando Chiara todavía estaba en el despacho con la hoja doblada en el bolsillo.
 
@@ -96,7 +96,7 @@ El teléfono sonó cerca de las nueve, cuando Chiara todavía estaba en el despa
 
 Fue todo lo que dijo. Kal no insistió, y ella tampoco alargó la llamada más de lo necesario: preguntó si había comido, él dijo que sí, ella no lo creyó del todo y no lo dijo, y colgaron los dos casi al mismo tiempo, sin que ninguno mencionara dónde estaba el otro.
 
----
+***
 
 Buscar a Bonnie le tomó una llamada, no más. El equipo de seguridad del Monarch había manejado los accesos del grupo del Patio en la fiesta del yate, la semana anterior, y ahí quedó, en alguna lista de control, el nombre de Bonnie junto a un número. De ahí hubo un solo paso.
 

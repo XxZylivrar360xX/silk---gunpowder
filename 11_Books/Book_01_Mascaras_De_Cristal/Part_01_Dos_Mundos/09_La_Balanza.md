@@ -10,7 +10,7 @@ Funcion: la primera jugada limpia de Kal la cobra Crowe en el cuerpo de Chiara. 
 
 # Capítulo 11 — La balanza
 
-El primer coche del convenio fue un Civic gris con el parabrisas estrellado y la defensa amarrada con alambre. Kal lo recogió el lunes en el corralón del sur, en la calle de las vías, porque la hoja de custodia decía que el traslado empezaba ahí y que a partir de esa firma el coche era suyo hasta el día de la audiencia.
+El primer coche del convenio fue un Civic gris con el parabrisas estrellado y el parachoques amarrado con alambre. Kal lo recogió el lunes en el corralón del sur, en la calle de las vías, porque la hoja de custodia decía que el traslado empezaba ahí y que a partir de esa firma el coche era suyo hasta el día de la audiencia.
 
 El encargado del corralón le entregó las llaves sin levantarse de la silla de plástico. Tenía un radio pegado a la oreja y no lo apagó. Miró la grúa, la calcomanía nueva de la fiscalía en la puerta, todavía con las burbujas debajo, y la miró más tiempo que a Kal.
 
@@ -22,7 +22,7 @@ El encargado del corralón le entregó las llaves sin levantarse de la silla de 
 
 Lo dijo como se le dice a alguien que va a cruzar una calle sin ver. En el barrio todos sabían que el corralón del sur le pagaba cuota a Crowe, igual que la mitad de los negocios de la calle de las vías, y Kal lo sabía desde antes de que Garrett le pusiera la pluma en la mano en la oficina de Rowe. Lo había pensado una noche entera. Había decidido que el convenio era trabajo y que el trabajo no le debía nada a nadie.
 
-El Civic tenía el estéreo arrancado y el tanque vacío. Kal le revisó el aceite, le cambió el foco de un faro y le llenó el tanque en la gasolinera de la avenida antes de entregarlo, porque un coche que va a un juicio tiene que poder moverse si alguien lo pide, y porque no sabía entregar un coche de otra manera. En el resguardo de la fiscalía, una empleada con lentes en la frente le revisó la hoja, dio la vuelta al coche con la tabla en la mano y se agachó a ver el tablero.
+El Civic tenía el estéreo arrancado y el tanque vacío. Kal le revisó el aceite, le cambió la bombilla de un faro y le llenó el tanque en la gasolinera de la avenida antes de entregarlo, porque un coche que va a un juicio tiene que poder moverse si alguien lo pide, y porque no sabía entregar un coche de otra manera. En el resguardo de la fiscalía, una empleada con lentes en la frente le revisó la hoja, dio la vuelta al coche con la tabla en la mano y se agachó a ver el tablero.
 
 —Trae el tanque lleno.
 
@@ -30,7 +30,7 @@ El Civic tenía el estéreo arrancado y el tanque vacío. Kal le revisó el acei
 
 La empleada lo miró por encima de los lentes. No le creyó, y firmó.
 
-Al salir, en el espejo de la grúa, vio que el encargado del corralón ya no estaba en la silla. Estaba en la banqueta, con el teléfono en la oreja, mirando hacia donde él iba.
+Al salir, en el espejo de la grúa, vio que el encargado del corralón ya no estaba en la silla. Estaba en la acera, con el teléfono en la oreja, mirando hacia donde él iba.
 
 ***
 
@@ -90,7 +90,7 @@ Colgó. Le llegó la ubicación antes de que alcanzara la puerta.
 
 No tomó el Audi. El Audi era rápido, pero en el Audi no cabían tres personas, una de ellas lastimada, y no se le podía enganchar nada. Tomó la grúa grande, la de la cabina roja y la pluma de doble polea, y Danny, que lo vio pasar con la cara que traía, apagó la radio sin que nadie se lo pidiera.
 
-Hizo catorce minutos. Conocía Las Calderas como se conoce la casa de un pariente con el que uno no se habla: las bodegas de lámina, las vías del tren de carga que partían el barrio en dos, los perros sueltos, las cortinas que nadie bajaba porque no quedaba nada que cuidar adentro. La bodega tenía la cortina arriba y la mitad del techo en el piso. Entró de reversa, con la alarma pitando, y frenó a un metro de la columna.
+Hizo catorce minutos. Conocía Las Calderas como se conoce la casa de un pariente con el que uno no se habla: las bodegas de lámina, las vías del tren de carga que partían el barrio en dos, los perros sueltos, las cortinas que nadie bajaba porque no quedaba nada que cuidar adentro. La bodega tenía la cortina arriba y la mitad del techo en el piso. Entró marcha atrás, con la alarma pitando, y frenó a un metro de la columna.
 
 Estaban sentadas en el concreto, contra la columna, una junto a la otra.
 
@@ -130,7 +130,7 @@ Se levantó. Rowe estaba descalza, con una mejilla roja hasta la oreja y la corr
 
 Rowe se lo repitió palabra por palabra, como se repite una declaración.
 
-—*Las joyas pesan más en la balanza.* —Lo miró—. A ella le hablaron de usted. Del güero de la grúa. ¿Le dice algo, señor Mercer?
+—*Las joyas pesan más en la balanza.* —Lo miró—. A ella le hablaron de usted. Del rubio de la grúa. ¿Le dice algo, señor Mercer?
 
 —No.
 
@@ -154,7 +154,7 @@ Chiara no contestó. Rowe ya subía el escalón de la entrada cuando ella se inc
 
 —*Ciao, tesoro.*
 
-Rowe parpadeó. Después se rió con la boca abierta, por primera vez, y la risa se le fue rompiendo a medio camino, y se dio la vuelta antes de que terminara de romperse.
+Rowe parpadeó. Después se rio con la boca abierta, por primera vez, y la risa se le fue rompiendo a medio camino, y se dio la vuelta antes de que terminara de romperse.
 
 ***
 
@@ -230,7 +230,7 @@ Chiara miró la férula. Kal la vio hacer una cuenta. No supo de qué: le vio lo
 
 Kal no contestó.
 
-Metió la primera. La grúa salió del callejón con el Mercedes meciéndose detrás, y en el primer semáforo, con el pie en el freno, Kal volvió a ver lo que no había visto: a ella con el brazo de un hombre entre las dos manos, por una mujer con la que había tomado un café, sin saber que el recado traía también el nombre de él. Y ahora, con *el güero de la grúa* dicho en voz alta en una bodega de Las Calderas, ella pedía que la vieran con él. En la calle. En su barrio. Donde Crowe tenía ojos en cada mostrador.
+Metió la primera. La grúa salió del callejón con el Mercedes meciéndose detrás, y en el primer semáforo, con el pie en el freno, Kal volvió a ver lo que no había visto: a ella con el brazo de un hombre entre las dos manos, por una mujer con la que había tomado un café, sin saber que el recado traía también el nombre de él. Y ahora, con *el rubio de la grúa* dicho en voz alta en una bodega de Las Calderas, ella pedía que la vieran con él. En la calle. En su barrio. Donde Crowe tenía ojos en cada mostrador.
 
 No era alguien que no supiera lo que estaba diciendo. Lo sabía. Lo había dicho igual.
 
@@ -276,7 +276,7 @@ Danny salió de la casa de una vez, sin el estirón ni la broma. En tres días n
 
 —Jefe.
 
-Kal ya los había oído. Por el callejón de atrás, el que daba a la cancha y no a la calle, entraban dos autos: sedanes largos y viejos, uno gris y otro de un rojo que había sido mejor, con las defensas cromadas, despacio, como entran los coches que no tienen que pedir permiso. El balón botó una vez más contra la malla y nadie fue por él. Alguien apagó el radio.
+Kal ya los había oído. Por el callejón de atrás, el que daba a la cancha y no a la calle, entraban dos autos: sedanes largos y viejos, uno gris y otro de un rojo que había sido mejor, con los parachoques cromados, despacio, como entran los coches que no tienen que pedir permiso. El balón botó una vez más contra la malla y nadie fue por él. Alguien apagó el radio.
 
 Los muchachos no se juntaron. Se abrieron, sin ruido, y Kal vio que dos se quedaban en la puerta de la casa, debajo de la ventana de ella, sin mirar hacia arriba. Uno era el de la gorra al revés.
 
@@ -314,11 +314,11 @@ Nadir se puso el trapo al hombro y se adelantó medio paso.
 
 No subió la voz, y no levantó la vista hacia la ventana para decirlo. Miró a Kal.
 
-Crowe se tomó su tiempo con Kal. Lo miró de arriba abajo, como se mira un reloj que alguien trae a empeñar y que vale menos de lo que su dueño cree. Después se rió, una risa corta, por la nariz.
+Crowe se tomó su tiempo con Kal. Lo miró de arriba abajo, como se mira un reloj que alguien trae a empeñar y que vale menos de lo que su dueño cree. Después se rio, una risa corta, por la nariz.
 
 —Ya me contestaron, muchacho.
 
-El joven le abrió la puerta. Crowe se metió al coche en los mismos dos tiempos. Antes de que el auto empezara a moverse ya tenía un teléfono en la oreja, y Kal lo vio por el vidrio de atrás: hablaba poco y miraba hacia arriba, hacia la ventana, mientras el auto salía de reversa por el callejón, despacio, con la grava crujiendo bajo las llantas. A esa distancia no se le oía nada. Crowe no llamaba así a nadie del barrio. En el barrio no hablaba por teléfono: mandaba a alguien.
+El joven le abrió la puerta. Crowe se metió al coche en los mismos dos tiempos. Antes de que el auto empezara a moverse ya tenía un teléfono en la oreja, y Kal lo vio por el vidrio de atrás: hablaba poco y miraba hacia arriba, hacia la ventana, mientras el auto salía marcha atrás por el callejón, despacio, con la grava crujiendo bajo las llantas. A esa distancia no se le oía nada. Crowe no llamaba así a nadie del barrio. En el barrio no hablaba por teléfono: mandaba a alguien.
 
 Por el otro extremo del callejón venía una moto.
 

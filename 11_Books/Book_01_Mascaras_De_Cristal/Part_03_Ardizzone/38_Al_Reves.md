@@ -25,7 +25,7 @@ El sobre estaba apoyado contra la cafetera, todavía tibia, con su nombre escrit
 
 Junto al nombre, un beso. Rojo, perfecto, dejado sobre el papel con el mismo cuidado con el que ella hacía cualquier otra cosa —nada corrido, nada de más— exactamente donde tenía que estar y en ningún otro lugar.
 
-Kal se quedó mirándolo con la taza en la otra mano. Del baño salía todavía el vapor de la regadera y en el lavabo había un frasco que no era suyo. Ella se había ido al Monarch antes de las siete.
+Kal se quedó mirándolo con la taza en la otra mano. Del baño salía todavía el vapor de la ducha y en el lavabo había un frasco que no era suyo. Ella se había ido al Monarch antes de las siete.
 
 Abrió el sobre. Arriba de todo, como un título:
 
@@ -53,7 +53,7 @@ Un chico junto a la cerca. Un papel doblado en cuatro. «Eso no te lo voy a deci
 
 *Antes de partir a Italia.* Eso no lo leyó dos veces. Lo leyó una y se lo guardó, igual que el sobre, en el bolsillo interior de la chaqueta.
 
----
+***
 
 Almendra Towing abría igual en Acción de Gracias; en la carretera, los feriados eran de choques. El patio ya tenía movimiento cuando llegó: una grúa saliendo, el radio de la oficina sonando bajo, Danny agachado junto a un motor con las manos negras hasta la muñeca.
 
@@ -151,7 +151,7 @@ Antes de partir a Italia, decía la carta.
 
 Guardó la bolsa otra vez y cerró con llave.
 
----
+***
 
 El armero de Cedar Flats tenía el taller en la cochera de su casa, detrás de una hilera de tanques de gas, y fundía sus propias balas porque no le gustaba lo que vendían en la ciudad. Fue Danny quien dio con él, a través del taller que había preguntado por el de la Almendra; a esas alturas, una pregunta conocía a otra.
 
@@ -185,7 +185,7 @@ No era de la ciudad. En toda esa semana sólo dio con dos personas que lo hubier
 
 Esa noche Kal lo escribió en la última hoja de la libreta de los fiados, con letra de molde, debajo de las fechas de cobro del Tasador, y no se lo dijo a nadie. A Chiara tampoco. Faltaban cinco días para el yate.
 
----
+***
 
 El viernes, a las ocho, el barco ya tenía la fiesta encendida: la pasarela iluminada como una alfombra, dos hombres del Monarch revisando invitaciones sin que nadie sintiera que lo hacían, La Isla detrás en una franja de luces bajas y, al frente, el agua negra y la ciudad subiendo por la colina hasta donde la niebla todavía no llegaba.
 
@@ -193,9 +193,9 @@ Kal llevaba el traje oscuro que ella le había elegido esa tarde y lo llevaba co
 
 Cabían tres fiestas: la del Monarch cerca de la barra, con los Ferretti hablándole a Tommaso de flores; la del capitán del Departamento en la popa, con sus tenientes y los hombres que un capitán siempre trae; y en la cubierta abierta la franela a cuadros debajo de sacos que no eran de nadie, Harper midiendo el agua desde la baranda, Nadir con un plato en cada mano, Héctor sentado en una banca, aparte de la música, con la gorra en la rodilla y un vaso de agua mineral que le duraba desde las ocho.
 
-Y Tyler junto a la mesa de los quesos, hablándole a la que llevaba la charola.
+Y Tyler junto a la mesa de los quesos, hablándole a la que llevaba la bandeja.
 
-Era Meiko. Camisa blanca, el pelo recogido, el delantal negro del catering que venía con el barco. Esa tarde Kal la había dejado bajo un Ford, con grasa hasta el codo; esa noche el Monarch no la necesitaba en la rampa, y el turno del barco era otro dinero. Tyler le decía algo y ella le sostenía la charola a la altura justa sin darle la cara, como si la charola fuera la que escuchaba. Cuando vio a Kal, no bajó los ojos. Le ofreció un queso como se lo habría ofrecido a cualquiera y siguió hacia la popa.
+Era Meiko. Camisa blanca, el pelo recogido, el delantal negro del catering que venía con el barco. Esa tarde Kal la había dejado bajo un Ford, con grasa hasta el codo; esa noche el Monarch no la necesitaba en la rampa, y el turno del barco era otro dinero. Tyler le decía algo y ella le sostenía la bandeja a la altura justa sin darle la cara, como si la bandeja fuera la que escuchaba. Cuando vio a Kal, no bajó los ojos. Le ofreció un queso como se lo habría ofrecido a cualquiera y siguió hacia la popa.
 
 Kal no dijo nada. Se lo guardó.
 
@@ -207,13 +207,13 @@ Chiara la miró. Le dio vuelta, despacio, como giraba los anillos. Iba a decir a
 
 Bonnie no estaba en la cubierta. Estaba de pie en el rellano donde se juntaban la escalera del salón y el pasillo de la pasarela, la espalda contra un mamparo, sin plato, mirando la escalera, después la pasarela, después la escalera otra vez. No había entrado a la fiesta. Había entrado al barco.
 
-Un mesero apareció con una charola y se detuvo: los invitados de los Ferretti habían salido a fumar y ocupaban el rellano entero.
+Un mesero apareció con una bandeja y se detuvo: los invitados de los Ferretti habían salido a fumar y ocupaban el rellano entero.
 
 —Por babor —le dijo Bonnie, sin levantar la voz—. La puerta de la cadena. Está sin candado.
 
 El mesero la midió y se fue por donde ella decía. Desde el otro lado, Kal vio a Chiara detenerse junto a la chica y preguntarle algo. La vio repetir una palabra, una sola vez, como quien la guarda, y seguir hacia el salón.
 
----
+***
 
 Kal lo vio desde la baranda de estribor, a doce o quince metros, con un vaso que no había tocado y Danny hablándole al lado.
 
@@ -223,7 +223,7 @@ Kal no se movió. Desde ahí no se oía nada: la música, el viento de diciembre
 
 Danny dejó de hablar.
 
-—¿Quieres que...?
+—¿Quieres que…?
 
 —No.
 
@@ -279,7 +279,7 @@ Kal se apartó de la baranda y le tendió la mano, con la palma abierta hacia ar
 
 —Ven.
 
----
+***
 
 El salón interior estaba vacío. Alguien había bajado las luces a la mitad para la cena y nadie las había vuelto a subir. Olía a cera de muebles. Por las ventanas laterales pasaba de vez en cuando la silueta de un invitado, y la música llegaba filtrada por el vidrio, más grave que aguda.
 
@@ -379,7 +379,7 @@ Kal dobló el papel por la mitad y otra vez, y se lo guardó en el bolsillo inte
 
 Y se lo quedó.
 
----
+***
 
 Afuera alguien subió la música y la volvió a bajar.
 
@@ -499,7 +499,7 @@ Kal se levantó del banco sin apuro y se quedó de pie frente a ella, a un metro
 
 Ella cerró los ojos un segundo.
 
-—Kal...
+—Kal…
 
 —Vas a ir. Ya lo decidiste, ya arreglaste el avión. No te estoy diciendo que no vayas ni que me esperes. Te estoy diciendo que voy. —Se tocó el bolsillo interior, donde llevaba dos papeles suyos—. Llevo meses sin saber quién te puso en ese hospital. Si el hilo está en Palermo, en Palermo voy a tirar de él.
 
@@ -521,7 +521,7 @@ Ella abrió los ojos. Kal le vio pasar por la cara tres o cuatro objeciones, ord
 
 —Chiara.
 
----
+***
 
 Cuando abrieron la puerta del salón, el viento y la música entraron de golpe.
 
@@ -531,7 +531,7 @@ Kal se quedó un rato solo en la baranda de estribor, con los antebrazos apoyado
 
 Nadie sabía que se despedían de algo. Sólo ella. Y él.
 
----
+***
 
 A la una menos algo, Kingsley Field era un lugar azul.
 
@@ -547,17 +547,17 @@ El teléfono le vibró en el bolsillo. Marisol.
 
 —¿Dónde estás?
 
-—Volviendo. Me trae Sam. No preguntes. —Una risa de alguien más, lejos—. Oye, lo del campamento de fin de año. No cuadramos el día. ¿El último viernes o el penúltimo? Porque el último tengo lo de Evidencia y el penúltimo...
+—Volviendo. Me trae Sam. No preguntes. —Una risa de alguien más, lejos—. Oye, lo del campamento de fin de año. No cuadramos el día. ¿El último viernes o el penúltimo? Porque el último tengo lo de Evidencia y el penúltimo…
 
 —Marisol.
 
-—... el penúltimo me sirve más, la verdad, pero si tú...
+—… el penúltimo me sirve más, la verdad, pero si tú…
 
 —Marisol. —Kal se pasó la mano por la cara—. Olvidé mencionarlo hace rato en la fiesta. Tengo que salir. Ya sabes. Negocios.
 
 Un silencio corto. Después:
 
-—¿Negocios en sábado, qué...?
+—¿Negocios en sábado, qué…?
 
 No terminó. A tres metros, el piloto le estaba diciendo a Chiara en voz alta algo sobre el asiento de la señora y el del señor Mercer, y si preferían embarcar ya o esperar diez minutos, y Chiara le contestó con la voz que usaba para todo, y el teléfono de Kal lo recogió entero.
 
@@ -567,10 +567,10 @@ Marisol se quedó callada el tiempo que se tarda en sumar dos y dos.
 
 —Marisol.
 
-—Te perdono solo porque cuando estamos enamorados, las explicaciones sobran.
+—Te perdono sólo porque cuando estamos enamorados, las explicaciones sobran.
 
 Y colgó.
 
 Kal se quedó con el teléfono en la oreja, mirando la pista azul a través del vidrio.
 
-—Espera... ¿cómo que estamos?
+—Espera… ¿cómo que estamos?

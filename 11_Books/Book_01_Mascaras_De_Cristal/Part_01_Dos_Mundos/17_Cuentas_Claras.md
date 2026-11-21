@@ -152,7 +152,7 @@ En la panadería de enfrente se abrió la puerta y salió la panadera, con el de
 
 Kal abrió el candado. Adentro, el patio estaba barrido. La silla verde del catálogo, todavía con el plástico de la tienda en las patas, esperaba junto a la puerta de la cocina, y Kal no sabía quién la había metido ni cuándo. Ayudó a Héctor a bajar, a cruzar, a sentarse, y volvió a la panadería por el pan de nata. La panadera le cobró, le dio el cambio contado en la mano y le dijo que se fuera con cuidado.
 
-Ya en la acera, con la bolsa caliente, Kal miró la llave que todavía tenía en la otra mano. El viernes, el chico de la vulcanizadora había cerrado una casa para que no le faltara nada a Héctor, y la llave no se la habían guardado a Walt, que conocía la cuadra desde antes que él, ni a Kal. Se la habían dado a ella. La había dejado en la panadería como quien regresa algo que no es suyo, y no se lo había dicho.
+Ya en la acera, con la bolsa caliente, Kal miró la llave que todavía tenía en la otra mano. El viernes, el chico de la vulcanizadora había cerrado una casa para que no le faltara nada a Héctor, y la llave no se la habían guardado a Walt, que conocía la cuadra desde antes que él, ni a Kal. Se la habían dado a ella. La había dejado en la panadería como quien devuelve algo que no es suyo, y no se lo había dicho.
 
 No sabía qué había pasado ese fin de semana en esa calle. Sabía que alguien había estado en la puerta cuando él no, y que la calle lo había notado.
 

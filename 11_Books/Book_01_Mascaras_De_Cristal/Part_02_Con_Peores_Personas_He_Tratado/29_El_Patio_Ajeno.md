@@ -121,7 +121,7 @@ Apretó la mandíbula. Asintió una sola vez.
 
 Kal se apoyó con las dos manos en el borde de la barra, como si necesitara algo sólido debajo. Lo de Varek le entró por otro lado del cuerpo, más arriba, y lo dejó entrar sin hacer nada con eso. Había prometido.
 
-—He estado dándole vueltas toda la noche —dijo ella, y se le acercó otro paso—. Un coche de otro estado. Un hombre que pregunta con educación. Gente que se toma la molestia de rentar un coche en Virginia para estacionarse en La Almendra. Eso no es de aquí, Kal. Eso es de antes. —No le tembló la voz—. ¿Te acuerdas de lo que me contaste? El general. El de los convoyes, el de los niños, el que se fue limpio. Dime que tienes alguna forma de encontrarlo. Alguna. Porque si lo encuentras, quedas fuera de todo.
+—He estado dándole vueltas toda la noche —dijo ella, y se le acercó otro paso—. Un coche de otro estado. Un hombre que pregunta con educación. Gente que se toma la molestia de rentar un coche en Virginia para estacionarse en la Almendra. Eso no es de aquí, Kal. Eso es de antes. —No le tembló la voz—. ¿Te acuerdas de lo que me contaste? El general. El de los convoyes, el de los niños, el que se fue limpio. Dime que tienes alguna forma de encontrarlo. Alguna. Porque si lo encuentras, quedas fuera de todo.
 
 Kal levantó la cabeza.
 
@@ -159,7 +159,7 @@ Hasta ahí no le había mentido. Ésa era la primera.
 
 —Te busqué.
 
-Esperó el resto. No llegó, y ese silencio fue lo que le hizo mirar hacia la puerta. La bolsa de la cámara, con la correa colgando. Encima, un sobre color hueso. Cruzó los dos pasos, lo cogió y lo sopesó antes de abrirlo.
+Esperó el resto. No llegó, y ese silencio fue lo que le hizo mirar hacia la puerta. La bolsa de la cámara, con la correa colgando. Encima, un sobre color hueso. Cruzó los dos pasos, lo tomó y lo sopesó antes de abrirlo.
 
 —Qué es esto.
 
@@ -167,7 +167,7 @@ Esperó el resto. No llegó, y ese silencio fue lo que le hizo mirar hacia la pu
 
 Lo había dicho como se dice lo del aceite cada cinco mil kilómetros. Desdobló las copias sobre la barra, al lado del grifo.
 
-Un Chevrolet con las calcomanías de los Bravos en el medallón, dos veces; la segunda, con la placa legible. Tres hombres entrando y saliendo de la misma puerta con demasiada frecuencia para que fuera casualidad. Horarios al reverso, con una letra apretada que él conocía de las actas. Pasó a la segunda. Volvió a la primera. Le dio vuelta y leyó el reverso otra vez, más despacio. No le corrigió un solo horario.
+Un Chevrolet con las calcomanías de los Bravos en la luneta, dos veces; la segunda, con la placa legible. Tres hombres entrando y saliendo de la misma puerta con demasiada frecuencia para que fuera casualidad. Horarios al reverso, con una letra apretada que él conocía de las actas. Pasó a la segunda. Volvió a la primera. Le dio vuelta y leyó el reverso otra vez, más despacio. No le corrigió un solo horario.
 
 —¿Y esto qué es, Chiara? ¿Dónde te metiste?
 
@@ -417,7 +417,7 @@ Kal no dijo nada. Dejó que el silencio hiciera el trabajo que cualquier explica
 
 Varek lo miró un momento largo, como quien confirma algo que llevaba rato sospechando.
 
-—Veo que usted tiene filo para cerrar negocios de niños. —Sin desprecio, casi con aprecio de oficio—. Creo que alguien con su habilidad podría cerrar tratos más... de adultos.
+—Veo que usted tiene filo para cerrar negocios de niños. —Sin desprecio, casi con aprecio de oficio—. Creo que alguien con su habilidad podría cerrar tratos más… de adultos.
 
 Hizo una pausa que no necesitaba.
 

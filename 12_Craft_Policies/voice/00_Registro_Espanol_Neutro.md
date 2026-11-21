@@ -51,7 +51,7 @@ Se aplica al redactar ([[12_Craft_Policies/Redaccion_De_Capitulos]], sección Re
 | regresar la llamada | devolver la llamada |
 | me agarra (= me encuentra) | me encuentra |
 
-**Ampliación del 2026-11-21 (AUDIT pre-sellado del Libro I).** En narración se sustituyen siempre; en diálogo, sólo los de las dos últimas filas y las groserías.
+**Ampliación del 2026-11-21 (AUDIT pre-sellado del Libro I).** En narración se sustituyen siempre. En diálogo se conservan como voz los mexicanismos de objeto y oficio (de «charola» a «regresar»); de «reclusorio» en adelante se sustituyen también en diálogo, igual que las groserías fuertes.
 
 | Evitar (narración) | Usar |
 |---|---|

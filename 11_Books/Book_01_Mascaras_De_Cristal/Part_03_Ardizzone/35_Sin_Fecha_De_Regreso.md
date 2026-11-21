@@ -36,9 +36,9 @@ Función: CANON DEL AUTOR. Abre la Parte III — Ardizzone. Nace el ritual del *
 
 La nota estaba donde Chiara la había dejado hacía diez minutos, sobre el escritorio de Matteo, y seguía sin decir más de lo que decía la primera vez que la leyó.
 
-*C. — Elio desapareció. Tengo que volver a Génova. No sé cuánto tardaré. Te llamaré cuando sepa algo.*
+*C.: Elio desapareció. Tengo que volver a Génova. No sé cuánto tardaré. Te llamaré cuando sepa algo.*
 
-*El proveedor de mantelería confirma el jueves, no antes — no dejes que F. le adelante el pago, todavía debe dos entregas. La reserva de la sala privada para la boda de los Ferretti sigue en pie para el mes que viene; no la muevan por nada, ya les prometí esa fecha dos veces. — M.*
+*El proveedor de mantelería confirma el jueves, no antes; no dejes que F. le adelante el pago, todavía debe dos entregas. La reserva de la sala privada para la boda de los Ferretti sigue en pie para el mes que viene; no la muevan por nada, ya les prometí esa fecha dos veces. —M.*
 
 Estaba escrita de prisa, con la letra un poco más inclinada de lo normal hacia el final, pero sin una sola palabra de más. Ni una línea sobre lo que sentía, ni una despedida que sonara a despedida. Sólo lo que había que hacer y quién no debía tocarlo.
 
@@ -56,7 +56,7 @@ Adentro estaban los sobres del efectivo, ordenados por fecha, y la lámina del d
 
 No supo si eso la tranquilizaba. Una liga se quita y se vuelve a poner.
 
-Bajó la lámina, cerró la caja sin tocar el disco y juntó las puertas del mueble. Después se sentó en el borde de la silla — no en el centro, no del todo — y abrió la agenda de piel que Matteo llevaba encima de todo lo demás, como si el resto del escritorio fuera decoración y aquello lo único real. Encontró tres compromisos tachados con una raya limpia, sin explicación, y uno subrayado dos veces: *proveedor de mantelería, confirmar antes del jueves, NO delegar a F.*
+Bajó la lámina, cerró la caja sin tocar el disco y juntó las puertas del mueble. Después se sentó en el borde de la silla —no en el centro, no del todo— y abrió la agenda de piel que Matteo llevaba encima de todo lo demás, como si el resto del escritorio fuera decoración y aquello lo único real. Encontró tres compromisos tachados con una raya limpia, sin explicación, y uno subrayado dos veces: *proveedor de mantelería, confirmar antes del jueves, NO delegar a F.*
 
 Marcó el número de Kal sin pensarlo, con el mismo movimiento con el que hubiera tomado un vaso de agua. Hacía dos noches habría esperado a la noche, a la costumbre de contarse el día tendidos en la cama. Esta vez no.
 
@@ -64,7 +64,7 @@ Contestó al segundo timbre, con un fondo de radio y algo metálico golpeando al
 
 —Ciao, bella.
 
-Lo dijo con un acento tan exagerado que sonaba a caricatura de sí mismo: la vocal final estirada, la voz un tono más grave de lo normal, como si estuviera imitando a alguien que llevara sombrero y un puro sin encender. Chiara lo reconoció al instante — era su propia voz, la de hacía meses, la primera noche que le dijo *ciao, sono Chiara Bellandi* con el orgullo de quien no sabe todavía que va a tener que aprender a sonar de otra forma para que la ciudad la tome en serio.
+Lo dijo con un acento tan exagerado que sonaba a caricatura de sí mismo: la vocal final estirada, la voz un tono más grave de lo normal, como si estuviera imitando a alguien que llevara sombrero y un puro sin encender. Chiara lo reconoció al instante: era su propia voz, la de hacía meses, la primera noche que le dijo *ciao, sono Chiara Bellandi* con el orgullo de quien no sabe todavía que va a tener que aprender a sonar de otra forma para que la ciudad la tome en serio.
 
 —Ciao, bellissimo —contestó ella, sin la caricatura. Cada sílaba en su sitio, el acento marcado a propósito, un poco más de lo que le hacía falta.
 
@@ -100,7 +100,7 @@ Esta vez ella tampoco lo llenó.
 
 —No hace falta.
 
-Se oyó algo golpear metal — una herramienta dejada donde no iba, tal vez — y después la voz de Kal otra vez, más cerca del teléfono.
+Se oyó algo golpear metal —una herramienta dejada donde no iba, tal vez— y después la voz de Kal otra vez, más cerca del teléfono.
 
 —Dame media hora.
 
@@ -108,7 +108,7 @@ Chiara iba a decir que estaba bien, que no había prisa, que Matteo llevaba medi
 
 —Te veo ahora —dijo Kal.
 
-Se quedó callada más tiempo del que hacía falta. No porque no supiera qué decir — sabía exactamente qué decir, y eso era lo raro — sino porque quería quedarse un segundo más dentro de la frase antes de que el resto del día volviera a entrar.
+Se quedó callada más tiempo del que hacía falta. No porque no supiera qué decir —sabía exactamente qué decir, y eso era lo raro— sino porque quería quedarse un segundo más dentro de la frase antes de que el resto del día volviera a entrar.
 
 —Aquí espero, amore mio —dijo, por fin.
 
@@ -116,13 +116,13 @@ Se quedó callada más tiempo del que hacía falta. No porque no supiera qué de
 
 Y colgó.
 
----
+***
 
 El despacho de Matteo olía todavía a él: a algún jabón de barbería caro y a papel nuevo, esa mezcla que Chiara asociaba con los hombres que llevaban una agenda impresa aunque tuvieran el teléfono en el bolsillo. La silla detrás del escritorio seguía donde la había dejado, empujada hacia atrás en el ángulo justo de alguien que se había levantado sin pensar en volver a acomodarla.
 
 Chiara no se sentó ahí. Se quedó de pie frente al escritorio, con la agenda abierta y el teléfono del despacho descolgado dos veces ya para pasarle recados a Fabrizio, cuando tocaron con los nudillos en el marco de la puerta, ya abierta.
 
-Kal no llevaba el overol del taller — se había cambiado de camisa, al menos, aunque todavía olía un poco a metal caliente — y se quedó en el umbral un segundo antes de entrar, mirando la silla vacía como quien nota un mueble movido de sitio sin poder decir qué mueble era antes.
+Kal no llevaba el overol del taller —se había cambiado de camisa, al menos, aunque todavía olía un poco a metal caliente— y se quedó en el umbral un segundo antes de entrar, mirando la silla vacía como quien nota un mueble movido de sitio sin poder decir qué mueble era antes.
 
 —Qué abrupto —dijo, ya adentro, sin preámbulo.
 
@@ -156,7 +156,7 @@ Se quedó mirando la agenda cerrada bajo la mano de Chiara, no la nota. Al muebl
 
 Chiara asintió. No le dio otra versión.
 
----
+***
 
 El teléfono del despacho sonó antes de que pudiera volver a sentarse en el borde de la silla que no era suya. Era Fabrizio, con una pregunta sobre el proveedor de mantelería que Matteo había subrayado dos veces. Chiara contestó sin buscar el papel: sabía la respuesta porque ya la había memorizado esa mañana, antes de llamar a Kal.
 
@@ -178,7 +178,7 @@ No dijo nada más. No se ofreció a tomar una carpeta, no preguntó qué firma f
 
 El teléfono volvió a sonar. Esta vez era Tommaso, con una duda sobre el calendario de la sala privada para la semana siguiente. Preguntó por la sala, por el vino de los Ferretti y por quién iba a firmar ahora. Por Matteo no preguntó. Chiara le resolvió las tres cosas de pie, con la agenda de Matteo abierta contra el pecho y el lápiz de Fabrizio —que había terminado, sin que nadie lo decidiera del todo, en su bolsillo— marcando una fecha nueva sobre la vieja.
 
-Antes de que pudiera colgar del todo, alguien de recepción llamó desde el otro lado del piso: la sala que Matteo tenía reservada para los Ferretti necesitaba confirmación de vino y flores antes del mediodía, y nadie sabía a quién preguntarle ahora. Chiara resolvió eso también, de memoria, citando el pedido exacto que Matteo había anotado dos páginas atrás en la misma agenda — Domaine algo, dos cajas, lirios blancos, nada de rosas porque la novia les tenía alergia.
+Antes de que pudiera colgar del todo, alguien de recepción llamó desde el otro lado del piso: la sala que Matteo tenía reservada para los Ferretti necesitaba confirmación de vino y flores antes del mediodía, y nadie sabía a quién preguntarle ahora. Chiara resolvió eso también, de memoria, citando el pedido exacto que Matteo había anotado dos páginas atrás en la misma agenda: Domaine algo, dos cajas, lirios blancos, nada de rosas porque la novia les tenía alergia.
 
 —Dario ya sabe —dijo, cuando por fin colgó, sin que Kal preguntara—. Le mandaron copia de todo esta mañana. No ha dicho nada.
 
@@ -198,7 +198,7 @@ Kal se acercó por fin, no al escritorio, sino a ella, y le puso la mano en la n
 
 Kal no le preguntó cuál era la diferencia. Se quedó un segundo más en la puerta, mirando otra vez la silla que nadie había vuelto a acomodar, y salió sin decir nada de italiano.
 
----
+***
 
 Tardó veinte minutos en bajar. El vino de los Ferretti necesitaba una firma en el libro de la cava, y el libro de la cava vivía detrás del bar del casino, en un cajón que sólo Matteo y el encargado sabían abrir sin forcejear.
 
@@ -222,9 +222,9 @@ La teniente llegó a la barra, dejó la gorra sobre un taburete y apoyó los ant
 
 No lo dijo alto. Lo dijo como se dice el nombre de alguien que está en el mismo cuarto.
 
-Chiara caminó hasta la barra sin apurarse. La teniente la oyó llegar y giró apenas la cabeza — un vistazo breve, sin hostilidad, el de alguien que reconoce una cara que ya tenía archivada — y después volvió a mirar el borde de la barra, del lado de adentro.
+Chiara caminó hasta la barra sin apurarse. La teniente la oyó llegar y giró apenas la cabeza —un vistazo breve, sin hostilidad, el de alguien que reconoce una cara que ya tenía archivada— y después volvió a mirar el borde de la barra, del lado de adentro.
 
-Kal se levantó. Traía el desarmador en la mano y una mancha de agua en la rodilla del pantalón. Miró a la teniente. Miró a Chiara. Se limpió la mano libre en el pantalón, aunque ya estaba seca.
+Kal se levantó. Traía el destornillador en la mano y una mancha de agua en la rodilla del pantalón. Miró a la teniente. Miró a Chiara. Se limpió la mano libre en el pantalón, aunque ya estaba seca.
 
 —¿Qué haces aquí?
 
@@ -242,9 +242,9 @@ Kal apretó un tornillo que ya estaba apretado.
 
 Chiara no dijo nada. Se guardó el apodo, y el tornillo.
 
----
+***
 
-Subió al despacho por el pasillo alfombrado, con el ruido del piso quedándose atrás — cristalería, una risa en algún salón, el motor lejano de un elevador. El teléfono del escritorio estaba sonando cuando abrió la puerta. No era la línea interna. Era la otra, la del número que Matteo no le daba a nadie de la ciudad.
+Subió al despacho por el pasillo alfombrado, con el ruido del piso quedándose atrás: cristalería, una risa en algún salón, el motor lejano de un elevador. El teléfono del escritorio estaba sonando cuando abrió la puerta. No era la línea interna. Era la otra, la del número que Matteo no le daba a nadie de la ciudad.
 
 Contestó de pie.
 

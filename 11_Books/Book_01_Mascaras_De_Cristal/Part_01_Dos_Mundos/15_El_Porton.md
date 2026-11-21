@@ -152,7 +152,7 @@ Chiara se quedó con la llave en la palma. Era la primera que alguien le daba en
 
 —No es nada. —Ya se iba—. Usted lo levantó del suelo.
 
-En la panadería de enfrente pidió un café para llevar. La panadera se lo sirvió, le puso la tapa y, cuando Chiara sacó la cartera, le regresó la mano a la cartera con la suya, sin decir por qué, y atendió al siguiente.
+En la panadería de enfrente pidió un café para llevar. La panadera se lo sirvió, le puso la tapa y, cuando Chiara sacó la cartera, le devolvió la mano a la cartera con la suya, sin decir por qué, y atendió al siguiente.
 
 Volvió a Santa Aurelia con un café que Héctor no iba a terminar y noticias del taller que él iba a fingir no necesitar. Lo encontró más despierto que la noche anterior, con la cama inclinada y los ojos puestos en ella antes de que terminara de cruzar la puerta.
 
@@ -212,13 +212,13 @@ Chiara asintió. Llevaba años asintiendo a todo lo que trajera adentro el nombr
 
 —Entonces, la de las once.
 
-Se fue sin despedirse. Chiara se quedó un momento mirando el marco vacío. Después, en su escritorio, sacó su papel de siempre, el bueno, el que olía a canela y vainilla, el mismo en el que llevaba meses escribiendo todo lo que de verdad importaba, y escribió lo que tenía que escribir. Metió la hoja en uno de los sobres del hotel, grueso, rojo, con el sello dorado del casino en la solapa: no hacía falta esconder este mensaje de nadie, y podía permitirse, por una vez, que se viera desde lejos. Lo cerró y trazó el nombre de Kal en tinta sobre la solapa. Llamó, por costumbre, a uno de los sussurros de guardia.
+Se fue sin despedirse. Chiara se quedó un momento mirando el marco vacío. Después, en su escritorio, sacó su papel de siempre, el bueno, el que olía a canela y vainilla, el mismo en el que llevaba meses escribiendo todo lo que de verdad importaba, y escribió lo que tenía que escribir. Metió la hoja en uno de los sobres del hotel, grueso, rojo, con el sello dorado del casino en la solapa: no hacía falta esconder este mensaje de nadie, y podía permitirse, por una vez, que se viera desde lejos. Lo cerró y trazó el nombre de Kal en tinta sobre la solapa. Llamó, por costumbre, a uno de los susurros de guardia.
 
 No llegó a dárselo.
 
 Se quedó con el sobre en la mano un momento de más, con la pregunta de Héctor todavía a cuestas, pensando en un chico de doce años parado frente a un desconocido en su propio territorio, cargando un papel que no entendía, y en lo que le había dicho a Kal hacía apenas unas semanas: que si alguna vez tenía que llegarle algo, se lo llevaba ella.
 
-—Yo lo llevo —le dijo al sussurro, y se guardó el sobre en el bolsillo del abrigo antes de que nadie pudiera ofrecerse a ahorrarle el viaje.
+—Yo lo llevo —le dijo al susurro, y se guardó el sobre en el bolsillo del abrigo antes de que nadie pudiera ofrecerse a ahorrarle el viaje.
 
 Manejó hasta la Almendra. Metió el sobre por debajo de la puerta de Kal sin abrirlo de nuevo, sin releerlo, sin darse el permiso de dudar de lo que había escrito.
 
@@ -302,7 +302,7 @@ Kal asintió.
 
 Chiara no apartó los ojos del camino. Lo había contado sin que ella se lo preguntara, y en Kal eso era casi abrir una puerta.
 
-—Y aprendí una palabra que no puedo pronunciar. —Hizo una mueca—. Ella se rió como quince minutos seguidos.
+—Y aprendí una palabra que no puedo pronunciar. —Hizo una mueca—. Ella se rio como quince minutos seguidos.
 
 —¿Qué palabra?
 
@@ -314,6 +314,6 @@ La sonrisa que Chiara traía guardada desde lo de Diego ya no encontró dónde e
 
 —Mal. Me enseñó a decirlo mal, y a sentirme orgulloso de decirlo mal.
 
-Chiara se rió sin disimular nada.
+Chiara se rio sin disimular nada.
 
 En el Puente de Piedra, con las luces de La Isla adelante, levantó el pie del acelerador. El Mercedes fue perdiendo velocidad hasta que los coches del domingo empezaron a pasarla por la izquierda. Kal seguía hablando de un arroyo, y ella ya no escuchaba por cortesía: escuchaba de verdad, con las dos manos en el volante, sin ninguna prisa por llegar.

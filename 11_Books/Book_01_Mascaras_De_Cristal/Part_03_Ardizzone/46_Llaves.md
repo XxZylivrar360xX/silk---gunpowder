@@ -30,7 +30,7 @@ Hilo del Tasador (2026-11-01, DECISIÓN DEL AUTOR: el trabajo para Crowe se ve e
 
 Para llegar al Patio desde el centro había una vuelta que Chiara daba siempre sin pensarla: a la derecha en la calle del mercado, dos cuadras, y a la izquierda en la esquina de la lavandería de monedas, la que tenía el letrero con una burbuja fundida. Esa tarde siguió de largo en la calle del mercado y dio vuelta en la siguiente, una calle de casas bajas con perros detrás de las rejas, y salió a la avenida tres cuadras más abajo, por el lado del lote baldío. Tardó cuatro minutos más. No miró hacia la izquierda en ningún cruce.
 
-Eran pasadas las cinco. La Almendra tenía el ruido de esa hora: una licuadora en alguna cocina, un radio con un partido, niños sin escuela pateando una pelota contra una cortina de metal. Un hombre lavaba la acera de su tienda con un balde y una escoba, y se detuvo con la escoba en el aire para ver pasar el Lancia. En La Almendra todos conocían ese coche.
+Eran pasadas las cinco. La Almendra tenía el ruido de esa hora: una licuadora en alguna cocina, un radio con un partido, niños sin escuela pateando una pelota contra una cortina de metal. Un hombre lavaba la acera de su tienda con un balde y una escoba, y se detuvo con la escoba en el aire para ver pasar el Lancia. En la Almendra todos conocían ese coche.
 
 Chiara lo estacionó enfrente del portón, del otro lado de la calle, y apagó el motor.
 
@@ -94,11 +94,11 @@ Chiara dejó pasar la frase. La dejó llegar hasta el fondo del Patio, hasta la 
 
 —Está vivo —dijo.
 
----
+***
 
 Héctor dejó de moverse.
 
-No es que se moviera mucho, sentado en el capó con el trapo al hombro. Pero tenía siempre algo en marcha: los dedos sobre la rodilla, la mandíbula, el pie que golpeaba la defensa del Ford sin ritmo. Todo eso se detuvo. Nadir se enderezó en el mostrador. Danny salió rodando de debajo del coche y esta vez se quedó sentado en el suelo, con la llave en la mano.
+No es que se moviera mucho, sentado en el capó con el trapo al hombro. Pero tenía siempre algo en marcha: los dedos sobre la rodilla, la mandíbula, el pie que golpeaba el parachoques del Ford sin ritmo. Todo eso se detuvo. Nadir se enderezó en el mostrador. Danny salió rodando de debajo del coche y esta vez se quedó sentado en el suelo, con la llave en la mano.
 
 —¿Cómo sabe? —preguntó Héctor.
 
@@ -124,9 +124,9 @@ Chiara lo miró. Walt tenía los ojos fijos en ella y las manos abiertas sobre l
 
 Walt asintió despacio.
 
-—Entonces está contando. —Se miró las botas—. Los días. Adentro la ropa es lo único que es de uno, aunque sea del gobierno. Te la dan, te la quitan, te dan otra. El que la dobla antes de devolverla todavía está pensando en salir. —Levantó la vista—. El que la avienta a la bolsa como le cae, ése ya se quedó.
+—Entonces está contando. —Se miró las botas—. Los días. Adentro la ropa es lo único que es de uno, aunque sea del gobierno. Te la dan, te la quitan, te dan otra. El que la dobla antes de devolverla todavía está pensando en salir. —Levantó la vista—. El que la echa a la bolsa como le cae, ése ya se quedó.
 
-Lo dijo sin bajar la voz y sin ponerle peso. Nadie le preguntó cómo lo sabía. En La Almendra todos sabían de dónde había vuelto Walt Keegan.
+Lo dijo sin bajar la voz y sin ponerle peso. Nadie le preguntó cómo lo sabía. En la Almendra todos sabían de dónde había vuelto Walt Keegan.
 
 Héctor se bajó del capó. Caminó tres pasos hacia el portón, hasta donde le daba la luz de la calle, y se quedó de espaldas al Patio, con el trapo en la mano. Lo dobló en dos. Lo volvió a doblar.
 
@@ -136,15 +136,15 @@ Nadie le contestó. Héctor se pasó el trapo por la cara una vez, rápido, como
 
 —Mal doblado, seguro —dijo—. Nunca supo doblar una camisa.
 
-Danny se rió. Fue una risa corta, que le salió por la nariz, y se la tapó con el dorso de la mano donde tenía la llave. Walt sonrió debajo del candado. Nadir no.
+Danny se rio. Fue una risa corta, que le salió por la nariz, y se la tapó con el dorso de la mano donde tenía la llave. Walt sonrió debajo del candado. Nadir no.
 
----
+***
 
 Nadir había vuelto al libro de cuentas. Lo abrió en cualquier página, miró los números sin leerlos y lo volvió a cerrar. Después rodeó el mostrador, cruzó el Patio sin mirar a nadie y se detuvo junto a la camioneta del fondo, la que estaba estacionada contra la tapia.
 
 Chiara la miró por primera vez con atención.
 
-Estaba lavada. Era lo único limpio en todo el Patio: la carrocería oscura sin una mancha de polvo, los vidrios sin una marca de dedos. Estaba estacionada en reversa, con la trompa hacia el portón, y no en el lugar de siempre sino en el único desde el que se podía salir sin mover la grúa. En el asiento del copiloto había una mochila. Al lado de la mochila, un termo.
+Estaba lavada. Era lo único limpio en todo el Patio: la carrocería oscura sin una mancha de polvo, los vidrios sin una marca de dedos. Estaba estacionada al revés, con la trompa hacia el portón, y no en el lugar de siempre sino en el único desde el que se podía salir sin mover la grúa. En el asiento del copiloto había una mochila. Al lado de la mochila, un termo.
 
 —¿Para qué está así esa camioneta? —preguntó Chiara.
 
@@ -198,7 +198,7 @@ Rodeó la camioneta y volvió al mostrador por el otro lado, sin pasar junto a H
 
 Chiara se quedó con las llaves. Pesaban poco. Las apretó una vez y las guardó en el bolsillo del saco.
 
----
+***
 
 Danny se levantó del suelo por fin. Se limpió las manos en los jeans, que no se iban a ensuciar más, y se acercó a Chiara con la cabeza un poco gacha, por debajo del pelo largo, como hablaba él cuando tenía algo que decir que no era chiste.
 
@@ -234,7 +234,7 @@ Danny miró otra vez a Héctor. Esta vez Héctor no hizo nada con la barbilla. S
 
 Chiara no se lo repitió. Danny asintió y volvió al sedán. Garrett se quedó un momento más en la puerta, con los brazos cruzados, y después entró a la oficina y cerró. A través del vidrio, Chiara lo vio sentarse, abrir una carpeta de pasta gris y empezar a escribir.
 
----
+***
 
 El sol ya no entraba por el portón. Le pegaba sólo a la parte alta de la tapia y al gancho de la grúa, que brillaba como si estuviera mojado. En la calle, el hombre de la escoba había terminado su acera y el agua corría hacia la alcantarilla, arrastrando una envoltura de paleta.
 
@@ -262,7 +262,7 @@ Héctor esperó un momento con la mano abierta. Después cerró los dedos sobre 
 
 Volvió al capó. Walt le pasó la botella sin decir nada, y Héctor la abrió por fin, le dio un trago corto, hizo un ruido con la garganta y se la devolvió.
 
----
+***
 
 El teléfono de Héctor vibró sobre el capó del Ford.
 
@@ -280,7 +280,7 @@ Chiara no preguntó. Héctor la estaba mirando con el teléfono quieto bajo la m
 
 —Que no contesta. Que ni en Navidad. Que nunca no contesta. —Héctor se pasó la mano por la cara—. Y que el sábado se van al monte.
 
-Chiara se acordó. La vio en la cubierta del yate, la chaqueta militar abierta sobre el vestido, la copa que Marisol había tomado de la charola y había devuelto sin probar. *Fin de año, dos noches, sin teléfonos.*
+Chiara se acordó. La vio en la cubierta del yate, la chaqueta militar abierta sobre el vestido, la copa que Marisol había tomado de la bandeja y había devuelto sin probar. *Fin de año, dos noches, sin teléfonos.*
 
 —Me pidió que le cuidara las grúas ese fin de semana —dijo Walt—. Kal. Ya tengo las llaves de la grande.
 

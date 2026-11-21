@@ -25,11 +25,11 @@ El contrato de climatización consiguió su segunda firma al fin, de un proveedo
 
 Fabrizio se pasó esos dos días metido en los banquetes de fin de año, y las veces que se cruzaron en el pasillo le apretó el brazo al pasar, sin detenerse.
 
-De Kal hubo lo mínimo: un mensaje sobre un proveedor que compartían, que ya daba por hecho que ella estaba en la ciudad —alguien del Monarch se lo habría dicho; ella no—, una llamada de cuatro minutos sobre nada que no fuera logística del casino, ningún "cómo estás" que no viniera envuelto en otra cosa. Ninguno de los dos había ido a buscar al otro. Chiara no había vuelto al loft. Kal no había subido al penthouse. Era, pensó Chiara una tarde sin decírselo a nadie, la primera vez en meses que pasaban tanto tiempo en la misma ciudad sin verse, y no había una palabra buena para nombrar esa distancia sin decir también lo que había pasado en Palermo.
+De Kal hubo lo mínimo: un mensaje sobre un proveedor que compartían, que ya daba por hecho que ella estaba en la ciudad —alguien del Monarch se lo habría dicho; ella no—, una llamada de cuatro minutos sobre nada que no fuera logística del casino, ningún «cómo estás» que no viniera envuelto en otra cosa. Ninguno de los dos había ido a buscar al otro. Chiara no había vuelto al loft. Kal no había subido al penthouse. Era, pensó Chiara una tarde sin decírselo a nadie, la primera vez en meses que pasaban tanto tiempo en la misma ciudad sin verse, y no había una palabra buena para nombrar esa distancia sin decir también lo que había pasado en Palermo.
 
 No la nombró. Siguió trabajando.
 
----
+***
 
 El teléfono sonó una noche pasadas las once, cuando Chiara ya estaba en el penthouse con los zapatos fuera y un vaso de agua que no había tocado.
 
@@ -45,11 +45,11 @@ Chiara se sentó más derecha.
 
 —¿Quién?
 
-—No sé. Un tipo, de los que trabajan ahí o cerca de ahí, no me dio para saber cuál. Se acercó sin prisa, como quien pregunta la hora. —Bonnie respiró antes de seguir—. Me dijo: "¿Buscas a alguien?"
+—No sé. Un tipo, de los que trabajan ahí o cerca de ahí, no me dio para saber cuál. Se acercó sin prisa, como quien pregunta la hora. —Bonnie respiró antes de seguir—. Me dijo: «¿Buscas a alguien?»
 
 —¿Y tú qué le dijiste?
 
-—Algo. No importa qué. Lo que importa es lo que dijo después, cuando ya me había visto la cara y visto mi coche. —Otra pausa, más corta—. "Entonces ya encontraste lo que buscabas." Y se fue. Sin apuro. Como si no le importara si yo entendía o no.
+—Algo. No importa qué. Lo que importa es lo que dijo después, cuando ya me había visto la cara y visto mi coche. —Otra pausa, más corta—. «Entonces ya encontraste lo que buscabas.» Y se fue. Sin apuro. Como si no le importara si yo entendía o no.
 
 Chiara no dijo nada. Dejó que el silencio corriera un segundo, dos, mientras algo frío terminaba de instalarse donde antes sólo había curiosidad.
 
@@ -61,7 +61,7 @@ Chiara apretó el teléfono.
 
 Chiara cerró los ojos un momento.
 
-—Bonnie. Gracias por no...
+—Bonnie. Gracias por no…
 
 —Ya se lo dije a Kal.
 
@@ -95,7 +95,7 @@ Eso, más que ninguna otra cosa que Bonnie había dicho esa noche, le dijo a Chi
 
 —Sí.
 
-—¿Quiere que...?
+—¿Quiere que…?
 
 —No. —Chiara ya estaba de pie—. Esto ya no es tuyo. Hiciste lo que te pedí y lo que había que hacer después. Se acabó tu parte.
 
@@ -109,7 +109,7 @@ Bonnie no discutió eso.
 
 Colgó.
 
----
+***
 
 Chiara no llamó a Kal. No le mandó ningún mensaje avisándole que ya sabía lo que Bonnie le había contado, ni ensayó nada que decir cuando llegara. Se quedó de pie un momento en medio de la sala, con el teléfono todavía tibio en la mano, haciendo la cuenta exacta de lo que él ya tenía: la camioneta, Matteo, el hombre, el segundo coche. No hacía falta más para que él atara el resto solo.
 
@@ -119,7 +119,7 @@ Fue al baño, se quitó el maquillaje del día frente al espejo con movimientos 
 
 Se sirvió el vaso de agua que llevaba una hora sin tocar y esperó.
 
----
+***
 
 Sonó el teléfono de la recepción del edificio antes de la medianoche.
 
@@ -149,11 +149,11 @@ No era la pregunta que había hecho por teléfono, la de dos noches atrás. Era 
 
 Chiara no bajó la vista.
 
-—Y me dijiste: "Nada."
+—Y me dijiste: «Nada.»
 
 No lo dijo como acusación gritada. Lo dijo como quien coloca un objeto sobre una mesa, para que los dos lo vean al mismo tiempo.
 
-Chiara no lo negó. No dijo que técnicamente no sabía nada todavía, que la pista era apenas una ruta rara y una placa a medias, que "nada" había sido casi verdad si uno la retorcía lo suficiente. Sabía exactamente lo que había hecho.
+Chiara no lo negó. No dijo que técnicamente no sabía nada todavía, que la pista era apenas una ruta rara y una placa a medias, que «nada» había sido casi verdad si uno la retorcía lo suficiente. Sabía exactamente lo que había hecho.
 
 —Sí —dijo—. Te mentí.
 
@@ -181,7 +181,7 @@ Lo dijo sin subir el volumen. Fue peor así.
 
 —Iba a decírtelo si encontraba algo.
 
-—Me preguntaste... —Kal se corrigió—. Te pregunté yo. Directamente. Y aun así elegiste "nada" en vez de "todavía no sé, dame un día." —Bajó la voz, y por eso mismo pesó más—: No decides tú sola qué riesgo de mi gente me concierne.
+—Me preguntaste… —Kal se corrigió—. Te pregunté yo. Directamente. Y aun así elegiste «nada» en vez de «todavía no sé, dame un día.» —Bajó la voz, y por eso mismo pesó más—: No decides tú sola qué riesgo de mi gente me concierne.
 
 —¿Y tú? —dijo Chiara, antes de poder pensarlo del todo.
 
@@ -189,7 +189,7 @@ Kal se detuvo.
 
 —¿Yo qué?
 
-—Tú también decides solo. —Chiara se apartó de la mesa por primera vez, un paso, no hacia él, sólo lejos del punto exacto donde había estado parada—. En Palermo te llamaron una noche y a la mañana siguiente ya tenías boleto. No hacía falta que me dijeras quién llamó; sé quién te llama así. Pero no me dijiste para qué. Sólo "tengo que volver", y yo no te pregunté más porque entendí que no ibas a contestarme si lo hacía.
+—Tú también decides solo. —Chiara se apartó de la mesa por primera vez, un paso, no hacia él, sólo lejos del punto exacto donde había estado parada—. En Palermo te llamaron una noche y a la mañana siguiente ya tenías boleto. No hacía falta que me dijeras quién llamó; sé quién te llama así. Pero no me dijiste para qué. Sólo «tengo que volver», y yo no te pregunté más porque entendí que no ibas a contestarme si lo hacía.
 
 —Eso es distinto. Yo no te mentí. Te dije que tenía que irme.
 
@@ -245,7 +245,7 @@ La mano de Kal se quedó quieta en la manija un segundo.
 
 Kal no dijo nada más. Abrió la puerta, salió, y la cerró detrás de él sin fuerza, con el mismo cuidado con el que cerraba cualquier puerta que no fuera suya.
 
----
+***
 
 Chiara oyó el elevador bajar. Se quedó de pie junto a la mesa un rato después de que el sonido terminara de irse, sin moverse hacia ninguna parte del penthouse, como si moverse fuera a confirmar algo que prefería dejar sin confirmar todavía.
 

@@ -35,7 +35,7 @@ Funcion: DISEÑO NUEVO de esta sesion, a peticion del autor. Segundo escalon de 
 > **DISEÑO RESERVADO PARA PARTE III (2026-09-20, idea del autor, no escrito):** cuando Kal empiece a aparecer publica o semipublicamente como la persona que Dario usa para coordinar problemas entre bandas, Lucia empezara a encontrarse el nombre de Mercer en lugares extraños sin tener todavia un delito claro que ponerle encima. Ahi si, con evidencia acumulada de meses de linea directa sin que Kal la haya usado nunca para llegar a su padre, Lucia puede observarlo en voz alta: *"—Hay algo que no entiendo de usted. —La lista es larga. —Tiene contacto con mi padre. Tiene contacto conmigo. Nunca ha intentado utilizar uno para llegar al otro."* Kal: *"—Porque son dos relaciones distintas."* — declaracion sobre como Kal administra personas (no convierte automaticamente un vinculo en palanca sobre otro) que Lucia puede recordar años despues al preguntarse cuanto sabia Kal sobre Dario. No fijar capitulo ni fecha todavia; anotar tambien en `06_Relationships/Hitos.md` o `98_Agent_Handoff/PENDING.md` si se quiere proteger la idea para cuando se diseñe la Parte III.
 Regla de dialogo 05 (2026-10-28, Claude Code, encargo del autor; prosa DISENO, sigue BORRADOR): cinco cortes de eco/remate (Lucia en la oficina y en la segunda visita, coda con Chiara); detalle en 98_Agent_Handoff/sessions/2026-10-28_claude_regla05_linea_directa_cap37.md.
 Rocco (2026-10-22, decision del autor; prosa DISENO; sigue BORRADOR): Nadir le avienta la llave Allen en la acera; cuando Kal le quita lo de Irene, Rocco se la devuelve y Nadir no la recoge. Ficha: 02_Characters/Rocco.md.
-«MEI» (2026-11-15, CANON DEL AUTOR: Nadir le pone el apodo; prosa DISEÑO, espera lectura): en el ritmo del taller, Nadir le pide la llave de trece («Mei»), ella se la lanza sin sacar la cabeza del cofre: «Meiko.» / «Eso dije.» Primera vez del apodo. Escena nueva tras la cuota del Tasador: el primer adelanto («¿Me puede adelantar la semana?» / «¿Para qué?» / «Cosas de familia.»); Kal paga de la caja de lámina; primer «jefe», todavía de trámite. Movido aquí desde el cap. 32 (archivo 34) para no romper el cierre de la Parte II. Arco: [[11_Books/00_Arco_Meiko_Nakano]].
+«MEI» (2026-11-15, CANON DEL AUTOR: Nadir le pone el apodo; prosa DISEÑO, espera lectura): en el ritmo del taller, Nadir le pide la llave de trece («Mei»), ella se la lanza sin sacar la cabeza del capó: «Meiko.» / «Eso dije.» Primera vez del apodo. Escena nueva tras la cuota del Tasador: el primer adelanto («¿Me puede adelantar la semana?» / «¿Para qué?» / «Cosas de familia.»); Kal paga de la caja de lámina; primer «jefe», todavía de trámite. Movido aquí desde el cap. 32 (archivo 34) para no romper el cierre de la Parte II. Arco: [[11_Books/00_Arco_Meiko_Nakano]].
 -->
 
 # Capítulo 30 — Línea directa
@@ -50,11 +50,11 @@ Se sirvió el café frío que había sobrado de la noche anterior, lo tomó de p
 
 ***
 
-Almendra Towing a esa hora tenía el ritmo de siempre: una grúa saliendo con el motor todavía frío, Danny maldiciendo una batería que no quería arrancar, Héctor con una factura en una mano y un café en la otra, discutiendo con un proveedor de neumáticos que juraba haber mandado el pedido completo. Al fondo, Meiko tenía medio cuerpo metido bajo el cofre de un Tercel.
+Almendra Towing a esa hora tenía el ritmo de siempre: una grúa saliendo con el motor todavía frío, Danny maldiciendo una batería que no quería arrancar, Héctor con una factura en una mano y un café en la otra, discutiendo con un proveedor de neumáticos que juraba haber mandado el pedido completo. Al fondo, Meiko tenía medio cuerpo metido bajo el capó de un Tercel.
 
 —Mei —le gritó Nadir desde la fosa—. La de trece.
 
-Ella estiró la mano hacia el carro de herramientas sin sacar la cabeza del cofre y le lanzó la llave de trece, que Nadir atrapó en el aire.
+Ella estiró la mano hacia el carro de herramientas sin sacar la cabeza del capó y le lanzó la llave de trece, que Nadir atrapó en el aire.
 
 —Meiko —dijo ella.
 
@@ -128,7 +128,7 @@ Kal la miró un momento, midiendo lo que ya sabía: que decir que no ahí no cos
 
 Lucia se puso de pie, tomó la carpeta y la dejó de nuevo sobre el escritorio, abierta esta vez en la última hoja del convenio.
 
-—Ahí abajo hay un número. Es del Departamento, no mío. Si algún día tiene algo que valga la pena, use ese, no el 911.
+—Ahí abajo hay un número. Es del Departamento, no mío. Si algún día tiene algo que valga la pena, use ése, no el 911.
 
 Salió sin ofrecerle la mano. Kal se quedó mirando el número un momento, y después lo cerró junto con la carpeta, sin decidir todavía nada.
 
@@ -136,7 +136,7 @@ Salió sin ofrecerle la mano. Kal se quedó mirando el número un momento, y des
 
 Le tomó dos días.
 
-No porque no supiera la respuesta —la supo casi de inmediato, apenas Héctor mencionó, sin darle importancia, que el viejo Portillo llevaba semanas cerrando la llantera una hora antes los jueves porque "un tipo de Santa Brígida pasa a cobrar y no le gusta que haya clientes viendo"— sino porque dos días fue lo que tardó en decidir que no le debía nada a Rafe Domínguez, y que Eddie Sosa sí era el tipo de problema que valía la pena sacarse de encima sin gastar a Héctor en ello.
+No porque no supiera la respuesta —la supo casi de inmediato, apenas Héctor mencionó, sin darle importancia, que el viejo Portillo llevaba semanas cerrando la llantera una hora antes los jueves porque «un tipo de Santa Brígida pasa a cobrar y no le gusta que haya clientes viendo»— sino porque dos días fue lo que tardó en decidir que no le debía nada a Rafe Domínguez, y que Eddie Sosa sí era el tipo de problema que valía la pena sacarse de encima sin gastar a Héctor en ello.
 
 Portillo no le compraba mucho a Almendra. Dos, tres pedidos al año desde el Lote, nada que lo convirtiera en gente del Patio. Pero era el tipo de negocio pequeño y aburrido que Kal reconocía sin esfuerzo: alguien que trabajaba de más para deber de menos, y que ahora pagaba jueves de por medio para que nadie le rompiera el escaparate.
 
@@ -148,7 +148,7 @@ Eso era todo lo que Kal sabía.
 
 Llamar al número no fue simple.
 
-Contestó un operador que le pidió su nombre completo, después una recepcionista que lo pasó a un escritorio, después alguien que anotó todo dos veces porque la primera vez, dijo, "el sistema se cayó". Kal repitió lugar, día, hora aproximada y la descripción del Charger tres veces distintas a tres voces distintas, y colgó sin que nadie le dijera qué iba a pasar con eso.
+Contestó un operador que le pidió su nombre completo, después una recepcionista que lo pasó a un escritorio, después alguien que anotó todo dos veces porque la primera vez, dijo, «el sistema se cayó». Kal repitió lugar, día, hora aproximada y la descripción del Charger tres veces distintas a tres voces distintas, y colgó sin que nadie le dijera qué iba a pasar con eso.
 
 Lo archivó, junto con el resto, y volvió al taller.
 
@@ -228,7 +228,7 @@ Tomás descruzó los brazos. Irene bajó la vista a la libreta.
 
 Escribió algo en la hoja, una línea corta, y no esperó respuesta.
 
-Nadir estaba en la acera del taller cuando Kal volvió, en cuclillas junto a la Kawasaki, tensando la cadena con una llave del catorce. Rocco esperaba sentado a su lado, temblando, con los ojos fijos en la llave Allen que Nadir tenía en la otra mano. Cuando vio llegar a Kal, Nadir la aventó al fondo de la acera sin voltear y Rocco salió tras ella.
+Nadir estaba en la acera del taller cuando Kal volvió, en cuclillas junto a la Kawasaki, tensando la cadena con una llave del catorce. Rocco esperaba sentado a su lado, temblando, con los ojos fijos en la llave Allen que Nadir tenía en la otra mano. Cuando vio llegar a Kal, Nadir la lanzó al fondo de la acera sin voltear y Rocco salió tras ella.
 
 —Se acabó lo de Irene —dijo Kal—. Ya no cargas nada.
 
@@ -264,9 +264,9 @@ Colgó.
 
 Kal se vistió en la oscuridad. Arriba, Chiara se dio la vuelta en la cama y no dijo nada.
 
-El sedán estaba donde le habían dicho, solo, al fondo de un lote de contenedores que olía a hielo derretido y a escamas. Lo rodeó una vez con la linterna. Las puertas cerradas. Nada en los asientos. La parte de atrás iba más baja que la de adelante, dos dedos, lo que se nota cuando uno vive de levantar coches: algo pesado en la cajuela, bien acomodado, que no se movió cuando le pegó a la defensa con la palma.
+El sedán estaba donde le habían dicho, solo, al fondo de un lote de contenedores que olía a hielo derretido y a escamas. Lo rodeó una vez con la linterna. Las puertas cerradas. Nada en los asientos. La parte de atrás iba más baja que la de adelante, dos dedos, lo que se nota cuando uno vive de levantar coches: algo pesado en el maletero, bien acomodado, que no se movió cuando le pegó al parachoques con la palma.
 
-No probó la cajuela. Enganchó el sedán, lo subió a la plataforma y apretó las cadenas una por una.
+No probó el maletero. Enganchó el sedán, lo subió a la plataforma y apretó las cadenas una por una.
 
 En la calle Ochenta la cortina verde subió antes de que él tocara el claxon. Adentro había dos hombres y una lámpara. Uno le hizo señas para que bajara el coche ahí mismo, junto a la entrada; el otro no dejó de mirar la calle. Ninguno le pidió que firmara nada. Cuando el sedán tocó el piso, el de la lámpara le tendió un sobre.
 
@@ -322,7 +322,7 @@ La oyó irse por el patio y oyó el Camaro arrancar en la calle con su cilindro 
 
 Le llegó por partes.
 
-Primero fue Héctor, un jueves más tarde, comentando que la llantera de Portillo había vuelto a abrir hasta la hora de siempre. Después fue Danny, que había pasado por ahí a comprar una banda y contó, sin que nadie le preguntara, que había una franja de cinta amarilla despegándose de un poste a media cuadra, y que alguien en la esquina decía que se habían llevado a "uno de los de Rafe" por el arma que llevaba.
+Primero fue Héctor, un jueves más tarde, comentando que la llantera de Portillo había vuelto a abrir hasta la hora de siempre. Después fue Danny, que había pasado por ahí a comprar una banda y contó, sin que nadie le preguntara, que había una franja de cinta amarilla despegándose de un poste a media cuadra, y que alguien en la esquina decía que se habían llevado a «uno de los de Rafe» por el arma que llevaba.
 
 Kal no fue a ver la escena. No hacía falta.
 
@@ -362,7 +362,7 @@ Kal dejó la llave en su gancho.
 
 —El número de la carpeta. Pasé por tres escritorios y una llamada perdida para que alguien me creyera la tercera vez que repetía lo mismo.
 
-—Ese es el número del Departamento. Está hecho para que cualquiera pueda usarlo y nadie en particular tenga que responder por él.
+—Ése es el número del Departamento. Está hecho para que cualquiera pueda usarlo y nadie en particular tenga que responder por él.
 
 —Si alguna vez tengo algo que de verdad valga, no quiero perderlo en tres escritorios.
 
@@ -370,7 +370,7 @@ Lucia lo miró un momento, la misma mirada un poco más larga de lo necesario qu
 
 Sacó una tarjeta del bolsillo de la chaqueta —lisa, sin escudo, con un número escrito a mano en el reverso— y la dejó sobre el capó del auto más cercano, entre los dos, sin acercarla del todo hacia él.
 
-—Ese es directo. No prometo contestar rápido. Prometo que si contesto, lo escucho una sola vez, no tres.
+—Ése es directo. No prometo contestar rápido. Prometo que si contesto, lo escucho una sola vez, no tres.
 
 Kal la tomó y la guardó sin mirarla dos veces.
 

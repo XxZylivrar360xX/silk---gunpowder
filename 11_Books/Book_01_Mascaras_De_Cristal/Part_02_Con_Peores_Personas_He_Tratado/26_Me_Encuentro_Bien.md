@@ -83,9 +83,9 @@ La destilería de Walt olía a maíz cocido y a madera nueva, y por debajo a alg
 
 Chiara reconoció la frase antes de terminar de oírla.
 
-—Esa la dice Kal.
+—Ésa la dice Kal.
 
-—Esa la digo yo desde antes de que Kal supiera atarse los cordones. —Walt por fin la miró—. El muchacho no inventó la paciencia. Nada más aprendió a usarla como si fuera un cuchillo. —Se limpió las manos en un trapo—. Y usted no vino hasta aquí a hablarme de barricas.
+—Ésa la digo yo desde antes de que Kal supiera atarse los cordones. —Walt por fin la miró—. El muchacho no inventó la paciencia. Nada más aprendió a usarla como si fuera un cuchillo. —Se limpió las manos en un trapo—. Y usted no vino hasta aquí a hablarme de barricas.
 
 —Kal salió de la ciudad esta madrugada. No sé por qué ni a dónde. —Lo dijo plano, como un reporte—. Pensé que usted podría saberlo.
 
@@ -195,15 +195,15 @@ No lo preguntó. Lo dejó sobre el escritorio, junto a las tazas, y esperó a qu
 
 Abrió el cajón de la derecha. Sacó una hoja y la puso sobre la madera, de frente a ella, con la punta de los dedos, sin soltarla del todo hasta que ella la miró.
 
-Era la copia de una multa de tránsito. Papel de la ciudad, sello de la policía de San Aurelio, letra de agente apurado. *Luz de freno trasera izquierda fundida.* Una calle de La Almendra, la de El Patio, a las dos y catorce de la madrugada de anteayer. Un sedán oscuro, cuatro puertas. Placas de Virginia. En la casilla del propietario, el nombre de una arrendadora de coches; en la del conductor, un nombre que no le dijo nada y que, apostaba, no le iba a decir nada a nadie.
+Era la copia de una multa de tránsito. Papel de la ciudad, sello de la policía de San Aurelio, letra de agente apurado. *Luz de freno trasera izquierda fundida.* Una calle de la Almendra, la de El Patio, a las dos y catorce de la madrugada de anteayer. Un sedán oscuro, cuatro puertas. Placas de Virginia. En la casilla del propietario, el nombre de una arrendadora de coches; en la del conductor, un nombre que no le dijo nada y que, apostaba, no le iba a decir nada a nadie.
 
-—La arrendadora lo rentó a una empresa —dijo Varek—. La empresa tiene una dirección en un parque de oficinas de Virginia y un teléfono que no contesta nadie. —Recogió la hoja con la misma calma con que la había puesto y la devolvió al cajón—. Le dije anoche que no era mío. Ahora se lo enseño. No es mío y no es de aquí. Aquí nadie se toma la molestia de rentar un coche en otro estado para estacionarse en La Almendra.
+—La arrendadora lo rentó a una empresa —dijo Varek—. La empresa tiene una dirección en un parque de oficinas de Virginia y un teléfono que no contesta nadie. —Recogió la hoja con la misma calma con que la había puesto y la devolvió al cajón—. Le dije anoche que no era mío. Ahora se lo enseño. No es mío y no es de aquí. Aquí nadie se toma la molestia de rentar un coche en otro estado para estacionarse en la Almendra.
 
 No le dijo cómo había llegado esa hoja a su cajón. No hacía falta. Una multa de la policía de la ciudad, de una madrugada de anteayer, sobre el escritorio de un hombre que no era policía, ya estaba diciendo todo lo que él no iba a decir.
 
 Chiara se oyó a sí misma pasar a la voz de juntas, la única que tenía a mano.
 
-—Si hay alguien de fuera vigilando La Almendra y preguntando por la gerente del Monarch, es un asunto de seguridad del hotel. Puedo abrirlo como incidente. Que su gente le pase al jefe de seguridad lo que tenga, y yo me encargo de…
+—Si hay alguien de fuera vigilando la Almendra y preguntando por la gerente del Monarch, es un asunto de seguridad del hotel. Puedo abrirlo como incidente. Que su gente le pase al jefe de seguridad lo que tenga, y yo me encargo de…
 
 —¿Te estás acostando con él?
 
@@ -241,9 +241,9 @@ Si había gente de fuera preguntando por Kal en el barrio, la gente de dentro sa
 
 El Lancia no le servía. El Lancia ya estaba en una bitácora, con su hora y su rampa, y quien preguntaba por ella con la educación con que preguntaba sabía leer bitácoras. El Peugeot de Kal seguía en el hueco junto al loft, donde él lo dejaba cuando salía en el Audi, con las llaves en el cuenco de la entrada.
 
-En un taller de La Almendra que no hacía preguntas, por un precio que tampoco las hizo, el Peugeot rojo dejó de ser rojo en tres horas: un vinil gris sin nombre, mate, y unas placas que no eran de nadie que ella conociera. A las cuatro estaba estacionada en la curva alta de la glorieta del sur, en la sombra de un plátano, con el motor apagado y la cámara en las rodillas, mirando una casa grande con el portón de rejas.
+En un taller de la Almendra que no hacía preguntas, por un precio que tampoco las hizo, el Peugeot rojo dejó de ser rojo en tres horas: un vinil gris sin nombre, mate, y unas placas que no eran de nadie que ella conociera. A las cuatro estaba estacionada en la curva alta de la glorieta del sur, en la sombra de un plátano, con el motor apagado y la cámara en las rodillas, mirando una casa grande con el portón de rejas.
 
-No era su oficio. Era la paciencia de su oficio puesta en otro lado: esperar una hora entera a que un coche se detuviera en el ángulo correcto antes de apretar el obturador una sola vez. Un Chevrolet con las calcomanías de los Bravos en el medallón, dos veces, la placa legible la segunda. Tres hombres que entraban y salían por la misma puerta con demasiada frecuencia para que fuera casualidad. Anotó las horas en el reverso de un recibo con la letra apretada de las actas. Nadie la miró. Una mujer sola en un coche gris, en una curva con sombra, no era nada que valiera la pena mirar dos veces, y eso también lo había aprendido en otro lado.
+No era su oficio. Era la paciencia de su oficio puesta en otro lado: esperar una hora entera a que un coche se detuviera en el ángulo correcto antes de apretar el obturador una sola vez. Un Chevrolet con las calcomanías de los Bravos en la luneta, dos veces, la placa legible la segunda. Tres hombres que entraban y salían por la misma puerta con demasiada frecuencia para que fuera casualidad. Anotó las horas en el reverso de un recibo con la letra apretada de las actas. Nadie la miró. Una mujer sola en un coche gris, en una curva con sombra, no era nada que valiera la pena mirar dos veces, y eso también lo había aprendido en otro lado.
 
 Mandó revelar el rollo en un local de una hora que no pedía nombre y pagó en efectivo. El sobre era color hueso. No volvió a abrirlo.
 

@@ -49,7 +49,7 @@ CALIFICACIÓN DE VALET (2026-11-15, CANON DEL AUTOR: las calificaciones de valet
 
 # Capítulo 31 — Lo único que es mío
 
-El cuadro estaba en la mesa cuando salió del cuarto, junto a su taza, como si siempre hubiera estado ahí. Marco de madera clara. Un moño rojo, un poco chueco. Ninguna nota.
+El cuadro estaba en la mesa cuando salió del cuarto, junto a su taza, como si siempre hubiera estado ahí. Marco de madera clara. Un moño rojo, un poco torcido. Ninguna nota.
 
 La orilla del lago, la última luz. Dos espaldas, una bolsa y una mochila, las manos juntas. Nadie en la foto sabía que había una foto.
 
@@ -83,7 +83,7 @@ Se quedó con la hoja abierta en la mano. En sus primeras semanas en el Monarch,
 
 No le había tocado decidirlo.
 
-Dobló la hoja por los mismos dobleces, la metió en la bolsa con la cabezada y caminó hacia el corredor que llevaba a su oficina — un tramo angosto, acristalado de un lado, que corría por encima del piso de juego antes de doblar hacia las puertas de administración. Lo cruzaba varias veces al día sin mirar hacia abajo. Esa mañana, con la bolsa contra el pecho, miró.
+Dobló la hoja por los mismos dobleces, la metió en la bolsa con la cabezada y caminó hacia el corredor que llevaba a su oficina, un tramo angosto, acristalado de un lado, que corría por encima del piso de juego antes de doblar hacia las puertas de administración. Lo cruzaba varias veces al día sin mirar hacia abajo. Esa mañana, con la bolsa contra el pecho, miró.
 
 El piso, a esa hora, estaba casi vacío: un par de mesas cerradas, el zumbido bajo de las máquinas que nadie jugaba todavía, la luz artificial que el Monarch mantenía igual de día que de noche porque a nadie le convenía que un jugador supiera qué hora era. Y la caja, al fondo, con su ventanilla de vidrio grueso y su fila de cordones que nadie usaba a esa hora porque no había fila.
 
@@ -95,7 +95,7 @@ Chiara la reconoció antes de terminar de procesar por qué la reconocía, con e
 
 Marisol.
 
-Lo extraño no era que estuviera en el casino. Lo extraño era cómo estaba parada frente a la ventanilla: no del lado de quien pide algo, sino del lado de quien exige una respuesta. No hablaba fuerte — Chiara no alcanzaba a oír nada desde ahí arriba, sólo veía el gesto, la inclinación del cuerpo, la barbilla un poco alzada — pero cualquiera que hubiera pasado media vida leyendo habitaciones reconocía esa postura sin necesitar el audio. Marisol quería algo. Y Kenji, del otro lado del vidrio, tenía esa calma suya de siempre, la que Chiara le había visto sostener frente a jugadores furiosos y frente a auditores del estado, y por primera vez esa calma parecía costarle un poco más de lo habitual.
+Lo extraño no era que estuviera en el casino. Lo extraño era cómo estaba parada frente a la ventanilla: no del lado de quien pide algo, sino del lado de quien exige una respuesta. No hablaba fuerte —Chiara no alcanzaba a oír nada desde ahí arriba, sólo veía el gesto, la inclinación del cuerpo, la barbilla un poco alzada— pero cualquiera que hubiera pasado media vida leyendo habitaciones reconocía esa postura sin necesitar el audio. Marisol quería algo. Y Kenji, del otro lado del vidrio, tenía esa calma suya de siempre, la que Chiara le había visto sostener frente a jugadores furiosos y frente a auditores del estado, y por primera vez esa calma parecía costarle un poco más de lo habitual.
 
 Chiara se quedó un segundo mirando, con la bolsa todavía contra el pecho, entendiendo sólo una cosa con certeza: había algo ahí que ella no sabía.
 
@@ -103,9 +103,9 @@ Dejó la bolsa en el piso del corredor, contra el cristal, y bajó.
 
 ***
 
-Para cuando llegó, la conversación ya llevaba un rato encima — se notaba en cómo Marisol tenía el peso repartido, como quien ya no está en la apertura de una discusión sino en mitad de ella, y en cómo Kenji había dejado un cajón entreabierto sin terminar de cerrarlo, como si lo hubiera interrumpido a medio gesto.
+Para cuando llegó, la conversación ya llevaba un rato encima: se notaba en cómo Marisol tenía el peso repartido, como quien ya no está en la apertura de una discusión sino en mitad de ella, y en cómo Kenji había dejado un cajón entreabierto sin terminar de cerrarlo, como si lo hubiera interrumpido a medio gesto.
 
-—...y no me vas a decir que fue casualidad —estaba diciendo Marisol— porque ya llevo contadas las veces y dejó de serlo hace un rato.
+—…y no me vas a decir que fue casualidad —estaba diciendo Marisol— porque ya llevo contadas las veces y dejó de serlo hace un rato.
 
 —No te estoy diciendo que fue casualidad —dijo Kenji, con la voz baja, pareja, la misma con la que probablemente resolvía cualquier cosa en ese piso.
 
@@ -173,7 +173,7 @@ Marisol se quedó mirándolo un momento sin decir nada, y Chiara reconoció el s
 
 Marisol no contestó. Los brazos siguieron cruzados.
 
-—¿Cómo se supone que sabías que era "más atención de la que hacía falta"? —preguntó—. ¿Tienes un manual para eso?
+—¿Cómo se supone que sabías que era «más atención de la que hacía falta»? —preguntó—. ¿Tienes un manual para eso?
 
 —No. —Kenji casi sonrió, casi—. Lo supe cuando empecé a acordarme de cosas que no necesitaba recordar.
 
@@ -293,7 +293,7 @@ Ella le sostuvo la mirada un segundo más. Después se volvió hacia la ventana 
 
 Cerró la ventana, se subió las mangas y empezó a sacar lo que hacía falta para la salsa.
 
-Encontró la bolsa de pan sobre la encimera y la abrió sin pensarlo mucho, hasta que vio lo que había adentro.
+Encontró la bolsa de pan sobre la barra y la abrió sin pensarlo mucho, hasta que vio lo que había adentro.
 
 —Kal.
 
@@ -303,7 +303,7 @@ Encontró la bolsa de pan sobre la encimera y la abrió sin pensarlo mucho, hast
 
 —Ese está mejor.
 
-—Ese te gusta más.
+—Ése te gusta más.
 
 —Exacto.
 
@@ -321,13 +321,13 @@ Kal estiró la mano hacia un trozo de queso que ella acababa de cortar. Chiara l
 
 Kal se quedó con la mano a medio camino.
 
-—¿Qué es "ladro"?
+—¿Qué es «ladro»?
 
 —Ladrón.
 
 —Ladro —repitió él, con una seriedad completamente fuera de lugar para una palabra que sólo significaba eso.
 
-Chiara se rió, de verdad, antes de poder evitarlo.
+Chiara se rio, de verdad, antes de poder evitarlo.
 
 —Suena horrible cuando lo dices tú.
 
@@ -347,7 +347,7 @@ Kal la miró un segundo antes de probar, calculando.
 
 —Prueba. Assaggia.
 
-—Assaggia —repitió, aplastando la primera "a" contra la segunda de una manera que no se parecía a nada.
+—Assaggia —repitió, aplastando la primera «a» contra la segunda de una manera que no se parecía a nada.
 
 —No así.
 

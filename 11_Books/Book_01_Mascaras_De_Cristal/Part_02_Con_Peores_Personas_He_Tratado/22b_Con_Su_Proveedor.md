@@ -31,7 +31,7 @@ Estaba sentado en el archivero de la oficina del taller, con la computadora de l
 
 Nadir levantó la vista de la mesa, donde llevaba una hora peleándose con la factura de un proveedor de pintura. Hizo una cuenta con los dedos contra la madera, una sola, y siguió con la factura.
 
-En la charola junto a la puerta, debajo de las órdenes de servicio, asomaba el sobre manila de Rivers con la fecha escrita a mano en la esquina: martes, diez de la mañana, mediación. Llevaba ahí desde el lunes. Kal no lo había vuelto a abrir.
+En la bandeja junto a la puerta, debajo de las órdenes de servicio, asomaba el sobre manila de Rivers con la fecha escrita a mano en la esquina: martes, diez de la mañana, mediación. Llevaba ahí desde el lunes. Kal no lo había vuelto a abrir.
 
 —Ven a ver esto, jefe —dijo Danny.
 
@@ -55,7 +55,7 @@ Kal miró la curva otra vez. Era la misma que había visto en el cuarto de monit
 
 No era pregunta. En el sur todos sabían quién vendía heroína en O.R.T., aunque nadie del sur admitiera haber subido a comprar.
 
-—Todo lo de ellos lleva algo dorado. —Danny se frotó la nariz con el dorso de la mano—. Los rines, una cadena, un diente, lo que sea. Es como un uniforme, pero para gente que no quiere uniforme. Yo fui a ver unas carreras allá arriba, en la recta de la mina, hace como un año. Dos veces. Me llevó el amigo de un amigo que tenía un Supra, y no ganó nada, el pobre, perdió hasta la...
+—Todo lo de ellos lleva algo dorado. —Danny se frotó la nariz con el dorso de la mano—. Los rines, una cadena, un diente, lo que sea. Es como un uniforme, pero para gente que no quiere uniforme. Yo fui a ver unas carreras allá arriba, en la recta de la mina, hace como un año. Dos veces. Me llevó el amigo de un amigo que tenía un Supra, y no ganó nada, el pobre, perdió hasta la…
 
 Nadie le había preguntado por las carreras. Nadir había dejado de contar contra la madera.
 
@@ -63,7 +63,7 @@ Kal no miraba a Danny. Miraba los rines detenidos en la pantalla.
 
 —El del billar —dijo—. El que les pasó lo de la bodega de Irene. ¿Es de ellos?
 
-Danny tardó en contestar. Regresó el video al principio sin que nadie se lo pidiera, y el auto volvió a salir del lote, otra vez sin luces.
+Danny tardó en contestar. Rebobinó el video hasta el principio sin que nadie se lo pidiera, y el auto volvió a salir del lote, otra vez sin luces.
 
 —Puede ser. Yo lo vi tres veces, jefe, y siempre de lejos, con gorra. En ese billar todos se parecen. La luz es verde, como de acuario; ahí adentro te ves enfermo hasta tú.
 
@@ -81,7 +81,7 @@ Nadir se había quedado quieto del todo, con la mano abierta encima de la factur
 
 ***
 
-Chiara llegó a la una y media, en un taxi que dejó dos cuadras antes, y cruzó el patio por el portón lateral con lentes oscuros y un abrigo que en La Almendra costaba lo que una grúa usada. Un cliente que esperaba su camioneta junto a la máquina de refrescos la siguió con la vista hasta la puerta de la oficina.
+Chiara llegó a la una y media, en un taxi que dejó dos cuadras antes, y cruzó el patio por el portón lateral con lentes oscuros y un abrigo que en la Almendra costaba lo que una grúa usada. Un cliente que esperaba su camioneta junto a la máquina de refrescos la siguió con la vista hasta la puerta de la oficina.
 
 Danny se bajó del archivero de un salto.
 
@@ -107,7 +107,7 @@ Chiara se volvió hacia él.
 
 —Mil ochocientos más el recargo es lo que cobra la grúa por sacar un auto de una zanja a las tres de la mañana. —Nadir no se levantó—. La tarifa habitual es la de la grúa.
 
-—Señor Amrani...
+—Señor Amrani…
 
 —Usted le paga a él. Él nos paga a nosotros. Si esto sale mal, ¿a quién le cobra usted? A él. ¿Y la policía a quién le cobra? Al que esté parado junto al auto. —Golpeó la factura con el índice, una vez por cada viaje—. Once viajes le hice a Irene Salcedo con el maletero lleno, señora. Once. Gratis. Y nadie me preguntó si quería.
 
@@ -171,7 +171,7 @@ La voz se rio sin ganas.
 
 Silencio otra vez. Kal oyó al otro tapar el teléfono y hablar con alguien.
 
-—Si vemos una patrulla...
+—Si vemos una patrulla…
 
 —No van a ver nada. Yo voy en grúa. Y llevo a uno que cuenta rápido.
 
@@ -243,7 +243,7 @@ Danny le cambió la perilla de la palanca por una calavera de metal fundido que 
 
 —¿Vienes? —preguntó Nadir.
 
-—Yo me quedo, jefe. —Danny se lo dijo a Kal, aunque no era Kal el que había preguntado—. Alguien tiene que estar aquí si llama la señora. Y mañana a las siete entra el Ford del licenciado, y si el elevador no está libre se pone como se pone, ya sabes cómo es, la otra vez me tuvo media hora hablándome de su cuñado...
+—Yo me quedo, jefe. —Danny se lo dijo a Kal, aunque no era Kal el que había preguntado—. Alguien tiene que estar aquí si llama la señora. Y mañana a las siete entra el Ford del licenciado, y si el elevador no está libre se pone como se pone, ya sabes cómo es, la otra vez me tuvo media hora hablándome de su cuñado…
 
 —Quédate —dijo Kal.
 
@@ -275,7 +275,7 @@ El alto miró al bajo. El bajo sacó la mano de la chaqueta, vacía, y fue al ma
 
 Nadir abrió la bolsa y empezó a contar sobre el capó, en voz alta, rápido, sin mirar a nadie, apartando los fajos a la izquierda.
 
-—Diez, veinte, treinta... de cincuenta, *wallah*, quién guarda en billetes de cincuenta... cuarenta, cincuenta... —Las manos no se le detenían—. Ochenta. Dos mil. Dos mil cuatrocientos. *Voilà.* Ochenta y dos mil cuatrocientos.
+—Diez, veinte, treinta… de cincuenta, *wallah*, quién guarda en billetes de cincuenta… cuarenta, cincuenta… —Las manos no se le detenían—. Ochenta. Dos mil. Dos mil cuatrocientos. *Voilà.* Ochenta y dos mil cuatrocientos.
 
 Lo que quedaba en la bolsa era más del doble de lo que había a la izquierda.
 
@@ -360,7 +360,7 @@ Kal lo dejó en la esquina de la vulcanizadora, a dos cuadras del taller. Nadir 
 
 ***
 
-La comisaría central tenía atrás un patio cercado con malla, donde dormían las patrullas que no estaban de turno y algunos autos que nadie había ido a reclamar. Kal entró por el portón de servicio a las dos y diecinueve. El sargento de guardia le hizo señas desde la caseta para que dejara la plataforma junto a la barda, debajo de la única lámpara que funcionaba, y volvió a su crucigrama.
+La comisaría central tenía atrás un patio cercado con malla, donde dormían las patrullas que no estaban de turno y algunos autos que nadie había ido a reclamar. Kal entró por el portón de servicio a las dos y diecinueve. El sargento de guardia le hizo señas desde la caseta para que dejara la plataforma junto a la tapia, debajo de la única lámpara que funcionaba, y volvió a su crucigrama.
 
 Kal bajó el Civic despacio. Le quitó las cadenas y las enrolló en el piso, como las enrollaba en cualquier patio. Después se quedó junto a la grúa con las manos en los bolsillos, porque la subjefa había dicho que se lo trajera y no le había dicho que se fuera.
 
@@ -392,7 +392,7 @@ No traía uniforme. Llevaba un abrigo gris abotonado hasta arriba y una carpeta 
 
 —No abrí las puertas.
 
-Ella se enderezó. Abrió la carpeta sobre el cofre de la grúa y sacó una libreta de espiral. Kal vio, al revés, la página del Monarch: el nombre de Charles, el de la contratista de los valets y, más abajo, *Mercer*, con la letra del domingo.
+Ella se enderezó. Abrió la carpeta sobre el capó de la grúa y sacó una libreta de espiral. Kal vio, al revés, la página del Monarch: el nombre de Charles, el de la contratista de los valets y, más abajo, *Mercer*, con la letra del domingo.
 
 —Su llamada entró a la central a la una cincuenta y dos —dijo Lucía, y lo escribió debajo de su nombre—. Por un auto abandonado.
 
@@ -432,7 +432,7 @@ El sargento salió de la caseta con una tablilla y un recibo de tres copias. Kal
 
 —Eso.
 
-Volvió a entrar por la puerta de atrás con la carpeta debajo del brazo. El Civic se quedó junto a la barda, entre dos patrullas, con los rines prendidos por la lámpara.
+Volvió a entrar por la puerta de atrás con la carpeta debajo del brazo. El Civic se quedó junto a la tapia, entre dos patrullas, con los rines prendidos por la lámpara.
 
 ***
 
@@ -484,7 +484,7 @@ Lo dijo sin bajar la voz y sin adornarlo, y Kal no le preguntó más. Esa noche 
 
 ***
 
-El viernes, Danny llegó al taller con el periódico doblado en la bolsa de atrás del pantalón, y lo abrió sobre el cofre del Ford del licenciado antes de saludar a nadie.
+El viernes, Danny llegó al taller con el periódico doblado en la bolsa de atrás del pantalón, y lo abrió sobre el capó del Ford del licenciado antes de saludar a nadie.
 
 —Salimos, jefe. Bueno, no salimos. Sale «una revisión de tránsito».
 

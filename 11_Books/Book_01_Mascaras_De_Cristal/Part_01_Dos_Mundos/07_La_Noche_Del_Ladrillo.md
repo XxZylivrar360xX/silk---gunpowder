@@ -24,7 +24,7 @@ Favor y Vento (2026-11-04, DECISION DEL AUTOR; prosa DISEÑO, BORRADOR en este t
 
 Blake la dejó entrar primero, con una mano en la espalda baja que no era ternura: era demostración.
 
-Gabriella's quedaba en Santa Brígida, sobre la costa sur, lejos del Monarch: un antro entre bares y mercados, cerca de la 101. Esa noche era todo blanco — manteles blancos, flores blancas, la gente que Blake quería impresionar vestida de blanco de un modo que a Chiara le pareció menos elegancia y más uniforme. Ella también iba de blanco, porque no había forma de asistir sin serlo, y odiaba un poco cómo eso la volvía parte del atrezo.
+Gabriella's quedaba en Santa Brígida, sobre la costa sur, lejos del Monarch: un antro entre bares y mercados, cerca de la 101. Esa noche era todo blanco: manteles blancos, flores blancas, la gente que Blake quería impresionar vestida de blanco de un modo que a Chiara le pareció menos elegancia y más uniforme. Ella también iba de blanco, porque no había forma de asistir sin serlo, y odiaba un poco cómo eso la volvía parte del atrezo.
 
 Le había dicho que no a Blake tres veces seguidas. A la cuarta, a Gabriella's, le dijo que sí, porque otro no ya habría sido una respuesta.
 
@@ -38,7 +38,7 @@ Con el capitán fue distinto. Blake lo ubicó desde la entrada, junto a la barra
 
 El capitán le preguntó por el torneo antes que por su nombre. Dijo que él no jugaba.
 
-Por un segundo fue el Blake de La Esquina de Mabel, el que no tenía público. Después el capitán contó un chiste, y Blake se rió más fuerte que el capitán.
+Por un segundo fue el Blake de La Esquina de Mabel, el que no tenía público. Después el capitán contó un chiste, y Blake se rio más fuerte que el capitán.
 
 Camino al siguiente grupo, Blake bajó la voz como quien regala algo.
 
@@ -88,7 +88,7 @@ No lo dijo. Ni siquiera tuvo que decidirlo; se dio cuenta después, cuando ya lo
 
 Fue la primera vez esa noche que Kal se le metió en la cabeza sin haber sido invitado.
 
-Él volvió a entrar cuando alguien lo llamó desde la puerta — otro grupo, otra ronda de presentaciones donde ella iba a ser el florero otra vez—, y Chiara se quedó sola con el teléfono en la mano y una idea que no debía tener.
+Él volvió a entrar cuando alguien lo llamó desde la puerta —otro grupo, otra ronda de presentaciones donde ella iba a ser el florero otra vez—, y Chiara se quedó sola con el teléfono en la mano y una idea que no debía tener.
 
 Escribió antes de pensarlo del todo:
 
@@ -116,7 +116,7 @@ Chiara sonrió porque la sala esperaba que sonriera.
 
 Por dentro, algo se le cerró.
 
-No era la canción. Era lo que Blake creía haber entendido de ella: que bastaba con la palabra *italiana* para definirla, que ella era eso — una melodía alegre y aeropuertaria, fácil de aplaudir sin tener que preguntarle nada más. A ella esa canción no le decía nada. La que sí le decía algo sonaba los domingos en la casa de su madre, y no tenía nada de alegre.
+No era la canción. Era lo que Blake creía haber entendido de ella: que bastaba con la palabra *italiana* para definirla, que ella era eso —una melodía alegre y aeropuertaria, fácil de aplaudir sin tener que preguntarle nada más—. A ella esa canción no le decía nada. La que sí le decía algo sonaba los domingos en la casa de su madre, y no tenía nada de alegre.
 
 —Discúlpame un momento —dijo, y se levantó antes de que Blake pudiera decidir si eso era grosero.
 
@@ -152,7 +152,7 @@ Dario Varek estaba saliendo cuando ella llegó a la puerta.
 
 No fue hacia el auto. Se quedó en la acera, con las manos en los bolsillos del abrigo, mirando la calle.
 
-Chiara lo dejó ahí y se apartó hacia la pared donde había fumado. Todavía no se decidía a volver a entrar cuando el mismo Peugeot rojo pasó otra vez — en dirección contraria esta vez — y giró en el callejón junto al local.
+Chiara lo dejó ahí y se apartó hacia la pared donde había fumado. Todavía no se decidía a volver a entrar cuando el mismo Peugeot rojo pasó otra vez —en dirección contraria esta vez— y giró en el callejón junto al local.
 
 Esta vez no tuvo que preguntarse quién iba dentro. Se quedó mirando la boca del callejón con el bolso apretado contra el costado, con Blake a veinte pasos, adentro, todavía presumiendo curvas.
 
@@ -172,11 +172,11 @@ Kal miró su propia ropa como si la viera por primera vez. Después miró al por
 
 El portero no supo qué contestar a eso, y en el silencio que siguió, Nadir soltó una risa corta y Danny miró al techo como si buscara ahí la paciencia necesaria para no reírse también.
 
-Chiara, desde la pared, se rió disimuladamente detrás de la mano.
+Chiara, desde la pared, se rio disimuladamente detrás de la mano.
 
 Kal la vio.
 
-No dijo nada, no se acercó, no le hizo una seña — sólo le dedicó una media sonrisa discreta.
+No dijo nada, no se acercó, no le hizo una seña; sólo le dedicó una media sonrisa discreta.
 
 El portero, resignado o simplemente cansado, los dejó pasar.
 
@@ -250,7 +250,7 @@ Kal no bajó la mano del pecho.
 
 Chiara soltó la sonrisa. No sabía que la traía puesta todavía.
 
-Un mesero pasó con una charola de copas. Kal tomó dos, le dio una y levantó la suya sin brindar por nada.
+Un mesero pasó con una bandeja de copas. Kal tomó dos, le dio una y levantó la suya sin brindar por nada.
 
 —Por las calcetas blancas.
 
@@ -276,11 +276,11 @@ De arcilla. Literal. Del tamaño exacto de un ladrillo de verdad, porque lo era.
 
 Se lo puso en las manos como si le estuviera entregando algo de valor real.
 
-Chiara se lo quedó mirando y se rió — una risa que no calculó.
+Chiara se lo quedó mirando y se rio: una risa que no calculó.
 
 —Qué bobo eres.
 
-Kal se rió también.
+Kal se rio también.
 
 Se quedaron ahí un momento, ella con un ladrillo en las manos en un pasillo de baños de una fiesta de etiqueta, él sin ninguna prisa por explicarse, hasta que el teléfono de Kal vibró y su cara cambió lo suficiente para que ella entendiera que la noche, para él, ya se había terminado.
 
@@ -322,7 +322,7 @@ Chiara no contestó. Blake dio un paso más cerca, y algo en la cara se le puso 
 
 —No se trata de eso.
 
-—Entonces sí hay un "eso".
+—Entonces sí hay un «eso».
 
 Chiara se oyó a sí misma un segundo tarde y odió lo rápido que él sonrió al notarlo.
 
@@ -332,7 +332,7 @@ Chiara se oyó a sí misma un segundo tarde y odió lo rápido que él sonrió a
 
 —Baja la voz.
 
-Blake se rió, sin nada de humor en la risa.
+Blake se rio, sin nada de humor en la risa.
 
 —Increíble. Ni siquiera lo niegas.
 
@@ -354,7 +354,7 @@ Eso fue lo último que necesitó oír.
 
 Se dio la vuelta antes de que él pudiera contestar, levantó la mano hacia la calle y un taxi se detuvo con una suerte que no merecía esa noche.
 
-Santa Brígida quedaba lejos del Monarch. El ladrillo se le clavaba en la cadera con cada bache del camino, y antes de llegar a la 101 ya lo había armado: el coche del que Blake presumía derrotas, el terror de la policía del que nadie había visto la cara, era el mismo que acababa de entrar a un callejón con cuatro hombres mal vestidos. Se rió una vez, por la nariz. El chofer la miró por el espejo.
+Santa Brígida quedaba lejos del Monarch. El ladrillo se le clavaba en la cadera con cada bache del camino, y antes de llegar a la 101 ya lo había armado: el coche del que Blake presumía derrotas, el terror de la policía del que nadie había visto la cara, era el mismo que acababa de entrar a un callejón con cuatro hombres mal vestidos. Se rio una vez, por la nariz. El chofer la miró por el espejo.
 
 Eran más de las dos cuando entró al penthouse. No encendió más que la lámpara de la habitación. Sacó el ladrillo del bolso antes que nada y se quedó mirándolo en la mano. Levantó una ceja. Lo dejó en la mesa de noche del otro lado de la cama, la que no usaba.
 
@@ -452,7 +452,7 @@ Volvió a apretar.
 
 Se puso el abrigo encima del pijama. Las botas estaban junto a la puerta, donde normalmente dejaba los tacones.
 
-Detrás del complejo el asfalto del casino se rendía y empezaba la tierra apisonada. A esa hora no había más que el foco de servicio sobre la puerta de las caballerizas, un bloque largo de madera y lámina, y, muy atrás, el ruido del mar. Chiara abrió con su llave. Adentro olía a paja y a cuero. Russ se quedó afuera, junto a la cerca del corral, y colgó el bastón del tablón de arriba.
+Detrás del complejo el asfalto del casino se rendía y empezaba la tierra apisonada. A esa hora no había más que la lámpara de servicio sobre la puerta de las caballerizas, un bloque largo de madera y lámina, y, muy atrás, el ruido del mar. Chiara abrió con su llave. Adentro olía a paja y a cuero. Russ se quedó afuera, junto a la cerca del corral, y colgó el bastón del tablón de arriba.
 
 Danny recorrió el pasillo de los boxes con las manos en la espalda, como en un museo. Un caballo casi negro le pegó la nariz a la reja.
 
@@ -480,7 +480,7 @@ Miró la mano de ella, que seguía en el cuello. No hizo ninguna cuenta.
 
 Ensilló ella. Danny quiso ayudar con la cincha, y ella le quitó la mano de ahí sin mirarlo. Lo sacó al corral y se subió primero, con el abrigo encima del pijama y el lápiz en el pelo, para que Danny viera dónde iba cada cosa.
 
-Dio una vuelta al paso. Hacía frío, y la tierra a esa hora no sonaba como la de los domingos. Cuando salió del lado oscuro de la pista, el foco le dio de frente, y ahí estaban los tres, en la cerca, sin decirle nada. Nadie le preguntó por el torneo.
+Dio una vuelta al paso. Hacía frío, y la tierra a esa hora no sonaba como la de los domingos. Cuando salió del lado oscuro de la pista, la lámpara le dio de frente, y ahí estaban los tres, en la cerca, sin decirle nada. Nadie le preguntó por el torneo.
 
 —¿Y esto cuándo lo hace? —Danny tenía las dos manos en el tablón—. Porque yo la veo a usted y pienso en carpetas, señora, con todo respeto, y resulta que vivo a veinte minutos de un caballo y nadie me dice nada.
 
@@ -522,7 +522,7 @@ Nadir volteó a verlo como a una cifra que no le cuadraba.
 
 Chiara lo estaba mirando. Tenía la cuerda en las dos manos y nada con qué taparse la boca. Apretó los labios y le salió por la nariz. Después por los hombros, casi sin ruido, y tuvo que apoyar la frente en el cuello de Vento, que olía como todos los domingos, y ahí se quedó, con la marca de la cadera doliéndole a cada sacudida.
 
-Danny le sostuvo el cepillo más rato del necesario. Ella cerró el portón del corral con las dos manos y pasó el pasador de fierro, frío a esa hora. Russ había recuperado el bastón y la cara de siempre, con el bigote un poco chueco.
+Danny le sostuvo el cepillo más rato del necesario. Ella cerró el portón del corral con las dos manos y pasó el pasador de fierro, frío a esa hora. Russ había recuperado el bastón y la cara de siempre, con el bigote un poco torcido.
 
 Afuera, donde empezaba el asfalto, se detuvo.
 

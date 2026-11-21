@@ -178,7 +178,7 @@ Pidió un taxi, que la recogió bajo la marquesina, entre dos coches del hotel c
 
 El Bulevar Corona salía del casino derecho hacia el este, y durante un rato la ciudad fue sólo La Isla. A la derecha, del lado del mar, pasaron los clubes: cortinas metálicas abajo, letreros de neón apagados que de día casi no se leían, un hombre baldeando una acera con la manguera. Entre un club y otro aparecía el agua, gris de media mañana, y desaparecía.
 
-Después vinieron las torres de Punta Dorada. Vidrio, grúas, lonas de constructora colgadas de edificios a medio vender, banquetas anchas y vacías. La ciudad que salía en las fotos tenía el sol de frente y nadie que la caminara. En la radio, un locutor hablaba de Plaza Corona con voz de domingo.
+Después vinieron las torres de Punta Dorada. Vidrio, grúas, lonas de constructora colgadas de edificios a medio vender, aceras anchas y vacías. La ciudad que salía en las fotos tenía el sol de frente y nadie que la caminara. En la radio, un locutor hablaba de Plaza Corona con voz de domingo.
 
 El Puente de Piedra tardó más de lo que ella esperaba. Cinco kilómetros de piedra gris sobre la bahía, el tráfico detenido a ratos y gaviotas en el barandal como si cobraran peaje. Abajo el agua era verde y quieta. Enfrente, el centro crecía despacio: primero el reloj del Ayuntamiento, después las fachadas viejas, una por una.
 
@@ -186,7 +186,7 @@ El centro de San Aurelio no intentaba seducirla. Eso le gustó.
 
 Calle Corona tenía juzgados, bancos viejos, oficinas municipales, cafeterías con mesas demasiado juntas y gente que caminaba rápido aunque no pareciera ir a ningún lugar bueno. Esa mañana también tenía vallas.
 
-El taxi no pudo pasar de la esquina del Ayuntamiento. Un agente de tránsito desviaba coches con la mano, sin silbato, y el chofer dijo algo del jefe de policía en el tono con que se comenta el clima. Se ofreció a dar la vuelta y regresarla por el puente.
+El taxi no pudo pasar de la esquina del Ayuntamiento. Un agente de tránsito desviaba coches con la mano, sin silbato, y el chofer dijo algo del jefe de policía en el tono con que se comenta el clima. Se ofreció a dar la vuelta y llevarla de vuelta por el puente.
 
 Ya había tomado el aire que vino a tomar. Pero llevaba desde las siete leyendo a ese muerto en una pantalla, en palabras que alguien había escogido, y ahí afuera la ciudad lo estaba pasando sin locutor.
 
@@ -290,7 +290,7 @@ Detrás de la caja, Mabel dejó de mover las manos.
 
 —Lo siento.
 
-Él tardó medio segundo en decidir que era broma y se rió otra vez.
+Él tardó medio segundo en decidir que era broma y se rio otra vez.
 
 —Me gusta tu estilo.
 
@@ -322,7 +322,7 @@ Blake levantó la vista. Por primera vez la miró a ella y no al efecto que esta
 
 —Yo para la tele. Ya te dije que practiqué.
 
-Chiara se rió antes de decidir si quería.
+Chiara se rio antes de decidir si quería.
 
 Mabel llegó por la taza vacía. Blake no volteó a verla.
 
@@ -432,7 +432,7 @@ Blake lo corrigió tarde.
 
 La corrección no fue defensa sino presentación de propiedad.
 
-Chiara sonrió con la medida exacta para no convertir la noche en incidente. Esa era una habilidad vieja: dejar que un hombre creyera que la habitación seguía intacta mientras ella ya había cambiado de puerta.
+Chiara sonrió con la medida exacta para no convertir la noche en incidente. Ésa era una habilidad vieja: dejar que un hombre creyera que la habitación seguía intacta mientras ella ya había cambiado de puerta.
 
 Blake le puso una mano en la espalda, demasiado arriba para ser intimidad y demasiado abajo para ser cortesía.
 
@@ -466,7 +466,7 @@ Chiara pensó en la nuca del coche negro, en el cabello recogido sin un pelo fue
 
 —¿Y si uno tiene un problema, a cuál de las dos llama?
 
-—A mí —dijo Blake, y se rió, y al ver que ella no se reía lo dijo otra vez—. A mí.
+—A mí —dijo Blake, y se rio, y al ver que ella no se reía lo dijo otra vez—. A mí.
 
 Se volvió hacia la mesa antes de que ella contestara. Contó que había manejado la escolta del jefe dos inviernos. A mediodía le había dicho que Keene le dio la mano una vez. Chiara no lo corrigió. Bebió una copa y dejó la segunda sobre la mesa sin tocar.
 
@@ -706,7 +706,7 @@ Danny abrió las manos, como si la acera hubiera tomado la decisión sola.
 
 —Tú lo dijiste. —Danny ya estaba sonriendo—. Desde anoche nadie sabe qué patrulla pasa por dónde. En una semana alguien lo va a volver a saber.
 
-Kal no contestó. Nadir sí se rió, bajito.
+Kal no contestó. Nadir sí se rio, bajito.
 
 —Te cobraron con tu propia moneda, khoya.
 
@@ -740,7 +740,7 @@ Russ cerró los ojos un segundo, como quien cuenta hasta un número muy alto. Da
 
 —¿Sabes lo que come un caballo, khoya? —Nadir ya se estaba riendo, con la cabeza echada para atrás—. Cuatro caballos se comen el cajero antes de que lo abras.
 
-A Kal se le fue la tortilla por el lado equivocado y tuvo que toser. Danny se rió más que los dos, de su propia idea, y brincó a la plataforma a soltar una cadena que nadie le había pedido soltar, y un tornillo se le fue de los dedos, pegó en el borde y siguió por el concreto.
+A Kal se le fue la tortilla por el lado equivocado y tuvo que toser. Danny se rio más que los dos, de su propia idea, y brincó a la plataforma a soltar una cadena que nadie le había pedido soltar, y un tornillo se le fue de los dedos, pegó en el borde y siguió por el concreto.
 
 A Kal le vibró el teléfono en el bolsillo de la sudadera.
 

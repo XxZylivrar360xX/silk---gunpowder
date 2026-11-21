@@ -62,7 +62,7 @@ Kal miró hacia la puerta de carga, por donde se oía, lejos, el mar.
 
 —Mañana le mando fruta. La fruta no hace ruido.
 
-Kal se rió por la nariz, sin abrir la boca, y se guardó la llave en el bolsillo de atrás.
+Kal se rio por la nariz, sin abrir la boca, y se guardó la llave en el bolsillo de atrás.
 
 Tres noches después la llamó pasadas las once. Chiara seguía en la oficina, con los tacones bajo el escritorio y la ciudad encendida detrás del vidrio.
 
@@ -90,7 +90,7 @@ El compresor se apagó. En el silencio, Kal habló como si ésa fuera la noticia
 
 —Más o menos. Héctor ya se estacionó chueco dos veces, por respeto.
 
-Chiara se rió frente al vidrio, con la frente casi contra el frío, y se tapó la boca aunque en el piso no quedaba nadie para oírla.
+Chiara se rio frente al vidrio, con la frente casi contra el frío, y se tapó la boca aunque en el piso no quedaba nadie para oírla.
 
 Colgaron sin que ninguno dijera por qué había llamado.
 
@@ -364,7 +364,7 @@ Russ estaba al volante. No se molestó en bajar.
 
 —Dijiste que cuando trajera su logo. Trae su logo. Yo sólo manejo.
 
-Levantó el bastón y señaló el patio de atrás, por el hueco entre las dos naves. La lona estaba doblada contra la barda, esperando. Junto a ella, con un café en vaso de papel y una mano en el cinturón, esperaba también un policía de uniforme.
+Levantó el bastón y señaló el patio de atrás, por el hueco entre las dos naves. La lona estaba doblada contra la tapia, esperando. Junto a ella, con un café en vaso de papel y una mano en el cinturón, esperaba también un policía de uniforme.
 
 —Hendricks —dijo Nadir, que había aparecido al lado de Kal limpiándose las manos, sin mirar a ninguno de los dos—. Se le reventó una manguera. El muchacho de la bahía le dijo que esperara atrás, para que no estorbara. Es muy educado, ese muchacho.
 
@@ -372,7 +372,7 @@ Danny ya iba cruzando el patio con los brazos abiertos.
 
 —¡Oficial! ¿Usted es el de las costillas?
 
-Hendricks tenía cincuenta años, una panza de turno de noche y, por lo visto, a nadie que le hubiera preguntado por sus costillas en mucho tiempo. Danny le pasó el brazo por los hombros antes de que terminara de contestar y se lo llevó caminando hacia el frente, para que le dijera, ya que estaba ahí, si esas líneas cumplían el reglamento, porque las había pintado él solo, de noche, y había quien decía que estaban chuecas.
+Hendricks tenía cincuenta años, una panza de turno de noche y, por lo visto, a nadie que le hubiera preguntado por sus costillas en mucho tiempo. Danny le pasó el brazo por los hombros antes de que terminara de contestar y se lo llevó caminando hacia el frente, para que le dijera, ya que estaba ahí, si esas líneas cumplían el reglamento, porque las había pintado él solo, de noche, y había quien decía que estaban torcidas.
 
 Al pasar junto a la grúa, Hendricks levantó la barbilla hacia la manta.
 
@@ -386,7 +386,7 @@ Kal no se movió.
 
 La grúa dos rodó detrás de ellos, despacio, hacia el patio de atrás.
 
-Hendricks se fue antes de las seis y media, con manguera nueva, una factura a nombre del departamento que nadie iba a leer y la receta escrita en el reverso. Cuando la patrulla dobló la esquina, Danny se sentó en una defensa y se frotó la cara con las dos manos.
+Hendricks se fue antes de las seis y media, con manguera nueva, una factura a nombre del departamento que nadie iba a leer y la receta escrita en el reverso. Cuando la patrulla dobló la esquina, Danny se sentó en un parachoques y se frotó la cara con las dos manos.
 
 —¿Ves, jefe? Ni una pregunta.
 
@@ -422,7 +422,7 @@ Russ cerró los ojos.
 
 —Por eso. Ya se sabe el camino.
 
-Kal se lavaba los brazos en la tarja con jabón de polvo.
+Kal se lavaba los brazos en el fregadero con jabón de polvo.
 
 —De noche. Y con cartón en la puerta.
 
@@ -434,7 +434,7 @@ A Danny se le iluminó la cara.
 
 Eran casi las siete y media. Kal se lavó otra vez, porque seguía oliendo a disco quemado, se puso la chaqueta y fue por fin a la oficina. Abrió el cajón. Sacó una bolsa pequeña y se la guardó en el bolsillo. De atrás de las facturas sacó también un frasco, se puso en el cuello lo que le cupo en un dedo y lo volvió a guardar.
 
-Al cruzar el patio pasó junto a Danny, sentado en una defensa. Danny levantó la nariz y miró a Nadir. Nadir no levantó la vista de la lata.
+Al cruzar el patio pasó junto a Danny, sentado en un parachoques. Danny levantó la nariz y miró a Nadir. Nadir no levantó la vista de la lata.
 
 Kal salió a buscar hamburguesas.
 
@@ -472,7 +472,7 @@ Kal la miró una vez, de arriba abajo, y luego se puso a mirar la ciudad con muc
 
 —Tiene razón.
 
-Terminaron sentados en el suelo de la sala, con la espalda contra el sofá que no iban a usar, las hamburguesas sobre servilletas y las malteadas apoyadas en una mesa baja que probablemente costaba más que la camioneta rentada de la otra noche. Alguien —Chiara nunca supo bien cuándo— había puesto algo cálido y sin urgencia a sonar bajito desde una bocina en la esquina, lo justo para llenar los silencios sin pedirles nada. Chiara comía en trozos chicos, arrancando la papa de una en una; Kal había desarmado la suya para quitarle algo y volver a armarla, una costumbre de comer rápido en lugares donde comer despacio era un lujo.
+Terminaron sentados en el suelo de la sala, con la espalda contra el sofá que no iban a usar, las hamburguesas sobre servilletas y las malteadas apoyadas en una mesa baja que probablemente costaba más que la camioneta rentada de la otra noche. Alguien —Chiara nunca supo bien cuándo— había puesto algo cálido y sin urgencia a sonar bajito desde un altavoz en la esquina, lo justo para llenar los silencios sin pedirles nada. Chiara comía en trozos chicos, arrancando la papa de una en una; Kal había desarmado la suya para quitarle algo y volver a armarla, una costumbre de comer rápido en lugares donde comer despacio era un lujo.
 
 —Esto es ridículo.
 
@@ -486,7 +486,7 @@ Una gota de malteada le resbalaba a ella por el dorso de la mano. Kal se la quit
 
 Chiara se miró la mano. Lo miró a él. Kal ya estaba otra vez con su hamburguesa, como si no hubiera hecho nada.
 
-Fumaron después de comer, junto a la ventana entreabierta, con la ventilación puesta y una toalla húmeda contra la ranura de la puerta, como dos adolescentes con dinero tratando de engañar a un internado. Chiara se rió de eso primero. Kal tardó en seguirla, y cuando lo hizo fue con el cuerpo entero, echado hacia atrás sobre las manos.
+Fumaron después de comer, junto a la ventana entreabierta, con la ventilación puesta y una toalla húmeda contra la ranura de la puerta, como dos adolescentes con dinero tratando de engañar a un internado. Chiara se rio de eso primero. Kal tardó en seguirla, y cuando lo hizo fue con el cuerpo entero, echado hacia atrás sobre las manos.
 
 Le pasó el cigarro mal armado y esperó a que ella diera el golpe antes de hablar.
 
@@ -518,11 +518,11 @@ Y a Chiara se le empezó a colar el italiano entre las palabras. Le pasaba cuand
 
 —A ellos se lo repetí. Y no pasaron de la sala del fondo.
 
-No fue un recorrido ordenado. Fue ella caminando descalza por el penthouse y él detrás, deteniéndose en cosas que no eran suyas: pasó la mano por la encimera de una cocina que nadie usaba, abrió un cajón y lo encontró vacío. La bocina los siguió de cuarto en cuarto a un volumen que nunca terminaba de justificar el nombre de música de fondo.
+No fue un recorrido ordenado. Fue ella caminando descalza por el penthouse y él detrás, deteniéndose en cosas que no eran suyas: pasó la mano por la barra de una cocina que nadie usaba, abrió un cajón y lo encontró vacío. El altavoz los siguió de cuarto en cuarto a un volumen que nunca terminaba de justificar el nombre de música de fondo.
 
 —En casa de mi madre no había un cajón así en toda la casa —dijo Chiara, sin que él preguntara—. Todos llenos hasta que no cerraban. Ligas, tapas sin frasco, estampitas de santos, un martillo entre los cubiertos.
 
-Kal apoyó la cadera en la encimera y esperó. Con él, esperar era una forma de preguntar.
+Kal apoyó la cadera en la barra y esperó. Con él, esperar era una forma de preguntar.
 
 —Cuando tenía seis años me dieron una cámara de video para una fiesta. Una de esas viejas, que pesaban como un ladrillo. Me pasé la noche entera grabando desde un rincón, con un ojo cerrado, seria, seria, seria, para que todo saliera derecho. Un niño, Fabrizio, me sacó a bailar y me pisó los pies media hora. Yo no bajé la cámara.
 
@@ -540,9 +540,9 @@ Kal lo pensó un momento.
 
 —De eso no tengo ninguna duda.
 
-Fue lo más cerca que estuvieron esa noche de hablar de bailar juntos, y ninguno de los dos lo empujó más allá. Kal levantó un cenicero de piedra, lo sopesó y lo devolvió a su sitio un centímetro más a la izquierda. Chiara lo dejó hacer. Verlo tocar el inventario de una vida que ninguno de los dos vivía le pareció más honesto que cualquier cosa que pudieran decirse en voz alta — y ella acababa de darle, sin que se lo pidiera, algo que no repartía.
+Fue lo más cerca que estuvieron esa noche de hablar de bailar juntos, y ninguno de los dos lo empujó más allá. Kal levantó un cenicero de piedra, lo sopesó y lo devolvió a su sitio un centímetro más a la izquierda. Chiara lo dejó hacer. Verlo tocar el inventario de una vida que ninguno de los dos vivía le pareció más honesto que cualquier cosa que pudieran decirse en voz alta, y ella acababa de darle, sin que se lo pidiera, algo que no repartía.
 
-Cuando la canción de la bocina cambió a algo con más orgullo que prisa, Kal se quedó un momento callado, la cabeza ladeada, reconociendo el ritmo antes que la letra.
+Cuando la canción del altavoz cambió a algo con más orgullo que prisa, Kal se quedó un momento callado, la cabeza ladeada, reconociendo el ritmo antes que la letra.
 
 —Ésta la ponía Michael.
 
@@ -654,7 +654,7 @@ Puso *Parole Parole*. La voz de mujer entraba primero, toda promesa; la de hombr
 
 —No tanto. Es hablado, no cantado. Y va rápido.
 
-Le puso el celular con la letra abierta en la mano, como quien entrega un arma que no sabe usar, y esperó a que empezara el verso. Kal fracasó en el primer intento, en el segundo se acercó, y para el tercero ya se reía de sí mismo antes de terminar la frase, con el acento del barrio pisándole cada sílaba italiana. Chiara no se rió de él. Se rió con él, doblada sobre las rodillas, corrigiéndolo entre carcajada y carcajada sin dejar de cantar su parte.
+Le puso el celular con la letra abierta en la mano, como quien entrega un arma que no sabe usar, y esperó a que empezara el verso. Kal fracasó en el primer intento, en el segundo se acercó, y para el tercero ya se reía de sí mismo antes de terminar la frase, con el acento del barrio pisándole cada sílaba italiana. Chiara no se rio de él. Se rio con él, doblada sobre las rodillas, corrigiéndolo entre carcajada y carcajada sin dejar de cantar su parte.
 
 —Otra vez —dijo ella, sin aliento.
 
@@ -690,7 +690,7 @@ El jacuzzi quedó en promesa. Kal miró las luces bajo el agua.
 
 —È un idromassaggio.
 
-Kal esperó, con las cejas arriba. Chiara se oyó a sí misma con un segundo de retraso y se rió sola.
+Kal esperó, con las cejas arriba. Chiara se oyó a sí misma con un segundo de retraso y se rio sola.
 
 —Jacuzzi. Quise decir jacuzzi.
 
@@ -746,7 +746,7 @@ Lo que venía del otro lado traía risa mal tapada y preguntas en fila: que cóm
 
 —Pónganse a hacer el inventario del taller —dijo Kal—. Garrett necesita la lista de repuestos para abastecer antes del fin de semana.
 
-Del otro lado alguien se rió. Kal colgó.
+Del otro lado alguien se rio. Kal colgó.
 
 Chiara, detrás de la silla, se reía también, sin ganas de disimularlo del todo.
 
@@ -882,4 +882,4 @@ Kal miró el puño un momento. Luego chocó el suyo contra el de ella. Suave, si
 
 La puerta se cerró entre los dos.
 
-Chiara volvió sola a su cuarto y no encendió la luz. En la sala de cine, a oscuras, la música seguía sonando bajito, ocupando el aire que habían dejado — y en algún punto de la noche había dejado de sonar de fondo para sonar, simplemente, como la de ellos.
+Chiara volvió sola a su cuarto y no encendió la luz. En la sala de cine, a oscuras, la música seguía sonando bajito, ocupando el aire que habían dejado, y en algún punto de la noche había dejado de sonar de fondo para sonar, simplemente, como la de ellos.

@@ -142,7 +142,7 @@ Natalie no corrió. Tampoco se tapó la boca. Cuando él llegó, lo abrazó prim
 
 —La primera vez tampoco.
 
-Walt se rió con la cara metida en el pelo de su hija, y Kal tuvo que mirar hacia el estacionamiento.
+Walt se rio con la cara metida en el pelo de su hija, y Kal tuvo que mirar hacia el estacionamiento.
 
 Después Walt vio a Héctor.
 
@@ -268,7 +268,7 @@ Lo llevó entre las hileras como se lleva a alguien por un pasillo con humo: med
 
 Natalie se detuvo frente a una.
 
-*JAMES "JIM" KEEGAN.*
+*JAMES «JIM» KEEGAN.*
 
 Debajo iba lo que el ejército mandaba poner: el rango, la unidad, *Afganistán*, una fecha de hacía más de cuatro años. La piedra estaba limpia, y alguien había recortado el pasto alrededor con tijeras; en el resto de la hilera había crecido a su gusto.
 
@@ -320,7 +320,7 @@ Jim lo observó desde la sombra de un camión, con el rifle colgado y una sonris
 
 —No tuve un buen ejemplo para serlo.
 
-—Por eso mismo. —Jim se acuclilló a su lado y tomó al siguiente niño de la fila sin preguntarle el nombre—. Un hombre que aprendió mal y aun así sabe hacer esto, sin que se lo enseñara nadie... eso no se explica con mal ejemplo, Kal. Eso se explica de una sola manera.
+—Por eso mismo. —Jim se acuclilló a su lado y tomó al siguiente niño de la fila sin preguntarle el nombre—. Un hombre que aprendió mal y aun así sabe hacer esto, sin que se lo enseñara nadie… eso no se explica con mal ejemplo, Kal. Eso se explica de una sola manera.
 
 Kal no contestó.
 
@@ -498,7 +498,7 @@ Walt se dejó abrazar con la bolsa de plástico todavía en una mano.
 
 —¿Y tú quién eres?
 
-—Danny. Mecánico. El mejor de aquí, pregúntele a quien quiera, menos a él. —Señaló a Kal con la barbilla y se rió—. No dormí nada, jefe. De la emoción.
+—Danny. Mecánico. El mejor de aquí, pregúntele a quien quiera, menos a él. —Señaló a Kal con la barbilla y se rio—. No dormí nada, jefe. De la emoción.
 
 Kal no dijo nada.
 
@@ -512,7 +512,7 @@ Se sorbió la nariz y se la frotó con el dorso de la mano.
 
 —Alergia. En esta ciudad del demonio florece todo menos yo.
 
-Se rió solo. Nadir miró a Kal. Kal siguió comiendo.
+Se rio solo. Nadir miró a Kal. Kal siguió comiendo.
 
 Natalie dejó la lata en la mesa y miró a Danny un segundo más de lo necesario, con la misma atención con la que Kal suponía que miraba a quien subía a una ambulancia: primero los ojos, después las manos. Danny lo sintió. Le pasó un brazo por los hombros desde atrás y le dio un beso ruidoso en la cabeza.
 
@@ -540,7 +540,7 @@ Walt dejó la cuchara.
 
 —Alcanzan para más —dijo Héctor.
 
-Walt se rió por primera vez desde el cementerio. No duró. Pero alcanzó.
+Walt se rio por primera vez desde el cementerio. No duró. Pero alcanzó.
 
 A la una y media, Natalie miró el reloj.
 
@@ -618,7 +618,7 @@ Walt frunció el ceño.
 
 Walt se quedó un momento con eso.
 
-—¿Así le dicen ahora? Cuando yo entré era un gánster de cuadra. Tenía tres casas de empeño y ni un anillo propio. —Walt le dio un trago al café—. Estoy un poco resentido con el... "Tasador".
+—¿Así le dicen ahora? Cuando yo entré era un gánster de cuadra. Tenía tres casas de empeño y ni un anillo propio. —Walt le dio un trago al café—. Estoy un poco resentido con el… «Tasador».
 
 Héctor soltó una risa seca.
 
@@ -626,7 +626,7 @@ Héctor soltó una risa seca.
 
 —La libertad condicional me volvió moderado.
 
-Nadie se rió. Walt no apartó los ojos de Kal.
+Nadie se rio. Walt no apartó los ojos de Kal.
 
 —¿Sabes para quién estás trabajando?
 
@@ -654,11 +654,11 @@ Walt lo pensó con el café en la mano.
 
 Kal no se lo había pedido.
 
-—Quiero mantenerme afuera. Legal es el camino más corto por ahora. —Walt se encogió de hombros y se frotó la barbilla—. Y si hay problema, respondo. No dije que me volví santo, solo dije que aprendí a leer formularios.
+—Quiero mantenerme afuera. Legal es el camino más corto por ahora. —Walt se encogió de hombros y se frotó la barbilla—. Y si hay problema, respondo. No dije que me volví santo, sólo dije que aprendí a leer formularios.
 
 Héctor se levantó de la silla.
 
-—Yo tampoco voy. Alguien tiene que cuidar que este no aprenda a usar el teléfono solo.
+—Yo tampoco voy. Alguien tiene que cuidar que éste no aprenda a usar el teléfono solo.
 
 Danny se bajó del archivero de un salto.
 
@@ -718,7 +718,7 @@ Kal pensó en la cabecera vacía de la sala del Monarch.
 
 —Todavía no.
 
-—Pues que haga fila —dijo Danny, y se rió solo.
+—Pues que haga fila —dijo Danny, y se rio solo.
 
 En la mesa quedaron tres máscaras de tela negra, dobladas como servilletas.
 

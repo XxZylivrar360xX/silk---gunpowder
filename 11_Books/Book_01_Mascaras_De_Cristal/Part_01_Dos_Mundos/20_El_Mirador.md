@@ -58,7 +58,7 @@ Kal se los guardó en el bolsillo de la camisa.
 
 Chiara tiró la primera bola con la misma seriedad con la que firmaba un contrato —postura correcta, cálculo exacto de ángulo— y la vio irse derecho al canal sin tocar un solo pino. Se buscó el anillo con el pulgar. No estaba; lo tenía él.
 
-—No. No, esa no.
+—No. No, ésa no.
 
 Kal le señaló la pantalla con la barbilla: un cero amarillo, de un palmo de alto, junto al nombre de ella.
 
@@ -146,7 +146,7 @@ Se lo contó igual. Un Buick con el cárter partido en la Novena antes de las oc
 
 —Lo vi en la pantalla.
 
-Ella se rió con la boca llena y se le apoyó en el hombro, por el frío, dijo. Nadie le había preguntado. Se chupó la sal del pulgar, un anillo después del otro brillándole con la luz del malecón, y se quedó así, sin acomodarse nada.
+Ella se rio con la boca llena y se le apoyó en el hombro, por el frío, dijo. Nadie le había preguntado. Se chupó la sal del pulgar, un anillo después del otro brillándole con la luz del malecón, y se quedó así, sin acomodarse nada.
 
 —¿Y la mujer? —preguntó al rato, mirando el agua—. ¿Qué tal es?
 
@@ -170,7 +170,7 @@ Se giró hacia ella con una mirada de incredulidad tan bien fingida que por un s
 
 —Ya me oíste.
 
-—No me digas que tú...
+—No me digas que tú…
 
 —No me digas *tú* que no —contestó ella, y Kal vio el momento exacto en que se oyó: abrió la boca para retirarlo, y él ya estaba metiendo primera.
 
@@ -196,7 +196,7 @@ Cuando volvieron a cambiar de asiento, Kal no arrancó de inmediato.
 
 —Hay un lugar —dijo—. El único de la ciudad donde se ven las estrellas.
 
-Subieron. La carretera se fue angostando, la ciudad se fue quedando abajo, hasta que llegaron al último mirador de la serie, el más alto, donde ya no llegaba el alumbrado y el asfalto se deshacía en grava. Kal dejó el auto atrás, de cara a la ladera, y San Aurelio se extendió debajo como una postal que no se movía. A la derecha, el Distrito Marino a lo largo de la costa y, más allá del agua, las torres de Punta Dorada encendidas en La Isla, unidas a tierra por la línea de luces del puente. Al centro, la cuadrícula de Calle Corona. A la izquierda, más baja y con menos luz, La Almendra siguiendo la línea de las vías. Al fondo, las grúas del Puerto Viejo. Y donde se acababan las luces, de golpe, el mar: una sola masa negra.
+Subieron. La carretera se fue angostando, la ciudad se fue quedando abajo, hasta que llegaron al último mirador de la serie, el más alto, donde ya no llegaba el alumbrado y el asfalto se deshacía en grava. Kal dejó el auto atrás, de cara a la ladera, y San Aurelio se extendió debajo como una postal que no se movía. A la derecha, el Distrito Marino a lo largo de la costa y, más allá del agua, las torres de Punta Dorada encendidas en La Isla, unidas a tierra por la línea de luces del puente. Al centro, la cuadrícula de Calle Corona. A la izquierda, más baja y con menos luz, la Almendra siguiendo la línea de las vías. Al fondo, las grúas del Puerto Viejo. Y donde se acababan las luces, de golpe, el mar: una sola masa negra.
 
 Se sentaron en el suelo, sobre la grava fría, a un paso del borde bajo de piedra. Detrás, el motor hacía tictac al enfriarse. Arriba soplaba un viento que abajo no había, seco, con olor a matorral. El cielo estaba lleno.
 
@@ -254,7 +254,7 @@ La botella que habían comprado era un Chiaretto de Bardolino, rosado de verdad,
 
 —No. Pero ibas a dejar que lo dijera yo.
 
-Kal se rió, bajo, una risa que no necesitaba salir completa. No dijo nada más. Se quedó un rato con la copa en la mano, mirando la ciudad, y cuando se levantó fue con el gesto de siempre: el del hombre que no sabe quedarse sentado cuando ya no hay nada que resolver.
+Kal se rio, bajo, una risa que no necesitaba salir completa. No dijo nada más. Se quedó un rato con la copa en la mano, mirando la ciudad, y cuando se levantó fue con el gesto de siempre: el del hombre que no sabe quedarse sentado cuando ya no hay nada que resolver.
 
 No fue hacia la ventana. Cruzó al estéreo, quitó a Mazzy Star —no por molestarla; la había oído entera— y puso otra cosa. *Come Away With Me*, de Norah Jones, al mismo volumen de casi nada. Esta vez la que no preguntó nada fue Chiara.
 
@@ -304,7 +304,7 @@ Kal ya tenía el aparato en la mano antes del segundo timbre, con un reflejo que
 
 La voz del otro lado llegó rota, entre hipo y palabras que no terminaban de armarse.
 
-—Kal... ¿puedes venir por mí?
+—Kal… ¿puedes venir por mí?
 
 No hizo falta que dijera más. Kal conocía ese temblor, y lo puso de pie.
 
@@ -338,7 +338,7 @@ Kal le pasó las llaves.
 
 Chiara manejó los quince minutos hasta el club, en el sector sur de La Isla. Kal iba en el asiento del copiloto, con las manos apretadas sobre las rodillas, sin prestarle atención a la radio que él mismo había encendido bajo para llenar el silencio con algo que no fuera miedo. Cada semáforo en rojo se le hizo más largo que el anterior.
 
-Encontraron a Marisol sentada en el bordillo, fuera del club, con los brazos cruzados sobre las rodillas y una amiga a su lado que se despidió con un gesto de alivio en cuanto vio el Audi. Tenía el rímel corrido en un solo lado de la cara y un golpe rojo que ya empezaba a hincharse en el pómulo.
+Encontraron a Marisol sentada en el borde de la acera, fuera del club, con los brazos cruzados sobre las rodillas y una amiga a su lado que se despidió con un gesto de alivio en cuanto vio el Audi. Tenía el rímel corrido en un solo lado de la cara y un golpe rojo que ya empezaba a hincharse en el pómulo.
 
 Kal bajó antes de que Chiara apagara el motor.
 
@@ -356,7 +356,7 @@ Le pasó la servilleta por encima del asiento. Marisol se limpió la cara y se q
 
 —¿Todavía no se lo diste?
 
-Fue lo primero que dijo desde el bordillo, con la nariz tapada.
+Fue lo primero que dijo desde el borde de la acera, con la nariz tapada.
 
 —Era para Chiara —dijo Kal.
 
@@ -380,13 +380,13 @@ Kal se sentó frente a Marisol, con las manos entre las rodillas.
 
 Marisol se abrazó las piernas contra el pecho, mirando un punto fijo en la alfombra como si ahí estuviera escrito el orden correcto para contar lo que había pasado.
 
-—Marisol...
+—Marisol…
 
 —Diego tenía novia.
 
 Lo dijo de golpe, a la pared, no a ninguno de los dos en particular.
 
-—Nunca me lo dijo. Todo este tiempo, el café, las clases, todo, y nunca... —Se le quebró la voz—. Ella se enteró. Vino al club esta noche. Me agarró del pelo delante de todo el mundo, delante de gente de la universidad, me dio una bofetada y me dijo cosas que no voy a repetir, y yo no hice nada, Kal, me quedé ahí parada como una idiota mientras media pista me miraba.
+—Nunca me lo dijo. Todo este tiempo, el café, las clases, todo, y nunca… —Se le quebró la voz—. Ella se enteró. Vino al club esta noche. Me agarró del pelo delante de todo el mundo, delante de gente de la universidad, me dio una bofetada y me dijo cosas que no voy a repetir, y yo no hice nada, Kal, me quedé ahí parada como una idiota mientras media pista me miraba.
 
 Kal abrió la boca. Chiara, que ya volvía con la taza, negó con la cabeza una sola vez, casi imperceptible, y él la cerró.
 
@@ -454,7 +454,7 @@ Venía de abajo, de las dos, y ya sonaba a costumbre. La cama estaba vacía del 
 
 —Ese café huele demasiado bien para ser mío —dijo Kal, sirviéndose una taza sin preguntar.
 
-—No es tuyo. —Marisol no levantó la vista de la sartén—. Ese lo hice pensando en Chiara. El tuyo está allá.
+—No es tuyo. —Marisol no levantó la vista de la sartén—. Ése lo hice pensando en Chiara. El tuyo está allá.
 
 Señaló un vaso desechable, todavía tibio, escondido detrás del frutero.
 
@@ -482,7 +482,7 @@ Terminaron el desayuno entre bromas menores y silencios fáciles, y cuando Maris
 
 Se despidió en la puerta como hacía todo: rápido, sin dramatizar, como si un corazón roto no fuera motivo suficiente para quedarse quieta.
 
-—Voy a ver a mi papá —dijo, ya con las llaves del Audi en la mano—. Siempre que algo me pone triste, voy a ver a...
+—Voy a ver a mi papá —dijo, ya con las llaves del Audi en la mano—. Siempre que algo me pone triste, voy a ver a…
 
 —Papá —terminó Kal con ella, al mismo tiempo, sin que ninguno lo hubiera planeado.
 
@@ -490,7 +490,7 @@ Marisol sonrió, la primera sonrisa completa de la mañana.
 
 —Y me devuelves el Audi —dijo Kal—. Lo quiero de vuelta. No es un premio porque estabas triste.
 
-Marisol no contestó nada de eso. Le mostró los dientes, la sonrisa torcida que usaba cuando sabía que no iba a obedecer del todo, e inclinó la cabeza antes de subirse y salir de reversa por el camino de entrada.
+Marisol no contestó nada de eso. Le mostró los dientes, la sonrisa torcida que usaba cuando sabía que no iba a obedecer del todo, e inclinó la cabeza antes de subirse y salir marcha atrás por el camino de entrada.
 
 Kal y Chiara se quedaron parados viéndola alejarse.
 

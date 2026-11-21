@@ -63,7 +63,7 @@ Kenji no preguntó con quién lo iba a mandar, y ella no se lo preguntó a él.
 
 A las cuatro, Kenji pidió otra firma.
 
-—Volvió el chico. Sin el papel. —Contaba fichas de cien—. Un güero de la grúa lo paró en la cerca de atrás, le preguntó a quién buscaba y se quedó con él. Lo mandó a su casa.
+—Volvió el chico. Sin el papel. —Contaba fichas de cien—. Un rubio de la grúa lo paró en la cerca de atrás, le preguntó a quién buscaba y se quedó con él. Lo mandó a su casa.
 
 —¿Le hizo algo?
 
@@ -155,7 +155,7 @@ Chiara le sostuvo la mirada. Giró el anillo una vez.
 
 —El chico ya te lo di, Kal. Esto otro es mío.
 
-Un mesero salió por la puerta batiente con una charola de copas, y Kal tuvo que dar medio paso hacia ella para dejarlo pasar. No lo devolvió.
+Un mesero salió por la puerta batiente con una bandeja de copas, y Kal tuvo que dar medio paso hacia ella para dejarlo pasar. No lo devolvió.
 
 Él bajó los ojos a la letra, a las dos palabras de afuera.
 
@@ -175,7 +175,7 @@ Kal no contestó. Abrió la boca para otra cosa, cuántos, quiénes, en qué pis
 
 —Eso no te lo voy a decir. —Chiara no sonrió—. Todavía no.
 
-Él se guardó el papel en el bolsillo del pecho sin abrirlo y salió por donde había entrado. Chiara se quedó en la franja hasta que el mesero volvió con la charola vacía.
+Él se guardó el papel en el bolsillo del pecho sin abrirlo y salió por donde había entrado. Chiara se quedó en la franja hasta que el mesero volvió con la bandeja vacía.
 
 ***
 
@@ -217,7 +217,7 @@ Chiara se llevó el papel al penthouse y no lo abrió todavía.
 
 Lo primero que le pidieron las manos fue una vela.
 
-Recordó una conversación, de esas que los adultos creen que los niños olvidan porque no entienden todas las palabras.
+Recordó una conversación, de ésas que los adultos creen que los niños olvidan porque no entienden todas las palabras.
 
 Había sido en una iglesia de Palermo, con olor a cera derretida y a piedra fría, la luz de las velas votivas temblando sobre el metal de su repisa. Marta le había puesto una moneda en la palma y le había enseñado a encender el fósforo sin quemarse los dedos, frente al altar de un santo cuyo nombre Chiara ya no recordaba.
 

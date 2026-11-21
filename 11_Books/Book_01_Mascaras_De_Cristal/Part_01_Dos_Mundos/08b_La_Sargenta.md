@@ -14,7 +14,7 @@ Pasada del 2026-11-13 (pedido del autor; prosa DISEÑO, pendiente de lectura; vu
 
 Las luces aparecieron a la altura de los hangares. Una barra, y después dos, azul y rojo latiendo contra la lámina de los cobertizos antes de que se oyera nada.
 
-La fila se deshizo como una charola que se cae. Coches saliéndose por cada camino de acceso, por cada hueco en la reja, faros apagándose de golpe para no dar blanco.
+La fila se deshizo como una bandeja que se cae. Coches saliéndose por cada camino de acceso, por cada hueco en la reja, faros apagándose de golpe para no dar blanco.
 
 Kal iba séptimo cuando la carrera se rompió. Dejó de importar en el instante en que se encendió la primera torreta.
 
@@ -128,7 +128,7 @@ Kal no volteó.
 
 —Al Departamento. Tenemos convenio.
 
-La lateral desembocó en otro asfalto, más angosto, con reflejantes viejos en las orillas. Kal subió por él sin prisa aparente. El Peugeot no hacía ruido de huida; hacía ruido de trabajo.
+La lateral desembocó en otro asfalto, más angosto, con reflectores viejos en las orillas. Kal subió por él sin prisa aparente. El Peugeot no hacía ruido de huida; hacía ruido de trabajo.
 
 En la radio, la teniente pidió el helicóptero. Le contestaron que estaba en el puerto, en otro llamado. Veinte minutos.
 
@@ -140,7 +140,7 @@ En la radio, la teniente pidió el helicóptero. Le contestaron que estaba en el
 
 —Depende de quién la cierre.
 
-El tanque apareció a la derecha, sobre un cerro pelado: una bola blanca sobre cuatro patas, con un foco rojo en la punta. El camino se le enroscaba al pie. Detrás de ellos, desde la lateral de grava, salió una torreta y se les pegó a la cola sin acercarse más, como le habían dicho. Adelante, en la curva del tanque, aparecieron otros faros, más altos y más separados, ocupando el centro del asfalto.
+El tanque apareció a la derecha, sobre un cerro pelado: una bola blanca sobre cuatro patas, con una luz roja en la punta. El camino se le enroscaba al pie. Detrás de ellos, desde la lateral de grava, salió una torreta y se les pegó a la cola sin acercarse más, como le habían dicho. Adelante, en la curva del tanque, aparecieron otros faros, más altos y más separados, ocupando el centro del asfalto.
 
 —Agárrate de algo.
 
@@ -150,7 +150,7 @@ Chiara vio la barra de luces, la parrilla, el escudo en la puerta. Vio que el de
 
 En el último momento Kal echó las dos ruedas de la derecha a la grava de la orilla. El Peugeot se ladeó, la grava tronó contra los guardafangos, y por la ventanilla de Kal pasó una pared blanca y azul a un palmo. La Crown Victoria se abrió hacia su propio lado por puro reflejo, brincó en el borde del asfalto, una vez, dos, como un coche con los amortiguadores vencidos, y se fue de nariz hacia la tierra.
 
-Atrás, Dieciséis, que venía pegado a ellos sin ver más allá, se encontró de frente con los faros de Dos-catorce y clavó los frenos. Chiara los vio por el medallón, quedarse quietas a mitad del camino, nariz con nariz, las dos torretas pintándose de azul una a la otra.
+Atrás, Dieciséis, que venía pegado a ellos sin ver más allá, se encontró de frente con los faros de Dos-catorce y clavó los frenos. Chiara los vio por la luneta, quedarse quietas a mitad del camino, nariz con nariz, las dos torretas pintándose de azul una a la otra.
 
 —*Se me fue por la orilla* —dijo la radio.
 
@@ -220,7 +220,7 @@ Chiara buscó en la radio lo que había oído y lo dijo como le llegaba: las dem
 
 —Un puente cerrado es una pared. Una patrulla en el puente es un señor con un café.
 
-El Mustang se le abrió por la izquierda, sin prisa, para ponérsele al lado. Chiara vio la defensa negra llenar la ventanilla de Kal. Kal no lo miró. Dejó que se pusiera casi a la par y, en el último instante de la última salida antes del centro, cortó a la derecha por encima de las rayas pintadas del desvío, tan tarde que la rampa pareció abrirse sólo para ellos.
+El Mustang se le abrió por la izquierda, sin prisa, para ponérsele al lado. Chiara vio el parachoques negro llenar la ventanilla de Kal. Kal no lo miró. Dejó que se pusiera casi a la par y, en el último instante de la última salida antes del centro, cortó a la derecha por encima de las rayas pintadas del desvío, tan tarde que la rampa pareció abrirse sólo para ellos.
 
 El Mustang frenó al mismo tiempo.
 
@@ -262,7 +262,7 @@ El brazo de Kal seguía sobre ella.
 
 Kal giró la llave. El motor tosió una vez. Chiara contó sin querer, como contaba los silencios en una junta. Al segundo intento prendió, y el Mustang empezó a moverse al mismo tiempo.
 
-Kal metió reversa, giró, subió por la orilla de la acera y metió el Peugeot entre las bombas de una gasolinera cerrada, tan justo que Chiara vio pasar la manguera de una de ellas a un palmo de su ventanilla. Salieron por debajo del techo de la gasolinera a la calle de atrás, y el Mustang tuvo que dar la vuelta a la manzana para encontrarlos.
+Kal metió marcha atrás, giró, subió por la orilla de la acera y metió el Peugeot entre las bombas de una gasolinera cerrada, tan justo que Chiara vio pasar la manguera de una de ellas a un palmo de su ventanilla. Salieron por debajo del techo de la gasolinera a la calle de atrás, y el Mustang tuvo que dar la vuelta a la manzana para encontrarlos.
 
 Atrás, del lado de Chiara, la luz trasera ya no encendía. En el cruce se había quedado un pedazo rojo de plástico.
 
@@ -354,7 +354,7 @@ Atrás, en el túnel grande, los faros del Mustang entraron, iluminaron el agua,
 
 A los diez segundos, volvieron.
 
-Venían despacio, en reversa. Un reflector blanco empezó a recorrer las paredes del túnel grande, palmo a palmo, y se detuvo en la boca de la galería. Entró por ella un tramo y se quedó ahí, temblando sobre el concreto, a unos metros de la defensa del Peugeot.
+Venían despacio, marcha atrás. Un reflector blanco empezó a recorrer las paredes del túnel grande, palmo a palmo, y se detuvo en la boca de la galería. Entró por ella un tramo y se quedó ahí, temblando sobre el concreto, a unos metros del parachoques del Peugeot.
 
 —*Hay una galería.*
 
@@ -364,7 +364,7 @@ La voz llegó por el túnel, sin aparato, desde la ventanilla abierta del Mustan
 
 Kal metió primera sin encender nada y avanzó con el motor apenas arriba del ralentí hacia la oscuridad de adelante. El reflector se quedó atrás, en su sitio, alumbrando un pedazo de concreto vacío.
 
-La galería salía, cuatrocientos metros después, a un patio de vías en el borde de La Almendra. Kal metió el coche entre dos filas de vagones de carga, a la sombra de una tolva, y apagó el motor.
+La galería salía, cuatrocientos metros después, a un patio de vías en el borde de la Almendra. Kal metió el coche entre dos filas de vagones de carga, a la sombra de una tolva, y apagó el motor.
 
 ***
 
@@ -426,7 +426,7 @@ Y ahí volvió la risa, más chica esta vez, la de los dos.
 
 ***
 
-Salieron del patio de vías sin luces, a calles de La Almendra donde un Peugeot rojo no le llamaba la atención a nadie. Cruzaron el puente casi una hora después, detrás de un taxi, a la velocidad exacta del taxi. Chiara tenía la Colombina en el regazo y, cuando se estiró hacia el asiento de atrás para alcanzar el abrigo, la dejó caer ahí sin pensarlo, entre el respaldo y un trapo de taller.
+Salieron del patio de vías sin luces, a calles de la Almendra donde un Peugeot rojo no le llamaba la atención a nadie. Cruzaron el puente casi una hora después, detrás de un taxi, a la velocidad exacta del taxi. Chiara tenía la Colombina en el regazo y, cuando se estiró hacia el asiento de atrás para alcanzar el abrigo, la dejó caer ahí sin pensarlo, entre el respaldo y un trapo de taller.
 
 Kal la dejó en la puerta de servicio del Monarch, la misma por la que la había recogido. Pasaban de las dos de la mañana.
 

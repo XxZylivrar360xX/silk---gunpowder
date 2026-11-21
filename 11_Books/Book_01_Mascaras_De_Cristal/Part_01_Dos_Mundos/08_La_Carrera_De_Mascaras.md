@@ -27,13 +27,13 @@ Kal la miró por encima del café.
 
 Antes le dejaba siempre un hilo suelto, algo a medio contar para que él tirara si quería. Esta semana traía todo con el dobladillo cosido. Alineó el sobrecito de azúcar con el borde de la mesa, después lo giró para que quedara paralelo al salero, y se dio cuenta de que lo estaba haciendo un segundo tarde.
 
-Kal tenía en la mano una navaja multiusos y el tornillo flojo de la baranda de la terraza — un favor para el dueño, de esos que hacía sin que se los pidieran, mientras hablaba. Apretó el tornillo dos vueltas más y después dejó la navaja sobre la mesa.
+Kal tenía en la mano una navaja multiusos y el tornillo flojo de la baranda de la terraza —un favor para el dueño, de esos que hacía sin que se los pidieran—, mientras hablaba. Apretó el tornillo dos vueltas más y después dejó la navaja sobre la mesa.
 
 Cuando se quedaba quieto, la conversación ya importaba.
 
 —¿Qué es lo más ilegal que te han atrapado haciendo?
 
-Chiara se rió — una sílaba, casi sin querer.
+Chiara se rio: una sílaba, casi sin querer.
 
 —¿Atrapado, atrapado?
 
@@ -75,7 +75,7 @@ Kal metió primera y salió del callejón sin prisa, como quien no quiere desper
 
 Chiara miró la ciudad empezar a abrirse por la ventana, los edificios espaciándose, los letreros haciéndose más grandes y más pobres.
 
-—¿Esto es el "algún día vienes y lo ves"?
+—¿Esto es el «algún día vienes y lo ves»?
 
 —Es ese día, sí.
 
@@ -99,7 +99,7 @@ La tarjeta de la acera, pensó Chiara. Así que eso era.
 
 —No.
 
-—Sí. Con la capucha encima. Se para en la luz de los faros y la máscara nos regresa los faros a la cara. Héctor se tapa los ojos. Y Danny, en voz alta, con la ventana abajo: "¿Ése es el cliente o el jefe final?"
+—Sí. Con la capucha encima. Se para en la luz de los faros y la máscara nos regresa los faros a la cara. Héctor se tapa los ojos. Y Danny, en voz alta, con la ventana abajo: «¿Ése es el cliente o el jefe final?»
 
 Chiara se tapó la boca con el dorso de la mano.
 
@@ -109,7 +109,7 @@ No se lo tradujo, y él no preguntó. Siguió manejando con la cara de quien ya 
 
 Tampoco le contó de la paja en la gorra de Danny, ni de quién había dado media vuelta a un corral a las cuatro de la mañana, con la boca abierta. Ni una palabra.
 
-—Nadir no se rió. Hizo lo suyo, recibió el sobre, le dio las gracias, se subió y cerró la puerta. No dijo una palabra hasta la carretera. Y ya en la carretera dijo: "Batman."
+—Nadir no se rio. Hizo lo suyo, recibió el sobre, le dio las gracias, se subió y cerró la puerta. No dijo una palabra hasta la carretera. Y ya en la carretera dijo: «Batman.»
 
 Esta vez a Chiara se le escapó el aire por la nariz, y apretó los labios hasta que pasó.
 
@@ -123,7 +123,7 @@ Pararon en un corredor comercial a la salida de la ciudad, donde San Aurelio se 
 
 *La Tramoya.* Vestuario teatral, utilería, disfraces. Sonó una campanilla cuando Kal empujó la puerta.
 
-Adentro olía a naftalina y a cartón viejo. Había pelucas en cabezas de unicel, capas colgadas en un riel que iba de pared a pared, cajones rotulados a mano — *guantes*, *coronas*, *plumas* — y, al fondo, un panel entero de máscaras clavadas a un corcho. El dueño levantó la vista de un crucigrama el tiempo justo para no levantarse de la silla.
+Adentro olía a naftalina y a cartón viejo. Había pelucas en cabezas de poliestireno, capas colgadas en un riel que iba de pared a pared, cajones rotulados a mano —*guantes*, *coronas*, *plumas*— y, al fondo, un panel entero de máscaras clavadas a un corcho. El dueño levantó la vista de un crucigrama el tiempo justo para no levantarse de la silla.
 
 —Buscamos dos —dijo Kal—. Que cubran la cara. Nada de brillos.
 
@@ -143,7 +143,7 @@ Kal le señaló el panel con la barbilla.
 
 —Te toca escoger.
 
-Chiara fue más despacio. Pasó la mano por una hilera de antifaces simples, de esos que se atan con un cordón y no cubren más que los ojos, y no se detuvo en ninguno. Siguió hasta una máscara negra de media cara, con el borde superior levantado en dos curvas suaves sobre las cejas y una línea limpia bajando por el pómulo. Versión de tienda — el plástico se notaba, la pintura tenía un brillo barato en los bordes—, pero tenía forma. Cubría lo que había que cubrir y, aun así, alguien la había diseñado para que se viera bien.
+Chiara fue más despacio. Pasó la mano por una hilera de antifaces simples, de esos que se atan con un cordón y no cubren más que los ojos, y no se detuvo en ninguno. Siguió hasta una máscara negra de media cara, con el borde superior levantado en dos curvas suaves sobre las cejas y una línea limpia bajando por el pómulo. Versión de tienda —el plástico se notaba, la pintura tenía un brillo barato en los bordes—, pero tenía forma. Cubría lo que había que cubrir y, aun así, alguien la había diseñado para que se viera bien.
 
 Se la probó frente al espejo. Ésa.
 
@@ -159,7 +159,7 @@ Kal pagó en efectivo. El dueño metió las dos máscaras en una bolsa de papel 
 
 ***
 
-Volvieron a la autopista con la bolsa de papel en el regazo de ella. Los anuncios se acabaron; quedó el asfalto, los reflejantes y, de vez en cuando, un tráiler con todas las luces encendidas.
+Volvieron a la autopista con la bolsa de papel en el regazo de ella. Los anuncios se acabaron; quedó el asfalto, los reflectores y, de vez en cuando, un tráiler con todas las luces encendidas.
 
 Chiara dejó pasar dos salidas.
 
@@ -177,7 +177,7 @@ Chiara giró la cabeza.
 
 —¿La del brazo?
 
-—Firmó todo, me regresó la pluma y me dijo: "Usted y yo deberíamos tomar un café en un lugar más privado".
+—Firmó todo, me regresó la pluma y me dijo: «Usted y yo deberíamos tomar un café en un lugar más privado».
 
 —¿Y tú qué dijiste?
 
@@ -211,15 +211,15 @@ Iban a las afueras: las vías de servicio y los tramos perimetrales, la Carreter
 
 Cuando Kal salió de la autopista y bajó por una rampa sin señalizar, Chiara empezó a ver los coches. Veinte, treinta, aparcados de cualquier modo sobre la grava, con los maleteros abiertos y los faros de algunos apuntando hacia la carretera para marcar dónde empezaba el asfalto que importaba.
 
-Se bajaron. El aire olía a combustible quemado y a hierba seca. Alguien aceleraba un motor a lo lejos sin ningún motivo salvo que lo oyeran. Había cajas de herramientas abiertas sobre las defensas, billetes cambiando de mano sin que nadie explicara a cuenta de qué, grupos que se reconocían con un gesto de la barbilla y se separaban igual de rápido.
+Se bajaron. El aire olía a combustible quemado y a hierba seca. Alguien aceleraba un motor a lo lejos sin ningún motivo salvo que lo oyeran. Había cajas de herramientas abiertas sobre los parachoques, billetes cambiando de mano sin que nadie explicara a cuenta de qué, grupos que se reconocían con un gesto de la barbilla y se separaban igual de rápido.
 
-Chiara hizo lo que sabía hacer en cualquier sala nueva: buscar quién mandaba. No lo encontró. En una junta del Monarch le habría bastado un minuto para ordenar la mesa por peso; aquí las jerarquías no se leían igual — el que importaba podía ser el del coche más feo, o el que no hablaba con nadie, o el chico de la sudadera que iba de grupo en grupo sin quedarse en ninguno.
+Chiara hizo lo que sabía hacer en cualquier sala nueva: buscar quién mandaba. No lo encontró. En una junta del Monarch le habría bastado un minuto para ordenar la mesa por peso; aquí las jerarquías no se leían igual: el que importaba podía ser el del coche más feo, o el que no hablaba con nadie, o el chico de la sudadera que iba de grupo en grupo sin quedarse en ninguno.
 
-Había un coche al que nadie se acercaba. Un Camaro viejo, negro salvo por una puerta en gris de primer, estacionado un poco aparte, con el cofre cerrado, como si no tuviera nada que enseñarle a nadie. Recargada en la defensa, una figura delgada con chaqueta negra ya llevaba puesta la máscara: un diablo blanco, liso, sin ceño ni boca dibujada, con dos cuernos cortos que asomaban entre dos chongos de pelo oscuro. No saludaba. La gente que pasaba junto al Camaro le dejaba un metro más del que hacía falta.
+Había un coche al que nadie se acercaba. Un Camaro viejo, negro salvo por una puerta en gris de primer, estacionado un poco aparte, con el capó cerrado, como si no tuviera nada que enseñarle a nadie. Apoyada en el parachoques, una figura delgada con chaqueta negra ya llevaba puesta la máscara: un diablo blanco, liso, sin ceño ni boca dibujada, con dos cuernos cortos que asomaban entre dos moños de pelo oscuro. No saludaba. La gente que pasaba junto al Camaro le dejaba un metro más del que hacía falta.
 
 Kal no se apartó. No la llevó del brazo por el estacionamiento como un premio ni la dejó sola contra el coche. Se quedó a su lado, con la bolsa de papel bajo el brazo, saludando a la gente que había que saludar sin soltar la conversación que estaba teniendo con ella.
 
-El de la sudadera resultó ser el que importaba. Llegó caminando, joven — de esos que parecen tener siempre sueño, tres conversaciones a medias y una salida trasera ya pensada—, y miró el Peugeot antes de mirar a Kal.
+El de la sudadera resultó ser el que importaba. Llegó caminando, joven —de esos que parecen tener siempre sueño, tres conversaciones a medias y una salida trasera ya pensada—, y miró el Peugeot antes de mirar a Kal.
 
 —El Peugeot. —Después levantó la vista—. Pensé que este mes no venías, Mac.
 
@@ -237,7 +237,7 @@ Tyler giró un poco la cabeza hacia Chiara, y esperó, con la cara de quien agua
 
 Tyler asintió, sin pedir más, satisfecho con lo poco que le habían dado.
 
-Kal la miró un segundo de más. No dijo nada — pero algo en la comisura de la boca se le movió, el principio de una sonrisa que no llegó a completarse.
+Kal la miró un segundo de más. No dijo nada, pero algo en la comisura de la boca se le movió, el principio de una sonrisa que no llegó a completarse.
 
 —¿A quién hay que cuidar? —preguntó Kal.
 
@@ -255,7 +255,7 @@ Nadie abrió la mano hacia ella como hacia un florero.
 
 ***
 
-Se subieron al coche. Chiara se abrochó el cinturón y sacó la Colombina de la bolsa; olía a plástico nuevo y a cartón. Se la ató detrás de la cabeza, tanteando el nudo sin espejo. A su lado, Kal ya se había puesto la suya — la cara negra sin gesto, mirando al frente, y por un segundo, con esa cosa puesta, fue un desconocido.
+Se subieron al coche. Chiara se abrochó el cinturón y sacó la Colombina de la bolsa; olía a plástico nuevo y a cartón. Se la ató detrás de la cabeza, tanteando el nudo sin espejo. A su lado, Kal ya se había puesto la suya —la cara negra sin gesto, mirando al frente—, y por un segundo, con esa cosa puesta, fue un desconocido.
 
 Los alinearon en la carretera de a cuatro por hilera. Chiara contó tres filas por delante. En la segunda, a la izquierda, estaba el Camaro de la puerta gris. Un tipo se paró en el asfalto con los brazos en alto, los bajó de golpe, y la hilera de adelante salió con un rugido que se sintió en el esternón. Detrás salió la segunda, y el Camaro no fue el que más rugió: fue el que salió derecho.
 
@@ -271,11 +271,11 @@ Lo había visto antes de que ella terminara la frase. El volante se movió un de
 
 Iban a ciento cuarenta. La reja pasaba por la ventanilla como un solo trazo continuo. Muy adelante, dos luces traseras se despegaban del resto sin un solo coletazo; al pasar bajo la única lámpara de la recta, Chiara alcanzó a ver una puerta de otro color.
 
-Primero se le tensaron las manos sobre las rodillas. Después, cuando el tanque de agua se les vino encima demasiado rápido, se oyó decir su nombre — corto, seco, "Kal" — y el guardaganado nuevo pasó bajo el coche como un redoble y no como un choque, porque él ya sabía que estaba ahí. Después le dijo, en italiano, que esto era una locura, que rallentara, que nadie en su sano juicio tomaba una curva así.
+Primero se le tensaron las manos sobre las rodillas. Después, cuando el tanque de agua se les vino encima demasiado rápido, se oyó decir su nombre —corto, seco, «Kal»— y el guardaganado nuevo pasó bajo el coche como un redoble y no como un choque, porque él ya sabía que estaba ahí. Después le dijo, en italiano, que esto era una locura, que rallentara, que nadie en su sano juicio tomaba una curva así.
 
 Kal no levantó el pie.
 
-Y en algún punto pasado el tanque, con el coche suelto y liviano y todavía respondiendo, con la ciudad muy lejos y ninguna versión de sí misma mirándola, Chiara se rió.
+Y en algún punto pasado el tanque, con el coche suelto y liviano y todavía respondiendo, con la ciudad muy lejos y ninguna versión de sí misma mirándola, Chiara se rio.
 
 Una carcajada entera, que se le escapó por debajo de la Colombina antes de que pudiera decidir si la tenía.
 

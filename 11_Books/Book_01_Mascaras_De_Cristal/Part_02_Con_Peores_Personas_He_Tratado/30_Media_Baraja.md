@@ -327,11 +327,11 @@ Kal se quedó con eso.
 
 Chiara no contestó eso.
 
-—La próxima vez no quiero que vayas tú —dijo Kal, al fin—. Quiero que mandes a tus... sususus.
+—La próxima vez no quiero que vayas tú —dijo Kal, al fin—. Quiero que mandes a tus… sususus.
 
 —¿Mis qué?
 
-—Los... —hizo un gesto vago con la mano, como si el italiano estuviera flotando en algún lugar fuera de su alcance—. Susurros. Como se diga.
+—Los… —hizo un gesto vago con la mano, como si el italiano estuviera flotando en algún lugar fuera de su alcance—. Susurros. Como se diga.
 
 —I Sussurri.
 
@@ -339,7 +339,7 @@ Chiara no contestó eso.
 
 Chiara sintió que algo en el pecho se le aflojaba por primera vez desde que leyó el mensaje.
 
-—Eso... —dijo— de hecho es una gran idea que no pensé.
+—Eso… —dijo— de hecho es una gran idea que no pensé.
 
 —Ya. —Kal no la miró, pero la comisura de la boca se le movió—. Eso es lo que me preocupa.
 

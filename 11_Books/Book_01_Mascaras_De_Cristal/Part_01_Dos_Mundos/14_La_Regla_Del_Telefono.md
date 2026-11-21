@@ -51,7 +51,7 @@ Metió la mochila atrás, sobre lo que había cargado la noche anterior y vuelto
 
 —Bala… yash.
 
-Marisol se rió de él sin ninguna piedad y se lo repitió despacio, sílaba por sílaba. Kal lo dijo peor.
+Marisol se rio de él sin ninguna piedad y se lo repitió despacio, sílaba por sílaba. Kal lo dijo peor.
 
 Kal cerró el portón trasero.
 
@@ -131,7 +131,7 @@ El arroyo tenía un tramo de piedras planas que Marisol reconoció antes que él
 
 —Aquí competíamos —dijo, ya agachándose a buscar una del tamaño correcto—. Papá ganaba casi siempre. Yo gané dos veces en mi vida, y las dos veces él dijo que había tenido el sol en contra. Ahora te toca perder a ti.
 
-No perdió por cortesía. Perdió porque Marisol tiraba con una muñeca que Kal no recordaba haberle enseñado, y porque las piedras que él juntaba ella las regresaba al agua sin dejarlo tirarlas: estaban mal hechas. La de ella rebotó seis veces contra las cuatro de la mejor tirada de él, y Marisol levantó los brazos como si acabara de ganar algo de verdad.
+No perdió por cortesía. Perdió porque Marisol tiraba con una muñeca que Kal no recordaba haberle enseñado, y porque las piedras que él juntaba ella las devolvía al agua sin dejarlo tirarlas: estaban mal hechas. La de ella rebotó seis veces contra las cuatro de la mejor tirada de él, y Marisol levantó los brazos como si acabara de ganar algo de verdad.
 
 —Seis, Kal. Seis.
 
@@ -169,7 +169,7 @@ La cena fue salchichas y una lata de alubias que se pegó al fondo del cazo, por
 
 —Heredé el cazo. El método venía con el cazo.
 
-Marisol se rió con la boca llena, como se reía de niña, y Kal registró que hacía mucho que no la oía reírse sin un teléfono de por medio.
+Marisol se rio con la boca llena, como se reía de niña, y Kal registró que hacía mucho que no la oía reírse sin un teléfono de por medio.
 
 Después se quedó con el plato en las rodillas, raspando con el tenedor un fondo que ya estaba limpio. Kal le preguntó si quería más y tuvo que preguntárselo dos veces.
 
@@ -281,7 +281,7 @@ Kal se miró el dedo.
 
 —Aprendiste una palabra. Y no te diste cuenta de que la dijiste, que es peor.
 
-Se rió, la risa corta y feliz que a Kal todavía le costaba no contagiarse. Él se chupó el dedo quemado. Le restó importancia en voz alta y le dio la razón por dentro, en el mismo segundo, sin decírselo a nadie.
+Se rio, la risa corta y feliz que a Kal todavía le costaba no contagiarse. Él se chupó el dedo quemado. Le restó importancia en voz alta y le dio la razón por dentro, en el mismo segundo, sin decírselo a nadie.
 
 Marisol dejó pasar un silencio largo y lo rompió sin levantar la vista.
 
@@ -369,7 +369,7 @@ Ella no contestó. Se limpió la cara con la manga de la chaqueta, rápido, como
 
 Kal se sentó entonces en la piedra, a su lado, de cara al arroyo. Estuvieron así un rato, oyendo el agua de la olla empezar a moverse. Después le chocó el hombro con el suyo, una vez, y le salió media sonrisa.
 
-—Me lo dijiste tú, Marisol. Eso ya es hacerlo mejor. Que allá sepan que eres de La Almendra. De ahí salimos tipos como yo. Que vean que también sale gente extraordinaria.
+—Me lo dijiste tú, Marisol. Eso ya es hacerlo mejor. Que allá sepan que eres de la Almendra. De ahí salimos tipos como yo. Que vean que también sale gente extraordinaria.
 
 Marisol se quedó mirando el arroyo. Asintió, sin soltar la taza.
 
@@ -425,7 +425,7 @@ Dejó las llaves en la isla de la cocina. Se sentó en un banco. Abrió el sobre
 
 Fue el aroma el que la delató antes que la letra: canela, vainilla. La letra, apretada e inclinada, ya no dejaba ninguna duda.
 
-> *Kal — encontré a Héctor el viernes junto al portón de su casa. Sufrió un infarto. Está estable en Santa Aurelia. Te llamé varias veces y no tuve respuesta, así que supongo que sigues en algún cerro sin señal. Dejo esto aquí porque es el único lugar donde sé, con certeza, que vas a mirar. Ve cuando puedas — él te va a necesitar más despierto que dormido. Voy a buscar un momento para llevarle flores.*
+> *Kal: encontré a Héctor el viernes junto al portón de su casa. Sufrió un infarto. Está estable en Santa Aurelia. Te llamé varias veces y no tuve respuesta, así que supongo que sigues en algún cerro sin señal. Dejo esto aquí porque es el único lugar donde sé, con certeza, que vas a mirar. Ve cuando puedas: él te va a necesitar más despierto que dormido. Voy a buscar un momento para llevarle flores.*
 
 El teléfono empezó a vibrar antes de que terminara de leer, no una vez sino en cascada, los avisos entrando todos juntos al agarrar señal después de dos días apagado. El taller. Walt. Un número del hospital. Walt otra vez. Y tres llamadas de Chiara, seguidas, sin nada escrito.
 

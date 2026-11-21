@@ -64,7 +64,7 @@ Walt no discutió. Walt nunca discutía una cuenta bien hecha. Levantó la vista
 
 —A la cena. La barrica se la vendo.
 
-Chiara se rió por la nariz, le dio a Walt un golpecito con los zapatos en el hombro y salió hacia el Audi.
+Chiara se rio por la nariz, le dio a Walt un golpecito con los zapatos en el hombro y salió hacia el Audi.
 
 —Ciao, tesoro.
 
@@ -74,7 +74,7 @@ Walt asintió hacia Kal, una sola vez, con la misma cara con que perdía y ganab
 
 —Walt.
 
----
+***
 
 El camino de grava que corría junto al ramal no tenía nombre propio en ningún mapa que Kal hubiera visto, pero lo conocía de memoria: el bache doble frente al cambio de vías, la cerca de láminas oxidadas donde alguien llevaba años prometiendo pintar un mural, el silbato lejano de una maniobra que nunca se sabía si venía o se iba. Conducía despacio, con la ventana baja y el codo afuera, dejando que el aire de la tarde —caliente todavía, con ese fondo a diésel y el grano fermentado que traían pegado de la destilería— le entrara por la manga.
 
@@ -118,7 +118,7 @@ Kal miró el camino un segundo de más antes de contestar.
 
 —Es exactamente tu juego, Kal Mercer. Sólo que normalmente lo juegas con gente a la que le puedes romper algo si pierde.
 
-Se rió de su propia idea antes de que él pudiera defenderse. Kal decidió que lo mejor era salir de Marisol por la primera puerta que encontrara, y la primera puerta fue la viuda.
+Se rio de su propia idea antes de que él pudiera defenderse. Kal decidió que lo mejor era salir de Marisol por la primera puerta que encontrara, y la primera puerta fue la viuda.
 
 —¿De verdad tiene tanto dinero? La de la barrica.
 
@@ -190,7 +190,7 @@ El Audi siguió rodando sobre la grava. Chiara se quedó mirando el teléfono, d
 
 —Le colgaste a Varek.
 
-—Le dije que le regresaba la llamada.
+—Le dije que le devolvía la llamada.
 
 —En un momento muy tranquilo.
 
@@ -204,11 +204,11 @@ El Audi siguió rodando sobre la grava. Chiara se quedó mirando el teléfono, d
 
 Kal soltó el aire por la nariz.
 
-—Era una broma. De esas que se te meten solas en la cabeza. Te casas con la viuda, la viuda se resbala, te quedas con todo. Para Danny.
+—Era una broma. De ésas que se te meten solas en la cabeza. Te casas con la viuda, la viuda se resbala, te quedas con todo. Para Danny.
 
 —Y luego yo dije lo del dinero, y tú dijiste que yo no me iba a morir, y te quedaste callado como si hubieras visto pasar a tu propio fantasma.
 
-—Tú tiraste la piedra. "Como si una no tuviera dinero."
+—Tú tiraste la piedra. «Como si una no tuviera dinero.»
 
 —Kal. Cada pregunta que te hago me la regresas en forma de piedra.
 
@@ -262,9 +262,9 @@ Soltó el volante como si quemara.
 
 —¿Qué sientes, Kal Mercer?
 
-—Chiaraaa...
+—Chiaraaa…
 
-Alargó la última vocal más de lo que hubiera querido. Chiara sólo lo miró, con los brazos cruzados y una mueca que no era de enojo — era de alguien disfrutando bastante más de lo que debería el hecho de verlo así. Kal volvió la vista al frente, tomó el volante otra vez, con más fuerza que la necesaria, y torció la boca.
+Alargó la última vocal más de lo que hubiera querido. Chiara sólo lo miró, con los brazos cruzados y una mueca que no era de enojo; era de alguien disfrutando bastante más de lo que debería el hecho de verlo así. Kal volvió la vista al frente, tomó el volante otra vez, con más fuerza que la necesaria, y torció la boca.
 
 —¿Ves? —dijo ella—. Miedo al compromiso.
 
@@ -272,7 +272,7 @@ Alargó la última vocal más de lo que hubiera querido. Chiara sólo lo miró, 
 
 —Los sobornos cariñosos no te van a funcionar esta vez.
 
-Era mentira, y los dos lo sabían. Pero el camino de terracería no era el loft, y Chiara tenía esa cara de quien ya decidió que hoy no.
+Era mentira, y los dos lo sabían. Pero el camino de tierra no era el loft, y Chiara tenía esa cara de quien ya decidió que hoy no.
 
 —Ya verás —dijo él.
 
@@ -288,11 +288,11 @@ Marcó el primer número que encontró en la lista de recientes. Danny contestó
 
 —¿Cómo no voy a conocer a la señora? *Ciao, tesoro* —canturreó Danny, y Chiara tuvo que voltear hacia la ventana.
 
-—Bueno. Pues llevamos un tiempo... conociéndonos.
+—Bueno. Pues llevamos un tiempo… conociéndonos.
 
 —¿Ah, sí? No me digas.
 
-—Sí. Y estoy... muy contento.
+—Sí. Y estoy… muy contento.
 
 —Ajá. ¿Y a mí qué me importa, jefe?
 
@@ -334,13 +334,13 @@ Kal dejó el teléfono sobre la rodilla. A lo lejos sonó el silbato de la manio
 
 —Le dijiste que la cera estaba a noventa.
 
-—Le dije que estaba...
+—Le dije que estaba…
 
 —Ah. —Chiara recogió los pies, se puso un zapato, luego el otro, sin prisa—. Entonces ahora es cuando me dejas en la puerta del casino y te vas.
 
 —¿Por qué en la puerta del casino?
 
-—Porque así termina esto, ¿no? Me dejas en la puerta, me dices "Chiara" con esa voz, y te vas al taller a lavar algo que no está sucio.
+—Porque así termina esto, ¿no? Me dejas en la puerta, me dices «Chiara» con esa voz, y te vas al taller a lavar algo que no está sucio.
 
 —¿No te quedó claro lo que le dije a Danny?
 
@@ -398,9 +398,9 @@ Kal miró el teléfono. Después a ella.
 
 Esta vez no buscó en recientes. Marcó a Nadir de memoria, antes de terminar de pensar por qué. No preparó nada. No hubo un segundo de guion mental, sólo la necesidad casi infantil de probar algo, de una vez, en voz alta, delante de alguien.
 
-—Wallah, ¿qué pasa, Kal? —contestó Nadir al segundo timbre, con el ruido de fondo de La Almendra, alguna radio, algún compresor.
+—Wallah, ¿qué pasa, Kal? —contestó Nadir al segundo timbre, con el ruido de fondo de la Almendra, alguna radio, algún compresor.
 
-—Yo... llamaba porque tengo que... contarte algo.
+—Yo… llamaba porque tengo que… contarte algo.
 
 —Ajá.
 
@@ -410,11 +410,11 @@ Kal puso el teléfono en altavoz y lo dejó sobre su rodilla, donde los dos pudi
 
 —Sí.
 
-—Bueno, pues sólo llamo para contarte que ella es mi...
+—Bueno, pues sólo llamo para contarte que ella es mi…
 
 Se aclaró la garganta. Chiara lo miraba con la mejilla mordida por dentro y los ojos entreabiertos, disfrutando demasiado de verlo sufrir para intervenir y salvarlo.
 
-—Mi...
+—Mi…
 
 Un segundo. Dos.
 
@@ -426,7 +426,7 @@ Un segundo. Dos.
 
 —¿Y lo nuevo?
 
-Silencio en el coche. Silencio del otro lado también, aunque en La Almendra seguía sonando el compresor de fondo. Kal y Chiara se miraron.
+Silencio en el coche. Silencio del otro lado también, aunque en la Almendra seguía sonando el compresor de fondo. Kal y Chiara se miraron.
 
 Kal colgó sin despedirse.
 
@@ -446,7 +446,7 @@ Kal quiso defenderse y no encontró nada que decir que sonara a defensa de verda
 
 Lo dijo bajo, sin dramatismo, de la misma manera en que hubiera dicho que un motor tenía una fuga o que una deuda todavía no estaba saldada. Era lo único que le había quedado después de gastar todas las frases que sabía decir bien.
 
-Chiara no dijo nada. Alargó la mano por encima de la palanca de cambios y entrelazó sus dedos con los de él, todavía cerrados sobre el volante. Kal aflojó por fin los dedos. Por un momento, ninguno de los dos tuvo que resolver nada — ni el camino, ni la casa, ni Varek, ni Halbrook, ni ninguna de las cosas que llevaban semanas resolviendo por turnos.
+Chiara no dijo nada. Alargó la mano por encima de la palanca de cambios y entrelazó sus dedos con los de él, todavía cerrados sobre el volante. Kal aflojó por fin los dedos. Por un momento, ninguno de los dos tuvo que resolver nada: ni el camino, ni la casa, ni Varek, ni Halbrook, ni ninguna de las cosas que llevaban semanas resolviendo por turnos.
 
 La miró como miraba las cosas que le devolvían el aire: de golpe, sin permiso, con la certeza incómoda de que ningún minuto gastado en otra cosa le iba a alcanzar después.
 
@@ -482,13 +482,13 @@ Chiara apartó el teléfono un centímetro de la oreja.
 
 Kal apretó el volante.
 
-—Dile que...
+—Dile que…
 
 —No le voy a decir nada. —Y al teléfono—: Gracias, tesoro. *Ciao.*
 
 Colgó y le soltó la mano para guardar el teléfono, despacio, sin quitarle los ojos de encima.
 
-—Si le rompes las piernas a mi gerente de caja...
+—Si le rompes las piernas a mi gerente de caja…
 
 —Cubro su turno. Ya sé.
 
@@ -496,7 +496,7 @@ Arrancó.
 
 No fueron al casino. La Almendra estaba a un par de calles. Esta vez, cuando volvieron, ninguno de los dos tuvo que preguntar adónde.
 
----
+***
 
 A la mañana siguiente pasó por la ferretería de la esquina antes de abrir el taller. Danny llevaba desde marzo sin su gato hidráulico, y Kal había decidido en algún punto de la noche que el de Danny ya no iba a aparecer y que lo más barato era dejar de buscarlo.
 
@@ -508,7 +508,7 @@ La ferretería abría a las siete y a las siete y diez ya olía a café de termo
 
 —Atrás tengo uno. Se lo traigo.
 
-Fue y volvió con la caja abrazada contra la panza, y la dejó en el mostrador con más cuidado del que pedía un gato. Kal sacó la cartera. El hombre no le dijo el precio. Se limpió las manos en el mandil, aunque no las traía sucias.
+Fue y volvió con la caja abrazada contra la panza, y la dejó en el mostrador con más cuidado del que pedía un gato. Kal sacó la cartera. El hombre no le dijo el precio. Se limpió las manos en el delantal, aunque no las traía sucias.
 
 —Anoche, ya para cerrar, vino el muchacho del Tasador.
 
@@ -534,7 +534,7 @@ Pagó con dos billetes de cien y no esperó el cambio. El hombre se lo quiso pon
 
 —Por el recado.
 
-—Yo nomás se lo paso, Mercer. Yo no...
+—Yo sólo se lo paso, Mercer. Yo no…
 
 —Ya sé.
 
@@ -542,12 +542,12 @@ Salió con la caja bajo el brazo. Del otro lado de la calle, frente a la lavande
 
 En el barrio, Crowe no hablaba por teléfono. Mandaba a alguien.
 
-El auto arrancó antes de que Kal llegara a la orilla de la banqueta. Dobló en la esquina de la vulcanizadora, sin prisa, y la calle se quedó igual que siempre: la cortina de la barbería a medio subir, la luz roja de la cámara de la esquina, un perro dormido en la sombra de un poste.
+El auto arrancó antes de que Kal llegara a la orilla de la acera. Dobló en la esquina de la vulcanizadora, sin prisa, y la calle se quedó igual que siempre: la cortina de la barbería a medio subir, la luz roja de la cámara de la esquina, un perro dormido en la sombra de un poste.
 
-Kal metió la caja en la cajuela del Audi y se quedó un momento con la mano en la tapa.
+Kal metió la caja en el maletero del Audi y se quedó un momento con la mano en la tapa.
 
 *A ti por mí. A mí por ti.*
 
 Ella lo había dicho primero, en el coche, y él le había contestado con lo de las feromonas en la alfombra.
 
-Cerró la cajuela y se fue a abrir el taller.
+Cerró el maletero y se fue a abrir el taller.

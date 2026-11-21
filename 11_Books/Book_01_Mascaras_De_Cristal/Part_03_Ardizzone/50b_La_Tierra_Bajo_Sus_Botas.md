@@ -47,7 +47,7 @@ Y en el loft, la ventana de la cocina llevaba encendida desde la madrugada. No s
 
 Con la primera claridad los postes del puerto empezaron a apagarse solos, de dos en dos, y el apagado subió por la ciudad hacia el norte, calle por calle, por el mismo camino por el que unas horas antes había subido la oscuridad.
 
----
+***
 
 El helicóptero llegó desde el interior, bajo, con las luces de posición todavía encendidas, y no buscó la terminal. Siguió de largo sobre las pistas de Kingsley Field hasta la última plataforma, la de los hangares de carga, donde a esa hora no había nadie que tuviera que estar ahí.
 
@@ -109,7 +109,7 @@ La misma mujer, de espaldas, entrando a una cantina de puerta verde en una plaza
 
 La misma mujer, de noche, sentada en el extremo de una barra, tomada a través del vidrio de la calle. El saco puesto. Una taza enfrente. Las sillas de las otras mesas ya subidas, patas arriba. Detrás del mostrador, una mujer de delantal barría.
 
-En esa se detuvo más que en ninguna. La miró como se mira a alguien que acaba de decir algo inteligente en una mesa donde nadie lo esperaba.
+En ésa se detuvo más que en ninguna. La miró como se mira a alguien que acaba de decir algo inteligente en una mesa donde nadie lo esperaba.
 
 Quedaba una.
 

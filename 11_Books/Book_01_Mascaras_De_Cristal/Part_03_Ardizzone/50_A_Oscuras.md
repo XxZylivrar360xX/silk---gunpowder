@@ -40,7 +40,7 @@ A las diez y media Mabel volteó el letrero de la puerta y apagó la mitad de la
 
 Dejó encendida la de la barra. Subió las sillas a las mesas, patas arriba, una por una, y barrió debajo con la escoba de cerdas gastadas, juntando servilletas, una corcholata, un tenedor de plástico que alguien había partido en dos. No le pidió a Chiara que se moviera. Barrió alrededor del banco del extremo como se barre alrededor de una columna.
 
-Chiara estaba ahí desde las siete. Había llegado con el último turno de la cena, cuando la vitrina ya tenía más charolas vacías que pan, y se había sentado en el extremo de la barra con el abrigo vino doblado en el banco de al lado y el saco puesto. Mabel le había servido café, después un plato de arroz con frijoles que ella se comió entero sin saber en qué momento, y después más café. A las nueve había entrado un patrullero a comprar cigarros sueltos y se le quedó viendo un segundo de más, y Mabel lo tuvo en el mostrador hablándole del frío y de la hija que se le casaba en junio hasta que el patrullero pagó y se fue.
+Chiara estaba ahí desde las siete. Había llegado con el último turno de la cena, cuando la vitrina ya tenía más bandejas vacías que pan, y se había sentado en el extremo de la barra con el abrigo vino doblado en el banco de al lado y el saco puesto. Mabel le había servido café, después un plato de arroz con frijoles que ella se comió entero sin saber en qué momento, y después más café. A las nueve había entrado un patrullero a comprar cigarros sueltos y se le quedó viendo un segundo de más, y Mabel lo tuvo en el mostrador hablándole del frío y de la hija que se le casaba en junio hasta que el patrullero pagó y se fue.
 
 El billete seguía en el bolsillo interior del saco. Chiara lo había sentido toda la tarde contra el pecho, cada vez que se inclinaba sobre la taza.
 
@@ -62,7 +62,7 @@ Mabel siguió contando. Empezó el montoncito otra vez desde el principio.
 
 Chiara se tocó el anular izquierdo y se quitó la mano de encima.
 
----
+***
 
 Tocaron a las doce menos veinte, en la puerta de la cocina, dos golpes con los nudillos.
 
@@ -92,7 +92,7 @@ Mabel miró el billete. Lo dejó donde estaba.
 
 La campanita sonó una vez detrás de ella.
 
----
+***
 
 El Lancia estaba frío por dentro. Chiara lo encendió y se quedó un momento con las manos en el volante, mirando Avenida Almendra por el parabrisas: la cortina bajada de la tlapalería, el poste con el anuncio de un circo que había pasado en agosto, un perro cruzando sin prisa por la raya del centro.
 
@@ -142,7 +142,7 @@ Los faros del Lancia eran la única luz del Paseo. El valet se había quedado pa
 
 Detrás de las puertas de vidrio del lobby, después de un momento, se prendieron unas luces amarillas, bajas, de las que no alcanzan para leer. El valet volteó hacia ellas, volteó hacia el coche, y se fue corriendo hacia adentro.
 
-Chiara se rió.
+Chiara se rio.
 
 No fue una risa larga. Le salió por la nariz, primero, y luego por la boca, sola, con las manos todavía en el volante y la vista en el rectángulo negro de la torre.
 
@@ -156,7 +156,7 @@ El motor siguió en marcha. En el tablero, la aguja de la temperatura subió un 
 
 Chiara giró la llave. Los faros se apagaron con el motor, y el Paseo Pacífica se quedó completo a oscuras, con ella adentro.
 
----
+***
 
 En el piso de juego no sonaba nada.
 
@@ -176,11 +176,11 @@ La puerta de la escalera de servicio de la Torre Norte tenía encima un letrero 
 
 No contó los pisos. A partir de cierto punto los descansos eran todos el mismo: el letrero verde, el número pintado en la pared de concreto, el barandal frío, el siguiente tramo. Se detuvo dos veces con la mano en el barandal. La segunda vez se sentó en un escalón, con las botas en el regazo, y se quedó ahí lo que tardó en volver a respirar por la nariz. Arriba y abajo de ella la escalera seguía, verde y gris, en los dos sentidos.
 
----
+***
 
 El penthouse estaba a oscuras y la ciudad, por las ventanas, también.
 
-No toda. Desde ahí arriba se veía dónde se había cortado: el sur entero en negro, el Paseo, Corona, los techos del Puerto Viejo, La Almendra en algún lugar de ese negro sin una sola luz que la marcara. Hacia el norte, lejos, la línea de las Lomas seguía encendida, y más allá de las Lomas empezaba la carretera del norte, que desde ese piso nunca se había visto, ni de día.
+No toda. Desde ahí arriba se veía dónde se había cortado: el sur entero en negro, el Paseo, Corona, los techos del Puerto Viejo, la Almendra en algún lugar de ese negro sin una sola luz que la marcara. Hacia el norte, lejos, la línea de las Lomas seguía encendida, y más allá de las Lomas empezaba la carretera del norte, que desde ese piso nunca se había visto, ni de día.
 
 Chiara dejó las botas junto a la puerta. Encendió la linterna del teléfono.
 
@@ -194,7 +194,7 @@ Se quedó viéndola con el teléfono en la mano.
 
 El teléfono le tembló un poco. Lo dejó sobre la mesa, bocabajo, con la linterna hacia el techo, y la luz se abrió en un círculo blanco arriba de las dos y dejó el cuadro en una penumbra donde todavía se distinguía el agua.
 
-—Le mentí. Ya sé. —Puso las dos manos sobre la mesa, una a cada lado del cuadro—. Le dije "nada" con la sonrisa de las juntas, y él me la conoce, y se fue a dormir a su casa, y yo me quedé aquí con mi razón. Me equivoqué. Eso ya lo sé. Lo sé mejor que Tú.
+—Le mentí. Ya sé. —Puso las dos manos sobre la mesa, una a cada lado del cuadro—. Le dije «nada» con la sonrisa de las juntas, y él me la conoce, y se fue a dormir a su casa, y yo me quedé aquí con mi razón. Me equivoqué. Eso ya lo sé. Lo sé mejor que Tú.
 
 Afuera, muy abajo, pasó otra sirena. No subía hasta ahí más que como un hilo.
 
@@ -202,7 +202,7 @@ Afuera, muy abajo, pasó otra sirena. No subía hasta ahí más que como un hilo
 
 Se enderezó. Dio dos pasos hacia la ventana y volvió.
 
-—Pagué todo. Le di mi nombre a un hombre que cobraba en la acera desde niño. Le quedé a deber a Varek lo que él quiera, cuando él quiera, y no sé qué es. Me senté a tomar café con un viejo que me ofreció este edificio como quien ofrece galletas. —Señaló la ventana, el rectángulo negro donde estaba el Pacífica—. Todo lo que me pidieron, lo pagué, y lo pagué yo. No mandé a nadie. Y Tú… Tú, nada. Ni siquiera me cobras. Solo quitas.
+—Pagué todo. Le di mi nombre a un hombre que cobraba en la acera desde niño. Le quedé a deber a Varek lo que él quiera, cuando él quiera, y no sé qué es. Me senté a tomar café con un viejo que me ofreció este edificio como quien ofrece galletas. —Señaló la ventana, el rectángulo negro donde estaba el Pacífica—. Todo lo que me pidieron, lo pagué, y lo pagué yo. No mandé a nadie. Y Tú… Tú, nada. Ni siquiera me cobras. Sólo quitas.
 
 Tomó el cuadro de la mesa. Lo sostuvo con las dos manos, contra el estómago.
 
@@ -212,7 +212,7 @@ El círculo de luz en el techo no se movió.
 
 —Me dejas abrirme con él. Me dejas sentarme en el suelo a comer hamburguesas en una casa que no es mía, con un hombre que no tenía por qué subir, y me dejas contarle de mi padre. *Tutto.* —Apretó el marco—. Me dejas enamorarme de él.
 
-Le faltó el aire en esa. Esperó a que volviera.
+Le faltó el aire en ésa. Esperó a que volviera.
 
 —Ni siquiera me dejas pedirle perdón.
 
@@ -248,7 +248,7 @@ Chiara se quitó el cigarro de la boca. Lo tuvo un momento entre los dedos, a la
 
 Dejó el cigarro sobre la mesa, sin encender, junto al cuadro.
 
----
+***
 
 El penthouse olía a cerrado. A la alfombra, al frío de una calefacción que nadie había prendido, a la loción de las sábanas que cambiaban cada tres días aunque nadie durmiera en ellas. En el círculo de luz del teléfono se veía el sillón de la sala, el que daba a la ventana, con el cojín todavía hundido de un lado. El suelo de la sala, donde una noche dos personas comieron hamburguesas sentadas en la alfombra para no ensuciar un sillón ajeno. La mesa. El cuadro, y al lado el cigarro.
 
@@ -260,7 +260,7 @@ Tomó el cuadro. El cigarro se quedó en la mesa. Tomó el teléfono, apagó la 
 
 No cerró con llave. Ya en el pasillo, con el letrero verde encima de la escalera, se dio cuenta de que tampoco había pensado en cerrarla.
 
----
+***
 
 Bajar fue más rápido. En el descanso del primer piso se puso las botas, con el cuadro bajo el brazo, apoyada en el barandal.
 
@@ -280,7 +280,7 @@ Chiara lo miró desde el asiento. Era un muchacho delgado, de bigote ralo, que l
 
 El muchacho sonrió sin saber por qué, y cerró la puerta.
 
----
+***
 
 La ciudad sin luz era otra ciudad. Chiara la manejó despacio, con los faros altos y el cuadro en el asiento de al lado. En las esquinas los coches se esperaban unos a otros con las intermitentes puestas, sin claxon, como en un pueblo. En Corona había gente en las aceras, afuera de los edificios, en pijama y con linternas, mirando hacia arriba. Un hombre en bata le hizo señas con la mano para que pasara, como si fuera el dueño de la esquina.
 
@@ -288,7 +288,7 @@ En el radio, una voz con batería de emergencia decía que habían fallado tres 
 
 Avenida Almendra estaba negra de punta a punta. La Esquina de Mabel, con la cortina abajo. La tlapalería. El poste del circo. En la esquina del semáforo muerto, Chiara puso la direccional y dio vuelta a la izquierda.
 
----
+***
 
 El edificio del loft no tenía ni la luz del portal.
 
@@ -328,6 +328,6 @@ Tenía la ropa limpia y la cara no. La camisa y el pantalón tenían todavía lo
 
 Estaba vivo.
 
-Bajó los ojos un segundo hacia la pistola que ella seguía apuntándole, y algo cansado, pequeño, se le movió en la cara antes de que hablara — no una sonrisa completa, apenas el borde de una.
+Bajó los ojos un segundo hacia la pistola que ella seguía apuntándole, y algo cansado, pequeño, se le movió en la cara antes de que hablara: no una sonrisa completa, apenas el borde de una.
 
 —Ciao, bella.

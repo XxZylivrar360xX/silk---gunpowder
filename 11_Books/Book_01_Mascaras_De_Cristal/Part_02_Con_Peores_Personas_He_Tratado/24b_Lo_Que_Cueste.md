@@ -85,7 +85,7 @@ El jueves, en una oficina de Villani Motors con vista al showroom, Kal firmó un
 
 El teléfono estaba bocarriba sobre el banco de trabajo, entre una caja de tornillos y el trapo de las manos, y Kal llevaba una hora sin llamar a nadie.
 
-Tenía medio cuerpo metido en el capó de una Ford que no era suya y que no tenía ninguna prisa, porque la prisa la tenía el dueño y el dueño podía esperar al lunes. El taller de La Almendra estaba cerrado desde las siete. Quedaba la lámpara de cadena sobre el foso, el radio bajo en una estación que no ponía nada que él hubiera elegido, y el olor de siempre: aceite viejo, metal frío, café recalentado en una jarra que nadie lavaba desde el martes.
+Tenía medio cuerpo metido en el capó de una Ford que no era suya y que no tenía ninguna prisa, porque la prisa la tenía el dueño y el dueño podía esperar al lunes. El taller de la Almendra estaba cerrado desde las siete. Quedaba la lámpara de cadena sobre el foso, el radio bajo en una estación que no ponía nada que él hubiera elegido, y el olor de siempre: aceite viejo, metal frío, café recalentado en una jarra que nadie lavaba desde el martes.
 
 La persiana se levantó a medias con un ruido de lámina y entró Nadir agachándose, con una bolsa de papel en una mano y el teléfono en la otra, terminando una conversación en árabe que sonaba a regateo aunque fuera con su madre.
 
@@ -203,7 +203,7 @@ Cerró la caja. El ruido de la lámina despertó a Nadir, que abrió los ojos si
 
 Nadir miró la caja. Miró a Kal. No se levantó.
 
-—La vi el sábado. El dueño se iba a Phoenix y necesitaba vender rápido. Pedía cuatro mil doscientos; se la dejé en tres mil seiscientos, con casco, y las llantas son nuevas, wallah, no de las que pintan de negro para que parezcan...
+—La vi el sábado. El dueño se iba a Phoenix y necesitaba vender rápido. Pedía cuatro mil doscientos; se la dejé en tres mil seiscientos, con casco, y las llantas son nuevas, wallah, no de las que pintan de negro para que parezcan…
 
 —Nadir.
 
@@ -227,7 +227,7 @@ Kal sacó la cartera, contó de su dinero lo que faltaba, lo metió en la caja y
 
 —Ya sé.
 
-—En abonos. Doscientos por semana. Trescientos cuando... —Se interrumpió—. Cuando se pueda.
+—En abonos. Doscientos por semana. Trescientos cuando… —Se interrumpió—. Cuando se pueda.
 
 —Doscientos está bien.
 
@@ -277,7 +277,7 @@ Kal dejó la bolsa sobre el mostrador.
 
 Kal le dio las gracias. Cruzó la calle con la bolsa de pan dulce y el periódico doblado bajo el brazo, y antes de tocar en casa de Héctor miró la esquina de la vulcanizadora, donde no había nadie, y la mantuvo un rato a la vista.
 
-A Nadir no le dijo nada. Esa tarde le ajustó la cadena de la Kawasaki en la banqueta del taller, mientras Nadir le explicaba con los dedos lo que iba a ahorrar en gasolina, y lo dejó hablar.
+A Nadir no le dijo nada. Esa tarde le ajustó la cadena de la Kawasaki en la acera del taller, mientras Nadir le explicaba con los dedos lo que iba a ahorrar en gasolina, y lo dejó hablar.
 
 ***
 
@@ -285,7 +285,7 @@ El lunes lo oyó antes de verlo. Un motor grande en ralentí frente a la cortina
 
 Era un Camaro viejo, negro salvo por una puerta en gris de primer. Kal lo conocía. Lo había tenido dos filas adelante en Kingsley, en noviembre, y lo había visto despegarse en la recta como si los demás estuvieran estacionados.
 
-La muchacha estaba sentada en el guardafango, con las manos en los bolsillos de una chaqueta negra y el pelo recogido en dos chongos. Se paró cuando él se bajó del Peugeot. No se le acercó.
+La muchacha estaba sentada en el guardafango, con las manos en los bolsillos de una chaqueta negra y el pelo recogido en dos moños. Se paró cuando él se bajó del Peugeot. No se le acercó.
 
 —Kingsley —dijo Kal—. Llegaste segunda.
 
@@ -307,7 +307,7 @@ Kal subió la cortina. Ella no lo ayudó y no hizo como que iba a ayudarlo: se q
 
 Esperó a que dijera más. No dijo más. Kal pensó en la casa vacía de Old Road Town que Danny le había leído en el periódico, en la chaqueta café que preguntaba por la familia de Nadir, y no preguntó nada.
 
-La Kawasaki estaba en la banqueta, donde Nadir la dejaba para que la vieran. Kal la señaló con la barbilla.
+La Kawasaki estaba en la acera, donde Nadir la dejaba para que la vieran. Kal la señaló con la barbilla.
 
 —Revísala.
 
@@ -335,7 +335,7 @@ Esa tarde, cuando ya no quedaba nadie, ella tocó el marco de la puerta de la of
 
 —¿Me puedo quedar aquí? Nada más esta semana.
 
-Kal miró el sillón donde Nadir había dormido con las botas puestas. Miró el Camaro, que seguía en la banqueta con su cilindro enfermo.
+Kal miró el sillón donde Nadir había dormido con las botas puestas. Miró el Camaro, que seguía en la acera con su cilindro enfermo.
 
 —Hay una manta en el armario —dijo.
 

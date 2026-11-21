@@ -68,9 +68,9 @@ Chiara tomó un trago de café. No estaba quemado esta vez. Mabel la vio tomarlo
 
 —Y si te dice que no, es no.
 
-Chiara asintió. Mabel se le quedó viendo un momento más. Luego tomó una charola de la pila y se fue a recoger la mesa que había dejado la familia, y no volvió en todo el tiempo que Chiara tardó en terminarse el café.
+Chiara asintió. Mabel se le quedó viendo un momento más. Luego tomó una bandeja de la pila y se fue a recoger la mesa que había dejado la familia, y no volvió en todo el tiempo que Chiara tardó en terminarse el café.
 
----
+***
 
 Llamó a las siete. Chiara estaba en su despacho del Monarch, con la hoja de turnos de seguridad todavía sin firmar.
 
@@ -90,7 +90,7 @@ Pensó en Kenji. En los tres pisos de gente entre ella y cualquier cosa que no q
 
 Buscó otro número.
 
----
+***
 
 Bonnie contestó al cuarto timbre. Había ruido de cocina detrás, una sartén, una radio.
 
@@ -112,7 +112,7 @@ El silencio duró lo suficiente para que la radio terminara una canción y empez
 
 Chiara esperó a que dijera algo más. Bonnie colgó.
 
----
+***
 
 Meiko la esperaba el domingo a las tres en una gasolinera de la autopista del norte, a la altura de los últimos almacenes de Lomas, apoyada en un poste con la misma chaqueta de nailon que no era de su talla. Se subió al Lancia sin saludar y se puso el cinturón antes de cerrar la puerta.
 
@@ -152,7 +152,7 @@ Chiara no se volvió.
 
 Meiko no insistió. Una camioneta de la cementera apareció del otro lado del puente, frenó, esperó a que nadie viniera y cruzó despacio, levantando polvo. El chofer las miró al pasar, a las dos y al Lancia, y siguió.
 
----
+***
 
 Chiara dejó el Lancia a cuatro cuadras de la plaza, en el estacionamiento de un supermercado cerrado, y caminó.
 
@@ -164,7 +164,7 @@ La Golondrina estaba en la esquina de enfrente de la parroquia, con la puerta de
 
 El cantinero señaló con la barbilla un pasillo al fondo, junto a los baños.
 
-El cuarto de atrás tenía una mesa redonda con mantel de plástico, cuatro sillas, una televisión apagada en la pared y una puerta de metal abierta hacia un patio. En el patio, bajo un foco, un muchacho estaba sentado en una caja de refrescos con una bolsa de hielo apretada contra los nudillos de la mano derecha. Tenía la cara hinchada de un lado. No levantó la vista.
+El cuarto de atrás tenía una mesa redonda con mantel de plástico, cuatro sillas, una televisión apagada en la pared y una puerta de metal abierta hacia un patio. En el patio, bajo una lámpara, un muchacho estaba sentado en una caja de refrescos con una bolsa de hielo apretada contra los nudillos de la mano derecha. Tenía la cara hinchada de un lado. No levantó la vista.
 
 Rafe Domínguez estaba de pie junto a la mesa, de espaldas a ellas, sirviendo tres vasos de una botella sin etiqueta.
 
@@ -212,7 +212,7 @@ Rafe se volvió a mirarla por primera vez. La miró: la chaqueta grande, las man
 
 —De nadie.
 
-—Eso dicen todos los que son de alguien. —Rafe se rió, una risa corta, de garganta, y se volvió otra vez hacia Chiara—. El puente de la cementera. Lo conozco. Ahí se mató el hijo de un compadre, en una de esas carreras de los del norte. —Le dio un trago a su vaso—. ¿Qué más lleva ese convoy?
+—Eso dicen todos los que son de alguien. —Rafe se rio, una risa corta, de garganta, y se volvió otra vez hacia Chiara—. El puente de la cementera. Lo conozco. Ahí se mató el hijo de un compadre, en una de esas carreras de los del norte. —Le dio un trago a su vaso—. ¿Qué más lleva ese convoy?
 
 —No sé.
 
@@ -244,7 +244,7 @@ Chiara esperó.
 
 Chiara no preguntó para qué. Rafe tomó los lentes de lectura del cordón, los miró, los volvió a soltar sobre la camisa.
 
-—Hace unos meses —dijo— alguien en Calle Corona decidió que yo manejaba un Peugeot rojo. Un coche que yo no he visto en mi vida. Y durante semanas tuve a la jura tomando café en mi barra, y a la gente de la plaza preguntándose si Rafe ya se había vuelto pendejo a su edad. Luego un día dejaron de venir. Nadie me pidió perdón. Nadie me dijo nada. Se fueron, nomás, porque alguien encontró a otro más fácil que yo. —Juntó las manos sobre el mantel—. Yo nunca supe de quién era ese coche, señora. Cargué con el nombre de otro sin saber de quién. Y me prometí que no lo vuelvo a hacer.
+—Hace unos meses —dijo— alguien en Calle Corona decidió que yo manejaba un Peugeot rojo. Un coche que yo no he visto en mi vida. Y durante semanas tuve a la jura tomando café en mi barra, y a la gente de la plaza preguntándose si Rafe ya se había vuelto tonto a su edad. Luego un día dejaron de venir. Nadie me pidió perdón. Nadie me dijo nada. Se fueron, nomás, porque alguien encontró a otro más fácil que yo. —Juntó las manos sobre el mantel—. Yo nunca supe de quién era ese coche, señora. Cargué con el nombre de otro sin saber de quién. Y me prometí que no lo vuelvo a hacer.
 
 Chiara se tocó el anular izquierdo. Fue un segundo. Luego bajó la mano al vaso.
 
@@ -278,13 +278,13 @@ Le volvió a tender la mano. Chiara se levantó y se la estrechó. Era una mano 
 
 Al salir pasaron otra vez por la barra. Ninguno de los cinco hombres volteó. En la rocola sonaba una canción sobre un caballo. Afuera, la plaza ya estaba casi vacía: dos lonas todavía amarradas a sus postes, el perro durmiendo junto al puesto de los tacos, la señora de la escoba cerrando la puerta de la parroquia con una llave de hierro que le ocupaba toda la mano.
 
----
+***
 
 Caminaron las cuatro cuadras sin hablar. En el estacionamiento del supermercado cerrado, junto al Lancia, había un coche que no estaba cuando llegaron: un sedán viejo con dos muchachos adentro, comiendo papas de una bolsa. No las miraron. Cuando Chiara encendió el motor, uno de ellos levantó la mano, como se saluda a un vecino, y el otro siguió comiendo.
 
 Chiara manejó hacia el norte. Meiko iba con la cabeza apoyada en la ventanilla.
 
-—Me puede dejar en la avenida —dijo, cuando entraron a La Almendra—. En la parada.
+—Me puede dejar en la avenida —dijo, cuando entraron a la Almendra—. En la parada.
 
 Chiara se detuvo junto a la parada. Antes de que Meiko abriera la puerta, sacó un segundo sobre del saco, más delgado que el otro, y se lo tendió.
 
@@ -302,11 +302,11 @@ Meiko no lo tomó. Abrió la puerta y bajó. Se inclinó un momento sobre la ven
 
 Meiko asintió y se enderezó.
 
-Chiara arrancó. En el retrovisor la vio quedarse en la parada, con las manos en los bolsillos, mientras el Lancia se alejaba, y cuando ya estaba a media cuadra la vio echar a caminar. No esperó el camión. Caminó en sentido contrario al de la ruta, hacia el sur.
+Chiara arrancó. En el retrovisor la vio quedarse en la parada, con las manos en los bolsillos, mientras el Lancia se alejaba, y cuando ya estaba a media cuadra la vio echar a caminar. No esperó el autobús. Caminó en sentido contrario al de la ruta, hacia el sur.
 
 Chiara miró el semáforo, que estaba en verde, y siguió.
 
----
+***
 
 El lunes a las seis y cuarenta la campanita de La Esquina sonó como siempre.
 
@@ -320,7 +320,7 @@ Chiara se sentó. Tomó un trago. Estaba quemado.
 
 —Gracias.
 
-Mabel no contestó a eso. Acomodó las rebanadas en la charola con la punta del cuchillo, una sobre otra, todas del mismo grueso.
+Mabel no contestó a eso. Acomodó las rebanadas en la bandeja con la punta del cuchillo, una sobre otra, todas del mismo grueso.
 
 Chiara se terminó el café, dejó un billete debajo de la taza y se levantó.
 

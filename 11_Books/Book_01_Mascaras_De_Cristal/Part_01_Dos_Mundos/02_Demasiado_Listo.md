@@ -113,7 +113,7 @@ El abrigo corto de felpa blanco le sobraba para Oregon. No se lo quitó. Al sali
 
 Matteo Bellacorte la esperaba junto a una columna, hablando por teléfono y usando la mano libre para dirigir a un chofer que no lo estaba mirando.
 
-No estaba solo. Dos hombres con gafetes del aeropuerto se mantenían a una distancia útil: lo bastante cerca para ser servicio, lo bastante lejos para no parecer escolta. Un empleado de aduana reconoció a Matteo, se llevó un dedo a la frente y siguió caminando sin pedirle nada.
+No estaba solo. Dos hombres con credenciales del aeropuerto se mantenían a una distancia útil: lo bastante cerca para ser servicio, lo bastante lejos para no parecer escolta. Un empleado de aduana reconoció a Matteo, se llevó un dedo a la frente y siguió caminando sin pedirle nada.
 
 —Chiara.
 
@@ -167,7 +167,7 @@ Chiara no creyó en nada natural.
 
 —Entonces no está listo.
 
-Matteo se rió.
+Matteo se rio.
 
 —Por eso estás aquí.
 
@@ -279,13 +279,13 @@ Chiara escuchó el clic.
 
 La primera reunión empezó sin Kal Mercer.
 
-La sala privada del Monarch era, en el papel, el despacho principal de Matteo — el administrador con mayor participación entre los socios operativos, aunque puertas adentro todos se hicieran llamar directores por igual. Dario era distinto: dueño, no administrador, y por eso entraba a cualquier despacho del edificio como si ya fuera suyo, sin necesitar uno propio.
+La sala privada del Monarch era, en el papel, el despacho principal de Matteo, el administrador con mayor participación entre los socios operativos, aunque puertas adentro todos se hicieran llamar directores por igual. Dario era distinto: dueño, no administrador, y por eso entraba a cualquier despacho del edificio como si ya fuera suyo, sin necesitar uno propio.
 
-Quedaba en el segundo nivel, detrás de una puerta de madera oscura que no tenía letrero. A la izquierda, una cava con barra de bebidas ocupaba el muro entero. A la derecha, un sillón de piel demasiado caro para sentarse en él sin pensarlo dos veces. Las luces se mantenían bajas incluso de día, como si el cuarto ya hubiera decidido que ahí siempre era de noche. Un ventanal cubría el ochenta por ciento del piso de juego de abajo, construido para que quien estuviera arriba pudiera ver perder dinero a quien estuviera abajo — esa tarde sólo mostraba técnicos revisando máquinas, alfombra nueva, un hombre de seguridad caminando líneas que nadie más había dibujado. El casino no estaba abierto de verdad, pero ya practicaba su manera de mirar. Detrás de un panel sin picaporte visible, un elevador privado conectaba el despacho directamente con el penthouse, el lobby y el estacionamiento subterráneo, sin pasar por ningún pasillo que un huésped pudiera caminar por accidente.
+Quedaba en el segundo nivel, detrás de una puerta de madera oscura que no tenía letrero. A la izquierda, una cava con barra de bebidas ocupaba el muro entero. A la derecha, un sillón de piel demasiado caro para sentarse en él sin pensarlo dos veces. Las luces se mantenían bajas incluso de día, como si el cuarto ya hubiera decidido que ahí siempre era de noche. Un ventanal cubría el ochenta por ciento del piso de juego de abajo, construido para que quien estuviera arriba pudiera ver perder dinero a quien estuviera abajo; esa tarde sólo mostraba técnicos revisando máquinas, alfombra nueva, un hombre de seguridad caminando líneas que nadie más había dibujado. El casino no estaba abierto de verdad, pero ya practicaba su manera de mirar. Detrás de un panel sin picaporte visible, un elevador privado conectaba el despacho directamente con el penthouse, el lobby y el estacionamiento subterráneo, sin pasar por ningún pasillo que un huésped pudiera caminar por accidente.
 
 Dario tomó la cabecera sin que nadie se la ofreciera. Matteo se sentó a su derecha. Fabrizio eligió una silla lateral, cerca de Chiara, con la familiaridad útil de quien sabe cuándo un aliado no debe parecerlo demasiado. Tommaso ocupó el otro extremo de la mesa y dejó el teléfono boca abajo frente a él, como si con eso demostrara discreción.
 
-Sobre la mesa había carpetas con pestañas de colores: licencias, proveedores, seguridad, valet, contratos temporales, personal. La mujer del bolígrafo se llamaba Elise, según el gafete, y escribía sólo cuando Dario terminaba una frase.
+Sobre la mesa había carpetas con pestañas de colores: licencias, proveedores, seguridad, valet, contratos temporales, personal. La mujer del bolígrafo se llamaba Elise, según la credencial, y escribía sólo cuando Dario terminaba una frase.
 
 —La apertura privada sigue en pie —dijo Dario—. No vamos a moverla por nervios de proveedor.
 
@@ -311,7 +311,7 @@ Dario lo miró.
 
 —¿Una parte?
 
-—Grúas, taller, mantenimiento. Para empezar. —Matteo giró la carpeta hacia el centro de la mesa, como si el nombre estuviera escrito ahí—. Tiene reputación limpia en La Almendra y suficientes rutas para que media ciudad no se sorprenda si lo ve llegar. Y conoce la calle. No la de los periódicos. La otra. Un casino nuevo va a necesitar a alguien así cuando quiera crecer hacia donde no llegan las licencias.
+—Grúas, taller, mantenimiento. Para empezar. —Matteo giró la carpeta hacia el centro de la mesa, como si el nombre estuviera escrito ahí—. Tiene reputación limpia en la Almendra y suficientes rutas para que media ciudad no se sorprenda si lo ve llegar. Y conoce la calle. No la de los periódicos. La otra. Un casino nuevo va a necesitar a alguien así cuando quiera crecer hacia donde no llegan las licencias.
 
 —¿Nombre? —preguntó Tommaso.
 
@@ -413,7 +413,7 @@ Odiaba el azar con una calma que había aprendido a no enseñar.
 
 No era moral. La moral habría sido más fácil de explicar. Lo que le daba asco era la serenidad con la que una habitación entera aceptaba que algo valiera más o menos por caer del lado correcto. Una ficha, una carta, un cuerpo, un nombre. El casino lo llamaba suerte porque la palabra precio habría espantado a los clientes.
 
-Y aun así había venido. Nadir ya andaba metiendo pintura y alerones en los coches del barrio; detrás de la estética venían las carreras de madrugada, el tuneo, los clientes que pagaban por correr lo que nadie más tenía. Esa gente no se juntaba en La Almendra. Se juntaba bajo marquesinas como ésa. Para llegarles hacía falta dinero de otra escala y un nombre que entrara por la puerta principal.
+Y aun así había venido. Nadir ya andaba metiendo pintura y alerones en los coches del barrio; detrás de la estética venían las carreras de madrugada, el tuneo, los clientes que pagaban por correr lo que nadie más tenía. Esa gente no se juntaba en la Almendra. Se juntaba bajo marquesinas como ésa. Para llegarles hacía falta dinero de otra escala y un nombre que entrara por la puerta principal.
 
 Se acomodó el saco del traje azul.
 
@@ -455,7 +455,7 @@ Kal no preguntó quién era la signora.
 
 Entonces la vio.
 
-Estaba afuera, bajo la marquesina, con un cigarro entre los dedos. El abrigo corto de felpa blanco le cubría los hombros sin cerrar del todo y dejaba ver la blusa roja sin mangas, el negro impecable del pantalón de vestir y la línea fina de una gargantilla que el chongo hacía imposible no notar. El pelo negro no se movía con el aire de la costa; estaba recogido con una precisión que convertía cualquier mechón suelto en decisión. Los tacones rojos tocaban el suelo como si el valet, la entrada y la ciudad entera hubieran sido puestos ahí para medir su ruido.
+Estaba afuera, bajo la marquesina, con un cigarro entre los dedos. El abrigo corto de felpa blanco le cubría los hombros sin cerrar del todo y dejaba ver la blusa roja sin mangas, el negro impecable del pantalón de vestir y la línea fina de una gargantilla que el moño hacía imposible no notar. El pelo negro no se movía con el aire de la costa; estaba recogido con una precisión que convertía cualquier mechón suelto en decisión. Los tacones rojos tocaban el suelo como si el valet, la entrada y la ciudad entera hubieran sido puestos ahí para medir su ruido.
 
 Tenía rasgos italianos de una claridad que no necesitaba volverse decorativa: nariz recta, boca quieta, piel templada por otro sol. Las cejas oscuras le bajaban por dentro, hacia el centro, aunque nadie le estuviera hablando. Los ojos almendrados, verdes por dentro y oscuros en el borde, no parecían esperar. Parecían estar decidiendo qué clase de lugar era antes de permitirle terminar de existir.
 
@@ -477,7 +477,7 @@ No de arriba abajo. Eso habría sido demasiado fácil. Lo miró como si buscara 
 
 Matteo hizo la presentación con una satisfacción pequeña, casi teatral.
 
-—Kal Mercer, le presento a mi... bueno. Mi amiga, Chiara.
+—Kal Mercer, le presento a mi… bueno. Mi amiga, Chiara.
 
 Ella apagó el cigarro en un cenicero de pie, dio un paso y le ofreció la mano.
 
@@ -521,7 +521,7 @@ La cabecera estaba vacía.
 
 Eso, más que una presencia, le dijo a Kal qué clase de hombre faltaba.
 
-Tommaso giraba un anillo de sello en el dedo, una vuelta y otra, sin mirárselo. Fabrizio se había servido algo ámbar de la cava y sostenía el vaso sin beberlo, más utilería que sed. Matteo miraba hacia el ventanal, hacia el piso de juego que todavía no era nada, como quien revisa una apuesta que ya hizo. Chiara se quedó donde estaba, los brazos cruzados detrás de la espalda, la barbilla nivelada — la única postura en el cuarto que no le pedía nada prestado a un objeto.
+Tommaso giraba un anillo de sello en el dedo, una vuelta y otra, sin mirárselo. Fabrizio se había servido algo ámbar de la cava y sostenía el vaso sin beberlo, más utilería que sed. Matteo miraba hacia el ventanal, hacia el piso de juego que todavía no era nada, como quien revisa una apuesta que ya hizo. Chiara se quedó donde estaba, los brazos cruzados detrás de la espalda, la barbilla nivelada: la única postura en el cuarto que no le pedía nada prestado a un objeto.
 
 Kal no les dio nada que leer de vuelta.
 
@@ -577,7 +577,7 @@ Kal se tomó un momento. De casinos en general no sabía nada que sirviera en es
 
 —En general, no sé. De coches, sí.
 
-Fabrizio se rió, sin malicia, como se ríe uno de alguien que no fingió.
+Fabrizio se rio, sin malicia, como se ríe uno de alguien que no fingió.
 
 Tommaso mantuvo la voz igual.
 
@@ -761,7 +761,7 @@ Nadir contestó al primer tono.
 
 —¿Por el traje?
 
-—Por listo. "Demasiado listo", dijo uno.
+—Por listo. «Demasiado listo», dijo uno.
 
 —¿Y eso allá es insulto?
 
@@ -875,21 +875,21 @@ Corrado estaba sentado en una silla, mirando la escena con el café entre las ma
 
 —Claro, porque tú no limpias.
 
-Corrado se rió. Marta lo había atrapado y él no tenía una defensa que no sonara a confesión.
+Corrado se rio. Marta lo había atrapado y él no tenía una defensa que no sonara a confesión.
 
 —¿Qué dibujas?
 
 —Una casa más grande.
 
-—¿Y esta ya no te gusta?
+—¿Y ésta ya no te gusta?
 
 Chiara levantó la cara. Miró la pared, luego a sus padres.
 
-—Sí. Esta me gusta de verdad mucho.
+—Sí. Ésta me gusta de verdad mucho.
 
 Corrado abrió un espacio a su lado, como si la pared pudiera recibir una decisión más.
 
-—Bueno, dibujamos dentro a los tres. Así cualquier casa me vale.
+—Bueno, dibujamos dentro a los tres. Así cualquier casa me sirve.
 
 La casa de esa pared ya no existía. De los tres, quedaba ella.
 

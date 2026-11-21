@@ -17,7 +17,7 @@ A las siete de la tarde del sábado, con el sol cayéndoles de lado a las lámin
 
 No la vio venir. Había buscado el tensor de la banda, se había agachado, se le había abierto la chaqueta de mezclilla, y ya había dos dedos adentro.
 
-—Reclusorio del condado —dijo Marisol, y ya lo estaba abriendo.
+—Cárcel del condado —dijo Marisol, y ya lo estaba abriendo.
 
 —Dámela.
 
@@ -63,7 +63,7 @@ Marisol fue contando con la mano libre, sin dejar de caminar, y le enseñó la m
 
 —Cinco días. Cinco, Kal. Y Héctor, mañana.
 
-Kal no contestó. Ella siguió leyendo. Dio otra vuelta. A la altura de la defensa dejó de caminar.
+Kal no contestó. Ella siguió leyendo. Dio otra vuelta. A la altura del parachoques dejó de caminar.
 
 Kal lo oyó antes de levantar la vista: las botas ya no sonaban. Marisol tenía la hoja a media altura y los ojos quietos en una línea, y no contaba nada con los dedos.
 
@@ -83,7 +83,7 @@ Marisol lo miró un momento y volvió al papel.
 
 —Se burla de ti antes de saludarte —le dijo al motor—. A mí, de niño, cuando mi padre me llevó a su casa, me preguntó si venía a robar o a cenar, y que en los dos casos me lavara las manos. Lleva diez años adentro por algo que no hizo.
 
-—Tengo una clase de eso. Los martes, con un señor que nunca ha pisado un reclusorio. —Pateó una llanta de paso—. Nat dice que nunca has ido a verlo.
+—Tengo una clase de eso. Los martes, con un señor que nunca ha pisado una cárcel. —Pateó una llanta de paso—. Nat dice que nunca has ido a verlo.
 
 Kal le dio media vuelta a la tuerca.
 
@@ -95,7 +95,7 @@ Kal le dio media vuelta a la tuerca.
 
 No era eso. La dejó creerlo: salía más barato que lo otro.
 
-Marisol dobló la hoja, la metió en el sobre y dejó el sobre en el guardabarros, con una llave de tuercas encima para que no se volara. Después se sentó en la defensa del auto de al lado.
+Marisol dobló la hoja, la metió en el sobre y dejó el sobre en el guardabarros, con una llave de tuercas encima para que no se volara. Después se sentó en el parachoques del auto de al lado.
 
 —¿Tú qué haces hoy?
 
@@ -123,7 +123,7 @@ Kal volvió a leerla.
 
 —¿Y qué mitad sí necesitas?
 
-—Yo no dije que hubiera una mitad. Tú eres el que lee a la gente, ¿no? Lee. —Se levantó de la defensa—. Y esta semana me hago un *balayage*, para que vayas preparando la cara.
+—Yo no dije que hubiera una mitad. Tú eres el que lee a la gente, ¿no? Lee. —Se levantó del parachoques—. Y esta semana me hago un *balayage*, para que vayas preparando la cara.
 
 —¿Un qué?
 
@@ -189,7 +189,7 @@ Terminal Road olía a diésel y a sal vieja. De noche era una sola recta de reja
 
 Salió entre el Mercury y la primera patrulla, y levantó el pie para que lo vieran bien.
 
-—*Central, treinta y uno. Se me metió un... Es el Peugeot. Tengo al Peugeot, Central.*
+—*Central, treinta y uno. Se me metió un… Es el Peugeot. Tengo al Peugeot, Central.*
 
 —*Treinta y uno, usted va tras un Mercury con reporte de robo.*
 
@@ -199,7 +199,7 @@ Salió entre el Mercury y la primera patrulla, y levantó el pie para que lo vie
 
 En el espejo, las dos torretas se le pegaron. El Mercury siguió solo, hacia los muelles, cada vez más chico. En toda la historia del Departamento nadie había ascendido por alcanzar un Mercury.
 
-—Se fueron —dijo Nadir, desde el asiento—. Se fueron las dos. Hamdulillah, khoya, wallah, te debo...
+—Se fueron —dijo Nadir, desde el asiento—. Se fueron las dos. Hamdulillah, khoya, wallah, te debo…
 
 Kal dejó que la treinta y uno se le emparejara. Nadie había llegado nunca tan cerca, y al del volante había que darle algo que mirar. Era un rubio de uniforme, con el cuello abierto y una sola mano en el volante, que se había metido por el carril contrario para ganarle el costado y venía sonriendo, como si le hubieran dado el mejor turno del año. Volteó, a cuatro metros y a ochenta millas, y Kal volteó también, con las dos espirales. La sonrisa tardó en irse.
 
@@ -207,7 +207,7 @@ Kal dejó que la treinta y uno se le emparejara. Nadie había llegado nunca tan 
 
 —*¿Qué cosa?*
 
-—*Blanca. Gorda. Con ojitos. Es... Central, es un malvavisco.*
+—*Blanca. Gorda. Con ojitos. Es… Central, es un malvavisco.*
 
 —*Repita, treinta y uno.*
 
@@ -221,7 +221,7 @@ La veintisiete era la otra Crown Victoria, y de las cuatro con llantas que no pa
 
 Kal soltó el aire dentro del hule.
 
-—Ya, Danny —estaba diciendo Nadir, en el asiento, con otra voz—. Ya no viene nadie. Mira atrás. Suelta, ya no viene nadie. Danny. Khoya, es el último, es el muelle cinco, ¿para dónde...? Danny. Frena. Frena. *Frena...*
+—Ya, Danny —estaba diciendo Nadir, en el asiento, con otra voz—. Ya no viene nadie. Mira atrás. Suelta, ya no viene nadie. Danny. Khoya, es el último, es el muelle cinco, ¿para dónde…? Danny. Frena. Frena. *Frena…*
 
 Fue un ruido largo y después uno corto. Después, nada: el disco y la frecuencia.
 
@@ -259,11 +259,11 @@ La treinta y uno se había sacado la reja de la aduana y venía con un faro de m
 
 No frenó.
 
-El rubio se metió de un salto y la puerta de la patrulla se cerró de golpe. La defensa llegó por la izquierda y el contenedor por la derecha, enorme, lleno de óxido. Algo le pasó a lo largo de la puerta del copiloto con un sonido de uña sobre un plato.
+El rubio se metió de un salto y la puerta de la patrulla se cerró de golpe. El parachoques llegó por la izquierda y el contenedor por la derecha, enorme, lleno de óxido. Algo le pasó a lo largo de la puerta del copiloto con un sonido de uña sobre un plato.
 
 Salieron.
 
-—*Central, se me fue. ...No, Central, por un lado. ...Por el lado que no había.*
+—*Central, se me fue. …No, Central, por un lado. …Por el lado que no había.*
 
 Kal bajó el volumen. Tomó la primera subida hacia el norte, apagó las luces y se sacó la máscara, con el pelo empapado. El disco acabó y volvió a empezar. En el asiento, entre las cajas, el teléfono llevaba un rato sin decir nada. Cuando pudo, a oscuras, buscó el número y marcó.
 
@@ -275,7 +275,7 @@ Cedar Flats quedaba a una hora, y el Peugeot frenaba como una cama.
 
 Volvió con el asiento vacío y oliendo a cartón, tanteando el pedal en cada bajada. Kingsley Field pasó de lado, con las luces de pista prendidas para nadie. Cuando entró a la Almendra todavía no clareaba: las cortinas abajo, la calle sin un alma y un tren de carga detenido en las vías, con la máquina respirando.
 
-Metió el Peugeot detrás del taller y le echó la lona encima, con la raya de la puerta contra la pared. El sillón del techito estaba vacío. Se talló los brazos en el lavadero, con jabón de taller, hasta donde el jabón llegaba, se puso la camisa limpia que guardaba en la oficina y tomó la carpeta del Departamento, que llevaba una semana lista. Después sacó una grúa y bajó otra vez al Puerto Viejo, porque una grúa era lo único que podía pasar por ahí sin que nadie volteara.
+Metió el Peugeot detrás del taller y le echó la lona encima, con la raya de la puerta contra la pared. El sillón del techito estaba vacío. Se frotó los brazos en el lavadero, con jabón de taller, hasta donde el jabón llegaba, se puso la camisa limpia que guardaba en la oficina y tomó la carpeta del Departamento, que llevaba una semana lista. Después sacó una grúa y bajó otra vez al Puerto Viejo, porque una grúa era lo único que podía pasar por ahí sin que nadie volteara.
 
 Amanecía gris sobre Terminal Road. A la reja de la aduana le faltaba un tramo, y en el lavado de tráileres un muchacho recogía los conos. En la boca del muelle cinco había cinta amarilla, y una grúa del condado trataba de bajar el Mercury del borde; lo habían enganchado mal. Kal siguió de largo, a veinte millas, mirando las rejas, los contenedores y los durmientes de las vías hasta donde se acababa la calle. Dio dos vueltas. Marcó tres veces. Buzón. Un vigilante con un termo lo vio pasar las dos veces y siguió soplándole al café.
 
@@ -323,7 +323,7 @@ Kal se tomó un momento. Le ardían los ojos.
 
 —Los coches no hablan.
 
-—Hablan todo el tiempo. Solo que no en inglés.
+—Hablan todo el tiempo. Sólo que no en inglés.
 
 Keene casi sonrió. Casi. Tomó por fin la taza, probó el café frío y la dejó en su lugar.
 
@@ -433,7 +433,7 @@ Héctor sacó una llave Allen del bolsillo de la camisa, la miró a contraluz y 
 
 —Héctor, a Garrett le confiaría mi vida. Como ya le he hecho muchas veces.
 
-Héctor no se rió.
+Héctor no se rio.
 
 —Eso fue con Russell.
 
@@ -473,7 +473,7 @@ Había cinco personas en el local: una mujer con uniforme de farmacia, dos de la
 
 —Usted debe ser Mercer.
 
-—Ese no es de aquí —dijo Mabel, sin bajar la voz.
+—Ése no es de aquí —dijo Mabel, sin bajar la voz.
 
 —Ya me di cuenta —dijo Kal.
 
@@ -517,7 +517,7 @@ No podía despreciar la puerta.
 
 —Nueve es nueve.
 
-Matteo lo miró dos segundos y se rió con ganas. Se puso de pie y sacó la cartera.
+Matteo lo miró dos segundos y se rio con ganas. Se puso de pie y sacó la cartera.
 
 —Las seis órdenes del señor van por mi cuenta.
 

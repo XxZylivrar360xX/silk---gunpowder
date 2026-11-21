@@ -63,13 +63,13 @@ Ya se había dado vuelta cuando él volvió a hablar, en el mismo tono parejo co
 
 No era lo que decía siempre. Chiara no se volvió. Subió por la misma escalera por la que había bajado.
 
----
+***
 
 El día lo pasó en el despacho que había sido de Matteo, haciendo lo que hacía cualquier otro día, porque el Monarch no sabía que Kal estaba detenido y no tenía por qué saberlo. Firmó la nómina del fin de semana. Rechazó una propuesta de un proveedor de licores con una frase que le salió más seca de lo que el proveedor merecía. Krane llamó a las once para decirle que había presentado una solicitud federal que nadie iba a contestar en semanas, y que la había presentado igual, por si un día hacía falta demostrar que se había presentado.
 
 Lucía no llamó.
 
-A la una y media de la mañana Chiara bajó otra vez al piso. El Monarch estaba en su hora más llena, la de los que ya habían perdido lo que traían y seguían jugando con lo que no traían, y el ruido le llegó antes que la luz: fichas, risas de mesa, el campanazo de una tragamonedas que pagaba poco y anunciaba mucho. En la fila de la caja había hombres con botas de trabajo y camisas de manga larga abotonadas hasta el cuello, de las que se compran por paquete. Uno llevaba todavía el gafete colgado del cinturón, con la cara hacia adentro.
+A la una y media de la mañana Chiara bajó otra vez al piso. El Monarch estaba en su hora más llena, la de los que ya habían perdido lo que traían y seguían jugando con lo que no traían, y el ruido le llegó antes que la luz: fichas, risas de mesa, el campanazo de una tragamonedas que pagaba poco y anunciaba mucho. En la fila de la caja había hombres con botas de trabajo y camisas de manga larga abotonadas hasta el cuello, de las que se compran por paquete. Uno llevaba todavía la credencial colgada del cinturón, con la cara hacia adentro.
 
 Chiara esperó a que la fila se vaciara. Cuando llegó a la ventanilla, puso las dos fichas de la mañana sobre el mostrador.
 
@@ -93,7 +93,7 @@ Kenji le pasó los billetes por la ranura. Cincuenta, exactos.
 
 Chiara guardó los billetes en el bolso sin doblarlos. Kenji ya estaba mirando al siguiente de la fila.
 
----
+***
 
 La campanita de La Esquina de Mabel sonó cuando Chiara empujó la puerta, a las seis y cuarenta de la mañana, y dentro nadie dejó de hablar. Bajaron el volumen medio tono y siguieron.
 
@@ -109,7 +109,7 @@ Los de la barra no levantaron la cabeza. El taxista terminó su café, dejó una
 
 —¿Quién le dijo? —preguntó Chiara.
 
-—Nadie. Él desayuna aquí. Si no desayuna aquí, está enfermo o está en otro lado, y no se enferma. —Mabel acomodó las rebanadas en una charola con la punta del cuchillo—. Y Nadir vino el otro día a comprar cigarros. Nadir no fuma.
+—Nadie. Él desayuna aquí. Si no desayuna aquí, está enfermo o está en otro lado, y no se enferma. —Mabel acomodó las rebanadas en una bandeja con la punta del cuchillo—. Y Nadir vino el otro día a comprar cigarros. Nadir no fuma.
 
 Chiara tomó un trago de café. Estaba quemado. Lo tomó igual.
 
@@ -145,7 +145,7 @@ La puso junto a la taza de Chiara.
 
 La última comida de Mabel le había llegado en papel aluminio, de manos de Kal, un jueves de Acción de Gracias.
 
-Chiara apartó la bolsa un par de centímetros. Mabel la regresó a su lugar sin mirarla, recogió la taza vacía de un cliente y la echó al fregadero.
+Chiara apartó la bolsa un par de centímetros. Mabel la devolvió a su lugar sin mirarla, recogió la taza vacía de un cliente y la echó al fregadero.
 
 —Le voy a hablar hoy en la tarde, antes de que entre. Ella decide. Si dice que no, es no, y no te la vas a encontrar de casualidad en ningún estacionamiento.
 
@@ -159,7 +159,7 @@ Chiara la miró.
 
 Chiara dejó un billete debajo de la taza y salió con la bolsa de estraza en la mano. No se la comió, pero tampoco la tiró.
 
----
+***
 
 Mabel llamó a las cinco de la tarde.
 
@@ -171,7 +171,7 @@ Mabel llamó a las cinco de la tarde.
 
 Colgó.
 
----
+***
 
 Chiara volvió a la Torre Norte a las ocho y media, a cambiarse de ropa por primera vez en el día. El vestíbulo tenía la luz amarilla de siempre, la que hacía que todo el mármol pareciera recién lavado, y el recepcionista de la noche, un muchacho de pelo cortado al ras que estudiaba algo los fines de semana, se puso de pie cuando la vio entrar.
 
@@ -203,7 +203,7 @@ Chiara no se movió del mostrador. El muchacho la miraba esperando algo que le p
 
 —Quiero ver la grabación —dijo Chiara.
 
----
+***
 
 El cuarto de seguridad estaba en el sótano, detrás de una puerta sin letrero, y olía a café de máquina y a la electricidad caliente de doce pantallas encendidas a la vez. El guardia de turno era un hombre mayor, de los que el Monarch contrataba porque habían sido policías y ya no querían serlo. Buscó la fecha sin preguntar para qué, en un teclado que tenía las letras borradas de tanto uso.
 
@@ -241,7 +241,7 @@ Kal Mercer en la puerta de su casa a las siete de la tarde. Kal Mercer, horas de
 
 El guardia la miró por primera vez desde que había entrado.
 
-—Señora Bellandi, el reglamento dice treinta días de...
+—Señora Bellandi, el reglamento dice treinta días de…
 
 —Ese día. Ese pasillo. Esos cinco minutos. —Chiara no levantó la voz—. Si alguien pregunta, la cámara falló. Le firmo lo que haga falta.
 
@@ -249,7 +249,7 @@ El guardia sostuvo la mirada un momento. Después se volvió hacia el teclado de
 
 Chiara se quedó hasta que la barra de la pantalla llegó al final. Después le dio las gracias, subió al penthouse, se cambió de ropa y no se sentó en la sala.
 
----
+***
 
 A la mañana siguiente, a las seis y cuarenta, la campanita de La Esquina sonó y Mabel le puso el café en el extremo de la barra. Después la miró y movió la cabeza una vez, de un lado al otro.
 
@@ -267,7 +267,7 @@ El 28 Mabel no movió la cabeza. Puso la taza en la barra, se limpió las manos 
 
 —Dice que mañana —dijo, bajo—. A la salida del turno, del lado de la tapia que da al Cutoff, no en la entrada. Y que no llegues en ese carro tuyo.
 
----
+***
 
 Bonnie llegó al despacho esa noche a las once, y no llegó sola.
 
@@ -319,7 +319,7 @@ Chiara tenía una pluma en la mano. La dejó sobre el escritorio, alineada con e
 
 —A las cuatro, Bonnie —dijo—. Aquí abajo, en la salida de carga.
 
----
+***
 
 El coche de Bonnie era un Civic de un color que había sido rojo, con un asiento de pasajero que no terminaba de enderezarse. Olía a aromatizante de vainilla y a gasolina. Bonnie manejó por la autopista del norte sin radio, con las dos manos en el volante, y no habló hasta que dejaron atrás las últimas luces de los almacenes de Lomas.
 
@@ -367,7 +367,7 @@ Chiara no preguntó cuál. Esperó.
 
 —Mercer —dijo Rosaura—. Con un número que no me aprendí.
 
-Una de las mujeres de la tapia se rió fuerte de algo. Un camión de la empresa, vacío, pasó por el Cutoff hacia la ciudad, y el aire que levantó trajo otra vez el olor del almidón.
+Una de las mujeres de la tapia se rio fuerte de algo. Un camión de la empresa, vacío, pasó por el Cutoff hacia la ciudad, y el aire que levantó trajo otra vez el olor del almidón.
 
 —Si mandan ropa a lavar, es que alguien se la está poniendo —dijo Rosaura—. Eso es todo lo que sé.
 
@@ -399,9 +399,9 @@ Rosaura la miró un momento más, con la cara de quien no se cree del todo una c
 
 —Se lo iba a pedir —dijo—. Pero está bien que no.
 
-Se dio la vuelta y caminó hacia la parada del camión, del otro lado del Cutoff, con la bolsa colgada del hombro y las manos rojas metidas en los bolsillos del suéter.
+Se dio la vuelta y caminó hacia la parada del autobús, del otro lado del Cutoff, con la bolsa colgada del hombro y las manos rojas metidas en los bolsillos del suéter.
 
----
+***
 
 Chiara volvió al Civic y cerró la puerta. Bonnie no encendió el motor.
 

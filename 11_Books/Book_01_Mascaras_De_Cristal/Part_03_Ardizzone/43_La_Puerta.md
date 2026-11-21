@@ -44,7 +44,7 @@ Se vistió rápido: la ropa que se ponía cuando el día iba a terminar tarde, b
 
 Salió antes de las ocho, dejando la taza sin lavar en el fregadero, y bajó al Patio con la radio apagada.
 
----
+***
 
 El Patio ya tenía movimiento. Nadir estaba con Danny junto a la grúa, contando algo en voz baja que no sonaba a dinero por primera vez en mucho tiempo. Héctor estaba sentado en el capó de siempre, con una taza que humeaba, mirando hacia la calle como si esperara que Kal llegara a esa hora.
 
@@ -56,7 +56,7 @@ El Patio ya tenía movimiento. Nadir estaba con Danny junto a la grúa, contando
 
 —¡Jefe! —Danny levantó los dos brazos desde la grúa, con una llave en cada mano—. Si hoy sale bien, te lavo la grúa. Por dentro. Bueno, la cabina.
 
-Kal le contestó con la barbilla, y Danny se rió solo y volvió a lo suyo. Kal se acercó a Héctor, que no se movió del capó.
+Kal le contestó con la barbilla, y Danny se rio solo y volvió a lo suyo. Kal se acercó a Héctor, que no se movió del capó.
 
 —Todo listo —preguntó Héctor.
 
@@ -124,7 +124,7 @@ Completas. Para Varek, que las había comprado primero. Y a Crowe, al final de u
 
 Faltaban horas para salir. Suficientes para una cosa más.
 
----
+***
 
 No lo pensó como una decisión. Fue más parecido a lo que le pasaba con el volante cuando manejaba sin pensar en la ruta: un reflejo que ya sabía adónde iba antes de que él terminara de saberlo. Le dijo a Nadir que volvía en un rato, subió al Peugeot y condujo hacia el centro sin decir a dónde.
 
@@ -148,11 +148,11 @@ Se quedó unos segundos más frente a la puerta. Movió los labios una vez, sin 
 
 No dejó ningún recado en recepción. No le escribió. No llamó.
 
-Bajó, cruzó el vestíbulo, subió al Peugeot y condujo de vuelta a La Almendra sin encender la radio. Para cuando llegó al Patio, ya estaba otra vez en lo que seguía: contó las cajas con Danny y le dio a Nadir la última versión de lo que nadie iba a escribir.
+Bajó, cruzó el vestíbulo, subió al Peugeot y condujo de vuelta a la Almendra sin encender la radio. Para cuando llegó al Patio, ya estaba otra vez en lo que seguía: contó las cajas con Danny y le dio a Nadir la última versión de lo que nadie iba a escribir.
 
 Nadie le preguntó dónde había estado. Héctor lo miró bajar del coche un segundo más de lo normal, y no dijo nada.
 
----
+***
 
 Salieron después de la medianoche, en dos vehículos, sin luces innecesarias, y llegaron al perímetro de Camp Alder con tiempo de sobra para esperar. Desde ahí, entre los árboles, la base era una línea de cercas y luces bajas contra un cielo sin luna. Más adentro, bajo reflectores blancos, se recortaban los techos de los hangares. El aire olía a polvo y a pasto seco.
 
@@ -188,7 +188,7 @@ Dario había vendido ruido para una carga. La segunda iba a salir de lo que sobr
 
 Alcanzaba. Hasta que dejó de alcanzar.
 
----
+***
 
 Danny llevaba la última caja contra el pecho, la más pesada, y a la salida del galpón el borde le pegó en un poste de metal. No fue mucho. Un golpe seco, de los que en el Patio nadie habría oído, y en ese silencio sonó como un portazo.
 
@@ -242,7 +242,7 @@ Contestó lo indispensable, dejó que lo esposaran, y se quedó callado el resto
 
 En algún tramo de esa carretera, o de otra, alguien iba a mirar el reloj una vez más antes de llamar a Crowe. Kal no supo cuál. Tampoco le importó.
 
----
+***
 
 No llevaba ni dos horas en una celda municipal cuando llegaron los otros hombres.
 
@@ -254,7 +254,7 @@ Lo sacaron esposado, lo metieron en otro vehículo, distinto al primero, y condu
 
 Nadie le dijo a dónde iba.
 
----
+***
 
 Cruzaron la garita de Camp Alder poco antes del amanecer. Un guardia comprobó algo en una pantalla, dijo algo que Kal no alcanzó a oír del todo, y la reja se abrió el ancho justo para que pasara el vehículo. Por la ventanilla, con la primera luz, Kal vio lo que de noche había sido una línea de luces: alambre, tierra seca, los hangares bajos, todo del mismo gris.
 

@@ -94,7 +94,7 @@ Si hubiera preguntado, no se lo habría dicho.
 
 Matteo llegó a las cuatro y dos, con un abrigo de cachemira encima de la camisa del pijama y los zapatos sin calcetines. Entró hablando.
 
-—Me llamó la central, me dijeron robo, les dije qué robo, si en ese despacho no hay nada que valga la pena... —Vio abiertas las puertas del mueble y se calló. Después vio a Chiara y volvió a empezar, más rápido—. ¿Tocaste algo? No toques nada. La policía va a querer... No. Primero... ¿La abrieron? ¿Cómo que la abrieron? Si nadie tiene...
+—Me llamó la central, me dijeron robo, les dije qué robo, si en ese despacho no hay nada que valga la pena… —Vio abiertas las puertas del mueble y se calló. Después vio a Chiara y volvió a empezar, más rápido—. ¿Tocaste algo? No toques nada. La policía va a querer… No. Primero… ¿La abrieron? ¿Cómo que la abrieron? Si nadie tiene…
 
 —Tenían la combinación.
 
@@ -108,7 +108,7 @@ Matteo metió la mano en el hueco, como si el libro pudiera seguir ahí y fueran
 
 —Matteo.
 
-—Chiara, eran las... —Bajó la voz, aunque estaban solos—. Si esto llega a Palermo... Si se enteran de que salieron de mi caja, no de la de Dario, de la mía... Tengo que llamar. No. No puedo llamar a nadie. *Madonna.* Tengo que...
+—Chiara, eran las… —Bajó la voz, aunque estaban solos—. Si esto llega a Palermo… Si se enteran de que salieron de mi caja, no de la de Dario, de la mía… Tengo que llamar. No. No puedo llamar a nadie. *Madonna.* Tengo que…
 
 Chiara oyó *Palermo* y la cuenta se le hizo sola, en el orden en que se la habían dejado hecha hacía poco, en una colina. Primero lo que iba para Italia. Después el casino. Después Matteo, que estaba de rodillas en el piso de su propio despacho, que en ese orden quedaba tercero y que no tenía por qué saberlo.
 
@@ -118,7 +118,7 @@ Chiara oyó *Palermo* y la cuenta se le hizo sola, en el orden en que se la hab�
 
 —Tenemos quince minutos y ya se fue la mitad —dijo ella—. Lo que está en el video no se puede borrar y no lo vamos a tocar. Dos hombres, una caja abierta y una bolsa. Eso pasó. Lo que todavía no pasó es cuánto había adentro.
 
-—Había...
+—Había…
 
 —¿Cuánto subió Kenji esta noche?
 
@@ -128,7 +128,7 @@ Matteo parpadeó. Le costó un segundo volver a un número que se pudiera decir 
 
 —Ochenta y dos mil cuatrocientos. —Lo había firmado ella misma, a las dos y cuarto—. Eso es lo que había.
 
-—Chiara. Había trescientos y...
+—Chiara. Había trescientos y…
 
 —Había ochenta y dos mil cuatrocientos, Matteo. Lo demás no estaba ayer en ningún libro y hoy no va a estar en ninguno. Si mañana aparece en un reporte de la policía, alguien va a preguntar de dónde salió. Y después, qué más guardabas.
 
@@ -160,7 +160,7 @@ Kal llegó a las cuatro y treinta y cinco, por la costera sur, en la grúa.
 
 Chiara lo vio bajar la rampa de carga desde la puerta de la bahía, adonde se había escapado de los patrulleros con la excusa de las llaves del lote de atrás. El Audi había vuelto lavado hacía unos días. Si venía en la grúa, había dejado el Audi en el patio a propósito: el Audi era para lo de los dos, y la grúa para lo que tenía que parecer trabajo. A las cuatro y media de la mañana, en la bahía de un casino con dos patrullas en la puerta, un hombre en una grúa era un proveedor al que habían llamado por un auto.
 
-Estacionó junto a los contenedores de la lavandería. El guardia de la caseta ya ni le pedía el gafete. Bajó, la vio y no apuró el paso.
+Estacionó junto a los contenedores de la lavandería. El guardia de la caseta ya ni le pedía la credencial. Bajó, la vio y no apuró el paso.
 
 —Señora Bellandi.
 
@@ -182,7 +182,7 @@ Charles lo retrocedió. Esta vez Chiara miró la pantalla, para ver lo que él e
 
 Kal no dijo nada.
 
-—No los vimos entrar —dijo Charles, por fin—. Los vimos adentro. La escalera tiene un punto ciego y nadie... Yo no sabía que la escalera tenía un punto ciego.
+—No los vimos entrar —dijo Charles, por fin—. Los vimos adentro. La escalera tiene un punto ciego y nadie… Yo no sabía que la escalera tenía un punto ciego.
 
 —Alguien sí —dijo Kal.
 
@@ -222,7 +222,7 @@ No llevaba uniforme. Llevaba lo mismo que en la sala de interrogatorios: pantal�
 
 El muchacho levantó la vista hacia el candelabro del lobby y se le olvidó bajarla. Después la bajó, y encontró a Chiara.
 
-—Buenos días, señora. —Se acomodó la gorra—. Oficial Voss. Si necesita algo, lo que sea, café, que alguien la lleve a su casa...
+—Buenos días, señora. —Se acomodó la gorra—. Oficial Voss. Si necesita algo, lo que sea, café, que alguien la lleve a su casa…
 
 —Voss.
 
@@ -290,7 +290,7 @@ Lucía miró el borde de la lámina un rato largo. No la tocó.
 
 Matteo tardó medio segundo más de la cuenta.
 
-—Papeles. Pólizas, el seguro del edificio, los contratos de los artistas del salón, la escritura de... Cosas de la casa. Nada que alguien se lleve.
+—Papeles. Pólizas, el seguro del edificio, los contratos de los artistas del salón, la escritura de… Cosas de la casa. Nada que alguien se lleve.
 
 —¿Falta algo?
 
@@ -342,7 +342,7 @@ Tommaso no dijo nada más. Charles esperó a que alguien le dijera que se fuera,
 
 —Con la combinación —dijo Tommaso cuando se cerró la puerta. Giraba el anillo de sello con el pulgar, sin mirar a nadie—. Sin forzar. Sin probar. Matteo, ¿quién más la tiene?
 
-—Nadie. —Matteo se había cambiado. Traje gris, corbata, la cara lavada; el pijama se le notaba en otra parte—. Yo. Solamente yo. La cambio cada... la cambié cuando llegamos. Y no está escrita en ningún lado, si eso es lo que...
+—Nadie. —Matteo se había cambiado. Traje gris, corbata, la cara lavada; el pijama se le notaba en otra parte—. Yo. Solamente yo. La cambio cada… la cambié cuando llegamos. Y no está escrita en ningún lado, si eso es lo que…
 
 —¿Quién lo ha visto abrirla?
 

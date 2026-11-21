@@ -82,7 +82,7 @@ Chiara no contestó enseguida. Miró por la ventana del despacho. Del otro lado 
 
 Chiara se quedó con el auricular en la mano. Del otro lado esperaron un momento, por cortesía, y colgaron.
 
----
+***
 
 A las cinco menos cinco cruzó el Paseo a pie.
 
@@ -102,7 +102,7 @@ No le tendió la mano. Le señaló el otro sillón. En la mesa había un servici
 
 Por la ventana se veía el Monarch completo. No la entrada, que desde el piso once quedaba escondida detrás de las palmeras, sino el edificio entero: el hotel viejo de los años veinte, color hueso, con sus cornisas y su reloj sin manecillas, y encima, saliendo de él como si lo hubiera atravesado, la torre de vidrio. Desde ahí se veía también la Torre Norte, y la línea de ventanas del último piso, y Chiara supo cuál era la del penthouse sin tener que contarlas. En julio, desde la colina, la había encontrado igual.
 
-—Construyeron los dos el mismo año —dijo Valenti. Le sirvió café sin preguntarle si quería—. Este y el que está debajo de su torre. Mil novecientos veinticuatro. El mismo arquitecto, me dicen, aunque no lo he podido confirmar. Eran hermanos. Uno para los que llegaban en tren y otro para los que llegaban en barco.
+—Construyeron los dos el mismo año —dijo Valenti. Le sirvió café sin preguntarle si quería—. Éste y el que está debajo de su torre. Mil novecientos veinticuatro. El mismo arquitecto, me dicen, aunque no lo he podido confirmar. Eran hermanos. Uno para los que llegaban en tren y otro para los que llegaban en barco.
 
 Chiara no lo sabía.
 
@@ -166,7 +166,7 @@ Chiara no contestó. Valenti la dejó no contestar. Se sirvió más café, le of
 
 —Il Consorzio puede muchas cosas que no hace. Y confía en que la casa Ardizzone tampoco las haga por su cuenta.
 
----
+***
 
 Valenti se puso de pie y fue a la ventana. Se quedó ahí con las manos detrás de la espalda, mirando el Monarch, y Chiara, desde el sillón, lo vio de perfil contra la luz naranja.
 
@@ -204,7 +204,7 @@ La reja del elevador se abrió. El botones la sostuvo.
 
 —Buenas tardes, signora Ardizzone.
 
----
+***
 
 Cruzó el Paseo con el semáforo en rojo.
 
@@ -218,7 +218,7 @@ Atravesó el lobby. El ruido de las máquinas le llegó desde la sala de juego c
 
 En el elevador de la Torre Norte apretó el botón de su despacho, no el del penthouse.
 
----
+***
 
 A las nueve y media tocaron a la puerta.
 
@@ -244,9 +244,9 @@ Chiara no contestó. Fabrizio miró el escritorio: la carpeta de la nómina, el 
 
 —Ya no.
 
-—Ya, ya. —Se rió, una risa corta, y miró la ventana, el letrero dorado del hotel de enfrente encendido sobre el Paseo—. Aquí no. Aquí comes como si te fueran a cobrar el plato. ¿Sigue siendo tuya la terraza?
+—Ya, ya. —Se rio, una risa corta, y miró la ventana, el letrero dorado del hotel de enfrente encendido sobre el Paseo—. Aquí no. Aquí comes como si te fueran a cobrar el plato. ¿Sigue siendo tuya la terraza?
 
----
+***
 
 La terraza sur estaba helada. Alguien de mantenimiento había envuelto los dos limoneros en arpillera, igual que las palmeras del Paseo, y había amarrado la tela con cuerda, y los dos árboles parecían dos personas esperando con la cabeza tapada. Fabrizio pidió por teléfono a la cocina que les subieran uno de los calentadores de gas que se usaban en el muelle para los banquetes de invierno; no preguntó si se podía. Lo encendió él mismo, se quemó un dedo, se lo metió en la boca y siguió hablando con el dedo en la boca.
 
@@ -276,7 +276,7 @@ Chiara no le dijo nada. Comió otro bocado. Fabrizio miró el puerto y la dejó 
 
 —Alguien tiene que firmar.
 
-—Alguien. —No discutió—. Giada perdió un diente la semana pasada y quería saber si el ratón de aquí paga en dólares o en euros. Ganó Giada: en euros, porque el diente es italiano. —Se rió—. Nico quiere ser portero de hotel cuando sea grande. Por los guantes.
+—Alguien. —No discutió—. Giada perdió un diente la semana pasada y quería saber si el ratón de aquí paga en dólares o en euros. Ganó Giada: en euros, porque el diente es italiano. —Se rio—. Nico quiere ser portero de hotel cuando sea grande. Por los guantes.
 
 —Es buen oficio.
 
@@ -330,7 +330,7 @@ Se agachó y apagó el calentador. El ruido de soplete se cortó y el frío subi
 
 Chiara se quedó en la terraza hasta terminarse lo que quedaba, frío, con los brazos cruzados sobre el saco, mirando el barco grande que no se movía.
 
----
+***
 
 El martes llovió en la mañana y paró a mediodía. El Paseo se quedó brillando, con charcos en las juntas de la acera que reflejaban las palmeras de cabeza.
 

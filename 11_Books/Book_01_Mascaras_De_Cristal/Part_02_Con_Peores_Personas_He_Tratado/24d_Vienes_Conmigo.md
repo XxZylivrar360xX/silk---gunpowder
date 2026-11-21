@@ -110,7 +110,7 @@ Chiara esperó a que el elevador se cerrara detrás de él antes de soltar el ai
 
 ***
 
-Tenía el Audi en la calle de atrás, frente a unas casas, y no en el estacionamiento del hospital. Kal se lo explicó sin que ella preguntara, en la banqueta, mientras le abría la puerta: cualquiera con una credencial de Dario había tenido tres días para ponerle un micrófono o un localizador.
+Tenía el Audi en la calle de atrás, frente a unas casas, y no en el estacionamiento del hospital. Kal se lo explicó sin que ella preguntara, en la acera, mientras le abría la puerta: cualquiera con una credencial de Dario había tenido tres días para ponerle un micrófono o un localizador.
 
 En el auto, Chiara apoyó la cabeza contra el reposacabezas con cuidado y cerró los ojos.
 
@@ -370,7 +370,7 @@ Ahora tenía un vendaje en la nuca, un caballo muerto junto a una cerca, una car
 
 —Déjame en un motel —dijo—. Hay tres sobre esta carretera. Pago en efectivo, no doy nombre, no salgo del cuarto. Una semana. A nadie se le ocurre buscarme en un sitio así.
 
-Kal se rió. No mucho, pero se rió.
+Kal se rio. No mucho, pero se rio.
 
 —Un motel, dice ella. —Metió la palanca—. Tú vienes conmigo. El golpe te dejó peor de lo que pensé si de verdad crees que te voy a soltar en una carretera después de esto. Nos vamos al barrio.
 
@@ -408,7 +408,7 @@ Chiara se quedó sentada en la orilla de la cama, con el abrigo todavía puesto.
 
 —Bien. Entonces ven a la cama. O sea… tú entiendes.
 
-Kal se rió del comentario mientras se sentaba de su lado de la cama, con la almohada todavía bajo el brazo.
+Kal se rio del comentario mientras se sentaba de su lado de la cama, con la almohada todavía bajo el brazo.
 
 Cuando se le acabó la risa, Chiara bajó la mirada.
 
