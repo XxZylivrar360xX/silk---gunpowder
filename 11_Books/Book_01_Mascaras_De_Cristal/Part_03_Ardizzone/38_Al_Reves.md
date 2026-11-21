@@ -509,15 +509,15 @@ Ella cerró los ojos un segundo.
 
 Ella abrió los ojos. Kal le vio pasar por la cara tres o cuatro objeciones, ordenadas, cada una con su razón, y no le oyó decir ninguna.
 
-—A la una —dijo ella por fin.
+—A la una —dijo ella por fin—. Y no voy a esperar a nadie al pie de la escalerilla, Kal. Ni a ti.
 
-—A la una.
+Kal asintió como si le hubieran dado la hora de una cita.
 
-—Necesitas pasaporte.
+—Necesitas pasaporte. —Ya no era la voz de antes; era la de las juntas, la que hacía listas cuando lo demás no se dejaba ordenar—. ¿Dónde lo tienes?
 
-—Está en el loft.
+—En el loft.
 
-—¿Vigente?
+—Entonces hay que pasar por el loft antes, y que esté vigente, porque en Palermo nadie te va a sellar nada por simpático, y si está vencido…
 
 —Chiara.
 

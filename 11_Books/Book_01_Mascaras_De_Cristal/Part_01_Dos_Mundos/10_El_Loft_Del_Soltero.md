@@ -223,19 +223,13 @@ Arriba entró al primer cuarto, volvió al pasillo y se asomó por la ventana in
 
 —¿Qué quieres poder ver desde aquí?
 
-—La sala. La entrada. La puerta de atrás, si se puede.
+—La sala. La entrada. La puerta de atrás, si se puede. —No miraba el recorte de la ventana; miraba el pasillo, contando pasos que ella no le veía dar—. Y abajo, poder moverme de la cocina a cualquiera de las dos salidas sin rodear muebles. Que nadie tenga que apretarse para pasar. Nada que se rompa si lo usamos de verdad.
 
-—¿Y abajo?
-
-—Moverme de la cocina a cualquiera de las dos salidas sin rodear muebles. Que nadie tenga que apretarse para pasar. Nada que se rompa si lo usamos de verdad.
-
-—¿Quién va a venir?
+—¿Quién va a venir? ¿Por la puerta de atrás también?
 
 —Los muchachos.
 
-—¿Por la puerta de atrás también?
-
-Kal sacó la cinta métrica y midió el marco de la ventana, que ya había medido.
+Contestó la primera pregunta y dejó la segunda donde estaba. Sacó la cinta métrica y midió el marco de la ventana, que ya había medido.
 
 Ella apoyó una mano en el mismo marco. Siguió con los ojos la línea de una viga y después señaló el piso bajo sus pies.
 
@@ -243,7 +237,7 @@ Ella apoyó una mano en el mismo marco. Siguió con los ojos la línea de una vi
 
 —Es el segundo piso.
 
-—Una parte. Deja el dormitorio atrás, junto al balcón. Abre lo demás sobre la sala.
+—Una parte, no todo; no me mires así. Deja el dormitorio atrás, junto al balcón, y abre lo demás sobre la sala. Desde arriba vas a ver la entrada y la puerta de atrás sin asomarte a ninguna ventana, que es lo que me acabas de pedir.
 
 Él volvió a mirar hacia abajo, esta vez como si el piso ya no estuviera.
 
@@ -255,9 +249,9 @@ Ella apoyó una mano en el mismo marco. Siguió con los ojos la línea de una vi
 
 —Sé cómo se llama.
 
-Kal esperó.
+Kal no dijo nada, y su silencio duró más que la mentira.
 
-—No sabía cómo se llamaba hace un segundo —admitió, y se tocó la sien sin darse cuenta.
+—No sabía cómo se llamaba hace un segundo —admitió, y se tocó la sien sin darse cuenta—. Todo lo que sé de obras lo aprendí en italiano. En español me falta media ferretería.
 
 —Se arregla.
 
@@ -265,11 +259,11 @@ Bajaron. Chiara se paró en medio de la sala y giró despacio sobre sí misma. S
 
 —Acero —dijo—. La escalera y la barandilla. Negro. Nada brillante.
 
-—Madera en los peldaños. El metal solo va a hacer eco cada vez que subas.
+—La barandilla, sí. En los peldaños, madera: el metal solo va a hacer eco cada vez que subas, y a las tres de la mañana lo va a oír toda la casa.
 
 —Danny sube con botas.
 
-—La escalera de servicio del Monarch es de roble. Le suben carritos de room service todo el día.
+—La escalera de servicio del Monarch es de roble y le suben carritos de room service todo el día, con botas, con tacones, con un mesero de cien kilos que corre porque se le enfría la sopa. Sigue entera.
 
 Kal lo apuntó en el folleto de la inmobiliaria. Después señaló el muro interior de la cocina.
 
@@ -307,21 +301,17 @@ Kal recorrió las partidas con un dedo y se detuvo en una hoja que no venía de 
 
 —Una condición.
 
-—Ochoa no tiene viga de ese tamaño —dijo Nadir desde la estufa.
+—Ochoa no tiene viga de ese tamaño —dijo Nadir desde la estufa, sin voltear—. Tiene varilla, cemento y block. La viga la va a pedir al norte, y el del norte le va a cobrar el flete, la prisa y que sea Ochoa. Un tercio más que con la empresa, por lo menos.
 
-—Que la pida.
+—Que la pida. Que se la cobren.
 
-—Se la van a cobrar más cara.
-
-—Que se la cobren.
-
-Nadir hizo una cuenta con los dedos contra la cubierta, sin decirla, y volvió a la olla. Kal pasó a la última hoja. Era la revisión de cargas del arquitecto, con el sello de pagado.
+Nadir hizo otra cuenta con los dedos contra la cubierta, ésa sin decirla, y volvió a la olla. Kal pasó a la última hoja. Era la revisión de cargas del arquitecto, con el sello de pagado.
 
 —Esto también.
 
 —Ya está.
 
-—La estructura la pago yo.
+—La estructura la pago yo. Lo que carga, lo que sostiene la casa. En lo demás opina lo que quieras, pero eso va a mi nombre.
 
 —No.
 
@@ -355,7 +345,7 @@ Chiara se quedó quieta. Después se llevó la mano a la oreja y ajustó un aret
 
 —Eso es una versión.
 
-—Sí.
+—Claro que es una versión. —Lo dijo sin ofenderse, como quien confirma una cifra—. Que un casino apoye una obra en el barrio no le extraña a nadie. Que una mujer le pague la casa a un hombre, sí. Las versiones sirven para eso, Kal: para que los demás tengan algo que repetir.
 
 —En mis cuentas queda como deuda.
 
@@ -363,11 +353,7 @@ Chiara se quedó quieta. Después se llevó la mano a la oreja y ajustó un aret
 
 Kal tomó el bolígrafo.
 
-—La cocina no se recorta.
-
-Chiara esperó, con la mano buena sobre la carpeta.
-
-—Y el balcón se queda.
+—La cocina no se recorta. —Esperó a que ella asintiera, y ella no asintió: esperó también, con la mano buena sobre la carpeta, porque faltaba algo—. Y el balcón se queda.
 
 —Ya lo anoté.
 
@@ -451,11 +437,7 @@ Caminaron la planta baja mientras los trabajadores medían los peldaños.
 
 —La barandilla del mezzanine va a la misma altura —dijo él.
 
-—Un poco más arriba junto a la cama.
-
-—Dijiste que no querías cerrar.
-
-—Quiero que desde el sofá no se vea la almohada.
+—Un poco más arriba junto a la cama. No mucho: una mano, lo que mide una almohada parada. —Se volvió hacia el hueco donde iba a ir la sala—. No quiero cerrar, ya te lo dije. Quiero que desde el sofá no se vea la almohada, y lo demás, que se vea todo.
 
 Kal fue hasta el lugar donde iría el sofá y miró desde ahí el borde del dormitorio suspendido. El jefe de obra, que había esperado con el lápiz en el aire, anotó.
 
@@ -493,17 +475,13 @@ Se lo devolvió con tanta seriedad que él tardó un segundo en reconocer sus pr
 
 Para el sofá le enseñó tres grises en una tableta.
 
-—Uno no cabe debajo del mezzanine. Otro se hunde al sentarte.
-
-—¿Y el otro?
-
-—Envejece bien.
+—Uno no cabe debajo del mezzanine. Otro se hunde al sentarte. El tercero envejece bien, que es lo único que le pido a un sofá y a casi todo lo demás.
 
 Kal miró las medidas, no la tela.
 
 —Puedo dormir ahí.
 
-—Tienes una cama.
+—Tienes una cama. —Lo dijo sin levantar la vista de la tableta, y después sí la levantó, porque algo en cómo lo había dicho él no era de sofás—. Arriba, con barandilla y todo. Te la diseñé yo.
 
 Eligieron el de color carbón.
 

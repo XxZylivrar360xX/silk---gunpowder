@@ -3,7 +3,11 @@
 **Tipo:** anti-patron de dialogo
 **Detectado en:** consulta del autor (2026-10-24: "falta de identidad", "dialogos roboticos"). Cap. 5 (coda; antes 05b), cuatro escenas: la bisagra (05b:188-210), el sobre (05b:222-240), el pasillo con Tommaso (05b:330-350), la caseta (05b:420-432); y, en la misma linea, la salida de carga (05b:48-54, triple eco "Esa sí... / Esa sale... / Ese sí..."). Numeracion previa a la cirugia. **Aplicada** en los Caps. 5 y 6 el 2026-10-24: [[98_Agent_Handoff/sessions/2026-10-24_claude_regla05_esticomitia_caps05-07]]; y en los Caps. 1-4 el mismo dia: [[98_Agent_Handoff/sessions/2026-10-24_claude_regla05_esticomitia_caps01-04]].
 **Nombre:** *esticomitia* es el duelo clasico de replicas de una linea alternadas (tragedia griega, Shakespeare). Como forma no es defecto. En talleres de escritura el vicio se llama *dialogo de ping-pong* o *de partido de tenis*.
-**Estado:** DISENO del agente, a pedido del autor.
+**Estado:** DISENO del agente, a pedido del autor. **PROHIBICION (DECISION DEL AUTOR, 2026-11-21):** desde esta fecha el dialogo ping-pong queda prohibido en toda la saga, sin excepciones: las interacciones entre personajes se escriben como conversaciones. Las excepciones de abajo quedan **revocadas** (se conservan tachadas solo como historial).
+
+## Umbral operativo (2026-11-21)
+
+Es ping-pong, y hay que reescribirlo, cuando aparecen **cinco o mas replicas seguidas de catorce palabras habladas o menos**, alternadas, y lo unico que las separa son beats de una linea. Detector: `python tools/editorial/pingpong_audit.py` (sin dependencias; da archivo y lineas). El detector marca candidatos; la prueba final es la de esta regla: si se tapan los nombres y suena a una sola maquina, o si cada linea solo contesta y remata, es ping-pong aunque no llegue al umbral. Al reescribir: las lineas CANON DEL AUTOR se conservan literales y la conversacion se construye alrededor.
 
 ## El patron
 
@@ -43,11 +47,13 @@ Antes de tocar lineas: que siente cada uno en la escena (matriz de registro emoc
 7. **Cortar el eco.** Si la replica recoge la palabra del otro para voltearla, preguntar si es caracter o mecanica. Es arma de Tommaso ("Usted ha dicho eso. Yo no."); en los demas, una vez por escena como mucho.
 8. **Cortar la replica.** A veces la mejor respuesta es no hablar: gesto o silencio en lugar de la linea. El beat sigue la regla de puesta en escena 04: tiene que hacer algo.
 
-## Excepcion
+## Excepcion (REVOCADA, 2026-11-21)
 
-- **Sequedad como relacion.** Kal con Nadir, Hector o Danny: el ping-pong **es** la amistad (ver `staging_rules/04-dialogo-de-guion-sin-anclaje.md`). **Afinado (autor, 2026-11-02, apertura del Cap. 5: "muy plana", "lectura de guion"):** la sequedad es la voz de **Kal**, no la de la escena. Su gente le habla largo segun su ficha (Nadir calcula en voz alta y cobra; Danny se encima y se adelanta; Russ da dias, horas y por que) y Kal contesta corto, contesta otra cosa o no contesta. Si los dos lados van igual de secos durante mas de seis u ocho turnos, aplica la regla. Cuando hay que contar lo que paso, lo cuenta quien lo vivio: si otro lo deduce entero, suena a oraculo.
-- **Esgrima breve.** Cuatro a seis lineas donde la velocidad es la tension, siempre que las dos voces sigan distinguibles y no rematen las dos.
-- **Grieta ya pagada.** Si en la misma escena una voz ya se rompio, el tramo siguiente puede correr seco sobre ese credito.
+Ninguna de estas excepciones vale ya. Lo que sobrevive de la primera: la sequedad es la voz de **Kal**, no de la escena; Kal puede contestar corto, pero el otro lado habla segun su ficha y la escena es conversacion, no intercambio de remates.
+
+- ~~**Sequedad como relacion.**~~ Kal con Nadir, Hector o Danny: el ping-pong **es** la amistad (ver `staging_rules/04-dialogo-de-guion-sin-anclaje.md`). **Afinado (autor, 2026-11-02, apertura del Cap. 5: "muy plana", "lectura de guion"):** la sequedad es la voz de **Kal**, no la de la escena. Su gente le habla largo segun su ficha (Nadir calcula en voz alta y cobra; Danny se encima y se adelanta; Russ da dias, horas y por que) y Kal contesta corto, contesta otra cosa o no contesta. Si los dos lados van igual de secos durante mas de seis u ocho turnos, aplica la regla. Cuando hay que contar lo que paso, lo cuenta quien lo vivio: si otro lo deduce entero, suena a oraculo.
+- ~~**Esgrima breve.** Cuatro a seis lineas donde la velocidad es la tension, siempre que las dos voces sigan distinguibles y no rematen las dos.~~
+- ~~**Grieta ya pagada.** Si en la misma escena una voz ya se rompio, el tramo siguiente puede correr seco sobre ese credito.~~
 
 ## Relacion con otras reglas
 

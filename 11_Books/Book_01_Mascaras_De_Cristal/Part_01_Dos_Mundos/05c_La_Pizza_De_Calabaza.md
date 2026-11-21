@@ -90,13 +90,9 @@ Kal asintió. Tardó en saber qué hacer con las manos después de que le dijera
 
 Subió otro escalón y se volvió, con la carpeta otra vez contra el pecho.
 
-—¿Ése era el asunto?
+—¿Ése era el asunto? Porque me lo pudo haber dicho por teléfono, señor Mercer, y yo me habría ahorrado bajar con la carpeta.
 
-—Ése era.
-
-—Pudo habérmelo dicho por teléfono.
-
-—Pude.
+Kal pensó en decirle que por teléfono no se veía la rueda del carrito. No lo dijo.
 
 Ella esperó el resto. No hubo resto.
 
@@ -148,7 +144,7 @@ Kal la tomó y le dio la tortilla.
 
 Héctor lo miró de arriba abajo.
 
-—¿Y vas vestido así?
+—¿Y a la amiga la vas a ver así? —Le señaló con la barbilla la muñeca—. Al perro ya le enseñaste modales. Tú sigues con la grasa de la mañana.
 
 Kal bajó la vista. Camiseta, jeans, botas, grasa en la muñeca.
 
@@ -208,13 +204,11 @@ Héctor salió al patio, miró la camioneta y luego a Kal.
 
 —Sí.
 
-—Bien.
+Héctor le dio la vuelta despacio, le pateó una llanta y se asomó por el vidrio a las pantallas del tablero.
 
-Kal se sorprendió.
+—Bien. Si fuera tuya, tendría que preguntarte de dónde sacaste esa estupidez.
 
-—¿Bien?
-
-—Si fuera tuya, tendría que preguntarte de dónde sacaste esa estupidez.
+Kal no supo si eso era una bendición. Con Héctor casi nunca se sabía hasta después.
 
 ***
 
@@ -524,6 +518,8 @@ Chiara lo miró por encima de la copa.
 
 —Claro que me interesa. Por supuesto que sabe que me interesa.
 
+Lo dijo como lo habría dicho en una junta, y a media frase se le olvidó que no estaba en una.
+
 —Bueno. Soy culpable por quitarle un poco de trabajo de encima.
 
 —Para nada. Yo creo que hasta debería estar agradecida.
@@ -538,7 +534,7 @@ No hablaron de Dario, salvo cuando Kal preguntó, mirando el pan:
 
 —¿Él sabe que está aquí?
 
-—Él sabe todo lo que firma la mesa.
+—Él sabe todo lo que firma la mesa. Lo que no pasa por la mesa lo adivina, y lo que adivina lo anota. A Dario no se le pasan las cosas.
 
 —¿Y esto?
 

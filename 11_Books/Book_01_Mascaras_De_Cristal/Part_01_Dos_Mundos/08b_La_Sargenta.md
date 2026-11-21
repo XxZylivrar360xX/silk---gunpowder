@@ -82,7 +82,7 @@ Kal sacó el codo de la ventanilla. Estiró la mano hacia la radio, que Chiara t
 
 —Ésa manda —dijo Chiara.
 
-—La teniente del turno de noche.
+—La teniente del turno de noche. Cuando habla ella, los demás dejan de pisarse. Cuando se calla, es que ya sabe algo.
 
 —¿La conoces?
 
@@ -94,7 +94,7 @@ Chiara le había visto la cara. No se lo dijo. Tampoco le dijo lo del medio segu
 
 —No trae motor —dijo, en cambio.
 
-—Está parada en algún lado. —Kal miró el espejo—. Oyendo.
+—Está parada en algún lado. —Kal miró el espejo—. Oyendo. Deja que los demás corran y ella se queda con el mapa.
 
 La mujer llamó a la unidad que los seguía por su número.
 
@@ -126,7 +126,7 @@ Kal no volteó.
 
 —¿Y se lo vas a cobrar?
 
-—Al Departamento. Tenemos convenio.
+—Al Departamento. Tenemos convenio. —Kal ni sonrió—. Arrastre desde cuneta, con tarifa nocturna. Y lo va a firmar él, en la hoja de la rotación.
 
 La lateral desembocó en otro asfalto, más angosto, con reflectores viejos en las orillas. Kal subió por él sin prisa aparente. El Peugeot no hacía ruido de huida; hacía ruido de trabajo.
 
@@ -162,7 +162,7 @@ Chiara se oyó reír, una vez, por la nariz.
 
 —Madonna.
 
-—Le dije que el martes —dijo Kal.
+—Le dije que el martes —dijo Kal, con la cara seria del que tenía razón y no la iba a cobrar—. Se lo dejé escrito en la hoja, con letra de molde.
 
 Después, en la radio, la teniente no dijo nada durante un segundo. Un segundo largo, de los que Chiara conocía de las juntas: el de alguien que hace cuentas que no le gustan.
 
@@ -414,11 +414,9 @@ El motor siguió tictaqueando.
 
 Kal se pasó una mano por la cara.
 
-—Íbamos séptimos. Y después ya no íbamos.
+—Íbamos séptimos. De cuarenta, más o menos. —Lo dijo como un dato de taller, sin orgullo y sin disculpa—. Y después ya no íbamos.
 
-—Séptimos. —Chiara lo pensó—. ¿De cuántos?
-
-—Cuarenta, más o menos.
+Chiara lo pensó con la seriedad con que revisaba un cierre de mes.
 
 —Eso es casi respetable.
 

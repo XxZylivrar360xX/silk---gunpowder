@@ -51,11 +51,13 @@ Kal encontró la tuerca.
 
 —El lunes.
 
+Marisol dejó de caminar el tiempo justo para hacer la cuenta, y Kal vio que la guardaba para después.
+
 —¿Nat ya sabe?
 
 —Estuvo en la audiencia. Le pedí que me lo dejara a mí.
 
-—Claro que le pediste. ¿Héctor?
+—Claro que le pediste. Tú pides que te dejen las cosas y luego las cargas en la chaqueta hasta que se arrugan. —Alisó la hoja contra el capó con la palma, para que él la viera—. ¿Héctor?
 
 —Mañana.
 
@@ -203,11 +205,7 @@ En el espejo, las dos torretas se le pegaron. El Mercury siguió solo, hacia los
 
 Kal dejó que la treinta y uno se le emparejara. Nadie había llegado nunca tan cerca, y al del volante había que darle algo que mirar. Era un rubio de uniforme, con el cuello abierto y una sola mano en el volante, que se había metido por el carril contrario para ganarle el costado y venía sonriendo, como si le hubieran dado el mejor turno del año. Volteó, a cuatro metros y a ochenta millas, y Kal volteó también, con las dos espirales. La sonrisa tardó en irse.
 
-—*Central. Trae una cosa en la cabeza.*
-
-—*¿Qué cosa?*
-
-—*Blanca. Gorda. Con ojitos. Es… Central, es un malvavisco.*
+—*Central, trae una cosa en la cabeza. Blanca, gorda, con unos ojitos… No es casco. Es… Central, es un malvavisco.*
 
 —*Repita, treinta y uno.*
 
@@ -355,7 +353,7 @@ Kal miró el semáforo que acababa de ponerse en rojo.
 
 —Conseguí tres meses.
 
-—Hamdulillah. Al menos con eso tenemos ingreso fijo para las máquinas de pintura.
+—Hamdulillah. Al menos con eso tenemos ingreso fijo para las máquinas de pintura. —Algo de metal cayó del otro lado y Nadir no lo levantó—. ¿Cuántas unidades? No, espera, no me digas. Pocas, y con el puerco revisando cada factura, yak.
 
 —¿Sigues con eso de la estética de los autos?
 
@@ -437,13 +435,7 @@ Héctor no se rio.
 
 —Eso fue con Russell.
 
-—Y con Garrett.
-
-Héctor siguió mirando la tierra. Kal sacó la carta del bolsillo interior.
-
-—Llegó esto.
-
-Héctor miró el sobre antes de mirarlo a él.
+Kal no le discutió. Sacó la carta del bolsillo interior y se la tendió por encima de la cerca, sin decir qué era. Héctor miró el sobre antes de mirarlo a él.
 
 —Es de Walt. El juez aprobó la libertad condicional. Va a salir. Mañana.
 

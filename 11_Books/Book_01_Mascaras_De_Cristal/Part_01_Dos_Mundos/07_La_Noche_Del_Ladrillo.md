@@ -322,7 +322,7 @@ Chiara no contestó. Blake dio un paso más cerca, y algo en la cara se le puso 
 
 —No se trata de eso.
 
-—Entonces sí hay un «eso».
+—Entonces sí hay un «eso». Yo no lo dije, ¿eh? Lo dijiste tú solita, y en voz alta.
 
 Chiara se oyó a sí misma un segundo tarde y odió lo rápido que él sonrió al notarlo.
 
@@ -334,7 +334,7 @@ Chiara se oyó a sí misma un segundo tarde y odió lo rápido que él sonrió a
 
 Blake se rio, sin nada de humor en la risa.
 
-—Increíble. Ni siquiera lo niegas.
+—Increíble. Ni siquiera te molestas en negarlo. Te traigo aquí, te presento con todo el mundo, y ni siquiera te molestas.
 
 —No tengo que darte explicaciones de con quién me río.
 
@@ -528,9 +528,7 @@ Afuera, donde empezaba el asfalto, se detuvo.
 
 —Estamos a mano, señor Amrani.
 
-Nadir miró a Danny, que iba adelante oliéndose las manos.
-
-—Salió barato.
+—Salió barato. —Nadir siguió con los ojos a Danny, que iba adelante oliéndose las manos—. Un favor del Monarch, y lo gasté en un caballo viejo a las cuatro de la mañana. En mi familia me dirían que no sé negociar. Ninguno ha visto reírse a Russ.
 
 —Ciao, tesoro.
 

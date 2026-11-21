@@ -227,11 +227,13 @@ Kal sacó la cartera, contó de su dinero lo que faltaba, lo metió en la caja y
 
 —Ya sé.
 
-—En abonos. Doscientos por semana. Trescientos cuando… —Se interrumpió—. Cuando se pueda.
+—En abonos. Doscientos por semana. Trescientos cuando… —Se interrumpió—. Cuando se pueda. Y con interés, khoya. El que cobre el banco, el que tú digas, pero con interés, porque si no es un regalo y yo no te pedí un regalo.
 
 —Doscientos está bien.
 
-—Me sale caro.
+Nadir esperó la otra mitad de la respuesta, la del interés, con la cuenta ya hecha en la cara. No llegó.
+
+—Así me sale caro —dijo al fin.
 
 —Te sale lo que costó.
 
@@ -293,7 +295,7 @@ La muchacha estaba sentada en el guardafango, con las manos en los bolsillos de 
 
 Esperó un segundo.
 
-—El primero salió una fila antes —dijo, sin cambiar de cara—. La próxima, la fila es mía.
+—El primero salió una fila antes —dijo, sin cambiar de cara—. No fue el coche. Ese día ya traía un cilindro que no daba, y aun así. La próxima, la fila es mía.
 
 —¿Qué se te ofrece?
 

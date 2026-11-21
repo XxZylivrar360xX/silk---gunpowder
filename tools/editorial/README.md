@@ -86,3 +86,13 @@ python -B -m unittest tools.editorial.tests.test_prolepsis
 ```
 
 `libro_01_completo.json` lista los 47 capítulos vigentes con su número de capítulo (nuevo cauce, 2026-11-08). El dictamen humano vive en `13_Auditorias/Book_01_Mascaras_De_Cristal/Audit_Prolepsis_Libro_I.md`.
+
+## Detector de ping-pong (2026-11-21)
+
+`pingpong_audit.py`, solo lectura y sin dependencias. Marca tramos de cinco o más réplicas seguidas de ≤14 palabras habladas (regla de diálogo 05; el ping-pong está prohibido desde el 2026-11-21 por DECISIÓN DEL AUTOR). Marca candidatos; el juicio final lo da la regla.
+
+```
+python tools/editorial/pingpong_audit.py             # Libro I
+python tools/editorial/pingpong_audit.py --book 2    # Libro II
+python tools/editorial/pingpong_audit.py RUTA.md --min 5 --maxw 14
+```

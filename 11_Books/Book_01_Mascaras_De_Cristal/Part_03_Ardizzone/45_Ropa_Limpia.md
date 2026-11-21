@@ -279,11 +279,7 @@ Meiko asintió una vez. No se sentó. Caminó hasta el ventanal que daba al piso
 
 Bonnie sí se sentó, en la silla frente al escritorio, la que había sido de los visitantes de Matteo. Tenía ojeras y el pelo recogido de prisa, y no había preguntado nada por teléfono: Chiara le había dicho *te necesito esta noche* y Bonnie había dicho *voy*.
 
-—La última vez me dijo que se me había acabado la parte —dijo Bonnie.
-
-—Lo sé.
-
-—Sólo para que conste.
+—La última vez me dijo que se me había acabado la parte —dijo Bonnie—. Que gracias y hasta ahí. Me fui, no le llamé a nadie y no pregunté nada. Sólo para que conste.
 
 Chiara no lo discutió. Tampoco le explicó por qué la había llamado.
 
@@ -305,7 +301,7 @@ Chiara no contestó a eso. Le explicó lo de la lavandería, y cuando terminó, 
 
 —¿Y si la mujer no quiere hablar cuando nos vea? —preguntó Meiko.
 
-—Entonces me voy —dijo Chiara.
+—Entonces me voy —dijo Chiara—. No voy a obligar a nadie a hablar en el estacionamiento de su trabajo, con sus compañeros fumando en la tapia. Si no quiere, me subo al coche y ella nunca me vio.
 
 Meiko se dio vuelta entonces. Miró a Chiara desde el ventanal, con la luz del piso de juego subiéndole por detrás, y ladeó un poco la cabeza.
 

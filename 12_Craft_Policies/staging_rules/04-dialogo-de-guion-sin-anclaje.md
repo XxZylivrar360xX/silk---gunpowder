@@ -24,13 +24,15 @@ Esta novela lee el poder y la intimidad en lo pequeño: quien mira primero, quie
 
 ## Como evitarlo
 
-1. **Alarma, no cuota.** Mas de seis u ocho turnos seguidos sin nada fisico es señal para releer, no obligacion de insertar. Si el intercambio se sostiene por ritmo y voz, se deja (ver Excepcion).
+1. **Alarma, no cuota.** Mas de seis u ocho turnos seguidos sin nada fisico es señal para releer, no obligacion de insertar. Si el intercambio se sostiene por ritmo y voz, se deja, salvo que sea ping-pong (prohibido desde 2026-11-21, regla de dialogo 05).
 2. **El beat tiene que hacer algo.** Vale si cumple al menos una: situa el lugar (ruido, objeto, luz concreta de ese sitio); cambia el tema o el poder; marca una pausa que el lector tiene que sentir; siembra algo que se cobra despues. Si no hace ninguna, es relleno de guion.
 3. **Conducta antes que veredicto.** Si el hueco lo llena un juicio interior ("Otra vez tenía razón"), probar primero un gesto que produzca esa conclusion en el lector. El juicio queda solo si es voz del POV y no certifica lo que la linea ya hizo (ver `editorial/EDITORIAL_POLICY.md`, certificacion posterior).
 4. **Anclar en el lugar del POV.** En llamadas y mensajes, el cuerpo que se ve es el de quien escucha: donde esta, que mira mientras el otro habla (Chiara frente a la ventana con la ciudad abajo).
 5. **Un beat, bien puesto.** Uno que caiga justo antes de la linea que importa rinde mas que tres repartidos parejo.
 
 ## Excepcion
+
+**REVOCADAS (DECISION DEL AUTOR, 2026-11-21):** el dialogo ping-pong queda prohibido sin excepciones; ver umbral en `../dialogue_rules/05-esticomitia-de-una-sola-voz.md`. Las dos de abajo quedan solo como historial.
 
 - **Sequedad como voz.** Los intercambios cortos de Kal con Nadir, Hector o Danny ("¿Casino?" / "Mercedes.") son caracterizacion: el ping-pong **es** la relacion. No se rompen para cumplir la regla. Vale para el arranque o el chiste, no para la escena entera: ver el afinado del 2026-11-02 en `../dialogue_rules/05-esticomitia-de-una-sola-voz.md`.
 - **Esgrima breve.** Un duelo de cuatro a seis lineas donde la velocidad es la tension pierde filo si se interrumpe. (Antes citaba a Chiara y Tommaso en el pasillo; retirado el 2026-10-24 por decision del autor: entre ellos manda su ficha, sin duelo de epigramas. Ver `../dialogue_rules/05-esticomitia-de-una-sola-voz.md`.)

@@ -148,11 +148,11 @@ Estaba lavada. Era lo único limpio en todo el Patio: la carrocería oscura sin 
 
 —¿Para qué está así esa camioneta? —preguntó Chiara.
 
-—Para nada.
+—Para nada. —Nadir le pasó la palma por el cofre, como quien enseña mercancía—. Está lavada, señora, eso es todo. Uno lava las cosas. Una cubeta, una manguera, una hora; si quiere le lavo el Lancia y le hago precio.
+
+Chiara no se rio. Dijo sólo su nombre, y no como pregunta:
 
 —Nadir.
-
-—Para nada, señora. Está lavada. Uno lava las cosas.
 
 —Díselo —dijo Héctor, desde el capó.
 

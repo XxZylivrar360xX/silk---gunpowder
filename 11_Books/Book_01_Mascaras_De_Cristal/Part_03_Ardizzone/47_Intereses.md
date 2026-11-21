@@ -48,19 +48,13 @@ Héctor estaba en el capó del Ford. Esta vez se bajó.
 
 —Desde las tres —dijo Héctor—. Garrett le puso el letrero de cerrado a la puerta para que nadie lo despierte. Se le olvidó que la puerta es de vidrio.
 
-—¿Comió?
+Chiara miró a Nadir un rato más de lo que hacía falta: la camisa, el libro, la boca abierta.
 
-—Se comió lo mío. —Héctor se limpió las manos con el trapo, aunque no las tenía sucias—. La niña se va mañana al monte.
+—¿Comió algo? Ayer no probó nada, y anoche dudo que alguien se haya acordado de ponerle un plato enfrente.
 
-Chiara asintió.
+—Se comió lo mío. —Héctor se limpió las manos con el trapo, aunque no las tenía sucias—. La niña se va mañana al monte. No sé qué le dijo usted.
 
-—No sé qué le dijo —dijo Héctor.
-
-—La verdad.
-
-—¿Toda?
-
-—La que había.
+—La verdad. —Chiara se acomodó el abrigo sobre el saco, encima de las llaves—. No toda, si es lo que me va a preguntar. Le dije la que había. La otra no la tiene nadie todavía, y no le iba a dar a esa niña una versión que mañana tuviera que corregirle.
 
 Héctor la miró un momento más, con la cara de quien hace una cuenta y no le da, y decidió que le daba suficiente. Se volvió a sentar en el capó.
 
@@ -132,15 +126,15 @@ Garrett había sacado una libreta del bolsillo de la camisa. No escribía en ell
 
 —En la grúa grande —dijo Chiara—. Con un coche arriba, como cualquier remolque de una noche de Año Nuevo. Que se estacionen afuera del portón de la bodega, en la calle, con el motor prendido. Nadie se baja. Nadie entra. —Miró a Danny, después a Nadir—. Si no salgo en una hora, se regresan. Con todo.
 
-—¿Y usted? —preguntó Danny.
+—¿Y usted? —preguntó Danny. Se había sacado del capó con la llave todavía en la mano—. Porque eso de que nadie se baje está muy bien para nosotros, que vamos a estar abajo oyendo el motor. Usted va a estar allá adentro con ese señor y con su gente.
 
 —Yo salgo.
 
-—Eso no es lo que le pregunté.
+—Eso no es lo que le pregunté, señora.
 
-Chiara no le contestó.
+Chiara no le contestó. Danny esperó un segundo, se rio sin ganas y dejó la llave sobre el guardafango.
 
-—Yo manejo la grúa —dijo Danny.
+—Bueno. Entonces yo manejo la grúa. La grande me la sé mejor que nadie aquí, pregúntele a quien quiera, menos a Héctor.
 
 Nadir ya estaba buscando su chaqueta en el perchero de la oficina.
 

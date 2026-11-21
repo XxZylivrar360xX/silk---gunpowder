@@ -222,11 +222,11 @@ Chiara no le dijo que lo sentía. No le buscó la mano. Se quedó sentada a su l
 
 —Gracias —dijo ella, sin más.
 
-—¿Por qué?
+Kal esperó lo que venía siempre detrás de esa palabra, la frase para que el otro se sintiera mejor, y no vino. Tuvo que voltear a verla.
 
-—Por no decírmelo bonito.
+—Por no decírmelo bonito. —Chiara seguía mirando abajo, hacia la Almendra—. Lo bonito se cuenta para que uno firme algo.
 
-Kal la miró.
+Kal buscó qué contestar a eso y encontró lo único que era cierto.
 
 —No sabría cómo.
 
@@ -454,13 +454,9 @@ Venía de abajo, de las dos, y ya sonaba a costumbre. La cama estaba vacía del 
 
 —Ese café huele demasiado bien para ser mío —dijo Kal, sirviéndose una taza sin preguntar.
 
-—No es tuyo. —Marisol no levantó la vista de la sartén—. Ése lo hice pensando en Chiara. El tuyo está allá.
+—No es tuyo. —Marisol no levantó la vista de la sartén. Le dio la vuelta a lo que tenía en el fuego y señaló con la espátula, por encima del hombro, un vaso desechable escondido detrás del frutero—. Ése lo hice pensando en Chiara. El tuyo está allá, todavía tibio, te lo compré en el norte. Y no me veas así, que ya sé, de paso me disculpo: usé el Audi.
 
-Señaló un vaso desechable, todavía tibio, escondido detrás del frutero.
-
-—Te compré uno en el norte. Y de paso, me disculpo: usé el Audi.
-
-Kal se quedó con la taza a medio camino de la boca.
+Kal se quedó con la taza ajena a medio camino de la boca.
 
 —¿Te dio tiempo de todo eso?
 

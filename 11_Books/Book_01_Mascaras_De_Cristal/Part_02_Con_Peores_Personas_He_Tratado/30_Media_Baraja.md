@@ -213,7 +213,7 @@ Kal no lo negó. No explicó el truco, y Chiara no se lo pidió. Conocía al emp
 
 —Mi gente opera bajo mi nombre. Y mi nombre queda bajo el suyo.
 
-—¿Toda tu gente?
+—¿Toda tu gente? —Chiara hizo la cuenta en voz baja, como hacía con las listas de invitados: quién entra, quién se queda fuera, quién se entera después—. Porque tu gente es medio barrio, Kal.
 
 —La que yo reconozca como mía.
 
@@ -227,7 +227,7 @@ No era pregunta, y Kal no la contestó.
 
 —Ni siquiera le di el nombre.
 
-—Eso no toca lo de Halbrook —dijo.
+—Y nada de eso toca lo de Halbrook —dijo—. Me explico: lo que pusiste en la mesa es tu gente, y lo que necesitas es una base al noreste. No es la misma cuenta.
 
 —No. No toca el expediente, no toca el papel, no toca Camp Alder. Compra presión local. Gente. Si alguien intenta algo contra Nadir en esta ciudad, primero tiene que pasar por Varek. Nada más.
 
@@ -391,7 +391,7 @@ Chiara se quedó quieta un segundo, haciendo el mismo cálculo que él ya había
 
 —Voy a hablar con ella.
 
-—¿Y qué le vas a decir?
+—¿Y qué le vas a decir? Porque Marisol no es Nadir, Kal. A Marisol no la pones bajo ningún nombre sin que te pida el contrato.
 
 Kal no contestó enseguida.
 

@@ -66,15 +66,11 @@ Chiara la reconoció antes de oír el nombre. *Una subjefa. Sin uniforme. Con un
 
 El apellido le llegó después que todo lo demás, y pesó más. Varek, como Dario. Chiara no movió nada de la cara.
 
-—Sí. La puerta ya estaba abierta cuando llegué.
+—Sí.
 
-—¿Forzada?
+Lucía no hizo la pregunta siguiente. Esperó, con la pluma quieta sobre la carpeta, y Chiara conocía ese silencio de otras mesas: se dejaba ahí para ver qué lo llenaba. Lo llenó de todos modos, en orden, porque el orden era lo único que tenía a mano.
 
-—No que yo haya visto.
-
-—¿Faltaba algo en la casa?
-
-—No entré a fijarme. Él estaba en el suelo.
+—La puerta ya estaba abierta cuando llegué. Forzada no, que yo haya visto. No entré a fijarme si faltaba algo; él estaba en el suelo, junto al portón, y lo demás no me pareció urgente.
 
 Lucía anotó algo breve.
 

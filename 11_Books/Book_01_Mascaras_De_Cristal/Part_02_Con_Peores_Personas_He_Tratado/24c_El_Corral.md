@@ -222,11 +222,11 @@ Voss abrió el formulario en la pantalla y fue llenándolo con dos dedos, rápid
 
 Los dos dedos se quedaron quietos sobre el teclado.
 
-—¿La señora Bellandi? —Levantó la vista—. ¿Está bien?
+—¿La señora Bellandi? ¿La del Monarch? —Levantó la vista—. Yo estuve ahí, la mañana del robo. ¿Está bien? ¿Qué le hicieron?
 
 —Está en el Santa Aurelia.
 
-Voss asintió más veces de las necesarias.
+Voss asintió más veces de las necesarias, y siguió asintiendo mientras buscaba en el formulario una casilla donde poner eso.
 
 —Tranquilo, compañero.
 
@@ -244,7 +244,7 @@ Voss tecleó *disparo*, y después *animal (equino)*, y se quedó mirando la pan
 
 —Estaba en el taller.
 
-—¿Qué relación tiene con la víctima?
+—¿Qué relación tiene con la víctima? —Y enseguida, sin que nadie se lo pidiera—: Lo pregunta el sistema, no yo. Si no lo lleno, no me deja pasar a la siguiente.
 
 —Le arreglo el coche.
 
@@ -254,7 +254,7 @@ Voss escribió *mecánico* y no preguntó más.
 
 —El teléfono. La cartera. —Kal dejó pasar el tiempo justo de alguien que hace memoria—. Y un reloj de mujer. Caro.
 
-—¿Me lo puede describir?
+—¿Me lo puede describir? Marca, color, lo que se acuerde. Los relojes caros a veces aparecen en las casas de empeño, y si viene bien descrito, el de la casa de empeño llama.
 
 Se lo describió sin esfuerzo. Lo tenía a un palmo de la mano.
 

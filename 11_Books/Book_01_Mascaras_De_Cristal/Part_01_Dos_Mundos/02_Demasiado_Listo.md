@@ -209,11 +209,7 @@ Ella le permitió besarle ambas mejillas.
 
 —Fabrizio.
 
-—¿Comiste? Lo del avión no cuenta.
-
-—Comí.
-
-—No comiste. —Bajó la voz, como si Palermo pudiera oírlos desde ahí—. Tu madre me mataría.
+—¿Comiste? Lo del avión no cuenta. No, no comiste, se te ve en la cara, y no me digas que sí porque eso ya me lo dijiste en tres aeropuertos. —Bajó la voz, como si Palermo pudiera oírlos desde ahí—. Tu madre me mataría. A mí, no a ti. A ti te lo perdona todo.
 
 —Fabrizio.
 
@@ -251,13 +247,9 @@ Traje oscuro, postura impecable. Era calvo, y la cabeza la llevaba como llevaba 
 
 Le dio la mano a Fabrizio, a Tommaso, a Matteo. Cuando llegó a Chiara, la miró el tiempo exacto para que la cortesía pareciera atención y la atención pudiera pasar por inventario.
 
-—Signora Bellandi.
+—Signora Bellandi. Me alegra que haya llegado bien. San Aurelio puede ser confusa al principio.
 
-—Señor Varek.
-
-—Me alegra que haya llegado bien. San Aurelio puede ser confusa al principio.
-
-—Me dijeron que venía a dirigir.
+—Me dijeron que venía a dirigir, señor Varek, no a orientarme. Pero le agradezco el mapa.
 
 Varek sostuvo una sonrisa educada.
 
@@ -539,15 +531,15 @@ Fue el primero que se sentó. Los demás se fueron sentando después, cada uno c
 
 —Nueve es nueve.
 
-Fabrizio sonrió.
+Fabrizio sonrió y se inclinó sobre la mesa, encantado de tener por fin algo que contar.
 
-—Matteo dijo que diría algo así.
+—Matteo nos lo advirtió. Dijo: «Va a llegar a las nueve en punto, va a decir algo así y ustedes van a creer que es grosero. No es grosero. Es mecánico». Con esas palabras.
 
 —Matteo habla demasiado.
 
 Matteo se llevó una mano al pecho.
 
-—Me hieren en mi propia casa.
+—Me hieren en mi propia casa. Y después de que le mandé el coche.
 
 Chiara lo miró. Parecía saber que Kal no estaba jugando al gracioso; le estaba quitando brillo a la mesa para ver qué quedaba debajo.
 
@@ -703,13 +695,13 @@ La puerta se cerró detrás de él.
 
 Matteo no volvió a sentarse.
 
-—Podemos usarlo.
+—Podemos usarlo. Ya lo vieron: entró, se sentó antes que nadie y en diez minutos sabía más del edificio que el jefe de seguridad. Y eso que no le dimos plano. Yo digo que…
 
 —Podemos usar a veinte como él —dijo Tommaso.
 
 Chiara dejó que la frase respirara antes de tocarla.
 
-—Yo no he visto veinte como él.
+—Entonces que mañana traigan a uno, y los comparamos. Yo me quedo con el que llegue a las nueve en punto.
 
 Tommaso giró apenas la cabeza.
 
@@ -753,37 +745,31 @@ En la carretera de la costa, con el Monarch encogiéndose en el retrovisor, Kal 
 
 Nadir contestó al primer tono.
 
-—¿Y?
+—¿Y? No, espera, déjame adivinar por cómo respiras. Seis meses, tarifa de hotel y un italiano que te quiere pagar en fichas.
 
 —No hay contrato.
 
-—¿Por el traje?
+—¿Por el traje? Wallah, el azul con los tenis blancos… No te lo dije, khoya, pero lo pensé muy fuerte.
 
 —Por listo. «Demasiado listo», dijo uno.
 
-—¿Y eso allá es insulto?
-
-—Allá sí.
-
-—¿Te molestó?
+—¿Y eso allá es insulto? Aquí al listo le pagan más. Aquí el tonto es el que paga. —Se le oyó dejar algo de metal en una mesa—. ¿Y a ti te molestó? Porque si no te molestó, no sé para qué me llamas desde la carretera con esa voz, yak.
 
 —No. Desconfían de lo que funciona rápido. Yo también.
-
-—Entonces, ¿qué?
 
 Un camión lo rebasó por la izquierda y el Peugeot se sacudió con el aire. Kal tardó en contestar.
 
 —Había una mujer en la mesa. Preguntó por el porcentaje antes que nadie.
 
-—¿Y qué dijo del traje?
+—¿Antes que nadie? Entonces ésa es la que firma, aunque no firme. Siempre es la que pregunta el número. ¿Y qué dijo del traje?
 
 —Nada. No lo vio.
 
-—Todos ven el traje.
+—Todos ven el traje, khoya. Un traje así lo ve hasta un ciego, por el ruido.
 
 —Ella no.
 
-—Wallah. Perdiste el contrato. ¿Por lo menos estaba guapa?
+—Wallah. Perdiste un contrato con un casino, khoya, con un casino, y me llamas para hablarme de una mujer que no vio tu traje. ¿Por lo menos estaba guapa?
 
 Kal miró la carretera.
 

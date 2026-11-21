@@ -188,13 +188,9 @@ Colgó.
 
 El Audi siguió rodando sobre la grava. Chiara se quedó mirando el teléfono, después a él, después otra vez el teléfono.
 
-—Le colgaste a Varek.
+—Le colgaste a Varek. —No lo dijo como reproche. Lo dijo como quien anota una cifra que no cuadra—. Le dijiste que estabas en un momento muy tranquilo, Kal, y no has terminado una frase desde la destilería.
 
-—Le dije que le devolvía la llamada.
-
-—En un momento muy tranquilo.
-
-—Sí.
+Kal no lo discutió. Tampoco le recordó que había prometido devolver la llamada, aunque era lo único que tenía.
 
 —Bien. —Chiara se acomodó en el asiento con la espalda recta, como en una junta—. Vamos a comunicarnos. Empiezas tú.
 
@@ -246,7 +242,7 @@ No lo decidió. Su pie fue al freno antes de que el resto de él entendiera por 
 
 Kal empezó a mover el volante de un lado a otro, un centímetro, con el coche ya detenido y sin ninguna razón mecánica para tocarlo.
 
-—Estamos parados, Kal.
+—Estamos parados, Kal. Por mucho que le muevas, el coche no se va a ir a ningún lado.
 
 —Me relaja —dijo, sin soltarlo—. Yo no le tengo miedo al compromiso.
 
@@ -306,11 +302,7 @@ Marcó el primer número que encontró en la lista de recientes. Danny contestó
 
 —Lo que te quiero decir, Danny —Kal subió la voz sin querer—, es que yo no le tengo miedo a nada. Tú me conoces. Soy una persona muy comprometida.
 
-—Muy comprometido. Como con mi gato hidráulico, que me lo ibas a regresar en marzo.
-
-—Ése no es el tema.
-
-—Ni la carne asada de mi cumpleaños, que ibas a llevar el carbón.
+—Muy comprometido. Como con mi gato hidráulico, que me lo ibas a regresar en marzo, y ya ves. Y la carne asada de mi cumpleaños, que ibas a llevar el carbón y todavía te estamos esperando, jefe, con la parrilla prendida.
 
 —Danny.
 

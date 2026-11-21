@@ -85,9 +85,7 @@ Del otro lado sonaba un compresor y alguien gritaba un número de placa.
 
 —Ya llegó. —El compresor se apagó—. Buenos días.
 
-—Buenos días.
-
-Chiara miró el café. Ninguno de los dos colgó.
+Chiara no le devolvió el saludo. Se le quedó atorado entre el café y lo que de verdad había llamado a preguntar. Ninguno de los dos colgó.
 
 —¿Algo más, señora Bellandi?
 
@@ -101,21 +99,23 @@ Ella no había pensado en el coche. Seguía siendo de Varga, en un patio de Kal,
 
 —Paga el arrastre, paga dos días de piso, firma y se lo lleva.
 
-—Va a estar ahí.
+—Y usted va a estar ahí. Con él del otro lado de una ventanilla, a las diez de la mañana, después de lo de anoche.
 
 —Es un corralón.
 
+Lo dijo como si eso lo explicara todo, y para él a lo mejor lo explicaba.
+
 —¿Y el hombro?
 
-—¿Cuál hombro?
+Kal no contestó. Del otro lado se oyó, lejos, una puerta de lámina.
 
-—El que no usó anoche.
+—El que no usó anoche —dijo ella.
 
-Del otro lado, alguien dejó caer una llave contra el piso.
+Alguien dejó caer una llave contra el piso.
 
 —Luego.
 
-—Eso no es una respuesta.
+—Eso no es una respuesta. Es una cita sin fecha, y yo no acepto citas sin fecha ni de los proveedores.
 
 —Es la que tengo.
 
@@ -127,15 +127,11 @@ No encontró cómo terminar la frase de una forma que se pudiera decir por telé
 
 Kal esperó. No la ayudó.
 
-—¿Qué le dijo anoche?
-
-—¿A quién?
-
-—A Varga. Antes de que guardara el teléfono.
+—¿Qué le dijo anoche a Varga? Antes de que guardara el teléfono, cuando se le acercó.
 
 —Lo de la llanta.
 
-—Me refiero a otra cosa.
+—Eso lo oyó todo el que estaba en la rampa. Me refiero a lo otro, a lo que le dijo después, más bajo.
 
 —Pregúntemelo en otro momento.
 
@@ -155,7 +151,7 @@ Esta vez Kal tardó en contestar.
 
 Chiara miró la ciudad por el vidrio.
 
-—No.
+—No. Entonces el problema es Dario, y a Dario no se lo lleva una grúa.
 
 —¿Algo más?
 
@@ -209,7 +205,7 @@ Lo llevó por detrás de la caja, hasta el panel sin picaporte. El elevador priv
 
 —La escalera es buena idea —dijo él cuando se cerraron las puertas.
 
-—Los lentes también.
+—Los lentes también. Aunque de cerca se le ven los ojos, y eso no sé si lo tenía calculado.
 
 Ninguno de los dos se los quitó.
 
@@ -225,7 +221,7 @@ Chiara miró los números encenderse.
 
 Lo dijo con el brazo derecho quieto junto al cuerpo, como lo había traído desde el bar.
 
-—Ésa tampoco es una respuesta.
+—Ésa tampoco es una respuesta. Ya van dos, señor Mercer, y las dos sobre el mismo hombro.
 
 —Es otra.
 
@@ -235,13 +231,11 @@ Ya sabía la respuesta. Quería oír cuál le daba él.
 
 —Una copa.
 
-—¿Sólo una?
-
 Ella esperó. Él se acomodó los lentes con un dedo.
 
 —No me gusta el juego.
 
-—Está en un casino, señor Mercer.
+—Está en un casino, señor Mercer. Trabaja para uno, aunque sea con grúa, y vino vestido para que nadie en el piso se acuerde de haberlo visto.
 
 —Por eso fue una. —Las puertas se abrieron—. Mi amigo Walt sí jugó. Un par de manos de poker.
 
@@ -263,11 +257,7 @@ Chiara se sentó a un costado de la mesa, no en la cabecera. Kal no se sentó to
 
 —¿Qué cambió desde la otra noche?
 
-—Matteo está de acuerdo.
-
-—Matteo me trajo.
-
-—Los demás no ven un contrato largo. Ven prestación de servicios.
+—Matteo está de acuerdo, que no es mucho decir, porque fue Matteo el que lo trajo. Los demás no ven un contrato largo. Ven prestación de servicios: un proveedor con tarifa por acto, que nadie tiene que presentar en una cena.
 
 —Una grúa con factura.
 
@@ -285,15 +275,15 @@ Chiara dejó pasar un segundo más de lo cómodo.
 
 —¿Cuánto cambió?
 
-—Ciento cuarenta dólares.
+—Ciento cuarenta dólares, en fichas de cinco. Las contó dos veces en la ventanilla.
 
-—Para Walt, eso es ganar.
+—Para Walt, eso es ganar. Lo va a contar en la Almendra como si hubiera sido el triple, nadie le va a creer, y lo va a seguir contando.
 
 Chiara dejó la carpeta sobre la mesa, sin abrirla.
 
 —Me habló bien de usted.
 
-—¿Qué tan bien?
+Kal no preguntó qué tan bien. Esperó, y ella lo dejó esperar.
 
 —Dijo que era un buscavidas.
 
@@ -475,19 +465,15 @@ Chiara bebió vino.
 
 De regreso, en un semáforo de la costera, Blake tamborileó sobre el volante.
 
-—El domingo hay barbacoa en casa de Hendricks. Va todo el turno.
+—El domingo hay barbacoa en casa de Hendricks. Va todo el turno. Ya les dije que ibas.
 
 —El domingo no puedo.
 
 —¿Trabajas?
 
-—Monto.
+—Monto. A caballo. Hay un hipódromo detrás del Monarch, y los domingos no corre nadie.
 
-—¿Montas qué?
-
-—A caballo. Hay un hipódromo detrás del Monarch. Los domingos no corre nadie.
-
-—Ah, mira. —El semáforo cambió—. Hendricks hace unas costillas que no te imaginas.
+—Ah, mira. —El semáforo cambió—. Hendricks hace unas costillas que no te imaginas. Lleva diez años con la misma receta y no se la ha dado ni a su mujer. Yo creo que a mí me la va a dar, porque le caigo bien.
 
 Chiara miró por la ventanilla.
 
@@ -597,7 +583,7 @@ Tommaso miró a Kal, luego lo que ella traía en la mano, luego a ella.
 
 Chiara cerró la mano sobre la bisagra.
 
-—Incluye lo que yo autorice.
+—Es para la puerta de servicio del pasillo del lobby. No engancha desde la apertura. Está en el reporte de mantenimiento del martes, si lo quieres ver.
 
 Kal no intentó arreglarlo con palabras.
 
@@ -609,23 +595,17 @@ Tommaso esperó a que la pluma de la caseta volviera a bajar.
 
 —Estoy trabajando.
 
-—Eso dijiste antes.
-
-Chiara no le contestó.
-
 Tommaso sonrió tarde.
 
 —Alessio también decía eso.
 
-Chiara no le dio el gusto de tocarse el anular.
+Chiara no le dio el gusto de tocarse el anular. Tommaso lo miró de todos modos, como miraba siempre: el dedo, no la cara.
 
 —No vuelvas a traerlo a una conversación de proveedores.
 
-—No hablaba de proveedores.
+Tommaso se acomodó el puño de la camisa sin prisa y dejó de girar el anillo.
 
-Tommaso se acomodó el puño de la camisa sin prisa.
-
-—Varek me preguntó por ti la semana pasada. Por Palermo. Por cómo llegaste a estar disponible para este trabajo.
+—No hablaba de proveedores. Varek me preguntó por ti la semana pasada. Por Palermo. Por cómo llegaste a estar disponible para este trabajo.
 
 Chiara no se movió.
 
@@ -679,15 +659,11 @@ El guardia lo repitió en la radio.
 
 —Hablas chistoso —dijo el niño.
 
-—¿Chistoso cómo?
-
-—Así.
-
-—Soy de Italia.
+—Es que soy de Italia. —Le subió la manga del abrigo, que le tapaba la mano entera—. Allá todos hablan así, hasta los perros. Aquí la chistosa soy yo.
 
 —¿Eso está lejos?
 
-—Muy lejos, bambino.
+—Muy lejos, bambino. Tanto que para llegar hay que dormirse en el avión y despertarse otra vez.
 
 El niño lo pensó, sorbiéndose la nariz.
 
@@ -715,7 +691,7 @@ Se agachó. El hombro le dio un tirón; apoyó la mano izquierda en el piso y ba
 
 —¿Y eso? —Señaló la cicatriz con un dedo, sin acercarse.
 
-—Me lo hice trabajando.
+—Me lo hice trabajando. Hace mucho, lejos, en un lugar donde había más arena que aquí linóleo.
 
 —¿De qué?
 
@@ -727,7 +703,7 @@ El niño salió un poco de detrás de la rodilla.
 
 —¿De verdad? ¿De los que saltan de los aviones?
 
-—De los otros.
+—De los otros. De los que llegan caminando, después, cuando los de los aviones ya se fueron.
 
 —¿Y eras valiente?
 

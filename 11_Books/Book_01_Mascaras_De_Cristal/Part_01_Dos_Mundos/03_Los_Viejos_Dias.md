@@ -50,13 +50,11 @@ Héctor.
 
 La voz le salió más áspera de lo normal, pero no rota. Héctor no se rompía por teléfono. Si algo tenía que romperse, lo hacía con las manos.
 
-—Walt.
-
-—Sale a las diez.
-
-—Paso por ti.
+—Walt. Sale a las diez. Paso por ti, y no me salgas con una grúa, que hoy las grúas son de Omar.
 
 —Ya estoy afuera.
+
+No estaba afuera. Héctor dejó pasar el tiempo justo para que los dos lo supieran.
 
 —Te dije que pasaba por ti.
 
@@ -80,7 +78,7 @@ Apoyada en el capó de un Corolla gris, con los brazos cruzados, Natalie Keegan 
 
 —Son diez para las diez.
 
-—Yo llegué a las nueve.
+—Yo llegué a las nueve. Héctor, a las nueve y cuarto, con el pan. A las nueve y media ya me había preguntado tres veces si de verdad decía las diez.
 
 —Y se comió dos conchas —dijo Héctor.
 
@@ -172,11 +170,7 @@ Walt apartó los dedos.
 
 —Y tampoco le salía.
 
-Héctor le dio la bolsa de papel.
-
-—Pan.
-
-Walt miró adentro.
+Héctor le dio la bolsa de papel sin decir qué era. Walt la abrió y miró adentro como miraba todo ese día, primero lo que había cambiado: el papel, el sello de la panadería, el azúcar partida.
 
 —Diez años y me recibes con una concha fría.
 
@@ -188,7 +182,7 @@ Walt miró entonces las letras de la sudadera de su hija. Ya lo sabía; se lo ha
 
 —Bomberos.
 
-—Hace cuatro meses.
+—Hace cuatro meses. Paramédica primero; lo de la manguera vino después, porque faltaba gente.
 
 —Cuatro meses.
 
@@ -230,11 +224,7 @@ La radio entró a media nota: Plaza Corona, investigación en curso, el Departam
 
 —Jefe de policía.
 
-—Cuando entré ponía multas afuera del estadio.
-
-Escuchó hasta que la nota se terminó y bajó el volumen.
-
-—¿Quién lo mató?
+—Cuando entré ponía multas afuera del estadio. A mí me puso dos. —Escuchó hasta que la nota se terminó y bajó el volumen—. ¿Quién lo mató?
 
 —No se sabe.
 
@@ -282,7 +272,7 @@ Walt no se arrodilló. No lloró, al menos no de la manera que se nota desde lej
 
 —Me dijiste que le daba el sol.
 
-—En la tarde.
+—En la tarde. Desde las tres, más o menos, hasta que se mete detrás de los pinos. Yo vengo a esa hora.
 
 Walt asintió, como si eso fuera lo que había venido a comprobar.
 
@@ -290,11 +280,11 @@ Walt asintió, como si eso fuera lo que había venido a comprobar.
 
 —Desde que dos soldados tocaron la puerta. —Natalie miraba la piedra—. Tardaron tres días en pasarte al teléfono.
 
-—Tres días.
+—Tres días. —Lo dijo como quien regresa el cambio—. Tres días lo tuviste tú sola en la casa.
 
 —Comió —dijo Héctor, detrás de ellos—. Yo la vi.
 
-Walt miró la fecha un rato más. No subió la voz.
+Walt miró la fecha un rato más. Después, sin voltear, buscó a Kal con la voz donde se había quedado, dos hileras atrás. No la subió.
 
 —Nat me dijo que estabas con él.
 
@@ -332,7 +322,7 @@ Encontró a Jim esa noche, fumando solo detrás de las carpas de suministro.
 
 Jim no se dio la vuelta enseguida.
 
-—¿Vas a entregarlo?
+—¿Vas a entregarlo? —Le ofreció la cajetilla por encima del hombro, sin voltear todavía—. Si lo vas a entregar, fúmate uno antes. En la carpa del capitán no dejan.
 
 —Todavía no he decidido qué voy a hacer con él.
 
@@ -478,7 +468,7 @@ Walt miró el gesto.
 
 —¿Qué haces con estos?
 
-—Cuido que no se mueran de hambre.
+—Cuido que no se mueran de hambre, y que no regalen el trabajo. Las dos cosas cuestan más de lo que parece, señor Keegan.
 
 —Es cierto —dijo Natalie desde el refrigerador.
 
@@ -548,11 +538,7 @@ A la una y media, Natalie miró el reloj.
 
 —¿Hasta qué hora? —preguntó Walt.
 
-—Hasta mañana a las dos.
-
-—¿Veinticuatro horas?
-
-—Así son las guardias.
+—Hasta mañana a las dos. Veinticuatro horas; si hay un incendio grande, más. —Lo dijo como se dicen las cosas que ya no se discuten—. Así son las guardias.
 
 Walt no dijo nada. Kal vio pasar por su cara algo que no llegó a ser objeción.
 
@@ -586,11 +572,7 @@ Danny dejó de mover la pierna.
 
 —Un cargamento de hierba. Lo recogemos esta tarde en una bodega del norte y esta noche va a Nueve Puentes. Lo recibe la gente de Maya Ríos.
 
-—¿Cuadra Nueve? —dijo Nadir.
-
-—Cuadra Nueve.
-
-—¿Cuánto?
+—¿Cuadra Nueve? —Nadir ya estaba haciendo la cuenta con los dedos contra el escritorio—. Una hora de ida con la grúa cargada, otra de regreso, y la gasolina la ponemos nosotros, yak. ¿Cuánto?
 
 —Treinta mil. La mitad ya está en la caja.
 
@@ -622,7 +604,7 @@ Walt se quedó un momento con eso.
 
 Héctor soltó una risa seca.
 
-—¿Un poco?
+—¿Un poco? Le partiste el escritorio con una barreta, Keegan.
 
 —La libertad condicional me volvió moderado.
 
@@ -632,7 +614,7 @@ Nadie se rio. Walt no apartó los ojos de Kal.
 
 —Sé quién paga.
 
-—Es lo mismo.
+Walt no contestó. Esperó con el café a medio camino, y dejó que en el cuarto se oyera solo lo que Kal acababa de decir.
 
 —No trabajo para él —dijo Kal—. Le hago un trabajo.
 
@@ -670,7 +652,7 @@ Walt lo miró desde la puerta.
 
 Danny abrió la boca, la cerró y sonrió.
 
-—Lo que me contaron.
+—Lo que me contaron. Que todo costaba menos, que la Almendra era otra cosa y que usted no perdía nunca a las cartas. Eso último me lo contó Héctor, así que a lo mejor es mentira.
 
 Walt no sonrió. Pero algo en la boca se le movió apenas.
 
@@ -708,7 +690,7 @@ Terminó de subir el cierre.
 
 Nadir levantó la vista de la bota.
 
-—¿Le debes algo?
+—¿Le debes algo? Porque un hombre así no va a un portón de la Almendra a pasear, khoya. Va a cobrar o va a prestar, y prestar sale más caro.
 
 —No.
 

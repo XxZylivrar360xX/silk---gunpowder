@@ -135,7 +135,7 @@ Nadir lo miró un momento. Después se le movieron otra vez las manos: dobló la
 
 —La tarifa sube seis mil —le dijo Kal a Chiara.
 
-—A nombre de tu empresa.
+—A nombre de tu empresa —dijo Chiara—. Servicio de arrastre, con recibo. El casino no paga nada que no le pueda enseñar a un auditor.
 
 —Que diga lo que quiera la factura. —Nadir guardó el papel doblado en el bolsillo de la camisa—. *Safi.*
 
@@ -203,7 +203,7 @@ Ella pasó hojas hacia atrás, sin prisa, hasta encontrar una. Puso el dedo deba
 
 Irene no escribió.
 
-—Le pedí un nombre.
+—Le pedí un nombre. —Tocó la línea con la uña—. Aquí dice nombre. Con una banda no hago nada; a una banda no le puedo cobrar.
 
 —Ése es el que hay. El de la persona no lo tengo.
 
@@ -450,7 +450,7 @@ Ella abrió la del supermercado lo justo para ver el lomo. Había una liga roja 
 
 A ella se le escapó algo que no llegó a ser risa.
 
-—¿Nadir?
+—¿Nadir? —Lo dijo como quien revisa una partida antes de firmar el cierre—. No quiero que nadie de tu lado se quede esperando un pago mío.
 
 —Cobra el jueves. Tres mil, como quedamos. Danny también.
 

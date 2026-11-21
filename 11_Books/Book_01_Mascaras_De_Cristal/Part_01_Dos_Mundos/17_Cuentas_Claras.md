@@ -176,7 +176,9 @@ Kal lo contó primero, seco, sin adornar ni suavizar. Walt llenó los huecos. Na
 
 —¿Y valió la pena?
 
-—Tenemos paz con el Canal Seco. Eso no tiene precio fijo.
+Kal no contestó enseguida. Miró las manos de Héctor sobre los brazos de la silla verde, todavía con la marca del suero en el dorso.
+
+—Tenemos paz con el Canal Seco. Nadie va a venir por Nadir ni por Danny, nadie te va a tocar el portón y el taller sigue abierto. Eso no tiene precio fijo.
 
 —Mentira. —Héctor no se movió de la silla—. ¿Qué más le diste?
 

@@ -55,7 +55,7 @@ Lo dijo sin levantar la voz. La miró de arriba abajo, la sudadera, la capucha, 
 
 —Varek.
 
-Kal se quedó con la chaqueta a medio colgar.
+Kal se quedó con la chaqueta a medio colgar, un brazo todavía en la manga, y por primera vez desde que había entrado la miró a la cara y no a la ropa.
 
 —¿Por qué iba a estar con Varek?
 
@@ -459,7 +459,7 @@ Kal la miró sentarse en el borde de una tumbona. Un vuelo de las seis en Kingsl
 
 —Dales diecisiete.
 
-—Ya cerré en dieciocho. —Ni una disculpa en la voz—. No iba a dejar que se les hiciera costumbre.
+—Ya cerré en dieciocho. —Ni una disculpa en la voz—. No iba a dejar que se les hiciera costumbre, y con diecisiete el jueves se iban a buscar a otro.
 
 Varek asintió una vez.
 

@@ -138,21 +138,17 @@ Chiara no tardó nada. Un polo negro, que Kal aceptó sin mirarlo, y unos pantal
 
 —Ésos no.
 
-—Cumplen el código.
+—Cumplen el código, y tú dijiste que íbamos a jugar con mis reglas. —Chiara le acomodó el gancho sobre el brazo como quien entrega un expediente—. Camisa oscura, pantalón claro. No lo inventé yo, lo inventaron unos escoceses aburridos hace doscientos años.
 
 —Son blancos.
 
-—Es golf, Kal.
+Ella no contestó eso. Levantó las cejas y esperó, y Kal entendió que ya había perdido.
 
 Kal, por su parte, ya traía la de ella: una falda de golf que había sacado de la sección de mujer camino al probador. Se la pasó con una cara completamente seria y se metió detrás de la cortina con los pantalones y con la mandíbula. Ahí adentro peleó con algo que no era el cierre.
 
 —¿Quién diseña esto?
 
-—Gente que no se agacha —dijo Chiara, del otro lado.
-
-Hubo un silencio corto, de tela.
-
-—Es demasiado corta —dijo Chiara.
+—Gente que no se agacha. —Del otro lado de la cortina hubo un silencio corto, de tela, mientras ella extendía la falda a contraluz—. *Madonna.* Esto no es una falda, Kal, es una opinión. Es demasiado corta.
 
 —Es reglamentaria —dijo Kal, desde adentro.
 

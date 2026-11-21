@@ -242,7 +242,7 @@ Lucía saludó a los patrulleros con la cabeza, oyó el resumen del más viejo s
 
 —Subjefa.
 
-—Son las cinco de la mañana.
+—Son las cinco de la mañana, y su grúa está en la bahía de carga de un casino. —Lo dejó ahí un momento, a ver qué lo llenaba—. Ningún coche de este edificio necesita grúa esta noche.
 
 —Me llamaron por el auto. —Kal señaló hacia el fondo del edificio, hacia la carga—. La señora Bellandi quería saber por dónde salió.
 
@@ -390,7 +390,7 @@ Kal no se movió de donde estaba.
 
 Tommaso dejó que la palabra se quedara un momento sobre la mesa.
 
-—¿Y sus muchachos? ¿También están en trámite?
+—¿Y sus muchachos? ¿También están en trámite? —No alzó la voz—. Pregunto porque esa es la versión que me tocaría dar a mí, y donde yo la doy, «en trámite» no es una versión.
 
 —Mis muchachos no han pisado este edificio.
 
@@ -402,7 +402,7 @@ Dario no había abierto la boca desde que se sentó. Tenía delante una copia de
 
 —¿Quién llamó a la policía? —preguntó.
 
-—La central de alarmas —dijo Chiara—. Automático, a las tres cuarenta y siete.
+—La central de alarmas —dijo Chiara—. Automático, a las tres cuarenta y siete. Para entonces el auto ya había salido por el lote de servicio; lo tenemos en cámara a las tres cuarenta y seis, con las luces apagadas.
 
 —¿Y al señor Mercer?
 
@@ -412,7 +412,7 @@ Dario no había abierto la boca desde que se sentó. Tenía delante una copia de
 
 —Después. Antes que a ustedes.
 
-Dario asintió una vez, como quien confirma la fecha de una factura.
+Dario asintió una vez, como quien confirma la fecha de una factura. A su lado, Tommaso se acomodó el puño de la camisa, y Chiara supo que el «antes que a ustedes» lo había anotado él.
 
 —¿Y a la subjefa quién la llamó?
 
@@ -442,7 +442,7 @@ Kal la esperó en el pasillo de servicio, junto al elevador de carga, con la car
 
 —¿Anoche?
 
-—No estaba. Ya lo vi en la lista.
+—No estaba. Ya lo vi en la lista de turnos, antes de que Charles la imprimiera para la junta. Si alguien la cambia, tengo la mía.
 
 Kal asintió. Se cambió la carpeta de brazo.
 

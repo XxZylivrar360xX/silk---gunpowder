@@ -68,7 +68,7 @@ Tommaso miró la carpeta.
 
 Matteo se sentó.
 
-—Explícate.
+—Explícate. No, espera: explícate despacio, que todavía no me tomo el café y ya me estás vendiendo algo.
 
 Chiara empujó una hoja al centro.
 
@@ -138,7 +138,7 @@ Tommaso recuperó la pluma y acercó la otra carpeta, la lista de la apertura, c
 
 —Anton Varga. Eventos. Tres mesas mañana y cuenta abierta. El viernes hizo llorar a una mesera en la cata de prensa.
 
-—Dice que conoce a Dario —dijo Matteo.
+—Dice que conoce a Dario —dijo Matteo—. Lo dijo dos veces en la cata, y a la segunda ya se lo creía hasta él.
 
 —¿Y lo conoce? —preguntó Chiara.
 
@@ -150,17 +150,11 @@ Tommaso deslizó la hoja hasta su lado de la mesa.
 
 Fabrizio se inclinó hacia ella cuando Tommaso empezó a leer la proyección.
 
-—Sal de aquí una hora.
+—Sal de aquí una hora. Come algo, camina hasta el muelle y vuelve. Si te quedas, vas a contestarle cada número, y él va a seguir dándote números hasta la noche.
 
 —Estoy trabajando.
 
-—Por eso.
-
-Chiara lo miró.
-
-Fabrizio no sonreía.
-
-—No le regales el resto del día.
+—Por eso. —Fabrizio no sonreía—. No le regales el resto del día.
 
 Ella cerró la carpeta despacio, con la hoja de Varga adentro. No era retirada ni obediencia: era administración de daño.
 
@@ -496,7 +490,7 @@ Chiara cerró los ojos un segundo.
 
 —¿Su coche?
 
-—Bloqueando carga.
+—Bloqueando carga. Lo dejó atravesado frente a la rampa, con las llaves puestas, y el camión de la lavandería lleva veinte minutos esperando en la calle.
 
 —¿Valet lo recibió?
 
@@ -660,13 +654,13 @@ Kal miró la puerta de la grúa. Donde tenía que estar el logo de Almendra Towi
 
 —¿Quién tapó el logo?
 
-—Yo —dijo Russ.
+—Yo —dijo Russ—. Con el cartón de una caja de aceite. La cinta es la del baño, que de todos modos ya no pegaba nada.
 
 —¿Y la cara?
 
 Russ señaló a Danny con el bastón, sin mirarlo.
 
-—Se veía triste sin cara —dijo Danny.
+—Se veía triste sin cara —dijo Danny—. Y una grúa triste, jefe, la para cualquiera.
 
 —¿De dónde lo sacaron?
 
@@ -680,11 +674,7 @@ Russ señaló a Danny con el bastón, sin mirarlo.
 
 —Por eso no te dejo hacer nada la primera.
 
-—¿Ves? —Danny le pasó el brazo por los hombros—. Me cuida.
-
-—No me toques.
-
-—Me adora, jefe. Es su forma.
+—¿Ves? —Danny le pasó el brazo por los hombros—. Me cuida. Me adora, jefe, nada más que no lo dice con la boca: lo dice con el bastón.
 
 —No te soporto.
 
@@ -718,11 +708,9 @@ Kal se quedó mirando la cara del cartón más tiempo del que merecía.
 
 —Te dije —murmuró Russ.
 
-—Tú querías que le pusiera bigote.
+—Tú querías que le pusiera bigote. No lo dijiste, Russ, pero te vi la cara cuando le estaba haciendo los ojos. Te vi pensarlo.
 
 —Nunca dije eso.
-
-—Lo pensaste.
 
 Russ cerró los ojos un segundo, como quien cuenta hasta un número muy alto. Danny ya no lo estaba viendo. Miraba el cajero, con su pedazo de acera, como si le faltara algo.
 
@@ -788,11 +776,7 @@ Detrás de ella se abrió una puerta y salió medio brindis, voces de hombre, va
 
 —En Calle Corona. Salgo para allá en cuanto…
 
-—No le pregunté dónde está.
-
-Ella no dijo nada.
-
-—Le pregunté quién llama. ¿Ellos o usted?
+—No le pregunté dónde está. —Ella no dijo nada, y Kal no la ayudó—. Le pregunté quién llama. ¿Ellos o usted?
 
 Oyó un coche pasar por donde ella estaba, y otro. Kal esperó. La pregunta ya estaba hecha, y no era de las que se hacen dos veces.
 
@@ -866,7 +850,7 @@ Kal subió a la cabina. El hombro se lo cobró en el segundo escalón.
 
 —Tarifa nocturna.
 
-—Eso le cobras a un dentista.
+—Eso le cobras a un dentista. A un casino se le cobra la nocturna, más la de casino, más la de que esta mañana te dijeron que no. Tres tarifas, khoya, y tú le vas a cobrar una.
 
 —El dentista no tiene un casino.
 
@@ -878,7 +862,7 @@ Kal anotó la hora en la tabla.
 
 —El problema llamó.
 
-—Qué bonito, wallah. ¿Y el problema tiene nombre?
+—Qué bonito, wallah. Eso le voy a decir a Héctor cuando pregunte por qué salió la grúa a medianoche: el problema llamó. ¿Y el problema tiene nombre?
 
 Kal dejó la tabla en el asiento.
 
@@ -888,11 +872,7 @@ Kal dejó la tabla en el asiento.
 
 Se despegó de la puerta y le dio a la lámina una palmada, corta, la misma que le daba a Danny en la nuca cuando contaba mal el cambio.
 
-—Si vuelve a llamar a medianoche, me llevas.
-
-—¿Para qué?
-
-—Para cobrar yo, que tú cobras como si te diera pena.
+—Si vuelve a llamar a medianoche, me llevas. Para cobrar yo, que tú cobras como si te diera pena.
 
 Kal metió la llave.
 

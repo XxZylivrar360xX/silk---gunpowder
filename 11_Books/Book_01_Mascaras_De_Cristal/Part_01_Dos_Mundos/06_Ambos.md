@@ -114,11 +114,11 @@ Una noche, después de que una máquina de hielo se rindiera y el proveedor inte
 
 Chiara levantó la vista de una lista de invitados.
 
-—Comí algo a las cuatro.
+—Comí algo a las cuatro. Subieron charolas a la junta de banquetes y algo agarré entre una firma y otra.
 
 —¿Qué?
 
-Chiara lo pensó. No se acordó. Miró la bolsa.
+Chiara lo pensó. Las charolas habían sido el martes, o quizá eso también había sido el martes. No se acordó. Miró la bolsa, que olía a pan caliente.
 
 —Espero que lo que trae no sea pizza de calabaza.
 
@@ -272,9 +272,9 @@ Kal tocó el marco de la puerta.
 
 Ella miró sus pies descalzos y luego a él.
 
-—No sé de qué habla.
+—No sé de qué habla. —Y como él siguió mirando los zapatos, añadió—: Tommaso cree que el hotel todavía no está listo para jugadores de fuera. Lo cree desde las once de la mañana, y lo ha creído en voz alta en tres reuniones.
 
-—Claro.
+Kal no le preguntó qué creía ella. Se veía en los tacones.
 
 Traía chaqueta de mezclilla con cuello de borrego, sin camisa debajo, porque Kal parecía haber decidido que el clima era una sugerencia y las normas de vestimenta una negociación menor. Tenía el pelo revuelto, la mandíbula cansada y una bolsa de papel en la mano.
 
@@ -282,13 +282,7 @@ Traía chaqueta de mezclilla con cuello de borrego, sin camisa debajo, porque Ka
 
 —Nada.
 
-—Eso huele a papas.
-
-—Papas no son nada.
-
-Ella le indicó la silla con la barbilla.
-
-—Cinco minutos.
+—Esa nada huele a papas fritas y le está dejando grasa al único papel que hoy salió bien. —Le indicó la silla con la barbilla—. Cinco minutos.
 
 Kal dejó la bolsa sobre el escritorio y no se sentó. Miró los zapatos junto a la pata de la mesa, y después los pies de ella, que se escondieron solos debajo de la silla.
 
@@ -308,7 +302,7 @@ Chiara levantó la vista despacio.
 
 —En pijama.
 
-—Estaba en mi casa.
+—Estaba en mi casa. Lo que una trae puesto en su casa a la una de la mañana no es una declaración, señor Mercer. Es lo que una trae puesto.
 
 Kal se apoyó en el borde del escritorio, demasiado cómodo para una pregunta tan descarada.
 
@@ -342,15 +336,11 @@ Kal abrió la boca y la volvió a cerrar.
 
 Chiara se puso los tacones sin dejar de mirarlo.
 
-—A las ocho. Y me cuenta qué era.
+—A las ocho. Y me cuenta qué era, aunque sea la versión corta. Yo le he contado todas las mías, y algunas ni me las pidió.
 
-—Vuelvo.
+Kal ya iba en la puerta. Se detuvo con la mano en el marco, el mismo que había tocado al llegar, y miró otra vez los tacones rojos.
 
-—Eso dicen todos.
-
-Kal se detuvo en la puerta.
-
-—Yo sí.
+—Vuelvo —dijo, como quien deja una pieza apartada con su nombre.
 
 Y se fue.
 
@@ -414,23 +404,21 @@ Quedaba la máquina, destripada, con el pedazo de acera todavía colgándole del
 
 —¿Lo conoces o te lo contaron?
 
-—Me lo contó alguien que lo conoce.
+—Me lo contó alguien que lo conoce, que es casi lo mismo, porque ese alguien me debe un favor y el de la chatarrería le debe dos a él, así que en realidad el que va ganando soy yo.
 
 Russ cerró los ojos.
 
-—En el norte. De donde lo sacamos.
+—Es en el norte, Danny. Donde la sacamos. Son cuarenta minutos de ida con esa cosa amarrada en la plataforma, y en la 101 la patrulla de caminos para a las grúas los jueves para revisar cadenas. Hoy es jueves.
 
-—Por eso. Ya se sabe el camino.
+—Por eso. Ya nos sabemos el camino.
 
-Kal se lavaba los brazos en el fregadero con jabón de polvo.
+Kal se lavaba los brazos en el fregadero con jabón de polvo y no volteó.
 
 —De noche. Y con cartón en la puerta.
 
-A Danny se le iluminó la cara.
+A Danny se le iluminó la cara, y Russ levantó una mano antes de que abriera la boca.
 
-—¿Con cara?
-
-—Con cartón —dijo Russ.
+—Cartón. No cara. Ya sé lo que ibas a decir.
 
 Eran casi las siete y media. Kal se lavó otra vez, porque seguía oliendo a disco quemado, se puso la chaqueta y fue por fin a la oficina. Abrió el cajón. Sacó una bolsa pequeña y se la guardó en el bolsillo. De atrás de las facturas sacó también un frasco, se puso en el cuello lo que le cupo en un dedo y lo volvió a guardar.
 
@@ -508,11 +496,7 @@ Y a Chiara se le empezó a colar el italiano entre las palabras. Le pasaba cuand
 
 ***
 
-—Allora —dijo Chiara, levantándose del suelo con una mano en la pared—. El tour.
-
-—¿Oficial?
-
-—Muy. No toques nada.
+—Allora —dijo Chiara, levantándose del suelo con una mano en la pared—. El tour. Oficial, con reglas de la casa, y la primera regla es que no toques nada.
 
 —¿Eso se lo dijiste a los chicos?
 
@@ -648,23 +632,15 @@ Puso *Parole Parole*. La voz de mujer entraba primero, toda promesa; la de hombr
 
 —¿Y yo qué soy?
 
-—Tú eres el que no cree.
-
-—Fácil.
-
-—No tanto. Es hablado, no cantado. Y va rápido.
+—Tú eres el que no cree, que es el papel que te sale sin ensayar. Pero no te confíes: es hablado, no cantado, y va rápido.
 
 Le puso el celular con la letra abierta en la mano, como quien entrega un arma que no sabe usar, y esperó a que empezara el verso. Kal fracasó en el primer intento, en el segundo se acercó, y para el tercero ya se reía de sí mismo antes de terminar la frase, con el acento del barrio pisándole cada sílaba italiana. Chiara no se rio de él. Se rio con él, doblada sobre las rodillas, corrigiéndolo entre carcajada y carcajada sin dejar de cantar su parte.
 
 —Otra vez —dijo ella, sin aliento.
 
-—No.
+—No. Ya quedó claro que el que no cree soy yo, y que además no sabe pronunciar.
 
-—Otra vez.
-
-—Me estás usando para reírte.
-
-—Sí. —Le acomodó el celular en la mano, con la rodilla pegada a la suya—. Otra vez.
+—Otra vez. —Le acomodó el celular en la mano, con la rodilla pegada a la suya—. Y sí, te estoy usando para reírme, antes de que lo digas. Otra vez.
 
 Lo hizo otra vez.
 
@@ -856,17 +832,11 @@ El pasillo hacia los cuartos estaba en silencio. Frente a la puerta, él se detu
 
 —Por la noche.
 
-La respuesta la dejó un segundo sin defensa.
+La respuesta la dejó un segundo sin defensa, y buscó una de oficina, la que tenía para los proveedores que daban las gracias de más.
 
-—Fue una noche rara.
+—Fue una noche rara. Hamburguesas en el piso, Mina, un cenicero de piedra un centímetro más a la izquierda, un mecánico que no se sabe la dirección de su casa… —Se oyó enumerar y se detuvo—. Buona. Fue buena.
 
-—Sí.
-
-—Buena.
-
-Kal asintió.
-
-—Sí.
+Kal asintió. No agregó nada, y ella se lo agradeció también.
 
 No se movieron. Habían pasado ocho horas juntos y ninguno lo había notado hasta ahora, parados frente a una puerta sin ganas de cruzarla todavía.
 

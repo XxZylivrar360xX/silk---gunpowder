@@ -276,7 +276,7 @@ Kal la miró fijo, leyendo mal el silencio.
 
 —¿Faltó más, verdad? Lo sabía.
 
-—No.
+Chiara negó con la cabeza. La voz no le salió a tiempo, y él siguió de largo sobre el silencio.
 
 —Puedo conseguir algo más. Si esto no fue sufici—
 

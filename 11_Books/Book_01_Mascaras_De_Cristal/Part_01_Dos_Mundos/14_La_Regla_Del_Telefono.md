@@ -43,13 +43,9 @@ Metió la mochila atrás, sobre lo que había cargado la noche anterior y vuelto
 
 —Te lo hiciste.
 
-—Sigues mirándolo como si fuera una avería.
+—Sigues mirándolo como si fuera una avería. —Se jaló una punta hacia la cara, para verla ella también—. Se llama *balayage*, ya te dije. Me lo hizo una chica del tercer piso con papel aluminio y una toalla de la residencia que ya no va a volver a ser blanca, y me cobró menos de lo que tú cobras por un cambio de aceite.
 
-—Es una moda absurda.
-
-—Se llama *balayage*. Ya te dije.
-
-—Bala… yash.
+—Es una moda absurda. Bala… yash.
 
 Marisol se rio de él sin ninguna piedad y se lo repitió despacio, sílaba por sílaba. Kal lo dijo peor.
 
@@ -83,13 +79,11 @@ La carretera se vació a la media hora, y a la hora ya no había más que cerros
 
 —Dámelo —dijo Marisol.
 
-—¿Qué?
-
-—El teléfono. Dámelo.
+Kal siguió mirando el camino, como si la tierra necesitara toda su atención.
 
 —Estoy manejando.
 
-—Por eso te lo pido en vez de agarrarlo. —Estiró la mano y la dejó abierta, sin prisa—. La regla.
+—Por eso te lo pido en vez de agarrarlo. —Estiró la mano y la dejó abierta, sin prisa—. Y no hagas como que no sabes qué te pido. La regla.
 
 —No empieces con la regla.
 
@@ -289,11 +283,7 @@ Marisol dejó pasar un silencio largo y lo rompió sin levantar la vista.
 
 —Está bien.
 
-—No pregunté cómo estaba.
-
-Kal movió una brasa con un palo.
-
-—Pero gracias por confirmar que sabías de quién hablaba.
+—No pregunté cómo estaba. —Esperó a que él moviera una brasa con el palo, que fue lo que hizo, y siguió con la misma voz—. Pero gracias por confirmar que sabías de quién hablaba. No dijiste «¿cuál amiga?». Cualquiera habría dicho «¿cuál amiga?».
 
 —Trabajamos juntos. Sale su nombre.
 

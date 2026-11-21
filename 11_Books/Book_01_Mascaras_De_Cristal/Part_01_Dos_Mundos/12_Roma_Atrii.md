@@ -117,17 +117,7 @@ Kal le dio vuelta al papel entre los dedos, todavía doblado.
 
 —¿Y él sabe lo que dice? —No miró hacia la caja.
 
-—No. Sabe escribir cuatro palabras. Leer, ninguna.
-
-—¿El chico?
-
-Chiara negó con la cabeza.
-
-—¿Quién es?
-
-Tardó un segundo más que en las otras.
-
-—No lo sé. Kenji sí.
+—No. Sabe escribir cuatro palabras; leer, ninguna. —Se adelantó a las dos preguntas que venían, porque las veía venir en orden, como venían siempre las de Kal—. El chico tampoco sabe qué dice. Y cómo se llama —ahí tardó un segundo más que en lo demás— no lo sé yo. Lo sabe Kenji. Así está hecho.
 
 Kal levantó la vista. A diez metros, Kenji cambiaba fichas sin voltear hacia ellos ni una vez.
 
@@ -347,7 +337,7 @@ Kal no la miró. Miró el auto, el carrito, el trapo, y Chiara lo vio sacar una 
 
 —¿A quién le debes esto?
 
-—Tres favores. Ninguno con tu nombre.
+Chiara alisó el doblez de la hoja contra la rodilla, con la uña, dos veces, y le contestó como quien da un saldo que ya tiene cuadrado: tres favores, a tres personas que no se conocían entre sí, y ninguno con el nombre de él escrito en ningún lado.
 
 —Pero con el tuyo.
 

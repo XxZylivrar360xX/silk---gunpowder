@@ -234,11 +234,13 @@ Nadir estaba en la acera del taller cuando Kal volvió, en cuclillas junto a la 
 
 Nadir dejó de girar la llave.
 
-—¿Desde cuándo?
+—¿Desde cuándo? Irene no suelta a nadie a medio trato, khoya. Ni a su madre.
 
 —Desde hoy.
 
-—¿Por qué ahora?
+Nadir esperó a que siguiera, y Kal no siguió.
+
+—¿Y qué le diste? —Se limpió la grasa del pulgar en el pantalón, despacio, haciendo la cuenta que Kal no le estaba haciendo—. Porque Irene no cambia lo suyo por nada, y tú no tienes cara de haber pagado en efectivo.
 
 —Porque ya alcanzó.
 
@@ -400,18 +402,18 @@ Chiara se quedó con la copa a medio camino, dándole vueltas a algo que no dijo
 
 Kal no tenía la respuesta. No fingió tenerla.
 
-—¿Y el Canal Seco?
+—¿Y el Canal Seco? —Dejó la copa en la barra, sin soltarla—. No me digas que nada, porque tú dices «nada» con la misma cara con que dices «se arregla».
 
 —Nada que no se arregle.
 
-—¿Y las noches?
+Chiara lo dejó pasar, de momento, como se deja pasar una cifra que se va a revisar después.
+
+—¿Y las noches? —Esta vez sí lo miró—. Sales tarde, Kal. Vuelves tarde.
 
 Kal tardó lo que tarda en dejar unas llaves en su sitio.
 
 —Arrastres.
 
-—Ya.
-
-Ella no dijo nada más. Bebió lo que quedaba en la copa, la dejó en el fregadero y se acercó a él sin prisa.
+Chiara asintió una vez, despacio, como quien firma de recibido algo que no piensa dar por bueno. No dijo nada más. Bebió lo que quedaba en la copa, la dejó en el fregadero y se acercó a él sin prisa.
 
 Kal la dejó acercarse.

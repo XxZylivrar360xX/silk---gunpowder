@@ -403,7 +403,7 @@ Chiara se aferró a su cuello con las dos manos.
 
 —Peor. Yo araño y muerdo.
 
-Kal se rio, una carcajada corta y de verdad.
+Kal se rio, una carcajada corta y de verdad, y la acomodó mejor contra el pecho, como quien se asegura una carga antes de cruzar.
 
 —Kal Mercer, no vayas a soltarme.
 
@@ -411,7 +411,7 @@ Kal se rio, una carcajada corta y de verdad.
 
 Dio un paso hacia donde el agua se ponía oscura.
 
-—Ni se te ocurra —dijo ella, con menos convicción de la que hubiera querido.
+—Ni se te ocurra —dijo ella, con menos convicción de la que hubiera querido—. Te lo digo en serio, Kal. Ahí ya no se ve el fondo, y yo no me meto en nada cuyo fondo no he visto.
 
 —No sé de qué hablas.
 
@@ -489,21 +489,17 @@ Kal, que acababa de dejar las llaves en el cuenco de la entrada, siguió su mira
 
 —Moví el sillón.
 
-—Ya veo que moviste el sillón.
-
-—Entonces ¿para qué preguntas?
-
-Chiara lo miró.
+—Ya veo que moviste el sillón. —Chiara no le quitó los ojos de encima al mueble—. Te pregunto por qué. Medio metro hacia la ventana y la tela se lleva el sol de toda la tarde. En un año está color avena.
 
 Kal tuvo la prudencia de no sonreír.
 
 —Estorbaba ahí —dijo.
 
-—Kal, yo diseñé esta sala.
+—Kal, yo diseñé esta sala. Cada mueble está donde está por algo.
 
 —Y yo vivo aquí.
 
-—Precisamente por eso deberías escucharme.
+—Precisamente por eso deberías escucharme. Tú vives aquí; yo sé por qué aquí se vive bien.
 
 Él se quitó la chaqueta con cuidado por las costillas y la dejó sobre el respaldo del sofá.
 
@@ -535,15 +531,13 @@ Kal agarró el otro.
 
 —Va allá.
 
-—Kal.
+Kal no soltó su lado. Tampoco tiró.
 
-—Chiara.
-
-—No me hagas moverlo sola.
+—Kal. No me hagas moverlo sola, porque lo muevo, y después vas a oírme contar que lo moví sola cada vez que te sientes ahí.
 
 —No puedes moverlo sola.
 
-—Claro que puedo.
+Chiara tiró de su extremo sin contestar, y el sillón avanzó un palmo arrastrando la alfombra, con él todavía agarrado del otro lado.
 
 —No dije que no pudieras. Dije que no deberías.
 
@@ -553,7 +547,7 @@ Vio que Kal también se había dado cuenta.
 
 Los dos aguantaron exactamente medio segundo antes de empezar a reírse.
 
-—Muy gracioso —dijo Chiara.
+—Muy gracioso —dijo Chiara, cuando pudo, con la mano todavía en el respaldo—. No te atrevas a decir lo que vas a decir.
 
 —No era una orden.
 
@@ -611,7 +605,7 @@ Kal señaló hacia las escaleras.
 
 —Arriba.
 
-—¿Eso fue una orden?
+—¿Eso fue una orden? —preguntó ella, sin moverse todavía—. Lo pregunto para saber si subo o si me quedo aquí a defender el sillón.
 
 Él empezó a subir.
 
