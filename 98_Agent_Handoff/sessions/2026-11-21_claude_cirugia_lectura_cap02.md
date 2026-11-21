@@ -25,4 +25,4 @@ Plan: [[13_Auditorias/Book_01_Mascaras_De_Cristal/Cirugia_Lectura_Libro_I]]. Arc
 ## Decisiones del autor (mismo día, aplicadas)
 
 - Fabrizio sólo baja la voz: sale «como si Palermo pudiera oírlos desde ahí» (hacía leer viva a Marta); «Tu madre me mataría» se queda.
-- Tina: la respuesta de Chiara a «¿Y ésta ya no te gusta?» pasa al italiano: «—Sì. Questa mi piace davvero tanto, ma voglio una casa più grande.» (antes «Sí. Ésta me gusta de verdad mucho.»).
+- Tina: dos réplicas de Chiara pasan al italiano: «—Una casa più grande.» (a «¿Qué dibujas?»; antes «Una casa más grande.») y «—Sì. Questa mi piace davvero tanto.» (a «¿Y ésta ya no te gusta?»; antes «Sí. Ésta me gusta de verdad mucho.»).

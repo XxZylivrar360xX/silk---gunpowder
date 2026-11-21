@@ -19,7 +19,7 @@ Puente Nueva York-Palermo (2026-10-22, observacion del autor sobre la llegada nu
 Continuidad de la sala (2026-11-04, encargo del autor; DISEÑO, pendiente de lectura; el estado se conserva): "un dueño que no estaria en la junta" se adelantaba al anuncio de Dario; se queda el trio con "ya la tenia en inventario" y la idea pasa a despues del anuncio ("Chiara lo archivo con lo demas"). De pie o sentados: Kal es "el primero que se sento" y los demas lo siguen, asi conservan su sentido "nadie se hubiera levantado", "sentada en una mesa", "Matteo no volvio a sentarse" y "Se levanto". Ajustes de la misma revision: "alrededor de la mesa" (no escritorio) y Matteo toca "el borde de la mesa" (no el respaldo). Detalle: 98_Agent_Handoff/sessions/2026-11-04_claude_detalles_caps02_03.md.
 Decisiones del autor (2026-11-04; redaccion DISEÑO, pendiente de lectura; levantan lo protegido en Audit_Caps_01-03 §6 para estos puntos): fuera el sorteo y sus replicas, hasta "Sus aspiraciones son altas" (sin cobro desde 2026-09-30); la pregunta de Chiara por el porcentaje entra tras "Kal espero". La lectura de Kal desde Chiara pasa a observable para Kal ("Parecia saber que Kal no estaba jugando"). En la tina, "una habitacion podia mirarla de vuelta", que el recuerdo no cumplia, pasa a "le dijeron que cualquier casa bastaba".
 Tenis (2026-11-05, decision del autor; capitulo TERMINADO, el estado se conserva): "la unica concesion que se habia permitido" pasa a "idea de Marisol" (Cap. 1).
-Cirugia de la lectura (2026-11-21; BORRADOR, espera lectura): recortadas las replicas infladas por los barridos de dialogo; restituida "Yo no he visto veinte como el" y "¿Un lugar?" (Consigliere literal); fuera los tenis que Nadir no vio y "le mande el coche"; Kal ve la pintura como maquillaje (cap. 1); Elise por la credencial en POV de Kal. CANON DEL AUTOR (mismo dia): Fabrizio solo baja la voz (sale "como si Palermo pudiera oirlos", que hacia leer viva a Marta); en la tina, la respuesta de Chiara a "¿Y esta ya no te gusta?" pasa al italiano con "una casa piu grande". Detalle: 98_Agent_Handoff/sessions/2026-11-21_claude_cirugia_lectura_cap02.md.
+Cirugia de la lectura (2026-11-21; BORRADOR, espera lectura): recortadas las replicas infladas por los barridos de dialogo; restituida "Yo no he visto veinte como el" y "¿Un lugar?" (Consigliere literal); fuera los tenis que Nadir no vio y "le mande el coche"; Kal ve la pintura como maquillaje (cap. 1); Elise por la credencial en POV de Kal. CANON DEL AUTOR (mismo dia): Fabrizio solo baja la voz (sale "como si Palermo pudiera oirlos", que hacia leer viva a Marta); en la tina, dos replicas de Chiara pasan al italiano (una casa piu grande): "Una casa piu grande" (respuesta a "¿Que dibujas?") y "Si. Questa mi piace davvero tanto." (respuesta a "¿Y esta ya no te gusta?"). Detalle: 98_Agent_Handoff/sessions/2026-11-21_claude_cirugia_lectura_cap02.md.
 -->
 
 # Capítulo 2 — Demasiado listo
@@ -856,13 +856,13 @@ Corrado se rio. Marta lo había atrapado y él no tenía una defensa que no sona
 
 —¿Qué dibujas?
 
-—Una casa más grande.
+—Una casa più grande.
 
 —¿Y ésta ya no te gusta?
 
 Chiara levantó la cara. Miró la pared, luego a sus padres.
 
-—Sì. Questa mi piace davvero tanto, ma voglio una casa più grande.
+—Sì. Questa mi piace davvero tanto.
 
 Corrado abrió un espacio a su lado, como si la pared pudiera recibir una decisión más.
 
