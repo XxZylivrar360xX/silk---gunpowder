@@ -1,7 +1,7 @@
 <!--
 Reconstruido 2026-11-08, Fase 4 del nuevo cauce (nuevo Cap. 17, T6, POV Kal): [[11_Books/Book_01_Mascaras_De_Cristal/00_Plan_Nuevo_Cauce]] (tercera tanda, punto 10: H4, el secreto como precio) y [[11_Books/Book_01_Mascaras_De_Cristal/00_Mapa_Cauce_Cap11_Camp_Alder]]. Plan: [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/00_Plan_Cap17_El_Dia_Nublado_POV_Kal]]. Versión anterior íntegra (TERMINADO desde 2026-11-02, con su historial de cirugías, mixta de POV): [[11_Books/Book_01_Mascaras_De_Cristal/Escenas_Eliminadas/18_El_Dia_Nublado_Version_2026-11-08]] (git `8dfc295`).
 Decisiones del autor para esta reconstrucción (2026-11-08, las cuatro en la opción recomendada): Kal entiende el precio por la barreta de Walt (Crowe no inventa, guarda) y por «unas familias que se sentaban a una misma mesa», sin nombrar a Alessio ni ligarlo a Tommaso, y decide no saber más; la misa de agosto y «la de las once» se quedan fuera (Kal no sabe nada); de los hilos del 15 y el 16 sólo entra un rastro de la chaqueta café (Chiara revisa la calle dos veces desde la terraza y Kal no pregunta), y la llave y el billar se guardan; abre con el nombre que Kal le debe a Irene.
-Estado: BORRADOR. Prosa DISEÑO pendiente de lectura del autor. Se conservan literales las líneas canon de H4 («Esto también es nuevo para mí», «Si quieres marcharte, yo lo entenderé», «Anda, hay que subir»), la conversación del miedo, la línea de Kal a Chiara dormida y el cierre. Numeración: renumerado a «Capítulo 17» el 2026-11-08 al cerrar la Parte I (antes «Capítulo 19»).
+Estado: BORRADOR. Prosa DISEÑO pendiente de lectura del autor. Cirugía de la lectura (2026-11-21; BORRADOR, espera lectura del autor): [[98_Agent_Handoff/sessions/2026-11-21_claude_cirugia_lectura_cap17]]. Restituido lo que los barridos tocaron en las escenas literales (el nueve por ciento, Enzo, la boutique, la boina, el bate, el juego; con eso salen «el martes» y la falda «a contraluz»); en la boutique, el beat «Hubo un silencio corto, de tela…» se alarga con lo que Kal oye para cortar el ping-pong. Salto a junio: «Así se le fue el resto de la primavera.» y «Llevaba semanas persiguiendo uno». DECISIÓN DEL AUTOR: excepción a la regla 06 (34 %), «los años que le llevaba» tras «Siete años», y Kal no busca la cartera. Se conservan literales las líneas canon de H4 («Esto también es nuevo para mí», «Si quieres marcharte, yo lo entenderé», «Anda, hay que subir»), la conversación del miedo, la línea de Kal a Chiara dormida y el cierre. Numeración: renumerado a «Capítulo 17» el 2026-11-08 al cerrar la Parte I (antes «Capítulo 19»).
 Protagonistas: Kal Mercer (POV), Chiara Bellandi. Apariciones: Enzo, Walt (al teléfono del taller), un dependiente de la boutique y una empleada del campo (sin nombre). Mencionados: Irene, el del billar, Héctor, Crowe (por la barreta), un rubio (Blake, sin nombre).
 Ventana temporal: de los días después del alta de Héctor (nuevo 16) a un jueves de junio; termina esa misma noche en el penthouse. Antes de H11 (El mirador).
 Lugares: Almendra Towing y la calle de servicio detrás del Monarch (apertura), terraza de Il Gelsomino, boutique de golf en el norte, campo de golf al norte de San Aurelio, carretera del norte, The Monarch / el penthouse.
@@ -16,6 +16,8 @@ Kal dejó pasar el viernes y el fin de semana. El lunes se descubrió contestand
 
 Dos veces pasó en la camioneta por la calle de servicio detrás del Monarch, a la hora en que los valets cambiaban de turno. Las dos veces el neón seguía con la O fundida, los de chaleco rojo fumaban junto a la puerta de la cocina y nadie salió a buscarlo.
 
+Así se le fue el resto de la primavera.
+
 Le debía a Irene un nombre, y no tenía ni la primera letra.
 
 Chiara siguió apareciendo. Un café en el patio que él no siempre terminaba, un recado del casino que él fingía no necesitar. Del portón de Héctor no le dijo nada, y él no preguntó. Nadie le puso nombre a eso. *Somos sólo buenos amigos* era lo que se decía cuando alguien preguntaba, y en el barrio ya nadie preguntaba dos veces.
@@ -26,11 +28,15 @@ El chiste del campo de golf llevaba semanas rodando entre ellos.
 
 Había empezado una noche en el penthouse, cuando Chiara comentó que el club del norte había cambiado de dueño y Kal no levantó la vista del plato.
 
-—Ya lo sé. El martes le arrastré los carritos al dueño viejo.
+—Ya lo sé.
 
 Ella dejó el tenedor.
 
-—¿Tienes un porcentaje? Y no me digas que no, Kal, porque cuando dices que no así de rápido es que sí.
+—¿Tienes un porcentaje?
+
+—No.
+
+—¿Seguro?
 
 —Un nueve por ciento. —Se sirvió agua—. Pero es del estacionamiento, no del campo. No es lo mismo.
 
@@ -58,7 +64,7 @@ Kal no preguntó. Lo guardó donde guardaba las cosas que no eran suyas todavía
 
 —Mercer —dijo Enzo, desde la barra, sin sorprenderse—. Por la puerta de enfrente. Alguien te va a acusar de estar civilizándote.
 
-—No te acostumbres. Atrás hay un charco desde marzo.
+—No te acostumbres.
 
 No preguntó por ninguna mesa. Cruzó directo a la de Chiara y se sentó frente a ella como si llevara ahí toda la tarde, como si la reserva hubiera sido suya desde el principio. Chiara no dijo nada al respecto, ni una ceja, ni una pregunta, lo cual, viniendo de ella, era casi una bienvenida formal.
 
@@ -106,7 +112,7 @@ Cuando llegó la cuenta, Chiara alcanzó su bolso por costumbre. Kal puso la man
 
 —Ya una vez te dije que no me gusta deberle favores a nadie.
 
-—No me vas a deber un favor. —Kal se guardó la cartera que ni siquiera había sacado—. Tú puedes pagar las entradas al campo. Es sólo un préstamo temporal.
+—No me vas a deber un favor. —Kal ni siquiera hizo el gesto de buscar la cartera—. Tú puedes pagar las entradas al campo. Es sólo un préstamo temporal.
 
 Chiara lo miró con una sonrisa medio torcida, la que le había visto las pocas veces que alguien se salía con la suya delante de ella.
 
@@ -134,19 +140,23 @@ Chiara no tardó nada. Un polo negro, que Kal aceptó sin mirarlo, y unos pantal
 
 —Ésos no.
 
-—Cumplen el código, y tú dijiste que íbamos a jugar con mis reglas. —Chiara le acomodó el gancho sobre el brazo como quien entrega un expediente—. Camisa oscura, pantalón claro. No lo inventé yo, lo inventaron unos escoceses aburridos hace doscientos años.
+—Cumplen el código.
 
-—Son blancos. Yo me paso el día debajo de los coches, Chiara. En el taller esto dura limpio hasta que alguien estornuda.
+—Son blancos.
 
-Ella no contestó eso. Levantó las cejas y esperó, y Kal entendió que ya había perdido.
+—Es golf, Kal.
 
 Kal, por su parte, ya traía la de ella: una falda de golf que había sacado de la sección de mujer camino al probador. Se la pasó con una cara completamente seria y se metió detrás de la cortina con los pantalones y con la mandíbula. Ahí adentro peleó con algo que no era el cierre.
 
 —¿Quién diseña esto?
 
-—Gente que no se agacha. —Del otro lado de la cortina hubo un silencio corto, de tela, mientras ella extendía la falda a contraluz—. *Madonna.* Esto no es una falda, Kal, es una opinión. Es demasiado corta.
+—Gente que no se agacha —dijo Chiara, del otro lado.
 
-—Es reglamentaria —dijo Kal, desde adentro—. Lo dice el letrero de junto, con todo y tabla de centímetros.
+Hubo un silencio corto, de tela: el roce de la falda al desdoblarse, el gancho contra la barra.
+
+—Es demasiado corta —dijo Chiara.
+
+—Es reglamentaria —dijo Kal, desde adentro.
 
 La oyó volverse hacia el dependiente.
 
@@ -174,11 +184,11 @@ Entonces le sostuvo una boina frente a la cara, con las dos manos, como una ofre
 
 —No.
 
-—Es parte del conjunto. Los escoceses aburridos también la usaban.
+—Es parte del conjunto.
 
-—Los escoceses aburridos no tenían que volver el jueves, de boina, al club donde el martes arrastraron carritos. —Le quitó la boina de las manos con dos dedos y la colgó él mismo en el perchero.
+—No.
 
-Ella no insistió. Ya había ganado los pantalones.
+Ella la devolvió al perchero sin insistir. Ya había ganado los pantalones.
 
 ***
 
@@ -198,7 +208,7 @@ La chica le acercó la bolsa por encima del mostrador, con el brazo estirado tod
 
 —El estacionamiento tiene vigilancia, señor.
 
-—Ya sé. El nueve por ciento de esa vigilancia es mío.
+—Ya sé.
 
 Chiara tuvo que darse la vuelta. Cargó su propia bolsa al hombro y caminó hacia el primer hoyo sin esperarlo, y Kal la siguió con la misma facilidad con la que la seguía siempre.
 
@@ -224,11 +234,11 @@ Chiara hizo la cuenta en silencio, con esa rapidez que sólo tienen las personas
 
 —Siete años.
 
-Kal se apoyó en el palo y esperó.
+—¿Perdón?
 
-—Nada. —Pero algo en su cara decía que no era nada, y Kal, un segundo después, ya había hecho la misma cuenta.
+—Nada. —Pero algo en su cara decía que no era nada, y Kal, un segundo después, ya había hecho la misma cuenta: los años que le llevaba.
 
-Perdió el segundo hoyo también. Fue Chiara quien preguntó esta vez, con la ceja levantada, y Kal notó que la escogía liviana, después de lo anterior.
+Perdió el segundo hoyo también. Otra vez preguntó Chiara, con la ceja levantada, y Kal notó que la escogía liviana, después de lo anterior.
 
 —¿Cuál fue tu primer carro?
 
@@ -296,7 +306,7 @@ Chiara metió el palo en la bolsa, y lo sacó, y lo volvió a meter.
 
 Kal se paró en seco.
 
-—¿De la gasolinera? ¿La de la Novena, la que vende el aceite rebajado?
+—¿De la gasolinera?
 
 —Vienen en una caja de plástico. Están bien. —Y luego, más bajo, ya caminando—: No le digas a Enzo.
 
@@ -352,7 +362,7 @@ Lo que Chiara acababa de no decir era de esas cosas. No para un juez. Para una m
 
 Kal no tenía modo de saber quién más lo sabía. Sí sabía cómo se cuidaba una cosa así: sin tocarla. Lo que él no preguntara no se lo iban a sacar a él, ni en un cuarto con una grabadora, ni en una cantina, ni con un favor de por medio. Si algún día alguien venía a cobrarle a ella con eso, no iba a ser por su boca.
 
-No le preguntó el nombre. Llevaba una semana entera persiguiendo uno, y ése lo dejó donde ella lo había puesto.
+No le preguntó el nombre. Llevaba semanas persiguiendo uno, y ése lo dejó donde ella lo había puesto.
 
 En la casa club, dejó las dos bolsas en el mostrador, se subió al auto y esperó a que ella se subiera también.
 
