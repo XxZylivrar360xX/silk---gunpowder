@@ -1,4 +1,5 @@
 <!--
+CIRUGÍA DE LA LECTURA (2026-11-22, [[98_Agent_Handoff/sessions/2026-11-22_claude_cirugia_lectura_cap30]]; sigue BORRADOR): costura con el 29 («Ella lo habría arreglado en cuanto bajara», sin el café de la noche anterior); «¿Por qué ahora, si yo no te he pedido nada?» para que «Porque ya alcanzó.» responda; «Nada. Eso contestó.» literal; «Lucía» con tilde; Chiara sabe del Canal Seco por su red; DECISIÓN DEL AUTOR: «Los chismes de Las Calderas no pasan por mi grúa», vuelve el «—Ya.» de la coda (lo invierte el 31) y se cobran las fotos de los Bravos («Ninguno de tus tres»). La ceja y las costillas de Kal, la grúa que huele a pescado, el jueves que Kal vio, Rafe como «el otro nombre» del Peugeot.
 Renumerado 2026-11-08 (nuevo cauce, Parte II): antes Cap. 36.
 NUEVO CAUCE (Fase 4, 2026-11-08, terminal B): nuevo Cap. 30, tarjeta T17 (*La cuota*), POV Kal único, verbo «Reescribe» según [[11_Books/Book_01_Mascaras_De_Cristal/00_Mapa_Cauce_Cap11_Camp_Alder]] y [[98_Agent_Handoff/encargos/ENCARGO_Fase4_Parte_II]]. El encabezado sigue diciendo «Capítulo 36» hasta que la terminal principal renumere. Versión anterior íntegra: [[11_Books/Book_01_Mascaras_De_Cristal/Escenas_Eliminadas/32_Linea_Directa_Version_2026-11-08]]. Sesión: [[98_Agent_Handoff/sessions/2026-11-08_claude_fase4_cap30_linea_directa]].
 Estado: BORRADOR (lo nuevo es DISEÑO del agente; espera lectura del autor).
@@ -42,11 +43,11 @@ Rocco (2026-10-22, decision del autor; prosa DISENO; sigue BORRADOR): Nadir le a
 
 El sillón seguía cuatro centímetros fuera de su lugar.
 
-Kal lo vio al bajar, antes del café, con la casa todavía a media luz y Chiara dormida arriba. Se quedó mirándolo un momento —no era gran cosa, un mueble mal alineado, el tipo de detalle que a ella le importaba y a él nunca se le habría ocurrido medir— y después lo empujó los cuatro centímetros que faltaban, sin ruido, con la rodilla.
+Kal lo vio al bajar, antes del café, con la casa todavía a media luz y Chiara dormida arriba. Se quedó mirándolo un momento —no era gran cosa, un mueble mal alineado, el tipo de detalle que a ella le importaba y a él nunca le habría quitado el sueño— y después lo devolvió los cuatro centímetros que faltaban, sin ruido, con la rodilla.
 
-Ella había dicho que lo arreglaría mañana. Ya era mañana. No hacía falta que supiera que él se le había adelantado.
+Ella lo habría arreglado en cuanto bajara. No hacía falta que supiera que él se le había adelantado.
 
-Se sirvió el café frío que había sobrado de la noche anterior, lo tomó de pie, y salió hacia el taller antes de que la ciudad terminara de despertar.
+Se hizo un café, lo tomó de pie, y salió hacia el taller antes de que la ciudad terminara de despertar.
 
 ***
 
@@ -60,17 +61,17 @@ Ella estiró la mano hacia el carro de herramientas sin sacar la cabeza del cap�
 
 —Eso dije.
 
-Kal llevaba media hora bajo un Corolla ajeno cuando oyó el coche entrar. No era una grúa, ni un cliente, ni la patrulla que pasaba los martes a revisar el convenio. Era un coche gris, sin marcas, conducido por alguien que no dudó dónde estacionarse.
+Kal llevaba media hora bajo un Corolla ajeno, acostado en la plancha con cuidado por las costillas, cuando oyó el coche entrar. No era una grúa, ni un cliente, ni la patrulla que pasaba los martes a revisar el convenio. Era un coche gris, sin marcas, conducido por alguien que no dudó dónde estacionarse.
 
 Salió de debajo del auto limpiándose las manos con un trapo, y la reconoció antes de que ella cerrara la puerta.
 
-Lucia Varek no llevaba uniforme. Llevaba una carpeta bajo el brazo y el mismo aire de alguien que no improvisa nada.
+Lucía Varek no llevaba uniforme. Llevaba una carpeta bajo el brazo y el mismo aire de alguien que no improvisa nada.
 
 —Señor Mercer.
 
 —Subjefa.
 
-Ella miró el patio, el letrero, la fila de camiones, sin prisa, como quien lee un lugar antes de hablar en él.
+Ella le miró la ceja, sin preguntar, y después el patio, el letrero, la fila de camiones, sin prisa, como quien lee un lugar antes de hablar en él.
 
 —Vengo por el convenio de grúa. Toca renovarlo este trimestre y alguien en el Departamento decidió que había que revisar los términos en persona, no por correo.
 
@@ -92,23 +93,23 @@ Kal señaló la oficina con la cabeza.
 
 ***
 
-La oficina de Almendra Towing era dos escritorios, un ventilador que giraba más despacio de lo que debería y una ventana que daba al patio. Lucia entró primero. No se sentó hasta que él lo hizo.
+La oficina de Almendra Towing era dos escritorios, un ventilador que giraba más despacio de lo que debería y una ventana que daba al patio. Lucía entró primero. No se sentó hasta que él lo hizo.
 
 —Usted y yo ya nos conocemos —dijo, dejando la carpeta cerrada sobre el escritorio, entre los dos—. El Peugeot rojo.
 
 —Se cayó el caso.
 
-—Se cayó. Eso no es lo mismo que decir que le creí. —No cambió el tono—. Tampoco le creí lo del hipódromo. Leí la denuncia que le tomó Voss: teléfono, cartera, reloj, un caballo, nadie vio nada. Está bien hecha. Es la segunda vez que me llega algo suyo así de bien hecho.
+—Se cayó. Eso no es lo mismo que decir que le creí. —No cambió el tono—. Tampoco le creí lo del hipódromo. Leí la denuncia que le tomó Voss: teléfono, cartera, reloj, un caballo muerto, nadie vio nada. Está bien hecha. Es la segunda vez que me llega algo suyo así de bien hecho.
 
 Kal no contestó nada a eso. Tomó una llave que estaba fuera de lugar sobre el escritorio y la puso en su gancho, un gesto pequeño, sin necesidad real.
 
 —¿Entonces qué es esto?
 
-—Esto es que llevo tres semanas escuchando el mismo nombre en tres reportes distintos y ninguno de los tres alcanza para nada. —Lucia no abrió la carpeta. La dejó ahí, como un límite—. Las Calderas. Dueños de taller que dejan de contestar el teléfono a la segunda visita de un patrullero. Denuncias que se retiran solas.
+—Esto es que llevo tres semanas escuchando el mismo nombre en tres reportes distintos y ninguno de los tres alcanza para nada. —Lucía no abrió la carpeta. La dejó ahí, como un límite—. Las Calderas. Dueños de taller que dejan de contestar el teléfono a la segunda visita de un patrullero. Denuncias que se retiran solas.
 
-—Yo remolco coches. No cobro cuentos.
+—Yo remolco coches, subjefa. Los chismes de Las Calderas no pasan por mi grúa.
 
-Lucia sostuvo la mirada un momento más de lo cómodo.
+Lucía sostuvo la mirada un momento más de lo cómodo.
 
 —Le estoy diciendo que usted probablemente sabe en tres semanas lo que a mí me toma tres meses aprender, y que no voy a pedírselo dos veces si la primera me contesta esto.
 
@@ -120,29 +121,29 @@ Kal se cruzó de brazos.
 
 —Suena a mucho trabajo para nada a cambio.
 
-Lucia no le discutió la cuenta.
+Lucía no le discutió la cuenta.
 
 Kal la miró un momento, midiendo lo que ya sabía: que decir que no ahí no costaba nada, y que decir que sí tampoco lo obligaba todavía a nada concreto.
 
-—Voy a pensarlo.
+—Voy a pensarlo, subjefa.
 
-Lucia se puso de pie, tomó la carpeta y la dejó de nuevo sobre el escritorio, abierta esta vez en la última hoja del convenio.
+Lucía se puso de pie, tomó la carpeta y la dejó de nuevo sobre el escritorio, abierta esta vez en la última hoja del convenio.
 
 —Ahí abajo hay un número. Es del Departamento, no mío. Si algún día tiene algo que valga la pena, use ése, no el 911.
 
-Salió sin ofrecerle la mano. Kal se quedó mirando el número un momento, y después lo cerró junto con la carpeta, sin decidir todavía nada.
+Salió sin ofrecerle la mano. Kal se quedó mirando el número un momento, y después cerró la carpeta, sin decidir todavía nada.
 
 ***
 
 Le tomó dos días.
 
-No porque no supiera la respuesta —la supo casi de inmediato, apenas Héctor mencionó, sin darle importancia, que el viejo Portillo llevaba semanas cerrando la llantera una hora antes los jueves porque «un tipo de Santa Brígida pasa a cobrar y no le gusta que haya clientes viendo»— sino porque dos días fue lo que tardó en decidir que no le debía nada a Rafe Domínguez, y que Eddie Sosa sí era el tipo de problema que valía la pena sacarse de encima sin gastar a Héctor en ello.
+No porque no supiera la respuesta —la supo casi de inmediato, apenas Héctor mencionó, sin darle importancia, que el viejo Portillo llevaba semanas cerrando la llantera una hora antes los jueves porque «un tipo de Santa Brígida pasa a cobrar y no le gusta que haya clientes viendo»— sino porque dos días fue lo que tardó en decidir que no le debía nada a Rafe Domínguez, el otro nombre que Chiara había puesto junto al Peugeot, y que Eddie Sosa sí era el tipo de problema que valía la pena sacarse de encima sin gastar a Héctor en ello.
 
-Portillo no le compraba mucho a Almendra. Dos, tres pedidos al año desde el Lote, nada que lo convirtiera en gente del Patio. Pero era el tipo de negocio pequeño y aburrido que Kal reconocía sin esfuerzo: alguien que trabajaba de más para deber de menos, y que ahora pagaba jueves de por medio para que nadie le rompiera el escaparate.
+Portillo no le compraba mucho a Almendra. Dos, tres pedidos al año desde el Lote, nada que lo convirtiera en gente del Patio. Pero era el tipo de negocio pequeño y aburrido que Kal reconocía sin esfuerzo: alguien que trabajaba de más para deber de menos, y que ahora pagaba cada jueves para que nadie le rompiera el escaparate.
 
 Eddie Sosa cobraba entre las seis y las siete, siempre en el mismo Charger negro, siempre con algo al cinto que no se molestaba en esconder del todo.
 
-Eso era todo lo que Kal sabía.
+Eso fue todo lo que Kal vio el jueves, estacionado enfrente con el capó de la grúa abierto.
 
 ***
 
@@ -160,13 +161,13 @@ Walt pasó por el taller a la mañana siguiente, con un café de la esquina en l
 
 Kal no preguntó para qué.
 
-—¿Voy contigo?
+—¿Voy contigo? —preguntó Walt.
 
 —No. Si llego acompañado, Irene va a pensar que vengo a negociar.
 
 Walt asintió y se llevó el café a la oficina.
 
-Llegó al límite del Canal Seco a media tarde, en el Audi, sin nadie en el asiento de al lado. Esta vez no lo esperaba nadie con las armas a la vista. Lo esperaba Tomás, apoyado en el poste de un toldo, con las manos vacías. De día el mercado tenía más ruido y el mismo silencio: la gente seguía vendiendo, pero lo iba viendo pasar puesto por puesto.
+Kal llegó al límite del Canal Seco a media tarde, en el Audi, sin nadie en el asiento de al lado. Esta vez no lo esperaba nadie con las armas a la vista. Lo esperaba Tomás, apoyado en el poste de un toldo, con las manos vacías. De día el mercado tenía más ruido y el mismo silencio: la gente seguía vendiendo, pero lo iba viendo pasar puesto por puesto.
 
 —Brazos.
 
@@ -240,13 +241,11 @@ Nadir dejó de girar la llave.
 
 Nadir esperó a que siguiera, y Kal no siguió.
 
-—¿Y qué le diste? —Se limpió la grasa del pulgar en el pantalón, despacio, haciendo la cuenta que Kal no le estaba haciendo—. Porque Irene no cambia lo suyo por nada, y tú no tienes cara de haber pagado en efectivo.
+—¿Por qué ahora, si yo no te he pedido nada? —Se limpió la grasa del pulgar en el pantalón, despacio, haciendo la cuenta que Kal no le estaba haciendo.
 
 —Porque ya alcanzó.
 
-Rocco volvió con la llave Allen babeada y se la dejó junto a la bota. Nadir no la recogió.
-
-Nadir lo miró desde abajo un rato largo. Después volvió a la cadena, le dio media vuelta más a la tuerca y probó la tensión con el pulgar.
+Rocco volvió con la llave Allen babeada y se la dejó junto a la bota. Nadir no la recogió. Lo miró desde abajo un rato largo. Después volvió a la cadena, le dio media vuelta más a la tuerca y probó la tensión con el pulgar.
 
 —Wallah. Qué barato me salió —dijo, sin mirarlo.
 
@@ -264,7 +263,7 @@ La llamada entró a las once y cuarenta, a un teléfono que Kal llevaba encima d
 
 Colgó.
 
-Kal se vistió en la oscuridad. Arriba, Chiara se dio la vuelta en la cama y no dijo nada.
+Kal se levantó y se vistió en la oscuridad. Chiara se dio la vuelta en la cama y no dijo nada.
 
 El sedán estaba donde le habían dicho, solo, al fondo de un lote de contenedores que olía a hielo derretido y a escamas. Lo rodeó una vez con la linterna. Las puertas cerradas. Nada en los asientos. La parte de atrás iba más baja que la de adelante, dos dedos, lo que se nota cuando uno vive de levantar coches: algo pesado en el maletero, bien acomodado, que no se movió cuando le pegó al parachoques con la palma.
 
@@ -282,7 +281,7 @@ Llegó al loft a las tres y diez. Había una luz en la cocina. Chiara estaba sen
 
 —¿Un arrastre?
 
-—Un sedán, del muelle de carga. Olía a pescado hasta en el volante.
+—Un sedán, del muelle de carga. La grúa va a oler a pescado una semana.
 
 Ella le miró las manos. Kal se las lavó en el fregadero aunque las traía limpias, se las secó con el trapo y lo dejó doblado en el borde. Chiara no preguntó de quién. Dejó la taza en la isla y subió primero.
 
@@ -298,7 +297,7 @@ A media mañana, con dos clientes esperando junto a la máquina de refrescos y D
 
 Danny se había callado en el capó del Tercel. Uno de los clientes miró a Kal y después miró a otro lado.
 
-Kal le preguntó qué día pasaban a cobrar. Sacó del bolsillo de atrás la libreta de los fiados, la que llevaba años guardando lo que el barrio le fiaba, y anotó la fecha en la última hoja, sola, arriba de todo, donde todavía no había nada.
+Kal le preguntó qué día pasaban a cobrar. Sacó del bolsillo de atrás la libreta de los fiados, la que llevaba años guardando lo que él le fiaba al barrio, y anotó la fecha en la última hoja, sola, arriba de todo, donde todavía no había nada.
 
 ***
 
@@ -306,7 +305,7 @@ Esa tarde, cuando se fueron los clientes, Meiko tocó con los nudillos el marco 
 
 —¿Me puede adelantar la semana?
 
-Kal levantó la vista de la libreta. Llevaba mes y medio en el taller y no había faltado un día. Desde la semana anterior llegaba a las siete con el pelo todavía húmedo y la cara de alguien que había dormido cuatro horas, porque a esas horas, la noche anterior, todavía estaba entregando llaves en la rampa del Monarch.
+Kal levantó la vista de la libreta. Llevaba mes y medio en el taller y no había faltado un día. Desde la semana anterior llegaba a las siete con el pelo todavía húmedo y la cara de alguien que había dormido cuatro horas, porque la noche anterior, hasta muy tarde, había estado entregando llaves en la rampa del Monarch.
 
 —¿Para qué?
 
@@ -338,13 +337,13 @@ Días después, cerrando la caja, Héctor lo comentó sin levantar la vista de l
 
 —¿Y Portillo qué les dijo?
 
-—Que no sabía. —Héctor firmó una hoja y pasó a la siguiente—. Después le preguntaron cuánto le habían cobrado, y contestó que nada. Eso, nada. —Dejó la pluma sobre el escritorio—. Al muchacho no le gustó la respuesta.
+—Que no sabía. —Héctor firmó una hoja y pasó a la siguiente—. Después le preguntaron cuánto le habían cobrado. —Dejó la pluma sobre el escritorio—. Nada. Eso contestó. Al muchacho no le gustó la respuesta.
 
 Kal no dijo nada. Héctor tampoco. Los dos estaban pensando en Calle Corona.
 
 ***
 
-Lucia volvió al taller dos semanas después de la primera visita, cerca del cierre, sin carpeta esta vez.
+Lucía volvió al taller dos semanas después de la primera visita, cerca del cierre, sin carpeta esta vez.
 
 —Sirvió —dijo, sin preámbulo—. Usted no me dijo que iba a servir. No me dijo nada, hasta que llamó.
 
@@ -354,7 +353,7 @@ Kal no discutió el punto. Estaba limpiando una llave que ya estaba limpia.
 
 —Ahora nada. Un arma menos en la calle, una extorsión que ya puedo sostener y un expediente que aguanta una revisión. Eso no significa que confíe en usted.
 
-Kal asintió, como quien firma un recibo. Algo parecido a media sonrisa le cruzó la cara a Lucia y se fue tan rápido como llegó.
+Kal asintió, como quien firma un recibo. Algo parecido a media sonrisa le cruzó la cara a Lucía y se fue tan rápido como llegó.
 
 Kal dejó la llave en su gancho.
 
@@ -364,7 +363,7 @@ Kal dejó la llave en su gancho.
 
 —Si alguna vez tengo algo que de verdad valga, no quiero perderlo en tres escritorios.
 
-Lucia lo miró un momento, la misma mirada un poco más larga de lo necesario que le había dedicado en la comisaría meses atrás.
+Lucía lo miró un momento, la misma mirada un poco más larga de lo necesario que le había dedicado en la comisaría meses atrás.
 
 Sacó una tarjeta del bolsillo de la chaqueta —lisa, sin escudo, con un número escrito a mano en el reverso— y la dejó sobre el capó del auto más cercano, entre los dos, sin acercarla del todo hacia él.
 
@@ -372,7 +371,7 @@ Sacó una tarjeta del bolsillo de la chaqueta —lisa, sin escudo, con un númer
 
 Kal la tomó y la guardó sin mirarla dos veces.
 
-Lucia se acomodó la chaqueta y se fue sin ofrecerle la mano, igual que la primera vez.
+Lucía se acomodó la chaqueta y se fue sin ofrecerle la mano, igual que la primera vez.
 
 ***
 
@@ -380,7 +379,7 @@ Esa noche Kal llegó al loft con la tarjeta todavía en el bolsillo del pecho, d
 
 Chiara estaba en la cocina, descalza, con el pelo recogido a medias y una copa de vino que llevaba más tiempo en la mano que en la boca. Lo miró entrar, leyó algo en cómo se movía —siempre lo hacía— y esperó.
 
-—Lucia Varek me dejó su número directo —dijo Kal, dejando las llaves en el cuenco con más cuidado del necesario—. El de verdad, no el del Departamento.
+—Lucía Varek me dejó su número directo —dijo Kal, dejando las llaves en el cuenco con más cuidado del necesario—. El de verdad, no el del Departamento.
 
 Chiara no bajó la copa de inmediato.
 
@@ -388,9 +387,9 @@ Chiara no bajó la copa de inmediato.
 
 —Le di algo sobre un problema de Los Bravos. Sirvió. Ella quiso que sirviera otra vez, más rápido.
 
-—¿Un problema tuyo, o uno que te encontraste en la calle?
+—¿Un problema tuyo, o uno que te encontraste en la calle? Porque yo te llevé tres de Los Bravos en fotos.
 
-—De alguien que no me debe nada. —Se encogió de hombros, casi—. Se resolvió sin que Héctor tuviera que romperle nada a nadie.
+—Ninguno de tus tres. Ése lo encontró Héctor, y es de alguien que no me debe nada. —Se encogió de hombros, casi—. Se resolvió sin que nadie tuviera que romperle nada a nadie.
 
 Chiara se quedó con la copa a medio camino, dándole vueltas a algo que no dijo todavía.
 
@@ -398,7 +397,7 @@ Chiara se quedó con la copa a medio camino, dándole vueltas a algo que no dijo
 
 Kal no tenía la respuesta. No fingió tenerla.
 
-—¿Y el Canal Seco? —Dejó la copa en la barra, sin soltarla—. No me digas que nada, porque tú dices «nada» con la misma cara con que dices «se arregla».
+—¿Y el Canal Seco? Me dicen que fuiste a ver a Irene, solo. —Dejó la copa en la barra, sin soltarla—. No me digas que nada, porque tú dices «nada» con la misma cara con que dices «se arregla».
 
 —Nada que no se arregle.
 
@@ -406,10 +405,12 @@ Chiara lo dejó pasar, de momento, como se deja pasar una cifra que se va a revi
 
 —¿Y las noches? —Esta vez sí lo miró—. Sales tarde, Kal. Vuelves tarde.
 
-Kal tardó lo que tarda en dejar unas llaves en su sitio.
+Kal miró el cuenco de las llaves antes de contestar.
 
 —Arrastres. De noche se descomponen más coches de los que crees, y los de la noche pagan doble.
 
-Chiara asintió una vez, despacio, como quien firma de recibido algo que no piensa dar por bueno. No dijo nada más. Bebió lo que quedaba en la copa, la dejó en el fregadero y se acercó a él sin prisa.
+—Ya.
+
+No dijo nada más. Bebió lo que quedaba en la copa, la dejó en el fregadero y se acercó a él sin prisa.
 
 Kal la dejó acercarse.

@@ -69,7 +69,7 @@ Plan de trabajo, en marcha desde el 2026-11-21 (DECISIÓN DEL AUTOR sobre el mé
 - Lenguaje neutro (DECISIÓN DEL AUTOR, 2026-11-21: «todo hay que neutralizarlo»): «¿vale?» pasa a «¿sí?» (hechos el 23 y el 27); «arcén» a «acotamiento»; «grifo» a «llave». Quedan «grifo» en los caps. 2 y 8 (archivos `02` y `07`), para la pasada final; revisar cada capítulo que siga.
 - ~~Cap. 28: las fotos en la barra del loft~~ resuelto («Las recogí de la barra antes de salir»).
 - «Me explico» de Chiara: sale el del 28; quedan el 27, el 31 y el 32. Dejar uno o dos al operar el 31 y el 32.
-- Cap. 30 (costura 29→30): «Ella había dicho que lo arreglaría mañana» (en el 29 sólo lo decide), «de la noche anterior» (no hay café en el 29) y «lo giró»/«lo empujó».
+- ~~Cap. 30 (costura 29→30): «había dicho», el café y «lo empujó»~~ resuelto («Ella lo habría arreglado en cuanto bajara»).
 - Cap. 33: revisar otra vez la apertura (costura 32→33: la amenaza de los aretes se cobra con «No te muevas de ahí») cuando la sesión de la Parte II cierre el 32. Arrastres de la II hacia la III: se atienden al final de la III (DECISIÓN DEL AUTOR, 2026-11-21).
 - ~~Peugeot → Audi «la noche de la incursión»~~ resuelto en el cap. 39 (archivo `43_La_Puerta`; la línea no estaba en el 35).
 
@@ -104,7 +104,7 @@ Plan de trabajo, en marcha desde el 2026-11-21 (DECISIÓN DEL AUTOR sobre el mé
 | 27 | Una silla | `29_El_Patio_Ajeno` |  | hecho, BORRADOR | ver git log |
 | 28 | Media baraja | `30_Media_Baraja` | fotos (costura 27→28) | hecho, BORRADOR | ver git log |
 | 29 | Vamos a casa | `31_Vamos_A_Casa` | plática del camino de vuelta (DECISIÓN DEL AUTOR) | hecho, BORRADOR | ver git log |
-| 30 | Línea directa | `32_Linea_Directa` |  | pendiente | |
+| 30 | Línea directa | `32_Linea_Directa` | costura 29→30; «—Ya.» para el 31 | hecho, BORRADOR | ver git log |
 | 31 | Lo único que es mío | `33_Mas_De_La_Cuenta` |  | pendiente | |
 | 32 | A ti por mí | `34_Mi_Pareja` |  | pendiente | |
 | 33 | Cambio de firmas | `35_Sin_Fecha_De_Regreso` | costura 32→33 (revisar al cerrar el 32) | hecho, BORRADOR (en paralelo con la Parte II) | ver git log |
