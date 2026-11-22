@@ -61,7 +61,7 @@ Plan de trabajo, en marcha desde el 2026-11-21 (DECISIÓN DEL AUTOR sobre el mé
 - ~~Cap. 9: «Lo había armado»~~ resuelto (D5).
 - ~~Cap. 14: el chico de la cerca~~ resuelto (una línea).
 - Ficha de Chiara (l. ~330, «se disculpa sin argumentar»): desde el cap. 13 defiende la red y pierde (DECISIÓN DEL AUTOR); ajustar al cerrar el libro.
-- Cap. 16 (`17_Cuentas_Claras`, l. ~287): «los meseros de la Isla» pasa a «La Isla» (norma del libro).
+- ~~Cap. 16: «los meseros de la Isla»~~ resuelto («La Isla»).
 - ~~Cap. 10: martes y jueves~~ resuelto («los martes a las diez»).
 
 | Cap. | Título | Archivo | Transversal | Estado | Commit |
@@ -81,7 +81,7 @@ Plan de trabajo, en marcha desde el 2026-11-21 (DECISIÓN DEL AUTOR sobre el mé
 | 13 | Roma Atrii | `12_Roma_Atrii` | redundancia POV (el 13 es la primera versión; se reduce en el 14) | hecho, BORRADOR | ver git log |
 | 14 | Con miedo y todo | `14_La_Regla_Del_Telefono` | redundancia POV (el chico de la cerca en una línea) | hecho, BORRADOR | ver git log |
 | 15 | Yo lo llevo | `15_El_Porton` | redundancia POV (casino y cuarto en una línea) | hecho, BORRADOR | ver git log |
-| 16 | Canal Seco | `17_Cuentas_Claras` | redundancia POV; salto a junio | pendiente | |
+| 16 | Canal Seco | `17_Cuentas_Claras` | redundancia POV (prohibición al chico, fuera); salto a junio (cae en el 17) | hecho, BORRADOR | ver git log |
 | 17 | Día nublado | `18_El_Dia_Nublado` | salto a junio | pendiente | |
 | 18 | En lo pequeño | `20_El_Mirador` |  | pendiente | |
 | 19 | Grazie | `21b_Grazie` |  | pendiente | |

@@ -1,7 +1,7 @@
 <!--
 Reconstruido 2026-11-08, Fase 4 del nuevo cauce (nuevo Cap. 16, T5, POV Kal): [[11_Books/Book_01_Mascaras_De_Cristal/00_Plan_Nuevo_Cauce]] y [[11_Books/Book_01_Mascaras_De_Cristal/00_Mapa_Cauce_Cap11_Camp_Alder]]. Plan: [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/00_Plan_Cap16_Le_Quede_Debiendo_POV_Kal]]. Versión anterior íntegra (TERMINADO, con su historial de cirugías): [[11_Books/Book_01_Mascaras_De_Cristal/Escenas_Eliminadas/17_Cuentas_Claras_Version_2026-11-08]] (git `3d26627`).
 Decisiones del autor para esta reconstrucción (2026-11-08, las cinco en la opción recomendada): el capítulo crece con el billar de atrás del Monarch, y la reunión en casa de Héctor se queda; en el billar, la mano de Crowe se ve en el joven que fue el sábado a preguntar si «los dos de la Almendra» habían vuelto, pidió agua y no se la tomó (Kal no sabe leerlo; quien les pasó el rumor sigue siendo Meiko, a quien Danny cubre, y se mantiene C-2); el candado del portón y «La llave la tiene la señora» salen de lado; Nadir le cobra a Kal en una línea el teléfono apagado («Pero tú te ibas al cerro con el teléfono apagado»).
-Estado: BORRADOR. Prosa DISEÑO pendiente de lectura del autor. Numeración: renumerado a «Capítulo 16» el 2026-11-08 al cerrar la Parte I (antes «Capítulo 18»).
+Estado: BORRADOR. Prosa DISEÑO pendiente de lectura del autor. Cirugía de la lectura (2026-11-21; BORRADOR, espera lectura del autor): [[98_Agent_Handoff/sessions/2026-11-21_claude_cirugia_lectura_cap16]]. Restituida la réplica literal de la reunión («Tenemos paz con el Canal Seco. Eso no tiene precio fijo.»); el beat de narración del barrido se queda porque corta un ping-pong. DECISIÓN DEL AUTOR: el sermón a Nadir y Danny se recorta («No el error. La sorpresa.» y «Prefiero decir que no a tiempo…» fuera) y lo cierra «el tuerto bebe los viernes»; el «Avísenme» con el eco de Marisol, intacto. Sale la prohibición al chico de la vulcanizadora (ya en el 15). «La Isla». Numeración: renumerado a «Capítulo 16» el 2026-11-08 al cerrar la Parte I (antes «Capítulo 18»).
 Protagonistas: Kal Mercer (POV), Walt Keegan, Irene Salcedo, Héctor Navarro, Nadir Amrani, Daniel Hayes. Apariciones: Tomás (hombre de Irene), el patrón de la vulcanizadora y la panadera (sin nombre), el del billar (sin nombre). Mencionados: Chiara («la señora»), el joven de Crowe (sin nombre, por boca del del billar), Crowe (el Tasador).
 Ventana temporal: del lunes después del domingo del infarto (nuevo 15) al jueves en que Héctor vuelve a su casa. Antes de H4 (El día nublado).
 Lugares: Almendra Towing (puerta del taller), Canal Seco (territorio de La Ronda del Canal), calle de la casa de Héctor (vulcanizadora, panadería, portón), casa de Héctor, billar de la calle de servicio detrás del Monarch.
@@ -134,7 +134,7 @@ Héctor lo miró desde el asiento.
 
 —Ése no es mío.
 
-El patrón de la vulcanizadora ya venía cruzando, limpiándose las manos en un trapo. Kal lo conocía de toda la vida, de pasarle llantas y de no pasarle nada más; era el mismo que meses antes le había prohibido a su chico acercarse a la casa común mientras Chiara durmiera ahí. Nadir se lo había contado en la cocina, como reproche, y Kal lo había dejado pasar.
+El patrón de la vulcanizadora ya venía cruzando, limpiándose las manos en un trapo. Kal lo conocía de toda la vida, de pasarle llantas y de no pasarle nada más.
 
 —Don Héctor. —Se quitó la gorra—. Mi chico se lo puso el viernes en la noche. Quedó abierto cuando se lo llevaron.
 
@@ -178,7 +178,7 @@ Kal lo contó primero, seco, sin adornar ni suavizar. Walt llenó los huecos. Na
 
 Kal no contestó enseguida. Miró las manos de Héctor sobre los brazos de la silla verde, todavía con la marca del suero en el dorso.
 
-—Tenemos paz con el Canal Seco. Nadie va a venir por Nadir ni por Danny, nadie te va a tocar el portón y el taller sigue abierto. Eso no tiene precio fijo.
+—Tenemos paz con el Canal Seco. Eso no tiene precio fijo.
 
 —Mentira. —Héctor no se movió de la silla—. ¿Qué más le diste?
 
@@ -248,11 +248,11 @@ Nadir levantó la vista, despacio, como quien espera la segunda parte.
 
 —Pensamos que ibas a decir que no —dijo Nadir, en voz baja.
 
-—Probablemente. —Kal no lo negó—. Pero si me lo hubieran dicho, y las cosas salían mal de todos modos, habría tenido un plan esperando, en vez de estar armando uno a los golpes, sin dormir, sin saber ni siquiera qué pregunta hacer primero. Eso es lo que cuesta que no me avisen. No el error. La sorpresa.
+—Probablemente. —Kal no lo negó—. Pero si me lo hubieran dicho, y las cosas salían mal de todos modos, habría tenido un plan esperando, en vez de estar armando uno a los golpes, sin dormir, sin saber ni siquiera qué pregunta hacer primero.
 
 Danny no dijo nada, pero asintió despacio.
 
-—La próxima vez que se les ocurra algo así —siguió Kal—, no me pidan permiso. Avísenme. Que me entere por ustedes, no por una marca en una puerta. Aunque sepan que voy a decir que no. Prefiero decir que no a tiempo, que enterarme tarde de que ya dijeron que sí sin mí.
+—La próxima vez que se les ocurra algo así —siguió Kal—, no me pidan permiso. Avísenme. Que me entere por ustedes, no por una marca en una puerta.
 
 Nadir no asintió. Se quedó quieto, con las manos quietas, que en él era raro.
 
@@ -284,7 +284,7 @@ El del billar era un hombre mayor, con chaleco y una tiza azul en el bolsillo de
 
 —¿Con quién habla?
 
-—Con todos. Con los valets, con los meseros de la Isla, con el que se deje. —Se encogió de hombros—. Aquí todos traen gorra y chaleco. Salen de atrás del hotel, juegan media hora y regresan a cuadrar llaves. No les pregunto el nombre. Si les pregunto el nombre, no vuelven.
+—Con todos. Con los valets, con los meseros de La Isla, con el que se deje. —Se encogió de hombros—. Aquí todos traen gorra y chaleco. Salen de atrás del hotel, juegan media hora y regresan a cuadrar llaves. No les pregunto el nombre. Si les pregunto el nombre, no vuelven.
 
 Kal dejó pasar eso. Miró las mesas. Nadie se parecía a nadie. Con esa luz, nadie se parecía ni a sí mismo.
 
