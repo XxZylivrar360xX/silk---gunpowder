@@ -1,4 +1,5 @@
 <!--
+**Cirugía de la lectura (2026-11-21, Claude Code; [[98_Agent_Handoff/sessions/2026-11-21_claude_cirugia_lectura_cap35]]):** fuera la muletilla «Y no me digas que…» (Danny; con Rudy pasa a «¿Le viste la cara?»), «esta mañana, con el café enfriándose» («Releí la carta veinte veces»), la glosa del latón en la narración; Chiara en un solo párrafo de julio a Cuesta Bonita y «Necesitas pasaporte —dijo ella»; segundo lector: el Alfa Romeo, «lo intenté», la caja vendida «a mediados del verano», la proa, «allá atrás» y la escalerilla. Literales intactos. Regla 06: 25 % (24 % antes). Sigue BORRADOR.
 Nuevo cauce (Fase 4, 2026-11-08, orden del autor con el método de [[98_Agent_Handoff/encargos/ENCARGO_Fase4_Paralelo_Reusa]]; verbo «Reescribe y poda», fuera del reparto Reusa): **nuevo Cap. 35** (T22, POV Kal, en [[11_Books/Book_01_Mascaras_De_Cristal/00_Mapa_Cauce_Cap11_Camp_Alder]]). Cambia de dueño: antes era 69 % Chiara. El archivo conserva su nombre. Título confirmado por el autor (2026-09-27): «Al revés».
 Estado: BORRADOR. Prosa DISEÑO pendiente de lectura del autor. Versión anterior íntegra, con todo su historial (E6, conciliación con el 24c, víspera, regla 05, Frente 1, costura H13): [[11_Books/Book_01_Mascaras_De_Cristal/Escenas_Eliminadas/38_Al_Reves_Version_2026-11-08]]. Sesión: [[98_Agent_Handoff/sessions/2026-11-08_claude_fase4_cap35_al_reves]]. Ajuste de la terminal B (poda a ~4,900, Mabel, fecha, pañuelo comprimido, sin Dario): [[98_Agent_Handoff/sessions/2026-11-08_claude_fase4_cap35_ajuste_terminal_b]].
 Recibe de *Cuatro letras* (archivo 37, fila 34 del mapa): la carta *La Notte Bellandi*, el beso de labial, «—Chiara», El Patio que crece alrededor de Kal, Bonnie y Meiko con nombre («de una banda del norte que ya no existía»), «lo que anda buscando el jefe», el gag de «Roma» (sólo Nadir y Bonnie), la línea de la cocaína y Mabel con «Que sepa qué se celebra». Acción de Gracias, Walt, Héctor y el gag de Danny salen. La ferretería va al nuevo 30. (DECISIÓN DEL AUTOR 2026-11-08, ajuste de la terminal B.) *Cuatro letras* se retira a [[11_Books/Book_01_Mascaras_De_Cristal/Escenas_Eliminadas/37_Cuatro_Letras_Version_2026-11-08]].
@@ -131,7 +132,7 @@ Danny lo alcanzó al final de la tarde, los dos contra el mismo camión.
 
 —Vino un tipo a mediodía. No era de aquí. Preguntó si le podíamos conseguir coca para venderla en el barrio.
 
-—¿Qué le dijiste? Y no me digas que le diste precio.
+—¿Qué le dijiste?
 
 —Que te preguntara a ti. ¿Qué le digo si vuelve?
 
@@ -159,7 +160,7 @@ El viejo sacó la bala de la bolsa con dos dedos y la puso bajo la lupa del banc
 
 —¿Cómo sabe? En tres lados me dijeron que plomo es plomo.
 
-—El molde tiene la ranura chueca. Lo hice yo, mal, hace once años, y nunca lo cambié. —Se la devolvió—. Vendí una caja de éstas a finales del verano. A uno que no regateó, que es lo primero que noto.
+—El molde tiene la ranura chueca. Lo hice yo, mal, hace once años, y nunca lo cambié. —Se la devolvió—. Vendí una caja de éstas a mediados del verano. A uno que no regateó, que es lo primero que noto.
 
 —¿Se acuerda del que la compró?
 
@@ -171,7 +172,7 @@ No hizo falta asustarlo. Kal se sentó de copiloto y Rudy se puso a hablar con l
 
 —Me pagaron por recoger una caja y dejarla aquí. Cuarto doce. Eso fue todo.
 
-—¿Quién te pagó? Y no me digas que un sobre por debajo de la puerta.
+—¿Quién te pagó? ¿Le viste la cara?
 
 —Al que se la dejé no lo había visto nunca. No era de aquí. Grandote, callado. Abrió la puerta con el teléfono en la oreja y ni me miró. —Rudy tragó—. Le dijo a alguien que ya tenía todo. Y luego dijo para quién. Un apellido. Lo dijo como se dice el nombre del patrón.
 
@@ -263,7 +264,7 @@ Al final del muelle, donde las tablas se volvían concreto y empezaba el estacio
 
 Blake buscó algo que decir y no lo encontró. Dejó el vaso vacío en un poste, mal apoyado, y caminó hacia los autos sin volverse. Kal esperó a que la puerta del auto se cerrara. Después enderezó el vaso en el poste para que no cayera al agua y volvió por las tablas.
 
-Ella no estaba en la cubierta. La encontró en la proa, sola, con los brazos cruzados contra el frío y la fiesta entera a la espalda. Se puso a su lado en la baranda y no le preguntó si estaba bien. Estuvieron mirando la costa oscura un par de minutos.
+Ella no estaba con los invitados. La encontró en la proa, sola, con los brazos cruzados contra el frío y la fiesta entera a la espalda. Se puso a su lado en la baranda y no le preguntó si estaba bien. Estuvieron mirando la costa oscura un par de minutos.
 
 —Te arruinó veinte minutos —dijo él.
 
@@ -273,7 +274,7 @@ Kal se apartó de la baranda y le tendió la mano, con la palma abierta hacia ar
 
 —Ven.
 
-—¿A dónde? Tengo cien invitados allá afuera, Kal.
+—¿A dónde? Tengo cien invitados allá atrás, Kal.
 
 —Ven. Los cien se cuidan solos cinco minutos.
 
@@ -329,7 +330,7 @@ La vio sonreír de lado y dejar de sonreír.
 
 —Ya te lo dije. Todavía no.
 
-—Ya pasó «todavía». —Giró la cabeza hacia ella—. Me mandaste una carta con esa palabra. Nadir cree que voy a importar aceite. Bonnie, que es un Alfa Romeo. Y llevo dos semanas sin preguntarte, como me pediste. Ya pasó.
+—Ya pasó «todavía». —Giró la cabeza hacia ella—. Me mandaste una carta con esa palabra. Nadir cree que voy a importar aceite. Bonnie, que no es un Alfa Romeo. Y llevo dos semanas sin preguntarte, como me pediste. Ya pasó.
 
 Ella lo miró un momento largo.
 
@@ -339,7 +340,7 @@ Fue hasta el bolso que había dejado en el sillón y volvió con un papel de los
 
 *ROMA.*
 
-—Ya lo sé —dijo Kal—. La leí veinte veces esta mañana, con el café enfriándose.
+—Ya lo sé —dijo Kal—. Releí la carta veinte veces.
 
 —Léelo al revés.
 
@@ -351,7 +352,7 @@ No tardó. Giró la palabra dentro de la cabeza, que es nada, y después se qued
 
 Ninguno dijo nada durante un rato.
 
-—¿Y Atrii? Ése no sale al revés; lo intenté.
+—¿Y Atrii? Ése no sale al revés.
 
 Chiara se sentó otra vez a su lado.
 
@@ -401,9 +402,7 @@ Kal vio cómo se le enderezaba la espalda antes de que terminara la frase, y la 
 
 Ella fue por segunda vez al bolso. Esta vez sacó, de la bolsa interior, un pañuelo de lino blanco doblado en cuatro, y lo puso sobre la tapa del piano con la inicial hacia arriba. Una *C* en hilo azul oscuro, pequeña, en una esquina.
 
-—En julio. Al salir de Santa Lucía. —Siguió antes de que él preguntara—. Antes del corral.
-
-—Me llevaron a Cuesta Bonita. Valenti, en persona. —No bajó la vista—. Me preguntó si estaba aquí para servir a la mesa de sus socios o para armarme una propia, y después cambió al español para decirme una frase que no era suya: «Pon tu casa en orden, señora Ardizzone, o hablaremos de este Mercer tuyo.»
+—En julio. Al salir de Santa Lucía. —Siguió antes de que él preguntara—. Antes del corral. Me llevaron a Cuesta Bonita. Valenti, en persona. —No bajó la vista—. Me preguntó si estaba aquí para servir a la mesa de sus socios o para armarme una propia, y después cambió al español para decirme una frase que no era suya: «Pon tu casa en orden, señora Ardizzone, o hablaremos de este Mercer tuyo.»
 
 Kal no se movió.
 
@@ -425,7 +424,7 @@ Soltó el aire por la nariz, algo que otra noche habría sido una risa. Tomó el
 
 La bala rodó hasta el centro de su mano y se quedó ahí.
 
-La miró sin prisa. La tomó entre el índice y el pulgar, la giró, y la volvió a dejar sobre el lino. Latón entero, sin disparar, sin ninguna marca que no tuviera cualquier caja de cualquier tienda.
+La miró sin prisa. La tomó entre el índice y el pulgar, la giró, y la volvió a dejar sobre el lino. Latón entero, sin disparar.
 
 —Es corriente. Latón de caja, de los que vende cualquier tienda.
 
@@ -503,7 +502,7 @@ Ella abrió los ojos. Kal le vio pasar por la cara tres o cuatro objeciones, ord
 
 Kal asintió como si le hubieran dado la hora de una cita.
 
-—Necesitas pasaporte. —Ya no era la voz de antes; era la de las juntas, la que hacía listas cuando lo demás no se dejaba ordenar—. ¿Dónde lo tienes?
+—Necesitas pasaporte —dijo ella, con otra voz: la de las juntas, la que hacía listas cuando lo demás no se dejaba ordenar—. ¿Dónde lo tienes?
 
 —En el loft. En el cajón de abajo, con los papeles del Audi.
 
@@ -525,7 +524,7 @@ Nadie sabía que se despedían de algo. Sólo ella. Y él.
 
 A la una menos algo, Kingsley Field era un lugar azul.
 
-No por el cielo, que seguía negro y cerrado: por las luces de la pista, azules a intervalos exactos hasta perderse; por el fluorescente de la terminal privada, que le ponía a todo el color de un pasillo de hospital. Afuera el avión esperaba con la puerta abierta, blanco contra la noche. Junto a la puerta había dos maletas, una grande y una que Kal había armado en el loft en once minutos, con el pasaporte encima.
+No por el cielo, que seguía negro y cerrado: por las luces de la pista, azules a intervalos exactos hasta perderse; por el fluorescente de la terminal privada, que le ponía a todo el color de un pasillo de hospital. Afuera el avión esperaba con la puerta abierta, blanco contra la noche. Al pie de la escalerilla había dos maletas, una grande y una que Kal había armado en el loft en once minutos, con el pasaporte encima.
 
 Chiara hablaba con el piloto junto al mostrador, de combustible y de una escala que no le gustaba, con el abrigo puesto, administrando a la una de la mañana igual que a las nueve de la noche. Kal la miraba desde una silla de plástico, con un café de máquina que ya no estaba caliente.
 
