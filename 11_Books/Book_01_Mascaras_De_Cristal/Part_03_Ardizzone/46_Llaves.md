@@ -1,4 +1,5 @@
 <!--
+**Cirugía de la lectura (2026-11-21, Claude Code; [[98_Agent_Handoff/sessions/2026-11-21_claude_cirugia_lectura_cap42]]):** Nadir tutea a Chiara («señora» como apodo; ficha de Nadir); «Entramos cuatro. Salimos tres.» (con el 40); luz de invierno (pasadas las cinco ya es de noche: la luz de la oficina, el poste que parpadea); fuera «¿Quién plancha qué?» («Dímelo en números»), la cola que repetía a Garrett («Kal no me dijo el precio») y «Eso lo dijo Garrett» («Eso suena a Garrett»); segundo lector: la botella, «de lejos», la camisa, «al lado del de él», fuera «Lo dijo sin bajar la voz…», «Dobla su ropa. En cuadro.». Sigue BORRADOR.
 Nuevo cauce (Fase 4, 2026-11-08, terminal B de [[98_Agent_Handoff/encargos/ENCARGO_Fase4_Parte_III_Cierre]]; verbo «Ajusta al cauce»): **nuevo Cap. 42**. Versión anterior íntegra: [[11_Books/Book_01_Mascaras_De_Cristal/Escenas_Eliminadas/46_Llaves_Version_2026-11-08]]. Sesión: [[98_Agent_Handoff/sessions/2026-11-08_claude_fase4_cap42_llaves]].
 D1 (DECISIÓN DEL AUTOR, 2026-11-08): las armas quedaron **sin entregar**. El helicóptero bajó en la playa, el punto de Varek; ahí esperaba gente de Varek, pero la entrega dependía de Kal y Héctor no se las dio a nadie más. Las regresaron y siguen escondidas, completas. Prosa DISEÑO: la línea de Héctor («No se las di») y el pensamiento de Chiara, que con el nombre de Varek encima cree entender para quién fue la incursión. Es la misma ironía del 26: apunta al hombre equivocado, y Halbrook y el expediente no aparecen.
 Numeración: las referencias de las líneas Ventana, Función y siguientes ya van en la de 47 caps. (2026-11-08); las notas fechadas (regla 05, Rocco, Tasador) conservan la de su época.
@@ -42,7 +43,7 @@ Héctor estaba en el capó de siempre, el del Ford sin llantas que llevaba años
 
 Ninguno de los dos se levantó.
 
-Detrás del mostrador del taller, Nadir tenía abierto un libro de cuentas de pasta dura, de los que Kal se burlaba porque existían computadoras, y una pluma en la mano. Del otro lado del mostrador, el chico de la vulcanizadora, el de la gorra al revés, se enderezó al verla entrar y salió por la hoja abierta del portón, pegado a la pared, sin mirarla. La pluma de Nadir no se movía. Detrás del vidrio de la oficina, con los lentes oscuros puestos aunque adentro no había sol, Garrett hablaba por teléfono. Vio entrar a Chiara y siguió hablando.
+Detrás del mostrador del taller, Nadir tenía abierto un libro de cuentas de pasta dura, de los que Kal se burlaba porque existían computadoras, y una pluma en la mano. Del otro lado del mostrador, el chico de la vulcanizadora, el de la gorra al revés, se enderezó al verla entrar y salió por la hoja abierta del portón, pegado a la pared, sin mirarla. La pluma de Nadir no se movía. Detrás del vidrio de la oficina, con los lentes oscuros puestos aunque ya no había sol en ninguna parte, Garrett hablaba por teléfono. Vio entrar a Chiara y siguió hablando.
 
 Las piernas de mezclilla salieron rodando de debajo del sedán. Danny se incorporó en la tabla, la vio, y se quedó así, sentado en el suelo con una llave en la mano y el collar de raíces negras asomándole por el cuello de la camiseta. No dijo nada. Volvió a acostarse en la tabla y rodó de regreso debajo del coche.
 
@@ -80,7 +81,7 @@ La puerta de la oficina se abrió. Garrett salió con el teléfono todavía en l
 
 —Giancarlo Krane.
 
-—Krane. —Garrett se quitó los lentes un segundo, se frotó el puente de la nariz y se los volvió a poner—. Su abogado. Entonces su nombre ya está en un papel al lado del suyo, en una oficina federal.
+—Krane. —Garrett se quitó los lentes un segundo, se frotó el puente de la nariz y se los volvió a poner—. Su abogado. Entonces su nombre ya está en un papel al lado del de él, en una oficina federal.
 
 —Ya estaba —dijo Chiara.
 
@@ -126,7 +127,7 @@ Walt asintió despacio.
 
 —Entonces está contando. —Se miró las botas—. Los días. Adentro la ropa es lo único que es de uno, aunque sea del gobierno. Te la dan, te la quitan, te dan otra. El que la dobla antes de devolverla todavía está pensando en salir. —Levantó la vista—. El que la echa a la bolsa como le cae, ése ya se quedó.
 
-Lo dijo sin bajar la voz y sin ponerle peso. Nadie le preguntó cómo lo sabía. En la Almendra todos sabían de dónde había vuelto Walt Keegan.
+En la Almendra todos sabían de dónde había vuelto Walt Keegan.
 
 Héctor se bajó del capó. Caminó tres pasos hacia el portón, hasta donde le daba la luz de la calle, y se quedó de espaldas al Patio, con el trapo en la mano. Lo dobló en dos. Lo volvió a doblar.
 
@@ -148,7 +149,7 @@ Estaba lavada. Era lo único limpio en todo el Patio: la carrocería oscura sin 
 
 —¿Para qué está así esa camioneta? —preguntó Chiara.
 
-—Para nada. —Nadir le pasó la palma por el cofre, como quien enseña mercancía—. Está lavada, señora, eso es todo. Uno lava las cosas. Una cubeta, una manguera, una hora; si quiere le lavo el Lancia y le hago precio.
+—Para nada. —Nadir le pasó la palma por el cofre, como quien enseña mercancía—. Está lavada, señora, eso es todo. Uno lava las cosas. Una cubeta, una manguera, una hora; si quieres te lavo el Lancia y te hago precio.
 
 Chiara no se rio. Dijo sólo su nombre, y no como pregunta:
 
@@ -168,17 +169,17 @@ Chiara miró la mochila a través del vidrio. Nadir le siguió la mirada.
 
 —Ya entramos una vez —dijo Danny, desde el suelo, bajito, sin que nadie le hubiera preguntado. Se calló en cuanto lo dijo.
 
-—Una vez —dijo Nadir, y señaló a Danny con la barbilla—. Ya sabemos cómo. Ya sabemos por dónde. La primera vez no sabíamos y salió casi bien. Casi. —Levantó una mano y fue doblando los dedos contra la palma—. Salimos cuatro. Volvimos tres. Esa cuenta no me cierra, señora. Llevo once días haciéndola y no me cierra.
+—Una vez —dijo Nadir, y señaló a Danny con la barbilla—. Ya sabemos cómo. Ya sabemos por dónde. La primera vez no sabíamos y salió casi bien. Casi. —Levantó una mano y fue doblando los dedos contra la palma—. Entramos cuatro. Salimos tres. Esa cuenta no me cierra, señora. Llevo once días haciéndola y no me cierra.
 
-Chiara caminó hasta la camioneta. Se paró frente a Nadir, a un brazo de distancia, y vio de cerca lo que desde el mostrador no se veía: los ojos rojos en los bordes, la barba de muchos días, una mancha de grasa en el cuello de la camisa que Nadir, que se cambiaba de camisa dos veces al día cuando había clientes, no se había quitado.
+Chiara caminó hasta la camioneta. Se paró frente a Nadir, a un brazo de distancia, y vio de cerca lo que de lejos no se veía: los ojos rojos en los bordes, la barba de muchos días, una mancha de grasa en el cuello de la camisa; Nadir se cambiaba de camisa dos veces al día cuando había clientes, y ésa no se la había cambiado.
 
 —Si te ven a ti en ese camino —dijo—, mañana alguien en Kingsley plancha dos etiquetas.
 
 Nadir parpadeó.
 
-—¿Quién plancha qué? Wallah, señora, dígamelo en números.
+—Wallah, señora. Dímelo en números.
 
-Chiara no se lo explicó.
+Chiara le dio los números.
 
 —Él se quedó para que la cuenta diera tres —dijo—. Se quedó parado ahí para eso. Si tú vas, no la arreglas. La dejas en dos.
 
@@ -222,7 +223,7 @@ Garrett había vuelto a la puerta de la oficina. Tenía los brazos cruzados y el
 
 —Ese acuerdo era con Kal —dijo—. No sabemos qué más hablaron los dos, ni qué esperaba Varek de él además de las cajas. Si alguien que no es Kal se sienta con Varek, Varek va a cobrar lo que crea que puede cobrar. No lo que se acordó.
 
-—Lo sé. Y Varek va a notar que no conozco el precio en cuanto me siente enfrente.
+—Lo sé. Kal no me dijo el precio.
 
 Garrett esperó. No era un hombre que preguntara dos veces; dejaba la pregunta abierta hasta que el otro se cansaba de verla ahí.
 
@@ -236,7 +237,7 @@ Chiara no se lo corrigió. Danny asintió y volvió al sedán. Garrett se quedó
 
 ***
 
-El sol ya no entraba por el portón. Le pegaba sólo a la parte alta de la tapia y al gancho de la grúa, que brillaba como si estuviera mojado. En la calle, el hombre de la escoba había terminado su acera y el agua corría hacia la alcantarilla, arrastrando una envoltura de paleta.
+Ya era de noche. La luz de la oficina le pegaba sólo a la parte alta de la tapia y al gancho de la grúa, que brillaba como si estuviera mojado. En la calle, el hombre de la escoba había terminado su acera y el agua corría hacia la alcantarilla, arrastrando una envoltura de paleta.
 
 Rocco salió de su casa, la de tablas junto a la oficina, cruzó el Patio sin prisa y se tiró de espaldas a los pies de Chiara, con las cuatro patas al aire, como cada vez que ella entraba. Chiara se puso en cuclillas, con el saco rozando el piso, y le rascó la panza hasta que él suspiró. Detrás, en la entrada de la casa, la manta se había quedado hecha bola.
 
@@ -260,7 +261,7 @@ Héctor esperó un momento con la mano abierta. Después cerró los dedos sobre 
 
 —Usted no quiere nada fácil, Bellandi.
 
-Volvió al capó. Walt le pasó la botella sin decir nada, y Héctor la abrió por fin, le dio un trago corto, hizo un ruido con la garganta y se la devolvió.
+Volvió al capó. Walt le acercó la botella sin decir nada, y Héctor la abrió por fin, le dio un trago corto, hizo un ruido con la garganta y la dejó en el capó.
 
 ***
 
@@ -314,7 +315,7 @@ Detrás de él, en el mostrador, Nadir había dejado de pasar páginas. Danny ha
 
 Chiara lo tomó.
 
-Pesaba más que las llaves. Seguía vibrando. Caminó hacia el fondo del Patio, lejos del capó, hasta la camioneta lavada junto a la tapia, y apoyó la espalda en la puerta del conductor. Del otro lado de la tapia empezaba a encenderse el alumbrado de la calle de atrás, un poste y después otro.
+Pesaba más que las llaves. Seguía vibrando. Caminó hacia el fondo del Patio, lejos del capó, hasta la camioneta lavada junto a la tapia, y apoyó la espalda en la puerta del conductor. Del otro lado de la tapia, en la calle de atrás, un poste del alumbrado parpadeaba sin decidirse.
 
 Contestó.
 
@@ -340,7 +341,7 @@ Del otro lado arrancó un autobús. Marisol no dijo nada hasta que el motor se a
 
 —Entonces no lo intentaste en la ventanilla correcta.
 
-Chiara dejó pasar eso. Del otro lado de la tapia se encendió otro poste.
+Chiara dejó pasar eso. Del otro lado de la tapia, el poste volvió a parpadear.
 
 —Está vivo —dijo—. Eso sí lo sé. El lunes y el martes, seguro.
 
@@ -354,13 +355,13 @@ Chiara dejó pasar eso. Del otro lado de la tapia se encendió otro poste.
 
 —Ninguna. Tiene dos, y las dos están en el Patio.
 
-Ruido de calle, una puerta que se abría y se cerraba, y después nada. Marisol se había detenido en alguna parte.
+Ruido de calle, una puerta que se abría y se cerraba, y después nada. Marisol había entrado a alguna parte.
 
 —¿Está bien? —preguntó, más bajo—. No vivo. Bien.
 
 Chiara pensó en una camisa doblada en cuadro, en Walt con la botella entre las manos.
 
-—Dobla su ropa. Como siempre.
+—Dobla su ropa. En cuadro.
 
 Marisol tardó en contestar.
 
@@ -372,9 +373,9 @@ Marisol tardó en contestar.
 
 —Lo tienes. Y en la garita lo primero que te van a pedir es tu nombre, y lo segundo, qué eres de él. —Chiara apretó las llaves dentro del bolsillo—. Él no va a estar ahí para contestar por ti.
 
-—Eso lo dijo Garrett.
+—Eso suena a Garrett.
 
-—Lo dijo Garrett. Yo nada más lo repito con mejor acento.
+—Es de Garrett. Yo nada más lo repito con mejor acento.
 
 —Se nota.
 
@@ -386,4 +387,4 @@ Chiara casi sonrió. Del otro lado se oyó una respiración larga, de las que se
 
 —Aunque sea feo. Te lo prometo.
 
-Marisol colgó sin despedirse. Chiara se quedó con el teléfono de Héctor contra la oreja un momento más, oyendo nada, la espalda contra la puerta de la camioneta lavada, hasta que el último poste de la calle de atrás terminó de encenderse.
+Marisol colgó sin despedirse. Chiara se quedó con el teléfono de Héctor contra la oreja un momento más, oyendo nada, la espalda contra la puerta de la camioneta lavada, hasta que el poste de la calle de atrás se quedó encendido.
