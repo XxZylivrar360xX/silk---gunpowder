@@ -24,6 +24,7 @@ Rio (2026-11-03, DECISIONES DEL AUTOR; regla 06 de staging; prosa DISEÑO, BORRA
 Caballos en el cajero (2026-11-04, DECISION DEL AUTOR; prosa DISEÑO, BORRADOR): antes de la llamada, Danny: "Con caballos... De pelicula"; Russ: "Nos arrestan a todos". Russ no se rie: su primera risa es la del Cap. 8. Cobra en el Cap. 6 y en el corral del Cap. 8.
 La Esquina y el paso a El Relevo (2026-11-04, PEDIDOS DEL AUTOR; prosa DISEÑO, BORRADOR, espera lectura). Autor: primer encuentro Mabel/Chiara a solas, antes de Blake; "¿Me puedo sentar?"; Blake pasa de Mabel; las tortas se piden en la mesa para los dos; geografia del paso a la noche. Agente: Mabel le lleva el cafe a la mesa de la ventana (la que cojea en el Cap. 1, "pie derecho en la base"); "¿Usted es Mabel?" / "Eso dice el vidrio" (el nombre ya no lo dice Blake; desde ahi el narrador la llama Mabel); "Ya la agarraste"; Mabel espera con la taza y le pregunta a Chiara, no a Blake; las tortas llegan en papel de estraza (eco del Cap. 6); "Ésa se apunta" al cobrar (Blake no pasa por la caja; aprobado por el autor el mismo dia como rasgo de Mabel). Fuera los "dos dedos" de Blake (gesto de Walt). Regreso de la tarde (vallas) y taxi de las nueve cuarenta por La Isla, Punta Dorada y el puente, hasta los coches sin multa frente a El Relevo. Costura en el Cap. 6: "La mujer no habia apuntado nada".
 Danny en dos trabajos (2026-11-04, DECISION DEL AUTOR; redaccion DISEÑO, pendiente de lectura): "Habian vuelto hacia las nueve y media y llevaba dos horas entre la grua y la oficina". Asi caben la sopa, el baño y el cajero de Danny con Russ antes de las 11:30. Detalle: 98_Agent_Handoff/sessions/2026-11-04_claude_detalles_caps02_03.md.
+Cirugia de la lectura (2026-11-21; BORRADOR, espera lectura): replicas infladas recortadas, fuera el Taurus y la glosa del taxi (decisiones del autor), llaves que no aparecen, «anoche te dijeron que no»; regla 06: capitulo como excepcion sobre la vara (29 %, DECISION DEL AUTOR). Detalle: 98_Agent_Handoff/sessions/2026-11-21_claude_cirugia_lectura_cap04.md.
 -->
 
 # Capítulo 4 — Tarifa nocturna
@@ -68,11 +69,11 @@ Tommaso miró la carpeta.
 
 Matteo se sentó.
 
-—Explícate. No, espera: explícate despacio, que todavía no me tomo el café y ya me estás vendiendo algo.
+—Explícate despacio, que todavía no me tomo el café y ya me estás vendiendo algo.
 
 Chiara empujó una hoja al centro.
 
-—Un jugador pierde cincuenta mil en una noche y parece idiota. Un jugador paga entrada, recompra fichas, llega a semifinal y pierde contra alguien de Los Ángeles: parece parte de un evento. La casa toma diez por ciento, el hotel llena habitaciones, los restaurantes venden, prensa social cubre fotos, y el dinero que entra tiene una historia más elegante que la desesperación.
+—Un jugador pierde cincuenta mil en una noche y parece idiota. Un jugador paga entrada, recompra fichas, llega a semifinal y pierde contra alguien de Los Ángeles: parece parte de un evento. La casa toma diez por ciento, el hotel llena habitaciones, los restaurantes venden, la prensa de sociales cubre las fotos, y el dinero que entra tiene una historia más elegante que la desesperación.
 
 Fabrizio sonrió despacio.
 
@@ -86,7 +87,7 @@ Matteo soltó una risa. Tommaso no.
 
 —Nadie. Por eso se diseña.
 
-Tenía otra respuesta. La noche anterior, un hombre se había levantado de una mesa de ese mismo edificio, con traje azul y tenis blancos, diciendo que su nombre iba en la factura, y esa gente le había agradecido el tiempo. No la dijo.
+Tenía otra respuesta. La noche anterior, en ese mismo edificio, un hombre de traje azul y tenis blancos había dicho en esa mesa que su nombre iba en la factura, y esa gente le había contestado que lo discutirían internamente. No la dijo.
 
 —Qué cómodo.
 
@@ -150,7 +151,7 @@ Tommaso deslizó la hoja hasta su lado de la mesa.
 
 Fabrizio se inclinó hacia ella cuando Tommaso empezó a leer la proyección.
 
-—Sal de aquí una hora. Come algo, camina hasta el muelle y vuelve. Si te quedas, vas a contestarle cada número, y él va a seguir dándote números hasta la noche.
+—Sal de aquí una hora. Si te quedas, le vas a contestar cada número, y él no se va a cansar antes que tú.
 
 —Estoy trabajando. Para eso me trajeron, ¿no?
 
@@ -180,7 +181,7 @@ El centro de San Aurelio no intentaba seducirla. Eso le gustó.
 
 Calle Corona tenía juzgados, bancos viejos, oficinas municipales, cafeterías con mesas demasiado juntas y gente que caminaba rápido aunque no pareciera ir a ningún lugar bueno. Esa mañana también tenía vallas.
 
-El taxi no pudo pasar de la esquina del Ayuntamiento. Un agente de tránsito desviaba coches con la mano, sin silbato, y el chofer dijo algo del jefe de policía en el tono con que se comenta el clima. Se ofreció a dar la vuelta y llevarla de vuelta por el puente.
+El taxi no pudo pasar de la esquina del Ayuntamiento. Un agente de tránsito desviaba coches con la mano, sin silbato, y el chofer dijo algo del jefe de policía en el tono con que se comenta el clima. Se ofreció a dar la vuelta y regresarla por el puente.
 
 Ya había tomado el aire que había venido a tomar. Pero llevaba desde las siete leyendo a ese muerto en una pantalla, en palabras que alguien había escogido, y ahí afuera la ciudad lo estaba pasando sin locutor.
 
@@ -308,7 +309,7 @@ Se sentó. Apoyó los dos codos en la mesa, y la mesa no se movió; Chiara segu�
 
 Blake levantó la vista. Por primera vez la miró a ella y no al efecto que estaba haciendo.
 
-—Ése sí —dijo él—. Ésos dos eran patrulla juntos cuando yo iba a la primaria. —Se encogió de hombros—. Los de adelante saludaban para la alcaldía. Los de en medio, para la tele. Los que se fueron antes de que acabara, para que nadie los viera irse.
+—Ése sí —dijo él—. Ésos dos fueron compañeros de patrulla cuando yo iba a la primaria. —Se encogió de hombros—. Los de adelante saludaban para la alcaldía. Los de en medio, para la tele. Los que se fueron antes de que acabara, para que nadie los viera irse.
 
 —¿Y tú, para quién saludabas?
 
@@ -488,7 +489,7 @@ Chiara cerró los ojos un segundo.
 
 —¿Su coche?
 
-—Bloqueando carga. Lo dejó atravesado frente a la rampa, con las llaves puestas, y el camión de la lavandería lleva veinte minutos esperando en la calle. El valet se lo recibió, si es lo que vas a preguntar.
+—Bloqueando carga. Lo dejó él atravesado en la rampa, y las llaves no aparecen.
 
 —Entonces el coche sí aparece. Sólo está donde no debe.
 
@@ -500,7 +501,7 @@ Al otro lado de la pared había cuarenta policías. Chiara miró hacia la mesa. 
 
 —¿Qué quieres de mí?
 
-—Tú dijiste que Mercer arreglaba problemas.
+—Tú dijiste que no habías visto veinte como Mercer.
 
 La frase le molestó porque era correcta.
 
@@ -548,7 +549,7 @@ En la acera se quitó el listón. Lo miró un momento: tela negra y un alfiler d
 
 El aire de Calle Corona le pegó en la cara, frío, con olor a asfalto mojado. Detrás de ella la puerta del bar se abrió y se cerró: un coro desafinado, una risa, otra vez el muro. Dos patrulleros fumaban junto a la entrada con la banda negra todavía en la placa. A dos cuadras, la Central tenía todas las ventanas encendidas, y al fondo de la calle la cinta amarilla de Plaza Corona seguía atada a los postes.
 
-Pidió un taxi con una aplicación, pero antes de confirmarlo abrió otro contacto.
+Pidió un taxi con una aplicación, pero antes de confirmarlo volvió al mensaje de Matteo.
 
 No tenía el número de Kal guardado con nombre. Seguía donde Matteo lo había dejado, debajo de la matrícula, como quien pasa una herramienta.
 
@@ -575,12 +576,6 @@ Seguía de negro. Habían vuelto hacia las nueve y media y llevaba dos horas ent
 —La cadena no. —Nadir levantó un dedo, con los billetes en la otra mano—. Pero ¿por qué crees que de Nueve Puentes para acá nadie nos paró? Una grúa azul, limpia, con su letrero. Wallah, es la mejor mentira que tenemos, y es pintura.
 
 —Una grúa que no se muere en el puente tampoco la para nadie.
-
-—Eso lo dices porque nunca has tenido un coche bonito.
-
-—Díselo al Taurus.
-
-—El Taurus quedó mejor que antes. Y eso fue el arbusto.
 
 Sobre el microondas había un plato hondo tapado con otro plato. Nadir lo destapó sin preguntar: la sopa roja de la tarde, ya con nata encima, y dos tortillas de Mabel dobladas en una servilleta.
 
@@ -648,7 +643,7 @@ Kal miró la puerta de la grúa. Donde tenía que estar el logo de Almendra Towi
 
 —¿Quién tapó el logo?
 
-—Yo —dijo Russ—. Con el cartón de una caja de aceite. La cinta es la del baño, que de todos modos ya no pegaba nada.
+Russ levantó la mano del bastón lo justo para que contara como respuesta, y la volvió a bajar.
 
 —¿Y la cara?
 
@@ -658,7 +653,7 @@ Russ señaló a Danny con el bastón, sin mirarlo.
 
 —¿De dónde lo sacaron?
 
-—De una gasolinera cerrada en la 101, al norte, fuera de cualquier barrio. —Russ se acomodó el peso sobre el bastón—. La cámara no sirve desde marzo; lo sé porque fui a ver, tres semanas seguidas. Lo vacían los martes a las nueve. Faltan nueve horas. Y no había nadie: la gasolinera cerró en verano. El cajero es del banco, y el banco lo sigue llenando como si alguien fuera a cargar gasolina.
+—De una gasolinera cerrada en la 101, al norte, fuera de cualquier barrio. —Russ se acomodó el peso sobre el bastón—. La cámara no sirve desde marzo. Lo vacían los martes a las nueve. Faltan nueve horas.
 
 —Ni un vidrio, jefe —dijo Danny—. No me dejó romper ni un vidrio. Tres semanas yendo a ver una máquina, como si fuera a cambiar de lugar. Yo lo hubiera hecho la primera.
 
@@ -668,7 +663,7 @@ Russ señaló a Danny con el bastón, sin mirarlo.
 
 —No te soporto.
 
-—Es su forma de decir que sí, jefe.
+—Es su forma de decir que sí.
 
 Kal miró el pedazo de acera.
 
@@ -682,7 +677,7 @@ Danny abrió las manos, como si la acera hubiera tomado la decisión sola.
 
 —¿Por qué hoy? —preguntó Kal.
 
-—Tú lo dijiste. —Danny ya estaba sonriendo—. Desde anoche nadie sabe qué patrulla pasa por dónde. En una semana alguien lo va a volver a saber.
+—Tú lo dijiste. —Danny ya estaba sonriendo—. Desde esta mañana nadie sabe qué patrulla pasa por dónde. En una semana alguien lo va a volver a saber.
 
 Kal no contestó. Nadir sí se rio, bajito.
 
@@ -698,23 +693,19 @@ Kal se quedó mirando la cara del cartón más tiempo del que merecía.
 
 —Te dije que la cara sobraba —murmuró Russ.
 
-—Tú querías que le pusiera bigote. No lo dijiste, Russ, pero te vi la cara cuando le estaba haciendo los ojos. Te vi pensarlo.
+—Tú querías que le pusiera bigote. Te vi pensarlo, Russ, mientras le estaba haciendo los ojos.
 
-—Nunca dije eso. Dije que estaba mal hecha.
+—Dije que estaba mal hecha.
 
 Russ cerró los ojos un segundo, como quien cuenta hasta un número muy alto. Danny ya no lo estaba viendo. Miraba el cajero, con su pedazo de acera, como si le faltara algo.
 
-—Con caballos.
-
-—¿Qué? —preguntó Nadir.
-
-—Que lo hubiéramos sacado con caballos. Cuatro, con las cadenas, por la 101, de noche. ¿Sabes cómo se vería eso? De película, se vería. A mí me encantan los caballos, jefe. Nunca me he subido a uno, pero me encantan.
+—Con caballos —dijo, a nadie—. Lo hubiéramos sacado con caballos. Cuatro, con las cadenas, por la 101, de noche. ¿Sabes cómo se vería eso? De película, se vería. A mí me encantan los caballos, jefe. Nunca me he subido a uno, pero me encantan.
 
 —Cuatro caballos arrastrando un cajero por la 101 —dijo Russ, sin abrir los ojos—. A diez por hora, sacando chispas con las herraduras, frente a la báscula de camiones. Nos arrestan a todos.
 
 —A los caballos no.
 
-—¿Sabes lo que come un caballo, khoya? —Nadir ya se estaba riendo, con la cabeza echada para atrás—. Cuatro caballos se comen el cajero antes de que lo abras.
+—¿Sabes lo que come un caballo? —Nadir ya se estaba riendo, con la cabeza echada para atrás—. Cuatro caballos se comen el cajero antes de que lo abras.
 
 A Kal se le fue la tortilla por el lado equivocado y tuvo que toser. Danny se rio más que los dos, de su propia idea, y brincó a la plataforma a soltar una cadena que nadie le había pedido soltar, y un tornillo se le fue de los dedos, pegó en el borde y siguió por el concreto.
 
@@ -762,7 +753,7 @@ Detrás de ella se abrió una puerta y salió medio brindis, voces de hombre, va
 
 —En Calle Corona. Salgo para allá en cuanto…
 
-—No le pregunté dónde está. —Ella no dijo nada, y Kal no la ayudó—. Le pregunté quién llama. ¿Ellos o usted?
+—No le pregunté dónde está. Le pregunté quién llama. ¿Ellos o usted?
 
 Oyó un coche pasar por donde ella estaba, y otro. Kal esperó. La pregunta ya estaba hecha, y no era de las que se hacen dos veces.
 
@@ -794,7 +785,7 @@ En la pantalla quedó un número sin nombre, un minuto con doce segundos. Lo gua
 
 Cuando volvió a salir de la oficina traía en la mano las llaves de la azul, y Danny se calló a media palabra, que no le pasaba seguido.
 
-—¿Y eso? ¿Las llaves de la azul, a esta hora?
+—¿Adónde vas con la azul?
 
 —Tengo un arrastre.
 
@@ -826,7 +817,7 @@ Nadir lo siguió hasta la azul.
 
 —Dije Dario Varek.
 
-—Dario Varek es la gente del casino, khoya.
+—Dario Varek es la gente del casino.
 
 Kal subió a la cabina. El hombro se lo cobró en el segundo escalón.
 
@@ -836,7 +827,7 @@ Kal subió a la cabina. El hombro se lo cobró en el segundo escalón.
 
 —Tarifa nocturna.
 
-—Eso le cobras a un dentista. A un casino se le cobra la nocturna, más la de casino, más la de que esta mañana te dijeron que no. Tres tarifas, khoya, y tú le vas a cobrar una.
+—Eso le cobras a un dentista. A un casino se le cobra la nocturna, más la de casino, más la de que anoche te dijeron que no.
 
 —El dentista no tiene un casino.
 
@@ -848,7 +839,7 @@ Kal anotó la hora en la tabla.
 
 —El problema llamó.
 
-—Qué bonito, wallah. Eso le voy a decir a Héctor cuando pregunte por qué salió la grúa a medianoche: el problema llamó. ¿Y el problema tiene nombre?
+—Qué bonito, wallah. El problema llama a medianoche y tú sales con ese hombro. ¿Y el problema tiene nombre?
 
 Kal dejó la tabla en el asiento.
 
@@ -876,7 +867,7 @@ Cuatro de los veinte se le habían ido en el patio. Kal encendió las luces por 
 
 Chiara cruzó el Puente de Piedra con eso todavía en la pantalla: un número sin nombre, un minuto con doce segundos.
 
-Tenía ganas de insultarlo en italiano y una irritación distinta debajo. Le había contestado con la frase de Matteo y le había molestado oírsela en la boca. Él le había hecho una pregunta, y ella tenía dos respuestas, y ninguna servía para decirse en una acera, con dos policías a tres metros. Él no insistió. Blake habría insistido; Blake no habría sabido dejar pasar una respuesta que no llegó. Y luego había actuado como si el control pudiera esperar veinte minutos sin que el mundo se terminara.
+Tenía ganas de insultarlo en italiano y una irritación distinta debajo. Le había contestado con la frase de Matteo y le había molestado oírsela en la boca. Él le había hecho una pregunta, y ella tenía dos respuestas, y ninguna servía para decirse en una acera, con dos policías a tres metros. Y luego había actuado como si el control pudiera esperar veinte minutos sin que el mundo se terminara.
 
 No le gustó.
 
@@ -1018,7 +1009,7 @@ Kal no le soltó la muñeca. Con la barbilla señaló el teléfono, que seguía 
 
 Varga miró la pantalla como si acabara de descubrir que era suya. La bajó.
 
-Kal lo soltó y se limpió la mano en el pantalón. No miró a Chiara.
+Kal lo soltó y se limpió la mano en el overol. No miró a Chiara.
 
 Ella tampoco le dio las gracias. No le había pedido eso. Lo que sentía se parecía demasiado al enojo para llamarlo de otra forma, y no sabía todavía con quién.
 

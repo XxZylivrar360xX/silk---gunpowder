@@ -26,7 +26,7 @@ Plan de trabajo, en marcha desde el 2026-11-21 (DECISIÓN DEL AUTOR sobre el mé
 2. **Límite del revisor:** no detecta las notas que protegen una escena entera sin citar líneas («la moto de Nadir, literal salvo la primera frase»; «Literales: la llamada, el Penthouse…»; «la escena de Collins»). En los barridos de hoy esas escenas se tocaron y hubo que restaurarlas: la moto del 22 (24b), cuatro escenas del 34 (36) y Collins en el 33 (35). **Antes de editar, leer el encabezado completo y listar a mano las escenas literales.**
 3. **No repartir la edición en agentes paralelos.** Los forks perdieron canon tres veces: la ciabatta del 31, «¿Depende de qué?» del 3 y «El dentista no tiene un casino» del 4. Los agentes sirven para leer (el segundo lector), no para editar.
 4. **Las réplicas infladas de hoy** están listadas por capítulo en la lectura corrida: se recortan o se revierten. Detalles inventados por los barridos, por verificar: ver [[98_Agent_Handoff/sessions/2026-11-21_claude_pingpong_libro_I]].
-5. **Excepciones aprobadas** (reglas 05 y 06; no se tocan): los ojos del 3, la vela del 13, «Ladro» del 31, los dos tramos de H21 del 32 («Chiaraaa…» y «Mi pareja»), la moto de Nadir del 22 y la llave del 34.
+5. **Excepciones aprobadas** (reglas 05 y 06; no se tocan): los ojos del 3, la vela del 13, «Ladro» del 31, los dos tramos de H21 del 32 («Chiaraaa…» y «Mi pareja»), la moto de Nadir del 22 y la llave del 34; el cap. 4 entero queda sobre la vara de la regla 06 (29 %), por la llamada, la rampa y la ventanilla (DECISIÓN DEL AUTOR).
 6. **Eco entre libros:** la ciabatta del 31 se repite literal en *Ya llegó* (Libro II). Si se toca una, se toca la otra.
 7. **Capítulo no es archivo.** La tabla de abajo da la equivalencia. La lectura corrida usa número de capítulo y, entre paréntesis, el prefijo de archivo; las notas de sesión de hoy a veces usan el prefijo. Las líneas citadas son de la prosa del 2026-11-21 y pueden haberse movido.
 8. **Otra sesión puede estar editando el Libro I.** El 2026-11-21 lo hizo «Editorial Libro 1». Correr `git status` antes de abrir cada archivo y no tocar lo que aparezca modificado sin saber de quién es.
@@ -52,7 +52,8 @@ Plan de trabajo, en marcha desde el 2026-11-21 (DECISIÓN DEL AUTOR sobre el mé
 
 **Arrastres para capítulos siguientes** (vistos al operar uno anterior; se atienden al llegar a su capítulo):
 - ~~Cap. 3: «pastillas de freno del Ford»~~ resuelto: el 3 dice «la treinta y uno».
-- Cap. 4: el segundo pleito de la pintura con Nadir no debe repetir el del 1.
+- ~~Cap. 4: el segundo pleito de la pintura~~ resuelto (sale el Taurus).
+- Cap. 5: en `05a` (l. ~388) Kal repite lo de la teniente del turno de noche que Chiara ya oyó a Blake en El Relevo, y ella pregunta «¿Cómo sabe eso?».
 - Cap. 9: el malvavisco va debajo del asiento (cap. 1), no en la guantera.
 - Cap. 10: Keene pactó «los martes a las diez» en el 1; allá dice «martes y jueves». «Placa no legible» del 10 ya cuadra con las placas de noche del 1.
 
@@ -61,7 +62,7 @@ Plan de trabajo, en marcha desde el 2026-11-21 (DECISIÓN DEL AUTOR sobre el mé
 | 1 | Un hombre de negocios intachable | `01_Un_Hombre_De_Negocios_Intachable` | Peugeot (línea de lógica) | hecho, BORRADOR | `1938c39` |
 | 2 | Demasiado listo | `02_Demasiado_Listo` |  | hecho, BORRADOR | ver git log |
 | 3 | Lo que no cambió | `03_Los_Viejos_Dias` |  | hecho, BORRADOR | ver git log |
-| 4 | Tarifa nocturna | `04_Tarifa_Nocturna` |  | pendiente | |
+| 4 | Tarifa nocturna | `04_Tarifa_Nocturna` |  | hecho, BORRADOR | ver git log |
 | 5 | Cliente y proveedor | `05a_Cliente_Y_Proveedor` |  | pendiente | |
 | 6 | Sólo una cena | `05c_La_Pizza_De_Calabaza` |  | pendiente | |
 | 7 | Ambos | `06_Ambos` | tuteo prematuro; Peugeot D5 | pendiente | |
