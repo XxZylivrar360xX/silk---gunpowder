@@ -23,3 +23,13 @@
 ## Pendientes
 
 - Lectura del autor.
+
+## Segunda pasada (2026-11-22, encargo del autor)
+
+- La pickup se cuenta una sola vez, en la llamada (placas de chatarra; «La llevé colgada de la grúa…»).
+- Fuera la curva de la aduana: la 31 se detiene junto a la 27 en los conos y vuelve a la recta; las pastillas de marzo y «un hombre como ése no frena antes que un cochecito» pasan a la báscula.
+- «Noventa minutos» sólo en Central y con Keene; el taxi cobra ochenta y cinco.
+- Margen creíble: Kal hace la cuenta (nueve, diez, llamada, quince) y llega con media hora de sobra sobre el condado.
+- Kal ya no repite a Collins la propuesta que le hace a Keene.
+- Remate con Collins (AUTOR): «Soy un hombre de palabra.» / «Ya lo creo.», dulce, con la risa por la nariz.
+- Extensión: el cap. 1 pasa de ~6.900 palabras (antes de la reescritura) a ~8.360; la segunda pasada recuperó ~80.
