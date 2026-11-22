@@ -6,11 +6,12 @@ Protagonistas: Kal Mercer (POV), Chiara Bellandi. Apariciones: Katherine Rowe, e
 Ventana temporal: de la semana posterior a la carrera de mascaras al tercer dia de Chiara en la casa comun, y unos dias mas.
 Lugares: corralon del sur, resguardo de vehiculos de la fiscalia, Almendra Towing, bodega de Las Calderas junto a las vias, casa de Rowe, consultorio de la Almendra, callejon de la panaderia portuguesa de Calle Corona, cabina de la grua grande, Casa Comunitaria de La Almendra.
 Funcion: la primera jugada limpia de Kal la cobra Crowe en el cuerpo de Chiara. Kal decide no darle el nombre, llevarla a la Almendra y no contestarle a Crowe en su patio; adentro decide encontrar a la escoria. Crowe hace inventario y reporta.
+Cirugia de la lectura (2026-11-21; BORRADOR, espera lectura): el callejon que Kal no vio en la mañana, la doctora indica la mano en alto, «—Disculparse.» sin glosa, «En esos años»; regla 06: excepcion sobre la vara (35 %, DECISION DEL AUTOR). Detalle: 98_Agent_Handoff/sessions/2026-11-21_claude_cirugia_lectura_cap11.md.
 -->
 
 # Capítulo 11 — La balanza
 
-El primer coche del convenio fue un Civic gris con el parabrisas estrellado y el parachoques amarrado con alambre. Kal lo recogió el lunes en el corralón del sur, en la calle de las vías, porque la hoja de custodia decía que el traslado empezaba ahí y que a partir de esa firma el coche era suyo hasta el día de la audiencia.
+El primer coche del convenio fue un Civic gris con el parabrisas estrellado y el parachoques amarrado con alambre. Kal lo recogió el lunes en el corralón del sur, en la calle de las vías, porque la hoja de custodia decía que el traslado empezaba ahí y que a partir de esa firma el coche era suyo hasta que se lo firmaran en el resguardo.
 
 El encargado del corralón le entregó las llaves sin levantarse de la silla de plástico. Tenía un radio pegado a la oreja y no lo apagó. Miró la grúa, la calcomanía nueva de la fiscalía en la puerta, todavía con las burbujas debajo, y la miró más tiempo que a Kal.
 
@@ -30,7 +31,7 @@ El Civic tenía el estéreo arrancado y el tanque vacío. Kal le revisó el acei
 
 La empleada lo miró por encima de los lentes. No le creyó, y firmó.
 
-Al salir, en el espejo de la grúa, vio que el encargado del corralón ya no estaba en la silla. Estaba en la acera, con el teléfono en la oreja, mirando hacia donde él iba.
+Al salir del corralón, en el espejo de la grúa, había visto que el encargado ya no estaba en la silla. Estaba en la acera, con el teléfono en la oreja, mirando hacia donde él iba.
 
 ***
 
@@ -74,7 +75,7 @@ Kal ya estaba de pie.
 
 —¿Quién?
 
-—No sé. Se llevaron a la fiscal. Yo estaba con ella.
+—No sé. Nos subieron a las dos. A la fiscal y a mí.
 
 Se le quedó la mano en el aire, a medio camino de las llaves.
 
@@ -148,7 +149,7 @@ A medio camino, se volvió hacia la grúa.
 
 —Le debo una, señora Bellandi.
 
-Chiara no contestó. Rowe ya subía el escalón de la entrada cuando ella se inclinó hacia la ventanilla, por encima de él, con la muñeca contra el pecho.
+Chiara no contestó. Rowe ya subía el escalón de la entrada cuando ella se inclinó hacia la ventanilla, con la muñeca contra el pecho.
 
 —*Ciao, tesoro.*
 
@@ -160,15 +161,15 @@ En el consultorio de la Almendra, mientras la doctora le entablillaba la muñeca
 
 Lo tenía guardado sin nombre, como guardaba los números de la gente a la que no quería ver escrita. Crowe le había pagado completo el trabajo de la hierba, y antes de tiempo. *Crowe no pagaba a tiempo. Pagaba antes para que pareciera favor.* Kal lo había dicho alguna vez en voz alta, como quien habla de otra gente.
 
-El corralón le pagaba cuota a Crowe. Kal lo sabía cuando firmó. Lo que no había calculado era a quién le iba a cobrar Crowe. Había pensado en él: un recado en el taller, una llanta cortada, un precio nuevo por algo que antes era gratis. Crowe no le había cobrado a él. Le había cobrado a la fiscal que firmó, y a la mujer que estaba sentada con ella, y por la boca de ella le había mandado decir dónde dormía.
+El corralón le pagaba cuota a Crowe. Lo que no había calculado era a quién le iba a cobrar Crowe. Había pensado en él: un recado en el taller, una llanta cortada, un precio nuevo por algo que antes era gratis. Crowe no le había cobrado a él. Le había cobrado a la fiscal que firmó, y a la mujer que estaba sentada con ella, y por la boca de ellas le había mandado decir que sabía quién era.
 
 No tenía prueba. No tenía con qué pelear una guerra en su propio barrio, y lo que sí tenía (el taller, la casa común, el convenio, los muchachos) era justo lo que Crowe sabía tasar mejor que nadie.
 
 Guardó el teléfono.
 
-A Crowe lo iba a cobrar cuando se pudiera. Pero Crowe no le había partido el labio a nadie. Alguien la había subido a una camioneta. Alguien le había estrellado la cabeza contra una puerta, y ese alguien no tenía balanza, ni local, ni la protección de nadie: era escoria que Crowe había alquilado por una mañana y que iba a gastarse la paga en un fin de semana. Ésos no se tasaban. Ésos se encontraban.
+A Crowe lo iba a cobrar cuando se pudiera. Pero Crowe no le había partido el labio a nadie. Alguien la había subido a una camioneta. Alguien le había dado un golpe en la cabeza, y ese alguien no tenía balanza, ni local, ni la protección de nadie: era escoria que Crowe había alquilado por una mañana y que iba a gastarse la paga en un fin de semana. Ésos no se tasaban. Ésos se encontraban.
 
-—Esguince de segundo grado —dijo la doctora, que atendía a media Almendra sin pedir seguro y a la otra media sin pedir nombre—. Puede haber una fisura chica que todavía no se ve. Férula tres semanas, no cargar nada, hielo. Nada de manejar. —Le levantó el párpado a Chiara con el pulgar y le pasó una lucecita por los ojos, uno y otro—. Y conmoción leve. El labio cierra solo. Que no duerma sola esta noche: alguien que la despierte cada tres horas y le pregunte cómo se llama. Si vomita o no lo reconoce a usted, al hospital, con nombre o sin nombre.
+—Esguince de segundo grado —dijo la doctora, que atendía a media Almendra sin pedir seguro y a la otra media sin pedir nombre—. Puede haber una fisura chica que todavía no se ve. Férula tres semanas, la mano más arriba que el codo, no cargar nada, hielo. Nada de manejar. —Le levantó el párpado a Chiara con el pulgar y le pasó una lucecita por los ojos, uno y otro—. Y conmoción leve. El labio cierra solo. Que no duerma sola esta noche: alguien que la despierte cada tres horas y le pregunte cómo se llama. Si vomita o no lo reconoce a usted, al hospital, con nombre o sin nombre.
 
 —Cada tres horas —repitió Kal—. La despierto yo.
 
@@ -182,7 +183,7 @@ La doctora la miró. Miró a Kal.
 
 ***
 
-El callejón de la panadería estaba igual que en la mañana. Manteles tendidos en el patio de atrás. El Volvo de Rowe en su lugar, con la puerta emparejada y sin llaves, porque las llaves iban en la bolsa. Y, junto a la alcantarilla, cuatro cuentas de vidrio que no se habían ido por la rejilla.
+En el callejón de la panadería nadie había tocado nada. Manteles tendidos en el patio de atrás. El Volvo de Rowe en su lugar, con la puerta emparejada y sin llaves, porque las llaves iban en la bolsa. Y, junto a la alcantarilla, cuatro cuentas de vidrio que no se habían ido por la rejilla.
 
 Kal bajó la pluma y enganchó el Mercedes del Monarch sin mirar lo que hacía. Miraba la boca del callejón, por donde había entrado la camioneta, y las ventanas de arriba, y la esquina donde alguien con un teléfono podía haberse quedado parado a ver. No había nadie. Se agachó, juntó las cuatro cuentas y se las guardó en el bolsillo de la camisa.
 
@@ -206,7 +207,7 @@ Lo dijo hacia el parabrisas. Ella lo dejó quedarse ahí un momento, con la fér
 
 —No me digas qué querría.
 
-—Ok.
+—Está bien.
 
 No retiró nada. Sólo dejó de decirlo. Pasó un camión de refrescos por la boca del callejón, y Kal lo siguió con los ojos hasta que dobló.
 
@@ -228,7 +229,7 @@ Chiara miró la férula. Kal la vio hacer una cuenta. No supo de qué: le vio lo
 
 Kal no contestó.
 
-Metió la primera. La grúa salió del callejón con el Mercedes meciéndose detrás, y en el primer semáforo, con el pie en el freno, Kal volvió a ver lo que no había visto: a ella con el brazo de un hombre entre las dos manos, por una mujer con la que había tomado un café, sin saber que el recado traía también el nombre de él. Y ahora, con *el rubio de la grúa* dicho en voz alta en una bodega de Las Calderas, ella pedía que la vieran con él. En la calle. En su barrio. Donde Crowe tenía ojos en cada mostrador.
+Metió la primera. La grúa salió del callejón con el Mercedes meciéndose detrás, y en el primer semáforo, con el pie en el freno, Kal volvió a ver lo que no había visto: a ella en esa camioneta, por una mujer a la que apenas conocía, sin saber que el recado traía también el nombre de él. Y ahora, con *el rubio de la grúa* dicho en voz alta en una bodega de Las Calderas, ella pedía que la vieran con él. En la calle. En su barrio. Donde Crowe tenía ojos en cada mostrador.
 
 No era alguien que no supiera lo que estaba diciendo. Lo sabía. Lo había dicho igual.
 
@@ -254,7 +255,7 @@ Kal la llevó él. Era el único cuarto del segundo piso que no tenía dueño: s
 
 Chiara se sentó en la cama, con la férula sobre las rodillas, y lo miró como si esperara que dijera algo más. Kal no tenía nada más. Cruzó el cuarto, revisó el pestillo de la ventana, que no hacía falta revisar, y acercó la silla a la cama por el lado izquierdo, donde ella la alcanzaba sin la férula. Tomó la almohada de la silla para ponérsela bajo el brazo y se detuvo con ella en las manos.
 
-—¿Te acomodo eso? La doctora dijo que la muñeca va más arriba que el codo.
+—¿Te acomodo eso? Más arriba que el codo.
 
 Ella tardó en asentir. Kal le acomodó la almohada bajo la férula sin tocarle más que la funda. Después bajó a desenganchar el Mercedes.
 
@@ -300,7 +301,7 @@ No levantó la voz. No le hacía falta: el patio estaba callado y la ventana, ab
 
 —Qué bueno. —La sonrisa le subió a la cara por partes—. Aunque, ahora que la veo, me da curiosidad. ¿Desde cuándo la Almendra recoge gatas finas del casino? Si es tuya, Mercer, dímelo, y te la dejo a precio de amigo. Y si no es tuya, no sé qué hace durmiendo aquí.
 
-Una silla raspó el concreto. Uno de los flacos de la malla dio dos pasos hacia la grava antes de que otro lo agarrara de la camiseta, y alguien dijo algo en voz baja que no hacía falta entender. Kal levantó la mano abierta a la altura de la cadera, sin voltear. El patio se quedó donde estaba.
+Una suela raspó el concreto. Uno de los flacos de la malla dio dos pasos hacia la grava antes de que otro lo agarrara de la camiseta, y alguien dijo algo en voz baja que no hacía falta entender. Kal levantó la mano abierta a la altura de la cadera, sin voltear. El patio se quedó donde estaba.
 
 Tenía la respuesta. La tenía entera, con el precio adentro, y le habría costado la casa. Crowe lo sabía. Por eso había preguntado: no para saber, sino para que Kal pagara diciéndolo. Si decía que era suya, Crowe tenía el precio. Si decía que no, se lo decía a ella, debajo de su ventana.
 
@@ -318,7 +319,7 @@ Crowe se tomó su tiempo con Kal. Lo miró de arriba abajo, como se mira un relo
 
 El joven le abrió la puerta. Crowe se metió al coche en los mismos dos tiempos. Antes de que el auto empezara a moverse ya tenía un teléfono en la oreja, y Kal lo vio por el vidrio de atrás: hablaba poco y miraba hacia arriba, hacia la ventana, mientras el auto salía marcha atrás por el callejón, despacio, con la grava crujiendo bajo las llantas. A esa distancia no se le oía nada. Crowe no llamaba así a nadie del barrio. En el barrio no hablaba por teléfono: mandaba a alguien.
 
-Por el otro extremo del callejón venía una moto.
+Por la calle, hacia el callejón, venía una moto.
 
 Kal la oyó antes de verla. Una Harley negra, vieja y limpia. Walt frenó a media cuadra, con un pie en el suelo y el casco puesto, y el auto gris pasó a su lado. Crowe, en el asiento de atrás, seguía con el teléfono y no volteó. Walt tampoco se movió. Se quedó con el motor prendido, mirando el auto gris hasta que dobló la esquina, y todavía un rato después.
 
@@ -326,7 +327,7 @@ Entró a la cancha a vuelta de rueda y apagó la moto junto a la malla. Miró el
 
 —¿Qué quería el Tasador en tu cancha?
 
-—Disculparse. Dice que lo del callejón no es su estilo: él mandó una cachetada y la escoria se quiso cobrar el resto.
+—Disculparse.
 
 Walt colgó el casco del manubrio.
 
@@ -344,7 +345,7 @@ No hubo votación ni discusión. Alguno le preguntó a Kal, un par de días desp
 
 —Lo necesario —dijo Kal—. Hasta que ya no lo sea.
 
-Y con eso bastó. En esas semanas se había ganado el derecho de pedirles exactamente eso y nada más: cuando alguno había necesitado un favor, no le había dicho que no una sola vez, y no les había cobrado ninguno. Podían pelearse con él, discutirle a gritos en el taller, mandarlo al diablo y volver al día siguiente. Dudar de él, no.
+Y con eso bastó. En esos años se había ganado el derecho de pedirles exactamente eso y nada más: cuando alguno había necesitado un favor, no le había dicho que no una sola vez, y no les había cobrado ninguno. Podían pelearse con él, discutirle a gritos en el taller, mandarlo al diablo y volver al día siguiente. Dudar de él, no.
 
 Nadir dijo que sí, como los demás. Pero fue el único que, al decirlo, no la miró a ella.
 

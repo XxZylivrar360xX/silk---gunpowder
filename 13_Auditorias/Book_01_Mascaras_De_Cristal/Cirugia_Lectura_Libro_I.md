@@ -71,7 +71,7 @@ Plan de trabajo, en marcha desde el 2026-11-21 (DECISIÓN DEL AUTOR sobre el mé
 | 8 | La noche del ladrillo | `07_La_Noche_Del_Ladrillo` | Peugeot D5 («lo confirmó») | hecho, BORRADOR | ver git log |
 | 9 | Mandorla | `08_La_Carrera_De_Mascaras` | Peugeot D5 | hecho, BORRADOR | ver git log |
 | 10 | Una pésima idea | `08b_La_Sargenta` |  | hecho, BORRADOR | ver git log |
-| 11 | La balanza | `09_La_Balanza` |  | pendiente | |
+| 11 | La balanza | `09_La_Balanza` |  | hecho, BORRADOR | ver git log |
 | 12 | La invitada | `10_El_Loft_Del_Soltero` |  | pendiente | |
 | 13 | Roma Atrii | `12_Roma_Atrii` | redundancia POV | pendiente | |
 | 14 | Con miedo y todo | `14_La_Regla_Del_Telefono` | redundancia POV | pendiente | |
