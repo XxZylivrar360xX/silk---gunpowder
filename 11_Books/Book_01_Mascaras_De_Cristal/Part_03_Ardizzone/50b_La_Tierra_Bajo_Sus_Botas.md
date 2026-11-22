@@ -1,4 +1,5 @@
 <!--
+**Cirugía de la lectura (2026-11-21, Claude Code; [[98_Agent_Handoff/sessions/2026-11-21_claude_cirugia_lectura_cap47]]):** DECISIÓN DEL AUTOR (luz): hacia las cinco «todavía de noche» y la primera luz llega dentro de la escena (el general espera hasta las siete; los postes se apagan y sale el sol); supera el «primeras luces» de abajo. La foto del puente cuadra con el 44; fuera dos interpretaciones de la mirada del general (POV externo); la ventana del loft «desde antes de las dos». Cierra la Parte III de la cirugía. Sigue BORRADOR.
 AJUSTA AL CAUCE (2026-11-08, terminal C de la Fase 4, [[98_Agent_Handoff/encargos/ENCARGO_Fase4_Parte_III_Cierre]]; sigue BORRADOR). Prosa sin cambios; sólo metadata. Sesión: [[98_Agent_Handoff/sessions/2026-11-08_claude_fase4_cap47_la_tierra_bajo_sus_botas]].
 D3 (DECISIÓN DEL AUTOR, 2026-11-08, opción b): sin el retrato del archivo 27 (retirado), el lector reconoce a Halbrook por «General.» y el expediente: el nuevo 28 (archivo 30) siembra «Se llama Warren Halbrook. General. Fue mi comandante.». La descripción física (sesenta años, compacto, pelo gris acero, nariz desviada) se queda como primera vista, no como eco. No se toca el 28.
 DISEÑO de esta pasada: el fotograma se queda y «La grabación de la que salió ese cuadro ya no existía» no se explica (misterio deliberado; en el nuevo 41 Chiara la manda borrar sin copia: quién la copió queda para el II). Quedan sin efecto las notas de abajo que citan el Cap. 27 (retrato, sedán de Walt, «a medio armar» como eco); las imágenes se quedan.
@@ -10,7 +11,7 @@ Estado: BORRADOR — Parte III — Ardizzone, Cap. 47 (archivo 50b), cierre del 
 Título: "La tierra bajo sus botas" — CANON DEL AUTOR (plan, 2026-10-01; confirmado 2026-10-02).
 POV: narrador, aislado y externo (CANON DEL AUTOR). No hay interioridad de Halbrook ni de nadie.
 Personajes: Warren Halbrook (sin nombrar en prosa; el lector lo reconoce por «General.», sembrado en el nuevo 28; D3), un hombre delgado de traje (una palabra de diálogo: "General.").
-Momento: CANON DEL AUTOR — madrugada posterior al apagón, hacia las 5 a. m., primeras luces.
+Momento: CANON DEL AUTOR — madrugada posterior al apagón, hacia las 5 a. m., primeras luces. SUPERADO (DECISIÓN DEL AUTOR, 2026-11-21): hacia las 5 todavía es de noche; la primera luz llega dentro de la escena.
 Calendario (CANON DEL AUTOR 2026-10-06, [[13_Auditorias/Book_01_Mascaras_De_Cristal/Matriz_Temporal_Libro_I]]): miércoles 5 de enero, alba.
 Encargo del autor (2026-10-02): la presencia de Halbrook debe salir del libro y acosar al lector. Cliffhanger en dos tiempos: (1) ¿cómo salió Kal?; (2) este hombre es peligroso y tiene un expediente con los protagonistas. Cierra con una sola sonrisa, del tipo "Thanos después de chasquear los dedos".
 CANON DEL AUTOR respetado: baja del helicóptero; un hombre delgado de traje le entrega un expediente; fotos de La Almendra, el Monarch, Il Gelsomino, Chiara, Kal y los chicos del Patio; primeras luces.
@@ -43,13 +44,13 @@ En el Patio, la lámpara del taller se había vuelto a encender sola cuando regr
 
 Sobre el Paseo Pacífica, la marquesina del Monarch volvía a estar blanca. El valet de noche dormía sentado en su banquito, con los brazos cruzados y la barbilla en el pecho. Arriba, en el último piso de la Torre Norte, había un cigarro sin encender sobre una mesa, junto a un hueco del tamaño de un cuadro.
 
-Y en el loft, la ventana de la cocina llevaba encendida desde la madrugada. No se había apagado ni una vez.
+Y en el loft, la ventana de la cocina llevaba encendida desde antes de las dos. No se había apagado ni una vez.
 
-Con la primera claridad los postes del puerto empezaron a apagarse solos, de dos en dos, y el apagado subió por la ciudad hacia el norte, calle por calle, por el mismo camino por el que unas horas antes había subido la oscuridad.
+Todavía era de noche.
 
 ***
 
-El helicóptero llegó desde el interior, bajo, con las luces de posición todavía encendidas, y no buscó la terminal. Siguió de largo sobre las pistas de Kingsley Field hasta la última plataforma, la de los hangares de carga, donde a esa hora no había nadie que tuviera que estar ahí.
+El helicóptero llegó desde el interior, bajo, con las luces de posición encendidas, y no buscó la terminal. Siguió de largo sobre las pistas de Kingsley Field hasta la última plataforma, la de los hangares de carga, donde a esa hora no había nadie que tuviera que estar ahí.
 
 Había un sedán oscuro estacionado junto a la reja. Sin nada que lo distinguiera de ningún otro sedán oscuro. Junto a él esperaba un hombre delgado, de traje gris, con la corbata bien puesta a las cinco de la mañana. Cuando el viento de las aspas le llegó, se sostuvo la corbata contra el pecho con una mano. En la otra llevaba una carpeta.
 
@@ -63,9 +64,9 @@ No llevaba uniforme. Pantalón oscuro, una chaqueta sin insignias, cerrada hasta
 
 No miró al hombre del traje. Miró hacia el sur.
 
-Desde ahí se veía la ciudad entera bajando hacia el agua, las Lomas primero, luego el centro, luego las calles bajas del sur, donde los postes se seguían apagando de dos en dos. Al fondo, contra la línea gris del puerto, las grúas del Patio se recortaban como algo que alguien hubiera dejado a medio armar.
+Desde ahí se veían las luces de la ciudad entera bajando hacia el agua: las Lomas primero, luego el centro, luego las calles bajas del sur, donde los postes seguían encendidos. Al fondo, apenas una sombra contra el resplandor del puerto, las grúas del Patio, como algo que alguien hubiera dejado a medio armar.
 
-Lo miró todo. No el conjunto: cada parte. Cuando ese hombre miraba algo, no le quedaba atención para ninguna otra cosa.
+Lo miró todo. No el conjunto: cada parte.
 
 El hombre del traje esperó a que las aspas se detuvieran del todo.
 
@@ -73,7 +74,7 @@ El hombre del traje esperó a que las aspas se detuvieran del todo.
 
 Le tendió la carpeta.
 
-Era de cartón manila, sin rótulo, sin sello, con un elástico negro que la mantenía cerrada. El general la tomó, se quitó el elástico y lo guardó en el bolsillo de la chaqueta, y la abrió ahí mismo, de pie, con la luz que empezaba a llegar.
+Era de cartón manila, sin rótulo, sin sello, con un elástico negro que la mantenía cerrada. El general la tomó, se quitó el elástico y lo guardó en el bolsillo de la chaqueta, y la abrió ahí mismo, de pie, a la luz de los reflectores de la plataforma.
 
 Adentro había fotografías.
 
@@ -97,7 +98,7 @@ La grabación de la que salió ese cuadro ya no existía.
 
 El general la miró más tiempo que a las otras. Luego la pasó.
 
-Una mujer, de pie junto a un Lancia oscuro, a la orilla de un puente angosto de concreto con los barandales manchados de óxido. A su lado, una muchacha de chaqueta con las manos en los bolsillos. La foto estaba un poco movida, levantada en polvo, tomada desde la ventanilla de algo que pasaba.
+Una mujer, de pie junto al barandal de un puente angosto de concreto, manchado de óxido. Más atrás, junto a un Lancia oscuro, una muchacha de chaqueta con las manos en los bolsillos. La foto estaba un poco movida, tomada entre el polvo desde la ventanilla de algo que pasaba.
 
 El general le dio la vuelta. Al reverso, a lápiz, en letra de molde, alguien había escrito un nombre completo:
 
@@ -107,9 +108,9 @@ La volvió al frente.
 
 La misma mujer, de espaldas, entrando a una cantina de puerta verde en una plaza con parroquia, bajo un letrero de lámina que decía *La Golondrina*.
 
-La misma mujer, de noche, sentada en el extremo de una barra, tomada a través del vidrio de la calle. El saco puesto. Una taza enfrente. Las sillas de las otras mesas ya subidas, patas arriba. Detrás del mostrador, una mujer de delantal barría.
+La misma mujer, de noche, sentada en el extremo de una barra, tomada a través del vidrio de la calle. El saco puesto. Una taza enfrente. Las sillas de las mesas ya subidas, patas arriba. Detrás del mostrador, una mujer de delantal barría.
 
-En ésa se detuvo más que en ninguna. La miró como se mira a alguien que acaba de decir algo inteligente en una mesa donde nadie lo esperaba.
+En ésa se detuvo más que en ninguna.
 
 Quedaba una.
 
@@ -119,7 +120,9 @@ El general la sostuvo frente a sí sin moverla. El hombre del traje no dijo nada
 
 Después puso la última foto encima de las demás, cuadró el borde con las yemas, cerró la carpeta y se la acomodó bajo el brazo.
 
-Volvió a mirar hacia el sur.
+Volvió a mirar hacia el sur, y se quedó así, con la carpeta bajo el brazo. Dieron las seis, y después las siete, y el hombre del traje no miró el reloj una sola vez.
+
+Con la primera claridad los postes del puerto empezaron a apagarse solos, de dos en dos, y el apagado subió por la ciudad hacia el norte, calle por calle, por el mismo camino por el que unas horas antes había subido la oscuridad.
 
 El sol salía por los cerros, a su izquierda. Iluminó primero las grúas, después los techos del sur, después la Almendra entera, que desde ahí era una mancha baja y apretada de azoteas, tinacos y antenas.
 
