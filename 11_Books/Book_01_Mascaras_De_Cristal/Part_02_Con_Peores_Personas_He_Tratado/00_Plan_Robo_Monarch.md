@@ -21,6 +21,7 @@ Parte del [[11_Books/Book_01_Mascaras_De_Cristal/00_Plan_Nuevo_Cauce]] (el Tasad
 - **Crowe pierde** las rutas prometidas, su heroína y su distribución del norte; además hay ruido (Lucía mirando O.R.T., Ferreyra expuesto) y lo resolvió su rival. Los intermediarios reportan «Bellandi, con su proveedor»; **Halbrook amenaza con sacar a Crowe del tablero y se fija en Chiara.**
 - **Roy Boone (CANON DEL AUTOR):** parece que huye (la casa vacía a las seis de la mañana se queda), pero **Crowe lo asesina**: limpia un cabo suelto. Meiko lo intuye y por eso busca protección en el Patio.
 - **Corral (Cap. 27):** lo ordena La Mesa y lo ejecuta Volpi (DECISIÓN DEL AUTOR, 2026-11-12; antes, represalia de Crowe con bandera falsa; [[11_Books/Book_04_Cuentas_De_Sangre/00_Diseno_Complot_De_La_Mesa]]). Ferreyra frente al Santa Aurelia no hizo el ataque, pero es culpable del robo.
+- **PENDIENTE (verificación del lote 3/6, 2026-11-22; decide el autor):** el hilo de Ferreyra en prosa no tiene pago. Está en el Monarch cerrado el domingo del corral, vigila la puerta de urgencias, Kal se queda con su teléfono y le llegan ahí sus amenazas («va a venir por mí»; «Es un cabo suelto», Cap. 24). Después del 24 no reaparece en el Libro I ni en los planes de los Libros II–VII. Falta decidir si se cobra (por ejemplo, en el Libro II, dentro de la cadena de Crowe) o si queda como residuo. No rellenar. [[13_Auditorias/Book_01_Mascaras_De_Cristal/Verificacion_Lectura_Externa_Lote3_Caps20-26]].
 
 ## Qué sustituye
 

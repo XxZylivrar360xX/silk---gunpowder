@@ -1,6 +1,6 @@
 # Pendientes activos
 
-Actualizado: 2026-11-15. Máximo 800 palabras; las decisiones de fondo van en [[98_Agent_Handoff/BACKLOG]]. Anterior íntegro: [[98_Agent_Handoff/archive/2026-11-12_PENDING]]. **Numeración:** salvo las entradas fechadas desde el 2026-11-01, los números de abajo pueden ser anteriores; tabla en [[01_Timeline/09_Equivalencias_Numeracion_Libro_I]]. `N:línea` cita archivo.
+Actualizado: 2026-11-22. Máximo 800 palabras; las decisiones de fondo van en [[98_Agent_Handoff/BACKLOG]]. Anterior íntegro: [[98_Agent_Handoff/archive/2026-11-12_PENDING]]. **Numeración:** salvo las entradas fechadas desde el 2026-11-01, los números de abajo pueden ser anteriores; tabla en [[01_Timeline/09_Equivalencias_Numeracion_Libro_I]]. `N:línea` cita archivo.
 
 ## *Sombras de Poder* (Libro II): decide el autor
 
@@ -13,6 +13,8 @@ Lista de fondo: [[98_Agent_Handoff/BACKLOG#Libros II y III]]. Prosa en espera ha
 - **Sembrar** (sin redactar): el papel de Elenna en el 23 (el 57 depende de él); el ritual de los chalecos en el levantón, 29 (DECISIÓN DEL AUTOR, 2026-11-15; beats en su ficha); la llegada «sono a casa» antes del 54 (CANON 2026-11-15; plan de cinco siembras en las tarjetas, 16, 20, 39 [escrito], 41 sin mote y 50; espera tu visto bueno: [[06_Relationships/Kal_y_Chiara#CANON — La llegada: «sono a casa»]]).
 
 ## Lecturas del autor (Libro I)
+
+- **Lectura externa, lote 3/6 (caps. 20–26; verificación, 2026-11-22):** sin problemas demostrados ni cambios de prosa: [[13_Auditorias/Book_01_Mascaras_De_Cristal/Verificacion_Lectura_Externa_Lote3_Caps20-26]]. Decide el autor: (1) **Ferreyra** sin pago tras el 24 (amenazas, teléfono, hospital): cobrarlo o dejarlo como residuo; (2) el **Peugeot** sale del I con vinil gris y el 37 del II lo da rojo: ¿hace falta una línea? Para el lote 4: cuota de Ochoa y tarjeta de Dario.
 
 - **Arco de Meiko: aprobado con las siete respuestas del autor (2026-11-15)**: [[11_Books/00_Arco_Meiko_Nakano]]. **Prosa del Libro I escrita en BORRADOR (2026-11-15), espera lectura:** caps. 9, 22, 24, 29 (la contratación pasó del 26 al lago), 30 (primer «Mei» y primer adelanto), 31, 35, 38, 41 y 44; tabla en el arco. Audio del Libro I suspendido por orden del autor: 12 caps. PENDIENTES hasta que dé por buena la lectura. Quedan PENDIENTES del autor: la venta del Peugeot, dónde termina el ritual mensual de Kal y en qué capítulo Danny se lo cuenta a Kal: [[11_Books/Book_01_Mascaras_De_Cristal/00_Estudio_Entrada_Temprana_Meiko]]. Audio del Libro I: el autor lo mandó regenerar el 2026-11-21 y él mismo lo paró a la mitad por la cirugía de la lectura (28 caps. al día y 19 PENDIENTES). **Queda suspendido hasta que cierre esa cirugía**; después, regeneración incremental.
 
