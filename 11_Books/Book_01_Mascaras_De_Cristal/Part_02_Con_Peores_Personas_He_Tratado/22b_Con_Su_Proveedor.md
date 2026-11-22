@@ -231,7 +231,7 @@ Danny le cambió la perilla de la palanca por una calavera de metal fundido que 
 
 —¿Vienes, o te quedas a cuidarle el teléfono a la señora? —preguntó Nadir.
 
-—Yo me quedo, jefe. —Danny se lo dijo a Kal, aunque no era Kal el que había preguntado—. Alguien tiene que estar aquí si llama la señora. Y mañana a las siete entra el Ford del licenciado, y si el elevador no está libre se pone como se pone, ya sabes cómo es, la otra vez me tuvo media hora hablándome de su cuñado…
+—Yo me quedo, jefe. —Danny se lo dijo a Kal, aunque no era Kal el que había preguntado—. Alguien tiene que estar aquí si llama la señora. Y mañana a las siete entra la Ford del licenciado, y si el elevador no está libre se pone como se pone, ya sabes cómo es, la otra vez me tuvo media hora hablándome de su cuñado…
 
 —Quédate —dijo Kal.
 
@@ -465,7 +465,7 @@ Lo dijo sin bajar la voz y sin adornarlo, y Kal no le preguntó más. Esa noche 
 
 ***
 
-El viernes, Danny llegó al taller con el periódico doblado en la bolsa de atrás del pantalón, y lo abrió sobre el capó del Ford del licenciado antes de saludar a nadie.
+El viernes, Danny llegó al taller con el periódico doblado en la bolsa de atrás del pantalón, y lo abrió sobre el capó de la Ford del licenciado antes de saludar a nadie.
 
 —Salimos, jefe. Bueno, no salimos. Sale «una revisión de tránsito».
 
@@ -479,7 +479,7 @@ Era una nota de media columna, en la página de la ciudad. El robo del Monarch, 
 
 Nadir, desde la mesa, contó algo con los dedos contra la madera. Una vez. No dijo qué.
 
-Kal esperó a que Danny dijera algo más del billar, o de la gorra, o de alguien que se pareciera. Danny guardó el periódico en el cajón de las facturas y se metió debajo del Ford.
+Kal esperó a que Danny dijera algo más del billar, o de la gorra, o de alguien que se pareciera. Danny guardó el periódico en el cajón de las facturas y se metió debajo de la Ford.
 
 ***
 

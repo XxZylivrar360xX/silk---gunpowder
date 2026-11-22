@@ -2,7 +2,7 @@
 LECTOR PARTE II (2026-11-08, [[98_Agent_Handoff/sessions/2026-11-08_claude_observaciones_lector_parte_II]]; DISEÑO, espera lectura): Hoover y Kal se cruzan en el pasillo del tribunal antes del acuerdo (ruptura en página).
 Renumerado 2026-11-08 (nuevo cauce, Parte II): antes Cap. 26.
 NUEVO CAUCE (Fase 4, 2026-11-08, terminal B): nuevo Cap. 22, tarjeta T11, POV Kal único, verbo «Reescribe» según [[11_Books/Book_01_Mascaras_De_Cristal/00_Mapa_Cauce_Cap11_Camp_Alder]] y [[98_Agent_Handoff/encargos/ENCARGO_Fase4_Parte_II]]. El encabezado sigue diciendo «Capítulo 26» hasta que la terminal principal renumere. Versión anterior íntegra (Kal y Chiara): [[11_Books/Book_01_Mascaras_De_Cristal/Escenas_Eliminadas/24b_Lo_Que_Cueste_Version_2026-11-08]]. Sesión: [[98_Agent_Handoff/sessions/2026-11-08_claude_fase4_cap22_lo_que_cueste]].
-Estado: BORRADOR (lo nuevo es DISEÑO del agente; espera lectura del autor).
+Estado: BORRADOR (lo nuevo es DISEÑO del agente; espera lectura del autor). Cirugía de la lectura (2026-11-21; BORRADOR, espera lectura del autor): [[98_Agent_Handoff/sessions/2026-11-21_claude_cirugia_lectura_cap22]]: capa 1, Hoover y Krane restituidos literales (fuera lo que añadieron los barridos); excepción de la regla 06, 32 % (DECISIÓN DEL AUTOR); «Tortas de las de Mabel» en vez de «Tortillas de las de la señora Ruiz» (DECISIÓN DEL AUTOR); la línea aprobada de Meiko sin el añadido del barrido (beat del Camaro en ralentí); apertura «La hoja que Kal no dobló» (costura 21→22); pan dulce en orden; «Y de ustedes, menos»; aserrín; «foso».
 Absorbe del archivo 24 (*Bajo juramento*, retirado en esta sesión: [[11_Books/Book_01_Mascaras_De_Cristal/Escenas_Eliminadas/24_Bajo_Juramento_Version_2026-11-08]]) el acuerdo con Hoover (fuera de la sala, sin juicio), a Rivers, la media hoja a Krane (precedente de Rivers & Krane) y la firma en Villani Motors. La mentira de Tommaso sale.
 Decisiones del autor (2026-11-08): (1) la capa 2 de Nadir (Il Gelsomino, POV Chiara) sale de este capítulo y la recuerda Chiara en el nuevo 24; aquí la escalera se lee sin esa causa; (2) el detonante de Nadir y de «Lo que cueste, lo pagamos» deja de ser la mentira de Tommaso y pasa a ser el robo y el libro que Kal no abrió («No lo abras», nuevo 21); (3) Crowe junta lo de Nadir: la panadera le cuenta a Kal que un hombre de chaqueta café preguntó por «su socio, el que cuenta con los dedos» (de dónde es, cuánto lleva aquí, si tiene familia). No se nombra a Crowe, y Kal no se lo dice a Nadir.
 Se conserva (CANON DEL AUTOR, 2026-10-01): capa 1 (Kal se abre con Nadir: «para ir a verla»; «Lo que tú decidas, eso es. Es ley»), capa 3 (la escalera; Kal oye sólo la primera mitad: «Si un día me llega el agua al cuello, agarro mis cosas y me voy.»; la segunda se dice cuando él va por los últimos escalones y no se transcribe). Kal NO se entera en el Libro I de que Nadir habló con Chiara. La moto de Nadir, literal salvo la primera frase. Coda del Lancia.
@@ -19,7 +19,7 @@ Parrilla armonizada (2026-11-15, revisión externa): «una fila adelante» → �
 
 # Capítulo 22 — Lo que cueste
 
-La otra hoja que Kal arrancó la semana siguiente fue media página de la libreta de Garrett, el martes, en un pasillo del tribunal civil.
+La hoja que Kal no dobló fue media página de la libreta de Garrett: la arrancó el martes de la otra semana, en un pasillo del tribunal civil.
 
 La audiencia estaba citada para las diez. A las nueve y cuarto, Giancarlo Krane salió de la sala de mediación del tercer piso, buscó a Margaret Rivers por encima de las bancas y le pidió cinco minutos «para hablar de números en vez de principios». Los cinco minutos fueron dos horas. Kal las pasó en una banca de madera junto a la ventana, con Garrett al lado, que releía por tercera vez la caja de archivo que había traído de Villani: las transferencias, las pérdidas que el lote había declarado y las que no, los recibos del dinero que Kal había puesto cuando el terreno todavía era un baldío con una caseta.
 
@@ -49,7 +49,7 @@ Rivers salió a las once y diez con una hoja en la mano.
 
 Kal leyó el párrafo dos veces.
 
-—¿Por qué cerró? Ayer Hoover juraba que iba hasta la corte.
+—¿Por qué cerró?
 
 —Porque anoche Krane leyó las carpetas del señor Cross y vio lo mismo que iba a ver el juez. —Rivers guardó la pluma en el saco—. Esto es mejor que un fallo. Un fallo se apela.
 
@@ -65,7 +65,7 @@ Hoover se fue sin contestar.
 
 Kal alcanzó a Krane en el pasillo, junto a los elevadores. Krane llevaba la carpeta fina bajo el brazo y el abrigo doblado sobre el otro, y esperaba el elevador como si también le hubieran cobrado la espera. Kal arrancó media hoja de la libreta que le había pedido prestada a Garrett, anotó un número y se la tendió.
 
-—¿Y esto qué es?
+—¿Qué es esto?
 
 —Un teléfono. El día que te canses de defender a gente como Hoover, marca. Tengo trabajo para alguien que arma una historia falsa mejor que la verdadera.
 
@@ -91,13 +91,13 @@ La persiana se levantó a medias con un ruido de lámina y entró Nadir agachán
 
 —*Safi*, *safi*. Mañana. —Colgó—. ¿Cenaste?
 
-—No. Se me fue la hora con la Ford.
+—No.
 
-—Ya sé que no. —Dejó la bolsa junto a la caja de tornillos, al lado del teléfono de Kal, y le dio un vistazo al teléfono como quien comprueba el precio de algo en un aparador—. Tortillas de las de la señora Ruiz. Dos de pollo, una de queso. La de queso es mía, la de pollo grande es tuya, la de pollo chica también es tuya porque te ves feo.
+—Ya sé que no. —Dejó la bolsa junto a la caja de tornillos, al lado del teléfono de Kal, y le dio un vistazo al teléfono como quien comprueba el precio de algo en un aparador—. Tortas de las de Mabel. Dos de pollo, una de queso. La de queso es mía, la de pollo grande es tuya, la de pollo chica también es tuya porque te ves feo.
 
 Kal no salió del capó.
 
-—Gracias. Ahorita salgo, nada más aprieto esto.
+—Gracias.
 
 —Gracias nada. Me las debes. —Se sentó en un banco con las piernas abiertas, desenvolvió la de queso y se la llevó a la boca, y con la mano libre empezó a contar con los dedos contra la madera—. Hoover. La cifra de la abogada. Tu parte en efectivo, más la inversión, más lo retenido. —Masticó—. Quitas a la abogada, que cobra como si el juez fuera ella. Quitas lo que se le debe a Garrett por los papeles. Quitas lo de Villani. Te queda, más o menos…
 
@@ -117,7 +117,11 @@ Ahí estaba. Kal sacó la cabeza del capó por primera vez.
 
 —El de la bolsa del supermercado. El que cargaste debajo del brazo toda la noche y no abriste. Ése. —Nadir se limpió la boca con el dorso de la mano—. ¿Cuánto nos va a costar?
 
-—No sé. No sé ni qué tiene.
+—No sé.
+
+—No sabes.
+
+—No sé qué tiene.
 
 —*Wallah*, eso es peor. Cuando sabes qué cargas, sabes cuánto pesa. Cuando no sabes, pesa lo que diga el que sí sabe, el día que él diga. —Volvió a contar con los dedos, ahora sin número, sólo por el gesto—. La subjefa te apuntó la hora. El italiano del casino lee tus facturas. Y la señora no te dijo qué era. Esa gente no regala nada. Ni la hora.
 
@@ -131,7 +135,7 @@ Kal no contestó. Se limpió las manos en el trapo, y al dejar el trapo miró el
 
 Kal no dijo de quién. No hacía falta, y no lo dijo justamente porque no hacía falta.
 
-Nadir dejó la tortilla sobre el papel.
+Nadir dejó la torta sobre el papel.
 
 —Hoy firmaste en Villani —dijo—. Garrett me contó. Que después de firmar te quedaste parado delante de un coche como un niño delante de una vitrina. Uno italiano.
 
@@ -161,9 +165,9 @@ Kal asintió despacio, sin sorpresa.
 
 —No te voy a mentir para que duermas tranquilo, *khoya*. No confío en ella. No me gustó desde antes de verla, y cuando la vi tampoco, y cuando vivió en la casa con nosotros menos. No es que sea mala. —Levantó una mano, cortando algo que Kal no había dicho—. Es que no es de aquí. Ella sube y baja de sitios que nosotros sólo vemos desde abajo. Y la gente de esos sitios, cuando se cae, no se cae sola.
 
-—Lo sé. Me lo has dicho desde el primer día.
+—Lo sé.
 
-—Sí. Tú lo sabes todo y haces lo que quieres. —Recogió la tortilla, la miró, la volvió a dejar—. Pero escúchame bien, porque lo voy a decir una vez y después no lo vuelvo a decir. Lo que tú decidas, eso es. Es ley. Tú eres el jefe. —Una pausa corta—. Y eres mi hermano. Si tú dices que ella, es ella. Yo me trago lo que piense.
+—Sí. Tú lo sabes todo y haces lo que quieres. —Recogió la torta, la miró, la volvió a dejar—. Pero escúchame bien, porque lo voy a decir una vez y después no lo vuelvo a decir. Lo que tú decidas, eso es. Es ley. Tú eres el jefe. —Una pausa corta—. Y eres mi hermano. Si tú dices que ella, es ella. Yo me trago lo que piense.
 
 Kal lo miró por primera vez desde que había empezado a hablar.
 
@@ -175,7 +179,7 @@ Se agachó para pasar bajo la persiana. Desde afuera, sin asomar la cabeza, dijo
 
 —Y llama a quien tengas que llamar. Me pones nervioso.
 
-La persiana bajó. Kal se quedó con el teléfono al lado de la bolsa, y comió las dos tortillas de pollo, despacio, de pie, mirando el motor de una Ford que podía esperar al lunes.
+La persiana bajó. Kal se quedó con el teléfono al lado de la bolsa, y comió las dos tortas de pollo, despacio, de pie, mirando el motor de una Ford que podía esperar al lunes.
 
 No llamó esa noche tampoco.
 
@@ -247,7 +251,7 @@ Nadir sonrió por primera vez en la mañana.
 
 ***
 
-A media mañana Kal pasó por la casa de Héctor con el periódico y una bolsa de pan dulce, porque el médico le había prohibido a Héctor el pan dulce y Héctor había dicho que entonces se lo trajeran a escondidas.
+A media mañana Kal fue a casa de Héctor con el periódico, y antes cruzó a comprarle pan dulce, porque el médico le había prohibido a Héctor el pan dulce y Héctor había dicho que entonces se lo trajeran a escondidas.
 
 La panadería de enfrente tenía la puerta abierta y el horno prendido desde las cinco. La panadera lo atendió ella misma, con el delantal blanco de harina hasta los codos, y escogió las conchas sin que él se las señalara.
 
@@ -267,7 +271,7 @@ Kal dejó la bolsa sobre el mostrador y esperó.
 
 —¿Y usted qué le dijo?
 
-—Que yo vendo pan. —La panadera se limpió las manos en el delantal—. Aquí nadie sabe nada de nadie, señor Mercer. Para ustedes, menos.
+—Que yo vendo pan. —La panadera se limpió las manos en el delantal—. Aquí nadie sabe nada de nadie, señor Mercer. Y de ustedes, menos.
 
 Kal le dio las gracias. Cruzó la calle con la bolsa de pan dulce y el periódico doblado bajo el brazo, y antes de tocar en casa de Héctor miró la esquina de la vulcanizadora, donde no había nadie, y la mantuvo un rato a la vista.
 
@@ -285,9 +289,9 @@ La muchacha estaba sentada en el guardafango, con las manos en los bolsillos de 
 
 —Llegué. —Se encogió de hombros—. Con las torretas atrás, eso ya es bastante.
 
-Esperó un segundo.
+Esperó un segundo. Atrás de ella, el Camaro seguía en ralentí, con el cilindro que no daba.
 
-—El primero salió una fila antes —dijo, sin cambiar de cara—. No fue el coche. Ese día ya traía un cilindro que no daba, y aun así. La próxima, la fila es mía.
+—El primero salió una fila antes —dijo, sin cambiar de cara—. La próxima, la fila es mía.
 
 —¿Qué se te ofrece? Si es el cilindro, te lo oigo desde aquí.
 
@@ -311,7 +315,7 @@ Ella se agachó junto a la moto sin quitarse la chaqueta. No tocó la cadena; la
 
 Kal se agachó a su lado. Le quedaba puro metal.
 
-Danny llegó a las siete y veinte con dos cafés de la máquina de la esquina y los ojos chiquitos de no haber dormido. Vio a la muchacha junto a la moto y se detuvo en seco, un paso adentro de la cortina. Después siguió caminando. Dejó uno de los cafés sobre el banco de trabajo, el que era para Kal, y se fue directo a la fosa sin decir buenos días.
+Danny llegó a las siete y veinte con dos cafés de la máquina de la esquina y los ojos chiquitos de no haber dormido. Vio a la muchacha junto a la moto y se detuvo en seco, un paso adentro de la cortina. Después siguió caminando. Dejó uno de los cafés sobre el banco de trabajo, el que era para Kal, y se fue directo al foso sin decir buenos días.
 
 Kal se dio cuenta de que Danny no la había vuelto a mirar. Danny miraba dos veces a todo el mundo.
 
@@ -333,7 +337,7 @@ Kal miró el sillón donde Nadir había dormido con las botas puestas. Miró el 
 
 —Hay una manta en el armario —dijo.
 
-A la mañana siguiente la luz de la oficina seguía prendida. Ella ya estaba en el patio, barriendo una mancha de aceite que no era suya, y Kal apagó el interruptor al pasar, sin comentar nada.
+A la mañana siguiente la luz de la oficina seguía prendida. Ella ya estaba en el patio, echándole aserrín a una mancha de aceite que no era suya, y Kal apagó el interruptor al pasar, sin comentar nada.
 
 ***
 
@@ -383,7 +387,7 @@ La frase subió por la doble altura, que la devolvía un poco más grande de lo 
 
 Kal no se dio vuelta.
 
-Pensó, en el quinto escalón, con la mano en un barandal que ella había elegido, que él se había quedado. Que su mejor amigo le había dicho que no confiaba en ella, en un taller cerrado, con una tortilla a medio comer, y él se había quedado igual. Y pensó que a lo mejor eso era lo que él iba a ser, en la cabeza de ella, el día que le llegara el agua: algo que se deja en una casa, como se deja un mueble.
+Pensó, en el quinto escalón, con la mano en un barandal que ella había elegido, que él se había quedado. Que su mejor amigo le había dicho que no confiaba en ella, en un taller cerrado, con una torta a medio comer, y él se había quedado igual. Y pensó que a lo mejor eso era lo que él iba a ser, en la cabeza de ella, el día que le llegara el agua: algo que se deja en una casa, como se deja un mueble.
 
 —Está bien —dijo, y siguió subiendo.
 
