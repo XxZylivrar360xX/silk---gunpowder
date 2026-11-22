@@ -26,3 +26,9 @@ Plan: [[13_Auditorias/Book_01_Mascaras_De_Cristal/Cirugia_Lectura_Libro_I]]. Arc
 
 - Fabrizio sólo baja la voz: sale «como si Palermo pudiera oírlos desde ahí» (hacía leer viva a Marta); «Tu madre me mataría» se queda.
 - Tina: dos réplicas de Chiara pasan al italiano: «—Una casa più grande.» (a «¿Qué dibujas?»; antes «Una casa más grande.») y, a «¿Y ésta ya no te gusta?», «—Sì. Ésta me gusto molto.», que Corrado corrige («—Ésta me gusta mucho»); Chiara se ríe y acepta la lección del idioma. Corrado habla el idioma; Marta, sobre todo italiano, y el español con acento marcado (DECISIÓN DEL AUTOR); por eso las dos réplicas de Marta pasan al italiano: «—Dici sempre la stessa cosa.» y «—Certo, perché tu non pulisci.». Para no abrir ping-pong, el beat previo suma «con el lápiz azul todavía en la mano».
+
+## Reportados, decididos por el autor (mismo día, aplicados)
+
+- Tina: «—Non lo sto sporcando.» (antes «Non la sto macchiando»; *il muro* es masculino y la niña repite el verbo de la madre).
+- «¿Quién manda en la ciudad?» (antes «manda la ciudad»).
+- Tommaso le sigue hablando de usted a Matteo, por el nombre: trata a todos de usted (DECISIÓN DEL AUTOR).

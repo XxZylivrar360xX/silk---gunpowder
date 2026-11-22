@@ -170,7 +170,7 @@ Matteo se rio.
 
 Chiara miró por la ventana. Una grúa amarilla pasó junto a ellos en sentido contrario, con un sedán gris levantado de atrás. El conductor llevaba el codo fuera y no miró el coche negro.
 
-—¿Quién manda la ciudad?
+—¿Quién manda en la ciudad?
 
 Matteo tardó medio segundo más de lo necesario.
 
@@ -842,7 +842,7 @@ Había encontrado una caja de colores y estaba dibujando una casa en la pared de
 
 —Chiara, non sporcare il muro; l'ho appena pulito.
 
-—Non la sto macchiando.
+—Non lo sto sporcando.
 
 —Dici sempre la stessa cosa.
 
