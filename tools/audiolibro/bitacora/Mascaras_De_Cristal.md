@@ -2,7 +2,7 @@
 
 Generada por `tools/audiolibro/build_audiobook.py`; no editar a mano. Tras cambiar la prosa de un capítulo, correr `--estado` para marcarlo PENDIENTE; la bandera se cierra sola cuando el script regenera ese audio.
 
-Actualizada: 2026-11-22 00:23. Al día: 20 de 47.
+Actualizada: 2026-11-22 01:37. Al día: 32 de 47.
 
 ## Pendientes
 
@@ -20,18 +20,6 @@ Actualizada: 2026-11-22 00:23. Al día: 20 de 47.
 | 30 | Línea directa | PENDIENTE | cambió la prosa | 2026-11-21 10:55 |
 | 31 | Lo único que es mío | PENDIENTE | cambió la prosa | 2026-11-21 10:55 |
 | 32 | A ti por mí | PENDIENTE | cambió la prosa | 2026-11-21 10:55 |
-| 33 | Cambio de firmas | PENDIENTE | cambió la prosa | 2026-11-21 10:55 |
-| 34 | También las mañanas | PENDIENTE | cambió la prosa | 2026-11-21 10:55 |
-| 35 | Al revés | PENDIENTE | cambió la prosa | 2026-11-21 10:55 |
-| 36 | Mecánico | PENDIENTE | cambió la prosa | 2026-11-21 10:55 |
-| 37 | Reclamable | PENDIENTE | cambió la prosa | 2026-11-21 10:55 |
-| 38 | Nada | PENDIENTE | cambió la prosa | 2026-11-21 10:55 |
-| 39 | Expediente sellado | PENDIENTE | cambió la prosa | 2026-11-21 10:55 |
-| 40 | No puedo sacarlo | PENDIENTE | cambió la prosa | 2026-11-21 14:27 |
-| 41 | Ropa limpia | PENDIENTE | cambió la prosa | 2026-11-21 10:55 |
-| 42 | Navajas y tinta | PENDIENTE | cambió la prosa | 2026-11-21 10:55 |
-| 43 | Una cuenta abierta | PENDIENTE | cambió la prosa | 2026-11-21 10:55 |
-| 44 | Su nombre | PENDIENTE | cambió la prosa | 2026-11-21 10:55 |
 | 45 | Por si vuelve | PENDIENTE | cambió la prosa | 2026-11-21 10:55 |
 | 46 | A oscuras | PENDIENTE | cambió la prosa | 2026-11-21 10:55 |
 | 47 | La tierra bajo sus botas | PENDIENTE | cambió la prosa | 2026-11-21 10:55 |
@@ -42,7 +30,7 @@ Actualizada: 2026-11-22 00:23. Al día: 20 de 47.
 |---|---|---|---|
 | 1 | Un hombre de negocios intachable | AL DIA | 2026-11-22 |
 | 2 | Demasiado listo | AL DIA | 2026-11-21 |
-| 3 | Lo que no cambió | AL DIA | 2026-11-21 |
+| 3 | Lo que no cambió | AL DIA | 2026-11-22 |
 | 4 | Tarifa nocturna | AL DIA | 2026-11-22 |
 | 5 | Cliente y proveedor | AL DIA | 2026-11-22 |
 | 6 | Sólo una cena | AL DIA | 2026-11-21 |
@@ -72,24 +60,36 @@ Actualizada: 2026-11-22 00:23. Al día: 20 de 47.
 | 30 | Línea directa | PENDIENTE | 2026-11-16 |
 | 31 | Lo único que es mío | PENDIENTE | 2026-11-16 |
 | 32 | A ti por mí | PENDIENTE | 2026-11-10 |
-| 33 | Cambio de firmas | PENDIENTE | 2026-11-10 |
-| 34 | También las mañanas | PENDIENTE | 2026-11-08 |
-| 35 | Al revés | PENDIENTE | 2026-11-18 |
-| 36 | Mecánico | PENDIENTE | 2026-11-16 |
-| 37 | Reclamable | PENDIENTE | 2026-11-10 |
-| 38 | Nada | PENDIENTE | 2026-11-16 |
-| 39 | Expediente sellado | PENDIENTE | 2026-11-10 |
-| 40 | No puedo sacarlo | PENDIENTE | 2026-11-10 |
-| 41 | Ropa limpia | PENDIENTE | 2026-11-16 |
-| 42 | Navajas y tinta | PENDIENTE | 2026-11-10 |
-| 43 | Una cuenta abierta | PENDIENTE | 2026-11-10 |
-| 44 | Su nombre | PENDIENTE | 2026-11-16 |
+| 33 | Cambio de firmas | AL DIA | 2026-11-22 |
+| 34 | También las mañanas | AL DIA | 2026-11-22 |
+| 35 | Al revés | AL DIA | 2026-11-22 |
+| 36 | Mecánico | AL DIA | 2026-11-22 |
+| 37 | Reclamable | AL DIA | 2026-11-22 |
+| 38 | Nada | AL DIA | 2026-11-22 |
+| 39 | Expediente sellado | AL DIA | 2026-11-22 |
+| 40 | No puedo sacarlo | AL DIA | 2026-11-22 |
+| 41 | Ropa limpia | AL DIA | 2026-11-22 |
+| 42 | Navajas y tinta | AL DIA | 2026-11-22 |
+| 43 | Una cuenta abierta | AL DIA | 2026-11-22 |
+| 44 | Su nombre | AL DIA | 2026-11-22 |
 | 45 | Por si vuelve | PENDIENTE | 2026-11-08 |
 | 46 | A oscuras | PENDIENTE | 2026-11-16 |
 | 47 | La tierra bajo sus botas | PENDIENTE | 2026-11-08 |
 
 ## Historial
 
+- 2026-11-22 01:37 · Cap. 44 (48_Su_Nombre.md) · audio regenerado
+- 2026-11-22 01:37 · Cap. 43 (47_Intereses.md) · audio regenerado
+- 2026-11-22 01:37 · Cap. 42 (46_Llaves.md) · audio regenerado
+- 2026-11-22 01:37 · Cap. 41 (45_Ropa_Limpia.md) · audio regenerado
+- 2026-11-22 01:37 · Cap. 40 (44_Jurisdiccion.md) · audio regenerado
+- 2026-11-22 01:37 · Cap. 39 (43_La_Puerta.md) · audio regenerado
+- 2026-11-22 01:37 · Cap. 38 (42_Nada.md) · audio regenerado
+- 2026-11-22 01:37 · Cap. 37 (41_La_Otra_Mitad.md) · audio regenerado
+- 2026-11-22 01:37 · Cap. 36 (40_Mecanico.md) · audio regenerado
+- 2026-11-22 01:37 · Cap. 35 (38_Al_Reves.md) · audio regenerado
+- 2026-11-22 01:37 · Cap. 34 (36_Tambien_Las_Mananas.md) · audio regenerado
+- 2026-11-22 01:37 · Cap. 33 (35_Sin_Fecha_De_Regreso.md) · audio regenerado
 - 2026-11-22 00:23 · Cap. 23 (24c_El_Corral.md) · audio regenerado
 - 2026-11-22 00:23 · Cap. 8 (07_La_Noche_Del_Ladrillo.md) · audio regenerado
 - 2026-11-22 00:23 · Cap. 5 (05a_Cliente_Y_Proveedor.md) · audio regenerado

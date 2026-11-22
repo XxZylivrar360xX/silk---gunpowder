@@ -21,7 +21,7 @@
       "titulo": "Lo que no cambió",
       "estado": "AL DIA",
       "motivo": "",
-      "audio": "2026-11-21",
+      "audio": "2026-11-22",
       "desde": "2026-11-21 21:56"
     },
     "04_Tarifa_Nocturna.md": {
@@ -259,98 +259,98 @@
     "35_Sin_Fecha_De_Regreso.md": {
       "capitulo": 33,
       "titulo": "Cambio de firmas",
-      "estado": "PENDIENTE",
-      "motivo": "cambió la prosa",
-      "audio": "2026-11-10",
-      "desde": "2026-11-21 10:55"
+      "estado": "AL DIA",
+      "motivo": "",
+      "audio": "2026-11-22",
+      "desde": "2026-11-22 01:37"
     },
     "36_Tambien_Las_Mananas.md": {
       "capitulo": 34,
       "titulo": "También las mañanas",
-      "estado": "PENDIENTE",
-      "motivo": "cambió la prosa",
-      "audio": "2026-11-08",
-      "desde": "2026-11-21 10:55"
+      "estado": "AL DIA",
+      "motivo": "",
+      "audio": "2026-11-22",
+      "desde": "2026-11-22 01:37"
     },
     "38_Al_Reves.md": {
       "capitulo": 35,
       "titulo": "Al revés",
-      "estado": "PENDIENTE",
-      "motivo": "cambió la prosa",
-      "audio": "2026-11-18",
-      "desde": "2026-11-21 10:55"
+      "estado": "AL DIA",
+      "motivo": "",
+      "audio": "2026-11-22",
+      "desde": "2026-11-22 01:37"
     },
     "40_Mecanico.md": {
       "capitulo": 36,
       "titulo": "Mecánico",
-      "estado": "PENDIENTE",
-      "motivo": "cambió la prosa",
-      "audio": "2026-11-16",
-      "desde": "2026-11-21 10:55"
+      "estado": "AL DIA",
+      "motivo": "",
+      "audio": "2026-11-22",
+      "desde": "2026-11-22 01:37"
     },
     "41_La_Otra_Mitad.md": {
       "capitulo": 37,
       "titulo": "Reclamable",
-      "estado": "PENDIENTE",
-      "motivo": "cambió la prosa",
-      "audio": "2026-11-10",
-      "desde": "2026-11-21 10:55"
+      "estado": "AL DIA",
+      "motivo": "",
+      "audio": "2026-11-22",
+      "desde": "2026-11-22 01:37"
     },
     "42_Nada.md": {
       "capitulo": 38,
       "titulo": "Nada",
-      "estado": "PENDIENTE",
-      "motivo": "cambió la prosa",
-      "audio": "2026-11-16",
-      "desde": "2026-11-21 10:55"
+      "estado": "AL DIA",
+      "motivo": "",
+      "audio": "2026-11-22",
+      "desde": "2026-11-22 01:37"
     },
     "43_La_Puerta.md": {
       "capitulo": 39,
       "titulo": "Expediente sellado",
-      "estado": "PENDIENTE",
-      "motivo": "cambió la prosa",
-      "audio": "2026-11-10",
-      "desde": "2026-11-21 10:55"
+      "estado": "AL DIA",
+      "motivo": "",
+      "audio": "2026-11-22",
+      "desde": "2026-11-22 01:37"
     },
     "44_Jurisdiccion.md": {
       "capitulo": 40,
       "titulo": "No puedo sacarlo",
-      "estado": "PENDIENTE",
-      "motivo": "cambió la prosa",
-      "audio": "2026-11-10",
-      "desde": "2026-11-21 14:27"
+      "estado": "AL DIA",
+      "motivo": "",
+      "audio": "2026-11-22",
+      "desde": "2026-11-22 01:37"
     },
     "45_Ropa_Limpia.md": {
       "capitulo": 41,
       "titulo": "Ropa limpia",
-      "estado": "PENDIENTE",
-      "motivo": "cambió la prosa",
-      "audio": "2026-11-16",
-      "desde": "2026-11-21 10:55"
+      "estado": "AL DIA",
+      "motivo": "",
+      "audio": "2026-11-22",
+      "desde": "2026-11-22 01:37"
     },
     "46_Llaves.md": {
       "capitulo": 42,
       "titulo": "Navajas y tinta",
-      "estado": "PENDIENTE",
-      "motivo": "cambió la prosa",
-      "audio": "2026-11-10",
-      "desde": "2026-11-21 10:55"
+      "estado": "AL DIA",
+      "motivo": "",
+      "audio": "2026-11-22",
+      "desde": "2026-11-22 01:37"
     },
     "47_Intereses.md": {
       "capitulo": 43,
       "titulo": "Una cuenta abierta",
-      "estado": "PENDIENTE",
-      "motivo": "cambió la prosa",
-      "audio": "2026-11-10",
-      "desde": "2026-11-21 10:55"
+      "estado": "AL DIA",
+      "motivo": "",
+      "audio": "2026-11-22",
+      "desde": "2026-11-22 01:37"
     },
     "48_Su_Nombre.md": {
       "capitulo": 44,
       "titulo": "Su nombre",
-      "estado": "PENDIENTE",
-      "motivo": "cambió la prosa",
-      "audio": "2026-11-16",
-      "desde": "2026-11-21 10:55"
+      "estado": "AL DIA",
+      "motivo": "",
+      "audio": "2026-11-22",
+      "desde": "2026-11-22 01:37"
     },
     "49_Enfrente.md": {
       "capitulo": 45,
@@ -5086,6 +5086,66 @@
     [
       "2026-11-22 00:23",
       "Cap. 23 (24c_El_Corral.md)",
+      "audio regenerado"
+    ],
+    [
+      "2026-11-22 01:37",
+      "Cap. 33 (35_Sin_Fecha_De_Regreso.md)",
+      "audio regenerado"
+    ],
+    [
+      "2026-11-22 01:37",
+      "Cap. 34 (36_Tambien_Las_Mananas.md)",
+      "audio regenerado"
+    ],
+    [
+      "2026-11-22 01:37",
+      "Cap. 35 (38_Al_Reves.md)",
+      "audio regenerado"
+    ],
+    [
+      "2026-11-22 01:37",
+      "Cap. 36 (40_Mecanico.md)",
+      "audio regenerado"
+    ],
+    [
+      "2026-11-22 01:37",
+      "Cap. 37 (41_La_Otra_Mitad.md)",
+      "audio regenerado"
+    ],
+    [
+      "2026-11-22 01:37",
+      "Cap. 38 (42_Nada.md)",
+      "audio regenerado"
+    ],
+    [
+      "2026-11-22 01:37",
+      "Cap. 39 (43_La_Puerta.md)",
+      "audio regenerado"
+    ],
+    [
+      "2026-11-22 01:37",
+      "Cap. 40 (44_Jurisdiccion.md)",
+      "audio regenerado"
+    ],
+    [
+      "2026-11-22 01:37",
+      "Cap. 41 (45_Ropa_Limpia.md)",
+      "audio regenerado"
+    ],
+    [
+      "2026-11-22 01:37",
+      "Cap. 42 (46_Llaves.md)",
+      "audio regenerado"
+    ],
+    [
+      "2026-11-22 01:37",
+      "Cap. 43 (47_Intereses.md)",
+      "audio regenerado"
+    ],
+    [
+      "2026-11-22 01:37",
+      "Cap. 44 (48_Su_Nombre.md)",
       "audio regenerado"
     ]
   ]
