@@ -28,3 +28,10 @@ Plan: [[13_Auditorias/Book_01_Mascaras_De_Cristal/Cirugia_Lectura_Libro_I]]. Arc
 - **Cap. 5:** en `05a` (l. ~388), Kal le cuenta a Chiara lo de la teniente del turno de noche casi con las palabras de Blake en El Relevo, y ella pregunta «¿Cómo sabe eso?»; ella ya lo oyó: falta reacción o cambia la pregunta.
 
 - «El segundo pleito de la pintura no debe repetir el del 1»: resuelto (sale el Taurus).
+
+## Corrección posterior (mismo día, al abrir el cap. 5)
+
+El encabezado del 4 (nota «Río», 2026-11-03) fija como **literales** Russ/Danny, el bigote y los diálogos de la llamada y de la rampa; el barrido de ping-pong los había cambiado y esta cirugía no lo vio al principio (el encabezado se leyó cortado). Restituidos contra `b834809`:
+- Russ/Danny: «Me cuida.» / «Me adora, jefe. Es su forma.» / «No te soporto.» / «Es su forma.» (el «No me toques» pasa a gesto: Russ se lo quita con el bastón); bigote: «Te dije» / «Tú querías que le pusiera bigote.» / «Nunca dije eso.» / «Lo pensaste.». Dos beats de narración cortan el ping-pong.
+- Llamada y rampa, idénticas a la versión previa (verificado con diff): «¿Policía? / No. / ¿Seguridad? / Presente e inútil.», «Ella no dijo nada.», «Luego vemos.», «¿Viene?», «Adentro.», «Señor Mercer —dijo Matteo.». Quedan como excepción de la regla 05 (DECISIÓN DEL AUTOR).
+- Regla 06: el capítulo sube a 33 % (excepción ya aprobada).

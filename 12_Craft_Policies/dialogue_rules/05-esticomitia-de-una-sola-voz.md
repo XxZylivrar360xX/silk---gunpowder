@@ -9,7 +9,7 @@
 
 Es ping-pong, y hay que reescribirlo, cuando aparecen **cinco o mas replicas seguidas de catorce palabras habladas o menos**, alternadas, y lo unico que las separa son beats de una linea. Detector: `python tools/editorial/pingpong_audit.py` (sin dependencias; da archivo y lineas). El detector marca candidatos; la prueba final es la de esta regla: si se tapan los nombres y suena a una sola maquina, o si cada linea solo contesta y remata, es ping-pong aunque no llegue al umbral. Al reescribir: las lineas CANON DEL AUTOR se conservan literales y la conversacion se construye alrededor.
 
-**Excepciones aprobadas por el autor (2026-11-21), tramo por tramo:** en el Libro I quedan como estan los ojos del Cap. 3, la vela de Corrado del 12, «Ladro» del 33, los dos tramos de H21 del 34 («Chiaraaa…» y «Mi pareja»), la moto de Nadir del 24b y la llave del 36 (estas dos, aprobadas el mismo dia tras el barrido de la regla 06). Ninguna otra excepcion vale sin aprobacion expresa del autor.
+**Excepciones aprobadas por el autor (2026-11-21), tramo por tramo:** en el Libro I quedan como estan los ojos del Cap. 3, la vela de Corrado del 12, «Ladro» del 33, los dos tramos de H21 del 34 («Chiaraaa…» y «Mi pareja»), la moto de Nadir del 24b y la llave del 36 (estas dos, aprobadas el mismo dia tras el barrido de la regla 06), y la llamada y la rampa del Cap. 4, restituidas literales (aprobado en la cirugia de la lectura). Ninguna otra excepcion vale sin aprobacion expresa del autor.
 
 ## El patron
 

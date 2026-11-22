@@ -659,13 +659,17 @@ Russ señaló a Danny con el bastón, sin mirarlo.
 
 —Por eso no te dejo hacer nada la primera.
 
-—¿Ves? —Danny le pasó el brazo por los hombros—. Me cuida. Me adora, jefe, nada más que no lo dice con la boca: lo dice con el bastón.
+—¿Ves? —Danny le pasó el brazo por los hombros—. Me cuida.
+
+Russ se lo quitó de encima con el mango del bastón, sin mirarlo y sin decir nada.
+
+—Me adora, jefe. Es su forma.
 
 —No te soporto.
 
-—Es su forma de decir que sí.
+—Es su forma.
 
-Kal miró el pedazo de acera.
+Kal miró el pedazo de acera que le colgaba al pedestal de un tornillo.
 
 —El plan era desatornillarlo —dijo Russ.
 
@@ -691,11 +695,15 @@ Kal se quedó mirando la cara del cartón más tiempo del que merecía.
 
 —Cuando la grúa dos traiga su logo y no una cara.
 
-—Te dije que la cara sobraba —murmuró Russ.
+Danny se quedó mirando la cara del cartón, como si fuera a extrañarla.
 
-—Tú querías que le pusiera bigote. Te vi pensarlo, Russ, mientras le estaba haciendo los ojos.
+—Te dije —murmuró Russ.
 
-—Dije que estaba mal hecha.
+—Tú querías que le pusiera bigote.
+
+—Nunca dije eso.
+
+—Lo pensaste.
 
 Russ cerró los ojos un segundo, como quien cuenta hasta un número muy alto. Danny ya no lo estaba viendo. Miraba el cajero, con su pedazo de acera, como si le faltara algo.
 
@@ -737,9 +745,13 @@ Kal abrió la puerta de la cabina, por tener algo que hacer con la mano, y sacó
 
 —Estacionamiento de empleados del Monarch. Bloqueando carga. Cliente vetado. Amenazó a una mesera y está intentando hacer ruido.
 
-—¿Hay policía? ¿Y seguridad del hotel?
+—¿Policía?
 
-—Policía, no. Seguridad, presente e inútil.
+—No.
+
+—¿Seguridad?
+
+—Presente e inútil.
 
 Apoyó la tabla en la puerta de la azul y escribió *Monarch* con la pluma atada al clip.
 
@@ -753,7 +765,11 @@ Detrás de ella se abrió una puerta y salió medio brindis, voces de hombre, va
 
 —En Calle Corona. Salgo para allá en cuanto…
 
-—No le pregunté dónde está. Le pregunté quién llama. ¿Ellos o usted?
+—No le pregunté dónde está.
+
+Ella no dijo nada.
+
+—Le pregunté quién llama. ¿Ellos o usted?
 
 Oyó un coche pasar por donde ella estaba, y otro. Kal esperó. La pregunta ya estaba hecha, y no era de las que se hacen dos veces.
 
@@ -769,7 +785,7 @@ Se la leyó despacio, letras y números, en el inglés más plano que debía de 
 
 —¿Cuánto cobra?
 
-—Luego vemos. Primero el coche.
+—Luego vemos.
 
 —Luego no.
 
@@ -879,7 +895,7 @@ El taxi la dejó en la rampa de servicio catorce minutos después de la llamada.
 
 Matteo la esperaba en el marco de la puerta de carga, con la corbata floja y el teléfono todavía en la mano. La luz blanca de la puerta le marcaba las ojeras. No había salido. Varga tenía un teléfono levantado y Matteo no pensaba regalarle su cara.
 
-—¿Viene él, o manda a alguien?
+—¿Viene?
 
 —Dijo veinte minutos.
 
@@ -908,6 +924,8 @@ Fue con el guardia más viejo.
 —¿Responsable de carga?
 
 El hombre señaló hacia una puerta.
+
+—Adentro.
 
 —Que salga.
 
@@ -977,7 +995,7 @@ La frase no sonó fuerte. El guardia más joven miró al suelo.
 
 Matteo salió al fin, con la cara de quien venía a arreglar una escena que ya estaba siendo arreglada por alguien que no debería estar ahí. Chiara salió detrás de él.
 
-—Señor Mercer —dijo Matteo—. Llegó rápido.
+—Señor Mercer —dijo Matteo.
 
 —Necesito autorización del inmueble para retirar vehículo obstruyendo carga.
 
