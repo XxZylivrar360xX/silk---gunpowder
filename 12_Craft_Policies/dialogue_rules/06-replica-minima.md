@@ -48,6 +48,7 @@ No inflar: el arreglo prefiere fundir y sustituir antes que alargar. La extensio
 - Cap. 18 (archivo `20_El_Mirador`) sobre la vara (32 %): excepcion aprobada por el autor el 2026-11-21 (H11: el drift, el mirador, la regla de lo pequeño y el cafe del norte, restituidos literales; antes de los barridos estaba en 40 %).
 - Cap. 19 (archivo `21b_Grazie`) sobre la vara (26 %): excepcion aprobada por el autor el 2026-11-21 (H13: «—Lo recuerdo.» restituido en el encuentro con Valenti).
 - Cap. 22 (archivo `24b_Lo_Que_Cueste`) sobre la vara (32 %; 34 % antes de los barridos): excepcion aprobada por el autor el 2026-11-21 (capa 1 de Nadir, Hoover y la media hoja a Krane restituidos literales).
+- Cap. 23 (archivo `24c_El_Corral`) sobre la vara (29 %; 30 % antes de los barridos): excepcion aprobada por el autor el 2026-11-21 (dialogo canon de la comisaria, Voss y la teniente, restituido literal; el ping-pong se corta con beats de narracion).
 
 ## Relacion con otras reglas
 

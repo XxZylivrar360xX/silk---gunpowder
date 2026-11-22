@@ -2,7 +2,7 @@
 LECTOR PARTE II (2026-11-08, [[98_Agent_Handoff/sessions/2026-11-08_claude_observaciones_lector_parte_II]]; DISEÑO, espera lectura): el duelo de armas del cuarto 221 se ancla en el hospital (vidrio de la puerta, carrito de medicamentos, el hombre de Dario junto al elevador, la cuenta de guardias y cámaras); la enfermera entra al final. Diálogo intacto.
 Renumerado 2026-11-08 (nuevo cauce, Parte II): antes Cap. 27.
 NUEVO CAUCE (Fase 4, 2026-11-08, terminal B): nuevo Cap. 23, tarjeta T12 (primera mitad), POV Kal único, verbo «Reescribe y poda» según [[11_Books/Book_01_Mascaras_De_Cristal/00_Mapa_Cauce_Cap11_Camp_Alder]] y [[98_Agent_Handoff/encargos/ENCARGO_Fase4_Parte_II]]. El encabezado sigue diciendo «Capítulo 27» hasta que la terminal principal renumere. Versión anterior íntegra (mixta): [[11_Books/Book_01_Mascaras_De_Cristal/Escenas_Eliminadas/24c_El_Corral_Version_2026-11-08]]. Sesión: [[98_Agent_Handoff/sessions/2026-11-08_claude_fase4_cap23_oveja_entre_lobos]].
-Estado: BORRADOR (lo nuevo es DISEÑO del agente; espera lectura del autor).
+Estado: BORRADOR (lo nuevo es DISEÑO del agente; espera lectura del autor). Cirugía de la lectura (2026-11-21; BORRADOR, espera lectura del autor): [[98_Agent_Handoff/sessions/2026-11-21_claude_cirugia_lectura_cap23]]: diálogo canon de la comisaría restituido literal, con tres beats nuevos de lo que Kal ve para cortar el ping-pong, y excepción de la regla 06, 29 % (DECISIÓN DEL AUTOR); siembra del 24 al final (Kenji, Eagle Eye, los nudillos, la cita en casa de Dario; DECISIÓN DEL AUTOR); fuera «Por dentro se estaba partiendo en dos…» (DECISIÓN DEL AUTOR); los tacones en el lugar de las botas; Kal piensa en la subjefa al conocer a Beatrice; continuidad de la noche, la lona, los turnos y «asalto».
 Vigente (CANON DEL AUTOR, 2026-11-07): Crowe se cobra el nuevo 21 con bandera falsa de Volpi (el atacante cree que lo contrató Volpi; nada de eso en prosa: ni el nombre ni acento italiano). Tras noquear a Chiara, el atacante mata a Vento de un tiro; la bala atraviesa al caballo y queda en un tablón de la cerca. Kal encuentra primero a Vento y luego a Chiara, unos metros más adelante, junto al portón del corral. La extracción con la navaja queda fuera de cuadro (la cuenta el nuevo 35). Retira el archivo 33b, *La mano* (Vento ya murió aquí): [[11_Books/Book_01_Mascaras_De_Cristal/Escenas_Eliminadas/33b_La_Mano_Version_2026-11-08]].
 SUPERSEDIDO (DECISIÓN DEL AUTOR, 2026-11-12): el corral lo ordena La Mesa y lo ejecuta Volpi; Crowe no fue. La prosa no cambia. Ver [[11_Books/Book_04_Cuentas_De_Sangre/00_Diseno_Complot_De_La_Mesa]].
 Decisiones del autor (2026-11-08): (1) el monólogo de Héctor pasa al nuevo 24: Chiara lo medio oye; aquí sólo queda el turno de Héctor visto por Kal; (2) el alta con Dario («El corral… las caballerizas», «Forraje») pasa al nuevo 24, POV Chiara; el 23 cierra con el despertar y con Kal descartando a Crowe; (3) el caballo entra en la denuncia como parte del asalto («un disparo, un animal muerto»); esa noche nadie procesa la cerca, y al amanecer del lunes Kal vuelve, encuentra el agujero en el tablón y abre la navaja.
@@ -52,7 +52,7 @@ Dejó todo en el taller —el guardabarros a medio enderezar, la llave inglesa s
 
 Era domingo. El Monarch estaba cerrado, la cadena puesta en las puertas principales, el estacionamiento vacío salvo por dos camionetas de mantenimiento. Kal tenía llave de la entrada de servicio —de los tiempos en que Chiara dejó de anunciarle las visitas— y entró por ahí, el arma baja y el paso corto de quien ha hecho esto antes en un lugar donde no debería tener que volver a hacerlo.
 
-Recorrió el casino entero: el piso de juego, oscuro, con las mesas cubiertas; el cuarto de seguridad, vacío también, con los monitores parpadeando sobre nada y la silla girada hacia la puerta. Los domingos el Monarch se quedaba con un solo guardia de Eagle Eye, la empresa que Tommaso había traído para la seguridad del edificio. No estaba en su silla.
+Recorrió el casino entero: el piso de juego, oscuro, con las mesas cubiertas; el cuarto de seguridad, vacío también, con los monitores parpadeando sobre nada y la silla girada hacia la puerta. Los domingos el Monarch se quedaba con un solo guardia de Eagle Eye. No estaba en su silla.
 
 En el pasillo de las cajas oyó pasos. Dos, tres, en algún punto que el eco no dejaba ubicar, arriba o abajo. Se quedó quieto con el arma baja hasta que dejaron de oírse, fue hacia donde creyó que venían, y no encontró a nadie.
 
@@ -68,7 +68,7 @@ Un muchacho con el uniforme gris de Eagle Eye, la corbata floja, la credencial t
 
 —Por eso. Búsqueme a alguno de los dueños. Lo espero.
 
-La credencial decía *Ferreyra*. Kal lo conocía de oídas: el de Eagle Eye que llevaba semanas rondando a Chiara por los pasillos, al que Charles, el supervisor, había obligado a pedirle disculpas. El muchacho lo midió y se fue hacia las oficinas sin ninguna prisa, para ser alguien que acababa de dejar su puesto vacío.
+La credencial decía *Ferreyra*. Kal lo conocía de oídas: era el nombre que Charles tenía tachado en el pizarrón, el que Chiara le había dicho en el pasillo de servicio. El muchacho lo midió y se fue hacia las oficinas sin ninguna prisa, para ser alguien que acababa de dejar su puesto vacío.
 
 Kal no lo esperó.
 
@@ -78,9 +78,9 @@ También estaba vacío. Recorrió cada cuarto —la cocina, la sala de cine dond
 
 Lo único que no era de ella estaba sobre el escritorio: un sobre color hueso, abierto, sin remitente. Adentro, una hoja de papel grueso y tres líneas en italiano. Kal no lo hablaba, pero entendió lo suficiente: una fecha, *il 13 dicembre*; una palabra, *valutazione*, que no necesitaba diccionario; ninguna firma. Lo dobló y se lo guardó en el bolsillo interior.
 
-Fue al salir cuando las vio: las botas de montar de Chiara, junto a la puerta, donde normalmente dejaba los tacones.
+Fue al salir cuando los vio: los tacones de Chiara, junto a la puerta, donde normalmente dejaba las botas de montar.
 
-Kal se quedó mirándolas un segundo entero.
+Kal se quedó mirándolos un segundo entero.
 
 Le gustaba montar. Los domingos, cuando nadie le pedía nada.
 
@@ -122,7 +122,7 @@ La operadora le pidió lo que él ya sabía que le iba a pedir. Que no la movier
 
 Kal dejó el teléfono en altavoz sobre la tierra y le puso las dos manos a los lados de la cabeza, sin apretar, en el ángulo exacto en que la había encontrado. Sube. Baja. Se lo dijo a la operadora. Sube. Baja.
 
-Después no le pidieron nada más. Sólo que se quedara ahí.
+Después no le pidieron nada nuevo. Sólo que se quedara ahí.
 
 El bolso de Chiara había quedado a un metro, de lado contra el portón, abierto. Desde donde estaba arrodillado veía la cartera asomando y, enredado en el asa, el reloj que ella se quitaba para montar. El teléfono no estaba. Lo demás, sí: a esa mujer la habían tirado al suelo con un reloj así a un metro y nadie se lo había llevado.
 
@@ -134,7 +134,7 @@ Volvió a ponerle las dos manos. Sube. Baja.
 
 No supo cuánto tardaron. A su espalda, en el borde de lo que alumbraba la lámpara, Vento era una forma oscura que no se movía; la lámpara zumbaba sobre la puerta; la operadora le preguntó tres veces si seguía respirando, y las tres le dijo que sí antes de mirarla, y después la miró.
 
-La sirena llegó primero por la avenida y después, más baja, por la tierra. Un guardia de Eagle Eye les abrió el portón de carga y se quedó en el borde de la luz, con la linterna apagada.
+La sirena llegó primero por la avenida y después, más baja, por la tierra. Un guardia de Eagle Eye del turno de noche, uno que Kal no conocía, les abrió el portón de carga y se quedó en el borde de la luz, con la linterna apagada.
 
 Eran dos paramédicos. Uno se arrodilló del otro lado y le puso las manos encima de las suyas.
 
@@ -152,8 +152,6 @@ Cuando cerraron las puertas de la ambulancia nadie le ofreció subir, y él no l
 
 Condujo detrás de ellas hasta el Santa Aurelia con las dos manos en el volante, a la distancia que la ambulancia le marcaba, sin que le temblara nada por fuera.
 
-Por dentro se estaba partiendo en dos, siguiendo una caja blanca donde iba la única persona que en años había logrado importarle así, sin poder verla ni buscarle el pulso en el cuello, sin saber todavía si el segundo golpe de esa noche no iba a ser llegar a un pasillo donde alguien le dijera que ya era tarde.
-
 ***
 
 En el Santa Aurelia no hubo tiempo para explicaciones largas. Un golpe en la nuca, uno solo, pero lo bastante fuerte para dejarla inconsciente: afuera, una herida que pedía puntos; adentro, donde Kal no había podido ver, un sangrado chico que en la tomografía era una mancha del tamaño de una uña. La palabra que usó la médica de guardia fue *conmoción*, y después, más despacio, *observación*.
@@ -162,9 +160,9 @@ La neurocirujana que bajó a verla se presentó como Beatrice Varek, de bata bla
 
 —Por ahora no vamos a operar. Es chico y no está creciendo. Si crece, entramos; es una cirugía que hacemos seguido, y la hacemos bien. —Hizo una pausa, midiendo cuánto podía darle de golpe—. Pero no le voy a prometer nada sobre lo que pasa después. Necesitamos, como mínimo, tres días para ver cómo evoluciona. Antes de eso, cualquier cosa que le diga es una adivinanza con bata blanca.
 
-Kal firmó lo que había que firmar sin leerlo del todo, y se quedó con una sola pregunta clavada, que no hizo en voz alta: si, como parecía, la hija de Dario Varek operaba en ese hospital sin saber nada de lo que hacía su padre, qué otra cosa, en esa ciudad, tampoco sabía nadie.
+Kal firmó lo que había que firmar sin leerlo del todo, y se quedó con una sola pregunta clavada, que no hizo en voz alta. Pensó en la subjefa y en el polvo que Dario le había sacudido del puño en un pasillo del Monarch: si, como parecía, otra hija de Dario Varek operaba en ese hospital sin saber nada de lo que hacía su padre, qué otra cosa, en esa ciudad, tampoco sabía nadie.
 
-El bolso lo había levantado Kal del suelo, junto al portón, antes que nadie. Para cuando una enfermera se sentó a inventariar lo que traía dentro, ya no había ahí nada que valiera la pena llevarse, y lo único que de verdad faltaba —el teléfono— no lo tenía él.
+Para cuando una enfermera se sentó a inventariar lo que traía el bolso, ya no había ahí nada que valiera la pena llevarse, y lo único que de verdad faltaba —el teléfono— no lo tenía él.
 
 El patrullero que mandó la central llegó a urgencias pasada la medianoche, le tomó el nombre y tres datos en el pasillo, de pie, y le dijo que la denuncia se ponía en Calle Corona, de día. Kal le dio las gracias como si eso le resolviera algo.
 
@@ -172,7 +170,7 @@ La segunda tomografía tardó tres horas. Kal las pasó en una sala de espera qu
 
 Cuando por fin lo dejaron entrar, Chiara ya estaba en una habitación distinta: monitores, cables, la cabecera alzada, un vendaje sobre los puntos de la nuca. La tenían sedada, ligera, para que no se agitara; una enfermera iba a despertarla cada dos horas para preguntarle su nombre y la fecha, le dijeron, y ella iba a contestar lo que pudiera y volver a dormirse, mientras el cuerpo decidía si la mancha se quedaba quieta.
 
-Kal se sentó junto a la cama y no se movió de ahí en toda la noche. No porque alguien se lo pidiera.
+Kal se sentó junto a la cama y no se movió de ahí en horas. No porque alguien se lo pidiera.
 
 En algún momento, con el cuarto en silencio y sólo la máquina marcando su ritmo, le tomó la mano.
 
@@ -192,7 +190,7 @@ Empezó por el hipódromo, antes de que amaneciera del todo.
 
 Alguien había echado una lona verde encima de Vento, sin amarrarla, y el viento de la madrugada le había levantado una esquina. Por lo demás, todo estaba como lo había dejado: la lámpara todavía encendida sobre la puerta de las caballerizas, las marcas de las ruedas de la ambulancia en la tierra, el portón del corral con el pasador echado. Nadie había venido a ver nada. La única patrulla de la noche se había quedado en urgencias.
 
-Kal se paró donde había estado el caballo y miró hacia donde miraba el caballo cuando cayó. La cerca del corral estaba a un paso. En el tercer tablón desde abajo, a la altura del pecho de un animal grande, había un agujero: la madera abierta hacia adentro, astillada en una estrella pequeña y limpia, todavía clara en el centro, donde no le había dado la intemperie.
+Kal se paró junto a la lona y miró hacia donde miraba el caballo cuando cayó. La cerca del corral estaba a un paso. En el tercer tablón desde abajo, a la altura del pecho de un animal grande, había un agujero: la madera abierta hacia adentro, astillada en una estrella pequeña y limpia, todavía clara en el centro, donde no le había dado la intemperie.
 
 Se agachó. Pasó el pulgar por las astillas sin meterlo en el agujero.
 
@@ -206,7 +204,7 @@ Después, Calle Corona.
 
 La comisaría central seguía igual que la mañana en que lo citaron por el Peugeot: luz blanca, sillas de metal, el ruido de teléfonos que nadie corría a contestar. A esa hora olía además a cambio de turno: café recalentado, chaquetas colgadas en los respaldos, la gente de la noche que no terminaba de irse y la del día que todavía no terminaba de llegar.
 
-Kal traía la chaqueta de la noche anterior. En el bolsillo interior, la carta doblada del escritorio de Chiara; en el de afuera, su cartera y un reloj que costaba más que la mayoría de los coches del barrio. Entró como entraba a cobrarle una factura al Departamento, que era la otra razón por la que conocía ese edificio.
+Kal traía la chaqueta de la noche anterior. En el bolsillo interior, la carta doblada del escritorio de Chiara; en el de afuera, la cartera de ella y un reloj que costaba más que la mayoría de los coches del barrio. Entró como entraba a cobrarle una factura al Departamento, que era la otra razón por la que conocía ese edificio.
 
 El oficial del mostrador de denuncias era joven, de uniforme completo, con la gorra junto al teclado. Kal tardó un segundo en ubicarlo: el novato del lobby del Monarch, la mañana del robo, el que se había quedado mirando el candelabro hasta que la subjefa lo mandó por la libreta. Voss no lo ubicó a él.
 
@@ -220,13 +218,13 @@ Voss abrió el formulario en la pantalla y fue llenándolo con dos dedos, rápid
 
 —Chiara Bellandi.
 
-Los dos dedos se quedaron quietos sobre el teclado.
+Los dos dedos se quedaron quietos sobre el teclado, y la lengua se le escondió detrás de los dientes.
 
-—¿La señora Bellandi? ¿La del Monarch? —Levantó la vista—. Yo estuve ahí, la mañana del robo. ¿Está bien? ¿Qué le hicieron?
+—¿La señora Bellandi? —Levantó la vista—. ¿Está bien?
 
 —Está en el Santa Aurelia.
 
-Voss asintió más veces de las necesarias, y siguió asintiendo mientras buscaba en el formulario una casilla donde poner eso.
+Voss asintió más veces de las necesarias.
 
 —Tranquilo, compañero.
 
@@ -240,21 +238,23 @@ Lugar, hora aproximada, cómo la encontró. Kal se lo dio en el orden en que el 
 
 Voss tecleó *disparo*, y después *animal (equino)*, y se quedó mirando la pantalla como si las dos palabras no debieran ir en el mismo renglón.
 
-—¿Oyó el tiro? Desde donde estaba, digo.
+—¿Oyó el tiro?
 
 —Estaba en el taller.
 
-—¿Qué relación tiene con la víctima? —Y enseguida, sin que nadie se lo pidiera—: Lo pregunta el sistema, no yo. Si no lo lleno, no me deja pasar a la siguiente.
+Voss lo tecleó tal cual, *taller*, y se quedó un momento con el cursor parpadeando en la casilla siguiente.
+
+—¿Qué relación tiene con la víctima?
 
 —Le arreglo el coche.
 
-Voss escribió *mecánico* y no preguntó más.
+Voss escribió *mecánico*, borró una letra que se le había ido doble y no preguntó más.
 
-—¿Y le faltó algo, que usted sepa?
+—¿Le faltó algo?
 
 —El teléfono. La cartera. —Kal dejó pasar el tiempo justo de alguien que hace memoria—. Y un reloj de mujer. Caro.
 
-—¿Me lo puede describir? Marca, color, lo que se acuerde. Los relojes caros a veces aparecen en las casas de empeño, y si viene bien descrito, el de la casa de empeño llama.
+—¿Me lo puede describir?
 
 Se lo describió sin esfuerzo. Lo tenía a un palmo de la mano.
 
@@ -306,7 +306,7 @@ Kal le devolvió la pluma a Voss.
 
 Ella se rio por la nariz, una sola vez, y bajó los ojos a la hoja que Voss acababa de sellar.
 
-—¿Y esto qué es, Voss?
+—¿Y esto?
 
 —Asalto en el hipódromo del Monarch, teniente —dijo Voss—. La señora Bellandi.
 
@@ -314,7 +314,7 @@ La teniente dejó de jugar. No cambió nada en la postura; cambió algo en la bo
 
 —¿Cómo está?
 
-—Viva —dijo Kal—. Sedada, con un golpe en la cabeza que todavía no saben qué tan hondo es.
+—Viva.
 
 Asintió despacio. Se enderezó del mostrador y recogió la carpeta que le había dejado a Voss, aunque no hacía falta.
 
@@ -326,7 +326,7 @@ Al volver, en la acera de enfrente del Santa Aurelia, apoyado en una camioneta b
 
 Lo que siguió duró más de lo que debía y salió peor de lo que Kal le habría permitido a cualquiera de sus muchachos: una pistola en el pecho, una carrera hacia la parte de atrás del hospital, dos armas afuera a la vuelta de la esquina con una patrulla estacionada a cien metros. Al final el muchacho se subió al coche. Kal le quitó el teléfono, la cartera y el arma, y le hizo las preguntas que hacía cuando de verdad quería una respuesta.
 
-No sacó nada. El muchacho no sabía nada, o sabía mentir mejor de lo que Kal esperaba, y después de una hora larga entendió que estaba a punto de hacerle daño a alguien que probablemente no se lo merecía. Lo soltó lejos del hipódromo, con el arma descargada de vuelta y sin el teléfono, y volvió al hospital con las manos vacías y algo parecido a vergüenza pisándole los talones.
+No sacó nada. El muchacho no sabía nada, o sabía mentir mejor de lo que Kal esperaba, y después de una hora larga entendió que estaba a punto de hacerle daño a alguien que probablemente no se lo merecía. Lo soltó lejos del hospital, con la cartera y el arma descargada de vuelta y sin el teléfono, y volvió al hospital con las manos vacías y algo parecido a vergüenza pisándole los talones.
 
 ***
 
@@ -362,7 +362,7 @@ Se apuntaron sobre la cama, con Chiara sedada entre los dos y el monitor contand
 
 —Y si fue usted quien la puso en peligro con lo que sea que esté metido, yo no voy a dejar que salga de esta ciudad.
 
-La rueda se detuvo en la 218. Una enfermera dijo un nombre, alguien contestó desde una cama. Afuera, en la silla de plástico junto al elevador, el hombre de Dario había dejado de mirar su teléfono; desde la cama no se le veía la cara, sólo los zapatos, quietos.
+La rueda se detuvo en la 218. Una enfermera dijo un nombre, alguien contestó desde una cama. Afuera, en la silla de plástico junto al elevador, el hombre de Dario había dejado de mirar su teléfono; desde ahí no se le veía la cara, sólo los zapatos, quietos.
 
 Ninguno de los dos disparó. Los dos sabían contar: un tiro en ese piso eran guardias en noventa segundos, la patrulla de la esquina en tres minutos, cámaras en cada pasillo y una mujer dormida en medio que no iba a poder decir nada a favor de nadie.
 
@@ -392,7 +392,7 @@ Y se fue sin despedirse del todo.
 
 ***
 
-Los turnos los organizó Kal mismo, esa misma tarde, con la misma voz que usaba para repartir trabajo en el taller; no era una petición. Chiara seguía sedada, indefensa en un cuarto con una sola puerta, y lo que Kal les contó del golpe —sin forcejeo, sin testigos, un desconocido que llamaba desde el teléfono de ella después preguntando por sus costumbres de los domingos— bastó para que nadie discutiera la orden. Nadir el primero, después Omar, después Danny cuando Danny estaba en condiciones de sostener una conversación con una enfermera sin que resultara en un problema nuevo. Alguien tenía que quedarse con Kal en el cuarto 221, no porque Kal lo pidiera para sí mismo, sino porque si no lo obligaban a bajar a comer o a bañarse, sencillamente no lo iba a hacer.
+Los turnos los organizó Kal mismo, esa misma tarde, con la misma voz que usaba para repartir trabajo en el taller; no era una petición. Chiara seguía sedada, indefensa en un cuarto con una sola puerta, y lo que Kal les contó del golpe —sin forcejeo, sin testigos, un desconocido que llamaba desde el teléfono de ella después preguntando por sus costumbres de los domingos— bastó para que nadie discutiera la orden. Nadir el primero, después Omar, después Danny cuando Danny estaba en condiciones de sostener una conversación con una enfermera sin que resultara en un problema nuevo. Con los turnos, además, alguien se quedaba en el cuarto 221 mientras Kal bajaba a comer o a bañarse, dos cosas que sin turno no iba a hacer.
 
 —¿Y si tengo cosas que hacer? —preguntó Nadir, cruzado de brazos, sin decir que no.
 
@@ -400,7 +400,7 @@ Los turnos los organizó Kal mismo, esa misma tarde, con la misma voz que usaba 
 
 Nadir masculló algo en árabe que no sonó a bendición, pero a la mañana siguiente ya estaba en el pasillo del Santa Aurelia con un café de más en la mano, sin que nadie tuviera que recordárselo dos veces. Refunfuñaba cada turno que le tocaba, y cumplía cada turno que le tocaba, y entre las dos cosas Kal nunca tuvo que elegir cuál de las dos creerle.
 
-Esa noche, en la última ronda antes de medianoche, la enfermera la despertó para las preguntas de siempre. Chiara contestó su nombre al segundo intento y la fecha al tercero, con un día de atraso, y la enfermera lo anotó sin corregirla y salió.
+La noche del lunes, en la última ronda antes de medianoche, la enfermera la despertó para las preguntas de siempre. Chiara contestó su nombre al segundo intento y la fecha al tercero, con un día de atraso, y la enfermera lo anotó sin corregirla y salió.
 
 Chiara no volvió a dormirse enseguida. Buscó a Kal con los ojos a medio abrir, sin girar la cabeza, y lo encontró donde lo había dejado la enfermera: en la silla, todavía con la chaqueta puesta.
 
@@ -450,10 +450,12 @@ Kal se quedó en la silla. Al rato, sin abrirlos, ella movió la mano sobre la s
 
 ***
 
-En los ratos que le dejaban los turnos, una hora aquí y otra allá para comer o dormir algo parecido a dormir, Kal siguió preguntando, con más cuidado esta vez, después de lo de Ferreyra.
+En los ratos que le dejaban los turnos, una hora aquí y otra allá para comer o dormir algo parecido a dormir, Kal siguió preguntando.
+
+El martes buscó a Kenji en la caja del Monarch y le hizo una sola pregunta. Esa misma tarde subió al norte, a las oficinas de Eagle Eye, y volvió con dos nudillos abiertos y algo que llevarle a Dario. Dario lo citó en su casa.
 
 Pensó en Crowe primero, porque ya una vez le había caído encima a ella por él. Lo descartó en una noche. Crowe firmaba sus recados: los dejaba en voz alta, en el idioma de su mostrador, para que alguien los reconociera. Esto estaba hecho para que nadie pudiera firmarlo. Y Crowe no le pegaba a una mujer por la espalda para después matarle el caballo: Crowe cobraba, y lo que se cobra se deja vivo para que siga pagando.
 
 Lo único que no encajaba con esa lectura era la llamada.
 
-Un ladrón no llama al mecánico de su víctima a preguntarle si sale mucho los domingos. Eso no era ruido ni casualidad: era alguien que necesitaba confirmar algo antes de actuar, o alguien que quería que Kal supiera, sin decírselo del todo, que esto no había sido un accidente en absoluto. Y el caballo tampoco era de ladrón. Al que lo mató, alguien le había dicho qué era lo que ella quería. La precisión de todo lo demás, sumada a esa sola grieta, sólo le dejaba dos caminos, y ninguno de los dos le gustaba: o Dario había organizado el golpe y la tregua era puro teatro, o había alguien más —alguien que Kal todavía no podía nombrar— con el mismo interés en hacerle daño a Chiara.
+Un ladrón no llama al mecánico de su víctima a preguntarle si sale mucho los domingos. Eso no era ruido ni casualidad: era alguien que quería que Kal supiera, sin decírselo del todo, que esto no había sido un asalto en absoluto. Y el caballo tampoco era de ladrón. Al que lo mató, alguien le había dicho qué era lo que ella quería. La precisión de todo lo demás, sumada a esa sola grieta, sólo le dejaba dos caminos, y ninguno de los dos le gustaba: o Dario había organizado el golpe y la tregua era puro teatro, o había alguien más —alguien que Kal todavía no podía nombrar— con el mismo interés en hacerle daño a Chiara.
