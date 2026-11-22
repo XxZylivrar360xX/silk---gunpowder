@@ -2,7 +2,7 @@
 
 Generada por `tools/audiolibro/build_audiobook.py`; no editar a mano. Tras cambiar la prosa de un capítulo, correr `--estado` para marcarlo PENDIENTE; la bandera se cierra sola cuando el script regenera ese audio.
 
-Actualizada: 2026-11-21 22:13. Al día: 24 de 47.
+Actualizada: 2026-11-22 00:23. Al día: 20 de 47.
 
 ## Pendientes
 
@@ -11,7 +11,11 @@ Actualizada: 2026-11-21 22:13. Al día: 24 de 47.
 | 20 | Algo más que dinero | PENDIENTE | cambió la prosa | 2026-11-21 21:56 |
 | 21 | La versión pública | PENDIENTE | cambió la prosa | 2026-11-21 21:56 |
 | 22 | Lo que cueste | PENDIENTE | cambió la prosa | 2026-11-21 21:56 |
-| 23 | Luces fuera | PENDIENTE | cambió la prosa | 2026-11-21 21:56 |
+| 24 | Vienes conmigo | PENDIENTE | cambió la prosa | 2026-11-22 00:06 |
+| 25 | Libros abiertos | PENDIENTE | cambió la prosa | 2026-11-22 00:06 |
+| 26 | Me encuentro bien | PENDIENTE | cambió la prosa | 2026-11-22 00:06 |
+| 27 | Una silla | PENDIENTE | cambió la prosa | 2026-11-22 00:06 |
+| 28 | Media baraja | PENDIENTE | cambió la prosa | 2026-11-22 00:06 |
 | 29 | Vamos a casa | PENDIENTE | cambió la prosa | 2026-11-21 10:55 |
 | 30 | Línea directa | PENDIENTE | cambió la prosa | 2026-11-21 10:55 |
 | 31 | Lo único que es mío | PENDIENTE | cambió la prosa | 2026-11-21 10:55 |
@@ -36,14 +40,14 @@ Actualizada: 2026-11-21 22:13. Al día: 24 de 47.
 
 | Cap. | Título | Estado | Audio generado |
 |---|---|---|---|
-| 1 | Un hombre de negocios intachable | AL DIA | 2026-11-21 |
+| 1 | Un hombre de negocios intachable | AL DIA | 2026-11-22 |
 | 2 | Demasiado listo | AL DIA | 2026-11-21 |
 | 3 | Lo que no cambió | AL DIA | 2026-11-21 |
-| 4 | Tarifa nocturna | AL DIA | 2026-11-21 |
-| 5 | Cliente y proveedor | AL DIA | 2026-11-21 |
+| 4 | Tarifa nocturna | AL DIA | 2026-11-22 |
+| 5 | Cliente y proveedor | AL DIA | 2026-11-22 |
 | 6 | Sólo una cena | AL DIA | 2026-11-21 |
 | 7 | Ambos | AL DIA | 2026-11-21 |
-| 8 | La noche del ladrillo | AL DIA | 2026-11-21 |
+| 8 | La noche del ladrillo | AL DIA | 2026-11-22 |
 | 9 | Mandorla | AL DIA | 2026-11-21 |
 | 10 | Una pésima idea | AL DIA | 2026-11-21 |
 | 11 | La balanza | AL DIA | 2026-11-21 |
@@ -58,12 +62,12 @@ Actualizada: 2026-11-21 22:13. Al día: 24 de 47.
 | 20 | Algo más que dinero | PENDIENTE | 2026-11-21 |
 | 21 | La versión pública | PENDIENTE | 2026-11-21 |
 | 22 | Lo que cueste | PENDIENTE | 2026-11-21 |
-| 23 | Luces fuera | PENDIENTE | 2026-11-21 |
-| 24 | Vienes conmigo | AL DIA | 2026-11-21 |
-| 25 | Libros abiertos | AL DIA | 2026-11-21 |
-| 26 | Me encuentro bien | AL DIA | 2026-11-21 |
-| 27 | Una silla | AL DIA | 2026-11-21 |
-| 28 | Media baraja | AL DIA | 2026-11-21 |
+| 23 | Luces fuera | AL DIA | 2026-11-22 |
+| 24 | Vienes conmigo | PENDIENTE | 2026-11-21 |
+| 25 | Libros abiertos | PENDIENTE | 2026-11-21 |
+| 26 | Me encuentro bien | PENDIENTE | 2026-11-21 |
+| 27 | Una silla | PENDIENTE | 2026-11-21 |
+| 28 | Media baraja | PENDIENTE | 2026-11-21 |
 | 29 | Vamos a casa | PENDIENTE | 2026-11-16 |
 | 30 | Línea directa | PENDIENTE | 2026-11-16 |
 | 31 | Lo único que es mío | PENDIENTE | 2026-11-16 |
@@ -86,6 +90,20 @@ Actualizada: 2026-11-21 22:13. Al día: 24 de 47.
 
 ## Historial
 
+- 2026-11-22 00:23 · Cap. 23 (24c_El_Corral.md) · audio regenerado
+- 2026-11-22 00:23 · Cap. 8 (07_La_Noche_Del_Ladrillo.md) · audio regenerado
+- 2026-11-22 00:23 · Cap. 5 (05a_Cliente_Y_Proveedor.md) · audio regenerado
+- 2026-11-22 00:23 · Cap. 4 (04_Tarifa_Nocturna.md) · audio regenerado
+- 2026-11-22 00:23 · Cap. 1 (01_Un_Hombre_De_Negocios_Intachable.md) · audio regenerado
+- 2026-11-22 00:06 · Cap. 28 (30_Media_Baraja.md) · audio pendiente: cambió la prosa
+- 2026-11-22 00:06 · Cap. 27 (29_El_Patio_Ajeno.md) · audio pendiente: cambió la prosa
+- 2026-11-22 00:06 · Cap. 26 (26_Me_Encuentro_Bien.md) · audio pendiente: cambió la prosa
+- 2026-11-22 00:06 · Cap. 25 (25_Libros_Abiertos.md) · audio pendiente: cambió la prosa
+- 2026-11-22 00:06 · Cap. 24 (24d_Vienes_Conmigo.md) · audio pendiente: cambió la prosa
+- 2026-11-22 00:06 · Cap. 8 (07_La_Noche_Del_Ladrillo.md) · audio pendiente: cambió la prosa
+- 2026-11-22 00:06 · Cap. 5 (05a_Cliente_Y_Proveedor.md) · audio pendiente: cambió la prosa
+- 2026-11-22 00:06 · Cap. 4 (04_Tarifa_Nocturna.md) · audio pendiente: cambió la prosa
+- 2026-11-22 00:06 · Cap. 1 (01_Un_Hombre_De_Negocios_Intachable.md) · audio pendiente: cambió la prosa
 - 2026-11-21 22:13 · Cap. 19 (21b_Grazie.md) · audio regenerado
 - 2026-11-21 22:13 · Cap. 18 (20_El_Mirador.md) · audio regenerado
 - 2026-11-21 22:13 · Cap. 17 (18_El_Dia_Nublado.md) · audio regenerado

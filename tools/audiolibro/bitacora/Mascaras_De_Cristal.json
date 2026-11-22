@@ -5,8 +5,8 @@
       "titulo": "Un hombre de negocios intachable",
       "estado": "AL DIA",
       "motivo": "",
-      "audio": "2026-11-21",
-      "desde": "2026-11-21 21:56"
+      "audio": "2026-11-22",
+      "desde": "2026-11-22 00:23"
     },
     "02_Demasiado_Listo.md": {
       "capitulo": 2,
@@ -29,16 +29,16 @@
       "titulo": "Tarifa nocturna",
       "estado": "AL DIA",
       "motivo": "",
-      "audio": "2026-11-21",
-      "desde": "2026-11-21 21:56"
+      "audio": "2026-11-22",
+      "desde": "2026-11-22 00:23"
     },
     "05a_Cliente_Y_Proveedor.md": {
       "capitulo": 5,
       "titulo": "Cliente y proveedor",
       "estado": "AL DIA",
       "motivo": "",
-      "audio": "2026-11-21",
-      "desde": "2026-11-21 21:56"
+      "audio": "2026-11-22",
+      "desde": "2026-11-22 00:23"
     },
     "05c_La_Pizza_De_Calabaza.md": {
       "capitulo": 6,
@@ -61,8 +61,8 @@
       "titulo": "La noche del ladrillo",
       "estado": "AL DIA",
       "motivo": "",
-      "audio": "2026-11-21",
-      "desde": "2026-11-21 21:56"
+      "audio": "2026-11-22",
+      "desde": "2026-11-22 00:23"
     },
     "08_La_Carrera_De_Mascaras.md": {
       "capitulo": 9,
@@ -179,50 +179,50 @@
     "24c_El_Corral.md": {
       "capitulo": 23,
       "titulo": "Luces fuera",
-      "estado": "PENDIENTE",
-      "motivo": "cambió la prosa",
-      "audio": "2026-11-21",
-      "desde": "2026-11-21 21:56"
+      "estado": "AL DIA",
+      "motivo": "",
+      "audio": "2026-11-22",
+      "desde": "2026-11-22 00:23"
     },
     "24d_Vienes_Conmigo.md": {
       "capitulo": 24,
       "titulo": "Vienes conmigo",
-      "estado": "AL DIA",
-      "motivo": "",
+      "estado": "PENDIENTE",
+      "motivo": "cambió la prosa",
       "audio": "2026-11-21",
-      "desde": "2026-11-21 15:58"
+      "desde": "2026-11-22 00:06"
     },
     "25_Libros_Abiertos.md": {
       "capitulo": 25,
       "titulo": "Libros abiertos",
-      "estado": "AL DIA",
-      "motivo": "",
+      "estado": "PENDIENTE",
+      "motivo": "cambió la prosa",
       "audio": "2026-11-21",
-      "desde": "2026-11-21 15:58"
+      "desde": "2026-11-22 00:06"
     },
     "26_Me_Encuentro_Bien.md": {
       "capitulo": 26,
       "titulo": "Me encuentro bien",
-      "estado": "AL DIA",
-      "motivo": "",
+      "estado": "PENDIENTE",
+      "motivo": "cambió la prosa",
       "audio": "2026-11-21",
-      "desde": "2026-11-21 15:58"
+      "desde": "2026-11-22 00:06"
     },
     "29_El_Patio_Ajeno.md": {
       "capitulo": 27,
       "titulo": "Una silla",
-      "estado": "AL DIA",
-      "motivo": "",
+      "estado": "PENDIENTE",
+      "motivo": "cambió la prosa",
       "audio": "2026-11-21",
-      "desde": "2026-11-21 15:58"
+      "desde": "2026-11-22 00:06"
     },
     "30_Media_Baraja.md": {
       "capitulo": 28,
       "titulo": "Media baraja",
-      "estado": "AL DIA",
-      "motivo": "",
+      "estado": "PENDIENTE",
+      "motivo": "cambió la prosa",
       "audio": "2026-11-21",
-      "desde": "2026-11-21 15:58"
+      "desde": "2026-11-22 00:06"
     },
     "31_Vamos_A_Casa.md": {
       "capitulo": 29,
@@ -5016,6 +5016,76 @@
     [
       "2026-11-21 22:13",
       "Cap. 19 (21b_Grazie.md)",
+      "audio regenerado"
+    ],
+    [
+      "2026-11-22 00:06",
+      "Cap. 1 (01_Un_Hombre_De_Negocios_Intachable.md)",
+      "audio pendiente: cambió la prosa"
+    ],
+    [
+      "2026-11-22 00:06",
+      "Cap. 4 (04_Tarifa_Nocturna.md)",
+      "audio pendiente: cambió la prosa"
+    ],
+    [
+      "2026-11-22 00:06",
+      "Cap. 5 (05a_Cliente_Y_Proveedor.md)",
+      "audio pendiente: cambió la prosa"
+    ],
+    [
+      "2026-11-22 00:06",
+      "Cap. 8 (07_La_Noche_Del_Ladrillo.md)",
+      "audio pendiente: cambió la prosa"
+    ],
+    [
+      "2026-11-22 00:06",
+      "Cap. 24 (24d_Vienes_Conmigo.md)",
+      "audio pendiente: cambió la prosa"
+    ],
+    [
+      "2026-11-22 00:06",
+      "Cap. 25 (25_Libros_Abiertos.md)",
+      "audio pendiente: cambió la prosa"
+    ],
+    [
+      "2026-11-22 00:06",
+      "Cap. 26 (26_Me_Encuentro_Bien.md)",
+      "audio pendiente: cambió la prosa"
+    ],
+    [
+      "2026-11-22 00:06",
+      "Cap. 27 (29_El_Patio_Ajeno.md)",
+      "audio pendiente: cambió la prosa"
+    ],
+    [
+      "2026-11-22 00:06",
+      "Cap. 28 (30_Media_Baraja.md)",
+      "audio pendiente: cambió la prosa"
+    ],
+    [
+      "2026-11-22 00:23",
+      "Cap. 1 (01_Un_Hombre_De_Negocios_Intachable.md)",
+      "audio regenerado"
+    ],
+    [
+      "2026-11-22 00:23",
+      "Cap. 4 (04_Tarifa_Nocturna.md)",
+      "audio regenerado"
+    ],
+    [
+      "2026-11-22 00:23",
+      "Cap. 5 (05a_Cliente_Y_Proveedor.md)",
+      "audio regenerado"
+    ],
+    [
+      "2026-11-22 00:23",
+      "Cap. 8 (07_La_Noche_Del_Ladrillo.md)",
+      "audio regenerado"
+    ],
+    [
+      "2026-11-22 00:23",
+      "Cap. 23 (24c_El_Corral.md)",
       "audio regenerado"
     ]
   ]
