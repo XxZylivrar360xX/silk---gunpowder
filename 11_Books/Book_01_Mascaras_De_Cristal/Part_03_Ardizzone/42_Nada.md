@@ -1,4 +1,5 @@
 <!--
+**Cirugía de la lectura (2026-11-21, Claude Code; [[98_Agent_Handoff/sessions/2026-11-21_claude_cirugia_lectura_cap38]]):** por DECISIÓN DEL AUTOR, la camioneta está en el depósito municipal de la Almendra, a cuatro calles del Patio (no en Almendra Towing, donde trabaja Bonnie desde el 35), y el discurso de Bonnie se recorta («Eso no es de usted. Eso es del Patio.»); «Y que la siguieron cerca del Patio»; el contrato de climatización «quedó firmado» (con el 37); «Te pregunté yo. Directamente.» sin la autocorrección; «Él tampoco.» antes de «Y me dijiste: Nada.»; «A Kal le volvió el filo». Literales de F1 intactos. Sigue BORRADOR.
 Nuevo cauce (Fase 4, 2026-11-07, terminal C, encargo [[98_Agent_Handoff/encargos/ENCARGO_Fase4_Paralelo_Reusa]]): **nuevo Cap. 38** (T24, F1; verbo «Reusa» en [[11_Books/Book_01_Mascaras_De_Cristal/00_Mapa_Cauce_Cap11_Camp_Alder]]). Antes Cap. 47 (numeración de 56; antes 51, 42). El archivo conserva su nombre. Título CONFIRMADO Y DEFINITIVO por el autor (2026-09-22).
 Estado: BORRADOR. Prosa DISEÑO pendiente de lectura del autor. Versión anterior íntegra: [[11_Books/Book_01_Mascaras_De_Cristal/Escenas_Eliminadas/42_Nada_Version_2026-11-07]] (allí queda el historial: corrección del 2026-09-22, E8 del 2026-09-27, tesis visibles del 2026-10-05, Fabrizio ocupado del 2026-10-18, regla 05 del 2026-10-28). Sesión: [[98_Agent_Handoff/sessions/2026-11-07_claude_fase4_cap38_nada]].
 Decisión del autor para esta reescritura (2026-11-07): Meiko entra por la llamada de Bonnie con la opción (a): su nombre y «lo de allá arriba se deshizo», sin nombrar a Boone ni a la banda; Chiara no lo conecta con el robo del Monarch.
@@ -7,7 +8,7 @@ Costura de apertura RESUELTA (propagación de la Parte III, 2026-11-08): «Pasar
 Costura de cierre: engancha con el nuevo 39 (*Expediente sellado*, archivo 43, Camp Alder).
 Protagonista: Chiara Bellandi (POV único, tercera persona cercana). El rastreo de Bonnie ocurre fuera de página y llega por su llamada. Kal sólo en el penthouse, para F1.
 Personajes con diálogo: Chiara Bellandi, Bonnie García (por teléfono), Kal Mercer (en persona), la recepción del edificio.
-Mencionados: Meiko Nakano, el hombre de Almendra Towing (sin identificar), quien sigue a Bonnie (sin identificar), Matteo, Fabrizio.
+Mencionados: Meiko Nakano, el hombre del depósito municipal de la Almendra (sin identificar; antes, de Almendra Towing), quien sigue a Bonnie (sin identificar), Matteo, Fabrizio.
 Lugares: el Monarch (resumen de dos días); el penthouse de la Torre Norte, de noche.
 Función: cobra la mentira del 37 («—Nada.»). Bonnie encuentra la camioneta, la abordan, la siguen e informa a Kal porque el riesgo toca el Patio. Kal reconstruye la mentira y va al penthouse. F1 sin resolución, la víspera de Camp Alder.
 - REGLA ESTRUCTURAL: no hay escena Bonnie-Kal en pantalla; no se resuelve Matteo; no se identifica al hombre de Almendra Towing ni a quien sigue a Bonnie; no se revela Halbrook; no hay celos ni triángulo; no hay reconciliación; no se ejecuta Camp Alder.
@@ -21,7 +22,7 @@ MEIKO, ENTRADA TEMPRANA (2026-11-15, DECISIÓN DEL AUTOR: camino A; prosa DISEÑ
 
 Pasaron dos días sin que Chiara supiera nada de la camioneta, y en esos dos días el Monarch no le dio tregua para pensar en otra cosa.
 
-El contrato de climatización consiguió su segunda firma al fin, de un proveedor que llevaba semanas sin saber a quién mandarle el papel. La sala privada abrió con la nómina resuelta y nadie preguntó por qué la había firmado ella. La placa con el nombre de Matteo seguía en la puerta del despacho, y Chiara dejó de mirarla cada vez que entraba, que era su manera de decidir que todavía no había decidido nada al respecto.
+El contrato de climatización quedó firmado. La sala privada abrió con la nómina resuelta y nadie preguntó por qué la nómina la había firmado ella. La placa con el nombre de Matteo seguía en la puerta del despacho, y Chiara dejó de mirarla cada vez que entraba, que era su manera de decidir que todavía no había decidido nada al respecto.
 
 Fabrizio se pasó esos dos días metido en los banquetes de fin de año, y las veces que se cruzaron en el pasillo le apretó el brazo al pasar, sin detenerse.
 
@@ -39,7 +40,7 @@ Su voz tenía un filo que Chiara no le había oído la primera vez, en su despac
 
 —¿Dónde?
 
-—Almendra Towing. La remolcaron hace unas semanas, infracción de estacionamiento, algo tan tonto que nadie fue a reclamarla a tiempo y se quedó ahí, juntando polvo en un lote. —Una pausa breve, del tipo que Bonnie usaba para ordenar lo que venía—. Fui a verla esta tarde. Placa completa, coincide. Empresa real, dueño real, nada que grite. —Otra pausa, más larga que la primera—. Pero alguien se me acercó mientras la estaba mirando.
+—En el depósito municipal de la Almendra, a cuatro calles del Patio. La remolcaron hace unas semanas, infracción de estacionamiento, algo tan tonto que nadie fue a reclamarla a tiempo y se quedó ahí, juntando polvo en un lote. —Una pausa breve, del tipo que Bonnie usaba para ordenar lo que venía—. Fui a verla esta tarde. Placa completa, coincide. Empresa real, dueño real, nada que grite. —Otra pausa, más larga que la primera—. Pero alguien se me acercó mientras la estaba mirando.
 
 Chiara se sentó más derecha.
 
@@ -71,11 +72,11 @@ Chiara no contestó de inmediato.
 
 —¿Cuándo?
 
-—Antes de llamarla a usted. —Bonnie no se disculpó por el orden—. En cuanto perdí al segundo coche, marqué su número primero. No el suyo. El de él. Porque ya no es sólo un coche raro entregando un sobre. Alguien en el territorio de Kal sabía que yo estaba buscando, y alguien me siguió. Eso no es de usted. Eso es del Patio. Y si algo del Patio se mueve así, él tiene que saberlo esta misma noche, no cuando a mí me convenga contárselo.
+—Antes de llamarla a usted. —Bonnie no se disculpó por el orden—. Alguien en el territorio de Kal sabía que yo estaba buscando, y alguien me siguió. Eso no es de usted. Eso es del Patio.
 
 Chiara no dijo nada. Bonnie tampoco, por un momento, y cuando siguió lo hizo más bajo, como quien entrega algo que no venía en el reporte.
 
-—Meiko volvió a dormir en el Patio. Cuando se deshizo lo de allá arriba no se quedaba sola en ningún lado, y ya se le estaba quitando; esta semana volvió. No dice por qué. Le pregunté dos veces. —Respiró—. Si alguien anda siguiendo a la gente que pregunta, yo no voy a ser la que se lo lleve hasta donde ella duerme.
+—Meiko volvió a dormir en el Patio. Cuando se deshizo lo de allá arriba no se quedaba sola en ningún lado, y ya se le estaba quitando; esta semana le regresó. No dice por qué. Le pregunté dos veces. —Respiró—. Si alguien anda siguiendo a la gente que pregunta, yo no voy a ser la que se lo lleve hasta donde ella duerme.
 
 Chiara no sabía qué era «lo de allá arriba» y no lo preguntó. Pensó en la rampa del Monarch, en que Meiko llevaba tres noches pidiéndole irse antes de la una, y en que ella se lo había concedido sin preguntar por qué.
 
@@ -87,7 +88,7 @@ Chiara se quedó con el teléfono pegado a la oreja, mirando la ventana, las luc
 
 —¿Qué le dijiste a él? Exactamente.
 
-—Que usted me pidió rastrear una camioneta de mensajería relacionada con unos papeles de Matteo. Y de ahí, Almendra Towing, el tipo, el coche que me siguió. —Una pausa—. No le conté lo demás. No le dije por qué usted no se lo pidió a él directamente. Él no preguntó. Sólo si estaba bien, y después colgó.
+—Que usted me pidió rastrear una camioneta de mensajería relacionada con unos papeles de Matteo. Y de ahí, el depósito, el tipo, el coche que me siguió. —Una pausa—. No le conté lo demás. No le dije por qué usted no se lo pidió a él directamente. Él no preguntó. Sólo si estaba bien, y después colgó.
 
 Eso, más que ninguna otra cosa que Bonnie había dicho esa noche, le dijo a Chiara que Kal iba a venir.
 
@@ -111,7 +112,7 @@ Colgó.
 
 ***
 
-Chiara no llamó a Kal. No le mandó ningún mensaje avisándole que ya sabía lo que Bonnie le había contado, ni ensayó nada que decir cuando llegara. Se quedó de pie un momento en medio de la sala, con el teléfono todavía tibio en la mano, haciendo la cuenta exacta de lo que él ya tenía: la camioneta, Matteo, el hombre, el segundo coche. No hacía falta más para que él atara el resto solo.
+Chiara no llamó a Kal. No le mandó ningún mensaje avisándole que ya sabía lo que Bonnie le había contado, ni ensayó nada que decir cuando llegara. Se quedó de pie un momento en medio de la sala, con el teléfono todavía tibio en la mano, haciendo la cuenta exacta de lo que él ya tenía: la camioneta, Matteo, el hombre, el coche que la siguió. No hacía falta más para que él atara el resto solo.
 
 Le había preguntado directamente por Matteo. Ella le había contestado con una palabra.
 
@@ -145,9 +146,9 @@ No era la pregunta que había hecho por teléfono, la de dos noches atrás. Era 
 
 —Lo sabes —dijo Chiara—. Bonnie te lo dijo.
 
-—Bonnie me dijo que la mandaste detrás de una camioneta relacionada con Matteo. Y que la siguieron cerca de Almendra Towing. —Kal la miró sin apuro—. Yo te pregunté por Matteo hace dos noches, Chiara. Por teléfono.
+—Bonnie me dijo que la mandaste detrás de una camioneta relacionada con Matteo. Y que la siguieron cerca del Patio. —Kal la miró sin apuro—. Yo te pregunté por Matteo hace dos noches, Chiara. Por teléfono.
 
-Chiara no bajó la vista.
+Chiara no bajó la vista. Él tampoco.
 
 —Y me dijiste: «Nada.»
 
@@ -177,11 +178,11 @@ Lo dijo sin subir el volumen. Fue peor así.
 
 —No sabía que iba a pasar eso.
 
-—Pero decidiste igual que era tuyo. —Kal se puso de pie, sin acercarse, sólo porque sentado ya no le alcanzaba para lo que quería decir—. Metiste a alguien de mi gente en esto sin decírmelo porque confiabas en que no pasaría nada. Y después, que si pasaba algo, tú ibas a escoger cuándo me enteraba yo.
+—Pero decidiste igual que era tuyo. —Kal se puso de pie, sin acercarse, como si sentado ya no le alcanzara para lo que quería decir—. Metiste a alguien de mi gente en esto sin decírmelo porque confiabas en que no pasaría nada. Y después, que si pasaba algo, tú ibas a escoger cuándo me enteraba yo.
 
 —Iba a decírtelo si encontraba algo.
 
-—Me preguntaste… —Kal se corrigió—. Te pregunté yo. Directamente. Y aun así elegiste «nada» en vez de «todavía no sé, dame un día.» —Bajó la voz, y por eso mismo pesó más—: No decides tú sola qué riesgo de mi gente me concierne.
+—Te pregunté yo. Directamente. Y aun así elegiste «nada» en vez de «todavía no sé, dame un día.» —Bajó la voz, y por eso mismo pesó más—: No decides tú sola qué riesgo de mi gente me concierne.
 
 —¿Y tú? —dijo Chiara, antes de poder pensarlo del todo.
 
@@ -217,7 +218,7 @@ Kal tardó en contestar.
 
 —No es lo mismo, Chiara. Yo no puse en riesgo a nadie tuyo. Tú pusiste en riesgo a alguien mío mientras decidías si yo merecía saberlo.
 
-Ahí volvió el filo.
+A Kal le volvió el filo.
 
 —Por mucho que yo esté enamorado de ti —dijo Kal, despacio—, soy fiel a mis convicciones, a mi gente y a mí mismo.
 
@@ -231,7 +232,7 @@ Kal la miró un momento más, como esperando algo distinto, y cuando no llegó n
 
 —No te lo pedí.
 
-Ninguno mencionó el resto: ni Matteo, ni la camioneta, ni lo que faltaba de esa conversación para estar completa.
+Ninguno mencionó lo que faltaba de esa conversación para estar completa.
 
 Chiara no encontró nada más que decir que no fuera a costarles más caro que la mentira misma. Por la forma en que Kal se acomodó la chaqueta que nunca se había quitado, supo que él tampoco.
 
