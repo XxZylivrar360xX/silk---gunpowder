@@ -1,4 +1,5 @@
 <!--
+**Cirugía de la lectura (2026-11-21, Claude Code; [[98_Agent_Handoff/sessions/2026-11-21_claude_cirugia_lectura_cap43]]):** apertura sin lo que Chiara no puede saber y sin la cola que explicaba (los tres golpes no se restituyeron: ping-pong y 29 %); Danny sin explicar la orden y «Eso no contesta nada, señora»; fuera «Usted no quiere nada fácil, Bellandi» (queda en el 42) y cuatro etiquetas «Lo dijo…» de la bodega; «—preguntó Dario»; segundo lector: «—preguntó Nadir», «Hoy vas», «ya de noche», la gorra, «le sostuvo la mirada». Literales intactos. Sigue BORRADOR.
 Nuevo cauce (Fase 4, 2026-11-08, terminal B de [[98_Agent_Handoff/encargos/ENCARGO_Fase4_Parte_III_Cierre]]; verbo «Ajusta al cauce»): **nuevo Cap. 43**. Versión anterior íntegra: [[11_Books/Book_01_Mascaras_De_Cristal/Escenas_Eliminadas/47_Intereses_Version_2026-11-08]]. Sesión: [[98_Agent_Handoff/sessions/2026-11-08_claude_fase4_cap43_intereses]].
 Decisiones del autor (2026-11-08): D1, las armas quedaron sin entregar desde la noche del 19 (Héctor no se las dio en la playa a la gente de Varek, nuevo 42); D2, **una sola deuda**: Chiara pone los intereses en el favor del 26 («Me va a deber una. A su nombre»), y ese favor se vuelve «una cuenta abierta». Kal sabe del favor del 26 (nuevo 28); lo que no sabe es que creció («Kal no se entera»). Vento: una línea de Varek.
 Cambios DISEÑO: «el catorce» → «el diecinueve» (calendario A); la gente de Varek esperó en la playa; Varek trata de usted a Chiara (como en el 26) y el tú queda para «¿Ya no te duele?»; sin señales de amenaza: «¿Eso prefieres?» pasa a consejo («No se lo recomiendo») y sale «Tu firma vale lo que yo digo»; el pésame por Vento; la oferta de Chiara («Lo que ya le debo» / «Póngale encima los doce días») y «Entonces ya no es una»; con Garrett, «Le debo lo que él escoja» y «Kal no sabe de esto». Se conservan literales «Camp Alder no es San Aurelio… Ni yo», «A él no», «Una cuenta abierta. Con eso basta.», «¿Ya no te duele?», «De mí, no», «Nada no existe, señora», «Entonces es peor», «Yo cuento números, señora. Lo otro lo cuenta usted.» y la cuenta de los dedos.
@@ -50,21 +51,21 @@ Héctor estaba en el capó del Ford. Esta vez se bajó.
 
 Chiara miró a Nadir un rato más de lo que hacía falta: la camisa, el libro, la boca abierta.
 
-—¿Comió algo? Ayer no probó nada, y anoche dudo que alguien se haya acordado de ponerle un plato enfrente.
+—¿Comió algo desde ayer?
 
 —Se comió lo mío. —Héctor se limpió las manos con el trapo, aunque no las tenía sucias—. La niña se va mañana al monte. No sé qué le dijo usted.
 
-—La verdad. —Chiara se acomodó el abrigo sobre el saco, encima de las llaves—. No toda, si es lo que me va a preguntar. Le dije la que había. La otra no la tiene nadie todavía, y no le iba a dar a esa niña una versión que mañana tuviera que corregirle.
+—La verdad. —Chiara se acomodó el abrigo sobre el saco, encima de las llaves—. No toda, si es lo que me va a preguntar. Le dije la que había.
 
 Héctor la miró un momento más, con la cara de quien hace una cuenta y no le da, y decidió que le daba suficiente. Se volvió a sentar en el capó.
 
 —A las cuatro me mandó un mensaje —dijo—. Que le diga a usted que se lleva la gorra. —Se encogió de hombros—. Yo no sé de qué gorra me habla.
 
-Chiara sí sabía. Lo había visto en el círculo de la pantalla, la tarde anterior, sobre el pelo cobrizo: una gorra que no era de Marisol. No dijo nada. Sacó un cigarro, lo miró, y lo volvió a guardar sin encenderlo, porque en el Patio nadie fumaba cerca del compresor.
+Chiara sí sabía. La había visto en el círculo de la pantalla, la tarde anterior, sobre el pelo cobrizo: una gorra que no era de Marisol. No dijo nada. Sacó un cigarro, lo miró, y lo volvió a guardar sin encenderlo, porque en el Patio nadie fumaba cerca del compresor.
 
 ***
 
-El Audi llegó a las cinco en punto.
+El Audi llegó a las cinco en punto, ya de noche.
 
 Se detuvo donde Danny había dicho, enfrente del portón, en el lugar donde el día anterior había estado el Lancia. Negro, lavado, los vidrios oscuros hasta donde la ley lo permitía y un poco más. El motor siguió encendido. La ventanilla del conductor bajó hasta la mitad.
 
@@ -108,7 +109,7 @@ Nadir se levantó tan rápido que el libro se le cayó al piso. No lo recogió. 
 
 Chiara no se lo negó.
 
-—¿Cuánto?
+—¿Cuánto? —preguntó Nadir.
 
 —No sé todavía. Por eso voy: para que me lo diga a la cara y no por un chofer.
 
@@ -118,7 +119,7 @@ Nadir se volvió hacia Héctor.
 
 —Va a ir porque la citaron —dijo Héctor—. Igual que ibas tú a ese camino sin saber nada.
 
-Nadir abrió la boca y la volvió a cerrar. Se agachó, recogió el libro de cuentas del piso de la oficina, lo puso sobre el mostrador y lo dejó cerrado.
+Nadir abrió la boca y la volvió a cerrar. Volvió a la oficina, se agachó, recogió el libro de cuentas del piso, lo puso sobre el mostrador y lo dejó cerrado.
 
 Garrett había sacado una libreta del bolsillo de la camisa. No escribía en ella. La tenía en la mano como otros tienen un cigarro.
 
@@ -126,11 +127,11 @@ Garrett había sacado una libreta del bolsillo de la camisa. No escribía en ell
 
 —En la grúa grande —dijo Chiara—. Con un coche arriba, como cualquier remolque de una noche de Año Nuevo. Que se estacionen afuera del portón de la bodega, en la calle, con el motor prendido. Nadie se baja. Nadie entra. —Miró a Danny, después a Nadir—. Si no salgo en una hora, se regresan. Con todo.
 
-—¿Y usted? —preguntó Danny. Se había sacado del capó con la llave todavía en la mano—. Porque eso de que nadie se baje está muy bien para nosotros, que vamos a estar abajo oyendo el motor. Usted va a estar allá adentro con ese señor y con su gente.
+—¿Y usted? —preguntó Danny. Se había sacado del capó con la llave todavía en la mano—. Usted va a estar allá adentro con ese señor y con su gente.
 
 —Yo salgo.
 
-—Eso no es lo que le pregunté, señora.
+—Eso no contesta nada, señora.
 
 Chiara no le contestó. Danny esperó un segundo, se rio sin ganas y dejó la llave sobre el guardafango.
 
@@ -142,13 +143,11 @@ Nadir ya estaba buscando su chaqueta en el perchero de la oficina.
 
 —Usted se queda —dijo Chiara—. Con el teléfono.
 
-Héctor la miró como había mirado a Nadir el día anterior, cuando le dijo «díselo»: largo, sin bajar los ojos. Chiara se la sostuvo.
+Héctor la miró como había mirado a Nadir el día anterior, cuando le dijo «díselo»: largo, sin bajar los ojos. Chiara le sostuvo la mirada.
 
 —Si la niña llama esta noche —dijo—, que alguien le conteste.
 
 Héctor escupió a un lado, lejos del compresor.
-
-—Usted no quiere nada fácil, Bellandi.
 
 Garrett guardó la libreta sin haberla abierto.
 
@@ -158,7 +157,7 @@ Chiara asintió.
 
 Antes de irse, cruzó el Patio hasta el mostrador, sacó las llaves de Nadir del bolsillo del saco y las puso sobre el libro de cuentas cerrado. Nadir las miró. No las tocó.
 
-—Para mañana —dijo Chiara—. Hoy va en la grúa.
+—Para mañana —dijo Chiara—. Hoy vas en la grúa.
 
 ***
 
@@ -190,7 +189,7 @@ El hombre del Audi bajó la escalera y cerró una puerta abajo. Dario le señal�
 
 —La de Kal. Yo nada más la pedí prestada.
 
-—La del señor Mercer. Con un coche arriba. Muy discreto. —Volvió a mirar hacia la calle, donde no se veía nada desde ahí—. ¿Están completas? —No esperó a que le contestara—. Lo sé. Mercer cumple. —Lo dijo sin calor, como se dice de una máquina que no falla—. Me dijo el diecinueve y el diecinueve entró. Mi gente lo esperó en la playa hasta que oyó la radio. Me dijo completas y van a estar completas. Lo único que no me dijo fue que yo iba a esperar doce días.
+—La del señor Mercer. Con un coche arriba. Muy discreto. —Volvió a mirar hacia la calle—. ¿Están completas? —No esperó a que le contestara—. Lo sé. Mercer cumple. Me dijo el diecinueve y el diecinueve entró. Mi gente lo esperó en la playa hasta que oyó la radio. Me dijo completas y van a estar completas. Lo único que no me dijo fue que yo iba a esperar doce días.
 
 —Lo arrestaron.
 
@@ -214,7 +213,7 @@ Dario se apartó del ventanal. Rodeó el escritorio sin prisa, pasó la mano por
 
 Dario sonrió apenas.
 
-—Puedo. Y su grúa se regresa a la Almendra con lo que trae adentro del coche, y se queda ahí, con tres hombres a los que la base va a ir a buscar tarde o temprano. —Lo dijo como quien da el parte del clima—. No se lo recomiendo.
+—Puedo. Y su grúa se regresa a la Almendra con lo que trae adentro del coche, y se queda ahí, con tres hombres a los que la base va a ir a buscar tarde o temprano. No se lo recomiendo.
 
 Chiara no contestó. Dario no esperó a que contestara.
 
@@ -252,11 +251,11 @@ Dario se recostó en la silla.
 
 Fue lo único que hizo. Se recostó, y la silla de oficina rechinó bajo el peso de un traje que costaba más que todo lo que había en el cuarto, y la miró de arriba abajo, despacio, sin disimular que la estaba midiendo. Chiara conocía esa mirada. La había usado ella sobre otros cientos de veces, en el piso del casino, en una mesa de cartas, en la puerta de un salón.
 
-—¿Usted qué? —preguntó Dario—. El casino es mío. Su sueldo sale de mi cuenta. Su apellido vale lo que valía en Italia, que aquí es poco. —No lo dijo con desprecio. Lo dijo como se lee un inventario—. ¿Qué tiene usted que no sea ya mío?
+—¿Usted qué? —preguntó Dario—. El casino es mío. Su sueldo sale de mi cuenta. Su apellido vale lo que valía en Italia, que aquí es poco. ¿Qué tiene usted que no sea ya mío?
 
 Chiara se tomó un momento.
 
-Pensó en la grúa con el motor encendido del otro lado de la reja. En Nadir con la marca del vinil en la cara. En Danny diciendo *eso no es lo que le pregunté*. En la albahaca en la lata de tomate, cada dos días, no más.
+Pensó en la grúa con el motor encendido del otro lado de la reja. En Nadir con la marca del vinil en la cara. En Danny diciendo *eso no contesta nada*. En la albahaca en la lata de tomate, cada dos días, no más.
 
 —Lo que ya le debo —dijo.
 
@@ -270,7 +269,7 @@ Dario no contestó. Esperó, como esperaba Garrett: dejando la pregunta abierta 
 
 Chiara no lo corrigió.
 
-—¿Y si es algo que no quiere hacer?
+—¿Y si es algo que no quiere hacer? —preguntó Dario.
 
 Chiara no le contestó eso. El silencio duró lo que tardó un camión en cruzar frente a la bodega, de un extremo del ventanal al otro, con su carga tapada con lona. Dario lo siguió con la vista hasta que salió del vidrio.
 
@@ -340,7 +339,7 @@ Chiara volvió a cerrar la carpeta. No le puso la liga.
 
 —Entonces es peor.
 
-Lo dijo sin cambiar el tono, como quien corrige una suma. Detrás de él, el portón azul empezaba a correrse otra vez sobre su riel.
+Detrás de él, el portón azul empezaba a correrse otra vez sobre su riel.
 
 —No va a estar en ningún papel —dijo Chiara.
 
@@ -390,7 +389,7 @@ Chiara no dijo nada. Del otro lado se oyó una direccional, el tic-tac seco, y d
 
 —El martes en la noche —dijo Lucía—. Lo sacan del estado. Por tierra, no por aire, eso es lo que dice la solicitud de apoyo que le llegó a la estatal para despejar la ruta del condado. No tengo hora. No tengo destino. No tengo quién lo firma.
 
-—¿Y la hora, cuándo la sabe? Sin la hora no tengo nada.
+—¿Y la hora, cuándo la sabe?
 
 —No sé si lo voy a saber. —Una pausa, de las que Lucía dejaba para ver qué las llenaba. Chiara no la llenó—. Esto no debería decírselo, señora Bellandi. Se lo digo porque es lo único que tengo, y prefiero que lo tenga usted a que no lo tenga nadie.
 
