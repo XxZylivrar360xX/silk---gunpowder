@@ -1,4 +1,5 @@
 <!--
+CIRUGÍA DE LA LECTURA (2026-11-22, [[98_Agent_Handoff/sessions/2026-11-22_claude_cirugia_lectura_cap32]]; sigue BORRADOR; cierra la Parte II): H21 canon intacto; DECISIÓN DEL AUTOR: vuelve «—Estamos parados, Kal.» (excepción de la regla 06 al 25,1 %), «¿Puedes dejar de echarme piropos para no contestarme?» y fuera «Para no ser yo el único». Fuera «Me explico» (no es canon); el motor al ralentí, sin tictac; «cinco años»; la defensa de la llamada a Varek; «Semanas después»; la palabra «pareja» le llega al Tasador por quien la oyó (Nadir, Marisol), sin Danny.
 LECTOR PARTE II (2026-11-08, [[98_Agent_Handoff/sessions/2026-11-08_claude_observaciones_lector_parte_II]]; DISEÑO, espera lectura): se corta la recapitulación de la viuda y la piedra, y dos glosas. La viuda, Danny, Varek y H21 intactos. **RESTAURADO EN PARTE (2026-11-09, verificación pedida por el autor):** las cuatro réplicas de la recapitulación («Era una broma… Para Danny», «Y luego yo dije lo del dinero…», «Tú tiraste la piedra…», «Cada pregunta… en forma de piedra») vuelven tal cual. La transcripción del 2026-10-04 no está en el vault ni en sesiones, pero esas líneas entraron en el commit del material del autor (`9d1e782`), «tirar la piedra» es giro de esa transcripción y sin ellas «Y tú me llevas a donde quieres» responde en falso; ante la duda manda CANON. Las dos glosas del narrador (líneas del agente) quedan cortadas.
 Renumerado 2026-11-08 (nuevo cauce, Parte II): antes Cap. 39.
 FASE 4 DEL NUEVO CAUCE (2026-11-07/08, terminal B, [[98_Agent_Handoff/encargos/ENCARGO_Fase4_Paralelo_Reusa]]): nuevo Cap. 32 (T19, H21, POV Kal, «Reusa»); cierra la Parte II (20–32). Estado: BORRADOR. Versión anterior íntegra: [[11_Books/Book_01_Mascaras_De_Cristal/Escenas_Eliminadas/34_Mi_Pareja_Version_2026-11-07]]. Nota: [[98_Agent_Handoff/sessions/2026-11-08_claude_fase4_cap32_mi_pareja]].
@@ -30,7 +31,7 @@ Función: CANON DEL AUTOR. Ejecuta [[06_Relationships/Hitos#H21 — Mi pareja|H2
 
 # Capítulo 32 — A ti por mí
 
-La destilería olía a maíz cocido y a madera nueva y, a esa hora de la tarde, también a pegamento. Walt había alineado sobre la mesa de trabajo las etiquetas descartadas en cuatro filas de diez, como quien cuenta fichas al final de una mala noche, y Chiara estaba de pie frente a ellas, descalza sobre el cemento, con los zapatos en una mano.
+Semanas después, la destilería olía a maíz cocido y a madera nueva y, a esa hora de la tarde, también a pegamento. Walt había alineado sobre la mesa de trabajo las etiquetas descartadas en cuatro filas de diez, como quien cuenta fichas al final de una mala noche, y Chiara estaba de pie frente a ellas, descalza sobre el cemento, con los zapatos en una mano.
 
 —La C tiene cola —dijo.
 
@@ -100,7 +101,7 @@ Kal no se enorgullecía de cómo lo había hecho, pero tampoco iba a fingir que 
 
 No funcionó con Marisol.
 
-—Me dijo que llevaba dos años viéndome hacer eso con gente que sí me tiene miedo —dijo Kal—. Y que a ella no le iba a servir.
+—Me dijo que llevaba cinco años viéndome hacer eso con gente que sí me tiene miedo —dijo Kal—. Y que a ella no le iba a servir.
 
 —¿Y luego?
 
@@ -176,7 +177,7 @@ Kal miró el camino. El bache doble venía y lo tomó con más cuidado del que e
 
 —Te queda bien. Y el arete.
 
-—¿Puedes dejar de decirme cosas que para ti son mentira?
+—¿Puedes dejar de echarme piropos para no contestarme?
 
 El teléfono vibró en el compartimento entre los asientos. Kal lo vio antes que ella —el nombre en la pantalla, VAREK— y contestó como quien se agarra de lo primero que pasa flotando.
 
@@ -190,7 +191,7 @@ El Audi siguió rodando sobre la grava. Chiara se quedó mirando el teléfono, d
 
 —Le colgaste a Varek. —No lo dijo como reproche. Lo dijo como quien anota una cifra que no cuadra—. Le dijiste que estabas en un momento muy tranquilo, Kal, y no has terminado una frase desde la destilería.
 
-Kal no lo discutió. Tampoco le recordó que había prometido devolver la llamada, aunque era lo único que tenía.
+Kal no lo discutió. Su única defensa era que había prometido devolver la llamada, y no le pareció suficiente.
 
 —Bien. —Chiara se acomodó en el asiento con la espalda recta, como en una junta—. Vamos a comunicarnos. Empiezas tú.
 
@@ -214,7 +215,7 @@ Kal soltó el aire por la nariz.
 
 —La envolvente. Rodeas, rodeas, y cuando uno se da cuenta ya no tiene por dónde salir.
 
-—El que no encuentra la salida eres tú. —Chiara giró el anillo del dedo medio, una vuelta completa—. La vienes cocinando desde la destilería.
+—El que no encuentra la salida eres tú. —Chiara giró el anillo del dedo medio, una vuelta completa—. Lo vienes cocinando desde la destilería.
 
 —¿Yo? ¿Me estás diciendo que preparé todo esto para terminar aquí? ¿Por quién me tomas?
 
@@ -232,7 +233,7 @@ No se le había pasado.
 
 Kal frenó el coche en seco.
 
-No lo decidió. Su pie fue al freno antes de que el resto de él entendiera por qué, y el Audi se detuvo con un patinazo corto sobre la grava que levantó una nube que tardó en asentarse. El motor siguió andando, bajo, un tictac de metal enfriándose que llenaba el silencio que él no llenaba.
+No lo decidió. Su pie fue al freno antes de que el resto de él entendiera por qué, y el Audi se detuvo con un patinazo corto sobre la grava que levantó una nube que tardó en asentarse. El motor siguió andando, bajo, al ralentí, y llenaba el silencio que él no llenaba.
 
 —¡¿Qué?!
 
@@ -242,7 +243,7 @@ No lo decidió. Su pie fue al freno antes de que el resto de él entendiera por 
 
 Kal empezó a mover el volante de un lado a otro, un centímetro, con el coche ya detenido y sin ninguna razón mecánica para tocarlo.
 
-—Estamos parados, Kal. Por mucho que le muevas, el coche no se va a ir a ningún lado.
+—Estamos parados, Kal.
 
 —Me relaja —dijo, sin soltarlo—. Yo no le tengo miedo al compromiso.
 
@@ -268,7 +269,7 @@ Alargó la última vocal más de lo que hubiera querido. Chiara sólo lo miró, 
 
 —Los sobornos cariñosos no te van a funcionar esta vez.
 
-Era mentira, y los dos lo sabían. Pero el camino de tierra no era el loft, y Chiara tenía esa cara de quien ya decidió que hoy no.
+Era mentira, y los dos lo sabían. Pero el camino de grava no era el loft, y Chiara tenía esa cara de quien ya decidió que hoy no.
 
 —Ya verás —dijo él.
 
@@ -344,7 +345,7 @@ Lo dijo con la cara seria, devolviéndole una frase de otra tarde nublada.
 
 Chiara se tocó el arete izquierdo, que no se había movido.
 
-—Lo hice por protegerte. Me explico: si alguien quiere hacernos daño, ahora lo puede hacer con el otro. A ti por mí. A mí por ti.
+—Lo hice por protegerte. Si alguien quiere hacernos daño, ahora lo puede hacer con el otro. A ti por mí. A mí por ti.
 
 —Claro. Porque en esta ciudad nadie sospecha nada. Entramos al Monarch soltando feromonas por la alfombra y la gente es idiota.
 
@@ -362,7 +363,7 @@ Chiara parpadeó.
 
 —¿Tú? ¿Intenso? —Se le escapó media risa—. Kal, tú contestas el teléfono con una sílaba.
 
-—Con una sílaba, sí. —Se pasó la mano por la nuca—. Lo que traigo no cabe en una sílaba, y no sé qué hace la gente con lo que no cabe. Por eso quería ver por dónde ibas tú. Para no ser yo el único.
+—Con una sílaba, sí. —Se pasó la mano por la nuca—. Lo que traigo no cabe en una sílaba, y no sé qué hace la gente con lo que no cabe.
 
 —Kal. —Chiara señaló el teléfono sobre su rodilla—. Le colgaste a Varek para seguir esta conversación. Estoy en tu coche, en un camino que no sale en ningún mapa, y dejé a Walt solo con cuarenta etiquetas malas para irme contigo. ¿Y todavía quieres saber si la piscina tiene agua?
 
@@ -384,7 +385,7 @@ Esta vez no buscó en recientes. Marcó a Nadir de memoria, antes de terminar de
 
 —Ajá.
 
-Kal puso el teléfono en altavoz y lo dejó sobre su rodilla, donde los dos pudieran verlo, como si eso volviera la llamada más oficial.
+Kal puso el altavoz, con el teléfono sobre la rodilla, donde los dos pudieran verlo, como si eso volviera la llamada más oficial.
 
 —Sabes que Chiara y yo hemos estado pasando tiempo juntos.
 
@@ -472,7 +473,7 @@ Colgó y le soltó la mano para guardar el teléfono, despacio, sin quitarle los
 
 —Cubro su turno. Ya sé.
 
-Arrancó.
+Metió la marcha.
 
 No fueron al casino. La Almendra estaba a un par de calles. Esta vez, cuando volvieron, ninguno de los dos tuvo que preguntar adónde.
 
@@ -502,7 +503,7 @@ Kal no se movió.
 
 —Así dijo. Pareja. —Le dio una vuelta a la tapa de la caja, como el mes pasado a la gorra—. Y que le dijera que las joyas se tasan por par. Que si se pierde un arete, el otro ya no vale lo mismo.
 
-Afuera pasó un camión de la basura y la ventana tembló en el marco. Kal hizo la cuenta sin querer hacerla: un coche detenido en un camino de grava que no salía en ningún mapa; Nadir con el altavoz, en el taller, con una radio y un compresor; Danny, que contestaba a todo volumen y que había dicho que eso lo sabía hasta el perro; Marisol, que se lo habría contado a alguien antes de colgar. Lo había dicho una sola vez, por teléfono, y antes de que cerrara la ferretería ya iba de vuelta en otra boca.
+Afuera pasó un camión de la basura y la ventana tembló en el marco. Kal hizo la cuenta sin querer hacerla: un coche detenido en un camino de grava que no salía en ningún mapa; Nadir, con una radio y un compresor detrás, en algún punto de la Almendra; Marisol, que se lo habría contado a alguien antes de colgar. Lo había dicho una sola vez, por teléfono, y antes de que cerrara la ferretería ya iba de vuelta en otra boca.
 
 Dejó de contar. No servía de nada saber por dónde había salido.
 
@@ -522,7 +523,7 @@ Salió con la caja bajo el brazo. Del otro lado de la calle, frente a la lavande
 
 En el barrio, Crowe no hablaba por teléfono. Mandaba a alguien.
 
-El auto arrancó antes de que Kal llegara a la orilla de la acera. Dobló en la esquina de la vulcanizadora, sin prisa, y la calle se quedó igual que siempre: la cortina de la barbería a medio subir, la luz roja de la cámara de la esquina, un perro dormido en la sombra de un poste.
+El auto se puso en marcha antes de que Kal llegara a la orilla de la acera. Dobló en la esquina de la vulcanizadora, sin prisa, y la calle se quedó igual que siempre: la cortina de la barbería a medio subir, la luz roja de la cámara de la esquina, un perro dormido en la sombra de un poste.
 
 Kal metió la caja en el maletero del Audi y se quedó un momento con la mano en la tapa.
 

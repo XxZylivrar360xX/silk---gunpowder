@@ -32,7 +32,7 @@ Plan de trabajo, en marcha desde el 2026-11-21 (DECISIÓN DEL AUTOR sobre el mé
 8. **Otra sesión puede estar editando el Libro I.** El 2026-11-21 lo hizo «Editorial Libro 1». Correr `git status` antes de abrir cada archivo y no tocar lo que aparezca modificado sin saber de quién es.
 9. **Audio del Libro I suspendido** hasta cerrar esta cirugía (28 de 47 caps. al día). EPUB y PDF se regeneran al cerrar cada Parte con la skill `regenerar-y-subir`; mientras tanto, commit por capítulo sin regenerar.
 10. **Encabezado completo, sin recortar** (aprendido en el cap. 4): las notas «se conservan literales…» suelen estar al final de líneas larguísimas; cortarlas con `cut` las esconde. Si el encabezado pesa más de ~10 KB, buscar en él con grep «literal|intact|canon|se conserva». Comparar contra `b834809` lo que el barrido tocó en esas escenas y restituirlo.
-11. **Vara de la regla 06:** varios capítulos ya estaban sobre el 25 % antes de esta cirugía; los recortes no deben subirlo. Si la escena es canon o de radio, se pregunta al autor por la excepción (aprobadas: caps. 4, 5, 7, 10, 11, 17, 18, 19, 22, 23, 27 y 31, en la regla 06). Para cortar un ping-pong que abre un recorte, usar un beat de narración de más de 12 palabras, no otra explicación.
+11. **Vara de la regla 06:** varios capítulos ya estaban sobre el 25 % antes de esta cirugía; los recortes no deben subirlo. Si la escena es canon o de radio, se pregunta al autor por la excepción (aprobadas: caps. 4, 5, 7, 10, 11, 17, 18, 19, 22, 23, 27, 31 y 32, en la regla 06). Para cortar un ping-pong que abre un recorte, usar un beat de narración de más de 12 palabras, no otra explicación.
 12. **Herramientas en Windows:** escribir los scripts de reemplazo con Write en el scratchpad y correrlos con `python -I -X utf8 script.py ARCHIVO </dev/null`; nunca `python -` ni `cat >` sin entrada, que dejan la terminal colgada.
 
 ## Decisiones transversales (DECISIÓN DEL AUTOR, 2026-11-21)
@@ -68,7 +68,7 @@ Plan de trabajo, en marcha desde el 2026-11-21 (DECISIÓN DEL AUTOR sobre el mé
 - ~~Cap. 26: «neurólogo»~~ resuelto («La neurocirujana»).
 - Lenguaje neutro (DECISIÓN DEL AUTOR, 2026-11-21: «todo hay que neutralizarlo»): «¿vale?» pasa a «¿sí?» (hechos el 23 y el 27); «arcén» a «acotamiento»; «grifo» a «llave». Quedan «grifo» en los caps. 2 y 8 (archivos `02` y `07`), para la pasada final; revisar cada capítulo que siga.
 - ~~Cap. 28: las fotos en la barra del loft~~ resuelto («Las recogí de la barra antes de salir»).
-- «Me explico» de Chiara: sale el del 28; quedan el 27, el 31 (en la ciabatta, que espeja *Ya llegó*: no se toca) y el 32. Quitar el del 32.
+- ~~«Me explico» de Chiara~~ resuelto: salen el del 28 y el del 32; quedan el del 27 (CANON de H6) y el del 31 (la ciabatta, que espeja *Ya llegó*).
 - ~~Cap. 30 (costura 29→30): «había dicho», el café y «lo empujó»~~ resuelto («Ella lo habría arreglado en cuanto bajara»).
 - Cap. 33: revisar otra vez la apertura (costura 32→33: la amenaza de los aretes se cobra con «No te muevas de ahí») cuando la sesión de la Parte II cierre el 32. Arrastres de la II hacia la III: se atienden al final de la III (DECISIÓN DEL AUTOR, 2026-11-21).
 - ~~Peugeot → Audi «la noche de la incursión»~~ resuelto en el cap. 39 (archivo `43_La_Puerta`; la línea no estaba en el 35).
@@ -106,7 +106,7 @@ Plan de trabajo, en marcha desde el 2026-11-21 (DECISIÓN DEL AUTOR sobre el mé
 | 29 | Vamos a casa | `31_Vamos_A_Casa` | plática del camino de vuelta (DECISIÓN DEL AUTOR) | hecho, BORRADOR | ver git log |
 | 30 | Línea directa | `32_Linea_Directa` | costura 29→30; «—Ya.» para el 31 | hecho, BORRADOR | ver git log |
 | 31 | Lo único que es mío | `33_Mas_De_La_Cuenta` | excepción regla 06 (33 %) | hecho, BORRADOR | ver git log |
-| 32 | A ti por mí | `34_Mi_Pareja` |  | pendiente | |
+| 32 | A ti por mí | `34_Mi_Pareja` | excepción regla 06 (25,1 %); cierra la Parte II (EPUB y PDF regenerados) | hecho, BORRADOR | ver git log |
 | 33 | Cambio de firmas | `35_Sin_Fecha_De_Regreso` | costura 32→33 (revisar al cerrar el 32) | hecho, BORRADOR (en paralelo con la Parte II) | ver git log |
 | 34 | También las mañanas | `36_Tambien_Las_Mananas` | usted Chiara–Héctor (canon) | hecho, BORRADOR (en paralelo con la Parte II) | ver git log |
 | 35 | Al revés | `38_Al_Reves` | Peugeot → Audi la noche de la incursión (no aplica: la línea está en el 39) | hecho, BORRADOR (en paralelo con la Parte II) | ver git log |
