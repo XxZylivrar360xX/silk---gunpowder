@@ -2,7 +2,7 @@
 LECTOR PARTE II (2026-11-08, [[98_Agent_Handoff/sessions/2026-11-08_claude_observaciones_lector_parte_II]]; DISEÑO, espera lectura): el diente de oro que Danny vio en el billar sostiene la certeza de Kal; siembra del sobre de Rivers (mediación del martes).
 Renumerado 2026-11-08 (nuevo cauce, Parte II): antes Cap. 24.
 NUEVO CAUCE (Fase 4, 2026-11-08, terminal B): nuevo Cap. 21, tarjeta T9, POV Kal único, verbo «Reescribe el POV» según [[11_Books/Book_01_Mascaras_De_Cristal/00_Mapa_Cauce_Cap11_Camp_Alder]] y [[98_Agent_Handoff/encargos/ENCARGO_Fase4_Parte_II]]. El encabezado sigue diciendo «Capítulo 24» hasta que la terminal principal renumere. Versión anterior íntegra (mixta: Kal, Tommaso, Chiara, Voss, Lucía, Dario): [[11_Books/Book_01_Mascaras_De_Cristal/Escenas_Eliminadas/22b_Con_Su_Proveedor_Version_2026-11-08]]. Sesión: [[98_Agent_Handoff/sessions/2026-11-08_claude_fase4_cap21_con_su_proveedor]].
-Estado: BORRADOR (lo nuevo es DISEÑO del agente; espera lectura del autor).
+Estado: BORRADOR (lo nuevo es DISEÑO del agente; espera lectura del autor). Cirugía de la lectura (2026-11-21; BORRADOR, espera lectura del autor): [[98_Agent_Handoff/sessions/2026-11-21_claude_cirugia_lectura_cap21]]: el sobre de Rivers es del martes de la otra semana y nombra el pleito con Hoover; Kal le pasa el parte a Nadir al cierre (coda corta, DECISIÓN DEL AUTOR); vuelve «—Kal. El libro.» / «—No lo abras» (DECISIÓN DEL AUTOR); el aforismo de Tommaso, recortado (DECISIÓN DEL AUTOR); Tommaso retira lo de Kenji aunque Dario ya lo había cerrado; réplicas infladas y glosa del viernes recortadas; *** que faltaba; errores mecánicos del segundo lector.
 Vigente sobre lo de abajo: la cadena es intermediarios de Halbrook → Crowe → Ferreyra y Meiko → Pruitt y Lambert; Dario sale del robo ([[11_Books/Book_01_Mascaras_De_Cristal/Part_02_Con_Peores_Personas_He_Tratado/00_Plan_Robo_Monarch]]). Nada de eso está en prosa. La amenaza de Halbrook a Crowe y el asesinato de Boone por Crowe quedan fuera de página; en prosa sólo la casa vacía (CANON).
 Decisiones del autor (2026-11-08): (1) la línea canon de Dario ocurre con Kal presente: el viernes, en el piso de administración, Kal lleva la factura y Tommaso se lo dice a Dario delante de él; (2) Lucía baja en persona al patio de la comisaría, y el alto de Voss se oye por la radio del sargento.
 DISEÑO del agente en la reconstrucción: Nadir baja de la grúa antes de la comisaría; la radio deja ver que Lucía mandó a Voss a la cuesta tras la llamada de las 1:52; Lucía escribe *1:52* delante de Kal, nota la cifra que podría volver «entera» y cierra con «Eso hice.» / «Eso.» (sin la cifra de «diecisiete años»); en la bahía, Kal ve la liga roja sin saber de quién es, y Chiara le cuenta que Tommaso retiró lo de Kenji («ya trae la otra en el bolsillo»); el viernes, Danny lee lo de Boone en el periódico; Kal nota que Dario pregunta quién y cuántos, no qué había en la bolsa; Tommaso autoriza la factura, tantea («¿Traían algo más?») y la llama «una buena versión. Se parece mucho a la de Bellandi»; cierre: Kal dobla en cuatro la copia de la factura, como Nadir.
@@ -27,7 +27,7 @@ Estaba sentado en el archivero de la oficina del taller, con la computadora de l
 
 Nadir levantó la vista de la mesa, donde llevaba una hora peleándose con la factura de un proveedor de pintura. Hizo una cuenta con los dedos contra la madera, una sola, y siguió con la factura.
 
-En la bandeja junto a la puerta, debajo de las órdenes de servicio, asomaba el sobre manila de Rivers con la fecha escrita a mano en la esquina: martes, diez de la mañana, mediación. Llevaba ahí desde el lunes. Kal no lo había vuelto a abrir.
+En la bandeja junto a la puerta, debajo de las órdenes de servicio, asomaba el sobre manila de Rivers, la abogada del pleito con Hoover, con la fecha escrita a mano en la esquina: el martes de la otra semana, diez de la mañana, mediación. Llevaba ahí desde el lunes. Kal no lo había vuelto a abrir.
 
 —Ven a ver esto, jefe —dijo Danny.
 
@@ -139,7 +139,7 @@ Nadir lo miró un momento. Después se le movieron otra vez las manos: dobló la
 
 A las tres en punto el teléfono de Chiara vibró encima del escritorio. Ella contestó con su apellido, escuchó dos segundos y le pasó el teléfono a Kal sin decir nada más que «Desde ahora habla con el señor».
 
-—¿Y usted quién es? —La misma voz joven de la mañana, ya sin trapo en la boca—. ¿Policía?
+—¿Y usted quién es? —Una voz de muchacho, sin nada encima de la boca—. ¿Policía?
 
 —El que va a ir. Si fuera policía, no estaría hablando con usted por teléfono. —Kal se sentó en la orilla del escritorio, de espaldas a la pantalla—. Trabajo para el casino. Y el casino no los quiere presos.
 
@@ -167,7 +167,11 @@ Colgaron primero ellos. Kal le devolvió el teléfono a Chiara.
 
 Ella se puso los lentes y tomó el bolso. En la puerta se detuvo, con la mano en el marco.
 
-—Kal. —Él estaba mirando otra vez el Civic congelado en la pantalla—. El libro. Si llega a tus manos, no lo abras.
+—Kal. El libro.
+
+Él estaba mirando otra vez el Civic congelado en la pantalla.
+
+—No lo abras —dijo ella.
 
 Kal no le preguntó por qué. Asintió una vez, sin voltear, y Chiara salió al patio, donde el cliente de la máquina de refrescos ya se había ido.
 
@@ -199,7 +203,7 @@ Irene levantó la vista por primera vez. Lo midió como medía un bulto antes de
 
 —Los Devil Splicers —repitió, y lo escribió, letra por letra, como quien da de alta a un proveedor nuevo—. ¿Desde cuándo lo sabe?
 
-—Desde ayer en la tarde.
+—Desde ayer al mediodía.
 
 —Y viene hoy.
 
@@ -275,7 +279,7 @@ El alto se quedó mirando la bolsa en el hombro de Kal. Después miró el camino
 
 Kal señaló el Monte Carlo con la cabeza.
 
-—Su auto ya lo vio medio San Aurelio en video. Éste no lo conoce nadie. Tiene el tanque lleno.
+—Su auto ya está en un video de la policía. Éste no lo conoce nadie. Tiene el tanque lleno.
 
 El bajo se asomó por la ventanilla. Vio la calavera de la palanca y soltó una risa corta por la nariz, la primera de la noche.
 
@@ -335,6 +339,7 @@ Colgó ella. Nadir seguía mirando la cuesta.
 
 —*Wallah* —dijo, al fin, sin voltear—. ¿Y esto también lleva tarifa habitual?
 
+***
 
 Kal lo dejó en la esquina de la vulcanizadora, a dos cuadras del taller. Nadir no se acercaba a una comisaría ni de pasajero, y nadie en la grúa lo dijo en voz alta.
 
@@ -402,7 +407,7 @@ Kal no contestó. En la caseta, el radio pidió una segunda unidad para la curva
 
 —Que revisó unas placas.
 
-Lo dijo sin cambiar la voz. No le preguntó qué hacía él en el camino viejo ni de quién era el auto que había bajado. Kal entendió que no se lo iba a preguntar esa noche, y que eso no quería decir que no se lo fuera a preguntar.
+Lo dijo sin cambiar la voz. En el patio no le preguntó otra vez qué hacía él en el camino viejo ni de quién era el auto que había bajado. Kal entendió que no se lo iba a preguntar esa noche, y que eso no quería decir que no se lo fuera a preguntar.
 
 El sargento salió de la caseta con una tablilla y un recibo de tres copias. Kal firmó la de la grúa. El sargento firmó las otras dos sin leerlas y se las dio a la subjefa.
 
@@ -430,7 +435,7 @@ Ella abrió la del supermercado lo justo para ver el lomo. Había una liga roja 
 
 A ella se le escapó algo que no llegó a ser risa.
 
-—¿Nadir? —Lo dijo como quien revisa una partida antes de firmar el cierre—. No quiero que nadie de tu lado se quede esperando un pago mío.
+—¿Nadir? —Lo preguntó con la bolsa de lona todavía colgando de una mano—. No quiero que nadie de tu lado se quede esperando un pago mío.
 
 —Cobra el jueves. Tres mil, como quedamos. Danny también.
 
@@ -440,21 +445,21 @@ A ella se le escapó algo que no llegó a ser risa.
 
 Chiara se acomodó las dos bolsas contra el pecho. Arriba, en el Paseo, pasaba el camión de la basura, y el ruido llegaba a la bahía rebotando en las paredes de concreto.
 
-—Los pararon en la cuesta —dijo Kal—. Con el dinero contado y con lo que traían ellos. Lucía estaba en el patio cuando llegué.
+—Los pararon en la cuesta —dijo Kal—. Con el dinero contado y con lo que traían ellos. Lucía bajó al patio en persona.
 
 —¿Qué te preguntó?
 
-—La hora. Y escribió la de mi llamada debajo de mi nombre, la una cincuenta y dos, donde yo la viera.
+—Quién me llamó. Y escribió la hora de mi llamada debajo de mi nombre, la una cincuenta y dos, donde yo la viera.
 
 Chiara asintió despacio, como quien guarda una cifra para sumarla después.
 
-—Tommaso retiró lo de Kenji —dijo—. Ayer, a las cuatro. Se paró en mi puerta, lo dijo y se fue, así nada más. —Se acomodó las bolsas contra el pecho—. Y Tommaso no retira nada, Kal. Cambia una cosa por otra. —Miró hacia el elevador, que seguía abierto, esperándola—. Y cuando la cambia, ya trae la otra en el bolsillo.
+—Tommaso retiró lo de Kenji —dijo—. Dario ya lo había dejado en su puesto, y aun así ayer, a las cuatro, Tommaso se paró en mi puerta, lo dijo y se fue, así nada más. Y Tommaso no retira nada, Kal. —Miró hacia el elevador, que seguía abierto, esperándola—. Cuando retira algo, ya trae otra cosa en el bolsillo.
 
 —¿Qué trae?
 
 —No sé.
 
-Lo dijo sin bajar la voz y sin adornarlo, y Kal no le preguntó más. Esa noche él había cargado un libro debajo del brazo durante tres horas sin abrirlo. Ella tenía derecho a no saber algo también.
+Lo dijo sin bajar la voz y sin adornarlo, y Kal no le preguntó más. Esa noche él había cargado un libro tres horas sin abrirlo. Ella tenía derecho a no saber algo también.
 
 —Ciao, tesoro —dijo Chiara, como se lo decía al valet de la entrada, y subió con las dos bolsas por el elevador de servicio.
 
@@ -520,9 +525,9 @@ Kal sostuvo la mirada. La palabra era la de Nadir, el domingo, en la oficina del
 
 —Los que hacían falta.
 
-Dario asintió una vez. Se acomodó el abrigo sobre los hombros y volvió por el pasillo hacia el elevador, y el de seguridad que esperaba ahí le abrió la puerta antes de que llegara.
+Dario asintió una vez. Se acomodó el abrigo y volvió por el pasillo hacia el elevador, y el de seguridad que esperaba ahí le abrió la puerta antes de que llegara.
 
-Desde el domingo, a Kal le habían preguntado cuánto, a qué hora, por qué el camino viejo y quién había llamado. Dario había preguntado quién y cuántos. No había preguntado qué había en la bolsa.
+Dario había preguntado quién y cuántos. No había preguntado qué había en la bolsa.
 
 Tommaso tomó el sobre de la mano de Kal sin pedirlo. Sacó la factura, leyó el total y la volvió a doblar por los mismos pliegues.
 
@@ -530,10 +535,12 @@ Tommaso tomó el sobre de la mano de Kal sin pedirlo. Sacó la factura, leyó el
 
 —Lo que dice el reporte.
 
-Tommaso lo miró al anular, a la mano de Kal que ya no tenía el sobre, y dejó el anillo quieto.
+Tommaso le miró la mano, la que ya no tenía el sobre, y dejó quieto su anillo.
 
 —Es una buena versión —dijo—. Se parece mucho a la de Bellandi.
 
 Se llevó la factura a contabilidad sin despedirse.
 
 Kal bajó por el elevador de servicio. Entre el piso de administración y la bahía de carga sacó del bolsillo la copia del taller, la que se quedaba en el archivero, y la dobló en cuatro, sin necesidad, como Nadir había doblado la de la pintura.
+
+En el taller se la dejó a Nadir encima de la mesa, con el parte: la hora que la subjefa le había apuntado y el italiano que había leído la factura antes que contabilidad.

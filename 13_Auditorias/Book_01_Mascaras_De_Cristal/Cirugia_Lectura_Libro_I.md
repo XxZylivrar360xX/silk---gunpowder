@@ -63,6 +63,7 @@ Plan de trabajo, en marcha desde el 2026-11-21 (DECISIÓN DEL AUTOR sobre el mé
 - Ficha de Chiara (l. ~330, «se disculpa sin argumentar»): desde el cap. 13 defiende la red y pierde (DECISIÓN DEL AUTOR); ajustar al cerrar el libro.
 - ~~Cap. 16: «los meseros de la Isla»~~ resuelto («La Isla»).
 - ~~Cap. 10: martes y jueves~~ resuelto («los martes a las diez»).
+- Cap. 22: «La otra hoja que Kal arrancó»; en el 21 la dobló (costura 21→22). El martes de la mediación ya está fijado en el 21 («el martes de la otra semana»).
 
 | Cap. | Título | Archivo | Transversal | Estado | Commit |
 |---|---|---|---|---|---|
@@ -86,7 +87,7 @@ Plan de trabajo, en marcha desde el 2026-11-21 (DECISIÓN DEL AUTOR sobre el mé
 | 18 | En lo pequeño | `20_El_Mirador` |  | hecho, BORRADOR | ver git log |
 | 19 | Grazie | `21b_Grazie` |  | hecho, BORRADOR; cierra la Parte I (EPUB y PDF regenerados) | ver git log |
 | 20 | Algo más que dinero | `22a_La_Cifra` | gesto Varek; tiempo desde el 19 (cuatro días) | hecho, BORRADOR | ver git log |
-| 21 | La versión pública | `22b_Con_Su_Proveedor` | Kal le pasa el parte a Nadir | pendiente | |
+| 21 | La versión pública | `22b_Con_Su_Proveedor` | Kal le pasa el parte a Nadir (coda al cierre) | hecho, BORRADOR | ver git log |
 | 22 | Lo que cueste | `24b_Lo_Que_Cueste` | Nadir (ya cubierto por el 21) | pendiente | |
 | 23 | Luces fuera | `24c_El_Corral` |  | pendiente | |
 | 24 | Vienes conmigo | `24d_Vienes_Conmigo` | Nadir (ya cubierto por el 21) | pendiente | |
