@@ -34,10 +34,12 @@ Desde la raíz del vault, en este orden:
 ```powershell
 python -B .\tools\epub-build\build_epub.py
 python -B .\tools\pdf-build\build_pdf.py
+python -B .\tools\pdf-build\build_imprenta.py
+python -B .\tools\pdf-build\build_imprenta.py --edicion digital
 python -B .\tools\audiolibro\build_audiobook.py
 ```
 
-- **EPUB y PDF** tardan segundos. Si el build se detiene por marcas editoriales (`BORRADOR`, `PENDIENTE`, `DISEÑO`, `POV:`…) fuera de comentario o por un comentario sin cerrar, es un error real del capítulo: corrígelo (cerrar el comentario, mover la marca a la metadata), sin borrar prosa, y vuelve a correr. Si la corrección no es obvia, detente y pregunta.
+- **EPUB y PDF** tardan segundos; los dos 6 × 9 (interior de KDP y versión para lector digital, DECISIÓN DEL AUTOR 2026-11-22), menos de un minuto cada uno. Si el build se detiene por marcas editoriales (`BORRADOR`, `PENDIENTE`, `DISEÑO`, `POV:`…) fuera de comentario o por un comentario sin cerrar, es un error real del capítulo: corrígelo (cerrar el comentario, mover la marca a la metadata), sin borrar prosa, y vuelve a correr. Si la corrección no es obvia, detente y pregunta.
 - **Audio**: incremental por hash; sólo regenera los capítulos cuyo texto hablado cambió (~4 min por capítulo; usa red, servicio de Microsoft). Lánzalo con `run_in_background` y espera la notificación; no hagas polling. Si falla la red, reintenta una vez; si vuelve a fallar, sigue con §4 y §5 con el audio PENDIENTE y dilo en el reporte (la bitácora lo deja marcado).
 - Nunca `--forzar` ni cambiar voz o velocidad salvo orden del autor.
 
@@ -53,7 +55,7 @@ Mismas reglas que §2.
 ## 4. Verificar
 
 - Los comandos terminaron con código 0.
-- Salidas actualizadas (fecha de hoy): `tools/epub-build/output/<Libro>.epub`, `output/pdf/<Libro>.pdf`.
+- Salidas actualizadas (fecha de hoy): `tools/epub-build/output/<Libro>.epub`, `output/pdf/<Libro>.pdf` y, en el Libro I, `output/pdf/Mascaras_De_Cristal_Imprenta_6x9.pdf` y `output/pdf/Mascaras_De_Cristal_Lector_Digital.pdf`. Si cambia el número de páginas del interior de KDP, dilo en el reporte: mueve el lomo de la tapa.
 - `python -B .\tools\audiolibro\build_audiobook.py --estado [--book …]` → 0 sin audio al día (o los que fallaron por red, nombrados).
 - `git status --short`: además de la tarea, deben aparecer el EPUB y el PDF. Ni los MP3 ni la bitácora del audio van a git (`output/audiolibro/` y `tools/audiolibro/bitacora/` están en `.gitignore`, decisión del autor 2026-11-22; Drive los respalda).
 

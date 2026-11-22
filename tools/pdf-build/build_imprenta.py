@@ -6,8 +6,9 @@ partes en página impar, cabeceras corridas, folios, preliminares en orden y
 sin cubierta (la cubierta va en archivo aparte). Al final imprime el número de
 páginas y el lomo estimado para KDP.
 
-`--edicion autor`: el mismo interior con portada y contraportada, para lectura
-privada (no es el archivo de KDP).
+`--edicion digital`: versión para lector digital (pantalla), de circulación
+privada: portada y contraportada, sin hojas en blanco ni portadilla, márgenes
+iguales y capítulos en la página siguiente. No es el archivo de KDP.
 """
 
 from __future__ import annotations
@@ -42,6 +43,9 @@ TEMPLATE = r"""
 #let book-series = __SERIES__
 #let book-volume = __VOLUME__
 #let book-year = __YEAR__
+#let digital = __DIGITAL__
+// Impreso: partes, capítulos e índice abren en impar. Pantalla: en la página siguiente.
+#let opens = if digital { none } else { "odd" }
 
 #set document(title: book-title, author: book-author)
 #set text(font: "Libertinus Serif", size: 11pt, lang: "es", region: "mx", hyphenate: true)
@@ -68,7 +72,8 @@ TEMPLATE = r"""
 
 #set page(
   width: 6in, height: 9in, binding: left,
-  margin: (inside: 0.875in, outside: 0.625in, top: 0.85in, bottom: 0.85in),
+  margin: if digital { (x: 0.75in, top: 0.85in, bottom: 0.85in) }
+    else { (inside: 0.875in, outside: 0.625in, top: 0.85in, bottom: 0.85in) },
   header-ascent: 45%, footer-descent: 40%,
   header: context {
     let p = here().page()
@@ -95,7 +100,7 @@ TEMPLATE = r"""
 #let chapter-counter = counter("capitulo")
 #show heading.where(level: 1): it => {
   mark-end
-  pagebreak(to: "odd", weak: true)
+  pagebreak(to: opens, weak: true)
   mark-start
   chapter-counter.step()
   v(1.55in)
@@ -113,7 +118,7 @@ TEMPLATE = r"""
 // ── Portadillas de parte: página impar, verso en blanco ──
 #let part-page(ordinal, title) = {
   mark-end
-  pagebreak(to: "odd", weak: true)
+  pagebreak(to: opens, weak: true)
   mark-start
   [#metadata((ordinal: ordinal, title: title)) <part>]
   v(2.5in)
@@ -139,11 +144,14 @@ TEMPLATE = r"""
 #let cover(file) = page(margin: 0pt, header: none, footer: none,
   image(file, width: 100%, height: 100%, fit: "cover"))
 __FRONT_COVER__
-#plain[
-  #v(2.3in)
-  #align(center, text(size: 14pt, tracking: 0.18em, upper(book-title)))
-]
-#plain[]
+// La portadilla y su vuelta en blanco sólo van en el impreso.
+#if not digital {
+  plain[
+    #v(2.3in)
+    #align(center, text(size: 14pt, tracking: 0.18em, upper(book-title)))
+  ]
+  plain[]
+}
 #plain[
   #set par(first-line-indent: 0pt)
   #v(1.25in)
@@ -173,7 +181,7 @@ __BODY__
 
 // ── Índice al final, como en la edición en español ──
 #mark-end
-#pagebreak(to: "odd")
+#pagebreak(to: opens, weak: true)
 #mark-start
 #metadata("indice") <index-start>
 #page(header: none, footer: none)[
@@ -227,10 +235,11 @@ def main() -> int:
     parser.add_argument("--series", default="Seda y Pólvora")
     parser.add_argument("--volume", default="Libro I")
     parser.add_argument("--year", default=str(date.today().year))
-    parser.add_argument("--edicion", choices=("kdp", "autor"), default="kdp",
-                        help="kdp: interior sin cubierta para la imprenta; autor: con portada y contraportada, para lectura privada.")
+    parser.add_argument("--edicion", choices=("kdp", "digital"), default="kdp",
+                        help="kdp: interior sin cubierta para la imprenta; digital: versión para lector digital, "
+                             "con portada y contraportada y sin hojas en blanco, de circulación privada.")
     parser.add_argument("--tapa", default="99_Reference/book_covers/Mascaras_De_Cristal_Tapa_6x9_v1.png",
-                        help="Tapa completa (contraportada + lomo + portada, con sangrado) de la que salen las cubiertas de la edición de autor.")
+                        help="Tapa completa (contraportada + lomo + portada, con sangrado) de la que salen las cubiertas de la versión digital.")
     parser.add_argument("--output-name")
     parser.add_argument("--muestra", metavar="PAGINAS",
                         help="En vez del PDF, exporta esas páginas a PNG (p. ej. 1-8,15) en --muestra-dir.")
@@ -254,13 +263,13 @@ def main() -> int:
     TEMP_DIR.mkdir(parents=True, exist_ok=True)
     OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
     md_path, body_path, main_path = (TEMP_DIR / n for n in ("manuscript.md", "body.typ", "main.typ"))
-    autor = args.edicion == "autor"
+    digital = args.edicion == "digital"
     output_name = args.output_name or (
-        "Mascaras_De_Cristal_Edicion_Autor_6x9" if autor else "Mascaras_De_Cristal_Imprenta_6x9")
+        "Mascaras_De_Cristal_Lector_Digital" if digital else "Mascaras_De_Cristal_Imprenta_6x9")
     output_path = OUTPUT_DIR / f"{output_name}.pdf"
     cover_files = [TEMP_DIR / "portada.jpg", TEMP_DIR / "contraportada.jpg"]
     covers = {"__FRONT_COVER__": "", "__BACK_COVER__": "", "__EDITION_NOTE__": ""}
-    if autor:
+    if digital:
         tapa = (VAULT_ROOT / args.tapa).resolve()
         if not tapa.is_file():
             print(f"Error: no encuentro la tapa {args.tapa}.", file=sys.stderr)
@@ -268,7 +277,7 @@ def main() -> int:
         try:
             from PIL import Image
         except ImportError:
-            print("Error: la edición de autor necesita Pillow (pip install pillow).", file=sys.stderr)
+            print("Error: la versión digital necesita Pillow (pip install pillow).", file=sys.stderr)
             return 1
         with Image.open(tapa) as im:
             im = im.convert("RGB")
@@ -278,15 +287,15 @@ def main() -> int:
                 cover_files[0], quality=92)
             im.crop((bleed, bleed, bleed + w, bleed + h)).save(cover_files[1], quality=92)
         covers = {
-            # Portada, interior de cubierta en blanco y la portadilla vuelve a caer en impar.
-            "__FRONT_COVER__": '#cover("portada.jpg")\n#plain[]',
-            # Contraportada siempre en página par, como en el libro impreso.
-            "__BACK_COVER__": '#pagebreak(weak: true, to: "even")\n#cover("contraportada.jpg")',
-            "__EDITION_NOTE__": "\n  Edición de autor, para lectura privada.\n",
+            # En pantalla no hay reversos: la portada y enseguida la portada interior;
+            # la contraportada, justo después del índice.
+            "__FRONT_COVER__": '#cover("portada.jpg")',
+            "__BACK_COVER__": '#cover("contraportada.jpg")',
+            "__EDITION_NOTE__": "\n  Edición para lector digital, de circulación privada.\n",
         }
     values = {
         "__TITLE__": args.title, "__AUTHOR__": args.author, "__SERIES__": args.series,
-        "__VOLUME__": args.volume, "__YEAR__": args.year,
+        "__VOLUME__": args.volume, "__YEAR__": args.year, "__DIGITAL__": digital,
     }
     template = TEMPLATE
     for key, value in values.items():
@@ -319,8 +328,8 @@ def main() -> int:
     data = output_path.read_bytes()
     pages = len(re.findall(rb"/Type\s*/Page[^s]", data))
     print(f"PDF de imprenta listo: {output_path.relative_to(VAULT_ROOT)}")
-    if pages and autor:
-        print(f"Páginas: {pages}, con portada, contraportada y sus interiores.")
+    if pages and digital:
+        print(f"Páginas: {pages}, con portada y contraportada.")
     elif pages:
         spine = ", ".join(f"papel {k}: {pages * v:.3f} in ({pages * v * 25.4:.1f} mm)"
                           for k, v in SPINE_PER_PAGE.items())
