@@ -2,12 +2,16 @@
 
 Generada por `tools/audiolibro/build_audiobook.py`; no editar a mano. Tras cambiar la prosa de un capítulo, correr `--estado` para marcarlo PENDIENTE; la bandera se cierra sola cuando el script regenera ese audio.
 
-Actualizada: 2026-11-21 15:58. Al día: 28 de 47.
+Actualizada: 2026-11-21 22:13. Al día: 24 de 47.
 
 ## Pendientes
 
 | Cap. | Título | Estado | Motivo | Desde |
 |---|---|---|---|---|
+| 20 | Algo más que dinero | PENDIENTE | cambió la prosa | 2026-11-21 21:56 |
+| 21 | La versión pública | PENDIENTE | cambió la prosa | 2026-11-21 21:56 |
+| 22 | Lo que cueste | PENDIENTE | cambió la prosa | 2026-11-21 21:56 |
+| 23 | Luces fuera | PENDIENTE | cambió la prosa | 2026-11-21 21:56 |
 | 29 | Vamos a casa | PENDIENTE | cambió la prosa | 2026-11-21 10:55 |
 | 30 | Línea directa | PENDIENTE | cambió la prosa | 2026-11-21 10:55 |
 | 31 | Lo único que es mío | PENDIENTE | cambió la prosa | 2026-11-21 10:55 |
@@ -51,10 +55,10 @@ Actualizada: 2026-11-21 15:58. Al día: 28 de 47.
 | 17 | Día nublado | AL DIA | 2026-11-21 |
 | 18 | En lo pequeño | AL DIA | 2026-11-21 |
 | 19 | Grazie | AL DIA | 2026-11-21 |
-| 20 | Algo más que dinero | AL DIA | 2026-11-21 |
-| 21 | La versión pública | AL DIA | 2026-11-21 |
-| 22 | Lo que cueste | AL DIA | 2026-11-21 |
-| 23 | Luces fuera | AL DIA | 2026-11-21 |
+| 20 | Algo más que dinero | PENDIENTE | 2026-11-21 |
+| 21 | La versión pública | PENDIENTE | 2026-11-21 |
+| 22 | Lo que cueste | PENDIENTE | 2026-11-21 |
+| 23 | Luces fuera | PENDIENTE | 2026-11-21 |
 | 24 | Vienes conmigo | AL DIA | 2026-11-21 |
 | 25 | Libros abiertos | AL DIA | 2026-11-21 |
 | 26 | Me encuentro bien | AL DIA | 2026-11-21 |
@@ -82,6 +86,48 @@ Actualizada: 2026-11-21 15:58. Al día: 28 de 47.
 
 ## Historial
 
+- 2026-11-21 22:13 · Cap. 19 (21b_Grazie.md) · audio regenerado
+- 2026-11-21 22:13 · Cap. 18 (20_El_Mirador.md) · audio regenerado
+- 2026-11-21 22:13 · Cap. 17 (18_El_Dia_Nublado.md) · audio regenerado
+- 2026-11-21 22:13 · Cap. 16 (17_Cuentas_Claras.md) · audio regenerado
+- 2026-11-21 22:13 · Cap. 15 (15_El_Porton.md) · audio regenerado
+- 2026-11-21 22:13 · Cap. 14 (14_La_Regla_Del_Telefono.md) · audio regenerado
+- 2026-11-21 22:13 · Cap. 13 (12_Roma_Atrii.md) · audio regenerado
+- 2026-11-21 21:56 · Cap. 23 (24c_El_Corral.md) · audio pendiente: cambió la prosa
+- 2026-11-21 21:56 · Cap. 22 (24b_Lo_Que_Cueste.md) · audio pendiente: cambió la prosa
+- 2026-11-21 21:56 · Cap. 21 (22b_Con_Su_Proveedor.md) · audio pendiente: cambió la prosa
+- 2026-11-21 21:56 · Cap. 20 (22a_La_Cifra.md) · audio pendiente: cambió la prosa
+- 2026-11-21 21:56 · Cap. 12 (10_El_Loft_Del_Soltero.md) · audio regenerado
+- 2026-11-21 21:56 · Cap. 11 (09_La_Balanza.md) · audio regenerado
+- 2026-11-21 21:56 · Cap. 10 (08b_La_Sargenta.md) · audio regenerado
+- 2026-11-21 21:56 · Cap. 9 (08_La_Carrera_De_Mascaras.md) · audio regenerado
+- 2026-11-21 21:56 · Cap. 8 (07_La_Noche_Del_Ladrillo.md) · audio regenerado
+- 2026-11-21 21:56 · Cap. 7 (06_Ambos.md) · audio regenerado
+- 2026-11-21 21:56 · Cap. 6 (05c_La_Pizza_De_Calabaza.md) · audio regenerado
+- 2026-11-21 21:56 · Cap. 5 (05a_Cliente_Y_Proveedor.md) · audio regenerado
+- 2026-11-21 21:56 · Cap. 4 (04_Tarifa_Nocturna.md) · audio regenerado
+- 2026-11-21 21:56 · Cap. 3 (03_Los_Viejos_Dias.md) · audio regenerado
+- 2026-11-21 21:56 · Cap. 2 (02_Demasiado_Listo.md) · audio regenerado
+- 2026-11-21 21:56 · Cap. 1 (01_Un_Hombre_De_Negocios_Intachable.md) · audio regenerado
+- 2026-11-21 21:14 · Cap. 19 (21b_Grazie.md) · audio pendiente: cambió la prosa
+- 2026-11-21 21:14 · Cap. 18 (20_El_Mirador.md) · audio pendiente: cambió la prosa
+- 2026-11-21 21:14 · Cap. 17 (18_El_Dia_Nublado.md) · audio pendiente: cambió la prosa
+- 2026-11-21 21:14 · Cap. 16 (17_Cuentas_Claras.md) · audio pendiente: cambió la prosa
+- 2026-11-21 21:14 · Cap. 15 (15_El_Porton.md) · audio pendiente: cambió la prosa
+- 2026-11-21 21:14 · Cap. 14 (14_La_Regla_Del_Telefono.md) · audio pendiente: cambió la prosa
+- 2026-11-21 21:14 · Cap. 13 (12_Roma_Atrii.md) · audio pendiente: cambió la prosa
+- 2026-11-21 21:14 · Cap. 12 (10_El_Loft_Del_Soltero.md) · audio pendiente: cambió la prosa
+- 2026-11-21 21:14 · Cap. 11 (09_La_Balanza.md) · audio pendiente: cambió la prosa
+- 2026-11-21 21:14 · Cap. 10 (08b_La_Sargenta.md) · audio pendiente: cambió la prosa
+- 2026-11-21 21:14 · Cap. 9 (08_La_Carrera_De_Mascaras.md) · audio pendiente: cambió la prosa
+- 2026-11-21 21:14 · Cap. 8 (07_La_Noche_Del_Ladrillo.md) · audio pendiente: cambió la prosa
+- 2026-11-21 21:14 · Cap. 7 (06_Ambos.md) · audio pendiente: cambió la prosa
+- 2026-11-21 21:14 · Cap. 6 (05c_La_Pizza_De_Calabaza.md) · audio pendiente: cambió la prosa
+- 2026-11-21 21:14 · Cap. 5 (05a_Cliente_Y_Proveedor.md) · audio pendiente: cambió la prosa
+- 2026-11-21 21:14 · Cap. 4 (04_Tarifa_Nocturna.md) · audio pendiente: cambió la prosa
+- 2026-11-21 21:14 · Cap. 3 (03_Los_Viejos_Dias.md) · audio pendiente: cambió la prosa
+- 2026-11-21 21:14 · Cap. 2 (02_Demasiado_Listo.md) · audio pendiente: cambió la prosa
+- 2026-11-21 21:14 · Cap. 1 (01_Un_Hombre_De_Negocios_Intachable.md) · audio pendiente: cambió la prosa
 - 2026-11-21 15:58 · Cap. 28 (30_Media_Baraja.md) · audio regenerado
 - 2026-11-21 15:58 · Cap. 27 (29_El_Patio_Ajeno.md) · audio regenerado
 - 2026-11-21 15:58 · Cap. 26 (26_Me_Encuentro_Bien.md) · audio regenerado
