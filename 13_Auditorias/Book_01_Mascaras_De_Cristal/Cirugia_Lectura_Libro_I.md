@@ -120,5 +120,5 @@ Plan de trabajo, en marcha desde el 2026-11-21 (DECISIÓN DEL AUTOR sobre el mé
 | 43 | Una cuenta abierta | `47_Intereses` | tics «Eso no es lo que le pregunté» y «nada fácil, Bellandi» | hecho, BORRADOR (en paralelo con la Parte II) | ver git log |
 | 44 | Su nombre | `48_Su_Nombre` | usted Meiko→Chiara; tú Chiara→Meiko | hecho, BORRADOR (en paralelo con la Parte II) | ver git log |
 | 45 | Por si vuelve | `49_Enfrente` | luz | hecho, BORRADOR (en paralelo con la Parte II) | ver git log |
-| 46 | A oscuras | `50_A_Oscuras` |  | pendiente | |
+| 46 | A oscuras | `50_A_Oscuras` | el número de Lucía | hecho, BORRADOR (en paralelo con la Parte II) | ver git log |
 | 47 | La tierra bajo sus botas | `50b_La_Tierra_Bajo_Sus_Botas` | luz (canon: «todavía de noche») | pendiente | |
