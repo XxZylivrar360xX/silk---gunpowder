@@ -507,7 +507,7 @@ Natalie dejó la botella en la mesa y miró a Danny un segundo más de lo necesa
 
 Ella lo dejó pasar. Kal vio que lo dejaba pasar.
 
-Comieron entre las grúas. Danny habló por los cinco: de un Mustang que iba a quedar mejor que nuevo, de una banda que tocaba el sábado, de lo que costaba ahora una cerveza en la Isla, que Walt no quiso creer. Movía la rodilla debajo de la mesa sin darse cuenta. No se terminó el plato.
+Comieron entre las grúas. Danny habló por los cinco: de un Mustang que iba a quedar mejor que nuevo, de una banda que tocaba el sábado, de lo que costaba ahora una cerveza en La Isla, que Walt no quiso creer. Movía la rodilla debajo de la mesa sin darse cuenta. No se terminó el plato.
 
 Walt preguntó cuánto costaba un refresco de cola en envase de vidrio.
 
@@ -617,7 +617,7 @@ El cuarto se quedó sin ruido. Hasta Danny.
 
 Kal le sostuvo la mirada. No se defendió. Walt tampoco insistió; no había dicho eso para ganar nada.
 
-—Le di hasta las dos a un casino de la Isla —dijo Kal al fin—. No han llamado. Omar cobra el viernes y al cable de la grúa dos no le queda un mes. —Miró el teléfono bocabajo, sin tocarlo—. Con eso la Almendra vuelve a estar en el juego. Con el dinero de él. Es el único dinero que me va a dar gusto gastar.
+—Le di hasta las dos a un casino de La Isla —dijo Kal al fin—. No han llamado. Omar cobra el viernes y al cable de la grúa dos no le queda un mes. —Miró el teléfono bocabajo, sin tocarlo—. Con eso la Almendra vuelve a estar en el juego. Con el dinero de él. Es el único dinero que me va a dar gusto gastar.
 
 No dijo lo del recibo que seguía en el banco del taller, debajo de la taza.
 

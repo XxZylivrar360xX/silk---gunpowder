@@ -18,6 +18,7 @@ Ruleta de regreso (2026-11-04, DECISION DEL AUTOR; prosa DISEÑO, BORRADOR en es
 Vento fuera de la costumbre (2026-11-04, DECISION DEL AUTOR; DISEÑO): la llamada del domingo queda en "Estaba afuera"; Kal no sabe aun que ella monta. "Estaba montando / Se llama Vento" sale; la edad del caballo y las ocho pasan al Cap. 11 (archivo 09), despues de que Danny la vea montar en el Cap. 8.
 Primer gesto de los chicos (2026-11-03, DIRECCION DEL AUTOR; DISEÑO): frasco en el cuello antes de ir al penthouse; Danny lo huele y mira a Nadir. Sin dialogo. Maximo un gesto por capitulo, tres en total; faltan dos (cepillo en la guantera, espejo lateral).
 Marisol (2026-11-05): "lejos de aqui" pasa a "fuera del barrio"; ya aparecio en el taller en el Cap. 1 y Ashcombe esta a minutos. Estado sin cambio.
+Cirugia de la lectura (2026-11-21; BORRADOR, espera lectura): «¿Hace cuanto que la guarda?» (usted antes del pacto), Chiara no recuerda que comio, «la mañana de la factura», Marisol sin coche, fuente de las costillas de Hendricks; restituidos «Vuelvo / Eso dicen todos / Yo si», «¿Con cara? / Con carton» y el cierre «Fue una noche rara / Si / Buena / Si» (decision del autor; sale el recuento de la noche); fuera la coletilla «lo unico que habia querido…» (decision del autor); regla 06: excepcion sobre la vara (34 %). Detalle: 98_Agent_Handoff/sessions/2026-11-21_claude_cirugia_lectura_cap07.md.
 -->
 
 # Capítulo 7 — Ambos
@@ -38,7 +39,7 @@ Lo preguntó antes de saludar. Kal levantó la vista desde el piso con una tuerc
 
 Kal enroscó la tuerca con los dedos antes de buscar la llave.
 
-—Le vendió un alternador a un tipo de la Isla. Le sirvió té, le dio de comer, le preguntó por los hijos. Tres horas. Y el tipo se fue con el alternador, un frasco de salsa y sin saber cuánto había pagado.
+—Le vendió un alternador a un tipo de La Isla. Le sirvió té, le dio de comer, le preguntó por los hijos. Tres horas. Y el tipo se fue con el alternador, un frasco de salsa y sin saber cuánto había pagado.
 
 —¿Y cuánto pagó, al final?
 
@@ -110,11 +111,11 @@ Una noche, después de que una máquina de hielo se rindiera y el proveedor inte
 
 Chiara levantó la vista de una lista de invitados.
 
-—Comí algo a las cuatro. Subieron charolas a la junta de banquetes y algo agarré entre una firma y otra.
+—Comí algo a las cuatro.
 
 —¿Qué?
 
-Chiara lo pensó. Las charolas habían sido el martes, o quizá eso también había sido el martes. No se acordó. Miró la bolsa, que olía a pan caliente.
+Chiara lo pensó. No se acordó. Miró la bolsa, que olía a pan caliente.
 
 —Espero que lo que trae no sea pizza de calabaza.
 
@@ -128,7 +129,7 @@ Kal dejó la bolsa sobre la mesa, lejos de los papeles, con un cuidado que no co
 
 Sin mostaza.
 
-Ella nunca se lo había dicho. Lo había dicho una sola vez, sin pensar, en La Esquina de Mabel, el día del cortejo, con Blake enfrente, cuando todavía no sabía de quién era esa calle: que la mostaza le cerraba la garganta desde niña. La mujer no había apuntado nada. No había vuelto a pensarlo. Mabel, que sabía de todo el mundo cosas que nadie le contaba de frente, se lo había guardado, y se lo había pasado a él.
+A él nunca se lo había dicho. Lo había dicho una sola vez, sin pensar, en La Esquina de Mabel, el día del cortejo, con Blake enfrente, cuando todavía no sabía de quién era esa calle: que la mostaza le cerraba la garganta desde niña. La mujer de la caja no había apuntado nada. No había vuelto a pensarlo. Mabel, que sabía de todo el mundo cosas que nadie le contaba de frente, se lo había guardado, y se lo había pasado a él.
 
 —Mabel la preparó —dijo Kal, como si hiciera falta aclararlo—. Yo cargué la bolsa.
 
@@ -190,7 +191,7 @@ Nadir no lo negó.
 
 Bajarle la mínima a una mesa, a esa hora, por tres hombres con esa ropa, era un problema que mañana nadie le iba a cobrar a Nadir. Mandarlos a su casa era una historia más para el día siguiente, y ella sabía quién la iba a contar y cómo. Al fondo del pasillo estaba la sala que el Monarch usaba para eventos privados, con una ruleta de nogal bajo una funda gris. Un evento privado no tenía mínima. Esa regla también la había escrito ella.
 
-Soltó el botón y marcó a piso.
+Les dijo que subieran por el elevador de carga, soltó el botón y marcó a piso.
 
 —Mándeme a alguien que sepa tirar. Una mesa, sala del penthouse, evento privado. Tres invitados.
 
@@ -254,7 +255,7 @@ Antes de que las puertas terminaran de cerrarse, Danny alcanzó a levantar la go
 
 Russ miró al techo.
 
-Chiara volvió a la sala, le puso la funda a la ruleta y apagó las luces. Eran las dos menos veinte.
+Chiara volvió a la sala, le puso la funda a la ruleta y apagó las luces. Eran casi las tres.
 
 ***
 
@@ -268,7 +269,7 @@ Kal tocó el marco de la puerta.
 
 Ella miró sus pies descalzos y luego a él.
 
-—No sé de qué habla. —Y como él siguió mirando los zapatos, añadió—: Tommaso cree que el hotel todavía no está listo para jugadores de fuera. Lo cree desde las once de la mañana, y lo ha creído en voz alta en tres reuniones.
+—No sé de qué habla.
 
 Kal no le preguntó qué creía ella. Se veía en los tacones.
 
@@ -330,11 +331,15 @@ Kal abrió la boca y la volvió a cerrar.
 
 Chiara se puso los tacones sin dejar de mirarlo.
 
-—A las ocho. Y me cuenta qué era, aunque sea la versión corta. Yo le he contado todas las mías, y algunas ni me las pidió.
+—A las ocho. Y me cuenta qué era, aunque sea la versión corta. Yo le he contado todas las mías.
+
+—Vuelvo.
+
+—Eso dicen todos.
 
 Kal ya iba en la puerta. Se detuvo con la mano en el marco, el mismo que había tocado al llegar, y miró otra vez los tacones rojos.
 
-—Vuelvo —dijo, como quien deja una pieza apartada con su nombre.
+—Yo sí.
 
 Y se fue.
 
@@ -354,7 +359,7 @@ Levantó el bastón y señaló el patio de atrás, por el hueco entre las dos na
 
 Danny ya iba cruzando el patio con los brazos abiertos.
 
-—¡Oficial! ¿Usted es el de las costillas?
+—¡Oficial! ¿Usted es el de las costillas? Aquí sus compañeros no hablan de otra cosa.
 
 Hendricks tenía cincuenta años, una panza de turno de noche y, por lo visto, a nadie que le hubiera preguntado por sus costillas en mucho tiempo. Danny le pasó el brazo por los hombros antes de que terminara de contestar y se lo llevó caminando hacia el frente, para que le dijera, ya que estaba ahí, si esas líneas cumplían el reglamento, porque las había pintado él solo, de noche, y había quien decía que estaban torcidas.
 
@@ -364,7 +369,7 @@ Al pasar junto a la grúa, Hendricks levantó la barbilla hacia la manta.
 
 Kal no se movió.
 
-—Máquina de refrescos —dijo Danny—. De una gasolinera cerrada en la 101, se la compramos al dueño por kilo, se le fundió el compresor, no enfría ni por error, y Nadir quiere venderla como antigüedad, imagínese. ¿Cuánto tiempo deja el adobo?
+—Máquina de refrescos —dijo Danny—. De una gasolinera que cerró, se la compramos al dueño por kilo, se le fundió el compresor, no enfría ni por error, y Nadir quiere venderla como antigüedad, imagínese. ¿Cuánto tiempo deja el adobo?
 
 —Toda la noche —dijo Hendricks—. Menos no sirve.
 
@@ -402,7 +407,7 @@ Quedaba la máquina, destripada, con el pedazo de acera todavía colgándole del
 
 Russ cerró los ojos.
 
-—Es en el norte, Danny. Donde la sacamos. Son cuarenta minutos de ida con esa cosa amarrada en la plataforma, y en la 101 la patrulla de caminos para a las grúas los jueves para revisar cadenas. Hoy es jueves.
+—Es en el norte, Danny. Donde la sacamos. Y en la 101 la patrulla de caminos para a las grúas los jueves. Hoy es jueves.
 
 —Por eso. Ya nos sabemos el camino.
 
@@ -410,9 +415,11 @@ Kal se lavaba los brazos en el fregadero con jabón de polvo y no volteó.
 
 —De noche. Y con cartón en la puerta.
 
-A Danny se le iluminó la cara, y Russ levantó una mano antes de que abriera la boca.
+A Danny se le iluminó la cara.
 
-—Cartón. No cara. Ya sé lo que ibas a decir.
+—¿Con cara?
+
+—Con cartón —dijo Russ.
 
 Eran casi las siete y media. Kal se lavó otra vez, porque seguía oliendo a disco quemado, se puso la chaqueta y fue por fin a la oficina. Abrió el cajón. Sacó una bolsa pequeña y se la guardó en el bolsillo. De atrás de las facturas sacó también un frasco, se puso en el cuello lo que le cupo en un dedo y lo volvió a guardar.
 
@@ -436,13 +443,13 @@ Chiara le quitó la bolsa pequeña, la abrió, la olió y la volvió a cerrar.
 
 —Poquito. Lo demás era verdad: sí tenía algo que resolver.
 
-—¿Hace cuánto que la guardas?
+—¿Hace cuánto que la guarda?
 
 —Una semana larga. —Se encogió de hombros—. ¿Y usted?
 
 Chiara no contestó. Le quitó también la bolsa de las hamburguesas y se fue con las dos hacia la sala.
 
-El penthouse de noche no se parecía al de la mañana posterior al encuentro. La ciudad brillaba abajo, el mar devolvía pedazos de luz, la sala estaba ordenada con esa limpieza impersonal de los lugares caros que alguien más mantiene vivos. Chiara llevaba pijama de verdad, porque así se lo habían pedido: short de seda azul oscuro con un estampado de puntitos claros, camisola de satín azul cielo, lisa, y encima un suéter blanco, porque era noviembre y de noche el vidrio del penthouse dejaba entrar el frío del mar. El cabello suelto le caía sobre los hombros. No llevaba zapatos.
+El penthouse de noche no se parecía al de la mañana de la factura. La ciudad brillaba abajo, el mar devolvía pedazos de luz, la sala estaba ordenada con esa limpieza impersonal de los lugares caros que alguien más mantiene vivos. Chiara llevaba pijama de verdad, porque así se lo habían pedido: short de seda azul oscuro con un estampado de puntitos claros, camisola de satín azul cielo, lisa, y encima un suéter blanco, porque era noviembre y de noche el vidrio del penthouse dejaba entrar el frío del mar. El cabello suelto le caía sobre los hombros. No llevaba zapatos.
 
 Kal la miró una vez, de arriba abajo, y luego se puso a mirar la ciudad con muchísimo interés. No comentó nada. Eso fue, para ella, más efectivo que cualquier cumplido.
 
@@ -454,7 +461,7 @@ Kal la miró una vez, de arriba abajo, y luego se puso a mirar la ciudad con muc
 
 —Tiene razón.
 
-Terminaron sentados en el suelo de la sala, con la espalda contra el sofá que no iban a usar, las hamburguesas sobre servilletas y las malteadas apoyadas en una mesa baja que probablemente costaba más que la camioneta rentada de la otra noche. Alguien —Chiara nunca supo bien cuándo— había puesto algo cálido y sin urgencia a sonar bajito desde un altavoz en la esquina, lo justo para llenar los silencios sin pedirles nada. Chiara comía en trozos chicos, arrancando la papa de una en una; Kal había desarmado la suya para quitarle algo y volver a armarla, una costumbre de comer rápido en lugares donde comer despacio era un lujo.
+Terminaron sentados en el suelo de la sala, con la espalda contra el sofá que no iban a usar, las hamburguesas sobre servilletas y las malteadas apoyadas en una mesa baja que probablemente costaba más que la camioneta rentada de Il Gelsomino. Alguien —Chiara nunca supo bien cuándo— había puesto algo cálido y sin urgencia a sonar bajito desde un altavoz en la esquina, lo justo para llenar los silencios sin pedirles nada. Chiara comía en trozos chicos, arrancando la papa de una en una; Kal había desarmado la suya para quitarle algo y volver a armarla, una costumbre de comer rápido en lugares donde comer despacio era un lujo.
 
 —Esto es ridículo.
 
@@ -526,11 +533,11 @@ Cuando la canción del altavoz cambió a algo con más orgullo que prisa, Kal se
 
 Chiara esperó.
 
-—Un amigo del ejército. De los pocos de esa época que había sobrevivido a esa época y había salido entero, o casi. Se retiró, volvió a San Aurelio y se puso a morir de cáncer con la misma discreción con la que había hecho todo lo demás.
+—Un amigo del ejército. De los pocos que habían salido enteros de esa época, o casi. Se retiró, volvió a San Aurelio y se puso a morir de cáncer con la misma discreción con la que había hecho todo lo demás.
 
 Lo dijo sin dramatizarlo.
 
-—Dejó una hija. Marisol. Está en la universidad ahora, fuera del barrio, donde nadie sabe de dónde viene. —Y ahí, hablando de ella, se le puso una sonrisa que no era la que usaba para cerrar tratos: más chica, menos vigilada—. Es lista. Discute todo. La semana pasada me colgó el teléfono porque le dije que no manejara de noche.
+—Dejó una hija. Marisol. Está en la universidad ahora, fuera del barrio, donde nadie sabe de dónde viene. —Y ahí, hablando de ella, se le puso una sonrisa que no era la que usaba para cerrar tratos: más chica, menos vigilada—. Es lista. Discute todo. La semana pasada me colgó el teléfono porque le dije que no regresara sola de noche.
 
 —¿Y tú qué eres de ella?
 
@@ -582,7 +589,7 @@ Lo dijo sin mirarla, con los ojos en la pantalla, de la misma forma en que un ra
 
 —Todavía no.
 
-Chiara no la tocó.
+Chiara no tocó la respuesta.
 
 Cuando la canción terminó, buscó ella la suya. *Un anno d'amore*, de Mina. La voz llenó la sala de cine con un pasado que no era de Oregon.
 
@@ -596,7 +603,7 @@ No fue fácil. Se le fue el idioma varias veces y no se molestó en corregirse, 
 
 —En mi casa, de niña, sonaba los domingos. Mis padres se miraban cuando sonaba.
 
-No dijo más que eso. Le estaba enseñando el matrimonio de sus padres, lo único que había querido en la vida y no había tenido.
+No dijo más que eso. Le estaba enseñando el matrimonio de sus padres.
 
 —¿Ésa eres tú? —preguntó él cuando la canción llevaba un minuto.
 
@@ -626,13 +633,13 @@ Puso *Parole Parole*. La voz de mujer entraba primero, toda promesa; la de hombr
 
 —¿Y yo qué soy?
 
-—Tú eres el que no cree, que es el papel que te sale sin ensayar. Pero no te confíes: es hablado, no cantado, y va rápido.
+—Tú eres el que no cree. No te confíes: es hablado, no cantado, y va rápido.
 
 Le puso el celular con la letra abierta en la mano, como quien entrega un arma que no sabe usar, y esperó a que empezara el verso. Kal fracasó en el primer intento, en el segundo se acercó, y para el tercero ya se reía de sí mismo antes de terminar la frase, con el acento del barrio pisándole cada sílaba italiana. Chiara no se rio de él. Se rio con él, doblada sobre las rodillas, corrigiéndolo entre carcajada y carcajada sin dejar de cantar su parte.
 
 —Otra vez —dijo ella, sin aliento.
 
-—No. Ya quedó claro que el que no cree soy yo, y que además no sabe pronunciar.
+—No. Ya quedó claro que el que no cree soy yo.
 
 —Otra vez. —Le acomodó el celular en la mano, con la rodilla pegada a la suya—. Y sí, te estoy usando para reírme, antes de que lo digas. Otra vez.
 
@@ -734,7 +741,7 @@ Kal no se movió. En el espejo, la cara no le cambió, pero dejó pasar un segun
 
 —Gracias a esto conocí a Nadir.
 
-Chiara esperó por si venía algo detrás. No vino. No tiró del hilo: lo guardó para mirarlo con calma después.
+Chiara esperó por si venía algo detrás. No vino, y ella no tiró del hilo.
 
 —El corte que traes te va bien —dijo, y le soltó el pelo.
 
@@ -752,7 +759,7 @@ El silencio no se rompió: cambió de cuarto con ellos.
 
 En el vestidor principal, Kal se manchó la chaqueta con tinta.
 
-Fue culpa de un bolígrafo sin tapa sobre una isla de cajones. Chiara lo había dejado ahí por la mañana y lo olvidó. Kal apoyó la manga, levantó el brazo y encontró una línea negra atravesando la mezclilla.
+Fue culpa de un bolígrafo sin tapa sobre una isla de cajones. Chiara lo había dejado ahí por la mañana y lo había olvidado. Kal apoyó la manga, levantó el brazo y encontró una línea negra atravesando la mezclilla.
 
 —Mierda.
 
@@ -828,9 +835,15 @@ El pasillo hacia los cuartos estaba en silencio. Frente a la puerta, él se detu
 
 La respuesta la dejó un segundo sin defensa, y buscó una de oficina, la que tenía para los proveedores que daban las gracias de más.
 
-—Fue una noche rara. Hamburguesas en el piso, Mina, un cenicero de piedra un centímetro más a la izquierda, un mecánico que no se sabe la dirección de su casa… —Se oyó enumerar y se detuvo—. Buona. Fue buena.
+—Fue una noche rara.
 
-Kal asintió. No agregó nada, y ella se lo agradeció también.
+—Sí.
+
+—Buena.
+
+Kal asintió.
+
+—Sí.
 
 No se movieron. Habían pasado ocho horas juntos y ninguno lo había notado hasta ahora, parados frente a una puerta sin ganas de cruzarla todavía.
 
