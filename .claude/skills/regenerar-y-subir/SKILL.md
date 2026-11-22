@@ -55,7 +55,7 @@ Mismas reglas que §2.
 - Los comandos terminaron con código 0.
 - Salidas actualizadas (fecha de hoy): `tools/epub-build/output/<Libro>.epub`, `output/pdf/<Libro>.pdf`.
 - `python -B .\tools\audiolibro\build_audiobook.py --estado [--book …]` → 0 sin audio al día (o los que fallaron por red, nombrados).
-- `git status --short`: además de la tarea, deben aparecer el EPUB, el PDF y `tools/audiolibro/bitacora/*`. Los MP3 no van a git (`output/audiolibro/` está en `.gitignore`; Drive los respalda).
+- `git status --short`: además de la tarea, deben aparecer el EPUB y el PDF. Ni los MP3 ni la bitácora del audio van a git (`output/audiolibro/` y `tools/audiolibro/bitacora/` están en `.gitignore`, decisión del autor 2026-11-22; Drive los respalda).
 
 ## 5. Commit y push
 

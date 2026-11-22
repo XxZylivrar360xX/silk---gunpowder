@@ -13,3 +13,5 @@ __pycache__/
 
 # ── Audiolibro: MP3 generados (pesados; Drive los respalda) ──
 output/audiolibro/
+# Bitacora del audio: estado local de los MP3; viaja con ellos en Drive, no en git (decision del autor, 2026-11-22)
+tools/audiolibro/bitacora/
