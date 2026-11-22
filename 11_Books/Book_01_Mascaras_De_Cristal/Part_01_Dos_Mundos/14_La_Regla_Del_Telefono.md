@@ -500,7 +500,7 @@ Héctor hizo un ruido con la garganta.
 
 —Alguien tiene que cuidarla de eso.
 
-—Eso —dijo Héctor, incorporándose apenas contra la almohada— es exactamente el problema. No es tuyo decidir de qué la cuidas. Es de ella. —Lo miró directo—. Kal. Eso es de ella. No tuyo.
+—Eso —dijo Héctor, incorporándose apenas contra la almohada— es exactamente el problema. No es tuyo decidir de qué la cuidas. Es de ella.
 
 Kal no tuvo con qué contestarle.
 

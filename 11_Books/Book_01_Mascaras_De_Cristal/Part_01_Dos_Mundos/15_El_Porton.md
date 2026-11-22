@@ -101,8 +101,6 @@ Walt le colgó antes de que ella terminara de explicarle qué había pasado, y l
 
 Se lo contó en orden, sin saltarse nada.
 
-—Un infarto —terminó—. Estable. Todavía esperan al especialista, para ver qué tan grave fue.
-
 Walt se quedó callado un momento, con las manos entre las rodillas.
 
 —Ya había tenido uno antes —dijo al final—. Chiquito. Antes de que yo me fuera. Ni se dio bien cuenta de lo que fue hasta después, y para cuando alguien le insistió que se hiciera ver, ya se le había pasado el susto y no quiso. Nunca fue nada que alguien le vigilara de cerca.

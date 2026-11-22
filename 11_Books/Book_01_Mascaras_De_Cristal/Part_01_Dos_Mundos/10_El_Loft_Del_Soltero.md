@@ -384,7 +384,7 @@ Una semana después le llegó la factura de una caja resistente al fuego, con la
 
 ***
 
-Le quitaron la férula a las tres semanas, y esa tarde volvió al penthouse. Kal no la detuvo; dispuso sólo que Danny la llevara y la recogiera. El jueves, le contó Danny sin que ella preguntara, la mesa de la casa común volvió a ser de catorce.
+Le quitaron la férula a las tres semanas. Con el labio cerrado ya no había nada que una puerta pudiera contarle a Dario, y esa tarde volvió al penthouse. Kal no la detuvo; dispuso sólo que Danny la llevara y la recogiera. El jueves, le contó Danny sin que ella preguntara, la mesa de la casa común volvió a ser de catorce.
 
 En la tercera semana de obra, Ochoa fue a buscarla.
 
