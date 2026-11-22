@@ -6,6 +6,7 @@ Se conservan literales: "Eso no te lo voy a decir. —Chiara no sonrio—. Todav
 Protagonistas: Chiara Bellandi (POV), Kal Mercer. Apariciones: Kenji Oda, Mabel Ortiz, el joven de Crowe (sin nombre), el chico del recado (fuera de escena), Tommaso Lusardi (memoria), Marta y Corrado Bellandi (memoria).
 Ventana temporal: de finales de enero a finales de febrero A2 (unas cuatro semanas).
 Lugares: The Monarch Casino & Hotel (caja y franja del pasillo de servicio), El Penthouse, La Esquina de Mabel, Almendra Towing (taller).
+Cirugia de la lectura (2026-11-21; BORRADOR, espera lectura del autor): [[98_Agent_Handoff/sessions/2026-11-21_claude_cirugia_lectura_cap13]]. DECISION DEL AUTOR: en la caja Chiara defiende la red y pierde (salen "Tienes razon" y "Eso no tiene defensa"); la concesion "lo traigo yo" llega al final. Las "cuatro palabras" de Kenji pasan a "unas palabras".
 Funcion: T3. Crowe planta el caso del Peugeot; Chiara lo ve venir por su red, desactiva la sospecha sobre Kal sin sacarlo del expediente y se guarda quien lo planto. Primer roce de valores por el mensajero menor; nace "lo traigo yo".
 -->
 
@@ -35,13 +36,13 @@ No se acercó. Con un dedo le pidió a seguridad que no lo perdieran, y antes de
 
 Kenji estaba en esa caja desde antes de la camioneta.
 
-Lo había encontrado en una gala de caridad, recogiendo copas. Un donante, Aldrich, sudaba frente al lector con la tarjeta negada dos veces, y un muchacho del personal le dijo sin una pausa que el sistema llevaba toda la noche cobrando doble, le dejó la pieza a su nombre y le cargó la falla al sistema. El sistema no cobraba doble: Chiara lo había probado dos horas antes. Junto a la mesa de postres él se encogió de hombros. «Me pagan por servir copas. Lo otro salió gratis.» Le apuntó el número en una servilleta de coctel y volvió a las copas.
+Lo había encontrado en una gala de caridad, recogiendo copas. Un donante, Aldrich, sudaba frente al lector con la tarjeta negada dos veces, y un muchacho del personal le dijo sin una pausa que el sistema llevaba toda la noche cobrando doble, que le anotaba el nombre y que el comité le confirmaría el monto al día siguiente. El sistema no cobraba doble: Chiara lo había probado dos horas antes. Junto a la mesa de postres él se encogió de hombros. «Me pagan por servir copas. Lo otro salió gratis.» Le apuntó el número en una servilleta de coctel y volvió a las copas.
 
 Lo llamó para el primer torneo. Esa misma noche Tommaso se le apoyó en el borde de la mesa, por detrás, y le dijo bajito que un invitado de la mesa tres jugaba con Alessio en Palermo y ya le había contado la versión. «La tuya, esta vez.» La reservación estaba a nombre de la Dirección. *Invitado de la Dirección.* Sin nombre. Tommaso lo apuntó en el reverso de la lista de mesas, con la letra chica que usaba para lo que pensaba preguntar después. Una hora más tarde Chiara vio a Kenji desarmar en la caja a un jugador furioso con una calculadora y algo parecido a una broma, sin que nadie llamara a nadie, y entendió lo que se le había escapado: Tommaso tenía gente en su piso que hablaba primero con él. Ella tenía, en el mismo piso, a alguien que no hablaba con nadie.
 
-Esa noche, en su oficina, escribió cuatro palabras en latín en el papel de las cartas y las miró un rato. En Palermo, de niña, le había dicho a una sola compañera de quién era hija; una semana después dos hombres esperaron a esa niña a la salida del colegio, y la niña no volvió a sentarse con ella. Rompió el papel.
+Esa noche, en su oficina, escribió unas palabras en latín en el papel de las cartas y las miró un rato. En Palermo, de niña, le había dicho a una sola compañera de quién era hija; una semana después dos hombres esperaron a esa niña a la salida del colegio, y la niña no volvió a sentarse con ella. Rompió el papel.
 
-Un mes después se lo propuso a Kenji, casi en italiano. Lo que oyera en su mesa, quién preguntaba por quién, que no se le olvidara. Le enseñó las cuatro palabras en un rectángulo de su papel.
+Un mes después se lo propuso a Kenji, casi en italiano. Lo que oyera en su mesa, quién preguntaba por quién, que no se le olvidara. Le enseñó las palabras en un rectángulo de su papel.
 
 —¿Latín?
 
@@ -75,7 +76,7 @@ A las cuatro, Kenji pidió otra firma.
 
 Iba a preguntarle quién era. No lo preguntó: la regla era suya.
 
-Danny se lo había contado una noche en la cocina de la casa común, secando platos. Kal llevaba semanas buscando a un hombre de cuarenta años con un diente gris del lado izquierdo; Danny había preguntado en los talleres de Las Calderas, Nadir en las cantinas junto a las vías. Nadie lo conocía. Desde entonces Kal se fijaba en quién se paraba afuera del Patio. Chiara lo sabía desde hacía semanas, y esa mañana había mandado a un niño a pararse justo ahí.
+Danny se lo había contado una noche en la cocina de la casa común, secando platos. Kal llevaba semanas buscando a un hombre de cuarenta años con un diente gris del lado izquierdo; Danny había preguntado en los talleres de Las Calderas, Nadir en las cantinas junto a las vías. Nadie lo conocía. Desde entonces Kal se fijaba en quién se paraba afuera del Patio. Chiara lo sabía desde hacía semanas, y ese mismo día había mandado a un niño a pararse justo ahí.
 
 Kal no tardó una hora. No subió a la oficina ni preguntó por ella. Lo vio desde la escalera del entrepiso cruzar el piso de juego con la ropa del taller y el papel doblado en la mano, derecho a la caja, y esperar a que Kenji despachara al último de la fila.
 
@@ -97,7 +98,7 @@ Lo llevó a la franja entre la caja y el pasillo de servicio, donde el ruido de 
 
 No le preguntó cómo se había enterado. No le dijo que el chico estaba bien pagado.
 
-—Tienes razón. No vuelve a pasar. Tienes mi palabra.
+—No vuelve a pasar. Tienes mi palabra.
 
 Kal traía algo más. Se le notó en cómo se quedó con el papel en la mano y sin la siguiente pregunta.
 
@@ -107,7 +108,7 @@ Kal traía algo más. Se le notó en cómo se quedó con el papel en la mano y s
 
 —Pudiste llamarme.
 
-—Ésta no la pensé lo suficiente, y el chico pagó el precio de que no la pensara. Eso no tiene defensa, y no la voy a inventar.
+—Ésta no la pensé lo suficiente, y el chico pagó el precio de que no la pensara.
 
 Kal le dio vuelta al papel entre los dedos, todavía doblado.
 
@@ -117,7 +118,7 @@ Kal le dio vuelta al papel entre los dedos, todavía doblado.
 
 —¿Y él sabe lo que dice? —No miró hacia la caja.
 
-—No. Sabe escribir cuatro palabras; leer, ninguna. —Se adelantó a las dos preguntas que venían, porque las veía venir en orden, como venían siempre las de Kal—. El chico tampoco sabe qué dice. Y cómo se llama —ahí tardó un segundo más que en lo demás— no lo sé yo. Lo sabe Kenji. Así está hecho.
+—No. Kenji sabe escribir unas palabras; leer, ninguna. El chico tampoco sabe qué dice. Y cómo se llama —ahí tardó un segundo más que en lo demás— no lo sé yo. Lo sabe Kenji. Así está hecho.
 
 Kal levantó la vista. A diez metros, Kenji cambiaba fichas sin voltear hacia ellos ni una vez.
 
@@ -157,7 +158,7 @@ Un mesero salió por la puerta batiente con una bandeja de copas, y Kal tuvo que
 
 No sonó a defensa. Sonó a inventario, y a Chiara se le fue la cara a algo que tuvo que guardar enseguida. Miró el piso, la caja, a Kenji, y otra vez a él.
 
-—Preguntó ese nombre en voz alta. En tu patio. Delante de quien estuviera. —Se pasó la uña del pulgar por el filo de otra—. Ya no mando a nadie a buscar a nadie. De ahora en más, si tengo que llegarte algo, lo traigo yo.
+—El chico preguntó ese nombre en voz alta. En tu patio. Delante de quien estuviera. —Se pasó la uña del pulgar por el filo de otra—. Ya no mando a nadie a buscar a nadie. De ahora en adelante, si tengo que llegarte algo, lo traigo yo.
 
 Kal no contestó. Abrió la boca para otra cosa, cuántos, quiénes, en qué pisos, ella se lo vio, y la cerró.
 
@@ -265,7 +266,7 @@ Extendió los tres papeles sobre la mesa —el de la gasolinera, el del sur, el 
 
 No era una acusación todavía. Era peor: era una dirección. Alguien en Calle Corona había decidido que el Peugeot rojo merecía un nombre y tenía dos igual de convenientes, uno porque su historial lo hacía fácil de creer y el otro porque nadie en San Aurelio sabía de él lo suficiente para dudar. Lo que los papeles no decían, y Chiara sí sabía, era quién les había llevado el segundo.
 
-Sacó también el de la costa. Una subjefa que firmaba los casos de Calle Corona y cenaba con alguien que pagaba en efectivo. Ya tenía la pregunta: el caso de Kal iba a terminar en su escritorio. Con eso se podía hacer ruido, y el ruido se iba a oír en el mismo despacho donde estaba el nombre de Kal.
+Sacó también el de la costa. Una subjefa que firmaba los casos de Calle Corona y cenaba con alguien que pagaba en efectivo. Ahora sabía para qué lo había guardado: el caso de Kal iba a terminar en su escritorio. Con eso se podía hacer ruido, y el ruido se iba a oír en el mismo despacho donde estaba el nombre de Kal.
 
 Lo devolvió al cajón.
 
@@ -337,7 +338,7 @@ Kal no la miró. Miró el auto, el carrito, el trapo, y Chiara lo vio sacar una 
 
 —¿A quién le debes esto?
 
-Chiara alisó el doblez de la hoja contra la rodilla, con la uña, dos veces, y le contestó como quien da un saldo que ya tiene cuadrado: tres favores, a tres personas que no se conocían entre sí, y ninguno con el nombre de él escrito en ningún lado.
+Chiara alisó el doblez de la hoja contra la rodilla, con la uña, dos veces, y le dio el saldo: tres favores, a tres personas que no se conocían entre sí, y ninguno con el nombre de él escrito en ningún lado.
 
 —Pero con el tuyo.
 
