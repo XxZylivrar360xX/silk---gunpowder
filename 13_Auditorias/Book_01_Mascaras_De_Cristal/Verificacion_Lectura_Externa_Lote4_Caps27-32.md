@@ -8,7 +8,7 @@ Rutas abreviadas (todas en `Part_02_Con_Peores_Personas_He_Tratado/`): `27` = [[
 
 ## Resultado en una línea
 
-Ningún ERROR DEMOSTRADO. Tres seguimientos documentales (favor de Irene sin amarre en el libro mayor, Danny en la mercancía de Irene, pasaje de Vivian como código) y el arrastre del lote 2 sigue abierto en parte.
+Ningún ERROR DEMOSTRADO. Dos seguimientos documentales (favor de Irene sin amarre en el libro mayor, pasaje de Vivian como código); Danny sigue con Irene por decisión del autor y el arrastre del lote 2 sigue abierto en parte.
 
 ## 1. Caps. 27–28: Halbrook, Nadir y Camp Alder — CANON CONFIRMADO / SIEMBRA CON PAGO
 
@@ -34,7 +34,7 @@ Ningún ERROR DEMOSTRADO. Tres seguimientos documentales (favor de Irene sin ama
 - **(a) La silla — SIEMBRA CON PAGO.** Opera desde el 30 (el teléfono de Varek, el arrastre del sedán). Se paga con las armas, entregadas doce días tarde en el nuevo 43 (*Intereses*).
 - **(b) El favor de Chiara (es con Varek, no con Irene) — SIEMBRA CON PAGO.** Callado en el loft, revelado en Las Gemelas (28:247–277); presente en el 31 (31:63, 31:143). Crece en el 43 («el favor del nuevo 26, ampliado», [[02_Characters/Dario_Varek]]) y se salda en el VII ([[11_Books/00_Libro_Mayor_Deudas_Saga]], B2). Que Chiara vuelva a callar en el 43 tras «Pero ya no a ciegas» (28:439) es deliberado («prometer compartir y volver a callar»).
 - **(c) El favor de Kal a Irene — SIEMBRA CON PAGO, sin amarre escrito.** La deuda del nombre cerró en el 22b; «Ahora sí me debe» (30:228) es nueva. *Sombras de Poder* bosqueja el cobro: «La Ronda del Canal le pide ayuda… Kal, que le debe, dice “todavía no”» (`11_Books/Book_02_Sombras_De_Poder/00_Estructura_48_Capitulos.md:171`); después La Ronda es la primera banda en llegar a Kal (:362). **Seguimiento:** anotar en el libro mayor que esa línea cobra el favor del Cap. 30.
-- **Danny — PENDIENTE (ya en [[98_Agent_Handoff/BACKLOG]]).** El trato del Cap. 16 comprometía a Nadir y a Danny; Irene libera sólo a «su muchacho» (30:210). Decide el autor si se cierra con una línea en el 30 o después.
+- **Danny — RESUELTO (DECISIÓN DEL AUTOR, 2026-11-22).** El trato del Cap. 16 comprometía a Nadir y a Danny; Irene libera sólo a «su muchacho» (30:210) y Danny sigue trabajando para ella. Sin cambio de prosa: el 30 ya lo dice así.
 
 ## 4. Caps. 28–32: Marisol, Vivian y Kenji — CANON CONFIRMADO, con un PENDIENTE DELIBERADO
 

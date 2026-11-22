@@ -41,9 +41,8 @@ Actualizado: 2026-10-29 (diferidos desde PENDING; antes 2026-10-14). Lectura por
   - **Fichas limpias (2026-10-22):** dudas del mantenimiento en Volpi (mesa tres; "Libro III" por *Cuentas de Sangre*), Livia (Palermo; qué sabe), Fabrizio ("sólo habla en el Cap. 2 (archivo 02)"; su familia) y Tommaso (dos PENDIENTES que el canon parece resolver).
   - **Decide el autor:** ¿el puño de la camisa es exclusivo de los Lusardi (29, Dario; 1, Kal)? ¿Se ajusta en el 4:248 «el apellido de su hermano como cuchillo», ahora que el cuchillo es "Bellandi"?
   - **Parte III:** "Parte IV" en H8; bloques del Book Map; el traslado (49; 43:177, 187); la camioneta (48; 42:40).
-  - **Parte II:** H6 §5/§7, H7, 36 (31:23) y Danny en la mercancía de Irene; Cap. 35, bajar la certeza del plan contra Varek; revisión final del 30.
+  - **Parte II:** H6 §5/§7, H7, 36 (31:23); Cap. 35, bajar la certeza del plan contra Varek; revisión final del 30.
   - **Cap. 12 (archivo 10) (decisión del autor, 2026-10-27):** contemplativo por función; sin poda general de la obra. Solo cortes puntuales que el autor marque en lectura.
-  - **Danny y la deuda con Irene (revisar al llegar al Cap. 37):** en el 20 el trato compromete a los dos; en *Línea directa* (archivo 32) Irene libera sólo a Nadir y cambia lo pendiente por un favor de Kal. Falta una resolución equivalente para Danny. No rompe el 20.
   - **Bonnie:** la numeración vieja de libros en su ficha la corrige el autor.
   - **Mantenimiento:** carpetas de uso bajo, sólo tras contrastar dependencias. Buzón ChatGPT: notas 2026-10-05 a 14, procesadas, siguen en `ChatGPT/`; archivar sólo con orden del autor.
 - **Movidos íntegros de PENDING (2026-11-09, rotación; sin resolver):**

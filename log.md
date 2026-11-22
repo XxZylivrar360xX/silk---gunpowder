@@ -4,7 +4,7 @@ El detalle se guarda una sola vez en notas de sesión. Este archivo es navegaci�
 
 ## Sesiones recientes
 
-- 2026-11-22: Libro I, caps. 27–32: lectura externa 4/6 verificada (sin cambios de prosa ni errores demostrados); seguimientos: favor de Irene sin amarre en el libro mayor, Danny en la mercancía de Irene, pasaje de Vivian como código: [[13_Auditorias/Book_01_Mascaras_De_Cristal/Verificacion_Lectura_Externa_Lote4_Caps27-32]]
+- 2026-11-22: Libro I, caps. 27–32: lectura externa 4/6 verificada (sin cambios de prosa ni errores demostrados); seguimientos: favor de Irene sin amarre en el libro mayor y pasaje de Vivian como código; DECISIÓN DEL AUTOR: Danny sigue moviendo mercancía para Irene: [[13_Auditorias/Book_01_Mascaras_De_Cristal/Verificacion_Lectura_Externa_Lote4_Caps27-32]]
 - 2026-11-22: Libro I, caps. 20–26: lectura externa 3/6 verificada (sin cambios de prosa); PENDIENTES del autor: Ferreyra sin pago tras el 24 y el Peugeot con vinil gris frente al rojo del 37 del II: [[13_Auditorias/Book_01_Mascaras_De_Cristal/Verificacion_Lectura_Externa_Lote3_Caps20-26]]
 - 2026-11-22: Libro I: cerrada la lectura corrida para el presellado (Lucía y la puerta abierta en el 15, dos semanas en el 31, prestación en el 6, Bonnie seca en el 37, Mabel y Valenti en el 45, piedras en el 15, aretes en el 33, «grifo» fuera; `CLAUDE.md` en 47 caps.): [[98_Agent_Handoff/sessions/2026-11-22_claude_cierre_lectura_corrida]]
 - 2026-11-22: Libro I, caps. 10–19: lectura externa 2/6 revisada; aplicadas tres microediciones (causa de la vuelta al penthouse en el 12, Héctor sin triple insistencia en el 14, réplica reiterativa fuera del 15); vigilar Ochoa y la tarjeta de Dario: [[98_Agent_Handoff/sessions/2026-11-22_claude_lectura_externa_lote2_caps10-19]]
