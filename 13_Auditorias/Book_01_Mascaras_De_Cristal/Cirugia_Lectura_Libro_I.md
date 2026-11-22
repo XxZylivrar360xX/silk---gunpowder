@@ -67,7 +67,8 @@ Plan de trabajo, en marcha desde el 2026-11-21 (DECISIÓN DEL AUTOR sobre el mé
 - ~~Cap. 25: «Una semana antes»~~ resuelto («No hacía ni dos semanas»).
 - ~~Cap. 26: «neurólogo»~~ resuelto («La neurocirujana»).
 - Lenguaje neutro (DECISIÓN DEL AUTOR, 2026-11-21: «todo hay que neutralizarlo»): «¿vale?» pasa a «¿sí?» (hechos el 23 y el 27); «arcén» a «acotamiento»; «grifo» a «llave». Quedan «grifo» en los caps. 2 y 8 (archivos `02` y `07`), para la pasada final; revisar cada capítulo que siga.
-- Cap. 28: el 27 deja las fotos en la barra del loft; el encabezado del 27 las pone en el Lancia al cierre (costura con el 28).
+- ~~Cap. 28: las fotos en la barra del loft~~ resuelto («Las recogí de la barra antes de salir»).
+- «Me explico» de Chiara: sale el del 28; quedan el 27, el 31 y el 32. Dejar uno o dos al operar el 31 y el 32.
 - Cap. 33: revisar otra vez la apertura (costura 32→33: la amenaza de los aretes se cobra con «No te muevas de ahí») cuando la sesión de la Parte II cierre el 32. Arrastres de la II hacia la III: se atienden al final de la III (DECISIÓN DEL AUTOR, 2026-11-21).
 - Peugeot → Audi «la noche de la incursión»: la línea está en el cap. 39 (archivo `43_La_Puerta`, «subió al Peugeot»), no en el 35; se atiende al llegar al 39.
 
@@ -100,7 +101,7 @@ Plan de trabajo, en marcha desde el 2026-11-21 (DECISIÓN DEL AUTOR sobre el mé
 | 25 | Libros abiertos | `25_Libros_Abiertos` |  | hecho, BORRADOR | ver git log |
 | 26 | Me encuentro bien | `26_Me_Encuentro_Bien` |  | hecho, BORRADOR | ver git log |
 | 27 | Una silla | `29_El_Patio_Ajeno` |  | hecho, BORRADOR | ver git log |
-| 28 | Media baraja | `30_Media_Baraja` |  | pendiente | |
+| 28 | Media baraja | `30_Media_Baraja` | fotos (costura 27→28) | hecho, BORRADOR | ver git log |
 | 29 | Vamos a casa | `31_Vamos_A_Casa` |  | pendiente | |
 | 30 | Línea directa | `32_Linea_Directa` |  | pendiente | |
 | 31 | Lo único que es mío | `33_Mas_De_La_Cuenta` |  | pendiente | |

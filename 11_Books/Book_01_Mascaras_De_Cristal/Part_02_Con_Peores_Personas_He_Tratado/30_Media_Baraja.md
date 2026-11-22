@@ -1,10 +1,11 @@
 <!--
+CIRUGÍA DE LA LECTURA (2026-11-21, [[98_Agent_Handoff/sessions/2026-11-21_claude_cirugia_lectura_cap28]]; sigue BORRADOR): restituido lo que tocaron los barridos (la fórmula de la silla «—No.», «¿Y qué le vas a decir?», «—Ya sé.», «Eso no toca lo de Halbrook»); fuera las glosas del eco, de la fotografía completa y de la baraja, y la coletilla de Kal en el loft (DECISIÓN DEL AUTOR); las placas de Virginia ya se dijeron en el 27; las fotos, recogidas de la barra; tiempos, sujetos y la multa de hace tres noches. Las líneas canon de abajo, intactas.
 LECTOR PARTE II (2026-11-08, [[98_Agent_Handoff/sessions/2026-11-08_claude_observaciones_lector_parte_II]]; DISEÑO, espera lectura): la multa ya salió en el loft (27): se corrige la apertura y se quita su recapitulación; se comprime lo ya visto en el patio de Varek; Chiara pregunta el nombre del de Eagle Eye; «Alrededor» / «Ya sé» deja la contradicción a la vista.
 Renumerado 2026-11-08 (nuevo cauce, Parte II): antes Cap. 34.
 NUEVO CAUCE, Fase 4 (2026-11-08; [[98_Agent_Handoff/encargos/ENCARGO_Fase4_Parte_II]], reasignación): pasa a ser el **nuevo Cap. 28** (tarjeta T15, POV Chiara único, «Reescribe»). Estado: BORRADOR; lo nuevo es DISEÑO. ~4,150 → ~3,750 palabras. Versión anterior íntegra: [[11_Books/Book_01_Mascaras_De_Cristal/Escenas_Eliminadas/30_Media_Baraja_Version_2026-11-08]]. Detalle: [[98_Agent_Handoff/sessions/2026-11-08_claude_fase4_cap28_media_baraja]].
 DECISIONES DEL AUTOR (2026-11-08): (1) Kal se entera en Las Gemelas, y no en el loft, del favor que Chiara le debe a Varek: en el loft él la cortó con «Varek me tiene sin cuidado» y ella se guardó el favor. SUPERSEDIDO EN PARTE (2026-11-08, decisión del autor al propagar la Parte II; [[98_Agent_Handoff/sessions/2026-11-08_claude_propagacion_parte_II]]): esta decisión decía también que se guardaba la multa; manda el 27, en el que Chiara cuenta la multa en el loft y sólo calla el favor. Se ajustaron tres líneas (DISEÑO): «Lo de la multa —dijo Chiara—…», «¿Y qué te pidió Varek por enseñártela?» y «La multa no me la regaló…». (2) Kal vio a Halbrook en persona, fuera de página; aquí lo cuenta él.
 VIGENTE SOBRE LO DE ABAJO: sale la coda en POV Kal (la reunión de El Patio sale de página; el nuevo 29 la cuenta en el coche), así que la EXCEPCIÓN DE POV queda sin efecto. Sale el párrafo de «*Lo vas a hacer tú*» (la línea de Varek salió en el 26). Entra lo del archivo 27, retirado ([[11_Books/Book_01_Mascaras_De_Cristal/Escenas_Eliminadas/27_Riesgo_Pendiente_Version_2026-11-08]]), contado por Kal: la llamada de las tres, el coche de las seis, la oficina al noreste pasando Kingsley, la hoja de Nadir («un papel, y los papeles los mueve él»), la versión de la carpeta de la corte marcial (la de Kal no se cuenta), «riesgo pendiente», «Un recordatorio. No un castigo» y el costado en las curvas. Chiara oye aquí «Camp Alder» por primera vez.
-DISEÑO del agente (espera lectura): (a) apertura por residuo del 27: «Estás loco», las luces de freno y la bifurcación, y lo que Chiara no dijo en el loft; (b) el sedán: Chiara da las placas de Virginia y la empresa fantasma, y Kal lo pone junto a Halbrook («Gente que se renta. Contratistas»); difiere de dónde sacó la multa («Termina tú primero»); (c) después de «Bellandi no», Chiara cuenta el hipódromo y el favor «a mi nombre, no a nombre del Monarch»; los dos descubren que Varek los tiene a ambos y sabía lo del otro («Te dijo que sí porque ya te tenía»); (d) Kal dice «Eso no lo vas a pagar sola», se da cuenta, y cede: «Es tuya» (pago de «no decidas por mí»); «Ahora sí. Ya está completa»; (e) el pacto suma «lo que le debemos, se lo pagamos cada uno. Pero ya no a ciegas»; (f) eco no dicho de «Con quién ceno…» (26) en «nadie más decide con quién cenas»; (g) el cierre añade que en el barrio lo esperan cuatro hombres.
+DISEÑO del agente (espera lectura): (a) apertura por residuo del 27: «Estás loco», las luces de freno y la bifurcación, y lo que Chiara no dijo en el loft; (b) el sedán: Chiara da las placas de Virginia y la empresa fantasma, y Kal lo pone junto a Halbrook («Gente que se renta. Contratistas»); difiere de dónde sacó la multa («Termina tú primero»); (c) después de «Bellandi no», Chiara cuenta el hipódromo y el favor «a mi nombre, no a nombre del Monarch»; los dos descubren que Varek los tiene a ambos y sabía lo del otro («Me dijo que sí porque ya te tenía», corregido el pronombre el 2026-11-21); (d) Kal dice «Eso no lo vas a pagar sola», se da cuenta, y cede: «Es tuya» (pago de «no decidas por mí»); «Ahora sí. Ya está completa»; (e) el pacto suma «lo que le debemos, se lo pagamos cada uno. Pero ya no a ciegas»; (f) eco no dicho de «Con quién ceno…» (26) en «nadie más decide con quién cenas»; (g) el cierre añade que en el barrio lo esperan cuatro hombres.
 Costura con el nuevo 27 (ya escrito; revisada 2026-11-08): en el loft Kal no cuenta a Halbrook; Chiara le cuenta la multa y que Varek se la enseñó, y se calla el favor cuando él dice «Varek me tiene sin cuidado»; las fotos de los Bravos quedan en la barra y él se las reprocha; Chiara las recoge y sigue a Kal en el Lancia; en el patio llega después de «Bellandi no» y de lo de Vivian y la pelirroja; Varek dice «Tu Chiara se mantiene limpia»; «Estás loco» en la reja; luces de freno en la recta de Lomas de San Jacinto y el norte en la bifurcación. Si el 27 cambia algo de esto, se ajusta aquí.
 Cierre: engancha con el nuevo 29 (archivo 31), que ya existe y no se tocó.
 LÍNEAS CANON intactas: «Se llama Warren Halbrook… Fue mi comandante.»; «—Si para que tú puedas ver a quien tú quieras, yo tengo que vender mi alma a un diablo… bueno, con peores personas he tratado.»; «Y no. Hoy no traigo mariposas.».
@@ -83,11 +84,11 @@ Chiara esperó.
 
 Chiara no lo interrumpió. Había aprendido, con este hombre en particular, que interrumpir era la forma más rápida de que dejara de hablar.
 
-—Fue él quien me sacó de la ciudad. No Varek. —Se lo dijo directo—. Me llamaron a las tres de la mañana, desde un número de otro estado. A las seis había un coche para mí en el estacionamiento sur. Llevé el mío. Al noreste, pasando Kingsley. Cuatro horas.
+—Fue él quien me sacó de la ciudad. No Varek. —Se lo dijo directo—. Me llamaron a las tres de la mañana, desde un número de otro estado. A las seis había un coche esperándome en el estacionamiento sur. Lo seguí en el mío. Al noreste, pasando Kingsley. Cuatro horas.
 
 Movió apenas los dedos sobre la rodilla, como si contara postes.
 
-—Un sitio que en los mapas sale como campo. Una oficina con un escritorio de metal y un calendario de llantas atrasado tres meses. Él de pie, junto a un archivero. Quería que vuelva a trabajar para él. O que entregue a Nadir. —Kal no suavizó ninguna de las dos—. Me enseñó una hoja. El nombre completo de Nadir, su país, el día que entró. Dijo que hoy es un expediente limpio y que está a un sello de dejar de serlo. Que no hay favor ni dinero que lo arregle. Que es un papel, y que los papeles los mueve él. Tiene con qué hacer que a Nadir lo saquen del país en una semana, y lo sabe, y me lo dijo como si me estuviera haciendo el favor de explicármelo.
+—Un sitio que en los mapas sale como campo. Una oficina con un escritorio de metal y un calendario de llantas atrasado tres meses. Él de pie, junto a un archivero. Quería que volviera a trabajar para él. O que le entregara a Nadir. —Kal no suavizó ninguna de las dos—. Me enseñó una hoja. El nombre completo de Nadir, su país, el día que entró. Dijo que hoy es un expediente limpio y que está a un sello de dejar de serlo. Que no hay favor ni dinero que lo arregle. Que es un papel, y que los papeles los mueve él. Tiene con qué hacer que a Nadir lo saquen del país en una semana, y lo sabe, y me lo dijo como si me estuviera haciendo el favor de explicármelo.
 
 Chiara oyó el nombre de Nadir y lo dejó pasar sin tocarlo, por ahora. Había otra pregunta delante.
 
@@ -109,17 +110,13 @@ Kal no fingió no saber de qué hablaba.
 
 —No lo sé con certeza. Pero ahora sé a quién le conviene saber en todo momento dónde está Nadir.
 
-—Placas de Virginia.
+—Placas de Virginia —le recordó Chiara—. Y una empresa que no contesta el teléfono.
 
-Kal giró la cabeza hacia ella. Fue lo primero en toda la mañana que lo movió antes de que él lo decidiera.
+Kal giró la cabeza hacia ella y se quedó callado el tiempo que le tomó poner eso junto a algo que ella no veía. Después asintió una vez, muy poco, hacia el agua.
 
-—La empresa del sedán no contesta el teléfono —dijo Chiara—. Ya lo intenté.
+—Así trabaja él. Gente que se renta. Contratistas. Nadie que firme con su nombre. —Ahora sí la miró—. ¿Y qué te pidió Varek por enseñarte la multa?
 
-Kal se quedó callado el tiempo que le tomó poner eso junto a algo que ella no veía. Después asintió una vez, muy poco, hacia el agua.
-
-—Así trabaja él. Gente que se renta. Contratistas. Nadie que firme con su nombre. —Ahora sí la miró—. ¿Y qué te pidió Varek por enseñártela?
-
-—Te lo iba a contar anoche.
+—Te lo iba a contar en el loft.
 
 —Chiara.
 
@@ -127,23 +124,23 @@ Kal se quedó callado el tiempo que le tomó poner eso junto a algo que ella no 
 
 Kal sostuvo la mirada un segundo, midiendo si eso era una evasiva o un turno. Decidió que era un turno, y lo respetó.
 
-—No estabas viendo cosas que no existían —dijo—. Estabas viendo bien. Lo que te faltaba te lo escondí yo, y eso es mío, no tuyo.
+—No estabas viendo cosas que no existían —dijo—. Estabas viendo bien. Lo que te faltaba te lo escondí yo.
 
 —¿Y los golpes?
 
-—Un recordatorio. —Kal se llevó la mano a la ceja sin darse cuenta y la bajó al ver que ella lo notaba—. No un castigo. Así los administra: mide exactamente cuánto hace falta para que uno entienda dónde está parado, y ni un gramo más. Él ni siquiera estaba en el cuarto. Se fue antes. Desde el pasillo me dijo que manejara con cuidado, que me iba a doler el costado en las curvas. —Se tocó el costado, por si quedaba duda—. Me dolió en todas.
+—Un recordatorio. —Kal se llevó la mano a la ceja sin darse cuenta y la bajó al ver que ella lo notaba—. No un castigo. Así los administra: mide exactamente cuánto hace falta para que uno entienda dónde está parado, y ni un gramo más. Él ni siquiera estaba en el cuarto. Al salir, desde el pasillo, me dijo que manejara con cuidado, que me iba a doler el costado en las curvas. —Se tocó el costado—. Me dolió en todas.
 
 Chiara no sonrió. Casi.
 
 —¿Por qué no me lo dijiste en el loft?
 
-—Porque no vi ninguna salida que no pusiera a Nadir en la línea de fuego. —La miró, sostenido—. Y porque si te lo contaba, dejaba de ser mi problema y pasaba a ser nuestro problema, y llevo toda la vida sin saber compartir eso con nadie.
+—Porque no vi ninguna salida que no pusiera a Nadir en la línea de fuego.
 
 —¿Nadir lo sabe?
 
 —Todavía no. —Algo se le tensó en la mandíbula—. Tengo que hablar con él en cuanto volvamos. Con él, con Walt, con Danny, con Héctor. No he visto a nadie desde que me fui.
 
-—¿Y ahora sí?
+—¿Y por qué a mí ahora sí?
 
 —Ahora ya fui a pedirle una puerta a un hombre que no regala nada. —Una sonrisa corta, sin alegría, más cerca del cansancio—. No puedo pedirte que estemos en esto juntos y guardarme la mitad de la baraja. No después de esto.
 
@@ -153,7 +150,7 @@ Chiara se quedó con eso un momento largo, escuchando el agua.
 
 No sintió el impulso de reclamarle nada, y eso la sorprendió un poco de sí misma. Entendía por qué lo había hecho —la lógica era tan limpia que casi dolía verla completa: un hombre sin salidas va a golpear la única puerta que conoce— y entender no era lo mismo que estar contenta.
 
-—No me gusta —dijo, al fin—. Que decidas solo cuánto me cuentas y cuándo. Que Nadir haya sido la correa con la que te movieron y que yo me entere hasta ahora, en una roca, y no en casa.
+—No me gusta —dijo, al fin—. Que decidas solo cuánto me cuentas y cuándo. Que Nadir haya sido la correa con la que te movieron y que yo me entere hasta ahora, en una roca, y no en el loft.
 
 —Lo sé.
 
@@ -195,7 +192,7 @@ Chiara lo miró un momento.
 
 —No le pediste la silla.
 
-Kal negó con un dedo, sin levantar la mano de la rodilla.
+—No.
 
 —Hiciste que te la ofreciera.
 
@@ -219,7 +216,9 @@ No era pregunta, y Kal no la contestó.
 
 —Ni siquiera le di el nombre.
 
-—Y nada de eso toca lo de Halbrook —dijo—. Me explico: lo que pusiste en la mesa es tu gente, y lo que necesitas es una base al noreste. No es la misma cuenta.
+Chiara miró la caída de la izquierda, la más delgada, el tiempo que tardó en poner a Nadir y a Halbrook en la misma cuenta.
+
+—Eso no toca lo de Halbrook —dijo.
 
 —No. No toca el expediente, no toca el papel, no toca Camp Alder. Compra presión local. Gente. Si alguien intenta algo contra Nadir en esta ciudad, primero tiene que pasar por Varek. Nada más.
 
@@ -235,17 +234,17 @@ Chiara no se movió.
 
 —Porque si te mete en el barro, dejas de escuchar lo que escuchas ahora. Le dije que estaba protegiendo un activo. —Una pausa—. Era verdad. No era toda la verdad.
 
-Se le fueron los dedos al arete. Lo giró una vez y no lo soltó.
+A Chiara se le fueron los dedos al arete. Lo giró una vez y no lo soltó.
 
 —¿Y qué te contestó?
 
-—Que tu Chiara se mantiene limpia. —Kal arrugó la boca al repetirlo, por el *tu*—. Lo dijo muy rápido. Como si le diera lo mismo.
+—Que tu Chiara se mantiene limpia. —Kal arrugó la boca al repetirlo, por el *tu*—. Como si le diera lo mismo.
 
 —Le daba lo mismo.
 
 Kal esperó.
 
-—La multa no me la regaló —dijo Chiara—. Cuando subí a su oficina, encima del palco, creía que él te tenía. No te tenía. Lo que tenía era ese papel en un cajón, del coche que lleva una semana estacionándose en tu esquina, y no me dijo cómo lo consiguió. —Soltó el arete—. Me lo cobró.
+—La multa no me la regaló —dijo Chiara—. Cuando subí a su oficina, encima del palco, creía que él te tenía. No te tenía. Lo que tenía era ese papel en un cajón, del coche que se estacionó en la calle de El Patio hace tres noches, y no me dijo cómo lo consiguió. —Soltó el arete—. Me lo cobró.
 
 —¿Y cuánto te cobró por un papel?
 
@@ -253,7 +252,7 @@ Kal esperó.
 
 Kal no dijo nada. Chiara lo vio armarlo, despacio, en la cara, sin que la cara hiciera casi nada: el patio, la silla, «Bellandi no», y un hombre con un vaso de bourbon en la mano aceptando sin discutir que la mantuviera limpia, porque desde el día anterior ya tenía, guardado en un cajón, el pagaré.
 
-—Te dijo que sí porque ya te tenía —dijo él.
+—Me dijo que sí porque ya te tenía —dijo él.
 
 —Nos tiene a los dos. A ti por la silla, a mí por la multa. —Chiara lo dijo como se lee un balance—. Y cada uno de nosotros fue solo a deberle.
 
@@ -277,7 +276,7 @@ Era poco. Para él no era poco.
 
 —Ahora sí —dijo Chiara—. Ya está completa.
 
-Kal no preguntó qué. Los dos sabían de qué baraja hablaba.
+Kal no preguntó qué.
 
 ***
 
@@ -285,19 +284,19 @@ Kal no preguntó qué. Los dos sabían de qué baraja hablaba.
 
 Chiara lo miró, sorprendida a medias. Horas antes esas mismas fotografías habían sido el centro de todo lo que él le reprochaba.
 
-—En el Lancia.
+—En el Lancia. Las recogí de la barra antes de salir.
 
-—¿Puedo verlas otra vez? Esta vez sin gritarte.
+—¿Puedo verlas otra vez? Esta vez sin reclamarte.
 
-Fue por el sobre y volvió, y se sentaron con las copias extendidas sobre la piedra plana, sujetas con dos guijarros para que el viento del cañón no se las llevara. Kal las miró de nuevo, más despacio que la primera vez, y esta vez habló mientras miraba.
+Chiara fue por el sobre y volvió, y se sentaron con las copias extendidas sobre la piedra plana, sujetas con dos guijarros para que el viento del cañón no se las llevara. Kal las miró de nuevo, más despacio que la primera vez, y esta vez habló mientras miraba.
 
 —Esta calle desemboca en el desagüe viejo. Salida rápida si algo se complica; la mitad de la gente que se mueve en esa cuadra la conoce, la otra mitad no. —Tocó otra foto con un dedo, sin levantarla—. Este auto no es de nadie del barrio. Y esa nave de atrás tuvo dueño hace dos años, antes de que la ciudad la embargara; sigue siendo territorio que alguien quiere.
 
 Chiara se inclinó sobre la misma foto.
 
-—Ese hombre —dijo, señalando al segundo de los tres— trabaja para una empresa de transporte que factura al casino cada quince días. Y ése —el tercero— le debe dinero a alguien que conozco, aunque todavía no sé a quién exactamente.
+—Ese hombre —dijo, señalando al segundo de los tres hombres de la foto— trabaja para una empresa de transporte que factura al casino cada quince días. Y ése —el tercero— le debe dinero a alguien que conozco, aunque todavía no sé a quién exactamente.
 
-Se quedaron así un momento. Ninguno de los dos había visto la fotografía completa hasta que la vieron juntos.
+Se quedaron así un momento.
 
 —¿Cómo consigues normalmente esta clase de cosas? —preguntó Kal—. Sin ir tú.
 
@@ -355,7 +354,7 @@ Kal la miró.
 
 Algo en cómo lo dijo hizo que Chiara bajara la fotografía que tenía en la mano.
 
-—Mencionó, de paso, a una pelirroja de un taller universitario. Discutían permisos de uso de suelo con un profesor. Dijo que tenía razón. —Dejó que el agua llenara un momento—. Es Marisol.
+—Mencionó, de paso, a una pelirroja de un taller universitario. Discutían permisos de uso de suelo con un profesor. Dijo que tenía razón. —Dejó que se oyera sólo el agua—. Es Marisol.
 
 —¿Por qué crees que es ella? Pelirrojas hay muchas.
 
@@ -375,7 +374,9 @@ Chiara se quedó quieta un segundo, haciendo el mismo cálculo que él ya había
 
 —Voy a hablar con ella.
 
-—¿Y qué le vas a decir? Porque Marisol no es Nadir, Kal. A Marisol no la pones bajo ningún nombre sin que te pida el contrato.
+Ya había sacado el teléfono de la chaqueta. Chiara vio el pulgar bajar por la pantalla, buscando un nombre.
+
+—¿Y qué le vas a decir?
 
 Kal no contestó enseguida.
 
@@ -389,7 +390,7 @@ Silencio.
 
 Kal se quedó con la mandíbula tensa un momento. Los dos acababan de verlo terminar, hacía unos minutos, sobre esa misma piedra.
 
-—No voy a llamarla —dijo—. Todavía no. No sin saber qué le voy a decir que no sea una orden con otro nombre.
+—No voy a llamarla —dijo, y guardó el teléfono—. Todavía no. No sin saber qué le voy a decir que no sea una orden con otro nombre.
 
 —Bien.
 
@@ -413,7 +414,7 @@ Chiara lo pensó apenas un segundo.
 
 —Alrededor —repitió Kal.
 
-—Ya sé que suena a lo mismo. No lo es.
+—Ya sé.
 
 Ninguno de los dos lo deshizo. Kal asintió una vez. Nada más.
 
@@ -431,9 +432,7 @@ Ninguno de los dos lo deshizo. Kal asintió una vez. Nada más.
 
 —Mientras tanto nadie más decide con quién cenas.
 
-Chiara no le dijo que el día anterior, en una oficina sobre la recta del hipódromo, ella había usado casi esas mismas palabras con el mismo hombre. Contestó lo otro:
-
-—Mientras aprendemos cómo funciona por dentro, i Sussurri puede decirnos con quién habla, a quién le debe favores, dónde le tiembla el negocio. Cosas que tú no vas a ver desde adentro porque las vas a estar viviendo, no observando.
+—Mientras aprendemos cómo funciona por dentro —dijo Chiara—, i Sussurri puede decirnos con quién habla, a quién le debe favores, dónde le tiembla el negocio. Cosas que tú no vas a ver desde adentro porque las vas a estar viviendo, no observando.
 
 —Y El Patio puede moverte lo que i Sussurri no puede: gente, coches, un lugar donde nadie pregunta.
 
@@ -481,6 +480,6 @@ Ya casi en los coches, sin voltear, como quien comenta el clima:
 
 Detrás de ella, Kal tropezó con una piedra que no estaba ahí.
 
-En la bifurcación de tierra donde el camino volvía a tener nombre, Chiara tomó la carretera de regreso hacia la ciudad, hacia el Monarch. Kal tomó la que llevaba al barrio, donde lo esperaban cuatro hombres y una conversación que le tocaba a él.
+En la bifurcación de tierra donde el camino volvía a tener nombre, Chiara tomó la carretera de regreso hacia la ciudad, hacia el Monarch. Kal tomó la que llevaba al barrio, donde tenía que juntar a cuatro hombres para una conversación que le tocaba a él.
 
 Ninguno de los dos miró el espejo.
