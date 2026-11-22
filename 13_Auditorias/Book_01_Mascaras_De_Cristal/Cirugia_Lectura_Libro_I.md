@@ -80,7 +80,7 @@ Plan de trabajo, en marcha desde el 2026-11-21 (DECISIÓN DEL AUTOR sobre el mé
 | 12 | La invitada | `10_El_Loft_Del_Soltero` | salida de la casa común (una línea) | hecho, BORRADOR | ver git log |
 | 13 | Roma Atrii | `12_Roma_Atrii` | redundancia POV (el 13 es la primera versión; se reduce en el 14) | hecho, BORRADOR | ver git log |
 | 14 | Con miedo y todo | `14_La_Regla_Del_Telefono` | redundancia POV (el chico de la cerca en una línea) | hecho, BORRADOR | ver git log |
-| 15 | Yo lo llevo | `15_El_Porton` | redundancia POV | pendiente | |
+| 15 | Yo lo llevo | `15_El_Porton` | redundancia POV (casino y cuarto en una línea) | hecho, BORRADOR | ver git log |
 | 16 | Canal Seco | `17_Cuentas_Claras` | redundancia POV; salto a junio | pendiente | |
 | 17 | Día nublado | `18_El_Dia_Nublado` | salto a junio | pendiente | |
 | 18 | En lo pequeño | `20_El_Mirador` |  | pendiente | |

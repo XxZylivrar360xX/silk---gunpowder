@@ -7,6 +7,7 @@ Ventana temporal: el fin de semana del infarto de Héctor (H10). Marco: el domin
 Lugares: Hospital Santa Aurelia (Calle Corona), calle de la casa de Héctor en La Almendra (vulcanizadora de la esquina, panadería de enfrente), The Monarch Casino & Hotel, La Casa (loft de Kal), Puente de Piedra.
 Función: Chiara salva a Héctor y el barrio empieza a pagarle a ella lo que le pagaba a Kal: la llave, el pan, el termo. El hombre de Crowe lo ve pasar de mano en mano. Ella se lo guarda y, en el coche, le pregunta a Kal por el campamento.
 Apertura por residuo: «Voy por algo de tomar» del 14; Chiara le da el cuarto a Kal y el termo que vuelve con ella «sin decir de dónde lo había sacado» tiene dueño.
+Cirugía de la lectura (2026-11-21; BORRADOR, espera lectura del autor): [[98_Agent_Handoff/sessions/2026-11-21_claude_cirugia_lectura_cap15]]. Restituido «Héctor gruñó. / —¿Y él qué no le ha contado a usted?» (el barrido le había dado un discurso; decisión del autor de la poda: Héctor sólo pregunta y gruñe). Transversal 4: el casino y el cuarto del domingo, ya contados en el 14, quedan en una línea cada uno («Matteo cubre el piso» vive en el 14). «al mensajero de guardia» (antes «susurros», sin presentar).
 Numeración: renumerado a «Capítulo 15» el 2026-11-08 al cerrar la Parte I (antes «Capítulo 16»).
 -->
 
@@ -94,7 +95,7 @@ No contestó. Volvió a llamar. Lo mismo.
 
 Se obligó a pensarlo despacio, como pensaba todo. Fuera de la ciudad, había dicho él, un día o dos. Llamó a Walt.
 
-Walt llegó antes de que ella terminara de explicarle bien qué había pasado, con la misma cara que Chiara imaginaba que tenía ella.
+Walt le colgó antes de que ella terminara de explicarle qué había pasado, y llegó al hospital con la misma cara que Chiara imaginaba que tenía ella.
 
 —Cuénteme todo —dijo, sentándose a su lado sin quitarse la chaqueta.
 
@@ -134,7 +135,7 @@ Chiara se fue pasada la medianoche, cuando ya no quedaba nada que esperar.
 
 ***
 
-El sábado pasó primero por la casa de Héctor. La había dejado abierta, con el pan en el suelo y la puerta como la había encontrado, y en toda la noche no se le había ocurrido a quién pedirle que la cerrara.
+El sábado pasó primero por la casa de Héctor, donde el Mercedes había pasado la noche. La había dejado abierta, con el pan en el suelo y la puerta como la había encontrado, y en toda la noche no se le había ocurrido a quién pedirle que la cerrara.
 
 El portón tenía un candado nuevo. El pan ya no estaba.
 
@@ -184,9 +185,9 @@ Chiara no contestó enseguida.
 
 —Hay cosas de donde vengo que él no conoce —dijo al final, mirando algún punto de la sábana en vez de a él—. Cosas que si las conociera, tal vez no me miraría igual. No sé si es justo arrastrarlo a eso sin que él sepa lo que arrastra.
 
-Héctor hizo un ruido con la garganta.
+Héctor gruñó.
 
-—Walt dice que el viernes usted le dio la dirección dos veces a la ambulancia, en orden, y que no soltó la mano de este viejo hasta que lo subieron. Eso no se aprende en un casino. —Se acomodó contra la almohada despacio, como quien no quiere que le cobren el movimiento—. Él tampoco viene de un convento. Lo que usted trae de su lado, él lo conoce del suyo, con otros nombres y peor pagado. Arrastrarlo, dice. —Gruñó otra vez—. ¿Y él qué no le ha contado a usted?
+—¿Y él qué no le ha contado a usted?
 
 Chiara no contestó. Se quedó otro rato, hablando de nada, hasta que se acabó la hora de visitas. En la puerta de la sala de espera, el de la vulcanizadora le preguntó a ella cómo seguía don Héctor, y otra vez se fue sin sentarse. Chiara salió con una pregunta que no era suya y que no se pudo quitar de encima en todo el camino.
 
@@ -208,13 +209,13 @@ Chiara asintió. Llevaba años asintiendo a todo lo que trajera adentro el nombr
 
 —Entonces, la de las once.
 
-Se fue sin despedirse. Chiara se quedó un momento mirando el marco vacío. Después, en su escritorio, sacó su papel de siempre, el bueno, el que olía a canela y vainilla, el mismo en el que llevaba meses escribiendo todo lo que de verdad importaba, y escribió lo que tenía que escribir. Metió la hoja en uno de los sobres del hotel, grueso, rojo, con el sello dorado del casino en la solapa: no hacía falta esconder este mensaje de nadie, y podía permitirse, por una vez, que se viera desde lejos. Lo cerró y trazó el nombre de Kal en tinta sobre la solapa. Llamó, por costumbre, a uno de los susurros de guardia.
+Se fue sin despedirse. Chiara se quedó un momento mirando el marco vacío. Después, en su escritorio, sacó su papel de siempre, el bueno, el que olía a canela y vainilla, el mismo en el que llevaba meses escribiendo todo lo que de verdad importaba, y escribió lo que tenía que escribir. Metió la hoja en uno de los sobres del hotel, grueso, rojo, con el sello dorado del casino en la solapa: no hacía falta esconder este mensaje de nadie, y podía permitirse, por una vez, que se viera desde lejos. Lo cerró y trazó el nombre de Kal en tinta sobre la solapa. Llamó, por costumbre, al mensajero de guardia.
 
 No llegó a dárselo.
 
 Se quedó con el sobre en la mano un momento de más, con la pregunta de Héctor todavía a cuestas, pensando en un chico de doce años parado frente a un desconocido en su propio territorio, cargando un papel que no entendía, y en lo que le había dicho a Kal hacía apenas unas semanas: que si alguna vez tenía que llegarle algo, se lo llevaba ella.
 
-—Yo lo llevo —le dijo al susurro, y se guardó el sobre en el bolsillo del abrigo antes de que nadie pudiera ofrecerse a ahorrarle el viaje.
+—Yo lo llevo —le dijo al mensajero, y se guardó el sobre en el bolsillo del abrigo antes de que nadie pudiera ofrecerse a ahorrarle el viaje.
 
 Manejó hasta la Almendra. Metió el sobre por debajo de la puerta de Kal sin abrirlo de nuevo, sin releerlo, sin darse el permiso de dudar de lo que había escrito.
 
@@ -226,19 +227,11 @@ El domingo no fue a montar.
 
 Le dejó dicho a Matteo que estaba en el entrepiso y se quedó ahí la tarde entera, con el teléfono boca arriba sobre la baranda y la vista en la puerta del estacionamiento. Volvió a marcar dos veces. La segunda ya no esperó a que saltara el buzón.
 
-Lo vio entrar pasadas las siete, con la ropa del campamento, las botas con tierra seca y la cara de alguien que acababa de leer algo de pie. Bajó antes de que él llegara a la escalera.
-
-Le dio el parte como lo había ordenado en la cabeza dos días: estable, las llamadas, Walt. Le dijo que Nadir y Danny tampoco contestaban, y lo vio guardarse eso sin abrirlo. Lo que vino después lo vio llegar. No le subió a la voz. Se le fue a los hombros, a la mandíbula, a los ojos, que recorrieron las mesas como si buscaran a quién cobrarle el fin de semana y no encontraran a nadie más que a él. Chiara le dijo su nombre una vez, y él se detuvo. Le dijo que Héctor estaba vivo, y que iba a estar molesto si llegaba gritando en vez de sentarse.
-
-Cuando él le pidió que lo llevara, ella ya tenía las llaves en la mano.
-
-—Matteo cubre el piso.
+Lo vio entrar pasadas las siete, con la ropa del campamento y la cara de alguien que acababa de leer algo de pie. Bajó antes de que él llegara a la escalera, le dio el parte como lo había ordenado en la cabeza dos días, y cuando él le pidió que lo llevara, ella ya tenía las llaves en la mano.
 
 ***
 
-En el cuarto, Héctor le dijo a Kal que se le veía peor a él, y no lo dejó terminar de explicar lo del cerro. Chiara le tocó el brazo a Kal, dijo que iba por algo de tomar y salió.
-
-Ahora tenía en la mano el termo de la señora de la vulcanizadora, y el patrón seguía junto a los elevadores, como si entregarlo no bastara y tuviera que verlo llegar.
+Ahora, en el pasillo del tercer piso, con Kal en el cuarto, tenía en la mano el termo de la señora de la vulcanizadora, y el patrón seguía junto a los elevadores, como si entregarlo no bastara y tuviera que verlo llegar.
 
 —Usted se lo da —dijo.
 
@@ -258,9 +251,7 @@ El viernes, la sala. El sábado, la llave y el pan. El domingo, el termo. Nada d
 
 Esa noche no se lo iba a decir. Kal iba a salir de ese cuarto con algo encima, lo que fuera, y no hacía falta ponerle otra cosa.
 
-Volvió con el termo y lo dejó en la mesita, cerca de la mano de Héctor, sin decir de dónde había salido. Kal tenía las manos apretadas entre las rodillas y la cara de alguien a quien acaban de quitarle una excusa. Ella no preguntó cuál. Le puso la mano en el hombro, y él levantó la suya y la puso encima, sin voltear a verla.
-
-Héctor los corrió antes de que lo hiciera la enfermera.
+Volvió con el termo al cuarto. Kal tenía la cara de alguien a quien acaban de quitarle una excusa, y ella no preguntó cuál. Héctor los corrió antes de que lo hiciera la enfermera.
 
 ***
 
@@ -294,7 +285,7 @@ Chiara no preguntó nada. Algo se le movió en la boca, y lo contuvo.
 
 —¿Le dijiste que sí?
 
-Kal asintió.
+Kal dijo que sí.
 
 Chiara no apartó los ojos del camino. Lo había contado sin que ella se lo preguntara, y en Kal eso era casi abrir una puerta.
 
