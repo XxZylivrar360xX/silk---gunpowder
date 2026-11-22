@@ -18,13 +18,14 @@ Provisional / a revisar con el autor:
 - Fabrizio no está en la sala de socios: está con Paola y la niña (CANON DEL AUTOR, 2026-10-28; que llamara dos veces a Chiara es DISEÑO). Su ausencia no debe leerse como alejamiento.
 - North Guard: Kal dice que su empresa está «en trámite». CANON DEL AUTOR (2026-10-28): sigue así todo el Libro I y se concreta en *Sombras de Poder*.
 - Cifras (82,400 registrados; «trescientos y algo» fuera de libros) y mecánica de la caja (sensor de horario que avisa a la central de Eagle Eye; doble fondo con lámina) son DISEÑO.
+Cirugía de la lectura (2026-11-21; BORRADOR, espera lectura del autor): [[98_Agent_Handoff/sessions/2026-11-21_claude_cirugia_lectura_cap20]]: apertura con el tiempo desde el 19 (cuatro días, domingo; DECISIÓN DEL AUTOR); la cuenta la sacó Chiara sola; gesto Varek en el pasillo, que Kal registra (DECISIÓN DEL AUTOR); horas de la patrulla y de la llegada de Kal; réplicas infladas por los barridos recortadas; Ferreyra sin «Argentino» ni «me saluda de lejos» (DECISIÓN DEL AUTOR).
 Pasada `editorial-surgery` 2026-10-28 (3 microediciones): [[98_Agent_Handoff/sessions/2026-10-28_claude_surgery_caps25_26_robo_monarch]].
 Microedición 2026-10-30 (estudio OP-03, autorizada por el autor): Lucía nombra los dos contratos de Kal (el del Departamento viene de *Auster*); Matteo dice «la de Dario» para no confundir con la subjefa. [[98_Agent_Handoff/sessions/2026-10-30_claude_estudio_op03_robo_monarch]].
 -->
 
 # Capítulo 20 — Algo más que dinero
 
-Chiara vio el robo dos veces antes de sentarse.
+Cuatro días después de Cuesta Bonita, en la madrugada del domingo, Chiara vio el robo dos veces antes de sentarse.
 
 La primera, de pie detrás del guardia de Eagle Eye, con el abrigo todavía en el brazo, porque la llamada la había alcanzado camino al elevador. La segunda, con la mano en el respaldo de la silla del guardia, sin pedirle que se moviera, y entonces ya no miró a los hombres sino lo que hacían las manos.
 
@@ -52,7 +53,7 @@ En la cámara del lote de servicio, un auto oscuro salía hacia la costera sur a
 
 —La central llamó a la policía a las tres cuarenta y siete —dijo el guardia—. Es automático. La caja tiene sensor de horario. La abrieron fuera de horario y el sensor avisó solo.
 
-Chiara miró el reloj de la pared. Faltaban ocho minutos para las cuatro.
+Chiara miró el reloj de la pared. Faltaban dos minutos para las cuatro.
 
 —¿Cuánto tarda la patrulla?
 
@@ -82,9 +83,9 @@ Del otro lado, un cajón. Unas llaves.
 
 —¿La policía ya va?
 
-—Viene. Entra por la carga.
+—Viene. Tú entra por la carga.
 
-—Voy. En veinte minutos estoy en la bahía.
+—Voy. Te veo en la bahía.
 
 No preguntó qué papeles. Colgó él primero.
 
@@ -110,13 +111,13 @@ Matteo metió la mano en el hueco, como si el libro pudiera seguir ahí y fueran
 
 —Chiara, eran las… —Bajó la voz, aunque estaban solos—. Si esto llega a Palermo… Si se enteran de que salieron de mi caja, no de la de Dario, de la mía… Tengo que llamar. No. No puedo llamar a nadie. *Madonna.* Tengo que…
 
-Chiara oyó *Palermo* y la cuenta se le hizo sola, en el orden en que se la habían dejado hecha hacía poco, en una colina. Primero lo que iba para Italia. Después el casino. Después Matteo, que estaba de rodillas en el piso de su propio despacho, que en ese orden quedaba tercero y que no tenía por qué saberlo.
+Chiara oyó *Palermo* y la cuenta se le hizo sola, en el orden en que la había sacado ella misma, de regreso de la colina. Primero lo que iba para Italia. Después el casino. Después Matteo, que estaba de rodillas en el piso de su propio despacho, que en ese orden quedaba tercero y que no tenía por qué saberlo.
 
 —Escúchame.
 
 Él la miró desde el piso.
 
-—Tenemos quince minutos y ya se fue la mitad —dijo ella—. Lo que está en el video no se puede borrar y no lo vamos a tocar. Dos hombres, una caja abierta y una bolsa. Eso pasó. Lo que todavía no pasó es cuánto había adentro.
+—Tenemos unos minutos, nada más —dijo ella—. Lo que está en el video no se puede borrar y no lo vamos a tocar. Dos hombres, una caja abierta y una bolsa. Eso pasó. Lo que todavía no pasó es cuánto había adentro.
 
 —Había…
 
@@ -208,7 +209,7 @@ La barra llegó al final. Charles le dio la memoria a Kal sin mirarlo, como quie
 
 ***
 
-En el lobby ya había más gente de la que había a las cuatro: los dos patrulleros, un técnico con un maletín de aluminio, dos guardias de Eagle Eye parados donde no estorbaban a nadie. Chiara esperaba junto a la recepción, con el abrigo puesto y el teléfono apagado en la mano.
+En el lobby ya había más gente que cuando llegó la patrulla: los dos patrulleros, un técnico con un maletín de aluminio, dos guardias de Eagle Eye parados donde no estorbaban a nadie. Chiara esperaba junto a la recepción, con el abrigo puesto y el teléfono apagado en la mano.
 
 Kal había subido detrás de ella por la escalera de servicio y se quedó a la distancia de un proveedor. Ella no lo miró. No le hacía falta para saber dónde estaba.
 
@@ -296,15 +297,15 @@ Lucía se puso de pie. Anotó algo en la libreta de espiral, algo más largo que
 
 —Sí, subjefa.
 
-No dijo nada más sobre la lámina. Chiara la vio ir hacia la ventana y mirar un momento la calle, con las manos en los bolsillos de la chaqueta, donde ya no había patrullas sino el primer camión de reparto del día subiendo por el Paseo.
+No dijo nada más sobre la lámina. Chiara la vio ir hacia la ventana y mirar un momento la calle, con las manos en los bolsillos de la chaqueta. Abajo, junto a las patrullas apagadas, subía por el Paseo el primer camión de reparto del día.
 
-En el pasillo, al otro lado del vidrio de la sala de capacitación, Kenji Oda estaba sentado frente a un patrullero, con las manos quietas encima de la mesa, contestando. Llevaba todavía el chaleco del Monarch. Desde ahí no se oía nada. Se veía que contestaba despacio y que no apartaba la vista.
+Desde la puerta del despacho se veía, al otro lado del pasillo y del vidrio de la sala de capacitación, a Kenji Oda sentado frente a un patrullero, con las manos quietas encima de la mesa, contestando. Llevaba todavía el chaleco del Monarch. Desde ahí no se oía nada. Se veía que contestaba despacio y que no apartaba la vista.
 
 ***
 
 Dario llegó a las seis y diez, afeitado, con abrigo y corbata, como si a esa hora hubiera tenido una cita y no una llamada.
 
-Lucía salía del despacho de Matteo cuando él llegó al final del pasillo. Los dos se detuvieron a la misma distancia de la puerta.
+Lucía salía del despacho de Matteo, con Chiara detrás, cuando él llegó al final del pasillo. Kal esperaba en una silla junto a la sala de juntas, con la carpeta de facturas de la grúa en las rodillas, porque nadie le había dicho que se fuera. Lucía y Dario se detuvieron a la misma distancia de la puerta.
 
 —Subjefa.
 
@@ -312,11 +313,13 @@ Lucía salía del despacho de Matteo cuando él llegó al final del pasillo. Los
 
 Dario inclinó la cabeza, apenas.
 
-Lucía siguió hacia los elevadores. Voss la alcanzó a medio pasillo, con la libreta abierta y la linterna todavía encendida en la otra mano, y ella se la apagó sin detenerse.
+Lucía pasó a su lado. Traía en el puño de la chaqueta una mancha del polvo gris del técnico, y Dario se la sacudió con dos dedos, sin mirarla a la cara y sin dejar de mirar la puerta del despacho, como quien lo ha hecho muchas veces. Ella no se detuvo ni se apartó. Siguió hacia los elevadores. Voss la alcanzó a medio pasillo, con la libreta abierta y la linterna todavía encendida en la otra mano, y ella se la apagó sin detenerse.
+
+Desde su silla, Kal había levantado la vista de la carpeta. La tuvo en Dario y después en Lucía, y Chiara vio que no la bajó hasta que ella llegó a los elevadores.
 
 ***
 
-La sala de juntas del piso de administración tenía una mesa para doce y nunca se usaba con más de cinco. A las siete y media había cuatro socios sentados y un hombre de pie. El quinto, Fabrizio, estaba con Paola y la niña; había llamado a Chiara dos veces antes de las siete.
+La sala de juntas del piso de administración tenía una mesa para doce y nunca se usaba con más de cinco. A las siete y media había cuatro socios sentados y dos hombres de pie. El quinto, Fabrizio, estaba con Paola y la niña; había llamado a Chiara dos veces antes de las siete.
 
 Kal se había quedado junto a la ventana, con la carpeta de facturas de la grúa bajo el brazo, que era lo único que explicaba qué hacía ahí. Chiara lo había hecho pasar con dos frases: el señor Mercer había presentado semanas atrás una propuesta de seguridad para el casino, y esta mañana el casino la iba a necesitar.
 
@@ -376,7 +379,7 @@ Kal no se movió de donde estaba.
 
 —Trabaja para quién, exactamente. —Tommaso se acomodó el puño de la camisa—. El casino tiene seguridad contratada. Tiene socios. Tiene una subjefa de policía en el pasillo. No sé en qué momento esto se volvió asunto de un taller.
 
-—Desde que salieron por un lote que nadie estaba mirando —dijo Kal, con la misma voz con que cotizaba un arrastre—. Es una empresa de seguridad.
+—Desde que salieron por un lote que nadie estaba mirando —dijo Kal, con la misma voz con que cotizaba un arrastre—. Tengo una empresa de seguridad.
 
 —¿Con licencia?
 
@@ -384,7 +387,9 @@ Kal no se movió de donde estaba.
 
 Tommaso dejó que la palabra se quedara un momento sobre la mesa.
 
-—¿Y sus muchachos? ¿También están en trámite? —No alzó la voz—. Pregunto porque esa es la versión que me tocaría dar a mí, y donde yo la doy, «en trámite» no es una versión.
+—¿Y sus muchachos? ¿También están en trámite?
+
+Lo dijo sin alzar la voz, con los ojos en la carpeta de facturas que Kal tenía bajo el brazo.
 
 —Mis muchachos no han pisado este edificio.
 
@@ -396,7 +401,9 @@ Dario no había abierto la boca desde que se sentó. Tenía delante una copia de
 
 —¿Quién llamó a la policía? —preguntó.
 
-—La central de alarmas —dijo Chiara—. Automático, a las tres cuarenta y siete. Para entonces el auto ya había salido por el lote de servicio; lo tenemos en cámara a las tres cuarenta y seis, con las luces apagadas.
+—La central de alarmas —dijo Chiara—. Automático, a las tres cuarenta y siete.
+
+Dario no anotó nada. Tenía una pluma cerrada junto a la hoja y no la tocó en toda la junta.
 
 —¿Y al señor Mercer?
 
@@ -432,9 +439,9 @@ Kal la esperó en el pasillo de servicio, junto al elevador de carga, con la car
 
 —Charles tiene un nombre tachado en la pared.
 
-—Ferreyra. —Chiara miró hacia el fondo del pasillo, donde no había nadie—. Uno de sus guardias. Argentino. Llevaba semanas apareciéndoseme en los pasillos más de lo que su turno explicaba, hasta que Charles lo hizo disculparse delante de mí. Lo pasó al día. Ahora me saluda de lejos.
+—Ferreyra. —Chiara miró hacia el fondo del pasillo, donde no había nadie—. Uno de sus guardias. Llevaba semanas apareciéndoseme en los pasillos más de lo que su turno explicaba, hasta que Charles lo hizo disculparse delante de mí y lo pasó al día.
 
-—¿Y anoche? Un guardia que se pasea de más se sabe los puntos ciegos mejor que el que los puso.
+—¿Y anoche, dónde estaba?
 
 —No estaba. Ya lo vi en la lista de turnos, antes de que Charles la imprimiera para la junta. Si alguien la cambia, tengo la mía.
 
@@ -444,11 +451,11 @@ Kal asintió. Se cambió la carpeta de brazo.
 
 —Ya lo dijiste allá adentro.
 
-—Allá adentro lo dije por mí. —Ella lo miró por primera vez desde las cinco de la mañana—. Aquí te lo digo para que lo sepas.
+—Allá adentro lo dije por mí. —Ella lo miró a la cara por primera vez desde las cinco de la mañana—. Aquí te lo digo para que lo sepas.
 
 Llegó el elevador de carga. Un muchacho de la lavandería salió empujando un carrito de toallas y los saludó a los dos con la cabeza. Kal le detuvo la puerta.
 
-—Tengo una copia del video —dijo, cuando el carrito dobló la esquina—. Del auto. Todavía no veo nada que no haya visto Charles, pero Danny se sabe los coches por cómo toman una curva. Va a ver más.
+—Tengo una copia del video —dijo, cuando el carrito dobló la esquina—. Del auto. Danny se sabe los coches por cómo toman una curva. Va a ver más.
 
 Chiara no le preguntó cuándo. Se dio vuelta hacia su oficina, y él se metió en el elevador.
 
@@ -456,7 +463,7 @@ Chiara no le preguntó cuándo. Se dio vuelta hacia su oficina, y él se metió 
 
 La llamada entró a las once y cuarto por el conmutador general, preguntando por la persona encargada.
 
-La operadora la pasó a la oficina de Chiara porque Matteo había dado instrucciones de no pasarle nada, y porque la persona del otro lado de la línea había usado una palabra que la operadora no quiso repetir en voz alta: la caja.
+La operadora la pasó a la oficina de Chiara porque Matteo había dado instrucciones de no pasarle nada, y porque la persona del otro lado de la línea había usado una palabra que la operadora le repitió en voz baja: la caja.
 
 Chiara contestó de pie, junto a la ventana.
 
@@ -464,7 +471,7 @@ Chiara contestó de pie, junto a la ventana.
 
 —¿Usted es la de la caja? —Una voz de hombre, joven, con algo encima de la boca, un trapo o una mano—. ¿La que manda?
 
-—Le escucho.
+—Lo escucho.
 
 Del otro lado alguien se rio, no el que hablaba. Después se oyó un motor, lejos, y un perro.
 

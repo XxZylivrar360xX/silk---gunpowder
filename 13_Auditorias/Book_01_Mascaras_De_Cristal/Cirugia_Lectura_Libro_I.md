@@ -85,7 +85,7 @@ Plan de trabajo, en marcha desde el 2026-11-21 (DECISIÓN DEL AUTOR sobre el mé
 | 17 | Día nublado | `18_El_Dia_Nublado` | salto a junio («el resto de la primavera»; «semanas») | hecho, BORRADOR | ver git log |
 | 18 | En lo pequeño | `20_El_Mirador` |  | hecho, BORRADOR | ver git log |
 | 19 | Grazie | `21b_Grazie` |  | hecho, BORRADOR; cierra la Parte I (EPUB y PDF regenerados) | ver git log |
-| 20 | Algo más que dinero | `22a_La_Cifra` | gesto Varek | pendiente | |
+| 20 | Algo más que dinero | `22a_La_Cifra` | gesto Varek; tiempo desde el 19 (cuatro días) | hecho, BORRADOR | ver git log |
 | 21 | La versión pública | `22b_Con_Su_Proveedor` | Kal le pasa el parte a Nadir | pendiente | |
 | 22 | Lo que cueste | `24b_Lo_Que_Cueste` | Nadir (ya cubierto por el 21) | pendiente | |
 | 23 | Luces fuera | `24c_El_Corral` |  | pendiente | |
