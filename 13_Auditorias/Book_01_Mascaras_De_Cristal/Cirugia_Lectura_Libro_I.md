@@ -31,6 +31,9 @@ Plan de trabajo, en marcha desde el 2026-11-21 (DECISIÓN DEL AUTOR sobre el mé
 7. **Capítulo no es archivo.** La tabla de abajo da la equivalencia. La lectura corrida usa número de capítulo y, entre paréntesis, el prefijo de archivo; las notas de sesión de hoy a veces usan el prefijo. Las líneas citadas son de la prosa del 2026-11-21 y pueden haberse movido.
 8. **Otra sesión puede estar editando el Libro I.** El 2026-11-21 lo hizo «Editorial Libro 1». Correr `git status` antes de abrir cada archivo y no tocar lo que aparezca modificado sin saber de quién es.
 9. **Audio del Libro I suspendido** hasta cerrar esta cirugía (28 de 47 caps. al día). EPUB y PDF se regeneran al cerrar cada Parte con la skill `regenerar-y-subir`; mientras tanto, commit por capítulo sin regenerar.
+10. **Encabezado completo, sin recortar** (aprendido en el cap. 4): las notas «se conservan literales…» suelen estar al final de líneas larguísimas; cortarlas con `cut` las esconde. Si el encabezado pesa más de ~10 KB, buscar en él con grep «literal|intact|canon|se conserva». Comparar contra `b834809` lo que el barrido tocó en esas escenas y restituirlo.
+11. **Vara de la regla 06:** varios capítulos ya estaban sobre el 25 % antes de esta cirugía; los recortes no deben subirlo. Si la escena es canon o de radio, se pregunta al autor por la excepción (aprobadas: caps. 4, 5, 7, 10 y 11, en la regla 06). Para cortar un ping-pong que abre un recorte, usar un beat de narración de más de 12 palabras, no otra explicación.
+12. **Herramientas en Windows:** escribir los scripts de reemplazo con Write en el scratchpad y correrlos con `python -I -X utf8 script.py ARCHIVO </dev/null`; nunca `python -` ni `cat >` sin entrada, que dejan la terminal colgada.
 
 ## Decisiones transversales (DECISIÓN DEL AUTOR, 2026-11-21)
 
