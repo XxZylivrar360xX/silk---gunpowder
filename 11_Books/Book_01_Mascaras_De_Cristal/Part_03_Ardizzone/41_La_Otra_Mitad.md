@@ -1,4 +1,5 @@
 <!--
+**Cirugía de la lectura (2026-11-21, Claude Code; [[98_Agent_Handoff/sessions/2026-11-21_claude_cirugia_lectura_cap37]]):** el despacho ya no está desfasado (lo de cinco días sin ella; la mantelería del sábado; «la silla de Matteo»; las llaves del loft «desde hacía tres semanas»); recortadas, por decisión del autor, las réplicas del deber («Cuando Palermo llama, voy, y eso va primero… Antes que él también.») y de la vuelta (termina en «Las terminé esa misma tarde.»); segundo lector: el modelo, el anular, la hoja en vez de la carpeta, «alguien de él», el despacho de Matteo y dos de gramática. Literales intactos. Regla 06: 21 %. Sigue BORRADOR.
 Nuevo cauce (Fase 4, 2026-11-07, terminal C, encargo [[98_Agent_Handoff/encargos/ENCARGO_Fase4_Paralelo_Reusa]]): **nuevo Cap. 37** (T23, segunda mitad de Palermo; verbo «Reusa y unifica el POV» en [[11_Books/Book_01_Mascaras_De_Cristal/00_Mapa_Cauce_Cap11_Camp_Alder]]). Antes Cap. 46 (numeración de 56; antes 50, 41). El archivo conserva su nombre.
 Estado: BORRADOR. Prosa DISEÑO pendiente de lectura del autor. Versión anterior íntegra: [[11_Books/Book_01_Mascaras_De_Cristal/Escenas_Eliminadas/41_La_Otra_Mitad_Version_2026-11-07]] (allí queda el historial de cirugías: corrección del 2026-09-22, E7 del 2026-09-27, Frente 1 del 2026-10-06, Fabrizio ocupado del 2026-10-18, Nueva York del 2026-10-22, regla 05 del 2026-10-28). Sesión: [[98_Agent_Handoff/sessions/2026-11-07_claude_fase4_cap37_la_otra_mitad]].
 Decisiones del autor para esta reescritura (2026-11-07): extensión de «Reusa», sin estación nueva; **Matteo se fue por su hermano (Elio), no por el robo del Monarch** (CANON DEL AUTOR; se cobra en el Libro IV): Chiara sólo tiene la nota.
@@ -24,7 +25,7 @@ Llevaba el cabello corto, apenas rozándole los hombros. El abrigo vino iba sobr
 
 —¿A casa, señora Bellandi?
 
-Chiara sintió, sin buscarlas, las llaves en el fondo del bolso: las del loft, entre las demás, un peso que no había cambiado en meses.
+Chiara sintió, sin buscarlas, las llaves en el fondo del bolso: las del loft, entre las demás, desde hacía tres semanas.
 
 —Al Monarch —dijo—. Torre Norte.
 
@@ -40,15 +41,15 @@ Se cambió el abrigo por algo de trabajo y bajó al Monarch antes de que termina
 
 La oficina que había sido de Matteo seguía teniendo su nombre en la puerta. Nadie lo había quitado, ni por descuido ni por respeto; simplemente nadie había tenido tiempo de decidir qué hacer con una placa cuando el hombre detrás de ella podía volver cualquier semana, o ninguna.
 
-Chiara se sentó en la silla que no era suya.
+Chiara se sentó en la silla de Matteo.
 
 La nota seguía en el cajón de arriba, donde ella misma la había guardado: *Elio desapareció. Tengo que volver a Génova.* Debajo, la promesa de llamar cuando supiera algo. No había llamado. Chiara cerró el cajón sin volver a leerla.
 
-Sobre el escritorio había tres asuntos que en cualquier otra semana habrían llegado directamente a manos de Matteo: una aprobación de nómina para la sala privada, pendiente desde hacía cuatro días; un contrato de mantenimiento del sistema de climatización que alguien había firmado a medias, esperando la segunda firma que nadie sabía a quién pedirle ahora; y una llamada, ya registrada dos veces en la libreta de la recepción, de un proveedor de licores preguntando a quién debía facturarle desde que «el señor Bellacorte» había dejado de contestar.
+Sobre el escritorio se había juntado lo de cinco días sin ella: una aprobación de nómina para la sala privada, pendiente desde el lunes; un contrato de mantenimiento del sistema de climatización que esperaba su firma; y una llamada, ya registrada dos veces en la libreta de la recepción, de un proveedor de licores que quería hablar con ella y con nadie más.
 
 Firmó la nómina. Dejó el contrato para el día siguiente. Le devolvió la llamada al proveedor ella misma.
 
-Llamó después a Fabrizio, por la mantelería de un evento que Matteo había dejado a medio resolver antes de irse.
+Llamó después a Fabrizio, por la mantelería del sábado.
 
 Contestó al quinto timbre, con ruido de cocina detrás.
 
@@ -76,7 +77,7 @@ Pidió también el archivo de la cámara de la puerta de carga, del día que mar
 
 La imagen no era buena, pero alcanzaba: una camioneta blanca, sin rotular más que un logo pequeño en la puerta del conductor —ENVÍOS RÁPIDOS, y debajo, más chico, SAN AURELIO—, con una placa que la cámara sólo alcanzaba a leer a medias. Terminaba en 4-T-9.
 
-Chiara anotó el modelo, el color, el nombre de la empresa y lo que tenía de la placa en una hoja que no llevaba membrete de nadie.
+Chiara anotó el color, el nombre de la empresa y lo que tenía de la placa en una hoja que no llevaba membrete de nadie.
 
 La persona obvia para pedirle que siguiera esa camioneta era Kal.
 
@@ -84,7 +85,7 @@ No lo llamó.
 
 ***
 
-El teléfono sonó cerca de las nueve, cuando Chiara todavía estaba en el despacho con la hoja doblada en el bolsillo.
+El teléfono sonó cerca de las nueve, cuando Chiara todavía estaba en el despacho de Matteo con la hoja doblada en el bolsillo.
 
 —Ciao, bella.
 
@@ -122,7 +123,7 @@ Bonnie miró la hoja, después a Chiara.
 
 Chiara no contestó enseguida. Se sentó al otro lado del escritorio, no detrás de él.
 
-—Porque en Palermo entendí algo que todavía no sé qué hacer con ello.
+—Porque en Palermo entendí algo con lo que todavía no sé qué hacer.
 
 Bonnie no dijo nada. Esperó.
 
@@ -130,11 +131,11 @@ Bonnie no dijo nada. Esperó.
 
 —¿Y eso qué significa?
 
-—Que un hombre vinculado a mi asiento deja de ser un invitado. Se vuelve reclamable. —Chiara se tocó el anular izquierdo sin darse cuenta, y lo bajó antes de que Bonnie pudiera notarlo—. Así que dije que no era parte de mi casa. Delante de todos. Para que no pudieran usarlo así. En la misma sala me pusieron delante una fotografía de mi boda. Para recordarme cómo debe verse una Ardizzone.
+—Que un hombre vinculado a mi asiento deja de ser un invitado. Se vuelve reclamable. —Chiara se tocó el anular izquierdo y bajó la mano—. Así que dije que no era parte de mi casa. Delante de todos. Para que no pudieran usarlo así. En la misma sala me pusieron delante una fotografía de mi boda. Para recordarme cómo debe verse una Ardizzone.
 
 —¿Y no podía no ir? A la reunión, digo.
 
-—No. —Le salió antes de pensarlo, y Chiara se tomó un momento para darle el resto en orden—. Todavía respondo ante esa mesa por lo que dejó la muerte de mi padre. Soy la cabeza de la casa Ardizzone, aunque viva aquí y firme nóminas de un casino. Cuando Palermo llama, voy. Cuando la Mesa pregunta, contesto. Eso va primero. Antes que el Monarch, antes que yo. —Se detuvo un instante—. Antes que él también. Por eso lo dije así.
+—No. —Le salió antes de pensarlo—. Todavía respondo ante esa mesa por lo que dejó la muerte de mi padre. Cuando Palermo llama, voy, y eso va primero. —Se detuvo un instante—. Antes que él también.
 
 Bonnie la miró como miraba el vestíbulo, buscando hacia dónde apuntaba cada cosa.
 
@@ -154,7 +155,7 @@ Bonnie se recostó apenas en la silla.
 
 —¿Y él qué dijo cuando volvieron?
 
-—No volvimos juntos. —Chiara miró la hoja sobre el escritorio, no a Bonnie—. Esa misma noche lo llamaron. No me dijo quién, y no hizo falta: hay gente que lo llama a él cuando quiere algo, y él va, y yo sé desde hace tiempo por qué va. No le pregunté. Se fue al día siguiente, sin pedirme que lo acompañara. Yo tenía cosas que todavía no había terminado, y no se lo pedí tampoco. Las terminé esa misma tarde. —Levantó la vista—. Quería deshacer con palabras lo que esa mesa acababa de escribir sobre él. No lo conseguí del todo.
+—No volvimos juntos. —Chiara miró la hoja sobre el escritorio, no a Bonnie—. Esa misma noche lo llamaron. No me dijo quién, y no hizo falta. No le pregunté. Se fue al día siguiente, sin pedirme que lo acompañara. Yo tenía cosas que todavía no había terminado, y no se lo pedí tampoco. Las terminé esa misma tarde.
 
 Bonnie dejó pasar un segundo.
 
@@ -164,7 +165,7 @@ Bonnie dejó pasar un segundo.
 
 Bonnie no dijo que lo entendía. No dijo que Chiara había hecho bien, ni que Kal lo entendería, ni nada que sonara a consuelo.
 
-—Si no quería que fuera de su gente allá —dijo, en cambio—, ¿por qué está usando a alguien de la suya aquí?
+—Si no quería que fuera de su gente allá —dijo, en cambio—, ¿por qué está usando a alguien de él aquí?
 
 Chiara la miró un segundo de más.
 
@@ -182,9 +183,9 @@ Bonnie no contestó eso. Volvió a mirar la hoja.
 
 —¿Y si no es nada? ¿Si el tipo sólo entregó donde le tocaba?
 
-—Entonces habré perdido una noche de sueño de las dos. —Chiara cerró la carpeta.
+—Entonces habremos perdido las dos una noche de sueño. —Chiara dobló la hoja y se la pasó.
 
-Bonnie se guardó la hoja en el bolsillo de la chaqueta, no en el bolso, y se puso de pie.
+Bonnie se guardó la hoja en el bolsillo de la chaqueta y se puso de pie.
 
 Ya en la puerta, Bonnie se detuvo un segundo, con la mano en el marco.
 

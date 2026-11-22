@@ -110,7 +110,7 @@ Plan de trabajo, en marcha desde el 2026-11-21 (DECISIÓN DEL AUTOR sobre el mé
 | 34 | También las mañanas | `36_Tambien_Las_Mananas` | usted Chiara–Héctor (canon) | hecho, BORRADOR (en paralelo con la Parte II) | ver git log |
 | 35 | Al revés | `38_Al_Reves` | Peugeot → Audi la noche de la incursión (no aplica: la línea está en el 39) | hecho, BORRADOR (en paralelo con la Parte II) | ver git log |
 | 36 | Mecánico | `40_Mecanico` | Volpi fuera (D8) | hecho, BORRADOR (en paralelo con la Parte II) | ver git log |
-| 37 | Reclamable | `41_La_Otra_Mitad` |  | pendiente | |
+| 37 | Reclamable | `41_La_Otra_Mitad` | despacho al día (con el 34) | hecho, BORRADOR (en paralelo con la Parte II) | ver git log |
 | 38 | Nada | `42_Nada` |  | pendiente | |
 | 39 | Expediente sellado | `43_La_Puerta` |  | pendiente | |
 | 40 | No puedo sacarlo | `44_Jurisdiccion` | usted Chiara–Héctor | pendiente | |
