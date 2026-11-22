@@ -14,7 +14,7 @@ Encargo del autor: revisar el informe de lectura 1/6 de ChatGPT sobre *Máscaras
 | Cap. 1: naturalidad de la llamada con Nadir | No se toca: la charla trivial es tapadera («este teléfono tiene más orejas»); «los chicos» avisa que Danny vive; el gozne «máquinas de pintura» ya existe | — |
 | Prioridad alta: Kal confiesa el Peugeot demasiado pronto (Cap. 7) | No se toca: marcada («que ella no había pedido y él no solía dar», «sin mirarla»); confiesa las carreras, no el robo del Cap. 1; es H2-b | — |
 | Cap. 7: concentración de viñetas | Vigilar, no tocar: es la lista de H2-b; moverla sería estructural | — |
-| Cap. 2: exposición de la ambición de Kal | No ubicada; lo más cercano es el catálogo de servicios de la junta (pitch, justificado) | Pedir al lector el pasaje |
+| Cap. 2: exposición de la ambición de Kal | No ubicada; lo más cercano es el catálogo de servicios de la junta (pitch, justificado) | Cerrada: falsa alarma (autor, 2026-11-22) |
 | Anclas temporales (caps. 5 y 7) | Sí: caps. 1–4 caben en tres días; desde el 5 no hay ancla respecto a la llegada de Chiara ni fecha de la apertura del Monarch | **PENDIENTE del autor:** cuántas semanas entre la llegada y el ladrillo; luego 2–3 anclas |
 
 ## Protegidos (muletillas)
