@@ -159,7 +159,7 @@ Ojalá que mis dos hijos. Jim se había ido de la Almendra una noche, con las co
 
 Se guardó la carta en el bolsillo interior, para más tarde. Le vibró encima el teléfono.
 
-Nadir. Ya se había ido la luz de las láminas.
+Nadir. Eran las ocho y veinte, y ya se había ido la luz de las láminas.
 
 —¿Traen lo de Hollis?
 
@@ -259,7 +259,7 @@ Nadie contestó. La treinta y uno se había detenido junto a los conos, con la p
 
 Eran cinco muelles. A la treinta y uno le bastaba con asomarse a cada uno.
 
-Kal prendió los faros en la entrada del patio de contenedores, a la vista, y esperó a que lo vieran.
+Kal prendió los faros en la entrada del patio de contenedores, donde Terminal Road se abría entre la aduana y los muelles, a la vista, y esperó a que lo vieran.
 
 —*Central, lo tengo otra vez. El Peugeot. Voy.*
 
@@ -295,11 +295,13 @@ Kal tomó la primera subida hacia el norte, apagó las luces y se sacó la másc
 
 —Vamos arriba, khoya, con lo que quedó. Inshallah, en la mañana te cuento.
 
-Hizo la cuenta de memoria, como la de cualquier servicio. Nueve minutos a la Almendra con las luces apagadas, diez para esconder el coche y quitarse el hule de encima, una llamada, y quince de vuelta en grúa, por las rutas de carga. Llegaba con media hora de sobra sobre el condado, y sin que nadie tuviera que preguntarse por qué tan pronto.
+Eran las ocho y cuarenta. Hizo la cuenta de memoria, como la de cualquier servicio: nueve minutos a la Almendra con las luces apagadas, diez para esconder el coche y quitarse el hule de encima, una llamada, y quince de vuelta en grúa, por las rutas de carga. Llegaba con tres cuartos de hora de sobra sobre el condado, y sin que nadie tuviera que preguntarse por qué tan pronto.
 
-Metió el Peugeot detrás del taller y le echó la lona encima, con la raya de la puerta contra la pared y la máscara debajo del asiento. El sillón del techito estaba vacío. Metió la cabeza bajo la llave del lavadero hasta que el pelo le olió a jabón de taller y no a hule, se puso la camisa de la grúa y llamó a la Central desde el teléfono de la oficina, con la voz de las facturas, para ofrecer una grúa libre a veinte minutos del Puerto Viejo. Omar andaba en Santa Brígida con otro servicio. En la Central le dijeron que sí antes de preguntarle el precio.
+***
 
-Bajó otra vez por las rutas de carga, ahora a la velocidad de una grúa. En la boca del muelle cinco había una patrulla con las torretas prendidas y un policía con una lámpara, alumbrando el agua. El Mercury colgaba del borde por las llantas delanteras, con el capó apuntando al cielo y el maletero reventado. Abajo, en lo negro, flotaban cuatro cajas de cartón muy bonitas. Detrás del contenedor azul no había nada.
+A las nueve menos diez cruzó las vías a oscuras y entró a la Almendra por la calle de atrás del taller. Dejó el Peugeot en su lugar y le echó la lona encima, con la raya de la puerta contra la pared y la máscara debajo del asiento. El sillón del techito estaba vacío. Metió la cabeza bajo la llave del lavadero hasta que el pelo le olió a jabón de taller y no a hule, se puso la camisa de la grúa y llamó a la Central desde el teléfono de la oficina, con la voz de las facturas, para ofrecer una grúa libre a veinte minutos del Puerto Viejo. Omar andaba en Santa Brígida con otro servicio. En la Central le dijeron que sí antes de preguntarle el precio.
+
+Bajó otra vez al Puerto Viejo por las rutas de carga, ahora a la velocidad de una grúa, y entró por Terminal Road, que para llegar a la báscula pasaba frente a los muelles. En la boca del muelle cinco había una patrulla con las torretas prendidas y un policía con una lámpara, alumbrando el agua. El Mercury colgaba del borde por las llantas delanteras, con el capó apuntando al cielo y el maletero reventado. Abajo, en lo negro, flotaban cuatro cajas de cartón muy bonitas. Detrás del contenedor azul no había nada.
 
 La treinta y uno seguía sobre la báscula, con la llanta delantera derecha metida hacia adentro como un pie torcido. El rubio estaba sentado en el capó, con el cuello abierto y un cigarro sin prender, y se bajó antes de que Kal frenara.
 
@@ -381,7 +383,9 @@ A las once pasó por él la veintisiete, con una llanta de repuesto y pedazos de
 
 Kal se quedó con la Crown Victoria. Le quitó la llanta, midió el brazo contra el del otro lado y le pasó la mano a la flecha, que se había salvado. El sillón del techito siguió vacío. A las cuatro y diez le vibró el teléfono: un número de Nadir, *13*, y después nada. Ni una palabra de Danny. Marcó dos veces. Buzón.
 
-Cuando clareó, se frotó los brazos en el lavadero, con jabón de taller, hasta donde el jabón llegaba, se puso la camisa limpia que guardaba en la oficina y tomó la carpeta del Departamento, que llevaba una semana lista y desde la noche tenía hora.
+Cuando clareó, se frotó los brazos en el lavadero, con jabón de taller, hasta donde el jabón llegaba, se puso la camisa limpia que guardaba en la oficina y tomó la carpeta del Departamento, que llevaba una semana lista y desde la noche tenía hora, y sacó la grúa rumbo a Calle Corona.
+
+***
 
 A las nueve del domingo, sin haber dormido, Kal Mercer le vendía frenos al Departamento de Policía de San Aurelio.
 
@@ -447,7 +451,7 @@ Kal tomó la carpeta.
 
 Una patrulla que entraba cada martes al taller de la Almendra dejaba de ser sospecha. Y la Crown Victoria que había entrado colgando de su grúa iba a salir frenando como nueva, con su firma en la hoja.
 
-Dobló hacia Calle Corona con la ventanilla abajo y pulsó el número otra vez, sin esperar nada. Contestaron entre estática y una herramienta neumática.
+Bajó por Calle Corona hacia el centro viejo, con la ventanilla de la grúa abajo, y pulsó el número otra vez, sin esperar nada. Contestaron entre estática y una herramienta neumática.
 
 —Hermano, voy saliendo de la comisaría.
 
@@ -657,7 +661,7 @@ Sacó el Peugeot para probar el pedal, con la canción baja, y en la primera cua
 
 —No pregunté si necesitabas.
 
-Kal frenó frente a un porche que había reparado más veces que el dueño. El pedal contestó donde debía.
+Kal frenó frente a la casa, junto al porche que había reparado más veces que el dueño. El pedal contestó donde debía.
 
 —Lo sé.
 
@@ -691,7 +695,7 @@ Kal caminó hasta el refrigerador. El zapato izquierdo, a cada paso, hacía *pff
 
 —Te van a oír desde el estacionamiento, Kal. Van a creer que traes un pato.
 
-Se levantó, pasó debajo de su brazo y se fue por el pasillo sin esperarlo. En el clóset del cuarto del fondo, entre abrigos que nadie usaba, estaba el traje azul, dentro de su plástico, donde Kal lo guardaba para que no oliera a taller. Lo había usado tres veces. Ella se lo puso en los brazos y una camisa azul encima, sin preguntar, y le dio la espalda mientras se cambiaba, hablándole a la pared de lo que costaba planchar un cuello. El saco le ajustó los hombros como una corrección.
+Se levantó, pasó debajo de su brazo y se fue por el pasillo sin esperarlo. En el clóset del cuarto del fondo, entre abrigos que nadie usaba, estaba el traje azul, dentro de su plástico, donde Kal lo guardaba para que no oliera a taller. Lo había usado tres veces. Ella se lo puso en los brazos y una camisa blanca encima, sin preguntar, y le dio la espalda mientras se cambiaba, hablándole a la pared de lo que costaba planchar un cuello. El saco le ajustó los hombros como una corrección.
 
 Marisol se dio la vuelta y le miró los pies.
 

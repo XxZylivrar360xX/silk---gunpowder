@@ -29,7 +29,7 @@ Cirugia de la lectura (2026-11-21; BORRADOR, espera lectura): replicas infladas 
 
 El lunes, Kal despertó antes de que sonara el teléfono, con la misma incomodidad con la que se había dormido.
 
-El catre no perdonaba el traje de la noche anterior. La camisa azul seguía doblada sobre la caja de recibos y el saco colgaba del respaldo de la silla como si también estuviera cansado de fingir. La grieta del techo seguía ahí. No había aprendido nada durante la noche.
+El catre no perdonaba el traje de la noche anterior. La camisa blanca seguía doblada sobre la caja de recibos y el saco colgaba del respaldo de la silla como si también estuviera cansado de fingir. La grieta del techo seguía ahí. No había aprendido nada durante la noche.
 
 En el celular había seis mensajes y un enlace que Nadir le había mandado sin texto.
 

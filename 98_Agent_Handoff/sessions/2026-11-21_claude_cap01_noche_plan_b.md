@@ -33,3 +33,9 @@
 - Kal ya no repite a Collins la propuesta que le hace a Keene.
 - Remate con Collins (AUTOR): «Soy un hombre de palabra.» / «Ya lo creo.», dulce, con la risa por la nariz.
 - Extensión: el cap. 1 pasa de ~6.900 palabras (antes de la reescritura) a ~8.360; la segunda pasada recuperó ~80.
+
+## Tercera pasada (2026-11-22, lectura del autor)
+
+- Camisa blanca con el traje azul (cap. 1 y su eco en el cap. 3).
+- Anclas de lugar y tiempo: las ocho y veinte (llamada), las ocho y cuarenta (cuenta de Kal), las nueve menos diez (Almendra); el patio de contenedores entre la aduana y los muelles; la grúa pasa frente a los muelles rumbo a la báscula; Kal va a la comisaría en grúa; sale «por Calle Corona hacia el centro viejo»; el porche es el de la casa.
+- Separadores nuevos: antes de la vuelta a la Almendra y antes de «A las nueve del domingo».
