@@ -40,6 +40,7 @@ No inflar: el arreglo prefiere fundir y sustituir antes que alargar. La extensio
 - Lineas CANON DEL AUTOR: literales.
 - Tramos aprobados por el autor el 2026-11-21 (regla 05): los ojos del Cap. 3, la vela del 12, «Ladro» del 33, los dos tramos de H21 del 34, la moto de Nadir del 24b y la llave del 36.
 - Cap. 4 (archivo `04_Tarifa_Nocturna`) sobre la vara (33 % con la llamada, la rampa y Russ/Danny restituidos literales): excepcion aprobada por el autor el 2026-11-21, por la llamada, la rampa y la ventanilla. No obliga a recortar; la cirugia no debe subirlo.
+- Cap. 5 (archivo `05a_Cliente_Y_Proveedor`) sobre la vara (32 %): excepcion aprobada por el autor el 2026-11-21 (la llamada de la factura, el elevador, la reunion y Kyle). La cirugia no debe subirlo.
 
 ## Relacion con otras reglas
 

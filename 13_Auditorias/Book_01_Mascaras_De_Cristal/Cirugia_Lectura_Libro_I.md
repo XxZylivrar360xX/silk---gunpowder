@@ -53,7 +53,7 @@ Plan de trabajo, en marcha desde el 2026-11-21 (DECISIÓN DEL AUTOR sobre el mé
 **Arrastres para capítulos siguientes** (vistos al operar uno anterior; se atienden al llegar a su capítulo):
 - ~~Cap. 3: «pastillas de freno del Ford»~~ resuelto: el 3 dice «la treinta y uno».
 - ~~Cap. 4: el segundo pleito de la pintura~~ resuelto (sale el Taurus).
-- Cap. 5: en `05a` (l. ~388) Kal repite lo de la teniente del turno de noche que Chiara ya oyó a Blake en El Relevo, y ella pregunta «¿Cómo sabe eso?».
+- ~~Cap. 5: la teniente~~ falsa alarma (lo dice Chiara y pregunta Kal).
 - Cap. 9: el malvavisco va debajo del asiento (cap. 1), no en la guantera.
 - Cap. 10: Keene pactó «los martes a las diez» en el 1; allá dice «martes y jueves». «Placa no legible» del 10 ya cuadra con las placas de noche del 1.
 
@@ -63,7 +63,7 @@ Plan de trabajo, en marcha desde el 2026-11-21 (DECISIÓN DEL AUTOR sobre el mé
 | 2 | Demasiado listo | `02_Demasiado_Listo` |  | hecho, BORRADOR | ver git log |
 | 3 | Lo que no cambió | `03_Los_Viejos_Dias` |  | hecho, BORRADOR | ver git log |
 | 4 | Tarifa nocturna | `04_Tarifa_Nocturna` |  | hecho, BORRADOR | ver git log |
-| 5 | Cliente y proveedor | `05a_Cliente_Y_Proveedor` |  | pendiente | |
+| 5 | Cliente y proveedor | `05a_Cliente_Y_Proveedor` |  | hecho, BORRADOR | ver git log |
 | 6 | Sólo una cena | `05c_La_Pizza_De_Calabaza` |  | pendiente | |
 | 7 | Ambos | `06_Ambos` | tuteo prematuro; Peugeot D5 | pendiente | |
 | 8 | La noche del ladrillo | `07_La_Noche_Del_Ladrillo` | Peugeot D5 («lo confirmó») | pendiente | |

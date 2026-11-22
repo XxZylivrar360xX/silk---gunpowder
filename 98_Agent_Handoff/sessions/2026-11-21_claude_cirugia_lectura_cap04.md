@@ -25,7 +25,7 @@ Plan: [[13_Auditorias/Book_01_Mascaras_De_Cristal/Cirugia_Lectura_Libro_I]]. Arc
 
 ## Arrastres
 
-- **Cap. 5:** en `05a` (l. ~388), Kal le cuenta a Chiara lo de la teniente del turno de noche casi con las palabras de Blake en El Relevo, y ella pregunta «¿Cómo sabe eso?»; ella ya lo oyó: falta reacción o cambia la pregunta.
+- ~~Cap. 5: la teniente~~ falsa alarma: lo dice Chiara y pregunta Kal (verificado al operar el 5).
 
 - «El segundo pleito de la pintura no debe repetir el del 1»: resuelto (sale el Taurus).
 

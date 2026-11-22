@@ -57,6 +57,7 @@ Semanas reformuladas (2026-11-03, pedido del autor: "lo senti pesado"; opcion A 
 Hospital con mas espacio (2026-11-03, DECISION DEL AUTOR; prosa DISEÑO, sigue BORRADOR): Kal llega a mitad de la presentacion ("Mi nombre es Chiara", sin apellido: Kyle solo oye el nombre, y por eso "señora Mercer"); fuera "Señor Mercer / Señora Bellandi", queda un intercambio de miradas (el niño es el foco). Kyle da su nombre al sargento, no a ella ("A ella no se lo habia dicho"); reaccion de Chiara al pasado militar vista por Kal ("como quien relee un renglon"). La espera en escena: guardia (señor con muletas, "Bien visto"), Steve "carnivoro pero solo los domingos", "¿Con el? / A veces" (siembra de pareja, eco de "A veces" del soldado). Cuento del gato en voz de Chiara (sardina "que no era suya"; "Los gatos no comen naranjas / Este si"). Cafe: "Lo llaman, sargento." / "No la corrigio."
 Cortes de las semanas (2026-11-03, aprobados por el autor sobre lectura de ChatGPT; DISEÑO, sigue BORRADOR): fuera el cierre de la grua vacia en la cena de Blake, "Chiara habria querido..." y "Gracias por venir / Claro", dos renglones de la bitacora (jueves, martes), "El total quedo...", y en la caseta "Kal no pregunto desde cuando" y "Eso le cuesta una firma / Me cuesta menos...". Texto en Escenas_Eliminadas/README.
 Una semana en vez de semanas (2026-11-03, DECISIÓN DEL AUTOR, regla 06 de staging; prosa DISEÑO, BORRADOR): la apertura pasa a coda del Cap. 4 y el capitulo abre con la factura. Tras "No la acomodo.": viernes, cena y beso; martes, departamento; miercoles, cita; jueves, pivote unico en la salida de carga (caseta, hombre del puerto, orden de compra, bisagra, rueda, "No es suyo", Tommaso en el muelle); esa noche, Direccion en una linea y la rueda; viernes, hospital. Fuera: bar del sabado, bitacora como escena, llamada de Fabrizio (candidata a una visita a la Almendra mas adelante, sin decidir), reparacion del carrito en la caseta, "Iba molesta". Texto en Escenas_Eliminadas/README.
+Cirugia de la lectura (2026-11-21; BORRADOR, espera lectura): replicas infladas recortadas, «y sin copa», «Incluye lo que yo autorice» restituida, el hombre del puerto se va en taxi y deja el coche (decision del autor), fuera la glosa tras Tommaso (decision del autor); regla 06: excepcion sobre la vara (32 %, DECISION DEL AUTOR). Detalle: 98_Agent_Handoff/sessions/2026-11-21_claude_cirugia_lectura_cap05.md.
 -->
 
 # Capítulo 5 — Cliente y proveedor
@@ -85,7 +86,7 @@ Del otro lado sonaba un compresor y alguien gritaba un número de placa.
 
 —Ya llegó. —El compresor se apagó—. Buenos días.
 
-Chiara no le devolvió el saludo. Se le quedó atorado entre el café y lo que de verdad había llamado a preguntar. Ninguno de los dos colgó.
+Chiara no le devolvió el saludo. Miró el café, que ya se había enfriado, y ninguno de los dos colgó.
 
 —¿Algo más, señora Bellandi?
 
@@ -99,11 +100,9 @@ Ella no había pensado en el coche. Seguía siendo de Varga, en un patio de Kal,
 
 —Paga el arrastre, paga dos días de piso, firma y se lo lleva.
 
-—Y usted va a estar ahí. Con él del otro lado de una ventanilla, a las diez de la mañana, después de lo de anoche.
+—Y usted va a estar ahí, del otro lado de la ventanilla.
 
-—Es un corralón. Hay una ventanilla, un vidrio y Nadir cobrando del otro lado.
-
-Lo dijo como si eso lo explicara todo, y para él a lo mejor lo explicaba.
+—Es un corralón. Hay una ventanilla, un vidrio y Nadir cobrando del otro lado, que es lo que más le va a doler.
 
 —¿Y el hombro?
 
@@ -115,7 +114,7 @@ Alguien dejó caer una llave contra el piso.
 
 —Luego.
 
-—Eso no es una respuesta. Es una cita sin fecha, y yo no acepto citas sin fecha ni de los proveedores.
+—Eso no es una respuesta. Es una cita sin fecha, y yo no acepto citas sin fecha.
 
 —Es la que tengo.
 
@@ -127,11 +126,11 @@ No encontró cómo terminar la frase de una forma que se pudiera decir por telé
 
 Kal esperó. No la ayudó.
 
-—¿Qué le dijo anoche a Varga? Antes de que guardara el teléfono, cuando se le acercó.
+—¿Qué le dijo anoche a Varga? Antes de que guardara el teléfono.
 
 —Lo de la llanta.
 
-—Eso lo oyó todo el que estaba en la rampa. Me refiero a lo otro, a lo que le dijo después, más bajo.
+—Eso lo oyó toda la rampa. Me refiero a lo otro.
 
 —Pregúntemelo en otro momento.
 
@@ -165,9 +164,7 @@ En la otra línea, la que le había dictado a un policía en una cafetería, esp
 
 **¿Llegaste bien? Mis amigos preguntan por ti.**
 
-Lo dejó para después.
-
-Escribió:
+Lo dejó para después. En la línea principal, al número sin nombre, escribió:
 
 **Mañana. A las once. Bar del lobby.**
 
@@ -205,9 +202,9 @@ Lo llevó por detrás de la caja, hasta el panel sin picaporte. El elevador priv
 
 —La escalera es buena idea —dijo él cuando se cerraron las puertas.
 
-—Los lentes también. Aunque de cerca se le ven los ojos, y eso no sé si lo tenía calculado.
+—Los lentes también. De cerca no tapan tanto.
 
-Ninguno de los dos se los quitó.
+Ninguno de los dos se los quitó, y el elevador subió los primeros pisos sin que nadie dijera nada.
 
 —¿Qué tal le fue hoy? —preguntó ella.
 
@@ -219,15 +216,15 @@ Chiara miró los números encenderse.
 
 —Mejor que el overol.
 
-Lo dijo con el brazo derecho quieto junto al cuerpo, como lo había traído desde el bar.
+Lo dijo con el brazo derecho quieto junto al cuerpo, como lo tenía desde que le soltó la mano.
 
-—Ésa tampoco es una respuesta. Ya van dos, señor Mercer, y las dos sobre el mismo hombro.
+—Ésa tampoco es una respuesta.
 
 —Es otra.
 
 —¿Al final pasó por la apertura?
 
-Ya sabía la respuesta. Quería oír cuál le daba él.
+Ya sabía la respuesta desde anoche. Quería oír cuál le daba él, y con qué cara.
 
 —Una copa.
 
@@ -235,7 +232,7 @@ Ella esperó. Él se acomodó los lentes con un dedo.
 
 —No me gusta el juego.
 
-—Está en un casino, señor Mercer. Trabaja para uno, aunque sea con grúa, y vino vestido para que nadie en el piso se acuerde de haberlo visto.
+—Está en un casino, señor Mercer, y vino vestido para que nadie en el piso se acuerde de haberlo visto.
 
 —Por eso fue una. —Las puertas se abrieron—. Mi amigo Walt sí jugó. Un par de manos de poker.
 
@@ -257,7 +254,7 @@ Chiara se sentó a un costado de la mesa, no en la cabecera. Kal no se sentó to
 
 —¿Qué cambió desde la otra noche?
 
-—Matteo está de acuerdo, que no es mucho decir, porque fue Matteo el que lo trajo. Los demás no ven un contrato largo. Ven prestación de servicios: un proveedor con tarifa por acto, que nadie tiene que presentar en una cena.
+—Matteo está de acuerdo, que no es mucho decir: él lo trajo. Los demás no ven un contrato largo. Ven prestación de servicios.
 
 —Una grúa con factura.
 
@@ -271,13 +268,13 @@ Chiara dejó pasar un segundo más de lo cómodo.
 
 —¿Con Walt?
 
-—En la caja, cambiando fichas. Usted lo esperaba en el estacionamiento; llevaba cuarenta minutos ahí. —No esperó a que él preguntara cómo lo sabía—. Le pregunté si había ganado. Me dijo que eso no se le pregunta a un caballero. Le pregunté cómo había llegado al Monarch y me dijo que de copiloto.
+—En la caja, cambiando fichas. Usted lo esperaba en el estacionamiento; llevaba cuarenta minutos ahí, y sin copa. —No esperó a que él preguntara cómo lo sabía—. Le pregunté si había ganado. Me dijo que eso no se le pregunta a un caballero. Le pregunté cómo había llegado al Monarch y me dijo que de copiloto.
 
 —¿Cuánto cambió? Lo que diga él no cuenta; cuenta la ventanilla.
 
-—Ciento cuarenta dólares, en fichas de cinco. Las contó dos veces en la ventanilla.
+—Ciento cuarenta dólares, en fichas de cinco.
 
-—Para Walt, eso es ganar. Lo va a contar en la Almendra como si hubiera sido el triple, nadie le va a creer, y lo va a seguir contando.
+—Para Walt, eso es ganar. Lo va a contar en la Almendra como si hubiera sido el triple.
 
 Chiara dejó la carpeta sobre la mesa, sin abrirla.
 
@@ -361,7 +358,7 @@ Chiara abrió la carpeta.
 
 —Ciento ochenta.
 
-—Un viernes normal ocupa ciento cuarenta. Súmele cuarenta jugadores que no vienen solos y a la gente que viene a verlos perder. A las once, la fila le llega al Bulevar Corona. A las doce, alguien se estaciona en la línea amarilla, y su torneo sale en la foto con un Varga en cada coche.
+—Un viernes le van a ocupar ciento cuarenta. Súmele cuarenta jugadores que no vienen solos y a la gente que viene a verlos perder. A las once, la fila le llega al Bulevar Corona. A las doce, alguien se estaciona en la línea amarilla, y su torneo sale en la foto con un Varga en cada coche.
 
 Chiara hizo la cuenta. Le dio lo mismo que a él. Destapó la pluma para anotar el precio.
 
@@ -377,7 +374,7 @@ Ella tachó la cifra de valet y escribió *naviera* en el margen. Tardó más de
 
 —Treinta días —dijo.
 
-—Treinta días. —Kal miró la hoja tachada—. Y yo que le firmé un contrato a ese viejo para que se lo llevara la parca al día siguiente.
+—Treinta días. —Kal miró la hoja tachada—. Y yo que le hice firmar un contrato a ese viejo para que se lo llevara la parca al día siguiente.
 
 —¿Keene? ¿Qué le firmó?
 
@@ -389,7 +386,7 @@ Lo dijo como se dice de una apuesta perdida. Chiara entendió la cuenta que él 
 
 —¿Cómo sabe eso? Ésa no sale en los periódicos.
 
-—Fui a su despedida.
+—Fui a la despedida de Keene.
 
 Kal la miró un momento largo, como si acabara de cambiar de lugar una pieza que él ya había dado por perdida.
 
@@ -507,7 +504,7 @@ El miércoles pidió cita en ginecología en el Hospital Santa Aurelia. Tomaba l
 
 El jueves por la tarde, el guardia de la salida de carga no salió a preguntarle nada a Kal: miró una pantalla, miró la placa, levantó la pluma. Chiara lo vio desde el muelle. Vio también que Kal se quedaba un segundo con el pie en el freno antes de avanzar.
 
-Cinco minutos después, un hombre del puerto que no debía estar en la lista abandonó el Monarch, mientras Kal revisaba en el estacionamiento de empleados una supuesta batería muerta. Nadie lo tocó. Nadie lo siguió.
+Cinco minutos después, un hombre del puerto que no debía estar en la lista se fue del Monarch en un taxi. Su coche se quedó en el estacionamiento de empleados, con el capó abierto y una supuesta batería muerta que Kal revisaba sin prisa. Nadie lo tocó. Nadie lo siguió.
 
 Chiara bajó con una carpeta. Traía la orden de compra que había armado esa mañana con la bitácora de vigilancia: todos los accesos de la rampa, vaciados en un solo pago de servicios externos a nombre de Almendra Towing. Remolque, arranque, flete, tarifa por acto. Diecinueve renglones desde la noche del Mercedes, y en ninguno decía *lobby*. Cada uno traía al margen la misma nota de seguridad, *visitante no programado, autorizado en sitio*, y las excepciones se acumulan hasta que alguien se sienta a contarlas.
 
@@ -517,7 +514,7 @@ Lo encontró cerrando el capó del coche. El hombro derecho le dio un piquete y 
 
 —Me dejaron pasar sin llamar a nadie.
 
-—Ahora es un trámite. Desde que me dejó de convenir que fuera una noticia cada vez que aparece.
+—Ahora es un trámite. Dejó de convenirme que fuera noticia cada vez que usted aparece.
 
 Le tendió la carpeta. Kal se limpió las manos con el trapo antes de agarrarla y bajó por los renglones sin prisa, hasta el total. Después sacó del bolsillo de la chaqueta algo envuelto en papel de estraza y se lo cambió por la carpeta, como quien paga.
 
@@ -579,9 +576,9 @@ Tommaso miró a Kal, luego lo que ella traía en la mano, luego a ella.
 
 Chiara cerró la mano sobre la bisagra.
 
-—Es para la puerta de servicio del pasillo del lobby. No engancha desde la apertura. Está en el reporte de mantenimiento del martes, si lo quieres ver.
+—Incluye lo que yo autorice.
 
-Kal no intentó arreglarlo con palabras.
+Kal no intentó arreglarlo con palabras; se quedó junto al coche hasta que Tommaso terminó de mirarlo.
 
 —Buenas tardes, señora Bellandi.
 
@@ -595,11 +592,11 @@ Tommaso sonrió tarde.
 
 —Alessio también decía eso.
 
-Chiara no le dio el gusto de tocarse el anular. Tommaso lo miró de todos modos, como miraba siempre: el dedo, no la cara.
+Chiara no le dio el gusto de tocarse el anular. Dejó la mano quieta sobre la bisagra.
 
 —No vuelvas a traerlo a una conversación de proveedores.
 
-Tommaso se acomodó el puño de la camisa sin prisa y dejó de girar el anillo.
+Tommaso se acomodó el puño de la camisa sin prisa.
 
 —No hablaba de proveedores. Varek me preguntó por ti la semana pasada. Por Palermo. Por cómo llegaste a estar disponible para este trabajo.
 
@@ -614,8 +611,6 @@ Lo dijo sin énfasis, como quien devuelve un objeto prestado.
 —Es la única que hay —dijo Chiara.
 
 —Por supuesto. Y la repito muy bien. Llevo años repitiéndola.
-
-Había dejado sobre la mesa que la versión que la sostenía dependía, en una parte pequeña y perfectamente educada, de un hombre cada vez menos contento con ella en las juntas.
 
 Chiara pasó junto a él y entró al elevador antes de que la furia se le acomodara demasiado bien en la cara.
 
@@ -651,11 +646,11 @@ Junto al mostrador de información, Chiara Bellandi estaba en cuclillas sobre el
 
 —Jenny. Muy bien. —Chiara levantó la vista hacia el guardia—. Jenny.
 
-El guardia lo repitió en la radio.
+El guardia lo repitió en la radio, letra por letra, como si fuera una placa.
 
 —Hablas chistoso —dijo el niño.
 
-—Es que soy de Italia. —Le subió la manga del abrigo, que le tapaba la mano entera—. Allá todos hablan así, hasta los perros. Aquí la chistosa soy yo.
+—Es que soy de Italia. —Le subió la manga del abrigo, que le tapaba la mano entera—. Allá todos hablan así, hasta los perros.
 
 —¿Eso está lejos?
 
@@ -687,7 +682,9 @@ Se agachó. El hombro le dio un tirón; apoyó la mano izquierda en el piso y ba
 
 —¿Y eso? —Señaló la cicatriz con un dedo, sin acercarse.
 
-—Me lo hice trabajando. Hace mucho, lejos, en un lugar donde había más arena que aquí linóleo.
+—Me lo hice trabajando, hace mucho.
+
+El niño no pareció convencido; se asomó medio paso, sin soltar la rodilla de Chiara.
 
 —¿De qué?
 
@@ -713,7 +710,7 @@ El niño se enderezó dentro del abrigo como si alguien le hubiera dado un unifo
 
 —Yo soy Kyle. —Levantó la mano abierta y después sacó un dedo de la otra, con trabajo—. Tengo seis.
 
-A ella no se lo había dicho.
+A ella no le había dicho su nombre.
 
 Chiara no estaba mirando al niño. Lo miraba a él, con la mano quieta en la espalda de Kyle, como quien relee un renglón que creía conocer. No preguntó nada. Kal tampoco le explicó nada, y ella tardó en volver la vista a Kyle.
 
@@ -813,7 +810,7 @@ A Kyle se le empezó a ir la boca para abajo.
 
 —…pero no le dio tiempo —siguió Chiara, sin cambiar el tono—, porque en el puesto de las naranjas, el de la esquina, estaba toda su familia esperándolo. Con una naranja para él.
 
-Kal se dio cuenta porque el principio iba para otro lado.
+Kal se dio cuenta: el cuento iba para otro lado, y ella lo había volteado a media frase.
 
 —Los gatos no comen naranjas —dijo Kyle.
 
@@ -875,7 +872,7 @@ No había pregunta que eso contestara.
 
 Chiara bajó el vaso para que no se le notara la boca.
 
-Kal bebió café. Estaba malo.
+Kal bebió café y torció la boca.
 
 Ella dejó el suyo a medio terminar sobre la máquina y se enderezó. Con los tacones, los ojos le quedaron casi a la altura de los de él.
 
