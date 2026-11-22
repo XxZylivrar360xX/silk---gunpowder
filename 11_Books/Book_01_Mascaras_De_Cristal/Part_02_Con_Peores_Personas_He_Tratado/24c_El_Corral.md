@@ -264,7 +264,7 @@ Mientras Voss buscaba en el menú la casilla de objetos de valor, entró del est
 
 El patrullero miró la pantalla. Después miró a Kal, y la cara se le cerró de golpe, como una persiana. No dijo nada. Dejó el café sobre el mostrador, como si eso fuera lo que había venido a dejar, y salió por donde había entrado.
 
-En la credencial decía STANTON. El nombre a Kal sólo le sonó de lejos. Voss siguió con los ojos la espalda del patrullero hasta la puerta, abrió la boca y la volvió a cerrar.
+En la credencial decía STANTON. Kal lo había llevado una noche en la cabina de la grúa, del Puerto Viejo a la Almendra, oyéndole contar tres veces cómo se le había ido el Peugeot. Voss siguió con los ojos la espalda del patrullero hasta la puerta, abrió la boca y la volvió a cerrar.
 
 Kal estaba firmando la hoja impresa cuando oyó la voz a su espalda, en el pasillo que daba a los vestidores.
 

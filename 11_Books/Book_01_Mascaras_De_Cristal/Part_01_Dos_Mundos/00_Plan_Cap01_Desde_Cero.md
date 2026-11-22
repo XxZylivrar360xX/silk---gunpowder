@@ -4,6 +4,8 @@ EPUB: EXCLUDE
 
 # Plan: Cap. 1 desde cero (2026-11-05)
 
+> **Superado en parte (2026-11-21, encargo del autor):** la noche se reescribió con plan B de Kal (pickup en el muelle 5; Nadir y Danny entregan en Cedar Flats), la 31 en la báscula y no en la reja, Kal remolcándola, Collins consiguiendo la cita con Keene y Blake nombrado. Mandan la prosa y [[98_Agent_Handoff/sessions/2026-11-21_claude_cap01_noche_plan_b]]; abajo, lo que lo contradiga (el Peugeot cargado, «Tú llévate lo que vale», «Keene ordena empezar por la 31», «Blake sin nombrar») queda como historia.
+
 **Estado:** redactado el 2026-11-05 ([[98_Agent_Handoff/sessions/2026-11-05_claude_cap01_desde_cero]]); el capítulo espera lectura. Reemplaza a [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/00_Plan_Cap01_Sabado_Y_Domingo]] y a la parte del Cap. 1 de [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/00_Plan_Cap01_Marisol_Y_Cap03_Duelo]]. Categorías: AUTOR = decisión del autor; DISEÑO = propuesta del agente por confirmar. Texto anterior en git (`e04bbed`).
 
 ## El problema (AUTOR)

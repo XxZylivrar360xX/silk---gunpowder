@@ -21,7 +21,7 @@ Muere asesinado por orden de [[02_Characters/Dario_Varek]]. La versión pública
 
 **Canon de apertura:** la mañana del Cap. 3 (archivo 03), Kal despierta con el titular (desde la reapertura del 2026-09-29, sólo el titular: el capítulo es de Walt; la lectura de Keene como comunicado queda en Chiara, al abrir el Cap. 4, *Tarifa nocturna*): Keene fue encontrado en Plaza Corona, sentado en una banca como si estuviera dormido, ejecutado con tres tiros.
 
-El día anterior, Keene había recibido a [[02_Characters/Kal_Mercer]] para oír una propuesta de renta mensual de mantenimiento y reparaciones financiadas para unidades del Departamento. Aceptó un piloto parcial antes de morir.
+El día anterior, a pedido de la teniente Collins la noche del sábado (2026-11-21), Keene había recibido a [[02_Characters/Kal_Mercer]] para oír una propuesta de renta mensual de mantenimiento y reparaciones financiadas para unidades del Departamento. Aceptó un piloto parcial antes de morir.
 
 Su muerte sirve para presentar la cara de Varek:
 

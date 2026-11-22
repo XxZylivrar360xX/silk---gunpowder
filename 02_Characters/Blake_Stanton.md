@@ -31,7 +31,7 @@ Para que no sea sólo el "anti-Kal" (señal de las reseñas de ChatGPT del 2026-
 
 ## Su función: la trampa del parecido
 
-**Blake y Kal son los dos rubios de ojos azules.** Ésa es toda la razón por la que Blake existe en esta novela. Primera aparición, sin nombre: el rubio de uniforme al volante de la unidad 31 en la persecución del Cap. 1 (AUTOR, 2026-11-05).
+**Blake y Kal son los dos rubios de ojos azules.** Ésa es toda la razón por la que Blake existe en esta novela. Primera aparición: el rubio de uniforme al volante de la unidad 31 en la persecución del Cap. 1. **Encargo del autor (2026-11-21; prosa DISEÑO):** ya con nombre: desobedece a Central por el Peugeot, se dobla el eje en la báscula del Puerto Viejo, Kal lo remolca y lo oye inflar la persecución en la cabina; Collins lo cita a su oficina. Su versión mentirosa llega a Chiara en el Cap. 8. Supera «sin nombre» (AUTOR, 2026-11-05): [[98_Agent_Handoff/sessions/2026-11-21_claude_cap01_noche_plan_b]].
 
 Chiara no se equivocó de tipo de hombre: **se equivocó de hombre**. Fue a buscar en la copia lo que ya había encontrado en el original, sin darse cuenta de que lo había encontrado. Ver [[06_Relationships/Hitos]], H3.
 
@@ -81,7 +81,7 @@ Se entera en El Relevo (Volvo de la fiscal abandonado, la grúa de la Almendra, 
 
 > **¿Vuelve? RESUELTO (2026-09-20):** vuelve una vez, en el Cap. 38, y sale acompañado a tierra. No es rival, no hay triángulo. **Cobrado (2026-10-03):** su regreso de verdad ocurre en la trilogía de Elenna, y no por Chiara. Ver abajo.
 
-> **Cap. 23 (archivo 24c), *Luces fuera* (2026-10-29, CANON DEL AUTOR: sin diálogo, evita a Kal deliberadamente):** en la comisaría de Calle Corona oye «Bellandi, Chiara» en la denuncia que Voss le toma a Kal, mira a Kal y se va sin decir nada. Kal ve «STANTON» en el gafete y el nombre no le dice nada. Sale antes de que Collins hable del Peugeot (ledger de revelaciones). La regla «vuelve una sola vez» ya estaba relajada por el Cap. 12 (archivo 10); el yate sigue siendo su único regreso con escena propia.
+> **Cap. 23 (archivo 24c), *Luces fuera* (2026-10-29, CANON DEL AUTOR: sin diálogo, evita a Kal deliberadamente):** en la comisaría de Calle Corona oye «Bellandi, Chiara» en la denuncia que Voss le toma a Kal, mira a Kal y se va sin decir nada. Kal ve «STANTON» en el gafete y lo reconoce: lo llevó en la cabina de la grúa la noche del Cap. 1 (2026-11-21). Sale antes de que Collins hable del Peugeot (ledger de revelaciones). La regla «vuelve una sola vez» ya estaba relajada por el Cap. 12 (archivo 10); el yate sigue siendo su único regreso con escena propia.
 
 > **DISEÑO (2026-09-01), escrito en el Cap. 13 (archivo 12) (*Roma Atrii*):** después de H3-a, Blake tiene un romance breve con una recepcionista del Departamento que termina mal — ella lo deja, y él se lo toma peor de lo que admitiría en voz alta. Chiara se entera por Mabel, como chisme de barra, sin certeza confirmada todavía. Primer hilo hacia el PENDIENTE de arriba: un Blake despechado dos veces (Chiara, y ahora esto) es material acumulado, no usado aún.
 

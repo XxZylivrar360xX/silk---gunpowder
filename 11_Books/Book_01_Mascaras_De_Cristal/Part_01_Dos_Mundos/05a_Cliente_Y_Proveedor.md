@@ -388,7 +388,7 @@ Lo dijo como se dice de una apuesta perdida. Chiara entendió la cuenta que él 
 
 —Fui a la despedida de Keene.
 
-Kal la miró un momento largo, como si acabara de cambiar de lugar una pieza que él ya había dado por perdida.
+Kal la miró un momento largo, como quien oye a otro llegar solo, y por su cuenta, a un camino que él ya había recorrido.
 
 —Su nombre en mi factura —dijo Chiara—. ¿Ya es otro momento?
 

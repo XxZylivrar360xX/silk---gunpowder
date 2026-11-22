@@ -145,7 +145,7 @@ Ver la matriz obligatoria de percepción y prueba en [[04_Concepts/La_Guerra_de_
 
 Al inicio, la relación es de ceguera práctica: una grúa con convenio municipal parece una herramienta del orden, no un vector criminal.
 
-En el primer capítulo, [[02_Characters/Kal_Mercer]] se reúne muy temprano con [[02_Characters/Raymond_Keene]] para proponer un acuerdo de renta mensual: mantenimiento preventivo, prioridad de reparación y reparaciones financiadas a noventa días para unidades de la comisaría. Keene acepta un piloto parcial. La utilidad real para Kal no es sólo el ingreso: una patrulla entrando al taller cada semana vuelve normal que Almendra Towing esté cerca del Departamento.
+En el primer capítulo, [[02_Characters/Kal_Mercer]] se reúne el domingo a las nueve con [[02_Characters/Raymond_Keene]], cita que le consigue Collins la noche anterior por radio, para proponer un acuerdo de renta mensual: mantenimiento preventivo, prioridad de reparación y reparaciones financiadas a noventa días para unidades de la comisaría. Keene acepta un piloto parcial. La utilidad real para Kal no es sólo el ingreso: una patrulla entrando al taller cada semana vuelve normal que Almendra Towing esté cerca del Departamento.
 
 Después pasa a negociación indirecta: Kal puede darles casos, coches, culpables menores, información parcial. Chiara puede decidir qué arresto conviene que parezca importante.
 

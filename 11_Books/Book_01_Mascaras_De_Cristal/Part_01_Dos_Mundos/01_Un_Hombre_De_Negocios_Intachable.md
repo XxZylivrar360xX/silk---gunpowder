@@ -2,14 +2,15 @@
 Estado: BORRADOR (reescrito desde cero el 2026-11-05 por decision del autor; espera lectura).
 Protagonistas: Kal Mercer, Marisol Grayson.
 Ventana temporal: Fase 0, sabado (atardecer y noche) y domingo hasta la tarde; el domingo llegan los socios del Monarch y ocurre H2 (Cap. 2).
-Lugares: Almendra Towing, Puerto Viejo (Terminal Road, muelles), Departamento de Policia, Il Gelsomino, La Esquina de Mabel, casa de Michael en la Almendra (sin nombrarlo).
+Lugares: Almendra Towing, Puerto Viejo (Terminal Road, muelles, patio de contenedores y bascula), Departamento de Policia, Il Gelsomino, La Esquina de Mabel, casa de Michael en la Almendra (sin nombrarlo).
 Funcion: gancho y promesa del libro: el Kal civil y el Kal del Peugeot; Marisol, la carta de Walt, Danny, el contrato con Keene, Matteo como bisagra y la invitacion al Monarch.
 Plan: 11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/00_Plan_Cap01_Desde_Cero.md. Version anterior: Escenas_Eliminadas/01_Un_Hombre_De_Negocios_Intachable_Version_2026-11-05.md (git e04bbed).
-DISENO del agente, fuera del plan, a confirmar: orden Keene, llamada, Gelsomino, taller; se conserva la llamada a Nadir (puerco, pintura, Taurus; "los chicos" le dice a Kal que Danny vive); Mercury como coche del robo; disco trabado en el radio del taller; la mascara, regalo de Danny; "Parentesco" en blanco en el recibo; trece de dieciocho; Keene ordena empezar por la 31; los zapatos del padre de Marisol, que Kal no se pone; la ultima linea.
-AUTOR (2026-11-05, tras la primera version): los tenis los pone Marisol (energia de hombre, no de proveedor); Blake sin nombrar al volante de la 31 (redaccion DISENO).
+DISENO del agente, fuera del plan, a confirmar: orden Keene, llamada, Gelsomino, taller; se conserva la llamada a Nadir (puerco, pintura, Taurus; "los chicos" le dice a Kal que Danny vive); Mercury como coche del robo; disco trabado en el radio del taller; la mascara, regalo de Danny; "Parentesco" en blanco en el recibo; trece de dieciocho; Keene ordena empezar por la 31 (desde 2026-11-21, la 31 ya esta en la fosa); los zapatos del padre de Marisol, que Kal no se pone; la ultima linea.
+AUTOR (2026-11-05, tras la primera version): los tenis los pone Marisol (energia de hombre, no de proveedor); Blake sin nombrar al volante de la 31 (redaccion DISENO; superado el 2026-11-21: Blake nombrado, encargo del autor).
 Reglas 05 y 06 (2026-11-05, encargo del autor; DISENO): nota en 98_Agent_Handoff/sessions/2026-11-05_claude_cap01_desde_cero.md.
 AUTOR (2026-11-06, tras su lectura): transiciones de noche a Keene y de Mabel a la casa; Nadir, llamada; despedida con beso en la frente y "Ese eres tu". Redaccion DISENO, misma nota.
 Cirugia de la lectura (2026-11-21; 13_Auditorias/Book_01_Mascaras_De_Cristal/Cirugia_Lectura_Libro_I.md): recortadas las replicas infladas por los barridos (Marisol con la carta, "Y ya", "Lo se", "Hasta entonces"); Nadir pide no hablar por telefono; linea de logica del Peugeot (placas, nadie le ha visto la cara) antes de sacarlo a probar el pedal. DISENO, espera lectura.
+Noche reescrita (2026-11-21, encargo del autor): Kal con plan B (pickup escondida el jueves en el muelle 5; Nadir y Danny pasan la carga y entregan en Cedar Flats); la foto del Peugeot en el garaje del Departamento ("iba en once") y la desobediencia a Central; la 31 se dobla el eje en la bascula del patio de contenedores; Kal la remolca en grua; Collins por radio le consigue la cita con Keene; Blake nombrado (supera "Blake sin nombrar" del 2026-11-05) y empieza a inflar su version. Prosa DISENO, espera lectura. Nota: 98_Agent_Handoff/sessions/2026-11-21_claude_cap01_noche_plan_b.md.
 -->
 
 # Capítulo 1 — Un hombre de negocios intachable
@@ -176,9 +177,19 @@ Era sencillo. Por eso lo había armado así. Hollis, el de los repuestos de carr
 
 Eso era suyo.
 
-—Sácalo de los muelles.
+Lo otro también era suyo. El jueves, con la grúa, había dejado una pickup blanca al fondo del muelle cinco, detrás de un contenedor de importación, porque una grúa con una camioneta colgando era lo único que podía cruzar el Puerto Viejo sin que nadie volteara. La había pagado en efectivo, y traía las placas de un coche que ya era chatarra. No se lo había dicho a nadie: un plan que conocían todos era un plan que cualquiera podía contar.
 
-—Ya se lo dije. Me dijo que sí, muy contento, y aceleró.
+—Muelle cinco —dijo—. Al fondo, detrás del último contenedor, el azul, hay una pickup blanca, con la llave en el tapón de la gasolina. Pasen las cajas, esperen a que ya no se oigan sirenas y salgan sin luces por el camino de las vías, hasta la cementera. De ahí, a Cedar Flats, y la camioneta se queda allá. A las patrullas me las llevo yo.
+
+Del otro lado, por un momento, sólo hubo motor.
+
+—¿Desde cuándo hay una camioneta en el muelle cinco, khoya?
+
+—Desde el jueves. Si la alarma no sonaba, no te hacía falta saberlo.
+
+—Wallah. —Nadir se apartó del teléfono—. ¡Danny! Muelle cinco, el último, hasta el fondo. ¿Me oíste? El último.
+
+—¡El último, jefe! —gritó Danny, más contento todavía.
 
 Kal dejó el Ford con el capó abierto.
 
@@ -190,17 +201,21 @@ De la Almendra al Puerto Viejo había quince minutos por las rutas de carga, en 
 
 Terminal Road olía a diésel y a sal vieja. De noche era una sola recta de rejas y bodegas, con dobles remolques dormidos frente a la aduana y una lámpara cada cien metros. Kal esperó en la boca de un callejón, con las luces apagadas. El Mercury pasó primero, largo, gris, con la cola hundida y el motor gritando. Detrás, a treinta metros, dos torretas llenaban de azul las rejas.
 
+Las dos iban a seguir al Peugeot. Kal contaba con eso más que con el motor. En el garaje del Departamento, junto al reloj de entrada, había una foto del 106 sacada de una cámara de peaje, borrosa, y debajo una cuenta con marcador que nadie se atrevía a borrar: las veces que se les había ido. La había visto en marzo, cuando fue a cambiar pastillas por rotación. Iba en once.
+
 Salió entre el Mercury y la primera patrulla, y levantó el pie para que lo vieran bien.
 
 —*Central, treinta y uno. Se me metió un… Es el Peugeot. Tengo al Peugeot, Central.*
 
-—*Treinta y uno, usted va tras un Mercury con reporte de robo.*
+—*Treinta y uno, negativo. Usted va tras un Mercury con reporte de robo. El Peugeot se le reporta a la VED.*
 
-—*Que lo siga el veintisiete.*
+—*La VED está en Kingsley Field, Central, y yo lo tengo enfrente. Que el veintisiete siga al Mercury.*
 
 —*Veintisiete. Negativo, voy con el Peugeot.*
 
-En el espejo, las dos torretas se le pegaron. El Mercury siguió solo, hacia los muelles, cada vez más chico. En toda la historia del Departamento nadie había ascendido por alcanzar un Mercury.
+—*Treinta y uno, veintisiete, se les ordena…*
+
+Kal le bajó a la frecuencia. En el espejo, las dos torretas se le pegaron. El Mercury siguió solo, hacia los muelles, cada vez más chico, y nadie lo vio doblar. En toda la historia del Departamento nadie había ascendido por alcanzar un Mercury.
 
 —Se fueron —dijo Nadir, desde el asiento—. Se fueron las dos. Hamdulillah, khoya, wallah, te debo…
 
@@ -214,11 +229,11 @@ Kal dejó que la treinta y uno se le emparejara. Nadie había llegado nunca tan 
 
 Treinta y uno. Crown Victoria. A esa unidad Kal le había cambiado las pastillas en marzo, por rotación, y había escrito en la hoja que le duraban dos meses. Metió el pie, sacó medio largo y dejó que lo persiguiera. Llevó la recta completa hasta la curva de la aduana, con el motor pidiéndole otra cosa y la nariz de la patrulla a dos largos, a uno, y clavó el freno donde no había ninguna razón para hacerlo. El Peugeot se sentó sobre las llantas de adelante, entró y salió.
 
-Por encima de la canción oyó el chillido. El rubio no había levantado el pie hasta el último momento, porque un hombre como ése no frena antes que un cochecito. La Crown Victoria siguió derecho, larga, entera, hasta la reja de la aduana, y se llevó un tramo.
+Por encima de la canción oyó el chillido. El rubio no había levantado el pie hasta el último momento, porque un hombre como ése no frena antes que un cochecito. La Crown Victoria se fue larga en la curva, con las pastillas echando humo, y se quedó atravesada a un metro de la reja de la aduana. Para cuando volvió a enderezarse, el Peugeot le llevaba cien metros.
 
 La veintisiete era la otra Crown Victoria, y de las cuatro con llantas que no pasaban lluvia fuerte era la peor. Esa noche no llovía en todo el condado. Pero a la mitad de Terminal Road estaba el lavado de tráileres, abierto de costado, con el concreto brillando de agua y jabón bajo una sola lámpara. Lo cruzó a la velocidad que el coche aguantaba, con las llantas buscando y encontrando. La veintisiete entró detrás de él como entra un hombre seguro a una cocina recién trapeada. Se fue de lado, despacio, sin que nadie pudiera hacer nada por ella, y se quedó besando una fila de conos.
 
-Kal soltó el aire dentro del hule.
+Kal soltó el aire dentro del hule. Le quedaba una.
 
 —Ya, Danny —estaba diciendo Nadir, en el asiento, con otra voz—. Ya no viene nadie. Mira atrás. Suelta, ya no viene nadie. Danny. Khoya, es el último, es el muelle cinco, ¿para dónde…? Danny. Frena. Frena. *Frena…*
 
@@ -230,31 +245,35 @@ Kal bajó la canción.
 
 Viento. Algo que goteaba. Y muy cerca del teléfono, sin aire, alguien riéndose.
 
-—Muelle cinco —dijo Nadir—. Estamos enteros. Las cajas, no todas.
+—Muelle cinco —dijo Nadir—. Estamos enteros. Las cajas, no todas. El Mercury quedó colgando del borde, khoya, y lo de atrás se lo está comiendo el agua.
 
-El muelle cinco tenía doscientos metros de tablones, contenedores a un lado y ninguna otra salida. Danny había clavado el freno donde se acababa. El Mercury había dado media vuelta y se había ido de cola: colgaba del borde por las llantas delanteras, con el capó apuntando al cielo y el maletero reventado sobre el agua. Abajo, en lo negro, flotaban cuatro cajas de cartón muy bonitas, y otra iba cayendo en ese momento, sin prisa, de la orilla de la lámina.
+—¿Y la camioneta?
 
-Kal frenó al lado y se quitó la máscara. Nadir traía la de tela negra subida a la frente.
+—Detrás del azul, como dijiste. —Cartón mojado, una puerta que se abría—. Danny. Danny, deja el agua. Las que están arriba. Lo que se cayó, ya se cayó.
 
-—Súbanse.
+—*Unidades en Terminal Road, ¿posición del Mercury?*
 
-Nadir ya venía con dos cajas contra el pecho. Las metió por la ventanilla, sobre el asiento, y volvió por otra. Danny seguía parado junto al coche colgado, mirando el agua y riéndose de algo.
+Nadie contestó. La treinta y uno venía otra vez por la recta, sola, despacio, con el reflector barriendo las rejas.
 
-—Nadir. Súbanse.
+—*Treinta y uno, ¿posición del Mercury?*
 
-—¿Con qué? ¿Encima de los turbos? —Metió la última y le dio una palmada al techo—. Dos hombres a pie en el puerto son dos hombres a pie, khoya. Las patrullas van tras lo que se mueve. Tú llévate lo que vale. A ti no te han alcanzado nunca.
+—*Entró a los muelles, Central. De ahí no tiene salida.*
 
-Kal miró a Danny. Danny le levantó el pulgar, con la rodilla brincándole sola.
+Eran cinco muelles. A la treinta y uno le bastaba con asomarse a cada uno.
 
-—Yo lo llevo —dijo Nadir, y por primera vez no lo dijo como un precio.
+Kal prendió los faros en la entrada del patio de contenedores, a la vista, y esperó a que lo vieran.
 
-Kal se puso la máscara.
+—*Central, lo tengo otra vez. El Peugeot. Voy.*
 
-El 106 arrancó como un coche ajeno, con la nariz al aire y las cajas golpeándole el respaldo. Pisó el freno a mitad del muelle para probar, y el pedal se fue un palmo más abajo de donde lo había dejado.
+—*Treinta y uno, el Mercury…*
 
-Al final de los tablones, una torreta.
+—*El Mercury no se va a ningún lado, Central.*
 
-La treinta y uno se había soltado de la reja de la aduana y venía con un faro de menos. Se paró atravesada en la boca del muelle, de un derrape, con la puerta ya abriéndose y el rubio saliendo por ella, frente al primer contenedor. El hueco era el que había dejado él, que no lo había medido. Kal sí: un metro setenta, quizá, con la esquina del contenedor un poco más adentro arriba que abajo. El 106 no llegaba a uno sesenta. Esa cuenta la hacía todos los días con una grúa, para meter un gancho entre dos coches mal estacionados. Pero un gancho se podía parar, y él llevaba Hollis hasta el techo y un pedal que ya no le contestaba.
+El patio era un tablero de pasillos de acero apilado a tres alturas, con la báscula de camiones a la salida: una plancha que subía medio metro por una rampa corta y bajaba igual. Kal entró por el pasillo del centro. Pisó el freno para probar, y el pedal se fue un palmo más abajo de donde lo había dejado. La curva de la aduana le había cobrado a él también.
+
+Al final del pasillo, una torreta.
+
+La treinta y uno había dado la vuelta por fuera, por la orilla de los rieles, y se paró atravesada en la salida, de un derrape, con la puerta ya abriéndose y el rubio saliendo por ella, frente al último contenedor. El hueco era el que había dejado él, que no lo había medido. Kal sí: un metro setenta, quizá, con la esquina del contenedor un poco más adentro arriba que abajo. El 106 no llegaba a uno sesenta. Esa cuenta la hacía todos los días con una grúa, para meter un gancho entre dos coches mal estacionados. Pero un gancho se podía parar, y él traía un pedal que ya no le contestaba.
 
 No frenó.
 
@@ -262,37 +281,123 @@ El rubio se metió de un salto y la puerta de la patrulla se cerró de golpe. El
 
 Salieron.
 
+Kal no fue derecho. Rodeó la báscula por el carril de los coches, despacio, para que el pedal no tuviera que contestarle nada, y en el espejo vio arrancar a la treinta y uno, con la puerta todavía abierta, cortando la esquina por donde la cortaría un hombre que acababa de quedar mal. Agarró la rampa de la báscula de lado, a una velocidad que la rampa no había conocido nunca. Brincó. Al caer se oyó un golpe seco, de hierro, y la torreta se quedó donde estaba, inclinada como un cuadro mal colgado.
+
 —*Central, se me fue. …No, Central, por un lado. …Por el lado que no había.*
 
-Kal bajó el volumen. Tomó la primera subida hacia el norte, apagó las luces y se sacó la máscara, con el pelo empapado. El disco acabó y volvió a empezar. En el asiento, entre las cajas, el teléfono llevaba un rato sin decir nada. Cuando pudo, a oscuras, buscó el número y marcó.
+La frecuencia se quedó un rato sin nadie.
 
-Buzón.
+—*Central, treinta y uno. Solicito grúa. …No, Central, no se mueve. Es el eje, creo.*
 
-Cedar Flats quedaba a una hora, y el Peugeot frenaba como una cama.
+—*Treinta y uno, la grúa del condado está en la ciento uno, con un tráiler volcado. Le calculan noventa minutos.*
 
-***
+—*¿Noventa?*
 
-Volvió con el asiento vacío y oliendo a cartón, tanteando el pedal en cada bajada. Kingsley Field pasó de lado, con las luces de pista prendidas para nadie. Cuando entró a la Almendra todavía no clareaba: las cortinas abajo, la calle sin un alma y un tren de carga detenido en las vías, con la máquina respirando.
+Kal tomó la primera subida hacia el norte, apagó las luces y se sacó la máscara, con el pelo empapado. El disco acabó y volvió a empezar. En el asiento, el teléfono dijo una última cosa.
 
-Metió el Peugeot detrás del taller y le echó la lona encima, con la raya de la puerta contra la pared. El sillón del techito estaba vacío. Se frotó los brazos en el lavadero, con jabón de taller, hasta donde el jabón llegaba, se puso la camisa limpia que guardaba en la oficina y tomó la carpeta del Departamento, que llevaba una semana lista. Después sacó una grúa y bajó otra vez al Puerto Viejo, porque una grúa era lo único que podía pasar por ahí sin que nadie volteara.
+—Vamos arriba, khoya, con lo que quedó. Inshallah, en la mañana te cuento.
 
-Amanecía gris sobre Terminal Road. A la reja de la aduana le faltaba un tramo, y en el lavado de tráileres un muchacho recogía los conos. En la boca del muelle cinco había cinta amarilla, y una grúa del condado trataba de bajar el Mercury del borde; lo habían enganchado mal. Kal siguió de largo, a veinte millas, mirando las rejas, los contenedores y los durmientes de las vías hasta donde se acababa la calle. Dio dos vueltas. Marcó tres veces. Buzón. Un vigilante con un termo lo vio pasar las dos veces y siguió soplándole al café.
+Noventa minutos. Del taller al Puerto Viejo, en grúa, había quince. Eso no estaba en ningún plan, pero lo tuvo entero antes de llegar a la Almendra.
 
-A las ocho y media dejó de buscar, porque tenía una cita.
+Metió el Peugeot detrás del taller y le echó la lona encima, con la raya de la puerta contra la pared y la máscara debajo del asiento. El sillón del techito estaba vacío. Metió la cabeza bajo la llave del lavadero hasta que el pelo le olió a jabón de taller y no a hule, se puso la camisa de la grúa y llamó a la Central desde el teléfono de la oficina, con la voz de las facturas, para ofrecer una grúa libre a veinte minutos del Puerto Viejo. Omar andaba en Santa Brígida con otro servicio. En la Central le dijeron que sí antes de preguntarle el precio.
+
+Bajó otra vez por las rutas de carga, ahora a la velocidad de una grúa. En la boca del muelle cinco había una patrulla con las torretas prendidas y un policía con una lámpara, alumbrando el agua. El Mercury colgaba del borde por las llantas delanteras, con el capó apuntando al cielo y el maletero reventado. Abajo, en lo negro, flotaban cuatro cajas de cartón muy bonitas. Detrás del contenedor azul no había nada.
+
+La treinta y uno seguía sobre la báscula, con la llanta delantera derecha metida hacia adentro como un pie torcido. El rubio estaba sentado en el capó, con el cuello abierto y un cigarro sin prender, y se bajó antes de que Kal frenara.
+
+—¿Tú eres el de los veinte minutos? Llegaste en dieciocho. —Le enseñó el nombre de la placa con el pulgar—. Stanton. Me la llevas con cuidado, que no es mía, pero me la van a cobrar como si lo fuera.
+
+Kal se agachó junto a la llanta con la lámpara. El brazo de control estaba doblado hacia atrás, y la llanta apuntaba hacia la otra.
+
+—La báscula sube medio metro en tres —dijo—. Los tráileres la pasan a diez por hora. A cuarenta se pasa con un golpe en la espalda; a lo que usted venía, se pasa así. Se le dobló el brazo de control, y a lo mejor la flecha. Me la llevo con la delantera colgada, para no arrastrar la llanta, y mañana le digo si el eje se salvó.
+
+—A lo que yo venía. —Blake se rio solo—. ¿Sabes a quién traía? Al Peugeot. El rojo, el chiquito, el que se le ha ido a media comisaría. Lo encerré en un pasillo de contenedores, le cerré la salida con la unidad, y se metió por un hueco donde no cabía un carrito de supermercado. Le dejé la puerta marcada, eso sí. Algo se llevó de recuerdo.
+
+Kal enganchó la cadena y la tensó.
+
+—En la Central dicen que nadie le ha visto la cara.
+
+—Nadie. Trae una máscara de fiesta, un malvavisco con ojitos, y te voltea a ver así, a cuatro metros, a ochenta millas. —Ladeó la cabeza, imitándolo—. Te juro que se estaba riendo de mí.
+
+Debajo del hule no se había reído nadie.
+
+Blake se subió a la cabina sin que nadie lo invitara, y habló todo el camino. Del Puerto Viejo a las vías contó la persecución tres veces, y en cada vuelta el hueco del pasillo salía más angosto y la báscula más alta. Kal manejó con las dos manos en el volante y la frecuencia baja, y no le corrigió nada.
+
+En el patio de Almendra Towing bajó la Crown Victoria junto a la fosa, a seis metros de la lona. Blake se apoyó en la cerca, de espaldas a ella, y siguió contando para nadie hasta que le habló el radio del cinturón.
+
+—*Treinta y uno, aquí Collins. Deme su ubicación.*
+
+Kal conocía la voz. La oía casi todas las noches desde la grúa, con estática: la teniente de la VED, la de los Mustang. Hablaba despacio, con una voz dulce, y cuando ella hablaba la frecuencia se callaba.
+
+Blake se enderezó, como si lo estuvieran viendo.
+
+—*Teniente. Estoy con la unidad en un taller de la Almendra. La grúa del condado tardaba noventa minutos y aquí me…*
+
+—*¿Qué taller?*
+
+Blake buscó el letrero de la entrada.
+
+—*Almendra Towing, teniente.*
+
+La frecuencia se quedó abierta un momento, con estática y nada más. Cuando Collins volvió, hablaba igual de despacio, pero ya no estaba regañando a nadie.
+
+—*Páseme al de la grúa.*
+
+Blake le tendió el radio, con la mano encima del micrófono.
+
+—Se le bajó. ¿Viste? Conmigo no le dura.
+
+Kal lo tomó.
+
+—*Teniente.*
+
+—*Mercer.* —Un poco de estática—. *Qué rápido llegó.*
+
+—*Tenía el escáner prendido, teniente. La del condado estaba en la ciento uno con un tráiler volcado, y un sábado en la noche, en el Puerto Viejo, no había otra cosa que oír.*
+
+—*¿Y cuánto le va a costar al Departamento que usted oiga tan bien?*
+
+Kal miró la Crown Victoria, con la llanta torcida y la defensa a la altura de la fosa.
+
+—*Lo que cuesta una emergencia en sábado: el arrastre a tarifa nocturna, el brazo y a lo mejor la flecha a precio de lista, y la unidad parada hasta que llegue la pieza. Así le cuestan todas, porque todas se pagan como emergencia. Con una renta al mes, la grúa ya iría incluida, las piezas a noventa días, y esta unidad estaría de vuelta el martes. Lo tengo por escrito desde hace una semana: seis unidades, tres meses, de prueba. En la oficina del jefe me dicen que ellos me llaman.*
+
+Del otro lado alguien dijo algo que no era para la radio, y se calló.
+
+—*Mañana a las nueve el jefe viene a firmar lo del alcalde. Es domingo; no lo interrumpe nadie. Llévele su carpeta, que yo le aviso que va.* —Una pausa, más corta—. *El lunes le van a faltar dos unidades, Mercer. Alguien tiene que explicarle por qué, y prefiero que no sea yo.*
+
+—*A las nueve, teniente. Gracias.*
+
+—*Páseme otra vez a Stanton.*
+
+Blake tomó el radio con la sonrisa ya puesta.
+
+—*Stanton. Mañana a las siete, en mi oficina, con el parte escrito de su puño. Quiero leer por qué una unidad de patrulla persiguió un auto de la VED contra una orden de Central, y cómo se le perdió un Mercury lleno en un muelle sin salida.*
+
+—*Sí, teniente.*
+
+La frecuencia se cerró. Blake se quedó mirando el radio, y después se lo colgó del cinturón con cuidado, como si todavía pudiera decir algo.
+
+—Es buena —dijo—. Dura, pero buena. Mañana se le pasa.
+
+A las once pasó por él la veintisiete, con una llanta de repuesto y pedazos de cono anaranjado en la defensa.
+
+Kal se quedó con la Crown Victoria. Le quitó la llanta, midió el brazo contra el del otro lado y le pasó la mano a la flecha, que se había salvado. El sillón del techito siguió vacío. A las cuatro y diez le vibró el teléfono: un número de Nadir, *13*, y después nada. Ni una palabra de Danny. Marcó dos veces. Buzón.
+
+Cuando clareó, se frotó los brazos en el lavadero, con jabón de taller, hasta donde el jabón llegaba, se puso la camisa limpia que guardaba en la oficina y tomó la carpeta del Departamento, que llevaba una semana lista y desde la noche tenía hora.
 
 A las nueve del domingo, sin haber dormido, Kal Mercer le vendía frenos al Departamento de Policía de San Aurelio.
 
-El jefe lo recibía ese día porque entre semana el Ayuntamiento no lo dejaba en paz. La oficina de Raymond Keene estaba al fondo de un pasillo con demasiadas fotos enmarcadas, y Calle Corona, allá abajo, tenía la cara lavada de los domingos. Keene no se levantó. Traía la camisa planchada y la corbata floja, y tenía una taza de café que no había tocado y una hoja encima de todas las carpetas.
+El jefe lo recibía en domingo porque una teniente se lo había pedido de noche, y porque entre semana el Ayuntamiento no lo dejaba en paz. La oficina de Raymond Keene estaba al fondo de un pasillo con demasiadas fotos enmarcadas, y Calle Corona, allá abajo, tenía la cara lavada de los domingos. Keene no se levantó. Traía la camisa planchada y la corbata floja, y tenía una taza de café que no había tocado y una hoja encima de todas las carpetas.
 
-Kal leía al revés desde los doce años. *Mercury sin registro, muelle 5. Mercancía en el agua. Dos individuos a pie, no localizados.*
+Kal leía al revés desde los doce años. *Mercury sin registro, muelle 5. Mercancía en el agua. Ocupantes no localizados.*
 
-No localizados. Lo leyó una vez más, sin cambiar la cara, y se sentó sin acomodarse demasiado. El corredor de Cedar Flats había abierto las cajas en una mesa de seleccionar lechuga y había dicho trece. Nadir seguía sin contestar.
+No localizados. Lo leyó una vez más, sin cambiar la cara, y se sentó sin acomodarse demasiado. De Nadir seguía sin tener más que el trece de las cuatro de la mañana.
 
-—Me dicen que quiere cobrarnos antes de arreglar algo —dijo Keene.
+—Collins me dice que quiere cobrarnos antes de arreglar algo —dijo Keene—. Y que ya tiene una de mis unidades.
 
 Kal dejó la carpeta junto a la hoja.
 
-—Quiero que dejen de pagar cada avería como emergencia. Renta mensual de mantenimiento, y piezas a noventa días cuando el presupuesto no alcance.
+—Desde anoche, en la fosa, porque la grúa del condado estaba a noventa minutos. Quiero que dejen de pagar cada avería como emergencia. Renta mensual de mantenimiento, y piezas a noventa días cuando el presupuesto no alcance.
 
 —¿Y qué compra usted con esto?
 
@@ -302,7 +407,7 @@ Kal dejó la carpeta junto a la hoja.
 
 Kal miró la taza intacta.
 
-—Compra que mis grúas no sean sorpresa cuando estén cerca de una patrulla. Que si una unidad truena en Santa Brígida no espere dos horas por un remolque del condado. Diga que está probando un sistema. Seis unidades. Tres meses. Si no funciona, lo cancela con números en la mano.
+—Compra que mis grúas no sean sorpresa cuando estén cerca de una patrulla. Que si una unidad truena en Terminal Road no espere noventa minutos a un remolque del condado. Diga que está probando un sistema. Seis unidades. Tres meses. Si no funciona, lo cancela con números en la mano.
 
 —¿Por qué seis?
 
@@ -338,11 +443,11 @@ Keene tomó una pluma.
 
 Firmó la primera hoja y dejó las demás sin tocar.
 
-—Los martes a las diez. Y empieza por la treinta y uno: frenos, todo nuevo. —Le empujó la carpeta con dos dedos—. A ese payaso lo vamos a alcanzar con su contrato.
+—Los martes a las diez. Y la treinta y uno, que ya la tiene: eje, frenos, todo nuevo, a cuenta del contrato. —Le empujó la carpeta con dos dedos—. A ese payaso lo vamos a alcanzar con su contrato.
 
 Kal tomó la carpeta.
 
-Una patrulla que entraba cada martes al taller de la Almendra dejaba de ser sospecha. Y una Crown Victoria que entraba chillando iba a salir frenando como nueva, con su firma en la hoja.
+Una patrulla que entraba cada martes al taller de la Almendra dejaba de ser sospecha. Y la Crown Victoria que había entrado colgando de su grúa iba a salir frenando como nueva, con su firma en la hoja.
 
 Dobló hacia Calle Corona con la ventanilla abajo y pulsó el número otra vez, sin esperar nada. Contestaron entre estática y una herramienta neumática.
 
@@ -364,7 +469,7 @@ Kal miró el semáforo que acababa de ponerse en rojo.
 
 —Es fácil para ti decirlo. Además, eso sólo pasó una vez, safi. Mi Taurus ya se recuperó de los rayones de ese malvado arbusto.
 
-Kal soltó una risa breve, la primera desde el muelle.
+Kal soltó una risa breve, la primera desde Terminal Road.
 
 —Voy al Gelsomino. ¿Te llevo algo?
 
@@ -394,11 +499,7 @@ Calle Corona se acababa en las vías. Del otro lado, la grúa entró a Avenida A
 
 Nadir lo esperaba en la puerta de la oficina, un cuarto de block pegado al taller, con dos vasos de café y el formato del condado para el arrastre del Ford. Traía la pluma destapada. Kal le quitó la hoja antes de que la punta tocara el recuadro del operador, escribió su propio nombre y su propio número y la dejó en el escritorio. Nadir lo miró un segundo. No preguntó.
 
-—Por las vías hasta la cementera —dijo—. Tres horas, khoya, él cantando. Después un taxi que cobró cuarenta y dos dólares, y ni un centavo menos, wallah, porque nos vio los zapatos. ¿Cuánto dio el de Cedar Flats?
-
-—Trece.
-
-—Eran dieciocho. Dieciocho, y un Mercury. —Hizo la cuenta en el vaso, con un dedo, y la dejó sin terminar—. Está en el sillón.
+—La camioneta se quedó en Cedar Flats, detrás de la empacadora, con la llave en el tapón, como dijiste —dijo—. El hombre abrió las cajas en una mesa de seleccionar lechuga y dijo trece, khoya, delante de mí, sin vergüenza. De regreso, un taxi que cobró noventa dólares, y ni un centavo menos, wallah, porque nos vio los zapatos. —Hizo la cuenta en el vaso, con un dedo—. Eran dieciocho. Dieciocho, y un Mercury. —La dejó sin terminar—. Está en el sillón.
 
 Detrás del taller, bajo el techito de lámina, Danny dormía en un sillón de tres plazas con la boca abierta y una bota puesta. Treinta años, y a esa distancia parecía de quince o de cincuenta. Rocco se había salido de la casa de tablas que Kal le había nivelado dos veces y estaba echado contra el sillón; abrió un ojo, comprobó que Kal no traía nada de comer y lo volvió a cerrar. El pecho de Danny subía y bajaba. Kal contó sin haberlo decidido.
 
@@ -422,7 +523,7 @@ Kal no contestó.
 
 Héctor sacó una llave Allen del bolsillo de la camisa, la miró a contraluz y la limpió en el pantalón con asco.
 
-—Dile a Nadir que si le vuelve a tirar mis llaves a ese perro, el que va a ir por ellas es él. Y anoche entraron tres llamadas después de medianoche. Omar no puede partirse en dos. Necesitamos gente para turno nocturno.
+—Dile a Nadir que si le vuelve a tirar mis llaves a ese perro, el que va a ir por ellas es él. Y hay una patrulla en mi fosa, con el brazo doblado, y nadie me avisó. Y anoche entraron tres llamadas después de medianoche. Omar no puede partirse en dos. Necesitamos gente para turno nocturno.
 
 —Ya lo hablé con Garrett. Regresa en un par de días.
 

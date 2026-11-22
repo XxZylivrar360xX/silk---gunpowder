@@ -19,6 +19,7 @@ Primer encuentro con los chicos (2026-11-03, DECISION DEL AUTOR; prosa DISEÑO):
 Ruleta y cierre nuevo (2026-11-03, DECISION DEL AUTOR; prosa DISEÑO, BORRADOR en este tramo): el capitulo ya no cierra en el taxi, que queda como transito (conserva el Peugeot armado, que cita el Cap. 9). Penthouse: el ladrillo pasa a la mesa de noche del lado que Chiara no usa (lado de Kal en el Cap. 22; resuelve el PENDIENTE de H3: lo conserva). Tina con la reflexion de la "misma pintura" (eco del Cap. 2). La ruleta, trasladada del Cap. 7, cobra la invitacion de Gabriella's ("pase por el casino cuando quiera"): tres menos diez, despues de la entrega a Dario de esa misma noche; Danny toca con nudillos, alguien lo regaña, Nadir toca el timbre con pantalla, y Chiara los ve saludar en ella (idea del autor); fajo del sobre, paja en la gorra (cobro en el Cap. 9). Chiara se rie: alivio tras Blake. Cierre: billetes debajo del ladrillo. Se conserva "Trabajo de madrugada" (canon de H3). DISEÑO del agente: "Mercer colgo las llaves", la copa de Nadir sola en la barra, "No es chistoso / Un poco".
 Favor y Vento (2026-11-04, DECISION DEL AUTOR; prosa DISEÑO, BORRADOR en este tramo; supersede los dos parrafos anteriores en lo que contradigan): la ruleta regresa al Cap. 7, asi que los chicos ya son conocidos. En Gabriella's, Chiara le ofrece un favor a Nadir por ser amigo de Kal ("La casa no debe... La casa hace favores"); se quedan "Usted es el problema", el dentista y "Cuando quiera". Cierre: tres toques y timbre, conversacion por el parlante ("Vengo a cobrar"; ella teme que tenga que ver con la tarjeta de Dario, sin explicarlo); el favor es que Danny monte. Bajan al corral: Chiara monta primero en Vento (al paso), Danny despues, de la cuerda; "Los domingos... A las seis ya voy de regreso" (de ahi lo sabe Kal, Cap. 11). Vento le revisa el bigote a Russ y Russ se rie, primera vez; a ella se le contagia, casi sin ruido (la carcajada entera sigue reservada al Cap. 9). No se dice que Vento es de ella (lo cuenta en el archivo 33). Fuera: Chiara repartiendo, los 640 bajo el ladrillo. Cierre: paja bajo el ladrillo. "Danny saluda en la pantalla" (idea del autor) intacto. Corrado no aparece.
 Cirugia de la lectura (2026-11-21; BORRADOR, espera lectura): el taxi ya no descubre el Peugeot (D5), «—¿Eso le dijo? —pregunto Chiara», Blake patrullero, fuera la glosa del regaño y «En mi familia me dirian que no se negociar». Detalle: 98_Agent_Handoff/sessions/2026-11-21_claude_cirugia_lectura_cap08.md.
+Version de Blake (2026-11-21, encargo del autor): el Peugeot "casi" ya no es en Kingsley Field sino la noche del Cap. 1 en el Puerto Viejo, inflada (lo encerro solo, le arranco media puerta, la bascula a ochenta); el lector ya vio lo que paso. DISENO, espera lectura.
 -->
 
 # Capítulo 8 — La noche del ladrillo
@@ -67,11 +68,11 @@ Fue entonces cuando pasó por la calle lo que en el Departamento llamaban, medio
 
 Blake se enderezó como si el coche le hubiera activado algo.
 
-—Ahí va. —Sonrió, la sonrisa de un hombre que se cree parte de la historia que está contando—. Ese coche se le ha escapado a media comisaría. Yo casi lo tuve el mes pasado, cerca de Kingsley Field. *Casi.*
+—Ahí va. —Sonrió, la sonrisa de un hombre que se cree parte de la historia que está contando—. Ese coche se le ha escapado a media comisaría. Yo lo tuve, la semana de lo de Keene, en el Puerto Viejo. Lo encerré solo en el patio de contenedores, sin esperar a la VED, con la unidad atravesada en la única salida, y se metió por un hueco donde no cabía. Le arranqué media puerta. Para no soltarlo me llevé una báscula a ochenta, y ahí sí se me fue. *Casi.*
 
 —¿Nunca le han visto la cara al conductor?
 
-—Nunca. —Blake dijo la palabra con el orgullo raro de alguien que presume una derrota como si fuera casi una victoria—. Y eso que yo sé manejar. No hay nadie en el Departamento que tome esas curvas como yo.
+—Nunca. Lo tuve a cuatro metros y traía una máscara de fiesta. —Blake lo dijo con el orgullo raro de alguien que presume una derrota como si fuera casi una victoria—. Y eso que yo sé manejar. No hay nadie en el Departamento que tome esas curvas como yo.
 
 Chiara no dijo nada.
 

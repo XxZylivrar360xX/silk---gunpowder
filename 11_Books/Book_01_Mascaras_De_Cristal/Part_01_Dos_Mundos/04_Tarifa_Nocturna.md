@@ -561,7 +561,7 @@ Luego llamó.
 
 A esa hora las llaves de la azul ya estaban en su clavo.
 
-Kal las colgaba al volver, y con eso se acababa el día. De noche, una vez que cruzaba el portón de regreso, no salía otra vez hasta la mañana, ni por un arrastre ni por nadie; para eso había turnos. En el patio lo sabían como se sabe a qué hora pasa el camión de la basura.
+Kal las colgaba al volver, y con eso se acababa el día. De noche, una vez colgadas, no salía otra vez hasta la mañana, ni por un arrastre ni por nadie; para eso había turnos. En el patio lo sabían como se sabe a qué hora pasa el camión de la basura.
 
 Seguía de negro. Habían vuelto hacia las nueve y media y llevaba dos horas entre la grúa y la oficina. Se había quitado los guantes y nada más, y llenaba la hoja del día de pie junto al escritorio, con el codo derecho pegado al cuerpo. Enfrente, Nadir contaba billetes sobre la esquina de la madera.
 
