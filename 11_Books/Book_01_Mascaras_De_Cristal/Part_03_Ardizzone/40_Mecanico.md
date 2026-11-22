@@ -1,4 +1,5 @@
 <!--
+**Cirugía de la lectura (2026-11-21, Claude Code; [[98_Agent_Handoff/sessions/2026-11-21_claude_cirugia_lectura_cap36]]):** Volpi sale de la prosa (D8): el pensamiento de Kal queda en «el de un hombre que no se sentaba a esa mesa»; el nombre ya no se menciona ni en pensamiento. «Peso lo mismo que en agosto» pasa a «Es la ropa del viaje» (Ettore no la veía desde antes, y Livia dice «Cuánto tiempo»); de noche Kal ya no busca vuelos («Sácame un boleto»). Segundo lector: Danny se oye detrás del portón, «la mujer» (nadie le presentó a Livia), «otro chofer», «El viñedo era de ella», la mamá de Sam. Literales intactos. Regla 06: 24 %. Sigue BORRADOR.
 Lectura del autor de la Parte III (2026-11-08, [[98_Agent_Handoff/sessions/2026-11-08_claude_lectura_parte_iii]]; prosa DISEÑO, espera lectura): corregido el conocimiento de Kal ante la fotografía de Alessio: ya sabe la historia por *Libros abiertos*; lo que ignora es qué quiere Livia al ponerla en la mesa.
 Nuevo cauce (Fase 4, 2026-11-08, encargo del autor con el método de [[98_Agent_Handoff/encargos/ENCARGO_Fase4_Paralelo_Reusa]]; verbo «Funde», fuera del reparto Reusa): **nuevo Cap. 36** (T23, POV Kal, en [[11_Books/Book_01_Mascaras_De_Cristal/00_Mapa_Cauce_Cap11_Camp_Alder]]). Funde *Mecánico* (este archivo, antes Cap. 45 en la numeración de 56) y *Un par de días más* (archivo 39, antes Cap. 44), que queda como marcador excluido de EPUB. El archivo conserva su nombre. Título CONFIRMADO Y DEFINITIVO por el autor (2026-09-21): «Mecánico».
 Estado: BORRADOR. Prosa DISEÑO pendiente de lectura del autor. Versiones anteriores íntegras, con su historial (cirugía E7, Frente 1, Frente 4, retrato Halbrook, costura H13, regla 05): [[11_Books/Book_01_Mascaras_De_Cristal/Escenas_Eliminadas/40_Mecanico_Version_2026-11-08]] y [[11_Books/Book_01_Mascaras_De_Cristal/Escenas_Eliminadas/39_Un_Par_De_Dias_Mas_Version_2026-11-08]]. Sesión: [[98_Agent_Handoff/sessions/2026-11-08_claude_fase4_cap36_mecanico]].
@@ -11,7 +12,7 @@ Costura de cierre: engancha con el nuevo 37 (*Reclamable*), que abre con Chiara 
 Protagonista: Kal Mercer (POV único, tercera persona cercana).
 Personajes con diálogo: Kal, Chiara, Ettore, Leone Valenti, Livia Rinaldi, el intermediario (por teléfono), Marisol Grayson, Nadir Amrani, Danny Hayes, Meiko Nakano, Héctor Navarro, Dario Varek (por teléfono), Garrett Cross (por teléfono).
 Cameos sin diálogo: Bonnie García; personal de la casa; el encargado del viñedo.
-Mencionados: Warren Halbrook (pensamiento), Nereo Volpi (pensamiento), Vento, Alessio Lusardi (fotografía), Matteo Bellacorte.
+Mencionados: Warren Halbrook (pensamiento), Nereo Volpi (pensamiento, sin nombre desde la cirugía de la lectura, D8), Vento, Alessio Lusardi (fotografía), Matteo Bellacorte.
 Lugares: la casa de los Ardizzone en las colinas sobre Palermo; un viñedo de Chiara; la sala de la Mesa en la ciudad baja; el aeropuerto de Palermo; Kingsley Field, terminal comercial; Almendra Towing / El Patio; el loft y su balcón.
 Función: H17 desde Kal, completo y en orden (la Mesa lo anota, Chiara lo declara ajeno, Ettore le pide que se aleje) y H18 (vuelven separados, sin ruptura). La orden llega por un intermediario y Kal vuelve solo a cumplirla: fecha, Varek, Garrett. La mitad de Chiara queda para el 37.
 - REGLA ESTRUCTURAL: no confirma a Corrado vivo ni al Consorcio como autor de H12; no narra el corte de cabello; no revela que Chiara vuelve ese mismo día; no glosa el motivo de Chiara al declarar a Kal ajeno; no formaliza a Kal ante la Mesa.
@@ -36,7 +37,7 @@ No corrió. Cruzó el patio con el paso de alguien que llevaba haciendo ese mism
 
 —Sei dimagrita —dijo él, apartándola apenas para mirarla, con la clase de reproche que sólo se permite quien tiene derecho a hacerlo.
 
-—No es cierto. Peso lo mismo que en agosto.
+—No es cierto. Es la ropa del viaje.
 
 —No discuto contigo desde que tenías diez años. No voy a empezar ahora.
 
@@ -90,7 +91,7 @@ No sonó a broma del todo, y Kal no la tomó como tal del todo.
 
 Manejó ella, por un camino sin pavimentar entre colinas bajas cubiertas de vides en filas tan derechas que parecían trazadas con regla, desnudas a esa altura del año, hasta un edificio de piedra con las puertas abiertas y una mesa larga puesta afuera, bajo un toldo, con copas ya dispuestas. Un hombre mayor salió a recibirlos y la llamó *signora* antes de que Chiara terminara de bajar del coche.
 
-Era suyo. No lo dijo así. Lo dijo señalando una fila de vides con la barbilla, contándole cuántas hectáreas sin sonar a que presumía, explicándole por qué esa ladera daba mejor uva que la de al lado sin necesitar que él entendiera de tierra para seguir la lógica. Era la misma clase de orgullo que él sentía enseñándole a alguien el taller: no *mira lo que tengo*, sino *mira lo que hice que funcionara*.
+El viñedo era de ella. No lo dijo así. Lo dijo señalando una fila de vides con la barbilla, contándole cuántas hectáreas sin sonar a que presumía, explicándole por qué esa ladera daba mejor uva que la de al lado sin necesitar que él entendiera de tierra para seguir la lógica. Era la misma clase de orgullo que él sentía enseñándole a alguien el taller: no *mira lo que tengo*, sino *mira lo que hice que funcionara*.
 
 Kal no fingió que sabía lo que estaba haciendo. Olía la copa porque los otros la olían, la giraba porque los otros la giraban, y cuando le preguntaron qué le parecía dijo la verdad.
 
@@ -120,7 +121,7 @@ Kal lo notó en cómo Ettore les sirvió el café: más rápido, sin la broma de
 
 Fue con ella de todos modos.
 
-Un coche más grande, con un chofer que no era el de siempre, los llevó a una residencia formal en la ciudad baja: techos altos, persianas medio cerradas contra el sol de la mañana, una mesa de madera oscura ya puesta con agua, café y nada más. Ningún hombre armado en la puerta que Kal pudiera ver, ninguna luz baja. Se parecía más a la sala de juntas de un banco que a cualquier cosa que Kal hubiera imaginado cuando Chiara dijo *la Mesa* por primera vez, y eso era peor.
+Un coche más grande, con otro chofer, los llevó a una residencia formal en la ciudad baja: techos altos, persianas medio cerradas contra el sol de la mañana, una mesa de madera oscura ya puesta con agua, café y nada más. Ningún hombre armado en la puerta que Kal pudiera ver, ninguna luz baja. Se parecía más a la sala de juntas de un banco que a cualquier cosa que Kal hubiera imaginado cuando Chiara dijo *la Mesa* por primera vez, y eso era peor.
 
 Un hombre los recibió en la puerta. Elegante sin exceso, con un traje que no llamaba la atención sobre sí mismo, que es la clase de traje que llama la atención cuando uno sabe mirarlo. Saludó a Chiara con una inclinación de cabeza y una frase en italiano que ella devolvió en el mismo tono, cordial, medido, sin nada personal.
 
@@ -138,7 +139,7 @@ Adentro había una mujer sentada ya, mayor, con el pelo blanco recogido y las ma
 
 —Chiara. —La mujer la miró un momento de más, como se mira a alguien que uno conoció de otra edad—. Cuánto tiempo.
 
-Nadie le presentó a Kal a Livia Rinaldi. La mujer lo evaluó con una mirada tan breve y tan completa como la de Ettore el primer día, y no volvió a mirarlo hasta que hizo falta.
+Nadie le presentó a Kal a la mujer. La mujer lo evaluó con una mirada tan breve y tan completa como la de Ettore el primer día, y no volvió a mirarlo hasta que hizo falta.
 
 Valenti señaló dos sillas. Una, junto a la mesa, para Chiara. La otra, un poco atrás, contra la pared, para Kal.
 
@@ -150,7 +151,7 @@ Valenti habló primero de otra cosa, de un cuarteto que había escuchado en Roma
 
 Kal, contra la pared, con las manos sobre las rodillas, miraba las de ellos.
 
-Había venido hasta aquí por un nombre que en San Aurelio nadie decía en voz alta y que la bala del corral le había puesto en la mano: Volpi. Un hombre que no se sentaba a esa mesa y que, si lo que Kal había juntado era cierto, cobraba por hacer lo que esa mesa no podía permitirse firmar. En algún lugar de esa sala, en una libreta o en una de esas manos quietas, podía estar la orden de lo que pasó junto al corral. El caballo primero, en la tierra. Ella unos metros más allá.
+Había venido hasta aquí por un nombre que en San Aurelio nadie decía en voz alta y que la bala del corral le había puesto en la mano: el de un hombre que no se sentaba a esa mesa y que, si lo que Kal había juntado era cierto, cobraba por hacer lo que esa mesa no podía permitirse firmar. En algún lugar de esa sala, en una libreta o en una de esas manos quietas, podía estar la orden de lo que pasó junto al corral. El caballo primero, en la tierra. Ella unos metros más allá.
 
 Nadie dijo el nombre. Kal tampoco. No había manera de preguntarlo ahí sin que la pregunta quedara anotada, y sin que la anotaran a ella.
 
@@ -294,7 +295,7 @@ Colgó.
 
 Se quedó con el teléfono en la mano, en la oscuridad de la habitación, con la respiración pareja de Chiara al otro lado de la cama. Dormida, o fingiendo; no lo sabía, y no iba a preguntarlo.
 
-No tenía fecha todavía. Bajó el brillo de la pantalla y buscó los vuelos de regreso.
+No tenía fecha todavía. Dejó el teléfono bocabajo en el buró y no volvió a dormirse.
 
 ***
 
@@ -492,7 +493,7 @@ Un silencio corto, del tipo que en Dario Varek no significaba distracción sino 
 
 —Las armas, señor Mercer. Completas.
 
-Colgó antes de que Kal contestara. Kal se quedó con el teléfono en la oreja un segundo de más, mirando la calle, ahora sí viéndola: el portón detrás de él, la grúa terminando de maniobrar, Danny cerrando el capó del motor que ya no tosía.
+Colgó antes de que Kal contestara. Kal se quedó con el teléfono en la oreja un segundo de más, mirando la calle, ahora sí viéndola. Detrás de él, del otro lado del portón, oyó a Danny cerrar el capó del motor que ya no tosía.
 
 Marcó otro número antes de volver adentro.
 
@@ -514,7 +515,7 @@ Marisol lo encontró así, revisando con Nadir una lista que no tenía nada que 
 
 —Ibas a preguntar con la cara.
 
-Comieron sentados en el capó de un auto que no era de nadie en particular, con Nadir despidiéndose hacia su casa y el Patio quedándose vacío alrededor de ellos. Marisol le contó que había terminado el semestre con mejor nota de la que esperaba, y que Sam le había dicho que su mamá, la fiscal de distrito, iba a necesitar becarios e insistía en que solicitara con ella. Marisol todavía estaba mirando opciones.
+Comieron sentados en el capó de un auto que no era de nadie en particular, con Nadir despidiéndose hacia su casa y el Patio quedándose vacío alrededor de ellos. Marisol le contó que había terminado el semestre con mejor nota de la que esperaba, y que la mamá de Sam, la fiscal de distrito, iba a necesitar becarios, y Sam insistía en que solicitara con ella. Marisol todavía estaba mirando opciones.
 
 —¿Y tú qué crees? —le preguntó, sin mirarlo, desenredando una papa frita del papel.
 
