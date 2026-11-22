@@ -2,7 +2,7 @@
 LECTOR PARTE II (2026-11-08, [[98_Agent_Handoff/sessions/2026-11-08_claude_observaciones_lector_parte_II]]; DISEÑO, espera lectura): tras «Lo entiendo», narración: Chiara comprende sin absolver (los nudillos, no pregunta el nombre). Diálogo canon del parador intacto.
 Renumerado 2026-11-08 (nuevo cauce, Parte II): antes Cap. 28.
 NUEVO CAUCE (Fase 4, 2026-11-08, terminal B): nuevo Cap. 24, tarjeta T12 (segunda mitad), POV Chiara único, verbo «Reescribe» (cambia de dueño por completo) según [[11_Books/Book_01_Mascaras_De_Cristal/00_Mapa_Cauce_Cap11_Camp_Alder]] y [[98_Agent_Handoff/encargos/ENCARGO_Fase4_Parte_II]]. El encabezado sigue diciendo «Capítulo 28» hasta que la terminal principal renumere. Versión anterior íntegra (POV Kal): [[11_Books/Book_01_Mascaras_De_Cristal/Escenas_Eliminadas/24d_Vienes_Conmigo_Version_2026-11-08]]. Sesión: [[98_Agent_Handoff/sessions/2026-11-08_claude_fase4_cap24_vienes_conmigo]].
-Estado: BORRADOR (lo nuevo es DISEÑO del agente; espera lectura del autor).
+Estado: BORRADOR (lo nuevo es DISEÑO del agente; espera lectura del autor). Cirugía de la lectura (2026-11-21; BORRADOR, espera lectura del autor): [[98_Agent_Handoff/sessions/2026-11-21_claude_cirugia_lectura_cap24]]: sin barridos que restituir; por decisión del autor, el reloj denunciado no se lo pone, fuera «algunas noches», recorte de la glosa del temblor y siembra de Vivian; «como le dije a Dario», conteo «desde el domingo» y arreglos de POV del segundo lector.
 Recibe del archivo 24c (nuevo 23): el alta del jueves con Dario y Trix (diálogo intacto: «El corral… Kal me había dicho las caballerizas», «Forraje», «San Aurelio la necesita entera»), el monólogo de Héctor (medio oído; texto casi literal), la misa por Marta y el mensaje de Tommaso por la misa de agosto (sin la mentira bajo juramento, que ya no existe) y el golpe, como memoria. Del archivo 24b (versión anterior, nuevo 22): la capa 2 de Nadir en Il Gelsomino (CANON DEL AUTOR 2026-10-01), como memoria de Chiara antes del motel. Del 33b retirado: «No es cuestión de dinero».
 Decisiones del autor (2026-11-08): (1) la capa 2 de Nadir la recuerda Chiara aquí, cuando «el agua al cuello» se vuelve real; por eso pide el motel; (2) Chiara medio oye a Héctor; (3) el alta, en su POV; (4) «No es cuestión de dinero»: Dario le ofrece reponer el caballo con el seguro del hipódromo, y ella lo rechaza delante de Kal.
 Se conserva literal (CANON DEL AUTOR): el diálogo del parador (integración del 2026-10-04), «Tú vienes conmigo», «El loft es sólo para uno», el beat del loft, el abrazo y el temblor de H12 (ahora desde dentro: ella entiende que lo que viene tras ella puede alcanzarlo a él), VC-01 (tarde en el Monarch y recogida en el túnel al anochecer), VC-03 (cómplices sin reproche), «Totalmente» con el pulgar en el anular (se apoya en la bala del pañuelo de [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/21b_Grazie]]), «Necesito un coche que no sea del Monarch / Conozco uno».
@@ -110,7 +110,7 @@ Chiara esperó a que el elevador se cerrara detrás de él antes de soltar el ai
 
 ***
 
-Tenía el Audi en la calle de atrás, frente a unas casas, y no en el estacionamiento del hospital. Kal se lo explicó sin que ella preguntara, en la acera, mientras le abría la puerta: cualquiera con una credencial de Dario había tenido tres días para ponerle un micrófono o un localizador.
+Tenía el Audi en la calle de atrás, frente a unas casas, y no en el estacionamiento del hospital. Kal se lo explicó sin que ella preguntara, cuando se lo trajo hasta la entrada y le abrió la puerta: cualquiera con una credencial de Dario había tenido tres días para ponerle un micrófono o un localizador.
 
 En el auto, Chiara apoyó la cabeza contra el reposacabezas con cuidado y cerró los ojos.
 
@@ -122,7 +122,7 @@ En el auto, Chiara apoyó la cabeza contra el reposacabezas con cuidado y cerró
 
 —Alguien te dejó inconsciente en propiedad del Monarch y nadie vio nada. —No levantó la voz; nunca le hacía falta—. Vuelves ahí y sigues siendo la mujer más fácil de encontrar de la ciudad. Cualquiera con una reservación sabe en qué piso vives. Y ahora sabe también que estuviste sola y que alguien entró y salió sin que se enterara un alma.
 
-Ella no contestó enseguida. Hizo la cuenta que él ya había hecho, se le notaba en la boca: no había un tercer sitio obvio. Sólo el que él estaba por ofrecer.
+Ella no contestó enseguida. Hizo la cuenta que él ya había hecho: no había un tercer sitio obvio. Sólo el que él estaba por ofrecer.
 
 Con los ojos cerrados lo oyó cambiar de carril sin poner la direccional. Los abrió. Kal miraba el espejo más de lo que miraba la calle.
 
@@ -132,7 +132,7 @@ Chiara no se giró a mirar.
 
 —¿Y si no tenemos suerte?
 
-—Entonces está bien que vayamos igual al casino, como le dije.
+—Entonces que nos vean llegar al casino, como le dije a Dario.
 
 Chiara se enderezó en el asiento.
 
@@ -158,13 +158,13 @@ La dejó frente a la entrada principal, a la vista de cualquiera. El sedán se e
 
 Salieron de San Aurelio por el norte, ya sin el sedán detrás, con la ciudad achicándose en el espejo hasta quedar en una línea de luces sobre el agua.
 
-Kal condujo cuarenta minutos sin decir gran cosa. Paró en uno de esos paradores de autopista que existen sólo para camioneros y para gente que necesita una excusa para detenerse: una gasolinera, una cafetería con luz de quirófano, un estacionamiento de grava demasiado grande para el edificio que servía. Aparcó de frente a la carretera, apagó el motor y dejó las llaves en el contacto. Por primera vez en tres días, nadie los miraba.
+Kal condujo cuarenta minutos sin decir gran cosa. Paró en uno de esos paradores de autopista que existen sólo para camioneros y para gente que necesita una excusa para detenerse: una gasolinera, una cafetería con luz de quirófano, un estacionamiento de grava demasiado grande para el edificio que servía. Aparcó de frente a la carretera, apagó el motor y dejó las llaves en el contacto. Por primera vez desde el domingo, nadie los miraba.
 
 Metió la mano en el bolsillo de la chaqueta y puso sobre el tablero el reloj de ella y la cartera.
 
 —Tu asalto te dejó sin teléfono —dijo—. Lo demás lo tenía yo.
 
-Chiara miró el reloj sobre el tablero un momento largo. Sacó la cuenta de todo lo que se había armado mientras dormía: el bolso abierto en la tierra, la denuncia, el robo que nadie le había preguntado si quería. Se lo puso, despacio, y se quedó girándolo en la muñeca.
+Chiara miró el reloj sobre el tablero un momento largo. Sacó la cuenta de todo lo que se había armado mientras dormía: la cartera en la chaqueta de Kal, la denuncia, el robo que nadie le había preguntado si quería. Lo tomó, despacio, y se quedó girándolo entre los dedos.
 
 —Cuéntame otra vez qué recuerdas —dijo Kal—. Despacio. No para la versión. Para mí.
 
@@ -172,7 +172,7 @@ Se lo contó despacio, y mientras se lo contaba se le fue armando por dentro lo 
 
 Que había sido una semana mala desde antes del domingo. Que Tommaso le había escrito por la misa de agosto, la del aniversario de Alessio: necesitaba una lista de invitados, necesitaba que ella confirmara la fecha. Que el mensaje le había llegado justo encima de otra fecha que llevaba marcada en el cuerpo desde los diecinueve años, sin que nadie en San Aurelio lo supiera: la de su madre. El corazón de Marta había fallado sin avisar demasiado, de esa manera silenciosa en que fallan los corazones que nadie está vigilando. En Palermo había una tumba a la que ir. Aquí había sólo la misa. Había ido a la de siete, sola, a una parroquia donde nadie la conocía, y se había sentado en la última banca sin pedirle nada a Dios, como no le pedía nada nunca. No había llorado. Llorar ahí habría sido explicarse.
 
-Y después, sentarse a planear un homenaje para el hombre que más daño le había hecho en la vida, mientras pasaba algunas noches en casa del único hombre con el que en años había querido ser sincera, y al que todavía no le había contado nada de eso.
+Y después, sentarse a planear un homenaje para el hombre que más daño le había hecho en la vida, sin haberle contado nada de eso al único hombre con el que en años había querido ser sincera.
 
 A Kal le dijo menos. El domingo gris por dentro, la fecha que no le había nombrado a nadie, las ganas de tierra y no de gente. Vento. Lo había cepillado más rato del necesario. El portón, el pasador de fierro, frío ya a esa hora. El teléfono en la mano, ya con el nombre de él en la pantalla. Pasos, quizá; no sabía si eran de antes o de después. Y después el suelo, y después el cuarto 221.
 
@@ -220,7 +220,7 @@ Chiara dejó de girar el reloj.
 
 —¿Dónde estarías tú ahora?
 
-—No lo sé. —Se le quebró algo en la voz y lo enderezó antes de seguir—. Pero no quiero que te pase nada. No me entiendes. Quiero mantenerte fuera de toda esta mierda. Fuera de Dario. —El reloj dio otra vuelta en la muñeca—. Cuando los vi a los tres juntos se me dio un vuelco el corazón. Eso no tiene que pasar.
+—No lo sé. —Se le quebró algo en la voz y lo enderezó antes de seguir—. Pero no quiero que te pase nada. No me entiendes. Quiero mantenerte fuera de toda esta mierda. Fuera de Dario. —El reloj dio otra vuelta entre sus dedos—. Cuando los vi a los tres juntos se me dio un vuelco el corazón. Eso no tiene que pasar.
 
 Kal no preguntó cuáles tres.
 
@@ -288,6 +288,8 @@ Lo entendía, y eso fue lo que no le gustó. Le miró la mano derecha sobre el v
 
 —Estaba Vivian. Todo el tiempo. Sospecharon de mí hasta que empezaron a contarme cosas tuyas.
 
+Vivian Varek, la menor de las tres hijas, la de los videos y las dos V con las manos, la que todo San Aurelio creía conocer porque la veía a diario. Si Dario la había sentado a oír, no era de adorno.
+
 —¿Les costó mucho?
 
 —No. Te venderían por treinta dólares.
@@ -348,7 +350,7 @@ El pulgar se le fue a la base del anular izquierdo y se quedó ahí un momento, 
 
 —*Grazie mille*. Por todo. Según me contaste, no es barato.
 
-Kal no lo negó. Ella se acomodó el reloj en la muñeca, ya sin girarlo.
+Kal no lo negó. Ella se guardó el reloj en el bolsillo del abrigo, ya sin girarlo.
 
 ***
 
@@ -414,7 +416,7 @@ Cuando se le acabó la risa, Chiara bajó la mirada.
 
 Kal la abrazó por encima del edredón, con una mano en la espalda y la otra lejos de la nuca, como si la cabeza fuera lo único que se podía romper. Ella empezó a temblar contra él, y no era frío.
 
-Era la cuenta, que por fin le cerraba. Lo que fuera que venía tras ella ya había encontrado un corral, un caballo y un teléfono con el nombre de él en la pantalla. Ya no le interesaba sólo ella. Le interesaba lo que a ella le importaba, y lo que a ella le importaba estaba ahí, abrazándola con una mano lejos de la nuca, en una casa que era sólo para uno.
+Lo que fuera que venía tras ella ya había encontrado un corral, un caballo y un teléfono con el nombre de él en la pantalla. Iba por lo que ella quería. Y lo que ella quería estaba ahí, abrazándola, en una casa que era sólo para uno.
 
 Dos cuerpos en un cuarto a oscuras.
 
@@ -422,7 +424,7 @@ Dos cuerpos en un cuarto a oscuras.
 
 Se quedó cuatro días. Kal le cambió el vendaje dos veces y no le preguntó nada que tuviera que ver con Palermo; ella no se lo agradeció en voz alta, y tampoco le pidió que dejara de hacerlo. Una tarde lo oyó hablar por teléfono en la cocina, en voz baja, con alguien del hipódromo, y oyó la palabra *enterrar* y la palabra *mañana*. No bajó. Él no se lo contó. Al día siguiente él olía a tierra y ella no le preguntó por qué.
 
-La tercera noche, con la tele apagada y la cabeza de ella todavía alta sobre las dos almohadas, él le contó cosas del taller para llenar lo que el silencio no llenaba. Que Nadir se había comprado una moto con dinero de la caja y la estaba pagando en abonos de doscientos. Que Danny había intentado cobrarle a un cliente una pieza que el cliente había traído en la mano. Que había una muchacha nueva, del norte, que llegó en un Camaro con un cilindro muerto y le encontró a la moto de Nadir el freno que él no había visto.
+La tercera noche, con la tele apagada y la cabeza de ella todavía alta sobre las dos almohadas, él le contó cosas del taller para llenar lo que el silencio no llenaba. Que Nadir se había comprado una moto con dinero de la caja y la estaba pagando en abonos de doscientos. Que Danny había intentado cobrarle a un cliente una pieza que el cliente había traído en la mano. Que había una muchacha nueva, del norte, que llegó en un Camaro con un cilindro muerto y le encontró a la moto de Nadir el freno que él mismo no había visto.
 
 —¿Cómo se llama?
 
@@ -436,7 +438,7 @@ Chiara se rio, y reírse le dolió en la nuca, y lo guardó junto a las otras co
 
 Al quinto volvió al Monarch. Los hombres de Dario estaban donde decía la hoja de Kenji: uno en el lobby, otro junto al elevador privado y el tercero, el que Dario no había mencionado, en el estacionamiento de empleados, apoyado en el Mercedes de la empresa como si el Mercedes también fuera suyo.
 
-Esa noche llamó a Kal.
+Esa noche llamó a Kal desde un teléfono nuevo.
 
 —Necesito un coche que no sea del Monarch.
 
