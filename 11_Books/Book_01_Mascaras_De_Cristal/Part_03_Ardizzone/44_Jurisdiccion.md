@@ -1,4 +1,5 @@
 <!--
+**Cirugía de la lectura (2026-11-21, Claude Code; [[98_Agent_Handoff/sessions/2026-11-21_claude_cirugia_lectura_cap40]]):** Chiara le habla de usted a Héctor («Hizo bien»; transversal); «Entramos cuatro anoche. Salimos tres.» (Garrett no entró; cuadra con el 39) y «¿Entraron a dónde?»; fuera la lección de fianza a Héctor, «Dímelo como se lo dirías a alguien que no estudió leyes» («¿Qué significa eso para él, Katherine?»), el penalista de fuera y una etiqueta «Lo dijo sin queja, como quien…»; la mampara interior del despacho (el piso) frente a la ventana (la ciudad); segundo lector: «Según el sargento, el papel dice…», «desde que llegué», «dijo Rowe», «un favor». Literales intactos. Regla 06: 24 %. Sigue BORRADOR.
 Lectura del autor de la Parte III (2026-11-08, [[98_Agent_Handoff/sessions/2026-11-08_claude_lectura_parte_iii]]; prosa DISEÑO, espera lectura): Connors deja de repetir «es federal» (ya lo dijo Rowe y lo precisa Krane): su negativa es la enemistad con Margaret Rivers, pérdida causada por la estrategia de Chiara.
 AJUSTE AL CAUCE (Fase 4, 2026-11-08, terminal A; [[98_Agent_Handoff/encargos/ENCARGO_Fase4_Parte_III_Cierre]]): nuevo Cap. 40, POV Chiara, verbo «Ajusta al cauce». Versión anterior íntegra: [[11_Books/Book_01_Mascaras_De_Cristal/Escenas_Eliminadas/44_Jurisdiccion_Version_2026-11-08]]. Nota: [[98_Agent_Handoff/sessions/2026-11-08_claude_fase4_cap40_jurisdiccion]].
 Decisiones del autor (2026-11-08): (1) el capítulo es el domingo 19 dic (la recogida del 39) y la prosa lo marca con un toque (abogados citados en domingo, Rowe desde su casa); (2) una línea nombra a Dario Varek como el número que Chiara no cuenta porque ya le debe uno (costura hacia los nuevos 42–43 sin fijar D1 ni D2); (3) Vento no entra; (4) se queda la frase de Rivers elegida por su enemistad con Connors.
@@ -37,9 +38,9 @@ La voz de Héctor no tenía el registro con el que hablaba de coches ni de factu
 
 Chiara esperó el resto. Héctor tardó en darlo.
 
-—Salimos cuatro anoche. Volvimos tres.
+—Entramos cuatro anoche. Salimos tres.
 
-—¿Salieron a dónde, Héctor?
+—¿Entraron a dónde, Héctor?
 
 —Eso no me toca a mí, Bellandi.
 
@@ -53,11 +54,11 @@ Chiara dejó la taza en la mesa. La dejó con cuidado, junto al marco.
 
 —Se movía. Es todo lo que vi. Lo otro lo sé por Garrett, que trae su radio. Cuando bajamos en la playa la oímos: un detenido, rumbo a una comisaría del norte. Detenido, Bellandi. No otra cosa.
 
-—Necesito el cargo, Héctor. Sin cargo no hay fianza, y sin fianza no hay abogado que sirva.
+—Necesito el cargo, Héctor.
 
 —Tampoco sé eso. —Una pausa, del tipo que a Héctor no le gustaba dejar—. Nadir se bajó por él. Lo subí yo, a la fuerza. En la playa nos dijimos lo que había que decirse, y Garrett le dio un puñetazo a la puerta del helicóptero que alguien va a tener que pagar. Ahora Nadir quiere ir a la comisaría. Le dije que no. Si va, lo meten con él.
 
-—Hiciste bien. Si Nadir se presenta en esa comisaría, mañana tengo que sacar a dos.
+—Hizo bien. Si Nadir se presenta en esa comisaría, mañana tengo que sacar a dos.
 
 —¿Usted puede hacer algo?
 
@@ -81,7 +82,7 @@ El mayor encontró el registro antes de las once: nombre, hora de ingreso, una c
 
 —Quiero ofrecer fianza.
 
-—No hay audiencia todavía. —Dobló los lentes y los dejó sobre el registro—. Y esto no es lo nuestro. —Lo dijo sin queja, como quien informa el tamaño de una pieza—. Necesita un penalista.
+—No hay audiencia todavía. —Dobló los lentes y los dejó sobre el registro—. Y esto no es lo nuestro. Necesita un penalista.
 
 Chiara ya tenía uno. Giancarlo Krane había perdido contra Kal en una sala de mediación, se había quedado con el número que Kal le dejó junto a los elevadores en media hoja de libreta, y desde entonces le llevaba a ella los asuntos que no quería en manos del casino.
 
@@ -115,7 +116,7 @@ A mediodía Krane llamó desde el estacionamiento de la comisaría. No lo había
 
 —Dicen que está procesado. Dicen que no pueden darme acceso todavía. El sargento de guardia es muy amable y no me ha dicho una sola cosa que yo pueda usar. —Se oía viento, el golpe de una puerta de coche—. A mí nadie me trata bien en una comisaría, Chiara. Cuando lo hacen, es porque están esperando una llamada de alguien que no es de la ciudad. Y de quién, eso es lo único que no me quieren decir.
 
-Chiara no se sentó. Desde el ventanal del despacho se veía el piso del casino, las mesas de la mañana casi vacías, un crupier acomodando fichas que nadie iba a jugar hasta la noche.
+Chiara no se sentó. Por la mampara interior del despacho se veía el piso del casino, las mesas de la mañana casi vacías, un crupier acomodando fichas que nadie iba a jugar hasta la noche.
 
 —Hay alguien en la oficina del fiscal que me debe un favor —dijo.
 
@@ -135,13 +136,13 @@ Rowe tardó un segundo de más en contestar.
 
 Chiara dejó pasar la pregunta.
 
-—Déjame ver qué tengo.
+—Déjame ver qué tengo —dijo Rowe.
 
 La llamada volvió cuarenta minutos después. Para entonces el abogado mayor había conseguido, con dos llamadas a casas de gente del ayuntamiento y un favor que el Monarch tenía guardado desde antes de que ella llegara, que un asistente del fiscal municipal confirmara el nombre del oficial que había hecho el arresto. Un nombre. Chiara lo tenía escrito en una hoja que no le servía para nada.
 
 —Chiara. —Rowe había bajado la voz—. Si fuera mío, ya estaría hablando contigo de fianza. No es mío. Hay una solicitud de custodia de la base. Entró esta madrugada. Ya no es un asunto de esta oficina.
 
-—Dímelo como se lo dirías a alguien que no estudió leyes, Katherine. ¿Qué significa?
+—¿Qué significa eso para él, Katherine?
 
 —Que yo no tengo nada que firmar. —Una pausa breve, política—. Te debo una, Chiara. Y no me alcanza para pagártela con esto. Lo siento de verdad. Era un hombre encantador.
 
@@ -183,13 +184,13 @@ Krane llamó a media tarde. Por primera vez desde la mañana, no sonaba como si 
 
 Chiara no preguntó cómo. Krane se lo dijo igual.
 
-—No estaba desde antes de que yo llegara. Lo tuvieron unas horas. A las cinco y diez de la mañana llegó la reclamación de jurisdicción y se lo llevaron. Lo que el sargento me tuvo esperando toda la mañana era el papel de salida, que todavía no le llegaba. La municipal ya no tiene nada que decirme. Para ellos esto se terminó a las cinco y diez.
+—No estaba desde antes de que yo llegara. Lo tuvieron unas horas. A las cinco y diez de la mañana llegó la reclamación de jurisdicción y se lo llevaron. Lo que el sargento me tuvo esperando desde que llegué era el papel de salida, que todavía no le llegaba. La municipal ya no tiene nada que decirme. Para ellos esto se terminó a las cinco y diez.
 
 Chiara miraba la ciudad por la ventana del despacho, las mismas luces de siempre empezando a encenderse contra la tarde.
 
 —¿Adónde? A esa hora nadie sale de una comisaría sin que alguien firme.
 
-—El papel dice «reclamación federal». No dice adónde. No hace falta que lo diga.
+—Según el sargento, el papel dice «reclamación federal». No dice adónde. No hace falta que lo diga.
 
 —Consígame ese papel. Todo lo que tenga un sello.
 
@@ -199,7 +200,7 @@ Llegó dos horas después, por mensajero, a nombre de Krane y con copia al Monar
 
 Chiara la leyó tres veces. Después la dejó boca abajo sobre el escritorio que había sido de Matteo.
 
-Los abogados se fueron a las ocho. El mayor se detuvo en la puerta como si fuera a decir algo y no lo dijo. A las diez Chiara había llamado a un penalista de fuera del estado que le costaba el doble por hora que los dos abogados juntos y que le explicó, con la paciencia de un hombre que cobra por minuto, lo mismo que Connors había dicho gratis. A las once un concejal que le debía su campaña le dijo que lo sentía mucho. A medianoche ya no había nadie en San Aurelio cuyo número no hubiera marcado ese día. A Dario Varek sabía cómo llegarle, y no lo había contado entre los números: a Varek ya le debía uno.
+Los abogados se fueron a las ocho. El mayor se detuvo en la puerta como si fuera a decir algo y no lo dijo. A las once un concejal que le debía su campaña le dijo que lo sentía mucho. A medianoche ya no había nadie en San Aurelio cuyo número no hubiera marcado ese día. A Dario Varek sabía cómo llegarle, y no lo había contado entre los números: a Varek ya le debía un favor.
 
 Quedaba otro.
 
