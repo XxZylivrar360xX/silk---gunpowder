@@ -22,7 +22,7 @@ Va en lugar de «El camino de vuelta fue callado» y tiene unas 450 palabras. La
 - **Kal** contesta como mecánico:
   - A las montañas rusas las revisan cada mañana.
   - Pasa como con el motor que arranca a la primera sin que sepas por qué: «se cierra el capó y no se le pregunta nada al motor».
-  - Remata: «Nunca. Me paso una semana preguntándome qué le hice. […] Hoy sí le hago caso.».
+  - Remata: «Nunca. Me paso una semana preguntándome qué le hice.», con media sonrisa. «Hoy sí le hago caso» salió después de la lectura del autor (DECISIÓN DEL AUTOR): encadenaba tres finales dulces antes de «Vamos a casa», y ahora el gesto de ella contesta por él.
 - **El cierre:** ella le pasa los dedos por la nuca.
 - **Límites:** no se nombra a Halbrook, a Varek ni Camp Alder, y no se dice «casa», para que «Vamos a casa» conserve su peso.
 - **Ajustes de continuidad:** en el loft Chiara entra «con las botas en la mano y arena entre los dedos de los pies», y en el coche va «con la cabeza contra el respaldo». Sale la recapitulación «El ruido del día…», que ahora duplicaba la de Chiara.

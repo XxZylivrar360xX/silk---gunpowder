@@ -484,7 +484,7 @@ Kal bajó una velocidad para la curva y tardó en contestar lo que tardó la cur
 
 —¿Y tú le haces caso a Walt?
 
-—Nunca. Me paso una semana preguntándome qué le hice. —Se le movió algo en la cara que no llegó a sonrisa—. Hoy sí le hago caso.
+—Nunca. Me paso una semana preguntándome qué le hice. —Se le movió algo en la cara que no llegó a sonrisa.
 
 Chiara no contestó. Le pasó los dedos por la nuca, donde el pelo todavía estaba húmedo, los dejó ahí un momento y volvió a recostarse.
 
