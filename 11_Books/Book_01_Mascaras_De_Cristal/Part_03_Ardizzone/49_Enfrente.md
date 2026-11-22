@@ -45,7 +45,7 @@ El billete estaba sobre el escritorio, doblado en dos, del lado de afuera de la 
 
 Chiara lo había dejado ahí al llegar, a las siete y cuarto, y desde entonces había firmado tres cosas, devuelto dos llamadas de proveedores y leído el reporte de la noche sin entender la mitad de los números. El billete seguía en el mismo lugar. No lo había guardado en la cartera porque no era suyo, y no lo había metido en la caja porque tampoco era del casino.
 
-Si alguien podía sacar a Kal sin que nadie tuviera que pararse el martes en el puente de la cementera, nadie le iba a cobrar nada a nadie.
+Era el billete del café de Mabel, el que no le había querido cobrar. *De esto no cobro.* Mabel cobraba de otra manera, y Rafe iba a cobrar más caro. Pero si alguien podía sacar a Kal antes del martes, sin que nadie tuviera que pararse en el puente de la cementera, Rafe no tendría nada que cobrarle, y el billete podría volver a la barra de Mabel como un billete cualquiera.
 
 A las ocho abrió el segundo cajón del escritorio, el que tenía llave, y sacó la libreta de direcciones de pasta roja que había traído de Nueva York y que no había abierto en San Aurelio más que para tachar. Buscó en la *V*. No había nombre: sólo un número con prefijo de Manhattan, escrito con su propia letra de hacía años, y debajo, en lápiz, una hora. *Después de las 10 p. m. allá.* Nunca había hecho falta llamar después de las diez. Nunca había hecho falta llamar.
 
@@ -115,7 +115,7 @@ Chiara tomó su taza. El café estaba bueno. Lo tomó como se toma algo en una c
 
 —¿Sí? Entonces sabe de qué hablo.
 
-Valenti tomó una galleta del plato, la miró y la volvió a dejar. Habló un rato de Génova, del puerto donde su padre había trabajado de contador para una naviera, de lo mal que se comía en los hoteles de Oregon y lo bien que se comía en las cocinas de los mismos hoteles, si uno conocía a alguien. Chiara le siguió el paso. Hizo una pregunta sobre la naviera; él la contestó con gusto. Afuera ya oscurecía sobre la torre del Monarch.
+Valenti la miró de frente, un momento nada más, como se mira una carta que alguien pone boca arriba antes de tiempo. Después tomó una galleta del plato, la sostuvo y la volvió a dejar. Habló un rato de Génova, del puerto donde su padre había trabajado de contador para una naviera, de lo mal que se comía en los hoteles de Oregon y lo bien que se comía en las cocinas de los mismos hoteles, si uno conocía a alguien. Chiara le siguió el paso. Hizo una pregunta sobre la naviera; él la contestó con gusto. Afuera ya oscurecía sobre la torre del Monarch.
 
 Después Valenti dejó la taza en el plato con un sonido pequeño y exacto.
 

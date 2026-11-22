@@ -357,7 +357,7 @@ Eran más de las dos cuando entró al penthouse. No encendió más que la lámpa
 
 Se quitó el vestido frente al espejo. El ladrillo le había dejado una marca en la cadera, roja, con una esquina. La apretó con el pulgar, y por primera vez en mucho tiempo, a Chiara no le importó que algo le doliera un poco.
 
-Abrió el grifo de la tina y esperó a que el agua golpeara el mármol.
+Abrió la llave de la tina y esperó a que el agua golpeara el mármol.
 
 Adentro dejó que el vino y el cansancio hicieran lo que la sobriedad llevaba semanas sin dejarle hacer: pensar sin editarse.
 

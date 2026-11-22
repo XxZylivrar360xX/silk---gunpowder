@@ -75,7 +75,7 @@ Lucía no hizo la pregunta siguiente. Esperó, con la pluma quieta sobre la carp
 
 Lucía anotó algo breve.
 
-—Es rutina —dijo, sin que nadie se lo hubiera preguntado—. Un médico va a salir en un momento. ¿Su nombre?
+—Su llamada entró como puerta abierta y un hombre en el suelo, en la Almendra —dijo, sin que nadie se lo hubiera preguntado—. Cuando una puerta de la Almendra aparece abierta, me la pasan a mí. Es rutina. Un médico va a salir en un momento. ¿Su nombre?
 
 —Chiara Bellandi.
 
@@ -267,7 +267,7 @@ Kal la miró de reojo. Por un segundo no supo qué hacer con la pregunta, y desp
 
 —¿Seis a cuatro? —Chiara subió las cejas—. ¿Contra ti?
 
-—Las piedras las escogía ella. Planas, del tamaño de la palma. Las que yo juntaba las regresaba al agua sin dejarme tirarlas, porque según ella estaban mal hechas.
+—Contra mí. Las piedras las escoge ella, y las mías no le parecieron dignas.
 
 No sonaba ofendido. Sonaba casi orgulloso, y Chiara no se lo dijo.
 

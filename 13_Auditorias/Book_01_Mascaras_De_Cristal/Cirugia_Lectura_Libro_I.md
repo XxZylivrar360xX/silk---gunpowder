@@ -60,17 +60,17 @@ Plan de trabajo, en marcha desde el 2026-11-21 (DECISIÓN DEL AUTOR sobre el mé
 - ~~Cap. 9: el malvavisco~~ resuelto (debajo del asiento).
 - ~~Cap. 9: «Lo había armado»~~ resuelto (D5).
 - ~~Cap. 14: el chico de la cerca~~ resuelto (una línea).
-- Ficha de Chiara (l. ~330, «se disculpa sin argumentar»): desde el cap. 13 defiende la red y pierde (DECISIÓN DEL AUTOR); ajustar al cerrar el libro.
+- ~~Ficha de Chiara (l. ~330, «se disculpa sin argumentar»)~~ resuelto (2026-11-22): la ficha dice que defiende la red y pierde.
 - ~~Cap. 16: «los meseros de la Isla»~~ resuelto («La Isla»).
 - ~~Cap. 10: martes y jueves~~ resuelto («los martes a las diez»).
 - ~~Cap. 22: la hoja arrancada frente a la doblada~~ resuelto («La hoja que Kal no dobló»).
 - ~~Cap. 25: «Una semana antes»~~ resuelto («No hacía ni dos semanas»).
 - ~~Cap. 26: «neurólogo»~~ resuelto («La neurocirujana»).
-- Lenguaje neutro (DECISIÓN DEL AUTOR, 2026-11-21: «todo hay que neutralizarlo»): «¿vale?» pasa a «¿sí?» (hechos el 23 y el 27); «arcén» a «acotamiento»; «grifo» a «llave». Quedan «grifo» en los caps. 2 y 8 (archivos `02` y `07`), para la pasada final; revisar cada capítulo que siga.
+- Lenguaje neutro (DECISIÓN DEL AUTOR, 2026-11-21: «todo hay que neutralizarlo»): «¿vale?» pasa a «¿sí?» (hechos el 23 y el 27); «arcén» a «acotamiento»; «grifo» a «llave». ~~Quedan «grifo» en los caps. 2 y 8~~ resuelto (2026-11-22): ya no queda «grifo» en la prosa del Libro I.
 - ~~Cap. 28: las fotos en la barra del loft~~ resuelto («Las recogí de la barra antes de salir»).
 - ~~«Me explico» de Chiara~~ resuelto: salen el del 28 y el del 32; quedan el del 27 (CANON de H6) y el del 31 (la ciabatta, que espeja *Ya llegó*).
 - ~~Cap. 30 (costura 29→30): «había dicho», el café y «lo empujó»~~ resuelto («Ella lo habría arreglado en cuanto bajara»).
-- Cap. 33: revisar otra vez la apertura (costura 32→33: la amenaza de los aretes se cobra con «No te muevas de ahí») cuando la sesión de la Parte II cierre el 32. Arrastres de la II hacia la III: se atienden al final de la III (DECISIÓN DEL AUTOR, 2026-11-21).
+- ~~Cap. 33: revisar otra vez la apertura (costura 32→33, los aretes)~~ resuelto (2026-11-22): Kal pregunta «¿Hay alguien contigo en esa oficina?» antes de «No te muevas de ahí». Arrastres de la II hacia la III: se atienden al final de la III (DECISIÓN DEL AUTOR, 2026-11-21).
 - ~~Peugeot → Audi «la noche de la incursión»~~ resuelto en el cap. 39 (archivo `43_La_Puerta`; la línea no estaba en el 35).
 
 | Cap. | Título | Archivo | Transversal | Estado | Commit |
@@ -121,4 +121,4 @@ Plan de trabajo, en marcha desde el 2026-11-21 (DECISIÓN DEL AUTOR sobre el mé
 | 44 | Su nombre | `48_Su_Nombre` | usted Meiko→Chiara; tú Chiara→Meiko | hecho, BORRADOR (en paralelo con la Parte II) | ver git log |
 | 45 | Por si vuelve | `49_Enfrente` | luz | hecho, BORRADOR (en paralelo con la Parte II) | ver git log |
 | 46 | A oscuras | `50_A_Oscuras` | el número de Lucía | hecho, BORRADOR (en paralelo con la Parte II) | ver git log |
-| 47 | La tierra bajo sus botas | `50b_La_Tierra_Bajo_Sus_Botas` | luz (canon: «todavía de noche»; la primera luz dentro de la escena) | hecho, BORRADOR; cierra la Parte III (EPUB y PDF pendientes: la Parte II no ha cerrado) | ver git log |
+| 47 | La tierra bajo sus botas | `50b_La_Tierra_Bajo_Sus_Botas` | luz (canon: «todavía de noche»; la primera luz dentro de la escena) | hecho, BORRADOR; cierra la Parte III (EPUB, PDF y audio al día desde el cierre de la Parte II) | ver git log |

@@ -56,9 +56,9 @@ Kal se enderezó.
 
 —No es la rueda.
 
-—Entonces es el contrato. —Abrió la carpeta—. Si hay algo en las condiciones que no le…
+—Entonces es la prestación. —Abrió la carpeta—. Si hay algo en las condiciones que no le…
 
-—Tampoco. El contrato está bien; lo leí dos veces.
+—Tampoco. La hoja está bien; la leí dos veces. Por acto, mi nombre arriba y el suyo debajo.
 
 Ella cerró la carpeta y lo miró como lo había mirado en la junta del primer día, buscando por dónde iba a entrar el precio.
 

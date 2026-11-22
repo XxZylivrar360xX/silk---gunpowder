@@ -50,7 +50,7 @@ CALIFICACIÓN DE VALET (2026-11-15, CANON DEL AUTOR: las calificaciones de valet
 
 # Capítulo 31 — Lo único que es mío
 
-El cuadro estaba en la mesa del penthouse cuando salió del cuarto, junto a su taza, como si siempre hubiera estado ahí. Marco de madera clara. Un moño rojo, un poco torcido. Ninguna nota.
+Pasaron dos semanas así, la mitad de las noches en la casa y la otra mitad en el penthouse. Un martes, el cuadro estaba en la mesa del penthouse cuando salió del cuarto, junto a su taza, como si siempre hubiera estado ahí. Marco de madera clara. Un moño rojo, un poco torcido. Ninguna nota.
 
 La orilla del lago, la última luz. Dos espaldas, una bolsa y una mochila, las manos juntas. Nadie en la foto sabía que había una foto.
 

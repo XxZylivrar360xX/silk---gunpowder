@@ -99,7 +99,7 @@ Fue todo lo que dijo. Kal no insistió, y ella tampoco alargó la llamada más d
 
 ***
 
-Buscar a Bonnie le tomó una llamada, no más. El equipo de seguridad del Monarch había manejado los accesos del grupo del Patio en la fiesta del yate, la semana anterior, y ahí quedó, en alguna lista de control, el nombre de Bonnie junto a un número. De ahí hubo un solo paso.
+Buscar a Bonnie le tomó una llamada, no más. El equipo de seguridad del Monarch había manejado los accesos del grupo del Patio en la fiesta del yate, la semana anterior, y ahí quedó, en alguna lista de control, el nombre de Bonnie junto a un número. Pedirlo en el taller habría sido pedírselo a Kal. De la lista hubo un solo paso.
 
 Bonnie llegó al Monarch pasada la medianoche, con una chaqueta que no era de vestir y las manos en los bolsillos. En el vestíbulo no miró el mármol: miró a los dos de seguridad, y hacia dónde miraba cada uno.
 
@@ -129,11 +129,11 @@ Bonnie no dijo nada. Esperó.
 
 —Lo llevé a una reunión de mi familia —dijo Chiara—. Entró como mi acompañante. Después de hablar, la Mesa dejó de verlo así. Empezaron a mirarlo como una pieza. No una persona. Una pieza. Y cuando vieron lo útil que podía ser, alguien lo anotó en un libro que no es mío.
 
-—¿Y eso qué significa?
+Bonnie levantó apenas una ceja.
 
-—Que un hombre vinculado a mi asiento deja de ser un invitado. Se vuelve reclamable. —Chiara se tocó el anular izquierdo y bajó la mano—. Así que dije que no era parte de mi casa. Delante de todos. Para que no pudieran usarlo así. En la misma sala me pusieron delante una fotografía de mi boda. Para recordarme cómo debe verse una Ardizzone.
+—Un hombre vinculado a mi asiento deja de ser un invitado. Se vuelve reclamable. —Chiara se tocó el anular izquierdo y bajó la mano—. Así que dije que no era parte de mi casa. Delante de todos. Para que no pudieran usarlo así. En la misma sala me pusieron delante una fotografía de mi boda. Para recordarme cómo debe verse una Ardizzone.
 
-—¿Y no podía no ir? A la reunión, digo.
+—Pudo no ir.
 
 —No. —Le salió antes de pensarlo—. Todavía respondo ante esa mesa por lo que dejó la muerte de mi padre. Cuando Palermo llama, voy, y eso va primero. —Se detuvo un instante—. Antes que él también.
 
@@ -143,13 +143,13 @@ Bonnie la miró como miraba el vestíbulo, buscando hacia dónde apuntaba cada c
 
 Chiara no la corrigió.
 
-—¿Y él lo escuchó? —preguntó Bonnie.
+—Y él estaba en la sala —dijo Bonnie. No lo preguntaba.
 
 —Desde atrás de la sala. Sí. —Chiara tardó en seguir—. Supe que lo había herido antes de terminar la frase. Y la terminé igual.
 
-—¿Por qué no se lo explicó ahí mismo?
+—Se lo pudo explicar ahí.
 
-—Porque explicarlo delante de esa mesa habría sido peor que decirlo. —Chiara lo dijo sin defenderse—. Quise protegerlo. Y decidí por él lo que era, sin preguntarle. Las dos cosas son ciertas.
+—No ahí. Explicarlo delante de esa mesa habría sido peor que decirlo. —Chiara lo dijo sin defenderse—. Quise protegerlo. Y decidí por él lo que era, sin preguntarle. Las dos cosas son ciertas.
 
 Bonnie se recostó apenas en la silla.
 

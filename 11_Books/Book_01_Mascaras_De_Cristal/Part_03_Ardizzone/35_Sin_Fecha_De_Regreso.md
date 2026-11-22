@@ -105,7 +105,7 @@ Se oyó algo golpear metal —una herramienta dejada donde no iba, tal vez— y 
 
 Chiara iba a decir que estaba bien, que no había prisa, que Matteo llevaba media vida resolviendo cosas para que otros no tuvieran que hacerlo y que a ella no le costaba trabajo cubrir un par de días. No dijo nada de eso.
 
-—Te veo ahora —dijo Kal—. No te muevas de ahí.
+—¿Hay alguien contigo en esa oficina? —No esperó a que contestara—. Te veo ahora. No te muevas de ahí.
 
 Se quedó callada más tiempo del que hacía falta. No porque no supiera qué decir —sabía exactamente qué decir, y eso era lo raro— sino porque quería quedarse un segundo más dentro de la frase antes de que el resto del día volviera a entrar.
 
@@ -181,7 +181,7 @@ Antes de que pudiera colgar del todo, alguien de recepción llamó desde el otro
 
 —Es Dario. —Cerró la agenda—. Mientras la mesa siga sirviendo café a la hora que debe, a Dario no le importa quién la ponga.
 
-Kal se acercó por fin, no al escritorio, sino a ella, y le puso la mano en la nuca un momento, el pulgar corto contra el nacimiento del pelo, sin decir nada más sobre Matteo ni sobre la mesa ni sobre lo que fuera que estuviera calculando detrás de los ojos. Chiara dejó caer el peso de la cabeza contra esa mano medio segundo, lo suficiente para que contara, no tanto que dejara de sostener la agenda.
+Kal se acercó por fin, no al escritorio, sino a ella, y le puso la mano en la nuca un momento, el pulgar corto contra el nacimiento del pelo, sin decir nada más sobre Matteo ni sobre la mesa ni sobre lo que fuera que estuviera calculando detrás de los ojos. Chiara se apoyó en esa mano, apenas, sin soltar la agenda.
 
 —Tengo que volver —dijo él—. Le prometí a Nadir que no lo iba a dejar solo con el inventario toda la tarde.
 

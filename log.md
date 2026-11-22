@@ -4,6 +4,7 @@ El detalle se guarda una sola vez en notas de sesión. Este archivo es navegaci�
 
 ## Sesiones recientes
 
+- 2026-11-22: Libro I: cerrada la lectura corrida para el presellado (Lucía y la puerta abierta en el 15, dos semanas en el 31, prestación en el 6, Bonnie seca en el 37, Mabel y Valenti en el 45, piedras en el 15, aretes en el 33, «grifo» fuera; `CLAUDE.md` en 47 caps.): [[98_Agent_Handoff/sessions/2026-11-22_claude_cierre_lectura_corrida]]
 - 2026-11-22: Libro I, caps. 1–9: lectura externa 1/6 revisada y cirugía aprobada (siembra del ladrillo en el 7, Hoover sin réplicas reiterativas, hombro sin salto de POV, corte en el 3, 11 «como quien» y 3 «un segundo de más» fuera); anclas temporales PENDIENTES del autor: [[98_Agent_Handoff/sessions/2026-11-22_claude_lectura_externa_lote1_caps01-09]]
 - 2026-11-21: Libro I, cap. 1: la noche con plan B de Kal (pickup en el muelle 5; los chicos entregan en Cedar Flats), la 31 en la báscula, Kal la remolca y Collins le consigue la cita con Keene; Blake nombrado y su versión inflada en el cap. 8, BORRADOR: [[98_Agent_Handoff/sessions/2026-11-21_claude_cap01_noche_plan_b]]
 - 2026-11-21: Libro II, DECISIONES DEL AUTOR de la columna: Mack Calderon con un hermano preso a cuenta de Crowe; Amanda murió por reabrir el caso de Walt: [[98_Agent_Handoff/sessions/2026-11-21_claude_columna_mack_amanda]]

@@ -815,7 +815,7 @@ Se durmió sin saber cómo terminaba.
 
 ***
 
-En la Torre Norte del Monarch, Chiara abrió el grifo de la tina y esperó a que el agua golpeara el mármol con suficiente ruido para tapar el silencio del penthouse.
+En la Torre Norte del Monarch, Chiara abrió la llave de la tina y esperó a que el agua golpeara el mármol con suficiente ruido para tapar el silencio del penthouse.
 
 La suite era prestada con demasiada elegancia. Tenía sala amplia, vista al mar, cocina que nadie esperaba que ella usara y un dormitorio donde las sábanas estaban tan tensas que parecían una instrucción. El baño era más grande que algunas habitaciones de Palermo y olía a jabón caro, cloro ligero y flores blancas puestas por alguien que no sabía qué flores le gustaban.
 
