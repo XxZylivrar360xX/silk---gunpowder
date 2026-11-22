@@ -7,11 +7,12 @@ Protagonistas: Chiara Bellandi (POV), Kal Mercer, Nadir Amrani. Apariciones: Wal
 Ventana temporal: de la primera semana de Chiara en la casa comun a enero A2 (obra parada por las fiestas).
 Lugares: Casa Comunitaria de La Almendra, lobby del Monarch, La Casa (obra), acera de la obra.
 Funcion: H14. Chiara quiere dejar de ser carga y paga con lo unico que hoy hace bien (el diseño y las facturas); su dinero entra al barrio sin pasar por Crowe y Crowe lo tasa como competencia. Guarda tres cosas sin decirselas a Kal (la tarjeta de Dario, Blake, el sobre de Ochoa).
+Cirugia de la lectura (2026-11-21; BORRADOR, espera lectura del autor): [[98_Agent_Handoff/sessions/2026-11-21_claude_cirugia_lectura_cap12]]. DECISION DEL AUTOR: la vuelta al penthouse se cuenta en una linea al abrir la escena de Ochoa (ferula fuera a las tres semanas, Danny la lleva y la recoge, la mesa vuelve a ser de catorce); Blake da solo dos datos en el lobby. "Para la tercera visita" (referencia posicional del canon de Navidad) pasa a "Cuando la obra volvio a arrancar"; el parrafo de las fiestas sigue en su sitio.
 -->
 
 # Capítulo 12 — La invitada
 
-Nadir no volvió a mirarla como a un huésped después de esa tarde. La miró como a un problema que todavía no había decidido cómo nombrar.
+Nadir no la miró como a un huésped ni la primera noche. La miró como a un problema que todavía no había decidido cómo nombrar.
 
 No era nada que pudiera señalarse. Le pasaba la sal antes de que la pidiera. Le explicó qué llave abría qué puerta y a qué hora no convenía usar la ducha del fondo, porque el calentador tardaba. La tercera mañana le dejó una taza limpia junto a la tetera y, al lado, una bolsa de hielo envuelta en un trapo, porque la noche anterior la había visto tratar de abrir un frasco con la mano izquierda.
 
@@ -23,9 +24,9 @@ Su neceser estaba en el baño de tres hombres. Dormía en el único cuarto sin d
 
 El labio tardó una semana en cerrar. Comía del lado izquierdo y bebía con popote, y la luz del pasillo le entraba por los ojos como un clavo hasta que alguien, sin decir quién, cambió la lámpara por una más débil. La primera mañana se vio en el espejo del baño, se peinó hacia la sien y no volvió a mirarse.
 
-De noche la casa se callaba antes que ella, y entonces volvía la voz. A través de la lana, pegada al oído: *Nadie tiene prisa.* Chiara no la dejaba terminar. Se repasaba con el pulgar las uñas de la mano buena, una por una, hasta que la voz se cansaba primero.
+De noche la casa se callaba antes que ella, y entonces volvía la voz. A través de la lana del pasamontañas, pegada al oído: *Nadie tiene prisa.* Chiara no la dejaba terminar. Se repasaba con el pulgar las uñas de la mano buena, una por una, hasta que la voz se cansaba primero.
 
-Lo que no se cansaba era lo otro. El del diente gris enderezándose junto al tambo, con la credencial del Monarch en la mano, y la cara que puso al mirarla. Esa cara la conocía de Palermo: la había visto en hombres mayores que él, el día que alguien les decía de quién era hija. La había salvado *Varek*, un apellido que ni siquiera era el suyo, y detrás de ése, otro que en la bodega nadie había dicho en voz alta y que esa clase de hombres lleva aprendido. Cada noche lo volvía a pesar. Cada noche le daba el mismo asco.
+Lo que no se cansaba era lo otro. El del diente gris enderezándose junto a un tambo de la bodega, con la credencial del Monarch en la mano, y la cara que puso al leerla. Esa cara la conocía de Palermo: la había visto en hombres mayores que él, el día que alguien les decía de quién era hija. La había salvado *Varek*, el apellido impreso en la credencial, que ni siquiera era el suyo, y detrás de ése, otro que en la bodega nadie había dicho en voz alta y que esa clase de hombres lleva aprendido. Cada noche lo volvía a pesar. Cada noche le daba el mismo asco.
 
 La casa común no se había vuelto hostil. Se había vuelto cuidadosa, que era otra forma de dejar de ser la misma.
 
@@ -43,7 +44,7 @@ En la cabina de la grúa, con la férula en el regazo, había hecho la cuenta. E
 
 Por eso había dicho que la vieran con él. Lo había dicho como se dice lo más sencillo: que aceptaba, que podía contar con él y que no le importaba que se supiera. Él la había mirado después, desde la puerta del cuarto, como se mira a alguien que acaba de bajar de la acera sin ver la calle. Todavía no entendía por qué.
 
-La tarjeta le decía que la cuenta estaba bien hecha y que no había servido. Dario sabía dónde dormía. Lo que la tarjeta no decía, y tampoco hacía falta, era que Il Consorzio no se iba a enterar por él.
+La tarjeta le decía que la cuenta estaba bien hecha y que no había servido. Dario sabía dónde dormía. Lo que la tarjeta no decía, y tampoco hacía falta, era que Il Consorzio no se iba a enterar por Dario.
 
 Chiara guardó la tarjeta en el neceser. A Kal no se la enseñó.
 
@@ -55,7 +56,7 @@ Aparecía a la hora de la cena sin avisar, colgaba la chaqueta en el respaldo de
 
 —La de la caja —dijo.
 
-—El copiloto.
+—El copiloto —contestó ella.
 
 Walt asintió, como si eso dejara las cuentas en orden, y siguió comiendo. Después de cenar se quedaba en la mesa con una baraja vieja y les ganaba a Danny y a Nadir los cerillos de la semana. Chiara, desde el sofá, tardó tres noches en notar que perdía y ganaba con la misma cara. Algunas tardes desaparecía sin decir a dónde y volvía con polvo de otra parte de la ciudad en los zapatos.
 
@@ -99,7 +100,7 @@ Blake la esperaba en el lobby cuando salió.
 
 Estaba de uniforme junto a la columna de la recepción, con la gorra bajo el brazo y la postura de quien quiere que lo vean esperando. Desde Gabriella's ella no le había contestado un mensaje, y él había dejado de mandarlos a la segunda semana, que para Blake era una forma de dignidad.
 
-—No vine a pelear —dijo antes de que ella llegara hasta él—. Vine porque en El Relevo no se habla de otra cosa. El miércoles uno de tránsito le pegó la calcomanía de abandono a un Volvo en el callejón de la panadería portuguesa, corrió las placas y era de la fiscal. De la fiscal, Chiara. Y el panadero dice que el sábado una grúa de la Almendra se llevó de ahí mismo un Mercedes del Monarch, y que la que se subió a la cabina era alta y hablaba raro. —Le miró los lentes—. Ahora la fiscal pide patrulla en su calle, sin papel, ella que nunca quiso una. Y tú traes lentes adentro.
+—No vine a pelear —dijo antes de que ella llegara hasta él—. Vine porque en El Relevo no se habla de otra cosa. En el callejón de la panadería portuguesa dejaron abandonado el Volvo de la fiscal. De la fiscal, Chiara. Y de ahí mismo una grúa de la Almendra se llevó un Mercedes del Monarch, con una mujer alta en la cabina que hablaba raro. —Le miró los lentes—. Y tú traes lentes adentro.
 
 Chiara no se los quitó.
 
@@ -113,9 +114,9 @@ Lo dijo como quien ya se veía contándolo en El Relevo.
 
 Ella no contestó. Blake le tomó la mano derecha por debajo de la manga, sin pedirla, y le subió el saco hasta la férula. La giró hacia la luz para verla mejor.
 
-Chiara torció la boca hacia un lado y entrecerró los ojos detrás de los lentes. No fue por el dolor. Era la misma mueca de la camioneta, y Blake no la vio: estaba mirando la férula.
+Chiara torció la boca hacia un lado y entrecerró los ojos detrás de los lentes. No era por la muñeca. Era la mueca con que había aguantado en la camioneta, y Blake no la vio: estaba mirando la férula.
 
-—Esto te lo hizo alguien que sabe torcer. —Le soltó la mano, y la palma le fue a dar plana contra el mármol de la recepción, un golpe que hizo levantar la vista a la chica del mostrador—. Te hago el parte yo, ahora mismo. Tú me dices quién, yo lo escribo y el lunes lo tiene el sargento en el escritorio. Para eso estoy.
+—Esto te lo hizo alguien que sabe torcer. —Le soltó la mano y plantó la suya contra el mármol de la recepción, un golpe que hizo levantar la vista a la chica del mostrador—. Te hago el parte yo, ahora mismo. Tú me dices quién, yo lo escribo y el lunes lo tiene el sargento en el escritorio. Para eso estoy.
 
 Chiara pensó en una ventana de segundo piso que daba a un estacionamiento. En un parte con su nombre, el de la fiscal y la hora, en una carpeta que podía abrir cualquiera con placa. En quién, en Palermo, iba a enterarse de que una Ardizzone había ido a la policía en San Aurelio.
 
@@ -143,11 +144,11 @@ Había luz y voces bajas. Desde ahí veía media cocina: el codo de Kal sobre el
 
 —No puede volver al penthouse. Ya te lo expliqué.
 
-—Me explicaste que la subieron a una camioneta por un papel que firmaste tú. Que le abrieron la cabeza y que a ti te mandaron decir dónde duermes. Eso sí me quedó claro. —No subió la voz. La tuerca dio una vuelta—. El lunes le fueron a preguntar al de la vulcanizadora quién duerme en la casa común. Su chico pasó tres noches en el taller, en el rincón de las llantas, y no por falta de cuarto. El patrón le dijo que no se acercara a esta casa mientras esté ella. No vino a pedirlo. Lo encontré yo. —Otra vuelta—. En el mercado me preguntaron si era cierto que la italiana llegó con la boca rota. Nadie me preguntó quién se la rompió. Aquí eso ya se sabe. Wallah, no le deseo mal. Pero eso no lo pagas tú.
+—Me explicaste que la subieron a una camioneta por un papel que firmaste tú. Que le abrieron la cabeza y que a ti te mandaron decir que saben quién eres. Eso sí me quedó claro. —No subió la voz. La tuerca dio una vuelta—. El lunes le fueron a preguntar al de la vulcanizadora quién duerme en la casa común. Su chico pasó tres noches en el taller, en el rincón de las llantas, y no por falta de cuarto. El patrón le dijo que no se acercara a esta casa mientras esté ella. No vino a pedirlo. Lo encontré yo. —Otra vuelta—. En el mercado me preguntaron si era cierto que la italiana llegó con la boca rota. Nadie me preguntó quién se la rompió. Aquí eso ya se sabe. Wallah, no le deseo mal. Pero eso no lo pagas tú.
 
 Kal terminó de anotar una cifra y cerró el libro. Abrió una libreta más chica, de pastas blandas, y escribió algo en la última hoja.
 
-—¿Y cuánto les queda a los que dejaron de venir? De comida, digo.
+—¿Y cuánto les queda? De comida, digo.
 
 —A los seis, mucho. —La tuerca dejó de moverse—. A los otros ocho ya se les acabó.
 
@@ -229,7 +230,7 @@ Arriba entró al primer cuarto, volvió al pasillo y se asomó por la ventana in
 
 —Los muchachos. Danny, Nadir, Héctor cuando se le descompone la camioneta. Gente que entra sin tocar.
 
-Contestó la primera pregunta y dejó la segunda donde estaba. Sacó la cinta métrica y midió el marco de la ventana, que ya había medido.
+Contestó la primera pregunta y dejó la segunda donde estaba. Sacó la cinta métrica y midió el marco de la ventana dos veces.
 
 Ella apoyó una mano en el mismo marco. Siguió con los ojos la línea de una viga y después señaló el piso bajo sus pies.
 
@@ -251,7 +252,7 @@ Ella apoyó una mano en el mismo marco. Siguió con los ojos la línea de una vi
 
 Kal no dijo nada, y su silencio duró más que la mentira.
 
-—No sabía cómo se llamaba hace un segundo —admitió, y se tocó la sien sin darse cuenta—. Todo lo que sé de obras lo aprendí en italiano. En español me falta media ferretería.
+—No sabía cómo se llamaba hace un segundo —admitió, y se tocó la sien—. Todo lo que sé de obras lo aprendí en italiano. En español me falta media ferretería.
 
 —Se arregla. La ferretería en español te la presto yo.
 
@@ -263,7 +264,7 @@ Bajaron. Chiara se paró en medio de la sala y giró despacio sobre sí misma. S
 
 —Danny sube con botas.
 
-—La escalera de servicio del Monarch es de roble y le suben carritos de room service todo el día, con botas, con tacones, con un mesero de cien kilos que corre porque se le enfría la sopa. Sigue entera.
+—La escalera de servicio del Monarch es de roble, y por ahí suben y bajan meseros con charolas todo el día, a la carrera. Sigue entera.
 
 Kal lo apuntó en el folleto de la inmobiliaria. Después señaló el muro interior de la cocina.
 
@@ -275,13 +276,13 @@ Kal lo apuntó en el folleto de la inmobiliaria. Después señaló el muro inter
 
 Chiara no sonrió. No le hacía falta.
 
-Arriba, Kal abrió la puerta trasera antes de que ella pudiera tocarla. El balcón estaba comido por la intemperie: dos tablas hinchadas y una barandilla que se movía con el viento.
+Volvieron a subir. Kal abrió la puerta trasera del dormitorio antes de que ella pudiera tocarla. El balcón estaba comido por la intemperie: dos tablas hinchadas y una barandilla que se movía con el viento.
 
 —Podríamos cerrarlo y ganar pared. La madera está mal y la salida complica la distribución.
 
 —El balcón se queda.
 
-No calculó el costo ni buscó un tono amable para negociarlo. Era la primera decisión de la casa que le salía entera, sin margen. Chiara giró la cabeza. Kal miraba la barandilla, no a ella, y no salió.
+No lo dijo en tono de presupuesto ni de nada que se negociara. Era la primera decisión de la casa que le salía entera, sin margen. Chiara giró la cabeza. Kal miraba la barandilla, no a ella, y no salió.
 
 —Se restaura —dijo Chiara—. Y se asegura.
 
@@ -295,9 +296,9 @@ Esa tarde llamó a la empresa que había hecho dos ampliaciones del Monarch y co
 
 Kal recorrió las partidas con un dedo y se detuvo en una hoja que no venía de la empresa. La había escrito ella, con la izquierda, con la letra de alguien que firma con la otra mano. *Materiales: depósito de Ochoa, calle del canal. Peones: de la Almendra. Pago por adelantado, cada lunes.*
 
-—¿Y esta hoja? No es de la empresa.
+Kal la levantó a contraluz, sin preguntar.
 
-—Una condición.
+—Una condición —dijo ella.
 
 —Ochoa no tiene viga de ese tamaño —dijo Nadir desde la estufa, sin voltear—. Tiene varilla, cemento y block. La viga la va a pedir al norte, y el del norte le va a cobrar el flete, la prisa y que sea Ochoa. Un tercio más que con la empresa, por lo menos.
 
@@ -309,7 +310,7 @@ Nadir hizo otra cuenta con los dedos contra la cubierta, ésa sin decirla, y vol
 
 —Ya está. El arquitecto cobra al sellar.
 
-—La estructura la pago yo. Lo que carga, lo que sostiene la casa. En lo demás opina lo que quieras, pero eso va a mi nombre.
+—La estructura la pago yo. En lo demás opina lo que quieras, pero eso va a mi nombre.
 
 —No.
 
@@ -319,7 +320,7 @@ Nadir hizo otra cuenta con los dedos contra la cubierta, ésa sin decirla, y vol
 
 Kal no soltó la hoja.
 
-—Llevo tres semanas comiendo en esa mesa sin pagar un plato —dijo ella, con la voz de juntas, ordenada—. Si además las paredes las pagas tú, ¿yo qué hago aquí?
+—Llevo tres semanas comiendo en esta mesa sin pagar un plato —dijo ella, con la voz de juntas, ordenada—. Si además las paredes las pagas tú, ¿yo qué hago aquí?
 
 —Recuperarte de algo que te hicieron por mí.
 
@@ -351,15 +352,15 @@ Chiara se quedó quieta. Después se llevó la mano a la oreja y ajustó un aret
 
 Kal tomó el bolígrafo.
 
-—La cocina no se recorta. —Esperó a que ella asintiera, y ella no asintió: esperó también, con la mano buena sobre la carpeta, porque faltaba algo—. Y el balcón se queda.
+—La cocina no se recorta. —Esperó a que ella asintiera. Ella esperó también, con la mano buena sobre la carpeta—. Y el balcón se queda.
 
-—Ya lo anoté.
+—Lo dijiste en el balcón.
 
 Firmó. Nadir no preguntó cuánto costaba. El silencio le salió más caro que la pregunta.
 
 ***
 
-El lunes de la demolición llegó con la revisión del arquitecto sellada y encontró la casa sin voces separadas. El yeso había desaparecido de la mitad de los muros; listones, ladrillo y tuberías quedaban a la vista bajo un polvo fino que se le pegaba a los lentes. Los peones eran de la Almendra. Dos la saludaron por su nombre, y ella no sabía los suyos.
+El lunes de la demolición llegó con la revisión del arquitecto sellada, y las voces ya cruzaban la casa de punta a punta. El yeso había desaparecido de la mitad de los muros; listones, ladrillo y tuberías quedaban a la vista bajo un polvo fino que se le pegaba a los lentes. Los peones eran de la Almendra. Dos la saludaron por su nombre, y ella no sabía los suyos.
 
 El jefe de obra llamó a Kal desde el fondo de la planta baja.
 
@@ -383,13 +384,15 @@ Una semana después le llegó la factura de una caja resistente al fuego, con la
 
 ***
 
+Le quitaron la férula a las tres semanas, y esa tarde volvió al penthouse. Kal no la detuvo; dispuso sólo que Danny la llevara y la recogiera. El jueves, le contó Danny sin que ella preguntara, la mesa de la casa común volvió a ser de catorce.
+
 En la tercera semana de obra, Ochoa fue a buscarla.
 
 Era un hombre bajo, de manos grandes, con la camisa de manga corta abotonada hasta el cuello. Esperó en la acera hasta que ella salió y le dio un sobre. Adentro estaba el adelanto de la semana siguiente, contado.
 
 —Le sigo surtiendo, señora. Pero de aquí en adelante cobro al entregar.
 
-—¿Hice algo mal? Le pagué antes de que me lo pidiera.
+—¿Hice algo mal?
 
 —Pagó antes. —Lo dijo como quien da el precio de un bulto de arena—. El lunes me subieron la cuota. Por la competencia, me dijeron.
 
@@ -397,7 +400,7 @@ Era un hombre bajo, de manos grandes, con la camisa de manga corta abotonada has
 
 —En la Almendra el dinero que entra pasa por una sola ventanilla. El suyo no pasó.
 
-—¿Cuánto le subieron? Dígame la cifra exacta.
+—¿Cuánto le subieron?
 
 Le dijo la cifra. No era mucha. Era, redondeada hacia arriba, la décima parte de lo que ella le había pagado en tres semanas, como si alguien hubiera leído sus facturas con más cuidado que el jefe de obra.
 
@@ -407,9 +410,9 @@ Le dijo la cifra. No era mucha. Era, redondeada hacia arriba, la décima parte d
 
 Se fue a pie hacia el canal.
 
-Chiara se quedó en la acera con el sobre. Había querido devolverle al barrio lo que le costaba, y el barrio tenía ventanilla. Su dinero le había llegado a otro, contado y redondeado, sin que ella lo mandara. Se acordó del recado de la bodega, el que Rowe no había entendido y ella tampoco. Seguía sin entenderlo. Pero ya sabía de quién era la balanza.
+Chiara se quedó en la acera con el sobre. Había querido devolverle al barrio lo que le costaba, y el barrio tenía ventanilla. Su dinero le había llegado a otro, contado y redondeado, sin que ella lo mandara. Se acordó del recado de la bodega, el que Rowe no había entendido y ella tampoco. Seguía sin entenderlo entero. Pero ya sabía de quién era la balanza.
 
-Esa noche, ya sin férula, de vuelta en el penthouse, guardó el sobre con la tarjeta de Dario. A Kal no le dijo nada. Eran tres cosas.
+Esa noche, en el penthouse, guardó el sobre con la tarjeta de Dario. A Kal no le dijo nada. Eran tres cosas.
 
 ***
 
@@ -455,7 +458,7 @@ Movieron la cinta juntos hasta que alguien podía sentarse, otra persona podía 
 
 La obra se paró por las fiestas. Chiara pasó la Navidad en el Monarch, con el salón lleno hasta Año Nuevo, y supo por Danny que Kal la había pasado en El Patio, con los muchachos y una bandeja de Mabel. El primero de enero él le llamó a las ocho desde el taller, que había abierto a las siete como cualquier día, y hablaron del balcón.
 
-Para la tercera visita el polvo había dejado de gobernar la casa. Kal subió primero, y ella lo siguió sin que él vigilara cada escalón, aunque la esperó arriba hasta oírla llegar.
+Cuando la obra volvió a arrancar, el polvo ya no gobernaba la casa. Kal subió primero, y ella lo siguió sin que él vigilara cada escalón, aunque la esperó arriba hasta oírla llegar.
 
 El balcón tenía tablas nuevas donde hacían falta, la madera vieja restaurada donde todavía servía y una barandilla que ya no cedía. Chiara salió, midió el espacio con dos pasos y señaló una esquina.
 
@@ -469,7 +472,7 @@ La mesa del comedor llegó al día siguiente: madera oscura, estructura de metal
 
 —Los muchachos comen.
 
-Se lo devolvió con tanta seriedad que él tardó un segundo en reconocer sus propias palabras. Cuando las reconoció, ella ya estaba midiendo otra cosa.
+Se lo devolvió con tanta seriedad que él tardó un segundo. Cuando cayó, ella ya estaba midiendo otra cosa.
 
 Para el sofá le enseñó tres grises en una tableta.
 
