@@ -1,4 +1,5 @@
 <!--
+CIRUGÍA DE LA LECTURA (2026-11-22, [[98_Agent_Handoff/sessions/2026-11-22_claude_cirugia_lectura_cap31]]; sigue BORRADOR): diálogo canon intacto (la caja, la ciabatta, «Ladro», «Assaggia», la coda de Marisol y «¿El de la caja?», por decisión del autor); excepción de la regla 06 al 33 % (DECISIÓN DEL AUTOR). Narración: el penthouse y Vento nombrados, la calificación de Meiko en media frase, «Esa noche», la sonrisa de Marisol ya no es la ladeada de Chiara, la sal una sola vez, las sandalias «desde hacía días» y los sujetos ambiguos.
 LECTOR PARTE II (2026-11-08, [[98_Agent_Handoff/sessions/2026-11-08_claude_observaciones_lector_parte_II]]; DISEÑO, espera lectura): sólo narración: el enojo de Marisol dura junto al interés por Kenji. Diálogo canon intacto.
 Renumerado 2026-11-08 (nuevo cauce, Parte II): antes Cap. 37.
 NUEVO CAUCE (Fase 4, 2026-11-08, [[98_Agent_Handoff/encargos/ENCARGO_Fase4_Parte_II]], reasignación): nuevo Cap. 31, tarjeta T17, POV Chiara único, verbo «Reescribe» según [[11_Books/Book_01_Mascaras_De_Cristal/00_Mapa_Cauce_Cap11_Camp_Alder]]. El encabezado sigue diciendo «Capítulo 37» hasta que la terminal principal renumere. Versión anterior íntegra: [[11_Books/Book_01_Mascaras_De_Cristal/Escenas_Eliminadas/33_Mas_De_La_Cuenta_Version_2026-11-08]]. Sesión: [[98_Agent_Handoff/sessions/2026-11-08_claude_fase4_cap31_lo_unico_que_es_mio]].
@@ -49,11 +50,11 @@ CALIFICACIÓN DE VALET (2026-11-15, CANON DEL AUTOR: las calificaciones de valet
 
 # Capítulo 31 — Lo único que es mío
 
-El cuadro estaba en la mesa cuando salió del cuarto, junto a su taza, como si siempre hubiera estado ahí. Marco de madera clara. Un moño rojo, un poco torcido. Ninguna nota.
+El cuadro estaba en la mesa del penthouse cuando salió del cuarto, junto a su taza, como si siempre hubiera estado ahí. Marco de madera clara. Un moño rojo, un poco torcido. Ninguna nota.
 
 La orilla del lago, la última luz. Dos espaldas, una bolsa y una mochila, las manos juntas. Nadie en la foto sabía que había una foto.
 
-Otra noche de arrastre: Kal había llegado pasadas las tres. Ella lo oyó lavarse las manos en el baño de visitas, el agua corriendo más de lo que tarda nadie en lavarse las manos, y después el peso de él del otro lado de la cama. No le había preguntado. A las siete ya se había ido al taller.
+Otra noche de arrastre: Kal había llegado pasadas las tres. Ella lo oyó lavarse las manos en el baño de visitas, el agua corriendo más de lo que tarda nadie en lavarse las manos, y después el peso de él del otro lado de la cama. Esta vez no le había preguntado. A las siete ya se había ido al taller.
 
 Chiara le quitó el moño, lo dobló una vez y lo guardó en el cajón de los cubiertos. El cuadro lo dejó donde estaba.
 
@@ -79,11 +80,11 @@ La había clavado ella misma en la puerta del box la semana que lo compró, y de
 
 Él asintió, se puso la gorra antes de llegar a la escalera y no le preguntó cómo estaba. Chiara se lo agradeció más que cualquier otra cosa que le hubieran dicho esa semana.
 
-Se quedó con la hoja abierta en la mano. En sus primeras semanas en el Monarch, la administración tenía una lista de los caballos que se iban a vender al cerrar la temporada, y él era el más viejo de la lista. Lo había comprado con su dinero, no con el del casino. Le había dejado el viento; lo demás le sobraba. Y habían hecho un trato, ella y el caballo, que ya no lo galopaba: el día que él no quisiera salir, no lo volvía a montar. Que lo decidiera él.
+Se quedó con la hoja abierta en la mano. En sus primeras semanas en el Monarch, la administración tenía una lista de los caballos que se iban a vender al cerrar la temporada, y Vento era el más viejo de la lista. Lo había comprado con su dinero, no con el del casino. Le había dejado el viento; lo demás le sobraba. Y habían hecho un trato, ella y el caballo, que ya no lo galopaba: el día que él no quisiera salir, no lo volvía a montar. Que lo decidiera él.
 
 No le había tocado decidirlo.
 
-Dobló la hoja por los mismos dobleces, la metió en la bolsa con la cabezada y caminó hacia el corredor que llevaba a su oficina, un tramo angosto, acristalado de un lado, que corría por encima del piso de juego antes de doblar hacia las puertas de administración. Lo cruzaba varias veces al día sin mirar hacia abajo. Esa mañana, con la bolsa contra el pecho, miró.
+Dobló la hoja por los mismos dobleces, la metió en la bolsa con la cabezada y caminó de vuelta por el corredor que llevaba a su oficina, un tramo angosto, acristalado de un lado, que corría por encima del piso de juego antes de doblar hacia las puertas de administración. Lo cruzaba varias veces al día sin mirar hacia abajo. Esa mañana, con la bolsa contra el pecho, miró.
 
 El piso, a esa hora, estaba casi vacío: un par de mesas cerradas, el zumbido bajo de las máquinas que nadie jugaba todavía, la luz artificial que el Monarch mantenía igual de día que de noche porque a nadie le convenía que un jugador supiera qué hora era. Y la caja, al fondo, con su ventanilla de vidrio grueso y su fila de cordones que nadie usaba a esa hora porque no había fila.
 
@@ -119,13 +120,13 @@ Chiara se acercó lo suficiente para que los dos la registraran. Kenji fue el pr
 
 —¿Me buscabas? —dijo Marisol, sin darle tiempo a nada más, con esa voz que Chiara ya conocía de la única vez que se habían visto de verdad, directa y filosa sin necesitar levantarse—. ¿Te debo algo? ¿O por qué me observas?
 
-No era una pregunta hecha a Chiara. Era la pregunta que le había estado haciendo a Kenji.
+Sonaba a la pregunta que le había estado haciendo a Kenji, ahora con otra destinataria.
 
 —No te estaba observando a ti —dijo Chiara, con calma.
 
-—Ya. —Marisol la miró un momento, después miró a Kenji, después otra vez a Chiara, y algo terminó de encajar en su cabeza con la velocidad de alguien acostumbrada a conectar puntos más rápido de lo que el resto de la sala esperaba—. Claro.
+—Ya. —Marisol la miró un momento, después miró a Kenji, después otra vez a Chiara, y algo terminó de encajar—. Claro.
 
-Sonó a alguien completando un mapa que no le gustaba del todo.
+Sonó a alguien completando un mapa que no le gustaba del todo, y Kenji, del otro lado del vidrio, bajó la vista al cajón entreabierto.
 
 —Trabaja para ti —dijo.
 
@@ -141,7 +142,7 @@ Chiara no lo negó. No tenía sentido negarlo, y una de las cosas que había apr
 
 No le contó todo. No le contó a Halbrook, ni a Camp Alder, ni la silla que Kal tenía ahora en una mesa que Chiara prefería no nombrar en voz alta en medio de un casino, ni lo que ella misma le debía al dueño de esa mesa. Le contó lo que le correspondía saber, sin dorarlo y sin encogerlo:
 
-—Kal descubrió algo hace unas semanas. Que Vivian Varek está más metida en el negocio de su padre de lo que cualquiera pensaba. Y en la misma conversación, sin buscarlo, te mencionó sin saber que eras tú. Una pelirroja de un taller, un profesor, una discusión sobre permisos. Kal te reconoció por el contexto. No fue nada más que eso.
+—Kal descubrió algo hace unas semanas. Que Vivian Varek está más metida en el negocio de su padre de lo que cualquiera pensaba. Y en la misma conversación, sin buscarlo, Vivian te mencionó sin saber que eras tú. Una pelirroja de un taller, un profesor, una discusión sobre permisos. Kal te reconoció por el contexto. No fue nada más que eso.
 
 —¿Y? —dijo Marisol, sin bajar los brazos.
 
@@ -205,7 +206,7 @@ No insistió. Entendía, mejor que casi nadie en esa sala, el valor de no explic
 
 —¿Y tú? —preguntó Chiara.
 
-—Yo no me alejé. —La sonrisa ladeada apareció por primera vez, breve—. Quería saber por qué.
+—Yo no me alejé. —Sonrió por primera vez, apenas, y se le fue enseguida—. Quería saber por qué.
 
 Chiara sintió algo parecido a reconocerse ahí, aunque no lo dijo.
 
@@ -265,19 +266,19 @@ De todo lo que había allá abajo, era lo único que había sido suyo.
 
 ***
 
-En la rampa de la entrada, Meiko ya tenía el Lancia esperando con el motor prendido, la camisa blanca de la noche metida en un pantalón negro y una gorra que no era de la contratista. Un hombre de traje le había lanzado las llaves de un BMW al pecho sin mirarla y se había ido hacia la puerta giratoria, hablando por teléfono.
+Esa noche, en la rampa de la entrada, Meiko ya tenía el Lancia esperando con el motor prendido, la camisa blanca de la noche metida en un pantalón negro y una gorra que no era de la contratista. Un hombre de traje le lanzó las llaves de un BMW al pecho sin mirarla y se fue hacia la puerta giratoria, hablando por teléfono.
 
 Meiko las atrapó contra la camisa. Esperó a que Chiara estuviera lo bastante cerca.
 
 —Propina de veinte —dijo, sin bajar la voz ni subirla—. Trato de dos.
 
-Chiara siguió con la vista la espalda del traje, que ya entraba al lobby. Lo conocía: un consejero de la mesa directiva que en las juntas la saludaba de beso.
+Chiara siguió con la vista la espalda del traje, que ya entraba al lobby. Lo conocía: un consejero de la mesa directiva que en las juntas la saludaba de beso. Tardó un segundo en entender que Meiko le estaba pasando una calificación: lo que el hombre dejaba y cómo trataba.
 
 —Yo le doy uno.
 
 —Usted lo conoce más. —Meiko le sostuvo la puerta del Lancia—. Buenas noches, señora.
 
-Volvió al loft ya de noche, con el cansancio ordinario de un día ordinario encima, algo que después de la semana que habían tenido se sentía casi como un lujo. Dejó el bolso sobre la barra, junto a un par de sandalias suyas que llevaban ahí tiradas desde la noche anterior y que nadie se había molestado en mover, se quitó la chaqueta y la colgó sobre el respaldo de una silla donde ya colgaba otra.
+Volvió al loft con el cansancio del día encima. Dejó el bolso sobre la barra, junto a un par de sandalias suyas que llevaban ahí tiradas desde hacía días y que nadie se había molestado en mover, se quitó la chaqueta y la colgó sobre el respaldo de una silla donde ya colgaba otra.
 
 Antes de la salsa sacó la cajetilla del bolso y fue a la ventana de la cocina. La abrió una cuarta, hacia el callejón, y encendió el primero de la noche con el encendedor de aluminio.
 
@@ -305,7 +306,7 @@ Kal le dio un trago a la cerveza sin apurarse, con la calma de quien ya ganó y 
 
 —Yo sí.
 
-No dijo nada más. Dejó el pan equivocado sobre la tabla, exactamente donde hubiera puesto el que había pedido, y siguió sacando lo que faltaba: el delantal que Kal había terminado dejando para ella en uno de los ganchos, la tabla de cortar que prefería, y una copa —siempre la misma, distinta a las de él— que sacó del estante sin tener que buscarla.
+Chiara no dijo nada más. Dejó el pan equivocado sobre la tabla, exactamente donde hubiera puesto el que había pedido, y siguió sacando lo que faltaba: el delantal que Kal había terminado dejando para ella en uno de los ganchos, la tabla de cortar que prefería, y una copa —siempre la misma, distinta a las de él— que sacó del estante sin tener que buscarla.
 
 Kal estiró la mano hacia un trozo de queso que ella acababa de cortar. Chiara le golpeó los dedos con el dorso de la cuchara sin siquiera mirarlo.
 
@@ -353,15 +354,15 @@ Le faltaba sal.
 
 —Manca sale —dijo, más para sí misma que para él, y echó la sal sin medirla—. Que tenías razón, antes de que lo preguntes. Y no hace falta que lo repitas.
 
-Kal lo repitió de todos modos, con la misma solemnidad excesiva de antes, y esta vez ninguno de los dos fingió que no le daba risa.
+Kal repitió «tenía razón» de todos modos, con la misma solemnidad excesiva de antes, y esta vez ninguno de los dos fingió que no le daba risa.
 
-Eso —tener razón sobre la sal— era peor que si hubiera estado equivocado. Chiara agregó una pizca sin decir nada más al respecto.
+Eso —tener razón sobre la sal— era peor que si hubiera estado equivocado.
 
 —Gracias —dijo Kal.
 
 —No era para ti.
 
-Fue después de eso, sin anunciarlo, que se acercó por detrás y la rodeó con los dos brazos mientras ella removía la salsa, apoyando la barbilla cerca de su hombro. Ella siguió removiendo. Ninguno de los dos lo comentó.
+Fue después de eso, sin anunciarlo, que Kal se acercó por detrás y la rodeó con los dos brazos mientras ella removía la salsa, apoyando la barbilla cerca de su hombro. Ella siguió removiendo. Ninguno de los dos lo comentó.
 
 —¿Qué importancia tiene para ti —dijo Chiara, al rato, con el mismo tono con el que hubiera preguntado por la sal— con quién sale Marisol?
 
