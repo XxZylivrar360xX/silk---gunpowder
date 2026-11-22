@@ -23,6 +23,7 @@ Continuidad (2026-11-04, encargo del autor; DISENO, pendiente de lectura; el est
 Decisiones del autor (2026-11-04; redaccion DISENO, pendiente de lectura): la perra flaca es Rocco ("y eso que no traia nada de comer", rima con el Cap. 1; fuera "cosa que no hacia por nadie"). El Monarch era la salida de Kal: "Si Matteo llamaba antes de las dos, el anticipo se devolvia". La hierba se recoge en la tarde y va en el Buick de noche, lo que acorta el trabajo y deja a Danny tiempo para el cajero (ver Cap. 4).
 Fixer rusa (2026-11-07, CANON DEL AUTOR): Anya queda retirada; la contacto rusa de Afganistán es una fixer sin nombre y sin romance. Se quita «y no siempre por trabajo».
 Cirugia de la lectura (2026-11-21; BORRADOR, espera lectura): replicas infladas recortadas, Mabel y liquido de frenos fuera, replica del dinero recortada con el recibo de Marisol en narracion, «o cobras la proteccion, o la pagas», «entre los otros jefes» (decisiones del autor). Detalle: 98_Agent_Handoff/sessions/2026-11-21_claude_cirugia_lectura_cap03.md.
+Lectura externa lote 1 (2026-11-22, SURGERY aprobada por el autor; prosa DISENO, espera lectura): fuera «Omar cobra el viernes...» (repetia el apuro del Cap. 1), «como quien firma algo» (Walt) y el «segundo mas» de Natalie. Detalle: 98_Agent_Handoff/sessions/2026-11-22_claude_lectura_externa_lote1_caps01-09.md.
 -->
 
 # Capítulo 3 — Lo que no cambió
@@ -445,7 +446,7 @@ Kal entendió lo que estaba mirando. No el taller. A su hija moviéndose en un l
 
 —Viene los domingos —dijo Kal—. Cuando no tiene guardia. Desde antes de que yo pusiera el portón.
 
-Walt asintió como quien firma algo sin leerlo porque ya sabe lo que dice.
+Walt asintió y no preguntó más.
 
 Nadir salió del fondo del taller limpiándose las manos en un trapo. Había convertido la noticia en comida, como hacía con todas: sobre una mesa plegable, entre la grúa dos y la pared, había una olla de sopa roja con garbanzos, un kilo de tortillas de Mabel todavía en su papel y pan que no venía de ninguna panadería del barrio.
 
@@ -497,7 +498,7 @@ Se sorbió la nariz y se la frotó con el dorso de la mano.
 
 Se rio solo. Nadir miró a Kal. Kal siguió comiendo.
 
-Natalie dejó la botella en la mesa y miró a Danny un segundo más de lo necesario: primero los ojos, después las manos. Danny lo sintió. Le pasó un brazo por los hombros desde atrás y le dio un beso ruidoso en la cabeza.
+Natalie dejó la botella en la mesa y miró a Danny despacio: primero los ojos, después las manos. Danny lo sintió. Le pasó un brazo por los hombros desde atrás y le dio un beso ruidoso en la cabeza.
 
 —Nat, mi amor. ¿Sigues salvando gente?
 
@@ -617,7 +618,7 @@ El cuarto se quedó sin ruido. Hasta Danny.
 
 Kal le sostuvo la mirada. No se defendió. Walt tampoco insistió; no había dicho eso para ganar nada.
 
-—Le di hasta las dos a un casino de La Isla —dijo Kal al fin—. No han llamado. Omar cobra el viernes y al cable de la grúa dos no le queda un mes. —Miró el teléfono bocabajo, sin tocarlo—. Con eso la Almendra vuelve a estar en el juego. Con el dinero de él. Es el único dinero que me va a dar gusto gastar.
+—Le di hasta las dos a un casino de La Isla —dijo Kal al fin—. No han llamado. —Miró el teléfono bocabajo, sin tocarlo—. Con eso la Almendra vuelve a estar en el juego. Con el dinero de él. Es el único dinero que me va a dar gusto gastar.
 
 No dijo lo del recibo que seguía en el banco del taller, debajo de la taza.
 

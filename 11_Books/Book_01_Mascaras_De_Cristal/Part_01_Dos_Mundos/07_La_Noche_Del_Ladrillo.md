@@ -20,6 +20,7 @@ Ruleta y cierre nuevo (2026-11-03, DECISION DEL AUTOR; prosa DISEÑO, BORRADOR e
 Favor y Vento (2026-11-04, DECISION DEL AUTOR; prosa DISEÑO, BORRADOR en este tramo; supersede los dos parrafos anteriores en lo que contradigan): la ruleta regresa al Cap. 7, asi que los chicos ya son conocidos. En Gabriella's, Chiara le ofrece un favor a Nadir por ser amigo de Kal ("La casa no debe... La casa hace favores"); se quedan "Usted es el problema", el dentista y "Cuando quiera". Cierre: tres toques y timbre, conversacion por el parlante ("Vengo a cobrar"; ella teme que tenga que ver con la tarjeta de Dario, sin explicarlo); el favor es que Danny monte. Bajan al corral: Chiara monta primero en Vento (al paso), Danny despues, de la cuerda; "Los domingos... A las seis ya voy de regreso" (de ahi lo sabe Kal, Cap. 11). Vento le revisa el bigote a Russ y Russ se rie, primera vez; a ella se le contagia, casi sin ruido (la carcajada entera sigue reservada al Cap. 9). No se dice que Vento es de ella (lo cuenta en el archivo 33). Fuera: Chiara repartiendo, los 640 bajo el ladrillo. Cierre: paja bajo el ladrillo. "Danny saluda en la pantalla" (idea del autor) intacto. Corrado no aparece.
 Cirugia de la lectura (2026-11-21; BORRADOR, espera lectura): el taxi ya no descubre el Peugeot (D5), «—¿Eso le dijo? —pregunto Chiara», Blake patrullero, fuera la glosa del regaño y «En mi familia me dirian que no se negociar». Detalle: 98_Agent_Handoff/sessions/2026-11-21_claude_cirugia_lectura_cap08.md.
 Version de Blake (2026-11-21, encargo del autor): el Peugeot "casi" ya no es en Kingsley Field sino la noche del Cap. 1 en el Puerto Viejo, inflada (lo encerro solo, le arranco media puerta, la bascula a ochenta); el lector ya vio lo que paso. DISENO, espera lectura.
+Lectura externa lote 1 (2026-11-22, SURGERY aprobada por el autor; prosa DISENO, espera lectura): fuera tres «como quien» (se acuerda de algo, sopesa una moneda, esconde una prueba); el ladrillo cobra la siembra del Cap. 7. Detalle: 98_Agent_Handoff/sessions/2026-11-22_claude_lectura_externa_lote1_caps01-09.md.
 -->
 
 # Capítulo 8 — La noche del ladrillo
@@ -184,7 +185,7 @@ No había terminado de cruzarla cuando Dario, que seguía en la acera, dio dos p
 
 Chiara estaba demasiado lejos para oír. Vio lo suficiente: Dario hablando poco y sin sonreír, como hablaba siempre; Kal escuchando con las manos en los bolsillos; una tarjeta que pasó de una mano a otra sin ceremonia. Kal la miró un segundo y la guardó en la chaqueta. Nadir, a su lado, la miró más tiempo que él.
 
-Le pareció raro. Le siguió pareciendo raro cuando el auto de Dario llegó y él no se subió, sino que volvió a entrar al salón como quien se acuerda de algo. Kal ya trabajaba para el Monarch. Las grúas, las facturas, los proveedores: todo pasaba ya por la casa. Si Dario quería algo de él, tenía oficina, tenía socios, la tenía a ella. Una tarjeta en la acera de una fiesta era otra cosa. Era querer algo que no cabía en el contrato.
+Le pareció raro. Le siguió pareciendo raro cuando el auto de Dario llegó y él no se subió, sino que volvió a entrar al salón. Kal ya trabajaba para el Monarch. Las grúas, las facturas, los proveedores: todo pasaba ya por la casa. Si Dario quería algo de él, tenía oficina, tenía socios, la tenía a ella. Una tarjeta en la acera de una fiesta era otra cosa. Era querer algo que no cabía en el contrato.
 
 ***
 
@@ -192,7 +193,7 @@ Cuando ella volvió a entrar, Kal los trajo hasta ella sin ceremonia.
 
 —Nadir…
 
-—Ya nos conocemos, khoya. —Nadir le dio la mano, correcto, y tardó en soltarla, como quien sopesa una moneda—. Usted es el problema.
+—Ya nos conocemos, khoya. —Nadir le dio la mano, correcto, y tardó en soltarla—. Usted es el problema.
 
 Kal se pasó la mano por la cara.
 
@@ -294,7 +295,7 @@ Nadir no. Se quedó en la barra, con una copa que por fin había conseguido pedi
 
 ***
 
-Volvió a la mesa de Blake con el ladrillo escondido en el bolso, como quien esconde una prueba.
+Volvió a la mesa de Blake con el ladrillo escondido en el bolso.
 
 En algún momento, al volver a mirar hacia la barra, la copa de Nadir estaba sola, vacía.
 

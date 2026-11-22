@@ -13,6 +13,7 @@ Eco de "señora Mercer" (2026-11-02, pedido del autor; DISEÑO): tras "qué boni
 Sin los chicos (2026-11-03, DECISION DEL AUTOR; supersede H2-a en este punto; prosa DISEÑO, BORRADOR): Nadir y Danny salen del capitulo, para no atacar a Kal y dejar el foco en los dos; la broma de Enzo cumple lo comico. Chiara no les pone cara hasta la noche del ladrillo. Fuera la acera completa y las burlas en la leccion de Rocco. Danny queda solo como mencion ("todavia no", la lona). Se queda Hector con "¿Te referias a esos ojos?" (canon, cierra el Cap. 3). Texto en Escenas_Eliminadas/README.
 Hipodromo sembrado (2026-11-04, DECISION DEL AUTOR; prosa DISEÑO, BORRADOR en este tramo): Danny baña a Rocco en el patio antes de la cena y a Kal se le escapa que atras del casino hay hipodromo; Danny sigue fuera de la cena y de la acera. Cobra en la puerta del Cap. 8. Chiara les pone cara a los chicos en el Cap. 7 (ruleta), no en el ladrillo: supersede esa frase de la nota anterior.
 Cirugia de la lectura (2026-11-21; BORRADOR, espera lectura): fuera «No hablaron de Alessio» y la glosa de la junta (POV de Kal), «No fue una cita —dijo ella», replicas infladas recortadas, fuera «Natalie tenia razon» (decision del autor). Detalle: 98_Agent_Handoff/sessions/2026-11-21_claude_cirugia_lectura_cap06.md.
+Lectura externa lote 1 (2026-11-22, SURGERY aprobada por el autor; prosa DISENO, espera lectura): fuera «Claro. Si le interesa» / «Claro que me interesa...» (reiteraban; el chiste canon de los negocios queda intacto). Detalle: 98_Agent_Handoff/sessions/2026-11-22_claude_lectura_externa_lote1_caps01-09.md.
 -->
 
 # Capítulo 6 — Sólo una cena
@@ -506,12 +507,6 @@ Kal los fue contando con los dedos sobre el mantel.
 Chiara lo miró por encima de la copa.
 
 —Siempre con los negocios bajo la manga, ¿eh? No pierde un momento.
-
-—Claro. Si le interesa.
-
-—Claro que me interesa. Por supuesto que sabe que me interesa.
-
-Lo dijo con la voz de las juntas, y a media frase la bajó un tono.
 
 —Bueno. Soy culpable por quitarle un poco de trabajo de encima.
 

@@ -14,6 +14,7 @@ Mascara negra (2026-11-05, decision del autor; capitulo TERMINADO, el estado se 
 La Zen Devil (2026-11-15, CANON DEL AUTOR: Meiko corre para los Devil Splicers como «la Zen Devil», en un Camaro del 67, con máscara de diablo blanca lisa, y termina segunda; capítulo TERMINADO, el estado se conserva; prosa DISEÑO, pendiente de lectura): cuatro inserciones (el Camaro aparte en la grava; Tyler la nombra, «Ésa sí se acuerda del guardaganado»; el Camaro en la primera fila, «el que salió derecho»; sus luces traseras despegándose en la recta). Chiara se queda con el coche y con la máscara, no con la cara; no hay nombre. El resultado («segunda en Kingsley») se dice en el Cap. 22 (archivo 24b). Arco: [[11_Books/00_Arco_Meiko_Nakano]].
 Parrilla armonizada (2026-11-15, revisión externa): el Camaro pasa a la SEGUNDA fila (el que ganó salió en la primera; cuadra con «El primero salió una fila antes» del Cap. 22); el Peugeot va en la cuarta («tres filas por delante»), dos detrás del Camaro. «¿Quién abre?» → «¿A quién hay que cuidar?».
 Cirugia de la lectura (2026-11-21; BORRADOR, espera lectura): el Peugeot ya no se «arma» en el taxi (D5), traslado de Il Gelsomino al Monarch, malvavisco debajo del asiento, «lo que no cabia en el contrato», «Old Road Town», kilometros por hora. Detalle: 98_Agent_Handoff/sessions/2026-11-21_claude_cirugia_lectura_cap09.md.
+Lectura externa lote 1 (2026-11-22, SURGERY aprobada por el autor; prosa DISENO, espera lectura): fuera «como quien confirma un dato». Detalle: 98_Agent_Handoff/sessions/2026-11-22_claude_lectura_externa_lote1_caps01-09.md.
 -->
 
 # Capítulo 9 — Mandorla
@@ -46,7 +47,7 @@ Chiara se rio: una sílaba, casi sin querer.
 
 —Nada que te vaya a impresionar.
 
-Kal asintió, como quien confirma un dato que ya sospechaba. Cerró la navaja y se la guardó.
+Kal asintió. Cerró la navaja y se la guardó.
 
 —Bueno, ponte algo cómodo porque vamos a ir a dar una vuelta.
 

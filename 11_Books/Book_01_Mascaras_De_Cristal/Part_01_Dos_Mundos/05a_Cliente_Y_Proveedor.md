@@ -58,6 +58,7 @@ Hospital con mas espacio (2026-11-03, DECISION DEL AUTOR; prosa DISEÑO, sigue B
 Cortes de las semanas (2026-11-03, aprobados por el autor sobre lectura de ChatGPT; DISEÑO, sigue BORRADOR): fuera el cierre de la grua vacia en la cena de Blake, "Chiara habria querido..." y "Gracias por venir / Claro", dos renglones de la bitacora (jueves, martes), "El total quedo...", y en la caseta "Kal no pregunto desde cuando" y "Eso le cuesta una firma / Me cuesta menos...". Texto en Escenas_Eliminadas/README.
 Una semana en vez de semanas (2026-11-03, DECISIÓN DEL AUTOR, regla 06 de staging; prosa DISEÑO, BORRADOR): la apertura pasa a coda del Cap. 4 y el capitulo abre con la factura. Tras "No la acomodo.": viernes, cena y beso; martes, departamento; miercoles, cita; jueves, pivote unico en la salida de carga (caseta, hombre del puerto, orden de compra, bisagra, rueda, "No es suyo", Tommaso en el muelle); esa noche, Direccion en una linea y la rueda; viernes, hospital. Fuera: bar del sabado, bitacora como escena, llamada de Fabrizio (candidata a una visita a la Almendra mas adelante, sin decidir), reparacion del carrito en la caseta, "Iba molesta". Texto en Escenas_Eliminadas/README.
 Cirugia de la lectura (2026-11-21; BORRADOR, espera lectura): replicas infladas recortadas, «y sin copa», «Incluye lo que yo autorice» restituida, el hombre del puerto se va en taxi y deja el coche (decision del autor), fuera la glosa tras Tommaso (decision del autor); regla 06: excepcion sobre la vara (32 %, DECISION DEL AUTOR). Detalle: 98_Agent_Handoff/sessions/2026-11-21_claude_cirugia_lectura_cap05.md.
+Lectura externa lote 1 (2026-11-22, SURGERY aprobada por el autor; prosa DISENO, espera lectura): hombro sin salto de POV en la seccion de Chiara; fuera «como quien paga», «objeto prestado», «un momento largo» y el «segundo mas» de la teniente. Detalle: 98_Agent_Handoff/sessions/2026-11-22_claude_lectura_externa_lote1_caps01-09.md.
 -->
 
 # Capítulo 5 — Cliente y proveedor
@@ -388,7 +389,7 @@ Lo dijo como se dice de una apuesta perdida. Chiara entendió la cuenta que él 
 
 —Fui a la despedida de Keene.
 
-Kal la miró un momento largo, como quien oye a otro llegar solo, y por su cuenta, a un camino que él ya había recorrido.
+Kal la miró como quien oye a otro llegar solo, y por su cuenta, a un camino que él ya había recorrido.
 
 —Su nombre en mi factura —dijo Chiara—. ¿Ya es otro momento?
 
@@ -456,7 +457,7 @@ Era la voz del brindis de El Relevo, la que había callado el bar sin subirse a 
 
 —Lleno —contestó Blake—. Con lo del torneo no le alcanzan las manos.
 
-La teniente siguió mirando a Chiara un segundo más, como si la respuesta todavía no hubiera llegado. Después les deseó buen provecho y se fue a su mesa.
+La teniente siguió mirando a Chiara sin decir nada. Después les deseó buen provecho y se fue a su mesa.
 
 Chiara bebió vino.
 
@@ -510,13 +511,13 @@ Chiara bajó con una carpeta. Traía la orden de compra que había armado esa ma
 
 La había archivado entre el contrato de lavandería y el de hielo, donde nadie leía porque nadie quería. El nombre de Kal no quedaba en ningún lugar donde no estuviera también el de una empresa de toallas. Aun así, antes de mandarla se había quedado con el cursor encima: era su firma sobre la palabra *Almendra*, en un registro que otros también leían.
 
-Lo encontró cerrando el capó del coche. El hombro derecho le dio un piquete y lo giró una vez, sin hacerle caso.
+Lo encontró cerrando el capó del coche. Al bajarlo, giró el hombro derecho una vez, con una mueca que no le duró.
 
 —Me dejaron pasar sin llamar a nadie.
 
 —Ahora es un trámite. Dejó de convenirme que fuera noticia cada vez que usted aparece.
 
-Le tendió la carpeta. Kal se limpió las manos con el trapo antes de agarrarla y bajó por los renglones sin prisa, hasta el total. Después sacó del bolsillo de la chaqueta algo envuelto en papel de estraza y se lo cambió por la carpeta, como quien paga.
+Le tendió la carpeta. Kal se limpió las manos con el trapo antes de agarrarla y bajó por los renglones sin prisa, hasta el total. Después sacó del bolsillo de la chaqueta algo envuelto en papel de estraza y se lo cambió por la carpeta.
 
 Era una bisagra. Pesaba más de lo que parecía.
 
@@ -606,7 +607,7 @@ Chiara no se movió.
 
 —Le di la versión.
 
-Lo dijo sin énfasis, como quien devuelve un objeto prestado.
+Lo dijo sin énfasis.
 
 —Es la única que hay —dijo Chiara.
 

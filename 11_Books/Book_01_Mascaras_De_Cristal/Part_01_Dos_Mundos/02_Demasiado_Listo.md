@@ -20,6 +20,7 @@ Continuidad de la sala (2026-11-04, encargo del autor; DISEÑO, pendiente de lec
 Decisiones del autor (2026-11-04; redaccion DISEÑO, pendiente de lectura; levantan lo protegido en Audit_Caps_01-03 §6 para estos puntos): fuera el sorteo y sus replicas, hasta "Sus aspiraciones son altas" (sin cobro desde 2026-09-30); la pregunta de Chiara por el porcentaje entra tras "Kal espero". La lectura de Kal desde Chiara pasa a observable para Kal ("Parecia saber que Kal no estaba jugando"). En la tina, "una habitacion podia mirarla de vuelta", que el recuerdo no cumplia, pasa a "le dijeron que cualquier casa bastaba".
 Tenis (2026-11-05, decision del autor; capitulo TERMINADO, el estado se conserva): "la unica concesion que se habia permitido" pasa a "idea de Marisol" (Cap. 1).
 Cirugia de la lectura (2026-11-21; BORRADOR, espera lectura): recortadas las replicas infladas por los barridos de dialogo; restituida "Yo no he visto veinte como el" y "¿Un lugar?" (Consigliere literal); fuera los tenis que Nadir no vio y "le mande el coche"; Kal ve la pintura como maquillaje (cap. 1); Elise por la credencial en POV de Kal. CANON DEL AUTOR (mismo dia): Fabrizio solo baja la voz (sale "como si Palermo pudiera oirlos", que hacia leer viva a Marta); en la tina, dos replicas de Chiara pasan al italiano (una casa piu grande): "Una casa piu grande" (respuesta a "¿Que dibujas?") y "Si. Esta me gusto molto." (respuesta a "¿Y esta ya no te gusta?"), que Corrado corrige ("Esta me gusta mucho") y ella acepta riendo: Corrado habla el idioma; Marta, sobre todo italiano, y el espanol con acento marcado; sus dos replicas de la escena pasan al italiano. Detalle: 98_Agent_Handoff/sessions/2026-11-21_claude_cirugia_lectura_cap02.md.
+Lectura externa lote 1 (2026-11-22, SURGERY aprobada por el autor; prosa DISENO, espera lectura): fuera «como quien revisa una apuesta» (Matteo). Detalle: 98_Agent_Handoff/sessions/2026-11-22_claude_lectura_externa_lote1_caps01-09.md.
 -->
 
 # Capítulo 2 — Demasiado listo
@@ -508,7 +509,7 @@ La cabecera estaba vacía.
 
 Eso, más que una presencia, le dijo a Kal qué clase de hombre faltaba.
 
-Tommaso giraba un anillo de sello en el dedo, una vuelta y otra, sin mirárselo. Fabrizio se había servido algo ámbar de la cava y sostenía el vaso sin beberlo, más utilería que sed. Matteo miraba hacia el ventanal, hacia el piso de juego que todavía no era nada, como quien revisa una apuesta que ya hizo. Chiara se quedó donde estaba, los brazos cruzados detrás de la espalda, la barbilla nivelada: la única postura en el cuarto que no le pedía nada prestado a un objeto.
+Tommaso giraba un anillo de sello en el dedo, una vuelta y otra, sin mirárselo. Fabrizio se había servido algo ámbar de la cava y sostenía el vaso sin beberlo, más utilería que sed. Matteo miraba hacia el ventanal, hacia el piso de juego que todavía no era nada. Chiara se quedó donde estaba, los brazos cruzados detrás de la espalda, la barbilla nivelada: la única postura en el cuarto que no le pedía nada prestado a un objeto.
 
 Kal no les dio nada que leer de vuelta.
 

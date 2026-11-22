@@ -19,6 +19,7 @@ Vento fuera de la costumbre (2026-11-04, DECISION DEL AUTOR; DISEÑO): la llamad
 Primer gesto de los chicos (2026-11-03, DIRECCION DEL AUTOR; DISEÑO): frasco en el cuello antes de ir al penthouse; Danny lo huele y mira a Nadir. Sin dialogo. Maximo un gesto por capitulo, tres en total; faltan dos (cepillo en la guantera, espejo lateral).
 Marisol (2026-11-05): "lejos de aqui" pasa a "fuera del barrio"; ya aparecio en el taller en el Cap. 1 y Ashcombe esta a minutos. Estado sin cambio.
 Cirugia de la lectura (2026-11-21; BORRADOR, espera lectura): «¿Hace cuanto que la guarda?» (usted antes del pacto), Chiara no recuerda que comio, «la mañana de la factura», Marisol sin coche, fuente de las costillas de Hendricks; restituidos «Vuelvo / Eso dicen todos / Yo si», «¿Con cara? / Con carton» y el cierre «Fue una noche rara / Si / Buena / Si» (decision del autor; sale el recuento de la noche); fuera la coletilla «lo unico que habia querido…» (decision del autor); regla 06: excepcion sobre la vara (34 %). Detalle: 98_Agent_Handoff/sessions/2026-11-21_claude_cirugia_lectura_cap07.md.
+Lectura externa lote 1 (2026-11-22, SURGERY aprobada por el autor; prosa DISENO, espera lectura): siembra del ladrillo: Chiara sopesa la bolsa («¿Esto es todo? Me hizo ponerme pijama por una muestra.» / «La proxima traigo mas.»); cobra en el Cap. 8. Detalle: 98_Agent_Handoff/sessions/2026-11-22_claude_lectura_externa_lote1_caps01-09.md.
 -->
 
 # Capítulo 7 — Ambos
@@ -475,7 +476,13 @@ Una gota de malteada le resbalaba a ella por el dorso de la mano. Kal se la quit
 
 Chiara se miró la mano. Lo miró a él. Kal ya estaba otra vez con su hamburguesa, como si no hubiera hecho nada.
 
-Fumaron después de comer, junto a la ventana entreabierta, con la ventilación puesta y una toalla húmeda contra la ranura de la puerta, como dos adolescentes con dinero tratando de engañar a un internado. Chiara se rio de eso primero. Kal tardó en seguirla, y cuando lo hizo fue con el cuerpo entero, echado hacia atrás sobre las manos.
+Después de comer sacó la bolsa del bolsillo y la dejó en la mesa baja, entre las malteadas. Chiara la levantó con dos dedos y la sopesó en la palma.
+
+—¿Esto es todo? Me hizo ponerme pijama por una muestra.
+
+—La próxima traigo más.
+
+Fumaron junto a la ventana entreabierta, con la ventilación puesta y una toalla húmeda contra la ranura de la puerta, como dos adolescentes con dinero tratando de engañar a un internado. Chiara se rio de eso primero. Kal tardó en seguirla, y cuando lo hizo fue con el cuerpo entero, echado hacia atrás sobre las manos.
 
 Le pasó el cigarro mal armado y esperó a que ella diera el golpe antes de hablar.
 

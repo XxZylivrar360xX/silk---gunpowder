@@ -1057,6 +1057,8 @@ Y la otra mitad:
 
 > **RESUELTO (autor, 2026-11-03):** el trabajo de madrugada es la entrega del encargo de Dario (Cap. 9). *Antes PENDIENTE: ¿qué trabajo tienen de madrugada los cuatro? Explica por qué el Peugeot entró a un callejón antes de la fiesta.*
 
+> **SIEMBRA (DISEÑO, 2026-11-22, cirugía aprobada por el autor):** en el Cap. 7 (archivo 06), Chiara sopesa la bolsa de hierba: «¿Esto es todo? Me hizo ponerme pijama por una muestra.» / «La próxima traigo más.» El ladrillo cobra esa promesa; el doble sentido pasa por la hierba, no por la coca. El chiste sigue sin explicarse.
+
 > **RESUELTO EN PARTE (autor, 2026-11-03):** Chiara conserva el ladrillo. Lo deja en la mesa de noche del lado que no usa (Cap. 8), y ahí está del lado de Kal la noche de la llamada de Marisol (Cap. 22). **PENDIENTE:** dónde acaba; el Cap. 55 no lo menciona.
 
 ---

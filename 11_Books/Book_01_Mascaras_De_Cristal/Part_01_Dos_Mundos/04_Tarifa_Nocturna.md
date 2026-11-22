@@ -25,6 +25,7 @@ Caballos en el cajero (2026-11-04, DECISION DEL AUTOR; prosa DISEÑO, BORRADOR):
 La Esquina y el paso a El Relevo (2026-11-04, PEDIDOS DEL AUTOR; prosa DISEÑO, BORRADOR, espera lectura). Autor: primer encuentro Mabel/Chiara a solas, antes de Blake; "¿Me puedo sentar?"; Blake pasa de Mabel; las tortas se piden en la mesa para los dos; geografia del paso a la noche. Agente: Mabel le lleva el cafe a la mesa de la ventana (la que cojea en el Cap. 1, "pie derecho en la base"); "¿Usted es Mabel?" / "Eso dice el vidrio" (el nombre ya no lo dice Blake; desde ahi el narrador la llama Mabel); "Ya la agarraste"; Mabel espera con la taza y le pregunta a Chiara, no a Blake; las tortas llegan en papel de estraza (eco del Cap. 6); "Ésa se apunta" al cobrar (Blake no pasa por la caja; aprobado por el autor el mismo dia como rasgo de Mabel). Fuera los "dos dedos" de Blake (gesto de Walt). Regreso de la tarde (vallas) y taxi de las nueve cuarenta por La Isla, Punta Dorada y el puente, hasta los coches sin multa frente a El Relevo. Costura en el Cap. 6: "La mujer no habia apuntado nada".
 Danny en dos trabajos (2026-11-04, DECISION DEL AUTOR; redaccion DISEÑO, pendiente de lectura): "Habian vuelto hacia las nueve y media y llevaba dos horas entre la grua y la oficina". Asi caben la sopa, el baño y el cajero de Danny con Russ antes de las 11:30. Detalle: 98_Agent_Handoff/sessions/2026-11-04_claude_detalles_caps02_03.md.
 Cirugia de la lectura (2026-11-21; BORRADOR, espera lectura): replicas infladas recortadas, fuera el Taurus y la glosa del taxi (decisiones del autor), llaves que no aparecen, «anoche te dijeron que no»; regla 06: capitulo como excepcion sobre la vara (29 %, DECISION DEL AUTOR). Detalle: 98_Agent_Handoff/sessions/2026-11-21_claude_cirugia_lectura_cap04.md.
+Lectura externa lote 1 (2026-11-22, SURGERY aprobada por el autor; prosa DISENO, espera lectura): fuera tres «como quien» (paga una cuenta, pasa una herramienta, bisagra) y el «segundo de mas» del hombro. Detalle: 98_Agent_Handoff/sessions/2026-11-22_claude_lectura_externa_lote1_caps01-09.md.
 -->
 
 # Capítulo 4 — Tarifa nocturna
@@ -437,7 +438,7 @@ Habló el de bigote gris. No se subió a nada. Dijo que, cuando era novato, Ray 
 
 —Nunca me lo cobró —dijo—. Era de los que cobraban todo, y eso no me lo cobró.
 
-Levantó el vaso. Algunos bebieron mirando el piso. Otros bebieron rápido, como quien paga una cuenta. Los dos del puerto levantaron el vaso exactamente cuando todos, ni un segundo tarde.
+Levantó el vaso. Algunos bebieron mirando el piso. Otros bebieron rápido. Los dos del puerto levantaron el vaso exactamente cuando todos, ni un segundo tarde.
 
 Después habló una mujer desde el fondo, cerca de la puerta. No levantó la voz. El bar se calló igual, más rápido que con la campana.
 
@@ -551,7 +552,7 @@ El aire de Calle Corona le pegó en la cara, frío, con olor a asfalto mojado. D
 
 Pidió un taxi con una aplicación, pero antes de confirmarlo volvió al mensaje de Matteo.
 
-No tenía el número de Kal guardado con nombre. Seguía donde Matteo lo había dejado, debajo de la matrícula, como quien pasa una herramienta.
+No tenía el número de Kal guardado con nombre. Seguía donde Matteo lo había dejado, debajo de la matrícula.
 
 Chiara lo miró en la pantalla dos segundos.
 
@@ -1031,7 +1032,7 @@ Kal lo soltó y se limpió la mano en el overol. No miró a Chiara.
 
 Ella tampoco le dio las gracias. No le había pedido eso. Lo que sentía se parecía demasiado al enojo para llamarlo de otra forma, y no sabía todavía con quién.
 
-Kal bajó el gancho. Movió la palanca con la izquierda; el brazo derecho se le quedó colgando un segundo de más, y luego giró el hombro una vez, corto, como quien revisa una bisagra.
+Kal bajó el gancho. Movió la palanca con la izquierda; el brazo derecho se le quedó colgando, y luego giró el hombro una vez, corto.
 
 Chiara lo anotó, junto con el cuello negro. No eran cosas de alguien que llevara la noche entera esperando su llamada.
 
