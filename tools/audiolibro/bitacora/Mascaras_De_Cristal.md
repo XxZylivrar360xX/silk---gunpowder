@@ -2,7 +2,7 @@
 
 Generada por `tools/audiolibro/build_audiobook.py`; no editar a mano. Tras cambiar la prosa de un capítulo, correr `--estado` para marcarlo PENDIENTE; la bandera se cierra sola cuando el script regenera ese audio.
 
-Actualizada: 2026-11-22 01:37. Al día: 32 de 47.
+Actualizada: 2026-11-22 01:44. Al día: 35 de 47.
 
 ## Pendientes
 
@@ -20,9 +20,6 @@ Actualizada: 2026-11-22 01:37. Al día: 32 de 47.
 | 30 | Línea directa | PENDIENTE | cambió la prosa | 2026-11-21 10:55 |
 | 31 | Lo único que es mío | PENDIENTE | cambió la prosa | 2026-11-21 10:55 |
 | 32 | A ti por mí | PENDIENTE | cambió la prosa | 2026-11-21 10:55 |
-| 45 | Por si vuelve | PENDIENTE | cambió la prosa | 2026-11-21 10:55 |
-| 46 | A oscuras | PENDIENTE | cambió la prosa | 2026-11-21 10:55 |
-| 47 | La tierra bajo sus botas | PENDIENTE | cambió la prosa | 2026-11-21 10:55 |
 
 ## Capítulos
 
@@ -72,12 +69,15 @@ Actualizada: 2026-11-22 01:37. Al día: 32 de 47.
 | 42 | Navajas y tinta | AL DIA | 2026-11-22 |
 | 43 | Una cuenta abierta | AL DIA | 2026-11-22 |
 | 44 | Su nombre | AL DIA | 2026-11-22 |
-| 45 | Por si vuelve | PENDIENTE | 2026-11-08 |
-| 46 | A oscuras | PENDIENTE | 2026-11-16 |
-| 47 | La tierra bajo sus botas | PENDIENTE | 2026-11-08 |
+| 45 | Por si vuelve | AL DIA | 2026-11-22 |
+| 46 | A oscuras | AL DIA | 2026-11-22 |
+| 47 | La tierra bajo sus botas | AL DIA | 2026-11-22 |
 
 ## Historial
 
+- 2026-11-22 01:44 · Cap. 47 (50b_La_Tierra_Bajo_Sus_Botas.md) · audio regenerado
+- 2026-11-22 01:43 · Cap. 46 (50_A_Oscuras.md) · audio regenerado
+- 2026-11-22 01:40 · Cap. 45 (49_Enfrente.md) · audio regenerado
 - 2026-11-22 01:37 · Cap. 44 (48_Su_Nombre.md) · audio regenerado
 - 2026-11-22 01:37 · Cap. 43 (47_Intereses.md) · audio regenerado
 - 2026-11-22 01:37 · Cap. 42 (46_Llaves.md) · audio regenerado

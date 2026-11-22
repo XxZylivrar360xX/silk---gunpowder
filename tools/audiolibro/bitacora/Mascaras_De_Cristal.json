@@ -355,26 +355,26 @@
     "49_Enfrente.md": {
       "capitulo": 45,
       "titulo": "Por si vuelve",
-      "estado": "PENDIENTE",
-      "motivo": "cambió la prosa",
-      "audio": "2026-11-08",
-      "desde": "2026-11-21 10:55"
+      "estado": "AL DIA",
+      "motivo": "",
+      "audio": "2026-11-22",
+      "desde": "2026-11-22 01:40"
     },
     "50_A_Oscuras.md": {
       "capitulo": 46,
       "titulo": "A oscuras",
-      "estado": "PENDIENTE",
-      "motivo": "cambió la prosa",
-      "audio": "2026-11-16",
-      "desde": "2026-11-21 10:55"
+      "estado": "AL DIA",
+      "motivo": "",
+      "audio": "2026-11-22",
+      "desde": "2026-11-22 01:43"
     },
     "50b_La_Tierra_Bajo_Sus_Botas.md": {
       "capitulo": 47,
       "titulo": "La tierra bajo sus botas",
-      "estado": "PENDIENTE",
-      "motivo": "cambió la prosa",
-      "audio": "2026-11-08",
-      "desde": "2026-11-21 10:55"
+      "estado": "AL DIA",
+      "motivo": "",
+      "audio": "2026-11-22",
+      "desde": "2026-11-22 01:44"
     }
   },
   "historial": [
@@ -5146,6 +5146,21 @@
     [
       "2026-11-22 01:37",
       "Cap. 44 (48_Su_Nombre.md)",
+      "audio regenerado"
+    ],
+    [
+      "2026-11-22 01:40",
+      "Cap. 45 (49_Enfrente.md)",
+      "audio regenerado"
+    ],
+    [
+      "2026-11-22 01:43",
+      "Cap. 46 (50_A_Oscuras.md)",
+      "audio regenerado"
+    ],
+    [
+      "2026-11-22 01:44",
+      "Cap. 47 (50b_La_Tierra_Bajo_Sus_Botas.md)",
       "audio regenerado"
     ]
   ]
