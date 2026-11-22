@@ -2,7 +2,7 @@
 LECTOR PARTE II (2026-11-08, [[98_Agent_Handoff/sessions/2026-11-08_claude_observaciones_lector_parte_II]]; DISEÑO, espera lectura): continuidad: sale «antes de que el corazón le fallara» de la última historia de Marta (quince años; muerte a los diecinueve, como fija la ficha).
 Renumerado 2026-11-08 (nuevo cauce, Parte II): antes Cap. 29.
 NUEVO CAUCE (Fase 4, 2026-11-08, terminal C): nuevo Cap. 25, tarjeta T13, POV Chiara (único), verbo «Reescribe (cambia de dueño por completo)» según [[11_Books/Book_01_Mascaras_De_Cristal/00_Mapa_Cauce_Cap11_Camp_Alder]] y [[98_Agent_Handoff/encargos/ENCARGO_Fase4_Parte_II]]. El encabezado sigue diciendo «Capítulo 29» hasta que la terminal principal renumere. Versión anterior íntegra: [[11_Books/Book_01_Mascaras_De_Cristal/Escenas_Eliminadas/25_Libros_Abiertos_Version_2026-11-08]]. Sesión: [[98_Agent_Handoff/sessions/2026-11-08_claude_fase4_cap25_libros_abiertos]].
-Estado: BORRADOR. Lo nuevo es DISEÑO y espera la lectura del autor. Prosa: ~5,200 → ~5,630 palabras.
+Estado: BORRADOR. Lo nuevo es DISEÑO y espera la lectura del autor. Prosa: ~5,200 → ~5,630 palabras. Cirugía de la lectura (2026-11-21; BORRADOR, espera lectura del autor): [[98_Agent_Handoff/sessions/2026-11-21_claude_cirugia_lectura_cap25]]: H15 sin tocar; «No hacía ni dos semanas» (costura con el 24), «uno cuyas salidas no anotara nadie», fuera la «sonrisa melancólica» y arreglos mecánicos del segundo lector en la narración (espacio del jacuzzi y el teléfono, «el general», sujetos).
 Decisiones del autor (2026-11-08): (1) no se poda canon del H15, aunque el capítulo pase del objetivo de 3,500–4,000; (2) el cierre no vuelve a nombrar «amigo» (opción A estricta) y sale la línea de la sala de desconocidos; (3) Chiara se calla la llamada de Varek esa noche y el teléfono queda bocabajo.
 Vigente sobre lo de abajo: *Bajo juramento* sale, así que no hay tribunal ni mentira de Tommaso. Kal tiene su parte de Villani por el acuerdo con Hoover, fuera de página (nuevo 22). La advertencia de Varek ya no es una amenaza ni un recuerdo del 26: es una llamada en la página y sin amenaza («alguien de fuera pregunta por ella»; son los intermediarios, sin nombre). Esto supersede el «recuerdo comprimido» de la decisión del 2026-09-09 y la llamada fuera de cuadro del 2026-09-28. Varek no nombra a Kal.
 DISEÑO del agente en la reconstrucción: (a) apertura por residuo: la costra detrás de la oreja y las gafas; quiere un coche que no salga en las bitácoras de los valets del Monarch, desconfianza que viene de la caja de Matteo; (b) «mi… amigo» entra cuando Marco pregunta quién la recomendó «para el registro»; la palabra descartada no se nombra («La otra palabra se le quedó en la boca»), y «No trabaja aquí»; (c) el disparador del Consorzio pasa de Tommaso al corral: «¿Sigues pensando en el corral?» / «Lo peor no es el golpe» / «una orden así rara vez pertenece sólo al hombre que la cumple»; la línea canon «Es la misma institución que me negó a mi padre. Il Consorzio.» y la del camino al norte siguen intactas; (d) el interior de Kal pasa a lo que Chiara ve: el puño bajo el agua lo siente contra el muslo, el «cajón de lo resuelto» se ve desde fuera y el llanto se cuenta desde quien lo sostiene; «Chiara no reconoció la melodía. Le pareció de un sitio frío» es siembra nórdica sin confirmar; (e) los quince minutos de Kal con la copa salen: Chiara no entra al tocador, se sienta en la sala y contesta a Varek; (f) se cortó «el Santa Lucía, la tercera hilera, el ciprés», que era interior de Kal; la búsqueda queda en «buscar la respuesta en algún lado»; (g) cierre: «En el cojín del otro extremo, bocabajo, el teléfono no volvió a encenderse.»
@@ -42,7 +42,7 @@ Frente 1, narrador, Parte I (2026-10-05, SURGERY aprobada por el autor y rebasad
 
 La costra había quedado en la nuca, detrás de la oreja, bajo el pelo; en la sien sólo asomaba una sombra amarilla que la base cubría. Chiara se la buscó igual en el espejo del despacho y se puso las gafas oscuras, aunque iba a pasar la tarde bajo techo.
 
-Necesitaba un coche que no fuera del Monarch. No uno mejor: uno que no saliera en ninguna bitácora. El Mercedes de la empresa lo movían los valets de la contratista, y cada salida quedaba anotada con hora y destino en un cuaderno que cualquiera con una propina podía leer. Desde la noche de la caja de Matteo, Chiara no se fiaba de ningún cuaderno que llevaran los valets.
+Necesitaba un coche que no fuera del Monarch. No uno mejor: uno cuyas salidas no anotara nadie. El Mercedes de la empresa lo movían los valets de la contratista, y cada salida quedaba anotada con hora y destino en un cuaderno que cualquiera con una propina podía leer. Desde la noche de la caja de Matteo, Chiara no se fiaba de ningún cuaderno que llevaran los valets.
 
 Villani Motors olía a cuero nuevo y a cera de pintura. Entró a la hora acordada, con el porte de alguien que compra sin mirar primero el precio, y lo vio al fondo del showroom con la cara de un hombre que nunca la había visto.
 
@@ -176,7 +176,7 @@ Chiara no preguntó de qué idioma era la canción. Se acercó un poco más en e
 
 Kal no contestó. Chiara vio la pregunta quedarse flotando en el agua entre los dos, y lo vio a él dejarla ahí, sin tocarla, hasta que se hundió sola.
 
-No la rescató. Fue él el que volvió a hablar, y no de sí mismo.
+Ella tampoco la rescató. Fue él el que volvió a hablar, y no de sí mismo.
 
 —Dijiste Ardizzone. —Alcanzó su copa del borde; el vino ya estaba tibio—. Pero llevas el apellido Bellandi. Pensé que los italianos defendían los nombres más que a sus mismas familias.
 
@@ -204,7 +204,7 @@ Movió los dedos bajo el agua, despacio, para comprobar que seguían siendo suyo
 
 Bajo el agua, contra su muslo, sintió que el brazo de Kal se endurecía, el puño que se cerraba y que él abrió enseguida, antes de que ella pudiera notarlo. Lo notó igual.
 
-—Ese maldito figlio di puttana. —Lo dijo mordaz, casi como si escupiera el nombre—. Sabía que el precio de ese matrimonio lo iba a pagar alguien con sangre. Y no iba a ser yo, Kal. No iba a ser yo.
+—Ese maldito figlio di puttana. —Lo dijo mordaz, casi como si lo escupiera—. Sabía que el precio de ese matrimonio lo iba a pagar alguien con sangre. Y no iba a ser yo, Kal. No iba a ser yo.
 
 Él no le devolvió ninguna palabra. Le buscó la mano bajo el agua y puso la palma sobre la de ella.
 
@@ -248,7 +248,7 @@ No entró.
 
 Llegó hasta la puerta, la abrió, vio el espejo a oscuras y la silueta de una mujer en bata que no tenía nada que hacer ahí adentro. No encendió la luz. Siguió por el pasillo hasta la sala y se sentó en una esquina del sofá, con las piernas recogidas bajo la bata y el pelo mojándole el cuello de la tela, frente al ventanal.
 
-Se sirvió un vaso de agua para tener algo en las manos y no lo tocó.
+Se sirvió un vaso de agua para tener algo en las manos y no bebió.
 
 Lo había dicho entero, en voz alta, y el mundo no se había movido de su sitio: la ciudad seguía apagándose torre por torre, y al fondo del pasillo había un hombre que no había hecho nada con lo que ella le dio. Ni preguntar. Ni perdonarla. Chiara no sabía qué hacer con eso. Se fue armando de vuelta, pieza por pieza, como se arma un informe cuando el primer párrafo no sirve.
 
@@ -282,11 +282,11 @@ No le explicó cómo se había enterado; nunca lo explicaba. Chiara esperó el r
 
 Colgó antes de que ella contestara.
 
-Se quedó con el teléfono contra la oreja un segundo más. Dario no regalaba nada: lo que daba de gratis lo apuntaba en su libro, y ella sabía cómo se llevaba ese libro. *Gente de fuera.* Pensó en el corral. Pensó en «ellos». Una semana antes le habían abierto la cabeza junto a una cerca, y ahora alguien quería saber dónde dormía.
+Se quedó con el teléfono contra la oreja un segundo más. Dario no regalaba nada: lo que daba de gratis lo apuntaba en su libro, y ella sabía cómo se llevaba ese libro. *Gente de fuera.* Pensó en el corral. Pensó en «ellos». No hacía ni dos semanas que le habían abierto la cabeza junto a una cerca, y ahora alguien quería saber dónde dormía.
 
 Del pasillo llegaron pasos descalzos, mojados, sobre la madera.
 
-Puso el teléfono bocabajo sobre el cojín.
+Puso el teléfono bocabajo en el cojín del otro extremo.
 
 Kal traía la otra bata. Se detuvo en la puerta de la sala, la buscó, la encontró. No se sentó a su lado. Se sentó en la mesa de centro, frente a ella, las rodillas a unos centímetros de las suyas, lo bastante bajo para que ella no tuviera que levantar la vista.
 
@@ -366,7 +366,7 @@ Tardó en seguir.
 
 —¿Y la prisión?
 
-—Del convoy no quedó nada en ningún papel. Del chico, sí. En el expediente dice que un soldado abrió fuego y mató a un menor. —Lo dijo sin rencor—. Es lo único verdadero que dice. Las consecuencias de esa noche cayeron sobre mí, no sobre él. Ahí estaba Nadir.
+—Del convoy no quedó nada en ningún papel. Del chico, sí. En el expediente dice que un soldado abrió fuego y mató a un menor. —Lo dijo sin rencor—. Es lo único verdadero que dice. Las consecuencias de esa noche cayeron sobre mí, no sobre el general. Ahí estaba Nadir.
 
 —¿Preso por lo mismo?
 
@@ -390,7 +390,7 @@ Del otro lado del ventanal, una torre se apagó de una vez.
 
 —Sí. —Asintió—. Lo que no te conté es que cuando llegué ya se estaba muriendo. Nadie me avisó. Toqué a su puerta con la maleta todavía en la mano y me abrió un hombre que pesaba la mitad. Se rio de mi cara. Dijo que yo me veía peor que él.
 
-Chiara esperó y devolvió una sonrisa melancólica.
+A Chiara se le escapó media sonrisa, y se le fue enseguida.
 
 —Duró unos meses. Lo llevaba a sus citas. Él hablaba todo el camino para que yo no tuviera que hacerlo. —Se le cerró la garganta un instante y siguió igual—. Y cuando se murió, Marisol tenía quince años y a nadie más.
 
@@ -416,17 +416,17 @@ Abrió la boca para contestar y no encontró qué. Chiara lo vio buscar la respu
 
 —No había dónde. —Lo dijo despacio—. Ni cuándo. Un día fue el entierro y al día siguiente había que levantarla para la escuela. Y después ya había pasado demasiado tiempo para empezar. —Negó con la cabeza—. Ni a Jim. Ni a Michael. Seguí caminando. Para eso servía.
 
-Chiara bajó las piernas del sofá. Se inclinó hacia él hasta que sus rodillas se tocaron, y le tomó la cara con las dos manos, las palmas todavía tibias del agua.
+Chiara se inclinó hacia él hasta que sus rodillas se tocaron, y le tomó la cara con las dos manos, las palmas todavía tibias del agua.
 
 —Mi madre decía que la clave está en no hacerlo sola. —Le sostuvo la mirada—. Tampoco solo, Kal.
 
 Él no se dio cuenta de la primera lágrima. Ella sí, y se la limpió con el pulgar.
 
-La segunda ya no la esperó. Chiara sintió que algo que llevaba años de pie se le venía abajo sin ruido, de adentro hacia afuera, y Kal se dobló hacia adelante hasta apoyar la frente en su hombro. Lo recibió sin decirle que todo estaba bien, sin decir nada: una mano en su nuca, la otra abierta sobre su espalda, sobre la calavera que él no podía verse, sosteniendo el peso entero. Él lloró primero en silencio, con los hombros, y después con la voz, como se llora lo que se dejó para después demasiado tiempo. Por Jim. Por Michael. Por una niña de quince años a la que había que levantar para la escuela.
+La segunda ya no la esperó. Chiara sintió venirse abajo en él algo que llevaba años de pie, sin ruido, de adentro hacia afuera, y Kal se dobló hacia adelante hasta apoyar la frente en su hombro. Lo recibió sin decirle que todo estaba bien, sin decir nada: una mano en su nuca, la otra abierta sobre su espalda, sobre la calavera que él no podía verse, sosteniendo el peso entero. Él lloró primero en silencio, con los hombros, y después con la voz, como se llora lo que se dejó para después demasiado tiempo. Por Jim. Por Michael. Por una niña de quince años a la que había que levantar para la escuela.
 
 Ella no lo soltó. Tampoco lo apuró.
 
-En el cuarto de al lado, el agua del jacuzzi se enfriaba sola.
+Al fondo del pasillo, el agua del jacuzzi se enfriaba sola.
 
 ***
 

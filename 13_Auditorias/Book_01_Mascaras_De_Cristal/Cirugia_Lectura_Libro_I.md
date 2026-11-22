@@ -64,7 +64,7 @@ Plan de trabajo, en marcha desde el 2026-11-21 (DECISIÓN DEL AUTOR sobre el mé
 - ~~Cap. 16: «los meseros de la Isla»~~ resuelto («La Isla»).
 - ~~Cap. 10: martes y jueves~~ resuelto («los martes a las diez»).
 - ~~Cap. 22: la hoja arrancada frente a la doblada~~ resuelto («La hoja que Kal no dobló»).
-- Cap. 25: «Una semana antes» frente a la cuenta del 24 (alta el jueves, cuatro días en el loft, regreso al quinto, el martes).
+- ~~Cap. 25: «Una semana antes»~~ resuelto («No hacía ni dos semanas»).
 - Cap. 26: «neurólogo» frente a Beatrice, neurocirujana.
 
 | Cap. | Título | Archivo | Transversal | Estado | Commit |
@@ -93,7 +93,7 @@ Plan de trabajo, en marcha desde el 2026-11-21 (DECISIÓN DEL AUTOR sobre el mé
 | 22 | Lo que cueste | `24b_Lo_Que_Cueste` | Nadir (ya cubierto por el 21) | hecho, BORRADOR | ver git log |
 | 23 | Luces fuera | `24c_El_Corral` | siembra de Eagle Eye y la mansión para el 24 | hecho, BORRADOR | ver git log |
 | 24 | Vienes conmigo | `24d_Vienes_Conmigo` | Nadir (ya cubierto por el 21) | hecho, BORRADOR | ver git log |
-| 25 | Libros abiertos | `25_Libros_Abiertos` |  | pendiente | |
+| 25 | Libros abiertos | `25_Libros_Abiertos` |  | hecho, BORRADOR | ver git log |
 | 26 | Me encuentro bien | `26_Me_Encuentro_Bien` |  | pendiente | |
 | 27 | Una silla | `29_El_Patio_Ajeno` |  | pendiente | |
 | 28 | Media baraja | `30_Media_Baraja` |  | pendiente | |
