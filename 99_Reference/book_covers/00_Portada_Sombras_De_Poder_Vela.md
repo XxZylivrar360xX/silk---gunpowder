@@ -63,6 +63,16 @@ Las mismas de [[99_Reference/book_covers/00_Portada_Mascaras_De_Cristal_Colombin
 - **Portada:** [[99_Reference/book_covers/Sombras_De_Poder_Vela_v1.png]] (2560 × 4096), con `python -B tools/portada/componer_portada.py --libro sombras --base 99_Reference/book_covers/Sombras_De_Poder_Vela_base.webp --salida 99_Reference/book_covers/Sombras_De_Poder_Vela_v1.png`. Misma tipografía que *Máscaras de Cristal*; «Poder» con inicial alta.
 - **Para la prosa (DISEÑO, no canon todavía):** si se escribe con qué enciende Chiara la vela, que sean fósforos de madera, como en la portada.
 
+## Portada completa para tapa blanda (DISEÑO, 2026-11-22)
+
+Mismo método que [[99_Reference/book_covers/00_Portada_Mascaras_De_Cristal_Colombina#Portada completa para tapa blanda (DISEÑO, 2026-11-16)|*Máscaras de Cristal*]]: extensión hacia la izquierda en ChatGPT, base original pegada encima en el panel derecho, lomo y contraportada con `tools/portada/componer_tapa.py`. Sinopsis: [[11_Books/Book_02_Sombras_De_Poder/00_Sinopsis_Contraportada]] (borrador). El lomo se calcula cuando el libro tenga páginas.
+
+### Prompt de extensión
+
+Adjuntar [[99_Reference/book_covers/Sombras_De_Poder_Vela_base.webp]]:
+
+> Extend this image to the left into a horizontal 3:2 landscape for a book wraparound cover. The original image must stay exactly as it is, at full height, on the right edge. Continue the scene leftward: past the dark wooden window frame, the same wooden windowsill keeps running along the bottom of the image, catching the last faint red and amber glow of the candle and fading into shadow. Above it, the interior wall of a quiet, dark room: old dark wood paneling or plain dark plaster, almost black, with the candle's warm light dying out within a short distance. No second window, no second candle. The left half must be dark and calm, with large areas of soft shadow and almost no detail, to hold text. Same lighting, same color palette, same night storm mood. No people, no hands, no furniture in focus, no text, no logos, no religious objects, no weapons.
+
 ## Pendiente
 
 - **Aprobada por el autor (2026-11-16):** la v1 es la portada del EPUB de lectura (`COVER` de `tools/build_sombras.py`).
