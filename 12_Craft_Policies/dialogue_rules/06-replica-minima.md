@@ -42,6 +42,7 @@ No inflar: el arreglo prefiere fundir y sustituir antes que alargar. La extensio
 - Cap. 4 (archivo `04_Tarifa_Nocturna`) sobre la vara (33 % con la llamada, la rampa y Russ/Danny restituidos literales): excepcion aprobada por el autor el 2026-11-21, por la llamada, la rampa y la ventanilla. No obliga a recortar; la cirugia no debe subirlo.
 - Cap. 5 (archivo `05a_Cliente_Y_Proveedor`) sobre la vara (32 %): excepcion aprobada por el autor el 2026-11-21 (la llamada de la factura, el elevador, la reunion y Kyle). La cirugia no debe subirlo.
 - Cap. 7 (archivo `06_Ambos`) sobre la vara (34 %): excepcion aprobada por el autor el 2026-11-21 (H2-b: el reto, la ruleta, el tuteo, las canciones y el cierre; con los remates restituidos «Yo si», «¿Con cara?» y «Fue una noche rara»).
+- Cap. 10 (archivo `08b_La_Sargenta`) sobre la vara (35 %): excepcion aprobada por el autor el 2026-11-21 (la radio de Collins y las lineas canon de la persecucion).
 
 ## Relacion con otras reglas
 

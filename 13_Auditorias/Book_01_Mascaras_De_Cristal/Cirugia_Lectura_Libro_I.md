@@ -57,7 +57,7 @@ Plan de trabajo, en marcha desde el 2026-11-21 (DECISIÓN DEL AUTOR sobre el mé
 - ~~Cap. 9: el malvavisco~~ resuelto (debajo del asiento).
 - ~~Cap. 9: «Lo había armado»~~ resuelto (D5).
 - Cap. 16 (`17_Cuentas_Claras`, l. ~287): «los meseros de la Isla» pasa a «La Isla» (norma del libro).
-- Cap. 10: Keene pactó «los martes a las diez» en el 1; allá dice «martes y jueves». «Placa no legible» del 10 ya cuadra con las placas de noche del 1.
+- ~~Cap. 10: martes y jueves~~ resuelto («los martes a las diez»).
 
 | Cap. | Título | Archivo | Transversal | Estado | Commit |
 |---|---|---|---|---|---|
@@ -70,7 +70,7 @@ Plan de trabajo, en marcha desde el 2026-11-21 (DECISIÓN DEL AUTOR sobre el mé
 | 7 | Ambos | `06_Ambos` | tuteo prematuro; Peugeot D5 | hecho, BORRADOR | ver git log |
 | 8 | La noche del ladrillo | `07_La_Noche_Del_Ladrillo` | Peugeot D5 («lo confirmó») | hecho, BORRADOR | ver git log |
 | 9 | Mandorla | `08_La_Carrera_De_Mascaras` | Peugeot D5 | hecho, BORRADOR | ver git log |
-| 10 | Una pésima idea | `08b_La_Sargenta` |  | pendiente | |
+| 10 | Una pésima idea | `08b_La_Sargenta` |  | hecho, BORRADOR | ver git log |
 | 11 | La balanza | `09_La_Balanza` |  | pendiente | |
 | 12 | La invitada | `10_El_Loft_Del_Soltero` |  | pendiente | |
 | 13 | Roma Atrii | `12_Roma_Atrii` | redundancia POV | pendiente | |

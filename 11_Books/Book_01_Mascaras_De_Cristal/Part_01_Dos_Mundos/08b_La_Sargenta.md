@@ -8,6 +8,7 @@ Funcion: cierre de H9. La persecucion convierte la noche prestada en complicidad
 Historial (escrito cuando era parte del Cap. 10): Persecucion con escaner y cirugia de lector (2026-10-18, pedido del autor en dos vueltas; prosa DISENO del agente, pendiente de lectura; sigue TERMINADO): (1) Persecucion con ruta, cierre y costo (Mapa_Operativo, reglas de persecucion). Kal le pide a Chiara que prenda el escaner policial de la guantera (las gruas viven de oirlo; eco de la radio de la grua del Cap. 4); ella le repite lo que oye sin conocer las calles ("Dime como suenan"), reconoce por el tono a la teniente de noche ("Esa manda" / "La oigo") y adelanta su jugada. Norte: Kal deja que la patrulla Doce (camioneta convencional) lo alcance en la recta de la Milla y la pierde en la loma (Doce a la cuneta, ileso; "He sacado cuatro coches de esa cuneta"). Collins cierra la Milla y el Cutoff y deja libre la autopista; Central pide apoyo SPV; Collins: "SPV-Tres en camino. Asumimos la persecucion". CANON DEL AUTOR: Kal: "Mierda" / Chiara: "¿Que pasa?" / Kal: "Viene la caballeria"; el tono se endurece. Ciudad (CANON DEL AUTOR: la persecucion baja a la ciudad, pasa por Plaza Corona; de noche el centro esta vacio porque la vida nocturna esta en La Isla; los canales junto a los tuneles sirven para perder a la policia): dos Mustang SPV le ganan en la autopista; Kal le quita uno con la salida tardia, pierde al otro en esquinas, cruza Plaza Corona (camara; Chiara se toca la Colombina), baja al Canal Seco por la rampa de mantenimiento y se mete a una galeria de servicio del tunel donde el Mustang no cabe (Chiara dobla su espejo). Helicoptero por encima. Collins dicta el canon: Peugeot conocido, perdido en el Canal Seco, placa no legible, conductor sin identificar; de Chiara nada. La platica final ocurre dentro de la galeria; salen a un patio de vias de La Almendra y cruzan el puente una hora despues. Teniente = Dana Collins (02_Characters/Dana_Collins), voseo suave. CANON DEL AUTOR (3a vuelta): Collins es competitiva y le cuesta a Kal perderla; reclama el rojo por radio ("El rojo es mio. Las demas, vayan por los punteros"), asi que va sola en la SPV-Tres: no cae en la salida tardia ("Conduce bien"), lo lee por la paralela y se le atraviesa (trompo de Kal), intenta un PIT en la fuente de Plaza Corona; CANON DEL AUTOR: Kal presume con una vuelta de 360 en derrape alrededor de la fuente y Collins la hace tambien, en espejo (unico giro completo de la persecucion: la escapada del cruce es por la gasolinera cerrada; Chiara suelta un "¡ah!" de feria de Palermo durante el giro, para que el "quiero repetirla" tenga apoyo; la camara del poste graba el giro y ese cuadro es la foto granulada que Lucia le muestra a Kal en el Cap. 13); Kal suelta el aire por la nariz porque ningun policia le habia seguido el juego (Chiara: "¿Ellos hacen eso a menudo?" / Kal: "Nunca."); vuelve en reversa a la galeria y no cabe; la galeria sale a un patio de vias de La Almendra, donde esperan entre vagones. Cierre de radio: "Y anota que el rojo sigue siendo mio" / Chiara: "Dijo que eres suyo" / Kal: "El conductor se vende por separado" / Chiara, en susurro hacia la ventanilla: "Se anota" (CANON DEL AUTOR). Codigos de radio sin "SAPD" (diez-ochenta, indicativos Doce, Dos-catorce, Dieciseis, SPV-Tres). (2) Cortes: risa contenida en las anecdotas de Dario y Rowe para que la carcajada de la carrera sea la primera entera; fuera la explicacion de Mac (queda "Eme, ka. Mac."), "leia la sala antes que ella", "por capas", "su apellido no abria ninguna puerta", "coche robado" y la anafora de la radio.
 Reconocimiento (2026-10-24, decision del autor; DISEÑO pendiente de lectura): Chiara ya oyo a Collins en El Relevo (Cap. 4) y la vio en la cena del Cap. 5 (archivo 05a, antes 05b). En la primera entrada de la voz: "Asi se habia callado El Relevo con su brindis." (fuera "A Chiara le basto una frase"); tras "La oigo": "Chiara le habia visto la cara. No se lo dijo." Kal la conoce por la voz; Chiara, por la cara; no se lo cuenta.
 Pasada del 2026-11-13 (pedido del autor; prosa DISEÑO, pendiente de lectura; vuelve a BORRADOR): (1) Collins sin motor: su voz entra sin motor detrás ("No trae motor" / "Está parada en algún lado. Oyendo"); el motor se enciende con "SPV-Tres en camino" y el Mustang sale de la orilla junto a la rampa de entrada de la autopista ("Desde que habló"): la voz que leía de lejos se sube al coche. (2) Kal se ajusta al oírla: saca el codo de la ventanilla, sube él mismo el volumen (primera vez que toca la radio), dos manos al volante; "La oigo" tarda medio segundo y Chiara lo guarda. (3) Pinza de patrullas comunes antes de la autopista: Collins manda a Dos-catorce de frente por el camino del tanque y a Dieciséis detrás; Kal conoce las patrullas por dentro porque Almendra Towing les da servicio por rotación (eco del Cap. 1): la Crown Victoria de amortiguadores vencidos brinca a la tierra y las dos patrullas quedan nariz con nariz ("Le dije que el martes"). Después viene el segundo largo de Collins y el cierre que deja libre la autopista. Kal: "A las patrullas las conozco por dentro. A ésa no la he abierto nunca." (4) Error y cobro de Collins: en el cruce lo lee primero y Kal frena tarde; media vuelta (no giro completo: el 360 de la fuente sigue siendo el único), brazo de Kal sobre el pecho de Chiara, motor apagado frente al Mustang, "Chiara. ¿Estás bien? ¿Te pegaste?" / "Sto bene... Arranca". Costo: luz trasera derecha rota (entra al reporte de Collins; Kal la cambia antes de trabajar) y la gasolinera lo obliga a Plaza Corona, la de más cámaras, con la comisaría enfrente ("Tenemos máscara" / "El coche no"): de ahí la foto del Cap. 12 (archivo 12). (5) Plaza Corona ajustada al boceto del autor (99_Reference/location_references/plaza_corona*.png): plaza peatonal, sin rotonda; Kal brinca la acera por la esquina del Archivo, entra por la diagonal, intento de PIT en el anillo de la fuente (Chiara lo intuye sin nombre: "Kal."), 360 alrededor del Capitán Aurelius y salida por la diagonal del sureste al Paseo Cívico; testigo en la puerta de la comisaría. Se conserva el reloj del Ayuntamiento (lo cita el Cap. 12). El taxi ya no cruza la plaza: pasa por Calle Corona. (6) Chiara aporta a la transición: oye que una unidad propone mandar a alguien a la Almendra («Ese rojo siempre se pierde para allá») y que Collins dice que no sin tardar nada («No. Quedate en el puente»; CANON DEL AUTOR 2026-11-13: Collins sospecha y no lo delata, omisión deliberada; Chiara guarda ese no junto al medio segundo), y que nadie ha dicho el sur ("Entonces ahí no te espera" / "Hay un canal"); en el túnel apaga y tapa la radio porque el eco la vuelve un letrero, y oye a Collins sólo por el túnel. (7) Diálogos pulidos alrededor de las líneas CANON DEL AUTOR (intactas): "Le estoy dando confianza", "Firman la hoja y todo", "Un puente cerrado es una pared...", "¿Eso es un cumplido?" / "Es un problema", y en el patio de vías Kal le revisa la cara con los ojos ("No me pegué" / "No pregunté" / "Lo estabas preguntando con toda la cara").
+Cirugia de la lectura (2026-11-21; BORRADOR, espera lectura): «No pregunte» restituida (canon), «los martes a las diez», fuera la tarifa nocturna inventada y las explicaciones de Kal sobre la teniente, POV de Chiara (mascara, luz trasera, Colombina), cruce y puente; regla 06: excepcion sobre la vara (35 %, DECISION DEL AUTOR). Detalle: 98_Agent_Handoff/sessions/2026-11-21_claude_cirugia_lectura_cap10.md.
 -->
 
 # Capítulo 10 — Una pésima idea
@@ -70,11 +71,11 @@ Chiara lo miró.
 
 —¿Les arreglas los coches?
 
-—Por rotación. Martes y jueves. —Una pausa—. Firman la hoja y todo.
+—Por rotación. Los martes a las diez. —Una pausa—. Firman la hoja y todo.
 
 Entonces entró una voz de mujer.
 
-No hablaba más fuerte que las otras. Hablaba más despacio, con una voz dulce, eligiendo cada palabra antes de soltarla, y con una cadencia que subía y bajaba y que a Chiara le sonó, por un instante, casi italiana. Cuando dos unidades contestaron al mismo tiempo, las dos se callaron para dejarla seguir. Así se había callado El Relevo con su brindis.
+No hablaba más fuerte que las otras. Hablaba más despacio, dulce, eligiendo cada palabra antes de soltarla, y con una cadencia que subía y bajaba y que a Chiara le sonó, por un instante, casi italiana. Cuando dos unidades contestaron al mismo tiempo, las dos se callaron para dejarla seguir. Así se había callado El Relevo con su brindis.
 
 Detrás de esa voz no había nada. Las otras traían motor, sirena, viento metido en el micrófono. La de ella llegaba limpia, como desde un coche apagado.
 
@@ -82,7 +83,7 @@ Kal sacó el codo de la ventanilla. Estiró la mano hacia la radio, que Chiara t
 
 —Ésa manda —dijo Chiara.
 
-—La teniente del turno de noche. Cuando habla ella, los demás dejan de pisarse. Cuando se calla, es que ya sabe algo.
+—La teniente del turno de noche.
 
 —¿La conoces?
 
@@ -94,9 +95,9 @@ Chiara le había visto la cara. No se lo dijo. Tampoco le dijo lo del medio segu
 
 —No trae motor —dijo, en cambio.
 
-—Está parada en algún lado. —Kal miró el espejo—. Oyendo. Deja que los demás corran y ella se queda con el mapa.
+—Está parada en algún lado. —Kal miró el espejo—. Oyendo.
 
-La mujer llamó a la unidad que los seguía por su número.
+La mujer llamó a la unidad que los seguía por su número, sin apellido y sin prisa.
 
 —*Doce, soltalo antes de la loma.*
 
@@ -126,7 +127,7 @@ Kal no volteó.
 
 —¿Y se lo vas a cobrar?
 
-—Al Departamento. Tenemos convenio. —Kal ni sonrió—. Arrastre desde cuneta, con tarifa nocturna. Y lo va a firmar él, en la hoja de la rotación.
+—Al Departamento. Tenemos convenio. Y lo va a firmar él, en la hoja de la rotación.
 
 La lateral desembocó en otro asfalto, más angosto, con reflectores viejos en las orillas. Kal subió por él sin prisa aparente. El Peugeot no hacía ruido de huida; hacía ruido de trabajo.
 
@@ -150,7 +151,7 @@ Chiara vio la barra de luces, la parrilla, el escudo en la puerta. Vio que el de
 
 En el último momento Kal echó las dos ruedas de la derecha a la grava de la orilla. El Peugeot se ladeó, la grava tronó contra los guardafangos, y por la ventanilla de Kal pasó una pared blanca y azul a un palmo. La Crown Victoria se abrió hacia su propio lado por puro reflejo, brincó en el borde del asfalto, una vez, dos, como un coche con los amortiguadores vencidos, y se fue de nariz hacia la tierra.
 
-Atrás, Dieciséis, que venía pegado a ellos sin ver más allá, se encontró de frente con los faros de Dos-catorce y clavó los frenos. Chiara los vio por la luneta, quedarse quietas a mitad del camino, nariz con nariz, las dos torretas pintándose de azul una a la otra.
+Atrás, Dieciséis, que venía pegado a ellos sin ver más allá, se encontró de frente con los faros de Dos-catorce y clavó los frenos. Chiara las vio por la luneta, quedarse quietas, nariz con nariz, una con dos ruedas en la tierra y la otra a mitad del camino, las dos torretas pintándose de azul una a la otra.
 
 —*Se me fue por la orilla* —dijo la radio.
 
@@ -162,7 +163,7 @@ Chiara se oyó reír, una vez, por la nariz.
 
 —Madonna.
 
-—Le dije que el martes —dijo Kal, con la cara seria del que tenía razón y no la iba a cobrar—. Se lo dejé escrito en la hoja, con letra de molde.
+—Le dije que el martes —dijo Kal—. Se lo dejé escrito en la hoja, con letra de molde.
 
 Después, en la radio, la teniente no dijo nada durante un segundo. Un segundo largo, de los que Chiara conocía de las juntas: el de alguien que hace cuentas que no le gustan.
 
@@ -190,7 +191,7 @@ Un hueco corto. Después la voz dulce otra vez, con el mismo cuidado de antes. P
 
 —Viene la caballería.
 
-No lo dijo como chiste. Bajó su ventanilla dos dedos, para oír afuera.
+No lo dijo como chiste. Subió su ventanilla hasta dejarla en dos dedos, para oír afuera.
 
 —A las patrullas las conozco por dentro —dijo después—. A ésa no la he abierto nunca.
 
@@ -250,7 +251,7 @@ Kal tomó la siguiente a la izquierda, hacia la avenida de ella, para salirle po
 
 Al final de la calle, en el cruce, unos faros bajos se atravesaron de golpe. Ella había llegado primero a la idea.
 
-Kal frenó tarde. Era la primera vez en toda la noche que Chiara lo veía llegar tarde a algo. El Peugeot clavó la nariz, la cola se le fue hacia la derecha y el mundo empezó a girar por el parabrisas: el cruce, un semáforo en amarillo, la cortina de una farmacia. Chiara sintió el brazo de Kal cruzarle el pecho, duro, un instante antes que el cinturón. La cola pegó contra algo con un ruido de plástico roto, y el coche se quedó quieto, mirando hacia donde venían, con el motor apagado.
+Kal frenó tarde. Era la primera vez en toda la noche que Chiara lo veía llegar tarde a algo. El Peugeot clavó la nariz, la cola se le fue hacia la derecha y el mundo empezó a girar por el parabrisas: el cruce, un semáforo en amarillo, la cortina de una farmacia. Chiara sintió el brazo de Kal cruzarle el pecho, duro, un instante antes que el cinturón. La cola pegó contra algo con un ruido de plástico roto, y el coche se quedó quieto, atravesado, con la ventanilla de Chiara hacia el cruce y el motor apagado.
 
 A diez metros, atravesado en el cruce, estaba el Mustang. Sus faros les llenaban el coche. Detrás de los faros no se veía nadie.
 
@@ -294,7 +295,7 @@ Kal frenó un instante antes del contacto. El Mustang empujó aire y se abrió e
 
 Y entonces Kal, en lugar de salir de la plaza, tiró del freno de mano.
 
-El Peugeot se cruzó y empezó a darle la vuelta a la fuente de costado, con las llantas chillando sobre el adoquín y el volante girado al revés de la curva. Chiara vio pasar el reloj del Ayuntamiento por el parabrisas, después el kiosco, después la cámara del poste, después las ventanas prendidas de la comisaría, después otra vez el reloj. Una vuelta entera, sin ninguna necesidad, a mitad de una persecución, frente a la puerta de la policía. Chiara se oyó soltar un *¡ah!* corto y alto, el de las ferias de Palermo cuando era niña, antes de que pudiera decidir si quería soltarlo.
+El Peugeot se cruzó y empezó a darle la vuelta a la fuente de costado, con las llantas chillando sobre el adoquín y el volante girado al revés de la curva. Chiara vio pasar el reloj del Ayuntamiento por el parabrisas, después el kiosco, después la cámara del poste, después las ventanas prendidas de la comisaría, después otra vez el reloj. Una vuelta entera, sin ninguna necesidad, a mitad de una persecución, frente a la puerta de la policía. Chiara se oyó soltar un *¡ah!* corto y alto, el de las ferias de Palermo cuando era niña.
 
 Por la ventanilla de ella, del otro lado del agua quieta, el Mustang hizo lo mismo.
 
@@ -342,7 +343,7 @@ En el espejo de Kal, el Mustang bajó la rampa detrás de ellos. En el fondo pla
 
 Kal apagó los faros y entró a la boca del centro.
 
-Adentro no había nada: el concreto, el agua, el eco. La radio, en cambio, sonó enorme. Las voces rebotaban en el techo del túnel y regresaban dobles, y Chiara entendió, antes de que nadie se lo dijera, que en esa oscuridad el aparato era un letrero encendido. Giró la perilla hasta el fondo, apretó la radio contra el pecho y tapó con la palma la lucecita roja.
+Adentro no había nada: el concreto, el agua, el eco. La radio, en cambio, sonó enorme. Las voces rebotaban en el techo del túnel y regresaban dobles, y Chiara entendió, antes de que nadie se lo dijera, que en esa oscuridad el aparato era un letrero encendido. Giró la perilla hasta abajo, apretó la radio contra el pecho y tapó con la palma la lucecita roja.
 
 Kal la miró medio segundo y volvió al frente.
 
@@ -358,7 +359,7 @@ Venían despacio, marcha atrás. Un reflector blanco empezó a recorrer las pare
 
 —*Hay una galería.*
 
-La voz llegó por el túnel, sin aparato, desde la ventanilla abierta del Mustang: chica, clara, rebotando en el concreto. Chiara sintió la radio muda contra el pecho.
+La voz llegó por el túnel, sin aparato, desde la ventanilla abierta del Mustang: pequeña, clara, rebotando en el concreto. Chiara sintió la radio muda contra el pecho.
 
 —*No entro. ¿Alguien sabe adónde sale?*
 
@@ -396,7 +397,7 @@ Kal le buscó la cara antes que nada: la frente, la sien del lado de la ventanil
 
 —No me pegué —dijo ella.
 
-—No pregunté. Revisaba el cinturón: después de un frenón así se traban y no sueltan.
+—No pregunté.
 
 —Lo estabas preguntando con toda la cara.
 
@@ -424,11 +425,11 @@ Y ahí volvió la risa, más chica esta vez, la de los dos.
 
 ***
 
-Salieron del patio de vías sin luces, a calles de la Almendra donde un Peugeot rojo no le llamaba la atención a nadie. Cruzaron el puente casi una hora después, detrás de un taxi, a la velocidad exacta del taxi. Chiara tenía la Colombina en el regazo y, cuando se estiró hacia el asiento de atrás para alcanzar el abrigo, la dejó caer ahí sin pensarlo, entre el respaldo y un trapo de taller.
+Salieron del patio de vías sin luces, a calles de la Almendra donde un Peugeot rojo no le llamaba la atención a nadie. Cruzaron el puente casi una hora después, pegados a un taxi para que nadie les viera la luz que faltaba, a la velocidad exacta del taxi. Chiara tenía la Colombina en el regazo y, cuando se estiró hacia el asiento de atrás para alcanzar el abrigo, la dejó caer ahí sin pensarlo, entre el respaldo y un trapo de taller.
 
 Kal la dejó en la puerta de servicio del Monarch, la misma por la que la había recogido. Pasaban de las dos de la mañana.
 
-—Trabajo temprano —dijo Kal, que era verdad, y antes tenía que cambiar una luz trasera.
+—Trabajo temprano —dijo Kal, y Chiara pensó en la luz trasera.
 
 —Ve. —Chiara abrió la puerta y se bajó con el abrigo en el brazo. Se agachó un segundo hacia la ventanilla—. Gracias por la vuelta.
 
@@ -436,6 +437,6 @@ Kal la dejó en la puerta de servicio del Monarch, la misma por la que la había
 
 —Ma dai, scemo.
 
-Cerró la puerta. El Peugeot salió del callejón con el mismo ralentí grueso con el que había llegado, y en el asiento de atrás, negra sobre el trapo, iba una máscara que Kal vio por el espejo, no recogió y no salió a devolverle.
+Cerró la puerta. El Peugeot salió del callejón con el mismo ralentí grueso con el que había llegado, y en el asiento de atrás, negra sobre el trapo, iba una máscara que él no salió a devolverle.
 
-Chiara subió en el elevador privado con los zapatos planos en una mano. Había sido una pésima idea, y quería repetirla.
+Chiara subió en el elevador privado descalza, con los zapatos planos en una mano. Había sido una pésima idea, y quería repetirla.
