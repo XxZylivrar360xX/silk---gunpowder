@@ -1,4 +1,5 @@
 <!--
+**Cirugía de la lectura (2026-11-21, Claude Code; [[98_Agent_Handoff/sessions/2026-11-21_claude_cirugia_lectura_cap34]]):** nudillos de cuatro a dos (fregadero y coche; fuera la frase añadida al Penthouse el 8-nov y la de la manta gris, que acercaba la sangre a la botella), aprobado por el autor; fuera el eco «Me despertó el agua» y «Héctor las cuenta desde la rampa; yo, desde que se nos fue»; «Tommaso le miró el anular», la hora de Génova después de Tommaso, «las manos todavía frías del agua», «La cerca era de Stella». Héctor («Y no me refería al animal») y el usted de Chiara, literales. Regla 06 al 42 %: excepción aprobada por el autor. Sigue BORRADOR.
 Lectura del autor de la Parte III (2026-11-08, [[98_Agent_Handoff/sessions/2026-11-08_claude_lectura_parte_iii]]; prosa DISEÑO, espera lectura): glosa de la llave recortada: fuera «No dijo nada más… No hacía falta» y «No eran tres regalos. Era una sola frase…»; se conserva la enumeración de los tres regalos (expansión pedida por el autor) y «Lo había estado diciendo todo el día».
 **NUEVO CAUCE, Fase 4 (2026-11-08, terminal B, fuera de reparto por orden del autor): nuevo Cap. 34 (T21, POV Chiara, «Funde», H16).** Funde este archivo con el 37 *Cuatro letras*; el capítulo queda aquí. Del 37 sólo entra la bisagra doméstica (cafetera programada, computadora que se queda, el sobre apoyado contra la cafetera); su carta *La Notte Bellandi*, el beso de labial, «—Chiara», el chiste de «Roma», El Patio crece, Bonnie y Meiko, Acción de Gracias y la línea de la cocaína van al nuevo 35; la ferretería, al nuevo 30. El archivo 37 queda como marcador EXCLUDE desde el 2026-11-08 (ver la línea de costuras). **Estado: BORRADOR; lo nuevo es DISEÑO y espera lectura del autor.** Versión anterior íntegra: [[11_Books/Book_01_Mascaras_De_Cristal/Escenas_Eliminadas/36_Tambien_Las_Mananas_Version_2026-11-07]]. Nota de sesión: [[98_Agent_Handoff/sessions/2026-11-08_claude_fase4_cap34_tambien_las_mananas]].
 CANON DEL AUTOR (2026-11-08): (1) la sangre que Kal se lava es de un trabajo del pacto con Varek, y ese trabajo fue en la casa del rico del norte: la botella sale de ahí, de paso; nada de eso se dice en prosa y Chiara nunca liga la sangre con la botella (sigue la REGLA DURA de abajo). (2) La persecución sale de escena y la cuenta Héctor en las caballerizas, seco y sin escena médica. (3) El gesto del cuello (Cap. 7: la mano en la base de la crin, a favor del pelo) se cobra con Stella; el nuevo 33 se ajustó a «la mano en la nuca» para no gastar la imagen. (4) El libro de las rutas se queda en el Monarch: «Aquí abajo no entraba nada de Italia».
@@ -46,7 +47,7 @@ Kal estaba de espaldas, con las mangas subidas hasta el codo. Se frotaba las man
 
 —Vuelve a dormir. Todavía no hay luz.
 
-—Ya estoy despierta. Me despertó el agua.
+—Ya estoy despierta.
 
 Cerró la llave. Se secó con el trapo de la cocina, que no era para eso, y lo dobló sobre el borde del fregadero con la mancha hacia abajo. Tenía raspados los nudillos de la derecha. En la izquierda, nada.
 
@@ -60,7 +61,7 @@ Tampoco preguntó de quién era. Desde Las Gemelas sabía para quién trabajaba 
 
 —Hoy. Salimos en media hora, y en la noche estoy de vuelta.
 
-Le dio un beso en la frente, con la cara todavía fría del agua, y se cambió de camisa junto a la escalera. Antes de salir pasó al fondo de la planta baja. Chiara oyó el tablón suelto, el que crujía en dos tiempos, levantarse y volver a su lugar. Después la puerta.
+Le dio un beso en la frente, con las manos todavía frías del agua, y se cambió de camisa junto a la escalera. Antes de salir pasó al fondo de la planta baja. Chiara oyó el tablón suelto, el que crujía en dos tiempos, levantarse y volver a su lugar. Después la puerta.
 
 No le había dicho feliz cumpleaños.
 
@@ -76,7 +77,7 @@ Había flores en el despacho antes de que ella llegara: las del personal de sala
 
 Chiara lo leyó de pie, con el abrigo todavía puesto. La casa la recuerda. La última vez, la casa le había recordado su deber. Ahora le recordaba el cumpleaños, en el mismo papel. Lo guardó en el cajón de la derecha, con los otros de Italia, y se quitó el abrigo.
 
-El despacho seguía oliendo un poco a Matteo, a la colonia que se ponía demasiado temprano, aunque ya era ella la que se sentaba en su silla y firmaba lo que antes firmaba él. A media mañana la silla ya no le parecía prestada. A mediodía revisó el teléfono por si Génova llamaba. Génova no llamó.
+El despacho seguía oliendo un poco a Matteo, a la colonia que se ponía demasiado temprano, aunque ya era ella la que se sentaba en su silla y firmaba lo que antes firmaba él. A media mañana la silla ya no le parecía prestada.
 
 Tommaso pasó a las once, sin flores. Se quedó en la puerta del despacho, que era la manera en que los Lusardi decían que no venían a sentarse.
 
@@ -84,7 +85,7 @@ Tommaso pasó a las once, sin flores. Se quedó en la puerta del despacho, que e
 
 —Gracias, Tommaso. No sabía que en Palermo llevaban esa cuenta.
 
-Le miró el anular antes que la cara, y después el cajón de la derecha, como si supiera cuál era. Giró el anillo de sello.
+Tommaso le miró el anular antes que la cara, y después el cajón de la derecha, como si supiera cuál era. Giró el anillo de sello.
 
 —En Palermo están contentos con la continuidad. —Se acomodó el puño de la camisa—. Dicen que ahora firma usted todo.
 
@@ -101,6 +102,8 @@ Era la primera vez que preguntaba por Matteo. Chiara lo anotó donde no se escri
 —Puede ser.
 
 Sonrió tarde y se fue.
+
+A mediodía revisó el teléfono por si Génova llamaba. Génova no llamó.
 
 Detrás del mueble de nogal, la caja seguía cerrada. Chiara no la abrió. Sabía lo que había adentro y en qué esquina estaba la liga roja, y abrirla en un día así habría sido pedirle compañía a un libro.
 
@@ -138,7 +141,7 @@ Kal no le peleó el chiste. Tenía el día entero en la voz.
 
 ***
 
-Cuando Kal abrió la puerta del Penthouse veinte minutos después, Chiara lo vio antes de que él dijera nada: el saco con una mancha de tierra seca en toda la manga izquierda, la camisa por fuera del pantalón en un punto, un rasguño fino cruzándole la mejilla que no tenía esa mañana. Los nudillos de la derecha, los mismos del fregadero, y ahora también tierra en los de la izquierda.
+Cuando Kal abrió la puerta del Penthouse veinte minutos después, Chiara lo vio antes de que él dijera nada: el saco con una mancha de tierra seca en toda la manga izquierda, la camisa por fuera del pantalón en un punto, un rasguño fino cruzándole la mejilla que no tenía esa mañana.
 
 —¿Qué te—
 
@@ -214,13 +217,13 @@ En el coche, de camino a la Almendra, Kal manejaba con la izquierda. La derecha 
 
 —¿Cuatro horas? —preguntó ella.
 
-—Cuatro y algo. Héctor las cuenta desde la rampa; yo, desde que se nos fue. —Movió los dedos de la derecha sobre la pierna, sin levantarla—. Es lista, la condenada. Cada vez que la teníamos contra una cerca, le encontraba el hilo flojo. El canal lo brincó como si lo hubiera hecho toda la vida, y yo como si no.
+—Cuatro y algo. —Movió los dedos de la derecha sobre la pierna, sin levantarla—. Es lista, la condenada. Cada vez que la teníamos contra una cerca, le encontraba el hilo flojo. El canal lo brincó como si lo hubiera hecho toda la vida, y yo como si no.
 
 —¿Y la mejilla?
 
 —Una cerca.
 
-Lo dijo sin pensarlo, como se dice lo que es verdad. Chiara asintió. La cerca era de ella: de Stella, del viñedo ajeno, de Héctor sentándose una vez. Los nudillos de la derecha no. Ésos ya los traía en el fregadero, antes del avión, antes de todo, y él no los había mencionado, y ella tampoco iba a hacerlo.
+Lo dijo sin pensarlo, como se dice lo que es verdad. Chiara asintió. La cerca era de Stella, del viñedo ajeno, de Héctor sentándose una vez. Los nudillos de la derecha no. Ésos ya los traía en el fregadero, antes del avión, antes de todo, y él no los había mencionado, y ella tampoco iba a hacerlo.
 
 —Héctor estaba cansado —dijo—. Más de lo que quiso que yo viera.
 
@@ -254,7 +257,7 @@ Chiara lo miró con la ceja otra vez levantada, la misma del remolque, y Kal agu
 
 Chiara se rio, una risa corta que le salió antes de que pudiera decidir si debía.
 
-Nadie preguntó de dónde había salido la botella. Chiara le vio los nudillos de la derecha sobre la manta gris, los del fregadero.
+Nadie preguntó de dónde había salido la botella.
 
 ***
 

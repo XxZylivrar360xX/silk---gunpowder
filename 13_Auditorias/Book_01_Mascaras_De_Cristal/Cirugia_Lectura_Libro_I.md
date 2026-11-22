@@ -104,7 +104,7 @@ Plan de trabajo, en marcha desde el 2026-11-21 (DECISIÓN DEL AUTOR sobre el mé
 | 31 | Lo único que es mío | `33_Mas_De_La_Cuenta` |  | pendiente | |
 | 32 | A ti por mí | `34_Mi_Pareja` |  | pendiente | |
 | 33 | Cambio de firmas | `35_Sin_Fecha_De_Regreso` | costura 32→33 (revisar al cerrar el 32) | hecho, BORRADOR (en paralelo con la Parte II) | ver git log |
-| 34 | También las mañanas | `36_Tambien_Las_Mananas` | usted Chiara–Héctor (canon) | pendiente | |
+| 34 | También las mañanas | `36_Tambien_Las_Mananas` | usted Chiara–Héctor (canon) | hecho, BORRADOR (en paralelo con la Parte II) | ver git log |
 | 35 | Al revés | `38_Al_Reves` | Peugeot → Audi la noche de la incursión | pendiente | |
 | 36 | Mecánico | `40_Mecanico` | Volpi fuera (D8) | pendiente | |
 | 37 | Reclamable | `41_La_Otra_Mitad` |  | pendiente | |
