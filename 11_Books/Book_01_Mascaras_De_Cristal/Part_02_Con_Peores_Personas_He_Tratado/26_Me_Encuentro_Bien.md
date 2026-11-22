@@ -1,7 +1,7 @@
 <!--
 Renumerado 2026-11-08 (nuevo cauce, Parte II): antes Cap. 30.
 NUEVO CAUCE (Fase 4, 2026-11-08, terminal C): nuevo Cap. 26, tarjeta T14, POV Chiara (único), verbo «Funde» según [[11_Books/Book_01_Mascaras_De_Cristal/00_Mapa_Cauce_Cap11_Camp_Alder]] y [[98_Agent_Handoff/encargos/ENCARGO_Fase4_Parte_II]]: el archivo 26 más lo de Chiara en el archivo 28 (la peor noche, la sudadera). Un solo capítulo para la correa vista por ella; la conversación del loft pasa al nuevo 27 (POV Kal). El encabezado sigue diciendo «Capítulo 30» hasta que la terminal principal renumere. Versión anterior íntegra: [[11_Books/Book_01_Mascaras_De_Cristal/Escenas_Eliminadas/26_Me_Encuentro_Bien_Version_2026-11-08]]. Sesión: [[98_Agent_Handoff/sessions/2026-11-08_claude_fase4_cap26_me_encuentro_bien]].
-Estado: BORRADOR. Lo nuevo es DISEÑO y espera la lectura del autor.
+Estado: BORRADOR. Lo nuevo es DISEÑO y espera la lectura del autor. Cirugía de la lectura (2026-11-21; BORRADOR, espera lectura del autor): [[98_Agent_Handoff/sessions/2026-11-21_claude_cirugia_lectura_cap26]]: «La neurocirujana» (Beatrice), «Varek, 1 min», fuera la glosa del barrido en «El señor Mercer», la pregunta de Walt simplificada (decisión del autor), el Lancia en la bitácora por descuido, «la noche del corral» y arreglos mecánicos del segundo lector (el cojín, la hora del mensaje, «no era gente mía», la mano de la medalla).
 Decisiones del autor (2026-11-08): (1) de las líneas de Varek salen sólo las de amenaza («Si hay que eliminar a Kal, entonces tú vas a hacerlo» y «vas a aprender tu lugar»); se quedan, literales, «¿Te estás acostando con él?» y «Trabajas para mí. No conmigo.», como frialdad y control, no como amenaza; (2) la escena con Varek pasa del taller del norte al hipódromo (cobra el «mañana estoy en el hipódromo» del nuevo 25); el taller no sale en este capítulo; (3) Varek sabe que el sedán no es local por uno de sus policías (regla de los policías propios del cauce); (4) las fotos de los Bravos se quedan, comprimidas, porque Kal las encuentra en el 27 y las pide en el 28.
 Vigente sobre lo de abajo: Varek ya no amenaza ni es sospechoso de haber sacado a Kal; Chiara va a él sospechando y, a la vez, porque es el único con alcance. Él la ayuda (el sedán es de fuera) y le cobra un favor abierto a nombre de ella, no del Monarch. Supersede el seguimiento hasta el galpón, el recuerdo comprimido de la advertencia de madrugada (ya es la llamada del 25) y la atribución del sedán a Varek del archivo 28. La ironía cambia de forma: Chiara ya sabe que no fue Varek, pero no sabe quién fue; el lector sí (Halbrook, por intermediarios). Halbrook no se nombra en ningún lado.
 DISEÑO del agente en la reconstrucción: (a) apertura por residuo del 25: el teléfono bocabajo y la manta que alguien le echó encima en el sofá; al voltearlo, la llamada de Varek arriba y el mensaje de Kal; (b) la lectura del rehén («lo que escribe alguien que tiene tu teléfono») se siembra aquí como pensamiento, para que en el 27 ella se la diga a Kal; (c) Walt recibe dos mensajes («Cuida el barrio…» y «Salgo por la de Kingsley. Vuelvo mañana.») y aporta el sedán y al hombre educado que preguntó por Kal en lo de Mabel; la línea canon de Walt queda intacta; (d) el coche de Varek salió al norte a las cinco porque llevó a Vivian a un vuelo en Kingsley (explicación verificable que Chiara no puede refutar ni terminar de creer); (e) Varek no explica cómo sabe lo del sedán: deja sobre el escritorio una copia de una multa de tránsito (luz de freno fundida, calle de El Patio, placas de Virginia, coche de renta a nombre de una empresa que no contesta), un papel que no debería tener; (f) el tuteo: Varek pasa al tú sólo en las dos líneas canon y vuelve al usted para cobrar; (g) Varek ofrece un hombre en la calle del loft y Chiara lo rechaza, para quedarse sola esa noche; (h) del «diablo» del archivo 26 queda sólo la medalla en el bolsillo y la cuenta de lo que debe a su nombre; (i) las fotos: Peugeot de Kal con vinil gris y placas ajenas porque el Lancia ya está en las bitácoras que la gente de fuera pudo leer; (j) cierre del 28: el Audi y la puerta que tarda en abrirse.
@@ -37,7 +37,7 @@ Continuidad / provisional:
 
 Alguien le había echado una manta encima.
 
-Chiara despertó en el sofá del Penthouse con la luz gris del puerto todavía sin decidirse en el ventanal y una manta de lana que no era del hotel doblada dos veces sobre las piernas, metida por debajo de los pies con el cuidado de quien hace una cama de cuartel. El otro extremo del sofá estaba frío. El cojín conservaba la forma de una cabeza.
+Chiara despertó en el sofá del Penthouse con la luz gris del puerto todavía sin decidirse en el ventanal y una manta de lana que no era del hotel doblada dos veces sobre las piernas, metida por debajo de los pies con el cuidado de quien hace una cama de cuartel. El hueco a su lado estaba frío.
 
 Se quedó un momento así, sin moverse, con la idea entera ya armada, como si la hubiera terminado de pensar dormida.
 
@@ -47,7 +47,7 @@ En el cojín del otro extremo, bocabajo, estaba el teléfono.
 
 Lo volteó.
 
-Arriba, la llamada de casi medianoche: *Varek, 3 min.* Debajo, un mensaje nuevo. Enviado a las cinco cuarenta.
+Arriba, la llamada de casi medianoche: *Varek, 1 min.* Debajo, un mensaje nuevo. Enviado a las cinco cuarenta.
 
 *Salí de la ciudad por una situación externa. Me encuentro bien. Te veo al volver.*
 
@@ -55,7 +55,7 @@ Lo leyó dos veces con la manta todavía encima de las piernas.
 
 *Me encuentro bien.*
 
-Kal no tranquilizaba a la gente antes de que tuviera miedo. Contestaba preguntas. Y ella no le había preguntado nada: se había ido a las cinco cuarenta sin despertarla, le había doblado una manta, y había contestado él solo una pregunta que ella todavía no se hacía. Lo leyó una tercera vez y le sonó a otra persona. A alguien con el teléfono de Kal en la mano, que necesitaba que nadie lo buscara durante un día.
+Kal no tranquilizaba a la gente antes de que tuviera miedo. Contestaba preguntas. Y ella no le había preguntado nada: se había ido sin despertarla, le había doblado una manta, y a las cinco cuarenta había contestado él solo una pregunta que ella todavía no se hacía. Lo leyó una tercera vez y le sonó a otra persona. A alguien con el teléfono de Kal en la mano, que necesitaba que nadie lo buscara durante un día.
 
 Unas horas antes lo había tenido llorando contra su hombro. Y ahora le escribía como a una socia.
 
@@ -63,7 +63,7 @@ Unas horas antes lo había tenido llorando contra su hombro. Y ahora le escribí
 
 Llamó a Kal. No dio tono. Lo intentó otra vez y contestó la operadora grabada, la que no promete nada.
 
-Detrás del ojo izquierdo, despacio, se le empezó a instalar el dolor de siempre. El que tenía fecha. El neurólogo lo había llamado *residual*, una palabra amable para una cosa que no lo era. Se tocó la costra detrás de la oreja con la yema de un dedo, sin pensarlo, y retiró la mano.
+Detrás del ojo izquierdo, despacio, se le empezó a instalar el dolor de siempre. El que tenía fecha. La neurocirujana lo había llamado *residual*, una palabra amable para una cosa que no lo era. Se tocó la costra detrás de la oreja con la yema de un dedo, sin pensarlo, y retiró la mano.
 
 No canceló la terraza. Bajó a decirle a la cocina que lo dejaran todo listo y en frío, que iba a servirse más tarde, y se oyó a sí misma decirlo con una voz normal, y le pareció un pequeño milagro sucio que le saliera.
 
@@ -125,7 +125,7 @@ Ella no contestó. Walt la miró un segundo de más.
 
 Ella no lo negó. Walt cargó una caja de botellas y la apoyó en el filo del banco.
 
-—¿Puedo preguntarle una cosa, ahora que las dos manos me las ensucié yo solo?
+—¿Puedo preguntarle una cosa, señorita?
 
 —Pregunte.
 
@@ -157,7 +157,7 @@ Lo miró hasta que el muchacho movió el peso de un pie al otro. Le dio las grac
 
 ***
 
-Del Monarch al hipódromo se bajaba a pie. Era la misma propiedad: detrás del ala de servicio el asfalto se acababa y empezaba la tierra apisonada, y el camino corría entre la cerca de la pista y el bloque largo de las caballerizas, de madera y lámina, hasta la tribuna. Era el camino que Kal había hecho corriendo una semana antes.
+Del Monarch al hipódromo se bajaba a pie. Era la misma propiedad: detrás del ala de servicio el asfalto se acababa y empezaba la tierra apisonada, y el camino corría entre la cerca de la pista y el bloque largo de las caballerizas, de madera y lámina, hasta la tribuna. Era el camino que Kal había hecho corriendo la noche del corral.
 
 Chiara no miró hacia el corral. Lo supo a la izquierda todo el trayecto, como se sabe una estufa encendida en un cuarto, y mantuvo los ojos en la pista, donde dos jinetes de la mañana sacaban a trabajar a un par de potros grises, y en la tribuna, y en la ventana de arriba. Alguien había lavado la tierra con manguera. Lo olió igual.
 
@@ -183,7 +183,7 @@ Era verificable. Era el tipo de explicación que no se da si es falsa, porque se
 
 —Kal salió de la ciudad esta madrugada —dijo—. Por la de Kingsley.
 
-—El señor Mercer. —Le corrigió el nombre de pila como había repetido la hora, para dejarlo en su sitio—. Y usted pensó que lo tengo yo.
+—El señor Mercer. —Le corrigió el nombre de pila como había repetido la hora—. Y usted pensó que lo tengo yo.
 
 No lo preguntó. Lo dejó sobre el escritorio, junto a las tazas, y esperó a que ella lo negara. Chiara no lo negó.
 
@@ -193,7 +193,7 @@ Abrió el cajón de la derecha. Sacó una hoja y la puso sobre la madera, de fre
 
 Era la copia de una multa de tránsito. Papel de la ciudad, sello de la policía de San Aurelio, letra de agente apurado. *Luz de freno trasera izquierda fundida.* Una calle de la Almendra, la de El Patio, a las dos y catorce de la madrugada de anteayer. Un sedán oscuro, cuatro puertas. Placas de Virginia. En la casilla del propietario, el nombre de una arrendadora de coches; en la del conductor, un nombre que no le dijo nada y que, apostaba, no le iba a decir nada a nadie.
 
-—La arrendadora lo rentó a una empresa —dijo Varek—. La empresa tiene una dirección en un parque de oficinas de Virginia y un teléfono que no contesta nadie. —Recogió la hoja con la misma calma con que la había puesto y la devolvió al cajón—. Le dije anoche que no era mío. Ahora se lo enseño. No es mío y no es de aquí. Aquí nadie se toma la molestia de rentar un coche en otro estado para estacionarse en la Almendra.
+—La arrendadora lo rentó a una empresa —dijo Varek—. La empresa tiene una dirección en un parque de oficinas de Virginia y un teléfono que no contesta nadie. —Recogió la hoja con la misma calma con que la había puesto y la devolvió al cajón—. Le dije anoche que no era gente mía. Ahora se lo enseño. No es mío y no es de aquí. Aquí nadie se toma la molestia de rentar un coche en otro estado para estacionarse en la Almendra.
 
 No le dijo cómo había llegado esa hoja a su cajón. No hacía falta. Una multa de la policía de la ciudad, de una madrugada de anteayer, sobre el escritorio de un hombre que no era policía, ya estaba diciendo todo lo que él no iba a decir.
 
@@ -227,7 +227,7 @@ Afuera, en la recta, uno de los potros grises pasó al galope frente al ventanal
 
 —Como quiera.
 
-Tenía la mano en el bolsillo del abrigo, cerrada sobre la medalla que guardaba ahí. No se acordaba de habérsela metido. Antes de llegar a la puerta, ya sabía que él no iba a levantar la vista para despedirla, y no la levantó.
+Tenía la mano en el bolsillo del abrigo, cerrada sobre la medalla que guardaba ahí. No recordaba en qué momento había metido la mano. Antes de llegar a la puerta, ya sabía que él no iba a levantar la vista para despedirla, y no la levantó.
 
 ***
 
@@ -235,7 +235,7 @@ Lo de la tarde no lo pensó: lo hizo, como se hace la segunda mitad de una cuent
 
 Si había gente de fuera preguntando por Kal en el barrio, la gente de dentro sabía quién. Y la gente de dentro que más ganaba si a Kal le pasaba algo tenía un nombre que él mismo le había dado, el día anterior, en el estacionamiento de Villani, con las llaves del Lancia en la mano y la voz de vendedor: los Bravos movían algo por la glorieta del sur, coches entrando y saliendo de una de las casas grandes, y si ella algún día tenía forma de echarle un ojo, la agencia se lo iba a agradecer. Lo había dicho como se dice lo del aceite cada cinco mil kilómetros. Ella se lo había guardado igual.
 
-El Lancia no le servía. El Lancia ya estaba en esa bitácora, la de los valets, con su hora y su rampa, y quien preguntaba por ella con la educación con que preguntaba sabía leer bitácoras. El Peugeot de Kal seguía en el hueco junto al loft, donde él lo dejaba cuando salía en el Audi, con las llaves en el cuenco de la entrada.
+El Lancia no le servía. Anoche, con la cabeza en otra parte, lo había dejado en la rampa del Monarch como cualquier huésped, y ya estaba en esa bitácora, la de los valets, con su hora y su rampa, y quien preguntaba por ella con la educación con que preguntaba sabía leer bitácoras. El Peugeot de Kal seguía en el hueco junto al loft, donde él lo dejaba cuando salía en el Audi, con las llaves en el cuenco de la entrada.
 
 En un taller de la Almendra que no hacía preguntas, por un precio que tampoco las hizo, el Peugeot rojo dejó de ser rojo en tres horas: un vinil gris sin nombre, mate, y unas placas que no eran de nadie que ella conociera. A las cuatro estaba estacionada en la curva alta de la glorieta del sur, en la sombra de un plátano, con el motor apagado y la cámara en las rodillas, mirando una casa grande con el portón de rejas.
 
