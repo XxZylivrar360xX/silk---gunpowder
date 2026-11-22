@@ -1,4 +1,5 @@
 <!--
+CIRUGÍA DE LA LECTURA (2026-11-22, [[98_Agent_Handoff/sessions/2026-11-22_claude_cirugia_lectura_cap29]]; sigue BORRADOR): plática del camino de vuelta (DECISIÓN DEL AUTOR en estructura: Chiara se quita las botas, el día como montaña rusa, nadie entiende cómo no salió mal; prosa DISEÑO, espera lectura): sin Halbrook, Varek ni Camp Alder, y sin decir «casa», para que el peso de «Vamos a casa» siga sin verbalizarse. Meiko «En el taller entro a las siete»; fuera «cuando el loft empezó a ser de dos» (H16). Líneas canon intactas.
 LECTOR PARTE II (2026-11-08, [[98_Agent_Handoff/sessions/2026-11-08_claude_observaciones_lector_parte_II]]; DISEÑO, espera lectura): aparte de Nadir y Kal en el lago, visto y medio oído por Chiara (Nadir reclama que lo pusieron bajo el nombre de Varek sin preguntarle); el coche lo siembra («Nadir bromea cuando todavía no decide»); las costillas impiden el tiro: Chiara se deja caer y se lo lleva. Intercambio canon del agua intacto.
 Renumerado 2026-11-08 (nuevo cauce, Parte II): antes Cap. 35.
 NUEVO CAUCE, Fase 4 (2026-11-07, terminal B; [[98_Agent_Handoff/encargos/ENCARGO_Fase4_Paralelo_Reusa]]): pasa a ser el **nuevo Cap. 29** (tarjeta T16, H7, POV Chiara, «Reusa y unifica el POV»). DECISIÓN DEL AUTOR 2026-11-07: Reusa mínimo (sin poda); «Bellandi» de Harper se queda; la línea de Varek pasa a «el día anterior», sin cobrar la deuda. DISEÑO del agente, espera lectura: seis deslices al interior de Kal pasan a lo que Chiara ve o deduce (subida al vestidor, nombre de Harper, satisfacción en el coche, costillas al cargarla, «Vio que Kal también se había dado cuenta», Varek un día antes). Diálogo intacto. Versión anterior: [[11_Books/Book_01_Mascaras_De_Cristal/Escenas_Eliminadas/31_Vamos_A_Casa_Version_2026-11-07]]. Detalle: [[98_Agent_Handoff/sessions/2026-11-07_claude_fase4_cap29_vamos_a_casa]]. Costura de apertura PROVISIONAL: depende del nuevo 28 (Las Gemelas, la piedra y el nombre de Halbrook). Cementerio PROVISIONAL: depende de que el nuevo 25 conserve «Y decirle que Marisol está bien». «No era una orden / Sonó como una» es eco del archivo 28, que pasa al nuevo 26 o 27. La reunión de El Patio (coda vieja del 30) sale de página: el diálogo del coche sobre Nadir es lo único que la cuenta. Las fechas y numeraciones de abajo son anteriores al cauce.
@@ -45,7 +46,7 @@ Sonrisa del lago aligerada (2026-11-15, revisión externa): sin la acotación «
 
 # Capítulo 29 — Vamos a casa
 
-La tarde en el Monarch fue una sucesión de cosas pequeñas que había que resolver antes de que se acumularan: una versión que corregir, un empleado con una pregunta de vestuario, un papelito doblado que uno de sus susurros le hizo llegar con un nombre que todavía no significaba nada. Chiara lo fue archivando todo, cada cosa en su sitio, con la misma cabeza que esa mañana había estado sentada sobre una piedra escuchando el nombre de un general.
+La tarde en el Monarch fue una sucesión de cosas pequeñas que había que resolver antes de que se acumularan: una versión que corregir, un empleado con una pregunta de vestuario, un papelito doblado que uno de sus susurros le hizo llegar con un nombre que todavía no significaba nada. Chiara lo fue archivando todo, cada cosa en su sitio, con la misma cabeza con que esa mañana, sentada sobre una piedra, había escuchado el nombre de un general.
 
 El teléfono sonó a media tarde, mientras firmaba algo que no iba a leer dos veces.
 
@@ -229,7 +230,7 @@ A Chiara le costó un segundo ubicarla sin delantal y con gorra: la máquina de 
 
 Harper no había tardado nada.
 
-Nadir la vio de reojo, sonrió, y levantó la mano hacia Chiara con esa facilidad que no le costaba nada.
+Nadir lo había visto todo de reojo. Sonrió y levantó la mano hacia Chiara con esa facilidad que no le costaba nada.
 
 —Mira quién decidió mojarse los pies. —Estaba sentado sobre una nevera portátil, con los brazos cruzados y un cigarro sin encender entre los dedos—. Wallah, la ciudad entera nos va a extrañar hoy.
 
@@ -253,7 +254,7 @@ Héctor estaba sentado en una silla plegable con una gorra vieja calada hasta la
 
 —Traigo hambre. Y a Danny no le pienso dejar nada.
 
-—Entonces ya le caigo mejor que hace un minuto.
+—Entonces ya me cae mejor que hace un minuto.
 
 Walt estaba un poco apartado, cerca de una nevera propia con etiquetas escritas a mano, y cuando la vio llegar la miró un momento más largo de lo que hacía falta para un saludo, con esa atención suya de quien está haciendo una cuenta. Después asintió, una sola vez, y volvió a lo que estaba haciendo —acomodar botellas, comprobar que el hielo aguantara el día—, sin decir nada más.
 
@@ -343,7 +344,7 @@ Meiko la miró por primera vez de frente. Tenía los ojos muy oscuros y una mane
 
 —Hasta lo que dure.
 
-—Aquí entro a las siete.
+—En el taller entro a las siete.
 
 —Ya lo sé.
 
@@ -427,7 +428,7 @@ Ella le tiró agua a la cara con la mano abierta, sin previo aviso, y él respon
 
 ***
 
-Nadaron hasta una formación de roca cerca de la orilla, ella delante, al paso de él, que nadaba corto y sin patear, una lengua ancha y plana que sobresalía del agua lo suficiente como para sentarse fuera del alcance de las olas chicas, con el sol ya bajando detrás de los árboles del otro lado. Se sentaron con las piernas colgando hacia el agua, hombro con hombro, y la piedra, tibia de todo el día, se oscureció debajo de ellos con lo que les escurría de la ropa.
+Nadaron hasta una formación de roca cerca de la orilla, una lengua ancha y plana que sobresalía del agua lo suficiente como para sentarse fuera del alcance de las olas chicas, ella delante, al paso de él, que nadaba corto y sin patear, con el sol ya bajando detrás de los árboles del otro lado. Se sentaron con las piernas colgando hacia el agua, hombro con hombro, y la piedra, tibia de todo el día, se oscureció debajo de ellos con lo que les escurría de la ropa.
 
 El cielo empezó a ponerse de un color que ninguno de los dos comentó. Desde ahí se veía la orilla entera, chica: las neveras, las figuras de los demás alrededor de la parrilla, el humo que a ratos les llegaba sobre el agua y a ratos se iba hacia los árboles.
 
@@ -453,7 +454,7 @@ Ella levantó la cabeza de su hombro lo justo para mirarlo, y Kal ya la estaba m
 
 Volvieron nadando cuando ya casi no se veía el fondo, y para cuando sintieron otra vez la piedra suelta bajo los pies, el grupo estaba recogiendo: cañas enrolladas, neveras vacías a medias, la parrilla apagándose sola. Héctor discutía con Danny sobre quién se llevaba las sobras del pescado; Nadir hacía cuentas en voz alta sobre lo que le debía o le debían, sin que quedara claro si hablaba en serio; Harper ya estaba guardando su equipo con la eficiencia de quien no necesita que nadie le diga cuándo terminar; Rocco corría entre las piernas de todos, exhausto y feliz, con arena hasta el lomo.
 
-Sin el sol, el frío les cayó encima de golpe. Kal sacó una sudadera seca de la mochila, se la pasó sin preguntarle si la quería y se echó la bolsa al hombro, y en vez de ir hacia los coches se quedaron un momento más en la orilla, de cara al agua, mirando lo que quedaba de luz sobre el lago. Él le tomó la mano. Ella no dijo nada.
+Sin el sol, el frío les cayó encima de golpe. Kal sacó una sudadera seca de la mochila, se la pasó sin preguntarle si la quería y se echó la mochila al hombro, y en vez de ir hacia los coches se quedaron un momento más en la orilla, de cara al agua, mirando lo que quedaba de luz sobre el lago. Él le tomó la mano. Ella no dijo nada.
 
 Cuando se dieron la vuelta, Héctor se guardaba el teléfono en el bolsillo de la camisa y volvía a discutir con Danny por las sobras, como si nunca hubiera dejado de hacerlo.
 
@@ -463,13 +464,35 @@ Fueron subiendo al coche de cada quien entre despedidas cortas, gritos de «el s
 
 ***
 
-El camino de vuelta fue callado. La radio sonaba baja, la calefacción a tope les fue secando la ropa poco a poco, y las luces de los otros coches se fueron perdiendo una por una en las bifurcaciones hasta que quedaron solos en la carretera, con el olor a lago todavía metido en la piel y en el pelo.
+Las primeras curvas de la sierra las bajaron sin hablar. La radio sonaba baja, la calefacción a tope les fue secando la ropa poco a poco, y las luces de los otros coches se fueron perdiendo una por una en las bifurcaciones hasta que quedaron solos en la carretera, con el olor a lago todavía metido en la piel y en el pelo.
 
-La ciudad apareció despacio, primero como un resplandor contra las nubes bajas y después como calles de verdad, semáforos, gente. El ruido del día —la pesca, las risas, el agua— se fue quedando atrás con cada cuadra, hasta que sólo quedaron ellos dos y el motor.
+Chiara se quitó las botas de campo sin desatarlas, primero una y después la otra, apoyando el talón en el borde del asiento, y las dejó caer sobre el tapete con la arena que traían adentro. Subió los pies, los metió bajo el borde de la sudadera de Kal y se acomodó de lado, de cara a él, con la sien contra el respaldo.
+
+Kal no dijo nada de la arena. Giró la perilla de la calefacción hacia los pies y siguió manejando.
+
+—A las cinco de la mañana te estaba viendo la ceja abierta en tu cocina —dijo Chiara, sin prisa—. A media mañana estaba sentada en una piedra. En la tarde, en un cementerio. Hace dos horas me persigné sobre un pescado, y ahora voy descalza en tu coche, con tu sudadera, oliendo a lago. Parece feria, Kal. Una de esas montañas rusas que suben despacio, despacio, y de repente estás abajo, con el pelo en la cara, riéndote, sin acordarte de que ibas con miedo.
+
+—A ésas las revisan todas las mañanas, antes de que abran la feria. —Kal no apartó la vista de la carretera—. Un señor con una lámpara, tornillo por tornillo, cuando todavía no hay nadie.
+
+Chiara se rio contra el respaldo, con los ojos cerrados.
+
+—Siempre tienes que saber quién aprieta los tornillos. —Abrió los ojos—. Lo que no entiendo es lo otro. Hoy había por lo menos cuatro maneras de que todo saliera mal. Las conté en la mañana, en orden, como cuadro una noche del casino, y no pasó ninguna. Y no sé quién las apretó. Yo no fui. Tú tampoco, me parece.
+
+Kal bajó una velocidad para la curva y tardó en contestar lo que tardó la curva.
+
+—Pasa con los motores. Te pasas la noche buscándole la falla a uno, cambias lo que sospechas y lo que no, y cuando lo arrancas para oír qué tan mal suena, arranca a la primera y se queda parejo. Walt dice que en esos casos se cierra el capó y no se le pregunta nada al motor.
+
+—¿Y tú le haces caso a Walt?
+
+—Nunca. Me paso una semana preguntándome qué le hice. —Se le movió algo en la cara que no llegó a sonrisa—. Hoy sí le hago caso.
+
+Chiara no contestó. Le pasó los dedos por la nuca, donde el pelo todavía estaba húmedo, los dejó ahí un momento y volvió a recostarse.
+
+La ciudad apareció despacio, primero como un resplandor contra las nubes bajas y después como calles de verdad, semáforos, gente.
 
 Kal dobló hacia el barrio sin que ella tuviera que decirle la dirección.
 
-—Estoy agotada —dijo Chiara, con la cabeza contra el vidrio, medio dormida ya.
+—Estoy agotada —dijo Chiara, con la cabeza contra el respaldo, medio dormida ya.
 
 Kal no contestó enseguida. Bajó una calle, dobló otra, y cuando el loft ya se veía al final de la cuadra, con la luz del porche que alguien —Walt, probablemente— había dejado encendida, dijo, sin ningún peso especial en la voz:
 
@@ -479,7 +502,7 @@ Kal no contestó enseguida. Bajó una calle, dobló otra, y cuando el loft ya se
 
 El problema con el sillón era que Kal estaba equivocado.
 
-Chiara llegó a esa conclusión menos de cinco minutos después de entrar al loft, todavía con el pelo húmedo del lago y las botas dejando pequeñas medias lunas oscuras sobre el piso, cuando encontró uno de los sillones de la sala desplazado casi medio metro hacia la ventana.
+Chiara llegó a esa conclusión menos de cinco minutos después de entrar al loft, todavía con el pelo húmedo del lago, las botas en la mano y arena entre los dedos de los pies, cuando encontró uno de los sillones de la sala desplazado casi medio metro hacia la ventana.
 
 Se quedó mirándolo.
 
@@ -555,8 +578,6 @@ Los dos aguantaron exactamente medio segundo antes de empezar a reírse.
 
 Eso los hizo reír otra vez.
 
-Entre los dos movieron el sillón.
-
 Chiara lo empujó hacia su sitio original.
 
 Kal esperó a que terminara, lo contempló con una seriedad ofensiva y después lo giró unos centímetros hacia la televisión.
@@ -573,7 +594,7 @@ Una voz cayó desde el exterior antes de que él pudiera contestar.
 
 Chiara giró la cabeza hacia el balcón.
 
-En el edificio contiguo, apoyado sobre el barandal del apartamento que había rentado con Danny cuando el loft empezó a ser de dos, como si hubiera pagado entrada para aquello, Nadir sostenía una taza con una mano y sonreía de oreja a oreja.
+En el edificio contiguo, apoyado sobre el barandal del apartamento que compartía con Danny, como si hubiera pagado entrada para aquello, Nadir sostenía una taza con una mano y sonreía de oreja a oreja.
 
 Kal ni siquiera salió.
 
