@@ -177,7 +177,7 @@ Héctor le dio la bolsa de papel sin decir qué era. Walt la abrió y miró aden
 
 —Está tibia. Vino en la camioneta con la calefacción puesta.
 
-—La libertad te ablanda el estándar, Navarro.
+—La libertad te volvió conformista, Navarro.
 
 Walt miró entonces las letras de la sudadera de su hija. Ya lo sabía; se lo había contado ella por teléfono y en la audiencia.
 
@@ -343,7 +343,7 @@ Jim se quedó quieto. Por primera vez en toda la conversación, la calma le lleg
 
 —Tiene diecinueve años y se sube a una ambulancia todas las noches a recoger gente que se muere por mucho menos que esto.
 
-—Me estás dando el punto. —Jim no lo miró—. Ella no se enterará. Nunca.
+—Me estás dando la razón. —Jim no lo miró—. Ella no se enterará. Nunca.
 
 —No se lo voy a decir —dijo Kal, al final—. Pero vas a parar.
 
@@ -355,7 +355,7 @@ Jim se fue caminando hacia las carpas sin decir nada más, y Kal se quedó ahí,
 
 Del otro lado de las carpas de los contratistas había una mujer con acento ruso que sabía a quién llamar. Con una llamada suya, un papel como ése podía decir otra cosa, o no haber existido nunca. Kal sabía dónde estaba su tienda y lo que cobraba.
 
-Esa noche no lo tomó.
+Esa noche no la llamó.
 
 La emboscada llegó dos días después, en la curva que todos habían dejado de vigilar porque nunca antes había pasado nada ahí.
 
@@ -435,9 +435,9 @@ El Corolla entró primero y se estacionó junto al portón, en el único lugar q
 
 Walt se quedó en la entrada del patio con la bolsa de plástico en la mano.
 
-Natalie entró a la oficina, sacó una Coca del refrigerador de Kal sin pedirla, dejó las llaves en la taza del escritorio donde había otras llaves suyas y volvió a salir abriendo la lata con los dientes, cosa que su madre le había prohibido a los ocho años.
+Natalie entró a la oficina, sacó un refresco de cola del refrigerador de Kal sin pedirlo, dejó las llaves en la taza del escritorio donde había otras llaves suyas y volvió a salir abriendo la botella de vidrio con el anillo, cosa que su madre nunca la había dejado hacer.
 
-—¿Quieres algo? —le preguntó a su padre—. Hay Coca, y la cerveza de Kal, que no te la recomiendo.
+—¿Quieres algo? —le preguntó a su padre—. Hay refresco, y la cerveza de Kal, que no te la recomiendo.
 
 Walt negó con la cabeza. La miraba.
 
@@ -463,7 +463,7 @@ Walt miró el gesto.
 
 —Cuido que no se mueran de hambre, y que no regalen el trabajo. Las dos cosas cuestan más de lo que parece, señor Keegan.
 
-—Es cierto —dijo Natalie desde el refrigerador—. La primera vez me cobró la Coca.
+—Es cierto —dijo Natalie desde el refrigerador—. La primera vez me cobró el refresco.
 
 Walt lo midió como había medido a Kal en la acera, buscando qué había debajo. Nadir le sostuvo la mirada sin endurecerla, que era lo más difícil, y señaló la olla.
 
@@ -497,7 +497,7 @@ Se sorbió la nariz y se la frotó con el dorso de la mano.
 
 Se rio solo. Nadir miró a Kal. Kal siguió comiendo.
 
-Natalie dejó la lata en la mesa y miró a Danny un segundo más de lo necesario: primero los ojos, después las manos. Danny lo sintió. Le pasó un brazo por los hombros desde atrás y le dio un beso ruidoso en la cabeza.
+Natalie dejó la botella en la mesa y miró a Danny un segundo más de lo necesario: primero los ojos, después las manos. Danny lo sintió. Le pasó un brazo por los hombros desde atrás y le dio un beso ruidoso en la cabeza.
 
 —Nat, mi amor. ¿Sigues salvando gente?
 

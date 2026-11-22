@@ -21,11 +21,16 @@ Plan: [[13_Auditorias/Book_01_Mascaras_De_Cristal/Cirugia_Lectura_Libro_I]]. Arc
 
 **Segundo lector en frío** (puntos tomados): Kal «nunca había pisado» la sala de visitas (antes «llevaba cuatro años sin pisar», contra el «nunca has ido» del cap. 1); «No han llamado» (aún no daban las dos); en la grúa, «Nadir subió del otro lado; Danny, en medio»; «Héctor se hizo a un lado. Natalie no se despegó del coche» (Héctor no estaba junto a un coche); fuera «La recogemos en la tarde» (repetía), «para que los dos lo supieran» (tic), el segundo «se encogió de hombros» y un «contestó»; Nat: «Hace cuatro meses. Antes, sólo la ambulancia.»
 
-## Reportado, sin tocar
+## Reportados, decididos por el autor (mismo día, aplicados)
 
-- Escena de Afganistán (canon): «Me estás dando el punto» (calco de *you're making my point*; ¿«Me estás dando la razón»?); «Esa noche no lo tomó» (el «lo» queda lejos de la llamada a la fixer).
-- «y los dos lo sabían» tras el «Sí»: Walt no puede saber que no fue rápido (¿sospecha, o sobra?).
-- Nat abre la lata con los dientes (raro con lata); «La libertad te ablanda el estándar» suena a anglicismo; «bocabajo sobre el escritorio» cinco veces (motivo del encabezado, se deja).
+- Afganistán: «Me estás dando la razón» (antes «el punto»); «Esa noche no la llamó» (antes «no lo tomó»).
+- Sin marcas de refresco (DECISIÓN DEL AUTOR): «un refresco de cola»; Nat abre la botella de vidrio con el anillo (antes, la lata con los dientes) y rima con la pregunta de Walt por el refresco de vidrio.
+- «La libertad te volvió conformista, Navarro.» (antes «te ablanda el estándar»).
+
+## Se deja
+
+- «y los dos lo sabían» tras el «Sí»: Walt sabe porque Kal «nunca supo mentir» (la frase de Jim). Es diseño, no error.
+- «bocabajo sobre el escritorio» cinco veces: motivo del encabezado.
 - «La había visto en la audiencia»: cuadra con el cap. 1 (Nat estuvo en una audiencia anterior; la de hoy es adentro).
 
 ## Arrastres
