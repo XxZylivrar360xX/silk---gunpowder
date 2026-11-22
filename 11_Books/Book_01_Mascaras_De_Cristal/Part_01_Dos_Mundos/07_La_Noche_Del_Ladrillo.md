@@ -18,6 +18,7 @@ Arco de Blake (2026-10-22, decision del autor; DISENO pendiente de lectura): lin
 Primer encuentro con los chicos (2026-11-03, DECISION DEL AUTOR; prosa DISEÑO): aqui Chiara le pone cara por primera vez a Nadir y Danny. Fuera "los de la ruleta", "Ya nos conocemos", "La señora me debe un verde", "Tu amiga". Entra "Usted es el problema" (cobra "El problema llamo" del Cap. 4) y la tarifa de dentista.
 Ruleta y cierre nuevo (2026-11-03, DECISION DEL AUTOR; prosa DISEÑO, BORRADOR en este tramo): el capitulo ya no cierra en el taxi, que queda como transito (conserva el Peugeot armado, que cita el Cap. 9). Penthouse: el ladrillo pasa a la mesa de noche del lado que Chiara no usa (lado de Kal en el Cap. 22; resuelve el PENDIENTE de H3: lo conserva). Tina con la reflexion de la "misma pintura" (eco del Cap. 2). La ruleta, trasladada del Cap. 7, cobra la invitacion de Gabriella's ("pase por el casino cuando quiera"): tres menos diez, despues de la entrega a Dario de esa misma noche; Danny toca con nudillos, alguien lo regaña, Nadir toca el timbre con pantalla, y Chiara los ve saludar en ella (idea del autor); fajo del sobre, paja en la gorra (cobro en el Cap. 9). Chiara se rie: alivio tras Blake. Cierre: billetes debajo del ladrillo. Se conserva "Trabajo de madrugada" (canon de H3). DISEÑO del agente: "Mercer colgo las llaves", la copa de Nadir sola en la barra, "No es chistoso / Un poco".
 Favor y Vento (2026-11-04, DECISION DEL AUTOR; prosa DISEÑO, BORRADOR en este tramo; supersede los dos parrafos anteriores en lo que contradigan): la ruleta regresa al Cap. 7, asi que los chicos ya son conocidos. En Gabriella's, Chiara le ofrece un favor a Nadir por ser amigo de Kal ("La casa no debe... La casa hace favores"); se quedan "Usted es el problema", el dentista y "Cuando quiera". Cierre: tres toques y timbre, conversacion por el parlante ("Vengo a cobrar"; ella teme que tenga que ver con la tarjeta de Dario, sin explicarlo); el favor es que Danny monte. Bajan al corral: Chiara monta primero en Vento (al paso), Danny despues, de la cuerda; "Los domingos... A las seis ya voy de regreso" (de ahi lo sabe Kal, Cap. 11). Vento le revisa el bigote a Russ y Russ se rie, primera vez; a ella se le contagia, casi sin ruido (la carcajada entera sigue reservada al Cap. 9). No se dice que Vento es de ella (lo cuenta en el archivo 33). Fuera: Chiara repartiendo, los 640 bajo el ladrillo. Cierre: paja bajo el ladrillo. "Danny saluda en la pantalla" (idea del autor) intacto. Corrado no aparece.
+Cirugia de la lectura (2026-11-21; BORRADOR, espera lectura): el taxi ya no descubre el Peugeot (D5), «—¿Eso le dijo? —pregunto Chiara», Blake patrullero, fuera la glosa del regaño y «En mi familia me dirian que no se negociar». Detalle: 98_Agent_Handoff/sessions/2026-11-21_claude_cirugia_lectura_cap08.md.
 -->
 
 # Capítulo 8 — La noche del ladrillo
@@ -84,7 +85,7 @@ No lo dijo. Ni siquiera tuvo que decidirlo; se dio cuenta después, cuando ya lo
 
 Fue la primera vez esa noche que Kal se le metió en la cabeza sin haber sido invitado.
 
-Él volvió a entrar cuando alguien lo llamó desde la puerta —otro grupo, otra ronda de presentaciones donde ella iba a ser el florero otra vez—, y Chiara se quedó sola con el teléfono en la mano y una idea que no debía tener.
+Blake volvió a entrar cuando alguien lo llamó desde la puerta —otro grupo, otra ronda de presentaciones donde ella iba a ser el florero otra vez—, y Chiara se quedó sola con el teléfono en la mano y una idea que no debía tener.
 
 Escribió antes de pensarlo del todo:
 
@@ -166,7 +167,7 @@ Kal miró su propia ropa como si la viera por primera vez. Después miró al por
 
 —Bueno… mis calcetas son blancas.
 
-El portero no supo qué contestar a eso, y en el silencio que siguió, Nadir soltó una risa corta y Danny miró al techo como si buscara ahí la paciencia necesaria para no reírse también.
+El portero no supo qué contestar a eso, y en el silencio que siguió, Nadir soltó una risa corta y Danny miró al cielo como si buscara ahí la paciencia necesaria para no reírse también.
 
 Chiara, desde la pared, se rio disimuladamente detrás de la mano.
 
@@ -194,7 +195,7 @@ Cuando ella volvió a entrar, Kal los trajo hasta ella sin ceremonia.
 
 Kal se pasó la mano por la cara.
 
-—¿Eso le dijo?
+—¿Eso le dijo? —preguntó Chiara.
 
 —Y tarifa nocturna. —La soltó—. Eso le cobra a un dentista. Y la señora me debe un verde.
 
@@ -205,8 +206,6 @@ Kal se pasó la mano por la cara.
 —Cuando quiera.
 
 Nadir asintió, como quien guarda un recibo. Kal lo miró guardarlo y no dijo nada.
-
-—Danny.
 
 Danny se quitó la gorra, como si eso arreglara algo.
 
@@ -308,9 +307,9 @@ No fue difícil disimular el resto de la noche. Lo difícil fue que Blake, que n
 
 —Blake.
 
-—No, en serio. —Se le paró enfrente, cortándole el paso hacia la calle—. Te vi. La forma en que lo miraste en la puerta. ¿Es por ese tal Mercer?
+—No, en serio. —Se le paró enfrente, cortándole el paso hacia la calle—. Te vi. La forma en que lo miraste adentro. ¿Es por ese tal Mercer?
 
-El nombre, en su boca, sonó más informado de lo que a Chiara le habría gustado. Pero las grúas de Almendra Towing levantaban lo que el Departamento mandaba levantar; un oficial de tránsito tenía que conocer el nombre del dueño.
+El nombre, en su boca, sonó más informado de lo que a Chiara le habría gustado. Pero las grúas de Almendra Towing levantaban lo que el Departamento mandaba levantar; un patrullero tenía que conocer el nombre del dueño.
 
 Chiara no contestó. Blake dio un paso más cerca, y algo en la cara se le puso feo, la vanidad de toda la noche convertida en otra cosa.
 
@@ -338,7 +337,7 @@ Blake se rio, sin nada de humor en la risa.
 
 Chiara lo miró un segundo entero, dejando que el silencio hiciera el trabajo que las palabras todavía no estaban listas para hacer.
 
-—Eres un niño, Blake. Un niño con placa y sueldo, pero un niño, y todavía te falta mucho para madurar. —Se acomodó el bolso en el hombro—. Y yo no estoy aquí para aguantarte desplantes de quince años cada vez que no sabes qué hacer con lo que sientes.
+—Eres un niño, Blake. Un niño con placa y sueldo, pero un niño, y todavía te falta mucho para madurar. —Se acomodó el bolso en el hombro—. Y yo no estoy aquí para aguantarte desplantes de quince años.
 
 Blake se llevó la mano al pecho, al bolsillo de la camisa blanca, donde de uniforme llevaba la placa. No había nada.
 
@@ -350,7 +349,7 @@ Eso fue lo último que necesitó oír.
 
 Se dio la vuelta antes de que él pudiera contestar, levantó la mano hacia la calle y un taxi se detuvo con una suerte que no merecía esa noche.
 
-Santa Brígida quedaba lejos del Monarch. El ladrillo se le clavaba en la cadera con cada bache del camino, y antes de llegar a la 101 ya lo había armado: el coche del que Blake presumía derrotas, el malvavisco del Peugeot del que Kal le había hablado, era el mismo que acababa de entrar a un callejón con cuatro hombres mal vestidos. Se rio una vez, por la nariz. El chofer la miró por el espejo.
+Santa Brígida quedaba lejos del Monarch. El ladrillo se le clavaba en la cadera con cada bache del camino, y antes de llegar a la 101 se acordó de Blake presumiendo curvas contra el malvavisco del Peugeot, el mismo que esa noche había entrado a un callejón con cuatro hombres mal vestidos. Se rio una vez, por la nariz. El chofer la miró por el espejo.
 
 Eran más de las dos cuando entró al penthouse. No encendió más que la lámpara de la habitación. Sacó el ladrillo del bolso antes que nada y se quedó mirándolo en la mano. Levantó una ceja. Lo dejó en la mesa de noche del otro lado de la cama, la que no usaba.
 
@@ -524,7 +523,7 @@ Afuera, donde empezaba el asfalto, se detuvo.
 
 —Estamos a mano, señor Amrani.
 
-—Salió barato. —Nadir siguió con los ojos a Danny, que iba adelante oliéndose las manos—. Un favor del Monarch, y lo gasté en un caballo viejo a las cuatro de la mañana. En mi familia me dirían que no sé negociar. Ninguno ha visto reírse a Russ.
+—Salió barato. —Nadir siguió con los ojos a Danny, que iba adelante oliéndose las manos—. Un favor del Monarch por un caballo viejo a las cuatro de la mañana, y en la Almendra nadie había visto reírse a Russ.
 
 —Ciao, tesoro.
 

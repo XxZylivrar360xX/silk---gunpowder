@@ -55,6 +55,7 @@ Plan de trabajo, en marcha desde el 2026-11-21 (DECISIÓN DEL AUTOR sobre el mé
 - ~~Cap. 4: el segundo pleito de la pintura~~ resuelto (sale el Taurus).
 - ~~Cap. 5: la teniente~~ falsa alarma (lo dice Chiara y pregunta Kal).
 - Cap. 9: el malvavisco va debajo del asiento (cap. 1), no en la guantera.
+- Cap. 9 (l. 64): «Lo había armado sola días atrás, en el asiento trasero de un taxi» choca con D5 y con el taxi del 8 (ya no descubre nada).
 - Cap. 16 (`17_Cuentas_Claras`, l. ~287): «los meseros de la Isla» pasa a «La Isla» (norma del libro).
 - Cap. 10: Keene pactó «los martes a las diez» en el 1; allá dice «martes y jueves». «Placa no legible» del 10 ya cuadra con las placas de noche del 1.
 
@@ -67,7 +68,7 @@ Plan de trabajo, en marcha desde el 2026-11-21 (DECISIÓN DEL AUTOR sobre el mé
 | 5 | Cliente y proveedor | `05a_Cliente_Y_Proveedor` |  | hecho, BORRADOR | ver git log |
 | 6 | Sólo una cena | `05c_La_Pizza_De_Calabaza` |  | hecho, BORRADOR | ver git log |
 | 7 | Ambos | `06_Ambos` | tuteo prematuro; Peugeot D5 | hecho, BORRADOR | ver git log |
-| 8 | La noche del ladrillo | `07_La_Noche_Del_Ladrillo` | Peugeot D5 («lo confirmó») | pendiente | |
+| 8 | La noche del ladrillo | `07_La_Noche_Del_Ladrillo` | Peugeot D5 («lo confirmó») | hecho, BORRADOR | ver git log |
 | 9 | Mandorla | `08_La_Carrera_De_Mascaras` | Peugeot D5 | pendiente | |
 | 10 | Una pésima idea | `08b_La_Sargenta` |  | pendiente | |
 | 11 | La balanza | `09_La_Balanza` |  | pendiente | |
