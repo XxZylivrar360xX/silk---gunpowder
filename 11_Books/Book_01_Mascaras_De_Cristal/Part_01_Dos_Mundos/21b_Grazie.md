@@ -1,4 +1,5 @@
 <!--
+**Lectura externa, lote 5 (2026-11-22, DECISIÓN DEL AUTOR):** el pañuelo es de seda blanca, no de lino (seda y pólvora: la bala va limpia, la inicial en la seda; el título de la saga en prosa, sin nombrarlo). Mismo cambio en el 35 (archivo 38). Sigue BORRADOR.
 NUEVO CAUCE (Fase 4, 2026-11-07, terminal B): nuevo Cap. 19, tarjeta T7, POV Chiara, verbo «Reusa»; cierra la Parte I (1–19) según [[11_Books/Book_01_Mascaras_De_Cristal/00_Mapa_Cauce_Cap11_Camp_Alder]]. Encabezado renumerado a «Capítulo 19» el 2026-11-08 al cerrar la Parte I (antes «Capítulo 22»). Versión anterior íntegra: [[11_Books/Book_01_Mascaras_De_Cristal/Escenas_Eliminadas/21b_Grazie_Version_2026-11-07]] (git `3d26627`). Sesión: [[98_Agent_Handoff/sessions/2026-11-07_claude_fase4_cap19_grazie]].
 Decisiones del autor (CANON, 2026-11-07, las tres en la opción recomendada): siembra de las rutas en términos generales (sin nombrar la caja ni a Bellacorte); extensión ~3,000–3,300; lo que dejó Corrado se nombra sin contenido (la relación exacta de Corrado con Il Consorzio sigue PENDIENTE).
 DISEÑO del agente en la reconstrucción (espera lectura): (1) Valenti abre el deber con «Cuando lo de su padre…» y cierra con «Lo que su padre dejó abierto lo sigue pagando la casa Ardizzone, signora. Y la casa es usted.»; Chiara pierde el turno y lo recuerda en su interioridad (veintitrés años, villa cerrada, nada que poner junto a su madre; sin la versión del comunicado, que se reserva al jacuzzi del archivo 25). (2) Siembra: «Lo que pasa por ese casino para Italia pasa por su casa… primero a la cabeza»; Chiara piensa en el despacho de Matteo y en que sólo dos personas saben lo que hay ahí. (3) «Nunca he dejado de pagar.» / «Nadie dice que haya dejado.» enlaza con «dirigir y observar». (4) Párrafo en el coche de ida: rima con el despacho de Nueva York del Cap. 2 (encargo de cinco palabras). (5) De regreso, Chiara hace la cuenta de lo que hay que poner en orden, con lo de Italia primero; deja fuera de la lista un nombre. (6) Cierre: escribe «Tuve que ver a», lo borra y manda «Voy para allá»: el deber va primero y se lo calla a Kal (T7).
@@ -172,7 +173,7 @@ Valenti asintió, como quien anota una respuesta sin creerla ni descreerla.
 
 —Muy bien.
 
-Metió la mano en el bolsillo interior del saco y sacó un pañuelo de lino blanco, doblado en cuatro. Lo puso sobre la mesa baja, junto a la copa de ella, con una esquina hacia arriba. Una *C* bordada en hilo azul oscuro, pequeña.
+Metió la mano en el bolsillo interior del saco y sacó un pañuelo de seda blanca, doblado en cuatro. Lo puso sobre la mesa baja, junto a la copa de ella, con una esquina hacia arriba. Una *C* bordada en hilo azul oscuro, pequeña.
 
 —La Mesa le manda esto.
 
