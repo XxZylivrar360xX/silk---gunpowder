@@ -1,7 +1,7 @@
 <!--
 Reconstruido 2026-11-08, Fase 4 del nuevo cauce (nuevo Cap. 18, T6, POV Kal): [[11_Books/Book_01_Mascaras_De_Cristal/00_Plan_Nuevo_Cauce]] y [[11_Books/Book_01_Mascaras_De_Cristal/00_Mapa_Cauce_Cap11_Camp_Alder]] (fila del 18: «Funde» *Lo pequeño* y *El primer huésped*; el 21 cierra el 20 la misma madrugada, y Kal ve que Marisol se abre con Chiara y no con él). Plan: [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/00_Plan_Cap18_Lo_Pequeno_POV_Kal]]. Versiones anteriores íntegras (TERMINADAS desde 2026-09-12, con su historial de cirugías): [[11_Books/Book_01_Mascaras_De_Cristal/Escenas_Eliminadas/20_El_Mirador_Version_2026-11-08]] y [[11_Books/Book_01_Mascaras_De_Cristal/Escenas_Eliminadas/21_El_Primer_Huesped_Version_2026-11-08]] (git `1d6d621`). El archivo 21 queda como marcador.
 Decisiones del autor para esta reconstrucción (2026-11-08, las cuatro en la opción recomendada): en el mirador Kal dice lo que el nuevo 14 no tiene (el juego de Dale, Ruth perdiéndose detrás, la rosa blanca y la lápida) y del balcón sólo queda «El único recuerdo que tengo de los dos juntos es el día que se lo llevaron», sin volver a narrarlo; la luz de H11 se apaga desde dentro (Chiara apaga la lámpara y el vidrio deja de devolver las dos siluetas), y a las tres la pantalla del teléfono enciende el cuarto; en el loft Kal va por algo frío y desde la cocina ve que Marisol le cuenta a Chiara lo que a él no, con «Yo tardé más que tú» oído por él y dejado donde ella lo puso; el imán, pasado a la guantera del Audi, sale a las tres buscando servilletas, Chiara lo pide con la palma hacia arriba y lo pega en el refrigerador del loft; coda corta del sábado que cierra en «Volvemos adentro».
-Estado: BORRADOR. Prosa DISEÑO pendiente de lectura del autor. Se conservan literales el drift, «Para eso estoy yo. Para enseñarte», «Mis padres. Dale y Ruth», «Es una familia rota. La que yo tengo», «Por no decírmelo bonito», la regla de lo pequeño, «No es para bailar», «¿Seguro?» / «Llevo meses seguro», «*Vieni.*», «Voy contigo», «Espera a que ella quiera contarlo», el pómulo, «Porque es feo» / «Por eso», «Es la única promesa que me queda de mi pasado que no quiero fallarle», «Roncabas. ¿Me equivoco, Chiara?» / «Sin duda alguna, bambina», «Papá», «Volvemos adentro». Numeración: renumerado a «Capítulo 18» el 2026-11-08 al cerrar la Parte I (antes «Capítulo 20»).
+Estado: BORRADOR. Prosa DISEÑO pendiente de lectura del autor. Cirugía de la lectura (2026-11-21; BORRADOR, espera lectura del autor): [[98_Agent_Handoff/sessions/2026-11-21_claude_cirugia_lectura_cap18]]. Restituido lo que los barridos tocaron en líneas literales («Ya me oíste.», «Por no decírmelo bonito.» sin cola, «Lo sé.» sin «no me has cobrado», el café del norte con el beat de la espátula como narración); Dale y Ruth en voz de Kal se quedan (regla 07, DECISIÓN DEL AUTOR). DECISIÓN DEL AUTOR: excepción a la regla 06 (32 %) y la elipsis de la noche recortada a «no necesitó testigos ni palabras que lo explicaran del todo». Se conservan literales el drift, «Para eso estoy yo. Para enseñarte», «Mis padres. Dale y Ruth», «Es una familia rota. La que yo tengo», «Por no decírmelo bonito», la regla de lo pequeño, «No es para bailar», «¿Seguro?» / «Llevo meses seguro», «*Vieni.*», «Voy contigo», «Espera a que ella quiera contarlo», el pómulo, «Porque es feo» / «Por eso», «Es la única promesa que me queda de mi pasado que no quiero fallarle», «Roncabas. ¿Me equivoco, Chiara?» / «Sin duda alguna, bambina», «Papá», «Volvemos adentro». Numeración: renumerado a «Capítulo 18» el 2026-11-08 al cerrar la Parte I (antes «Capítulo 20»).
 Protagonistas: Kal Mercer (POV), Chiara Bellandi, Marisol Grayson. Apariciones: el muchacho de la bolera, la señora de la pista de al lado, una amiga de Marisol (sin nombre). Mencionados: Diego, Dale y Ruth Mercer, Walt, Harper, Michael.
 Ventana temporal: días después del nuevo 17 (H4) hasta un viernes por la noche; la madrugada del sábado y la mañana del sábado. Después de H4, antes de H13 (*Grazie*).
 Lugares: la bolera de la playa y el malecón, la carretera del norte, el último mirador, The Monarch / el penthouse, el club del sector sur de La Isla, La Casa (el loft de Kal).
@@ -62,7 +62,7 @@ Chiara tiró la primera bola con la misma seriedad con la que firmaba un contrat
 
 Kal le señaló la pantalla con la barbilla: un cero amarillo, de un palmo de alto, junto al nombre de ella.
 
-Tiró después, sin ninguna técnica visible, y tumbó siete pinos por pura suerte de brazo. Levantó los dos puños como si acabara de ganar un campeonato.
+Kal tiró después, sin ninguna técnica visible, y tumbó siete pinos por pura suerte de brazo. Levantó los dos puños como si acabara de ganar un campeonato.
 
 —¡Siete! ¿Viste eso? ¿Lo viste?
 
@@ -138,7 +138,7 @@ Kal se quedó con la hamburguesa a medio camino.
 
 Se lo contó igual. Un Buick con el cárter partido en la Novena antes de las ocho. La casa de repuestos de la Novena, que desde la cuota nueva cerraba a las seis y ya no fiaba. Harper, en su primera semana fuera de la barra de Mabel, caminando las doce hectáreas del norte y llamándolo a mediodía para decirle que la tierra era buena y el agua no era suya. Walt llamándolo dos veces para preguntarle cómo se mandaba una foto, y la foto, al final, del techo de la destilería. Y en la noche una mujer que le ganó en los bolos con zapatos rentados, después de tirar cinco bolas seguidas al canal.
 
-—Tres —dijo ella, con la boca llena—. Tres al canal y una que rozó el pino de la esquina, que en cualquier país civilizado cuenta.
+—Tres —dijo ella—. Tres al canal y una que rozó el pino de la esquina, que en cualquier país civilizado cuenta.
 
 —Cinco. Lo vi en la pantalla.
 
@@ -164,13 +164,13 @@ Se giró hacia ella con una mirada de incredulidad tan bien fingida que por un s
 
 —¿Perdón?
 
-—Ya me oíste. Cosa de jóvenes locos, y de hombres que se creen jóvenes.
+—Ya me oíste.
 
 —No me digas que tú…
 
 —No me digas *tú* que no —contestó ella, y Kal vio el momento exacto en que se oyó: abrió la boca para retirarlo, y él ya estaba metiendo primera.
 
-No dijo nada más. Tomó la curva siguiente a una velocidad que no correspondía, la cola se soltó y el auto bajó la curva entera de lado, sin tocar una sola vez el borde del camino. Chiara se agarró del tapete, o de algo que no había, con las dos manos.
+No dijo nada más. Tomó la curva siguiente a una velocidad que no correspondía, la cola se soltó y el auto bajó la curva entera de lado, sin tocar una sola vez el borde del camino. Chiara se agarró del asiento, o de algo que no había, con las dos manos.
 
 Kal enderezó el auto al final de la curva como si no hubiera pasado nada.
 
@@ -224,7 +224,7 @@ Chiara no le dijo que lo sentía. No le buscó la mano. Se quedó sentada a su l
 
 Kal esperó lo que venía siempre detrás de esa palabra, la frase para que el otro se sintiera mejor, y no vino. Tuvo que voltear a verla.
 
-—Por no decírmelo bonito. —Chiara seguía mirando abajo, hacia la Almendra—. Lo bonito se cuenta para que uno firme algo.
+—Por no decírmelo bonito.
 
 Kal buscó qué contestar a eso y encontró lo único que era cierto.
 
@@ -246,7 +246,7 @@ La botella que habían comprado era un Chiaretto de Bardolino, rosado de verdad,
 
 —Tengo una regla —dijo, con la copa todavía en la mano, sin beber—. Nunca miento en lo pequeño.
 
-—Lo sé. Es de las pocas reglas tuyas que todavía no me has cobrado.
+—Lo sé.
 
 —Entonces te digo la verdad de lo pequeño. —Dejó la copa sin haber tomado nada—. No quiero que esta noche se termine todavía.
 
@@ -258,7 +258,7 @@ Kal se rio, bajo, una risa que no necesitaba salir completa. No dijo nada más. 
 
 No fue hacia la ventana. Cruzó al estéreo, quitó a Mazzy Star —no por molestarla; la había oído entera— y puso otra cosa. *Come Away With Me*, de Norah Jones, al mismo volumen de casi nada. Esta vez la que no preguntó nada fue Chiara.
 
-Dejó la copa en la mesa. Se giró y le tendió la mano.
+Kal dejó la copa en la mesa. Se giró y le tendió la mano.
 
 El espejo largo junto a la puerta los agarró así: él de pie en mitad de la sala con el brazo estirado, ella todavía en el sillón. Kal vio que ella se miraba ahí un segundo, los dos vistos desde fuera, antes de mirarlo a él. Después le tomó la mano y se dejó levantar.
 
@@ -288,7 +288,7 @@ Le tomó la mano.
 
 Kal la siguió sin que hiciera falta preguntar hacia dónde, y en el trayecto corto hasta la habitación no hubo ni un segundo de la clase de duda que suele acompañar a estas cosas.
 
-Lo que pasó después no necesitó testigos ni palabras que lo explicaran del todo. Fue lento donde tenía que ser lento y urgente donde no podía ser de otra manera, y en algún punto de la noche los dos entendieron, sin decírselo, que la seguridad que habían estado construyendo, favor por favor, silencio por silencio, ya era suficientemente fuerte como para sostener esto también.
+Lo que pasó después no necesitó testigos ni palabras que lo explicaran del todo.
 
 No hablaron más.
 
@@ -394,7 +394,7 @@ Chiara se sentó al otro lado de Marisol y le puso la taza entre las manos.
 
 —Algo frío, Kal.
 
-No tenía hielo. Nunca tenía hielo. En el fondo del congelador encontró una bolsa de maíz congelada de quién sabe cuándo, la envolvió en un trapo y, mientras buscaba el trapo, oyó a Chiara desde el sofá.
+No tenía hielo. Nunca tenía hielo. En el fondo del congelador encontró una bolsa de maíz congelada de quién sabe cuándo y, mientras buscaba un trapo para envolverla, oyó a Chiara desde el sofá.
 
 —¿Te duele mucho la cara?
 
@@ -418,7 +418,7 @@ Nadie le pidió que se fuera. Kal se quedó un momento de pie junto al sofá, co
 
 —Yo tardé más que tú.
 
-Kal se quedó con la taza bajo el chorro. Sabía cuánto más. Se lo había dado en un campo de golf, entre el búnker y el lago, en frases acomodadas una por una, y ahora le daba a Marisol una sola, la más chica, para que no se sintiera la única. Cerró la llave. Lo dejó donde ella lo había puesto.
+Kal se quedó con la taza bajo el chorro. Sabía cuánto más. Se lo había dado en un campo de golf, entre el búnker y el lago, en frases acomodadas una por una. Cerró la llave. Lo dejó donde ella lo había puesto.
 
 Marisol no preguntó cuánto. Chiara siguió antes de que pudiera.
 
@@ -454,7 +454,11 @@ Venía de abajo, de las dos, y ya sonaba a costumbre. La cama estaba vacía del 
 
 —Ese café huele demasiado bien para ser mío —dijo Kal, sirviéndose una taza sin preguntar.
 
-—No es tuyo. —Marisol no levantó la vista de la sartén. Le dio la vuelta a lo que tenía en el fuego y señaló con la espátula, por encima del hombro, un vaso desechable escondido detrás del frutero—. Ése lo hice pensando en Chiara. El tuyo está allá, todavía tibio, te lo compré en el norte. Y no me veas así, que ya sé, de paso me disculpo: usé el Audi.
+—No es tuyo. —Marisol no levantó la vista de la sartén—. Ése lo hice pensando en Chiara. El tuyo está allá.
+
+Le dio la vuelta a lo que tenía en el fuego y señaló con la espátula, por encima del hombro, un vaso desechable escondido detrás del frutero, todavía tibio.
+
+—Te compré uno en el norte. Y de paso, me disculpo: usé el Audi.
 
 Kal se quedó con la taza ajena a medio camino de la boca.
 
