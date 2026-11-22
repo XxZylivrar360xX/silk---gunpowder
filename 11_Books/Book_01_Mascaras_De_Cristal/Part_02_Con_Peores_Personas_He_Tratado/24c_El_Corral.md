@@ -174,7 +174,7 @@ Kal se sentó junto a la cama y no se movió de ahí en horas. No porque alguien
 
 En algún momento, con el cuarto en silencio y sólo la máquina marcando su ritmo, le tomó la mano.
 
-—Te vas a mejorar, ¿vale? —dijo, en voz baja, como si hablarle más fuerte pudiera romper algo—. Eres la mujer más fuerte que tengo la dicha de haber conocido, y esto no te va a ganar la partida.
+—Te vas a mejorar, ¿sí? —dijo, en voz baja, como si hablarle más fuerte pudiera romper algo—. Eres la mujer más fuerte que tengo la dicha de haber conocido, y esto no te va a ganar la partida.
 
 Se quedó callado un momento, todavía con la mano de ella entre las suyas.
 

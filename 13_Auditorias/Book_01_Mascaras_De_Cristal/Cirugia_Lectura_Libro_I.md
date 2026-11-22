@@ -32,7 +32,7 @@ Plan de trabajo, en marcha desde el 2026-11-21 (DECISIÓN DEL AUTOR sobre el mé
 8. **Otra sesión puede estar editando el Libro I.** El 2026-11-21 lo hizo «Editorial Libro 1». Correr `git status` antes de abrir cada archivo y no tocar lo que aparezca modificado sin saber de quién es.
 9. **Audio del Libro I suspendido** hasta cerrar esta cirugía (28 de 47 caps. al día). EPUB y PDF se regeneran al cerrar cada Parte con la skill `regenerar-y-subir`; mientras tanto, commit por capítulo sin regenerar.
 10. **Encabezado completo, sin recortar** (aprendido en el cap. 4): las notas «se conservan literales…» suelen estar al final de líneas larguísimas; cortarlas con `cut` las esconde. Si el encabezado pesa más de ~10 KB, buscar en él con grep «literal|intact|canon|se conserva». Comparar contra `b834809` lo que el barrido tocó en esas escenas y restituirlo.
-11. **Vara de la regla 06:** varios capítulos ya estaban sobre el 25 % antes de esta cirugía; los recortes no deben subirlo. Si la escena es canon o de radio, se pregunta al autor por la excepción (aprobadas: caps. 4, 5, 7, 10, 11, 17, 18, 19, 22 y 23, en la regla 06). Para cortar un ping-pong que abre un recorte, usar un beat de narración de más de 12 palabras, no otra explicación.
+11. **Vara de la regla 06:** varios capítulos ya estaban sobre el 25 % antes de esta cirugía; los recortes no deben subirlo. Si la escena es canon o de radio, se pregunta al autor por la excepción (aprobadas: caps. 4, 5, 7, 10, 11, 17, 18, 19, 22, 23 y 27, en la regla 06). Para cortar un ping-pong que abre un recorte, usar un beat de narración de más de 12 palabras, no otra explicación.
 12. **Herramientas en Windows:** escribir los scripts de reemplazo con Write en el scratchpad y correrlos con `python -I -X utf8 script.py ARCHIVO </dev/null`; nunca `python -` ni `cat >` sin entrada, que dejan la terminal colgada.
 
 ## Decisiones transversales (DECISIÓN DEL AUTOR, 2026-11-21)
@@ -66,6 +66,8 @@ Plan de trabajo, en marcha desde el 2026-11-21 (DECISIÓN DEL AUTOR sobre el mé
 - ~~Cap. 22: la hoja arrancada frente a la doblada~~ resuelto («La hoja que Kal no dobló»).
 - ~~Cap. 25: «Una semana antes»~~ resuelto («No hacía ni dos semanas»).
 - ~~Cap. 26: «neurólogo»~~ resuelto («La neurocirujana»).
+- Lenguaje neutro (DECISIÓN DEL AUTOR, 2026-11-21: «todo hay que neutralizarlo»): «¿vale?» pasa a «¿sí?» (hechos el 23 y el 27); «arcén» a «acotamiento»; «grifo» a «llave». Quedan «grifo» en los caps. 2 y 8 (archivos `02` y `07`), para la pasada final; revisar cada capítulo que siga.
+- Cap. 28: el 27 deja las fotos en la barra del loft; el encabezado del 27 las pone en el Lancia al cierre (costura con el 28).
 - Cap. 33: revisar otra vez la apertura (costura 32→33: la amenaza de los aretes se cobra con «No te muevas de ahí») cuando la sesión de la Parte II cierre el 32. Arrastres de la II hacia la III: se atienden al final de la III (DECISIÓN DEL AUTOR, 2026-11-21).
 - Peugeot → Audi «la noche de la incursión»: la línea está en el cap. 39 (archivo `43_La_Puerta`, «subió al Peugeot»), no en el 35; se atiende al llegar al 39.
 
@@ -97,7 +99,7 @@ Plan de trabajo, en marcha desde el 2026-11-21 (DECISIÓN DEL AUTOR sobre el mé
 | 24 | Vienes conmigo | `24d_Vienes_Conmigo` | Nadir (ya cubierto por el 21) | hecho, BORRADOR | ver git log |
 | 25 | Libros abiertos | `25_Libros_Abiertos` |  | hecho, BORRADOR | ver git log |
 | 26 | Me encuentro bien | `26_Me_Encuentro_Bien` |  | hecho, BORRADOR | ver git log |
-| 27 | Una silla | `29_El_Patio_Ajeno` |  | pendiente | |
+| 27 | Una silla | `29_El_Patio_Ajeno` |  | hecho, BORRADOR | ver git log |
 | 28 | Media baraja | `30_Media_Baraja` |  | pendiente | |
 | 29 | Vamos a casa | `31_Vamos_A_Casa` |  | pendiente | |
 | 30 | Línea directa | `32_Linea_Directa` |  | pendiente | |
