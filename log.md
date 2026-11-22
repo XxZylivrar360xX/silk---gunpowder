@@ -4,6 +4,7 @@ El detalle se guarda una sola vez en notas de sesión. Este archivo es navegaci�
 
 ## Sesiones recientes
 
+- 2026-11-22: Libro I: interior de imprenta 6 × 9 maquetado con `tools/pdf-build/build_imprenta.py` (márgenes en espejo, capítulos en impar, cabeceras corridas, índice al final): 690 páginas; el lomo se fija al sellar: [[tools/pdf-build/README]]
 - 2026-11-22: Libro I completo: hipótesis de la lectura externa verificadas (lote 6/6); corregidos «sobre la seda» (38), Nadir y Danny y la bolsa (35) y la llamada de Lucía en sábado (50); fotograma, salida de Kal y cierre en «Ciao, bella», por diseño: [[13_Auditorias/Book_01_Mascaras_De_Cristal/Verificacion_Hipotesis_Lectura_Externa_Libro_I]]
 - 2026-11-22: Libro I, caps. 33–39: lectura externa 5/6 verificada (sin errores demostrados); DECISIÓN DEL AUTOR: el pañuelo de Valenti es de seda y la bala va limpia (21b, 38); «tres personas» en el 33; seguimientos: camioneta sin dueño, cadena del expediente, tabla de Meiko: [[98_Agent_Handoff/sessions/2026-11-22_claude_lectura_externa_lote5_caps33-39]]
 - 2026-11-22: Libro I, caps. 27–32: lectura externa 4/6 verificada (sin cambios de prosa ni errores demostrados); seguimientos: favor de Irene sin amarre en el libro mayor y pasaje de Vivian como código; DECISIÓN DEL AUTOR: Danny sigue moviendo mercancía para Irene: [[13_Auditorias/Book_01_Mascaras_De_Cristal/Verificacion_Lectura_Externa_Lote4_Caps27-32]]

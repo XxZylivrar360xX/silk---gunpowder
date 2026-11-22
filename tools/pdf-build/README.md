@@ -6,6 +6,23 @@ Genera un PDF de lectura desde las fuentes Markdown del vault; por defecto, *Má
 python -B .\tools\pdf-build\build_pdf.py
 ```
 
+## Interior de imprenta (tapa blanda 6 × 9)
+
+```powershell
+python -B .\tools\pdf-build\build_imprenta.py
+```
+
+Genera `output/pdf/Mascaras_De_Cristal_Imprenta_6x9.pdf`, el interior para KDP (2026-11-22, a pedido del autor). Es distinto del PDF de lectura en A5:
+
+- página de 6 × 9 in con márgenes en espejo: 0.875 in de medianil, 0.625 in al exterior y 0.85 in arriba y abajo (KDP pide al menos 0.75 in de medianil hasta 700 páginas);
+- Libertinus Serif a 11 pt, justificada, con división silábica en español, sangría de primera línea y control de viudas y huérfanas (fuente libre OFL, se puede incrustar para venta);
+- preliminares en orden: portadilla, verso en blanco, portada y créditos; sin cubierta, que va en archivo aparte;
+- partes y capítulos en página impar, con caída; las cabeceras llevan el título del libro en la página par y el del capítulo en la impar; folio arriba al exterior, y al pie en las aperturas;
+- separador de escena con tres asteriscos pegado al párrafo siguiente; las cartas van en bloque sangrado;
+- índice al final.
+
+Al terminar imprime el número de páginas y el lomo estimado (papel blanco y crema) para `tools/portada/componer_tapa.py`. `--muestra 1-12,689` exporta esas páginas a PNG para revisarlas sin abrir el PDF. Las medidas viven en la plantilla Typst dentro del script.
+
 ## Sombras de Poder
 
 El lanzador del Libro II regenera EPUB y PDF con la misma selección de capítulos:
