@@ -1,4 +1,5 @@
 <!--
+**Cirugía de la lectura (2026-11-21, Claude Code; [[98_Agent_Handoff/sessions/2026-11-21_claude_cirugia_lectura_cap33]]):** restituido «—Su hermano desapareció.»; fuera la repetición de «lo conocí» / «no lo hubiera imaginado» (queda «ya tenía la mesa puesta»), el tic «por fin» (tres), «para eso le pago», «y a Nadir, aunque él diga que no» y «hoy no sé ni qué me falta»; la agenda dice «confirmar el jueves» (como la carta) y la silla se ajusta («no volvió a sentarse ahí»). Se quedan «Tú no llamas a esta hora», «No te muevas de ahí» (costura con el 32, a revisar cuando se cierre el 32) y la réplica larga «Si fuera mi hermano» (regla 07, aprobada). Regla 06 al 28 %: excepción aprobada por el autor. Sigue BORRADOR.
 Lectura del autor de la Parte III (2026-11-08, [[98_Agent_Handoff/sessions/2026-11-08_claude_lectura_parte_iii]]; prosa DISEÑO, espera lectura): «sin haberlo visto nunca de día» → «a esa hora» (Chiara ya estuvo en el Patio de día en *La versión pública*).
 SUPERSESIÓN (2026-11-08): **DECISIÓN DEL AUTOR (2026-11-08):** Matteo se fue a Italia **a investigar lo que en realidad pasó con Elio**. No lo causa el robo ni que Il Consorzio supiera de las rutas. **No se dice en el Libro I; se explica en el Libro IV.** Se reescribió el párrafo posterior a la llamada de Valenti (fuera «el cobro había ido a otro lado» y «Eso no era clemencia»); queda: «No sabía qué había pasado en Génova, y Valenti no se lo iba a decir…». La decisión de abajo «Elio es la palanca: Il Consorzio supo… Matteo se va» queda SUPERSEDIDA en lo que toca a la causa. Sesión: [[98_Agent_Handoff/sessions/2026-11-08_claude_matteo_y_costuras_parte_III]].
 Renumerado 2026-11-08 (nuevo cauce, Parte III): antes Cap. 40.
@@ -56,7 +57,7 @@ Adentro estaban los sobres del efectivo, ordenados por fecha, y la lámina del d
 
 No supo si eso la tranquilizaba. Una liga se quita y se vuelve a poner.
 
-Bajó la lámina, cerró la caja sin tocar el disco y juntó las puertas del mueble. Después se sentó en el borde de la silla —no en el centro, no del todo— y abrió la agenda de piel que Matteo llevaba encima de todo lo demás, como si el resto del escritorio fuera decoración y aquello lo único real. Encontró tres compromisos tachados con una raya limpia, sin explicación, y uno subrayado dos veces: *proveedor de mantelería, confirmar antes del jueves, NO delegar a F.*
+Bajó la lámina, cerró la caja sin tocar el disco y juntó las puertas del mueble. Después se sentó en el borde de la silla —no en el centro, no del todo— y abrió la agenda de piel que Matteo llevaba encima de todo lo demás, como si el resto del escritorio fuera decoración y aquello lo único real. Encontró tres compromisos tachados con una raya limpia, sin explicación, y uno subrayado dos veces: *proveedor de mantelería, confirmar el jueves, NO delegar a F.*
 
 Marcó el número de Kal sin pensarlo, con el mismo movimiento con el que hubiera tomado un vaso de agua. Hacía dos noches habría esperado a la noche, a la costumbre de contarse el día tendidos en la cama. Esta vez no.
 
@@ -88,13 +89,13 @@ Chiara miró la taza fría.
 
 Del otro lado, el compresor se detuvo. O Kal se movió lejos de él. No hubo pausa dramática, sólo el tipo de silencio que dejaba alguien acomodando una noticia en el lugar donde le tocaba ir.
 
-—Anoche. Encontré esto esta mañana. —Levantó la nota, aunque él no pudiera verla tampoco—. Es su hermano, Elio. Dejó de contestarle y faltó a dos compromisos que nunca falta. Matteo tuvo que ir a Génova a buscarlo. No dice cuándo vuelve.
+—Anoche. Encontré esto esta mañana. —Levantó la nota, aunque él no pudiera verla tampoco—. Es su hermano, Elio. Dejó de contestarle y faltó a dos compromisos a los que nunca falta. Matteo tuvo que ir a Génova a buscarlo. No dice cuándo vuelve.
 
 Kal no dijo nada durante un segundo largo. Chiara conocía ese silencio: era el mismo que usaba con los proveedores nerviosos, el que dejaba que el otro llenara con más de lo que había planeado decir. Con ella no funcionaba, y él lo sabía, y aun así a veces lo hacía por costumbre.
 
 Esta vez ella tampoco lo llenó.
 
-—Voy para allá —dijo por fin—. Nadir puede cerrar solo; para eso le pago.
+—Voy para allá —dijo—. Nadir puede con esto un rato.
 
 —No hace falta.
 
@@ -116,21 +117,21 @@ Y colgó.
 
 ***
 
-El despacho de Matteo olía todavía a él: a algún jabón de barbería caro y a papel nuevo, esa mezcla que Chiara asociaba con los hombres que llevaban una agenda impresa aunque tuvieran el teléfono en el bolsillo. La silla detrás del escritorio seguía donde la había dejado, empujada hacia atrás en el ángulo justo de alguien que se había levantado sin pensar en volver a acomodarla.
+El despacho de Matteo olía todavía a él: a algún jabón de barbería caro y a papel nuevo, esa mezcla que Chiara asociaba con los hombres que llevaban una agenda impresa aunque tuvieran el teléfono en el bolsillo. La silla detrás del escritorio seguía donde Matteo la había dejado, empujada hacia atrás en el ángulo justo de alguien que se había levantado sin pensar en volver a acomodarla.
 
-Chiara no se sentó ahí. Se quedó de pie frente al escritorio, con la agenda abierta y el teléfono del despacho descolgado dos veces ya para pasarle recados a Fabrizio, cuando tocaron con los nudillos en el marco de la puerta, ya abierta.
+Chiara no volvió a sentarse ahí. Se quedó de pie frente al escritorio, con la agenda abierta y el teléfono del despacho descolgado dos veces ya para pasarle recados a Fabrizio, cuando tocaron con los nudillos en el marco de la puerta, ya abierta.
 
 Kal no llevaba el overol del taller —se había cambiado de camisa, al menos, aunque todavía olía un poco a metal caliente— y se quedó en el umbral un segundo antes de entrar, mirando la silla vacía como quien nota un mueble movido de sitio sin poder decir qué mueble era antes.
 
 —Qué abrupto —dijo, ya adentro, sin preámbulo.
 
-—Su hermano desapareció, Kal. A eso yo no le diría abrupto.
+—Su hermano desapareció.
 
 —No digo que no tenga una razón.
 
 Se acercó al escritorio y levantó la nota sin pedir permiso, la leyó en el tiempo que le tomaba a Chiara respirar dos veces, y la dejó exactamente donde estaba, en el mismo ángulo.
 
-—¿Él normalmente es así? —Señaló el papel con un dedo, sin tocarlo otra vez—. Irse dejando una carta. A mí me dio una impresión diferente cuando lo conocí.
+—¿Él normalmente es así? —Señaló el papel con un dedo, sin tocarlo otra vez—. Irse dejando una carta.
 
 Chiara cerró la agenda.
 
@@ -142,11 +143,11 @@ Chiara cerró la agenda.
 
 Eso lo detuvo un momento.
 
-—Es curioso —dijo, más despacio—. Lo conocí un rato nada más, la noche que me llevó a conocer a los demás. Pero me acuerdo de que ya tenía la mesa puesta antes de sentarse en ella. No sé. No lo hubiera imaginado dejando algo así, sin más.
+—Es curioso —dijo, más despacio—. Lo conocí un rato nada más, la noche que me llevó a conocer a los demás. Pero me acuerdo de que ya tenía la mesa puesta antes de sentarse en ella.
 
 Se quedó mirando la agenda cerrada bajo la mano de Chiara, no la nota. Al mueble de nogal no lo miró. No lo había mirado ni una vez desde que entró.
 
-—Yo también me habría ido —dijo por fin—. Si fuera mi hermano. Si a Nadir lo llaman a las tres de la mañana de donde sea, yo no dejo carta: me entero de dónde está y salgo, y que alguien se acuerde de cerrar el taller ya es pedir mucho. —Miró por fin la nota, sin tocarla—. Él por lo menos te dejó dicho por escrito qué hacer.
+—Yo también me habría ido —dijo—. Si fuera mi hermano. Si a Nadir lo llaman a las tres de la mañana de donde sea, yo no dejo carta: me entero de dónde está y salgo, y que alguien se acuerde de cerrar el taller ya es pedir mucho. —Miró por fin la nota, sin tocarla—. Él por lo menos te dejó dicho por escrito qué hacer.
 
 Chiara asintió. No le dio otra versión.
 
@@ -158,9 +159,9 @@ El teléfono del despacho sonó antes de que pudiera volver a sentarse en el bor
 
 Kal la observaba desde el otro lado del escritorio, con las manos metidas en los bolsillos, sin acercarse a ninguna de las carpetas que ella había apilado.
 
-—¿Qué necesitas? —preguntó—. Tengo la grúa libre hasta las cuatro, y a Nadir, aunque él diga que no.
+—¿Qué necesitas? —preguntó—. Tengo la grúa libre hasta las cuatro.
 
-—Nada todavía. Pregúntame mañana, que hoy no sé ni qué me falta.
+—Nada todavía. Pregúntame mañana.
 
 Miró las carpetas. Después la miró a ella.
 
@@ -174,7 +175,7 @@ El teléfono volvió a sonar. Esta vez era Tommaso, con una duda sobre el calend
 
 Antes de que pudiera colgar del todo, alguien de recepción llamó desde el otro lado del piso: la sala que Matteo tenía reservada para los Ferretti necesitaba confirmación de vino y flores antes del mediodía, y nadie sabía a quién preguntarle ahora. Chiara resolvió eso también, de memoria, citando el pedido exacto que Matteo había anotado dos páginas atrás en la misma agenda: Domaine algo, dos cajas, lirios blancos, nada de rosas porque la novia les tenía alergia.
 
-—Dario ya sabe —dijo, cuando por fin colgó, sin que Kal preguntara—. Le mandaron copia de todo esta mañana. No ha dicho nada.
+—Dario ya sabe —dijo, cuando colgó, sin que Kal preguntara—. Le mandaron copia de todo esta mañana. No ha dicho nada.
 
 —¿Eso es normal? En la Almendra, si a Nadir le falta un muchacho un día, a mediodía ya lo sabe toda la calle.
 

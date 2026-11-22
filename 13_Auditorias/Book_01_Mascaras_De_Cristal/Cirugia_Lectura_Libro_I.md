@@ -66,6 +66,8 @@ Plan de trabajo, en marcha desde el 2026-11-21 (DECISIÓN DEL AUTOR sobre el mé
 - ~~Cap. 22: la hoja arrancada frente a la doblada~~ resuelto («La hoja que Kal no dobló»).
 - ~~Cap. 25: «Una semana antes»~~ resuelto («No hacía ni dos semanas»).
 - ~~Cap. 26: «neurólogo»~~ resuelto («La neurocirujana»).
+- Cap. 33: revisar otra vez la apertura (costura 32→33: la amenaza de los aretes se cobra con «No te muevas de ahí») cuando la sesión de la Parte II cierre el 32. Arrastres de la II hacia la III: se atienden al final de la III (DECISIÓN DEL AUTOR, 2026-11-21).
+- Peugeot → Audi «la noche de la incursión»: la línea está en el cap. 39 (archivo `43_La_Puerta`, «subió al Peugeot»), no en el 35; se atiende al llegar al 39.
 
 | Cap. | Título | Archivo | Transversal | Estado | Commit |
 |---|---|---|---|---|---|
@@ -101,7 +103,7 @@ Plan de trabajo, en marcha desde el 2026-11-21 (DECISIÓN DEL AUTOR sobre el mé
 | 30 | Línea directa | `32_Linea_Directa` |  | pendiente | |
 | 31 | Lo único que es mío | `33_Mas_De_La_Cuenta` |  | pendiente | |
 | 32 | A ti por mí | `34_Mi_Pareja` |  | pendiente | |
-| 33 | Cambio de firmas | `35_Sin_Fecha_De_Regreso` |  | pendiente | |
+| 33 | Cambio de firmas | `35_Sin_Fecha_De_Regreso` | costura 32→33 (revisar al cerrar el 32) | hecho, BORRADOR (en paralelo con la Parte II) | ver git log |
 | 34 | También las mañanas | `36_Tambien_Las_Mananas` | usted Chiara–Héctor (canon) | pendiente | |
 | 35 | Al revés | `38_Al_Reves` | Peugeot → Audi la noche de la incursión | pendiente | |
 | 36 | Mecánico | `40_Mecanico` | Volpi fuera (D8) | pendiente | |
