@@ -1,4 +1,5 @@
 <!--
+**Cirugía de la lectura (2026-11-21, Claude Code; [[98_Agent_Handoff/sessions/2026-11-21_claude_cirugia_lectura_cap45]]):** luz de invierno (pasadas las cinco ya oscurece; la fila del penthouse a oscuras); «¿Qué cenaste? El café no se mastica.» sin la muletilla; segundo lector: la bandeja, «dijo Valenti desde el pasillo», «la atendí», fuera dos etiquetas «Lo dijo sin…». Reportados: la apertura del billete y «El viernes estuve en el Puerto Viejo». Sigue BORRADOR.
 AJUSTA AL CAUCE (2026-11-08, terminal C de la Fase 4, [[98_Agent_Handoff/encargos/ENCARGO_Fase4_Parte_III_Cierre]]; sigue BORRADOR, prosa DISEÑO pendiente de lectura). Versión anterior íntegra: [[11_Books/Book_01_Mascaras_De_Cristal/Escenas_Eliminadas/49_Enfrente_Version_2026-11-08]]. Sesión: [[98_Agent_Handoff/sessions/2026-11-08_claude_fase4_cap45_por_si_vuelve]].
 Decisiones del autor (2026-11-08): D4 = se quita del pensamiento de Chiara la carpeta de Génova y la mensajería (atadas a Elio desde el nuevo 37); «¿Es de Matteo?» se queda. Atadura de Il Consorzio = Valenti: «Y confía en que la casa Ardizzone tampoco las haga por su cuenta.» (Chiara ya pactó con Rafe en el nuevo 44: desobedece a la mesa). Poda ligera (lobby de regreso, lista del martes, anécdota del diente). Vento no entra en el 45.
 DISEÑO de esta pasada: Varek sustituye a «Dario» en el pensamiento de Chiara («la bodega nueve… la mano de Varek… *Una cuenta abierta.*», como queda literal en el nuevo 43). «Ni de los cuatro días» → «ni de las dos semanas» (calendario A). Matteo «había prometido llamar y no había llamado» (nuevo 37).
@@ -114,7 +115,7 @@ Chiara tomó su taza. El café estaba bueno. Lo tomó como se toma algo en una c
 
 —¿Sí? Entonces sabe de qué hablo.
 
-Valenti tomó una galleta del plato, la miró y la volvió a dejar. Habló un rato de Génova, del puerto donde su padre había trabajado de contador para una naviera, de lo mal que se comía en los hoteles de Oregon y lo bien que se comía en las cocinas de los mismos hoteles, si uno conocía a alguien. Chiara le siguió el paso. Hizo una pregunta sobre la naviera; él la contestó con gusto. Afuera la luz empezaba a ponerse naranja sobre la torre del Monarch y a hacer brillar la fila de ventanas del último piso.
+Valenti tomó una galleta del plato, la miró y la volvió a dejar. Habló un rato de Génova, del puerto donde su padre había trabajado de contador para una naviera, de lo mal que se comía en los hoteles de Oregon y lo bien que se comía en las cocinas de los mismos hoteles, si uno conocía a alguien. Chiara le siguió el paso. Hizo una pregunta sobre la naviera; él la contestó con gusto. Afuera ya oscurecía sobre la torre del Monarch.
 
 Después Valenti dejó la taza en el plato con un sonido pequeño y exacto.
 
@@ -134,7 +135,7 @@ Chiara lo miró. Valenti tenía las manos cruzadas sobre la rodilla y la cara de
 
 Valenti asintió despacio, como si le hubieran confirmado la hora. Metió la mano en el bolsillo interior del saco y sacó la libreta de cuero, la misma de la colina y de Palermo, más gastada en las esquinas. La abrió hacia el final, en una página que encontró sin buscar. La miró unos segundos. No leyó nada en voz alta. La cerró y la dejó sobre su rodilla, debajo de las manos.
 
-—No recuerdo que usted haya pedido nunca nada —dijo—. Usted administraba. Es distinto. —Lo dijo sin ironía, como un elogio—. Por eso la escuché con atención en cuanto me dijeron que había llamado. Il Consorzio ya lo ha considerado. —Las manos no se movieron de la libreta—. Antes de que usted llamara.
+—No recuerdo que usted haya pedido nunca nada —dijo—. Usted administraba. Es distinto. Por eso la atendí en cuanto me dijeron que había llamado. Il Consorzio ya lo ha considerado. —Las manos no se movieron de la libreta—. Antes de que usted llamara.
 
 Chiara dejó la taza en la mesa. Lo hizo despacio, para que no sonara.
 
@@ -144,7 +145,7 @@ Chiara dejó la taza en la mesa. Lo hizo despacio, para que no sonara.
 
 —Sí.
 
-Lo dijo sin sorpresa. Chiara no preguntó cómo lo sabía.
+Chiara no preguntó cómo lo sabía.
 
 —La mesa no considera oportuno pagar ese costo —dijo Valenti—. No en este momento. Il Consorzio tiene en San Aurelio intereses que necesitan que nadie lo mire durante un tiempo, y sacar a un hombre de una base federal es la manera más segura de que lo miren. —Hizo una pausa breve—. Y por quién, signora. Ésa es la pregunta que hizo la mesa. Por quién.
 
@@ -168,7 +169,7 @@ Chiara no contestó. Valenti la dejó no contestar. Se sirvió más café, le of
 
 ***
 
-Valenti se puso de pie y fue a la ventana. Se quedó ahí con las manos detrás de la espalda, mirando el Monarch, y Chiara, desde el sillón, lo vio de perfil contra la luz naranja.
+Valenti se puso de pie y fue a la ventana. Se quedó ahí con las manos detrás de la espalda, mirando el Monarch, y Chiara, desde el sillón, lo vio de perfil contra el último azul de la tarde.
 
 —Es un buen edificio —dijo—. A pesar de la torre. Tiene buenos huesos.
 
@@ -180,7 +181,7 @@ Chiara pensó en la bodega nueve. En la mano de Varek, que sostuvo la suya un se
 
 —Los papeles tardarían unos meses —dijo Valenti—. La licencia, menos. Se haría sin anuncio, como se hacen bien estas cosas. Un día alguien preguntará desde cuándo es así, y ya nadie se va a acordar. —Volvió al sillón, pero no se sentó; apoyó la mano en el respaldo—. La casa Ardizzone tendría por fin un techo propio en esta costa. Dueña del Monarch, signora Ardizzone. Legítima, a los ojos de cualquiera que quiera mirar.
 
-Chiara miró la ventana. El sol le daba de lleno a la fila de ventanas del último piso de la Torre Norte, y desde ahí no se distinguía ninguna: era una sola franja de luz.
+Chiara miró la ventana. La fila de ventanas del último piso de la Torre Norte estaba a oscuras, y desde ahí no se distinguía ninguna: era una sola franja negra contra el cielo.
 
 —Si acepto —dijo—, ¿lo sacan?
 
@@ -202,7 +203,7 @@ Valenti tampoco esperó que lo dijera. La acompañó hasta la puerta de la suite
 
 La reja del elevador se abrió. El botones la sostuvo.
 
-—Buenas tardes, signora Ardizzone.
+—Buenas tardes, signora Ardizzone —dijo Valenti desde el pasillo.
 
 ***
 
@@ -236,7 +237,7 @@ Sacó de la bolsa un tóper de vidrio con tapa azul y lo puso encima del reporte
 
 —Ya cené.
 
-—¿Qué cenaste? Y no me digas café, que el café no se mastica.
+—¿Qué cenaste? El café no se mastica.
 
 Chiara no contestó. Fabrizio miró el escritorio: la carpeta de la nómina, el billete doblado, el lápiz junto al teléfono.
 
@@ -350,6 +351,6 @@ La camarera desapareció del marco de la ventana. Las cortinas se quedaron abier
 
 Chiara colgó.
 
-La hoja de turnos de seguridad seguía en la bandeja de entrada, debajo del contrato de la lavandería. Estaba sin firmar desde el sábado. La sacó, la leyó completa, de arriba abajo, nombre por nombre y hora por hora, y la firmó.
+La hoja de turnos de seguridad seguía en la bandeja de entrada, debajo de la nómina. Estaba sin firmar desde el sábado. La sacó, la leyó completa, de arriba abajo, nombre por nombre y hora por hora, y la firmó.
 
 Luego guardó el billete de Mabel en el bolsillo interior del saco, apagó la lámpara del escritorio y bajó al estacionamiento por el Lancia.
