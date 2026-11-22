@@ -1,4 +1,6 @@
 <!--
+**Auditoría de hipótesis de la lectura externa (2026-11-22, orden del autor; [[13_Auditorias/Book_01_Mascaras_De_Cristal/Verificacion_Hipotesis_Lectura_Externa_Libro_I]]):** resto del lino corregido: la bala vuelve «sobre la seda». Sigue BORRADOR.
+**Lectura externa, lote 5 (2026-11-22, DECISIÓN DEL AUTOR):** el pañuelo es de seda blanca, no de lino (como en *Grazie*, archivo 21b), y Chiara dice «una bala limpia en un pañuelo con mi inicial»: la inicial está en la seda, la bala va limpia (seda y pólvora, sin nombrarlo). Sigue BORRADOR.
 **Cirugía de la lectura (2026-11-21, Claude Code; [[98_Agent_Handoff/sessions/2026-11-21_claude_cirugia_lectura_cap35]]):** fuera la muletilla «Y no me digas que…» (Danny; con Rudy pasa a «¿Le viste la cara?»), «esta mañana, con el café enfriándose» («Releí la carta veinte veces»), la glosa del latón en la narración; Chiara en un solo párrafo de julio a Cuesta Bonita y «Necesitas pasaporte —dijo ella»; segundo lector: el Alfa Romeo, «lo intenté», la caja vendida «a mediados del verano», la proa, «allá atrás» y la escalerilla. Literales intactos. Regla 06: 25 % (24 % antes). Sigue BORRADOR.
 Nuevo cauce (Fase 4, 2026-11-08, orden del autor con el método de [[98_Agent_Handoff/encargos/ENCARGO_Fase4_Paralelo_Reusa]]; verbo «Reescribe y poda», fuera del reparto Reusa): **nuevo Cap. 35** (T22, POV Kal, en [[11_Books/Book_01_Mascaras_De_Cristal/00_Mapa_Cauce_Cap11_Camp_Alder]]). Cambia de dueño: antes era 69 % Chiara. El archivo conserva su nombre. Título confirmado por el autor (2026-09-27): «Al revés».
 Estado: BORRADOR. Prosa DISEÑO pendiente de lectura del autor. Versión anterior íntegra, con todo su historial (E6, conciliación con el 24c, víspera, regla 05, Frente 1, costura H13): [[11_Books/Book_01_Mascaras_De_Cristal/Escenas_Eliminadas/38_Al_Reves_Version_2026-11-08]]. Sesión: [[98_Agent_Handoff/sessions/2026-11-08_claude_fase4_cap35_al_reves]]. Ajuste de la terminal B (poda a ~4,900, Mabel, fecha, pañuelo comprimido, sin Dario): [[98_Agent_Handoff/sessions/2026-11-08_claude_fase4_cap35_ajuste_terminal_b]].
@@ -400,7 +402,7 @@ Chiara retiró la mano primero. Despacio, como quien sale de un cuarto tibio a u
 
 Kal vio cómo se le enderezaba la espalda antes de que terminara la frase, y la suya se enderezó igual. No dijo *qué*. Esperó.
 
-Ella fue por segunda vez al bolso. Esta vez sacó, de la bolsa interior, un pañuelo de lino blanco doblado en cuatro, y lo puso sobre la tapa del piano con la inicial hacia arriba. Una *C* en hilo azul oscuro, pequeña, en una esquina.
+Ella fue por segunda vez al bolso. Esta vez sacó, de la bolsa interior, un pañuelo de seda blanca doblado en cuatro, y lo puso sobre la tapa del piano con la inicial hacia arriba. Una *C* en hilo azul oscuro, pequeña, en una esquina.
 
 —En julio. Al salir de Santa Lucía. —Siguió antes de que él preguntara—. Antes del corral. Me llevaron a Cuesta Bonita. Valenti, en persona. —No bajó la vista—. Me preguntó si estaba aquí para servir a la mesa de sus socios o para armarme una propia, y después cambió al español para decirme una frase que no era suya: «Pon tu casa en orden, señora Ardizzone, o hablaremos de este Mercer tuyo.»
 
@@ -424,7 +426,7 @@ Soltó el aire por la nariz, algo que otra noche habría sido una risa. Tomó el
 
 La bala rodó hasta el centro de su mano y se quedó ahí.
 
-La miró sin prisa. La tomó entre el índice y el pulgar, la giró, y la volvió a dejar sobre el lino. Latón entero, sin disparar.
+La miró sin prisa. La tomó entre el índice y el pulgar, la giró, y la volvió a dejar sobre la seda. Latón entero, sin disparar.
 
 —Es corriente. Latón de caja, de los que vende cualquier tienda.
 
@@ -440,7 +442,7 @@ La otra estaba en un cajón de la Almendra, deformada contra un tablón, con un 
 
 —Esto no lleva a nadie. Pero el que lo mandó, sí.
 
-—Fueron ellos —dijo ella—. Lo del corral. Te lo dije en el parador. En julio la Mesa me deja una bala con mi inicial, y unas semanas después me golpean por la espalda, dejan el reloj y se llevan el teléfono. Es demasiada coincidencia para una ciudad tan chica, y demasiado poco para llamarlo prueba.
+—Fueron ellos —dijo ella—. Lo del corral. Te lo dije en el parador. En julio la Mesa me deja una bala limpia en un pañuelo con mi inicial, y unas semanas después me golpean por la espalda, dejan el reloj y se llevan el teléfono. Es demasiada coincidencia para una ciudad tan chica, y demasiado poco para llamarlo prueba.
 
 Kal no la contradijo. Lo que el chofer había oído en la puerta del cuarto doce no era prueba tampoco. Era un apellido de fuera, de los que llegan después. Era lo mismo que ella decía, con otra voz.
 

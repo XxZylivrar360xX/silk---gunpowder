@@ -1,4 +1,5 @@
 <!--
+**Auditoría de hipótesis de la lectura externa (2026-11-22, orden del autor; [[13_Auditorias/Book_01_Mascaras_De_Cristal/Verificacion_Hipotesis_Lectura_Externa_Libro_I]]):** «había llamado el viernes» → «el sábado»: la única llamada de Lucía con número es la del 1 de enero (Cap. 43, archivo 47), que cae en sábado. Sigue BORRADOR.
 **Cirugía de la lectura (2026-11-21, Claude Code; [[98_Agent_Handoff/sessions/2026-11-21_claude_cirugia_lectura_cap46]]):** «Lucía Varek, el número desde el que había llamado el viernes» (no tenía el directo; con el 40 y el 43); «Gente a la que nunca había oído hablar». Canon y monólogo intactos; la grúa del sur, reportada. Sigue BORRADOR.
 AJUSTA AL CAUCE (2026-11-08, terminal C de la Fase 4, [[98_Agent_Handoff/encargos/ENCARGO_Fase4_Parte_III_Cierre]]; sigue BORRADOR, prosa DISEÑO pendiente de lectura). Versión anterior íntegra: [[11_Books/Book_01_Mascaras_De_Cristal/Escenas_Eliminadas/50_A_Oscuras_Version_2026-11-08]]. Sesión: [[98_Agent_Handoff/sessions/2026-11-08_claude_fase4_cap46_a_oscuras]].
 Decisión del autor (2026-11-08): sale el sedán rojo de defensas cromadas (Crowe, archivo 09) que escoltaba a la grúa; la grúa baja al sur «como cualquier remolque», sin escolta y sin atarse a Crowe (después del 39 Kal le quitó el lote; guarda 3). Sin poda: la prosa tiene ~3,960 palabras sin metadata. Vento no entra.
@@ -105,7 +106,7 @@ Puso la direccional por costumbre. La dejó parpadear. En el semáforo de la esq
 
 En el semáforo siguiente tomó el teléfono del asiento del copiloto.
 
-Bajó por los nombres con el pulgar. Héctor, que no sabía nada del sur y no podía saberlo. Kenji. Lucía Varek, el número desde el que había llamado el viernes. Bonnie. Meiko, que había echado a caminar hacia el sur con las manos en los bolsillos. Mabel, a quien acababa de dejar con la caja abierta. No había en la lista un nombre al que no le hubiera pedido algo esa semana. Los que no estaban en la lista —un número de Manhattan con una hora a lápiz debajo, una bodega con techo de madera en el Puerto Viejo— también ya le habían contestado.
+Bajó por los nombres con el pulgar. Héctor, que no sabía nada del sur y no podía saberlo. Kenji. Lucía Varek, el número desde el que había llamado el sábado. Bonnie. Meiko, que había echado a caminar hacia el sur con las manos en los bolsillos. Mabel, a quien acababa de dejar con la caja abierta. No había en la lista un nombre al que no le hubiera pedido algo esa semana. Los que no estaban en la lista —un número de Manhattan con una hora a lápiz debajo, una bodega con techo de madera en el Puerto Viejo— también ya le habían contestado.
 
 Y Garrett, con un mensaje de las cinco que no había abierto: *Si no vuelve, ¿qué hago con esto?*
 
