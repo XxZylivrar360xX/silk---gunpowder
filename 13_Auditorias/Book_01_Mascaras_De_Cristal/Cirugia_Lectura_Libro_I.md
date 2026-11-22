@@ -70,7 +70,7 @@ Plan de trabajo, en marcha desde el 2026-11-21 (DECISIÓN DEL AUTOR sobre el mé
 - ~~Cap. 28: las fotos en la barra del loft~~ resuelto («Las recogí de la barra antes de salir»).
 - «Me explico» de Chiara: sale el del 28; quedan el 27, el 31 y el 32. Dejar uno o dos al operar el 31 y el 32.
 - Cap. 33: revisar otra vez la apertura (costura 32→33: la amenaza de los aretes se cobra con «No te muevas de ahí») cuando la sesión de la Parte II cierre el 32. Arrastres de la II hacia la III: se atienden al final de la III (DECISIÓN DEL AUTOR, 2026-11-21).
-- Peugeot → Audi «la noche de la incursión»: la línea está en el cap. 39 (archivo `43_La_Puerta`, «subió al Peugeot»), no en el 35; se atiende al llegar al 39.
+- ~~Peugeot → Audi «la noche de la incursión»~~ resuelto en el cap. 39 (archivo `43_La_Puerta`; la línea no estaba en el 35).
 
 | Cap. | Título | Archivo | Transversal | Estado | Commit |
 |---|---|---|---|---|---|
@@ -112,7 +112,7 @@ Plan de trabajo, en marcha desde el 2026-11-21 (DECISIÓN DEL AUTOR sobre el mé
 | 36 | Mecánico | `40_Mecanico` | Volpi fuera (D8) | hecho, BORRADOR (en paralelo con la Parte II) | ver git log |
 | 37 | Reclamable | `41_La_Otra_Mitad` | despacho al día (con el 34) | hecho, BORRADOR (en paralelo con la Parte II) | ver git log |
 | 38 | Nada | `42_Nada` | camioneta al depósito municipal (decisión del autor) | hecho, BORRADOR (en paralelo con la Parte II) | ver git log |
-| 39 | Expediente sellado | `43_La_Puerta` |  | pendiente | |
+| 39 | Expediente sellado | `43_La_Puerta` | Peugeot → Audi la noche de la incursión | hecho, BORRADOR (en paralelo con la Parte II) | ver git log |
 | 40 | No puedo sacarlo | `44_Jurisdiccion` | usted Chiara–Héctor | pendiente | |
 | 41 | Ropa limpia | `45_Ropa_Limpia` | luz; tú Chiara→Meiko | pendiente | |
 | 42 | Navajas y tinta | `46_Llaves` | luz; Nadir de tú (ficha) | pendiente | |

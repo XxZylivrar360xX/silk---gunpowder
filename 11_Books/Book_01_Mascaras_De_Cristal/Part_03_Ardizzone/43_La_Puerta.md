@@ -1,6 +1,7 @@
 <!--
+**Cirugía de la lectura (2026-11-21, Claude Code; [[98_Agent_Handoff/sessions/2026-11-21_claude_cirugia_lectura_cap39]]):** transversal del Peugeot (DECISIÓN DEL AUTOR): la noche de la incursión Kal va al Monarch y vuelve en el Audi (dos menciones); «más cerca de los faros que del helicóptero»; el título vigente es «Expediente sellado» (retitulado del 2026-11-10). Literales intactos. Sigue BORRADOR.
 Lectura del autor de la Parte III (2026-11-08, [[98_Agent_Handoff/sessions/2026-11-08_claude_lectura_parte_iii]]; prosa DISEÑO, espera lectura): fallo de la segunda vuelta concretado sin volverlo operativo: el ruido de Dario alcanza para una carga y se apaga; la caja de Danny golpea un poste; un guardia con linterna y radio; se enciende la luz del galpón; las patrullas municipales son las que trajo la distracción. Respeta la REGLA ESTRUCTURAL (sin planos, rutas, procedimientos, bajas ni gente de Varek dentro).
-Nuevo cauce (Fase 4, 2026-11-07, encargo del autor sobre [[98_Agent_Handoff/encargos/ENCARGO_Fase4_Paralelo_Reusa]]; verbo «Reescribe», fuera del reparto Reusa): **nuevo Cap. 39** (T25, H19, en [[11_Books/Book_01_Mascaras_De_Cristal/00_Mapa_Cauce_Cap11_Camp_Alder]]). Antes Cap. 48 (numeración de 56; antes 52 y 43). El archivo conserva su nombre. Título CONFIRMADO Y DEFINITIVO por el autor (2026-09-22): «La puerta».
+Nuevo cauce (Fase 4, 2026-11-07, encargo del autor sobre [[98_Agent_Handoff/encargos/ENCARGO_Fase4_Paralelo_Reusa]]; verbo «Reescribe», fuera del reparto Reusa): **nuevo Cap. 39** (T25, H19, en [[11_Books/Book_01_Mascaras_De_Cristal/00_Mapa_Cauce_Cap11_Camp_Alder]]). Antes Cap. 48 (numeración de 56; antes 52 y 43). El archivo conserva su nombre. Título CONFIRMADO Y DEFINITIVO por el autor (2026-09-22): «La puerta»; SUPERSEDIDO por el retitulado del 2026-11-10 (idea del autor): «Expediente sellado».
 Estado: BORRADOR. Prosa DISEÑO pendiente de lectura del autor. Versión anterior íntegra: [[11_Books/Book_01_Mascaras_De_Cristal/Escenas_Eliminadas/43_La_Puerta_Version_2026-11-07]] (allí queda el historial: corrección del 2026-09-22, E8 del 2026-09-27, arresto del 2026-10-02 [CANON en sustancia], Frente 4 del 2026-10-05, puesta en escena y Frente 1 del 2026-10-06, regla 05 del 2026-10-28). Sesión: [[98_Agent_Handoff/sessions/2026-11-07_claude_fase4_cap39_la_puerta]].
 Canon que ejecuta (CANON DEL AUTOR, 2026-11-07): Crowe es el comprador de las armas largas; Halbrook manda vendérselas y Kal desvía ese mismo lote a Varek; las armas salen en el helicóptero con Héctor, Nadir y Danny (Garrett pilota); Halbrook fuera de la prosa, sólo por intermediarios; Kal no cruza la puerta del penthouse y lo detienen sin Chiara; la liberación se revela hasta *Voto de Ceniza*.
 Decisiones del autor para esta reescritura (2026-11-07): (1A) el mensaje del intermediario nombra a Crowe: Kal entiende que Crowe y Halbrook son la misma gente; (2) la orden llega en este capítulo, la mañana de la incursión; (3) Danny Hayes sigue en el equipo.
@@ -36,7 +37,7 @@ El hombre del mostrador. El que había ido a la cancha de la casa común de noch
 
 Kal no se preguntó desde cuándo. Se preguntó cuánto les había contado.
 
-Se sirvió el café. Se lo tomó de pie, junto a la barra, mirando el teléfono bocabajo como si pudiera vibrar otra vez y decir algo distinto. No vibró. Cuando terminó la taza, le dio vuelta, borró el mensaje y se quedó un segundo con el pulgar sobre la pantalla vacía.
+Se sirvió el café. Se lo tomó de pie, junto a la barra, mirando el teléfono bocabajo como si pudiera vibrar otra vez y decir algo distinto. No vibró. Cuando terminó la taza, volteó el teléfono, borró el mensaje y se quedó un segundo con el pulgar sobre la pantalla vacía.
 
 Las armas ya tenían dueño. Se las había prometido a Varek en su patio, a cambio de algo que Varek ya había empezado a pagar. Lo del número sin nombre era otra cosa: que el que tasaba a Chiara por la ventana fuera a cobrar también esto.
 
@@ -104,7 +105,7 @@ Nadir lo pensó. Kal casi podía verlo hacer la cuenta: lo que valía una carpet
 
 —Conmigo. Ya saben dónde queda el taller.
 
-Desde el capó, Héctor los había visto hablar sin oír nada. Siguió mirando la calle.
+Héctor seguía en el capó, mirando la calle.
 
 El teléfono le vibró a Kal pasadas las seis. Un número que ya tenía guardado, aunque nunca con un nombre completo.
 
@@ -120,13 +121,13 @@ Kal no contestó.
 
 Dario colgó sin más. Kal se guardó el teléfono y se quedó de pie en medio del Patio, viendo a Nadir cargar algo en la camioneta, a Danny revisando una lista, a Héctor en el mismo capó, a Garrett hablando en voz baja con nadie en particular junto a su bolsa cerrada.
 
-Completas. Para Varek, que las había comprado primero. Y a Crowe, al final de una carretera, una noche de esperar a un helicóptero que se iba a ir a otra parte.
+Completas. Para Varek, que las había comprado primero. Y a la gente de Crowe, al final de una carretera, una noche de esperar a un helicóptero que se iba a ir a otra parte.
 
 Faltaban horas para salir. Suficientes para una cosa más.
 
 ***
 
-No lo pensó como una decisión. Fue más parecido a lo que le pasaba con el volante cuando manejaba sin pensar en la ruta: un reflejo que ya sabía adónde iba antes de que él terminara de saberlo. Le dijo a Nadir que volvía en un rato, subió al Peugeot y condujo hacia el centro sin decir a dónde.
+No lo pensó como una decisión. Fue más parecido a lo que le pasaba con el volante cuando manejaba sin pensar en la ruta: un reflejo que ya sabía adónde iba antes de que él terminara de saberlo. Le dijo a Nadir que volvía en un rato, subió al Audi y condujo hacia el centro sin decir a dónde.
 
 Héctor lo miró salir del portón con la misma cara con la que había mirado la calle toda la tarde, y no se movió de su lugar.
 
@@ -148,7 +149,7 @@ Se quedó unos segundos más frente a la puerta. Movió los labios una vez, sin 
 
 No dejó ningún recado en recepción. No le escribió. No llamó.
 
-Bajó, cruzó el vestíbulo, subió al Peugeot y condujo de vuelta a la Almendra sin encender la radio. Para cuando llegó al Patio, ya estaba otra vez en lo que seguía: contó las cajas con Danny y le dio a Nadir la última versión de lo que nadie iba a escribir.
+Bajó, cruzó el vestíbulo, subió al Audi y condujo de vuelta a la Almendra sin encender la radio. Para cuando llegó al Patio, ya estaba otra vez en lo que seguía: revisó el equipo con Danny y le dio a Nadir la última versión de lo que nadie iba a escribir.
 
 Nadie le preguntó dónde había estado. Héctor lo miró bajar del coche un segundo más de lo normal, y no dijo nada.
 
@@ -198,7 +199,7 @@ Era un hombre solo, de los que volvían del ruido, caminando sin prisa con la ra
 
 Con una sola carga, a esa hora, ya habrían estado en el aire. Kal no necesitó contarlo.
 
-La voz de la radio dijo algo que se oyó hasta ahí. Por el lado del ruido empezaron a regresar faros, y Héctor y Nadir, que iban adelante, quedaron más cerca de ellos que del helicóptero.
+La voz de la radio dijo algo que se oyó hasta ahí. Por el lado del ruido empezaron a regresar faros, y Héctor y Nadir, que iban adelante, quedaron más cerca de los faros que del helicóptero.
 
 —Vayan —dijo Kal.
 
@@ -206,7 +207,7 @@ La voz de la radio dijo algo que se oyó hasta ahí. Por el lado del ruido empez
 
 —Vayan.
 
-No hubo tiempo para discutirlo dos veces. Kal empujó a Danny hacia el punto donde Garrett ya tenía las aspas girando, y Danny corrió sin mirar atrás, con la caja apretada contra el pecho, y llegó, y subió. Héctor y Nadir corrieron detrás de él.
+No hubo tiempo para discutirlo dos veces. Kal empujó a Danny hacia el punto donde Garrett ya tenía las aspas girando, y Danny corrió sin mirar atrás, con la caja apretada contra el pecho, y llegó, y subió. Héctor y Nadir corrieron también.
 
 Por el camino de tierra que bajaba hacia el claro venían luces. Dos patrullas municipales, de las que el ruido de Dario había traído hasta el perímetro, con los faros altos y la sirena apagada, demasiado rápido para un camino así. Iban a llegar antes de que el helicóptero se despegara del suelo.
 
@@ -238,7 +239,7 @@ Lo levantaron entre dos. Por el camino llegaba una tercera unidad, con las luces
 
 Kal se lo dio. El verdadero. No tenía sentido dar otro.
 
-Contestó lo indispensable, dejó que lo esposaran, y se quedó callado el resto del trayecto hasta la comisaría más cercana, mirando por la ventanilla la carretera que se alejaba de Camp Alder en la dirección contraria a la que él hubiera querido ir.
+Contestó lo indispensable, dejó que lo esposaran, y se quedó callado el resto del trayecto hasta la comisaría más cercana, mirando por la ventanilla la carretera que se alejaba de Camp Alder en dirección contraria a la que había tomado el helicóptero.
 
 En algún tramo de esa carretera, o de otra, alguien iba a mirar el reloj una vez más antes de llamar a Crowe. Kal no supo cuál. Tampoco le importó.
 
