@@ -73,6 +73,12 @@ Adjuntar [[99_Reference/book_covers/Sombras_De_Poder_Vela_base.webp]]:
 
 > Extend this image to the left into a horizontal 3:2 landscape for a book wraparound cover. The original image must stay exactly as it is, at full height, on the right edge. Continue the scene leftward: past the dark wooden window frame, the same wooden windowsill keeps running along the bottom of the image, catching the last faint red and amber glow of the candle and fading into shadow. Above it, the interior wall of a quiet, dark room: old dark wood paneling or plain dark plaster, almost black, with the candle's warm light dying out within a short distance. No second window, no second candle. The left half must be dark and calm, with large areas of soft shadow and almost no detail, to hold text. Same lighting, same color palette, same night storm mood. No people, no hands, no furniture in focus, no text, no logos, no religious objects, no weapons.
 
+### Tapa completa v1 (2026-11-22, provisional)
+
+- **Extensión:** [[99_Reference/book_covers/Sombras_De_Poder_Vela_extension.webp]] (1536 × 1024), primera generación de ChatGPT con el prompt de arriba; la costura con la base no se nota.
+- **Tapa:** [[99_Reference/book_covers/Sombras_De_Poder_Tapa_6x9_v1.png]] (4200 × 2775 px), con `python -B tools/portada/componer_tapa.py --libro sombras --paginas 700 --extension 99_Reference/book_covers/Sombras_De_Poder_Vela_extension.webp --base 99_Reference/book_covers/Sombras_De_Poder_Vela_base.webp --sinopsis 11_Books/Book_02_Sombras_De_Poder/00_Sinopsis_Contraportada.md --salida 99_Reference/book_covers/Sombras_De_Poder_Tapa_6x9_v1.png`.
+- **Provisional:** el lomo usa 700 páginas de relleno (1.75 in en crema), porque el libro está en redacción; la sinopsis es borrador. Se vuelve a correr con el número real y la sinopsis aprobada.
+
 ## Pendiente
 
 - **Aprobada por el autor (2026-11-16):** la v1 es la portada del EPUB de lectura (`COVER` de `tools/build_sombras.py`).
