@@ -59,7 +59,7 @@ Plan de trabajo, en marcha desde el 2026-11-21 (DECISIÓN DEL AUTOR sobre el mé
 - ~~Cap. 5: la teniente~~ falsa alarma (lo dice Chiara y pregunta Kal).
 - ~~Cap. 9: el malvavisco~~ resuelto (debajo del asiento).
 - ~~Cap. 9: «Lo había armado»~~ resuelto (D5).
-- Cap. 14 (`14_La_Regla_Del_Telefono`, l. 16-24): el chico de la cerca, ya contado en el 13, se reduce a una línea (transversal 4).
+- ~~Cap. 14: el chico de la cerca~~ resuelto (una línea).
 - Ficha de Chiara (l. ~330, «se disculpa sin argumentar»): desde el cap. 13 defiende la red y pierde (DECISIÓN DEL AUTOR); ajustar al cerrar el libro.
 - Cap. 16 (`17_Cuentas_Claras`, l. ~287): «los meseros de la Isla» pasa a «La Isla» (norma del libro).
 - ~~Cap. 10: martes y jueves~~ resuelto («los martes a las diez»).
@@ -79,7 +79,7 @@ Plan de trabajo, en marcha desde el 2026-11-21 (DECISIÓN DEL AUTOR sobre el mé
 | 11 | La balanza | `09_La_Balanza` |  | hecho, BORRADOR | ver git log |
 | 12 | La invitada | `10_El_Loft_Del_Soltero` | salida de la casa común (una línea) | hecho, BORRADOR | ver git log |
 | 13 | Roma Atrii | `12_Roma_Atrii` | redundancia POV (el 13 es la primera versión; se reduce en el 14) | hecho, BORRADOR | ver git log |
-| 14 | Con miedo y todo | `14_La_Regla_Del_Telefono` | redundancia POV | pendiente | |
+| 14 | Con miedo y todo | `14_La_Regla_Del_Telefono` | redundancia POV (el chico de la cerca en una línea) | hecho, BORRADOR | ver git log |
 | 15 | Yo lo llevo | `15_El_Porton` | redundancia POV | pendiente | |
 | 16 | Canal Seco | `17_Cuentas_Claras` | redundancia POV; salto a junio | pendiente | |
 | 17 | Día nublado | `18_El_Dia_Nublado` | salto a junio | pendiente | |

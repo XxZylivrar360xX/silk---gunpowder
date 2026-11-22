@@ -6,6 +6,7 @@ Protagonistas: Kal Mercer (POV), Marisol Grayson, Héctor Navarro. Apariciones: 
 Ventana temporal: el fin de semana del infarto de Héctor (H10), del viernes por la mañana al domingo por la noche. Kal y Chiara todavía no se han besado.
 Lugares: La Casa (loft de Kal), residencia universitaria de Marisol, camino de tierra al norte, campamento junto al arroyo, tienda de carretera, The Monarch Casino & Hotel, Hospital Santa Aurelia.
 Función: Kal se ve como padre de Marisol, se deja quitar el teléfono y, por haberlo apagado, no está cuando Héctor cae. Héctor le dice que proteger a Chiara no es suyo de decidir. Marisol se abre con Kal, pero tarde y después de mentirle: prepara el cierre del 18, donde se abre primero con Chiara.
+Cirugía de la lectura (2026-11-21; BORRADOR, espera lectura del autor): [[98_Agent_Handoff/sessions/2026-11-21_claude_cirugia_lectura_cap14]]. Transversal 4 (redundancia entre POV): el chico de la cerca, ya contado en el 13, queda en una línea; se conservan el olor y el interior de Kal (la ruta, el bebé comprado). DECISIÓN DEL AUTOR: «Todo va a estar bien» lo dice Marisol («—dijo ella»; la línea, intacta). Ruth antes que Dale en la memoria del balcón (cronología).
 Apertura por residuo: el papel de *Roma Atrii*, sin abrir, en la repisa (cierre del nuevo 13, «lo traigo yo»).
 -->
 
@@ -13,15 +14,9 @@ Apertura por residuo: el papel de *Roma Atrii*, sin abrir, en la repisa (cierre 
 
 El papel seguía sobre la repisa, doblado en cuatro, donde llevaba semanas sin que Kal lo tirara ni lo abriera. *Roma Atrii* por fuera, en la letra que ya se sabía de memoria sin haber querido aprenderla. Lo miró un segundo de más mientras cerraba el bolso.
 
-Se lo había traído un chico hasta la cerca de atrás del taller. Doce o trece años, mirando un reloj que no traía y cambiándose el peso de un pie al otro, con el disimulo que sólo delata a quien nunca lo ha hecho antes. Para entonces nadie en Las Calderas le había sabido dar razón de un hombre con un diente gris, y Kal se fijaba en quién se paraba afuera del Patio. Lo dejó acercarse dos pasos más antes de salir.
-
-—Roma Atrii —había dicho el chico, despacio, mal, como quien repite sonidos y no palabras—. Así me dijeron que preguntara.
-
-El olor llegó antes que la letra: canela, vainilla, algo que no pertenecía a ningún lugar cerca de un taller de grúas.
+Se lo había traído un chico hasta la cerca de atrás del taller, doce o trece años, preguntando por *Roma Atrii* despacio y mal, como quien repite sonidos y no palabras. El olor llegó antes que la letra: canela, vainilla, algo que no pertenecía a ningún lugar cerca de un taller de grúas.
 
 La mandíbula se le tensó un segundo, el mismo segundo de siempre, el que nadie en el Patio sabía nombrar. No era lo que trajera el papel. Eso ella se lo habría dado gratis; se lo había estado dando gratis, en los dos sentidos, desde antes de que ninguno de los dos le pusiera nombre a lo que estaban construyendo. Era la ruta: un nombre preguntado en voz alta dentro de su propio territorio, y para preguntarlo, un crío parado en la calle equivocada, cargando algo que no entendía, para gente que tampoco lo entendería si algo salía mal. Un crío que en otra ciudad podría haber sido la clase de carga que fue él cuando lo compraron de bebé.
-
-—Vete a tu casa —le había dicho—. Y no vuelvas a hacer esto. Para nadie.
 
 Desde entonces Chiara cumplía su palabra: lo que tuviera que llegarle, se lo traía ella. La última vez había sido en el taller, con una coartada armada pieza por pieza, y después ya no hubo más. A Kal le había sobrado tiempo para darse cuenta de que lo había estado esperando.
 
@@ -235,7 +230,7 @@ Ruth lo soltó. Se quedó de rodillas en la calle mientras se lo llevaban.
 
 Fue la última vez que Kal vio a Dale vivo.
 
-Dale pasó diecisiete años en una celda del estado, y una noche, cuando Kal ya estaba lejos, se quitó la camisa y encontró la forma de no tener que volver a pedirle nada a nadie. Ruth tardó dos años en irse. Primero fueron pastillas para dormir; después, opioides para levantarse, para callarse, para llegar a la noche y para no saber qué noche era. A los diecisiete, Kal regresó una tarde y entendió lo que había pasado antes de cruzar la puerta.
+Después de esa noche, Ruth tardó dos años en irse. Primero fueron pastillas para dormir; después, opioides para levantarse, para callarse, para llegar a la noche y para no saber qué noche era. A los diecisiete, Kal regresó una tarde y entendió lo que había pasado antes de cruzar la puerta. Dale pasó diecisiete años en una celda del estado, y una noche, cuando Kal ya estaba lejos, se quitó la camisa y encontró la forma de no tener que volver a pedirle nada a nadie.
 
 No recordaba haber llorado ninguna de las dos veces. Recordaba el frío del piso bajo los pies aquella primera noche.
 
@@ -283,7 +278,7 @@ Marisol dejó pasar un silencio largo y lo rompió sin levantar la vista.
 
 —Está bien.
 
-—No pregunté cómo estaba. —Esperó a que él moviera una brasa con el palo, que fue lo que hizo, y siguió con la misma voz—. Pero gracias por confirmar que sabías de quién hablaba. No dijiste «¿cuál amiga?». Cualquiera habría dicho «¿cuál amiga?».
+—No pregunté cómo estaba. —Esperó a que él moviera una brasa con el palo—. Pero gracias por confirmar que sabías de quién hablaba.
 
 —Trabajamos juntos. Sale su nombre.
 
@@ -359,7 +354,7 @@ Kal se sentó entonces en la piedra, a su lado, de cara al arroyo. Estuvieron as
 
 Marisol se quedó mirando el arroyo. Asintió, sin soltar la taza.
 
-—Todo va a estar bien.
+—Todo va a estar bien —dijo ella.
 
 Detrás de ellos el agua rompió a hervir, y ninguno de los dos se levantó por ella.
 
