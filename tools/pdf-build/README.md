@@ -21,6 +21,8 @@ Genera `output/pdf/Mascaras_De_Cristal_Imprenta_6x9.pdf`, el interior para KDP (
 - separador de escena con tres asteriscos pegado al párrafo siguiente; las cartas van en bloque sangrado;
 - índice al final.
 
+**Edición de autor** (para compartir con lectores cercanos; DECISIÓN DEL AUTOR, 2026-11-22): `--edicion autor` genera `output/pdf/Mascaras_De_Cristal_Edicion_Autor_6x9.pdf`, el mismo interior con portada y contraportada recortadas de la tapa completa (`99_Reference/book_covers/Mascaras_De_Cristal_Tapa_6x9_v1.png`, sin sangrado), cada una con su reverso en blanco y la contraportada en página par; los créditos dicen «Edición de autor, para lectura privada». La salida por defecto (`--edicion kdp`) es la que pide KDP: interior sin cubierta.
+
 Al terminar imprime el número de páginas y el lomo estimado (papel blanco y crema) para `tools/portada/componer_tapa.py`. `--muestra 1-12,689` exporta esas páginas a PNG para revisarlas sin abrir el PDF. Las medidas viven en la plantilla Typst dentro del script.
 
 ## Sombras de Poder

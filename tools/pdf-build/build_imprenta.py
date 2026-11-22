@@ -5,6 +5,9 @@ Distinto del PDF de lectura (`build_pdf.py`, A5): páginas en espejo, capítulos
 partes en página impar, cabeceras corridas, folios, preliminares en orden y
 sin cubierta (la cubierta va en archivo aparte). Al final imprime el número de
 páginas y el lomo estimado para KDP.
+
+`--edicion autor`: el mismo interior con portada y contraportada, para lectura
+privada (no es el archivo de KDP).
 """
 
 from __future__ import annotations
@@ -30,6 +33,7 @@ PART_RE = re.compile(
     re.MULTILINE,
 )
 # Grosor por página de KDP (pulgadas): papel blanco y crema.
+BLEED = 0.125  # sangrado de la tapa completa, en pulgadas
 SPINE_PER_PAGE = {"blanco": 0.002252, "crema": 0.0025}
 
 TEMPLATE = r"""
@@ -132,6 +136,9 @@ TEMPLATE = r"""
 
 // ── Preliminares ──
 #let plain(body) = page(header: none, footer: none, body)
+#let cover(file) = page(margin: 0pt, header: none, footer: none,
+  image(file, width: 100%, height: 100%, fit: "cover"))
+__FRONT_COVER__
 #plain[
   #v(2.3in)
   #align(center, text(size: 14pt, tracking: 0.18em, upper(book-title)))
@@ -155,6 +162,7 @@ TEMPLATE = r"""
   #emph(book-title)
 
   © #book-year #book-author
+__EDITION_NOTE__
 
   Todos los derechos reservados. Queda prohibida la reproducción total o parcial de esta obra sin autorización escrita del autor.
 
@@ -194,6 +202,7 @@ __BODY__
     }
   }
 ]
+__BACK_COVER__
 """
 
 
@@ -218,7 +227,11 @@ def main() -> int:
     parser.add_argument("--series", default="Seda y Pólvora")
     parser.add_argument("--volume", default="Libro I")
     parser.add_argument("--year", default=str(date.today().year))
-    parser.add_argument("--output-name", default="Mascaras_De_Cristal_Imprenta_6x9")
+    parser.add_argument("--edicion", choices=("kdp", "autor"), default="kdp",
+                        help="kdp: interior sin cubierta para la imprenta; autor: con portada y contraportada, para lectura privada.")
+    parser.add_argument("--tapa", default="99_Reference/book_covers/Mascaras_De_Cristal_Tapa_6x9_v1.png",
+                        help="Tapa completa (contraportada + lomo + portada, con sangrado) de la que salen las cubiertas de la edición de autor.")
+    parser.add_argument("--output-name")
     parser.add_argument("--muestra", metavar="PAGINAS",
                         help="En vez del PDF, exporta esas páginas a PNG (p. ej. 1-8,15) en --muestra-dir.")
     parser.add_argument("--muestra-dir", default=str(TEMP_DIR / "muestra"))
@@ -241,7 +254,36 @@ def main() -> int:
     TEMP_DIR.mkdir(parents=True, exist_ok=True)
     OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
     md_path, body_path, main_path = (TEMP_DIR / n for n in ("manuscript.md", "body.typ", "main.typ"))
-    output_path = OUTPUT_DIR / f"{args.output_name}.pdf"
+    autor = args.edicion == "autor"
+    output_name = args.output_name or (
+        "Mascaras_De_Cristal_Edicion_Autor_6x9" if autor else "Mascaras_De_Cristal_Imprenta_6x9")
+    output_path = OUTPUT_DIR / f"{output_name}.pdf"
+    cover_files = [TEMP_DIR / "portada.jpg", TEMP_DIR / "contraportada.jpg"]
+    covers = {"__FRONT_COVER__": "", "__BACK_COVER__": "", "__EDITION_NOTE__": ""}
+    if autor:
+        tapa = (VAULT_ROOT / args.tapa).resolve()
+        if not tapa.is_file():
+            print(f"Error: no encuentro la tapa {args.tapa}.", file=sys.stderr)
+            return 2
+        try:
+            from PIL import Image
+        except ImportError:
+            print("Error: la edición de autor necesita Pillow (pip install pillow).", file=sys.stderr)
+            return 1
+        with Image.open(tapa) as im:
+            im = im.convert("RGB")
+            dpi = im.height / (9 + 2 * BLEED)  # la altura de la tapa incluye el sangrado
+            bleed, w, h = round(BLEED * dpi), round(6 * dpi), round(9 * dpi)
+            im.crop((im.width - bleed - w, bleed, im.width - bleed, bleed + h)).save(
+                cover_files[0], quality=92)
+            im.crop((bleed, bleed, bleed + w, bleed + h)).save(cover_files[1], quality=92)
+        covers = {
+            # Portada, interior de cubierta en blanco y la portadilla vuelve a caer en impar.
+            "__FRONT_COVER__": '#cover("portada.jpg")\n#plain[]',
+            # Contraportada siempre en página par, como en el libro impreso.
+            "__BACK_COVER__": '#pagebreak(weak: true, to: "even")\n#cover("contraportada.jpg")',
+            "__EDITION_NOTE__": "\n  Edición de autor, para lectura privada.\n",
+        }
     values = {
         "__TITLE__": args.title, "__AUTHOR__": args.author, "__SERIES__": args.series,
         "__VOLUME__": args.volume, "__YEAR__": args.year,
@@ -249,6 +291,8 @@ def main() -> int:
     template = TEMPLATE
     for key, value in values.items():
         template = template.replace(key, json.dumps(value, ensure_ascii=False))
+    for key, value in covers.items():
+        template = template.replace(key, value)
     try:
         md_path.write_text(manuscript, encoding="utf-8")
         subprocess.run([pandoc, str(md_path), "-f", "markdown", "-t", "typst", "-o", str(body_path)],
@@ -269,13 +313,15 @@ def main() -> int:
         print(f"Error: el proceso terminó con código {exc.returncode}.", file=sys.stderr)
         return exc.returncode or 1
     finally:
-        for path in (md_path, body_path, main_path):
+        for path in (md_path, body_path, main_path, *cover_files):
             path.unlink(missing_ok=True)
 
     data = output_path.read_bytes()
     pages = len(re.findall(rb"/Type\s*/Page[^s]", data))
     print(f"PDF de imprenta listo: {output_path.relative_to(VAULT_ROOT)}")
-    if pages:
+    if pages and autor:
+        print(f"Páginas: {pages}, con portada, contraportada y sus interiores.")
+    elif pages:
         spine = ", ".join(f"papel {k}: {pages * v:.3f} in ({pages * v * 25.4:.1f} mm)"
                           for k, v in SPINE_PER_PAGE.items())
         print(f"Páginas: {pages}. Lomo estimado (KDP) — {spine}.")
