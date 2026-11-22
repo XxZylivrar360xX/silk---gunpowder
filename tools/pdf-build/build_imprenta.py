@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Interior de imprenta (tapa blanda 6 x 9 in) del Libro I con Pandoc y Typst.
 
-Distinto del PDF de lectura (`build_pdf.py`, A5): páginas en espejo, capítulos y
+Sustituye en el Libro I al PDF de lectura A5 de `build_pdf.py`: páginas en espejo, capítulos y
 partes en página impar, cabeceras corridas, folios, preliminares en orden y
 sin cubierta (la cubierta va en archivo aparte). Al final imprime el número de
 páginas y el lomo estimado para KDP.
@@ -240,6 +240,8 @@ def main() -> int:
                              "con portada y contraportada y sin hojas en blanco, de circulación privada.")
     parser.add_argument("--tapa", default="99_Reference/book_covers/Mascaras_De_Cristal_Tapa_6x9_v1.png",
                         help="Tapa completa (contraportada + lomo + portada, con sangrado) de la que salen las cubiertas de la versión digital.")
+    parser.add_argument("--nota", default="Borrador de lectura, de circulación privada.",
+                        help="Línea de créditos de la versión digital; mientras el libro no esté sellado dice que es borrador.")
     parser.add_argument("--output-name")
     parser.add_argument("--muestra", metavar="PAGINAS",
                         help="En vez del PDF, exporta esas páginas a PNG (p. ej. 1-8,15) en --muestra-dir.")
@@ -291,7 +293,7 @@ def main() -> int:
             # la contraportada, justo después del índice.
             "__FRONT_COVER__": '#cover("portada.jpg")',
             "__BACK_COVER__": '#cover("contraportada.jpg")',
-            "__EDITION_NOTE__": "\n  Edición para lector digital, de circulación privada.\n",
+            "__EDITION_NOTE__": f"\n  {args.nota}\n",
         }
     values = {
         "__TITLE__": args.title, "__AUTHOR__": args.author, "__SERIES__": args.series,

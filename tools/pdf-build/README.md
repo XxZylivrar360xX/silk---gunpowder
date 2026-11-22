@@ -1,10 +1,9 @@
 # Generador PDF
 
-Genera un PDF de lectura desde las fuentes Markdown del vault; por defecto, *Máscaras de Cristal*.
+Dos generadores:
 
-```powershell
-python -B .\tools\pdf-build\build_pdf.py
-```
+- `build_imprenta.py`: los PDF 6 × 9 del Libro I, el interior para KDP y la versión para lector digital. Los regenera la skill `regenerar-y-subir`.
+- `build_pdf.py`: el PDF de lectura en A5. Para el Libro I quedó retirado de la rutina y del repo (DECISIÓN DEL AUTOR, 2026-11-22; lo sustituye la versión digital). Sigue en uso para el Libro II por medio de `build_sombras.py`. A mano: `python -B .\tools\pdf-build\build_pdf.py`.
 
 ## Interior de imprenta (tapa blanda 6 × 9)
 
@@ -21,7 +20,7 @@ Genera `output/pdf/Mascaras_De_Cristal_Imprenta_6x9.pdf`, el interior para KDP (
 - separador de escena con tres asteriscos pegado al párrafo siguiente; las cartas van en bloque sangrado;
 - índice al final.
 
-**Versión para lector digital** (para compartir con lectores cercanos en pantalla; DECISIÓN DEL AUTOR, 2026-11-22): `--edicion digital` genera `output/pdf/Mascaras_De_Cristal_Lector_Digital.pdf`. Es el mismo texto a 6 × 9 pensado para pantalla: portada y contraportada recortadas de la tapa completa (`99_Reference/book_covers/Mascaras_De_Cristal_Tapa_6x9_v1.png`, sin sangrado), sin portadilla ni hojas en blanco, márgenes iguales a los dos lados y cada parte o capítulo en la página siguiente; los créditos dicen «Edición para lector digital, de circulación privada». La salida por defecto (`--edicion kdp`) es la que pide KDP: interior sin cubierta. Las dos se regeneran en cada cierre con la skill `regenerar-y-subir`.
+**Versión para lector digital** (para compartir con lectores cercanos en pantalla; DECISIÓN DEL AUTOR, 2026-11-22): `--edicion digital` genera `output/pdf/Mascaras_De_Cristal_Lector_Digital.pdf`. Es el mismo texto a 6 × 9 pensado para pantalla: portada y contraportada recortadas de la tapa completa (`99_Reference/book_covers/Mascaras_De_Cristal_Tapa_6x9_v1.png`, sin sangrado), sin portadilla ni hojas en blanco, márgenes iguales a los dos lados y cada parte o capítulo en la página siguiente; los créditos dicen «Borrador de lectura, de circulación privada» mientras el libro no esté sellado (al sellar, `--nota` con la línea definitiva). La salida por defecto (`--edicion kdp`) es la que pide KDP: interior sin cubierta. Las dos se regeneran en cada cierre con la skill `regenerar-y-subir`.
 
 Al terminar imprime el número de páginas y el lomo estimado (papel blanco y crema) para `tools/portada/componer_tapa.py`. `--muestra 1-12,689` exporta esas páginas a PNG para revisarlas sin abrir el PDF. Las medidas viven en la plantilla Typst dentro del script.
 
@@ -55,9 +54,9 @@ En Windows, Typst se puede instalar con:
 winget install --id Typst.Typst
 ```
 
-El script reutiliza el recolector, la limpieza de metadata y las salvaguardas editoriales de `tools/epub-build/build_epub.py`. El PDF se genera en `output/pdf/Mascaras_De_Cristal.pdf`; el Markdown intermedio vive temporalmente en `tmp/pdfs/` y se elimina al terminar.
+Los dos scripts reutilizan el recolector, la limpieza de metadata y las salvaguardas editoriales de `tools/epub-build/build_epub.py`. Los archivos intermedios viven en `tmp/` y se eliminan al terminar.
 
-## Presentación
+## Presentación del PDF A5 (`build_pdf.py`)
 
 - Papel A5, márgenes de 18 mm arriba/abajo y 19 mm a los lados, cuerpo de 11 pt e interlineado 1.2.
 - Índice de partes y capítulos, paginación arábiga y créditos.
