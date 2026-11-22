@@ -64,7 +64,7 @@ Plan de trabajo, en marcha desde el 2026-11-21 (DECISIÓN DEL AUTOR sobre el mé
 | 3 | Lo que no cambió | `03_Los_Viejos_Dias` |  | hecho, BORRADOR | ver git log |
 | 4 | Tarifa nocturna | `04_Tarifa_Nocturna` |  | hecho, BORRADOR | ver git log |
 | 5 | Cliente y proveedor | `05a_Cliente_Y_Proveedor` |  | hecho, BORRADOR | ver git log |
-| 6 | Sólo una cena | `05c_La_Pizza_De_Calabaza` |  | pendiente | |
+| 6 | Sólo una cena | `05c_La_Pizza_De_Calabaza` |  | hecho, BORRADOR | ver git log |
 | 7 | Ambos | `06_Ambos` | tuteo prematuro; Peugeot D5 | pendiente | |
 | 8 | La noche del ladrillo | `07_La_Noche_Del_Ladrillo` | Peugeot D5 («lo confirmó») | pendiente | |
 | 9 | Mandorla | `08_La_Carrera_De_Mascaras` | Peugeot D5 | pendiente | |

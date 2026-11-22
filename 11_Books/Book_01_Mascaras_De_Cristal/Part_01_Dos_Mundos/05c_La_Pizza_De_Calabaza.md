@@ -12,6 +12,7 @@ Transicion cliente-proveedor -> Kal que quiere impresionar (2026-10-24, decision
 Eco de "señora Mercer" (2026-11-02, pedido del autor; DISEÑO): tras "qué bonita pareja" de Enzo, Chiara cobra la despedida del hospital del Cap. 5: "Esta vez no le dijo «no, no es». —Abrió los ojos—." antes de "Diga la verdad. ¿Cuánto les pagó?".
 Sin los chicos (2026-11-03, DECISION DEL AUTOR; supersede H2-a en este punto; prosa DISEÑO, BORRADOR): Nadir y Danny salen del capitulo, para no atacar a Kal y dejar el foco en los dos; la broma de Enzo cumple lo comico. Chiara no les pone cara hasta la noche del ladrillo. Fuera la acera completa y las burlas en la leccion de Rocco. Danny queda solo como mencion ("todavia no", la lona). Se queda Hector con "¿Te referias a esos ojos?" (canon, cierra el Cap. 3). Texto en Escenas_Eliminadas/README.
 Hipodromo sembrado (2026-11-04, DECISION DEL AUTOR; prosa DISEÑO, BORRADOR en este tramo): Danny baña a Rocco en el patio antes de la cena y a Kal se le escapa que atras del casino hay hipodromo; Danny sigue fuera de la cena y de la acera. Cobra en la puerta del Cap. 8. Chiara les pone cara a los chicos en el Cap. 7 (ruleta), no en el ladrillo: supersede esa frase de la nota anterior.
+Cirugia de la lectura (2026-11-21; BORRADOR, espera lectura): fuera «No hablaron de Alessio» y la glosa de la junta (POV de Kal), «No fue una cita —dijo ella», replicas infladas recortadas, fuera «Natalie tenia razon» (decision del autor). Detalle: 98_Agent_Handoff/sessions/2026-11-21_claude_cirugia_lectura_cap06.md.
 -->
 
 # Capítulo 6 — Sólo una cena
@@ -88,13 +89,13 @@ Kal asintió. Tardó en saber qué hacer con las manos después de que le dijera
 
 Subió otro escalón y se volvió, con la carpeta otra vez contra el pecho.
 
-—¿Ése era el asunto? Porque me lo pudo haber dicho por teléfono, señor Mercer, y yo me habría ahorrado bajar con la carpeta.
+—¿Ése era el asunto? Me lo pudo haber dicho por teléfono.
 
 Kal pensó en decirle que por teléfono no se veía la rueda del carrito. No lo dijo.
 
 Ella esperó el resto. No hubo resto.
 
-—Ciao, tesoro —dijo, con la misma voz con que se lo decía al valet, y entró.
+—Ciao, tesoro —dijo, con la misma voz con que se lo decía a Matteo, y entró.
 
 Ya en la grúa, con la llave puesta, Kal cayó en que acababa de invitar a una italiana a comer italiano. El guardia levantó la pluma antes de que él decidiera si eso era un problema.
 
@@ -142,9 +143,9 @@ Kal la tomó y le dio la tortilla.
 
 Héctor lo miró de arriba abajo.
 
-—¿Y a la amiga la vas a ver así? —Le señaló con la barbilla la muñeca—. Al perro ya le enseñaste modales. Tú sigues con la grasa de la mañana.
+—¿Y a la amiga la vas a ver así?
 
-Kal bajó la vista. Camiseta, jeans, botas, grasa en la muñeca.
+Kal bajó la vista. Camiseta, jeans, botas y la grasa de la mañana todavía en la muñeca.
 
 —No. Tengo una camisa.
 
@@ -284,7 +285,7 @@ Un sedán oscuro se detuvo detrás de la camioneta. Rowe besó a Chiara en la me
 
 Lo apretó como quien revisa si una llanta tiene aire, pensó Kal. No supo para qué.
 
-Connors se despidió con un gesto de cabeza y, ya junto al sedán, frotó el zapato contra el borde de la acera, como si nadie lo estuviera viendo.
+Connors se despidió con un gesto de cabeza y, ya del otro lado del sedán, donde Chiara no alcanzaba a verlo, frotó el zapato contra el borde de la acera, como si nadie lo estuviera viendo.
 
 El coche se fue. Chiara se quedó mirándolo hasta que dio vuelta en la esquina, y sólo entonces se volvió hacia el perro, y luego hacia él.
 
@@ -294,7 +295,7 @@ Kal abrió la puerta de la camioneta.
 
 —Sube solo.
 
-Rocco subió solo.
+Rocco subió solo. Chiara, después.
 
 ***
 
@@ -302,7 +303,7 @@ Il Gelsomino cerró la terraza para ellos.
 
 O eso decía Enzo.
 
-En realidad, la terraza nunca cerraba del todo. Había una mesa ocupada en el interior por dos señoras que llevaban media hora discutiendo si el tiramisú era mejor antes. Un cocinero fumaba cerca de la puerta trasera. Claudio, el dueño, apareció lo suficiente para besarle la mano a Chiara y abrazar a Kal con la cautela de quien abraza a un cliente que también sabe dónde se guardan los cuchillos.
+En realidad, el restaurante nunca cerraba del todo. Había una mesa ocupada en el interior por dos señoras que llevaban media hora discutiendo si el tiramisú era mejor antes. Un cocinero fumaba cerca de la puerta trasera. Claudio, el dueño, apareció lo suficiente para besarle la mano a Chiara y abrazar a Kal con la cautela de quien abraza a un cliente que también sabe dónde se guardan los cuchillos.
 
 En la escalera de la terraza, Chiara se detuvo.
 
@@ -338,7 +339,7 @@ Kal enderezó el cuchillo, que ya estaba derecho.
 
 Chiara sonrió. Una sonrisa pequeña, casi privada. Kal tuvo que mirar el menú para no quedarse mirándola a ella.
 
-Ella no preguntó por la camioneta. Miró debajo de la mesa, a Rocco, que ya roncaba con el pañuelo de lado, y tampoco preguntó por él.
+Ella no preguntó por la camioneta rentada. Miró debajo de la mesa, a Rocco, que ya roncaba con el pañuelo de lado, y tampoco preguntó por él.
 
 —Es una cena —dijo Kal, todavía en el menú—. Con una amiga.
 
@@ -350,7 +351,7 @@ Chiara tomó la copa de agua.
 
 Kal todavía no tenía la respuesta cuando Enzo subió la escalera como si la hubiera alfombrado él.
 
-Kal lo conocía de cocina: delantal manchado, trapo al hombro, la boca llena de opiniones sobre el espresso. Esa noche traía chaleco negro, una servilleta blanca doblada sobre el antebrazo, el pelo peinado con algo que brillaba y una postura que Kal no le había visto nunca. Se detuvo junto a la mesa a la distancia exacta de un mesero con treinta años en Milán.
+Kal lo conocía de la cocina: delantal manchado, trapo al hombro, la boca llena de opiniones sobre el espresso. Esa noche traía chaleco negro, una servilleta blanca doblada sobre el antebrazo, el pelo peinado con algo que brillaba y una postura que Kal no le había visto nunca. Se detuvo junto a la mesa a la distancia exacta de un mesero con treinta años en Milán.
 
 —Buonasera, signora. —Una inclinación de cabeza para ella. Otra, más honda, para él—. Señor Mercer. Siempre un honor.
 
@@ -438,7 +439,7 @@ Fue Kal quien sacó a los de la entrada.
 
 —Todavía no. Por eso. Tengo un casino nuevo en una ciudad donde el jefe de policía amaneció muerto en una banca. Si la fiscalía va a mirar mi edificio, prefiero que lo mire desde una mesa que yo le puse, con una copa que pagué yo.
 
-La calabaza de la baranda, la del diente, le daba a Chiara de lado con su vela torcida. A esa luz tenía los ojos más verdes por dentro y más oscuros en el borde de lo que Kal recordaba. Natalie tenía razón. Dependía de los ojos que los miraran.
+La calabaza de la baranda, la del diente, le daba a Chiara de lado con su vela torcida. A esa luz tenía los ojos más verdes por dentro y más oscuros en el borde de lo que Kal recordaba. Dependía de los ojos que los miraran.
 
 —Perdone. ¿Me lo repite? Eso no lo entendí.
 
@@ -482,7 +483,7 @@ Kal levantó la vista.
 
 —No la invitaron.
 
-—No. —Ahora sí dejó la copa—. A mí también me extrañó. Lo que usted y yo tenemos no pasa por su lote. No hay un papel con el nombre de Hoover en ninguna carpeta mía. No había nada que hablar con él.
+—No. —Ahora sí dejó la copa—. A mí también me extraña. No hay un papel con el nombre de Hoover en ninguna carpeta mía.
 
 —¿Quién se lo dijo?
 
@@ -510,7 +511,7 @@ Chiara lo miró por encima de la copa.
 
 —Claro que me interesa. Por supuesto que sabe que me interesa.
 
-Lo dijo como lo habría dicho en una junta, y a media frase se le olvidó que no estaba en una.
+Lo dijo con la voz de las juntas, y a media frase la bajó un tono.
 
 —Bueno. Soy culpable por quitarle un poco de trabajo de encima.
 
@@ -518,15 +519,13 @@ Lo dijo como lo habría dicho en una junta, y a media frase se le olvidó que no
 
 Y tomó un sorbo de su copa.
 
-No hablaron de Alessio.
-
-No hablaron de Keene.
+No volvieron a hablar de Keene.
 
 No hablaron de Dario, salvo cuando Kal preguntó, mirando el pan:
 
 —¿Él sabe que está aquí?
 
-—Él sabe todo lo que firma la mesa. Lo que no pasa por la mesa lo adivina, y lo que adivina lo anota. A Dario no se le pasan las cosas.
+—Él sabe todo lo que firma la mesa. Lo que no pasa por la mesa lo adivina, y lo que adivina lo anota.
 
 —¿Y esto?
 
@@ -594,7 +593,7 @@ Chiara bajó con el bolso y Rocco asomó la cabeza desde el asiento trasero como
 
 Kal sostuvo el volante.
 
-—No fue una cita.
+—No fue una cita. —Chiara seguía con la mano en la puerta.
 
 Él la miró.
 
