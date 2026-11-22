@@ -13,13 +13,14 @@ Cobro del corral (2026-11-04, DISEÑO; sustituye el cobro de la ruleta del 2026-
 Mascara negra (2026-11-05, decision del autor; capitulo TERMINADO, el estado se conserva; prosa DISENO): en La Tramoya, "¿Y el malvavisco?" / "Te toca escoger". Kal deja el malvavisco para no dejar sola a Chiara.
 La Zen Devil (2026-11-15, CANON DEL AUTOR: Meiko corre para los Devil Splicers como «la Zen Devil», en un Camaro del 67, con máscara de diablo blanca lisa, y termina segunda; capítulo TERMINADO, el estado se conserva; prosa DISEÑO, pendiente de lectura): cuatro inserciones (el Camaro aparte en la grava; Tyler la nombra, «Ésa sí se acuerda del guardaganado»; el Camaro en la primera fila, «el que salió derecho»; sus luces traseras despegándose en la recta). Chiara se queda con el coche y con la máscara, no con la cara; no hay nombre. El resultado («segunda en Kingsley») se dice en el Cap. 22 (archivo 24b). Arco: [[11_Books/00_Arco_Meiko_Nakano]].
 Parrilla armonizada (2026-11-15, revisión externa): el Camaro pasa a la SEGUNDA fila (el que ganó salió en la primera; cuadra con «El primero salió una fila antes» del Cap. 22); el Peugeot va en la cuarta («tres filas por delante»), dos detrás del Camaro. «¿Quién abre?» → «¿A quién hay que cuidar?».
+Cirugia de la lectura (2026-11-21; BORRADOR, espera lectura): el Peugeot ya no se «arma» en el taxi (D5), traslado de Il Gelsomino al Monarch, malvavisco debajo del asiento, «lo que no cabia en el contrato», «Old Road Town», kilometros por hora. Detalle: 98_Agent_Handoff/sessions/2026-11-21_claude_cirugia_lectura_cap09.md.
 -->
 
 # Capítulo 9 — Mandorla
 
 Il Gelsomino cerraba a las nueve entre semana, y para las ocho y media ya no quedaba nadie en la terraza salvo ellos dos y una silla que el mozo había subido a una mesa sin llegar a las demás.
 
-Era la hora de contarse el día. Se había vuelto costumbre sin que ninguno la nombrara: Kal pasaba, ella bajaba, se sentaban veinte minutos con un café que se enfriaba y cada uno le entregaba al otro la versión corta de sus últimas doce horas. A Chiara le gustaba esa media hora más de lo que le convenía admitir, porque era el único rato del día en que no tenía que decidir qué cara poner antes de hablar.
+Era la hora de contarse el día. Se había vuelto costumbre sin que ninguno la nombrara: Kal pasaba, ella bajaba, se sentaban veinte minutos con un café que se enfriaba y cada uno le entregaba al otro la versión corta de sus últimas doce horas. A Chiara le gustaban esos veinte minutos más de lo que le convenía admitir, porque era el único rato del día en que no tenía que decidir qué cara poner antes de hablar.
 
 —Firmé lo del calendario del torneo —dijo—. Tommaso puso una cara. Nada más.
 
@@ -39,7 +40,7 @@ Chiara se rio: una sílaba, casi sin querer.
 
 —Atrapado. Con alguien que te pone la mano en el hombro y te pregunta cómo te llamas.
 
-—Dos veces en la questura, de adolescente, en Palermo. —Lo dijo despacio, midiendo cuánto contar—. Una por una Vespa que no era mía. Otra por estar en una plaza que los carabinieri estaban despejando y no correr lo suficientemente rápido. Mi padre mandó al mismo abogado las dos veces y las dos veces estaba en casa para la cena. Nada que valiera una carpeta.
+—Dos veces en la questura, de adolescente, en Palermo. —Lo dijo despacio, midiendo cuánto contar—. Una por una Vespa que no era mía. Otra por estar en una plaza que la polizia estaba despejando y no correr lo suficientemente rápido. Mi padre mandó al mismo abogado las dos veces y las dos veces estaba en casa para la cena. Nada que valiera una carpeta.
 
 —¿Nada más?
 
@@ -51,7 +52,9 @@ Kal asintió, como quien confirma un dato que ya sospechaba. Cerró la navaja y 
 
 ***
 
-Bajó con zapatos planos y un abrigo sobre un suéter oscuro, que era lo más cómodo que tenía a mano sin subir a cambiarse del todo. Cuando salió por la puerta de servicio del Monarch, el coche ya estaba contra la acera, con el motor encendido y ese ralentí grueso y desigual que sonaba mejor de lo que un coche de esa edad tenía derecho a sonar.
+Kal la dejó en el Monarch y le dio veinte minutos.
+
+Bajó con zapatos planos y un abrigo sobre un suéter oscuro, que era lo más cómodo que tenía a mano sin cambiarse del todo. Cuando salió por la puerta de servicio del Monarch, el coche ya estaba contra la acera, con el motor encendido y ese ralentí grueso y desigual que sonaba mejor de lo que un coche de esa edad tenía derecho a sonar.
 
 Rojo. El Peugeot.
 
@@ -61,7 +64,7 @@ Chiara se detuvo un momento en el escalón.
 
 —Sí.
 
-No hubo explicación, y ella tampoco la pidió. Lo había armado sola días atrás, en el asiento trasero de un taxi, con un ladrillo clavándosele en la cadera: el coche del que Blake presumía derrotas, el que se le escapaba a media comisaría cerca de Kingsley Field, y el malvavisco de las historias de Kal eran el mismo.
+No hubo explicación, y ella tampoco la pidió. Kal se lo había contado en el penthouse, y en Gabriella's lo había visto doblar hacia un callejón: el coche del que Blake presumía derrotas.
 
 Abrió la puerta y se subió.
 
@@ -91,7 +94,7 @@ Chiara giró la cabeza despacio.
 
 —Nadir le hizo un encargo. Una entrega en una parcela, por la vieja carretera del norte, a medianoche. —Lo dijo como quien cuenta que Nadir le pintó la cerca a un vecino—. Yo manejé, porque Nadir no iba a ir solo a una parcela a medianoche a ver a un hombre que reparte tarjetas en la acera. Danny fue porque se enteró. Héctor fue porque iba Danny.
 
-La tarjeta de la acera, pensó Chiara. Así que eso era.
+La tarjeta de la acera, pensó Chiara. Así que eso era: lo que no cabía en el contrato.
 
 —¿Y qué hacía Dario en una parcela a medianoche?
 
@@ -107,7 +110,7 @@ Chiara se tapó la boca con el dorso de la mano.
 
 No se lo tradujo, y él no preguntó. Siguió manejando con la cara de quien ya contó una historia dos veces y sabe dónde viene lo bueno.
 
-Tampoco le contó de la paja en la gorra de Danny, ni de quién había dado media vuelta a un corral a las cuatro de la mañana, con la boca abierta. Ni una palabra.
+Ella tampoco le contó de la paja en la gorra de Danny, ni de Danny dando media vuelta a un corral a las cuatro de la mañana, con la boca abierta. Ni una palabra.
 
 —Nadir no se rio. Hizo lo suyo, recibió el sobre, le dio las gracias, se subió y cerró la puerta. No dijo una palabra hasta la carretera. Y ya en la carretera dijo: «Batman.»
 
@@ -135,9 +138,9 @@ Kal recorrió el panel de un vistazo y descolgó una máscara negra, lisa, de pl
 
 —¿Y el malvavisco? —dijo Chiara.
 
-—Se quedó en el coche, en la guantera, donde siempre. —Kal le señaló el panel con la barbilla—. Hoy te toca escoger a ti.
+—Se quedó en el coche, debajo del asiento, donde siempre. —Kal le señaló el panel con la barbilla—. Hoy te toca escoger a ti.
 
-Chiara fue más despacio. Pasó la mano por una hilera de antifaces simples, de esos que se atan con un cordón y no cubren más que los ojos, y no se detuvo en ninguno. Siguió hasta una máscara negra de media cara, con el borde superior levantado en dos curvas suaves sobre las cejas y una línea limpia bajando por el pómulo. Versión de tienda —el plástico se notaba, la pintura tenía un brillo barato en los bordes—, pero tenía forma. Cubría lo que había que cubrir y, aun así, alguien la había diseñado para que se viera bien.
+Chiara fue más despacio. Pasó la mano por una hilera de antifaces simples, de esos que se atan con un cordón y no cubren más que los ojos, y no se detuvo en ninguno. Siguió hasta una máscara negra de media cara, con el borde superior levantado en dos curvas suaves sobre las cejas y una línea limpia bajando por el pómulo. Versión de tienda —el plástico se notaba, la pintura tenía un brillo barato en los bordes—, pero tenía forma. Cubría la cara y, aun así, alguien la había diseñado para que se viera bien.
 
 Se la probó frente al espejo. Ésa.
 
@@ -183,7 +186,7 @@ Lo miró. Él tenía la vista en la carretera y la cara de alguien que todavía 
 
 —No sé qué dijiste —dijo Kal—, pero es la segunda vez esta noche que lo dices con esa cara.
 
-—Sigue. Per favore. Sigue.
+—Sigue. *Per favore.* Sigue.
 
 —Garrett se aguantó hasta el estacionamiento. Se bajó los lentes con los dedos, que en él es gritar, y me dijo que la mujer me estaba coqueteando y yo le contesté como si me hubiera ofrecido una cerveza en horario de servicio.
 
@@ -203,7 +206,7 @@ Kingsley Field de noche era una reja de tela metálica que corría kilómetros j
 
 Iban a las afueras: las vías de servicio y los tramos perimetrales, la Carretera de Milla estirándose paralela a la reja hasta perderse. Más allá de los hangares, donde la autopista seguía hacia el noreste, corría otra cerca, más alta, con alambre arriba y una luz blanca y pareja que no era la de Kingsley. Un letrero verde: CAMP ALDER. Kal no giró la cabeza.
 
-Cuando Kal salió de la autopista y bajó por una rampa sin señalizar, Chiara empezó a ver los coches. Veinte, treinta, aparcados de cualquier modo sobre la grava, con los maleteros abiertos y los faros de algunos apuntando hacia la carretera para marcar dónde empezaba el asfalto que importaba.
+Cuando Kal salió de la autopista y bajó por una rampa sin señalizar, Chiara empezó a ver los coches. Treinta, cuarenta, estacionados de cualquier modo sobre la grava, con las cajuelas abiertas y los faros de algunos apuntando hacia la carretera para marcar dónde empezaba el asfalto que importaba.
 
 Se bajaron. El aire olía a combustible quemado y a hierba seca. Alguien aceleraba un motor a lo lejos sin ningún motivo salvo que lo oyeran. Había cajas de herramientas abiertas sobre los parachoques, billetes cambiando de mano sin que nadie explicara a cuenta de qué, grupos que se reconocían con un gesto de la barbilla y se separaban igual de rápido.
 
@@ -217,7 +220,7 @@ El de la sudadera resultó ser el que importaba. Llegó caminando, joven —de e
 
 —El Peugeot. —Después levantó la vista—. Pensé que este mes no venías, Mac.
 
-—Cambié de idea. Le puse balatas nuevas el jueves y había que probarlas en algún lado.
+—Cambié de idea, Tyler. Le puse balatas nuevas el jueves y había que probarlas en algún lado.
 
 Nadie ahí lo llamaba Kal. Chiara lo armó un segundo tarde: las iniciales al revés. Eme, ka. Mac.
 
@@ -235,7 +238,7 @@ Kal la miró un segundo de más. No dijo nada, pero algo en la comisura de la bo
 
 —¿A quién hay que cuidar? —preguntó Kal.
 
-—A los de O.R.T. —Tyler movió la barbilla hacia el Camaro sin voltear—. La Zen Devil, en el sesenta y siete. Ésa sí se acuerda del guardaganado.
+—A los de Old Road Town. —Tyler movió la barbilla hacia el Camaro sin voltear—. La Zen Devil, en el sesenta y siete. Ésa sí se acuerda del guardaganado.
 
 Chiara volvió a mirar la máscara blanca. Seguía en el mismo sitio, sin gesto, y durante un segundo le pareció que también ella los estaba mirando a ellos.
 
@@ -263,9 +266,9 @@ Chiara hizo, al principio, lo que hacía siempre: observar, anticipar, calcular.
 
 Lo había visto antes de que ella terminara la frase. El volante se movió un dedo, nada más, y el hueco contra la reja dejó de existir.
 
-Iban a ciento cuarenta. La reja pasaba por la ventanilla como un solo trazo continuo. Muy adelante, dos luces traseras se despegaban del resto sin un solo coletazo; al pasar bajo la única lámpara de la recta, Chiara alcanzó a ver una puerta de otro color.
+Iban a ciento cuarenta kilómetros por hora. La reja pasaba por la ventanilla como un solo trazo continuo. Muy adelante, dos luces traseras se despegaban del resto sin un solo coletazo; al pasar bajo la única lámpara de la recta, Chiara alcanzó a ver una puerta de otro color.
 
-Primero se le tensaron las manos sobre las rodillas. Después, cuando el tanque de agua se les vino encima demasiado rápido, se oyó decir su nombre —corto, seco, «Kal»— y el guardaganado nuevo pasó bajo el coche como un redoble y no como un choque, porque él ya sabía que estaba ahí. Después le dijo, en italiano, que esto era una locura, que rallentara, que nadie en su sano juicio tomaba una curva así.
+Primero se le tensaron las manos sobre las rodillas. Después, cuando el tanque de agua se les vino encima demasiado rápido, se oyó decir su nombre —corto, seco, «Kal»— y el guardaganado nuevo pasó bajo el coche como un redoble y no como un choque, porque él ya sabía que estaba ahí. Después le dijo, en italiano, que esto era una locura, que bajara la velocidad, que nadie en su sano juicio iba así.
 
 Kal no levantó el pie.
 
