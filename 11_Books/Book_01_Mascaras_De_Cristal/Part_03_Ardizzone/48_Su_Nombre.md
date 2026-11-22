@@ -1,4 +1,5 @@
 <!--
+**Cirugía de la lectura (2026-11-21, Claude Code; [[98_Agent_Handoff/sessions/2026-11-21_claude_cirugia_lectura_cap44]]):** Chiara tutea a Meiko («Tómalo igual») y Meiko le dice «señora»; fuera la pregunta que calcaba el 41 (Meiko lo dice sola: «De noche… corríamos aquí»); glosa del corredor de piezas recortada; por DECISIÓN DEL AUTOR, en el puente «Chiara lo vio mirar la placa y no hizo nada»; segundo lector: «Mabel llamó», los letreros ya encendidos, «—dijo Rafe», «De reojo». Sigue BORRADOR.
 Nuevo cauce (Fase 4, 2026-11-08, terminal B de [[98_Agent_Handoff/encargos/ENCARGO_Fase4_Parte_III_Cierre]]; verbo «Ajusta al cauce»): **nuevo Cap. 44**. Versión anterior íntegra: [[11_Books/Book_01_Mascaras_De_Cristal/Escenas_Eliminadas/48_Su_Nombre_Version_2026-11-08]]. Sesión: [[98_Agent_Handoff/sessions/2026-11-08_claude_fase4_cap44_su_nombre]].
 Ajuste DISEÑO (único en prosa): «el corredor de piezas del norte que había inventado» → «que había hecho sonar», porque el nuevo 13 (archivo 12) dice «Eso es verdad; no lo inventé». Comprobaciones de cauce sin cambios: Halbrook, el expediente, Varek, Il Consorzio, Matteo y Vento no aparecen; Meiko sigue muda (su contacto es Tommaso, no se adelanta F2); la señal del Tasador («El gordo de la Almendra anda tasando el sur desde antes de Navidad») se queda: tras perder el lote en el 39, Crowe sale a tasar el sur, y Rafe conserva su motivo propio (el Peugeot; guarda 3).
 Numeración: las líneas Estado y Función ya van en la de 47 caps.; en las notas fechadas, «el 47» es hoy el 43, «el Cap. 50» es el 46 y «el Cap. 13» es el nuevo 13 (archivo 12, *Roma Atrii* con *Auster*).
@@ -68,7 +69,7 @@ Chiara asintió. Mabel se le quedó viendo un momento más. Luego tomó una band
 
 ***
 
-Llamó a las siete. Chiara estaba en su despacho del Monarch, con la hoja de turnos de seguridad todavía sin firmar.
+Mabel llamó a las siete. Chiara estaba en su despacho del Monarch, con la hoja de turnos de seguridad todavía sin firmar.
 
 —Mañana en la noche. A las nueve, después de la última misa. En La Golondrina, frente a la parroquia. —Se oía la cafetera detrás, el chorro de vapor—. Que vayas tú. No tu gente. No un recadero. Tú. Y que no llegues en ese coche tuyo hasta la puerta, porque en Santa Brígida todo el mundo sabe de quién es cada coche.
 
@@ -78,7 +79,7 @@ Llamó a las siete. Chiara estaba en su despacho del Monarch, con la hoja de tur
 
 Colgó.
 
-Chiara dejó el teléfono sobre la hoja de turnos. Afuera de la ventana, el centro empezaba a encender sus letreros: el del hotel de enfrente, el de una joyería que nunca tenía clientes, el del propio Monarch, que desde ahí no se veía pero se notaba en el color de la calle.
+Chiara dejó el teléfono sobre la hoja de turnos. Afuera de la ventana, el centro tenía encendidos sus letreros: el del hotel de enfrente, el de una joyería que nunca tenía clientes, el del propio Monarch, que desde ahí no se veía pero se notaba en el color de la calle.
 
 Pensó en Kenji. En los tres pisos de gente entre ella y cualquier cosa que no quisiera tocar. En el mensajero menor al que le había dado un papel doblado en dos, hacía meses, para no tener que llevarlo ella.
 
@@ -132,9 +133,9 @@ Delante había un puente viejo, de concreto, angosto, con barandales bajos manch
 
 —Aquí todos frenan —dijo Meiko—. Los camiones de la cementera, las patrullas, los de la base. No caben dos. El que llega primero pasa y el otro espera.
 
-—¿Eso de dónde lo sabe usted?
+Chiara la miró.
 
-—Corríamos aquí. De noche, cuando no había trenes. —Se encogió de hombros—. El que frenaba menos en el puente ganaba.
+—De noche, cuando no había trenes, corríamos aquí —dijo Meiko—. El que frenaba menos en el puente ganaba.
 
 Chiara bajó del coche. El aire olía a polvo de cemento y a sorgo seco. Caminó hasta el barandal y se asomó. La vía estaba lejos, más de lo que parecía desde el coche.
 
@@ -146,7 +147,7 @@ Chiara no se volvió.
 
 —Alguien.
 
-Meiko no insistió. Una camioneta de la cementera apareció del otro lado del puente, frenó, esperó a que nadie viniera y cruzó despacio, levantando polvo. El chofer las miró al pasar, a las dos y al Lancia, y siguió.
+Meiko no insistió. Una camioneta de la cementera apareció del otro lado del puente, frenó, esperó a que nadie viniera y cruzó despacio, levantando polvo. El chofer las miró al pasar, a las dos y al Lancia, y siguió. Chiara lo vio mirar la placa y no hizo nada.
 
 ***
 
@@ -218,7 +219,7 @@ Rafe esperó más. No hubo más.
 
 Chiara asintió.
 
-—Maribel.
+—Maribel —dijo Rafe.
 
 La mujer de la libreta escribió otra línea.
 
@@ -248,13 +249,13 @@ Chiara se tocó el anular izquierdo. Fue un segundo. Luego bajó la mano al vaso
 
 En el patio, el muchacho cambió la bolsa de hielo de mano. Se oyó el crujido del hielo, y el muchacho dijo algo entre dientes, y nadie le contestó.
 
-Chiara pensó en el corredor de piezas del norte que había hecho sonar una tarde, con tres conversaciones que no eran suyas, para que nadie mirara ni a Kal ni a este hombre, y en lo que había sentido entonces por un tal Rafe Domínguez a quien no conocía, a quien no le iba a deber nunca nada.
+Chiara pensó en el corredor de piezas del norte que había hecho sonar una tarde, con tres conversaciones que no eran suyas, para que nadie mirara ni a Kal ni a este hombre.
 
 Miró a Maribel. Maribel tenía la pluma levantada sobre la libreta.
 
 —Chiara Bellandi.
 
-Maribel escribió. Chiara oyó la pluma sobre el papel: dos palabras, letra apretada. Desde la puerta, Meiko miró la libreta.
+Maribel escribió. Chiara oyó la pluma sobre el papel: dos palabras, letra apretada. De reojo, Chiara vio que Meiko, desde la puerta, miraba la libreta.
 
 —¿Nada más? —preguntó Rafe.
 
@@ -288,11 +289,11 @@ Meiko lo miró.
 
 —No es por dinero —dijo.
 
-—Tómelo igual.
+—Tómalo igual.
 
 Meiko no lo tomó. Abrió la puerta y bajó. Se inclinó un momento sobre la ventanilla abierta, con el antebrazo apoyado en el techo del Lancia.
 
-—El martes, ¿usted dónde va a estar?
+—El martes, ¿usted dónde va a estar, señora?
 
 —Esperando a Mabel.
 
