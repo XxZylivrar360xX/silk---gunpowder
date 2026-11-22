@@ -46,6 +46,7 @@ No inflar: el arreglo prefiere fundir y sustituir antes que alargar. La extensio
 - Cap. 11 (archivo `09_La_Balanza`) sobre la vara (35 %): excepcion aprobada por el autor el 2026-11-21 (la llamada, la bodega y Crowe en la grava).
 - Cap. 17 (archivo `18_El_Dia_Nublado`) sobre la vara (34 %): excepcion aprobada por el autor el 2026-11-21 (H4: el nueve por ciento, Enzo, la boutique, la boina, el bate y el juego de preguntas, restituidos literales).
 - Cap. 18 (archivo `20_El_Mirador`) sobre la vara (32 %): excepcion aprobada por el autor el 2026-11-21 (H11: el drift, el mirador, la regla de lo pequeño y el cafe del norte, restituidos literales; antes de los barridos estaba en 40 %).
+- Cap. 19 (archivo `21b_Grazie`) sobre la vara (26 %): excepcion aprobada por el autor el 2026-11-21 (H13: «—Lo recuerdo.» restituido en el encuentro con Valenti).
 
 ## Relacion con otras reglas
 

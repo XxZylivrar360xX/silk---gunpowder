@@ -5,11 +5,11 @@ DISEÑO del agente en la reconstrucción (espera lectura): (1) Valenti abre el d
 Costura de apertura PROVISIONAL: depende del nuevo 18 (fusión de *Lo pequeño* y *El primer huésped*, archivos 20 y 21): las cosas pequeñas (manzana de plástico, Marisol dormida en el sofá, la mano en la barandilla del mezzanine, el beso en la frente) y los mensajes «Marisol devolvió el Audi» / «Lavado». **Costura revisada (2026-11-08):** el nuevo 18 ya está redactado ([[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/00_Plan_Cap18_Lo_Pequeno_POV_Kal]]); las cosas pequeñas se sostienen, y la manzana pasa de «subido de lugar» a «pegado… a la altura de los ojos», porque ahora Chiara la pega por primera vez esa madrugada.
 Costura de cierre PROVISIONAL: el Cap. 20 (*Algo más que dinero*, archivo 22a) debe cobrar la siembra de las rutas (Chiara protege primero lo de Italia y después el casino).
 Renumerado 2026-11-01 (decisión del autor, carretera del Libro I): antes Cap. 25.
-Estado: BORRADOR (reconstruido 2026-11-07, nuevo cauce; ver arriba) — redactado 2026-11-01, Claude Code (Claude Opus 5.5), encargo del autor («vamos con H13 del nuevo capítulo de cierre de la Parte I»). Nunca TERMINADO sin el autor.
+Estado: BORRADOR (reconstruido 2026-11-07, nuevo cauce; ver arriba). Cirugía de la lectura (2026-11-21; BORRADOR, espera lectura del autor): [[98_Agent_Handoff/sessions/2026-11-21_claude_cirugia_lectura_cap19]]: la casa es de principios de siglo (Valenti dice 1911); el coche no la deja donde la recogió, sino frente a Santa Lucía; «ninguna parecía apagada»; DECISIÓN DEL AUTOR: vuelve «—Lo recuerdo.» (fuera la calle 57 y el Lincoln Center del barrido) y sale «Me pidieron que se las dijera tal cual» — redactado 2026-11-01, Claude Code (Claude Opus 5.5), encargo del autor («vamos con H13 del nuevo capítulo de cierre de la Parte I»). Nunca TERMINADO sin el autor.
 Posición: capítulo propio después del Cap. 25 *El primer huésped* (archivo 21); cierra la Parte I (*Dos mundos*). Numeración de 60 congelada hasta armar la carretera: sin número propio por ahora (archivo 21b); el encabezado dice «Capítulo 25» sólo porque el audiolibro exige número: se corrige al renumerar. Título «Grazie»: DISEÑO, provisional.
 Hito: [[06_Relationships/Hitos#H13 — El pañuelo]] (supersesión CANON DEL AUTOR 2026-10-31). Plan: [[11_Books/Book_01_Mascaras_De_Cristal/Part_01_Dos_Mundos/00_Plan_Rediseno_Parte_I]] §Cierre de la Parte I.
 Ventana temporal (DISEÑO): una noche entre semana de julio A2, días después del sábado del 25. Sin fecha exacta en prosa.
-Lugares: Iglesia Santa Lucía (capilla lateral de veladoras); Plaza Corona; Cuesta Bonita (una casa de los años veinte; DISEÑO, sin ficha).
+Lugares: Iglesia Santa Lucía (capilla lateral de veladoras); Plaza Corona; Cuesta Bonita (una casa de 1911; DISEÑO, sin ficha).
 Punto de vista: Chiara, fijo.
 Personajes con diálogo: Chiara Bellandi, Leone Valenti (Il Consigliere), el hombre del coche (sin nombre).
 
@@ -96,7 +96,7 @@ Al otro lado de la plaza el coche tomó la avenida que subía al noreste y empez
 
 El coche entró por un portón que ya estaba abierto y se detuvo sobre grava.
 
-La casa era de piedra y madera oscura, de los años veinte, de las primeras que el dinero de los aserraderos había levantado en esa colina, cuando todavía se construía para que los nietos vieran los árboles crecer. Tenía las ventanas encendidas a media luz y un jardín cortado con tijera, no con máquina. No tenía placa ni nombre en el portón. Era la clase de casa que alguien mantiene lista todo el año para gente que llega dos veces.
+La casa era de piedra y madera oscura, de principios de siglo, de las primeras que el dinero de los aserraderos había levantado en esa colina, cuando todavía se construía para que los nietos vieran los árboles crecer. Tenía las ventanas encendidas a media luz y un jardín cortado con tijera, no con máquina. No tenía placa ni nombre en el portón. Era la clase de casa que alguien mantiene lista todo el año para gente que llega dos veces.
 
 El hombre del traje le abrió la puerta del coche, después la de la casa, y se quedó afuera.
 
@@ -120,7 +120,7 @@ Era bueno. Chiara no lo dijo.
 
 —La casa la levantó una familia de madereros en mil novecientos once. Trajeron a un arquitecto de Boston que quería hacer una casa inglesa. No le salió. Le salió esto, que es mejor. —Se sentó en el otro sillón y cruzó una pierna—. En Nueva York le hablé de un edificio que nacía viejo por copiar demasiado. Éste es el caso contrario.
 
-—Lo recuerdo. El de la calle 57. Y un cuarteto en el Lincoln Center, esa misma semana.
+—Lo recuerdo.
 
 —Me alegra. Usted escucha.
 
@@ -188,7 +188,7 @@ El cuarteto seguía en el movimiento lento. Valenti la dejó mirar la bala todo 
 
 Cerró la libreta.
 
-—Son las palabras de la Mesa —dijo, otra vez en italiano—. No las mías. Me pidieron que se las dijera tal cual.
+—Son las palabras de la Mesa —dijo, otra vez en italiano—. No las mías.
 
 El pulgar de Chiara había ido solo a la base del anular izquierdo, donde ya no había nada. Lo detuvo ahí. Lo devolvió al borde de la copa.
 
@@ -222,7 +222,7 @@ Pasada la plaza se dio cuenta de que estaba haciendo la cuenta. No la decidió; 
 
 Al final de la cuenta había un nombre. No lo puso en ningún lugar de la lista. Lo dejó afuera.
 
-El coche se detuvo frente a Santa Lucía, en el mismo lugar donde la había recogido. El hombre bajó, le abrió la puerta y se quedó junto a ella sin ofrecerle la mano.
+El coche no la dejó en la esquina donde la había recogido. Se detuvo frente a Santa Lucía. El hombre bajó, le abrió la puerta y se quedó junto a ella sin ofrecerle la mano.
 
 Esperó a que ella pisara la acera. Después volvió a su asiento y el sedán se fue calle arriba, a la velocidad de una persona que camina.
 
@@ -240,4 +240,4 @@ Y debajo, un minuto después:
 
 Se quedó mirando la palabra. Escribió *Tuve que ver a* y se detuvo en la última letra. La borró, y después borró las otras, una por una, hasta que el cursor volvió a parpadear solo. Escribió *Voy para allá*, lo mandó y guardó el teléfono.
 
-En la capilla lateral, detrás del vidrio de la ventana, todavía temblaban las velas que la gente había pagado. Desde la acera no se distinguía cuál era la suya, pero ninguna se había apagado.
+En la capilla lateral, detrás del vidrio de la ventana, todavía temblaban las velas que la gente había pagado. Desde la acera no se distinguía cuál era la suya, pero ninguna parecía apagada.
