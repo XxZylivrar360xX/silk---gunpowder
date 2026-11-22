@@ -114,7 +114,7 @@ Plan de trabajo, en marcha desde el 2026-11-21 (DECISIÓN DEL AUTOR sobre el mé
 | 38 | Nada | `42_Nada` | camioneta al depósito municipal (decisión del autor) | hecho, BORRADOR (en paralelo con la Parte II) | ver git log |
 | 39 | Expediente sellado | `43_La_Puerta` | Peugeot → Audi la noche de la incursión | hecho, BORRADOR (en paralelo con la Parte II) | ver git log |
 | 40 | No puedo sacarlo | `44_Jurisdiccion` | usted Chiara–Héctor; «Entramos cuatro… Salimos tres» | hecho, BORRADOR (en paralelo con la Parte II) | ver git log |
-| 41 | Ropa limpia | `45_Ropa_Limpia` | luz; tú Chiara→Meiko | pendiente | |
+| 41 | Ropa limpia | `45_Ropa_Limpia` | luz; tú Chiara→Meiko | hecho, BORRADOR (en paralelo con la Parte II) | ver git log |
 | 42 | Navajas y tinta | `46_Llaves` | luz; Nadir de tú (ficha) | pendiente | |
 | 43 | Una cuenta abierta | `47_Intereses` |  | pendiente | |
 | 44 | Su nombre | `48_Su_Nombre` | usted Meiko→Chiara | pendiente | |

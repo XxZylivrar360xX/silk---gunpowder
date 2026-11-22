@@ -1,4 +1,5 @@
 <!--
+**Cirugía de la lectura (2026-11-21, Claude Code; [[98_Agent_Handoff/sessions/2026-11-21_claude_cirugia_lectura_cap41]]):** luz de invierno (se conservan las horas; a las 5:45 todavía es de noche: el cielo negro, las luces altas, la pista de Kingsley); «Entonces me voy» sin la explicación, con un beat de la ruleta; fuera la recapitulación de Bonnie; segundo lector: Rosaura no es una de las tres, el letrero y los camiones del Cutoff, «La otra noche», Meiko no va al viaje, «Él tenía una etiqueta», «la del hospital», «el día 19» y fuera «Lo dijo sin enojo…». Chiara tutea a Meiko y Meiko le habla de usted. Sigue BORRADOR.
 Lectura del autor de la Parte III (2026-11-08, [[98_Agent_Handoff/sessions/2026-11-08_claude_lectura_parte_iii]]; prosa DISEÑO, espera lectura): fuera la frase que repetía a Rosaura («Sabía que antenoche y anoche se había quitado la ropa…»); queda la lista de lo que Chiara no sabe y «Estaba vivo».
 AJUSTE AL CAUCE (Fase 4, 2026-11-08, terminal A; [[98_Agent_Handoff/encargos/ENCARGO_Fase4_Parte_III_Cierre]]): nuevo Cap. 41, POV Chiara, verbo «Ajusta al cauce». Versión anterior íntegra: [[11_Books/Book_01_Mascaras_De_Cristal/Escenas_Eliminadas/45_Ropa_Limpia_Version_2026-11-08]]. Nota: [[98_Agent_Handoff/sessions/2026-11-08_claude_fase4_cap41_ropa_limpia]].
 Decisiones del autor (2026-11-08): (1) poda media (hecha con editorial-surgery: −183 de cortes y +30 del eco; 4,492 → 4,339 de prosa. No llega a ~3,950 sin tocar geografía protegida ni beats con carga: los candidatos que quedan están en la nota); (2) una línea de eco con el plato de Acción de Gracias del nuevo 35 («La última comida de Mabel le había llegado en papel aluminio, de manos de Kal…»); (3) el hueco de la etiqueta (Kal entra el 19 y la etiqueta MERCER aparece hasta las noches del 27 y el 28) se queda mudo, sin explicarse, hasta *Voto de Ceniza*; (4) Vento no entra.
@@ -117,7 +118,7 @@ Mabel siguió cortando. La rebanada cayó sobre la anterior, igual de delgada.
 
 El cuchillo se detuvo sobre la tabla. Mabel no lo soltó; se quedó con él en la mano y con la otra apoyada en el jamón, y por un momento la única cosa que se movía detrás del mostrador fue el vapor de la cafetera.
 
-—Lavanderías del Norte —dijo—. La de la tapia azul. Ahí plancha mi comadre desde que cerraron la de hospital donde planchó veinte años. —Mabel dejó el cuchillo—. Rosaura Quintero. Trabaja de noche. Sale a las cinco y media y llega aquí a las seis y media por un café, cuando no está muy cansada. Hoy no vino.
+—Lavanderías del Norte —dijo—. La de la tapia azul. Ahí plancha mi comadre desde que cerraron la del hospital donde planchó veinte años. —Mabel dejó el cuchillo—. Rosaura Quintero. Trabaja de noche. Sale a las cinco y media y llega aquí a las seis y media por un café, cuando no está muy cansada. Hoy no vino.
 
 —¿Usted podría hablarle?
 
@@ -129,7 +130,7 @@ Mabel se limpió las manos en el delantal, despacio, y miró hacia la puerta, au
 
 —Eso no lo decides tú.
 
-Lo dijo sin enojo, igual que decía el precio del pan. Uno de los del overol pidió más café y Mabel fue a servírselo, le cobró, le dio el cambio, le preguntó por la hija. Cuando volvió, traía una bolsa de papel de estraza doblada en la boca.
+Uno de los del overol pidió más café y Mabel fue a servírselo, le cobró, le dio el cambio, le preguntó por la hija. Cuando volvió, traía una bolsa de papel de estraza doblada en la boca.
 
 La puso junto a la taza de Chiara.
 
@@ -181,7 +182,7 @@ Chiara se detuvo. No se dio vuelta del todo; giró la cabeza lo justo para verlo
 
 El muchacho dudó.
 
-—La otra tarde, antes de que yo entrara. Mi compañero del turno de día me lo comentó. El señor Mercer subió, como siempre, sin anunciarse, porque a él ya no se le anuncia. Y bajó a los cinco minutos. —Se aclaró la garganta—. Seguridad dice que no llegó a tocar. Como usted no llamó para nada, pensamos que ya lo sabía.
+—La otra noche, antes de que yo entrara. Mi compañero del turno de día me lo comentó. El señor Mercer subió, como siempre, sin anunciarse, porque a él ya no se le anuncia. Y bajó a los cinco minutos. —Se aclaró la garganta—. Seguridad dice que no llegó a tocar. Como usted no llamó para nada, pensamos que ya lo sabía.
 
 —¿Qué tarde, y a qué hora?
 
@@ -267,7 +268,7 @@ Meiko asintió una vez. No se sentó. Caminó hasta el ventanal que daba al piso
 
 Bonnie sí se sentó, en la silla frente al escritorio, la que había sido de los visitantes de Matteo. Tenía ojeras y el pelo recogido de prisa, y no había preguntado nada por teléfono: Chiara le había dicho *te necesito esta noche* y Bonnie había dicho *voy*.
 
-—La última vez me dijo que se me había acabado la parte —dijo Bonnie—. Que gracias y hasta ahí. Me fui, no le llamé a nadie y no pregunté nada. Sólo para que conste.
+—La última vez me dijo que se me había acabado la parte —dijo Bonnie—. Sólo para que conste.
 
 Chiara no lo discutió. Tampoco le explicó por qué la había llamado.
 
@@ -279,7 +280,7 @@ Chiara no contestó a eso. Le explicó lo de la lavandería, y cuando terminó, 
 
 —¿Mei?
 
-—El turno de noche sale a las cinco y media, pero los camiones de la base salen antes —dijo Meiko, sin voltear—. Como a las cinco, llenos. Regresan a las siete con lo sucio. La cámara del lote apunta a los andenes de carga, no a la calle. Del lado del Cutoff hay una tapia baja donde fuman los del turno, y ahí no hay luz. Si se estacionan ahí antes de que salgan los camiones, los choferes no las ven: van mirando la carretera. Y si se van antes de las siete, no las ven regresar.
+—El turno de noche sale a las cinco y media, pero los camiones de la base salen antes —dijo Meiko, sin voltear—. Como a las cinco, llenos. Regresan a las siete con lo sucio. La cámara del lote apunta a los andenes de carga, no a la calle. Del lado del Cutoff hay una tapia baja donde fuman los del turno, y ahí no hay luz. Si se estacionan ahí antes de que salgan los camiones, los choferes no las ven: van mirando la carretera. Y si se van antes de las siete, al regresar no las ven.
 
 —¿Cómo sabes todo eso? —preguntó Chiara.
 
@@ -287,9 +288,9 @@ Chiara no contestó a eso. Le explicó lo de la lavandería, y cuando terminó, 
 
 —Vamos en mi coche —dijo Bonnie—. Nadie en Kingsley voltea a ver mi coche.
 
-—¿Y si la mujer no quiere hablar cuando nos vea? —preguntó Meiko.
+—¿Y si la mujer no quiere hablar cuando las vea? —preguntó Meiko.
 
-—Entonces me voy —dijo Chiara—. No voy a obligar a nadie a hablar en el estacionamiento de su trabajo, con sus compañeros fumando en la tapia. Si no quiere, me subo al coche y ella nunca me vio.
+—Entonces me voy —dijo Chiara. Del otro lado del cristal, abajo, el crupier de la ruleta barrió las fichas de una mesa que esta vez nadie aplaudió.
 
 Meiko se dio vuelta entonces. Miró a Chiara desde el ventanal, con la luz del piso de juego subiéndole por detrás, y ladeó un poco la cabeza.
 
@@ -299,7 +300,7 @@ Meiko se dio vuelta entonces. Miró a Chiara desde el ventanal, con la luz del p
 
 Meiko no retiró la pregunta. Tampoco insistió. Esperó.
 
-Chiara tenía una pluma en la mano. La dejó sobre el escritorio, alineada con el borde de la hoja fotocopiada que seguía ahí boca abajo desde el domingo de la semana anterior, con el sello y las dos palabras.
+Chiara tenía una pluma en la mano. La dejó sobre el escritorio, alineada con el borde de la hoja fotocopiada que seguía ahí boca abajo desde el día 19, con el sello y las dos palabras.
 
 —A las cuatro, Bonnie —dijo—. Aquí abajo, en la salida de carga.
 
@@ -321,11 +322,11 @@ Bonnie pasó de largo, dio vuelta en un retorno, regresó con las luces apagadas
 
 Eran las cuatro y cincuenta.
 
-A las cuatro y cincuenta y cinco, los camiones salieron. Chiara los vio pasar uno detrás de otro por el espejo lateral, tres, cuatro, cinco, hacia el noreste, hacia el letrero verde. Contó las luces traseras hasta que la carretera se las tragó.
+A las cuatro y cincuenta y cinco, los camiones salieron. Chiara los vio pasar uno detrás de otro por el espejo lateral, tres, cuatro, cinco, hacia el noreste, hacia la base. Contó las luces traseras hasta que la carretera se las tragó.
 
 A las cinco y treinta y cinco se abrió una puerta lateral de la nave y salieron mujeres. Algunas con suéter encima del uniforme celeste, otras con bolsa de mandado, casi todas con el pelo recogido bajo una red que se iban quitando mientras caminaban. Se oyeron voces, una risa, un encendedor. Tres fueron hacia la tapia baja.
 
-Una de ellas se quedó sola en la esquina, un poco aparte, y encendió un cigarro sin mirar el coche.
+Otra se quedó sola en la esquina, un poco aparte, y encendió un cigarro sin mirar el coche.
 
 Chiara bajó.
 
@@ -363,7 +364,7 @@ Chiara la miró.
 
 —Los del calabozo mandan todo hecho bola, con perdón. Lo meten a la bolsa como sale. —Rosaura tiró la ceniza con un golpecito del pulgar—. Ésa viene doblada. En cuadro, la camisa y el pantalón, como las sábanas del hospital. Antenoche y anoche. Mis compañeras dicen que es militar. Yo digo que alguien le enseñó.
 
-Chiara no dijo nada. Miró el vapor de las chimeneas, que se estaba poniendo gris contra el cielo que empezaba a aclarar detrás de la nave, y esperó a que se le pasara.
+Chiara no dijo nada. Miró el vapor de las chimeneas, blanco contra el cielo todavía negro detrás de la nave, y esperó a que se le pasara.
 
 Rosaura esperó también. Terminó el cigarro sin apuro y lo aplastó contra la tapia.
 
@@ -389,9 +390,9 @@ Se dio la vuelta y caminó hacia la parada del autobús, del otro lado del Cutof
 
 Chiara volvió al Civic y cerró la puerta. Bonnie no encendió el motor.
 
-Del otro lado del parabrisas, la nave de la lavandería seguía sacando vapor. Las mujeres de la tapia se habían ido. Una camioneta del turno de día entró al estacionamiento con las luces todavía prendidas, aunque ya no hacían falta. Al fondo del Cutoff, donde la carretera se perdía hacia el noreste, no había nada que ver: un poste, otro poste, el letrero verde de espaldas.
+Del otro lado del parabrisas, la nave de la lavandería seguía sacando vapor. Las mujeres de la tapia se habían ido. Una camioneta del turno de día entró al estacionamiento con las luces altas. Al fondo del Cutoff, hacia la ciudad, no había nada que ver: un poste, otro poste, el letrero verde de espaldas.
 
-Tenía una etiqueta de plástico con su apellido y una camisa doblada en cuadro. No sabía si comía. No sabía si alguien le había puesto las manos encima, ni si sabía que ella lo estaba buscando, ni si quería que lo buscara.
+Él tenía una etiqueta de plástico con su apellido y una camisa doblada en cuadro. No sabía si comía. No sabía si alguien le había puesto las manos encima, ni si sabía que ella lo estaba buscando, ni si quería que lo buscara.
 
 Estaba vivo.
 
@@ -403,4 +404,4 @@ Chiara miró el letrero. Bonnie no repitió la pregunta. Esperó un momento con 
 
 —Al Monarch.
 
-Bonnie dio vuelta en el retorno y tomó el Cutoff hacia la ciudad, con Kingsley a la izquierda y el día entrando de lado por la ventanilla.
+Bonnie arrancó y tomó el Cutoff hacia la ciudad, con Kingsley a la izquierda y las luces azules de la pista corriendo de lado por la ventanilla.
